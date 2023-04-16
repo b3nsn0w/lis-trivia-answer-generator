@@ -12,7 +12,7 @@ D. Episode Three
 Answer: D
 related: [maxine_caulfield_gallery-1173](../wiki-pages-chunks/maxine_caulfield_gallery-1173.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -29,7 +29,7 @@ Answer: A
 related: [maxine_caulfield_gallery-1173](../wiki-pages-chunks/maxine_caulfield_gallery-1173.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-d1d91aa1-2403
@@ -44,7 +44,7 @@ D. Four Lions
 Answer: B
 related: [maxine_caulfield_gallery-1173](../wiki-pages-chunks/maxine_caulfield_gallery-1173.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -60,7 +60,7 @@ D. Episode 5
 Answer: D
 related: [maxine_caulfield_gallery-1327](../wiki-pages-chunks/maxine_caulfield_gallery-1327.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -77,7 +77,7 @@ Answer: A
 related: [maxine_caulfield_gallery-1327](../wiki-pages-chunks/maxine_caulfield_gallery-1327.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-9dd9e4fa-2406
@@ -93,7 +93,7 @@ Answer: A
 related: [maxine_caulfield_gallery-1327](../wiki-pages-chunks/maxine_caulfield_gallery-1327.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-6809a045-2407
@@ -109,7 +109,7 @@ Answer: B
 related: [maxine_caulfield_gallery-1327](../wiki-pages-chunks/maxine_caulfield_gallery-1327.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-b7aaee84-2408
@@ -125,7 +125,7 @@ Answer: A
 related: [maxine_caulfield_gallery-1327](../wiki-pages-chunks/maxine_caulfield_gallery-1327.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-a3b894f7-2409
@@ -140,7 +140,7 @@ D. The Prescott Barn
 Answer: B
 related: [maxine_caulfield_gallery-1395](../wiki-pages-chunks/maxine_caulfield_gallery-1395.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -156,7 +156,7 @@ D. Prescott Gallery
 Answer: B
 related: [maxine_caulfield_gallery-1395](../wiki-pages-chunks/maxine_caulfield_gallery-1395.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -173,7 +173,7 @@ Answer: B
 related: [maxine_caulfield_gallery-1395](../wiki-pages-chunks/maxine_caulfield_gallery-1395.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-aa6a85a2-2412
@@ -189,7 +189,7 @@ Answer: C
 related: [maxine_caulfield_gallery-1395](../wiki-pages-chunks/maxine_caulfield_gallery-1395.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-99e37a31-2413
@@ -204,7 +204,7 @@ D. Kate Marsh
 Answer: D
 related: [maxine_caulfield_gallery-1536](../wiki-pages-chunks/maxine_caulfield_gallery-1536.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -221,7 +221,7 @@ Answer: C
 related: [maxine_caulfield_gallery-1536](../wiki-pages-chunks/maxine_caulfield_gallery-1536.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-15079bb5-2415
@@ -236,7 +236,7 @@ D. Alyssa Anderson
 Answer: D
 related: [maxine_caulfield_gallery-1536](../wiki-pages-chunks/maxine_caulfield_gallery-1536.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -253,7 +253,7 @@ Answer: D
 related: [maxine_caulfield_gallery-1536](../wiki-pages-chunks/maxine_caulfield_gallery-1536.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-eec4a78d-2417
@@ -269,7 +269,7 @@ Answer: C
 related: [maxine_caulfield_gallery-551](../wiki-pages-chunks/maxine_caulfield_gallery-551.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-cb52ca31-2418
@@ -284,8 +284,8 @@ D. Rachel Amber
 Answer: B
 related: [maxine_caulfield_gallery-551](../wiki-pages-chunks/maxine_caulfield_gallery-551.txt)
 
-- [ ] Keep
-- [ ] Delete
+- [x] Keep
+- [x] Delete
 - [ ] Edit
 
 ### wiki-a5295b00-2419
@@ -301,7 +301,7 @@ Answer: A
 related: [maxine_caulfield_gallery-551](../wiki-pages-chunks/maxine_caulfield_gallery-551.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-3b84f8ab-2420
@@ -317,7 +317,7 @@ Answer: D
 related: [maxine_caulfield_gallery-551](../wiki-pages-chunks/maxine_caulfield_gallery-551.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-5b9f758a-2421
@@ -333,7 +333,7 @@ Answer: D
 related: [maxine_caulfield_gallery-551](../wiki-pages-chunks/maxine_caulfield_gallery-551.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-0be35ad7-2422
@@ -348,7 +348,7 @@ D. The Matrix
 Answer: A
 related: [maxine_caulfield_gallery-960](../wiki-pages-chunks/maxine_caulfield_gallery-960.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -365,7 +365,7 @@ Answer: B
 related: [maxine_caulfield_gallery-960](../wiki-pages-chunks/maxine_caulfield_gallery-960.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-abc4e714-2424
@@ -380,7 +380,7 @@ D. Prescott Barn
 Answer: C
 related: [maxine_caulfield_gallery-960](../wiki-pages-chunks/maxine_caulfield_gallery-960.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -397,7 +397,7 @@ Answer: A
 related: [maxine_caulfield_gallery-960](../wiki-pages-chunks/maxine_caulfield_gallery-960.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-5154df75-2426
@@ -412,7 +412,7 @@ D. That Max Is Saving Herself For Him
 Answer: B
 related: [max_and_chloe-1061](../wiki-pages-chunks/max_and_chloe-1061.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -428,7 +428,7 @@ D. A Key To The Garage
 Answer: A
 related: [max_and_chloe-1061](../wiki-pages-chunks/max_and_chloe-1061.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -444,7 +444,7 @@ D. Evidence That Jefferson Was Involved In Rachel's Disappearance
 Answer: B
 related: [max_and_chloe-1061](../wiki-pages-chunks/max_and_chloe-1061.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -460,7 +460,7 @@ D. Her Ability To Jump Back In Time Through Photos
 Answer: D
 related: [max_and_chloe-1061](../wiki-pages-chunks/max_and_chloe-1061.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -476,7 +476,7 @@ D. She Becomes A Successful Businesswoman
 Answer: A
 related: [max_and_chloe-1061](../wiki-pages-chunks/max_and_chloe-1061.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -493,7 +493,7 @@ Answer: A
 related: [max_and_chloe-1099](../wiki-pages-chunks/max_and_chloe-1099.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-6ecad0ab-2432
@@ -508,7 +508,7 @@ D. Chloe's House
 Answer: B
 related: [max_and_chloe-1099](../wiki-pages-chunks/max_and_chloe-1099.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -524,7 +524,7 @@ D. A Necklace
 Answer: A
 related: [max_and_chloe-1099](../wiki-pages-chunks/max_and_chloe-1099.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -540,7 +540,7 @@ D. A Hammer
 Answer: C
 related: [max_and_chloe-1099](../wiki-pages-chunks/max_and_chloe-1099.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -557,7 +557,7 @@ Answer: B
 related: [max_and_chloe-1099](../wiki-pages-chunks/max_and_chloe-1099.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-0f658f36-2436
@@ -572,7 +572,7 @@ D. A Collection Of Old Phones
 Answer: B
 related: [max_and_chloe-1157](../wiki-pages-chunks/max_and_chloe-1157.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -588,7 +588,7 @@ D. A Phone
 Answer: B
 related: [max_and_chloe-1157](../wiki-pages-chunks/max_and_chloe-1157.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -604,7 +604,7 @@ D. Taking Drugs
 Answer: D
 related: [max_and_chloe-1157](../wiki-pages-chunks/max_and_chloe-1157.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -620,7 +620,7 @@ D. He Tried To Kill Her
 Answer: A
 related: [max_and_chloe-1157](../wiki-pages-chunks/max_and_chloe-1157.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -636,7 +636,7 @@ D. Take Photos
 Answer: C
 related: [max_and_chloe-1157](../wiki-pages-chunks/max_and_chloe-1157.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -652,7 +652,7 @@ D. By Rewinding Through A Selfie
 Answer: D
 related: [max_and_chloe-1195](../wiki-pages-chunks/max_and_chloe-1195.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -668,7 +668,7 @@ D. She Is Killed By The Tornado
 Answer: D
 related: [max_and_chloe-1195](../wiki-pages-chunks/max_and_chloe-1195.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -685,7 +685,7 @@ Answer: B
 related: [max_and_chloe-1195](../wiki-pages-chunks/max_and_chloe-1195.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-3b1c6146-2444
@@ -700,7 +700,7 @@ D. A Photograph Of The Blue Butterfly
 Answer: D
 related: [max_and_chloe-1195](../wiki-pages-chunks/max_and_chloe-1195.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -716,7 +716,7 @@ D. Mittens
 Answer: A
 related: [max_and_chloe-1226](../wiki-pages-chunks/max_and_chloe-1226.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -733,7 +733,7 @@ Answer: C
 related: [max_and_chloe-1226](../wiki-pages-chunks/max_and_chloe-1226.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-36ed1896-2447
@@ -748,7 +748,7 @@ D. Playing Video Games
 Answer: A
 related: [max_and_chloe-1226](../wiki-pages-chunks/max_and_chloe-1226.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -764,7 +764,7 @@ D. He Was Murdered
 Answer: A
 related: [max_and_chloe-1226](../wiki-pages-chunks/max_and_chloe-1226.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -781,7 +781,7 @@ Answer: A
 related: [max_and_chloe-1226](../wiki-pages-chunks/max_and_chloe-1226.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-e22dca5a-2450
@@ -796,7 +796,7 @@ D. The Daily Bugle
 Answer: C
 related: [max_and_chloe-1308](../wiki-pages-chunks/max_and_chloe-1308.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -812,7 +812,7 @@ D. Star Wars
 Answer: C
 related: [max_and_chloe-1308](../wiki-pages-chunks/max_and_chloe-1308.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -828,7 +828,7 @@ D. Nathan Prescott
 Answer: A
 related: [max_and_chloe-1308](../wiki-pages-chunks/max_and_chloe-1308.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -844,7 +844,7 @@ D. Brave New World
 Answer: B
 related: [max_and_chloe-1308](../wiki-pages-chunks/max_and_chloe-1308.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -860,7 +860,7 @@ D. Joyce Price
 Answer: A
 related: [max_and_chloe-1308](../wiki-pages-chunks/max_and_chloe-1308.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -876,7 +876,7 @@ D. Max Can Predict The Future
 Answer: B
 related: [max_and_chloe-1434](../wiki-pages-chunks/max_and_chloe-1434.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -892,7 +892,7 @@ D. A Map
 Answer: A
 related: [max_and_chloe-1434](../wiki-pages-chunks/max_and_chloe-1434.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -908,7 +908,7 @@ D. Chloe Tells Max To Admit They Already Kissed Before
 Answer: D
 related: [max_and_chloe-1434](../wiki-pages-chunks/max_and_chloe-1434.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -925,7 +925,7 @@ Answer: A
 related: [max_and_chloe-1434](../wiki-pages-chunks/max_and_chloe-1434.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-08832e8f-2459
@@ -940,7 +940,7 @@ D. Chlomax
 Answer: C
 related: [max_and_chloe-1500](../wiki-pages-chunks/max_and_chloe-1500.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -957,7 +957,7 @@ Answer: D
 related: [max_and_chloe-1500](../wiki-pages-chunks/max_and_chloe-1500.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-fc9d76f9-2461
@@ -972,7 +972,7 @@ D. Out Of Time
 Answer: A
 related: [max_and_chloe-1500](../wiki-pages-chunks/max_and_chloe-1500.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -990,7 +990,7 @@ related: [max_and_chloe-1500](../wiki-pages-chunks/max_and_chloe-1500.txt)
 
 - [ ] Keep
 - [ ] Delete
-- [ ] Edit
+- [x] Edit
 
 ### wiki-712b3363-2463
 
@@ -1004,7 +1004,7 @@ D. Chlomax
 Answer: A
 related: [max_and_chloe-1500](../wiki-pages-chunks/max_and_chloe-1500.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1020,7 +1020,7 @@ D. She Jumpscares Her
 Answer: D
 related: [max_and_chloe-1535](../wiki-pages-chunks/max_and_chloe-1535.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1036,7 +1036,7 @@ D. A Map Of Arcadia Bay
 Answer: B
 related: [max_and_chloe-1535](../wiki-pages-chunks/max_and_chloe-1535.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1052,7 +1052,7 @@ D. Keep It For Herself
 Answer: B
 related: [max_and_chloe-1535](../wiki-pages-chunks/max_and_chloe-1535.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1068,7 +1068,7 @@ D. They Go To The Blackwell Swimming Pool
 Answer: D
 related: [max_and_chloe-1535](../wiki-pages-chunks/max_and_chloe-1535.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1084,7 +1084,7 @@ D. It Makes Her More Aggressive
 Answer: B
 related: [max_and_chloe-1535](../wiki-pages-chunks/max_and_chloe-1535.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1100,7 +1100,7 @@ D. She Was Hit By An SUV
 Answer: D
 related: [max_and_chloe-1536](../wiki-pages-chunks/max_and_chloe-1536.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1116,7 +1116,7 @@ D. Blade Runner
 Answer: D
 related: [max_and_chloe-1536](../wiki-pages-chunks/max_and_chloe-1536.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1132,7 +1132,7 @@ D. Get Her A Sandwich
 Answer: C
 related: [max_and_chloe-1536](../wiki-pages-chunks/max_and_chloe-1536.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1149,7 +1149,7 @@ Answer: B
 related: [max_and_chloe-1536](../wiki-pages-chunks/max_and_chloe-1536.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-cb54a43d-2473
@@ -1165,7 +1165,7 @@ Answer: A
 related: [max_and_chloe-1536](../wiki-pages-chunks/max_and_chloe-1536.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-da2e69df-2474
@@ -1180,7 +1180,7 @@ D. Through Text Messages
 Answer: B
 related: [max_and_chloe-555](../wiki-pages-chunks/max_and_chloe-555.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1196,7 +1196,7 @@ D. 5 Minutes
 Answer: B
 related: [max_and_chloe-555](../wiki-pages-chunks/max_and_chloe-555.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1212,7 +1212,7 @@ D. She Was Indifferent To Max's Visit
 Answer: B
 related: [max_and_chloe-555](../wiki-pages-chunks/max_and_chloe-555.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1228,7 +1228,7 @@ D. She Moved Away
 Answer: A
 related: [max_and_chloe-555](../wiki-pages-chunks/max_and_chloe-555.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1244,7 +1244,7 @@ D. No One Gets Hurt
 Answer: D
 related: [max_and_chloe-642](../wiki-pages-chunks/max_and_chloe-642.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1260,7 +1260,7 @@ D. In A Basement Of A Local Diner
 Answer: C
 related: [max_and_chloe-642](../wiki-pages-chunks/max_and_chloe-642.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1276,7 +1276,7 @@ D. Frank
 Answer: B
 related: [max_and_chloe-642](../wiki-pages-chunks/max_and_chloe-642.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1293,7 +1293,7 @@ Answer: A
 related: [max_and_chloe-642](../wiki-pages-chunks/max_and_chloe-642.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-458c72d8-2482
@@ -1308,7 +1308,7 @@ D. Fluffy
 Answer: B
 related: [max_and_chloe-855](../wiki-pages-chunks/max_and_chloe-855.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1324,7 +1324,7 @@ D. The Location Of Their Tree Fort
 Answer: D
 related: [max_and_chloe-855](../wiki-pages-chunks/max_and_chloe-855.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1341,7 +1341,7 @@ Answer: D
 related: [max_and_chloe-855](../wiki-pages-chunks/max_and_chloe-855.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-bc1aa089-2485
@@ -1356,7 +1356,7 @@ D. He Had A Heart Attack
 Answer: B
 related: [max_and_chloe-855](../wiki-pages-chunks/max_and_chloe-855.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1372,7 +1372,7 @@ D. A Secret Code
 Answer: C
 related: [max_and_chloe-855](../wiki-pages-chunks/max_and_chloe-855.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1388,7 +1388,7 @@ D. Egged It
 Answer: A
 related: [max_and_chloe-986](../wiki-pages-chunks/max_and_chloe-986.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1404,7 +1404,7 @@ D. She was studying abroad
 Answer: A
 related: [max_and_chloe-986](../wiki-pages-chunks/max_and_chloe-986.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1420,7 +1420,7 @@ D. Their relationship is bigger than love
 Answer: D
 related: [max_and_chloe-986](../wiki-pages-chunks/max_and_chloe-986.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1437,7 +1437,7 @@ Answer: A
 related: [max_and_chloe-989](../wiki-pages-chunks/max_and_chloe-989.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-ca53519b-2491
@@ -1453,7 +1453,7 @@ Answer: A
 related: [max_and_warren-1301](../wiki-pages-chunks/max_and_warren-1301.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-b1c89ea4-2492
@@ -1469,7 +1469,7 @@ Answer: A
 related: [max_and_warren-1301](../wiki-pages-chunks/max_and_warren-1301.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-f2337d12-2493
@@ -1485,7 +1485,7 @@ Answer: A
 related: [max_and_warren-1301](../wiki-pages-chunks/max_and_warren-1301.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-358c72ec-2494
@@ -1501,7 +1501,7 @@ Answer: D
 related: [max_and_warren-1301](../wiki-pages-chunks/max_and_warren-1301.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-f947967c-2495
@@ -1517,7 +1517,7 @@ Answer: B
 related: [max_and_warren-1301](../wiki-pages-chunks/max_and_warren-1301.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-fa66c86c-2496
@@ -1533,7 +1533,7 @@ Answer: D
 related: [max_and_warren-1304](../wiki-pages-chunks/max_and_warren-1304.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-f2bcd9e2-2497
@@ -1549,7 +1549,7 @@ Answer: D
 related: [max_and_warren-1304](../wiki-pages-chunks/max_and_warren-1304.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-fcbaf5e7-2498
@@ -1565,7 +1565,7 @@ Answer: B
 related: [max_and_warren-1304](../wiki-pages-chunks/max_and_warren-1304.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-06065e0f-2499
@@ -1581,7 +1581,7 @@ Answer: C
 related: [max_and_warren-1304](../wiki-pages-chunks/max_and_warren-1304.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-2536a1be-2500
@@ -1597,5 +1597,5 @@ Answer: A
 related: [max_and_warren-1304](../wiki-pages-chunks/max_and_warren-1304.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit

@@ -13,7 +13,7 @@ Answer: B
 related: [mark_jefferson-1409](../wiki-pages-chunks/mark_jefferson-1409.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-e4887ed8-2302
@@ -28,7 +28,7 @@ D. By Victoria Chase Reporting Him To The Police
 Answer: C
 related: [mark_jefferson-1409](../wiki-pages-chunks/mark_jefferson-1409.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -44,7 +44,7 @@ D. By Picking The Lock
 Answer: B
 related: [mark_jefferson-1536](../wiki-pages-chunks/mark_jefferson-1536.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -60,7 +60,7 @@ D. The Color Blue
 Answer: A
 related: [mark_jefferson-1536](../wiki-pages-chunks/mark_jefferson-1536.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -76,7 +76,7 @@ D. Blame Nathan
 Answer: D
 related: [mark_jefferson-1536](../wiki-pages-chunks/mark_jefferson-1536.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -93,7 +93,7 @@ Answer: B
 related: [mark_jefferson-1536](../wiki-pages-chunks/mark_jefferson-1536.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-e30e6d74-2307
@@ -108,7 +108,7 @@ D. "Weirdo"
 Answer: A
 related: [mark_jefferson-377](../wiki-pages-chunks/mark_jefferson-377.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -124,7 +124,7 @@ D. Everyday Heroes Contest
 Answer: D
 related: [mark_jefferson-377](../wiki-pages-chunks/mark_jefferson-377.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -140,7 +140,7 @@ D. She Is Shot In The Forehead
 Answer: D
 related: [mark_jefferson-377](../wiki-pages-chunks/mark_jefferson-377.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -156,7 +156,7 @@ D. He Kidnaps Her
 Answer: B
 related: [mark_jefferson-377](../wiki-pages-chunks/mark_jefferson-377.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -173,7 +173,7 @@ Answer: C
 related: [mark_jefferson-377](../wiki-pages-chunks/mark_jefferson-377.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-3decd886-2312
@@ -188,7 +188,7 @@ D. A Cool Teacher
 Answer: D
 related: [mark_jefferson-393](../wiki-pages-chunks/mark_jefferson-393.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -204,7 +204,7 @@ D. Episode 5
 Answer: D
 related: [mark_jefferson-393](../wiki-pages-chunks/mark_jefferson-393.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -220,7 +220,7 @@ D. Rachel Amber
 Answer: D
 related: [mark_jefferson-393](../wiki-pages-chunks/mark_jefferson-393.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -236,7 +236,7 @@ D. A Police Officer
 Answer: C
 related: [mark_jefferson-393](../wiki-pages-chunks/mark_jefferson-393.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -252,7 +252,7 @@ D. A Veteran of the Art World
 Answer: D
 related: [mark_jefferson-393](../wiki-pages-chunks/mark_jefferson-393.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -269,7 +269,7 @@ Answer: C
 related: [mark_jefferson_gallery](../wiki-pages-chunks/mark_jefferson_gallery.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-26f4f9d0-2318
@@ -284,7 +284,7 @@ D. Episode 5: Polarized
 Answer: A
 related: [mark_jefferson_gallery](../wiki-pages-chunks/mark_jefferson_gallery.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -300,7 +300,7 @@ D. Episode 4: Dark Room
 Answer: C
 related: [mark_jefferson_gallery](../wiki-pages-chunks/mark_jefferson_gallery.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -316,7 +316,7 @@ D. Victoria Chase
 Answer: B
 related: [mark_jefferson_gallery](../wiki-pages-chunks/mark_jefferson_gallery.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -333,7 +333,7 @@ Answer: B
 related: [mark_jefferson_gallery](../wiki-pages-chunks/mark_jefferson_gallery.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-45cc7253-2322
@@ -348,7 +348,7 @@ D. Great-Great Grandfather
 Answer: D
 related: [martin_lewis_prescott](../wiki-pages-chunks/martin_lewis_prescott.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -364,7 +364,7 @@ D. Mr. Caulfield
 Answer: C
 related: [martin_lewis_prescott](../wiki-pages-chunks/martin_lewis_prescott.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -380,7 +380,7 @@ D. July 22, 1903
 Answer: D
 related: [martin_lewis_prescott](../wiki-pages-chunks/martin_lewis_prescott.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -396,7 +396,7 @@ D. Repayment Of Debt And Interest
 Answer: A
 related: [martin_lewis_prescott](../wiki-pages-chunks/martin_lewis_prescott.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -412,7 +412,7 @@ D. He Was A Great Businessman
 Answer: B
 related: [martin_lewis_prescott](../wiki-pages-chunks/martin_lewis_prescott.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -429,7 +429,7 @@ Answer: C
 related: [masahiro_yamanaka](../wiki-pages-chunks/masahiro_yamanaka.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-f939d642-2328
@@ -445,7 +445,7 @@ Answer: A
 related: [masahiro_yamanaka](../wiki-pages-chunks/masahiro_yamanaka.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-6166e2d8-2329
@@ -461,7 +461,7 @@ Answer: A
 related: [masahiro_yamanaka](../wiki-pages-chunks/masahiro_yamanaka.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-0fdf5b2e-2330
@@ -477,7 +477,7 @@ Answer: B
 related: [masahiro_yamanaka](../wiki-pages-chunks/masahiro_yamanaka.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-122a50f9-2331
@@ -493,7 +493,7 @@ Answer: C
 related: [masahiro_yamanaka](../wiki-pages-chunks/masahiro_yamanaka.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-6a81f8ee-2332
@@ -508,7 +508,7 @@ D. Arcadia Bay High School
 Answer: C
 related: [maxine_caulfield-1080](../wiki-pages-chunks/maxine_caulfield-1080.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -524,7 +524,7 @@ D. Saving Chloe's Life
 Answer: D
 related: [maxine_caulfield-1080](../wiki-pages-chunks/maxine_caulfield-1080.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -542,7 +542,7 @@ related: [maxine_caulfield-1080](../wiki-pages-chunks/maxine_caulfield-1080.txt)
 
 - [ ] Keep
 - [ ] Delete
-- [ ] Edit
+- [x] Edit
 
 ### wiki-73ef844f-2335
 
@@ -556,7 +556,7 @@ D. Raymond Wells
 Answer: A
 related: [maxine_caulfield-1080](../wiki-pages-chunks/maxine_caulfield-1080.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -572,7 +572,7 @@ D. Daniel DaCosta
 Answer: C
 related: [maxine_caulfield-1211](../wiki-pages-chunks/maxine_caulfield-1211.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -588,7 +588,7 @@ D. All of the above
 Answer: D
 related: [maxine_caulfield-1211](../wiki-pages-chunks/maxine_caulfield-1211.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -604,7 +604,7 @@ D. Nathan Prescott
 Answer: C
 related: [maxine_caulfield-1211](../wiki-pages-chunks/maxine_caulfield-1211.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -620,7 +620,7 @@ D. Cookies
 Answer: D
 related: [maxine_caulfield-1211](../wiki-pages-chunks/maxine_caulfield-1211.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -636,7 +636,7 @@ D. By showing off her skating moves
 Answer: D
 related: [maxine_caulfield-1211](../wiki-pages-chunks/maxine_caulfield-1211.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -653,7 +653,7 @@ Answer: C
 related: [maxine_caulfield-1276](../wiki-pages-chunks/maxine_caulfield-1276.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-7c33fa9c-2342
@@ -668,7 +668,7 @@ D. Victoria
 Answer: D
 related: [maxine_caulfield-1276](../wiki-pages-chunks/maxine_caulfield-1276.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -684,7 +684,7 @@ D. She Is The Leader Of The Club
 Answer: A
 related: [maxine_caulfield-1276](../wiki-pages-chunks/maxine_caulfield-1276.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -701,7 +701,7 @@ Answer: A
 related: [maxine_caulfield-1276](../wiki-pages-chunks/maxine_caulfield-1276.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-f9963cd5-2345
@@ -717,7 +717,7 @@ Answer: D
 related: [maxine_caulfield-1276](../wiki-pages-chunks/maxine_caulfield-1276.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-2e380eb9-2346
@@ -732,7 +732,7 @@ D. Max Will Regret It
 Answer: C
 related: [maxine_caulfield-1300](../wiki-pages-chunks/maxine_caulfield-1300.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -748,7 +748,7 @@ D. Photographer
 Answer: D
 related: [maxine_caulfield-1368](../wiki-pages-chunks/maxine_caulfield-1368.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -764,7 +764,7 @@ D. Arrogant and Selfish
 Answer: A
 related: [maxine_caulfield-1368](../wiki-pages-chunks/maxine_caulfield-1368.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -780,7 +780,7 @@ D. DSLR Camera
 Answer: B
 related: [maxine_caulfield-1368](../wiki-pages-chunks/maxine_caulfield-1368.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -796,7 +796,7 @@ D. Camera
 Answer: D
 related: [maxine_caulfield-1388](../wiki-pages-chunks/maxine_caulfield-1388.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -813,7 +813,7 @@ Answer: B
 related: [maxine_caulfield-1388](../wiki-pages-chunks/maxine_caulfield-1388.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-3a5c93a5-2352
@@ -828,7 +828,7 @@ D. Causality Principle
 Answer: C
 related: [maxine_caulfield-1388](../wiki-pages-chunks/maxine_caulfield-1388.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -844,7 +844,7 @@ D. Grenade
 Answer: A
 related: [maxine_caulfield-1388](../wiki-pages-chunks/maxine_caulfield-1388.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -860,7 +860,7 @@ D. Telekinesis
 Answer: B
 related: [maxine_caulfield-1519](../wiki-pages-chunks/maxine_caulfield-1519.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -876,7 +876,7 @@ D. Photographer
 Answer: D
 related: [maxine_caulfield-1519](../wiki-pages-chunks/maxine_caulfield-1519.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -892,7 +892,7 @@ D. Victoria Chase
 Answer: C
 related: [maxine_caulfield-1519](../wiki-pages-chunks/maxine_caulfield-1519.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -908,7 +908,7 @@ D. Before the Storm
 Answer: B
 related: [maxine_caulfield-1519](../wiki-pages-chunks/maxine_caulfield-1519.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -924,7 +924,7 @@ D. Los Angeles
 Answer: A
 related: [maxine_caulfield-1519](../wiki-pages-chunks/maxine_caulfield-1519.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -940,7 +940,7 @@ D. Danger
 Answer: B
 related: [maxine_caulfield-1535](../wiki-pages-chunks/maxine_caulfield-1535.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -956,7 +956,7 @@ D. Mystery
 Answer: A
 related: [maxine_caulfield-1535](../wiki-pages-chunks/maxine_caulfield-1535.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -972,7 +972,7 @@ D. Her Desire To Time Travel
 Answer: C
 related: [maxine_caulfield-1535](../wiki-pages-chunks/maxine_caulfield-1535.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -988,7 +988,7 @@ D. Are You Cereal?
 Answer: C
 related: [maxine_caulfield-1535](../wiki-pages-chunks/maxine_caulfield-1535.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1004,7 +1004,7 @@ D. A character from The Catcher in the Rye
 Answer: D
 related: [maxine_caulfield-1536](../wiki-pages-chunks/maxine_caulfield-1536.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1020,7 +1020,7 @@ D. She thinks it's an overrated movie
 Answer: B
 related: [maxine_caulfield-1536](../wiki-pages-chunks/maxine_caulfield-1536.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1036,7 +1036,7 @@ D. Her intelligence
 Answer: C
 related: [maxine_caulfield-1536](../wiki-pages-chunks/maxine_caulfield-1536.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1052,7 +1052,7 @@ D. Comic Sans
 Answer: C
 related: [maxine_caulfield-1536](../wiki-pages-chunks/maxine_caulfield-1536.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1068,7 +1068,7 @@ D. A famous chef
 Answer: C
 related: [maxine_caulfield-1536](../wiki-pages-chunks/maxine_caulfield-1536.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1085,7 +1085,7 @@ Answer: A
 related: [maxine_caulfield-616](../wiki-pages-chunks/maxine_caulfield-616.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-4bf23ffa-2369
@@ -1100,7 +1100,7 @@ D. Painting
 Answer: C
 related: [maxine_caulfield-616](../wiki-pages-chunks/maxine_caulfield-616.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1116,7 +1116,7 @@ D. Captain
 Answer: D
 related: [maxine_caulfield-616](../wiki-pages-chunks/maxine_caulfield-616.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1132,7 +1132,7 @@ D. Vanessa Caulfield
 Answer: D
 related: [maxine_caulfield-616](../wiki-pages-chunks/maxine_caulfield-616.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1148,7 +1148,7 @@ D. Chloe
 Answer: D
 related: [maxine_caulfield-616](../wiki-pages-chunks/maxine_caulfield-616.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1164,7 +1164,7 @@ D. Andy Warhol
 Answer: A
 related: [maxine_caulfield-641](../wiki-pages-chunks/maxine_caulfield-641.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1180,7 +1180,7 @@ D. Battle Royale
 Answer: B
 related: [maxine_caulfield-641](../wiki-pages-chunks/maxine_caulfield-641.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1196,7 +1196,7 @@ D. Man Ray
 Answer: B
 related: [maxine_caulfield-641](../wiki-pages-chunks/maxine_caulfield-641.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1212,7 +1212,7 @@ D. Files Of Many Students
 Answer: B
 related: [maxine_caulfield-853](../wiki-pages-chunks/maxine_caulfield-853.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1228,7 +1228,7 @@ D. They Enter Through The Window
 Answer: B
 related: [maxine_caulfield-853](../wiki-pages-chunks/maxine_caulfield-853.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1245,7 +1245,7 @@ Answer: A
 related: [maxine_caulfield-853](../wiki-pages-chunks/maxine_caulfield-853.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-0c664c74-2379
@@ -1260,7 +1260,7 @@ D. She Is Blonde-Haired
 Answer: C
 related: [maxine_caulfield-853](../wiki-pages-chunks/maxine_caulfield-853.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1276,7 +1276,7 @@ D. She Warns Alyssa About The Lumber Truck
 Answer: C
 related: [maxine_caulfield-853](../wiki-pages-chunks/maxine_caulfield-853.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1292,7 +1292,7 @@ D. Mark Jefferson
 Answer: D
 related: [maxine_caulfield-879](../wiki-pages-chunks/maxine_caulfield-879.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1308,7 +1308,7 @@ D. Courtney Wagner
 Answer: B
 related: [maxine_caulfield-879](../wiki-pages-chunks/maxine_caulfield-879.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1324,7 +1324,7 @@ D. David Madsen
 Answer: D
 related: [maxine_caulfield-879](../wiki-pages-chunks/maxine_caulfield-879.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1340,7 +1340,7 @@ D. Nathan Prescott
 Answer: A
 related: [maxine_caulfield-879](../wiki-pages-chunks/maxine_caulfield-879.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1357,7 +1357,7 @@ Answer: C
 related: [maxine_caulfield-879](../wiki-pages-chunks/maxine_caulfield-879.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-c18a5cc4-2386
@@ -1372,7 +1372,7 @@ D. Arcadia Bay Junkyard
 Answer: C
 related: [maxine_caulfield-921](../wiki-pages-chunks/maxine_caulfield-921.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1388,7 +1388,7 @@ D. Whether To Attend The Vortex Club Party
 Answer: A
 related: [maxine_caulfield-921](../wiki-pages-chunks/maxine_caulfield-921.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1404,7 +1404,7 @@ D. She Dies
 Answer: A
 related: [maxine_caulfield-921](../wiki-pages-chunks/maxine_caulfield-921.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1420,7 +1420,7 @@ D. She Helps Him With His Science Experiment
 Answer: D
 related: [maxine_caulfield-921](../wiki-pages-chunks/maxine_caulfield-921.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1436,7 +1436,7 @@ D. Rachel, Frank, and Joyce
 Answer: B
 related: [maxine_caulfield-921](../wiki-pages-chunks/maxine_caulfield-921.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1453,7 +1453,7 @@ Answer: C
 related: [maxine_caulfield_gallery-105](../wiki-pages-chunks/maxine_caulfield_gallery-105.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-991e04b8-2392
@@ -1469,7 +1469,7 @@ Answer: A
 related: [maxine_caulfield_gallery-105](../wiki-pages-chunks/maxine_caulfield_gallery-105.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-17334c4f-2393
@@ -1484,7 +1484,7 @@ D. Edouard Caplain
 Answer: D
 related: [maxine_caulfield_gallery-105](../wiki-pages-chunks/maxine_caulfield_gallery-105.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1501,7 +1501,7 @@ Answer: A
 related: [maxine_caulfield_gallery-105](../wiki-pages-chunks/maxine_caulfield_gallery-105.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-7f9b695d-2395
@@ -1517,7 +1517,7 @@ Answer: C
 related: [maxine_caulfield_gallery-1133](../wiki-pages-chunks/maxine_caulfield_gallery-1133.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-62e2e9b5-2396
@@ -1533,7 +1533,7 @@ Answer: C
 related: [maxine_caulfield_gallery-1133](../wiki-pages-chunks/maxine_caulfield_gallery-1133.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-95859111-2397
@@ -1549,7 +1549,7 @@ Answer: D
 related: [maxine_caulfield_gallery-1133](../wiki-pages-chunks/maxine_caulfield_gallery-1133.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-b832be9d-2398
@@ -1565,7 +1565,7 @@ Answer: B
 related: [maxine_caulfield_gallery-1133](../wiki-pages-chunks/maxine_caulfield_gallery-1133.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-584492eb-2399
@@ -1581,7 +1581,7 @@ Answer: D
 related: [maxine_caulfield_gallery-1173](../wiki-pages-chunks/maxine_caulfield_gallery-1173.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-f2070e23-2400
@@ -1597,5 +1597,5 @@ Answer: D
 related: [maxine_caulfield_gallery-1173](../wiki-pages-chunks/maxine_caulfield_gallery-1173.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
