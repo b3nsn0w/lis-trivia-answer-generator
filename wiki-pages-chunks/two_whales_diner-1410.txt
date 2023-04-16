@@ -1,0 +1,86 @@
+Here is a section of the wiki page for Two Whales Diner:
+
+#  Two Whales Diner 
+
+```yaml
+Location
+
+image: Life-is-Strange_Ep2_DINER.jpg
+type: Diner
+location: |-
+  Arcadia Bay Ave,
+  [Arcadia Bay](arcadia_bay.md)
+coordinates: 'Latitude: 45.542283 Longitude: -123.929815'
+state: Oregon
+appears: >-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md) (cutscene)[Episode 2: Out of
+  Time](episode_2__out_of_time.md)[Episode 3: Chaos
+  Theory](episode_3__chaos_theory.md)[Episode 5:
+  Polarized](episode_5__polarized.md)
+```
+
+> Man, that smell of breakfast and the sound of clanging silverware... Makes me feel thirteen again...
+
+**[Maxine Caulfield**, Max Caulfield](maxine_caulfield____max_caulfield.md)'s monologue inside the diner in "[Episode 2: Out of Time, Out of Time](episode_2__out_of_time__out_of_time.md)"
+
+The **Two Whales Diner** is a local diner in [Arcadia Bay](arcadia_bay.md) known for their "home style cooking" and "old-fashioned service". [Chloe Price](chloe_price.md)'s mother, [Joyce Price](joyce_price.md), works there as a waitress. According to [Maxine Caulfield](max_caulfield.md), it serves "the best damn hamburgers in Arcadia".
+
+It is clear that the diner is hugely popular, particularly with the students in the area. Police officers, passing truck drivers and other residents of Arcadia Bay also frequent the diner, possibly due to its proximity to a bus stop, a large parking space next to and opposite the diner and a [Gas Station](gas_station.md) nearby. The diner also advertises that it is open 24 hours. This further increases the scope of its business.
+
+## Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+The diner makes its first brief appearance in Episode 1, where we see Joyce cleaning the counter tops, looking out at the snow-storm at the end of the episode. There are also fliers for the diner on the [Blackwell Academy](blackwell.md) [Blackwell Campus](campus.md) and in the [Madsen Household](madsen_household.md).
+
+## Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+Max meets Chloe here for breakfast during the episode, and has a reunion with Joyce while she waits for Chloe to arrive. Max can explore the diner and talk to several guests before sitting down.
+The bathroom has a large amount of graffiti - most notably, the [Doe](doe.md) on the wall similar to that of Max's shirt; her spirit animal. Other notes include "*Kate Marsh love u long time*", relating to Kate's viral video, as well as creating a possible reference to *The 40 Year Old Virgin* or *Full Metal Jacket*. 
+
+The booth Max decides to sit in has notable etchings on the table, which she attributes to [Warren Graham](warren_graham.md) and his nerdy habits.
+
+## Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)"
+The Diner is featured again in this episode. Max tries to find a way to steal [Frank Bowers](frank_bowers.md)'s keys, who is eating inside. Several other characters can be encountered, including [Anderson Berry](officer_berry.md) and [Nathan Prescott](nathan_prescott.md) who, among other things, tells Max how to approach Frank for drugs.
+
+## Episode Five - "[Episode 5: Polarized](polarized.md)" 
+After Max makes her way through parts of the [The Storm](storm.md) to head to the diner, she is surprised as it blows up due to a spreading fire and Max must rewind and put the fire out by using the sand to her right. Max has to use the side entrance to enter because [Frank's RV](frank_s_rv.md) is crashed into it. When she does enter, she is greeted by Joyce and Warren and sees that Frank, [Pompidou](pompidou.md), (if they're still alive) and [Old Guy](a_stranger.md) are held up there as well.
+
+The diner is later featured again in [Max's Nightmare](max_s_nightmare.md).
+
+In the Sacrifice Arcadia Bay ending, the diner is shown to be severely damaged, but still standing. It is unknown if the people taking shelter inside the building are alive or not.
+
+## Menu 
+[File:Two_Whales_Diner_Menu.png](right.md)
+The items on the menu that are viewable to Max appear to be breakfast food items only. They are as follows:
+#
+
+## Breakfast
+*Homestyle Eggs & Bacon  - $5.50
+*Breakfast Cheeseburger - $5.25
+*Apple Sausage Omelette - $6.25
+*Starfish Pancakes - (half-stars) $4.25, (full stars) $6.25
+*Bigfoot Bacon Omelette - $6.50
+*Fresh Oatmeal - $2.25
+*Morning Glory Waffle  - $4.50
+*Various Cereal - $1.25
+*Belgium Waffle & Fried Fish - $8.75
+#
+
+## Sides
+*Bigfoot Bacon - $3.00
+*Apple Sausage - $3.25
+*Crab Cakes - $5.00
+*Hash Browns - $2.25
+*Bagel w/cream cheese - $2.00
+*Two Slices Toast - $1.50
+#
+
+## Beverages
+*Coffee (Arcadia Bay Roast) - $1.50 (free refills w/breakfast)
+*Tea - $1.00
+*Fresh Orange Juice - $2.00
+*Various Soda - $1.50
+*Milk - $1.25
+*Mineral Water - $1.00
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

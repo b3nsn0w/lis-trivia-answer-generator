@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What Was The Most Fun Part Of Playing Multiple Characters According To Daye?",
+    "answer": "A",
+    "choices": {
+      "A": "Getting To Be Multiple Characters",
+      "B": "Working With The Director",
+      "C": "Switching Between Characters",
+      "D": "Learning About The Characters"
+    }
+  },
+  {
+    "question": "What Is Daye's Favorite Pizza Topping?",
+    "answer": "B",
+    "choices": {
+      "A": "Pineapple",
+      "B": "Cheese",
+      "C": "Pepperoni",
+      "D": "Fresh Mozzarella"
+    }
+  },
+  {
+    "question": "What Scene Did Daye Like The Most From Season 1 Of Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "The Hospital Scene",
+      "B": "The Dark Room Scene",
+      "C": "The Vortex Club Party Scene",
+      "D": "The End Of The World Scene"
+    }
+  }
+]

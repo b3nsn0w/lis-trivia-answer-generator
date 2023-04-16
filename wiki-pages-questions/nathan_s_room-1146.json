@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Written On The Slate Outside Nathan's Room?",
+    "answer": "B",
+    "choices": {
+      "A": "\"Blackwell Academy Rules\"",
+      "B": "\"The Prescotts Rule This Town\"",
+      "C": "\"Nathan Prescott's Room\"",
+      "D": "\"Kate Marsh Was Here\""
+    }
+  },
+  {
+    "question": "What Does Max Find Inside One Of The Drawers In Nathan's Room?",
+    "answer": "A",
+    "choices": {
+      "A": "A Threatening Note From Victoria Chase",
+      "B": "A Picture Of Nathan's Father",
+      "C": "A Macabre Photo Of Pompidou",
+      "D": "A Prescription For Nathan's Medication"
+    }
+  },
+  {
+    "question": "What Is Projected On The Wall Above The Couch In Nathan's Room?",
+    "answer": "B",
+    "choices": {
+      "A": "A Horror Movie",
+      "B": "Nathan's Computer Screen",
+      "C": "A Picture Of Max",
+      "D": "A Certificate From Nathan's Father"
+    }
+  },
+  {
+    "question": "What Does Nathan Have On His Wall That Suggests He Has A BDSM Fetish?",
+    "answer": "D",
+    "choices": {
+      "A": "A Picture Of Max",
+      "B": "A Certificate From His Father",
+      "C": "A Horror DVD Collection",
+      "D": "Bondage Portrait Photographs"
+    }
+  },
+  {
+    "question": "What Does Max Find Under Nathan's Bed?",
+    "answer": "D",
+    "choices": {
+      "A": "A Hidden Stash Of Information",
+      "B": "Nathan's Phone",
+      "C": "A Prescription For Nathan's Medication",
+      "D": "A Pornographic Magazine"
+    }
+  }
+]

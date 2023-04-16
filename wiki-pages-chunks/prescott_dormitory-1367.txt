@@ -1,0 +1,66 @@
+Here is a section of the wiki page for Prescott Dormitory:
+
+## Inside 
+*Max can look at notices on several bulletin boards:
+**{{Interaction|Ms. Grant's petition notice|"Go, Ms. Grant! Not sure if I will though... I'm a loser."}}
+**{{Interaction|Young Guns Training advertisement|"I'd love to make a photo collage of every person who've posted these."}}
+**{{Interaction|Safe Not Sorry poster|"Man, people here are merciless."}}
+**{{Interaction|Geek Grrls Book Club advertisement|"Could be fun. Glad I'm not the only lonely nerd around here."}}
+**{{Interaction|Vortex Club flyer|"Thanks for the warning."}}
+**{{Interaction|Various notices|"This is like the public DNA of our dorm...}}
+*{{Interaction|She can look at a map of Blackwell Academy.|"Blackwell isn't that big, but, it sure feels like a labyrinth."}}
+*{{Interaction|She can look at a map of the dormitories.|"Welcome to BlackHell..."}}
+*She can look at the slates:
+**{{Interaction|Stella Hill|"Room 217? No way in hell am I ever going in here."}}
+**{{Interaction|Taylor Christensen|"Is this a Vortex Club or a Victoria Club initiation? Truly pathetic."}}
+**{{Interaction|Juliet Watson|"Juliet: X-treme Reporter"}}
+**{{Interaction|Dana Ward|"Dana's still a cheerleader at heart..."}}
+**{{Interaction|Kate Marsh|"Okay, this is just mean and stupid."}}
+**{{Interaction|Max Caulfield|**Empty: **"How sad. I didn't write anything. I have nothing to say."
+**Pokerface: **"Obvious, but true."}}
+**{{Interaction|Victoria Chase|"Oh Victoria, give me a fucking break."}}
+**{{Interaction|Brooke Scott|"Warren should be all over Brooke. They're perfect for each other."}}
+*{{Interaction|Max can replace the insults on Kate's slate with a peace symbol.|"The universal symbol for: 'Please leave me alone, asshole.'"}}
+*{{Interaction|She can look at a "No Boys Allowed" sign.|"As if."}}
+*{{Interaction|She can look at Rachel Amber Missing Person posters.|"This girl must have been popular, she's everywhere."
+"We get it, she's missing. Somebody has gone crazy with these posters."}}
+*{{Interaction|She can look at a photo of a doe.|"Nice atmospheric shot. Needs dusting."}}
+*{{Interaction|She can look at a toilet paper roll.|"Looks like nobody won this TP war. There's nothing left but ghosts."}}
+*{{Interaction|She can look at the fire alarm.|"At least that's an alarm from this century."}}
+*{{Interaction|She can look at a "Don't Be a Zombie" poster.|"They Live!"}}
+*{{Interaction|She can look at a "Save the Earth" poster.|"But what's this poster really trying to tell me?"}}
+*She can enter [Max's Room](her_room.md) **(required)**.
+*{{Interaction|She can look at and speak to Juliet **(required)**.|**Before talk: **"Juliet looks like she's ready to throw down."
+**Wrong answer: **"Note to Max: It pays to remember names."
+**Without email: **"I should find a way to end this silly stand-off."
+**With email: **"Poor Juliet is about to get smited with truth."}}
+*She can enter Victoria's room to obtain the email **(required)**.
+*She can enter Dana's room to obtain the [Warren's Flash Drive](flash_drive.md) **(required)**.
+
+#
+
+## Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+# #
+
+## Outside 
+*{{Interaction|Max can look at the scaffolding.|"The paint job looks great. Samuel knows his color schemes."}}
+*{{Interaction|She can look at and use the food waste from the recycle bin.|**Look: **"How hard is it to dump the trash into a bin? But I could use this to attract squirrels..."
+**Use: **"Release the Kraken! Come on squirrels, time for your 15 minutes of fame..."}}
+*{{Interaction|She can look at and take an optional photo of the squirrel eating a donut.|**Look: **"Wowser, it's hard to get this close to a squirrel..."
+**Photo: **"Yes! Another Pulitzer for the portfolio!"}}
+*{{Interaction|She can look at the football.|"Can't Blackwell have at least one 'No Football Zone'?"}}
+*{{Interaction|She can look at and speak to Samuel.|"Ah, there's Samuel, up early, already communing with the critters..."}}
+*{{Interaction|She can look at the birds near Samuel.|"The birds are flocking around Samuel..."}}
+*{{Interaction|She can look at and speak to [Taylor Christensen](taylor_christensen.md).|"I don't think I've actually seen Taylor alone without Team Victoria."
+**Successful talk: **"Well, that conversation didn't suck. Give peace a chance..."}}
+*{{Interaction|She can look at the dorm nameplate.|"'The Prescott Dormitory.' Good Lord, Nathan's family owns my dorm?!"}}
+*{{Interaction|She can look at and speak to [Warren Graham](warren_graham.md) **(required)**.|**Before talk: **"Warren is out and about already too. Looks like he's waiting for somebody..."
+**After talk: **"That boy cracks me up. I'm glad he's on my side."}}
+*She can enter Samuel's custodial room.
+**She can look at the water pump, axe, a box labeled "Sammy's stuff" and several photos of Rachel Amber inside the custodial room.
+
+# #
+
+
+
+Generate five trivia questions relevant to this section of the page.

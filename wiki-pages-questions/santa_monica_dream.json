@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Name Of The Album That \"Santa Monica Dream\" Is Featured In?",
+    "answer": "A",
+    "choices": {
+      "A": "Down the Way",
+      "B": "Angus & Julia Stone",
+      "C": "Life is Strange",
+      "D": "Santa Monica Dream"
+    }
+  },
+  {
+    "question": "In Which Episodes Of Life is Strange Is \"Santa Monica Dream\" Featured?",
+    "answer": "C",
+    "choices": {
+      "A": "Episodes 1 and 2",
+      "B": "Episodes 2 and 3",
+      "C": "Episodes 1 and 3",
+      "D": "Episodes 3 and 4"
+    }
+  },
+  {
+    "question": "What Is The Song \"Santa Monica Dream\" About?",
+    "answer": "A",
+    "choices": {
+      "A": "A Dreadful Separation",
+      "B": "A Happy Reunion",
+      "C": "A Romantic Date",
+      "D": "A Family Vacation"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Character Who Asks Max To Leave Her To Think While The Song Plays?",
+    "answer": "D",
+    "choices": {
+      "A": "Rachel Amber",
+      "B": "Maxine Caulfield",
+      "C": "Frank Bowers",
+      "D": "Chloe Price"
+    }
+  }
+]

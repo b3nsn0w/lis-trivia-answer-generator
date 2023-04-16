@@ -1,0 +1,69 @@
+#  Ryan Caulfield 
+
+```yaml
+Character
+
+name: Ryan Caulfield
+image: Max's Dad.png
+gender: Male
+hair: Brown
+eyes: Brown
+loveinterest: '[Vanessa Caulfield](vanessa_caulfield.md) (wife)'
+relatives: '[Maxine Caulfield'
+Max Caulfield](maxine_caulfield__max_caulfield.md) (daughter): ''
+alsoknown: Pop
+appearance: >-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md) (mentioned)[Episode 3: Chaos
+  Theory](episode_3__chaos_theory.md) (mentioned)[Episode 4: Dark
+  Room](episode_4__dark_room.md) (mentioned)[Episode 5:
+  Polarized](episode_5__polarized.md) (mentioned)  [Farewell](farewell.md)
+  (cutscene only, no lines)
+```
+
+> Have a very special 18th birthday. You're an adult now but you're still our little girl. Check your account. Don't blow it all at once.
+
+**Ryan's SMS to his daughter, Max, in "[Episode 1: Chrysalis**, Chrysalis](episode_1__chrysalis____chrysalis.md)"
+
+**Ryan Caulfield** is [Maxine Caulfield](max_caulfield.md)'s father. Once a resident of [Arcadia Bay](arcadia_bay.md), he now resides in [Seattle](seattle.md) with Max's mother, his wife [Vanessa Caulfield](vanessa_caulfield.md).
+
+##  Personality 
+Max's father is very close to her - the two attending sports events together. He's presented as a very loving father figure. He doesn't seem to be as concerned as Max's mother about [Blackwell Academy](blackwell_academy.md).
+
+In a [Max's Messages#Dad](text_message.md) regarding Max's eighteenth birthday, he says that she is an adult now but still their little girl and shouldn't blow the money they'd sent her at once.
+
+He is concerned about the threat he gets from an unknown number in [Episode 4: Dark Room](episode_4.md) and [Max's Messages#Dad_3](messages.md) Max about it.
+
+In another [Max's Messages#Dad_4](text_message.md) to Max in the changed reality where Max has won the [Everyday Heroes Photo Contest](everyday_heroes_photo_contest.md), he points out that Max is an adult now and can tell her mother that she doesn't need to be too worried regarding the arrest of [Mark Jefferson](mark_jefferson.md) and [Nathan Prescott](nathan_prescott.md).
+
+##  Alternative Timeline 
+In the [Alternative Timeline (Life is Strange)](alternative_timeline.md), Ryan and Vanessa sent [Chloe Price](chloe_price.md) a postcard, giving their best to her.
+
+[File:maxsparents-altchloepostcard-back.png](thumb.md)
+
+{{Bigquote
+|*Chloe, you know we love*
+
+''you and you're in our*
+
+*hearts and thoughts. We*
+
+*hope to see your smiling*
+
+*face soon.*
+
+*Please be well.*
+
+*Ryan & Vanessa Caulfield''
+}}
+
+##  Trivia 
+*In [Episode 1: Chrysalis](episode_1.md), Max looks at a Thunderbirds pennant in her [Max's Room](room.md) and thinks of how she misses going to games with her dad.
+*Also in Episode 1, he sends Max an [Max's Messages#Dad](sms_message.md). There is a shared birthday message from him and [Vanessa Caulfield](max_s_mother.md) in Max's drawer in her room.
+*In Episode 4, it is revealed his name is Ryan.
+*It is implied that Ryan is of Irish descent. The family name Caulfield is of Irish origin and Ryan is a typical Irish first name. In "[Episode 2: Out of Time](out_of_time.md)" Chloe also mentions Max's "Irish luck".
+*In [Episode 3: Chaos Theory](episode_3.md), Max mentions that her grandfather - either Ryan's or his wife Vanessa's father - has a garage.Max's comment upon looking at a toolbox in Samuel's custodial room: "''Nuts and bolts... like my grandpa's garage.''"
+
+##  Notes 
+
+{{Character Navbox}}
+

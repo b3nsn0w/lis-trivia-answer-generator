@@ -1,0 +1,41 @@
+Here is a section of the wiki page for Max and Warren:
+
+#  Max and Warren 
+
+```yaml
+relationship
+
+title1: Max and Warren
+image1: Max and Warren - Chrysalis (6).jpg
+'participants:': '[Maxine Caulfield'
+Max Caulfield](maxine_caulfield__max_caulfield.md) and [Warren Graham](warren_graham.md): ''
+'type_of_relationship:': >-
+  Good Friends
+
+  Warren has a crush on Max; Max can return those feelings depending on player
+  choice
+'status:': Blackwell Academy Schoolmates; Warren is dead (determinant)
+'started:': 'Before [Episode 1: Chrysalis](episode_1__chrysalis.md)'
+'ended:': '[Episode 5: Polarized](episode_5__polarized.md) (determinant)'
+```
+
+{{Quote|You're not pathetic. You're one of my heroes.|Max to Warren.}}
+This article is meant to give a deeper and more detailed look at the relationship between [Maxine Caulfield](max_caulfield.md) and [Warren Graham](warren_graham.md) and its development throughout *[Life is Strange](life_is_strange.md)*. Warren is one of two love interests for Max. Within the fandom, their relationship is known as **Grahamfield** and **Marren**.
+
+Warren has been one of Max's earliest friends after she moved back to [Arcadia Bay](arcadia_bay.md) from Seattle. Prior to reconnecting with [Chloe Price](chloe_price.md), Warren has been one of Max's closest friends. Warren has feelings for Max, which Max initially seems somewhat oblivious of. She is seen to react shyly and awkwardly whenever others bring up the subject of his attentions towards her, and she often second-guesses whether her actions will lead him on in any way. Depending on Max's choices, she can consider him romantically.
+
+## Background 
+[File:maxandwarren-developedphoto.png](thumb.md)
+Max gets to know Warren as a classmate in science class at [Blackwell Academy](blackwell_academy.md). They first talked about photography, and given that he mentioned a few names Max herself didn't know, it seems to be a shared interest. Afterwards, they traded numbers. Max first describes him as a serious geek who is dark and witty and a good study partner or possibly good friend, which she states she needs due to the "clique action" at Blackwell. Max seems to appreciate his extensive science knowledge. It is implied that he helps her keep up with science class. Warren values the book *{{wiki|The October Country}}*, and Max describes in her [Max's Journal](journal.md) that he almost revokes her "geek cred card" after learning she hasn't read it, although she feels she redeemed herself by holding up a copy of *{{wiki|Battle Royale}}*. She also thinks that Warren definitely lets her know where he stands and doesn't think he would ever lie to her. Max describes in her journal that it feels good to have at least one strong ally the same age at Blackwell and that he makes her smile. She states he loves science but really understands art and appreciates photography. Warren says he loves her pictures but Max can't tell if he is being genuinely honest or nice to her. She thinks he would blow her phone up for "science" if she ever gave it to him.
+
+He frequently texts her and later acknowledges that texting "like time, my texts are infinite." Warren develops various nicknames for Max.
+
+## Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+[File:Maxgivesdrive.png](thumb.md)
+The first time Max mentions Warren in the game is in her inner monologue about Brooke and her thinking "I've seen Brooke hanging out with Warren. She seems like his type." If Max interacts with Brooke's slate, she will say: "Warren should be all over Brooke, they would be perfect for each other"
+
+When Max visits her own dorm room she sees a note from Warren where he asks Max for his [Warren's Flash Drive](flash_drive.md) and tells her to meet him at the [Blackwell Parking Lot](parking_lot.md). When she goes to [Dana Ward](dana_ward.md)'s room to get the flash drive, Dana talks about seeing a folder on there that Warren has specially named 'MAX' and implies that Warren has a crush on her. Max will comment on this in her journal with, "Ew." When Max finally arrives at Parking Lot, Warren immediately tries to hug Max to which she either unknowingly or consciously manages to avoid by handing the flash drive to him at the same time. Warren awkwardly withdraws as though to pretend he hadn't just tried to hug her. Max says in her journal that she could only talk about her rewind powers with the person whom she hadn't seen over five years, although she considers Warren as well since he's good at science. As she is about to tell him about her rewind powers their conversation is suddenly interrupted by [Nathan Prescott](nathan_prescott.md), who attacks Max for seeing him in the girls' bathroom with a gun earlier, and depending on her choice, he will also call her out for telling [Raymond Wells](principal_wells.md) about it. [File:Vlcsnap-2016-09-21-12h50m52s347.png](thumb.md) Warren steps in to defend Max and Nathan headbutts him to the ground. As Nathan grabs Max by her throat, it is at this moment that Max's [Chloe Price](best_friend.md) from 5 years ago blasts up in her truck and saves Max. Max escapes with her best friend, leaving Warren with Nathan. However, as Max is driven away, [David Madsen](david_madsen.md) is seen running up to stop the fight.
+
+
+
+Generate five trivia questions relevant to this section of the page.

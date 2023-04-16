@@ -1,0 +1,62 @@
+#  Hospital 
+
+```yaml
+Location
+
+name: Hospital
+type: Hospital
+location: '[Arcadia Bay](arcadia_bay.md)'
+state: Oregon
+appears: >-
+  [Episode 2: Out of Time](episode_2__out_of_time.md) (cutscene,
+  determinant)[Episode 4: Dark Room](episode_4__dark_room.md) (determinant)
+image: Hospital.jpg
+```
+
+> Hospitals always freak me out." - "I hear you. But imagine how Kate feels... I'm so glad I get to see her again.
+
+**[Chloe Price**, Chloe](chloe_price____chloe.md) and [Maxine Caulfield, Max](maxine_caulfield__max.md) in "[Episode 4: Dark Room, Dark Room](episode_4__dark_room__dark_room.md)"
+
+The **Hospital** is located in [Arcadia Bay](arcadia_bay.md) and, depending on [Maxine Caulfield](max_caulfield.md)'s [Choices and Consequences](choices.md), can first be seen in "[Episode 2: Out of Time](out_of_time.md)." There is another determinant chance to visit the hospital again in "[Episode 4: Dark Room](dark_room.md)."
+
+##  Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+If Max manages to stop [Kate Marsh](kate_marsh.md) from committing suicide, the hospital can first be seen in this episode's ending cutscene where Kate is seen lying in a bed with several balloons tied to it.
+
+##  Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+If Max managed to save Kate in "Out of Time," she visits the hospital and talks to Kate in this episode.
+
+##  Interactions 
+###  Episode Four - "Dark Room" 
+:**PC users: **''Hover over the text to see Max's comments. [Interactions](see_here.md) for all interactions in the game.''
+*{{Interaction|Max can look at a photo of Kate with her sisters.|"Thank you, sisters. You really saved Kate."}}
+*{{Interaction|She can look at the book {{Wiki|The October Country}}.|"Good to see that Kate is still working on her book report."}}
+*{{Interaction|She can look at Kate's drawing.|"Aww, I love Kate’s happy rainbow flock."}}
+*{{Interaction|She can look at Kate's bed.|'''Accepted Alternate Chloe's wish: '''"This reminds me of Chloe's bed... except I didn't have to put Kate to sleep."
+'''Refused Alternate Chloe's wish: '''"This reminds me of Chloe's bed... There's no way I could put her to sleep."}}In older versions of the game.
+*{{Interaction|She can look and speak with Kate.|"That is so good to know that Kate is drawing again."}}In the latest version (1.0.0.397609) of the game.
+*{{Interaction|She can look at the flowers near Kate's bed.|"Those are nice flowers... and from [Taylor Christensen](taylor.md)? Wow, props to her."}}
+*{{Interaction|She can look at an icon.|"If this gets Kate through the night, so be it."}}
+*{{Interaction|She can look at the balloons tied to Kate's bed.|"I don't think 'Get Well' is quite apropos."}}
+*{{Interaction|She can look at a postcard from the [Blackwell Academy](blackwell.md) [:Category:Blackwell Academy Students](students.md).|"That is so sweet... even [Victoria Chase](victoria.md) signed. But not [Nathan Prescott](nathan.md)..."}}
+*{{Interaction|She can look at a letter from [Raymond Wells](principal_wells.md).|"Principal Wells knows how to step it up when he wants to..."}}
+
+##  Trivia 
+{{Main|Hospital Ending}}
+*There was an [Hospital Ending](alternate_ending.md) planned in the early stages of development in which [Chloe Price](chloe_price.md) would have ended up in a coma. As evident from a [Media:Hospital Room Concept Art by Gary Jamroz-Palma.jpg](piece_of_concept_art.md), Max would have visited Chloe at the hospital.
+*The hospital location was originally designed for the above-mentioned alternate ending, and the scene with Kate after she survived her suicide attempt was only added later on because the fans liked Kate so much.
+*It is unknown what the outside of the hospital looks like.
+
+###  Screenshots 
+
+hospital-katesroom.png|Kate's room.
+hospital-flowers.png|Flowers from [Taylor Christensen](taylor_christensen.md).
+hospital-balloons.png|"Get Well" balloons.
+
+###  Concept Art 
+
+Hospital Room Concept Art by Gary Jamroz-Palma.jpg |Concept art by [Gary Jamroz-Palma](gary_jamroz_palma.md).
+
+##  Notes 
+
+{{Location Navbox}}
+

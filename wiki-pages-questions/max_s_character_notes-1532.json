@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who Triggered Max's Time Rewind Power By Shooting A Girl In The Bathroom?",
+    "answer": "A",
+    "choices": {
+      "A": "Nathan Prescott",
+      "B": "David Madsen",
+      "C": "Warren Graham",
+      "D": "Victoria Chase"
+    }
+  },
+  {
+    "question": "What Does Max Wonder About The Photo On Rachel Amber's Missing Person Poster?",
+    "answer": "A",
+    "choices": {
+      "A": "Who Took The Photo",
+      "B": "Where Rachel Is Hiding",
+      "C": "Why Rachel Ran Away",
+      "D": "How Rachel Disappeared"
+    }
+  },
+  {
+    "question": "Who Is Max's Real Friend At Blackwell Academy?",
+    "answer": "A",
+    "choices": {
+      "A": "Warren Graham",
+      "B": "Nathan Prescott",
+      "C": "Victoria Chase",
+      "D": "David Madsen"
+    }
+  },
+  {
+    "question": "Who Is The Security Guard At Blackwell Academy That Treats Everyone Like Criminals?",
+    "answer": "A",
+    "choices": {
+      "A": "David Madsen",
+      "B": "Nathan Prescott",
+      "C": "Warren Graham",
+      "D": "Principal Wells"
+    }
+  }
+]

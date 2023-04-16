@@ -1,0 +1,67 @@
+Here is a section of the wiki page for William Price:
+
+#  William Price 
+
+```yaml
+Character
+
+name: William Price
+image: PSN_Avatar_William.jpg
+alsoknown: >-
+  Bill (by [Joyce Price](joyce_price.md) and [Aaron Price](aaron_price.md))Billy
+  (by Aaron Price in the [Alternative Timeline (Life is Strange)
+alternative timeline](alternative_timeline__life_is_strange__alternative_timeline.md)): ''
+born: January 3, 1970Seen on a gravestone in the Sacrifice Chloe ending.
+died: >-
+  September 21, 2008 - November 27, 2008 William died in 2008 when Max was aged
+  13 (evidenced by the in-game dialogue, "I'm 18 years old inside my **13** year
+  old self... How?", and the journal entry: "Then I found myself actually back
+  in the photo... to when I was **13** years old. I was back in Chloe's kitchen
+  in the year **2008**."). This time period is the only period that William
+  could have died, because this is the only time period in 2008 where Max would
+  be 13 years old. It is also almost certain that William died before Joyce met
+  David Madsen, on November 27, 2008 according to the Diner receipt which is
+  used to unlock David's computer in Episode 3. In the prequel *Before the
+  Storm*, it seems to be implied that William died on 9/28/2008 at 11:57 a.m.
+  from the timestamps on Joyce's texts during [Chloe's Dreams
+'Chloe''s dream](chloe_s_dreams__chloe__s_dream.md). This day was a Sunday, explaining why Max and Chloe stayed at home that day. Originally, the timestamp was 6/21/2008 but it was updated to the current one after the release of Episode 2: Brave New World, probably due to a possible [Canon Inconsistencies': *
+canon inconsistency](canon_inconsistencies_____canon_inconsistency.md). (original timeline): *
+causeofdeath: Car accident (original timeline)
+gender: Male
+hair: Strawberry blond
+eyes: Blue
+loveinterest: '[Joyce Price](joyce_price.md) (married wife, widow in the original timeline)'
+relatives: >-
+  [Chloe Price](chloe_price.md) (daughter)[Aaron Price](aaron_price.md)
+  (brother)
+friends: '[Maxine Caulfield'
+Max Caulfield](maxine_caulfield__max_caulfield.md): ''
+appearance: >-
+  [Episode 3: Chaos Theory](episode_3__chaos_theory.md)[Episode 4: Dark
+  Room](episode_4__dark_room.md)[Episode 5: Polarized](episode_5__polarized.md)
+  ([Max's Nightmare
+nightmare](max_s_nightmare_nightmare.md)): ''
+voice: '[Joe Ochman](joe_ochman.md)'
+```
+
+{{DONTNODWiki}}
+> She's never leaving me!*"* - *"*That makes all of us.
+
+**William and [Chloe Price**, Chloe](chloe_price____chloe.md)'s last words to each other in the original timeline
+
+**William Price** is the father of [Chloe Price](chloe_price.md) and husband of [Joyce Madsen](joyce_madsen.md). He died in 2008 after a car crash and is sorely missed by his family. Chloe is particularly affected by his passing and mentions him often to her best friend, [Maxine Caulfield](max_caulfield.md). He lives in the alternate timeline.
+
+:*For the image gallery, click [William Price/Gallery](here.md).*
+
+William is featured in *[Life is Strange: Before the Storm](before_the_storm.md)*, the prequel to the events of *[Life is Strange](life_is_strange.md)*, in [Chloe's Dreams](chloe_s_dreams.md).
+
+## Background 
+William Price lived alongside Joyce in [Arcadia Bay](arcadia_bay.md) with their daughter, Chloe. Before her birth in March 1994, William and Joyce visited [San Francisco](san_francisco.md) on holiday. In the year 1999 they bought Chloe a kitten named [Bongo](bongo.md).
+
+William was an amicable, kindhearted and gentle man and family father who enjoyed entertaining Chloe and her best friend, Max, in their youth by hosting activities such as barbecues in their backyard. He also shared Max's passion for photography.
+
+In 2008, Bongo the cat was killed by a passing car. In the original timeline, William also died in 2008 when involved in a car crash whilst driving to pick up Joyce who was shopping for groceries. Chloe and Joyce were devastated by the loss. Some time before his death, he started to paint the front of his house in blue, but he was never able to finish it, and so it remained unfinished as it was. In [Episode 3: Chaos Theory](episode_3.md), Chloe states that Joyce blames herself for the event, and that occasionally, so does she.
+
+
+
+Generate five trivia questions relevant to this section of the page.

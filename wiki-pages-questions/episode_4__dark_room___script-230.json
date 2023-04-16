@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Max's Reason For Wanting To Visit Kate In The Hospital?",
+    "answer": "A",
+    "choices": {
+      "A": "To Find Out How She's Doing",
+      "B": "To Apologize For Not Saving Her",
+      "C": "To Confront Her About Her Suicide Attempt",
+      "D": "To Get Information About Nathan"
+    }
+  },
+  {
+    "question": "What Did Max Find In The Secret Files?",
+    "answer": "D",
+    "choices": {
+      "A": "Information About Kate's Suicide Attempt",
+      "B": "Location Coordinates",
+      "C": "Evidence Of David's Surveillance",
+      "D": "All Of The Above"
+    }
+  },
+  {
+    "question": "What Is Chloe's Plan For Nathan Prescott?",
+    "answer": "C",
+    "choices": {
+      "A": "To Confront Him About Rachel Amber",
+      "B": "To Get Revenge For Kate's Suicide Attempt",
+      "C": "To Find Out What He's Hiding In His Room",
+      "D": "To Get Him Arrested By The Police"
+    }
+  },
+  {
+    "question": "How Does Max Feel About The Secret Files?",
+    "answer": "A",
+    "choices": {
+      "A": "Excited",
+      "B": "Nervous",
+      "C": "Disappointed",
+      "D": "Indifferent"
+    }
+  },
+  {
+    "question": "What Is Max And Chloe's Next Move After Leaving The Barn?",
+    "answer": "B",
+    "choices": {
+      "A": "To Visit Kate In The Hospital",
+      "B": "To Confront Nathan Prescott",
+      "C": "To Go To The Police Station",
+      "D": "To Go Home And Rest"
+    }
+  }
+]

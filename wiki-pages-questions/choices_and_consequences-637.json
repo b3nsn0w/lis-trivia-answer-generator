@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Happens If Max Breaks Chloe's Snow Globe?",
+    "answer": "A",
+    "choices": {
+      "A": "Chloe Gets Upset With Max",
+      "B": "Chloe Ignores Max",
+      "C": "Max Cannot Read Chloe's Report Card",
+      "D": "Max Receives A Snow Globe As A Gift"
+    }
+  },
+  {
+    "question": "What Can Max Do With The Blue Jay In Episode 4?",
+    "answer": "B",
+    "choices": {
+      "A": "Take A Photo Of It",
+      "B": "Chase It Out Of The House",
+      "C": "Keep It As A Pet",
+      "D": "Ignore It"
+    }
+  },
+  {
+    "question": "What Happens If Max Leaves Evidence Of Her Presence In David's Files?",
+    "answer": "A",
+    "choices": {
+      "A": "David Confronts Chloe About It",
+      "B": "Max Finds A Secret Message In The Files",
+      "C": "Chloe Finds Out About Max's Time Rewind Power",
+      "D": "Max Gets Rewarded By David"
+    }
+  },
+  {
+    "question": "What Happens If Max Looks Through David's Files?",
+    "answer": "A",
+    "choices": {
+      "A": "Chloe Is Happy With Max",
+      "B": "David Confronts Max About It",
+      "C": "Max Finds Out About Rachel Amber's Disappearance",
+      "D": "Max Cannot Take A Photo Of The Blue Jay"
+    }
+  },
+  {
+    "question": "What Happens To The Blue Jay If Max Does Not Save It?",
+    "answer": "B",
+    "choices": {
+      "A": "It Appears In Chloe's House",
+      "B": "It Dies",
+      "C": "It Becomes A Symbol Of Hope",
+      "D": "It Flies Away And Is Never Seen Again"
+    }
+  }
+]

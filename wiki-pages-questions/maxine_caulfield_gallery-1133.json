@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Does Max Do In The Morning Before Going To Class?",
+    "answer": "A",
+    "choices": {
+      "A": "Plays Guitar",
+      "B": "Takes A Selfie",
+      "C": "Talks To Kate",
+      "D": "Goes For A Run"
+    }
+  },
+  {
+    "question": "Where Do Max And Chloe Go To Find Evidence About Rachel Amber?",
+    "answer": "C",
+    "choices": {
+      "A": "The Science Lab",
+      "B": "The Two Whales Diner",
+      "C": "The American Rust Junkyard",
+      "D": "The Principal's Office"
+    }
+  },
+  {
+    "question": "What Does Max Photograph In The Junkyard?",
+    "answer": "C",
+    "choices": {
+      "A": "A Car",
+      "B": "A Bottle",
+      "C": "A Doe",
+      "D": "A Gun"
+    }
+  },
+  {
+    "question": "What Does Max Manage To Do In The Science Lab?",
+    "answer": "A",
+    "choices": {
+      "A": "Freeze Time",
+      "B": "Create A New Chemical Compound",
+      "C": "Solve A Complex Equation",
+      "D": "Build A Robot"
+    }
+  }
+]

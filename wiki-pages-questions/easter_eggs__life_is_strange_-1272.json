@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the significance of the number \"1337\" on the train in Life is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "It's the train's model number",
+      "B": "It's the number of passengers on the train",
+      "C": "It's a reference to \"leet\" language",
+      "D": "It's the train's route number"
+    }
+  },
+  {
+    "question": "What popular TV series is referenced by the license plate \"B R K B D\" in the Blackwell parking lot?",
+    "answer": "B",
+    "choices": {
+      "A": "The Sopranos",
+      "B": "Breaking Bad",
+      "C": "Parks and Recreation",
+      "D": "The Twilight Zone"
+    }
+  },
+  {
+    "question": "What film is referenced by the license plate \"DNNDRK\" in the Two Whales Diner?",
+    "answer": "A",
+    "choices": {
+      "A": "Donnie Darko",
+      "B": "Groundhog Day",
+      "C": "The Faculty",
+      "D": "Elephant"
+    }
+  },
+  {
+    "question": "What does Max say about life in her nightmare sequence?",
+    "answer": "B",
+    "choices": {
+      "A": "\"Life is... weird.\"",
+      "B": "\"Life is... so not fair.\"",
+      "C": "\"Life is... strange.\"",
+      "D": "\"Life is... unpredictable.\""
+    }
+  },
+  {
+    "question": "What is the closest a character ever comes to saying \"life is strange\" in the game?",
+    "answer": "D",
+    "choices": {
+      "A": "Max says \"life is strange\" in Episode 5.",
+      "B": "Chloe says \"life is strange\" in Max's nightmare.",
+      "C": "A character never says \"life is strange\" in the game.",
+      "D": "The trailer for the Limited Edition features a character saying \"life is strange.\""
+    }
+  }
+]

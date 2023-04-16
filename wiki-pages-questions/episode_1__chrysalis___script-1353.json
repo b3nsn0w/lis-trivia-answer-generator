@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Juliet Promise To Do For Dana After Accusing Her Of Messing Around With Zachary?",
+    "answer": "B",
+    "choices": {
+      "A": "Buy Her A Gift",
+      "B": "Take Her Out To Dinner",
+      "C": "Do Her Laundry",
+      "D": "Help Her With Homework"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Club That Victoria And Dana Are In?",
+    "answer": "C",
+    "choices": {
+      "A": "Photography Club",
+      "B": "Science Club",
+      "C": "Vortex Club",
+      "D": "Drama Club"
+    }
+  },
+  {
+    "question": "What Does Dana Reveal About Warren's Flash Drive?",
+    "answer": "A",
+    "choices": {
+      "A": "It Has A Special Folder Named After Max",
+      "B": "It Contains Tons Of Crazy Films",
+      "C": "It Has A Virus",
+      "D": "It Is Empty"
+    }
+  },
+  {
+    "question": "What Rumor Did Max Hear About Dana?",
+    "answer": "A",
+    "choices": {
+      "A": "She Was Pregnant",
+      "B": "She Was Moving Away",
+      "C": "She Was Cheating On Her Boyfriend",
+      "D": "She Was Dropping Out Of School"
+    }
+  },
+  {
+    "question": "What Does Max Take From Dana's Room?",
+    "answer": "B",
+    "choices": {
+      "A": "A Pregnancy Test",
+      "B": "A Flash Drive",
+      "C": "A Notebook",
+      "D": "A Camera"
+    }
+  }
+]

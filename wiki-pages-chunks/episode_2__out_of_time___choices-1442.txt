@@ -1,0 +1,126 @@
+Here is a section of the wiki page for Episode 2: Out of Time - Choices:
+
+## Frank and the Gun
+
+|-|Shoot# Shoot
+*Episode 2
+**The gun has no bullets and Frank is very angry that Max tried to shoot him.
+**Chloe will be glad that she still has a gun on the train tracks.
+**Chloe will faux-propose to Max via text during Jefferson's class later in the day.
+*Episode 3
+**Chloe will have the gun in her room.
+**Contributes to Chloe changing her phone background (3 of 4).
+**Frank will say that Max almost shot him when she talks to him in the diner.
+**The gun will not be in [Frank's RV](frank_s_rv.md).
+*Episode 4
+**Makes it significantly harder to resolve the situation with Frank at his RV peacefully.
+***Frank will question Max's peaceful intentions when she says that she isn't there to fight.
+****Max will be given four options to say to Frank.
+****Three options anger Frank.
+***If Frank gets angry enough and a fight ensues, Chloe will injure or kill him (though she will not kill him if she tossed aside the gun due to Max's warning).
+****She will also kill Pompidou if he is able to get out.
+**If the situation with Frank at his RV is not resolved peacefully, Chloe will take his account book code from him.
+**If the situation with Frank at his RV is resolved peacefully, he will hand Chloe his account book code willingly.
+*Episode 5
+**Contributes to Max and Chloe sharing a passionate kiss in the "Sacrifice Chloe" ending.
+|-|Don't ShootDon't Shoot
+*Episode 2
+**Frank will take Chloe's gun.
+**Chloe will express mixed feelings about no longer having a gun on the train tracks.
+**Chloe will ask Max to rewind and shoot Frank via text during Jefferson's class later in the day.
+*Episode 3
+**Chloe will not have the gun in her room.
+**Counts against Chloe changing her phone background (background will not change if another point is lost).
+**Frank will threaten to break Max's camera if she tries to take a picture of him when she approaches him in the diner.
+**The gun will be in Frank's RV.
+***If she finds it, Max will be given the choice to take the gun.
+***Taking the gun affects the confrontation with Frank in Episode 4.
+*Episode 4
+**Makes it significantly easier to resolve the situation with Frank at his RV peacefully.
+***Frank will gently question Max's peaceful intentions when she says that she isn't there to fight.
+****Max is given no options to say to Frank, and the situation is resolved without him getting angry.
+**If Frank gets angry enough and a fight ensues:
+***If Max didn't take the gun from Frank's RV and didn't acquire Nathan's gun in Episode 4:
+****Frank cannot die in the confrontation.
+****Pompidou cannot die in the confrontation.
+****If Pompidou is injured or stuck inside the van, Chloe will shoot Frank in the leg.
+****If Pompidou is able to enter the fight, Chloe will be bitten and Max will be forced to rewind.
+***If Chloe somehow acquired a gun:
+****Chloe will injure or kill Frank (though she will not kill him if she tossed aside the gun due to Max's warning).
+****She will kill Pompidou if he is able to get out.
+**If the situation with Frank at his RV is not resolved peacefully, Chloe will take his account book code from him (and David's gun, if he still has it).
+**If the situation with Frank at his RV is resolved peacefully, he will hand Chloe his account book code willingly (and David's gun, if he still has it).
+*Episode 5
+**Contributes to Max and Chloe sharing a long hug in the "Sacrifice Chloe" ending.
+
+# #
+
+## Train Tracks
+
+|-|Tampered# Tampered
+*Episode 3
+**The trucker outside the Two Whales Diner will say that he is stuck in town due to the tracks being broken.
+|-|Didn't TamperDidn't Tamper
+*Episode 3
+**The trucker outside the Two Whales Diner will say that the work in town has dried up.
+
+# #
+
+## The Vortex Club Party VIP Entry
+
+|-|Gained Entry# Gained Entry
+*Episode 3
+**Max cannot add herself to the Vortex Club Party list since she is already on the list.
+*Episode 4
+**Courtney will greet Max as "our guest star" and escort her into the VIP section if talked to.
+|-|Didn't Gain EntryDidn't Gain Entry
+*Episode 3
+**Max has the option to add her name to the Vortex Club Party list.
+*Episode 4
+**If Max added her name to the Vortex Club Party list:
+***An amusing cutscene will play and Courtney will tell Max that this is the closest she will ever get to the Vortex Club ever again.
+***Max will have to sneak around the side of the pool.
+**If Max didn't add her name to the Vortex Club Party list:
+***Courtney will be unreceptive to Max's pleas and she will have to sneak around the side of the pool.
+
+# #
+
+## Help Warren
+
+|-|Help Warren# Help Warren
+*Episode 2
+**Max can take optional photo #9.
+*Episode 3
+**Warren gets an A- on his experiment.
+**Max can change Warren's grade to an A+.
+*Episode 4
+**Warren will text the original Max before she returns to the original timeline about his grade (positively or very positively).
+*Episode 5
+**Contributes to Max being able to kiss Warren in the Two Whales Diner (x of x).
+|-|Don't Help WarrenDon't Help Warren
+*Episode 2
+**Max cannot take optional photo #9 (unless she rewound after helping Warren).
+*Episode 3
+**Warren gets a B- on his experiment.
+**Max can change Warren's grade to a B+.
+*Episode 4
+**Warren will text the original Max before she returns to the original timeline about his grade (negatively or somewhat negatively).
+*Episode 5
+**Counts against Max being able to kiss Warren in the Two Whales Diner.
+
+# #
+
+## Tell Mr. Jefferson about David's confrontation with Kate
+
+|-|Inform# Inform
+*Episode 2
+**If you accuse Jefferson, he will bring this up to Wells. Wells retorts that Max can speak for herself.
+|-|Don't InformDon't Inform
+*Episode 2
+**If you accuse Jefferson, he will not bring up David.
+
+# #
+
+
+
+Generate five trivia questions relevant to this section of the page.

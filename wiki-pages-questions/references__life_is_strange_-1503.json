@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Name Of The Town That Inspired Arcadia Bay?",
+    "answer": "A",
+    "choices": {
+      "A": "Garibaldi",
+      "B": "Blackwell",
+      "C": "Prescott",
+      "D": "Miskatonic"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Detective Character Referenced In The Prescott Family Article?",
+    "answer": "A",
+    "choices": {
+      "A": "Craig Kennedy",
+      "B": "Sherlock Holmes",
+      "C": "Hercule Poirot",
+      "D": "Philip Marlowe"
+    }
+  },
+  {
+    "question": "What Is The Name Of The School Suggested By Ray Wells For Chloe?",
+    "answer": "B",
+    "choices": {
+      "A": "Blackwell Academy",
+      "B": "Miskatonic Institute",
+      "C": "Arcadia Bay High School",
+      "D": "Prescott Academy"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Character Referenced In Alternative Chloe's Morphine Injector?",
+    "answer": "D",
+    "choices": {
+      "A": "Tony Stark",
+      "B": "Rick Deckard",
+      "C": "Pris Stratton",
+      "D": "River Song"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Book Found In Chloe's Room?",
+    "answer": "A",
+    "choices": {
+      "A": "The Bad Girls to Guns",
+      "B": "The Silence of the Lambs",
+      "C": "The Wizard of Oz",
+      "D": "Coffy"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the name of Kate Marsh's pet rabbit?",
+    "answer": "A",
+    "choices": {
+      "A": "Alice",
+      "B": "Whitey",
+      "C": "Carrot",
+      "D": "Bunny"
+    }
+  },
+  {
+    "question": "Where is Alice's cage moved to in Episode 3?",
+    "answer": "A",
+    "choices": {
+      "A": "Max's Room",
+      "B": "Chloe's Room",
+      "C": "David's Room",
+      "D": "Victoria's Room"
+    }
+  },
+  {
+    "question": "What can Max do with Alice in Episode 3 before leaving her room?",
+    "answer": "A",
+    "choices": {
+      "A": "Feed her carrots",
+      "B": "Take a photo of her",
+      "C": "Play with her",
+      "D": "Let her out of her cage"
+    }
+  },
+  {
+    "question": "What is the significance of Alice's name?",
+    "answer": "A",
+    "choices": {
+      "A": "It is a reference to a character in Alice in Wonderland",
+      "B": "It is a reference to a character in Peter Rabbit",
+      "C": "It is a reference to a character in Watership Down",
+      "D": "It is a reference to a character in The Velveteen Rabbit"
+    }
+  },
+  {
+    "question": "What does Kate ask Max to do for Alice in Episode 4?",
+    "answer": "C",
+    "choices": {
+      "A": "Take her to the park",
+      "B": "Give her a bath",
+      "C": "Tell her she will be seeing her soon",
+      "D": "Buy her a new cage"
+    }
+  }
+]

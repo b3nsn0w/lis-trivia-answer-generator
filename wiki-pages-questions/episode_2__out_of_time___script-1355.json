@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Warren Say About Max's Actions With Kate?",
+    "answer": "A",
+    "choices": {
+      "A": "She Was A Superhero",
+      "B": "She Was A Villain",
+      "C": "She Was A Coward",
+      "D": "She Was A Fool"
+    }
+  },
+  {
+    "question": "What Does Max Tell Warren About Her Feelings After Saving Kate?",
+    "answer": "B",
+    "choices": {
+      "A": "She Feels Like A Hero",
+      "B": "She Feels Like A Failure",
+      "C": "She Feels Like A Coward",
+      "D": "She Feels Like A Villain"
+    }
+  },
+  {
+    "question": "What Does Max Think Is Happening At Blackwell?",
+    "answer": "A",
+    "choices": {
+      "A": "A Conspiracy",
+      "B": "A Party",
+      "C": "A Protest",
+      "D": "A Celebration"
+    }
+  },
+  {
+    "question": "What Do Max And Warren See In The Sky?",
+    "answer": "A",
+    "choices": {
+      "A": "An Eclipse",
+      "B": "A Rainbow",
+      "C": "A UFO",
+      "D": "A Shooting Star"
+    }
+  },
+  {
+    "question": "What Is Found On The Table In The Memorial For Kate?",
+    "answer": "D",
+    "choices": {
+      "A": "A Picture Of Rachel",
+      "B": "A Picture Of Max",
+      "C": "A Picture Of Victoria",
+      "D": "A Picture Of Kate"
+    }
+  }
+]

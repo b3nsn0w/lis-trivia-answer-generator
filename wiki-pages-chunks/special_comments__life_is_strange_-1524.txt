@@ -1,0 +1,78 @@
+Here is a section of the wiki page for Special Comments (Life is Strange):
+
+## Rewind to the End
+When Max reaches the limitation of her rewind ability, she may make one of the following comments:
+**"I can't go back further, I need to let go!" *{{Headphones|file# specialcomms-rwlimit-needtoletgo.ogg}}
+**"Urgh, that's as far as I can go back." *{{Headphones|filespecialcomms-rwlimit-asfarasicango.ogg}}
+**"I can't take it! I have to stop!" *{{Headphones|file# specialcomms-rwlimit-canttakehavetostop.ogg}}
+**"Ungh... ngh... Enough, Max! You can't go back any further!" *{{Headphones|filespecialcomms-rwlimit-enoughmax.ogg}}
+**"That's all you can do, stop before you hurt yourself." *{{Headphones|file# specialcomms-rwlimit-stopbeforehurt.ogg}}
+**"I'm getting dizzy... I can't rewind any more…" *{{Headphones|filespecialcomms-rwlimit-imgettingdizzy.ogg}}
+**"I can only go so far back in time." *{{Headphones|file# specialcomms-rwlimit-canonlygosofar.ogg}}
+**"Whoa, I'm getting sick. I can't rewind any further." *{{Headphones|filespecialcomms-rwlimit-whoagettingsick.ogg}}
+**"Shit, this is as far back as I can rewind." *{{Headphones|file# specialcomms-rwlimit-asfarbackascanrw.ogg}}
+**"I can't continue, it hurts too much!" *{{Headphones|filespecialcomms-rwlimit-cantcontinue.ogg}}
+**"I can't rewind anymore." *{{Headphones|file# specialcomms-rwlimit-cantrwanymore.ogg}}
+**"I have to stop before I pass out." *{{Headphones|filespecialcomms-rwlimit-havetostopbeforepassout.ogg}}
+**"Urgh… I can't stretch time any more." *{{Headphones|file# specialcomms-rwlimit-canstretch.ogg}}
+
+#
+
+## Forced Rewind
+When Max finds herself or a friend nearby in a life-threatening situation, she may make one of the following comments:
+**"I need to figure this out." *{{Headphones|filespecialcomms-forcedrw-needtofigureout.ogg}}
+**"I wonder how I'll get around this?" *{{Headphones|file# specialcomms-forcedrw-wonderhowwillgetaround.ogg}}
+**"There's only one way around this." *{{Headphones|filespecialcomms-forcedrw-onlyonewayaround.ogg}}
+**"Damn, I missed something, I better rewind!" *{{Headphones|file# specialcomms-forcedrw-damnimissed.ogg}}
+**"I must have missed something, I should rewind..." *{{Headphones|filespecialcomms-forcedrw-musthavemissed.ogg}}
+**"I better rewind right now!" *{{Headphones|file# specialcomms-forcedrw-betterrwrightnow.ogg}}
+**"Max, don't fuck around! Rewind!" *{{Headphones|filespecialcomms-forcedrw-maxdontfkaround.ogg}}
+**"Think Max, rewind and find something." *{{Headphones|file# specialcomms-forcedrw-thinkmaxrwandfind.ogg}}
+**"Shit! I need to rewind and do something fast!" *{{Headphones|filespecialcomms-forcedrw-shitineedtorw.ogg}}
+**"I have to rewind now!" *{{Headphones|file# specialcomms-forcedrw-havetorwnow.ogg}}
+**"Max, rewind... Now!" *{{Headphones|filespecialcomms-forcedrw-maxrwnow.ogg}}
+**"No way, Jefferson!"* (helping David fight Jefferson in Episode 5)
+
+#
+
+## Photo Rewind
+(To Be Confirmed if these comments are made when Max rewinds after taking a photo that is not related to the [Optional Photos](optional_photos.md). These are possibly unused content.)
+**"Aw shit, my photo vanished!"*
+**"Man, there goes another Pulitzer!"*
+**"Damn, I wanted to keep that picture!"*
+*"*Are you kidding me? I wanted that shot!"*
+**"I totally lost that picture forever."*
+
+#
+
+## No Exit
+When Max tries to explore an area and is unable to, she may make one of the following comments:
+**"No need to go there now." *{{Headphones|file# specialcomms-noexit-noneedtogo.ogg}}
+**"Nope I don't want to go there..." *{{Headphones|filespecialcomms-noexit-nopeidontwannagothere.ogg}}
+**"No reason to go now." *{{Headphones|file# specialcomms-noexit-noreasontogo.ogg}}
+**"I don't want to go that way." *{{Headphones|filespecialcomms-noexit-idontwannagothatway.ogg}}
+**"Can't go that way." *{{Headphones|file# specialcomms-noexit-cantgothatway.ogg}}
+**"Obviously can't go there." *{{Headphones|filespecialcomms-noexit-obviouslycantgothere.ogg}}
+
+#
+
+## Not Working
+When Max is unsuccessful at performing an action, she may make one of the following comments:
+**"It won't work." *{{Headphones|file# specialcomms-notworking-itwontwork.ogg}}
+**"This does not work." *{{Headphones|filespecialcomms-notworking-doesnotwork.ogg}}
+**"No can do." *{{Headphones|file# specialcomms-notworking-nocando.ogg}}
+**"Not gonna happen." *{{Headphones|filespecialcomms-notworking-notgonnahappen.ogg}}
+**"Well, this isn’t working." *{{Headphones|file# specialcomms-notworking-wellthisisntworking.ogg}}
+**"I best try something else." *{{Headphones|filespecialcomms-notworking-besttrysomethingelse.ogg}}
+
+## Location-Specific 
+Depending on how long Max stays idle in a specific area, it will randomly trigger several inner thoughts from Max, unheard otherwise.
+
+#
+
+## Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+# #
+
+
+
+Generate five trivia questions relevant to this section of the page.

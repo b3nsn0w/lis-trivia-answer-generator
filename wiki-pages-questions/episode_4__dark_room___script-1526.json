@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Ask Ms. Grant About?",
+    "answer": "A",
+    "choices": {
+      "A": "Time Travel",
+      "B": "Nathan Prescott",
+      "C": "The Tobanga",
+      "D": "Kate Marsh"
+    }
+  },
+  {
+    "question": "What Does Ms. Grant Think About Time Travel?",
+    "answer": "B",
+    "choices": {
+      "A": "She Believes It Is Possible",
+      "B": "She Thinks It Is Just A Theory",
+      "C": "She Thinks It Is Dangerous",
+      "D": "She Has No Opinion"
+    }
+  },
+  {
+    "question": "What Does Ms. Grant Say About Nathan Prescott?",
+    "answer": "B",
+    "choices": {
+      "A": "He Is A Good Student",
+      "B": "He Needs Real Help",
+      "C": "He Is A Troublemaker",
+      "D": "She Doesn't Know Him Well"
+    }
+  },
+  {
+    "question": "What Does Ms. Grant Think About The Vortex Club Party?",
+    "answer": "A",
+    "choices": {
+      "A": "It Should Have Been Postponed",
+      "B": "It Was A Good Idea",
+      "C": "It Was Tasteless",
+      "D": "She Has No Opinion"
+    }
+  },
+  {
+    "question": "What Does Ms. Grant Say About Kate Marsh?",
+    "answer": "A",
+    "choices": {
+      "A": "She Was The Sweetest Student Ms. Grant Has Met",
+      "B": "She Was A Troublemaker",
+      "C": "She Was A Bully",
+      "D": "She Was A Good Student"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Name Of The Photography Contest That Max Wins?",
+    "answer": "A",
+    "choices": {
+      "A": "Everyday Heroes Photo Contest",
+      "B": "Arcadia Bay Photo Contest",
+      "C": "San Francisco Photo Contest",
+      "D": "Zeitgeist Gallery Photo Contest"
+    }
+  },
+  {
+    "question": "Who Does Max Inform Of Mark Jefferson's Identity?",
+    "answer": "B",
+    "choices": {
+      "A": "Chloe Price",
+      "B": "David Madsen",
+      "C": "Nathan Prescott",
+      "D": "Victoria Chase"
+    }
+  },
+  {
+    "question": "What Is The Final Decision That Max Must Make In The Episode?",
+    "answer": "A",
+    "choices": {
+      "A": "Sacrifice Chloe's Life To Save Arcadia Bay",
+      "B": "Sacrifice Arcadia Bay To Save Chloe's Life",
+      "C": "Sacrifice Her Powers To Save Both",
+      "D": "Sacrifice Her Life To Save Both"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Location Where Max Is Held Captive?",
+    "answer": "B",
+    "choices": {
+      "A": "Photography Lab",
+      "B": "Dark Room",
+      "C": "Lighthouse",
+      "D": "Two Whales Diner"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Dreamscape That Max Enters As She Travels Through Alternative Realities?",
+    "answer": "A",
+    "choices": {
+      "A": "Max's Nightmare",
+      "B": "Arcadia Bay Nightmare",
+      "C": "Jefferson's Nightmare",
+      "D": "Chloe's Nightmare"
+    }
+  }
+]

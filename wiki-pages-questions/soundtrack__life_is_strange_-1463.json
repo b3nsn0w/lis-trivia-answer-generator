@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Which Song From The Life Is Strange Soundtrack Was Used In The Game's Launch Trailer?",
+    "answer": "A",
+    "choices": {
+      "A": "Spanish Sahara",
+      "B": "Something Good",
+      "C": "In My Mind",
+      "D": "Crosses"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Vinyl Version Of The Life Is Strange Soundtrack?",
+    "answer": "C",
+    "choices": {
+      "A": "Limited Edition Vinyl",
+      "B": "Official Soundtrack Vinyl",
+      "C": "Life Is Strange Vinyl",
+      "D": "Vinyl Soundtrack Sweepstakes"
+    }
+  },
+  {
+    "question": "Where Can You Find The Cover Art For The Life Is Strange Soundtrack CD?",
+    "answer": "B",
+    "choices": {
+      "A": "In Max's Room",
+      "B": "In Chloe's Room",
+      "C": "In The Dark Room",
+      "D": "In The Principal's Office"
+    }
+  }
+]

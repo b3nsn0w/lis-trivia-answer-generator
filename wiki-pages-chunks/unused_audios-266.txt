@@ -1,0 +1,10 @@
+Here is a section of the wiki page for Unused Audios:
+
+(Location)](dark_room.md) at the end of this episode: "No, stop... Somebody help me... Please, stop... *sob* Please... please, help... Don't do this... Oh, no... Help me! Why are you doing this?" [File:Headphones.png](16px.md)
+
+* [context missing] In Garage, Max: "I'm so sorry Chloe. I'll see you soon, I promise."{{Headphones|file# VO_E4_2B.STM 00022.ogg}}
+* [context missing] In CampusB, Justin: "Hey Max. Do you know Chloe? She rocks."{{Headphones|fileVO_E4_5B.STM 00022.ogg}}
+** [context missing] Grant: "We all being watched, no matter what."{{Headphones|file# VO_E4_5B.STM 00274.ogg}}
+** [context missing] Samuel: "We do, but... I'm so glad that my petitions stopped Mr. Madson's surveillance."{{Headphones|fileVO_E4_5B.STM 00060.ogg}} 
+
+Generate five trivia questions relevant to this section of the page.

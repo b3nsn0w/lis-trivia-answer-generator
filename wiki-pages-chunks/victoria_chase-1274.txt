@@ -1,0 +1,75 @@
+Here is a section of the wiki page for Victoria Chase:
+
+#  Victoria Chase 
+
+```yaml
+Character
+
+name: Victoria Chase
+image: Victoria Chase.png
+fullname: Victoria Maribeth Chase
+alsoknown: |-
+  Vic, V, Queen Bee.
+  Queen Bitch (by [Maxine Caulfield
+Max](maxine_caulfield_max.md)): *
+age: |-
+  18 (student record)
+
+  17 (social media)
+born: |-
+  August 14, 1995 (student record)
+
+  November 14, 1995 (social media)
+  Seattle, Washington
+died: October 11, 2013 (pre-rewind, determinant)
+causeofdeath: Killed by [Mark Jefferson](mark_jefferson.md) (pre-rewind, determinant)
+gender: Female
+hair: Blonde
+eyes: Green
+loveinterest: |-
+  [Zachary Riggins](zachary_riggins.md)
+  [Mark Jefferson](mark_jefferson.md) (crush)
+friends: |-
+  [Taylor Christensen](taylor_christensen.md)
+  [Courtney Wagner](courtney_wagner.md)
+  [Nathan Prescott](nathan_prescott.md)
+  [Maxine Caulfield
+Max Caulfield](maxine_caulfield_max_caulfield.md) (alternative timeline, determinant): *
+profession: High school student
+affiliation: '[Blackwell Academy](blackwell_academy.md)[Vortex Club](vortex_club.md)'
+appearance: >-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)  [Episode 2: Out of
+  Time](episode_2__out_of_time.md)  [Episode 3: Chaos
+  Theory](episode_3__chaos_theory.md)  [Episode 4: Dark
+  Room](episode_4__dark_room.md)  [Episode 5:
+  Polarized](episode_5__polarized.md)
+voice: |-
+  [Dani Knights](dani_knights.md) (ENG)
+
+  [Akari Higuchi](akari_higuchi.md) (JPN)
+```
+
+> I always feel like I have to overcompensate. For what, I have no clue. I'm only here to become a photographer, not president.
+
+**Victoria to [Maxine Caulfield**, Max](maxine_caulfield____max.md) in "[Episode 4: Dark Room, Dark Room](episode_4__dark_room__dark_room.md)"
+
+**Victoria Maribeth Chase** (born August 14th, 1995) is a student at [Blackwell Academy](blackwell_academy.md). She is best friends with [Nathan Prescott](nathan_prescott.md), [Taylor Christensen](taylor_christensen.md), and [Courtney Wagner](courtney_wagner.md). She serves as the tertiary antagonist in *[Life is Strange](life_is_strange__season_1.md)*.
+
+Victoria reappears in *[Life is Strange: Before the Storm](before_the_storm.md)*, the prequel to the events of *[Life is Strange](life_is_strange.md)* and is mentioned in a letter in *[Life is Strange 2](life_is_strange_2.md)*.
+
+: *For the image gallery, click [Victoria Chase/Gallery](here.md). To visit* ''Victoria's room, click [Victoria's Room](here.md). To check Victoria's computer files, see [Victoria's Computer](here.md).''
+
+## Personality 
+Rich and arrogant, Victoria is a typical snob who boasts about her expensive designer clothing and state-of-the-art electronic equipment for her classes. [Maxine Caulfield](max_caulfield.md) frequently feels envy regarding her possessions. Victoria gossips and seems like the stereotypical bitchy queen-bee figure at Blackwell. She picks on Max and other students and is known to be quite dramatic. [Hayden Jones](hayden_jones.md) comments that she is funny when intoxicated. It is implied that she only picks on Max out of envy and due to her image at Blackwell--even though she would like to hang out with Max, Victoria believes she is unable to because of her popularity.
+
+Victoria has a secret nerdy side, evident from the collectible [Media:Note3-vicroom-doll.png](figurine.md) Max finds in her bedroom in "[Episode 3: Chaos Theory](chaos_theory.md)". She also seems to be quite studious due to her high GPA and her knowledgeable responses in [Mark Jefferson](mark_jefferson.md)'s class. She is ambitious as she had inquired about having her pictures displayed in the [Kroft Gallery](kroft_gallery.md); she was rejected.
+
+Contrary to the initial impression, Victoria has a vulnerable side. She confides in Max that she overcompensates despite her talent and supposed confidence. It seems as though there is more to her than meets the eye and that she is secretly just hopeful for a future career in photography and wants to fit in.
+
+Victoria seems to have great admiration for Jefferson, displaying his artwork in her room and attempting to flirt with him so her work gets out. She also presumably attends an event at the [Bean Hip Cafe](bean_hip_cafe.md), evident from the flyer in her room about Jefferson's show there.
+
+Her attention-seeking tendencies, inappropriately seductive behavior and exaggerated emotions imply that she may suffer from some form of {{Wiki|Histrionic Personality Disorder}}.
+
+
+
+Generate five trivia questions relevant to this section of the page.

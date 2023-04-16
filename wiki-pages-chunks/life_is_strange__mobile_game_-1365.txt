@@ -1,0 +1,55 @@
+Here is a section of the wiki page for Life is Strange (mobile game):
+
+## Reviews and Accolades 
+*Mac Game of the Year, United States
+*5/5 "A must-have." - The Examiner
+*5/5 "Something truly special." - International Business Times
+*"One of the best games I've played in years." - Forbes
+*10/10 "An impressive coming of age story." - Darkzero
+*8/10 "Rare and precious." - Edge
+*8.5/10 "OUTSTANDING." - GameInformer
+*90% "Dontnod have clearly put a lot of effort into the little details and it’s worth your time paying attention to their work." – Siliconera
+*8.5/10 “The climax of Episode Two is one of the most compelling — and devastating — things I’ve ever experienced in a game, because it’s so real, so understandable. Dontnod nails it.” – Polygon
+*4.5/5 "life is strange has me hooked" - HardcoreGamer
+*8/10 ".…has the potential to outdo both Telltale Games and Quantic Dream." - Metro
+
+## iOS Reception 
+The iOS version has a Metascore of 83.[http://www.metacritic.com/game/ios/life-is-strange Metacritic]
+
+The app has been rated 4.1 out of 5 stars from 1750 reviews in the iOS App Store as of June 4, 2018. It received Apple's iOS "Editor's Choice" label. On February 22, 2018, it had 3.6 stars from 1032 reviews.
+
+Common player review criticism seem to be bugs and the controls. Other players first impressions reported some minor differences of the port and a saving bug.[https://www.reddit.com/r/lifeisstrange/comments/7jq678/s1_e1_my_thoughts_on_episode_1_on_ios/ Reddit post by /u/hopesdead][https://www.reddit.com/r/lifeisstrange/comments/7jnzrm/all_life_is_strange_ios_impressions/ Reddit post by /u/siant]
+
+Touch Arcade's review called the port "mostly great", praising Dontnod's "visual direction" as stunning and the touch controls as "great". It has "some low resolution assets but the overall feel is the same". Criticized was the still not properly lip synced dialog, some visual issues and the lack of proper controller support.[http://toucharcade.com/2017/12/14/life-is-strange-episode-1-chrysalis-review/ Touch Arcade review]
+
+Destructoid's port report author was impressed by the presentation and criticized controlling Max's movement.[https://www.destructoid.com/life-is-strange-is-hella-awkward-on-mobile-479005.phtml Destructoid iOS port report]
+
+Hardcore Gamers's review noted in the closing comments, there are "different technical issues, much like its console counterpart in 2015, but it's not enough to detract newcomers from experiencing its riveting narrative in full effect." The review praised the feature additions of "Photo Mode and bonuses like the iMessage stickers", concluding "Life Is Strange reiterates why fans need to rewind time and once again step into the shoes of Max".[https://www.hardcoregamer.com/2017/12/20/review-life-is-strange-episodes-1-3-ios/283960/ Hardcore Gamer review]
+
+Apple's iOS "Editor's Choice" Award: "The fragility and fear of growing up. The terror of leaping into the unknown. Life is Strange tackles tough issues in a remarkable way, merging the superpowered and surreal with characters that feel authentic. You’re drawn into the adventure through gorgeous visuals. Sharp writing, excellent voice acting, and a compelling story make solving Life is Strange’s mysteries feel essential."
+
+Sensor Tower estimated iOS app revenue of $80K in January, $100k in March, $50k in April, $50k in May and $60k in June 2018.[https://sensortower.com/ios/us/square-enix-inc/app/life-is-strange/1180101534/overview Sensor Tower] It is also estimated that Japanese users (5%) are the third largest userbase after China (60%) and the USA (15%), making up 10% of users and estimated revenue as of June 4, 2018. The USA seems to achieve more revenue than China despite the notable userbase difference.
+
+## Android Reception 
+The app has been rated 4.1 out of 5 stars from 15640 reviews in the Google Play Store as of July 30, 2018.
+
+Android Authority's review noted that the iOS version suffers from less technical drawbacks and concluded that "while the episodic structure lends itself to casual play on the go", it is an "objectively better game on PC or console, due to the platforms' huge visual and technical advantages."[https://www.androidauthority.com/life-is-strange-review-android-895750/ Life is Strange review: Still a (mostly) hella good time on Android] (Android Authority, August 19, 2018)
+
+#
+
+## Google Play Store Description 
+"**Only support devices running Android 6.0 and support OpenGL 3.1. Requires ARM 64 and a minimum of 2 GB of RAM**
+
+Exclusively on Android, the game comes with full controller support."
+
+## Main Challenges Faced 
+According to the [http://bwf-game.com/project/life-is-strange.html developer's website], these were the main challenges faced:
+*Simultaneous transferring of ready third-party AAA project from UE3 to UE4, and from PC/Console to mobile devices;
+*Tools development for content and logic transferring from the original game to UE4;
+*A large number of changes in UE3 brought by the developers of the original game required making drastic changes to many UE4 systems, including change of the render system, lighting, matinee, transferring of the event based game logic management system;
+*Usage of all metal RHI features on iOS devices;
+*Unique mobile functionality development, such as Imessage stickers, Photomode.
+
+
+
+Generate five trivia questions relevant to this section of the page.

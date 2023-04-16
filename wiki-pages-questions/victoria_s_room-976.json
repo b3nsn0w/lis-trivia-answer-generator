@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Written On Victoria's Door Slate In Episode One?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Be The Change You Wish To See - Gandhi\"",
+      "B": "\"Wherever You Go, There I Am\"",
+      "C": "\"Et In Arcadia Ego\"",
+      "D": "\"Life Is Strange\""
+    }
+  },
+  {
+    "question": "What Is The Name Of Victoria's Parents' Gallery?",
+    "answer": "A",
+    "choices": {
+      "A": "The Chase Space",
+      "B": "The Prescott Gallery",
+      "C": "The Blackwell Gallery",
+      "D": "The Jefferson Gallery"
+    }
+  },
+  {
+    "question": "What Does Max Discover About Victoria's Photography In Episode One?",
+    "answer": "A",
+    "choices": {
+      "A": "She Has Top-Of-The-Range Equipment",
+      "B": "She Is A Terrible Photographer",
+      "C": "She Has Never Exhibited Her Work",
+      "D": "She Only Takes Selfies"
+    }
+  },
+  {
+    "question": "What Is The Meaning Behind Victoria's Door Slate In Episode Three?",
+    "answer": "A",
+    "choices": {
+      "A": "A Reminder Of Death's Inevitability",
+      "B": "A Reference To A Utopian Society",
+      "C": "A Tribute To Kate Marsh",
+      "D": "A Message To Max"
+    }
+  },
+  {
+    "question": "What Item Has Victoria Recently Purchased In Episode Three?",
+    "answer": "C",
+    "choices": {
+      "A": "A 3-D Printer",
+      "B": "A Designer Dress",
+      "C": "A Space Doll Figurine",
+      "D": "A Tablet"
+    }
+  }
+]

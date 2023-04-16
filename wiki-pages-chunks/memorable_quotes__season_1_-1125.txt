@@ -1,0 +1,28 @@
+Here is a section of the wiki page for Memorable Quotes (Season 1):
+
+## [Warren Graham](warren_graham.md) 
+{{Quote|You can draw? I thought you were Blinded By Science, not art." - "Art IS Science. Music is math, et cetera, et cetera. I'd put Stephen Hawking against Picasso any day." - "Hardcore. So you must use a computer to draw." - "Of course. I'd love to tweak one of your selfies with some cool graphics...|Max and Warren in "[Episode 1: Chrysalis](chrysalis.md)" (determinant)}}
+{{Quote|I may be a pest, but... I'm a good listener.|Warren to Max in "Chrysalis" (determinant)}}
+{{Quote|I'll be in the TARDIS getting my Delorean ready.|Warren in a text message in "[Episode 2: Out of Time](out_of_time.md)"}}
+{{Quote|I bet you were glad to see her blast up in that truck like a rock star.|Warren talking about Chloe to Max in "[Episode 2: Out of Time](out_of_time.md)"}}
+{{Quote|Weird fucking week. Like that bizarro snowfall yesterday. Speaking of dystopia, that drive-in is having a 70's "Planet of the Apes" marathon. Let's "Go Ape"!" - "No, I don't think I can concentrate on going out to the movies. I just feel like escaping." - "Fine. Be a damned dirty human. I'll "Go Ape" myself.|Warren and Max in "Out of Time" (determinant)}}
+{{Quote|Don't be so modest, Doctor Caulfield...|Warren after being helped by Max with his science experiment in "Out of Time"}}
+{{Quote|You like to hurt people, huh? Like Max? Like Kate? Like me? Huh? Feel this, motherfucker!|Warren in "[Episode 4: Dark Room](dark_room.md)" (determinant)}}
+{{Quote|I really flipped out on Nathan. I just hate bullies...|Warren to Max and Chloe in "Dark Room"}}
+{{Quote|Welcome to the end of the world, ladies. I'm glad you decided to escort me...|Warren to Max and Chloe in "Dark Room"}}
+{{Quote|Hey, hey... I know this is a bad time, but can I get one picture? I've been feeling like this might be actually the end of the world, so... I want to have something for prosperity.|Warren in "Dark Room"}}
+{{Quote|I hate to say I'm glad to see you, but I'm so glad to see you.|Warren in "[Episode 5: Polarized](polarized.md)"}}
+{{Quote|Warren, I came for all of you. Just tell me you do have the photograph." - "I just want..." - "Now shut up and listen." - "Oh yeah, you’re finally going to tell me what you never did in the parking lot...|Warren in "Polarized"}}
+{{Quote|I'm not a real scientist, even though I play one at school, but this seems like pure cause and effect, maybe Chaos Theory...|Warren in "Polarized"}}
+{{Quote|Max... I'm so sorry you had to go through all that... You're the bravest person I've ever known.|Warren in "Polarized"}}
+{{Quote|For every action, there's... there's a reaction... Whenever you reversed or altered time, maybe you caused a chain reaction... even in the environment.|Warren in "Polarized"}}
+{{Quote|I know I can be a pain in the ass... and... and you've always treated me like a person, not... not a beta nerd. I told you before that I'll always believe you...|Warren in "Polarized" (determinant)}}
+{{Quote|Max, of course I believe you. You're the most amazing person I've ever met... and I'm glad you trust me.|Warren in "Polarized" (determinant)}}
+{{Quote|I don't have a fucking clue what's going on. But I have total faith that you'll do the right thing when the time comes. I'm so proud of you, Max. How could there be a more important moment in history? And I'm in the middle of it with you? So thank you for trusting me.|Warren in "Polarized"}}
+{{Quote|Hey... Be careful out there.|Warren in "Polarized"}}
+{{Quote|Just in case we don’t get out of this... I wanted to say..." - "I know, Warren..." - "Of course you do." - "I’m going to make the right choices from now on... I swear." - "That's why you're Super Max.|Warren and Max in "Polarized" (determinant)}}
+{{Quote|I was happy just being your friend... Why do you want all your friends to die?|Warren in [Max's Nightmare](max_s_nightmare.md) in "Polarized" (determinant)}}
+
+
+
+Generate five trivia questions relevant to this section of the page.

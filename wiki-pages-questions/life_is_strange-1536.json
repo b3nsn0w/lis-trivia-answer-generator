@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Which Episode of Life is Strange Won the Best Adventure Award at the Global Game Awards?",
+    "answer": "A",
+    "choices": {
+      "A": "Episode 1",
+      "B": "Episode 2",
+      "C": "Episode 3",
+      "D": "Episode 4"
+    }
+  },
+  {
+    "question": "What Award Did Life is Strange Win at the 2015 Games For Change?",
+    "answer": "A",
+    "choices": {
+      "A": "Best Narrative",
+      "B": "Best Performance",
+      "C": "Best Original Game",
+      "D": "Game of the Year"
+    }
+  },
+  {
+    "question": "What Place Did Life is Strange Get on Vice Canada's Top 20 Video Games of 2015?",
+    "answer": "D",
+    "choices": {
+      "A": "First",
+      "B": "Second",
+      "C": "Third",
+      "D": "Fourth"
+    }
+  }
+]

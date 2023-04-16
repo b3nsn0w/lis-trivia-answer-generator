@@ -1,0 +1,32 @@
+[
+  {
+    "question": "In Episode Three, what is the consequence of breaking the knife to open a vent in Frank's RV?",
+    "answer": "D",
+    "choices": {
+      "A": "Frank attacks Max",
+      "B": "Max gets trapped in the RV",
+      "C": "Max loses her time rewind power temporarily",
+      "D": "Nothing happens, it's an optional action"
+    }
+  },
+  {
+    "question": "In Episode Four, what is the consequence of entering a wrong PIN code on Nathan's phone three times?",
+    "answer": "C",
+    "choices": {
+      "A": "Nathan's phone explodes",
+      "B": "Max gets locked out of Nathan's phone permanently",
+      "C": "Nathan becomes suspicious of Max",
+      "D": "Nothing happens, it's an optional action"
+    }
+  },
+  {
+    "question": "In Episode One, what is the consequence of not avoiding the falling tree?",
+    "answer": "A",
+    "choices": {
+      "A": "Max dies",
+      "B": "Chloe dies",
+      "C": "The path is blocked and Max can't progress",
+      "D": "Nothing happens, it's an optional action"
+    }
+  }
+]

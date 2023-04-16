@@ -1,0 +1,81 @@
+= Madsen Household Bathroom =
+
+{{Free Tab
+|minwidth = 47%
+|maxwidth = 100%
+|borderradius = 2
+|height = 2
+|tab1=Life is Strange |link1=Madsen Household Bathroom
+|tab2=Before the Storm |link2=Price Household Bathroom (Before the Storm)
+}}
+{{Infobox Location
+|name = Madsen Household Bathroom
+|image = madsenbathroom-lis-main.png
+|type = Bathroom
+|location = 44 Cedar Avenue,<br/>[[Arcadia Bay]]
+|state = Oregon
+|appears = [[Episode 1: Chrysalis]]<br \>[[Episode 3: Chaos Theory]]<br \>[[Episode 4: Dark Room]]
+}}
+'''Madsen Household Bathroom''' is a bathroom located upstairs adjacent to [[Joyce and David's Room|Joyce and David's room]] in the [[Madsen Household]]. It is explorable.
+
+== Episode One - "[[Episode 1: Chrysalis|Chrysalis]]" ==
+[[Maxine Caulfield|Max Caulfield]] can explore the bathroom after switching on the light,<ref group="note">If Max attempts to explore the bathroom before switching on the light, she will say: "Whoa! Dark. I cannot see anything."</ref> which flickers as though there is an electrical fault. She can comment on the make-up lying on a counter under the mirror, stating that it must belong to [[Joyce Price|Chloe's mother]] as Chloe wouldn't use animal products. She can also find Fluoxetine pills and hopes that Chloe isn't taking them. When she looks at the hair dye, she comments that she likes that blue on Chloe.
+
+== Episode Three - "[[Episode 3: Chaos Theory|Chaos Theory]]" ==
+When Max enters the corridor, the light in the bathroom is on (still flickering). She can wash her face and brush her teeth with Chloe's toothbrush at the sink. When looking at the mirror, she can take an [[Optional Photos|optional photo]] wearing [[Rachel Amber]]'s clothes. Max can also notice an old pirate towel that hangs on the shower, stating it has belonged to Chloe since they were kids. When she looks at the hair dye, she comments that she hasn't gone through a dying her hair blue phase yet and that maybe it's time.
+
+== Episode Four - "[[Episode 4: Dark Room|Dark Room]]" ==
+When Max enters the corridor, the light in the bathroom is off.<ref group="note">Unlike in Episode 1 where interactions can still be seen in the darkness, Max has to switch the light on to see interaction options in this episode.</ref> She can explore the room after switching on the light. Chloe's pirate towel is no longer visible; however, it may now be inside the laundry basket by the sink. Max can wash her face and open the cabinet above the sink to comment on how happy she is to see Chloe's blue hair dye as it means the "real Chloe" is back with her.
+
+== Alternative Timeline ==
+In the [[Alternative Timeline|alternative timeline]], Chloe asks Max to get her morphine out of a cabinet in the bathroom. Max can explore the bathroom after switching on the light, which still flickers in this reality. The bathroom in this timeline looks familiar except for the new cabinet above the toilet which contains medicine. The scales that lay on the floor between the toilet and laundry basket in the [[Timeline (Life is Strange)|original timeline]] are now tucked under the sink drawers. Max can open the cabinet over the sink and comment that it's cool that Chloe uses natural medicine too.
+
+== Interactions ==
+:<span style="display:none">'''PC users: '''</span>''Hover over the text to see Max's comments. [[Interactions|See here]] for all interactions in the game.''
+=== Episode One - "[[Episode 1: Chrysalis|Chrysalis]]" ===
+*Max can toggle the light switch.
+*{{Interaction|She can look at some makeup.|"This is definitely Joyce's make-up. Chloe wouldn't use animal products."}}
+*{{Interaction|She can open a cabinet containing Chloe's blue hair dye.|"I like Chloe's new hair color. She's the opposite of shy... of me."}}
+*{{Interaction|She can open another cabinet containing antidepressant pills.|"I wonder if Chloe is taking those pills? I hope she's okay…"}}
+
+=== Episode Three - "[[Episode 3: Chaos Theory|Chaos Theory]]" ===
+*{{Interaction|Max can look at a pirate towel.|"Chloe has had this damn dirty pirate towel since we were kids... Serious flashback."}}
+*{{Interaction|She can look at the Blue Jay.|"No way... That's the bluebird I saved Monday in Joyce's room..."}}
+*{{Interaction|She can look at and use the toothbrush.|'''Look: '''"Chloe never used to care when I borrowed her toothbrush."<br>'''Use: '''"What's ironic is I always hated it when Chloe used my toothbrush..."}}
+*{{Interaction|She can use the sink to wash her face.|"Feels so good to wash my face after all that chlorine... and hiding."}}
+*{{Interaction|She can look at the blue hair dye.|"You know, I haven't gone through a 'dyeing my hair blue' phase yet... maybe it's time."}}
+*{{Interaction|She can look at and take an [[Optional Photos|optional photo]] of herself in the mirror.|"Check out Mad Max! Ready to fucking thrash! I am so hardcore."}}
+
+=== Episode Four - "[[Episode 4: Dark Room|Dark Room]]" ===
+*She can toggle the light switch.
+*{{Interaction|She can scare the Blue Jay (if she saved it in the first episode).|"Oh no, that poor little bird has been trapped in here!"<br>'''Window open: '''"Fly! Be free!"<br>'''Window closed: '''"Oh shit! Poor thing..."}}
+*{{Interaction|She can look at the blue hair dye.|"That blue dye makes me so happy. It means the real Chloe is back... with me."}}
+*{{Interaction|She can look at and use the sink.|"Last time I wanted to splash some water on my face, my whole life changed..."}}
+
+== Gallery ==
+<gallery widths="200" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+madsenbathroom-lis-mirror.png|The bathroom mirror
+madsenbathroom-lis-shower.png|The bathtub
+madsenhouse2-bathroom.png|The bathroom cabinet
+madsenhouse2-bathroomstuff.png|Makeup in the bathroom
+Piratetowel.png|Pirate towel ("Chaos Theory")
+</gallery>
+
+{{Location Navbox}}
+<references group="note"/>
+
+[[ru:Ванная дома Мэдсен]]
+[[Category:Locations (Life is Strange)]]
+[[Category:Madsen Household]]
+[[Category:Explorable Locations]]
+[[Category:Explorable Locations (Life is Strange)]]
+[[Category:Episode 1: Chrysalis Locations]]
+[[Category:Episode 2: Out of Time Locations]]
+[[Category:Episode 4: Dark Room Locations]]
+[[Category:Alternative Timeline Locations]]
+[[Category:Optional Photo Location]]
+[[Category:Locations in Arcadia Bay]]
+[[Category:Madsen Family]]
+[[Category:Locations]]
+
+[[Category:Life is Strange]]

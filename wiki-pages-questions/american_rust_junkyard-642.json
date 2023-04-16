@@ -1,0 +1,52 @@
+[
+  {
+    "question": "In which episode do Max and Chloe discover Rachel's body in the junkyard?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1",
+      "B": "Episode 2",
+      "C": "Episode 3",
+      "D": "Episode 4"
+    }
+  },
+  {
+    "question": "What is the reason for Max's inability to use her rewind power in the junkyard?",
+    "answer": "B",
+    "choices": {
+      "A": "She is shot in the neck",
+      "B": "She is drugged with a needle in the neck",
+      "C": "She is hit on the head",
+      "D": "She is electrocuted"
+    }
+  },
+  {
+    "question": "What is the significance of the owl that crosses Max and Chloe's path in the junkyard?",
+    "answer": "D",
+    "choices": {
+      "A": "It represents Rachel Amber's spirit animal",
+      "B": "It is a symbol of good luck",
+      "C": "It is a vessel for evil spirits",
+      "D": "It is a sign of oncoming death"
+    }
+  },
+  {
+    "question": "What is the name of the person who shoots Chloe in the forehead in the junkyard?",
+    "answer": "B",
+    "choices": {
+      "A": "Nathan Prescott",
+      "B": "Mark Jefferson",
+      "C": "Rachel Amber",
+      "D": "The doe"
+    }
+  },
+  {
+    "question": "What is the name of Michel Koch's favorite TV show that heavily influenced Life is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "Friends",
+      "B": "The X-Files",
+      "C": "Twin Peaks",
+      "D": "Breaking Bad"
+    }
+  }
+]

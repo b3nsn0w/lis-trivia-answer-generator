@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Name Of The Song That Chloe And Max Listen To In Chloe's Room?",
+    "answer": "D",
+    "choices": {
+      "A": "\"Obstacles\" by Syd Matters",
+      "B": "\"Lua\" by Bright Eyes",
+      "C": "\"To All Of You\" by Syd Matters",
+      "D": "\"Santa Monica Dream\" by Angus & Julia Stone"
+    }
+  },
+  {
+    "question": "What Does Chloe Ask Max To Retrieve From Her Room?",
+    "answer": "B",
+    "choices": {
+      "A": "A Gun",
+      "B": "A Flash Drive",
+      "C": "A Bottle Of Whiskey",
+      "D": "A Photo Album"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Principal At Blackwell Academy?",
+    "answer": "C",
+    "choices": {
+      "A": "David Madsen",
+      "B": "Mark Jefferson",
+      "C": "Raymond Wells",
+      "D": "Michelle Grant"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Character Who Is Suspicious Of Max's Time Rewind Power?",
+    "answer": "D",
+    "choices": {
+      "A": "Victoria Chase",
+      "B": "Kate Marsh",
+      "C": "Warren Graham",
+      "D": "David Madsen"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Character Who Is Revealed To Be Involved In Drug Dealing?",
+    "answer": "B",
+    "choices": {
+      "A": "Nathan Prescott",
+      "B": "Frank Bowers",
+      "C": "Samuel Taylor",
+      "D": "Trevor Yard"
+    }
+  }
+]

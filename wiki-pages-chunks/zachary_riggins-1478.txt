@@ -1,0 +1,97 @@
+Here is a section of the wiki page for Zachary Riggins:
+
+#  Zachary Riggins 
+
+```yaml
+Character
+
+name: Zachary Riggins
+image: Zachary.png
+alsoknown: >-
+  Zach
+
+  Zak (by Victoria)The name "Zak" appears together with a picture that resembles
+  Zachary when Victoria is called during Jefferson's class at the beginning of
+  the game.
+
+  Mr. Badass Football Hero (by Juliet)
+died: October 11, 2013 (presumed, determinant)
+causeofdeath: Killed by the [Storm
+storm](storm_storm.md) (presumed, determinant): *
+gender: Male
+hair: Brown
+eyes: Blue
+loveinterest: |-
+  [Juliet Watson](juliet_watson.md) (girlfriend)
+  [Victoria Chase](victoria_chase.md)
+friends: |-
+  [Logan Robertson](logan_robertson.md)
+  [:Category:Vortex Club Members
+other Vortex Club members](_category_vortex_club_members_other_vortex_club_members.md): *
+profession: Student
+affiliation: |-
+  [Blackwell Academy](blackwell_academy.md)
+  [Vortex Club](vortex_club.md)
+  [Bigfoots](bigfoots.md)
+appearance: >-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)  [Episode 2: Out of
+  Time](episode_2__out_of_time.md)  [Episode 3: Chaos
+  Theory](episode_3__chaos_theory.md)  [Episode 4: Dark
+  Room](episode_4__dark_room.md)  [Episode 5:
+  Polarized](episode_5__polarized.md)
+voice: '[Derek Phillips](derek_phillips.md) (uncredited)'
+width: 270px
+```
+
+> Zachary always looks like he'd rather be throwing back a beer than a football.
+
+**Max observing Zachary in "[Episode 1: Chrysalis**, Chrysalis](episode_1__chrysalis____chrysalis.md)"
+
+**Zachary Riggins**, also known as **Zach**, is a student at [Blackwell Academy](blackwell_academy.md). He is a popular quarterback and [Vortex Club](vortex_club.md) member who dated [Juliet Watson](juliet_watson.md), until he cheated on her by sexting with [Victoria Chase](victoria_chase.md). He also seems to be very arrogant and a bully since he had pushed [Luke Parker](luke_parker.md) into a locker the previous week.
+
+Zachary reappears in *[Life is Strange: Before the Storm](before_the_storm.md)*, the prequel to the events of *[Life is Strange](life_is_strange.md)*.
+
+## Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+During Mr. Jefferson's class, Victoria's mobile phone vibrates. It's evident to be Zach calling her, as his nickname "Zach" (it reads as "Zak") is displayed on Victoria's mobile phone as well as a picture that resembles him.
+
+When [Maxine Caulfield](max_caulfield.md) is going to save [Chloe Price](chloe_price.md) from being shot by [Nathan Prescott](nathan_prescott.md), she doesn't consider that Zachary could help her.
+
+Later, when Max is going to retrieve [Warren Graham](warren_graham.md)'s [Warren's Flash Drive](flash_drive.md), she sees Zachary playing football with [Logan Robertson](logan_robertson.md) outside the dormitories. Speaking with Zach will cause him to tell Max to step away from the football.
+
+As Max leaves the dorms, he receives a text from Juliet informing him that she knows about him sexting with Victoria. Zach throws his football out of frustration, which hits [Alyssa Anderson](alyssa_anderson.md) in the head unless Max rewinds time to warn her.
+
+When Max later encounters Juliet on the Blackwell parking lot and asks her about her status with Zach, she will reveal that Zach confessed to sexting Victoria. Juliet will add that he treated the situation as a "joke" to justify his actions.
+
+## Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+Before entering the [Photography Lab](art_class.md), Max can have a short talk with Zachary about the drama between him and Juliet. Zachary will say that he doesn't understand Victoria's actions, considering her popularity at Blackwell. Max will reply that talking about this is the very thing Victoria wanted everyone to do, after which Zachary invites Max to see the upcoming football game and the conversation ends.
+
+After [Kate Marsh](kate_marsh.md) left the school building crying, Zach runs into Mr. Jefferson's classroom, saying that something is going on at the dormitories. He is then among the many students watching Kate's attempted or successful suicide.
+
+## Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+At the [Blackwell Swimming Pool](swimming_pool.md), Max can find Zach's phone in the boys' locker room, and will comment on his carelessness. His phone displays a picture of Juliet eating ice cream as a wallpaper, along with messages exchanged with Victoria, which seem to be the sexts Juliet alluded to in the first episode.
+
+Zach_phone_1.png
+Zach_phone_2.png
+
+## Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+At the [End of the World Party](end_of_the_world_vortex_club_party.md), Zach can be seen in the V.I.P. section making out with Juliet. Upon seeing Juliet and Zach, Max will comment that she hopes Zach doesn't enact revenge on her.
+
+## Alternative Timeline 
+When Max enters the [Alternative Timeline (Life is Strange)](alternative_timeline.md), Zachary can be seen talking to Nathan on the [Blackwell Campus](blackwell_campus.md) lawn.
+
+## Relationships 
+#
+
+## Friends
+* [Logan Robertson](logan_robertson.md) -
+
+#
+
+## Love Interests
+* [Juliet Watson](juliet_watson.md) -
+
+* [Victoria Chase](victoria_chase.md) -
+
+
+
+Generate five trivia questions relevant to this section of the page.

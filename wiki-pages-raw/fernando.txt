@@ -1,0 +1,34 @@
+= Fernando =
+
+{{Infobox Character
+|image = Fernando picture.png
+|width = 250px
+|gender = Male
+|friends = [[Kristen]], [[Maxine Caulfield|Max Caulfield]]
+|appearance = [[Episode 1: Chrysalis]] <small>(mentioned)</small>|hair = Dark brown}}
+'''Fernando''' is one of [[Maxine Caulfield|Max Caulfield]]'s friends in [[Seattle]]. He went to the {{Wiki|Fremont Troll}} with Max and [[Kristen]].
+
+He can first be seen and mentioned in [[Episode 1: Chrysalis|Episode 1]] if Max looks at some photos in her [[Max's Room|room]]. She mentions that [[Kristen]] and Fernando were drunk at the Fremont Troll.
+
+[[File:maxkristenfernanto-fremonttroll.png|200px|center]]
+
+{{Character Navbox}}
+
+[[de:Fernando]]
+[[es:Fernando]]
+[[pl:Fernando]]
+[[pt-br:Fernando]]
+[[ru:Фернандо]]
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Male Characters (Life is Strange)]]
+[[Category:Characters (Life is Strange)]]
+[[Category:Mentioned Characters (Life is Strange)]]
+[[Category:Minor Characters]]
+[[Category:Minor Characters (Life is Strange)]]
+[[Category:Episode 1: Chrysalis Characters]]
+[[Category:Alive]]
+[[Category:Seattle Residents]]
+
+[[Category:Mentioned Characters]]
+[[Category:Life is Strange]]

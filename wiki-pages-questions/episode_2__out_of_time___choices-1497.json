@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Happens If Max Tells Kate To Go To The Police In Episode 2?",
+    "answer": "A",
+    "choices": {
+      "A": "Kate Will Accept Max's Statement",
+      "B": "Kate Will Reject Max's Statement",
+      "C": "Kate Will Kick Max Out Of The Room",
+      "D": "Kate Will Write On The Bathroom Mirror"
+    }
+  },
+  {
+    "question": "What Will Happen To The Lipstick Smears On The Bathroom Mirror If Max Ignores Kate's Video Link?",
+    "answer": "B",
+    "choices": {
+      "A": "They Will Remain On The Mirror",
+      "B": "They Will Be Erased By Other People",
+      "C": "They Will Be Written Over With Insults",
+      "D": "They Will Disappear On Their Own"
+    }
+  },
+  {
+    "question": "What Will Taylor Believe If Max Promises Not To Tell Anyone About Victoria Sneaking Out?",
+    "answer": "B",
+    "choices": {
+      "A": "That Max Is Lying",
+      "B": "That Max Is Trustworthy",
+      "C": "That Victoria Is Right About Max",
+      "D": "That Max Is A Gossip"
+    }
+  },
+  {
+    "question": "What Will Brooke Do If Max Rejects Warren's Invitation To The Drive-In?",
+    "answer": "B",
+    "choices": {
+      "A": "She Will Be Bitter And Not Let Max Fly Her Drone",
+      "B": "She Will Be Happy And Let Max Fly Her Drone",
+      "C": "She Will Tell Max That Nathan Isn't Around",
+      "D": "She Will Text Max About Going To The Drive-In"
+    }
+  },
+  {
+    "question": "What Will Happen To The \"Rachel Was Here\" Message In The Junkyard If Max Writes A Message?",
+    "answer": "A",
+    "choices": {
+      "A": "The \"Was\" Will Be Covered With A Red \"Is\"",
+      "B": "Someone Will Circle Max And Chloe's Names And Write \"You're All Going To Die\" In Red",
+      "C": "The Message Will Disappear On Its Own",
+      "D": "The Message Will Be Erased By Other People"
+    }
+  }
+]

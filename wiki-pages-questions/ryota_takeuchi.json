@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who is Ryota Takeuchi?",
+    "answer": "A",
+    "choices": {
+      "A": "A Japanese voice actor",
+      "B": "A character in Life is Strange",
+      "C": "A developer of Life is Strange",
+      "D": "A writer of Life is Strange"
+    }
+  },
+  {
+    "question": "Which character did Ryota Takeuchi voice in the Japanese release of Life is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "Max Caulfield",
+      "B": "Chloe Price",
+      "C": "Frank Bowers",
+      "D": "Nathan Prescott"
+    }
+  },
+  {
+    "question": "What is the name of the Japanese release of Life is Strange?",
+    "answer": "D",
+    "choices": {
+      "A": "Life is Strange: Japan Edition",
+      "B": "Life is Strange: Tokyo Nights",
+      "C": "Life is Strange: Rising Sun",
+      "D": "Life is Strange: Japanese Localization"
+    }
+  },
+  {
+    "question": "What is the Japanese name for Frank Bowers?",
+    "answer": "D",
+    "choices": {
+      "A": "Nathan Prescott",
+      "B": "Max Caulfield",
+      "C": "Chloe Price",
+      "D": "フランク・バワーズ"
+    }
+  }
+]

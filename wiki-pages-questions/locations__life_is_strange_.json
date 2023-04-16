@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Name Of The Town Where Life Is Strange Takes Place?",
+    "answer": "A",
+    "choices": {
+      "A": "Arcadia Bay",
+      "B": "Blackwell",
+      "C": "Seattle",
+      "D": "Portland"
+    }
+  },
+  {
+    "question": "What Is The Name Of The High School In Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Blackwell Academy",
+      "B": "Arcadia Bay High School",
+      "C": "Seattle High School",
+      "D": "Portland High School"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Diner In Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Two Whales Diner",
+      "B": "Blue Moon Diner",
+      "C": "Lucky Star Diner",
+      "D": "Starlight Diner"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Beach In Life Is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "Two Whales Beach",
+      "B": "Arcadia Bay Beach",
+      "C": "Seattle Beach",
+      "D": "Portland Beach"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Junkyard In Life Is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "Two Whales Junkyard",
+      "B": "Arcadia Bay Junkyard",
+      "C": "Seattle Junkyard",
+      "D": "Portland Junkyard"
+    }
+  }
+]

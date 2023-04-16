@@ -1,0 +1,52 @@
+[
+  {
+    "question": "When Was The Leaked Build Of \"Out Of Time\" Posted On 4chan?",
+    "answer": "A",
+    "choices": {
+      "A": "February 6, 2015",
+      "B": "March 25, 2015",
+      "C": "April 1, 2015",
+      "D": "May 10, 2015"
+    }
+  },
+  {
+    "question": "What Did Scott Blows Urge Fans To Do Regarding The Leaked Build?",
+    "answer": "B",
+    "choices": {
+      "A": "Download It Immediately",
+      "B": "Wait For The Official Release Date",
+      "C": "Share It On Social Media",
+      "D": "Ignore The Official Release Date"
+    }
+  },
+  {
+    "question": "What Did Scott Blows Say About The Leak Of Later Episodes Of Life Is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "He Was Excited About It",
+      "B": "He Was Disappointed About It",
+      "C": "He Was Indifferent About It",
+      "D": "He Was Angry About It"
+    }
+  },
+  {
+    "question": "What Did Scott Blows Request Fans To Do Regarding Spoiler Posts?",
+    "answer": "C",
+    "choices": {
+      "A": "Delete Them Immediately",
+      "B": "Report Them To The Authorities",
+      "C": "Mark Them With Spoiler Tags",
+      "D": "Share Them On Social Media"
+    }
+  },
+  {
+    "question": "What Were Some Issues With The Leaked Build Of \"Out Of Time\"?",
+    "answer": "B",
+    "choices": {
+      "A": "Audio Issues",
+      "B": "Graphical Bugs",
+      "C": "Gameplay Glitches",
+      "D": "Storyline Inconsistencies"
+    }
+  }
+]

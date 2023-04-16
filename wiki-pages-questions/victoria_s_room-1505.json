@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Name Of The Gallery That Sent Victoria A Letter?",
+    "answer": "A",
+    "choices": {
+      "A": "Kroft Gallery",
+      "B": "Chase Space",
+      "C": "Bean Hip Cafe",
+      "D": "Blackwell Totem"
+    }
+  },
+  {
+    "question": "What Does Max Do To Victoria's Photo Wall?",
+    "answer": "C",
+    "choices": {
+      "A": "She Messes It Up",
+      "B": "She Takes A Photo Of It",
+      "C": "She Rearranges It",
+      "D": "She Burns It"
+    }
+  },
+  {
+    "question": "What Is Written On The Leaflet Advertising The Bean Hip Cafe Exhibition?",
+    "answer": "A",
+    "choices": {
+      "A": "Unique Point Of View",
+      "B": "Enter The Vortex Club",
+      "C": "Save The Earth",
+      "D": "Portrait De La Assholes"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Person Who Ghostwrote Victoria's Essay About Photography?",
+    "answer": "A",
+    "choices": {
+      "A": "Courtney Wagner",
+      "B": "Kate Marsh",
+      "C": "Nathan Prescott",
+      "D": "Mr. Jefferson"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Glowing Figurine That Victoria Bought?",
+    "answer": "D",
+    "choices": {
+      "A": "Victoria's Secret",
+      "B": "Satan's Figurine",
+      "C": "Glowing Angel",
+      "D": "Geeky Figurine"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is Displayed In The Upper-Floor Exhibit Room Of Zeitgeist Gallery?",
+    "answer": "A",
+    "choices": {
+      "A": "Artwork From Everyday Heroes Contest",
+      "B": "Famous Paintings From Around The World",
+      "C": "Sculptures Made By Local Artists",
+      "D": "Vintage Photographs Of The City"
+    }
+  },
+  {
+    "question": "What Is The First Cluster Of Photos Near The Left Staircase In The Upper-Floor Exhibit Room?",
+    "answer": "A",
+    "choices": {
+      "A": "A Dog And Baby Cuddling",
+      "B": "A Landscape Photo Of A Mountain",
+      "C": "A Monochromatic Picture Of A Person Holding A Camera",
+      "D": "A Waitstaff Member Carrying A Tray Of Food And Drinks"
+    }
+  },
+  {
+    "question": "What Is The Last Photo On The Wall Before Another Wall Sticks Out In The Upper-Floor Exhibit Room?",
+    "answer": "A",
+    "choices": {
+      "A": "A Monochromatic Picture Of Two WLW Kissing",
+      "B": "A Landscape Photo Of A Police Officer With A Riot Shield",
+      "C": "A Portrait Photo Of A Person With A Turtle Shell Helmet",
+      "D": "A Square Photo Of A Model Sitting Down"
+    }
+  },
+  {
+    "question": "What Is Max's Entry To The Everyday Heroes Contest In The Upper-Floor Exhibit Room?",
+    "answer": "A",
+    "choices": {
+      "A": "A Photo Of Herself Facing Her Wall Of Photos",
+      "B": "A Picture Of A Parent And Child Walking Through An Alleyway",
+      "C": "A Landscape Photo Of A Flight Attendant Outside Of A Plane",
+      "D": "A Portrait Photo Of A Person With An Artificial Arm"
+    }
+  }
+]

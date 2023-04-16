@@ -1,0 +1,39 @@
+= McFlinn =
+
+{{Infobox Location
+|image=mcflynn-ep5.png
+|location=Arcadia Bay Ave,<br/>[[Arcadia Bay]]
+|state=Oregon
+|appears=[[Episode 2: Out of Time]]<br>[[Episode 3: Chaos Theory]]<br>[[Episode 5: Polarized]]
+}}'''McFlinn''' is a building in [[Arcadia Bay]], located near the [[Two Whales Diner]]. [[Alyssa Anderson]] can be found stuck there in "[[Episode 5: Polarized|Polarized]]".
+
+== Episode Two - "[[Episode 2: Out of Time|Out of Time]]" ==
+An unfinished version of the building can be seen when [[Maxine Caulfield|Max]] arrives at the diner. If the player attempts to walk to it, Max will turn around, saying that she doesn't want to go there.
+
+== Episode Three - "[[Episode 3: Chaos Theory|Chaos Theory]]" ==
+The same unfinished building can be seen again when Max visits the diner with [[Chloe Price|Chloe]].
+
+== Episode Five - "[[Episode 5: Polarized|Polarized]]" ==
+The building now appears to be finished and has two floors. However, due to the ongoing [[Storm|storm]], it is heavily damaged and the upper floor is almost completely exposed. Three rooms are visible, of which Alyssa's is the largest and the only one with furniture. Alyssa is standing at the edge, pleading for help. Max has the option to approach her and lead her to safety using a nearby plank. If Max didn't help Alyssa in at least one of the previous episodes, talking to her will lead to Alyssa backing off and falling to her death through a hole in the floor.
+
+== Gallery ==
+<gallery widths="200px" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+mcflynn-ep2.png|An unfinished version of the building, visible in Episodes 2 and 3.
+alyssa-ep5stuck.png|Alyssa stuck on the second floor.
+</gallery>
+
+== Trivia ==
+*The letter(s) between the L and N seem to have fallen off, hinting to the fact that the building might not be new.
+*Despite having windows, the interior of the first floor is never shown, unlike many other unexplorable locations on the same street.
+
+{{Location Navbox}}
+[[Category:Locations in Arcadia Bay]]
+[[Category:Locations (Life is Strange)]]
+[[Category:Episode 2: Out of Time Locations]]
+[[Category:Episode 3: Chaos Theory Locations]]
+[[Category:Episode 5: Polarized Locations]]
+[[Category:Two Whales Diner]]
+[[Category:Non-Explorable Locations]]
+[[Category:Locations]]
+
+[[Category:Life is Strange]]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Are The Glyphs In Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Graffiti",
+      "B": "Symbols Of The Eye Of Providence",
+      "C": "Tactical Formations",
+      "D": "Wind Walkers"
+    }
+  },
+  {
+    "question": "What Novel Are The Glyphs In Life Is Strange Based On?",
+    "answer": "B",
+    "choices": {
+      "A": "The WindWalkers",
+      "B": "La Horde du Contrevent",
+      "C": "The Eye of Providence",
+      "D": "Formation de contre en goutte d'eau"
+    }
+  },
+  {
+    "question": "What Is The Water Drop Formation Mentioned In The Novel?",
+    "answer": "A",
+    "choices": {
+      "A": "A Tactical Formation To Withstand Wind",
+      "B": "A Graffiti Symbol",
+      "C": "A Reference To The Eye Of Providence",
+      "D": "A Red Herring"
+    }
+  },
+  {
+    "question": "Where Are The Glyphs Found In Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "On A Wall Of The Maintenance Shed Near The Lighthouse",
+      "B": "In Max's Journal",
+      "C": "On The Walls Of Blackwell Academy",
+      "D": "In Chloe's Room"
+    }
+  },
+  {
+    "question": "Why Were The Glyphs Placed Near The Lighthouse In Life Is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "To Confuse The Player",
+      "B": "To Represent The Eye Of Providence",
+      "C": "To Symbolize Wind",
+      "D": "To Represent Tactical Formations"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Why does Chloe want to take money from the handicapped fund?",
+    "answer": "A",
+    "choices": {
+      "A": "To pay Frank back",
+      "B": "To go on a road trip to Portland",
+      "C": "To buy books from Powell's",
+      "D": "To go to a strip club"
+    }
+  },
+  {
+    "question": "What does Chloe suggest they do with the leftover money after paying Frank back?",
+    "answer": "D",
+    "choices": {
+      "A": "Go on a road trip to Portland",
+      "B": "Buy books from Powell's",
+      "C": "Go to a strip club",
+      "D": "All of the above"
+    }
+  },
+  {
+    "question": "What does Chloe suggest they do after leaving the principal's office?",
+    "answer": "A",
+    "choices": {
+      "A": "Take a midnight swim in the Blackwell pool",
+      "B": "Go to a strip club",
+      "C": "Go on a road trip to Portland",
+      "D": "Buy books from Powell's"
+    }
+  },
+  {
+    "question": "How does Max feel about taking the money from the handicapped fund?",
+    "answer": "B",
+    "choices": {
+      "A": "Proud",
+      "B": "Guilty",
+      "C": "Excited",
+      "D": "Indifferent"
+    }
+  },
+  {
+    "question": "What does Chloe say when Max uses the word \"hella\"?",
+    "answer": "A",
+    "choices": {
+      "A": "\"I think I'm a good bad influence on you.\"",
+      "B": "\"You're such a nerd.\"",
+      "C": "\"That's so lame.\"",
+      "D": "\"I don't understand your slang.\""
+    }
+  }
+]

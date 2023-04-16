@@ -1,0 +1,95 @@
+= Alternative Price Household =
+
+{{Introquote|The house looks so great. William finally had the time to paint the house and fix up the garden.|[[Maxine Caulfield|Max]]'s comment in "[[Episode 4: Dark Room|Dark Room]]"}}
+{{Infobox Location
+|image = Alternative Price Household.png
+|type = House
+|location = 44 Cedar Ave, [[Arcadia Bay]]
+|coordinates= Latitude: 45.54209 <br \>Longitude: -123.917112 
+|state = Oregon
+|appears = [[Episode 3: Chaos Theory]] <small>(cutscene)</small><br \>[[Episode 4: Dark Room]]}}The '''Alternative Price Household''' is the [[Alternative Timeline (Life is Strange)|alternative timeline]] residence of the [[:Category:Price Family|Price family]]; [[William Price]], [[Joyce Price]] and [[Chloe Price]]. There are many differences in the layout and decoration of the house due to [[Maxine Caulfield|Max Caulfield]]'s alterations to the timeline which caused William to remain alive.
+
+== Episode Three - "[[Episode 3: Chaos Theory|Chaos Theory]]" ==
+At the end of the episode, we see the household's exterior and hallway as Max runs to discover what became of Chloe after her [[rewind]]. The most notable difference is that the house is fully painted and clearly better tended to in terms of the garden foliage. There is also the addition of a ramp and handrail at the side of the front door, leading to the driveway. There are no signs of [[Chloe's Truck|Chloe's truck]] in the driveway. Max encounters William who answers the door and is shocked to realize that Chloe has ended up as a quadriplegic in a wheelchair. There seem to be few signs of the interior changing much over the years.
+
+== Episode Four - "[[Episode 4: Dark Room|Dark Room]]" ==
+A large part of the fourth episode's beginning is set in the Household. It becomes fully explorable during this time. Max spends time with Chloe in the house and fetches her morphine for her from the upstairs bathroom cabinet. Max can also observe the house and speak to both Joyce and William.
+
+Max ultimately leaves the alternative timeline, returning to the [[Timeline|original timeline]] after correcting her change of saving William. When she returns, a similar amount of time seems to have passed, as she ends up in [[Chloe's Room|Chloe's room]] with her, the two having made up after Chloe's outburst about her father.
+
+== Notable Differences ==
+In the alternative timeline, there are some minor changes to the house.
+
+=== <u>Outside</u> ===
+Its blue paint job on the exterior is fully completed, probably because William was alive in order to finish the work. There is the addition of a handrail and ramp beside their doorway, presumably to help Chloe after her accident.
+
+The garden is also far better cared for and is less nostalgic than the unkempt garden in the original timeline. The swing has been removed, probably because Chloe is now unable to use it, and seeing it would bring sadness rather than joy. The barbecue is also maintained and seems to be actively used by the family. The mural created by Max and Chloe during their childhood has also been moved so that Chloe can easily see it from her new bedroom window. The rubbish from Chloe's partying days is long gone, and the garden is well groomed in comparison. A patio set next to the back door is home to one of Chloe's rocker-chick magazines, which she clearly still enjoys despite being unable to mosh. This emphasizes that she would probably be more like her original self had she not had her accident.
+
+=== <u>Inside</u> ===
+Downstairs, the furniture is much the same but moved around slightly. The photographs belonging to David and the ones of his life with Joyce are clearly no longer there. The family also had a trip to Paris; a statuette of the Eiffel Tower on the side bench by the garage door can lead to a conversation with William once examined.
+
+Medical bills are prominent throughout the house, as Chloe's illness takes a clear toll on the financial situation for the Price family. They are holding a yard sale to make a little extra money, evident from the flier by the front door.
+
+[[Alternative Price Garage|The garage]] is now completely different after Chloe's parents renovated it in order to give her a downstairs bedroom and bathroom. They have added a window in addition to the renovations to give Chloe a good view of the outside world.
+
+An additional cabinet has been added in the upstairs bathroom above the toilet to contain Chloe's medications. There is no trace of the blue hair dye present in the bathroom in the regular timeline, and it's clear that the place is better cared for due to the fact that there is slightly less clutter. 
+[[File:Blue Butterfly Poster.png|thumb|120px|The blue butterfly picture.]]
+[[Chloe's Room#Alternate Timeline|Chloe's upstairs bedroom]] is completely abandoned after the accident. Her walls are bare, insinuating that she never got around to the trashing and rebellious defacing she had time to do in the original timeline. The childhood height measure recorded by William remains untouched in the corner, as Chloe was never resentful of his death and never defaced it. There are boxes of Chloe's belongings packed away in the room. There is also a letter from her uncle apologizing for not visiting, much like everyone else in her life. Another notable item in the room is a picture of a blue butterfly on Chloe's shelf. This emphasizes Max's new-found relationship with the butterfly effect and the true effects of her actions through time.
+
+The furniture in Joyce and William's bedroom is moved around with the bed no longer facing the doorway.
+
+== Interactions ==
+:<span style="display:none">'''PC users: '''</span>''Hover over the text to see Max's comments. [[Interactions|See here]] for all interactions in the game.''
+=== <u>Downstairs</u> ===
+*{{Interaction|Max can look at Chloe's medical bills.|"Damn, this is just for Chloe’s basic supplies…"}}
+*{{Interaction|She can look at a statuette of the {{Wiki|Eiffel Tower}}.|"Bonjour! That’s great they finally went to Paris."}}
+*{{Interaction|She can look at a garage sale flyer.|"Joyce and William never had a garage sale before…"}}
+*{{Interaction|She can look at the mail.|"They’re drowning in debt... just to take care of their daughter. Such bullshit."}}
+*{{Interaction|She can look at a letter on the living room table.|"They might get their own home taken away because of medical bills... That’s terrible."}}
+*{{Interaction|She can read an issue of the [[Arcadia Bay Beacon]] newspaper.|'''Whales article: '''"These whales are just a preview of the tornado to come... and the Prescott<br>Foundation? Jesus."<br>'''Rachel article: '''"[[Rachel Amber]] is even missing in this reality... I guess I can't change everything."}}
+*She can speak to [[William Price]].
+*{{Interaction|She can look at a mark on the fireplace (only if she left a mark in Episode 3).|"Yep, that’s the same graffiti from before…"}}
+*{{Interaction|She can look at William's car keys.|"To think that our destiny is linked to goddamn car keys…"}}
+*{{Interaction|She can look at several food coupons.|"Joyce is a food coupon boss."}}
+*{{Interaction|She can look at a jar with cookies.|"No change to spare anymore. Now it's back to cookies."}}
+*{{Interaction|She can look at a tube television in the living room.|"They gave Chloe their giant expensive HD TV and they use her shitty tube television."}}
+
+In the backyard,
+*{{Interaction|She can look at the empty lawn.|"Oh man, the swing is gone now... Must have been sad for Chloe when William took it down."}}
+*{{Interaction|She can look at her and Chloe's childhood drawing.|"Chloe actually moved our drawing so she could see it from her room... Chloe..."}}
+*{{Interaction|She can look at [[Bongo]]'s grave.|"I'm sorry, Bongo kitty, but you passed on before I changed this reality..."}}
+*{{Interaction|She can look at the house's exterior.|"The house looks so great. William finally had the time to paint the house and fix up the garden."}}
+*{{Interaction|She can look at the window to the garage.|"I'm glad Chloe gets a room with a view."}}
+*{{Interaction|She can look at several dead birds.|"Look at all these dead birds... It’s happening here too...?"}}
+
+=== <u>Upstairs</u> ===
+*{{Interaction|Max can look at a picture of [[Arcadia Bay]].|"It's all about you, Arcadia Bay, isn't it?"}}
+*{{Interaction|She can look out the window.|"Apparently the only thing that hasn't changed is this view."}}
+*She can toggle the light switch in the bathroom.
+*{{Interaction|She can look at herself in the bathroom mirror.|"How’s it going, time tripper? Funny, I think I look older..."}}
+*{{Interaction|She can grab Chloe's morphine from a bathroom cabinet '''(required)'''.|"Here it is. Never thought I'd be delivering morphine to my best friend."}}
+*{{Interaction|She can open two more cabinets in the bathroom.|"The bathroom looks almost the same, just more medicine."<br>"It's cool that Chloe uses natural medicine, too."}}
+*{{Interaction|She can open a drawer in the bathroom.|"Nothing here."}}
+*{{Interaction|She can look at and open the door to Chloe's room.|"Chloe's door doesn't have a warning anymore."|'' (See [[Chloe's_Room#Alternative Timeline|here]] for the interactions)''}}
+*She can open the door to Joyce and William's bedroom. ''(See [[Joyce and David's Room#Interactions|here]] for the interactions)''
+
+== Trivia ==
+*There is a blue {{Wiki|Awareness ribbon}} on the photo album in Alternative Chloe’s room. Among its meanings is ARDS ({{Wiki|Acute respiratory distress syndrome|Acute Respiratory Distress Syndrome}}), a medical condition that may be caused by trauma.
+
+{{Location Navbox}}
+
+[[pt-br:Casa dos Price Alternativa]]
+[[ru:Альтернативный дом Прайс]]
+[[es:Casa alternativa de la familia Price]]
+[[Category:Locations (Life is Strange)]]
+[[Category:Episode 3: Chaos Theory Locations]]
+[[Category:Episode 4: Dark Room Locations]]
+[[Category:Alternative Timeline Locations]]
+[[Category:Other Locations]]
+[[Category:Explorable Locations]]
+[[Category:Price Family]]
+[[Category:Explorable Locations (Life is Strange)]]
+[[Category:Locations in Arcadia Bay]]
+[[Category:Locations]]
+[[Category:Houses]]
+[[Category:Life is Strange]]

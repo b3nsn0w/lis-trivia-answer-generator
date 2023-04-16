@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Do To Start The Fire Alarm?",
+    "answer": "B",
+    "choices": {
+      "A": "Pulls The Alarm Lever",
+      "B": "Breaks The Glass With A Hammer",
+      "C": "Presses The Emergency Button",
+      "D": "Sprays The Fire Extinguisher"
+    }
+  },
+  {
+    "question": "What Does Nathan Do After Chloe Knees Him?",
+    "answer": "A",
+    "choices": {
+      "A": "Picks Up His Gun And Leaves",
+      "B": "Apologizes To Chloe",
+      "C": "Calls The Police",
+      "D": "Cries On The Floor"
+    }
+  },
+  {
+    "question": "Who Confronts Max In The Corridor After The Bathroom Incident?",
+    "answer": "C",
+    "choices": {
+      "A": "Principal Wells",
+      "B": "Nathan Prescott",
+      "C": "David Madsen",
+      "D": "Chloe Price"
+    }
+  },
+  {
+    "question": "What Does David Accuse Max Of?",
+    "answer": "D",
+    "choices": {
+      "A": "Stealing From The School",
+      "B": "Cheating On A Test",
+      "C": "Starting The Fire Alarm",
+      "D": "Hiding Something"
+    }
+  },
+  {
+    "question": "What Does Max Do To Stop Nathan From Shooting Chloe?",
+    "answer": "A",
+    "choices": {
+      "A": "She Rewinds Time",
+      "B": "She Disarms Nathan",
+      "C": "She Calls The Police",
+      "D": "She Hides Behind The Sink"
+    }
+  }
+]

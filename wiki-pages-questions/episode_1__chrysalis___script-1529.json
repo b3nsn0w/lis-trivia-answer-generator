@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is Stella's opinion of Mark Jefferson's photography?",
+    "answer": "C",
+    "choices": {
+      "A": "She thinks it's overrated",
+      "B": "She thinks it's pretentious",
+      "C": "She thinks it's great",
+      "D": "She thinks it's mediocre"
+    }
+  },
+  {
+    "question": "What trick does Max ask Justin to perform on his skateboard?",
+    "answer": "B",
+    "choices": {
+      "A": "Noseslide",
+      "B": "Tre flip",
+      "C": "Kickflip",
+      "D": "Ollie"
+    }
+  },
+  {
+    "question": "Who used to skate with Justin and his friends before she disappeared?",
+    "answer": "B",
+    "choices": {
+      "A": "Victoria",
+      "B": "Rachel Amber",
+      "C": "Stella",
+      "D": "Mark Jefferson"
+    }
+  }
+]

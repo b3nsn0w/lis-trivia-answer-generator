@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who are the artists behind the song \"Hold on Hope\"?",
+    "answer": "A",
+    "choices": {
+      "A": "Dan Gautreau & Wolfgang Black",
+      "B": "Dan Gautreau & Wolfgang White",
+      "C": "Dan Gautreau & Wolfgang Grey",
+      "D": "Dan Gautreau & Wolfgang Brown"
+    }
+  },
+  {
+    "question": "In which trailer was \"Hold on Hope\" used?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "According to the lyrics, what won't the defeat give us?",
+    "answer": "B",
+    "choices": {
+      "A": "The future",
+      "B": "The past",
+      "C": "The present",
+      "D": "The memories"
+    }
+  },
+  {
+    "question": "Who will carry you home, according to the lyrics of the song?",
+    "answer": "D",
+    "choices": {
+      "A": "Your friends",
+      "B": "Your family",
+      "C": "Your lover",
+      "D": "The singer"
+    }
+  }
+]

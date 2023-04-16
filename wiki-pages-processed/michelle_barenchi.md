@@ -1,0 +1,21 @@
+#  Michelle Barenchi 
+
+[File:SwimLikeAnOtter-flyer.png](thumb.md)
+**Michelle Barenchi** is a retired Physical Education teacher employed at [Blackwell Academy](blackwell_academy.md) as the coach for the [The Otters](the_otters.md). A flyer advertising her services can be seen on a noticeboard in the [Blackwell Academy Hallway](blackwell_hallway.md) in [Episode 1: Chrysalis](episode_1.md), [Episode 2: Out of Time](episode_2.md), and [Episode 5: Polarized](episode_5.md). It reads as follows:
+
+{{Bigquote
+|Swim Like An Otter!
+
+Experienced, retired PE teacher and former Otter Champion will personally train you to glide through the water and embrace your inner otter! For details, contact Michelle Barenchi at WaterLogged@ArcadiaBayGym.wet
+}}
+
+##  Trivia 
+* There is another staff member at Blackwell Academy with the same last name, [An-Marie Barenchi](an_marie_barenchi.md). She is the school nurse and there is a possibility that she is related to Michelle Barenchi.
+
+{{Character Navbox}}
+
+##  Trivia 
+* There is another staff member at Blackwell Academy with the same last name, [An-Marie Barenchi](an_marie_barenchi.md). She is the school nurse and there is a possibility that she is related to Michelle Barenchi.
+
+{{Character Navbox}}
+

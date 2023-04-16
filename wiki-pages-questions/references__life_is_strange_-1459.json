@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Book Did Max Borrow From Kate Marsh?",
+    "answer": "A",
+    "choices": {
+      "A": "The October Country",
+      "B": "Battle Royale",
+      "C": "Nineteen Eighty-Four",
+      "D": "The Girl with the Dragon Tattoo"
+    }
+  },
+  {
+    "question": "What Is The Name Of The HiFly Drone Model That Brooke Owns?",
+    "answer": "A",
+    "choices": {
+      "A": "B400 EVO",
+      "B": "DJI Mavic Air 2",
+      "C": "Parrot Bebop 2",
+      "D": "Syma X5C"
+    }
+  },
+  {
+    "question": "What Is The Motif On Chloe's Skull Shirt?",
+    "answer": "B",
+    "choices": {
+      "A": "A Dragon",
+      "B": "A Shark",
+      "C": "A Snake",
+      "D": "A Spider"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Designer Who Created The \"Hole To Another Universe\" Wall Sticker?",
+    "answer": "C",
+    "choices": {
+      "A": "Steven Spielberg",
+      "B": "Ray Bradbury",
+      "C": "Dan Golden",
+      "D": "George Orwell"
+    }
+  }
+]

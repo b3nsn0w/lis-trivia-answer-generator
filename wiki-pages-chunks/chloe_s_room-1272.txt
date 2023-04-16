@@ -1,0 +1,71 @@
+Here is a section of the wiki page for Chloe's Room:
+
+#  Chloe's Room 
+
+```yaml
+Location
+
+image: ChloeRoom_EP3.jpg
+name: Chloe's Bedroom
+type: Bedroom
+location: Madsen Household, Arcadia Bay
+state: Oregon
+appears: |-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)
+  [Episode 3: Chaos Theory](episode_3__chaos_theory.md)
+  [Episode 4: Dark Room](episode_4__dark_room.md)
+```
+
+> My room looks a bit different than the last time you saw it.
+
+**[Chloe Price](chloe_price.md) to [Maxine Caulfield**, Max Caulfield](maxine_caulfield____max_caulfield.md) in "[Episode 1: Chrysalis, Chrysalis](episode_1__chrysalis__chrysalis.md)"
+
+'''Chloe's bedroom'* is located upstairs above the garage in the [Madsen Household](madsen_household.md). It is an explorable location in both *[Life is Strange](life_is_strange.md)* and its prequel *[Life is Strange: Before the Storm](before_the_storm.md)*.
+
+## Overview 
+The room is as rundown and chaotic as Chloe herself and reflects the complete change in her lifestyle over the five years since she last saw Max. It reveals a lot about her personality and mental state. The walls are adorned with posters and graffiti; trash, old junk, and discarded clothing litters the floor. There are many empty beer bottles scattered around, as well as empty pizza boxes that have been left in various nooks and crannies. The two trash cans in the room seem rarely used. There are also a lot of mementos of Max, [William Price](william_price.md) and [Rachel Amber](rachel_amber.md).
+
+#
+
+## Notable Items 
+* **CD Player** - See below for more.
+* **Laptop** - Used in the investigation in [Episode 4: Dark Room](episode_4.md) *(See [Chloe's Computer](here.md) for more).''
+* **TV** - Max notes that this used to be in the living room.
+* **Snow Globe** - Max can break this in [Episode 1: Chrysalis](episode_1.md) by checking the box on the top shelf by the closet.
+* **Grade Papers** - Max can also sneak a peek at Chloe's grades if she's broken the snow globe.
+* **Drawers** - Max can examine Chloe's new punk-rock clothing range by opening these.
+* **Closet** - Max is able to hide here in Episode 1 by moving the lamp out of place after rewinding.
+* **Desk** - Max can use the tiny tools she collects here in order to attempt fixing her camera.
+* **The Lock Box** - Under Chloe's bed, this contains items relating to Rachel Amber.
+* **The Cabinet Drawers** - In here are cute mementos from Chloe and Max's childhood, such as drawings and their old cellphones.
+* **Old Suitcase** - Chloe is messy, and leaves an old suitcase filled with beer bottles in the corner by her bed.
+
+#
+
+## The Walls 
+Chloe's room is particularly visual in the game, mainly attributed to the craziness of the walls she has plastered with items over the years. There are many hidden extras to be found among the posters.
+
+Chloe kept a **height chart** as a child, which she filled out with her father, William. After his death, Chloe tarnished the record, scratching out the heights with sayings such as, "Dad's Gone", showcasing her anger and frustration at the loss of her father.   
+[File:Millennium poster chloe's room.png](thumb.md)
+**The Eye of Providence** features on the wall of Chloe's room next to the window. Within the game, this is a sign of Max gaining insight into something she would never have seen if not for her saving Chloe at the beginning of the game. If Chloe had died she would never have seen the bedroom with Chloe in it, and never experienced the time spent within the room.
+
+This **poster of two faces** is a possible reference to the American film adaption of the *{{Wiki|The Girl with the Dragon Tattoo (2011 film)|Girl with the Dragon Tattoo}}*; high likelihood considering Chloe's similarities to the lead female protagonist, Lisbeth.
+
+#
+
+## Music 
+The CD Player is a key item in the room, which Max can activate at certain points while in the bedroom. Initially, the first song played is "[Santa Monica Dream](santa_monica_dream.md)" by Angus & Julia Stone. "[Piano Fire](piano_fire.md)" by Sparklehorse is also featured in Episode 1, while in Episode 4: "Dark Room", "[In My Mind](in_my_mind.md)" by Amanda Palmer features as Max and Chloe reunite after the events of the [Alternative Timeline (Life is Strange)](alternative_timeline.md).
+
+#
+
+## Alternative Timeline 
+In the alternative timeline, Chloe's room is empty and primarily used for the storage of her old belongings, as she can no longer climb the stairs to get to her old bedroom. Her mattress lies propped up against the walls, and there is no sign of the rebellious graffiti or posters which previously adorned the room. A notable item in the room is a picture of a blue butterfly which freaks Max out and emphasizes her choice as part of the Butterfly Effect.
+
+## Interactions 
+:**PC users: **''Hover over the text to see Max's comments. [Interactions](see_here.md) for all interactions in the game.''
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

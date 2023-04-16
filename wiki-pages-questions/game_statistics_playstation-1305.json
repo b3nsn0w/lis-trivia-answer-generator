@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Did 75% Of Players Choose To Do With Victoria's Photos?",
+    "answer": "C",
+    "choices": {
+      "A": "Reorganize them",
+      "B": "Delete them",
+      "C": "Keep them as they were",
+      "D": "Burn them"
+    }
+  },
+  {
+    "question": "What Did 35% Of Players Choose To Do With Lisa The Plant?",
+    "answer": "A",
+    "choices": {
+      "A": "Water it",
+      "B": "Cut it down",
+      "C": "Ignore it",
+      "D": "Give it away"
+    }
+  },
+  {
+    "question": "What Did 63% Of Players Choose To Do With David's Files?",
+    "answer": "A",
+    "choices": {
+      "A": "Read them",
+      "B": "Delete them",
+      "C": "Burn them",
+      "D": "Return them to David"
+    }
+  },
+  {
+    "question": "What Did 60% Of Players Choose To Do With The Blue Jay?",
+    "answer": "B",
+    "choices": {
+      "A": "Save it",
+      "B": "Let it die",
+      "C": "Take it as a pet",
+      "D": "Ignore it"
+    }
+  }
+]

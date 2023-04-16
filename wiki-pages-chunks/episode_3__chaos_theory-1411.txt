@@ -1,0 +1,95 @@
+Here is a section of the wiki page for Episode 3: Chaos Theory:
+
+#  Episode 3: Chaos Theory 
+
+```yaml
+Episode
+
+title: Chaos Theory
+season: '1'
+number: '3'
+image: TX Episode3 Preview.png
+imagewidth: '250'
+airdate: May 19, 2015
+writer: '[Jean-Luc Cano](jean_luc_cano.md)[Christian Divine](christian_divine.md)'
+director: |-
+  [Michel Koch](michel_koch.md)
+  [Raoul Barbet](raoul_barbet.md)
+Previous: '[Episode 2: Out of Time](episode_2__out_of_time.md)'
+Next: '[Episode 4: Dark Room](episode_4__dark_room.md)'
+```
+
+{{Scaleimage|file# Episode_3_Cover_(2).jpg|sizelarge}}
+
+"**Chaos Theory**" is the third episode of *[Life is Strange](life_is_strange.md)*. The episode was released May 19, 2015, and is available on PC, Mac, PS3, PS4, Xbox 360 and Xbox One.
+
+## Synopsis 
+[Maxine Caulfield](max_caulfield.md) and her "partner in crime", [Chloe Price](chloe_price.md), start an investigation into the mysteries surrounding Blackwell students [Kate Marsh](kate_marsh.md) and [Rachel Amber](rachel_amber.md). As they make headway, Chloe discovers that even those close to her have secrets. A new [Rewind](rewind_power.md) presents itself to Max, and its use has devastating consequences.
+
+: ''See here for [Max's Diary#Episode_Three_-_.22Chaos_Theory.22](diary_entries.md) and [Max's Messages#Episode_Three_-_.22Chaos_Theory.22](messages.md) from this episode.''
+
+## Checkpoints 
+# Girls' Dormitories
+# [Prescott Dormitory](dormitories.md)
+# [Main Campus](main_campus.md) - Evening
+# [Blackwell Academy](high_school.md) - Evening
+# [Blackwell Swimming Pool](swimming_pool.md) - Evening
+# [Blackwell Parking Lot](parking_lot.md) - Evening
+# [Madsen Household](chloe_s_house.md) - Upstairs
+# Chloe's House - Downstairs
+# [Two Whales Diner](diner.md)
+# Chloe's Truck
+# Main Campus - Noon
+# [Max's Room](max_s_room.md)
+# Chloe's House - Focus
+# [Alternative Timeline (Life is Strange)](alternative.md) Main Campus
+
+## Characters 
+{| width# "100%" align"center"
+| valign# "top" |
+*[Maxine Caulfield](max_caulfield.md)
+*[Juliet Watson](juliet_watson.md)
+*[Daniel DaCosta](daniel_dacosta.md)
+*[Dana Ward](dana_ward.md)
+*[Taylor Christensen](taylor_christensen.md)
+* Principal [Raymond Wells](raymond_wells.md)
+* [Chloe Price](chloe_price.md)
+* [Warren Graham](warren_graham.md)
+* [Victoria Chase](victoria_chase.md)
+* [Mark Jefferson](mark_jefferson.md)
+* [David Madsen](david_madsen.md)
+* [Joyce Price](joyce_price.md)
+* [Richard Marsh](richard_marsh.md) (**Determinant**)
+* [Kate Marsh](kate_marsh.md) (**Determinant**)
+* [Alice the Rabbit](alice.md) (Kate's rabbit)
+* [R.J. MacReady](r_j__macready.md) (Fisherman)
+* [Homeless Lady](homeless_lady.md)
+| valign"top" |
+* [Truck Driver](truck_driver.md) (In front of the [Two Whales Diner](diner.md))
+* [Weird Lady](weird_lady.md) (Diner)
+* [Diner Dude](dude.md) (Diner)
+* [Alyssa Anderson](alyssa_anderson.md)
+* Officer [Anderson Berry](anderson_berry.md)
+* [Nathan Prescott](nathan_prescott.md)
+* [Frank Bowers](frank_bowers.md)
+* [Pompidou](pompidou.md) (Frank's dog)
+* [William Price](william_price.md)
+* [Hayden Jones](hayden_jones.md)
+* [Courtney Wagner](courtney_wagner.md)
+* [Zachary Riggins](zachary_riggins.md)
+* [Evan Harris](evan_harris.md)
+* [Brooke Scott](brooke_scott.md)
+* [Bernadette Hoida](bernadette_hoida.md) (Mentioned)
+* [Michelle Grant](michelle_grant.md) (Mentioned)
+* [Rachel Amber](rachel_amber.md) (Mentioned)
+|}
+
+## Deaths 
+*[Lisa the Plant](lisa_the_plant.md) (Determinant) - Lisa might be found drowned or dehydrated depending on Max's earlier choices to water her twice or not watering her at all in the last two episodes.
+*Local Birds - Dead birds are seen in the backyard of the Madsen household.
+*Fish (Mentioned) - The fisherman mentions that there are no edible fish left in [Arcadia Bay](arcadia_bay.md).
+*Humpback Whales - Humpback Whales can be seen lying on the [Alternative Beach](beach.md) while Max is on her way to Chloe's House in the [Alternative Timeline (Life is Strange)](alternative_timeline.md). They are also there in the [Timeline](main_timeline.md).
+
+
+
+Generate five trivia questions relevant to this section of the page.

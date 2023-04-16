@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Similarity Between Max And Evan From The Butterfly Effect?",
+    "answer": "A",
+    "choices": {
+      "A": "They Both Have The Ability To Alter Their Past",
+      "B": "They Both Suffer From Headaches And Nosebleeds",
+      "C": "They Both Move Away From Their Hometown",
+      "D": "They Both End Up In A Wheelchair"
+    }
+  },
+  {
+    "question": "What Is The Common Central Theme Between Donnie Darko And Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "The Idea Of Sacrificing One Person To Save A Small Town",
+      "B": "The Idea Of Parallel Universes",
+      "C": "The Idea Of Time Travel",
+      "D": "The Idea Of Abusive Male Figures"
+    }
+  },
+  {
+    "question": "What Is The Connection Between Life Is Strange And Blue Is The Warmest Colour?",
+    "answer": "D",
+    "choices": {
+      "A": "Both Revolve Around LGBT Themes",
+      "B": "Both Feature A Blue-Haired Girl",
+      "C": "Both Feature An Introverted Girl Falling For A Wild Girl",
+      "D": "All Of The Above"
+    }
+  },
+  {
+    "question": "What Is The Similarity Between The Villains In The Girl With The Dragon Tattoo And Life Is Strange?",
+    "answer": "D",
+    "choices": {
+      "A": "They Both Keep Documentation Of Their Victims In Photos",
+      "B": "They Both Own A Sleek, High-Tech Dungeon",
+      "C": "They Both Acquired Their Psychopathic Tendencies From Their Fathers",
+      "D": "All Of The Above"
+    }
+  },
+  {
+    "question": "What Is The Connection Between Life Is Strange And Shooting At Glass Bottles?",
+    "answer": "A",
+    "choices": {
+      "A": "Both Feature Scenes Involving Shooting At Glass Bottles For Target Practice",
+      "B": "Both Feature Characters Obsessed With Shooting",
+      "C": "Both Feature Characters Who Are Skilled At Shooting",
+      "D": "Both Feature Glass Bottles As A Symbolic Element"
+    }
+  }
+]

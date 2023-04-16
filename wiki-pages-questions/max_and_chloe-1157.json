@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Discover Under Chloe's Bed?",
+    "answer": "A",
+    "choices": {
+      "A": "A Metal Box Containing Photos Of Rachel Amber",
+      "B": "A Collection Of Old Phones",
+      "C": "A Box Of Old Toys",
+      "D": "A Stack Of Old Magazines"
+    }
+  },
+  {
+    "question": "What Does Chloe Give Max As A Late Birthday Present?",
+    "answer": "C",
+    "choices": {
+      "A": "A Hoodie",
+      "B": "A Phone",
+      "C": "A Camera",
+      "D": "A Film"
+    }
+  },
+  {
+    "question": "What Does David Accuse Max Of Doing?",
+    "answer": "B",
+    "choices": {
+      "A": "Stealing His Gun",
+      "B": "Taking Drugs",
+      "C": "Breaking Into His Garage",
+      "D": "Stealing His Car"
+    }
+  },
+  {
+    "question": "What Does Chloe Confide In Max About Nathan?",
+    "answer": "A",
+    "choices": {
+      "A": "He Took Photos Of Her",
+      "B": "He Stole Her Phone",
+      "C": "He Tried To Kill Her",
+      "D": "He Was Her Best Friend"
+    }
+  },
+  {
+    "question": "What Do Max And Chloe Do At The Lighthouse?",
+    "answer": "C",
+    "choices": {
+      "A": "Take Photos",
+      "B": "Have A Picnic",
+      "C": "Have A Conversation About David And Nathan",
+      "D": "Go Swimming"
+    }
+  }
+]

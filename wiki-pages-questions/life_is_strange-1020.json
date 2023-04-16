@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What Were Some Of The Aspects Of Life Is Strange That Were Praised By Reviewers And Fans?",
+    "answer": "D",
+    "choices": {
+      "A": "Unique Art Style And Character Development",
+      "B": "Use Of Taboo Subjects And Smart Take On Branching Storytelling",
+      "C": "Featuring Female Protagonists And Portrayal Of Gay Romance",
+      "D": "All Of The Above"
+    }
+  },
+  {
+    "question": "How Many Digital Copies Of Life Is Strange Were Sold By The End Of July 2015?",
+    "answer": "C",
+    "choices": {
+      "A": "500,000",
+      "B": "750,000",
+      "C": "1 Million",
+      "D": "2 Million"
+    }
+  },
+  {
+    "question": "What Is The User Score Of Life Is Strange On Metacritic?",
+    "answer": "B",
+    "choices": {
+      "A": "8.3/10",
+      "B": "8.6/8.7",
+      "C": "8.9/10",
+      "D": "9.2/10"
+    }
+  }
+]

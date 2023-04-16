@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Who Composed The Original Score For The Bonus Episode \"Farewell\"?",
+    "answer": "B",
+    "choices": {
+      "A": "Daughter",
+      "B": "Mike Reagan",
+      "C": "Speedy Ortiz",
+      "D": "Lanterns on the Lake"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Song Played When Chloe Tags The Bathroom In Episode Two?",
+    "answer": "A",
+    "choices": {
+      "A": "No Care",
+      "B": "No Below",
+      "C": "Taking You There (Acoustic)",
+      "D": "Youth"
+    }
+  },
+  {
+    "question": "Where Can You Purchase The Exclusive Limited-Edition Vinyl Set Of The Licensed Soundtrack?",
+    "answer": "C",
+    "choices": {
+      "A": "Amazon",
+      "B": "Best Buy",
+      "C": "Square Enix Store",
+      "D": "Walmart"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Kate Ask Max For Help With?",
+    "answer": "B",
+    "choices": {
+      "A": "Finding Her Book",
+      "B": "Taking Down A Viral Video",
+      "C": "Studying For A Test",
+      "D": "Planning A Party"
+    }
+  },
+  {
+    "question": "What Does Max Tell Kate To Do About Nathan Prescott?",
+    "answer": "B",
+    "choices": {
+      "A": "Ignore Him",
+      "B": "Go To The Police",
+      "C": "Confront Him",
+      "D": "Avoid Him"
+    }
+  },
+  {
+    "question": "What Does Max Tell Kate About The Prescott Family?",
+    "answer": "A",
+    "choices": {
+      "A": "They Are Dangerous",
+      "B": "They Are Poor",
+      "C": "They Are Nice",
+      "D": "They Are Weak"
+    }
+  },
+  {
+    "question": "What Does Max Discover About Kate's Video?",
+    "answer": "D",
+    "choices": {
+      "A": "It Was Edited",
+      "B": "It Was Deleted",
+      "C": "It Was Fake",
+      "D": "It Was Real"
+    }
+  },
+  {
+    "question": "What Does Dana Invite Max To?",
+    "answer": "B",
+    "choices": {
+      "A": "A Study Group",
+      "B": "A Halloween Party",
+      "C": "A Concert",
+      "D": "A Protest"
+    }
+  }
+]

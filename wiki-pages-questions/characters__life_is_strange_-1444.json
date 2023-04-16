@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who Is Max's Mother?",
+    "answer": "D",
+    "choices": {
+      "A": "Vanessa Caulfield",
+      "B": "Joyce Price",
+      "C": "Michelle Barenchi",
+      "D": "An-Marie Barenchi"
+    }
+  },
+  {
+    "question": "Who Is Nathan Prescott's Father?",
+    "answer": "A",
+    "choices": {
+      "A": "Sean Prescott",
+      "B": "Harry Aaron Prescott",
+      "C": "Martin Lewis Prescott",
+      "D": "Kristine Prescott"
+    }
+  },
+  {
+    "question": "Who Is The Owner Of The Two Whales Diner?",
+    "answer": "B",
+    "choices": {
+      "A": "Diner Dude",
+      "B": "Diner Fisherman",
+      "C": "Old Guy",
+      "D": "Weird Lady"
+    }
+  },
+  {
+    "question": "Who Is The Photography Teacher At Blackwell Academy?",
+    "answer": "D",
+    "choices": {
+      "A": "Anderson Berry",
+      "B": "David Madsen",
+      "C": "Raymond Wells",
+      "D": "Mark Jefferson"
+    }
+  },
+  {
+    "question": "Who Is The Homeless Lady Outside The Two Whales Diner?",
+    "answer": "D",
+    "choices": {
+      "A": "Alyssa Anderson",
+      "B": "Brooke Scott",
+      "C": "Rachel Amber",
+      "D": "Sarah"
+    }
+  }
+]

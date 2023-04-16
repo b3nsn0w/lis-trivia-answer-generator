@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is Chloe's Favorite Intensifier Throughout The Game?",
+    "answer": "C",
+    "choices": {
+      "A": "Amazeballs",
+      "B": "Awesomesauce",
+      "C": "Hella",
+      "D": "Insane in the Brain"
+    }
+  },
+  {
+    "question": "What Does Chloe Want To Do To Arcadia Bay?",
+    "answer": "C",
+    "choices": {
+      "A": "Turn It Into A Forest",
+      "B": "Turn It Into A Desert",
+      "C": "Turn It Into Glass",
+      "D": "Turn It Into A Theme Park"
+    }
+  },
+  {
+    "question": "What Does Chloe Say When She Is Impressed By Max's Rewind Power?",
+    "answer": "A",
+    "choices": {
+      "A": "\"I Pledge Allegiance To Max And The Power For Which She Stands\"",
+      "B": "\"You're The Coolest Person I Know\"",
+      "C": "\"I Can't Believe You Can Do That\"",
+      "D": "\"This Is So Freaky\""
+    }
+  },
+  {
+    "question": "What Is The Name Of The Episode Where Chloe Says \"This Shit-Pit Has Taken Everyone I've Ever Loved\"?",
+    "answer": "B",
+    "choices": {
+      "A": "Out Of Time",
+      "B": "Chrysalis",
+      "C": "Chaos Theory",
+      "D": "Polarized"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Say About Her Research On Time Travel?",
+    "answer": "A",
+    "choices": {
+      "A": "She Stayed Up All Night Binge-Researching Time Travel And Wasted Time For Nothing",
+      "B": "She Found A Lot Of Information On Time Travel",
+      "C": "She Discovered A Way To Time Travel",
+      "D": "She Didn't Research Time Travel"
+    }
+  },
+  {
+    "question": "What Does Max Find In Kate's Room?",
+    "answer": "B",
+    "choices": {
+      "A": "A Crucifix",
+      "B": "A Book",
+      "C": "A Diary",
+      "D": "A Photo"
+    }
+  },
+  {
+    "question": "What Does Kate Say Happened To Her On The Night Of The Party?",
+    "answer": "B",
+    "choices": {
+      "A": "She Was Talking To A Doctor",
+      "B": "She Was Attacked By Nathan Prescott",
+      "C": "She Was Dancing With Her Friends",
+      "D": "She Was Drinking Alcohol"
+    }
+  },
+  {
+    "question": "What Does Max Say About Victoria In The Dormitory?",
+    "answer": "A",
+    "choices": {
+      "A": "She Treats Everybody Equally Like Shit",
+      "B": "She Is Insecure",
+      "C": "She Is A Fashion Boss",
+      "D": "She Is Nice To Everyone"
+    }
+  },
+  {
+    "question": "What Does Max Say About Her Power In The Prescott Dormitory?",
+    "answer": "A",
+    "choices": {
+      "A": "Life Goes On For Everybody, But Now I Have This Weird Power",
+      "B": "She Can Use Her Power To Get Some More Sleep",
+      "C": "She Doesn't Want To Strain Herself By Using Her Power",
+      "D": "She Is Excited To Use Her Power"
+    }
+  }
+]

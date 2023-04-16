@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Say When She Cannot Explore An Area?",
+    "answer": "A",
+    "choices": {
+      "A": "\"No need to go there now.\"",
+      "B": "\"I don't want to go that way.\"",
+      "C": "\"Can't go that way.\"",
+      "D": "\"No reason to go now.\""
+    }
+  },
+  {
+    "question": "What Does Max Say When She Is Unsuccessful At Performing An Action?",
+    "answer": "A",
+    "choices": {
+      "A": "\"It won't work.\"",
+      "B": "\"No can do.\"",
+      "C": "\"Not gonna happen.\"",
+      "D": "\"This does not work.\""
+    }
+  },
+  {
+    "question": "What Does Max Say When She Realizes She Can Rewind Time?",
+    "answer": "D",
+    "choices": {
+      "A": "\"Why is this happening? And to me?\"",
+      "B": "\"This is so fucking bizarro.\"",
+      "C": "\"I can't tell anybody; they'll think I'm nuts.\"",
+      "D": "\"Could I save the girl in the bathroom?\""
+    }
+  },
+  {
+    "question": "What Does Max Say When She Realizes She Needs To Save The Girl In The Bathroom?",
+    "answer": "A",
+    "choices": {
+      "A": "\"I need to hurry to the bathroom to save that girl.\"",
+      "B": "\"That girl is going to die again, unless I get to the bathroom.\"",
+      "C": "\"I can't tell anybody; they'll think I'm nuts.\"",
+      "D": "\"Could I save the girl in the bathroom?\""
+    }
+  },
+  {
+    "question": "What Does Max Say When She Fails In Art Class?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Another daily fail in front of the world.\"",
+      "B": "\"It's so... awesome to look like an idiot in my favorite teacher's class.\"",
+      "C": "\"This is so fucking bizarro.\"",
+      "D": "\"I can't tell anybody; they'll think I'm nuts.\""
+    }
+  }
+]

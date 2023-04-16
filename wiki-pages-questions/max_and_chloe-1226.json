@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Was The Name Of The Kitten Chloe's Parents Bought Her?",
+    "answer": "A",
+    "choices": {
+      "A": "Bongo",
+      "B": "Whiskers",
+      "C": "Mittens",
+      "D": "Fluffy"
+    }
+  },
+  {
+    "question": "What Did Max and Chloe Use To Mark The Location Of Their Tree Fort?",
+    "answer": "C",
+    "choices": {
+      "A": "A Sign",
+      "B": "A Flag",
+      "C": "A Stump Engraving",
+      "D": "A Rock Pile"
+    }
+  },
+  {
+    "question": "What Did Max and Chloe Enjoy Doing Together?",
+    "answer": "D",
+    "choices": {
+      "A": "Playing Video Games",
+      "B": "Watching TV Shows",
+      "C": "Having Movie Nights",
+      "D": "All Of The Above"
+    }
+  },
+  {
+    "question": "What Was The Reason For William's Death?",
+    "answer": "A",
+    "choices": {
+      "A": "He Was In A Car Accident",
+      "B": "He Had A Heart Attack",
+      "C": "He Was Murdered",
+      "D": "He Committed Suicide"
+    }
+  },
+  {
+    "question": "What Did Max and Chloe Do During Their Secret \"Wine-Tasting Sessions\"?",
+    "answer": "D",
+    "choices": {
+      "A": "Played Board Games",
+      "B": "Watched Movies",
+      "C": "Made Pancakes",
+      "D": "Drank Wine"
+    }
+  }
+]

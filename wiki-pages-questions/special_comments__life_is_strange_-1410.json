@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Say About Hospitals?",
+    "answer": "A",
+    "choices": {
+      "A": "She Hates Them",
+      "B": "She Loves Them",
+      "C": "She Is Indifferent To Them",
+      "D": "She Is Scared Of Them"
+    }
+  },
+  {
+    "question": "What Does Max Say About The Prescotts?",
+    "answer": "A",
+    "choices": {
+      "A": "They Started On A Farm",
+      "B": "They Are Orcs",
+      "C": "They Are Creepy",
+      "D": "They Are Wealthy"
+    }
+  },
+  {
+    "question": "What Does Max Say About The Old Barn?",
+    "answer": "A",
+    "choices": {
+      "A": "It Is The Epicenter Of Creepy",
+      "B": "It Is Beautiful",
+      "C": "It Is Abandoned",
+      "D": "It Is Haunted"
+    }
+  },
+  {
+    "question": "What Does Max Say About Chloe's Home?",
+    "answer": "A",
+    "choices": {
+      "A": "It Is Amazing What They Take For Granted",
+      "B": "It Is A Mess",
+      "C": "It Is Small",
+      "D": "It Is Beautiful"
+    }
+  },
+  {
+    "question": "What Does Max Say About Altering Time And Space?",
+    "answer": "A",
+    "choices": {
+      "A": "It Doesn't Make Life Easier",
+      "B": "It Makes Life Easier",
+      "C": "It Is Fun",
+      "D": "It Is Confusing"
+    }
+  }
+]

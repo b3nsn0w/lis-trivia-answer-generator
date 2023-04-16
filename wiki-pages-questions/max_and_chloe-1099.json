@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Find In Her Pockets To Prove Her Powers To Chloe?",
+    "answer": "A",
+    "choices": {
+      "A": "A Parking Ticket, Cigarettes, A Robot Panda Keychain, and 86 Cents",
+      "B": "A Phone, A Wallet, A Pen, and A Hair Tie",
+      "C": "A Map, A Camera, A Water Bottle, and A Snack",
+      "D": "A Book, Sunglasses, A Headband, and A Lip Balm"
+    }
+  },
+  {
+    "question": "Where Do Max and Chloe Go To Test Max's Powers?",
+    "answer": "A",
+    "choices": {
+      "A": "American Rust Junkyard",
+      "B": "Two Whales Diner",
+      "C": "Blackwell Academy",
+      "D": "Chloe's House"
+    }
+  },
+  {
+    "question": "What Does Chloe Ask Frank About That Belongs To Rachel?",
+    "answer": "A",
+    "choices": {
+      "A": "A Bracelet",
+      "B": "A Ring",
+      "C": "A Necklace",
+      "D": "A Watch"
+    }
+  },
+  {
+    "question": "What Does Max Use To Free Chloe From The Train Tracks?",
+    "answer": "A",
+    "choices": {
+      "A": "Wirecutters",
+      "B": "A Crowbar",
+      "C": "A Hammer",
+      "D": "A Screwdriver"
+    }
+  },
+  {
+    "question": "What Do Max and Chloe Witness Together In The Ending Cutscene?",
+    "answer": "A",
+    "choices": {
+      "A": "A Solar Eclipse",
+      "B": "A Lunar Eclipse",
+      "C": "A Shooting Star",
+      "D": "A Rainbow"
+    }
+  }
+]

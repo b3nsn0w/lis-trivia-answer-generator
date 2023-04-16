@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Where is Chloe and Rachel's hideout located?",
+    "answer": "B",
+    "choices": {
+      "A": "Blackwell Academy",
+      "B": "Junkyard",
+      "C": "Los Angeles",
+      "D": "Vortex Club"
+    }
+  },
+  {
+    "question": "What does Max wonder about in regards to Chloe and Rachel's mixtape?",
+    "answer": "B",
+    "choices": {
+      "A": "If it has any of Max's favorite songs",
+      "B": "If Chloe would ever make her a mixtape",
+      "C": "If Rachel made the mixtape for Chloe",
+      "D": "If the mixtape was lost or stolen"
+    }
+  },
+  {
+    "question": "What is the subject of the crumpled letter found in the trash can?",
+    "answer": "A",
+    "choices": {
+      "A": "Rachel's confusion about her relationship with Chloe",
+      "B": "Rachel's plan to escape Blackwell Academy",
+      "C": "Rachel's desire to attend the Vortex Club party",
+      "D": "Rachel's anger towards Max"
+    }
+  },
+  {
+    "question": "What is Max's opinion of the \"End of the World\" party flyer?",
+    "answer": "B",
+    "choices": {
+      "A": "She is excited to attend the party",
+      "B": "She is afraid of Nathan Prescott attending the party",
+      "C": "She thinks the party is too expensive",
+      "D": "She thinks the party is a waste of time"
+    }
+  },
+  {
+    "question": "What is the subject of the set of rules posted in the Blackwell Academy hallway?",
+    "answer": "C",
+    "choices": {
+      "A": "The dress code for students",
+      "B": "The consequences of being late to class",
+      "C": "The importance of carrying a gun to class",
+      "D": "The rules for using the school's science lab"
+    }
+  }
+]

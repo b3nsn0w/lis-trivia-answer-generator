@@ -1,0 +1,39 @@
+Here is a section of the wiki page for Arcadia Bay:
+
+## Inspirations 
+*In construction.*
+
+The developers conducted research on the setting by traveling to the Pacific Northwest — particularly the Tillamook Bay area — for the purpose of conveying a nostalgic and autumnal feel to the game. The development team visited the region, took photographs, looked at local newspapers and used Google Street View to make sure the environment was accurately portrayed.[http://www.momenta.online/2016/02/edouard-caplain-on-the-art-behind-life-is-strange/ Edouard Caplain on the Art Behind Life Is Strange] (February 9, 2016)
+
+*In early stages of development, the main reference for the town of Arcadia Bay was Astoria, a city on the hillside of Oregon, but it was way too big for the setting they were aiming for. Eventually, they found Garibaldi, a much smaller town which was working well with its main street running along the coast.
+*The Arcadia Bay map layout was directly inspired by Garibaldi, OR, as evident from [http://visitgaribaldi.com/garibaldi-walking-map/ this map] provided by [http://visitgaribaldi.com/ "Visit Garibaldi"]. Several places were either directly based on their Garibaldi counterparts as shown on the map, including their locations on the map, or inspired by them.
+**Harbor
+**Railroad
+**Beach
+**Barn ("Old Mill")
+**Sawmill - Old Mill
+**Garibaldi Ave - Arcadia Bay Ave
+**Birch Avenue - Cedar Avenue
+**Monument at the Garibaldi Museum - Northwest Valor statue
+**Garibaldi Elementary School - Blackwell Academy
+
+Arcadia Bay Map.png|Map of Arcadia Bay in *Life is Strange*.
+Garibaldi Map.jpg|Map of Garibaldi from "Visit Garibaldi".
+
+* Arcadia Bay has been built with inspiration from multiple locations in Oregon. These probably include [wikipedia:Oceanside,_Oregon](oceanside__or.md), [wikipedia:Bay_City,_Oregon](bay_city__or.md), [wikipedia:Newport,_Oregon](newport__or.md) and [wikipedia:Lincoln_City,_Oregon](lincoln_city__or.md) on the coast. In the episode "[Episode 2: Out of Time](out_of_time.md)", [Warren Graham](warren_graham.md) notes that the [http://www.newbergoregon.gov/community/page/99w-drive-theatre Newberg drive-in] is sixty miles away from Blackwell, which matches the distance from Lincoln City.
+* Several characteristic details are very likely based on the area of [wikipedia:Tillamook_Bay](tillamook_bay.md). The railroad track, water tower, and harbor can or could be found in [wikipedia:Garibaldi,_Oregon](garibaldi__or.md), while the lumber mill, as well as some signs, can be found in Tillamook, OR. The lighthouse design might be based on either Heceta Head Lighthouse or Yaquina Head Lighthouse (Newport, OR).
+* [wikipedia:Oceanside,_Oregon](oceanside__or.md) is down the coast from {{Wiki|Cape_Meares_Light|Cape Meares Lighthouse}}, part of which is a line of sight to the lighthouse, from Short Beach, in the same way as the lighthouse in Arcadia Bay. The view from Cape Meares south to Oceanside is very similar to that of the view of Arcadia Bay from its lighthouse.
+* There are a few streets in Arcadia Bay with real-life counterparts in the Tillamook County area. Those include Cedar Ave where Chloe lives, and Franklin Street where she was given a parking ticket.
+** Cedar Ave exists in Tillamook, OR, a city located south of Garibaldi.
+* The list of 146 coordinates found in [David's Files](david_s_locker.md) in Episode 4 actually are the coordinates for Tillamook Bay, although they correspond to the water itself to prevent the coordinates matching up with real locations. This is further evidence that Arcadia Bay may be based on Tillamook Bay and its surrounding areas.
+
+Real Coordinates.jpg|Position of the fictive town of Arcadia Bay based on just one of the in-game coordinates found in [David's Files](david_s_files.md). (Google Maps Screenshot)
+TX_ComputerScreen_E43C_Chloe02.png|Map seen on Chloe's laptop when she searches for the Dark Room
+
+* It's possible that the town is meant to represent the town of [wikipedia:Bayocean,_Oregon](bayocean__or.md) which was destroyed over the course of 40 years by man-made erosion, and existed where there is now water, which could be another possible explanation for the coordinates from David's file corresponding with the water area.
+* In a postcard sent to Chloe, Rachel wrote Chloe's address stating that Arcadia Bay's ZIP code is 97141 (which is the real ZIP Code of Tillamook, OR). Another postcard sent by someone called [Amaury Balandier](amaury.md) contains the same ZIP code. However, on the auto repair invoice, the shop's address in Arcadia Bay states a different ZIP Code: 97603. This is also a real ZIP code belonging to Klamath Falls, OR. And while in [Drew North](drew_north.md)'s room, area codes written on a post-it note state Arcadia Bay's ZIP code is 97103, the real code for Astoria OR.
+* [File:Postcard2.png](thumb.md) Another postcard found in Chloe's room seems to have been sent from {{Wiki|Tillamook Head}}, OR. While Tillamook Bay serves as one of the main inspirations for Arcadia Bay, Tillamook Head is a high promontory well-known by hikers. It became famous in 1806 after Captain William Clark and 12 members of the Corps of Discovery hiked over the promontory where they encountered a beached whale.[http://www.oregon.com/recreation/tillamook-head History of Tillamook Head]
+
+
+
+Generate five trivia questions relevant to this section of the page.

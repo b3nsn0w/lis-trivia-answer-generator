@@ -1,0 +1,42 @@
+= Relationships =
+
+The following is a pictorial list of '''relationships''' in ''[[Life is Strange]]'', ''[[Life is Strange: Before the Storm]]'', ''[[Life is Strange 2]]'' and ''[[Life is Strange: True Colors]]''.
+
+<div style="text-align:center">
+== <span style="font-weight:bold">Life is Strange</span> ==
+{{Polaroid|name = Max and Chloe|image = Maxandchloe-main.png|display = Max and Chloe}}
+{{Polaroid|name = Max and Warren|image = Maxandwarren-main.png|display = Max and Warren}} 
+{{Polaroid|name = Young Max and Chloe|image=Chloe Max Photo1.jpg}}
+{{Polaroid|name = Rachel and Frank|image=rachelandfrank-pola.png}}
+{{Polaroid|name = Nathan and Victoria|image=Nathan and Victoria (square).png}}
+{{Polaroid|name = Nathan and Jefferson|image=444px-LiS5-NathanMessage.png}}
+{{Polaroid|name = Rachel and Jefferson|image=DarkRoom_RachelFile_SP02.png}}
+{{Polaroid|name = Chloe and David|image=Florent Auguy David and Chloe berate cake.jpg}}
+{{Polaroid|name = Joyce and David|image=Florent-auguy-anniversaire-mariage-joyce-et-david-hd.jpg}}
+
+== <span style="font-weight:bold">Life is Strange: Before the Storm</span> ==
+{{Polaroid|name = Chloe and Rachel|image=Chloeandrachel-bts-main.png}}
+
+== <span style="font-weight:bold">Life is Strange 2</span> ==
+{{Polaroid|name = Sean and Lyla|image=Sean diaz lyla park ep1 roads.png}}
+{{Polaroid|name = Sean and Daniel|image=Daniel Diaz & Sean Diaz promo image.jpg}}
+{{Polaroid|name = Daniel and Chris|image=Chris and Daniel (square).png}}
+{{Polaroid|name = Cassidy and Finn|image=Finn-Cassidy-to-Nick.png}}
+
+== <span style="font-weight:bold">Life is Strange: True Colors</span> ==
+{{Polaroid|name = Alex and Ryan|image=Alex hugging Ryan at the ravine.jpg}}
+{{Polaroid|name = Alex and Steph|image=Alex and Steph stay.png}}
+{{Polaroid|name = Alex and Gabe|image=02 Alex and Gabe 1080.jpg}}</div>
+
+[[ru:Взаимоотношения]]
+[[Category:Relationships]]
+[[Category:Relationships (Life is Strange)]]
+[[Category:Relationships (Before the Storm)]]
+[[Category:Relationships (Life is Strange 2)]]
+[[Category:Relationships (True Colors)]]
+
+[[Category:Before the Storm]]
+[[Category:True Colors]]
+
+[[Category:Life is Strange]]
+[[Category:Life is Strange 2]]

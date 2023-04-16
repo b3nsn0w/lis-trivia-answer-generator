@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who does Max want to talk to about her experience in Mr. Jefferson's class?",
+    "answer": "A",
+    "choices": {
+      "A": "Warren Graham",
+      "B": "Nathan Prescott",
+      "C": "David Madsen",
+      "D": "The Principal"
+    }
+  },
+  {
+    "question": "What does Nathan accuse Max of doing in the bathroom?",
+    "answer": "D",
+    "choices": {
+      "A": "Taking selfies",
+      "B": "Smoking",
+      "C": "Hiding",
+      "D": "Taking pictures of him"
+    }
+  },
+  {
+    "question": "What does Max tell the Principal about the incident involving Nathan?",
+    "answer": "A",
+    "choices": {
+      "A": "That Nathan had a gun",
+      "B": "That Nathan was smoking in the bathroom",
+      "C": "That Nathan was bullying her",
+      "D": "That Nathan was skipping class"
+    }
+  },
+  {
+    "question": "Who comes to Max's aid when Nathan starts attacking her and Warren?",
+    "answer": "B",
+    "choices": {
+      "A": "David Madsen",
+      "B": "Chloe",
+      "C": "The Principal",
+      "D": "Mr. Jefferson"
+    }
+  },
+  {
+    "question": "What does Nathan say when Max threatens to call the police?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Do it. The Prescotts own the pigs here.\"",
+      "B": "\"You're bluffing. You won't do it.\"",
+      "C": "\"I'm sorry. I didn't mean to hurt anyone.\"",
+      "D": "\"I'll leave you alone if you let me go.\""
+    }
+  }
+]

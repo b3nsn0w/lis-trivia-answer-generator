@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Where is the \"Safety First\" poster located?",
+    "answer": "C",
+    "choices": {
+      "A": "Inside Kate's room in the hospital",
+      "B": "Inside David's garage",
+      "C": "Hallway of the Prescott Dormitory",
+      "D": "Inside Kate's locker"
+    }
+  },
+  {
+    "question": "What is written on the \"Cat pics notice\" in the dormitory hallway?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Who would steal cat pics?\"",
+      "B": "\"Missing: Cat Pics\"",
+      "C": "\"Reward for Cat Pics\"",
+      "D": "\"Cat Pics for Sale\""
+    }
+  },
+  {
+    "question": "What is the content of the letter from Principal Wells to Kate?",
+    "answer": "A",
+    "choices": {
+      "A": "A message of encouragement",
+      "B": "A warning about her behavior",
+      "C": "An apology for not being able to protect her",
+      "D": "A request for her to return to school"
+    }
+  },
+  {
+    "question": "What is the location of the vandalized map in the dormitory hallway?",
+    "answer": "D",
+    "choices": {
+      "A": "Inside Kate's room in the hospital",
+      "B": "Inside David's garage",
+      "C": "Near Daniel's room door",
+      "D": "Hallway of the boys' dormitories"
+    }
+  }
+]

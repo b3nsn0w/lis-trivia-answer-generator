@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Name Of The Junkyard Where Chloe Spends Much Of Her Time?",
+    "answer": "A",
+    "choices": {
+      "A": "American Rust Junkyard",
+      "B": "Two Whales Junkyard",
+      "C": "Arcadia Bay Junkyard",
+      "D": "Rusty's Junkyard"
+    }
+  },
+  {
+    "question": "What Does Kate Ask Max's Opinion On?",
+    "answer": "A",
+    "choices": {
+      "A": "Whether To Go To The Police About Nathan",
+      "B": "Whether To Attend The Vortex Club Party",
+      "C": "Whether To Skip Class",
+      "D": "Whether To Date Warren"
+    }
+  },
+  {
+    "question": "What Happens To Kate Depending On Max's Choices?",
+    "answer": "A",
+    "choices": {
+      "A": "She Is Rescued By Max",
+      "B": "She Dies",
+      "C": "She Is Arrested By The Police",
+      "D": "She Escapes From The Dark Room"
+    }
+  },
+  {
+    "question": "What Does Max Do To Help Warren Before Going To Art Class?",
+    "answer": "A",
+    "choices": {
+      "A": "She Helps Him With His Science Experiment",
+      "B": "She Signs Up For The Next Vortex Club Party",
+      "C": "She Goes To The Junkyard With Him",
+      "D": "She Ignores His Text"
+    }
+  },
+  {
+    "question": "Who Are The Three Options Max Can Choose To Blame For Kate's Suicide Attempt?",
+    "answer": "A",
+    "choices": {
+      "A": "Jefferson, Nathan, and David",
+      "B": "Victoria, Warren, and Chloe",
+      "C": "Rachel, Frank, and Joyce",
+      "D": "Kate, Max, and the Principal"
+    }
+  }
+]

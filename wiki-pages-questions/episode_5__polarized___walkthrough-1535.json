@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Main Objective Of Max In The Zeitgeist Gallery?",
+    "answer": "B",
+    "choices": {
+      "A": "To Talk To Principal Wells",
+      "B": "To Look At Her Winning Photo",
+      "C": "To Eat Caviar",
+      "D": "To Call Chloe"
+    }
+  },
+  {
+    "question": "What Happens To Rachel's Body In The Polarized Timeline?",
+    "answer": "A",
+    "choices": {
+      "A": "It Is Found In The Dark Room",
+      "B": "It Is Buried In The Junkyard",
+      "C": "It Is Never Found",
+      "D": "It Is Found In The Lighthouse"
+    }
+  },
+  {
+    "question": "What Is The Reason Behind Max's Nosebleed In The Plane?",
+    "answer": "C",
+    "choices": {
+      "A": "She Is Allergic To The Food",
+      "B": "She Is Tired",
+      "C": "She Is In A Focus Between Realities",
+      "D": "She Has A Cold"
+    }
+  },
+  {
+    "question": "What Is The Most Difficult Choice Max Has To Make In The Polarized Timeline?",
+    "answer": "A",
+    "choices": {
+      "A": "To Sacrifice Chloe And Save The Population Of Arcadia Bay",
+      "B": "To Sacrifice The Town To Save Chloe",
+      "C": "To Let Jefferson Go Free",
+      "D": "To Let David Die"
+    }
+  },
+  {
+    "question": "What Is The Request Max Makes To Jefferson Before David Enters The Dark Room?",
+    "answer": "B",
+    "choices": {
+      "A": "To Take A Selfie",
+      "B": "To Give Her A Glass Of Water",
+      "C": "To Let Her Go",
+      "D": "To Turn Himself In"
+    }
+  }
+]

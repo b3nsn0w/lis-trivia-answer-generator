@@ -1,0 +1,42 @@
+[
+  {
+    "question": "How Does Max Describe Victoria In Her Diary?",
+    "answer": "B",
+    "choices": {
+      "A": "Evil and Insecure",
+      "B": "Talented and Passionate",
+      "C": "Kind and Helpful",
+      "D": "Cruel and Hateful"
+    }
+  },
+  {
+    "question": "Why Did Max Try To See Beyond Her Drama With Victoria?",
+    "answer": "C",
+    "choices": {
+      "A": "To Make New Friends",
+      "B": "To Get Revenge",
+      "C": "To Find Chloe",
+      "D": "To Get Better Grades"
+    }
+  },
+  {
+    "question": "Why Did Max Feel Shitty About Not Warning Victoria?",
+    "answer": "C",
+    "choices": {
+      "A": "Because She Wanted To Be Friends With Her",
+      "B": "Because She Was Afraid Of Victoria",
+      "C": "Because She Thought Victoria Would Get Hurt",
+      "D": "Because She Felt Guilty About Leaving Her Behind"
+    }
+  },
+  {
+    "question": "What Does Max Think About Assholes?",
+    "answer": "A",
+    "choices": {
+      "A": "They Stick Together",
+      "B": "They Are Always Alone",
+      "C": "They Are Misunderstood",
+      "D": "They Are Not Worth Her Time"
+    }
+  }
+]

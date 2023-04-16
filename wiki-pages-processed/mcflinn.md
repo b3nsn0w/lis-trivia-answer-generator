@@ -1,0 +1,33 @@
+#  McFlinn 
+
+```yaml
+Location
+
+image: mcflynn-ep5.png
+location: |-
+  Arcadia Bay Ave,
+  [Arcadia Bay](arcadia_bay.md)
+state: Oregon
+appears: |-
+  [Episode 2: Out of Time](episode_2__out_of_time.md)
+  [Episode 3: Chaos Theory](episode_3__chaos_theory.md)
+  [Episode 5: Polarized](episode_5__polarized.md)
+```
+
+**McFlinn** is a building in [Arcadia Bay](arcadia_bay.md), located near the [Two Whales Diner](two_whales_diner.md). [Alyssa Anderson](alyssa_anderson.md) can be found stuck there in "[Episode 5: Polarized](polarized.md)".
+
+##  Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+An unfinished version of the building can be seen when [Maxine Caulfield](max.md) arrives at the diner. If the player attempts to walk to it, Max will turn around, saying that she doesn't want to go there.
+
+##  Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+The same unfinished building can be seen again when Max visits the diner with [Chloe Price](chloe.md).
+
+##  Episode Five - "[Episode 5: Polarized](polarized.md)" 
+The building now appears to be finished and has two floors. However, due to the ongoing [Storm](storm.md), it is heavily damaged and the upper floor is almost completely exposed. Three rooms are visible, of which Alyssa's is the largest and the only one with furniture. Alyssa is standing at the edge, pleading for help. Max has the option to approach her and lead her to safety using a nearby plank. If Max didn't help Alyssa in at least one of the previous episodes, talking to her will lead to Alyssa backing off and falling to her death through a hole in the floor.
+
+##  Trivia 
+*The letter(s) between the L and N seem to have fallen off, hinting to the fact that the building might not be new.
+*Despite having windows, the interior of the first floor is never shown, unlike many other unexplorable locations on the same street.
+
+{{Location Navbox}}
+

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Name Of The Airline That Max And Principal Wells Fly With?",
+    "answer": "A",
+    "choices": {
+      "A": "PacificWest Air",
+      "B": "West Coast Airlines",
+      "C": "Atlantic Airways",
+      "D": "Eastern Air"
+    }
+  },
+  {
+    "question": "What Is The Title Of The Newspaper Article That Max Reads On The Plane?",
+    "answer": "B",
+    "choices": {
+      "A": "\"Local Teacher Fired\"",
+      "B": "\"Local Teacher Arrested\"",
+      "C": "\"Local Teacher Wins Award\"",
+      "D": "\"Local Teacher Retires\""
+    }
+  },
+  {
+    "question": "What Is The Name Of The Videogame That Max Used To Play With Chloe?",
+    "answer": "A",
+    "choices": {
+      "A": "Hawt Dawg Man",
+      "B": "Super Mario Bros.",
+      "C": "Sonic The Hedgehog",
+      "D": "Legend Of Zelda"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Airport That Max Likely Landed At In San Francisco?",
+    "answer": "C",
+    "choices": {
+      "A": "San Francisco International Airport",
+      "B": "Oakland International Airport",
+      "C": "San José International Airport",
+      "D": "Los Angeles International Airport"
+    }
+  }
+]

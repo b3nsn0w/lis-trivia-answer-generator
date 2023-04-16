@@ -1,0 +1,41 @@
+= Diner Dude =
+
+{{Introquote|What do you want? I feel like shit. Too much beer. So spare me, please. Just let me suffer quietly.|Diner Dude to [[Maxine Caulfield|Max]] in "[[Episode 2: Out of Time|Out of Time]]"}}
+{{Infobox Character
+|image = Dinerdude-ep2.jpg
+|died = October 11, 2013 <small>(presumed, determinant)</small>
+|causeofdeath = Killed by the [[storm]] <small>(presumed, determinant)</small>
+|gender = Male
+|hair = Brown
+|eyes = Light grey
+|appearance = [[Episode 2: Out of Time]]<br/>[[Episode 3: Chaos Theory]]<br/>[[Episode 5: Polarized]] <small>(nightmare)</small>
+|voice = [[Daniel Bonjour]] <small>(uncredited)</small>
+}}
+The '''"Diner Dude"''' is a resident of [[Arcadia Bay]]. He is sitting at the counter in the [[Two Whales Diner]].
+
+== Episode Two - "[[Episode 2: Out of Time|Out of Time]]" ==
+When [[Maxine Caulfield|Max Caulfield]] tries to speak with him, he says, "What do you want? I feel like shit. Too much beer. So spare me, please. Just let me suffer quietly," and "Leave me alone or I will vomit on you."
+
+== Episode Five - "[[Episode 5: Polarized|Polarized]]" ==
+He appears in the diner sequence of [[Max's Nightmare|Max's nightmare]], sitting at the counter at the same place as in "Out of Time".
+
+== Gallery ==
+<gallery position="center" spacing="small" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+LifeIsStrange 2016-09-14 12-45-28-963.jpg|Diner Dude in Episode 2
+Diner_dude_nightmare.png|Diner Dude in Max's nightmare
+</gallery>
+
+{{Character Navbox}}
+
+[[ru:Чувак в закусочной]]
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Minor Characters (Life is Strange)]]
+[[Category:Characters (Life is Strange)]]
+[[Category:Episode 2: Out of Time Characters]]
+[[Category:Episode 3: Chaos Theory Characters]]
+[[Category:Episode 5: Polarized Characters]]
+[[Category:Two Whales Diner]]
+[[Category:Male Characters (Life is Strange)]]
+[[Category:Minor Characters]]
+[[Category:Life is Strange]]

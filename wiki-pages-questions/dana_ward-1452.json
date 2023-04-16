@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Does Dana Ask Max About Kate's Suicide Attempt?",
+    "answer": "A",
+    "choices": {
+      "A": "Why She Thinks Kate Would Try To Take Her Own Life",
+      "B": "If She Knows Who Pushed Kate",
+      "C": "If She Saw Kate Jump",
+      "D": "If She Tried To Stop Kate"
+    }
+  },
+  {
+    "question": "What Does Dana Say About Nathan At The End Of The World Party?",
+    "answer": "C",
+    "choices": {
+      "A": "She Hasn't Seen Him That Night",
+      "B": "He's Her Best Friend",
+      "C": "She's Avoiding Him",
+      "D": "He's A Great Dancer"
+    }
+  },
+  {
+    "question": "What Does Dana Regret Not Being Able To Do In Max's Nightmare?",
+    "answer": "B",
+    "choices": {
+      "A": "Save Kate",
+      "B": "Dance",
+      "C": "Find Nathan",
+      "D": "Escape The Diner"
+    }
+  },
+  {
+    "question": "In Which Ending Is Dana Presumed To Be Among The Town's Casualties?",
+    "answer": "B",
+    "choices": {
+      "A": "Sacrifice Chloe",
+      "B": "Sacrifice Arcadia Bay",
+      "C": "Both Endings",
+      "D": "Neither Ending"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Why Does Chloe Owe Frank Money?",
+    "answer": "B",
+    "choices": {
+      "A": "To Pay For Her Tuition",
+      "B": "To Cover The Cost Of Repairing Her Truck",
+      "C": "To Buy Drugs From Him",
+      "D": "To Invest In His Dogfighting Business"
+    }
+  },
+  {
+    "question": "What Does Max Find Outside Of Frank's RV In Episode One?",
+    "answer": "A",
+    "choices": {
+      "A": "A Gun",
+      "B": "A Stolen Bracelet",
+      "C": "A Bag Of Money",
+      "D": "A Dead Body"
+    }
+  },
+  {
+    "question": "What Does Frank Do When Max Approaches His RV In Episode Two?",
+    "answer": "B",
+    "choices": {
+      "A": "He Invites Her Inside",
+      "B": "He Tells Her To Stay Away",
+      "C": "He Offers Her A Job",
+      "D": "He Gives Her Money"
+    }
+  },
+  {
+    "question": "What Happens If Max Decides To Shoot Frank?",
+    "answer": "B",
+    "choices": {
+      "A": "Frank Dies",
+      "B": "The Gun Runs Out Of Bullets",
+      "C": "Chloe Is Arrested",
+      "D": "Max Is Arrested"
+    }
+  }
+]

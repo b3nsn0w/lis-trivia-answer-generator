@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Reference Made By Ms. Grant In Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "A Sound of Thunder",
+      "B": "The Blair Witch Project",
+      "C": "The Cabinet of Dr. Caligari",
+      "D": "Harry Potter"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Character From American Pie Films Mentioned In The References Section?",
+    "answer": "A",
+    "choices": {
+      "A": "Stifler",
+      "B": "Lupin",
+      "C": "Tonks",
+      "D": "Frank"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Found Footage Horror Film Mentioned In The References Section?",
+    "answer": "A",
+    "choices": {
+      "A": "The Blair Witch Project",
+      "B": "The Cabinet of Dr. Caligari",
+      "C": "A Sound of Thunder",
+      "D": "Harry Potter"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Character From Twin Peaks Mentioned In The References Section?",
+    "answer": "A",
+    "choices": {
+      "A": "Dr. Jacoby",
+      "B": "Frank Bowers",
+      "C": "Sean Prescott",
+      "D": "Samuel"
+    }
+  }
+]

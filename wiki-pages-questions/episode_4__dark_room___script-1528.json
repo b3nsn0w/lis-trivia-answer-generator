@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who is Blackwell's biggest sponsor?",
+    "answer": "A",
+    "choices": {
+      "A": "The Prescotts",
+      "B": "The Grants",
+      "C": "The Wells",
+      "D": "The Marshes"
+    }
+  },
+  {
+    "question": "What does Ms. Grant think of the Vortex Club?",
+    "answer": "C",
+    "choices": {
+      "A": "She supports it",
+      "B": "She is indifferent towards it",
+      "C": "She is against it",
+      "D": "She is a member of it"
+    }
+  },
+  {
+    "question": "Who does Max talk to about Kate's bullying?",
+    "answer": "C",
+    "choices": {
+      "A": "Ms. Grant",
+      "B": "Principal Wells",
+      "C": "Samuel",
+      "D": "David Madsen"
+    }
+  },
+  {
+    "question": "What does Samuel think of Nathan Prescott?",
+    "answer": "B",
+    "choices": {
+      "A": "He likes him",
+      "B": "He dislikes him",
+      "C": "He is indifferent towards him",
+      "D": "He is afraid of him"
+    }
+  },
+  {
+    "question": "What does Samuel think David Madsen sees in Max?",
+    "answer": "A",
+    "choices": {
+      "A": "Her potential",
+      "B": "Her kindness",
+      "C": "Her flaws",
+      "D": "Her future"
+    }
+  }
+]

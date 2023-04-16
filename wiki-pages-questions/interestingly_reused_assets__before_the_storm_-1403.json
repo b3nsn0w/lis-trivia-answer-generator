@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is the name of the company that developed Life is Strange: Before the Storm?",
+    "answer": "B",
+    "choices": {
+      "A": "Don't Nod",
+      "B": "Deck Nine Games",
+      "C": "Square Enix",
+      "D": "Ubisoft"
+    }
+  },
+  {
+    "question": "Where can the Two Whales diner placemat be found in Life is Strange: Before the Storm?",
+    "answer": "B",
+    "choices": {
+      "A": "In Chloe's room",
+      "B": "In the junkyard",
+      "C": "In the hospital",
+      "D": "In the drama lab"
+    }
+  },
+  {
+    "question": "What is the name of the hospital room in Life is Strange: Before the Storm where Rachel is seen?",
+    "answer": "D",
+    "choices": {
+      "A": "Kate's Room",
+      "B": "Rachel's Room",
+      "C": "The Drama Lab",
+      "D": "The Hospital Room"
+    }
+  }
+]

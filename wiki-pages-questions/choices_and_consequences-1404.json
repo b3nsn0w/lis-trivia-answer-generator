@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Happens If Max Breaks Open Nathan's Room And Leaves Without Rewinding Time?",
+    "answer": "A",
+    "choices": {
+      "A": "Nathan Will Message Max Threatening To Take Away Her Scholarship",
+      "B": "Nathan Will Not Message Max",
+      "C": "Max Will Receive A Text From Joyce",
+      "D": "Max Will Receive A Text From Chloe"
+    }
+  },
+  {
+    "question": "What Happens If Max Disturbs The Bird's Nest And Sides With Chloe?",
+    "answer": "A",
+    "choices": {
+      "A": "Joyce Will Text Max A Picture Of The Destroyed Nest",
+      "B": "Joyce Will Not Text Max",
+      "C": "Max Will Receive A Text From David",
+      "D": "Max Will Receive A Text From Warren"
+    }
+  },
+  {
+    "question": "What Happens If Max Warns Alyssa At The Vortex Club Party In Every Episode?",
+    "answer": "A",
+    "choices": {
+      "A": "Alyssa Will Push Max Out Of The Way Before She Gets Hit By A Falling Sign",
+      "B": "Alyssa Will Not Read A Robert Frost Quote",
+      "C": "Max Will Receive A Text From Alyssa",
+      "D": "Max Will Receive A Text From Victoria"
+    }
+  },
+  {
+    "question": "What Happens If Chloe Wounds Frank?",
+    "answer": "A",
+    "choices": {
+      "A": "Frank Will Be At The Two Whales Diner During The Storm",
+      "B": "Frank Won't Be At The Two Whales Diner During The Storm",
+      "C": "Chloe Will Be Depressed Because She Was The One Who Killed Frank",
+      "D": "Chloe Will Be Glad That Things Worked Out With Frank"
+    }
+  }
+]

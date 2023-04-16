@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Does Rachel Say About Chloe When They First Meet?",
+    "answer": "C",
+    "choices": {
+      "A": "\"You're a problem, Chloe.\"",
+      "B": "\"You're a mystery, Chloe.\"",
+      "C": "\"You're a person, Chloe.\"",
+      "D": "\"You're a liar, Chloe.\""
+    }
+  },
+  {
+    "question": "What Does Rachel Say About Their Friendship In Episode 1?",
+    "answer": "C",
+    "choices": {
+      "A": "\"It's just a fling.\"",
+      "B": "\"It's nothing special.\"",
+      "C": "\"It means more to me than you could possibly imagine.\"",
+      "D": "\"It's just a way to pass the time.\""
+    }
+  },
+  {
+    "question": "What Does Rachel Say To Chloe While Acting On Stage?",
+    "answer": "B",
+    "choices": {
+      "A": "\"I'll make you the happiest person in the world.\"",
+      "B": "\"We'll fly beyond this isle, the corners of the world our mere prologue.\"",
+      "C": "\"I'll make you a star.\"",
+      "D": "\"I'll make you rich and famous.\""
+    }
+  },
+  {
+    "question": "What Does Chloe Call Rachel In Episode 1?",
+    "answer": "A",
+    "choices": {
+      "A": "\"My magical Shakespeare fairy.\"",
+      "B": "\"My perfect friend.\"",
+      "C": "\"My exceptional beauty.\"",
+      "D": "\"My loyal spirit.\""
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Name Of The Main Road In Arcadia Bay?",
+    "answer": "C",
+    "choices": {
+      "A": "Two Whales Diner",
+      "B": "Tony's Liquor Store",
+      "C": "Arcadia Bay Ave",
+      "D": "McFlinn"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Diner Located On Arcadia Bay Ave?",
+    "answer": "B",
+    "choices": {
+      "A": "Tony's Liquor Store",
+      "B": "Two Whales Diner",
+      "C": "ACFC Drive-Thru",
+      "D": "McFlinn"
+    }
+  },
+  {
+    "question": "What Happens To Arcadia Bay Ave During Episode 5?",
+    "answer": "A",
+    "choices": {
+      "A": "It Is Completely Destroyed By The Storm",
+      "B": "It Is Evacuated By The Townspeople",
+      "C": "It Is Turned Into A Shelter For Survivors",
+      "D": "It Is Used As A Landing Strip For Rescue Helicopters"
+    }
+  },
+  {
+    "question": "What Is The Real-Life Location That Inspired The Design Of Arcadia Bay Ave?",
+    "answer": "A",
+    "choices": {
+      "A": "The Main Street Of The City Of Garibaldi",
+      "B": "The Oregon Coastline",
+      "C": "The Two Whales Diner",
+      "D": "The McFlinn Restaurant"
+    }
+  }
+]

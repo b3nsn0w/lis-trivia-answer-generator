@@ -1,0 +1,89 @@
+Here is a section of the wiki page for Episode 4: Dark Room - Script:
+
+## **Upstairs** # 
+**Optional Conversation with Joyce**
+
+**Joyce: **Good morning, Max. You and Chloe are so much quieter now than when you were kids.
+
+**Max: **I remember. It's nice waking up in your house again.
+
+**Joyce: **Oh, William and I love it. Finally seeing you and Chloe together after all these years...after the accident...
+
+William.William.**Max:** I have to tell you how much I love seeing you and William together again.
+
+**Joyce:** He's been such a hero through all this. Chloe and I are lucky to have him.
+
+{{#tag:tabber|William still the same?# William still the same?**Max:** Is William still the same...after everything that's happened?
+
+**Joyce:** For better and for worse...but always for the better. I never thought I'd love a man so much I can't imagine life without him. Sounds corny, I know.
+
+{{!}}-{{!}}Chloe and William.Chloe and William.**Max:** Chloe and William still seem like they get along so good.
+
+**Joyce:** Yeah, those two are closer now more than ever. Chloe will actually listen to William, while she usually ignores me. Oh, it's so cute when they gang up on poor ol' me...
+}}
+
+**Max:** You rule, Joyce.
+
+**Joyce:** Shit, things would be different if I did... I like how you think, kid.
+
+|-|Joyce.# Joyce.**Max:** How are you doing, Joyce?
+
+**Joyce:** I'm doing the best I can, Max. I won't lie, it's difficult...but nobody said life was easy here in Arcadia Bay.
+
+{{#tag:tabber|David Madsen.David Madsen.**Max:** Do you know somebody named David Madsen? He, um...might hang out at the Two Whales.
+
+**Joyce:** Well, that was random. Yeah, he's a bus driver. He comes in sometimes. Cute, quiet. Why?
+
+**Max:** Oh, um...I was just...curious.
+
+**Joyce:** You always were. Nice to see that everything doesn't change.
+
+{{!}}-{{!}}Lot of work.# Lot of work.**Max:** Plus you guys have to work, too.
+
+**Joyce:** Bill and I have no time for ourselves, and we're working more than we're living. I even had to take a part-time gig at Pan Estates. Ugh.
+
+**Max:** Do you know the Prescotts?
+
+**Joyce:** I know that Sean Prescott won't be happy until he owns everything in Arcadia Bay. Stay away from his son, Nathan.
+
+{{!}}-{{!}}Eco-havoc.Eco-havoc.**Max:** So, what do you think is going on here with all this eco-havoc?
+
+**Joyce:** Maybe Arcadia Bay just wants to be left alone... I know the feeling. Honestly, I don't give a shit about too much outside our house.
+
+**Max:** I don't blame you, Joyce.
+
+**Joyce:** Except now we have dead birds and beached whales outside our front door... So maybe I should care, for Chloe's sake.
+}}
+
+|-|Chloe.# Chloe.**Max:** I wish I was a better friend. I know Chloe doesn't get many visitors.
+
+**Joyce:** Oh, Max, you're Chloe's best friend for a reason. You're here exactly when she needs you.
+
+{{#tag:tabber|I hope so.I hope so.**Max:** I hope so. You guys do such an amazing job taking care of her.
+
+**Joyce:** We can only do so much...and she gets damn sick of her parents. That's why it's so important you came to spend time with her. 
+
+{{!}}-{{!}}Chloe needs help.# Chloe needs help.**Max:** Who helps Chloe out when you guys are at work?
+
+**Joyce:** We have a series of revolving nurses and caretakers... Chloe still causes trouble, even if she can't move...
+}}
+
+**Joyce:** Max, Chloe's condition is not improving. Her respiratory system is very weak and she...she...do you know what I'm saying?
+
+**Max:** Oh, Joyce, I'm so sorry you have to go through all this.
+
+**Joyce:** Bad or good, I embrace every moment with my daughter and husband. This is what it means to be a family...and we'll always be one, no matter what.
+
+|-|Leave.Leave.**Max:** I better get back to Chloe now. It's good talking with you, Joyce.
+
+**Joyce:** You too, honey.
+
+*Max enters the bathroom and takes the morphine injector from the left side of the cupboard above the toilet.*
+
+**Max (thinking): **Here it is. Never thought I'd be delivering morphine to my best friend.
+
+# #
+
+
+
+Generate five trivia questions relevant to this section of the page.

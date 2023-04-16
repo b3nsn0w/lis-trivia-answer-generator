@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Does Max Find In Kate's Dorm Room During Her Nightmare?",
+    "answer": "A",
+    "choices": {
+      "A": "A Key",
+      "B": "A Note",
+      "C": "A Photo",
+      "D": "A Map"
+    }
+  },
+  {
+    "question": "What Happens To The Pictures And Posters In Jefferson's Classroom During Max's Nightmare?",
+    "answer": "C",
+    "choices": {
+      "A": "They Disappear",
+      "B": "They Turn Into Birds",
+      "C": "They Change To Depict Max In Disturbing Ways",
+      "D": "They Catch Fire"
+    }
+  },
+  {
+    "question": "What Does Max Find In Warren's Locker During Her Nightmare?",
+    "answer": "D",
+    "choices": {
+      "A": "A Gun",
+      "B": "A Note From Nathan",
+      "C": "A Photo Of Rachel",
+      "D": "Pictures Of Max In Swimwear"
+    }
+  },
+  {
+    "question": "What Does Max Do After Making Her Way Through The American Rust Junkyard In Her Nightmare?",
+    "answer": "A",
+    "choices": {
+      "A": "She Sits On A Bench Beside The Lighthouse",
+      "B": "She Runs Away From The Junkyard",
+      "C": "She Goes Back To The Dormitory",
+      "D": "She Confronts Jefferson"
+    }
+  }
+]

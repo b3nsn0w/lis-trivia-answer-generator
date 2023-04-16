@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Who is Ed in Life is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "A photographer",
+      "B": "A friend of Max",
+      "C": "A person Max has an email from",
+      "D": "A character who appears in the game"
+    }
+  },
+  {
+    "question": "What is the nature of the emails between Max and Ed?",
+    "answer": "A",
+    "choices": {
+      "A": "Photography-related",
+      "B": "School-related",
+      "C": "Personal",
+      "D": "Work-related"
+    }
+  },
+  {
+    "question": "What does the first part of the email from Ed to Max say?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Thank you for your order...\"",
+      "B": "\"Thank you for your payment...\"",
+      "C": "\"Thank you for your inquiry...\"",
+      "D": "\"Thank you for your interest...\""
+    }
+  }
+]

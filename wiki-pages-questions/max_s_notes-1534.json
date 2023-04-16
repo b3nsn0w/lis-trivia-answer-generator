@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Name Of The Rehabilitation Center Mentioned In The Notes?",
+    "answer": "A",
+    "choices": {
+      "A": "Arcadia Bay Spinal Center",
+      "B": "Prescott Foundation",
+      "C": "Credit Card Services",
+      "D": "Loan Services"
+    }
+  },
+  {
+    "question": "What Is The Comment Max Makes About The Blue Butterfly Poster?",
+    "answer": "A",
+    "choices": {
+      "A": "It Is A Total Coincidence",
+      "B": "It Is A Sign Of Good Luck",
+      "C": "It Is A Symbol Of Hope",
+      "D": "It Is A Reminder Of Chloe's Injury"
+    }
+  },
+  {
+    "question": "Where Is The Framed Photo Of Chloe And William Located?",
+    "answer": "A",
+    "choices": {
+      "A": "On Top Of A Dresser In The Garage",
+      "B": "In Chloe's Room On The Second Floor",
+      "C": "On A Dresser In Joyce And William's Room",
+      "D": "On The Living Room Table"
+    }
+  },
+  {
+    "question": "What Is The Comment Max Makes About The Food Coupons?",
+    "answer": "A",
+    "choices": {
+      "A": "Joyce Is A Food Coupon Boss",
+      "B": "They Are Expired",
+      "C": "They Are Useless",
+      "D": "They Are A Waste Of Money"
+    }
+  },
+  {
+    "question": "What Is The Comment Max Makes About The Medical Bills?",
+    "answer": "A",
+    "choices": {
+      "A": "They Are Just For Chloe's Basic Supplies",
+      "B": "They Are Unnecessary",
+      "C": "They Are Too High",
+      "D": "They Are Paid For By The Prescott Foundation"
+    }
+  }
+]

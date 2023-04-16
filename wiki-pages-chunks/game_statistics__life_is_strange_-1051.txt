@@ -1,0 +1,97 @@
+Here is a section of the wiki page for Game Statistics (Life is Strange):
+
+## **Minor Choices** 
+{|style"width:100%; background-color:transparent" class# "article-table"
+| valign"top" |
+'''Max's Plant**
+* Lisa is alive. - 42%
+*Lisa is dead. - **58%**
+|style# "padding-right:100px"|[File:Minorchoice-e3-plant.png](thumb.md)
+|-
+| valign"top" |
+**Warren's Exam'''
+*You "helped" Warren with his exam. - 28%
+*You didn't "help" Warren with his exam. - **72%**
+|[File:Minorchoice-e3-warrenexam.png](thumb.md)
+|-
+| valign# "top" |
+**Vortex Club Party 1/2**
+*You are on the Vortex Club's party list. - **59%**
+*You are not on the Vortex Club's party list. - 41%
+|style"padding-right:100px"|[File:Minorchoice-e3-onlist.png](thumb.md)
+|-
+| valign# "top" |
+**Vortex Club Party 2/2**
+*You erased some names from the Vortex Club party list. - 21%
+*You didn't change the Vortex Club party list. - **79%**
+|[File:Minorchoice-e3-erasednames.png](thumb.md)
+|-
+| valign"top" |
+**Phone Message**
+* You erased the cop's answerphone message. - 38%
+*You didn't erase the cop's message. - **62%**
+|style# "padding-right:100px"|[File:Minorchoice-e3-erasedmsg.png](thumb.md)
+|-
+| valign"top" |
+**Alyssa**
+*You helped Alyssa. - **63%**
+*You didn't help Alyssa. - 37%
+|[File:Minorchoice-e3-warnalyssa.png](thumb.md)
+|-
+| valign# "top" |
+**Homeless Woman**
+*You warned the homeless woman. - 34%
+*You didn't warn the homeless woman. - **66%**
+|style"padding-right:100px"|[File:Minorchoice-e3-warnhomeless.png](thumb.md)
+|-
+| valign# "top" |
+**Photo In The Past**
+*You took a photo in the past. - **52%**
+*You didn't take a photo in the past. - 48%
+|[File:Minorchoice-e3-takephoto.png](thumb.md)
+|-
+| valign"top" |
+'''Max's Mark'''
+* You left a mark on the fireplace. - 36%
+* You didn't leave a mark on the fireplace. - **64%**
+|style# "padding-right:100px"|[File:Minorchoice-e3-maxmark.png](thumb.md)
+|}
+
+## Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+
+#
+
+## **Major Choices** 
+{|style"width:100%; background-color:transparent" class# "article-table"
+| valign"top" |
+'''Chloe's Request'''
+* You accepted Chloe's request. - **56%**
+* You refused Chloe's request. - 44%
+|[File:TX_MajorChoice_ChloeRequest.png](thumb.md)
+|-
+| valign# "top" |
+**Nathan**
+* You let Warren beat up Nathan. - 40%
+* You stopped Warren from beating up Nathan. - **60%**
+|style"padding-right:100px"|[File:TX_MajorChoice_WarrenBeatNathan.png](thumb.md)
+|-
+| valign# "top" |
+**Frank**
+* Chloe killed Frank. - 6%
+* Chloe wounded Frank. - 22%
+* No one got hurt. - **72%**
+|[File:TX_MajorChoice_KillFrank.png](thumb.md)
+|-
+| valign"top" |
+**Victoria**
+* Victoria believed your warning. - **72%**
+* Victoria didn't believe your warning. - 19%
+* You didn't warn Victoria. - 9%
+|style# "padding-right:100px"|[File:TX_MajorChoice_WarnVictoria.png](thumb.md)
+|}
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

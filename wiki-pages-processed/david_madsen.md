@@ -1,0 +1,229 @@
+#  David Madsen 
+
+```yaml
+Character
+
+name: David Madsen
+image: David .png
+alsoknown: |-
+  Step-führer, Step-shit,
+  Step-ass, Step-douche,
+  Step-dildo, Step-troll,
+  Step-prick, Step-crack,
+  Step-fucker, Tiny Tool,
+  Sgt. Shithead, Sgt. Pepper,  Step-dork, Step-hero,  Step-soldier, Step-SWAT,
+  Step-commando (by [Chloe Price
+Chloe](chloe_price_chloe.md))
+Officer Dickhead, Rambo, Chuck Norris the Blackwell Ranger, David Dickhead (by [Maxine Caulfield: *
+Max](maxine_caulfield____max.md)): *
+causeofdeath: Shot by [Mark Jefferson](mark_jefferson.md) (pre-rewind, determinant)
+gender: Male
+hair: Black
+eyes: Brown
+height: 5'9" (176 cm)
+weight: 174 lbs (79 kg)
+loveinterest: '[Joyce Price](joyce_price.md) (wife)'
+relatives: '[Chloe Price](chloe_price.md) (stepdaughter)Unnamed Parents'
+profession: |-
+  Soldier (former)
+  Head of Security at [Blackwell Academy](blackwell_academy.md)
+  Bus Driver ([Alternative Timeline
+alternative timeline](alternative_timeline_alternative_timeline.md))
+: ''
+affiliation: '[Blackwell Academy](blackwell_academy.md)'
+appearance: >-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)[Episode 2: Out of
+  Time](episode_2__out_of_time.md)[Episode 3: Chaos
+  Theory](episode_3__chaos_theory.md) [Episode 4: Dark
+  Room](episode_4__dark_room.md)[Episode 5: Polarized](episode_5__polarized.md)
+voice: |-
+  [Don McManus](don_mcmanus.md) (ENG)
+  [Naoya Nosaka](naoya_nosaka.md) (JAP)
+```
+
+> Hey, hey, nobody is bullying anybody. I'm doing my job.
+
+**David to [Maxine Caulfield**, Max](maxine_caulfield____max.md) in "[Episode 1: Chrysalis, Chrysalis](episode_1__chrysalis__chrysalis.md)"
+
+**David N. Madsen**Evident from his [Media:Note-chloeshouse-dogtags.png](dog_tags.md) in a drawer in the garage. is a recurring character in *[Life is Strange](life_is_strange.md)*. He was a war veteran and is the security guard at [Blackwell Academy](blackwell_academy.md). He is married to [Joyce Madsen](joyce_madsen.md), and is [Chloe Price](chloe_price.md)'s stepfather.
+
+In the first four episodes, David plays the role of a red herring. His aggressive and paranoid behavior, in addition to his suspicious monitoring of students, paints him as an antagonist. He is later revealed to be a hidden protagonist after many of his suspicions turn out to be true and many of his strict precautions (such as keeping close tabs on students) wind up being well-founded.
+
+David reappears in *[Life is Strange: Before the Storm](before_the_storm.md)*, the prequel to the events of *[Life is Strange](life_is_strange.md)*. He also reappears in the sequel, *[Life is Strange 2](life_is_strange_2.md)*.
+
+: ''For the image gallery, click [David Madsen/Gallery](here.md). To visit David's room click [Joyce and David's Room](here.md)''.
+
+##  Personality 
+The way David behaves is often rude and aggressive. He also appears to suffer from PTSD and paranoia after his time in the military. He seems to have an unhealthy obsession with surveillance. However, he ultimately cares about the Blackwell students and his family but finds it difficult to show them due to his brusque attitude.
+
+He references how difficult it is for a soldier to return to regular life, which offers an explanation into his abrasive behavior. There is a well-read copy of a book about this subject in David's garage.
+
+##  Biography 
+The following is what [Maxine Caulfield](max.md) wrote about David in her [Max's Journal](journal.md):
+
+''Whoa, I swear that security guard is the biggest ass here. And that's saying a lot. He always treats everybody like they've committed a crime or they're about to commit one. He grilled me in the hall today and I thought he was going to arrest me. I don't know much about him but I heard he was kicked out of the army or something.*
+
+*So of course he would end up at Blackwell Academy in charge of security. Aren't you supposed to feel, I don't know, SECURE, on campus?*
+
+*Bro-dude swaggers everywhere with that badge and gun like he's looking to tase somebody. He would make a good photo portrait of authority though. Who does a guy like that marry? I feel sorry for his family.''That's a very ironic allusion/foreshadowing regarding who Max shortly afterwards finds out is his family.'' It would be like living in a barracks. Shudder. Just another person I have to avoid at Blackwell. Collect 'em all.''
+
+##  Background 
+David has a strong military background. He suffers from Post-traumatic Stress Disorder (PTSD) and possibly takes medication for it. His dog tags, found in his bedside drawer, reveal that his blood type is O-Positive and that he is of the Baptist faith.
+
+David first met his wife Joyce in the [Two Whales Diner](two_whales_diner.md) where she works; their first meeting was on the 27th of November 2008, according to an old receipt that he keeps in his car. They were married sometime after this, and Joyce took his name (it appears on many of the bills in the household). He seems to care a great deal for Chloe, despite the two never really getting along. A birthday card from him in [David's Garage](his_garage.md) drawer depicts his happiness at being Chloe's step-dad, and [Maxine Caulfield](max_caulfield.md) even considers it as a password for his laptop.
+
+David seems to enjoy mechanics, as he fixes up the old car in the garage ─ at the sight of which Max describes him as a "gearhead". Hunting is another of his hobbies, clear from the taxidermy and photos in the Madsen home. David seems worried about possible apocalyptic scenarios, not surprising due to his PTSD. He has a self-help book on how to survive the apocalypse, and stores a lot of suitable food products in the garage for emergencies.
+
+David seems to have supportive parents, as evident from a tape found in his belongings entitled "Message from Mom and Dad - 07/2007".
+
+His [Investigation Files#David's Files](secret_files.md) reveal that David started to investigate [Nathan Prescott](nathan_prescott.md), [Mark Jefferson](mark_jefferson.md) and drug dealer [Frank Bowers](frank_bowers.md) eventually after [Rachel Amber](rachel_amber.md)'s disappearance six months ago, and has tracked them, including his step-daughter Chloe and student [Kate Marsh](kate_marsh.md), for at least one week until October 7. He also installed cameras in his family's house and planned to put Blackwell under surveillance too. It is possible that Nathan's father, [Sean Prescott](sean_prescott.md), hired David to protect his son.
+
+Other files from Wells' computer reveal, furthermore, that David has accused [Rachel Amber](rachel_amber.md) of drug dealing prior to her disappearance and that he was also following her and taking pictures.
+
+##  Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+Max's introduction to David comes in the form of him as Head of Security in Blackwell accusing her of breaking the fire alarm in the girls' bathroom in Blackwell. He is set up as a rash and accusatory man before he is asked to turn off the alarms by [Raymond Wells](principal_wells.md).
+
+Outside, Max can talk to [Brooke Scott](brooke_scott.md) about her drone. Brooke makes an offhand comment that she'd bet David would love to spy on everyone at Blackwell using her kind of drone. Max can also speak to [Michelle Grant](ms__grant.md) and find out that David is planning to set up numerous surveillance cameras all over the Blackwell campus in a bid to help protect students. However, she and many others are against this, and she tries to get Max to sign a petition to stop it.
+
+The next time Max sees David, he is hassling Kate Marsh. It seems he is interrogating her about drugs, or her attendance at the last [Vortex Club](vortex_club.md) party. Max can choose to intervene or not.
+
+Intervene# InterveneMax breaks up the confrontation, asking David to stop hassling Kate. David retorts saying that he is on official campus business. He sees his bullying as merely part of his job. Although Kate appreciates it, David does not, believing that he is doing some good by finding out what Kate has been up to at the last Vortex Party. He threatens Max, saying he will remember the conversation, and leaves the two girls alone.
+|-|Take the photoTake the photoDavid continues to hassle Kate, telling her to watch herself and figure out which side she's on (presumably the side of justice and security or the side of inappropriate drug-related behavior). Kate is not pleased with Max, although now the photograph provides proof that the situation happened.
+
+When Nathan is swinging at Warren in the parking lot after meeting up with Max, David runs up to stop the fight.
+
+Later on at Chloe's house, Max is able to search David's belongings in the garage while looking for tools to repair her camera. She can discover secret files proving that he's been spying on Kate Marsh. She can also find out that David has installed cameras in all his house's rooms and plans to put Blackwell under surveillance, as well.
+
+When David returns home he will come up to check on Chloe after hearing the loud music Chloe turned on in her room. Max may choose to hide from David and avoid blame for the weed Chloe was caught smoking or take the blame. If she looked at his secret files and left them in ruins, he will complain that Chloe has been through his things; he also states that one of his guns are missing.
+
+Don't Hide, Take the blame# Don't Hide, Take the blameMax doesn't hide anywhere in the room, and takes the blame for the joint when Chloe suggests the joint belongs to Max. David threatens her with regard to her Blackwell scholarship, and doesn't want to see her in the household again. Chloe will show Max the missing gun she stole from David afterwards.
+|-|Don't Hide and don't take the blameDon't Hide and don't take the blameMax doesn't hide anywhere in the room, and doesn't take the blame for the joint when Chloe suggests the joint belongs to Max. David will believe Max and slap Chloe's face, warning her not to mess around with drugs any more. Chloe will accuse Max of bailing on her the same way her other friends did. Chloe will leave the room first without waiting for Max.
+|-|Hide, Intervene# Hide, InterveneMax hides in the closet, but intervenes as David discovers the joint. She takes the blame and David reacts by threatening her Blackwell scholarship and asking her not to come back to the house again. Chloe will show Max the missing gun she stole from David afterwards.
+|-|Stay HiddenStay HiddenMax stays hidden throughout the confrontation between David and Chloe. When he finds the joint, Chloe stands up to him. He slaps her face, and warns her not to mess around with drugs any more. Chloe will not hold it against Max for staying hidden, and will wait for Max to leave with her.
+
+At the end of the episode, David is seen atop a ladder installing or adjusting a security camera outside the Price/Madsen family home.
+
+##  Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+During this episode, as Max enters Blackwell on her way to class, she comes across David. She can either engage in conversation with him, or he will interrupt her on her way down the corridor. He tells her about how protective he is over Chloe.
+
+Took blame for Chloe# Took blame for ChloeIf Max took the blame for the weed on the previous day, he will reprimand Max and ask if the weed was actually hers or not. He will also explain that he lost his temper that day because he cared for Chloe and didn't want her to harm herself from smoking the weed. Max will also bring up the matter of Kate, and David will only mention she was an entirely different matter altogether and won't say anything more.
+|-|Hid from DavidHid from DavidIf Max stayed hidden on the previous day, Max will accuse David of hitting Chloe. David will assume Chloe had told Max that David had hit her and will try to explain that he was trying to find his missing gun and he hit Chloe because he cared for her and didn't want her to harm herself from smoking the weed. Max will also bring up the matter of Kate, and David will only mention she was an entirely different matter altogether and won't say anything more.
+|-|Blamed Chloe# Blamed ChloeIf Max blamed Chloe, he will state she got in his face and called him a "pig", but he regrets his action of slapping Chloe and apologizes.
+
+As Max sits in class, she sees Kate running off-campus towards the dormitories. Max sees David following her, snapping suspicious photographs of her without permission. Max feels creeped out by his surveillance.
+
+As Kate's suicide attempt leads to Max freezing time, David can be seen running into the [Prescott Dormitory](dormitory.md) building in an effort to rescue Kate from the roof. However, it is clear he would have been too late to assist her.
+
+Saved KateSaved KateAfter Kate is rescued by Max and taken to hospital, David finds himself in the Principal's office with Nathan, Max, Mr. Jefferson and Principal Wells.
+|-|Didn't save Kate# Didn't save KateAfter Kate is dead, David finds himself in the Principal's office with Nathan, Max, Mr. Jefferson, Principal Wells and [Anderson Berry](officer_berry.md).
+
+Due to David leaving the roof door open as a security risk, Wells holds him in part responsible for the situation.
+
+Blame David and took photo on previous dayBlame David and took photo on previous dayMax can choose to blame him for the situation, accusing him of hassling Kate, and can produce the picture she took of the two in the first episode. Blaming him will cause him to be reprimanded by the principal, and put on temporary leave, much to David's outrage.
+|-|Blame David and intervened on previous day# Blame David and intervened on previous dayMax can choose to blame him for the situation, accusing him of hassling Kate, much to David's outrage. Without any actual proof, the principal will disregard Max's accusation and take no action against David.
+|-|Blame David, intervened for Kate and took blame for Chloe on previous dayBlame David, intervened for Kate and took blame for Chloe on previous dayMax can choose to blame him for the situation, accusing him of hassling Kate, much to David's outrage. Without any actual proof, and with David discrediting Max for dealing drugs to students, the principal will disregard Max's accusation and suspend Max from her studies at Blackwell instead.
+
+At the end of the episode, he makes an appearance with Joyce in the Madsen Family Home, in the garden, deeply upset. She seems to be comforting him over the situation.
+
+##  Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+At the beginning of the episode, if David was placed on temporary leave earlier, Max will find a website set up by an unknown number of Blackwell students attempting an online petition to have David dismissed from his job as Blackwell head of security in her laptop. Otherwise, no website with any mention on David Madsen will be found.
+
+When Chloe and Max are entering the school building with David's spare keys at night and searching for clues regarding Rachel Amber's disappearance, Max finds an email from David to Michelle Grant regarding her petition against his surveillance system plans, in which David states, despite being nobody's favorite among the students and faculty, making sure their safety is his prime directive. He refers to the 15.4% drop in campus crime since him taking over as Head of Security and asks her to redact her petition and to reconsider the negative consequences. Memos from Wells' computer reveal that he had accused Rachel Amber of drug dealing prior to her disappearance, and furthermore that he has been following her and taking pictures.
+
+After that, Max and Chloe head to the [Blackwell Swimming Pool](blackwell_swimming_pool.md) where they are disturbed by security staff members.
+
+No action against David# No action against DavidIf David is not placed on temporary leave, David will be supervising the security sweep through the Blackwell swimming pool area and he will have to write vandalism reports all night.
+|-|David on temporary leaveDavid on temporary leaveIf David is placed on temporary leave, another unnamed security guard will take over as Blackwell head of security in David's place and will supervise the security sweep through the Blackwell swimming pool area instead.
+
+The [Arcadia Bay Police Department](arcadia_bay_p_d_.md) will contact David and report that his stepdaughter's pickup [Chloe's Truck](truck.md) has been identified. Max can rewind and delete the message from the answering machine.
+
+Later at the Madsen Household, while searching through his belongings, Max can find a birthday card for Chloe's 18th birthday. The message is heartfelt, insinuating that David truly does care about his step-daughter despite her behavior. This could also indicate that the two had a better relationship at one stage, although that seems unlikely.
+
+Max discovers that ultimately, David values Joyce more than anything else in his life. The receipt he keeps from the diner from 2008 documents their first meeting and is also the password for his laptop. There is also a photo of their wedding in the drawer next to his workstation; he keeps her close at all times.
+
+No action against David# No action against DavidAn argument breaks out in the Madsen household at breakfast as David comes home in his Blackwell security uniform. He is aggressive and clearly sleep-deprived after a night of writing up vandalism reports after the swimming pool break-in.
+|-|David on temporary leaveDavid on temporary leaveAn argument breaks out in the Madsen household at breakfast as David comes home in his smart casual attire. He is aggressive and clearly sleep-deprived after a night of taking temporary part-time work after his temporary leave and dismissal from Blackwell where he has no pay to take home.
+He criticizes Max for being in the house, mentioning her "Rachel Amber Halloween costume". Max retaliates, and Joyce backs her up, asking David to stop threatening students. Chloe chimes in, bringing up the issue of the surveillance cameras in Blackwell and the Madsen house. David tells her not to bring it up now, eventually raising his hand to her, but she persists. From here, Max can choose whether to support Chloe or support David.
+
+Support Chloe# Support ChloeMax brings up his threatening attitude towards students, and his unsettling files containing information about Kate and Rachel. She will also bring up the matter about David hitting Chloe, if Max chose to blame her or stay hidden in Episode 1 or bring up the matter about David threatening her if she took the blame or came out of hiding. Joyce finds the files disturbing, but David refuses to explain his actions regarding the surveillance system. She asks him to leave the house and head to a hotel. David is very hurt by this, and says he never wants to see Max again. Joyce tells Max that David brought this on himself. Chloe asks Max not to rewind on her decision, feeling very pleased with the outcome.
+
+|-|Support DavidSupport DavidMax backs David up, saying there is no proof that he has done anything wrong. As far as they know, Nathan is the one at fault. Chloe brings up how shady it is that he has secret files and security cameras. Joyce will put an end to the argument, saying she doesn't want anyone accused of anything in their house. David thanks Max for defending him, and warns her that it's his family. Joyce also thanks Max for defending her family, despite her daughter doing the opposite. Chloe is disappointed, and asks Max to rewind the situation to change the outcome.
+
+##  Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+Depending on who Max supported in Episode 3, this will happen to David.
+
+Supported Chloe# Supported ChloeWhile Max is descending the stairs, David is seen looking at the family photos. Max later comments that his reaction to the photos isn't any different from hers. After having a conversation with Max, David leaves the household, feeling cross that Max managed to break up the family. He gives a small warning about wandering around Chloe. Joyce leaves him a note telling not to be home when she returns from work. It also becomes apparent that David made a reservation at the Bloch Hotel. Max can find an unfinished crumpled letter to Joyce lying on the garage table. The car is no longer present, implying the fact that the repairs have been finished.
+
+|-|Supported DavidSupported DavidDavid can be found working at his workshop after finishing his car repairs. Max can talk to David about whatever he knows as a follow-up to the case revolving Kate, with David noting that Max has done more to help Kate than anybody else, and feeling bad that he has left the roof open for Kate's (attempted) suicide. David also reveals the reason behind the need for the additional surveillance in the school but remarks to Max that she herself is a walking surveillance. If Nathan hasn't been suspended, David comments on him as a "little shitass" who should be lucky that he didn't get suspended, if Nathan has been suspended, he comments on him for being lucky to be suspended, and apologizes for not having had all the evidence at the time if David wasn't fired, if he is fired, he will reprimand Max for getting him fired stating that they're almost even. Furthermore, he states that he's the only one knowing what's happening and that he wanted to protect future students from ending up like Rachel Amber and Kate Marsh. Since he is off duty, he is free to criticize Mr. Jefferson as an "elitist prick". He ends the conversation by warning Max this is dangerous territory she is heading into since she already knows way too much of what is happening at Blackwell. 
+
+We can also find out that David has treated Joyce to the most expensive restaurant in Arcadia Bay for over 260$ after their confrontation on the last evening.
+
+##  Episode Five - "[Episode 5: Polarized](polarized.md) " 
+After changing the past twice and finding herself again in the [Dark Room (Location)](dark_room.md), no matter who Max supported, David used the clues found by Chloe and Max's investigation and successfully tracked to the source behind the attacks on students and found himself in the Dark Room, fighting with Mark Jefferson. With the guidance and a bit of manipulation of the playing field by Max, David successfully knocks out Mark Jefferson and frees Max. David reconciles with Max (regardless of which options were picked in the conversation) and tells her he also suspected Nathan in his role behind Kate's (attempted) suicide and should have apprehended them sooner. He also admits that he was being too harsh on Kate.
+
+However, if Max is to reveal to David of Mark's killing of Chloe, David will shoot Mark in the head for revenge. Otherwise, he will be continuing the investigations at the desk in the Dark Room.
+
+Max can tell Joyce that David needs her in the diner.
+
+When the timeline has been rewound through [Warren Graham](warren_graham.md)'s photo to prevent Chloe's death at the hands of Jefferson, Chloe and Max reported their investigations to David. David promptly tracked Mr. Jefferson to the Dark Room and had him arrested with the help of the police.
+
+David later appears in the maze area of [Max's Nightmare](max_s_nightmare.md) where he is among the people hunting down Max.
+
+Sacrifice Arcadia Bay# Sacrifice Arcadia Bay
+He was confirmed to be one of the sole survivors of the storm along with Chloe and Max.
+
+|-|Sacrifice ChloeSacrifice Chloe
+If the timeline is reversed and Chloe had been shot dead by Nathan back in Blackwell, David is the first who enters the bathroom and arrests Nathan. David will be among the attendees at her funeral together with his wife Joyce, clearly being in mourning about Chloe's death. Kate as one of the attendees will stop at them and comfort them. Revealed in the second game, David and Joyce eventually divorce.
+
+##  Alternative Timeline 
+David is seen as the Blackwell bus driver in the [Alternative Timeline](alternative_timeline.md). It is evident that he is no longer involved in any security for the school. He also seems to have no relationship with Max; treating her as a regular student looking to board the bus. It is clear he has not been involved with Joyce, considering William is alive and well. If Max mentions David to Joyce, Joyce will reply that David is a regular at the Two Whales Diner and that he is "quiet" and "cute," but it is evident that they share no relationship beyond that.
+
+##  Associated Deaths 
+* [Kate Marsh](kate_marsh.md) (**Contributed, Determinant**) - He is seen bullying Kate by Max. He has also been taking pictures of the girl and following her around the Blackwell campus. By leaving the Dormitory roof door unlocked, he is partially responsible for Kate being able to climb onto the roof to attempt suicide.
+* [Mark Jefferson](mark_jefferson.md) (**Direct, Determinant**) - If Max reveals to David that Chloe was killed by Jefferson, he will shoot him as an act of revenge.
+
+##  Relationships 
+###  Friends 
+* [Maxine Caulfield](max_caulfield.md) (**Determinant**) - Despite being suspicious of Max during their first meeting and calling her the one who "likes to pop up and start trouble", David does apologize for his earlier actions in Episode 2 and also states he doesn't want to fight with Max or anyone else again. He also doesn't bust Max for smoking weed. He will obviously be on good terms with Max if she chooses to side with him during the living room argument. He thanks her numerous times for defending him and at the end of the game no longer uses his service as an excuse for his behavior. David also remarks that he is impressed by Max and Chloe's investigation, who managed to track Jefferson without the high-tech equipment. That comment, however, was likely just to make her feel better, as he already admits how close he was to know the truth in the nights before. He knew about Nathan's and Jefferson's car and registration and was close to cross-referencing those coordinates on the map, consequently linking Jefferson with Nathan, along with the [Prescott Barn](barn.md), before she ever decided to intervene. Meanwhile, Max and Chloe became victims of Jefferson in the timelines.
+* [Nathan Prescott](nathan_prescott.md) (**Questionable**) - Nathan is the only one who's not a suspect to David at the beginning of the game, but his photos are among David's secret files and at the end, David says he always knew Nathan was a threat and admits he should have neutralized him earlier.
+
+###  Family 
+* [Joyce Price](joyce_price.md) - David met Joyce when he was a customer in her diner where she left a note on his receipt thanking him for acting like a gentleman. Unlike most people, Joyce showed concern for his emotional struggles after his war experience, and David felt truly understood by her, which gave him the hope and support he needed to move on and start a new life. Despite David's problematic relationship with her daughter, they have been living a happy marriage. David is shown to truly care for Joyce, even respecting her wish to keep mementos of her deceased husband William in their room, and Joyce tells Max on several occasions that David is a good man who is simply misunderstood by those who do not know him well. He treasures their family over everything, and after the argument in Episode 3 breaks out, he shows his genuine efforts by promising Joyce to go see a family counselor and to apologize to Chloe. During Chloe's funeral in the sacrifice Chloe ending, despite David's own sorrow at having lost Chloe, he had to lead and hold Joyce and was supporting and comforting her throughout as Joyce was visibly emotional and distraught.
+* [Chloe Price](chloe_price.md) - David and Chloe have a fragmented and antagonistic relationship. Chloe clearly disrespects him and has a number of unfavorable nicknames for him including "step-douche" and "step-dick". David has been shown to be physically and verbally abusive towards Chloe, such as slapping her and calling her a loser if Max does not take the blame for Chloe's marijuana. If Max finds out that David has been keeping video surveillance on Chloe's house and tells Joyce, Chloe will be visibly happy that Joyce tells David that he needs to find a room at a hotel. However, David seems to want a loving relationship with Chloe despite her criminal activities and bad attitude; a birthday card from him to her suggests that he is proud to be a step-father and wants the same as Joyce; to be a family. Though he may not be able to show it properly, he truly is concerned about Chloe's well-being, may it refer to her scholastic career, the company she keeps, or her drug abuse. In the last episode, he admits to Max that the family he has with Chloe and her mother is everything that matters to him and that he always tried to be a good father, but he also realizes that he failed by being too obsessed. He shows his genuine interest in Chloe by promising Joyce to go see a family counselor and apologize to Chloe after the argument that broke out between them in episode three. Also, he is obviously deeply hurt after finding out that Chloe was killed by Jefferson, regretting that he wasn't able to protect her like he promised Joyce and that he was never able to properly tell her that he loved her, which even causes him to shoot Jefferson in an act of revenge. If Max hides the truth about Chloe by telling him she went medicating before she ended up in the Dark Room, he may even be reassured for the first time in his life that Chloe is a stoner.
+
+###  Enemies 
+* [Maxine Caulfield](max_caulfield.md) (**Determinant**) - David doesn't trust Max since their first confrontation at Blackwell Academy. If Max decides to defend Kate and takes the blame for Chloe in her room, David will say he doesn't want to see Max anymore. In Principal Wells' office, Max has the option to blame David for bullying Kate, to which he tells her to "grow up". Their relationship worsens if Max decides to side with Chloe during the argument in the living room. In that case, David will say once again that he doesn't want to see or hear from Max. The following morning, David is angry with Max for breaking up his family. Max is also one of David's suspects because her photos are present in his files. However, it is likely that he was just worried that Max would become another potential victim, just as Rachel and Kate were due to the behavior he had observed of her as his role as a security officer. Regardless of Max's choices, David will still rescue Max from the Dark Room in "Polarized" and will apologize for his earlier actions, so it can be said that their relationship shifts from enemies to friends throughout the events of the game.
+* [Mark Jefferson](mark_jefferson.md) - David thinks he's an "elitist prick" who isn't trustworthy, and David later reveals that he always suspected him. David may get knocked out by Mark Jefferson, end up with a scar on his forehead or get shot dead while fighting Mark Jefferson in the Dark Room bunker in the last episode. If Max decides to tell the truth about Mark Jefferson having killed Chloe, David will shoot Mark in an act of revenge. In other alternative timelines, David who is better prepared with a gun and body armor would confront Mark Jefferson together with several Arcadia Bay police officers, and Jefferson will surrender without a fight.
+* [Michelle Grant](michelle_grant.md) - Ms. Grant sabotages David's plans for installing a surveillance system at Blackwell with her petition. However, she will also defend David if he is placed on temporary leave and an unknown number of Blackwell students start an online petition to have David dismissed from his job as Blackwell head of security.
+* [Nathan Prescott](nathan_prescott.md) - David was tracking Nathan in his investigation, close to directly linking him with Jefferson and the disappearances. Using the evidence Madsen had already collected, Max was able to easily piece together the clues. Nathan Prescott had attempted to drug Chloe and took a picture of her. Max sees this when she search his room in his drawer. During the investigation sequence, it is apparent that Nathan was also angry at Frank, thinking he gave him water in the text evidence Max finds. Instead, it is likely the dose was too low, as he was inexperienced with using the drugs, which is further proven by him overdosing Rachel with the gamma hydroxide acid provided to him from Frank, and that Chloe was willing and able to fight back because he didn't have Jefferson with him or his help. This directly makes Nathan Prescott a main enemy of David. He had tried to experiment outside of Jefferson's Dark Room on Chloe and was angry at Frank that she managed to fight back. David made a promise to protect Chloe. Fortunately, Nathan's attempt was botched by his inexperience, or he would have neutralized him.
+
+##  Memorable Quotes 
+{{Quote|I'm sick of your disrespect! Tell me the truth, that's an order!|said to Chloe in "Chrysalis"}}
+{{Quote|Soldier, you don't have the facts.|said to Max in "Out of Time"}}
+{{Quote|I do not have to take this kind of interrogation. Not from you punks!|said to Max and Chloe in "Chaos Theory"}}
+{{Quote|Figures you'd be here. Is that your Rachel Amber Halloween costume?|said to Max in "Chaos Theory"}}
+{{Quote|That's one of my problems... I'm not good at teamwork. Never was.|David to Max in the Dark Room}}
+
+##  Discussed Theories 
+* It was considered probable that David was a misunderstood character who simply truly cared for Blackwell's students and took his responsibility as Head of Security seriously. He probably noticed that something was wrong at Blackwell way before Rachel's disappearance and that's why he was so dedicated to installing a security system in Blackwell and controlling Chloe: to protect all of them. He was actually onto the culprit of the Dark Room Conspiracy, similar to being the *"True Detective"* like his license plate implies.
+* It was speculated that David was not just onto the culprit of the [Episode 4: Dark Room](dark_room.md) events, but also tried breaking into the old barn, but failed. In the barn, prior to entering the Dark Room in Episode 4, Max makes a remark that the padlock is new, but judging from the partly vanished button numbers in the Dark Room's armored door (thus, guessing the password), it can be assumed that the password hasn't been changed for a long time, hinting that someone must have been breaking into the Dark Room before Max and Chloe, destroying the padlock (thus explaining the new padlock) but failed to open the armored door (explaining the unchanged password). David Madsen has surveillance data that shows Jefferson and Nathan went to the barn and he's the only person besides Max and Chloe that was known to be aware of Jefferson and Nathan's activities and was searching for "evidence".
+*It was also speculated that David might have visited his home in the next episode. Wondering where Chloe was since it was the middle of the night, he noticed the Google Maps page on Chloe's computer, leading him to the Prescott Barn. It explains why he comes to save Max in [Episode 5: Polarized](episode_5.md).
+* David has a taxidermy mount of a deer, which he displays in the garage. There is also a picture in the Madsen household in the living room depicting him hunting a deer. Max's spirit animal is a Doe, which was considered an indication that Max might be victimized in some way by David in the future. On the other hand, "hunting the deer" was also interpreted as him being onto the mysteries that are connected with the Doe spirit.
+
+##  Trivia 
+*David doesn't like punk rock music, as he forbids Chloe from listening to it.
+*In the garage of the [Madsen Household](madsen_household.md), the license plate is "TRDTCTV", a reference to *[w:c:truedetective](true_detective.md)*.
+*In Episode 4, there is an ashtray with a few cigarettes in it in David’s garage. He’s a smoker, but not a chain-smoker like Chloe.
+*In the same episode David warns Max not to wonder off into the dark. Quite a foreshadowing phrase regarding the end of the episode, in which Max ends up in the Dark Room.
+*David's revolver, which Chloe has stolen in "[Episode 1: Chrysalis](chrysalis.md)", may be a standard black Smith & Wesson 357.
+*The password for David's laptop computer is 11-27-08, the date of David and Joyce's first meeting at the Two Whales Diner. The diner receipt which had the date printed and Joyce's message of appreciation to him is kept in good condition inside his car.
+*According to one of his papers on Kate, he says he doesn't trust men with goatees, referring to Mr. Jefferson.
+*David's character design may be based on a composite sketch from the first season of the *X-Files* which very closely resembles David's faceSee here for a comparison: [http://lifeisstrangegame.tumblr.com/post/119525570124/shutupandtakethisurl-i-was-watching-x-files http://lifeisstrangegame.tumblr.com/post/119525570124/shutupandtakethis]. It's also pretty likely since Artistic Director Michel Koch is a big fan of this series and there are several other references throughout the game. Michel Koch, however, confirmed that it simply was "a fortunate coincidence".See here for the Twitter thread: https://twitter.com/lilleeeeeeeey/status/734046808461217792
+*David's height is listed as 509 (5'9") on his [Media:David-concealedgunlicense.png](concealed_handgun_license.md). His weight is listed as 174 (174 lbs).
+
+###  Concept Art 
+
+Concept Art David Madsen.png|Concept Art featured in "Making Arcadia Bay" Dev Diary.
+
+##  Notes 
+

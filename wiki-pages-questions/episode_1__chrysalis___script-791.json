@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who is Luke Parker talking about when he mentions \"Nathan Prescott\"?",
+    "answer": "B",
+    "choices": {
+      "A": "A teacher at Blackwell",
+      "B": "A student at Blackwell",
+      "C": "A parent of a student at Blackwell",
+      "D": "A member of the Vortex Club"
+    }
+  },
+  {
+    "question": "What did Max do to Nathan Prescott?",
+    "answer": "B",
+    "choices": {
+      "A": "She reported him to the police",
+      "B": "She reported him to the principal",
+      "C": "She punched him in the face",
+      "D": "She stole his phone"
+    }
+  },
+  {
+    "question": "What does Luke call Max after she tells him about Nathan?",
+    "answer": "B",
+    "choices": {
+      "A": "A liar",
+      "B": "A hero",
+      "C": "A snitch",
+      "D": "A troublemaker"
+    }
+  },
+  {
+    "question": "What does Logan tell Max she can't do?",
+    "answer": "A",
+    "choices": {
+      "A": "Take a picture",
+      "B": "Attend the football game",
+      "C": "Talk to him",
+      "D": "Leave the dormitories"
+    }
+  },
+  {
+    "question": "What does Zachary tell Max about the upcoming football game?",
+    "answer": "C",
+    "choices": {
+      "A": "It's going to be cancelled",
+      "B": "It's going to be rescheduled",
+      "C": "It's going to be a big game",
+      "D": "It's going to be a small game"
+    }
+  }
+]

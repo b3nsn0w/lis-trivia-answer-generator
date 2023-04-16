@@ -1,0 +1,57 @@
+Here is a section of the wiki page for Life is Strange (mobile game):
+
+#  Life is Strange (mobile game) 
+
+```yaml
+VG
+
+title: Life is Strange
+image: '[File:mobilegame-thumb.jpg'
+270px](file_mobilegame_thumb_jpg__270px.md): *
+caption: *
+developer: |-
+  Originally developed by [Don't Nod](don_t_nod.md)
+  Ported by {{wiki
+Black Wing Foundation: *
+```
+
+Produced by Turn Me Up Games, Inc
+|publisher# 
+|distributor
+|director# [Michel Koch](michel_koch.md)
+[Raoul Barbet](raoul_barbet.md) 
+|writer[Jean-Luc Cano](jean_luc_cano.md)
+[Michel Koch](michel_koch.md)
+[Raoul Barbet](raoul_barbet.md)
+[Christian Divine](christian_divine.md)
+
+|artist# [Michel Koch](michel_koch.md)
+Kenny Laurent
+[Amaury Balandier](amaury_balandier.md)
+[Edouard Caplain](edouard_caplain.md)
+|composer[Jonathan Morali](jonathan_morali.md)
+|platform# iOS (2017-2018)
+Android (July 18, 2018)
+|released**iOS:**[Episode 1: Chrysalis](episode_1.md): Dec 14, 2017
+[Episode 2: Out of Time](episode_2.md): Dec 14, 2017
+[Episode 3: Chaos Theory](episode_3.md): Dec 14, 2017
+[Episode 4: Dark Room](episode_4.md): Mar 29, 2018
+[Episode 5: Polarized](episode_5.md): Mar 29, 2018
+**Android:**
+Episode 1-5: Jul 18, 2018
+|genre# Interactive Storytelling
+Drama, High School, Adventure, Supernatural, Coming-Of-Age
+|languages**Audio:** English
+**Subtitles:** English, Spanish, French, Italian, Japanese, Portuguese, German, Simplified Chinese
+|ratings# iOS App Store: 17+[https://www.reddit.com/r/lifeisstrange/comments/7j7evw/no_spoilers_lis_season_1_coming_to_ios_on/ Reddit post by /u/ Ann0ying]
+(Other versions: PG16, ESRB-M, USK12, ACB-M)
+}}
+**Life is Strange** is a mobile port of the game *[Life is Strange](life_is_strange.md)''. 
+
+In the iOS App Store and Google Play Store, Episode 1 is free and the [Media:Android_purchases_menu.jpg](full_season_pass.md) costs $8.99/£8.99/€9.99, offering a 10% discount on the episodes. On iOS, other purchase options are Episode 2 for $0.99, Episode 3 for $4.99, Episode 3-5 for $7.99, Episode 4 for $4.99, Episode 4-5 for $9.99 and Episode 5 for $4.99. On Android, other purchase options are Episode 2 for $0.99/£0.99/€1.09 and Episode 3-5 for $4.99/£4.99/€5.49.
+
+The Android version doesn't include graphics options (quality settings are adjusted automatically based on a device profiler[https://youtu.be/gOnidDMLoSA?t1862 Юрий Денисюк (Pingle Game Studio) - Трудности переноса Life is Strange на мобильные платформы]), however some settings can be adjusted via the "Engine.ini" file.[https://www.reddit.com/r/AndroidGaming/comments/8v4c74/life_is_strange_graphics_reveal_beta_on_oneplus_5/e1lk27e/ Reddit post by u/Azamaru-san][https://www.reddit.com/r/lifeisstrange/comments/8zyveb/no_spoilers_life_is_strange_is_now_available_on/e2npal4/ Reddit post by /u/TooLazyDev]
+
+
+
+Generate five trivia questions relevant to this section of the page.

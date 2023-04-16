@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What Song Plays When Chloe Takes Rachel To The Hospital In Episode Three?",
+    "answer": "A",
+    "choices": {
+      "A": "Burn It Down",
+      "B": "I Can't Live Here Anymore",
+      "C": "Flaws",
+      "D": "Glass"
+    }
+  },
+  {
+    "question": "What Song Plays During The Junkyard Moment Of Calm In Episode Two?",
+    "answer": "B",
+    "choices": {
+      "A": "A Hole in the Earth",
+      "B": "All I Wanted",
+      "C": "Witches",
+      "D": "Improve"
+    }
+  }
+]

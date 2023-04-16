@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who does Max suspect of drugging her in an unused audio clip?",
+    "answer": "A",
+    "choices": {
+      "A": "Nathan",
+      "B": "Victoria",
+      "C": "Warren",
+      "D": "Chloe"
+    }
+  },
+  {
+    "question": "What does Max suggest to Chloe when trying to encourage herself in an unused audio clip?",
+    "answer": "B",
+    "choices": {
+      "A": "To play chess",
+      "B": "To play Simon",
+      "C": "To play cards",
+      "D": "To play video games"
+    }
+  },
+  {
+    "question": "Who agrees with Victoria's comment about Kate in the unused audio clip?",
+    "answer": "D",
+    "choices": {
+      "A": "Trevor",
+      "B": "Hayden",
+      "C": "Zachary",
+      "D": "Courtney"
+    }
+  },
+  {
+    "question": "What does Kate wish she could do in an unused audio clip?",
+    "answer": "A",
+    "choices": {
+      "A": "Go back in time and prevent the viral video",
+      "B": "Leave the school and never come back",
+      "C": "Get revenge on the people who hurt her",
+      "D": "Forget everything that happened to her"
+    }
+  },
+  {
+    "question": "What does Max say to Kate when trying to stop her from jumping in an unused audio clip?",
+    "answer": "C",
+    "choices": {
+      "A": "\"You're not alone, Kate.\"",
+      "B": "\"I believe you, Kate.\"",
+      "C": "\"I'm sorry, Kate.\"",
+      "D": "\"I'll always be here for you, Kate.\""
+    }
+  }
+]

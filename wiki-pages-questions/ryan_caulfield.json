@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is Ryan Caulfield's relationship with Max?",
+    "answer": "A",
+    "choices": {
+      "A": "He is her father",
+      "B": "He is her grandfather",
+      "C": "He is her uncle",
+      "D": "He is her stepfather"
+    }
+  },
+  {
+    "question": "In which episode is Ryan Caulfield mentioned for the first time?",
+    "answer": "A",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "What does Ryan Caulfield send to Max on her 18th birthday?",
+    "answer": "B",
+    "choices": {
+      "A": "A car",
+      "B": "Money",
+      "C": "A phone",
+      "D": "A laptop"
+    }
+  },
+  {
+    "question": "What is the name of Ryan Caulfield's wife?",
+    "answer": "D",
+    "choices": {
+      "A": "Rachel Amber",
+      "B": "Chloe Price",
+      "C": "Victoria Chase",
+      "D": "Vanessa Caulfield"
+    }
+  },
+  {
+    "question": "What is the ethnicity of Ryan Caulfield?",
+    "answer": "A",
+    "choices": {
+      "A": "Irish",
+      "B": "Italian",
+      "C": "German",
+      "D": "French"
+    }
+  }
+]

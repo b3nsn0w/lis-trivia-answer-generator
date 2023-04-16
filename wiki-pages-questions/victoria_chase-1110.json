@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What does Max discover in the Dark Room that leads her to believe Victoria is in danger?",
+    "answer": "B",
+    "choices": {
+      "A": "A photo of Victoria",
+      "B": "A folder with Victoria's name on it",
+      "C": "A note from Nathan to Victoria",
+      "D": "A text message from Victoria to Nathan"
+    }
+  },
+  {
+    "question": "What does Victoria say about Nathan when Max tries to warn her about him?",
+    "answer": "B",
+    "choices": {
+      "A": "Nathan has been acting strange lately",
+      "B": "Nathan is her best friend",
+      "C": "Nathan is not at the party",
+      "D": "Nathan is jealous of Victoria's success"
+    }
+  },
+  {
+    "question": "How does the crowd react when Victoria is announced as the winner of the \"Everyday Heroes\" contest?",
+    "answer": "C",
+    "choices": {
+      "A": "They all applaud",
+      "B": "They all jeer",
+      "C": "There is a mix of applause and jeers",
+      "D": "They are silent"
+    }
+  }
+]

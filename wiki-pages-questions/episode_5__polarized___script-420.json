@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Jefferson Say Will Be Left Of Maxine Caulfield?",
+    "answer": "B",
+    "choices": {
+      "A": "Her Memories",
+      "B": "Her Photographs",
+      "C": "Her Diary",
+      "D": "Her Bag"
+    }
+  },
+  {
+    "question": "What Does Max Ask Jefferson To Show Her?",
+    "answer": "B",
+    "choices": {
+      "A": "His Camera",
+      "B": "His Photos",
+      "C": "Her Diary",
+      "D": "Her Bag"
+    }
+  },
+  {
+    "question": "What Does Jefferson Say About Max's Selfies?",
+    "answer": "A",
+    "choices": {
+      "A": "They Are A Waste Of Talent",
+      "B": "They Are His Favorite Photos",
+      "C": "They Are Better Than His Own Work",
+      "D": "They Are Not Worth Keeping"
+    }
+  },
+  {
+    "question": "What Does Jefferson Do With Max's Diary?",
+    "answer": "D",
+    "choices": {
+      "A": "He Reads It",
+      "B": "He Burns It",
+      "C": "He Keeps It",
+      "D": "He Throws It On The Floor"
+    }
+  },
+  {
+    "question": "What Does Max Focus On After Jefferson Throws Her Diary On The Floor?",
+    "answer": "C",
+    "choices": {
+      "A": "Her Memories",
+      "B": "Her Bag",
+      "C": "Her Selfie",
+      "D": "Her Camera"
+    }
+  }
+]

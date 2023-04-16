@@ -1,0 +1,32 @@
+Here is a section of the wiki page for Blackwell Academy Hallway:
+
+#  Blackwell Academy Hallway 
+
+```yaml
+Location
+
+image: hallwayep1.jpg
+type: Common corridor
+location: '[Blackwell Academy](blackwell_academy.md), [Arcadia Bay](arcadia_bay.md)'
+state: Oregon
+appears: >-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)[Episode 2: Out of
+  Time](episode_2__out_of_time.md)[Episode 3: Chaos
+  Theory](episode_3__chaos_theory.md)[Episode 5:
+  Polarized](episode_5__polarized.md) ([Max's Nightmare
+nightmare](max_s_nightmare_nightmare.md)): ''
+```
+
+The **Hallway** in [Blackwell Academy](blackwell_academy.md) connects two classrooms, two separate bathrooms for boys and girls each, [Principal Wells' Office](principal_wells__office.md), the exit to the front entrance of Blackwell Academy and doorways to other interior areas of the academy. [Maxine Caulfield](max_caulfield.md) will often pass through this hallway to reach an objective location.
+
+Max's locker is located among the lockers along the corridor. Most of the people at this corridor are busy with their own affairs. There are various posters and notice boards along the walls of this hallway. There is a soft drinks and a snack vending machine at this corridor between Principal Wells' Office and the boys' bathroom. On the other side, there is a trophy case between the front entrance and the girls' bathroom.
+
+## Interactions 
+During the game, Max has different objects and people to interact with throughout the hallway.
+
+:**PC users: **''Hover over the text to see Max's comments. [Interactions](see_here.md) for all interactions in the game.''
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

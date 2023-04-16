@@ -1,0 +1,58 @@
+Here is a section of the wiki page for The Awesome Adventures of Captain Spirit:
+
+## Connections to the Sequel 
+* The [Media:SP PT Kitchen Newspaper 01 2 result.png](newspaper.md) lying on the Eriksens' dinner table describes the events of and fallout surrounding [Esteban Diaz](esteban_diaz.md) and [Kindred_Matthews](officer_matthews.md)' deaths.
+* The console Chris wants for Christmas that can be found in Charles' closet is of the "PlayBox" brand, which makes a return in the [Diaz Household](diaz_s_household.md) and Sean Diaz's Christmas home video in *Life is Strange 2*.
+* After being saved from falling out of the treehouse, Chris sees and waves to two boys in the [Reynolds Household](reynolds__backyard.md), later revealed to be [Sean](sean.md) and [Daniel Diaz](daniel_diaz.md).
+
+## Reception 
+The game received generally favorable reviews.[https://www.metacritic.com/game/pc/the-awesome-adventures-of-captain-spirit Metacritic PC][https://opencritic.com/game/6232/the-awesome-adventures-of-captain-spirit OpenCritic]
+
+Like the original game, *Captain Spirit* has been praised for its well-written and relatable characters, notably protagonist Chris's characterization, its emotional story and the way it tackles childhood and its problematic sides. Furthermore, it was praised for its improvement on graphics and animations, as well as for being a non-linear gaming experience that offers multiple ways of shaping a single playthrough. WCCFTech wrote "Rather than being the normal linear affair, Captain Spirit opens up a set of opportunities that can be completed in any order or ignored altogether."[https://wccftech.com/review/the-awesome-adventures-of-captain-spirit WCCFTech: The Awesome Adventures of Captain Spirit Review – Hella Good] (June 29, 2018)
+
+It was criticized that the game is quite short and that the ending can be triggered by accident.
+
+*On Metacritic, it has a Metascore of 75/79 based on 31 reviews and a user score of 7.1/7.3.[https://www.metacritic.com/game/playstation-4/the-awesome-adventures-of-captain-spirit Metacritic PS4][https://www.metacritic.com/game/xbox-one/the-awesome-adventures-of-captain-spirit Metacritic Xbox One]
+*Steam user-reviews are "very positive" (92% out of 8,511 reviews).[https://store.steampowered.com/app/845070/The_Awesome_Adventures_of_Captain_Spirit/ Steam page]
+*IGN calls the game "good" with a score of 7.0.[https://www.ign.com/articles/2018/06/27/the-awesome-adventures-of-captain-spirit-review IGN review] (June 26, 2018)
+*Waypoint calls the game "a gripping but upsetting story about a father and a son in a toxic relationship.[https://waypoint.vice.com/en_us/article/7xmnbq/the-short-but-chilling-captain-spirit-weaponizes-empathy-against-you `The Sort But Chilling 'Captain Spirit' Weaponizes Empathy Against You] (June 27, 2018)
+* The Guardian calls the game "only clumsy occasionally; as a whole (...) affecting, sweet and memorable" with a score of 3/5.[https://www.theguardian.com/games/2018/jun/28/the-awesome-adventures-of-captain-spirit-review The Awesome Adventures of Captain Spirit review – poignant pipe dreams] (June 28, 2018)
+
+#
+
+## Awards and Nominations 
+Before the release, *Captain Spirit* won one of Android Central's "Best of E3 2018" awards.[https://twitter.com/DONTNOD_Ent/status/1007382920120725505 Twitter post by Dontnod]
+
+In January 2019, *Captain Spirit* won an award for "Best Adventure Game" in the Game Informer's Best Of 2018 Awards. The winner announcement reads as follows:
+
+{{Bigquote|"Captain Spirit may be a prelude for the latest Life Is Strange, but it stands just fine as its own adventure. Seeing the world through the eyes of an imaginative boy named Chris makes thoroughly exploring each environment worthwhile, as does learning more about his life and relationship with his troubled father."[https://www.gameinformer.com/2019/01/08/game-informers-best-of-2018-awards Game Informer’s Best Of 2018 Awards]}}
+
+## System Requirements 
+{| border# "0" cellpadding"1" cellspacing# "1" class"article-table" style# "width: 600px"
+|-
+! scope"col"|Minimum:
+! scope# "col"|Recommended:
+|-
+|OS: Windows 7 or above (64-bit)
+|OS: Windows 10 (64-bit)
+|-
+|Processor: Intel Core i3-2100 (3.1GHz) or AMD Phenom X4 945 (3.0GHz)
+|Processor: Intel Core i5 3470, (3.20 Ghz) or AMD FX-8350, (4.00 Ghz)
+|-
+|Memory: 4GB RAM
+|Memory: 6GB RAM
+|-
+|Graphics: Nvidia GeForce GTX 650 2GB or AMD Radeon HD 7770 2GB
+|Graphics: Nvidia GeForce GTX 970 4GB or AMD Radeon R9 280X 3GB
+|-
+|DirectX: Version 11
+|DirectX: Version 11
+|-
+|Hard Drive: 5 GB available space
+|Hard Drive: 5 GB available space
+|}
+**Note:** 32-bit operating systems will not be supported.
+
+
+
+Generate five trivia questions relevant to this section of the page.

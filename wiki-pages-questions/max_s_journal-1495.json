@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Name Of The Font Used In Max's Journal?",
+    "answer": "A",
+    "choices": {
+      "A": "Dudu Calligraphy",
+      "B": "Times New Roman",
+      "C": "Arial",
+      "D": "Comic Sans"
+    }
+  },
+  {
+    "question": "What Does Max Write About In Her Childhood Journal Entries?",
+    "answer": "D",
+    "choices": {
+      "A": "Her Dreams Of Being A Famous Photographer",
+      "B": "Her Favorite Anime Characters",
+      "C": "What She And Chloe Would Be Doing When They Are Older",
+      "D": "All Of The Above"
+    }
+  },
+  {
+    "question": "What Happens To The Blue Butterfly Photo In Max's Journal?",
+    "answer": "B",
+    "choices": {
+      "A": "It Disappears From The Journal",
+      "B": "Chloe Takes It From Max",
+      "C": "Max Rips It Out Of The Journal",
+      "D": "It Gets Covered By A Sticker"
+    }
+  },
+  {
+    "question": "What Is The Reference Of The Sticker That Says \"With Great Powers Comes Great Bullshit\"?",
+    "answer": "D",
+    "choices": {
+      "A": "The Lord of the Rings",
+      "B": "Et in Arcadia ego",
+      "C": "Anaïs Nin",
+      "D": "Spider-Man Comics"
+    }
+  }
+]

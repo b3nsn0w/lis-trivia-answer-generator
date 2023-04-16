@@ -1,0 +1,52 @@
+[
+  {
+    "question": "In Episode Two, what does David reprimand Max for?",
+    "answer": "B",
+    "choices": {
+      "A": "Skipping class",
+      "B": "Smoking weed",
+      "C": "Talking back to him",
+      "D": "Being late to class"
+    }
+  },
+  {
+    "question": "What does Max witness David doing to Kate in Episode Two?",
+    "answer": "B",
+    "choices": {
+      "A": "Following her around campus",
+      "B": "Taking pictures of her without permission",
+      "C": "Yelling at her in public",
+      "D": "Physically assaulting her"
+    }
+  },
+  {
+    "question": "What is David's reaction when Max blames him for Kate's situation?",
+    "answer": "A",
+    "choices": {
+      "A": "He is reprimanded by the principal and put on temporary leave",
+      "B": "He is cleared of any wrongdoing",
+      "C": "He accuses Max of dealing drugs to students",
+      "D": "He is suspended from his job at Blackwell"
+    }
+  },
+  {
+    "question": "What is David's relationship with Chloe?",
+    "answer": "B",
+    "choices": {
+      "A": "He is her father",
+      "B": "He is her stepfather",
+      "C": "He is her uncle",
+      "D": "He is her neighbor"
+    }
+  },
+  {
+    "question": "In the end of Episode Two, where is David seen with Joyce?",
+    "answer": "D",
+    "choices": {
+      "A": "At the police station",
+      "B": "At the hospital",
+      "C": "At the Prescott Dormitory",
+      "D": "In the Madsen Family Home garden"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who frequents the Arcadia Gas station?",
+    "answer": "C",
+    "choices": {
+      "A": "Max Caulfield",
+      "B": "Chloe Price",
+      "C": "Nathan Prescott",
+      "D": "Rachel Amber"
+    }
+  },
+  {
+    "question": "What is the significance of the gas station in the game?",
+    "answer": "B",
+    "choices": {
+      "A": "It is where Max and Chloe first meet",
+      "B": "It is where Kate Marsh gets drugged",
+      "C": "It is where the tornado hits Arcadia Bay",
+      "D": "It is where Max and Warren go on a date"
+    }
+  },
+  {
+    "question": "What is the possible reference for the gas station's logo?",
+    "answer": "A",
+    "choices": {
+      "A": "A French oil company",
+      "B": "A German car manufacturer",
+      "C": "An American fast food chain",
+      "D": "A British airline"
+    }
+  },
+  {
+    "question": "What is the source for the gas prices listed on the price board at the gas station?",
+    "answer": "C",
+    "choices": {
+      "A": "A local gas station in Oregon",
+      "B": "A popular gas price tracking app",
+      "C": "A U.S. government source for fuel economy information",
+      "D": "A website for car enthusiasts"
+    }
+  }
+]

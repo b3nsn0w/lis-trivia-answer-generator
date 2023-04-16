@@ -1,0 +1,59 @@
+= Crew (Season 1) =
+
+{{Free Tab
+|minwidth = 30%
+|borderradius = 4
+|height = 2
+|tab1=Dontnod |link1= Dontnod Entertainment
+|tab2=Crew |link2= Crew (Life is Strange)
+|tab3=Cast |link3= Cast (Life is Strange)
+}}
+The following is a pictorial list of known '''crew members''' for ''[[Life is Strange]]''.
+
+<div style="font-size:x-large; text-align:center; margin-top:1em;">'''Game Directors'''</div>
+<center>
+[[File:Michel Koch Polaroid.png|180px|link=Michel Koch]]
+[[File:Raoul Barbet Polaroid.png|180px|link=Raoul Barbet]]
+</center>
+<center>
+<div style="margin-left:10%; margin-right:10%">
+{| width="100%" align="center"
+| valign="bottom" |<div style="font-size:x-large; text-align:center;">'''Producer'''</div>[[File:Luc Baghadoust Polaroid.png|180px|link=Luc Baghadoust]]
+| valign="top" |<div style="font-size:x-large; text-align:center;">'''Executive Producer'''</div>[[File:Nicolas Simon Polaroid.png|180px|center|link=]]
+| valign="top" |<div style="font-size:x-large; text-align:center;">'''Narrative Producer'''</div>[[File:Gladys Deussner Polaroid.png|180px|link=Gladys Deussner]]
+|}
+</div>
+</center>
+
+<div style="font-size:x-large; text-align:center;">'''Original Story'''</div>
+<center>[[File:Jean-Luc Cano Polaroid.png|180px|link=Jean-Luc Cano]]</center>
+
+<div style="margin-left:10%; margin-right:10%">
+{| width="100%" align="center"
+| valign="top" |<div style="font-size:x-large; text-align:center;">'''Writer'''</div>[[File:Christian Divine Polaroid.png|180px|link=Christian Divine]]
+| valign="top" |<div style="font-size:x-large; text-align:center;">'''Additional Writers'''</div><center>[[File:Raoul Barbet Polaroid.png|180px|link=Raoul Barbet]][[File:Michel Koch Polaroid.png|180px|link=Michel Koch]]</center>
+|}
+</div>
+
+<div style="margin-left:10%; margin-right:10%">
+{| width="100%" align="center"
+| valign="top" |<div style="font-size:x-large; text-align:center;">'''Art Director'''</div>[[File:Michel Koch Polaroid.png|180px|link=Michel Koch]]
+| valign="top" |<div style="font-size:x-large; text-align:center;">'''Concept Artists'''</div><center>[[File:Gary Jamroz-Palma Polaroid.png|180px|link=Gary Jamroz-Palma]][[File:Edouard Caplain Polaroid.png|180px|link=Edouard Caplain]][[File:Alyzian Polaroid.png|180px|link=Alyzian]]</center>
+|}
+</div>
+
+{| width="50%" align="center"
+| valign="top"|<div style="font-size:x-large; text-align:center;">'''Lead Designer'''</div>
+<center>[[File:Baptiste Moison Polaroid.png|180px|link=]]</center>
+| valign="top"|<div style="font-size:x-large; text-align:center;">'''Music'''</div>
+<center>[[File:Jonathan Morali Polaroid.png|180px|link=Jonathan Morali]]</center>
+|}
+
+__NOTOC__
+__NOEDITSECTION__
+
+[[ru:Команда (первый сезон)]]
+
+[[Category:Crew]]
+[[Category:Behind the Scenes]]
+[[Category:Life is Strange]]

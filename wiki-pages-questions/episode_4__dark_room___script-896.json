@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Want From Frank?",
+    "answer": "B",
+    "choices": {
+      "A": "His Gun",
+      "B": "His Account Book Code",
+      "C": "His Money",
+      "D": "His Car"
+    }
+  },
+  {
+    "question": "What Happens To Frank After Chloe Shoots Him?",
+    "answer": "B",
+    "choices": {
+      "A": "He Dies",
+      "B": "He Gives Chloe The Account Book Code",
+      "C": "He Calls The Police",
+      "D": "He Escapes In His RV"
+    }
+  },
+  {
+    "question": "What Does Frank Say After Getting Shot By Chloe?",
+    "answer": "B",
+    "choices": {
+      "A": "\"I Need A Drink And A Pair Of Pliers\"",
+      "B": "\"I Can't Believe I Got Shot By A Couple Of High School Girls\"",
+      "C": "\"Let's Take This Baby Out Of My Leg... Be Gentle, Frank\"",
+      "D": "\"I Need My Pompidou\""
+    }
+  },
+  {
+    "question": "What Does Max Offer To Do For Frank After He Gets Shot?",
+    "answer": "A",
+    "choices": {
+      "A": "Call An Ambulance",
+      "B": "Give Him Money",
+      "C": "Drive Him To The Hospital",
+      "D": "Nothing"
+    }
+  },
+  {
+    "question": "What Does Chloe Do After Stabbing Frank In The Leg?",
+    "answer": "C",
+    "choices": {
+      "A": "She Runs Away",
+      "B": "She Calls The Police",
+      "C": "She Takes The Account Book Code",
+      "D": "She Helps Frank Remove The Knife"
+    }
+  }
+]

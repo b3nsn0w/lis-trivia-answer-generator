@@ -1,0 +1,44 @@
+= Arcadia Gas =
+
+{{Infobox Location
+|image = Arcadiagas.jpg
+|imagewidth = 300
+|imagecaption = 
+|name = Arcadia Gas
+|type = Gas station
+|location = [[Arcadia Bay]]
+|coordinates = Latitude: 45.528334<br />Longitude: -123.931704
+|state = Oregon
+|appears = [[Episode 2: Out of Time]]<br />[[Episode 3: Chaos Theory]]<br />[[Episode 4: Dark Room]]}}The '''"Arcadia Gas"''' gas station is located on the [[Arcadia Bay Ave]], opposite of the [[Two Whales Diner]]. It is frequented by both [[Nathan Prescott]] and [[Mark Jefferson]] and remains unexplorable throughout the game.
+
+== Significance ==
+While examining [[Investigation Files|evidence]] in [[Episode 4: Dark Room|Episode 4]], it is revealed, with some digging, that on October 4, the night [[Kate Marsh]] got drugged, both Nathan and Mr. Jefferson were seen at the gas station within minutes of each other.
+
+<gallery widths="180" columns="2" spacing="medium" bordersize="none" bordercolor="transparent" hideaddbutton="true" position="center">
+Gas station coordinates.png|Coordinates of Mark Jefferson and Nathan Prescott.
+Locationclues-gasstation.png|Photo from [[David's Files]].
+</gallery>
+
+== Trivia ==
+* The gas station's logo could be a reference to the {{Wiki|Elf Aquitaine}}'s logo (a French oil company which used to be one of the biggest in France).
+* The prices listed for the gas station are said to be realistic for the 2013 time period.
+* The gas station's price board design (including its prices) are believed to be based on a real price board image that is used on a [https://www.fueleconomy.gov/feg/gasprices/ U.S. government source for fuel economy information] and is the second Google Images result for "gas prices".
+<gallery position="center" hideaddbutton="true" bordercolor="transparent" widths="200" captionalign="center">
+arcadia-gas-prices.png|The gas station's price board.
+gasprices.jpg|The price board believed to have inspired the gas prices in the game.
+</gallery>
+
+{{Location Navbox}}
+
+[[de:Tankstelle]]
+[[fr:Station de gaz]]
+[[ru:Заправка]]
+[[Category:Locations (Life is Strange)]]
+[[Category:Episode 2: Out of Time Locations]]
+[[Category:Episode 3: Chaos Theory Locations]]
+[[Category:Episode 4: Dark Room Locations]]
+[[Category:Locations in Arcadia Bay]]
+[[Category:Non-Explorable Locations]]
+[[Category:Locations]]
+
+[[Category:Life is Strange]]

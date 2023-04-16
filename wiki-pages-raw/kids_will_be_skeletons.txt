@@ -1,0 +1,29 @@
+= Kids Will Be Skeletons =
+
+{{Infobox Song
+|image =mogwai happy songs for happy people.png 
+|artist = Mogwai
+|release = 2003
+|album = Happy Songs For Happy People
+|appears = [[Episode 3: Chaos Theory]]
+}}
+'''"Kids Will Be Skeletons"''' is an instrumental song by {{Wiki|Mogwai}} from their album ''{{Wiki|Happy Songs For Happy People}}'' and is featured in [[Episode 3: Chaos Theory|Episode 3]] of ''[[Life is Strange]]''. It can be heard at the end of the episode when [[Maxine Caulfield|Max Caulfield]] takes the bus to visit [[Chloe Price]] in the [[Alternative Timeline (Life is Strange)|alternative timeline]].
+
+
+== Lyrics ==
+Instrumental
+
+== Videos ==
+<gallery position="center" widths="300px" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true"> 
+Life is Strange Soundtrack - Kids Will Be Skeletons by Mogwai
+</gallery>
+
+{{Soundtrack Navbox}}
+
+
+[[pl:Kids Will Be Skeletons]]
+[[pt-br:Kids Will Be Skeletons]]
+[[ru:Kids Will Be Skeletons]]
+[[Category:Soundtrack]]
+[[Category:Soundtrack (Life is Strange)]]
+[[Category:Life is Strange]]

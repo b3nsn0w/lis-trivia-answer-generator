@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Martin Lewis Prescott's Relationship To Nathan Prescott?",
+    "answer": "D",
+    "choices": {
+      "A": "Father",
+      "B": "Grandfather",
+      "C": "Great-Grandfather",
+      "D": "Great-Great Grandfather"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Person Who Owes Money To The Prescotts In The Letter Found By Max?",
+    "answer": "A",
+    "choices": {
+      "A": "Mr. Lyndon",
+      "B": "Mr. Prescott",
+      "C": "Mr. Caulfield",
+      "D": "Mr. Aaron"
+    }
+  },
+  {
+    "question": "What Is The Date Of The Letter Found By Max In The Prescott Barn?",
+    "answer": "A",
+    "choices": {
+      "A": "July 22, 1903",
+      "B": "July 24, 1903",
+      "C": "July 22, 2003",
+      "D": "July 24, 2003"
+    }
+  },
+  {
+    "question": "What Does Martin Lewis Prescott Demand From Mr. Lyndon In The Letter Found By Max?",
+    "answer": "A",
+    "choices": {
+      "A": "Repayment Of Debt And A Written Apology",
+      "B": "Repayment Of Debt And Interest",
+      "C": "A Written Apology And Interest",
+      "D": "Repayment Of Debt, Interest, And A Personal Visit"
+    }
+  },
+  {
+    "question": "What Does The Sign In Before The Storm Say About Martin Lewis Prescott?",
+    "answer": "B",
+    "choices": {
+      "A": "He Was A Great Businessman",
+      "B": "He Was Arcadia Bay's Greatest Son",
+      "C": "He Was A Kind And Generous Man",
+      "D": "He Was A Pioneer In The Prescott Family Business"
+    }
+  }
+]

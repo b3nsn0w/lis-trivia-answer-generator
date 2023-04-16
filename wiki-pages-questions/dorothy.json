@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who is Dorothy in Life is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "Chloe's mother",
+      "B": "Joyce's sister",
+      "C": "William's aunt",
+      "D": "Max's grandmother"
+    }
+  },
+  {
+    "question": "In the alternative timeline, what did Dorothy express in her letter to Joyce?",
+    "answer": "D",
+    "choices": {
+      "A": "Her desire to visit Chloe",
+      "B": "Her willingness to help the Prices financially",
+      "C": "Her disappointment in Chloe's condition",
+      "D": "Her inability to help due to her own medical bills"
+    }
+  },
+  {
+    "question": "Where can the letter from Dorothy be found in Chloe's room?",
+    "answer": "D",
+    "choices": {
+      "A": "On the nightstand",
+      "B": "Under the bed",
+      "C": "In the closet",
+      "D": "On the desk"
+    }
+  },
+  {
+    "question": "Who is Dorothy believed to be a reference to in Life is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "A character from The Wizard of Oz",
+      "B": "A character from Alice in Wonderland",
+      "C": "A character from Harry Potter",
+      "D": "A character from Lord of the Rings"
+    }
+  },
+  {
+    "question": "What is the name of the author of The Wizard of Oz?",
+    "answer": "A",
+    "choices": {
+      "A": "L. Frank Baum",
+      "B": "J.K. Rowling",
+      "C": "Lewis Carroll",
+      "D": "J.R.R. Tolkien"
+    }
+  }
+]

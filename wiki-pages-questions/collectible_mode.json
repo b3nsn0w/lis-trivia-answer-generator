@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Purpose Of Collectible Mode In The Life is Strange Franchise?",
+    "answer": "A",
+    "choices": {
+      "A": "To Replay Scenes And Collect Optional Photos, Graffiti, And Souvenirs",
+      "B": "To Change The Outcome Of The Story",
+      "C": "To Unlock New Characters",
+      "D": "To Increase The Difficulty Of The Game"
+    }
+  },
+  {
+    "question": "What Is The Fast-Forward Function In Collectible Mode Used For?",
+    "answer": "A",
+    "choices": {
+      "A": "To Skip Unskippable Story Cutscenes And Dialog",
+      "B": "To Slow Down The Gameplay Speed",
+      "C": "To Unlock Achievements",
+      "D": "To Replay Scenes With Different Choices"
+    }
+  },
+  {
+    "question": "Which Life is Strange Franchise Game Does Not Feature Collectible Mode?",
+    "answer": "D",
+    "choices": {
+      "A": "Life is Strange",
+      "B": "Life is Strange: Before the Storm",
+      "C": "Life is Strange 2",
+      "D": "The Awesome Adventures of Captain Spirit"
+    }
+  },
+  {
+    "question": "How Are Souvenirs Obtained In Collectible Mode Marked In Life is Strange 2?",
+    "answer": "B",
+    "choices": {
+      "A": "With \"SM\"",
+      "B": "With \"CM\"",
+      "C": "With \"OM\"",
+      "D": "With \"DM\""
+    }
+  }
+]

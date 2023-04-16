@@ -1,0 +1,2043 @@
+#  Max's Diary 
+
+: ''For [Chloe Price (Before the Storm)](chloe_price.md)'s letters from the [Life is Strange: Before the Storm](prequel_game.md), see [Chloe's Letters](chloe_s_letters.md).*
+: *For [Sean Diaz](sean_diaz.md)'s sketchbook from the [Life is Strange 2](sequel_game.md), see [Sean's Sketchbook](sean_s_sketchbook.md).*
+
+[File:LiS1-DiaryPauseMenuBkg.png](thumb.md)
+*'Max's Diary''' is a section of [Max's Journal](max_s_journal.md) and contains 73 double pages which record [Maxine Caulfield](max_caulfield.md)'s happenings and exploration in [Arcadia Bay](arcadia_bay.md), beginning on July 10, 2013, when she is accepted into [Blackwell Academy](blackwell_academy.md) and ending on October 11, 2013. Max keeps it updated throughout the game, keeping track of everything that has happened thus far. It offers further insight about Max's thoughts, motivations, doubts or fears, which are revealed to the player this way. The diary changes depending on the [Choices and Consequences](choices.md) that are made by the player.
+
+## Prologue
+### July 10, 2013
+[File:Max_Diary_(1).jpg](thumb.md)
+
+*I GOT ACCEPTED INTO [Blackwell Academy](blackwell_academy.md).*
+
+''If words could dance this would be a raveA rave describes any gathering of people centered around listening to and dancing to electronic music.. Even though I've never been to one. But who cares because I GOT INTO BLACKWELL ACADEMY!The sentence continued as follows prior to the release of Episode 5 (before 1.0.0.371598): "..., a unique and famous private school for seniors! NO KIDS ALLOWED!" I didn't think I would be so excited since it's not like I didn't used to live in the same town. But when I saw the text from the Blackwell scholarship office, I could literally feel my pulse speed up.*
+
+*I thought it was going to say, "Sorry! Thanks for playing!" It took me a few seconds before I read the whole thing. I guess I wanted to enjoy that last moment of blissful ignorance. And when I saw the first word, "Congratulations..." I think I screamed.*
+
+*My [Vanessa Caulfield](mom.md) cried, and my [Ryan Caulfield](dad.md) laughed. They're so weird. But they're happy and this means extra financial support because they don't have to pay anything to Blackwell. This means new clothes and if I can work it, a new laptop.*
+
+*Oh, and I have to keep telling myself in caps that I AM GOING TO BLACKWELL ACADEMY.*
+
+### August 18, 2013
+[File:Max_Diary_(2).jpg](thumb.md)
+
+*So this is it. I'm leaving Seattle to go back to Arcadia Bay. Usually people go to the High School closest to home. I suppose I am too, it's just I haven't lived there for 5 years. Out of all the best photography programs in the world, I choose to go to the smallest, back in a town I was excited about leaving.*
+
+*Maybe I wanted to come back all along, just to see if [Chloe Price](chloe.md) and I are still even friends. But I do wish Chloe could have moved with us to Seattle... That city was made for her. When we would play pirates in our rooms and in the woods, it seemed like Seattle was that fabled faraway island of treasure and adventure that we were always seeking. With coffee shops.*
+
+*But Seattle wasn't like a fable. Au contraire. Now Blackwell Academy seems more exotic to me than any other place in the world. To study photography under [Mark Jefferson](mark_jefferson.md)... SIGH. Insert hearts and flowers. Plus there will be cool diverse students from everywhere. It won't be like my high school now... I never really found a groove with my classmates. (Or boys...) I'm lucky I have a couple great friends here. But it's time to ship out.*
+
+*So maybe Arcadia Bay will actually turn out to be the island of treasure and adventure I've been looking for...*
+
+###  August 25, 2013 
+[File:Max_Diary_(3).jpg](thumb.md)
+
+*Shit is krazy here. I didn't realize how much crap I had to pack until I had to pack all my crap. Mom and Dad are gettin' a little too excited I'm clearing out my room. Tho I caught mom crying when she was packing my shirts.*
+
+*That made me want to cry like a little girl. And never leave Seattle. So instead of packing, I feel like burning all my clothes, then just raiding a thrift store to build up a new Max wardrobe over my junior year. Not that I even have an old Max wardrobe.*
+
+*Nobody will know me except for Chloe and who knows how different we are now. So I can cut my hair, get a tat and some piercings... Maybe date a cute foreign exchange artiste from Paris or Rome. I can do anything. Unless I get busted.*
+
+*And there will be so many supercool chances for my photography to get exposed! Thinking about that is when I get scared, but excited. And then I don't feel like crying at all. I get tingles down my arms, sensing the universe opening up for me. I can't wait to leave.*
+
+*I just want things to be... different at Blackwell.*
+
+### September 2, 2013, 12:07am
+[File:Max_Diary_(4).jpg](thumb.md)
+
+*My first entry from my new dorm room the night before my first day at Blackwell. Whew! I haven't had any time to write or even take pictures since I got here. My shit is in boxes all over the room, which is small, but mine, and I never want to leave. I can't wait to decorate! I plan a whole wall o' photos. I did meet some of my dorm mates, tho I suck at remembering names so I won't bother right now. But I think I can already see who's going to be cool to me and who's not. It's a bitch trying to get settled into a new school and social scene after I finally found good friends in Seattle.*
+
+*But I'm here now, and this is the start of my new life. Sweet dreams.*
+
+### September 3, 2013
+*Blackwell sucks ass! I told myself not to whine so soon, but damn... The day started like Christmas morning. I barely had any dreams because I was so pumped to start my first official day of my new life. Like a dork I couldn't figure out what to wear, so I chose what was on the floor. I'm no good with names and faces right away, but I picked up some names like [Kate Marsh](kate.md)[Brooke Scott](brooke.md)[Taylor Christensen](taylor.md)[Alyssa Anderson](alyssa.md)...*
+
+*And how could I forget [Victoria Chase](victoria_chase.md)? Rich, stylish, entitled. I could feel INSTANT JUDGMENT when she looked at my raggedy ass clothes. As if I'm at Blackwell to strike fashion poses... Maybe I'm being extra crispy sensitive, but I think Victoria wants life here to be like her own reality show. Ugh...*
+
+[File:Max_Diary_(5).jpg](thumb.md)
+
+*So that wasn't fun along with my general social unease... I thought it would be easier being back. Call the waaahmbulance! I don't want this day to end all "Woe Is Max". It was incredible to walk across the green campus in the morning mist. I love the stone steps and brick walls of Blackwell. Everything is a picture waiting to be taken... Speaking of, at least one great thing did happen today: Mr. Jefferson's photography class. Sigh...*
+
+*There's more to tell but journal, forgive me, I'm truly wiped out.*
+
+###  September 4, 2013 
+*I have an assload of homework already. So much bullshit. At least give us noobs a day to acclimate. But, to prove I'm not a total loser, I made a new friend in my science class. His name is [Warren Graham](warren_graham.md) and he's a serious geek, plus he's dark and witty.*
+
+*He comes across as kind of a know-it-all, but it turns out he does kind of know a lot. We talked about photographers, and he actually named a few I'd never heard of. We traded numbers and he'll be a good study partner (or a good friend). I'll need at least one based on the clique action here. I thought being 18 meant I didn't have to deal with this teenage drama anymore. I THOUGHT.*
+
+*At least I get to research famous photographers for some of my homework. Mr. Jefferson assigned us a ton of reading, but this is exactly what I want to study. Jefferson is supercool and superchill.*
+
+*He doesn't try to be too hip, just says what he thinks and expects us to as well. I think he's a genius. OMG I WANT TO MARRY HIM. Just joking. This one class is worth all the social dysfunction.*
+
+###  September 15, 2013 
+[File:Max_Diary_(6).jpg](thumb.md)
+
+*Homework is kicking my ass. I bet the teachers grade harder just to stop you from feeling special. But [Victoria Chase](victoria_chase.md) and her snob minions still front like they're honored guests of Blackwell. The bros here aren't that different. [Nathan Prescott](nathan_prescott.md) is Victoria's male clone, with way more money and attitude, if that's possible.*
+
+*His family is the oldest in Arcadia Bay and I heard stories about them when I was a kid. The Prescotts give a shitload of bank to Blackwell, so Nathan acts like he literally owns the school. Yesterday during class, he put his feet on the desk, started texting and the teacher didn't say jack!*
+
+*I'd get suspended. But him and Victoria are part of this silly elite "[Vortex Club](vortex_club.md)" that puts on popular parties and so they get their way. It's good to be the king and queen.*
+
+*I don't want to slam everybody. I do like [Kate Marsh](kate_marsh.md), she's down the hall and in one of my classes. She's so pretty AND sweet and friendly. It makes her more beautiful than the beeatches here like Victoria who think beauty is just your face and outfit. See? I'm already playing their drama games. No more!*
+
+###  September 23, 2013 
+[File:Max_Diary_(7).jpg](thumb.md)
+
+*Finally had a chance to take some actual shots around campus today. A perfect blue sky day. I always forget how great I feel after I take pictures when I've been slacking off. Speaking of pictures, Mr. Jefferson told us about the national "Everyday Heroes" photo contest he wants us all to enter.*
+
+*The winner gets a trip to San Francisco and lots of publicity. He wants just one photograph from each student. This is exactly why I wanted to come to Blackwell and of course I'm scared shitless to enter. At least I have a couple weeks before the deadline in October. So I have plenty of time to stress and procrastinate. Sigh.*
+
+### September 30, 2013
+*I don't know whether I love it or hate it here. I'm trying to keep up with my science class of all things. Like I give a shit or even understand it. Good thing I know Warren. Too bad I can't clone him to take my place in class.*
+
+*[Michelle Grant](ms__grant.md) is much cooler than the class. She explains particle physics so even boneheads like me can kinda understand. I love how she relates society to science and vice versa. I can tell she's committed and passionate about life. Unlike some of us in her class, but I'm trying to engage more, even if it means asking actual questions in class instead of hiding in the back. I'm just glad I'm not the only social misfit here.''*Now how much homework are you avoiding?*
+
+### October 1, 2013
+[File:Max_Diary_(8).jpg](thumb.md)
+
+''October. My favorite month. The best weather of the year. I love watching the leaves change color, turning into tiny flames. But it's still too damn hot (thanks global warming) and I can't bust out the big coats and sweaters or scary movies yet. Soon. Kate let me borrow {{Wiki|The October Country}} by {{Wiki|Ray Bradbury}}.*
+
+*I haven't read much by him (which caused Warren to almost revoke my geek cred before I held up my copy of {{Wiki|Battle Royale (novel)|Battle Royale}}) but he nails the autumn atmosphere of small towns. The last time I wore a Halloween costume was with Chloe... I have pictures in one of my old albums...*
+
+*I should find a real Halloween party to crash so I can experience some social mingling. It's that or a Vortex Club strokefest swimming party. Or is that backstrokefest? You so punny, Max.*
+
+*At least I'm trying to climb out of my cocoon. I shouldn't expect my life to completely change after a few weeks of Blackwell Academy. As my parents love telling me on a loop, "You have all the time in the world."*
+
+##  Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+
+###  Monday, October 7 
+[File:Max_Diary_(9).jpg](thumb.md)
+
+*This will be the weirdest journal entry I will ever make. So weird I don't know how or where to start. But it started with the most vivid dream of my life. I was lost in a storm by the lighthouse until I came to the edge of the cliff.*
+
+*Then I saw a giant tornado headed for Arcadia Bay. It was so real that I could feel the rain stinging my face. And I was scared shitless. Then a boat hit the lighthouse and I swear I actually felt like I was going to die.*
+
+*But I woke up in Mr. Jefferson's class and I wasn't even sleeping. I almost fell out of my chair. Jefferson called on me but I totally blew the answer. Of course Victoria pounced on me and made me look like a bigger idiot. She's so awful. Then I didn't have the guts to turn in a photo for the "Everyday Heroes"The contest was referred to as "Everyday Hero" instead of "Everyday Heroes" in some cases like here prior to patch [?]. contest while Victoria did her usual suck-up to Jefferson. He's so cool and he clearly wants me to succeed.*
+
+[File:Max_Diary_(10).jpg](thumb.md)
+
+*I felt so shitty. I just wanted to get to the bathroom to be alone and wash my face after that nightmare. Or daymare. Once I got to the bathroom I saw this odd beautiful blue butterfly flutter in and right when I took a photo of it in the corner, Nathan Prescott came in freaking out, talking to himself. I hid in the corner and this punk girl came in and they started arguing about drugs and money. Then Nathan actually whipped out a gun and SHOT the girl.*
+
+*This is where it gets strange.*
+
+*When Nathan fired the gun I came around the corner and reached out for some dumb reason, as if I could stop the bullet. But suddenly I could feel the world twisting around me and this pressure in my head, everything seemed to rewind and I found myself right back in class at my desk!*
+
+*I literally thought I had been dosed with some drug until I calmed myself down. I saw everything happen in class the way it did before. Major Groundhog Day-ja vue.*Reference to the popular movie - see
+* Somehow I was able to actually rewind time.*
+
+[File:Max_Diary_(11).jpg](thumb.md)
+
+*I knew the only way to find out if I was having a breakdown was to go back to the bathroom and see if I could save that girl from Nathan this time. I had no idea how either. I just knew I couldn't live with myself if I let her die again. I escaped Jefferson this time by knowing exactly how to answer his questions and rushed to the bathroom.*
+
+*I hid in the corner again and I couldn't believe it when Nathan showed up, freaking out all over again.*
+
+*Then the girl came into the bathroom, and before Nathan could shoot her, I smashed open the ancient fire alarm and scared both of them away. Victory!*
+
+*...Until I got grilled by the security chief, [David Madsen](david_madsen.md), who thinks he's Chuck Norris: Blackwell Ranger.*Reference to the Chuck Norris film, *{{Wiki|Walker, Texas Ranger}}*.
+* Nathan Prescott almost kills a girl in the bathroom but no, I'M THE PROBLEM. I was so glad when Principal Wells stepped in to shoo David away.*
+
+[File:Max_Diary_(12).jpg](thumb.md)
+
+Tell on Nathan# Tell on Nathan*Then I made the possibly fatal decision to inform Principal Wells that I saw Nathan waving a gun in the bathroom. I didn't think I should mention the girl, or my new rewind abilities, for obvious reasons. He didn't want to believe me and almost made me feel like shit for telling him that Blackwell's most big fucking deal student would carry a firearm to class. I couldn't tell him that he actually killed a girl in a previous timeline...*
+
+|-|Hide the TruthHide the Truth*I wanted to inform Principal Wells that I saw Nathan waving a gun in the bathroom, but I didn't want to mention the girl, or my new rewind abilities, for obvious reasons. I wouldn't know how to tell him without making me look crazy. He grilled me for being out in the hall during a fire alarm. I'm still glad I didn't have to tell him that Blackwell's most big fucking deal student actually killed a girl in a previous timeline...*
+
+*So my school day started with an apocalyptic dream then ended with saving a life and discovering I have some kind of power to rewind time. I don't know how to top that.*
+
+[File:Max_Diary_(13).jpg](thumb.md)
+
+*Everything feels so surreal right now. I can't talk to anybody about this, well... The only person I could, I haven't seen in five years. I could confide in Warren, he's smart and knows science, so maybe he could even think of an explanation. Though I have no idea what that could be.*
+
+*Until I can figure this out, I better stay on the down low with this stuff and focus on my classes. Warren sent me a text asking for his flash drive back, even though I haven't had chance to check out all the cool shows and films on there.*
+
+*I watched a few episodes of {{Wiki|Doctor Who}} and ; binged on {{Wiki|Fullmetal Alchemist}}; then  (all kinds of Amazon women black and white badassery);  (a total cyberpunk trip with amazing visuals); and  (for about the millionth time).*
+
+[File:Max_Diary_(14).jpg](thumb.md)
+
+*On a side note, I saw a "Missing Persons" poster on campus for "[Rachel Amber](rachel_amber.md)" a pretty Blackwell student who vanished. It's so sad to see her smiling face and think about the awful things that could happen. If there was a way for me to rewind back six months, I totally would.*
+
+*I had to go back to the dorm to get Warren's flash drive and yes, Victoria and her Vortex Vixens blocked me from getting in, and even took my picture... It was so "high school movie" I can't believe she did it.*
+
+*She actually told me to "Go fuck your selfie" though, it was funny. I don't know why she has to act that way. She already has everything she wants, doesn't she? And she forced me to use my rewind until I finally came up with a way to get her out of my way. I don't want to use this power for trivial bullshit, especially if I have been given an actual "gift" from the universe, but it did give me a chance to test it out.*
+
+[File:Max_Diary_(15).png](thumb.md)
+
+Comfort Victoria# Comfort Victoria*But I felt like shit seeing Victoria sitting there by herself on the steps covered in paint. She didn't look like the Queen Beeatch of Blackwell, just a lonely girl as confused as me. I knew I had to find out if she was okay. She was actually nice and apologized. She even deleted the picture she took of me off her phone. So maybe there's hope for the future.''
+
+|-|Take Victoria's PictureTake Victoria's Picture
+''Still, I can't believe I took a picture of Victoria coated in paint for revenge. I must be feeling pretty brave. She vowed revenge, so I guess I've officially made my first enemy at Blackwell. *
+
+*More high school drama... [Juliet Watson](juliet.md) wouldn't let [Dana Ward](dana.md) out of her room because she thought [Zachary Riggins](zachary.md) was sexting Dana. So stupid. I was so tired from everything, and since Dana borrowed Warren's flash drive, I had to intervene.*
+
+*Juliet told me Victoria was the one who gave her the inside scoop on Zach and Dana, so I knew that Victoria was playing them all. I snuck into Victoria's room and onto her laptop and found out that she was indeed lying through her ass just to create drama. Of course, I felt like a weasel going through Victoria's room and laptop.*
+
+[File:Max_Diary_(16).png](thumb.md)
+
+Talk about the Pregnancy# Talk about the Pregnancy*Once I gave Juliet the proof that Victoria was behind this, I went to get Warren's flash drive from Dana. She was in a weird mood, so I had a look around to see if I could find out why. I found a home pregnancy test along with a note from Logan and a doctor's appointment. Dana admitted she was pregnant and I realized that all of my friends have troubles that are just as significant as mine. Sigh.''
+
+|-|Don't talk about the PregnancyDon't talk about the Pregnancy''Once I gave Juliet the proof that Victoria was behind it all, I went to get Warren's flash drive from Dana. She was in a weird mood, but we said nasty things about Victoria and I think it definitely made her feel better. We talked about Warren and Dana implied he likes me. Ew.*
+
+Warn Alyssa# Warn Alyssa*I'm starting to get the hang of this whole rewind thing. I don't want to waste this power, but there has to be a reason it was given to me, so I better learn how to use it right. I started by saving Alyssa from getting a football fueled headshot. I admit it felt amazing just to help Alyssa with something as simple as that.''
+
+|-|Don't Warn AlyssaDon't Warn Alyssa''I'm starting to get the hang of this whole rewind thing. I don't want to waste this power, but there has to be a reason it was given to me, so I better learn how to use it right. I could have used it for something as easy as warning Alyssa she was going to get a football fueled headshot. How selective should I be with this power?*
+Intervene# Intervene*I also saw David Madsen hassling Kate Marsh. I couldn't hear everything, but he was accusing her of something. All that guy can do is point fingers! I got so pissed I went over to stop him from being such a bully. He's a security guard, not a stormtrooper. He was an asshole (as usual) but I felt good about what I did and Kate seemed truly happy that somebody stood up for her. And I did that without using my rewind power.*
+
+[File:Max_Diary_(17).png](thumb.md)
+
+|-|Take a PhotoTake a Photo*I also saw David Madsen hassling Kate Marsh. I couldn't hear everything, but he accused her of something. All that guy can do is point fingers and I got so pissed. He's a security guard not a stormtrooper. But like the chickenshit I can be, I didn't go over and stand up for her. I was scared. Sometimes I still feel like a little kid. And yes, Kate was not happy I didn't come over to stand by her. So I let her down and my rewind power was useless.*
+
+*This day keeps getting stranger. I don't even believe what I'm writing. And I can't even do a simple task like giving Warren back his flash drive without getting into a situation.*
+
+*In this case though, it turned out half bad and half good, which I guess is the yin and yang of life. When I met with Warren in the lot and checked out his new retro-wheels, guess who showed up? Nathan Prescott, freaking out all over again. He got all up in my face to accuse me of bullshit.*
+
+*Even though I was scared because I know what he did to that girl in the bathroom, I was more furious.*
+
+*Then the "girl in the bathroom" pulled up in a [Chloe's Truck](truck.md). My former best friend, Chloe Price.*
+
+*We both looked at each other like WTF? Next thing I knew, I was in her truck as Warren earned his man card and tried to get Nathan off my ass. I owe Warren big-time. Seeing Chloe for the first time in five years was such a shock I was almost paralyzed. Especially after realizing that Nathan had almost killed her right in front of me.*
+
+*Now Chloe shows up out of the blue to save me.*
+
+[File:Max_Diary_(18).png](thumb.md)
+
+*Of all the bizarro and unexplainable shit happening today, sitting in Chloe's battered truck, listening to music and staring at her dashboard bobblehead might be at the top.*
+
+*So I tried to process the fact that Chloe and I were two best friends who didn't know each other anymore. She had blue hair, piercings, and cool boots and I... I looked like a dork. I didn't know where to start and she wasn't exactly extending an olive branch.*
+
+*So we sat like strangers. At least I had time to catch my breath and realize that in the parking lot melee with Nathan and Warren, my camera got busted up. I didn't care considering everything else going on. But it sucked on top of everything else going on.*
+
+*Going back to Chloe's old house for the first time in five years was like the ultimate rewind. Some things were obviously different, but some things weren't. The house smelled exactly the same as it did when we were growing up.*
+
+*Chloe's room was like an exploded version of her new adult self, cool and chaotic. I could tell she was pissed. She wanted to blaze up and chill, so I explored her room to play catch up on what she was into these days.*
+
+[File:Max_Diary_(19).png](thumb.md)
+
+*Then I found a photo of Chloe with Rachel Amber. Chloe freaked and laid into me for not calling her once. I deserved it. She had become best friends with Rachel and they were going to bail on [Arcadia Bay](arcadia_bay.md) and head out to Los Angeles for fame and fortune. I could tell how much Chloe cared about Rachel since she was the one putting up the posters.*
+
+*I felt even shittier about leaving Chloe alone all those years when she most needed me. You suck, Max. But Chloe is obsessed with Rachel, the missing girl. She says Rachel vanished after meeting some amazing dude... probably some psycho online. Chloe wanted to smoke out and be alone so I went downstairs to find tools to fix my camera.*
+
+[File:Max_Diary_(20).png](thumb.md)
+
+*Snooping deeper, I hit the paranoia jackpot and found a whole mini-surveillance set-up of Chloe's house, with cameras in the halls and some rooms. Truly creepy shit. What kind of uber-paranoid puts cameras throughout his own home? Chloe's stepfather, I guess. I see why she's got serious attitude.*
+
+*When I got back upstairs, I couldn't fix the stupid camera. But Chloe saw the butterfly photo and knew I was in the bathroom and set off the alarm. Her attitude totally changed and she realized that I had saved her life.*
+
+*Even though it could have gone the other way... She was so happy like when we were kids and it was great to see her face light up. She even gave me her dad's awesome old instamatic as a symbol of our reunion. She cranked up the tunes and started dancing on her bed like a maniac. She even got me to shake my booty. Just a bit.*
+
+*That's when Chloe's stepfather showed up. And it was David Madsen.''
+
+[File:Max_Diary_(21).png](thumb.md)
+
+Don't Hide# Don't Hide''I couldn't hide and then David came in, angry about the music and that I was there. He was even scarier off campus because he didn't have the school around him. He accused Chloe of taking one of his guns.*
+{{#tag:tabber|Take the BlameTake the Blame*Then shit got real. David found Chloe's joint and flipped out on us. I said it was my pot and David got in my face, but Chloe stepped in like a boss. David has it out for me now, but whatever. Chloe was so touched I was willing to take the blame.*
+
+*Chloe and I decided to get out of there and catch up on our exploring... like best friends.''
+{{!}}-{{!}}Don't take the Blame# Don't take the Blame''Then shit got real. David found Chloe's joint and flipped out on us. She said it was mine, but I didn't take the blame. Maybe I should have. But I was thinking about my Blackwell scholarship over my best friend. And David truly scared me. Anyway, now Chloe was pissed at me all over again.*
+
+*Back to square one. I keep trying to make the right choices, but I keep screwing it up...*
+}}
+
+|-|HideHide*I had to hide in the closet and then David came in, angry about the music. He was even scarier off campus because he didn't have the school around him. He accused Chloe of taking one of his guns.*
+{{#tag:tabber|Stay Hidden# Stay Hidden*Then shit got real. David found Chloe's joint and flipped out on her. She didn't back down and he actually slapped her. Bastard.*
+
+*I thought Chloe would be pissed I didn't step in to help, but she didn't think it would matter.*
+
+*We decided to get out of there and catch up on our exploring... like best friends.*
+{{!}}-{{!}}InterveneIntervene*I had to hide in the closet and then David came in, angry about the music. He was even scarier off campus because he didn't have the school around him. He accused Chloe of taking one of his guns.*
+
+*Then shit got real. David found Chloe's joint and flipped out on her. I couldn't take it, considering she almost died that morning, and I stepped out and said it was my weed.*
+
+*David tried to threaten me but Chloe was awesome and threatened him. He backed out of there quick. Chloe was so touched I took the blame.
+Of course, she did steal one of David’s guns and waved it around like an idiot. Too much firepower for this girl to encounter in one day. Or one life. Fortunately, Chloe and I decided to get out of there and catch up on our exploring… like best friends.*
+}}
+
+[File:Max_Diary_(22).png](thumb.md)
+
+*So Chloe and I ended up at the lighthouse, watching the sunset. Chloe was mellow and told me more about David and his uber-paranoia at school and home. It all made sense.*
+
+*But I wanted to know why Chloe was in that bathroom with Nathan Prescott. She told me he deals drugs and she wanted to blackmail him to pay off some big loan. It's so strange where our lives have gone since the last time we hung out when we were thirteen.*
+
+*Then I had another nightmare. Or duskmare. I was right back at the lighthouse in a storm, except this time I was following a ghostly deer until I got to the edge of the cliff. I could see the tornado destroying everything in its path, and again I could feel the cold sting of the rain. The lighthouse was crumbling and I felt so helpless watching the tornado move towards the town.*
+
+*Then Chloe snapped me out of the dream and I told her what I saw. And as if to make the day end on another unusual note, snow started falling from the sky in the warm sunset. It felt so weird, ominous and beautiful all at once.*
+
+*Especially standing there with my best friend. And on that positive thought, I have officially earned a great night's sleep.*
+
+##  Episode Two - "[Episode 2: Out of Time](out_of_time.md) " 
+
+###  Tuesday, October 8 
+[File:Max_Diary_(23).png](thumb.md)
+
+*I woke up this morning a different person. Even if nobody knows yet. After yesterday's intense revelations with my rewind power and saving Chloe's life among the other cray cray (as Victoria might say say) events at Blackwell, I have to assume everything is different now. And I thought exposing my photos to the world was going to be hard.*
+
+*After Chloe dropped me off back at my dorm yesterday, I tried to find out more about that freak snowfall that happened when we were at the lighthouse, but the local meteorologists are stumped so far. I felt so jacked up that I pulled an all-nighter on time and physics research.*
+
+[File:Max_Diary_(24).png](thumb.md)
+
+*Not being Warren I ended up knowing less about my situation than when I started... I don't really think that my tornado vision and the snowfall are connected, but at this point I have no fucking clue what to believe. I'm just so glad Chloe and I are a team again. That has to be destiny.*
+
+*Now I have to hit the showers and get ready to meet Chloe for breakfast. Lord knows I need it.*
+
+*I ran into Kate in the showers and she asked for "The October Country" back. I love that book and definitely need to get my own copy. Of course when I was in the shower, Victoria and Taylor barged in and totally started ragging on poor Kate about the video. Just to be complete assholes they wrote the link on the mirror.*
+
+*I truly don't understand how they get off on acting like that. Victoria has EVERYTHING. What does she gain by being a bully to Kate Marsh? We're supposed to be adults here, but I swear it's like "Battle Royale" - just without the dystopia and exploding heads. Only Victoria could make me feel dirty in a shower.*
+
+[File:Max_Diary_(25).png](thumb.md)
+
+*The plot thickens. And I can't get out.*
+
+Hide the Truth and Make Fun of Victoria# Hide the Truth and Make Fun of Victoria*So after listening to Victoria and Taylor rag on Kate about the video, I came back to my room to find it TRASHED. Or at least messier than it was before.*
+
+*Now I have to clean up just to find Kate's book... I bet Victoria did this because of that paint photo yesterday. I should've expected swift retribution. Another day, another drama..*
+
+|-|Tell on Nathan and Comfort/Make Fun of VictoriaTell on Nathan and Comfort Victoria*So after listening to Victoria and Taylor rag on Kate about the video, I came back to my room to find this creepy photomontage. Only Nathan would be this disturbed.*
+
+*The thought that Nathan was in here actually setting up this weird gallery is way fucked up. I better start being more careful around here. I almost want a surveillance system now.*
+|-|Hide the Truth and Comfort Victoria# Hide the Truth and Comfort Victoria*After being forced to listen to Victoria and Taylor rag on Kate about the video, I headed back to my room. I didn't really have any time to chill out, I had to get dressed and find Kate's book in my own mess, rushing all the while to not be late for Chloe.*
+
+*As if things here weren't dramatic enough, I got a creepy text from a private number. Nathan? Victoria? No clue. I really have to start watching my back.*
+
+*I still had to give Kate's book back, so I went to her room. I knew she wasn't doing good, but I didn't know how bad until I went in. All the lights were off, blinds closed, like some emo-goth den. And Kate is the opposite of emo or goth. She was just crying in the dark, and it was so sad to see her like this. More sad is that I wished I could take a picture of her framed in her expressionist misery.*
+
+[File:Max_Diary_(26).png](thumb.md)
+
+*Kate admitted that she thinks something more happened to her than just a video. Plus she told me that Nathan Prescott gave her a ride from the party to the ER... and she thinks he did something to her, but she doesn't remember what.*
+
+*It's hard not to believe Kate considering what kind of person she is and what kind of person Nathan is. I've seen for myself exactly what that fucker is capable of.*
+
+*Of course, Kate asked if she should go to the police and the principal...*
+
+Go to the PoliceGo to the Police*I told Kate she should absolutely go to them. Other people could be in danger... But Kate also said she would use me as her backup, which kind of scares me because of this text threat. Should I be getting this involved when somebody is obviously stalking me or worse already? This is getting freakier than I can handle... Super Max... NOT!*
+
+|-|Gather Evidence# Gather Evidence*I felt like absolute shit, but I told Kate she shouldn't go to anybody until she has more proof she was drugged. That video doesn't help her case at all and this could all backfire big time. She's going up against the whole Prescott empire, not just one rich white boy on dope. She wasn't too thrilled by my answer. I don't think she trusts me to be the one investigating all this... How can I blame her? I sometimes wonder what I am actually doing, besides getting myself in more trouble... Kate even booted me out of her room. Hello, "Everyday Hero"!*
+
+[File:Max_Diary_(27).png](thumb.md)
+
+*I ran into Warren-or rather, Warren was waiting to run into me. Naturally he wanted to know what the hell happened in the parking lot with "The Chloe and Nathan Show." Once again, I felt like a dick because I should have gotten ahold of Warren to see if he was okay after we just left him in the lot... I do owe Warren.*
+
+*I only told him a little about what was going on with Nathan. The less he knows, the better for him. I would love to at least tell him about my ability to fucking reverse time and space, but ironically I don't think it's the right time or space... Besides, he would want to marry me immediately, just so he could have his own human time machine. Or capture me for scientific experiments... Or make me go to the drive-in with him.*
+
+Agree to the movieAgree to the movie*Oh wait... I did say I would go to the drive-in with him. Hope he doesn't make a lame move on me... (Not that he would, egomaniac.) Warren and I do have a lot in common, but he's like a supercool geek brother... Anyway, I definitely need a movie escape.*
+
+|-|Decline the movie# Decline the movie*Oh wait. He did try and get me to go to the drive-in with him, and I refused. I'm not really in the mood this week, and I also don't want to lead him on...*
+
+[File:Max_Diary_(28).png](thumb.md)
+
+*Before catching the bus out to meet Chloe I saw Nathan talking to David, which made me nervous. Otherwise I had a nice soundtracked ride to the Two Whales Diner. Talk about going back in time... I haven't seen the diner in five years, but it looks exactly the same. Although now there are way less fishermen and way more dumped food carts than when we were kids. Chloe and I had the best backdrop to play pirate: old ships and a big ocean.*
+
+*Chloe was late (duh!) so I was happy to be distracted by seeing Joyce again. The diner is like a museum piece, except with customers. Better still, the food hasn't changed at all. Joyce seemed really glad to see me again and she didn't give me a guilt trip for not staying in touch. After William died, she wanted to move forward with a new life and husband. Chloe doesn't want to accept that.*
+
+Took the blame earlierTook the blame earlier*Joyce naturally gave me shit for corrupting Chloe with my "devil weed", though I'm not sure she even believed it was mine. What could I say? I can see she actually loves David-even if I don't see how. The breakfast was so worth the grief though.''
+|-|Didn't take the blame# Didn't take the blame''Joyce wasn't happy about Chloe getting busted with weed. I really should have stepped up and taken the hit instead of Chloe. I feel bad that Joyce has to defend David for laying the smackdown on his own stepdaughter. William was always so kind and gentle with us. Can't even imagine how Chloe would be if he hadn't died.*
+
+[File:Max_Diary_(29).png](thumb.md)
+
+*So much drama and I haven't even finished my breakfast!*
+
+*Finally Chloe showed up, more bubbly than I would have thought after almost getting killed in a bathroom yesterday. It makes me happy to see her smile. But that smile meant trouble, since all she really wanted was for me to show off my rewind power. So I did and I have to admit, I felt like a total boss. Except I did start feeling weak and woozy the more I rewound. I even got a nosebleed, which kinda freaked me out.*
+
+*Chloe always wants more, so she demanded we go to her top-secret lair...''
+
+Didn't answer Kate's callDidn't answer Kate's call''Kate called, but I didn't answer because Chloe was giving me the stink eye. And to be honest, I don't like Kate being so needy toward me. Even though I keep acting like I'm her spiritual bodyguard. Man, I do suck. I'll make it up to Kate. At least Chloe is happy...''
+|-|Answered Kate's call# Answered Kate's call''She still had to get pissed off at me because I dared to answer Kate's call. I'm not a fan of Chloe's petulant side. She tried to make me feel like an ass, but screw that. Kate was so happy I answered I actually felt worse for her. Chloe has to know I can have two friends at once...*
+
+[File:Max_Diary_(30).png](thumb.md)
+
+*Just when I thought shit couldn't get crazier.*
+
+*Chloe took me to her secret lair: the city dump. Perfect for Halloween... like where the vehicle and appliance ghosts of Arcadia Bay come to rot and rust. Urban dystopia porn. But, instead of taking cool photos, Chloe had me do some silly kinda fun gun tricks.*
+
+*Until the guy Chloe owes money to showed up. Some skeevy guy called Frank. He demanded Chloe pay him back... or else. I was shocked that he wasn't the loan shark I had expected, but I could literally feel his bad vibe. I still can't see how my best friend ended up involved with a loser like Frank.*
+
+Tried to shoot FrankTried to shoot Frank*And I almost shot him.*
+*He pulled a knife on us and it felt like another one of my dreams. I don't even remember aiming the gun at him, but my finger just tapped against the trigger...Thank God there were no bullets left. I could have used my rewind, but the way my head was throbbing... who knows? I can't assume my power will always be available... I don't know anything about how this works-or how long-so I can't take anything for granted. I just know I'm never holding another gun.''
+|-|Didn't try to shoot Frank# Didn't try to shoot Frank''Things got truly crazy when Frank took Chloe's gun (or should I say David's gun?) and now we have to worry about one more lunatic after Chloe...and maybe me...*
+
+*Chloe really flipped out when she saw that Frank was wearing one of Rachel Amber's bracelets. That means we definitely have another suspect...*
+
+*This is so not how I intended to spend my time back in Arcadia Bay.*
+
+[File:Max_Diary_(31).png](thumb.md)
+
+*After all that dramarama volume xxxiii, Chloe and I ended up taking a walk along the tracks deep in the woods. We both needed to hear nothing but the sounds of nature and wildlife... I was shaking inside from our encounter with Frank and though Chloe fronts tough, I could tell she was shaken too.*
+
+*She told me everything about Frank-which explains why she was trying to blackmail Nathan. It shocks me that the girl I grew up with watching "SpongeBob" ended up in such a scary orbit. Still, I felt safer with her at my side and I was glad we had a moment of peace.*
+
+*So it probably wasn't the best idea to lay down on the tracks and wax about life, etc.-as Chloe's leg got caught in the rail just as the goddamn train showed up. Of course I was off trying to take a photo for my portfolio... and then I had another quick flash of my tornado vision.*
+
+*I could see it, almost feel it, tearing the sky apart... My head felt like it was exploding, like in that 80's film "Scanners." Just as fast as the vision came in, it disappeared. I may be in denial about what this apocalyptic image means... or doesn't...*
+
+[File:Max_Diary_(32).png](thumb.md)
+
+*Then I heard Chloe SCREAMING for help. And I was shittin' kittens.*
+
+*Her foot was stuck in the damn rail and naturally the train was comin' round the mountain.*
+
+*I was pretty proud of myself for coming up with a drastic (if not destructive) solution to saving Chloe-ONCE AGAIN-but just in case this journal ever falls into the wrong hands, it's going to remain our BFF secret. So there.*
+
+*Our morning adventure over, Chloe dropped me off back at my campus. She was so sweet and said that this had been the best week of her life... despite everything.*
+
+*That made me feel so AWESOME! Chloe really sees us like we're taking over the world... but what if I hadn't had been able to use my rewind power to get her off of the tracks? Chloe might have to lower her expectations... and so will I.''
+
+[File:Max_Diary_(33).png](thumb.md)
+
+Didn't Take the BlameDidn't Take the Blame
+''Speaking of expectations, David talked to me without being a total prick. I wanted to tear him a new one for hitting Chloe (thinking I could rewind if things got out of control) and he didn't seem sufficiently sorry to me. I know Chloe provokes him, but that's no fucking excuse to hit someone, especially a family member. I see that David is sorry and trying to reach out to me. I know he saw terrible things in combat. I just can't trust him and his paranoid surveillance fetish, especially with how weird he acts with Kate - like she's a criminal. I'll give David props for trying to smoke the peace pipe with me, but he acts like he's still at war.*
+|-|Took the Blame# Took the Blame*Speaking of expectations, David Madsen stopped to talk to me without being a total prick. I thought he was going to bust me for taking the heat for Chloe's weed, but we just talked a little...and for the first time, I felt kind of sorry for David. He is a veteran...I know he probably saw awful things in combat. He said he doesn't want to fight with Chloe or me. But all the shit he's pulled and treating Kate like she's a suspect...just makes it hard to get along. But I promise to try. For world peace.*
+
+*Something odd happened - as if EVERYTHING happening isn't bizarro - but I saw Kate having an intense conversation with Mr. Jefferson and she ended up practically running away from him in tears. I wish I could have casually asked, "Oh by the way, what's up with Kate?" (Like he would tell me anyway.) I know Kate treats Jefferson like he's an apostle or something... So what did he say to make her so upset?*
+
+*Just when I was feeling good about Chloe and me, I walk into Jefferson's class and see Nathan and Victoria actually sitting on my desk. Unreal... Asshole bookends.*
+
+[File:Max_Diary_(34).png](thumb.md)
+
+Saved KateSaved Kate*Kate Marsh almost killed herself.*
+
+*My hands are still shaking, but I have to write this down while I can. Right at the start of Jefferson's class, Kate went to the roof of the girls' dorm to jump. Every student and teacher was watching her, like it was a Blackwell rooftop concert.*
+
+*I saw her actually jump, but I was just about able to use my rewind to get her back on the roof. I tried harder than I ever did and somehow I stopped time completely... I made it to the roof, but again my head felt like it was going to blow up... I knew that I couldn't just keep rewinding to save Kate. I had to try and talk her down on my own.*
+
+*She was already in so much pain over the video and all the bullying, so she wasn't going to buy everything I tried to tell her. You see movies with people trying to talk somebody out of suicide, but it's very different when I'm the one doing the talking. I covered everything I could and Kate almost jumped anyway. Cliché or not, I told her how much her friends and family love her, even if they don't all show it now.*
+
+*Lo and behold, Kate stepped back from the ledge. Alive. I almost cried in her arms.*
+
+[File:Max_Diary_(35).png](thumb.md)
+
+*I know this isn't about me - though I have to admit it was an amazing feeling to walk arm in arm with Kate from the roof to outside the dorm. Like I said, the whole school - and police - were watching us almost completely silent. Then I heard what sounded like Logan yelling out, "Give it up for Max!" and everybody started to clap and cheer. Talk about surreal... the people who ignored me or treated me like crap suddenly crushing on me. That might be the strangest thing that's happened to me this insane week...*
+
+*And that made me wonder if Victoria was watching and how she felt about all this. I almost wanted to find her... just to get in her smug face for enabling Kate's suicide attempt. Such cruel bullshit. Though, to be fair, Victoria wasn't the only one that was responsible... Nathan Prescott seemed to have disappeared... Which was probably a good thing.*
+
+*And after all that I still had to talk to the police and give a statement. Felt so weird to do since I've seen it in pretty much every police procedural show. I had to lie my ass off when he questioned me about the other students, because I just don't think the police are ever going to find out what happened. Yes, this looks like a job for SUPER MAX. Right. Though of course, I do love it when Chloe calls me that, even if I don't feel that everyday heroic for helping Kate down... Maybe it's wrong for me to think I have to feel anything but grateful that Kate didn't jump...*
+
+[File:Max_Diary_(36).png](thumb.md)
+
+*What was really odd was when all the students and faculty staff surrounded me and Kate, then started patting our backs and shoulders...like we were heroes.*
+
+*I wasn't sure how to respond, considering Kate almost threw herself off the roof because of everybody at school. But like I said, I can't blame everybody... and I still don't really know where to point all my fingers...*
+
+*The very best thing was that even though Kate was still in tears and confused... I definitely saw her smile once she realized how happy everybody was that she was alive. I smiled too. The police and paramedics swooped in and then Kate was covered in a blanket and gently escorted to the ambulance. They didn't thank me or look at me like I was a hero. I guess they're used to saving people without applause...*
+
+*But if I'm super honest... it felt pretty cool. Like I got a hug from the whole school. So, maybe Blackwell Academy isn't totally bad...''
+
+|-|Didn't save Kate# Didn't save Kate*Kate Marsh killed herself.*
+
+''My hands are still shaking, but I have to write this down while I can. Right at the start of Jefferson's class, Kate went to the roof of the girls' dorm to jump. Every student and teacher was watching her, like it was a Blackwell rooftop concert.*
+
+*I saw her actually jump, but I was just about able to use my rewind to get her back on the roof. I tried harder than I ever did and somehow I stopped time completely... I made it to the roof, but again my head felt like it was going to blow up... I knew that I couldn't just keep rewinding to save Kate. I had to try and talk her down on my own.*
+
+*I failed...*
+
+*She was already in so much pain over the video and all the bullying, so she wasn't going to buy everything I tried to tell her. You see movies with people trying to talk somebody out of suicide but it's very different when I'm the one doing the talking. Because she didn't believe me... or maybe she just didn't want to.*
+
+*I... I tried. Kate still died.*
+
+*It was like that cliché about everything moving in slow motion, except in my case it was real time, not rewind time. I could see Kate's face right as she jumped and I'll never forget that look in her eyes... like she didn't want to, but had no choice...*
+
+*It was a look of total defeat and despair... Then I could see her body flailing in space, like she became aware of what she was doing and got more scared...*
+
+*Jesus. I can't believe I'm writing these words.*
+
+*After she jumped, it was so weird that I was alone on the roof. Kate was there, then gone. I could hear the crowd screaming below and there was no way I was going to look at her body on the ground.*
+
+*I felt so numb, I just casually turned and went back down the stairs. My head was pounding and my body was exhausted from the rewind. I felt exactly like a zombie must feel: dead inside.*
+
+*When I stepped out of the dorm, I saw Kate splayed on the ground... She was surrounded by paramedics, while the police kept the students back...*
+
+*I hope they all got a good look at their victim. They wanted to watch her on a viral video when she was alive and now they wanted to gawk at her in death... Not that I did anything to help her stay alive.*
+
+*All my amazing new superpowers were worthless.*
+
+*I'm nobody's hero.*
+
+[File:Max_Diary_(37).png](thumb.md)
+
+Saved KateSaved Kate
+{{#tag:tabber|(Nathan was suspended)# (Nathan was suspended)
+*It's not enough that Kate is alive, and though I'm not enough of an egomaniac to take the credit, I still had to get the Blackwell third-degree from Principal Wells. It was bizarre to be in his tacky office with Nathan Prescott, David Madsen and Mr. Jefferson calmly talking about why Kate would attempt suicide. I was quiet but giddy inside, just replaying in my head the moment when Kate stepped toward me with a glimmer of hope in her eyes... Part of me wanted to smash Nathan's smug face against the desk, knowing he had a lot to do with Kate's suicide attempt. I thought about doing it, then flipping a quick rewind, but I knew that would be the start of a bad, dangerous habit.*
+
+*Fortunately, Principal Wells amazingly did the right thing and BOOTED Nathan for a few days, after I told him what happened in the bathroom. He must have more shit on Nathan, because otherwise I doubt this would happen to a Prescott. That's some small justice for Kate. There'll be more, if it's the last thing I do. Which it could be if I'm not careful...''
+
+{{!}}-{{!}}(Max was suspended) Didn't report, blamed Nathan(Max was suspended) Didn't report, blamed Nathan
+''It's not enough that Kate is alive, and though I'm not enough of an egomaniac to take the credit, I still had to get the Blackwell third-degree from Principal Wells. It was bizarre to be in his tacky office with Nathan Prescott, David Madsen and Mr. Jefferson calmly talking about why Kate would attempt suicide. I was quiet but giddy inside, just replaying in my head the moment when Kate stepped toward me with a glimmer of hope in her eyes... Part of me wanted to smash Nathan's smug face against the desk, knowing he had a lot to do with Kate's suicide attempt. I thought about doing it, then flipping a quick rewind, but I knew that would be the start of a bad, dangerous habit.*
+
+*I should have known that David would narc on me to the Principal about my "joint." Like anybody cares about weed, but David made me sound like a drooling fiend. So instead of Nathan getting the boot, I get suspended. Such BULLSHIT.*
+
+{{!}}-{{!}}(David on leave)# (David on leave)
+*It's not enough that Kate is alive, and though I'm not enough of an egomaniac to take the credit, I still had to get the Blackwell third-degree from Principal Wells. It was bizarre to be in his tacky office with Nathan Prescott, David Madsen and Mr. Jefferson calmly talking about why Kate would attempt suicide. I was quiet but giddy inside, just replaying in my head the moment when Kate stepped toward me with a glimmer of hope in her eyes... Until I told Principal Wells that I saw David harassing Kate and that set David off. Part of me wanted to kick him in the balls knowing he had something to do with Kate's suicide attempt, maybe more. I thought about doing it, then flipping a quick rewind, but I knew that would be the start of a bad, dangerous habit.*
+
+*I took silent satisfaction in watching the Principal strip him of his Blackwell duties for the time being. I wasn't even thinking how this would affect Chloe's home situation...*
+
+*But for now, David is going to be a veteran of Blackwell. At least he survived. Like Kate.*
+
+{{!}}-{{!}}(Max was suspended) Took blame, intervened, blamed David(Max was suspended) Took blame, intervened, blamed David
+*It's not enough that Kate is alive, and though I'm not enough of an egomaniac to take the credit, I still had to get the Blackwell third-degree from Principal Wells. It was bizarre to be in his tacky office with Nathan Prescott, David Madsen and Mr. Jefferson calmly talking about why Kate would attempt suicide. I was quiet but giddy inside, just replaying in my head the moment when Kate stepped toward me with a glimmer of hope in her eyes... And then I told the Principal about David harassing Kate, which sent David into a rage. I should have known that he would go on and accuse me of dealing weed. Yes, who wouldn't believe I carry oz's on me for the schoolkids? I couldn't believe that the Principal would take him at his word, but he sure did.*
+
+*So naturally I GOT SUSPENDED. That's what I get for standing up for Chloe.*
+
+*Whatever. Poor Kate Marsh is in psychiatric ward and the school has to purge itself by making sure Maxine Caulfield misses art and science class. What a lesson. My parents will be so proud and happy they sent me here. If this is how the adult world functions, maybe I don't belong. Even my so-called "power" doesn't mean shit anymore.*
+
+*I already see how the world treated Kate. And I'm starting to see why Rachel Amber wanted to get the hell out of here now. What's keeping me here?''
+
+{{!}}-{{!}}(Jefferson can't represent in contest)# (Jefferson can't represent in contest)
+''It's not enough that Kate is alive, and though I'm not enough of an egomaniac to take the credit, I still had to get the Blackwell third-degree from Principal Wells. It was bizarre to be in his tacky office with Nathan Prescott, David Madsen, and Mr. Jefferson calmly talking about why Kate would attempt suicide. I was quiet but giddy inside, just replaying in my head the moment when Kate stepped toward me with a glimmer of hope in her eyes... Still, I ended up telling the Principal that I saw Kate crying after she talked with Mr. Jefferson. I wasn't trying to blame him, I just thought it was important information.*
+
+*Maybe I fucked up, narcing on the one person I respect the most at Blackwell... I could see Mr. Jefferson was disappointed in me too. The Principal was more upset, because he pulled Jefferson out from representing the school at the "Everyday Heroes" contest. I didn't expect that at all. I'm so confused right now... How can I keep going to Mr. Jefferson's class after I ruined his reputation?*
+
+*And do I still have to give him a photo for the contest?*
+
+{{!}}-{{!}}(Nobody suspended)(Nobody suspended)
+*It's not enough that Kate is alive, and though I'm not enough of an egomaniac to take the credit, I still had to get the Blackwell third-degree from Principal Wells. It was bizarre to be in his tacky office with Nathan Prescott, David Madsen and Mr. Jefferson calmly talking about why Kate would attempt suicide. I was quiet but giddy inside, just rewinding in my head the moment when Kate stepped towards me with hope in her eyes, not fear.... Until I told Principal Wells that I saw David harassing Kate. That set David off and part of me wanted to kick him in the balls knowing he had something to do with Kate's suicide, maybe more. I thought about doing it, then flipping a quick rewind, but I knew that would be the start of a bad, dangerous habit.*
+
+*Naturally, the Principal didn't believe me (or didn't want to), which means that David Dickhead is going to be allowed to harass other students at Blackwell until they try to jump off the roof.*
+
+*So Kate Marsh is in the hospital and it's business as usual here. What am I going to do now?''
+}}
+|-|Didn't Save Kate# Didn't Save Kate
+{{#tag:tabber|(Nathan was suspended)(Nathan was suspended)
+''It's not enough that Kate is dead and I'm numb inside, I had to get the Blackwell third-degree from Principal Wells. It was bizarre to be in his tacky office with Nathan Prescott, David Madsen and Mr. Jefferson calmly talking about why Kate jumped off the roof. Part of me wanted to smash Nathan's smug face against the desk, knowing he had something to do with Kate's suicide. I thought about doing it, then flipping a quick rewind, but I knew that would be the start of a bad, dangerous habit.*
+
+*Fortunately, Principal Wells amazingly did the right thing and BOOTED Nathan for a few days, after I told him what happened in the bathroom. He must have more shit on Nathan, because otherwise I doubt this would happen to a Prescott. That's some small justice for Kate. There'll be more, if it's the last thing I do. Which it could be if I'm not careful...''
+
+{{!}}-{{!}}(Max was suspended) Didn't report, blamed Nathan# (Max was suspended) Didn't report, blamed Nathan
+''It's not enough that Kate is dead and I'm numb inside, I had to get the Blackwell third-degree from Principal Wells. It was bizarre to be in his tacky office with Nathan Prescott, David Madsen and Mr. Jefferson calmly talking about why Kate jumped off the roof. Part of me wanted to smash Nathan's smug face against the desk, knowing he had something to do with Kate's suicide. I thought about doing it, then flipping a quick rewind, but I knew that would be the start of a bad, dangerous habit.*
+
+*I should have known that David would narc on me to the Principal about my "joint." Like anybody cares about weed, but David made me sound like a drooling fiend. So instead of Nathan getting the boot, I get suspended. Such BULLSHIT.*
+
+{{!}}-{{!}}(David on leave)(David on leave)
+*It's not enough that Kate is dead and I'm numb inside, I had to get the Blackwell third-degree from Principal Wells. It was bizarre to be in his tacky office with Nathan Prescott, David Madsen and Mr. Jefferson calmly talking about why Kate jumped off the roof. Of course, I was in a quiet rage. Until I told Principal Wells that I saw David harassing Kate. That set David off and part of me wanted to kick him in the balls knowing he had something to do with Kate's suicide, maybe more. I thought about doing it, then flipping a quick rewind, but I knew that would be the start of a bad, dangerous habit."*
+
+*I took silent satisfaction in watching the Principal strip him of his Blackwell duties for the time being. I wasn't even thinking how this would affect Chloe's home situation...*
+
+*But for now, David is going to be a veteran of Blackwell. At least he survived. Unlike Kate.*
+
+{{!}}-{{!}}(Max was suspended) Took blame, intervened, blamed David# (Max was suspended) Took blame, intervened, blamed David
+*It's not enough that Kate is dead and I'm numb inside, I had to get the Blackwell third-degree from Principal Wells. It was bizarre to be in his tacky office with Nathan Prescott, David Madsen and Mr. Jefferson calmly talking about why Kate jumped off the roof. I was like a robot, just going through the motions. I kept seeing Kate's face as she fell... And then I told the Principal about David harassing Kate, which sent him into a rage. I should have known that David would actually accuse me of dealing weed. Yes, who wouldn't believe I carry oz's on me for the schoolkids? I couldn't believe that the Principal would take him at his word, but he sure did.*
+
+*So naturally I GOT SUSPENDED. That's what I get for standing up for Chloe.*
+
+*Whatever. Poor Kate Marsh is part of Blackwell's concrete and the school has to purge itself by making sure Maxine Caulfield misses art and science class. What a lesson. My parents will be so proud and happy they sent me here. If this is how the adult world functions, maybe I don't belong. Even my so-called "power" doesn't mean shit anymore.*
+
+*I already see how the world treated Kate. And I'm starting to see why Rachel Amber wanted to get the hell out of here now. What's keeping me here?''
+
+{{!}}-{{!}}(Jefferson can't represent in contest)(Jefferson can't represent in contest)
+''It's not enough that Kate is dead and I'm numb inside, I had to get the Blackwell third-degree from Principal Wells. It was bizarre to be in his tacky office with Nathan Prescott, David Madsen and Mr. Jefferson calmly talking about why Kate jumped off the roof. I was like a robot, just going through the motions. I kept seeing Kate's face as she fell... Somehow I ended up telling the Principal that I had seen Kate crying after she talked with Mr. Jefferson... I wasn't trying to blame him, I just thought it was important information.*
+
+*Maybe I fucked up, narcing on the one person I respect the most at Blackwell... I could see Mr. Jefferson was disappointed in me too. Obviously the Principal was more upset, because he pulled Jefferson out from representing the school at the "Everyday Heroes" contest. I didn't expect that at all. I'm so confused right now... How can I keep going to Mr. Jefferson's class after I ruined his reputation?*
+
+*And do I still have to give him a photo for the contest?*
+
+{{!}}-{{!}}(Nobody suspended)# (Nobody suspended)
+*It's not enough that Kate is dead and I'm numb inside, I had to get the Blackwell third-degree from Principal Wells. It was bizarre to be in his tacky office with Nathan Prescott, David Madsen and Mr. Jefferson calmly talking about why Kate jumped off the roof. Of course, I was in a quiet rage. Until I told Principal Wells that I saw David harassing Kate. That set David off and part of me wanted to kick him in the balls knowing he had something to do with Kate's suicide, maybe more. I thought about doing it, then flipping a quick rewind, but I knew that would be the start of a bad, dangerous habit.*
+
+*Naturally, the Principal didn't believe me (or didn't want to), which means that David Dickhead is going to be allowed to harass other students at Blackwell until they jump off the roof*
+
+*So Kate Marsh is dead and it's business as usual here. I hate this fucking school right now.*
+}}
+
+[File:Max_Diary_(38).png](thumb.md)
+
+Saved KateSaved Kate*After being grilled in the principal's den, I hung out with Warren on the lawn so I could feel grass under my feet and watch the fluffy clouds. He's such a sweetheart, he kept telling me how proud he was that I stopped Kate from jumping. I don't believe that I did, but I have to say it's better to be treated like a hero at school than like a twee loser.*
+
+*Still, I told Warren that something ominous is happening at Blackwell Academy. Rachel Amber, Chloe and now Kate have all been victims. Not to mention me, if I keep playing amateur detective. Wish I could have let Warren know about my power, but it's not the right time... as if anything is the right time anymore.''
+
+|-|Didn't save Kate# Didn't save Kate''I need a vacation from my life. I hung out with Warren on the lawn so I could feel grass under my feet and watch the fluffy clouds. He's such a sweetheart, he kept telling me I did everything I could for Kate. Even though I know I didn't...*
+
+*I told Warren that something ominous is happening at Blackwell Academy. Rachel Amber, Chloe and now Kate have all been victims. Not to mention me, if I keep playing amateur detective. Wish I could have told Warren about my power, but it's not the right time... No pun intended.*
+
+*And to make the day end on the most surreal note possible, the sky went dark and we watched a solar eclipse that was not announced on the news or any astronomy site.*
+
+*What is happening to Arcadia Bay?*
+
+##  Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+
+###  Wednesday, October 9 
+[File:Max_Diary_(39).png](thumb.md)
+
+*"Dear Diary... I have the power to rewind time and I ended up on a rooftop trying to stop my friend from jumping off while trying to prevent the possible destruction of my hometown... I fell asleep at my desk and woke up reaching out to rewind... or grab Kate..."*
+
+*I remember when my journal entries were about which anime character I wanted to be. Or my dreams of being a respected globe-hopping photographer. Or what me and Chloe would be doing when we were finally adults... at least we know how that turned out so far.*
+
+*Chloe is determined to get to the bottom of what's going on. So I've been playing "What Would Chloe Do?"—which means blowing off my Blackwell homework to research everything I can find on Kate Marsh, Rachel Amber, and the esteemed Prescotts. It would be too easy peasy if they were all connected but at this point,*
+
+[File:Max_Diary_(40).png](thumb.md)
+
+*I think the whole town of Arcadia Bay is connected to this crazy shit. I can already see the story on the National Geographic Channel: "Mystic, Scientific, or Apocalyptic? The Arcadia Bay Tornado."*
+
+Saved KateSaved Kate*Shudder.
+Speaking of fear, I still think about Kate and the sadness in her eyes on that roof. I'm so grateful she's alive. I love seeing the students at Blackwell show their support for her with gifts and flowers. Finally.''
+|-|Didn't save Kate# Didn't save Kate''Shudder.
+Speaking of fear, I can still see Kate and her sad, hopeless eyes on that roof... I can't believe she's not here anymore... I heard some students are organizing a petition for Blackwell to set up a scholarship in her memory. That's the least this place could do for her...*
+
+Got Mr. Jefferson suspendedGot Mr. Jefferson suspended*So that's cool that I got Mr. Jefferson in trouble and he won't be representing Blackwell at the "Everyday Heroes" contest. I don't blame him for what happened to Kate... Yes, he should have listened to her. But it's not fair he can't attend the event. Now the winner has to hang out with Principal Wells—I hope Victoria wins. But one of my heroes probably hates me. Yay Max.*
+|-|David on temporary leave# David on temporary leave*I almost felt bad when I didn't see David on campus harassing students. But he brought this on himself. I don't know what he's up to or how he's involved, but there's no way he's just playing private detective. Then I think about Joyce—how I've just helped her new husband lose his job. It has to make him treat Chloe better, right?*
+|-|Max got suspendedMax got suspended*Even though it's total bullshit that I got suspended, I'm actually happy to have the time—no pun intended this time. Okay, puns intended. Stop me. But I can at least plan the next steps with Chloe in our investigation. I'm so glad she's here to help me with this. Though she needs to step outside herself a little bit more and see what's going on here. It's not all about her.*
+|-|Nathan got suspended# Nathan got suspended*At least I feel better now that Nathan is suspended. It's good he's off campus for a few days... I hope. And like I give a shit if the Prescott family sends a team of lawyers after me. Please. I doubt they would like all the publicity. I doubt their tentacles reach into the rest of Oregon... not yet, anyway.*
+|-|Nobody got suspendedNobody got suspended*"My homework is seriously piling up. It's hard to focus on tests or essays while my friends suffer, nature shits, and we track down Rachel Amber. Along with my ability to rewind time and visions of an apocalyptic storm, how can I think about giving Mr. Jefferson a photo for the contest with all this shit going on? But I should, if only to keep myself grounded...'
+
+*Leave it to Chloe to make me sneak out past curfew and demand I meet her in front of the main building in the dead of the night. I knew Chloe would be all over investigating the campus after what happened to Kate here... This just makes Chloe more desperate to find out what happened to Rachel... if anything.*
+
+[File:Max_Diary_(41).png](thumb.md)
+
+''It's funny that even though I think I can just rewind myself out of trouble, I'm in more trouble now than ever before in my life. If this was a Twilight Zone Story- I'd be getting set up for some serious irony. Like I'm going to rewind myself out of existence or something...*
+
+*Can I honestly say I'll have this ability for the rest of my life? Are the tornado, the snow, and that eclipse just hallucinations or are they genuine prophecy? More importantly, is this a curse or blessing? Chloe is alive and by my side and that has to be a miracle... which means there must be a way to stop my vision from coming true... Right?*
+
+*So, yes, I broke curfew to hook up with Chloe. She said she had something to show me... Looks like it's time for some serious detective work.*
+
+*Enter The Blackwell Ninjas!*
+
+Saved Kate# Saved Kate *As I stealthily made my way out of the hall, I passed by Kate's door and saw all the nice messages from other students. Too bad most of Blackwell didn't care when they passed around the video and bullied her to that roof. Everybody always cares when it's too late...At least Kate will see that people are on her side... finally. I hope I can visit her when all this blows over... Maybe that's not a good choice of words.''
+|-|Didn't save Kate Didn't save Kate  ''As I stealthily made my way out of the hall, I saw a shrine in front of Kate's door. I was surprised when it just popped up right after she died. Like everybody at Blackwell suddenly felt guilty for how she was treated. I am glad that so many people wanted to honor her. The cynical side of me says, "Too little, way too fucking late." But I know that Kate would smile and forgive us all. Sigh. Cry.* 
+
+[File:Max_Diary_(42).png](thumb.md)
+
+*Day-um, that was too close. I was doing so well until I got outside and of course, it was Principal Wells of all people blocking the way. The one person I least wanted to see. I wasn't ninja enough for him so yeah, he busted me. But, I finally got to see that the gossip was true for a change. *
+
+*Principal Wells was shitfaced. He didn't even try to hide it. In fact, he was lot cooler drunk than sober. I can see why he's so confused, dealing with Kate's family, and the Prescotts, and David Madsen. He still acts suspicious and gives me way too much "tude" as he would say (nobody says that seriously!), but I can see that he's under a lot of pressure. So much that he's so wasted he can't even use his keys at midnight. *
+
+*Sure he was in my way, but he was no match for my rewind power. After all, I had to go and meet Chloe... Bad Max.*
+
+*Even though I thought I was in "full ninja mode", Chloe still scared the shit out of me, which pissed me off considering what I've been going through. Sometimes she's so damn insensitive to other people's feelings.*
+
+*She wants all my attention for her and finding Rachel and she gets all butthurt if I don't have time for her. Obviously I have time in hand. But I can't stay mad at her for long and she was so damn excited about having the keys to the main building. And honestly? I was pretty amped up too.*
+
+[File:Max_Diary_(43).png](thumb.md)
+
+*Even more so when we went to the front of the building and spied on Victoria talking smack about me (shocked!) and worse, actually trying to blackmail Mr. Jefferson to pick her photo for the "Everyday Heroes" contest. She is freaking unreal...*
+
+*I give Mr. Jefferson major respect for telling her to get lost, even though she deserved to be expelled for pulling that crap. This is her priority after what happened with Kate? I just don't understand Victoria, no matter how I try. She's already rich, pretty, and a good photographer. Why try so hard and hurt so many to manipulate everything already in your favor?*
+
+*I just hope that's not what I'm doing with my rewind power...*
+
+*Yes, there's something incredibly AWESOME about breaking into your own school at the witching hour. Although Chloe was technically right: how can we break in with a key? Never mind that it was a stolen key from the school's head of security...*
+
+*Anyway. The Blackwell Ninjas strike again!*
+
+[File:Max_Diary_(44).png](thumb.md)
+
+*So cool to stalk the halls when it's dark and quiet. Even with so many terrible things happening all around us, it felt like Chloe and I were walking towards the center of a great cosmic mystery, something bigger than any of us...*
+
+*But we kinda suck as master spies since we didn't have a key for the Principal's office. No worries with my rewind power at hand. And of course Doctor Warren Graham. He came through with a bitchin' mini-bomb made of sodium whatthefuckever. I probably learned more putting those ingredients together than the entire semester so far. Sorry, Ms. Grant, Warren is the star student here. He tries so hard to help... maybe too much, but what's wrong with that these days? I'm so grateful he's on my team.*
+
+*Talk about being in the sancto sanctorum (thanks Latin class I barely passed!) of Blackwell... I did feel freaking weird about being in the Principal's office after midnight, going through his files and laptop with Chloe. She was waaaay too into it. Technically, we could be arrested and thrown in jail. Yikes. I just pretended that we were on a very special episode of "The Wizards of Waverly Place,"*-* you know, just a couple of "wacky Sherlocks" investigating the school for a good cause... Yeah, that helped.*
+
+[File:Max_Diary_(45).png](thumb.md)
+
+*While we didn't find The Proof, we found Nathan's file had a weird drawing in it that just said, "Rachel in the dark room" over and over. So that's a major clue that Nathan is involved in this somehow. Or he's just insane. But his note also referenced "David M." which means that we absolutely have to find a way into David's secret bunker files. For a good cause.''
+
+Didn't Take the Money# Didn't Take the Money''But Chloe just can't help herself and she actually wanted to take five grand in cash marked "handicapped fund" ('cause that's gotta be legit, amirite?)—I can't think of a faster route to karma hell, but it would have paid off Chloe's debt to Frank... I stopped her, but it kind of bothers me that Chloe can be so selfish like that. I'm not going to let anything happen to her, but I can't just let her do anything she wants... "Mad Max"? More like Mommy Max...* |-|Took the MoneyTook the Money*But Chloe just can't help herself and she actually took five grand in cash marked "handicapped fund" ('cause that's gotta be legit, amirite?) - I can't think of a faster route to karma hell, but it would clear Chloe's debt to Frank... I'll find a way to make it up to the fund... after all, saving a life is priority. As is my habit with Chloe. No matter what, our fates seem bound together, for better or worse.
+
+Usually worse.*
+
+*Despite all the "usual" breaking in and blowing up office hijinks, Chloe decided what we needed more than anything was to take a night swim in the Otter's lair. I was so giddy and rebellious that I was like, oh yes, WE SHALL SWIM. We didn't completely skinny-dip but close enough to get in big trouble no matter what. I don't know why we were so careless after being so careful...*
+
+[File:Max_Diary_(46).png](thumb.md)
+
+*I love that Chloe brings out the "just don't give a fuck" side of me. Even if that hasn't always served her well. She deserved a moment of not giving a shit. Me too. Just two friends goofing around in the pool. I fear those youthful shenanigans might soon be a thing of our past... God, I'm starting to sound like one of the teachers at Blackwell...*
+
+*Chloe and I had a nice chat about our lives since I left... We talked about dumb boys and girls and why they're trouble... especially for me. I feel like a groupie when I talk to Chloe about our life experience... she has me so beat. I take pictures, she takes action.*
+
+*Speaking of action, we had to seriously bounce when security showed up. Duh. How quiet could we be in the swimming pool? Plus after leaving a trail of our Blackwell handiwork...*
+
+*It was so intense and exciting to get past the security guards. They had serious spotlight power so it wasn't exactly easy to stealth our way past, especially as we had to bail in Chloe's junker... but like I said, intense and exciting. Hella like Chloe Price.*
+
+[File:Max_Diary_(47).png](thumb.md)
+
+*Even though my body smelled like I had been doused in chlorine, it was so nice to crashin Chloe's room for the first time in five years and wake up next to her like our old sleepovers... For some reason, it reminded me of the time we were going to TP one of the neighbor's houses and we even snuck out but got chicken and ran back home, laughing all the way...*
+
+*I remember waking up the next day and Joyce was making one of her delish breakfast downstairs and Chloe smiled at me like we were in the most secret club in the world (or at least Arcadia Bay) we were pirates, damn it! After our academic espionage last night, I felt the same way... it's just that now the stakes are much higher and much more dangerous.*
+
+*I even ended up in some of Rachel Amber's clothes since mine were trashed. A band tee and ripped jeans. So not me. But I haven't found my style yet, so why not have some fun experimenting with a new outfit?''*Speaking of experiments, Chloe dared me to kiss her...*
+
+Kissed Chloe# Kissed Chloe
+''So I did. She probably thought I'd wuss out. Why? It wasn't that big a deal. Though it was cute the way she was kind of embarrassed after and said she would tell Warren. ''
+|-|Didn't Kiss ChloeDidn't Kiss Chloe ''I would have, but I didn't like being dared like it was some big deal. Maybe I am scared. Of what? I think I'm too young for marriage. And Chloe and I might kill each other.*
+
+*Besides, I think Chloe sees Rachel Amber in her future...*
+
+[File:Max_Diary_(48).png](thumb.md)
+
+*When I went down to breakfast, Joyce actually called me "Rachel" which just seems so wrong considering how beautiful she is and how boring I am. I guess my new outfit really is working its magic. I ended up helping Joyce make breakfast just like when I was a kid on a sleepover. It's odd how quickly you can fall back into an old routine.*
+
+*So I must have set off Joyce's "nostalgia mode" since she busted out ye oldeThat's pirate english. If you're interested in it, here you find a translater: http://www.talklikeapirate.com photo album. I'm one of the few people who loves checking out old pictures. What was that {{Wiki|Alfred Hitchcock}} line about film being "pieces of time"? Like Mr. Jefferson said, so are photographs.*
+
+*I do think she wanted me to see her new husband in a better light. When David was happy or laughing with Joyce in a picture, I wanted to say, "And who is that?" Plus, I'm sure it's no accident that there was a photo of Rachel wearing the exact same clothes I had on. She truly is stunning. And somehow looked more punk rock than Chloe.*
+
+*The truly heartbreaking image was the last photo William Price ever took: Chloe and I making pancakes in the kitchen. Joyce really misses that joyful optimistic girl... I know she's still there... when Chloe smiled at me this morning, I saw her. The picture seemed to sum up everything we had as children and lost as adults... whatever being an "adult" means.*
+
+[File:Max_Diary_(49).png](thumb.md)
+
+*Which was a perfect cue for Chloe to bounce into the room and start shit with Joyce. This gave me cruel cover so I could sneak into the garage and finally unlock David Madsen's X-treme Files...*This is a reference to the series *X-Files*.
+
+*So today I finally found out what was in David's secret files... and I admit, I expected it to be worse. I'm relieved that it wasn't, so maybe I'm going easier on him than I should. No surprise that he had detailed files on Kate AND Rachel listing their whereabouts along with surveillance pics. David isn't off my shit-list yet, but he's a damn good investigator, I'll give him that. It's clear that Frank and Rachel had some kind of relationship... and I don't think Chloe is going to be very happy to hear that. She needs to start waking up. We all do.*
+
+*When David came home, things escalated quickly. He looked more upset than usual, but shrugged when he saw me wearing Rachel's clothes. He was so on edge... Maybe I'll never get to see the David that Joyce loves so much. She and Chloe really let him have it, though. This was the first time I saw them bond since we were kids...''
+
+Took Chloe's Side# Took Chloe's Side''Suddenly, I couldn't take it anymore either and I kind of blew up. It was like a torrent that felt AWESOME. I've been wanting to rip into David like that myself for a long time. I figured worst case scenario, hello rewind power! But I wanted Joyce to know the depth of his weird paranoia. She looked so sad and angry when I told her about the photos of Rachel and Kate, not to mention the the home surveillance. Joyce kicked his ass out of the house. To Chloe's glee.''
+|-|Took David's SideTook David's Side''But my spidey sense told me that David needed somebody to defend him. Even just this once. I just don't feel that we have enough proof to really blame him for everything. Yes, he's a harassing bully with a surveillance fetish, but he seems to be gathering information for his own investigation. The mystery story side of me appreciates that and hopes we can use his research to buffer our own...*
+
+[File:Max_Diary_(50).png](thumb.md)
+
+*Despite David's evidence and the bracelet, Chloe refused to believe Rachel was involved with Frank. This is a part of Chloe I don't much like: she gets so damn petulant if she doesn't get her way. Or if she hears something she doesn't like. Serious denial. I get why, but that doesn't make dealing with it any easier. So I threw my hands up and suggested we check out Frank's RV.*
+
+*I knew that would piss Chloe off and she would do anything to find out what kind of relationship he had with Rachel.*
+
+*But first we had to get the damn keys to the RV. Which meant going into the Two Whales Diner and bouncing like a rewind pinball between Frank, Nathan Prescott, and Officer Berry—and fucking with all of them. I'm still dizzy thinking about how I pulled it off. Yay for Max.*
+
+*Sometimes I feel like I'm just cheating at life...*
+
+[File:Max_Diary_(51).png](thumb.md)
+
+*The first thing we had to do was get Frank's scary dog out of the RV. So, we did the classic cartoon "give a dog a bone" routine and CujoThis is a reference to the dog from the same-titled Stephen King's film. became Scooby DooThis is a reference to the dog from the same-titled mystery solving cartoon series. just like that.*
+
+Threw bone into the street# Threw bone into the street*Oh my God! I don't want to think I hurt the poor thing but when I threw the meat bone out for Frank's scary dog, he ran out into the street... and I heard a screech of brakes and a loud whimper.*
+
+*Frank's RV was pretty much what I expected—drug dealer trash chic. But it wasn't as serial killer as I feared. We ransacked the place and found what Chloe didn't want us to find...*
+
+*I'm sorry Chloe had to see the pictures of Rachel posing for Frank, even if she did care about him. To her it's just another betrayal, just another loved one dumping on her. Everybody she ever loved she lost one way or another. Only I came back from the past... for what? To make Chloe's life more painful? I just wish I could use my rewind power to go all the way back to the days when we were covered in pancake flourThis is a foreshadowing to the events at the end of episode three. Chloe and Max made pancakes together, captured in the last photo William took before he died.... Life was simple...''
+
+Didn't try to shoot Frank and examine cupboards in Frank's RVDidn't try to shoot Frank and examine cupboards in Frank's RV
+{{#tag:tabber|Don't return the gun# Don't return the gun
+''I found Chloe's gun (or should I say David's gun?) and decided not to give it back to her. I honestly don't feel that she's any safer with it, especially considering how stupid she acts with it. But I don't want Frank coming after Chloe... I just have to make sure he doesn't.*
+{{!}}-{{!}}Return the gunReturn the gun*I found Chloe's gun (or should I say David's gun?) and reluctantly gave it back to her. I honestly don't feel that she's any safer with it, especially considering how stupid she acts with it. But I definitely don't want Frank coming after Chloe with her own weapon.*
+}}
+
+##  [Alternative Timeline](alternative_timeline.md) 
+###  September 4, 2013 
+[File:Max_Diary_(alternate).png](thumb.md)
+
+*So much to do... I wish I could slow down time, especially to register all the cool things that have happened since I'm back in Arcadia Bay.Blackwell rules!*
+
+###  September 21, 2013 
+*Yes, I'm older and thanks to Vic and Nathan I'm now a bit more fashionable too. They surprised me with the most beautiful straw pork pie hat, wrapped up furoshiki-style.Best birthday party ever. Also, drunkest. I can't sleep.*
+
+###  October 4, 2013 
+*Hey, dear diary, remember me?Busy Max Busy. Busy.Can't write now. Must shoot. Must live. Must befriend.Should rekindle with Chloe too.But must Vortex first. Party time!!!!!!*
+
+##  Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+
+###  Thursday, October 10 
+[File:Max_Diary_(52).png](thumb.md)
+
+*Let's never do the time warp again. I can't even begin to explain what happened. If I think too hard about the ramifications, my brain might melt. When I try to describe it, it's as if I'm describing something that happened to someone else.*
+
+*Chloe was so upset when we discovered that Rachel had actually been involved with Frank Bowers and she just blew up. I can never talk to her when she's like this and I just get so tired of having to walk on eggshells around her emotions. She still blames William for her messed up life, no matter how much she knows she's being unfair. I can't say that I wouldn't be just as messed up. Not that I'm not in my own way.*
+
+*In my room, all I could think was "I wish I could go back in time and help Chloe", and suddenly I was looking at the photograph William had taken of us on the day he died... and it started pulsing like it was 3D, like I could see INSIDE the photograph.*
+
+*Then I found myself actually back in the photo... to when I was 13 years old. I was back in Chloe's kitchen in the year 2008.*
+
+[File:Max_Diary_(53).png](thumb.md)
+
+*With Chloe. And William.*
+
+*Right before he left to pick up Joyce for the last time. Since my powers somehow morphed to this new level of rewind, I decided that there was no way I was going to let William die again. So I played "hide the keys" until he had no other option but to take the bus.*
+
+*I was so happy I actually saved William. I never thought about what could go wrong...*
+
+*I knew I was screwed when I came out of my epic rewind and saw Victoria Chase... but now she was my FRIEND. And I was a MEMBER of the Vortex Club. 'Nuff said.*
+
+*I knew I had screwed up. And then I felt sick thinking about what might have changed with Chloe... I had a clue when I saw David Madsen driving the school bus. He sure didn’t look so threatening anymore... I didn’t want to know how he ended up as a bus driver instead of with Joyce...*
+
+*I felt my heart drop when I rushed to Chloe's house. So when William opened the door, I prepared myself for the worst...*
+
+*That's when Chloe rolled forward in her wheelchair. Paralyzed from the neck down. I didn't even know what to say, so I covered my mouth in my typical gesture of shock and stupid. But Chloe's smile was so genuine and beautiful I almost cried.*
+
+[File:Max_Diary_(54).png](thumb.md)
+
+*I had to adjust to everything without freaking out or telling Chloe that I actually altered time and space to save her father, but get her in a car accident so she can never walk again. The thing is, she was still Chloe. Just minus all the rage. This Chloe was just grateful to be alive and have her family watching over her.*
+
+*Chloe begged me to spend the night and, of course, I did. I noticed how run-down parts of their home were, compared to before. I saw the incredible expensive equipment that Chloe now requires, including her new garage room. Sorry, David.*
+
+*Even though I felt awful and disconnected, Chloe was just so bubbly and excited to hang out with me again, especially since I flaked on her pretty hardcore after her accident. Even in an alternate universe, I’m a shitty friend.*
+
+*Chloe's world was so new and unique to me, especially her strength and kindness... and pain. She needed a whole pharmacy to get through the day. I didn't feel sorry for her—I felt in awe with her attitude. This Chloe didn't blame anybody for her condition, even though she had the right. We strolled down the beach and saw the beached whales that proved something bad was happening in both realities...*
+
+[File:Max_Diary_(55).png](thumb.md)
+
+*And then Chloe asked me to put her to sleep.*
+
+*The accident left her body pretty much broken. Her lungs stopped working properly and she was basically dying a slow, painful death. She also felt so guilty about her parents' sacrifice and dwindling income. She wasn't erratic or tortured about this request, just... practical. Which made me feel even more terrible for putting her in this situation.''
+
+Accepted Chloe's Wish# Accepted Chloe's Wish*I agreed to help her, simply because she explained that she wanted to have a choice for the last time in her life... How could I argue with that? Especially since I knew I screwed up the entire universe by making a "simple" decision. And I knew I would have to go back eventually and accept the timeline that actually happened... So Chloe and I had one last movie night watching "Blade Runner", falling asleep to the sounds of Vangelis, and when I woke up, I put my best friend to sleep... forever.*
+|-|Refused Chloe's WishRefused Chloe's Wish''But there was no way I was going to help my best friend take her own life. I couldn't do it, especially after what happened with Kate. I know I should have done whatever Chloe asked of me, considering I was responsible for her situation. But how could I inject her full of morphine and just watch her fade away? I know she was upset, but I just had to tell myself that this reality wasn't... real.*
+
+*After my visit to Chloe's new world, I knew it was time to go Max To The Future.Reference to the film *Back to the Future*. I had seen the result of my temporal tampering and I got scared thinking my new power wouldn't even work anymore. That would've been Cruel Karma. Fortunately, I was able to project myself into the photograph once again and I undid everything I had done...*
+
+*Goodbye, William. Again.*
+
+*Hello, David. Again.*
+
+[File:Max_Diary_(56).png](thumb.md)
+
+Kissed Chloe# Kissed Chloe *I've never been so glad to see Chloe in my life. The second I saw her blue hair and that beautiful pissed off face I wanted to kiss her again.''
+|-|Didn't Kiss ChloeDidn't Kiss Chloe ''I've never been so glad to see Chloe in my life. The second I saw her blue hair and that beautiful pissed off face, I kind of regretted not kissing her when she double dared me. Maybe if she had double dog dared me...*
+
+*And I couldn't even tell her where I had been... or why. It would be one more thing to alienate Chloe from me and the world. I had to get refocused on our search for Rachel. Chloe had been busy with her detective work, while I was in my alternate timeline.''
+
+Took Chloe's Side# Took Chloe's Side''Of course, it was much easier for me to explore David's garage, since Joyce booted his ass out. That made Chloe more content than I've just about seen her since I returned. I still feel kinda bad for David, but he overstepped his authority. Dismissed. And it's so much easier to grab David's X-files when he's not there!''
+|-|Took David's SideTook David's Side ''Of course, she was already upset I'd defended David, even though I still didn't like any of his surveillance bullshit. But it seems like he's trying to help, even though I'm not really sure how. And I have to acknowledge that I simply don't know what the hell he's up to. Not that it stopped me from busting out some of my patented ninja moves so I could get around him to grab some more of his secret X-files...*
+
+*After we gathered our new info like Halloween treats, I loved watching Chloe go into "Sherlock" mode while we examined all of our clues on our big ol'Another use of pirate English. drawing board. Of course, we all know that she's more of a Dr. Watson, right? Elementary!*
+
+*Honestly, with all of the impending doom and sadness, I felt so... happy. Just to find myself back in action with my best friend and her butterfly blue hair.*
+
+*Hella yes.*
+
+[File:Max_Diary_(57).png](thumb.md)
+
+Kate Survived# Kate Survived*But first things first. I really had to go and see Kate. I've never visited anybody in the hospital before, much less anybody who's tried to commit suicide, so I was happy Chloe wanted to come along for support. The antiseptic smell and the endless white halls always kind of weird me out. Or maybe I'm just projecting my own fear of mortality.*
+
+*When I saw Kate in her room (surrounded by cards, flowers, and balloons), all I could think of was when I saw her the last time... on the roof. Her face was so sad and sincere and helpless then... but now she had more life in her than I'd seen in a long time.*
+
+*I had no idea what to say to somebody in a situation like this ("How are you, after you almost jumped off a roof?"), but Kate's gentle spirit made it easy. I was overjoyed to see she was drawing again and making plans for the future. Including plans to get justice for what Nathan Prescott had done to her.Or what I call REVENGE.*
+
+*So after getting the inside info and assist from the other members of our team, Chloe and I made our way to the boys' dorm a.k.a. "Nathan's Lair." Chloe stood guard out in the hall and I stealthed my way into Nathan's room.*
+
+*And even though I've become a master spy and detective, I still get surprised by things I see or find... like Nathan's sleek, expressionist bro cave. It was like walking from light to shadow in a single step. I swear, I could feel the temperature drop the second I walked in. But then, Nathan knows photography and he knows you have to keep the film and equipment chilled (I store my instant film hoard in Mr. Jefferson's classroom).*
+
+[File:Max_Diary_(58).png](thumb.md)
+
+*Speaking of cold stuff, Nathan's room was layered in creepy shit. The disturbing but impressive photos, all the evidence from his father's bullying, and probably the most important clue we could ever find: Nathan's phone, likely loaded with messages and mysteries. It's not a good thing that I've internalized spying and stealing so casually over the past week...*
+*Everyday Hero, amirite?*
+
+*And that's when Nathan Prescott showed up. He looked so wild-eyed and out of control that I felt a twinge of sympathy that he clearly needed help. But then I remembered he was also an asshole and had been extremely dangerous to me, Chloe and Kate. So before I had to rewind, Warren entered the scene and my White Knight HEADBUTTED Nathan in perfect payback. I couldn't believe it. Neither could Nathan.*
+
+Stepped InStepped In*In fact, Warren literally started to GO APE all over Nathan's face. It wasn't cool, but my nerves were so frayed from the week and I was so over all the Blackwell bullies that I almost didn't want to stop Warren from beating Nathan into the floor. Warren has his own issues to work out with Nathan, but this wasn't the time or place. Even if Nathan deserved it and I would've been happy to watch Warren show him who was a Blackwell boss now.''
+|-|Didn't Step In# Didn't Step In''In fact, Warren literally did GO APE all over Nathan's face. It wasn't cool, but my nerves were so frayed from the week and I was so over all the Blackwell bullies that I didn't try to stop Warren from beating Nathan into submission. Warren had his own issues to work out on Nathan.*
+
+[File:Max_Diary_(59).png](thumb.md)
+
+No One Got HurtNo One Got Hurt*After that dorm brawl, Chloe and I headed to the beach to deal with Frank and see if we could get him to join us. I had to be careful and not get him all tweaked out. He was pretty pissed that someone had gotten into his RV and borrowed his account book, but once he saw that we didn't care about drugs or money, only Rachel, he mellowed out.*
+
+*All I could think was, "I'm trying to get a drug dealer to help me find a missing girl." Incredibly, Frank actually agreed to help! He knows how naive and clueless we are, so I hope that our sincerity swayed him.*
+
+*I'm still unsure about him and I can't be so naive not to keep my rewind guard up. I don't know much about him, except that he sells drugs, has a wicked temper, and that he loved Rachel. Even more than his beans.*
+
+*So, we get to add another member to our team... BOOYAH!*
+|-|Frank Got Hurt# Frank Got Hurt*After that dorm brawl, Chloe and I headed to the beach to deal with Frank and see if we could get him to join us. Unfortunately, Frank was not in a helping mood. He went ballistic and attacked Chloe. She injured him in the leg, which totally freaked me out, even though I feel like I've been seeing Chloe get shot all week. All I could think was, "This is really happening. I'm outside an RV in a fight with a drug dealer."*
+
+* So our mission to bring Frank on-board was impossible. Now he's even more pissed off at Chloe — and me. Part of me thinks he has the right, since we wounded him in the leg, but the other part thinks that Frank would be hurt at some point by somebody else. He should be lucky it was by us dorks.*
+
+*I hope his leg is okay and we don't end up with worse karma. This is not how I wanted our visit to go. And I don't want Chloe to beat herself up even more over what happened. She did defend me. Sigh.*
+
+*But we do have bigger Franks to fry. Or fuck up. Onward.* 
+|-|Frank Got KilledFrank Got Killed*After that dorm brawl, Chloe and I headed to the beach to deal with Frank and see if we could get him to join us. I had to be careful and not get him more agro. He was pissed that someone had snuck into his RV and borrowed his account book... When I tried to reason with Frank, he went from zero to knife. All I could think was, "This is really happening. I'm outside an RV in a gun fight with a drug dealer."*
+
+*And then, Chloe shot him in self-defense. Frank Bowers is dead. We saw him die in front of us. I didn't know what to think or even how... I didn't even rewind... I know Chloe was in as much shock as me. It was so surreal looking down at Frank's body next to the ocean where we had played as kids... So our mission to bring Frank onboard ended in his death.*
+
+*Now we're in bigger trouble—legal trouble. I know Chloe shot him to save me, so it was self(defense, but if we didn't come down here he would still be alive. This is not how I wanted our visit to go. And I don't want Chloe to torture herself even more over what happened. No matter what, she did save my life.*
+
+*But I'm still responsible for taking a life. What the hell are we doing?*
+
+[File:Max_Diary_(60).png](thumb.md)
+
+*My life feels so unreal at this point, I don't know how to react anymore. I can rewind time and space, but it is aging me before my own time and space? Am I learning things I shouldn't, messing up too much shit... including my own history? Obviously, my nosebleeds and dizzy spells are a bad sign that I'm overusing my powers, but it's become almost part of my nature... or maybe a habit. Power corrupts? Not yet. I hope.*
+
+*I remember this famous episode of the original {{Wiki|Star Trek}}, where Kirk has to go back in time and let the person he loves die, so the Nazis won't win the war...*Max is talking about the episode called *{{Wiki|The City on the Edge of Forever}}*. What kind of fucked up choice is that? What would have happened if I had not been in the school bathroom to save Chloe that day?*This is clearly a big foreshadowing.*
+
+*But dammit, I was there and thus I was supposed to be there. DESTINY.*
+
+No One Got Hurt# No One Got Hurt
+*And the fact that we were able to convince Frank to actually help us gives the most hope I've had in a while. Yes, Chloe and I were stupid to confront Frank like that, considering how he reacted before, but I don't see how anyone could say he didn't really love Rachel Amber.*
+
+*He shouldn't have pulled a knife on Chloe though, and I don't like that he sells all these dangerous meds to teenagers, especially Nathan. He needs psychiatric supervision, not just baggies of pills. At least he won't be going to Frank again.*
+
+[File:Max_Diary_(61).png](thumb.md)
+
+*I still don't know how Chloe or even Rachel would want to hang out with Frank, but I can't suss that out anymore. Maybe if I hadn't left town I'd be less judgemental... But now we have Nathan's phone, David's coordinates, Frank's account book, and a big board of clues, which brings us closer to finding Rachel Amber. Finally. So maybe the tide is finally turning... or time is finally turning...*
+|-|Frank Got HurtFrank Got Hurt*So things got a bit out of hand with Frank, but honestly, what else could we expect? He's not really your everyday hero type, and it was probably stupid of us to hope for a change, but hey, we had to confront him. We tried to persuade him we're on the same side, but it was a waste of time.*
+
+*We eventually had to defend ourselves and hurt him in the leg, but despite the rage in his eyes he somehow gave us what we were looking for. He was on the verge of unleashing hell on us, but I think we've avoided the worst. I just hope our paths won't cross again anytime soon.* 
+
+*I still don't know why Chloe or even Rachel would want to hang out with Frank, but I can't suss that out anymore. Maybe if I hadn't left town I'd be less judgemental, but I definitely don't see the good in him... Anyhow, we tried, right? And now we have Nathan's phone, David's coordinates, Frank's acccount book, and a big board of clues, which brings us closer to finding Rachel Amber. Finally.* 
+|-|Frank Got Killed# Frank Got Killed*So now we are responsible for ending Frank's life, even if it was in self-defense, was he meant to die that way? Crumpled up in his own blood on the dirty ground? I don't know how much more death and violence I can take this week... But I know there's something bigger going on than poor Frank or poor me. Maybe a storm that will destroy Arcadia Bay... and what else?*
+
+*I couldn't explain this to Chloe, though. She's devastated about Frank and I can't blame her. But she can't give up now. Chloe is a genuine badass, but she doesn't have the luxury of my powers, so she has to trust me that this is our destiny. Right?*
+
+*And I can't be any kind of hero without my faithful companion... and Chloe has to know that she might play the biggest role in all of this apocalyptic bullshit. And now we have Nathan's phone, David's coordinates, Frank's account book, and a big board of clues, which brings us closer to finding Rachel Amber. Finally.*
+
+*My life feels so surreal at this point, I don't know how to react anymore. I can rewind time and space, but is it aging me before my own time and space? Am I learning things I shouldn't, messing up too much shit... including my own history? Obviously, my nosebleeds and dizzy spells are a bad sign that I'm overusing my powers, but it's become almost part of my nature... or maybe a habit. Power corrupts? Not yet. I hope.*
+
+*I remember this famous episode of the original Star Trek, where Kirk has to go back in time and let the person he loves die, so the Nazis won't win the war... What kind of fucked up choice is that? What would have happened if I had not been in the school bathroom to save Chloe that day?*
+
+*But dammit, I was there and thus I was supposed to be there. DESTINY.*
+
+Frank Is DeadFrank Is Dead
+*So now that we are responsible for ending Frank's life, even if it was in self-defense, was he meant to die that way? Crumpled up in his own blood on the dirty ground? I don't know how much more death and violence I can take this week... But I know there's something bigger going on than poor Frank or poor me. Maybe a storm that will destroy Arcadia Bay... and what else?*
+
+*I couldn't explain this to Chloe, though. She's devastated about Frank and I can't blame her. But she can't give up now. Chloe is a genuine badass, but she doesn't have the luxury of my powers, so she has to trust me that this is our destiny. Right?*
+
+*So I can't be any kind of hero without my faithful companion... and Chloe has to know that she might play the biggest role in all of this apocalyptic bullshit. And now we have Nathan's phone, David's coordinates, Frank's account book, and a big board of clues, which brings us closer to finding Rachel Amber. Finally.*
+|-|Frank Got Hurt# Frank Got Hurt
+*So things got a bit out of hand with Frank, but honestly, what else could we expect? He’s not really your everyday hero type, and it was probably stupid of us to hope for a change, but hey, we had to confront him. We tried to persuade him we’re on the same side, but it was a waste of time.*
+
+*We eventually had to defend ourselves and hurt him in the leg, but despite the rage in his eyes he somehow gave us what we were looking for. He was on the verge of unleashing hell on us, but I think we've avoided the worst. I just hope our paths won't cross again anytime soon.*
+
+*I still don't know why Chloe or even Rachel would want to hang out with Frank, but I can't suss that out anymore. Maybe if I hadn't left town I'd be less judgmental, but I definitely don't see the good in him... Anyhow, we tried, right? And now we have Nathan's phone, David's coordinates, Frank's account book, and a big board of clues, which brings us closer to finding Rachel Amber. Finally.*
+|-|Frank Became An AllyFrank Became An Ally
+*And the fact that we were able to convince Frank to actually help us gives the most hope I've had in a while. Yes, Chloe and I were stupid to confront Frank like that, considering how he reacted before, but I don't see how anyone could say he didn't really love Rachel Amber.*
+
+*He shouldn't have pulled a knife on Chloe though, and I don't like that he sells all these dangerous meds to teenagers, especially Nathan. He needs psychiatric supervision, not just baggies of pills. At least he won't be going to Frank again.*
+
+*I still don't know why Chloe or even Rachel would want to hang out with Frank, but I can't suss that out anymore. Maybe if I hadn't left town I'd be less judgmental... But now we have Nathan's phone, David's coordinates, Frank's account book, and a big board of clues, which brings us closer to finding Rachel Amber. Finally. So maybe the tide is finally turning... or time is finally turning...*
+
+*This is the moment where all the clues come together and we finally have a location outside of town that may lead us straight to Rachel Amber... and beyond.*
+
+*After everything that happened with Frank, I had to convince Chloe to keep going forward with me, since I do feel we're at the end of the road... hopefully not the end of the world. But whatever Chloe has inside her that makes her so selfdestructive is matched by her balls and bravery. Yes, Chloe has gotton me nearly killed, but I know she would die for me. And I can't forget I put her in a wheelchair to slowly die in another reality...*
+
+*And Chloe is more focused now than before. I told her we have to keep moving forward no matter what and I couldn't find Rachel on my own. That was enough.*
+
+*Now it's time to shine a light into the Dark Room...*
+
+[File:Max_Diary_(62).png](thumb.md)
+
+*Chloe and I loaded up our coordinates and hit the road. We were both quiet, yet excited... it's hard to explain the feeling. Even with all the horrible things happening, I found myself thinking that Chloe and I were part of some greater mystery that involved time, space, and all our fates. I've never had much faith, not the Kate Marsh kind anyway, but I couldn't believe we were being set up for doom after everything that's happened this week.*
+
+*But I wasn't prepared for the Dark Room.*
+
+*The coordinates led us to an old "abandoned" farm owned by the Prescott family and I shouldn't have been surprised that it was actually housing a weird secure bunker that was filled with Prescott memorabilia... and worse.*
+
+*If there was evil ground zero, this place was it. Cupboards filled with named red binders that confirmed our worst nightmares... not that I even had any clue that our amateur detective work would lead us to this kind of professional hell. When I saw the binder marked "Victoria," my heart started pounding like a jackhammer. Then I had a real clue about what was coming...*
+
+*I don't even want to think about the images we saw of Kate Marsh posed unconscious with that motherfucker, Nathan Prescott. She did know the truth about what happened to her even if she couldn't remember all the awful details... And then Rachel Amber. Delicately composed photographs of her drugged and all over Nathan like some kind of sick goth couple. I couldn't bear to look at Chloe's face as she looked at the photos of her abused angel. I felt nauseated. All the hope I was feeding Chloe felt like vapor. And then we saw exactly where Nathan had taken his vicious layout with poor Rachel. In the junkyard.*
+
+[File:Max_Diary_(63).png](thumb.md)
+
+*We finally found Rachel Amber. Dead and buried. I'm sorry, Rachel. I'm sorry, Chloe. I'm sorry, Kate. I'm sorry, William.*
+
+*FUCK YOU, ARCADIA BAY.*
+
+*"High school should be the best years of your life," I've heard over and over from my parents and other experts. Fuck do they know? Tell that to Rachel Amber. Or Kate. I've never seen Chloe so cold and hard. She won't let go of the gun.* 
+*So we have to find Nathan before Chloe kills him. And if that happens, it will be hard to rewind.*
+
+*But we're as close to the end of this nightmare as possible, so I have to block out those images of Kate Marsh and Rachel Amber that will be burned into my retinas forever. There's still a final secret to uncover and nothing is going to stop us now. Not even a goddamn tornado.*
+
+*Chloe and I pulled up to Blackwell's parking lot and arrived at the "End Of The World" party. Oh, the irony! We had to get rid of poor Warren fast, who wanted to bask in his alpha glory and hang out with Chloe and me. I can't put another one of my friends in danger. So bizarro to see all the students dressed up in expensive outfits or pre-Halloween costumes, talking and laughing and smoking and drinking, as if there wasn't a serial killer going to the same party, or the town wasn't in eco-danger...*
+
+[File:Max_Diary_(64).png](thumb.md)
+
+*As if to remind me of Arcadia Bay's ticking doomsday clock, I saw two moons in the sky over the horizon... or that's what it looked like briefly before the clouds rolled over. I squinted and actually rubbed my eyes like a dork just to make sure my iris wasn't foggy. Was this another sign or an environmental illusion? Other people saw it too... Except, Chloe didn't see anything - besides vengeance. So she went into the gym looking for Nathan before I could catch up. Nathan doesn't know that he's running out of time too. No irony intended. We are.*
+
+*My first and last Vortex Club party. Flashing lights and DJ Doom (no comment) spinning. In an alternate reality, I might have been at this party, standing in the corner shy and nervous, waiting for somebody to ask me to dance but being terrified if that happened... And that would have been the limits of my problems. Now look at me.But I had to find Chloe first, then Nathan before she shot him.*
+
+Warned Victoria Successfully# Warned Victoria Successfully*No matter how evil I thought Victoria was, she's actually just a terribly insecure person with talent, passion, and a tendency to be a cruel dick for no good reason. I have to see beyond our petty mean girl drama and assume she has a role to play in all of this too. So we talked like human beings and I warned her, without specifics about Nathan. She believed me and it felt so warm to make a connection with my previous "enemy." A sliver of light in all this darkness. Let there be more.*
+|-|Warned Victoria UnsuccessfullyWarned Victoria Unsuccessfully*No matter how evil I thought Victoria was, she's actually just a terribly insecure person with talent, passion, and a tendency to be a cruel dick for no good reason. But that doesn't mean she'll step outside herself to look at me without her hate. I tried to see beyond our petty mean girl drama, assuming she has some role to play in all of this, but she wouldn't listen to me and I had to find Chloe. So I just warned her and left, hoping the actual human being deep inside her got the information and considered taking it seriously. Fair enough?''
+|-|Didn't Warn Victoria# Didn't Warn Victoria''No matter how evil I thought Victoria was, she's actually just a terribly insecure person with talent, passion, and a tendency to be a cruel dick for no good reason. But that doesn't mean she'll step outside herself to look at me without her hate. I tried to see beyond our petty mean girl drama, assuming she has some role to play in all of this, but she made it impossible and I had to find Chloe. I felt shitty not warning her, but I just have to hope that Victoria is the one person Nathan would leave alone, if only out of friendship or the fact that assholes stick together.*
+
+##  Episode Five - "[Episode 5: Polarized](polarized.md)" 
+###  Friday, October 11 
+[File:Max_Diary_(65).png](thumb.md)
+
+*October 11 (...I guess)*
+
+*I watched Chloe die again.Killed by my favorite teacher. Why?Because we were stupid and let Jefferson trick us with a phony'**Catcher in the Rye reference**' text.*
+
+*So we ended up back at the junkyard, and fell right into his trap. We should have called the police the second we found Rachel, but I had gone along too far with Chloe. I keep thinking I'm invincible, that I'm a real everyday superhero... but no, I'm just Max Caulfield.*
+
+*Maybe all my powers are an accident of fate. Or am I being punished like Chloe? What have we done to deserve all this pain? What did Rachel do? Kate? William?*
+
+*Then there's Mark Jefferson... I can't ever call him "mister" again.*
+
+*I'm still shocked that he turned out to be the one hiding behind the Dark Room, but if I think back on those "pieces of time," Jefferson has been dropping hints all along. It makes me sick to think how long he's been doing this for — and to whom.*
+
+[File:Max_Diary_(66).png](thumb.md)
+
+*The needle... I can still feel that needle on my skin. Thank God I can't remember Jefferson posing me for most of his sick session. Imagine all those other people who had to suffer through that horror... like Rachel and Kate. That made me determined to get out of that room, at least to stop him and save Chloe. I had to use my focus rewind on multiple photos so often that even I got confused.*
+
+*Worse still, I knew I was screwing around with various realities again, but I had no other choice. Chloe would not die in a junkyard next to Rachel Amber. And there was no fucking way I was going to let Jefferson be the last person I ever saw. It's hard to even imagine myself in that studio alone with Jefferson acting like that... Everything was so neat and sterile, but it felt like the filthiest place on Earth. If I didn't have this ability to bend time, what would I have done? What could I have done? Sometimes I felt removed, like I was looking at myself going through this hell. But thanks to Jefferson's class photo, he personally helped me to escape.*
+
+Warned Victoria SuccessfullyWarned Victoria Successfully *I also feel so terrible that Victoria had to end up in here with me, just because I warned her about Nathan. I should have known that she would rush to Jefferson for protection. Instead, he kidnapped her and almost murdered her... because of me.*
+
+*I'll never forget the way Jefferson looked at me, so cold and mean... I felt like I was on one of those awful true-crime shows my mom binge-watches... How does somebody become evil? He actually shot Chloe in the head... just like that.Motherfucker.*
+
+Accused Nathan# Accused Nathan *I wish the police had taken Nathan in, after I told Principal Wells that he drugged Kate. He might still be alive and maybe he would have taken down Jefferson too...*
+|-|Accused JeffersonAccused Jefferson*Now I'm glad I blamed Jefferson for Kate, so at least there's a paper trail for his actions. If only I had David Madsen's info. And to think that I felt guilty about narcing on Jefferson...*
+|-|Accused David# Accused David*Now I feel terrible that I blamed David for harassing Kate.... especially since he was after Jefferson all along. We could have been working together if David wasn't so paranoid.*
+
+[File:Max_Diary_(67).png](thumb.md)
+
+*I can't believe I was able to focus and rewind into my selfie all the way back to art class on Monday. I turned in my photo for the contest, after I sent a text to David warning him about Jefferson. Whew. The only reason I haven't had a total meltdown is the fact that I do have this incredible power. I have to use it right for once... and maybe never again.*
+
+*It was weird to be in class with Jefferson, like I wasn't just tortured by him in an underground bunker. I saw him for the first time as he is: a creepy, manipulative psychopath, filled with bullshit. He uses art and passion to seduce people, but behind that there's nothing but hate and perversion. I only pray that I can fix this timeline, not fuck it up.*
+
+*Max to the future. It feels like I finally made things right. Chloe is alive. David Madsen became a real everyday hero by busting Jefferson and his dark room, along with Nathan and his father. The Prescotts have lost control of Arcadia Bay. Now I'm the official "Everyday Hero" on my way to San Francisco with Principal Wells, who is a lot more funny and laidback when he's not stressing about Blackwell Academy. It's hard for me to totally relax but all these pieces of time seem to be falling in place.*
+
+[File:Max_Diary_(68).png](thumb.md)
+
+*The Zeitgeist Gallery was a trip. Why does somebody so shy like me want to be famous for her photographs? I don't care about people kissing my ass, I just want to hang out with great artists and learn from them. It was so sweet that my work was displayed in a respected gallery and I got to experience that public response. But I'm not a fan of the spotlight. That Berkeley reporter made me feel like I wouldn't even know what to say. "Oh yes, this selfie represents my soul." I'd tear up my own pictures if I ever talked like that.*
+
+*But it was so nice just to have a safe, peaceful moment for myself, where my dreams came true instead of my nightmares. I had a real vision of my future and who I wanted to be. So I won't feel bad about rewinding time once again to destroy my contest photo.*
+
+*The storm is still coming to Arcadia Bay, which means Chloe's life is still in danger. No prize or exhibition is worth losing her again. At least I can use my picture for a truly important reason and yet again try to fix the machineries of time that I keep breaking...*
+
+[File:Max_Diary_(69).png](thumb.md)
+
+*So I did it. Back in my room again, erasing another timeline... or does that reality go on without me? Am I just creating knots in time? My biggest fear is that I won't be able to rewind when I most need to... or even remember what I've done.*
+
+*And my head does feel like it's going to burst if I keep on doing this. My nosebleeds are a bad omen. Yet I'm here — I can rip up my contest photo and still warn David about Jefferson. It just means I won't be going to San Francisco. Yet. And I have to protect Chloe from one storm.*
+
+*I knew things were going too easy. And I messed it all up. As usual.Jefferson was pissed that I had torn up my contest photo, freaking out about my "wasted talent." Bastard torched my diary, so I couldn't even rewind using my art class selfie.So my whole plan took a shit and I couldn't text David about Jefferson...which is how I ended up back in this evil Dark Room, after I thought I had escaped.*
+
+Warned Victoria SuccessfullyWarned Victoria Successfully
+*The worst thing was seeing that Victoria was gone and knowing that Jefferson had already killed her... all because of me. I've never felt so helpless and hopeless in my life. It made me even more determined to rewind time and save Victoria as well...*
+
+*Amazingly, it was David Madsen who turned up to save me. Thanks to his own surveillance, he was almost Jefferson's shadow and tracked him down to the farmhouse.I was able to use my rewind for good and actually help David battle Jefferson.I do know that the only way I can save Chloe now is to get that picture that Warren took of us in the parking lot. I just hope he's okay in this storm.*
+
+Told David# Told David*Finally, I told David that Chloe was dead... and he killed Jefferson. I have nothing else to say.''
+|-|Didn't Tell DavidDidn't Tell David''Finally, I didn't tell David about Chloe... I couldn't. He might have killed Jefferson.*
+
+[File:Max_Diary_(70).png](thumb.md)
+
+*For the first time since my visions, I was able to see the storm manifest in this reality. When I felt the sharp wind from the tornado, everything became more desperate. I was so relieved to get ahold of Warren, but he's definitely trapped in the Two Whales diner with the photo. Yes, this looks like a job for Super Max.*
+
+*I borrowed Jefferson's car to haul ass and found that Nathan left me a sad voicemail. He only wanted to warn me, to not be blamed for Rachel. But Jefferson wouldn't forgive him....*
+
+*Apocalypse Arcadia Bay.I never felt the raw force of nature, but this storm is ground zero. My town is being destroyed and I'm so furious that I didn't pay more attention to my visions. I could have warned and saved so many people... instead of watching them die around me.*
+
+*I decided I needed to fulfill my destiny, whatever that was, and use my powers for good and more importantly, to not be afraid. There was no more time for fear.So I barely made it to town and helped as much as I could, until I had to rewind to stop a raging fire from blowing up the diner. At least I was able to do something.*
+
+[File:Max_Diary_(71).png](thumb.md)
+
+Frank Became An Ally# Frank Became An Ally*I almost cried when I saw Joyce and Warren, even though they were scared. But they're strong and helped everybody in the diner. Including Frank, who I was glad to see alive.*
+|-|Hurt FrankHurt Frank*I almost cried when I saw Joyce and Warren, even though they were scared. But they're strong too and helped everybody in the diner. Including Frank, who clearly hates me.*
+|-|Killed Frank# Killed Frank*I almost cried when I saw Joyce and Warren, even though they were scared. But they're strong too and helped everybody in the diner.*
+Kissed ChloeKissed Chloe*I'm glad Warren is such a good friend. Considering how insane my life has been this week, kissing Chloe instead of him didn't seem that strange. It felt like Chloe and I were flipping off the cruel universe... and if I was going to die, I wanted one kiss from my best friend.*
+|-|Kissed Warren# Kissed Warren*Considering how insane my life has been this week, kissing Warren in the middle of a deadly storm didn't seem to be that strange. It felt like we were flipping off the cruel universe... and if I was going to die, I wanted one kiss from a boy I cared about.*
+|-|Kissed BothKissed Both *Considering how insane my life has been this week, kissing Chloe, then Warren, didn't seem to be that strange. Both times it felt like we were flipping off the cruel universe... and if I was going to die, I wanted one kiss from two people I truly cared about.*
+|-|Kissed None Of Them# Kissed None Of Them *Considering how insane my life has been this week, kissing Chloe or Warren in the middle of all this time warping would be too strange. I can't even think about my love life... or lack of one. But if I was going to die, maybe I should have kissed one of them for posterity...*
+
+*The main thing was that I had Warren's photo and I would get one last chance to save Chloe. I felt queasy considering what a mess I've made, but there was no going back anymore.*
+
+*Warren rules. I was able to rewind to the End Of The World party with his photo and I felt like I was getting more confident with my time travel skills. It's always hard to deal with Chloe when only I have the benefit of knowing her future. But the one thing Chloe appreciates the most is honesty so I told her everything, from when she was paralyzed to the Dark Room to San Francisco. She didn't want to believe that David was so heroic, but she knows I wouldn't lie. And I could tell Chloe felt awful for what Jefferson did to me.*
+
+[File:Max_Diary_(72).png](thumb.md)
+
+*Chloe is back!I didn't even care that this was the real end of the world... It just felt so good to hold her again after everything we'd been through. I thought about all the timelines I'd jumped through for her, and how much she's always meant to me...Our lives have always been entwined.*
+
+Kissed ChloeKissed Chloe
+*How could this not be some kind of fate or destiny? Even though we're opposites in so many ways, we're also so alike. We'll always be pirates in spirit and we'll always want to take on the world... It sounds so stupid to say that she's my hero, but if not her, who else? Sometimes Chloe and I feel like yin and yang.
+Who knows? Maybe we're here to give each other strength... or more.''
+
+|-|Didn't Kiss Chloe# Didn't Kiss Chloe
+''How could this not be some kind of fate or destiny? Even though we're opposites in so many ways, we're also so alike. We'll always be pirates in spirit and we'll always want to take on the world...
+I like to think Chloe and I are here to always support each other.
+Best friends forever, right?*
+
+*There is nothing like the sense of relief after waking up from a vivid nightmare. Despite all the terrible things that have been happening this past week, I felt so free and hopeful when I finally woke up. And my nightmare was so obvious... all my fears about being an artist, about my rewind power, and, of course, about my partner in crime and time, Chloe Price.*
+
+*We've been through so much together and we might go through more, depending on how this all ends... either in Heaven or Hella... Sorry, I couldn't resist.*
+
+[File:Max_Diary_(73).png](thumb.md)
+
+Kissed ChloeKissed Chloe
+*Chloe is more than my best friend, but who knows how she really sees me? She did dare me to kiss her, but she seemed surprised that I actually did. I am too, but I don't regret it for a second. Maybe that's why I hated watching Chloe being so cruel in the nightmare, calling me names and flirting with all those people... I was surprised that it was like a physical pain in my heart. Is that the power of friendship... or love?
+I believe you're about to find out, Max Caulfield.''
+|-|Didn't Kiss Chloe# Didn't Kiss Chloe
+''Chloe will always be my best friend, but who knows how she really sees me? I know she wasn't mad I didn't kiss her... I feel like we're more family than couple... just a couple of dorky kids who grew up in a fucked up, amazing world...
+Maybe that's why I hated watching Chloe being so cruel in the nightmare, calling me names and trying to hurt me... I was surprised that it was like a physical pain in my heart. Is that the power of love... or friendship?
+I believe you're about to find out, Max Caulfield.''
+
+##  Inconsistencies 
+{{Main|Inconsistencies (Life is Strange)}}
+
+* On the [Max's Character Notes#Warren](character_note.md) for Warren in Max's diary, she mentions that he is "her age," but this contradicts his age on his student record, since they are aged two years apart. It is possible that Max didn't know Warren's age at the time she wrote that in her diary, since she had only recently arrived at Blackwell.
+* Despite the fact that Max mentions Nathan is **19** in her [Max's Character Notes#Nathan](character_note.md) about him, his school file states that he was born on August 29, 1995, making him **18** years old. This could be explained by Max being misinformed, as she did not know Nathan well and was perhaps unlikely to know his birthday.
+* Max's [Max's Character Notes#Kate](character_notes_for_kate_marsh.md) will change in this episode, depending on whether Max manages to save her life or not. A new decal will appear on the page to cover the 'LiFE' graphic that was visible in the previous two episodes. However, there is currently an inconsistency with how these new graphics appear, due to the files being misnamed in the Unreal Engine packages.(*TX_Character_E3_Kate_SF, TX_Character_E4_Kate_SF, and TX_Character_E5_Kate_SF*). The sticker graphic that implies Kate is alive has been labelled *Kate_scrapbook_dead*, and the sticker graphic that implies that Kate is dead has been labelled *Kate_scrapbook_alive*. If Kate dies, the sticker graphic that appears after this consequence implies she is still alive ("*Get Well Soon*"). If Kate lives, the sticker graphic that appears implies that she has died ("*Love is how you stay alive, even after you are gone*").DONTNOD were made aware of this inconsistency on 29th March 2017. It is unknown if a patch will be released that fixes this issue.
+* A drawing on page 11 of Max's diary shows Max executing her [rewind](rewind.md) gesture with her left hand raised, but she raises her right hand in the game. This sketch is inconsistent with gameplay but appears to have been based on early concept art that features as the box art for the game.
+* Max has drawn Chloe with a red hoop earring on page 17 of her diary even though Chloe has no earring in the game. On the next page, Max does refer to Chloe having piercings (plural), but there are no visible ones at this early point in the game. (We later see in Episode 3 that Chloe has a belly button piercing but still no ear piercings or earrings in general.) Even though Max's sketch could be put down to an idealized version of Chloe from Max's imagination, the sketch is a replication of early concept art. As for the journal entry about piercings, this could have been an early writing remnant that the concept art was based on, or vice versa.
+* On Page 22 of Max's diary, she writes about Chloe: "It's so strange where our lives have gone since the last time we hung out when we were **thirteen**." With their birth dates (Chloe - March 1994; Max - September 1995), there is no way that they would have been aged 13 at the same time. Chloe would have turned **14** six months before Max turned 13. A possible explanation for this could be that Max is simply generalizing their ages, using the age that she remembers herself being. Another example of when she does this is in Episode 4 when she sees the pirate CD in Chloe's room: *"Oh my God, I made that mix for her when we were twelve."*
+*On page 39 of Max's diary for October 9, 2013, an extract of a personal organizer for March 2014 can be seen (although the month and year is partially obscured and not something that is immediately obvious). A plausible explanation could simply be that Max had a calendar for the full 2013-2014 academic school year.
+
+##  Trivia 
+*Max's Diary contains a lot of foreshadowing messages, symbols, drawings and stickers, some funny, some mysterious, some cryptic, and some with obscure references. Some of Max's writings are also quite premonitory, ominous, curious, and downright bizarre.
+*Max, in a passage from her diary seems to predict the end decision, way before it's hinted to the players, (Episode 4); " ''I remember this famous episode of the original {{wiki|Star Trek}}, where Kirk has to go back in time and let the person he loves die, so the Nazis won't win the war...''[https://life-is-strange.fandom.com/wiki/Max%27s_Diary#cite_note-14 [13]] What kind of fucked up choice is that?".
+*The doe is a recurrent theme in Max's diary, it appears several times in drawings, stickers and in symbolic ways, including in the last page of said diary.
+*Max's Diary serves as an insight into Max's mind, revealing her feelings in detail, motivations, doubts, fears and even reasons behind some of her decisions.
+* On page 22 there is a sticker that reads, "Three Meters Above The Sky", which appears to be a reference to the 2004 Italian film inspired by the novel *Tre metri sopra il cielo* by Federico Moccia (literally "Three meters above the sky"). {{Wiki|Three Steps Over Heaven}}, (the English title for the film), is summarized as "A romantic drama for teenagers that tells the story of two youngsters belonging to opposite worlds. It's the chronicle of an improbable relationship that is practically impossible but just as inevitable. It will end up dragging the couple along for a voyage of discovery on which they will experience true love together for the first time. She is a well-to-do girl. He is a rebellious boy, addicted to risk and danger" During the film the boy becomes more tender, softer, the girl becomes harder, more rebellious." The descriptions of these two characters appear to match the characters of Max and Chloe rather well.
+*The phrase in page 32 of Max's diary; "And I was shittin' kittens", may be a reference to {{wiki|Lethal Weapon 4}}. Martin Riggs, the character played by Mel Gibson says the following; "That general's gonna be shittin' kittens when he sees the money is counterfeit."
+*The "Et in Arcadia ego" sticker from Max's journal may be a reference to the painting {{wiki|Et in Arcadia ego}}, a work by Nicolas Poussin a leading painter of the French Baroque style.
+*The sticker "Not all those who wander are lost" is reference to a phrase from a poem by J. R. R. Tolkien, "{{wiki|All that is gold does not glitter}}, that appears in his most famous work {{wiki|The Lord of the Rings}}. 
+*The "My hair is being pulled by the stars again" sticker may be a reference to a quote by {{wiki|Anaïs Nin}}.
+*The "With great powers comes great bullshit sticker" is a reference to the quote from the Spider-Man comics; "{{wiki|With great power comes great responsibility}}."
+
+##  Patches  
+* Prior to the release of Episode 2, the character notes for [Max's Character Notes#Victoria](victoria.md) and [Max's Character Notes#Jefferson](mr__jefferson.md) as well as page 9 of the main diary referred to the "Everyday Heroes" contest as "Everyday Hero" contest. 
+* Prior to the release of Episode 5 (before 1.0.0.371598), page 1 of Max's diary had read: "But who cares because I GOT INTO BLACKWELL ACADEMY, a unique and famous private school for seniors! NO KIDS ALLOWED!" It now only reads: "But who cares because I GOT INTO BLACKWELL ACADEMY!"
+
+##  Notes 
+
+ by {{Wiki|Ray Bradbury}}.*
+
+*I haven't read much by him (which caused Warren to almost revoke my geek cred before I held up my copy of {{Wiki|Battle Royale (novel)|Battle Royale}}) but he nails the autumn atmosphere of small towns. The last time I wore a Halloween costume was with Chloe... I have pictures in one of my old albums...*
+
+*I should find a real Halloween party to crash so I can experience some social mingling. It's that or a Vortex Club strokefest swimming party. Or is that backstrokefest? You so punny, Max.*
+
+*At least I'm trying to climb out of my cocoon. I shouldn't expect my life to completely change after a few weeks of Blackwell Academy. As my parents love telling me on a loop, "You have all the time in the world."*
+
+##  Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+
+###  Monday, October 7 
+[File:Max_Diary_(9).jpg](thumb.md)
+
+*This will be the weirdest journal entry I will ever make. So weird I don't know how or where to start. But it started with the most vivid dream of my life. I was lost in a storm by the lighthouse until I came to the edge of the cliff.*
+
+*Then I saw a giant tornado headed for Arcadia Bay. It was so real that I could feel the rain stinging my face. And I was scared shitless. Then a boat hit the lighthouse and I swear I actually felt like I was going to die.*
+
+*But I woke up in Mr. Jefferson's class and I wasn't even sleeping. I almost fell out of my chair. Jefferson called on me but I totally blew the answer. Of course Victoria pounced on me and made me look like a bigger idiot. She's so awful. Then I didn't have the guts to turn in a photo for the "Everyday Heroes"The contest was referred to as "Everyday Hero" instead of "Everyday Heroes" in some cases like here prior to patch [?]. contest while Victoria did her usual suck-up to Jefferson. He's so cool and he clearly wants me to succeed.*
+
+[File:Max_Diary_(10).jpg](thumb.md)
+
+*I felt so shitty. I just wanted to get to the bathroom to be alone and wash my face after that nightmare. Or daymare. Once I got to the bathroom I saw this odd beautiful blue butterfly flutter in and right when I took a photo of it in the corner, Nathan Prescott came in freaking out, talking to himself. I hid in the corner and this punk girl came in and they started arguing about drugs and money. Then Nathan actually whipped out a gun and SHOT the girl.*
+
+*This is where it gets strange.*
+
+*When Nathan fired the gun I came around the corner and reached out for some dumb reason, as if I could stop the bullet. But suddenly I could feel the world twisting around me and this pressure in my head, everything seemed to rewind and I found myself right back in class at my desk!*
+
+*I literally thought I had been dosed with some drug until I calmed myself down. I saw everything happen in class the way it did before. Major Groundhog Day-ja vue.*Reference to the popular movie - see
+* Somehow I was able to actually rewind time.*
+
+[File:Max_Diary_(11).jpg](thumb.md)
+
+*I knew the only way to find out if I was having a breakdown was to go back to the bathroom and see if I could save that girl from Nathan this time. I had no idea how either. I just knew I couldn't live with myself if I let her die again. I escaped Jefferson this time by knowing exactly how to answer his questions and rushed to the bathroom.*
+
+*I hid in the corner again and I couldn't believe it when Nathan showed up, freaking out all over again.*
+
+*Then the girl came into the bathroom, and before Nathan could shoot her, I smashed open the ancient fire alarm and scared both of them away. Victory!*
+
+*...Until I got grilled by the security chief, [David Madsen](david_madsen.md), who thinks he's Chuck Norris: Blackwell Ranger.*Reference to the Chuck Norris film, *{{Wiki|Walker, Texas Ranger}}*.
+* Nathan Prescott almost kills a girl in the bathroom but no, I'M THE PROBLEM. I was so glad when Principal Wells stepped in to shoo David away.*
+
+[File:Max_Diary_(12).jpg](thumb.md)
+
+Tell on NathanTell on Nathan*Then I made the possibly fatal decision to inform Principal Wells that I saw Nathan waving a gun in the bathroom. I didn't think I should mention the girl, or my new rewind abilities, for obvious reasons. He didn't want to believe me and almost made me feel like shit for telling him that Blackwell's most big fucking deal student would carry a firearm to class. I couldn't tell him that he actually killed a girl in a previous timeline...*
+
+|-|Hide the Truth# Hide the Truth*I wanted to inform Principal Wells that I saw Nathan waving a gun in the bathroom, but I didn't want to mention the girl, or my new rewind abilities, for obvious reasons. I wouldn't know how to tell him without making me look crazy. He grilled me for being out in the hall during a fire alarm. I'm still glad I didn't have to tell him that Blackwell's most big fucking deal student actually killed a girl in a previous timeline...*
+
+*So my school day started with an apocalyptic dream then ended with saving a life and discovering I have some kind of power to rewind time. I don't know how to top that.*
+
+[File:Max_Diary_(13).jpg](thumb.md)
+
+*Everything feels so surreal right now. I can't talk to anybody about this, well... The only person I could, I haven't seen in five years. I could confide in Warren, he's smart and knows science, so maybe he could even think of an explanation. Though I have no idea what that could be.*
+
+*Until I can figure this out, I better stay on the down low with this stuff and focus on my classes. Warren sent me a text asking for his flash drive back, even though I haven't had chance to check out all the cool shows and films on there.*
+
+*I watched a few episodes of {{Wiki|Doctor Who}} and ; binged on {{Wiki|Fullmetal Alchemist}}; then  (all kinds of Amazon women black and white badassery);  (a total cyberpunk trip with amazing visuals); and  (for about the millionth time).*
+
+[File:Max_Diary_(14).jpg](thumb.md)
+
+*On a side note, I saw a "Missing Persons" poster on campus for "[Rachel Amber](rachel_amber.md)" a pretty Blackwell student who vanished. It's so sad to see her smiling face and think about the awful things that could happen. If there was a way for me to rewind back six months, I totally would.*
+
+*I had to go back to the dorm to get Warren's flash drive and yes, Victoria and her Vortex Vixens blocked me from getting in, and even took my picture... It was so "high school movie" I can't believe she did it.*
+
+*She actually told me to "Go fuck your selfie" though, it was funny. I don't know why she has to act that way. She already has everything she wants, doesn't she? And she forced me to use my rewind until I finally came up with a way to get her out of my way. I don't want to use this power for trivial bullshit, especially if I have been given an actual "gift" from the universe, but it did give me a chance to test it out.*
+
+[File:Max_Diary_(15).png](thumb.md)
+
+Comfort VictoriaComfort Victoria*But I felt like shit seeing Victoria sitting there by herself on the steps covered in paint. She didn't look like the Queen Beeatch of Blackwell, just a lonely girl as confused as me. I knew I had to find out if she was okay. She was actually nice and apologized. She even deleted the picture she took of me off her phone. So maybe there's hope for the future.''
+
+|-|Take Victoria's Picture# Take Victoria's Picture
+''Still, I can't believe I took a picture of Victoria coated in paint for revenge. I must be feeling pretty brave. She vowed revenge, so I guess I've officially made my first enemy at Blackwell. *
+
+*More high school drama... [Juliet Watson](juliet.md) wouldn't let [Dana Ward](dana.md) out of her room because she thought [Zachary Riggins](zachary.md) was sexting Dana. So stupid. I was so tired from everything, and since Dana borrowed Warren's flash drive, I had to intervene.*
+
+*Juliet told me Victoria was the one who gave her the inside scoop on Zach and Dana, so I knew that Victoria was playing them all. I snuck into Victoria's room and onto her laptop and found out that she was indeed lying through her ass just to create drama. Of course, I felt like a weasel going through Victoria's room and laptop.*
+
+[File:Max_Diary_(16).png](thumb.md)
+
+Talk about the PregnancyTalk about the Pregnancy*Once I gave Juliet the proof that Victoria was behind this, I went to get Warren's flash drive from Dana. She was in a weird mood, so I had a look around to see if I could find out why. I found a home pregnancy test along with a note from Logan and a doctor's appointment. Dana admitted she was pregnant and I realized that all of my friends have troubles that are just as significant as mine. Sigh.''
+
+|-|Don't talk about the Pregnancy# Don't talk about the Pregnancy''Once I gave Juliet the proof that Victoria was behind it all, I went to get Warren's flash drive from Dana. She was in a weird mood, but we said nasty things about Victoria and I think it definitely made her feel better. We talked about Warren and Dana implied he likes me. Ew.*
+
+Warn AlyssaWarn Alyssa*I'm starting to get the hang of this whole rewind thing. I don't want to waste this power, but there has to be a reason it was given to me, so I better learn how to use it right. I started by saving Alyssa from getting a football fueled headshot. I admit it felt amazing just to help Alyssa with something as simple as that.''
+
+|-|Don't Warn Alyssa# Don't Warn Alyssa''I'm starting to get the hang of this whole rewind thing. I don't want to waste this power, but there has to be a reason it was given to me, so I better learn how to use it right. I could have used it for something as easy as warning Alyssa she was going to get a football fueled headshot. How selective should I be with this power?*
+InterveneIntervene*I also saw David Madsen hassling Kate Marsh. I couldn't hear everything, but he was accusing her of something. All that guy can do is point fingers! I got so pissed I went over to stop him from being such a bully. He's a security guard, not a stormtrooper. He was an asshole (as usual) but I felt good about what I did and Kate seemed truly happy that somebody stood up for her. And I did that without using my rewind power.*
+
+[File:Max_Diary_(17).png](thumb.md)
+
+|-|Take a Photo# Take a Photo*I also saw David Madsen hassling Kate Marsh. I couldn't hear everything, but he accused her of something. All that guy can do is point fingers and I got so pissed. He's a security guard not a stormtrooper. But like the chickenshit I can be, I didn't go over and stand up for her. I was scared. Sometimes I still feel like a little kid. And yes, Kate was not happy I didn't come over to stand by her. So I let her down and my rewind power was useless.*
+
+*This day keeps getting stranger. I don't even believe what I'm writing. And I can't even do a simple task like giving Warren back his flash drive without getting into a situation.*
+
+*In this case though, it turned out half bad and half good, which I guess is the yin and yang of life. When I met with Warren in the lot and checked out his new retro-wheels, guess who showed up? Nathan Prescott, freaking out all over again. He got all up in my face to accuse me of bullshit.*
+
+*Even though I was scared because I know what he did to that girl in the bathroom, I was more furious.*
+
+*Then the "girl in the bathroom" pulled up in a [Chloe's Truck](truck.md). My former best friend, Chloe Price.*
+
+*We both looked at each other like WTF? Next thing I knew, I was in her truck as Warren earned his man card and tried to get Nathan off my ass. I owe Warren big-time. Seeing Chloe for the first time in five years was such a shock I was almost paralyzed. Especially after realizing that Nathan had almost killed her right in front of me.*
+
+*Now Chloe shows up out of the blue to save me.*
+
+[File:Max_Diary_(18).png](thumb.md)
+
+*Of all the bizarro and unexplainable shit happening today, sitting in Chloe's battered truck, listening to music and staring at her dashboard bobblehead might be at the top.*
+
+*So I tried to process the fact that Chloe and I were two best friends who didn't know each other anymore. She had blue hair, piercings, and cool boots and I... I looked like a dork. I didn't know where to start and she wasn't exactly extending an olive branch.*
+
+*So we sat like strangers. At least I had time to catch my breath and realize that in the parking lot melee with Nathan and Warren, my camera got busted up. I didn't care considering everything else going on. But it sucked on top of everything else going on.*
+
+*Going back to Chloe's old house for the first time in five years was like the ultimate rewind. Some things were obviously different, but some things weren't. The house smelled exactly the same as it did when we were growing up.*
+
+*Chloe's room was like an exploded version of her new adult self, cool and chaotic. I could tell she was pissed. She wanted to blaze up and chill, so I explored her room to play catch up on what she was into these days.*
+
+[File:Max_Diary_(19).png](thumb.md)
+
+*Then I found a photo of Chloe with Rachel Amber. Chloe freaked and laid into me for not calling her once. I deserved it. She had become best friends with Rachel and they were going to bail on [Arcadia Bay](arcadia_bay.md) and head out to Los Angeles for fame and fortune. I could tell how much Chloe cared about Rachel since she was the one putting up the posters.*
+
+*I felt even shittier about leaving Chloe alone all those years when she most needed me. You suck, Max. But Chloe is obsessed with Rachel, the missing girl. She says Rachel vanished after meeting some amazing dude... probably some psycho online. Chloe wanted to smoke out and be alone so I went downstairs to find tools to fix my camera.*
+
+[File:Max_Diary_(20).png](thumb.md)
+
+*Snooping deeper, I hit the paranoia jackpot and found a whole mini-surveillance set-up of Chloe's house, with cameras in the halls and some rooms. Truly creepy shit. What kind of uber-paranoid puts cameras throughout his own home? Chloe's stepfather, I guess. I see why she's got serious attitude.*
+
+*When I got back upstairs, I couldn't fix the stupid camera. But Chloe saw the butterfly photo and knew I was in the bathroom and set off the alarm. Her attitude totally changed and she realized that I had saved her life.*
+
+*Even though it could have gone the other way... She was so happy like when we were kids and it was great to see her face light up. She even gave me her dad's awesome old instamatic as a symbol of our reunion. She cranked up the tunes and started dancing on her bed like a maniac. She even got me to shake my booty. Just a bit.*
+
+*That's when Chloe's stepfather showed up. And it was David Madsen.''
+
+[File:Max_Diary_(21).png](thumb.md)
+
+Don't HideDon't Hide''I couldn't hide and then David came in, angry about the music and that I was there. He was even scarier off campus because he didn't have the school around him. He accused Chloe of taking one of his guns.*
+{{#tag:tabber|Take the Blame# Take the Blame*Then shit got real. David found Chloe's joint and flipped out on us. I said it was my pot and David got in my face, but Chloe stepped in like a boss. David has it out for me now, but whatever. Chloe was so touched I was willing to take the blame.*
+
+*Chloe and I decided to get out of there and catch up on our exploring... like best friends.''
+{{!}}-{{!}}Don't take the BlameDon't take the Blame''Then shit got real. David found Chloe's joint and flipped out on us. She said it was mine, but I didn't take the blame. Maybe I should have. But I was thinking about my Blackwell scholarship over my best friend. And David truly scared me. Anyway, now Chloe was pissed at me all over again.*
+
+*Back to square one. I keep trying to make the right choices, but I keep screwing it up...*
+}}
+
+|-|Hide# Hide*I had to hide in the closet and then David came in, angry about the music. He was even scarier off campus because he didn't have the school around him. He accused Chloe of taking one of his guns.*
+{{#tag:tabber|Stay HiddenStay Hidden*Then shit got real. David found Chloe's joint and flipped out on her. She didn't back down and he actually slapped her. Bastard.*
+
+*I thought Chloe would be pissed I didn't step in to help, but she didn't think it would matter.*
+
+*We decided to get out of there and catch up on our exploring... like best friends.*
+{{!}}-{{!}}Intervene# Intervene*I had to hide in the closet and then David came in, angry about the music. He was even scarier off campus because he didn't have the school around him. He accused Chloe of taking one of his guns.*
+
+*Then shit got real. David found Chloe's joint and flipped out on her. I couldn't take it, considering she almost died that morning, and I stepped out and said it was my weed.*
+
+*David tried to threaten me but Chloe was awesome and threatened him. He backed out of there quick. Chloe was so touched I took the blame.
+Of course, she did steal one of David’s guns and waved it around like an idiot. Too much firepower for this girl to encounter in one day. Or one life. Fortunately, Chloe and I decided to get out of there and catch up on our exploring… like best friends.*
+}}
+
+[File:Max_Diary_(22).png](thumb.md)
+
+*So Chloe and I ended up at the lighthouse, watching the sunset. Chloe was mellow and told me more about David and his uber-paranoia at school and home. It all made sense.*
+
+*But I wanted to know why Chloe was in that bathroom with Nathan Prescott. She told me he deals drugs and she wanted to blackmail him to pay off some big loan. It's so strange where our lives have gone since the last time we hung out when we were thirteen.*
+
+*Then I had another nightmare. Or duskmare. I was right back at the lighthouse in a storm, except this time I was following a ghostly deer until I got to the edge of the cliff. I could see the tornado destroying everything in its path, and again I could feel the cold sting of the rain. The lighthouse was crumbling and I felt so helpless watching the tornado move towards the town.*
+
+*Then Chloe snapped me out of the dream and I told her what I saw. And as if to make the day end on another unusual note, snow started falling from the sky in the warm sunset. It felt so weird, ominous and beautiful all at once.*
+
+*Especially standing there with my best friend. And on that positive thought, I have officially earned a great night's sleep.*
+
+##  Episode Two - "[Episode 2: Out of Time](out_of_time.md) " 
+
+###  Tuesday, October 8 
+[File:Max_Diary_(23).png](thumb.md)
+
+*I woke up this morning a different person. Even if nobody knows yet. After yesterday's intense revelations with my rewind power and saving Chloe's life among the other cray cray (as Victoria might say say) events at Blackwell, I have to assume everything is different now. And I thought exposing my photos to the world was going to be hard.*
+
+*After Chloe dropped me off back at my dorm yesterday, I tried to find out more about that freak snowfall that happened when we were at the lighthouse, but the local meteorologists are stumped so far. I felt so jacked up that I pulled an all-nighter on time and physics research.*
+
+[File:Max_Diary_(24).png](thumb.md)
+
+*Not being Warren I ended up knowing less about my situation than when I started... I don't really think that my tornado vision and the snowfall are connected, but at this point I have no fucking clue what to believe. I'm just so glad Chloe and I are a team again. That has to be destiny.*
+
+*Now I have to hit the showers and get ready to meet Chloe for breakfast. Lord knows I need it.*
+
+*I ran into Kate in the showers and she asked for "The October Country" back. I love that book and definitely need to get my own copy. Of course when I was in the shower, Victoria and Taylor barged in and totally started ragging on poor Kate about the video. Just to be complete assholes they wrote the link on the mirror.*
+
+*I truly don't understand how they get off on acting like that. Victoria has EVERYTHING. What does she gain by being a bully to Kate Marsh? We're supposed to be adults here, but I swear it's like "Battle Royale" - just without the dystopia and exploding heads. Only Victoria could make me feel dirty in a shower.*
+
+[File:Max_Diary_(25).png](thumb.md)
+
+*The plot thickens. And I can't get out.*
+
+Hide the Truth and Make Fun of VictoriaHide the Truth and Make Fun of Victoria*So after listening to Victoria and Taylor rag on Kate about the video, I came back to my room to find it TRASHED. Or at least messier than it was before.*
+
+*Now I have to clean up just to find Kate's book... I bet Victoria did this because of that paint photo yesterday. I should've expected swift retribution. Another day, another drama..*
+
+|-|Tell on Nathan and Comfort/Make Fun of Victoria# Tell on Nathan and Comfort Victoria*So after listening to Victoria and Taylor rag on Kate about the video, I came back to my room to find this creepy photomontage. Only Nathan would be this disturbed.*
+
+*The thought that Nathan was in here actually setting up this weird gallery is way fucked up. I better start being more careful around here. I almost want a surveillance system now.*
+|-|Hide the Truth and Comfort VictoriaHide the Truth and Comfort Victoria*After being forced to listen to Victoria and Taylor rag on Kate about the video, I headed back to my room. I didn't really have any time to chill out, I had to get dressed and find Kate's book in my own mess, rushing all the while to not be late for Chloe.*
+
+*As if things here weren't dramatic enough, I got a creepy text from a private number. Nathan? Victoria? No clue. I really have to start watching my back.*
+
+*I still had to give Kate's book back, so I went to her room. I knew she wasn't doing good, but I didn't know how bad until I went in. All the lights were off, blinds closed, like some emo-goth den. And Kate is the opposite of emo or goth. She was just crying in the dark, and it was so sad to see her like this. More sad is that I wished I could take a picture of her framed in her expressionist misery.*
+
+[File:Max_Diary_(26).png](thumb.md)
+
+*Kate admitted that she thinks something more happened to her than just a video. Plus she told me that Nathan Prescott gave her a ride from the party to the ER... and she thinks he did something to her, but she doesn't remember what.*
+
+*It's hard not to believe Kate considering what kind of person she is and what kind of person Nathan is. I've seen for myself exactly what that fucker is capable of.*
+
+*Of course, Kate asked if she should go to the police and the principal...*
+
+Go to the Police# Go to the Police*I told Kate she should absolutely go to them. Other people could be in danger... But Kate also said she would use me as her backup, which kind of scares me because of this text threat. Should I be getting this involved when somebody is obviously stalking me or worse already? This is getting freakier than I can handle... Super Max... NOT!*
+
+|-|Gather EvidenceGather Evidence*I felt like absolute shit, but I told Kate she shouldn't go to anybody until she has more proof she was drugged. That video doesn't help her case at all and this could all backfire big time. She's going up against the whole Prescott empire, not just one rich white boy on dope. She wasn't too thrilled by my answer. I don't think she trusts me to be the one investigating all this... How can I blame her? I sometimes wonder what I am actually doing, besides getting myself in more trouble... Kate even booted me out of her room. Hello, "Everyday Hero"!*
+
+[File:Max_Diary_(27).png](thumb.md)
+
+*I ran into Warren-or rather, Warren was waiting to run into me. Naturally he wanted to know what the hell happened in the parking lot with "The Chloe and Nathan Show." Once again, I felt like a dick because I should have gotten ahold of Warren to see if he was okay after we just left him in the lot... I do owe Warren.*
+
+*I only told him a little about what was going on with Nathan. The less he knows, the better for him. I would love to at least tell him about my ability to fucking reverse time and space, but ironically I don't think it's the right time or space... Besides, he would want to marry me immediately, just so he could have his own human time machine. Or capture me for scientific experiments... Or make me go to the drive-in with him.*
+
+Agree to the movie# Agree to the movie*Oh wait... I did say I would go to the drive-in with him. Hope he doesn't make a lame move on me... (Not that he would, egomaniac.) Warren and I do have a lot in common, but he's like a supercool geek brother... Anyway, I definitely need a movie escape.*
+
+|-|Decline the movieDecline the movie*Oh wait. He did try and get me to go to the drive-in with him, and I refused. I'm not really in the mood this week, and I also don't want to lead him on...*
+
+[File:Max_Diary_(28).png](thumb.md)
+
+*Before catching the bus out to meet Chloe I saw Nathan talking to David, which made me nervous. Otherwise I had a nice soundtracked ride to the Two Whales Diner. Talk about going back in time... I haven't seen the diner in five years, but it looks exactly the same. Although now there are way less fishermen and way more dumped food carts than when we were kids. Chloe and I had the best backdrop to play pirate: old ships and a big ocean.*
+
+*Chloe was late (duh!) so I was happy to be distracted by seeing Joyce again. The diner is like a museum piece, except with customers. Better still, the food hasn't changed at all. Joyce seemed really glad to see me again and she didn't give me a guilt trip for not staying in touch. After William died, she wanted to move forward with a new life and husband. Chloe doesn't want to accept that.*
+
+Took the blame earlier# Took the blame earlier*Joyce naturally gave me shit for corrupting Chloe with my "devil weed", though I'm not sure she even believed it was mine. What could I say? I can see she actually loves David-even if I don't see how. The breakfast was so worth the grief though.''
+|-|Didn't take the blameDidn't take the blame''Joyce wasn't happy about Chloe getting busted with weed. I really should have stepped up and taken the hit instead of Chloe. I feel bad that Joyce has to defend David for laying the smackdown on his own stepdaughter. William was always so kind and gentle with us. Can't even imagine how Chloe would be if he hadn't died.*
+
+[File:Max_Diary_(29).png](thumb.md)
+
+*So much drama and I haven't even finished my breakfast!*
+
+*Finally Chloe showed up, more bubbly than I would have thought after almost getting killed in a bathroom yesterday. It makes me happy to see her smile. But that smile meant trouble, since all she really wanted was for me to show off my rewind power. So I did and I have to admit, I felt like a total boss. Except I did start feeling weak and woozy the more I rewound. I even got a nosebleed, which kinda freaked me out.*
+
+*Chloe always wants more, so she demanded we go to her top-secret lair...''
+
+Didn't answer Kate's call# Didn't answer Kate's call''Kate called, but I didn't answer because Chloe was giving me the stink eye. And to be honest, I don't like Kate being so needy toward me. Even though I keep acting like I'm her spiritual bodyguard. Man, I do suck. I'll make it up to Kate. At least Chloe is happy...''
+|-|Answered Kate's callAnswered Kate's call''She still had to get pissed off at me because I dared to answer Kate's call. I'm not a fan of Chloe's petulant side. She tried to make me feel like an ass, but screw that. Kate was so happy I answered I actually felt worse for her. Chloe has to know I can have two friends at once...*
+
+[File:Max_Diary_(30).png](thumb.md)
+
+*Just when I thought shit couldn't get crazier.*
+
+*Chloe took me to her secret lair: the city dump. Perfect for Halloween... like where the vehicle and appliance ghosts of Arcadia Bay come to rot and rust. Urban dystopia porn. But, instead of taking cool photos, Chloe had me do some silly kinda fun gun tricks.*
+
+*Until the guy Chloe owes money to showed up. Some skeevy guy called Frank. He demanded Chloe pay him back... or else. I was shocked that he wasn't the loan shark I had expected, but I could literally feel his bad vibe. I still can't see how my best friend ended up involved with a loser like Frank.*
+
+Tried to shoot Frank# Tried to shoot Frank*And I almost shot him.*
+*He pulled a knife on us and it felt like another one of my dreams. I don't even remember aiming the gun at him, but my finger just tapped against the trigger...Thank God there were no bullets left. I could have used my rewind, but the way my head was throbbing... who knows? I can't assume my power will always be available... I don't know anything about how this works-or how long-so I can't take anything for granted. I just know I'm never holding another gun.''
+|-|Didn't try to shoot FrankDidn't try to shoot Frank''Things got truly crazy when Frank took Chloe's gun (or should I say David's gun?) and now we have to worry about one more lunatic after Chloe...and maybe me...*
+
+*Chloe really flipped out when she saw that Frank was wearing one of Rachel Amber's bracelets. That means we definitely have another suspect...*
+
+*This is so not how I intended to spend my time back in Arcadia Bay.*
+
+[File:Max_Diary_(31).png](thumb.md)
+
+*After all that dramarama volume xxxiii, Chloe and I ended up taking a walk along the tracks deep in the woods. We both needed to hear nothing but the sounds of nature and wildlife... I was shaking inside from our encounter with Frank and though Chloe fronts tough, I could tell she was shaken too.*
+
+*She told me everything about Frank-which explains why she was trying to blackmail Nathan. It shocks me that the girl I grew up with watching "SpongeBob" ended up in such a scary orbit. Still, I felt safer with her at my side and I was glad we had a moment of peace.*
+
+*So it probably wasn't the best idea to lay down on the tracks and wax about life, etc.-as Chloe's leg got caught in the rail just as the goddamn train showed up. Of course I was off trying to take a photo for my portfolio... and then I had another quick flash of my tornado vision.*
+
+*I could see it, almost feel it, tearing the sky apart... My head felt like it was exploding, like in that 80's film "Scanners." Just as fast as the vision came in, it disappeared. I may be in denial about what this apocalyptic image means... or doesn't...*
+
+[File:Max_Diary_(32).png](thumb.md)
+
+*Then I heard Chloe SCREAMING for help. And I was shittin' kittens.*
+
+*Her foot was stuck in the damn rail and naturally the train was comin' round the mountain.*
+
+*I was pretty proud of myself for coming up with a drastic (if not destructive) solution to saving Chloe-ONCE AGAIN-but just in case this journal ever falls into the wrong hands, it's going to remain our BFF secret. So there.*
+
+*Our morning adventure over, Chloe dropped me off back at my campus. She was so sweet and said that this had been the best week of her life... despite everything.*
+
+*That made me feel so AWESOME! Chloe really sees us like we're taking over the world... but what if I hadn't had been able to use my rewind power to get her off of the tracks? Chloe might have to lower her expectations... and so will I.''
+
+[File:Max_Diary_(33).png](thumb.md)
+
+Didn't Take the Blame# Didn't Take the Blame
+''Speaking of expectations, David talked to me without being a total prick. I wanted to tear him a new one for hitting Chloe (thinking I could rewind if things got out of control) and he didn't seem sufficiently sorry to me. I know Chloe provokes him, but that's no fucking excuse to hit someone, especially a family member. I see that David is sorry and trying to reach out to me. I know he saw terrible things in combat. I just can't trust him and his paranoid surveillance fetish, especially with how weird he acts with Kate - like she's a criminal. I'll give David props for trying to smoke the peace pipe with me, but he acts like he's still at war.*
+|-|Took the BlameTook the Blame*Speaking of expectations, David Madsen stopped to talk to me without being a total prick. I thought he was going to bust me for taking the heat for Chloe's weed, but we just talked a little...and for the first time, I felt kind of sorry for David. He is a veteran...I know he probably saw awful things in combat. He said he doesn't want to fight with Chloe or me. But all the shit he's pulled and treating Kate like she's a suspect...just makes it hard to get along. But I promise to try. For world peace.*
+
+*Something odd happened - as if EVERYTHING happening isn't bizarro - but I saw Kate having an intense conversation with Mr. Jefferson and she ended up practically running away from him in tears. I wish I could have casually asked, "Oh by the way, what's up with Kate?" (Like he would tell me anyway.) I know Kate treats Jefferson like he's an apostle or something... So what did he say to make her so upset?*
+
+*Just when I was feeling good about Chloe and me, I walk into Jefferson's class and see Nathan and Victoria actually sitting on my desk. Unreal... Asshole bookends.*
+
+[File:Max_Diary_(34).png](thumb.md)
+
+Saved Kate# Saved Kate*Kate Marsh almost killed herself.*
+
+*My hands are still shaking, but I have to write this down while I can. Right at the start of Jefferson's class, Kate went to the roof of the girls' dorm to jump. Every student and teacher was watching her, like it was a Blackwell rooftop concert.*
+
+*I saw her actually jump, but I was just about able to use my rewind to get her back on the roof. I tried harder than I ever did and somehow I stopped time completely... I made it to the roof, but again my head felt like it was going to blow up... I knew that I couldn't just keep rewinding to save Kate. I had to try and talk her down on my own.*
+
+*She was already in so much pain over the video and all the bullying, so she wasn't going to buy everything I tried to tell her. You see movies with people trying to talk somebody out of suicide, but it's very different when I'm the one doing the talking. I covered everything I could and Kate almost jumped anyway. Cliché or not, I told her how much her friends and family love her, even if they don't all show it now.*
+
+*Lo and behold, Kate stepped back from the ledge. Alive. I almost cried in her arms.*
+
+[File:Max_Diary_(35).png](thumb.md)
+
+*I know this isn't about me - though I have to admit it was an amazing feeling to walk arm in arm with Kate from the roof to outside the dorm. Like I said, the whole school - and police - were watching us almost completely silent. Then I heard what sounded like Logan yelling out, "Give it up for Max!" and everybody started to clap and cheer. Talk about surreal... the people who ignored me or treated me like crap suddenly crushing on me. That might be the strangest thing that's happened to me this insane week...*
+
+*And that made me wonder if Victoria was watching and how she felt about all this. I almost wanted to find her... just to get in her smug face for enabling Kate's suicide attempt. Such cruel bullshit. Though, to be fair, Victoria wasn't the only one that was responsible... Nathan Prescott seemed to have disappeared... Which was probably a good thing.*
+
+*And after all that I still had to talk to the police and give a statement. Felt so weird to do since I've seen it in pretty much every police procedural show. I had to lie my ass off when he questioned me about the other students, because I just don't think the police are ever going to find out what happened. Yes, this looks like a job for SUPER MAX. Right. Though of course, I do love it when Chloe calls me that, even if I don't feel that everyday heroic for helping Kate down... Maybe it's wrong for me to think I have to feel anything but grateful that Kate didn't jump...*
+
+[File:Max_Diary_(36).png](thumb.md)
+
+*What was really odd was when all the students and faculty staff surrounded me and Kate, then started patting our backs and shoulders...like we were heroes.*
+
+*I wasn't sure how to respond, considering Kate almost threw herself off the roof because of everybody at school. But like I said, I can't blame everybody... and I still don't really know where to point all my fingers...*
+
+*The very best thing was that even though Kate was still in tears and confused... I definitely saw her smile once she realized how happy everybody was that she was alive. I smiled too. The police and paramedics swooped in and then Kate was covered in a blanket and gently escorted to the ambulance. They didn't thank me or look at me like I was a hero. I guess they're used to saving people without applause...*
+
+*But if I'm super honest... it felt pretty cool. Like I got a hug from the whole school. So, maybe Blackwell Academy isn't totally bad...''
+
+|-|Didn't save KateDidn't save Kate*Kate Marsh killed herself.*
+
+''My hands are still shaking, but I have to write this down while I can. Right at the start of Jefferson's class, Kate went to the roof of the girls' dorm to jump. Every student and teacher was watching her, like it was a Blackwell rooftop concert.*
+
+*I saw her actually jump, but I was just about able to use my rewind to get her back on the roof. I tried harder than I ever did and somehow I stopped time completely... I made it to the roof, but again my head felt like it was going to blow up... I knew that I couldn't just keep rewinding to save Kate. I had to try and talk her down on my own.*
+
+*I failed...*
+
+*She was already in so much pain over the video and all the bullying, so she wasn't going to buy everything I tried to tell her. You see movies with people trying to talk somebody out of suicide but it's very different when I'm the one doing the talking. Because she didn't believe me... or maybe she just didn't want to.*
+
+*I... I tried. Kate still died.*
+
+*It was like that cliché about everything moving in slow motion, except in my case it was real time, not rewind time. I could see Kate's face right as she jumped and I'll never forget that look in her eyes... like she didn't want to, but had no choice...*
+
+*It was a look of total defeat and despair... Then I could see her body flailing in space, like she became aware of what she was doing and got more scared...*
+
+*Jesus. I can't believe I'm writing these words.*
+
+*After she jumped, it was so weird that I was alone on the roof. Kate was there, then gone. I could hear the crowd screaming below and there was no way I was going to look at her body on the ground.*
+
+*I felt so numb, I just casually turned and went back down the stairs. My head was pounding and my body was exhausted from the rewind. I felt exactly like a zombie must feel: dead inside.*
+
+*When I stepped out of the dorm, I saw Kate splayed on the ground... She was surrounded by paramedics, while the police kept the students back...*
+
+*I hope they all got a good look at their victim. They wanted to watch her on a viral video when she was alive and now they wanted to gawk at her in death... Not that I did anything to help her stay alive.*
+
+*All my amazing new superpowers were worthless.*
+
+*I'm nobody's hero.*
+
+[File:Max_Diary_(37).png](thumb.md)
+
+Saved Kate# Saved Kate
+{{#tag:tabber|(Nathan was suspended)(Nathan was suspended)
+*It's not enough that Kate is alive, and though I'm not enough of an egomaniac to take the credit, I still had to get the Blackwell third-degree from Principal Wells. It was bizarre to be in his tacky office with Nathan Prescott, David Madsen and Mr. Jefferson calmly talking about why Kate would attempt suicide. I was quiet but giddy inside, just replaying in my head the moment when Kate stepped toward me with a glimmer of hope in her eyes... Part of me wanted to smash Nathan's smug face against the desk, knowing he had a lot to do with Kate's suicide attempt. I thought about doing it, then flipping a quick rewind, but I knew that would be the start of a bad, dangerous habit.*
+
+*Fortunately, Principal Wells amazingly did the right thing and BOOTED Nathan for a few days, after I told him what happened in the bathroom. He must have more shit on Nathan, because otherwise I doubt this would happen to a Prescott. That's some small justice for Kate. There'll be more, if it's the last thing I do. Which it could be if I'm not careful...''
+
+{{!}}-{{!}}(Max was suspended) Didn't report, blamed Nathan# (Max was suspended) Didn't report, blamed Nathan
+''It's not enough that Kate is alive, and though I'm not enough of an egomaniac to take the credit, I still had to get the Blackwell third-degree from Principal Wells. It was bizarre to be in his tacky office with Nathan Prescott, David Madsen and Mr. Jefferson calmly talking about why Kate would attempt suicide. I was quiet but giddy inside, just replaying in my head the moment when Kate stepped toward me with a glimmer of hope in her eyes... Part of me wanted to smash Nathan's smug face against the desk, knowing he had a lot to do with Kate's suicide attempt. I thought about doing it, then flipping a quick rewind, but I knew that would be the start of a bad, dangerous habit.*
+
+*I should have known that David would narc on me to the Principal about my "joint." Like anybody cares about weed, but David made me sound like a drooling fiend. So instead of Nathan getting the boot, I get suspended. Such BULLSHIT.*
+
+{{!}}-{{!}}(David on leave)(David on leave)
+*It's not enough that Kate is alive, and though I'm not enough of an egomaniac to take the credit, I still had to get the Blackwell third-degree from Principal Wells. It was bizarre to be in his tacky office with Nathan Prescott, David Madsen and Mr. Jefferson calmly talking about why Kate would attempt suicide. I was quiet but giddy inside, just replaying in my head the moment when Kate stepped toward me with a glimmer of hope in her eyes... Until I told Principal Wells that I saw David harassing Kate and that set David off. Part of me wanted to kick him in the balls knowing he had something to do with Kate's suicide attempt, maybe more. I thought about doing it, then flipping a quick rewind, but I knew that would be the start of a bad, dangerous habit.*
+
+*I took silent satisfaction in watching the Principal strip him of his Blackwell duties for the time being. I wasn't even thinking how this would affect Chloe's home situation...*
+
+*But for now, David is going to be a veteran of Blackwell. At least he survived. Like Kate.*
+
+{{!}}-{{!}}(Max was suspended) Took blame, intervened, blamed David# (Max was suspended) Took blame, intervened, blamed David
+*It's not enough that Kate is alive, and though I'm not enough of an egomaniac to take the credit, I still had to get the Blackwell third-degree from Principal Wells. It was bizarre to be in his tacky office with Nathan Prescott, David Madsen and Mr. Jefferson calmly talking about why Kate would attempt suicide. I was quiet but giddy inside, just replaying in my head the moment when Kate stepped toward me with a glimmer of hope in her eyes... And then I told the Principal about David harassing Kate, which sent David into a rage. I should have known that he would go on and accuse me of dealing weed. Yes, who wouldn't believe I carry oz's on me for the schoolkids? I couldn't believe that the Principal would take him at his word, but he sure did.*
+
+*So naturally I GOT SUSPENDED. That's what I get for standing up for Chloe.*
+
+*Whatever. Poor Kate Marsh is in psychiatric ward and the school has to purge itself by making sure Maxine Caulfield misses art and science class. What a lesson. My parents will be so proud and happy they sent me here. If this is how the adult world functions, maybe I don't belong. Even my so-called "power" doesn't mean shit anymore.*
+
+*I already see how the world treated Kate. And I'm starting to see why Rachel Amber wanted to get the hell out of here now. What's keeping me here?''
+
+{{!}}-{{!}}(Jefferson can't represent in contest)(Jefferson can't represent in contest)
+''It's not enough that Kate is alive, and though I'm not enough of an egomaniac to take the credit, I still had to get the Blackwell third-degree from Principal Wells. It was bizarre to be in his tacky office with Nathan Prescott, David Madsen, and Mr. Jefferson calmly talking about why Kate would attempt suicide. I was quiet but giddy inside, just replaying in my head the moment when Kate stepped toward me with a glimmer of hope in her eyes... Still, I ended up telling the Principal that I saw Kate crying after she talked with Mr. Jefferson. I wasn't trying to blame him, I just thought it was important information.*
+
+*Maybe I fucked up, narcing on the one person I respect the most at Blackwell... I could see Mr. Jefferson was disappointed in me too. The Principal was more upset, because he pulled Jefferson out from representing the school at the "Everyday Heroes" contest. I didn't expect that at all. I'm so confused right now... How can I keep going to Mr. Jefferson's class after I ruined his reputation?*
+
+*And do I still have to give him a photo for the contest?*
+
+{{!}}-{{!}}(Nobody suspended)# (Nobody suspended)
+*It's not enough that Kate is alive, and though I'm not enough of an egomaniac to take the credit, I still had to get the Blackwell third-degree from Principal Wells. It was bizarre to be in his tacky office with Nathan Prescott, David Madsen and Mr. Jefferson calmly talking about why Kate would attempt suicide. I was quiet but giddy inside, just rewinding in my head the moment when Kate stepped towards me with hope in her eyes, not fear.... Until I told Principal Wells that I saw David harassing Kate. That set David off and part of me wanted to kick him in the balls knowing he had something to do with Kate's suicide, maybe more. I thought about doing it, then flipping a quick rewind, but I knew that would be the start of a bad, dangerous habit.*
+
+*Naturally, the Principal didn't believe me (or didn't want to), which means that David Dickhead is going to be allowed to harass other students at Blackwell until they try to jump off the roof.*
+
+*So Kate Marsh is in the hospital and it's business as usual here. What am I going to do now?''
+}}
+|-|Didn't Save KateDidn't Save Kate
+{{#tag:tabber|(Nathan was suspended)# (Nathan was suspended)
+''It's not enough that Kate is dead and I'm numb inside, I had to get the Blackwell third-degree from Principal Wells. It was bizarre to be in his tacky office with Nathan Prescott, David Madsen and Mr. Jefferson calmly talking about why Kate jumped off the roof. Part of me wanted to smash Nathan's smug face against the desk, knowing he had something to do with Kate's suicide. I thought about doing it, then flipping a quick rewind, but I knew that would be the start of a bad, dangerous habit.*
+
+*Fortunately, Principal Wells amazingly did the right thing and BOOTED Nathan for a few days, after I told him what happened in the bathroom. He must have more shit on Nathan, because otherwise I doubt this would happen to a Prescott. That's some small justice for Kate. There'll be more, if it's the last thing I do. Which it could be if I'm not careful...''
+
+{{!}}-{{!}}(Max was suspended) Didn't report, blamed Nathan(Max was suspended) Didn't report, blamed Nathan
+''It's not enough that Kate is dead and I'm numb inside, I had to get the Blackwell third-degree from Principal Wells. It was bizarre to be in his tacky office with Nathan Prescott, David Madsen and Mr. Jefferson calmly talking about why Kate jumped off the roof. Part of me wanted to smash Nathan's smug face against the desk, knowing he had something to do with Kate's suicide. I thought about doing it, then flipping a quick rewind, but I knew that would be the start of a bad, dangerous habit.*
+
+*I should have known that David would narc on me to the Principal about my "joint." Like anybody cares about weed, but David made me sound like a drooling fiend. So instead of Nathan getting the boot, I get suspended. Such BULLSHIT.*
+
+{{!}}-{{!}}(David on leave)# (David on leave)
+*It's not enough that Kate is dead and I'm numb inside, I had to get the Blackwell third-degree from Principal Wells. It was bizarre to be in his tacky office with Nathan Prescott, David Madsen and Mr. Jefferson calmly talking about why Kate jumped off the roof. Of course, I was in a quiet rage. Until I told Principal Wells that I saw David harassing Kate. That set David off and part of me wanted to kick him in the balls knowing he had something to do with Kate's suicide, maybe more. I thought about doing it, then flipping a quick rewind, but I knew that would be the start of a bad, dangerous habit."*
+
+*I took silent satisfaction in watching the Principal strip him of his Blackwell duties for the time being. I wasn't even thinking how this would affect Chloe's home situation...*
+
+*But for now, David is going to be a veteran of Blackwell. At least he survived. Unlike Kate.*
+
+{{!}}-{{!}}(Max was suspended) Took blame, intervened, blamed David(Max was suspended) Took blame, intervened, blamed David
+*It's not enough that Kate is dead and I'm numb inside, I had to get the Blackwell third-degree from Principal Wells. It was bizarre to be in his tacky office with Nathan Prescott, David Madsen and Mr. Jefferson calmly talking about why Kate jumped off the roof. I was like a robot, just going through the motions. I kept seeing Kate's face as she fell... And then I told the Principal about David harassing Kate, which sent him into a rage. I should have known that David would actually accuse me of dealing weed. Yes, who wouldn't believe I carry oz's on me for the schoolkids? I couldn't believe that the Principal would take him at his word, but he sure did.*
+
+*So naturally I GOT SUSPENDED. That's what I get for standing up for Chloe.*
+
+*Whatever. Poor Kate Marsh is part of Blackwell's concrete and the school has to purge itself by making sure Maxine Caulfield misses art and science class. What a lesson. My parents will be so proud and happy they sent me here. If this is how the adult world functions, maybe I don't belong. Even my so-called "power" doesn't mean shit anymore.*
+
+*I already see how the world treated Kate. And I'm starting to see why Rachel Amber wanted to get the hell out of here now. What's keeping me here?''
+
+{{!}}-{{!}}(Jefferson can't represent in contest)# (Jefferson can't represent in contest)
+''It's not enough that Kate is dead and I'm numb inside, I had to get the Blackwell third-degree from Principal Wells. It was bizarre to be in his tacky office with Nathan Prescott, David Madsen and Mr. Jefferson calmly talking about why Kate jumped off the roof. I was like a robot, just going through the motions. I kept seeing Kate's face as she fell... Somehow I ended up telling the Principal that I had seen Kate crying after she talked with Mr. Jefferson... I wasn't trying to blame him, I just thought it was important information.*
+
+*Maybe I fucked up, narcing on the one person I respect the most at Blackwell... I could see Mr. Jefferson was disappointed in me too. Obviously the Principal was more upset, because he pulled Jefferson out from representing the school at the "Everyday Heroes" contest. I didn't expect that at all. I'm so confused right now... How can I keep going to Mr. Jefferson's class after I ruined his reputation?*
+
+*And do I still have to give him a photo for the contest?*
+
+{{!}}-{{!}}(Nobody suspended)(Nobody suspended)
+*It's not enough that Kate is dead and I'm numb inside, I had to get the Blackwell third-degree from Principal Wells. It was bizarre to be in his tacky office with Nathan Prescott, David Madsen and Mr. Jefferson calmly talking about why Kate jumped off the roof. Of course, I was in a quiet rage. Until I told Principal Wells that I saw David harassing Kate. That set David off and part of me wanted to kick him in the balls knowing he had something to do with Kate's suicide, maybe more. I thought about doing it, then flipping a quick rewind, but I knew that would be the start of a bad, dangerous habit.*
+
+*Naturally, the Principal didn't believe me (or didn't want to), which means that David Dickhead is going to be allowed to harass other students at Blackwell until they jump off the roof*
+
+*So Kate Marsh is dead and it's business as usual here. I hate this fucking school right now.*
+}}
+
+[File:Max_Diary_(38).png](thumb.md)
+
+Saved Kate# Saved Kate*After being grilled in the principal's den, I hung out with Warren on the lawn so I could feel grass under my feet and watch the fluffy clouds. He's such a sweetheart, he kept telling me how proud he was that I stopped Kate from jumping. I don't believe that I did, but I have to say it's better to be treated like a hero at school than like a twee loser.*
+
+*Still, I told Warren that something ominous is happening at Blackwell Academy. Rachel Amber, Chloe and now Kate have all been victims. Not to mention me, if I keep playing amateur detective. Wish I could have let Warren know about my power, but it's not the right time... as if anything is the right time anymore.''
+
+|-|Didn't save KateDidn't save Kate''I need a vacation from my life. I hung out with Warren on the lawn so I could feel grass under my feet and watch the fluffy clouds. He's such a sweetheart, he kept telling me I did everything I could for Kate. Even though I know I didn't...*
+
+*I told Warren that something ominous is happening at Blackwell Academy. Rachel Amber, Chloe and now Kate have all been victims. Not to mention me, if I keep playing amateur detective. Wish I could have told Warren about my power, but it's not the right time... No pun intended.*
+
+*And to make the day end on the most surreal note possible, the sky went dark and we watched a solar eclipse that was not announced on the news or any astronomy site.*
+
+*What is happening to Arcadia Bay?*
+
+##  Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+
+###  Wednesday, October 9 
+[File:Max_Diary_(39).png](thumb.md)
+
+*"Dear Diary... I have the power to rewind time and I ended up on a rooftop trying to stop my friend from jumping off while trying to prevent the possible destruction of my hometown... I fell asleep at my desk and woke up reaching out to rewind... or grab Kate..."*
+
+*I remember when my journal entries were about which anime character I wanted to be. Or my dreams of being a respected globe-hopping photographer. Or what me and Chloe would be doing when we were finally adults... at least we know how that turned out so far.*
+
+*Chloe is determined to get to the bottom of what's going on. So I've been playing "What Would Chloe Do?"—which means blowing off my Blackwell homework to research everything I can find on Kate Marsh, Rachel Amber, and the esteemed Prescotts. It would be too easy peasy if they were all connected but at this point,*
+
+[File:Max_Diary_(40).png](thumb.md)
+
+*I think the whole town of Arcadia Bay is connected to this crazy shit. I can already see the story on the National Geographic Channel: "Mystic, Scientific, or Apocalyptic? The Arcadia Bay Tornado."*
+
+Saved Kate# Saved Kate*Shudder.
+Speaking of fear, I still think about Kate and the sadness in her eyes on that roof. I'm so grateful she's alive. I love seeing the students at Blackwell show their support for her with gifts and flowers. Finally.''
+|-|Didn't save KateDidn't save Kate''Shudder.
+Speaking of fear, I can still see Kate and her sad, hopeless eyes on that roof... I can't believe she's not here anymore... I heard some students are organizing a petition for Blackwell to set up a scholarship in her memory. That's the least this place could do for her...*
+
+Got Mr. Jefferson suspended# Got Mr. Jefferson suspended*So that's cool that I got Mr. Jefferson in trouble and he won't be representing Blackwell at the "Everyday Heroes" contest. I don't blame him for what happened to Kate... Yes, he should have listened to her. But it's not fair he can't attend the event. Now the winner has to hang out with Principal Wells—I hope Victoria wins. But one of my heroes probably hates me. Yay Max.*
+|-|David on temporary leaveDavid on temporary leave*I almost felt bad when I didn't see David on campus harassing students. But he brought this on himself. I don't know what he's up to or how he's involved, but there's no way he's just playing private detective. Then I think about Joyce—how I've just helped her new husband lose his job. It has to make him treat Chloe better, right?*
+|-|Max got suspended# Max got suspended*Even though it's total bullshit that I got suspended, I'm actually happy to have the time—no pun intended this time. Okay, puns intended. Stop me. But I can at least plan the next steps with Chloe in our investigation. I'm so glad she's here to help me with this. Though she needs to step outside herself a little bit more and see what's going on here. It's not all about her.*
+|-|Nathan got suspendedNathan got suspended*At least I feel better now that Nathan is suspended. It's good he's off campus for a few days... I hope. And like I give a shit if the Prescott family sends a team of lawyers after me. Please. I doubt they would like all the publicity. I doubt their tentacles reach into the rest of Oregon... not yet, anyway.*
+|-|Nobody got suspended# Nobody got suspended*"My homework is seriously piling up. It's hard to focus on tests or essays while my friends suffer, nature shits, and we track down Rachel Amber. Along with my ability to rewind time and visions of an apocalyptic storm, how can I think about giving Mr. Jefferson a photo for the contest with all this shit going on? But I should, if only to keep myself grounded...'
+
+*Leave it to Chloe to make me sneak out past curfew and demand I meet her in front of the main building in the dead of the night. I knew Chloe would be all over investigating the campus after what happened to Kate here... This just makes Chloe more desperate to find out what happened to Rachel... if anything.*
+
+[File:Max_Diary_(41).png](thumb.md)
+
+''It's funny that even though I think I can just rewind myself out of trouble, I'm in more trouble now than ever before in my life. If this was a Twilight Zone Story- I'd be getting set up for some serious irony. Like I'm going to rewind myself out of existence or something...*
+
+*Can I honestly say I'll have this ability for the rest of my life? Are the tornado, the snow, and that eclipse just hallucinations or are they genuine prophecy? More importantly, is this a curse or blessing? Chloe is alive and by my side and that has to be a miracle... which means there must be a way to stop my vision from coming true... Right?*
+
+*So, yes, I broke curfew to hook up with Chloe. She said she had something to show me... Looks like it's time for some serious detective work.*
+
+*Enter The Blackwell Ninjas!*
+
+Saved KateSaved Kate *As I stealthily made my way out of the hall, I passed by Kate's door and saw all the nice messages from other students. Too bad most of Blackwell didn't care when they passed around the video and bullied her to that roof. Everybody always cares when it's too late...At least Kate will see that people are on her side... finally. I hope I can visit her when all this blows over... Maybe that's not a good choice of words.''
+|-|Didn't save Kate # Didn't save Kate  ''As I stealthily made my way out of the hall, I saw a shrine in front of Kate's door. I was surprised when it just popped up right after she died. Like everybody at Blackwell suddenly felt guilty for how she was treated. I am glad that so many people wanted to honor her. The cynical side of me says, "Too little, way too fucking late." But I know that Kate would smile and forgive us all. Sigh. Cry.* 
+
+[File:Max_Diary_(42).png](thumb.md)
+
+*Day-um, that was too close. I was doing so well until I got outside and of course, it was Principal Wells of all people blocking the way. The one person I least wanted to see. I wasn't ninja enough for him so yeah, he busted me. But, I finally got to see that the gossip was true for a change. *
+
+*Principal Wells was shitfaced. He didn't even try to hide it. In fact, he was lot cooler drunk than sober. I can see why he's so confused, dealing with Kate's family, and the Prescotts, and David Madsen. He still acts suspicious and gives me way too much "tude" as he would say (nobody says that seriously!), but I can see that he's under a lot of pressure. So much that he's so wasted he can't even use his keys at midnight. *
+
+*Sure he was in my way, but he was no match for my rewind power. After all, I had to go and meet Chloe... Bad Max.*
+
+*Even though I thought I was in "full ninja mode", Chloe still scared the shit out of me, which pissed me off considering what I've been going through. Sometimes she's so damn insensitive to other people's feelings.*
+
+*She wants all my attention for her and finding Rachel and she gets all butthurt if I don't have time for her. Obviously I have time in hand. But I can't stay mad at her for long and she was so damn excited about having the keys to the main building. And honestly? I was pretty amped up too.*
+
+[File:Max_Diary_(43).png](thumb.md)
+
+*Even more so when we went to the front of the building and spied on Victoria talking smack about me (shocked!) and worse, actually trying to blackmail Mr. Jefferson to pick her photo for the "Everyday Heroes" contest. She is freaking unreal...*
+
+*I give Mr. Jefferson major respect for telling her to get lost, even though she deserved to be expelled for pulling that crap. This is her priority after what happened with Kate? I just don't understand Victoria, no matter how I try. She's already rich, pretty, and a good photographer. Why try so hard and hurt so many to manipulate everything already in your favor?*
+
+*I just hope that's not what I'm doing with my rewind power...*
+
+*Yes, there's something incredibly AWESOME about breaking into your own school at the witching hour. Although Chloe was technically right: how can we break in with a key? Never mind that it was a stolen key from the school's head of security...*
+
+*Anyway. The Blackwell Ninjas strike again!*
+
+[File:Max_Diary_(44).png](thumb.md)
+
+*So cool to stalk the halls when it's dark and quiet. Even with so many terrible things happening all around us, it felt like Chloe and I were walking towards the center of a great cosmic mystery, something bigger than any of us...*
+
+*But we kinda suck as master spies since we didn't have a key for the Principal's office. No worries with my rewind power at hand. And of course Doctor Warren Graham. He came through with a bitchin' mini-bomb made of sodium whatthefuckever. I probably learned more putting those ingredients together than the entire semester so far. Sorry, Ms. Grant, Warren is the star student here. He tries so hard to help... maybe too much, but what's wrong with that these days? I'm so grateful he's on my team.*
+
+*Talk about being in the sancto sanctorum (thanks Latin class I barely passed!) of Blackwell... I did feel freaking weird about being in the Principal's office after midnight, going through his files and laptop with Chloe. She was waaaay too into it. Technically, we could be arrested and thrown in jail. Yikes. I just pretended that we were on a very special episode of "The Wizards of Waverly Place,"*-* you know, just a couple of "wacky Sherlocks" investigating the school for a good cause... Yeah, that helped.*
+
+[File:Max_Diary_(45).png](thumb.md)
+
+*While we didn't find The Proof, we found Nathan's file had a weird drawing in it that just said, "Rachel in the dark room" over and over. So that's a major clue that Nathan is involved in this somehow. Or he's just insane. But his note also referenced "David M." which means that we absolutely have to find a way into David's secret bunker files. For a good cause.''
+
+Didn't Take the MoneyDidn't Take the Money''But Chloe just can't help herself and she actually wanted to take five grand in cash marked "handicapped fund" ('cause that's gotta be legit, amirite?)—I can't think of a faster route to karma hell, but it would have paid off Chloe's debt to Frank... I stopped her, but it kind of bothers me that Chloe can be so selfish like that. I'm not going to let anything happen to her, but I can't just let her do anything she wants... "Mad Max"? More like Mommy Max...* |-|Took the Money# Took the Money*But Chloe just can't help herself and she actually took five grand in cash marked "handicapped fund" ('cause that's gotta be legit, amirite?) - I can't think of a faster route to karma hell, but it would clear Chloe's debt to Frank... I'll find a way to make it up to the fund... after all, saving a life is priority. As is my habit with Chloe. No matter what, our fates seem bound together, for better or worse.
+
+Usually worse.*
+
+*Despite all the "usual" breaking in and blowing up office hijinks, Chloe decided what we needed more than anything was to take a night swim in the Otter's lair. I was so giddy and rebellious that I was like, oh yes, WE SHALL SWIM. We didn't completely skinny-dip but close enough to get in big trouble no matter what. I don't know why we were so careless after being so careful...*
+
+[File:Max_Diary_(46).png](thumb.md)
+
+*I love that Chloe brings out the "just don't give a fuck" side of me. Even if that hasn't always served her well. She deserved a moment of not giving a shit. Me too. Just two friends goofing around in the pool. I fear those youthful shenanigans might soon be a thing of our past... God, I'm starting to sound like one of the teachers at Blackwell...*
+
+*Chloe and I had a nice chat about our lives since I left... We talked about dumb boys and girls and why they're trouble... especially for me. I feel like a groupie when I talk to Chloe about our life experience... she has me so beat. I take pictures, she takes action.*
+
+*Speaking of action, we had to seriously bounce when security showed up. Duh. How quiet could we be in the swimming pool? Plus after leaving a trail of our Blackwell handiwork...*
+
+*It was so intense and exciting to get past the security guards. They had serious spotlight power so it wasn't exactly easy to stealth our way past, especially as we had to bail in Chloe's junker... but like I said, intense and exciting. Hella like Chloe Price.*
+
+[File:Max_Diary_(47).png](thumb.md)
+
+*Even though my body smelled like I had been doused in chlorine, it was so nice to crashin Chloe's room for the first time in five years and wake up next to her like our old sleepovers... For some reason, it reminded me of the time we were going to TP one of the neighbor's houses and we even snuck out but got chicken and ran back home, laughing all the way...*
+
+*I remember waking up the next day and Joyce was making one of her delish breakfast downstairs and Chloe smiled at me like we were in the most secret club in the world (or at least Arcadia Bay) we were pirates, damn it! After our academic espionage last night, I felt the same way... it's just that now the stakes are much higher and much more dangerous.*
+
+*I even ended up in some of Rachel Amber's clothes since mine were trashed. A band tee and ripped jeans. So not me. But I haven't found my style yet, so why not have some fun experimenting with a new outfit?''*Speaking of experiments, Chloe dared me to kiss her...*
+
+Kissed ChloeKissed Chloe
+''So I did. She probably thought I'd wuss out. Why? It wasn't that big a deal. Though it was cute the way she was kind of embarrassed after and said she would tell Warren. ''
+|-|Didn't Kiss Chloe# Didn't Kiss Chloe ''I would have, but I didn't like being dared like it was some big deal. Maybe I am scared. Of what? I think I'm too young for marriage. And Chloe and I might kill each other.*
+
+*Besides, I think Chloe sees Rachel Amber in her future...*
+
+[File:Max_Diary_(48).png](thumb.md)
+
+*When I went down to breakfast, Joyce actually called me "Rachel" which just seems so wrong considering how beautiful she is and how boring I am. I guess my new outfit really is working its magic. I ended up helping Joyce make breakfast just like when I was a kid on a sleepover. It's odd how quickly you can fall back into an old routine.*
+
+*So I must have set off Joyce's "nostalgia mode" since she busted out ye oldeThat's pirate english. If you're interested in it, here you find a translater: http://www.talklikeapirate.com photo album. I'm one of the few people who loves checking out old pictures. What was that {{Wiki|Alfred Hitchcock}} line about film being "pieces of time"? Like Mr. Jefferson said, so are photographs.*
+
+*I do think she wanted me to see her new husband in a better light. When David was happy or laughing with Joyce in a picture, I wanted to say, "And who is that?" Plus, I'm sure it's no accident that there was a photo of Rachel wearing the exact same clothes I had on. She truly is stunning. And somehow looked more punk rock than Chloe.*
+
+*The truly heartbreaking image was the last photo William Price ever took: Chloe and I making pancakes in the kitchen. Joyce really misses that joyful optimistic girl... I know she's still there... when Chloe smiled at me this morning, I saw her. The picture seemed to sum up everything we had as children and lost as adults... whatever being an "adult" means.*
+
+[File:Max_Diary_(49).png](thumb.md)
+
+*Which was a perfect cue for Chloe to bounce into the room and start shit with Joyce. This gave me cruel cover so I could sneak into the garage and finally unlock David Madsen's X-treme Files...*This is a reference to the series *X-Files*.
+
+*So today I finally found out what was in David's secret files... and I admit, I expected it to be worse. I'm relieved that it wasn't, so maybe I'm going easier on him than I should. No surprise that he had detailed files on Kate AND Rachel listing their whereabouts along with surveillance pics. David isn't off my shit-list yet, but he's a damn good investigator, I'll give him that. It's clear that Frank and Rachel had some kind of relationship... and I don't think Chloe is going to be very happy to hear that. She needs to start waking up. We all do.*
+
+*When David came home, things escalated quickly. He looked more upset than usual, but shrugged when he saw me wearing Rachel's clothes. He was so on edge... Maybe I'll never get to see the David that Joyce loves so much. She and Chloe really let him have it, though. This was the first time I saw them bond since we were kids...''
+
+Took Chloe's SideTook Chloe's Side''Suddenly, I couldn't take it anymore either and I kind of blew up. It was like a torrent that felt AWESOME. I've been wanting to rip into David like that myself for a long time. I figured worst case scenario, hello rewind power! But I wanted Joyce to know the depth of his weird paranoia. She looked so sad and angry when I told her about the photos of Rachel and Kate, not to mention the the home surveillance. Joyce kicked his ass out of the house. To Chloe's glee.''
+|-|Took David's Side# Took David's Side''But my spidey sense told me that David needed somebody to defend him. Even just this once. I just don't feel that we have enough proof to really blame him for everything. Yes, he's a harassing bully with a surveillance fetish, but he seems to be gathering information for his own investigation. The mystery story side of me appreciates that and hopes we can use his research to buffer our own...*
+
+[File:Max_Diary_(50).png](thumb.md)
+
+*Despite David's evidence and the bracelet, Chloe refused to believe Rachel was involved with Frank. This is a part of Chloe I don't much like: she gets so damn petulant if she doesn't get her way. Or if she hears something she doesn't like. Serious denial. I get why, but that doesn't make dealing with it any easier. So I threw my hands up and suggested we check out Frank's RV.*
+
+*I knew that would piss Chloe off and she would do anything to find out what kind of relationship he had with Rachel.*
+
+*But first we had to get the damn keys to the RV. Which meant going into the Two Whales Diner and bouncing like a rewind pinball between Frank, Nathan Prescott, and Officer Berry—and fucking with all of them. I'm still dizzy thinking about how I pulled it off. Yay for Max.*
+
+*Sometimes I feel like I'm just cheating at life...*
+
+[File:Max_Diary_(51).png](thumb.md)
+
+*The first thing we had to do was get Frank's scary dog out of the RV. So, we did the classic cartoon "give a dog a bone" routine and CujoThis is a reference to the dog from the same-titled Stephen King's film. became Scooby DooThis is a reference to the dog from the same-titled mystery solving cartoon series. just like that.*
+
+Threw bone into the streetThrew bone into the street*Oh my God! I don't want to think I hurt the poor thing but when I threw the meat bone out for Frank's scary dog, he ran out into the street... and I heard a screech of brakes and a loud whimper.*
+
+*Frank's RV was pretty much what I expected—drug dealer trash chic. But it wasn't as serial killer as I feared. We ransacked the place and found what Chloe didn't want us to find...*
+
+*I'm sorry Chloe had to see the pictures of Rachel posing for Frank, even if she did care about him. To her it's just another betrayal, just another loved one dumping on her. Everybody she ever loved she lost one way or another. Only I came back from the past... for what? To make Chloe's life more painful? I just wish I could use my rewind power to go all the way back to the days when we were covered in pancake flourThis is a foreshadowing to the events at the end of episode three. Chloe and Max made pancakes together, captured in the last photo William took before he died.... Life was simple...''
+
+Didn't try to shoot Frank and examine cupboards in Frank's RV# Didn't try to shoot Frank and examine cupboards in Frank's RV
+{{#tag:tabber|Don't return the gunDon't return the gun
+''I found Chloe's gun (or should I say David's gun?) and decided not to give it back to her. I honestly don't feel that she's any safer with it, especially considering how stupid she acts with it. But I don't want Frank coming after Chloe... I just have to make sure he doesn't.*
+{{!}}-{{!}}Return the gun# Return the gun*I found Chloe's gun (or should I say David's gun?) and reluctantly gave it back to her. I honestly don't feel that she's any safer with it, especially considering how stupid she acts with it. But I definitely don't want Frank coming after Chloe with her own weapon.*
+}}
+
+##  [Alternative Timeline](alternative_timeline.md) 
+###  September 4, 2013 
+[File:Max_Diary_(alternate).png](thumb.md)
+
+*So much to do... I wish I could slow down time, especially to register all the cool things that have happened since I'm back in Arcadia Bay.Blackwell rules!*
+
+###  September 21, 2013 
+*Yes, I'm older and thanks to Vic and Nathan I'm now a bit more fashionable too. They surprised me with the most beautiful straw pork pie hat, wrapped up furoshiki-style.Best birthday party ever. Also, drunkest. I can't sleep.*
+
+###  October 4, 2013 
+*Hey, dear diary, remember me?Busy Max Busy. Busy.Can't write now. Must shoot. Must live. Must befriend.Should rekindle with Chloe too.But must Vortex first. Party time!!!!!!*
+
+##  Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+
+###  Thursday, October 10 
+[File:Max_Diary_(52).png](thumb.md)
+
+*Let's never do the time warp again. I can't even begin to explain what happened. If I think too hard about the ramifications, my brain might melt. When I try to describe it, it's as if I'm describing something that happened to someone else.*
+
+*Chloe was so upset when we discovered that Rachel had actually been involved with Frank Bowers and she just blew up. I can never talk to her when she's like this and I just get so tired of having to walk on eggshells around her emotions. She still blames William for her messed up life, no matter how much she knows she's being unfair. I can't say that I wouldn't be just as messed up. Not that I'm not in my own way.*
+
+*In my room, all I could think was "I wish I could go back in time and help Chloe", and suddenly I was looking at the photograph William had taken of us on the day he died... and it started pulsing like it was 3D, like I could see INSIDE the photograph.*
+
+*Then I found myself actually back in the photo... to when I was 13 years old. I was back in Chloe's kitchen in the year 2008.*
+
+[File:Max_Diary_(53).png](thumb.md)
+
+*With Chloe. And William.*
+
+*Right before he left to pick up Joyce for the last time. Since my powers somehow morphed to this new level of rewind, I decided that there was no way I was going to let William die again. So I played "hide the keys" until he had no other option but to take the bus.*
+
+*I was so happy I actually saved William. I never thought about what could go wrong...*
+
+*I knew I was screwed when I came out of my epic rewind and saw Victoria Chase... but now she was my FRIEND. And I was a MEMBER of the Vortex Club. 'Nuff said.*
+
+*I knew I had screwed up. And then I felt sick thinking about what might have changed with Chloe... I had a clue when I saw David Madsen driving the school bus. He sure didn’t look so threatening anymore... I didn’t want to know how he ended up as a bus driver instead of with Joyce...*
+
+*I felt my heart drop when I rushed to Chloe's house. So when William opened the door, I prepared myself for the worst...*
+
+*That's when Chloe rolled forward in her wheelchair. Paralyzed from the neck down. I didn't even know what to say, so I covered my mouth in my typical gesture of shock and stupid. But Chloe's smile was so genuine and beautiful I almost cried.*
+
+[File:Max_Diary_(54).png](thumb.md)
+
+*I had to adjust to everything without freaking out or telling Chloe that I actually altered time and space to save her father, but get her in a car accident so she can never walk again. The thing is, she was still Chloe. Just minus all the rage. This Chloe was just grateful to be alive and have her family watching over her.*
+
+*Chloe begged me to spend the night and, of course, I did. I noticed how run-down parts of their home were, compared to before. I saw the incredible expensive equipment that Chloe now requires, including her new garage room. Sorry, David.*
+
+*Even though I felt awful and disconnected, Chloe was just so bubbly and excited to hang out with me again, especially since I flaked on her pretty hardcore after her accident. Even in an alternate universe, I’m a shitty friend.*
+
+*Chloe's world was so new and unique to me, especially her strength and kindness... and pain. She needed a whole pharmacy to get through the day. I didn't feel sorry for her—I felt in awe with her attitude. This Chloe didn't blame anybody for her condition, even though she had the right. We strolled down the beach and saw the beached whales that proved something bad was happening in both realities...*
+
+[File:Max_Diary_(55).png](thumb.md)
+
+*And then Chloe asked me to put her to sleep.*
+
+*The accident left her body pretty much broken. Her lungs stopped working properly and she was basically dying a slow, painful death. She also felt so guilty about her parents' sacrifice and dwindling income. She wasn't erratic or tortured about this request, just... practical. Which made me feel even more terrible for putting her in this situation.''
+
+Accepted Chloe's WishAccepted Chloe's Wish*I agreed to help her, simply because she explained that she wanted to have a choice for the last time in her life... How could I argue with that? Especially since I knew I screwed up the entire universe by making a "simple" decision. And I knew I would have to go back eventually and accept the timeline that actually happened... So Chloe and I had one last movie night watching "Blade Runner", falling asleep to the sounds of Vangelis, and when I woke up, I put my best friend to sleep... forever.*
+|-|Refused Chloe's Wish# Refused Chloe's Wish''But there was no way I was going to help my best friend take her own life. I couldn't do it, especially after what happened with Kate. I know I should have done whatever Chloe asked of me, considering I was responsible for her situation. But how could I inject her full of morphine and just watch her fade away? I know she was upset, but I just had to tell myself that this reality wasn't... real.*
+
+*After my visit to Chloe's new world, I knew it was time to go Max To The Future.Reference to the film *Back to the Future*. I had seen the result of my temporal tampering and I got scared thinking my new power wouldn't even work anymore. That would've been Cruel Karma. Fortunately, I was able to project myself into the photograph once again and I undid everything I had done...*
+
+*Goodbye, William. Again.*
+
+*Hello, David. Again.*
+
+[File:Max_Diary_(56).png](thumb.md)
+
+Kissed ChloeKissed Chloe *I've never been so glad to see Chloe in my life. The second I saw her blue hair and that beautiful pissed off face I wanted to kiss her again.''
+|-|Didn't Kiss Chloe# Didn't Kiss Chloe ''I've never been so glad to see Chloe in my life. The second I saw her blue hair and that beautiful pissed off face, I kind of regretted not kissing her when she double dared me. Maybe if she had double dog dared me...*
+
+*And I couldn't even tell her where I had been... or why. It would be one more thing to alienate Chloe from me and the world. I had to get refocused on our search for Rachel. Chloe had been busy with her detective work, while I was in my alternate timeline.''
+
+Took Chloe's SideTook Chloe's Side''Of course, it was much easier for me to explore David's garage, since Joyce booted his ass out. That made Chloe more content than I've just about seen her since I returned. I still feel kinda bad for David, but he overstepped his authority. Dismissed. And it's so much easier to grab David's X-files when he's not there!''
+|-|Took David's Side# Took David's Side ''Of course, she was already upset I'd defended David, even though I still didn't like any of his surveillance bullshit. But it seems like he's trying to help, even though I'm not really sure how. And I have to acknowledge that I simply don't know what the hell he's up to. Not that it stopped me from busting out some of my patented ninja moves so I could get around him to grab some more of his secret X-files...*
+
+*After we gathered our new info like Halloween treats, I loved watching Chloe go into "Sherlock" mode while we examined all of our clues on our big ol'Another use of pirate English. drawing board. Of course, we all know that she's more of a Dr. Watson, right? Elementary!*
+
+*Honestly, with all of the impending doom and sadness, I felt so... happy. Just to find myself back in action with my best friend and her butterfly blue hair.*
+
+*Hella yes.*
+
+[File:Max_Diary_(57).png](thumb.md)
+
+Kate SurvivedKate Survived*But first things first. I really had to go and see Kate. I've never visited anybody in the hospital before, much less anybody who's tried to commit suicide, so I was happy Chloe wanted to come along for support. The antiseptic smell and the endless white halls always kind of weird me out. Or maybe I'm just projecting my own fear of mortality.*
+
+*When I saw Kate in her room (surrounded by cards, flowers, and balloons), all I could think of was when I saw her the last time... on the roof. Her face was so sad and sincere and helpless then... but now she had more life in her than I'd seen in a long time.*
+
+*I had no idea what to say to somebody in a situation like this ("How are you, after you almost jumped off a roof?"), but Kate's gentle spirit made it easy. I was overjoyed to see she was drawing again and making plans for the future. Including plans to get justice for what Nathan Prescott had done to her.Or what I call REVENGE.*
+
+*So after getting the inside info and assist from the other members of our team, Chloe and I made our way to the boys' dorm a.k.a. "Nathan's Lair." Chloe stood guard out in the hall and I stealthed my way into Nathan's room.*
+
+*And even though I've become a master spy and detective, I still get surprised by things I see or find... like Nathan's sleek, expressionist bro cave. It was like walking from light to shadow in a single step. I swear, I could feel the temperature drop the second I walked in. But then, Nathan knows photography and he knows you have to keep the film and equipment chilled (I store my instant film hoard in Mr. Jefferson's classroom).*
+
+[File:Max_Diary_(58).png](thumb.md)
+
+*Speaking of cold stuff, Nathan's room was layered in creepy shit. The disturbing but impressive photos, all the evidence from his father's bullying, and probably the most important clue we could ever find: Nathan's phone, likely loaded with messages and mysteries. It's not a good thing that I've internalized spying and stealing so casually over the past week...*
+*Everyday Hero, amirite?*
+
+*And that's when Nathan Prescott showed up. He looked so wild-eyed and out of control that I felt a twinge of sympathy that he clearly needed help. But then I remembered he was also an asshole and had been extremely dangerous to me, Chloe and Kate. So before I had to rewind, Warren entered the scene and my White Knight HEADBUTTED Nathan in perfect payback. I couldn't believe it. Neither could Nathan.*
+
+Stepped In# Stepped In*In fact, Warren literally started to GO APE all over Nathan's face. It wasn't cool, but my nerves were so frayed from the week and I was so over all the Blackwell bullies that I almost didn't want to stop Warren from beating Nathan into the floor. Warren has his own issues to work out with Nathan, but this wasn't the time or place. Even if Nathan deserved it and I would've been happy to watch Warren show him who was a Blackwell boss now.''
+|-|Didn't Step InDidn't Step In''In fact, Warren literally did GO APE all over Nathan's face. It wasn't cool, but my nerves were so frayed from the week and I was so over all the Blackwell bullies that I didn't try to stop Warren from beating Nathan into submission. Warren had his own issues to work out on Nathan.*
+
+[File:Max_Diary_(59).png](thumb.md)
+
+No One Got Hurt# No One Got Hurt*After that dorm brawl, Chloe and I headed to the beach to deal with Frank and see if we could get him to join us. I had to be careful and not get him all tweaked out. He was pretty pissed that someone had gotten into his RV and borrowed his account book, but once he saw that we didn't care about drugs or money, only Rachel, he mellowed out.*
+
+*All I could think was, "I'm trying to get a drug dealer to help me find a missing girl." Incredibly, Frank actually agreed to help! He knows how naive and clueless we are, so I hope that our sincerity swayed him.*
+
+*I'm still unsure about him and I can't be so naive not to keep my rewind guard up. I don't know much about him, except that he sells drugs, has a wicked temper, and that he loved Rachel. Even more than his beans.*
+
+*So, we get to add another member to our team... BOOYAH!*
+|-|Frank Got HurtFrank Got Hurt*After that dorm brawl, Chloe and I headed to the beach to deal with Frank and see if we could get him to join us. Unfortunately, Frank was not in a helping mood. He went ballistic and attacked Chloe. She injured him in the leg, which totally freaked me out, even though I feel like I've been seeing Chloe get shot all week. All I could think was, "This is really happening. I'm outside an RV in a fight with a drug dealer."*
+
+* So our mission to bring Frank on-board was impossible. Now he's even more pissed off at Chloe — and me. Part of me thinks he has the right, since we wounded him in the leg, but the other part thinks that Frank would be hurt at some point by somebody else. He should be lucky it was by us dorks.*
+
+*I hope his leg is okay and we don't end up with worse karma. This is not how I wanted our visit to go. And I don't want Chloe to beat herself up even more over what happened. She did defend me. Sigh.*
+
+*But we do have bigger Franks to fry. Or fuck up. Onward.* 
+|-|Frank Got Killed# Frank Got Killed*After that dorm brawl, Chloe and I headed to the beach to deal with Frank and see if we could get him to join us. I had to be careful and not get him more agro. He was pissed that someone had snuck into his RV and borrowed his account book... When I tried to reason with Frank, he went from zero to knife. All I could think was, "This is really happening. I'm outside an RV in a gun fight with a drug dealer."*
+
+*And then, Chloe shot him in self-defense. Frank Bowers is dead. We saw him die in front of us. I didn't know what to think or even how... I didn't even rewind... I know Chloe was in as much shock as me. It was so surreal looking down at Frank's body next to the ocean where we had played as kids... So our mission to bring Frank onboard ended in his death.*
+
+*Now we're in bigger trouble—legal trouble. I know Chloe shot him to save me, so it was self(defense, but if we didn't come down here he would still be alive. This is not how I wanted our visit to go. And I don't want Chloe to torture herself even more over what happened. No matter what, she did save my life.*
+
+*But I'm still responsible for taking a life. What the hell are we doing?*
+
+[File:Max_Diary_(60).png](thumb.md)
+
+*My life feels so unreal at this point, I don't know how to react anymore. I can rewind time and space, but it is aging me before my own time and space? Am I learning things I shouldn't, messing up too much shit... including my own history? Obviously, my nosebleeds and dizzy spells are a bad sign that I'm overusing my powers, but it's become almost part of my nature... or maybe a habit. Power corrupts? Not yet. I hope.*
+
+*I remember this famous episode of the original {{Wiki|Star Trek}}, where Kirk has to go back in time and let the person he loves die, so the Nazis won't win the war...*Max is talking about the episode called *{{Wiki|The City on the Edge of Forever}}*. What kind of fucked up choice is that? What would have happened if I had not been in the school bathroom to save Chloe that day?*This is clearly a big foreshadowing.*
+
+*But dammit, I was there and thus I was supposed to be there. DESTINY.*
+
+No One Got HurtNo One Got Hurt
+*And the fact that we were able to convince Frank to actually help us gives the most hope I've had in a while. Yes, Chloe and I were stupid to confront Frank like that, considering how he reacted before, but I don't see how anyone could say he didn't really love Rachel Amber.*
+
+*He shouldn't have pulled a knife on Chloe though, and I don't like that he sells all these dangerous meds to teenagers, especially Nathan. He needs psychiatric supervision, not just baggies of pills. At least he won't be going to Frank again.*
+
+[File:Max_Diary_(61).png](thumb.md)
+
+*I still don't know how Chloe or even Rachel would want to hang out with Frank, but I can't suss that out anymore. Maybe if I hadn't left town I'd be less judgemental... But now we have Nathan's phone, David's coordinates, Frank's account book, and a big board of clues, which brings us closer to finding Rachel Amber. Finally. So maybe the tide is finally turning... or time is finally turning...*
+|-|Frank Got Hurt# Frank Got Hurt*So things got a bit out of hand with Frank, but honestly, what else could we expect? He's not really your everyday hero type, and it was probably stupid of us to hope for a change, but hey, we had to confront him. We tried to persuade him we're on the same side, but it was a waste of time.*
+
+*We eventually had to defend ourselves and hurt him in the leg, but despite the rage in his eyes he somehow gave us what we were looking for. He was on the verge of unleashing hell on us, but I think we've avoided the worst. I just hope our paths won't cross again anytime soon.* 
+
+*I still don't know why Chloe or even Rachel would want to hang out with Frank, but I can't suss that out anymore. Maybe if I hadn't left town I'd be less judgemental, but I definitely don't see the good in him... Anyhow, we tried, right? And now we have Nathan's phone, David's coordinates, Frank's acccount book, and a big board of clues, which brings us closer to finding Rachel Amber. Finally.* 
+|-|Frank Got KilledFrank Got Killed*So now we are responsible for ending Frank's life, even if it was in self-defense, was he meant to die that way? Crumpled up in his own blood on the dirty ground? I don't know how much more death and violence I can take this week... But I know there's something bigger going on than poor Frank or poor me. Maybe a storm that will destroy Arcadia Bay... and what else?*
+
+*I couldn't explain this to Chloe, though. She's devastated about Frank and I can't blame her. But she can't give up now. Chloe is a genuine badass, but she doesn't have the luxury of my powers, so she has to trust me that this is our destiny. Right?*
+
+*And I can't be any kind of hero without my faithful companion... and Chloe has to know that she might play the biggest role in all of this apocalyptic bullshit. And now we have Nathan's phone, David's coordinates, Frank's account book, and a big board of clues, which brings us closer to finding Rachel Amber. Finally.*
+
+*My life feels so surreal at this point, I don't know how to react anymore. I can rewind time and space, but is it aging me before my own time and space? Am I learning things I shouldn't, messing up too much shit... including my own history? Obviously, my nosebleeds and dizzy spells are a bad sign that I'm overusing my powers, but it's become almost part of my nature... or maybe a habit. Power corrupts? Not yet. I hope.*
+
+*I remember this famous episode of the original Star Trek, where Kirk has to go back in time and let the person he loves die, so the Nazis won't win the war... What kind of fucked up choice is that? What would have happened if I had not been in the school bathroom to save Chloe that day?*
+
+*But dammit, I was there and thus I was supposed to be there. DESTINY.*
+
+Frank Is Dead# Frank Is Dead
+*So now that we are responsible for ending Frank's life, even if it was in self-defense, was he meant to die that way? Crumpled up in his own blood on the dirty ground? I don't know how much more death and violence I can take this week... But I know there's something bigger going on than poor Frank or poor me. Maybe a storm that will destroy Arcadia Bay... and what else?*
+
+*I couldn't explain this to Chloe, though. She's devastated about Frank and I can't blame her. But she can't give up now. Chloe is a genuine badass, but she doesn't have the luxury of my powers, so she has to trust me that this is our destiny. Right?*
+
+*So I can't be any kind of hero without my faithful companion... and Chloe has to know that she might play the biggest role in all of this apocalyptic bullshit. And now we have Nathan's phone, David's coordinates, Frank's account book, and a big board of clues, which brings us closer to finding Rachel Amber. Finally.*
+|-|Frank Got HurtFrank Got Hurt
+*So things got a bit out of hand with Frank, but honestly, what else could we expect? He’s not really your everyday hero type, and it was probably stupid of us to hope for a change, but hey, we had to confront him. We tried to persuade him we’re on the same side, but it was a waste of time.*
+
+*We eventually had to defend ourselves and hurt him in the leg, but despite the rage in his eyes he somehow gave us what we were looking for. He was on the verge of unleashing hell on us, but I think we've avoided the worst. I just hope our paths won't cross again anytime soon.*
+
+*I still don't know why Chloe or even Rachel would want to hang out with Frank, but I can't suss that out anymore. Maybe if I hadn't left town I'd be less judgmental, but I definitely don't see the good in him... Anyhow, we tried, right? And now we have Nathan's phone, David's coordinates, Frank's account book, and a big board of clues, which brings us closer to finding Rachel Amber. Finally.*
+|-|Frank Became An Ally# Frank Became An Ally
+*And the fact that we were able to convince Frank to actually help us gives the most hope I've had in a while. Yes, Chloe and I were stupid to confront Frank like that, considering how he reacted before, but I don't see how anyone could say he didn't really love Rachel Amber.*
+
+*He shouldn't have pulled a knife on Chloe though, and I don't like that he sells all these dangerous meds to teenagers, especially Nathan. He needs psychiatric supervision, not just baggies of pills. At least he won't be going to Frank again.*
+
+*I still don't know why Chloe or even Rachel would want to hang out with Frank, but I can't suss that out anymore. Maybe if I hadn't left town I'd be less judgmental... But now we have Nathan's phone, David's coordinates, Frank's account book, and a big board of clues, which brings us closer to finding Rachel Amber. Finally. So maybe the tide is finally turning... or time is finally turning...*
+
+*This is the moment where all the clues come together and we finally have a location outside of town that may lead us straight to Rachel Amber... and beyond.*
+
+*After everything that happened with Frank, I had to convince Chloe to keep going forward with me, since I do feel we're at the end of the road... hopefully not the end of the world. But whatever Chloe has inside her that makes her so selfdestructive is matched by her balls and bravery. Yes, Chloe has gotton me nearly killed, but I know she would die for me. And I can't forget I put her in a wheelchair to slowly die in another reality...*
+
+*And Chloe is more focused now than before. I told her we have to keep moving forward no matter what and I couldn't find Rachel on my own. That was enough.*
+
+*Now it's time to shine a light into the Dark Room...*
+
+[File:Max_Diary_(62).png](thumb.md)
+
+*Chloe and I loaded up our coordinates and hit the road. We were both quiet, yet excited... it's hard to explain the feeling. Even with all the horrible things happening, I found myself thinking that Chloe and I were part of some greater mystery that involved time, space, and all our fates. I've never had much faith, not the Kate Marsh kind anyway, but I couldn't believe we were being set up for doom after everything that's happened this week.*
+
+*But I wasn't prepared for the Dark Room.*
+
+*The coordinates led us to an old "abandoned" farm owned by the Prescott family and I shouldn't have been surprised that it was actually housing a weird secure bunker that was filled with Prescott memorabilia... and worse.*
+
+*If there was evil ground zero, this place was it. Cupboards filled with named red binders that confirmed our worst nightmares... not that I even had any clue that our amateur detective work would lead us to this kind of professional hell. When I saw the binder marked "Victoria," my heart started pounding like a jackhammer. Then I had a real clue about what was coming...*
+
+*I don't even want to think about the images we saw of Kate Marsh posed unconscious with that motherfucker, Nathan Prescott. She did know the truth about what happened to her even if she couldn't remember all the awful details... And then Rachel Amber. Delicately composed photographs of her drugged and all over Nathan like some kind of sick goth couple. I couldn't bear to look at Chloe's face as she looked at the photos of her abused angel. I felt nauseated. All the hope I was feeding Chloe felt like vapor. And then we saw exactly where Nathan had taken his vicious layout with poor Rachel. In the junkyard.*
+
+[File:Max_Diary_(63).png](thumb.md)
+
+*We finally found Rachel Amber. Dead and buried. I'm sorry, Rachel. I'm sorry, Chloe. I'm sorry, Kate. I'm sorry, William.*
+
+*FUCK YOU, ARCADIA BAY.*
+
+*"High school should be the best years of your life," I've heard over and over from my parents and other experts. Fuck do they know? Tell that to Rachel Amber. Or Kate. I've never seen Chloe so cold and hard. She won't let go of the gun.* 
+*So we have to find Nathan before Chloe kills him. And if that happens, it will be hard to rewind.*
+
+*But we're as close to the end of this nightmare as possible, so I have to block out those images of Kate Marsh and Rachel Amber that will be burned into my retinas forever. There's still a final secret to uncover and nothing is going to stop us now. Not even a goddamn tornado.*
+
+*Chloe and I pulled up to Blackwell's parking lot and arrived at the "End Of The World" party. Oh, the irony! We had to get rid of poor Warren fast, who wanted to bask in his alpha glory and hang out with Chloe and me. I can't put another one of my friends in danger. So bizarro to see all the students dressed up in expensive outfits or pre-Halloween costumes, talking and laughing and smoking and drinking, as if there wasn't a serial killer going to the same party, or the town wasn't in eco-danger...*
+
+[File:Max_Diary_(64).png](thumb.md)
+
+*As if to remind me of Arcadia Bay's ticking doomsday clock, I saw two moons in the sky over the horizon... or that's what it looked like briefly before the clouds rolled over. I squinted and actually rubbed my eyes like a dork just to make sure my iris wasn't foggy. Was this another sign or an environmental illusion? Other people saw it too... Except, Chloe didn't see anything - besides vengeance. So she went into the gym looking for Nathan before I could catch up. Nathan doesn't know that he's running out of time too. No irony intended. We are.*
+
+*My first and last Vortex Club party. Flashing lights and DJ Doom (no comment) spinning. In an alternate reality, I might have been at this party, standing in the corner shy and nervous, waiting for somebody to ask me to dance but being terrified if that happened... And that would have been the limits of my problems. Now look at me.But I had to find Chloe first, then Nathan before she shot him.*
+
+Warned Victoria SuccessfullyWarned Victoria Successfully*No matter how evil I thought Victoria was, she's actually just a terribly insecure person with talent, passion, and a tendency to be a cruel dick for no good reason. I have to see beyond our petty mean girl drama and assume she has a role to play in all of this too. So we talked like human beings and I warned her, without specifics about Nathan. She believed me and it felt so warm to make a connection with my previous "enemy." A sliver of light in all this darkness. Let there be more.*
+|-|Warned Victoria Unsuccessfully# Warned Victoria Unsuccessfully*No matter how evil I thought Victoria was, she's actually just a terribly insecure person with talent, passion, and a tendency to be a cruel dick for no good reason. But that doesn't mean she'll step outside herself to look at me without her hate. I tried to see beyond our petty mean girl drama, assuming she has some role to play in all of this, but she wouldn't listen to me and I had to find Chloe. So I just warned her and left, hoping the actual human being deep inside her got the information and considered taking it seriously. Fair enough?''
+|-|Didn't Warn VictoriaDidn't Warn Victoria''No matter how evil I thought Victoria was, she's actually just a terribly insecure person with talent, passion, and a tendency to be a cruel dick for no good reason. But that doesn't mean she'll step outside herself to look at me without her hate. I tried to see beyond our petty mean girl drama, assuming she has some role to play in all of this, but she made it impossible and I had to find Chloe. I felt shitty not warning her, but I just have to hope that Victoria is the one person Nathan would leave alone, if only out of friendship or the fact that assholes stick together.*
+
+##  Episode Five - "[Episode 5: Polarized](polarized.md)" 
+###  Friday, October 11 
+[File:Max_Diary_(65).png](thumb.md)
+
+*October 11 (...I guess)*
+
+*I watched Chloe die again.Killed by my favorite teacher. Why?Because we were stupid and let Jefferson trick us with a phony'**Catcher in the Rye reference**' text.*
+
+*So we ended up back at the junkyard, and fell right into his trap. We should have called the police the second we found Rachel, but I had gone along too far with Chloe. I keep thinking I'm invincible, that I'm a real everyday superhero... but no, I'm just Max Caulfield.*
+
+*Maybe all my powers are an accident of fate. Or am I being punished like Chloe? What have we done to deserve all this pain? What did Rachel do? Kate? William?*
+
+*Then there's Mark Jefferson... I can't ever call him "mister" again.*
+
+*I'm still shocked that he turned out to be the one hiding behind the Dark Room, but if I think back on those "pieces of time," Jefferson has been dropping hints all along. It makes me sick to think how long he's been doing this for — and to whom.*
+
+[File:Max_Diary_(66).png](thumb.md)
+
+*The needle... I can still feel that needle on my skin. Thank God I can't remember Jefferson posing me for most of his sick session. Imagine all those other people who had to suffer through that horror... like Rachel and Kate. That made me determined to get out of that room, at least to stop him and save Chloe. I had to use my focus rewind on multiple photos so often that even I got confused.*
+
+*Worse still, I knew I was screwing around with various realities again, but I had no other choice. Chloe would not die in a junkyard next to Rachel Amber. And there was no fucking way I was going to let Jefferson be the last person I ever saw. It's hard to even imagine myself in that studio alone with Jefferson acting like that... Everything was so neat and sterile, but it felt like the filthiest place on Earth. If I didn't have this ability to bend time, what would I have done? What could I have done? Sometimes I felt removed, like I was looking at myself going through this hell. But thanks to Jefferson's class photo, he personally helped me to escape.*
+
+Warned Victoria Successfully# Warned Victoria Successfully *I also feel so terrible that Victoria had to end up in here with me, just because I warned her about Nathan. I should have known that she would rush to Jefferson for protection. Instead, he kidnapped her and almost murdered her... because of me.*
+
+*I'll never forget the way Jefferson looked at me, so cold and mean... I felt like I was on one of those awful true-crime shows my mom binge-watches... How does somebody become evil? He actually shot Chloe in the head... just like that.Motherfucker.*
+
+Accused NathanAccused Nathan *I wish the police had taken Nathan in, after I told Principal Wells that he drugged Kate. He might still be alive and maybe he would have taken down Jefferson too...*
+|-|Accused Jefferson# Accused Jefferson*Now I'm glad I blamed Jefferson for Kate, so at least there's a paper trail for his actions. If only I had David Madsen's info. And to think that I felt guilty about narcing on Jefferson...*
+|-|Accused DavidAccused David*Now I feel terrible that I blamed David for harassing Kate.... especially since he was after Jefferson all along. We could have been working together if David wasn't so paranoid.*
+
+[File:Max_Diary_(67).png](thumb.md)
+
+*I can't believe I was able to focus and rewind into my selfie all the way back to art class on Monday. I turned in my photo for the contest, after I sent a text to David warning him about Jefferson. Whew. The only reason I haven't had a total meltdown is the fact that I do have this incredible power. I have to use it right for once... and maybe never again.*
+
+*It was weird to be in class with Jefferson, like I wasn't just tortured by him in an underground bunker. I saw him for the first time as he is: a creepy, manipulative psychopath, filled with bullshit. He uses art and passion to seduce people, but behind that there's nothing but hate and perversion. I only pray that I can fix this timeline, not fuck it up.*
+
+*Max to the future. It feels like I finally made things right. Chloe is alive. David Madsen became a real everyday hero by busting Jefferson and his dark room, along with Nathan and his father. The Prescotts have lost control of Arcadia Bay. Now I'm the official "Everyday Hero" on my way to San Francisco with Principal Wells, who is a lot more funny and laidback when he's not stressing about Blackwell Academy. It's hard for me to totally relax but all these pieces of time seem to be falling in place.*
+
+[File:Max_Diary_(68).png](thumb.md)
+
+*The Zeitgeist Gallery was a trip. Why does somebody so shy like me want to be famous for her photographs? I don't care about people kissing my ass, I just want to hang out with great artists and learn from them. It was so sweet that my work was displayed in a respected gallery and I got to experience that public response. But I'm not a fan of the spotlight. That Berkeley reporter made me feel like I wouldn't even know what to say. "Oh yes, this selfie represents my soul." I'd tear up my own pictures if I ever talked like that.*
+
+*But it was so nice just to have a safe, peaceful moment for myself, where my dreams came true instead of my nightmares. I had a real vision of my future and who I wanted to be. So I won't feel bad about rewinding time once again to destroy my contest photo.*
+
+*The storm is still coming to Arcadia Bay, which means Chloe's life is still in danger. No prize or exhibition is worth losing her again. At least I can use my picture for a truly important reason and yet again try to fix the machineries of time that I keep breaking...*
+
+[File:Max_Diary_(69).png](thumb.md)
+
+*So I did it. Back in my room again, erasing another timeline... or does that reality go on without me? Am I just creating knots in time? My biggest fear is that I won't be able to rewind when I most need to... or even remember what I've done.*
+
+*And my head does feel like it's going to burst if I keep on doing this. My nosebleeds are a bad omen. Yet I'm here — I can rip up my contest photo and still warn David about Jefferson. It just means I won't be going to San Francisco. Yet. And I have to protect Chloe from one storm.*
+
+*I knew things were going too easy. And I messed it all up. As usual.Jefferson was pissed that I had torn up my contest photo, freaking out about my "wasted talent." Bastard torched my diary, so I couldn't even rewind using my art class selfie.So my whole plan took a shit and I couldn't text David about Jefferson...which is how I ended up back in this evil Dark Room, after I thought I had escaped.*
+
+Warned Victoria Successfully# Warned Victoria Successfully
+*The worst thing was seeing that Victoria was gone and knowing that Jefferson had already killed her... all because of me. I've never felt so helpless and hopeless in my life. It made me even more determined to rewind time and save Victoria as well...*
+
+*Amazingly, it was David Madsen who turned up to save me. Thanks to his own surveillance, he was almost Jefferson's shadow and tracked him down to the farmhouse.I was able to use my rewind for good and actually help David battle Jefferson.I do know that the only way I can save Chloe now is to get that picture that Warren took of us in the parking lot. I just hope he's okay in this storm.*
+
+Told DavidTold David*Finally, I told David that Chloe was dead... and he killed Jefferson. I have nothing else to say.''
+|-|Didn't Tell David# Didn't Tell David''Finally, I didn't tell David about Chloe... I couldn't. He might have killed Jefferson.*
+
+[File:Max_Diary_(70).png](thumb.md)
+
+*For the first time since my visions, I was able to see the storm manifest in this reality. When I felt the sharp wind from the tornado, everything became more desperate. I was so relieved to get ahold of Warren, but he's definitely trapped in the Two Whales diner with the photo. Yes, this looks like a job for Super Max.*
+
+*I borrowed Jefferson's car to haul ass and found that Nathan left me a sad voicemail. He only wanted to warn me, to not be blamed for Rachel. But Jefferson wouldn't forgive him....*
+
+*Apocalypse Arcadia Bay.I never felt the raw force of nature, but this storm is ground zero. My town is being destroyed and I'm so furious that I didn't pay more attention to my visions. I could have warned and saved so many people... instead of watching them die around me.*
+
+*I decided I needed to fulfill my destiny, whatever that was, and use my powers for good and more importantly, to not be afraid. There was no more time for fear.So I barely made it to town and helped as much as I could, until I had to rewind to stop a raging fire from blowing up the diner. At least I was able to do something.*
+
+[File:Max_Diary_(71).png](thumb.md)
+
+Frank Became An AllyFrank Became An Ally*I almost cried when I saw Joyce and Warren, even though they were scared. But they're strong and helped everybody in the diner. Including Frank, who I was glad to see alive.*
+|-|Hurt Frank# Hurt Frank*I almost cried when I saw Joyce and Warren, even though they were scared. But they're strong too and helped everybody in the diner. Including Frank, who clearly hates me.*
+|-|Killed FrankKilled Frank*I almost cried when I saw Joyce and Warren, even though they were scared. But they're strong too and helped everybody in the diner.*
+Kissed Chloe# Kissed Chloe*I'm glad Warren is such a good friend. Considering how insane my life has been this week, kissing Chloe instead of him didn't seem that strange. It felt like Chloe and I were flipping off the cruel universe... and if I was going to die, I wanted one kiss from my best friend.*
+|-|Kissed WarrenKissed Warren*Considering how insane my life has been this week, kissing Warren in the middle of a deadly storm didn't seem to be that strange. It felt like we were flipping off the cruel universe... and if I was going to die, I wanted one kiss from a boy I cared about.*
+|-|Kissed Both# Kissed Both *Considering how insane my life has been this week, kissing Chloe, then Warren, didn't seem to be that strange. Both times it felt like we were flipping off the cruel universe... and if I was going to die, I wanted one kiss from two people I truly cared about.*
+|-|Kissed None Of ThemKissed None Of Them *Considering how insane my life has been this week, kissing Chloe or Warren in the middle of all this time warping would be too strange. I can't even think about my love life... or lack of one. But if I was going to die, maybe I should have kissed one of them for posterity...*
+
+*The main thing was that I had Warren's photo and I would get one last chance to save Chloe. I felt queasy considering what a mess I've made, but there was no going back anymore.*
+
+*Warren rules. I was able to rewind to the End Of The World party with his photo and I felt like I was getting more confident with my time travel skills. It's always hard to deal with Chloe when only I have the benefit of knowing her future. But the one thing Chloe appreciates the most is honesty so I told her everything, from when she was paralyzed to the Dark Room to San Francisco. She didn't want to believe that David was so heroic, but she knows I wouldn't lie. And I could tell Chloe felt awful for what Jefferson did to me.*
+
+[File:Max_Diary_(72).png](thumb.md)
+
+*Chloe is back!I didn't even care that this was the real end of the world... It just felt so good to hold her again after everything we'd been through. I thought about all the timelines I'd jumped through for her, and how much she's always meant to me...Our lives have always been entwined.*
+
+Kissed Chloe# Kissed Chloe
+*How could this not be some kind of fate or destiny? Even though we're opposites in so many ways, we're also so alike. We'll always be pirates in spirit and we'll always want to take on the world... It sounds so stupid to say that she's my hero, but if not her, who else? Sometimes Chloe and I feel like yin and yang.
+Who knows? Maybe we're here to give each other strength... or more.''
+
+|-|Didn't Kiss ChloeDidn't Kiss Chloe
+''How could this not be some kind of fate or destiny? Even though we're opposites in so many ways, we're also so alike. We'll always be pirates in spirit and we'll always want to take on the world...
+I like to think Chloe and I are here to always support each other.
+Best friends forever, right?*
+
+*There is nothing like the sense of relief after waking up from a vivid nightmare. Despite all the terrible things that have been happening this past week, I felt so free and hopeful when I finally woke up. And my nightmare was so obvious... all my fears about being an artist, about my rewind power, and, of course, about my partner in crime and time, Chloe Price.*
+
+*We've been through so much together and we might go through more, depending on how this all ends... either in Heaven or Hella... Sorry, I couldn't resist.*
+
+[File:Max_Diary_(73).png](thumb.md)
+
+Kissed Chloe# Kissed Chloe
+*Chloe is more than my best friend, but who knows how she really sees me? She did dare me to kiss her, but she seemed surprised that I actually did. I am too, but I don't regret it for a second. Maybe that's why I hated watching Chloe being so cruel in the nightmare, calling me names and flirting with all those people... I was surprised that it was like a physical pain in my heart. Is that the power of friendship... or love?
+I believe you're about to find out, Max Caulfield.''
+|-|Didn't Kiss ChloeDidn't Kiss Chloe
+''Chloe will always be my best friend, but who knows how she really sees me? I know she wasn't mad I didn't kiss her... I feel like we're more family than couple... just a couple of dorky kids who grew up in a fucked up, amazing world...
+Maybe that's why I hated watching Chloe being so cruel in the nightmare, calling me names and trying to hurt me... I was surprised that it was like a physical pain in my heart. Is that the power of love... or friendship?
+I believe you're about to find out, Max Caulfield.''
+
+##  Inconsistencies 
+{{Main|Inconsistencies (Life is Strange)}}
+
+* On the [Max's Character Notes#Warren](character_note.md) for Warren in Max's diary, she mentions that he is "her age," but this contradicts his age on his student record, since they are aged two years apart. It is possible that Max didn't know Warren's age at the time she wrote that in her diary, since she had only recently arrived at Blackwell.
+* Despite the fact that Max mentions Nathan is **19** in her [Max's Character Notes#Nathan](character_note.md) about him, his school file states that he was born on August 29, 1995, making him **18** years old. This could be explained by Max being misinformed, as she did not know Nathan well and was perhaps unlikely to know his birthday.
+* Max's [Max's Character Notes#Kate](character_notes_for_kate_marsh.md) will change in this episode, depending on whether Max manages to save her life or not. A new decal will appear on the page to cover the 'LiFE' graphic that was visible in the previous two episodes. However, there is currently an inconsistency with how these new graphics appear, due to the files being misnamed in the Unreal Engine packages.(*TX_Character_E3_Kate_SF, TX_Character_E4_Kate_SF, and TX_Character_E5_Kate_SF*). The sticker graphic that implies Kate is alive has been labelled *Kate_scrapbook_dead*, and the sticker graphic that implies that Kate is dead has been labelled *Kate_scrapbook_alive*. If Kate dies, the sticker graphic that appears after this consequence implies she is still alive ("*Get Well Soon*"). If Kate lives, the sticker graphic that appears implies that she has died ("*Love is how you stay alive, even after you are gone*").DONTNOD were made aware of this inconsistency on 29th March 2017. It is unknown if a patch will be released that fixes this issue.
+* A drawing on page 11 of Max's diary shows Max executing her [rewind](rewind.md) gesture with her left hand raised, but she raises her right hand in the game. This sketch is inconsistent with gameplay but appears to have been based on early concept art that features as the box art for the game.
+* Max has drawn Chloe with a red hoop earring on page 17 of her diary even though Chloe has no earring in the game. On the next page, Max does refer to Chloe having piercings (plural), but there are no visible ones at this early point in the game. (We later see in Episode 3 that Chloe has a belly button piercing but still no ear piercings or earrings in general.) Even though Max's sketch could be put down to an idealized version of Chloe from Max's imagination, the sketch is a replication of early concept art. As for the journal entry about piercings, this could have been an early writing remnant that the concept art was based on, or vice versa.
+* On Page 22 of Max's diary, she writes about Chloe: "It's so strange where our lives have gone since the last time we hung out when we were **thirteen**." With their birth dates (Chloe - March 1994; Max - September 1995), there is no way that they would have been aged 13 at the same time. Chloe would have turned **14** six months before Max turned 13. A possible explanation for this could be that Max is simply generalizing their ages, using the age that she remembers herself being. Another example of when she does this is in Episode 4 when she sees the pirate CD in Chloe's room: *"Oh my God, I made that mix for her when we were twelve."*
+*On page 39 of Max's diary for October 9, 2013, an extract of a personal organizer for March 2014 can be seen (although the month and year is partially obscured and not something that is immediately obvious). A plausible explanation could simply be that Max had a calendar for the full 2013-2014 academic school year.
+
+##  Trivia 
+*Max's Diary contains a lot of foreshadowing messages, symbols, drawings and stickers, some funny, some mysterious, some cryptic, and some with obscure references. Some of Max's writings are also quite premonitory, ominous, curious, and downright bizarre.
+*Max, in a passage from her diary seems to predict the end decision, way before it's hinted to the players, (Episode 4); " ''I remember this famous episode of the original {{wiki|Star Trek}}, where Kirk has to go back in time and let the person he loves die, so the Nazis won't win the war...''[https://life-is-strange.fandom.com/wiki/Max%27s_Diary#cite_note-14 [13]] What kind of fucked up choice is that?".
+*The doe is a recurrent theme in Max's diary, it appears several times in drawings, stickers and in symbolic ways, including in the last page of said diary.
+*Max's Diary serves as an insight into Max's mind, revealing her feelings in detail, motivations, doubts, fears and even reasons behind some of her decisions.
+* On page 22 there is a sticker that reads, "Three Meters Above The Sky", which appears to be a reference to the 2004 Italian film inspired by the novel *Tre metri sopra il cielo* by Federico Moccia (literally "Three meters above the sky"). {{Wiki|Three Steps Over Heaven}}, (the English title for the film), is summarized as "A romantic drama for teenagers that tells the story of two youngsters belonging to opposite worlds. It's the chronicle of an improbable relationship that is practically impossible but just as inevitable. It will end up dragging the couple along for a voyage of discovery on which they will experience true love together for the first time. She is a well-to-do girl. He is a rebellious boy, addicted to risk and danger" During the film the boy becomes more tender, softer, the girl becomes harder, more rebellious." The descriptions of these two characters appear to match the characters of Max and Chloe rather well.
+*The phrase in page 32 of Max's diary; "And I was shittin' kittens", may be a reference to {{wiki|Lethal Weapon 4}}. Martin Riggs, the character played by Mel Gibson says the following; "That general's gonna be shittin' kittens when he sees the money is counterfeit."
+*The "Et in Arcadia ego" sticker from Max's journal may be a reference to the painting {{wiki|Et in Arcadia ego}}, a work by Nicolas Poussin a leading painter of the French Baroque style.
+*The sticker "Not all those who wander are lost" is reference to a phrase from a poem by J. R. R. Tolkien, "{{wiki|All that is gold does not glitter}}, that appears in his most famous work {{wiki|The Lord of the Rings}}. 
+*The "My hair is being pulled by the stars again" sticker may be a reference to a quote by {{wiki|Anaïs Nin}}.
+*The "With great powers comes great bullshit sticker" is a reference to the quote from the Spider-Man comics; "{{wiki|With great power comes great responsibility}}."
+
+##  Patches  
+* Prior to the release of Episode 2, the character notes for [Max's Character Notes#Victoria](victoria.md) and [Max's Character Notes#Jefferson](mr__jefferson.md) as well as page 9 of the main diary referred to the "Everyday Heroes" contest as "Everyday Hero" contest. 
+* Prior to the release of Episode 5 (before 1.0.0.371598), page 1 of Max's diary had read: "But who cares because I GOT INTO BLACKWELL ACADEMY, a unique and famous private school for seniors! NO KIDS ALLOWED!" It now only reads: "But who cares because I GOT INTO BLACKWELL ACADEMY!"
+
+##  Notes 
+

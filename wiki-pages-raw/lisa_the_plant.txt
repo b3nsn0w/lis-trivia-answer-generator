@@ -1,0 +1,52 @@
+= Lisa the Plant =
+
+{{Introquote|Drink up...it’s got electrolytes.|[[Maxine Caulfield|Max Caulfield]] to Lisa in "[[Episode 2: Out of Time|Out of Time]]"}}
+{{Infobox Character
+|name = Lisa
+|image = lisa-main.png
+|died = October 9, 2013 <small>(determinant)</small> October 10, 2013 <small>(determinant)</small>  October 11, 2013 <small>(presumed, determinant)</small>
+|causeofdeath = Drowned <small>(determinant)</small><br>Dehydrated <small>(determinant)</small><br>Killed by the [[storm]] <small>(presumed, determinant)</small>
+|relatives = [[Maxine Caulfield|Max Caulfield]] <small>(owner)</small>
+|affiliation = [[Max's Room]],<br/>[[Blackwell Academy]]
+|appearance = [[Episode 1: Chrysalis]]<br/>[[Episode 2: Out of Time]]<br/>[[Episode 3: Chaos Theory]]<br>[[Episode 5: Polarized]] <small>(Max's room between multiple realities)</small>
+}}
+
+'''Lisa''' is [[Maxine Caulfield|Max Caulfield]]'s plant standing in [[Max's Room|her dorm room]] at [[Blackwell Academy]]. It is located on the left side of Max's room, in front of the windows, next to Max's desk and a shelf. A small panda plushie is attached to the top of the plant. Lisa is a minor gameplay element that you can interact with several times throughout the game, her well-being depending on your choices.
+
+Max has the ability to water her plant in [[Episode 1: Chrysalis]] and [[Episode 2: Out of Time]]. [[Vanessa Caulfield|Her mother]] sends Max a text reminding her to water it, but not too often. In "[[Episode 3: Chaos Theory|Chaos Theory]]", two days later, the consequences of Max's choices show and the plant is either in good condition (watered once), dehydrated (never watered), or drowned (watered twice) depending on Max's care.
+
+== Trivia ==
+* When Max waters Lisa in Episode 2, she says, “Drink up...it’s got electrolytes.” The quote is a reference to the film ''{{Wiki|Idiocracy}}''.
+* The panda plushie that is attached to Lisa is likely to be a reference to [[w:c:dontnodentertainment:Jax the Panda|Jax the Panda]], a character in [[Don't Nod]]'s first game, ''[[wp:en:Remember Me (video game)|Remember Me]]''.
+* During April Fool's in 2015, the Square Enix blog advertised a Lisa plant as official ''Life is Strange'' merchandise:<blockquote>"Now you too can make the choice to water the plant or not....just like Max! We wanted to offer a product that had consequences in order to replicate Life is Strange's gameplay mechanic and with the official plant we feel we've done just that!"<ref>[http://web.archive.org/web/20160818100725/http://na.square-enix.com/us/blog/life-strange-official-merchandise Life is Strange official merchandise] (April 1, 2015)</ref></blockquote>
+*In [[Don't Nod]]'s third game ''{{Wiki|Vampyr (video game)|Vampyr}}'', there's a seemingly dead plant (located in the protagonist's office) that, if watered, will bloom after three days. The protagonist then decides to name it Lisa. This action unlocks the achievement "Unlife is strange" with the description "Save this poor plant with water".<ref>[https://steamcommunity.com/stats/427290/achievements Vampyr achievements]</ref>
+
+== Gallery ==
+<gallery bordersize="none" position="center" captionalign="center" bordercolor="transparent" hideaddbutton="true" widths="200">
+Lisa_the_Plant.png|Max watering Lisa in "Chrysalis".
+Lisa_the_Plant_Merchandise.png|"Official" merchandise advertisement from the April Fool's announcement.
+lisa-vampyr.jpg|Lisa from ''Vampyr'' (before being watered).
+Screenshot (44).png|Lisa from ''Vampyr'' (after being watered).
+</gallery>
+
+== References ==
+<references />
+{{Object Navbox}}
+{{Character Navbox}}
+
+[[de:Lisa]]
+[[es:Lisa la planta]]
+[[pl:Lisa]]
+[[ru:Растение Лиза]]
+[[Category:Characters]]
+[[Category:Characters (Life is Strange)]]
+[[Category:Objects]]
+[[Category:Episode 1: Chrysalis Characters]]
+[[Category:Episode 2: Out of Time Characters]]
+[[Category:Episode 3: Chaos Theory Characters]]
+[[Category:Lore]]
+[[Category:Lore (Life is Strange)]]
+[[Category:Minor Characters]]
+[[Category:Minor Characters (Life is Strange)]]
+[[Category:Max's Belongings]]
+[[Category:Life is Strange]]

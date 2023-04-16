@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Chloe Ask Max To Do Before Looking At The Photo Album?",
+    "answer": "C",
+    "choices": {
+      "A": "Give Her The Blue Pill",
+      "B": "Turn Up The IV",
+      "C": "Grab One Of The Photo Albums",
+      "D": "Take A Picture Of Her"
+    }
+  },
+  {
+    "question": "What Does Max Consider Doing With The Photo Album?",
+    "answer": "D",
+    "choices": {
+      "A": "Selling It",
+      "B": "Burning It",
+      "C": "Keeping It For Herself",
+      "D": "Using It To Alter The Past"
+    }
+  },
+  {
+    "question": "What Does Chloe Ask Max To Do To The IV?",
+    "answer": "B",
+    "choices": {
+      "A": "Turn It Off",
+      "B": "Turn It Up To Eleven",
+      "C": "Remove It",
+      "D": "Leave It As Is"
+    }
+  },
+  {
+    "question": "What Does Chloe Want Her Last Memory To Be?",
+    "answer": "A",
+    "choices": {
+      "A": "Running Around Arcadia Bay With Max",
+      "B": "Watching A Movie With Max",
+      "C": "Eating Pancakes With Max",
+      "D": "Playing Pirates With Max"
+    }
+  },
+  {
+    "question": "What Does Max Say To Chloe Before Leaving?",
+    "answer": "C",
+    "choices": {
+      "A": "Goodbye",
+      "B": "See You Later",
+      "C": "Never",
+      "D": "I Love You"
+    }
+  }
+]

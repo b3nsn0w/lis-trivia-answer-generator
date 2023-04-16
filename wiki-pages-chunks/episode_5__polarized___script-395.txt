@@ -1,0 +1,47 @@
+Here is a section of the wiki page for Episode 5: Polarized - Script:
+
+there.
+
+LEAVE# LEAVE{{#tag:tabber|(Frank is alive)(Frank is alive)**Max:** Watch out for Joyce... and Frank.
+
+{{!}}-{{!}}(Frank is dead)# (Frank is dead)**Max:** Watch out for Joyce... and everybody else.
+}}
+
+**Warren:** I got this, Max. Go on.
+
+**Max:** I’m going to make the right choices from now on... I swear.
+
+**Warren:** That's why you're Super Max.
+
+|-|HUGHUG**Max:** I could use a hug before I do this...
+
+**Warren:** Me too.
+
+*Warren hugs Max.*
+
+**Warren:** You better go before I get pathetic and tell you not to.
+
+**Max:** You’re not pathetic. You’re one of my heroes... And I’m going to make the right choices from now on... I swear.
+
+**Warren:** That's why you're Super Max.
+
+|-|KISS# KISS
+*Only available if Max has a high enough romance level with Warren.*
+
+**Max:** For luck.
+
+*Max kisses Warren.*
+
+**Warren:** Just in case we don’t get out of this... I wanted to say...
+
+**Max:** I know, Warren...
+
+**Warren:** Of course you do.
+
+**Max:** I’m going to make the right choices from now on... I swear.
+
+**Warren:** That's why you're Super Max.
+
+*Max focuses on the photo and travels back in time.* 
+
+Generate five trivia questions relevant to this section of the page.

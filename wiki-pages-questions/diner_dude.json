@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the name of the diner where Diner Dude is sitting?",
+    "answer": "A",
+    "choices": {
+      "A": "Two Whales Diner",
+      "B": "Blue Moon Diner",
+      "C": "Golden Nugget Diner",
+      "D": "Silver Spoon Diner"
+    }
+  },
+  {
+    "question": "What is Diner Dude's response when Max tries to speak with him in Episode Two?",
+    "answer": "B",
+    "choices": {
+      "A": "\"I'm busy, leave me alone.\"",
+      "B": "\"I'm not feeling well, please spare me.\"",
+      "C": "\"I don't talk to strangers.\"",
+      "D": "\"I'm not interested, go away.\""
+    }
+  },
+  {
+    "question": "In which episode does Diner Dude appear in Max's nightmare?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1",
+      "B": "Episode 2",
+      "C": "Episode 3",
+      "D": "Episode 5"
+    }
+  },
+  {
+    "question": "Who is the actor who voices Diner Dude?",
+    "answer": "A",
+    "choices": {
+      "A": "Daniel Bonjour",
+      "B": "Troy Baker",
+      "C": "Nolan North",
+      "D": "Matthew Mercer"
+    }
+  }
+]

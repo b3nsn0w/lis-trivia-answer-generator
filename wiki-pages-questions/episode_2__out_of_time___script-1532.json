@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Did Max Wish She Had Done Regarding The Pot?",
+    "answer": "A",
+    "choices": {
+      "A": "Taken The Blame",
+      "B": "Hidden It Better",
+      "C": "Given It To David",
+      "D": "Flushed It Down The Toilet"
+    }
+  },
+  {
+    "question": "What Does Joyce Think Of David's Treatment Of Chloe?",
+    "answer": "A",
+    "choices": {
+      "A": "She Thinks He Is Too Harsh",
+      "B": "She Thinks He Is Justified",
+      "C": "She Thinks He Is Ignoring Her",
+      "D": "She Thinks He Is Being Too Nice"
+    }
+  },
+  {
+    "question": "What Does Joyce Want For Her Family?",
+    "answer": "C",
+    "choices": {
+      "A": "To Be Rich",
+      "B": "To Be Famous",
+      "C": "To Be Happy",
+      "D": "To Be Powerful"
+    }
+  },
+  {
+    "question": "What Does Max Order For Breakfast?",
+    "answer": "A",
+    "choices": {
+      "A": "Bacon Omelette",
+      "B": "Belgian Waffle",
+      "C": "Pancakes",
+      "D": "French Toast"
+    }
+  }
+]

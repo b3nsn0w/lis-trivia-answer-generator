@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Written On The Flyer Featuring A Bio T-Rex With A Flame Thrower?",
+    "answer": "B",
+    "choices": {
+      "A": "\"I'm Not Okay\"",
+      "B": "\"Call Doctor Duerf\"",
+      "C": "\"Have You Seen Me?\"",
+      "D": "\"Medical Help Needed\""
+    }
+  },
+  {
+    "question": "What Is The Name Of The Waterfall Featured On The Flyer For \"Your Off Beat Guide To Oregon\"?",
+    "answer": "C",
+    "choices": {
+      "A": "Snake Falls",
+      "B": "Rogue Falls",
+      "C": "Multnomah Falls",
+      "D": "Idaho Falls"
+    }
+  },
+  {
+    "question": "What Is Written On The Flyer Featuring Two Derp Cats?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Who Let The Cats Out?\"",
+      "B": "\"Bring Them Back\"",
+      "C": "\"They're Gonna Die\"",
+      "D": "\"Seriously Who Did\""
+    }
+  },
+  {
+    "question": "What Is The Missing Phrase On The Cat Sticker On Page 3 Of Max's Journal?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Go Meow Yourself\"",
+      "B": "\"Purrfect Day\"",
+      "C": "\"Feline Fine\"",
+      "D": "\"Cats Rule\""
+    }
+  },
+  {
+    "question": "What Is The Name Of The Bar That Hosts Karaoke Night Every Friday Night At 8PM?",
+    "answer": "C",
+    "choices": {
+      "A": "The Howling Wolf's Den",
+      "B": "The Lupine Lounge",
+      "C": "Howling Lupes Cave",
+      "D": "The Wolf's Howl"
+    }
+  }
+]

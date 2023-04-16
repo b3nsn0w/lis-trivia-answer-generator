@@ -1,0 +1,10 @@
+#  Lynn 
+
+[File:Lynn as Chloe Price.jpg](right.md)
+**Lynn** (**りん**) is the Japanese voice actress of [Chloe Price](chloe_price.md) (**クロエ・プライス**) for the [Japanese Release (Life is Strange)](japanese_localization.md) of *[Life is Strange](life_is_strange.md) *and [Life is Strange: Before the Storm](life_is_strange__before_the_storm.md).
+
+ Lynn =
+
+[File:Lynn as Chloe Price.jpg](right.md)
+**Lynn** (**りん**) is the Japanese voice actress of [Chloe Price](chloe_price.md) (**クロエ・プライス**) for the [Japanese Release (Life is Strange)](japanese_localization.md) of *[Life is Strange](life_is_strange.md) *and [Life is Strange: Before the Storm](life_is_strange__before_the_storm.md).
+

@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Who is the writer that has been writing Max in a way that she sometimes uses older expressions?",
+    "answer": "C",
+    "choices": {
+      "A": "Michel Koch",
+      "B": "Jack Kerouac",
+      "C": "Christian Divine",
+      "D": "Andy Warhol"
+    }
+  },
+  {
+    "question": "Which book does Max borrow from Kate in the game?",
+    "answer": "B",
+    "choices": {
+      "A": "Battle Royale",
+      "B": "The October Country",
+      "C": "A Sound of Thunder",
+      "D": "The Catcher in the Rye"
+    }
+  },
+  {
+    "question": "Which artist does Max refer to as \"my man\"?",
+    "answer": "A",
+    "choices": {
+      "A": "Philip-Lorca diCorcia",
+      "B": "Man Ray",
+      "C": "Cartier-Bresson",
+      "D": "David Hamilton"
+    }
+  }
+]

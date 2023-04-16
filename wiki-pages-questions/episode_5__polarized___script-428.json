@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Jefferson Say Is The Last Thing Max Will Ever See?",
+    "answer": "A",
+    "choices": {
+      "A": "Herself Through His Camera Eye",
+      "B": "The Dark Room",
+      "C": "Her Family And Friends",
+      "D": "The Police Coming To Rescue Her"
+    }
+  },
+  {
+    "question": "What Does Jefferson Say He Will Do To Max?",
+    "answer": "B",
+    "choices": {
+      "A": "Make Her A Famous Model",
+      "B": "Make Her Live Forever In His Photographs",
+      "C": "Let Her Go Free",
+      "D": "Sell Her To Another Photographer"
+    }
+  },
+  {
+    "question": "What Does Jefferson Say About Max's Diary?",
+    "answer": "C",
+    "choices": {
+      "A": "He Will Read It Later",
+      "B": "He Will Burn It",
+      "C": "Nobody Will Read It",
+      "D": "He Will Use It As Inspiration For His Photos"
+    }
+  },
+  {
+    "question": "What Does Jefferson Say About Max's Selfies?",
+    "answer": "A",
+    "choices": {
+      "A": "They Are A Waste Of Talent",
+      "B": "They Are The Best Photos He Has Ever Seen",
+      "C": "They Are Too Dark And Depressing",
+      "D": "They Are Not Good Enough To Be In His Gallery"
+    }
+  },
+  {
+    "question": "What Does Max Do After Jefferson Throws Her Diary On The Floor?",
+    "answer": "C",
+    "choices": {
+      "A": "She Tries To Escape",
+      "B": "She Cries And Begs For Mercy",
+      "C": "She Looks At Her Selfie In The Diary",
+      "D": "She Tries To Attack Jefferson"
+    }
+  }
+]

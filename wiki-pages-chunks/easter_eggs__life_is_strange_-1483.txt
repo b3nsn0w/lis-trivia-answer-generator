@@ -1,0 +1,46 @@
+Here is a section of the wiki page for Easter Eggs (Life is Strange):
+
+## Blackwell Parking Lot
+
+Licence_Plates-10.jpg|#1 "QNT MLP"  - *[w:c:quantumleap](quantum_leap.md)* (Red Car near entrance)
+Licence_Plates-11.jpg|#2 "BRDCHRCH" - *[w:c:broadchurch](broadchurch.md)* (Gray Car)
+Licence_Plates-01.jpg|#3 "TWN PKS" - *[w:c:twinpeaks](twin_peaks.md)* ([Chloe's Truck](chloe_s_truck.md))
+Licence_Plates-08.jpg|#4 "B R K B D" - *[w:c:breakingbad](breaking_bad.md)* ([Frank's RV](frank_s_rv.md))
+Licence_Plates-09.jpg|#5 "SXFTNDR" - *[w:c:sixfeetunder](six_feet_under.md)* (Nathan's Truck)
+Licence_Plates-06.jpg|#6 "THPRCTC" - *[w:c:thewire:The Practice](the_practice.md)* (Blue Truck)
+Licence_Plates-05.jpg|#7 "PRK SN RC" - *[w:c:parksandrecreation](parks_and_recreation.md)* (Brown Car)
+Licence_Plates-04.jpg|#8 "TH WR"   - *[w:c:thewire](the_wire.md)* (Red Car)
+Licence_Plates-12.jpg|#9 "CRNVL"   - *[w:c:carnivale](carniv_le.md)* (Brown Truck)
+Licence_Plates-07.jpg|#10 "THSPRNS" - *[w:c:sopranos](the_sopranos.md)* (Blue Car)
+Licence_Plates-03.jpg|#11 "TWLGHTZN" - *[w:c:twilightzone](the_twilight_zone.md)* (Red Truck #2)
+Licence_Plates-02.jpg|#12 "THXFLS" - *[w:c:xfiles](the_x_files.md)* (Warren's Car)
+Licence_Plates-13.jpg|#13 "BFFVMPRSLR" - *[w:c:buffy](buffy_the_vampire_slayer.md)* (Gray Truck next to Warren's car)
+Episode 2 cutscene license plate.png|#14 "TPFTHLK" - *[w:c:topofthelake](top_of_the_lake.md)* (Jefferson's car at the end of Episode 2)
+
+#
+
+## Two Whales Diner
+
+Licence_Plate_Reference_(EP2)-02.jpg|#1 "NTHRRTH" - *{{Wiki|Another Earth}}*
+Licence_Plate_Reference_(EP2)-03.jpg|#2 "DNNDRK" - *{{Wiki|Donnie Darko}}*
+Licence_Plate_Reference_(EP2)-04.jpg|#3 "L P H N T" - *{{Wiki|Elephant (2003 film)|Elephant}}*
+Licence_Plate_Reference_(EP2)-05.jpg|#4 "THFCLT" - *{{Wiki|The Faculty (TV series)|The Faculty}}*
+Licence_Plate_Reference_(EP2)-06.jpg|#5 "THKLLNG" - *{{Wiki|The Killing (U.S. TV_series)|The Killing}}*
+Licence_Plate_Reference_(EP2)-07.jpg|#6 "GRNDHGD" - *{{Wiki|Groundhog Day (film)|Groundhog Day}}*
+2015-12-27_00053.jpg|#7 "RLSFTTRCTN" - *{{Wiki|The Rules of Attraction}}*
+2015-12-27_00042.jpg|#8 "THFFC" - *{{Wiki|The Office}}*
+
+## Life is... 
+It's not allowed to say the game's title! There are several occasions throughout the game where a character begins their sentence with "Life is..." arousing the expectation of finishing it with "strange", but at the end it ends differently.
+* After altering the past by handing in her Everyday Heroes contest photo to Jefferson in Episode 5, Max awakes in a [San Francisco](san_francisco.md) Art Gallery. Demonstrating how surreal this situation is for her, she says,*"Life is... weird."*
+* In Max's nightmare, Alternative Chloe appears and blames Max. Before she disappears, she says,*"Life is... so not fair."*
+**Note: **While not featured directly in the game, the closest a character ever came to saying *"life is strange"* was during the trailer for the Limited Edition, when Max said *"then life started getting strange"*.https://www.youtube.com/watch?v# Y60Rp3QbT58&featureyoutu.be&t# 52s
+
+## Lorem Ipsum 
+This text appears in the background of [Max's Journal](max_s_journal.md). It is commonly used for filler or "dummy text" in works of printing and typesetting. This dates back to the 1500s, and was made popular in the 1960's. It has roots in classical Latin literature.[http://www.lipsum.com/ This website] is helpful for more backstory on the Lorem Ipsum. The standard passage used since the 1500s is thus:
+
+*"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."*For a translation and explanation of the passage, see [https://www.youtube.com/watch?vD-66fUzhPlI this video] from Mari at Geek Remix.
+
+
+
+Generate five trivia questions relevant to this section of the page.

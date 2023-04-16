@@ -1,0 +1,42 @@
+[
+  {
+    "question": "In which episode of Life is Strange can the Old Guy be seen sitting inside the Two Whales Diner?",
+    "answer": "C",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "What is the Old Guy holding in his right hand when he is first introduced in Episode 2?",
+    "answer": "B",
+    "choices": {
+      "A": "A doughnut",
+      "B": "A lottery ticket",
+      "C": "A newspaper",
+      "D": "A coffee cup"
+    }
+  },
+  {
+    "question": "In which episode can the Old Guy be seen injured and sitting on the floor of the Two Whales Diner?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 5: Polarized"
+    }
+  },
+  {
+    "question": "What does the Old Guy tell Max when she tries to talk to him in Episode 2?",
+    "answer": "D",
+    "choices": {
+      "A": "\"I'm waiting for the bus.\"",
+      "B": "\"Get your own lottery ticket.\"",
+      "C": "\"I'm a millionaire.\"",
+      "D": "\"I have no time for chit-chat.\""
+    }
+  }
+]

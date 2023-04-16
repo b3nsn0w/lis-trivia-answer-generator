@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who Captures Victoria Chase In The Dark Room?",
+    "answer": "A",
+    "choices": {
+      "A": "Mark Jefferson",
+      "B": "Nathan Prescott",
+      "C": "David Madsen",
+      "D": "Chloe Price"
+    }
+  },
+  {
+    "question": "Who Will Be Arrested For The Murder Of Chloe If Max Chooses To Sacrifice Her To Save Arcadia Bay?",
+    "answer": "B",
+    "choices": {
+      "A": "Mark Jefferson",
+      "B": "Nathan Prescott",
+      "C": "David Madsen",
+      "D": "Victoria Chase"
+    }
+  },
+  {
+    "question": "Who Will Be Crushed Under A Police Car Outside The Diner?",
+    "answer": "C",
+    "choices": {
+      "A": "Mark Jefferson",
+      "B": "Nathan Prescott",
+      "C": "Anderson Berry",
+      "D": "David Madsen"
+    }
+  },
+  {
+    "question": "Who Will Be Crushed By The Dumpster If Max Chooses Not To Warn Her About The Storm In Episode 3?",
+    "answer": "B",
+    "choices": {
+      "A": "Victoria Chase",
+      "B": "Homeless Lady",
+      "C": "Kate Marsh",
+      "D": "Joyce Price"
+    }
+  },
+  {
+    "question": "Who Dies In A Gas Explosion In The Diner?",
+    "answer": "A",
+    "choices": {
+      "A": "Warren Graham, Joyce Price, Frank Bowers, Pompidou, and an Old Guy",
+      "B": "Mark Jefferson, Nathan Prescott, and David Madsen",
+      "C": "Victoria Chase, Kate Marsh, and Taylor Christensen",
+      "D": "Evan Harris, Alyssa Anderson, and R.J. MacReady"
+    }
+  }
+]

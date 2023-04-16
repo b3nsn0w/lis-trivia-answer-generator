@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Name Of The Episode That This Image Gallery Is For?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "Which Image Shows Max And Chloe Together?",
+    "answer": "B",
+    "choices": {
+      "A": "319630_screenshots_2015-07-28_00003.jpg",
+      "B": "Max and Chloe 01.jpg",
+      "C": "319630_screenshots_2015-07-28_00054.jpg",
+      "D": "319630_screenshots_2015-07-28_00005.jpg"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Co-Director Mentioned In One Of The Images?",
+    "answer": "A",
+    "choices": {
+      "A": "Michel Koch",
+      "B": "Raoul Barbet",
+      "C": "Jean-Luc Cano",
+      "D": "Luc Baghadoust"
+    }
+  },
+  {
+    "question": "Which Image Shows An End-Of-The-World Party?",
+    "answer": "B",
+    "choices": {
+      "A": "319630_screenshots_2015-07-28_00008.jpg",
+      "B": "End-of-the-world Party.jpeg",
+      "C": "319630_screenshots_2015-10-09_00019.jpg",
+      "D": "319630_screenshots_2015-07-28_00012.jpg"
+    }
+  }
+]

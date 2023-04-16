@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What Is The Name Of The Achievement For Taking Optional Photo #3 In Episode 2: Out Of Time?",
+    "answer": "A",
+    "choices": {
+      "A": "Processor",
+      "B": "Dynamic Range",
+      "C": "Colorized",
+      "D": "Meter Made"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Achievement For Taking All Optional Photos In Episode 2: Out Of Time?",
+    "answer": "A",
+    "choices": {
+      "A": "Lab Master",
+      "B": "Resolution Revolution",
+      "C": "Out of Time",
+      "D": "Full Exposure"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Achievement For Finishing Episode 2: Out Of Time?",
+    "answer": "A",
+    "choices": {
+      "A": "Out of Time",
+      "B": "Lab Master",
+      "C": "Processor",
+      "D": "Field Of View"
+    }
+  }
+]

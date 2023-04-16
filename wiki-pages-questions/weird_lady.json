@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Weird Lady's Accent?",
+    "answer": "B",
+    "choices": {
+      "A": "British",
+      "B": "Canadian",
+      "C": "American",
+      "D": "Australian"
+    }
+  },
+  {
+    "question": "In Which Episodes Does Max Encounter The Weird Lady?",
+    "answer": "B",
+    "choices": {
+      "A": "Episodes 1 and 2",
+      "B": "Episodes 2 and 3",
+      "C": "Episodes 3 and 4",
+      "D": "Episodes 4 and 5"
+    }
+  },
+  {
+    "question": "Where Does Max Encounter The Weird Lady?",
+    "answer": "C",
+    "choices": {
+      "A": "At The Beach",
+      "B": "At The Park",
+      "C": "At The Diner",
+      "D": "At The School"
+    }
+  },
+  {
+    "question": "In Which Episode Does Max Observe The Weird Lady Before Speaking To Her?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode 1",
+      "B": "Episode 2",
+      "C": "Episode 3",
+      "D": "Episode 4"
+    }
+  },
+  {
+    "question": "In Which Ending Does The Weird Lady Presumably Die?",
+    "answer": "B",
+    "choices": {
+      "A": "Sacrifice Chloe",
+      "B": "Sacrifice Arcadia Bay",
+      "C": "Sacrifice Max",
+      "D": "Sacrifice The Storm"
+    }
+  }
+]

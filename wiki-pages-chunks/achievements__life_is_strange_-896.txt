@@ -1,0 +1,117 @@
+Here is a section of the wiki page for Achievements (Life is Strange):
+
+## Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+{{Achievements
+|image  Ambient_Achievement.png
+|name #  Ambient
+|description  Take optional photo #1 in Episode 4: Dark Room
+|type #  bronze
+|score  10
+|rarityps4 #  19.6
+|raritysteam  17.5
+}}
+{{Achievements
+|name #  Time-Lapsed
+|image  Time-Lapsed_Achievement.png
+|description #  Take optional photo #2 in Episode 4: Dark Room
+|type  bronze
+|score #  10
+|rarityps4  20
+|raritysteam #  16.8
+}}
+{{Achievements
+|name  Balance
+|image #  Balance_Achievement.png
+|description  Take optional photo #3 in Episode 4: Dark Room
+|type #  bronze
+|score  10
+|rarityps4 #  13.3
+|raritysteam  11.4
+}}
+{{Achievements
+|name #  Rangefinder
+|image  Rangefinder_Achievement.png
+|description #  Take optional photo #4 in Episode 4: Dark Room
+|type  bronze
+|score #  10
+|rarityps4  15.2
+|raritysteam #  13.6
+}}
+{{Achievements
+|name  Gamma Value
+|image #  Gamma_Value_Achievement.png
+|description  Take optional photo #5 in Episode 4: Dark Room
+|type #  bronze
+|score  10
+|rarityps4 #  10.5
+|raritysteam  8.2
+}}
+{{Achievements
+|name #  Dioptric Power
+|image  Dioptric_Power_Achievement.png
+|description #  Take optional photo #6 in Episode 4: Dark Room
+|type  bronze
+|score #  10
+|rarityps4  16.2
+|raritysteam #  15
+}}
+{{Achievements
+|name  Fisheye
+|image #  Fisheye_Achievement.png
+|description  Take optional photo #7 in Episode 4: Dark Room
+|type #  bronze
+|score  10
+|rarityps4 #  14.2
+|raritysteam  13
+}}
+{{Achievements
+|name #  Manually Exposed
+|image  Manually_Exposed_Achievement.png
+|description #  Take optional photo #8 in Episode 4: Dark Room
+|type  bronze
+|score #  10
+|rarityps4  27.9
+|raritysteam #  24.8
+}}
+{{Achievements
+|name  Slideshow
+|image #  Slideshow_Achievement.png
+|description  Take optional photo #9 in Episode 4: Dark Room
+|type #  bronze
+|score  10
+|rarityps4 #  12.2
+|raritysteam  9.8
+}}
+{{Achievements
+|name #  Tripod
+|image   Tripod_Achievement.png
+|description #  Take optional photo #10 in Episode 4: Dark Room
+|type  bronze
+|score #  10
+|rarityps4  9.1
+|raritysteam #  6
+}}
+{{Achievements
+|name  Shutterbug
+|image #  Shutterbug_Achievement.png
+|description  Take all optional photos in Episode 4: Dark Room
+|type #  bronze
+|score  45
+|rarityps4 #  8.6
+|raritysteam  5.5
+}}
+{{Achievements
+|name #  Dark Room
+|image  Dark_Room_Achievement.png
+|description #  Finish Episode 4: Dark Room
+|type  bronze
+|score #  55
+|rarityps4  29.7
+|raritysteam #  27
+}}
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

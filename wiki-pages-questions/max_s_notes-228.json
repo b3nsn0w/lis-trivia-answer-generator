@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Where Were The Photos Of Kate Found?",
+    "answer": "C",
+    "choices": {
+      "A": "In Max's Journal",
+      "B": "In The Principal's Office",
+      "C": "In The Dark Room",
+      "D": "In Kate's Locker"
+    }
+  },
+  {
+    "question": "What Is The Condition Of Kate In The Photos?",
+    "answer": "B",
+    "choices": {
+      "A": "She Is Awake And Aware",
+      "B": "She Is Sleeping",
+      "C": "She Is Dead",
+      "D": "She Is Crying"
+    }
+  },
+  {
+    "question": "How Does Max Describe Kate In The Photos?",
+    "answer": "C",
+    "choices": {
+      "A": "She Looks Happy And Relaxed",
+      "B": "She Looks Scared And Traumatized",
+      "C": "She Looks Doped Up And Unaware",
+      "D": "She Looks Angry And Defiant"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Location Where The Photos Were Found?",
+    "answer": "A",
+    "choices": {
+      "A": "The Dark Room",
+      "B": "The Principal's Office",
+      "C": "The Girls' Locker Room",
+      "D": "The Photography Studio"
+    }
+  },
+  {
+    "question": "Who Took The Photos Of Kate?",
+    "answer": "C",
+    "choices": {
+      "A": "Nathan Prescott",
+      "B": "Victoria Chase",
+      "C": "Mark Jefferson",
+      "D": "David Madsen"
+    }
+  }
+]

@@ -1,0 +1,207 @@
+#  Episode 1: Chrysalis - Image Gallery 
+
+{{Scaleimage|file# 1908440_888207817867800_545726511779941891_n.jpg|sizelarge}}
+The following is an image gallery for [Episode 1: Chrysalis](episode_1__chrysalis.md).
+
+LifeIsStrange 2015-05-23 11-03-29-00.jpg
+LifeIsStrange 2015-05-23 11-04-59-57.jpg
+LifeIsStrange 2015-05-23 11-08-29-91.jpg
+LifeIsStrange 2015-05-23 11-08-36-11.jpg
+LifeIsStrange 2015-05-23 11-36-44-95.jpg
+LifeIsStrange 2015-05-23 11-38-17-78.jpg
+LifeIsStrange 2017-02-05 11-44-32-51.png
+LifeIsStrange 2015-05-23 11-40-52-06.jpg
+LifeIsStrange 2015-05-23 11-41-57-74.jpg
+LifeIsStrange 2015-05-23 11-42-42-32.jpg
+LifeIsStrange 2015-05-23 11-43-04-42.jpg
+LifeIsStrange 2015-05-23 11-48-00-73.jpg
+LifeIsStrange 2015-05-23 11-51-38-96.jpg
+LifeIsStrange 2015-05-23 11-51-40-46.jpg
+LifeIsStrange 2015-05-23 12-00-06-41.jpg
+LifeIsStrange 2015-05-23 12-02-13-16.jpg
+LifeIsStrange 2015-05-23 12-04-04-16.jpg
+LifeIsStrange 2015-05-23 12-04-06-75.jpg
+LifeIsStrange 2015-05-23 12-04-22-54.jpg
+LifeIsStrange 2015-05-23 12-10-25-88.jpg
+LifeIsStrange 2015-05-23 12-17-15-72.jpg
+LifeIsStrange 2015-05-23 12-21-44-49.jpg
+LifeIsStrange 2015-05-23 12-21-44-49.jpg
+LifeIsStrange 2015-05-23 12-23-01-74.jpg
+LifeIsStrange 2015-05-23 12-23-13-18.jpg
+LifeIsStrange 2015-05-23 12-24-12-82.jpg
+LifeIsStrange 2015-05-23 12-24-18-78.jpg
+LifeIsStrange 2015-05-23 12-24-45-56.jpg
+LifeIsStrange 2015-05-23 12-27-53-90.jpg
+LifeIsStrange 2015-05-23 12-39-25-34.jpg
+LifeIsStrange 2015-05-23 12-39-56-23.jpg
+LifeIsStrange 2015-05-23 12-40-20-06.jpg
+LifeIsStrange Truck Chloe Max.jpg
+LifeIsStrange 2015-05-23 12-41-25-06.jpg
+LifeIsStrange 2015-05-23 12-43-11-22.jpg
+LifeIsStrange 2015-05-23 12-43-46-66.jpg
+LifeIsStrange 2015-05-23 12-43-48-72.jpg
+LifeIsStrange 2015-05-23 12-43-52-30.jpg
+LifeIsStrange 2015-05-23 12-43-53-16.jpg
+LifeIsStrange 2015-05-23 12-44-02-28.jpg
+LifeIsStrange 2015-05-23 12-44-06-93.jpg
+LifeIsStrange 2015-05-23 12-44-35-02.jpg
+LifeIsStrange 2015-05-23 13-10-27-48.jpg
+LifeIsStrange 2015-05-23 13-10-29-15.jpg
+LifeIsStrange 2015-05-23 13-10-37-25.jpg
+LifeIsStrange 2015-05-23 13-15-38-25.jpg
+LifeIsStrange 2015-05-23 13-15-44-08.jpg
+LifeIsStrange 2015-05-23 13-15-56-83.jpg
+LifeIsStrange 2015-05-23 13-16-03-22.jpg
+LifeIsStrange 2015-05-23 13-23-00-52.jpg
+LifeIsStrange 2015-05-23 13-26-53-41.jpg
+LifeIsStrange 2015-05-23 13-27-13-42.jpg
+LifeIsStrange 2015-05-23 13-27-16-96.jpg
+LifeIsStrange 2015-05-23 13-28-27-01.jpg
+LifeIsStrange 2015-05-23 13-30-35-40.jpg
+LifeIsStrange 2015-05-23 13-30-40-85.jpg
+LifeIsStrange 2015-05-23 13-30-52-64.jpg
+LifeIsStrange 2015-05-23 13-31-15-75.jpg
+LifeIsStrange 2015-05-23 13-31-55-39.jpg
+LifeIsStrange 2015-05-23 13-32-57-39.jpg
+LifeIsStrange 2015-05-23 13-34-18-64.jpg
+LifeIsStrange max and Chloe look into sunset.jpg
+LifeIsStrange 2015-05-23 13-38-20-85.jpg
+LifeIsStrange 2015-05-23 13-38-33-45.jpg
+LifeIsStrange 2015-05-23 13-38-43-92.jpg
+LifeIsStrange 2015-05-23 13-38-53-42.jpg
+LifeIsStrange 2015-05-23 13-38-59-05.jpg
+LifeIsStrange 2015-05-23 13-39-09-11.jpg
+LifeIsStrange 2015-05-23 13-39-16-11.jpg
+LifeIsStrange 2015-05-23 13-39-19-75.jpg
+LifeIsStrange 2015-05-23 13-39-37-78.jpg
+LifeIsStrange 2015-05-23 13-39-45-35.jpg
+LifeIsStrange 2015-05-23 13-39-56-68.jpg
+File:Max_and_Warren_-_Chrysalis_(2).jpg
+File:Max_and_Warren_-_Chrysalis_(3).jpg
+File:Max_and_Warren_-_Chrysalis_(4).jpg
+File:Max_and_Warren_-_Chrysalis_(5).jpg
+File:LIS1E1_-_Lakeside_-_14.png
+File:LIS1E1_-_Lakeside_-_05.png
+File:LIS1E1_-_Lakeside_-_01.png
+File:LIS1E1_-_Lakeside_-_06.png
+File:LIS1E1_-_Lakeside_-_03.png
+File:LIS1E1_-_Lakeside_-_04.png
+File:LIS1E1_-_Lakeside_-_09.png
+File:LIS1E1_-_Lakeside_-_07.png
+File:LIS1E1_-_Lakeside_-_08.png
+File:LIS1E1_-_Lakeside_-_10.png
+File:LIS1E1_-_Lakeside_-_11.png
+File:LIS1E1_-_Lakeside_-_12.png
+File:LIS1E1_-_Lakeside_-_13.png
+File:LIS1E1_-_Lakeside_-_15.png
+File:LIS1E1_-_Lakeside_-_16.png
+File:LIS1E1_-_Lakeside_-_17.png
+File:LIS1E1_-_Lakeside_-_18.png
+
+----
+
+**Reference:** In-Game Screenshots taken by [User:Josey-chan](josey_chan.md).
+Life Is Strange Gallery [http://jvbuenconcejo.deviantart.com/gallery/54589502/Life-Is-Strange]
+
+The following is an image gallery for [Episode 1: Chrysalis](episode_1__chrysalis.md).
+
+LifeIsStrange 2015-05-23 11-03-29-00.jpg
+LifeIsStrange 2015-05-23 11-04-59-57.jpg
+LifeIsStrange 2015-05-23 11-08-29-91.jpg
+LifeIsStrange 2015-05-23 11-08-36-11.jpg
+LifeIsStrange 2015-05-23 11-36-44-95.jpg
+LifeIsStrange 2015-05-23 11-38-17-78.jpg
+LifeIsStrange 2017-02-05 11-44-32-51.png
+LifeIsStrange 2015-05-23 11-40-52-06.jpg
+LifeIsStrange 2015-05-23 11-41-57-74.jpg
+LifeIsStrange 2015-05-23 11-42-42-32.jpg
+LifeIsStrange 2015-05-23 11-43-04-42.jpg
+LifeIsStrange 2015-05-23 11-48-00-73.jpg
+LifeIsStrange 2015-05-23 11-51-38-96.jpg
+LifeIsStrange 2015-05-23 11-51-40-46.jpg
+LifeIsStrange 2015-05-23 12-00-06-41.jpg
+LifeIsStrange 2015-05-23 12-02-13-16.jpg
+LifeIsStrange 2015-05-23 12-04-04-16.jpg
+LifeIsStrange 2015-05-23 12-04-06-75.jpg
+LifeIsStrange 2015-05-23 12-04-22-54.jpg
+LifeIsStrange 2015-05-23 12-10-25-88.jpg
+LifeIsStrange 2015-05-23 12-17-15-72.jpg
+LifeIsStrange 2015-05-23 12-21-44-49.jpg
+LifeIsStrange 2015-05-23 12-21-44-49.jpg
+LifeIsStrange 2015-05-23 12-23-01-74.jpg
+LifeIsStrange 2015-05-23 12-23-13-18.jpg
+LifeIsStrange 2015-05-23 12-24-12-82.jpg
+LifeIsStrange 2015-05-23 12-24-18-78.jpg
+LifeIsStrange 2015-05-23 12-24-45-56.jpg
+LifeIsStrange 2015-05-23 12-27-53-90.jpg
+LifeIsStrange 2015-05-23 12-39-25-34.jpg
+LifeIsStrange 2015-05-23 12-39-56-23.jpg
+LifeIsStrange 2015-05-23 12-40-20-06.jpg
+LifeIsStrange Truck Chloe Max.jpg
+LifeIsStrange 2015-05-23 12-41-25-06.jpg
+LifeIsStrange 2015-05-23 12-43-11-22.jpg
+LifeIsStrange 2015-05-23 12-43-46-66.jpg
+LifeIsStrange 2015-05-23 12-43-48-72.jpg
+LifeIsStrange 2015-05-23 12-43-52-30.jpg
+LifeIsStrange 2015-05-23 12-43-53-16.jpg
+LifeIsStrange 2015-05-23 12-44-02-28.jpg
+LifeIsStrange 2015-05-23 12-44-06-93.jpg
+LifeIsStrange 2015-05-23 12-44-35-02.jpg
+LifeIsStrange 2015-05-23 13-10-27-48.jpg
+LifeIsStrange 2015-05-23 13-10-29-15.jpg
+LifeIsStrange 2015-05-23 13-10-37-25.jpg
+LifeIsStrange 2015-05-23 13-15-38-25.jpg
+LifeIsStrange 2015-05-23 13-15-44-08.jpg
+LifeIsStrange 2015-05-23 13-15-56-83.jpg
+LifeIsStrange 2015-05-23 13-16-03-22.jpg
+LifeIsStrange 2015-05-23 13-23-00-52.jpg
+LifeIsStrange 2015-05-23 13-26-53-41.jpg
+LifeIsStrange 2015-05-23 13-27-13-42.jpg
+LifeIsStrange 2015-05-23 13-27-16-96.jpg
+LifeIsStrange 2015-05-23 13-28-27-01.jpg
+LifeIsStrange 2015-05-23 13-30-35-40.jpg
+LifeIsStrange 2015-05-23 13-30-40-85.jpg
+LifeIsStrange 2015-05-23 13-30-52-64.jpg
+LifeIsStrange 2015-05-23 13-31-15-75.jpg
+LifeIsStrange 2015-05-23 13-31-55-39.jpg
+LifeIsStrange 2015-05-23 13-32-57-39.jpg
+LifeIsStrange 2015-05-23 13-34-18-64.jpg
+LifeIsStrange max and Chloe look into sunset.jpg
+LifeIsStrange 2015-05-23 13-38-20-85.jpg
+LifeIsStrange 2015-05-23 13-38-33-45.jpg
+LifeIsStrange 2015-05-23 13-38-43-92.jpg
+LifeIsStrange 2015-05-23 13-38-53-42.jpg
+LifeIsStrange 2015-05-23 13-38-59-05.jpg
+LifeIsStrange 2015-05-23 13-39-09-11.jpg
+LifeIsStrange 2015-05-23 13-39-16-11.jpg
+LifeIsStrange 2015-05-23 13-39-19-75.jpg
+LifeIsStrange 2015-05-23 13-39-37-78.jpg
+LifeIsStrange 2015-05-23 13-39-45-35.jpg
+LifeIsStrange 2015-05-23 13-39-56-68.jpg
+File:Max_and_Warren_-_Chrysalis_(2).jpg
+File:Max_and_Warren_-_Chrysalis_(3).jpg
+File:Max_and_Warren_-_Chrysalis_(4).jpg
+File:Max_and_Warren_-_Chrysalis_(5).jpg
+File:LIS1E1_-_Lakeside_-_14.png
+File:LIS1E1_-_Lakeside_-_05.png
+File:LIS1E1_-_Lakeside_-_01.png
+File:LIS1E1_-_Lakeside_-_06.png
+File:LIS1E1_-_Lakeside_-_03.png
+File:LIS1E1_-_Lakeside_-_04.png
+File:LIS1E1_-_Lakeside_-_09.png
+File:LIS1E1_-_Lakeside_-_07.png
+File:LIS1E1_-_Lakeside_-_08.png
+File:LIS1E1_-_Lakeside_-_10.png
+File:LIS1E1_-_Lakeside_-_11.png
+File:LIS1E1_-_Lakeside_-_12.png
+File:LIS1E1_-_Lakeside_-_13.png
+File:LIS1E1_-_Lakeside_-_15.png
+File:LIS1E1_-_Lakeside_-_16.png
+File:LIS1E1_-_Lakeside_-_17.png
+File:LIS1E1_-_Lakeside_-_18.png
+
+----
+
+**Reference:** In-Game Screenshots taken by [User:Josey-chan](josey_chan.md).
+Life Is Strange Gallery [http://jvbuenconcejo.deviantart.com/gallery/54589502/Life-Is-Strange]
+

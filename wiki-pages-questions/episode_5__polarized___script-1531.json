@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Did Max See In Jefferson's Class That Led Her To Believe The Storm Was Not A Coincidence?",
+    "answer": "B",
+    "choices": {
+      "A": "A Shooting",
+      "B": "A Tornado",
+      "C": "An Eclipse",
+      "D": "A Flood"
+    }
+  },
+  {
+    "question": "What Did Jefferson Do To Max When He Captured Her?",
+    "answer": "A",
+    "choices": {
+      "A": "He Took Sick Photos Of Her",
+      "B": "He Locked Her In A Room",
+      "C": "He Stole Her Time Rewind Power",
+      "D": "He Tried To Kill Her"
+    }
+  },
+  {
+    "question": "What Does Warren Believe About Max's Time Travel Powers?",
+    "answer": "B",
+    "choices": {
+      "A": "They Are Magic",
+      "B": "They Are Science",
+      "C": "They Are From A Wizard",
+      "D": "They Are From A Wormhole"
+    }
+  },
+  {
+    "question": "What Does Warren Give To Max Before She Leaves?",
+    "answer": "C",
+    "choices": {
+      "A": "A Hug",
+      "B": "A High-Five",
+      "C": "A Polaroid",
+      "D": "A Note"
+    }
+  }
+]

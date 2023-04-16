@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Happens If Max Scares The Bird Twice But Doesn't Open The Window?",
+    "answer": "B",
+    "choices": {
+      "A": "The Bird Will Fly Outside",
+      "B": "The Bird Will Die",
+      "C": "The Bird Will Fly Into The Bathroom",
+      "D": "The Bird Will Fly Into The Bedroom"
+    }
+  },
+  {
+    "question": "What Does Max Think If The Bird Dies?",
+    "answer": "C",
+    "choices": {
+      "A": "\"Fly! Be free!\"",
+      "B": "\"Oh no, that poor little bird has been trapped in here!\"",
+      "C": "\"Oh shit! Poor thing...\"",
+      "D": "\"I'm glad it's gone.\""
+    }
+  },
+  {
+    "question": "What Happens If Max Sides With David?",
+    "answer": "A",
+    "choices": {
+      "A": "Max Will Not Encounter David Near The Doorway",
+      "B": "Max Will Encounter David Near The Doorway",
+      "C": "Max Will Help David Pack His Suitcase",
+      "D": "Max Will Apologize To David"
+    }
+  },
+  {
+    "question": "What Does David Say To Max After She Sides With Chloe?",
+    "answer": "A",
+    "choices": {
+      "A": "\"You Broke Up My Family\"",
+      "B": "\"I'm Sorry For What I Did\"",
+      "C": "\"I'm Glad You're On Our Side\"",
+      "D": "\"You're Making A Mistake\""
+    }
+  },
+  {
+    "question": "Where Does Max Go After Talking To David?",
+    "answer": "C",
+    "choices": {
+      "A": "The Bathroom",
+      "B": "The Bedroom",
+      "C": "The Garage",
+      "D": "The Kitchen"
+    }
+  }
+]

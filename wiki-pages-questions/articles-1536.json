@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Which episode of Life is Strange 2 received a review from TSA?",
+    "answer": "A",
+    "choices": {
+      "A": "Episode 2",
+      "B": "Episode 3",
+      "C": "Episode 4",
+      "D": "Episode 5"
+    }
+  },
+  {
+    "question": "Which episode of Life is Strange 2 was reviewed by Goomba Stomp?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode 2",
+      "B": "Episode 3",
+      "C": "Episode 4",
+      "D": "Episode 5"
+    }
+  },
+  {
+    "question": "Which episode of Life is Strange 2 was reviewed by Instinct Magazine?",
+    "answer": "C",
+    "choices": {
+      "A": "Episode 2",
+      "B": "Episode 3",
+      "C": "Episode 4",
+      "D": "Episode 5"
+    }
+  }
+]

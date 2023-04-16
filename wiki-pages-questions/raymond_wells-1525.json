@@ -1,0 +1,42 @@
+[
+  {
+    "question": "In which episode can Max and Chloe explore Principal Wells' office?",
+    "answer": "C",
+    "choices": {
+      "A": "Episode 3",
+      "B": "Episode 4",
+      "C": "Episode 2",
+      "D": "Episode 5"
+    }
+  },
+  {
+    "question": "What does Principal Wells tell Max about her photography journey in San Francisco?",
+    "answer": "A",
+    "choices": {
+      "A": "Every journey starts with the first step",
+      "B": "She needs to act like a kid",
+      "C": "She should give up on photography",
+      "D": "She should focus on her school work"
+    }
+  },
+  {
+    "question": "What is the color of Principal Wells' shirt and what does it symbolize?",
+    "answer": "B",
+    "choices": {
+      "A": "Blue, calmness",
+      "B": "Red, power and aggression",
+      "C": "Green, growth and renewal",
+      "D": "Yellow, happiness and optimism"
+    }
+  },
+  {
+    "question": "In which episode does Principal Wells attend Chloe's funeral in the Sacrifice Chloe ending?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 2",
+      "B": "Episode 3",
+      "C": "Episode 4",
+      "D": "None of the above"
+    }
+  }
+]

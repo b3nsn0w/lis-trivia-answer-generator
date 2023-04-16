@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Archive Of Articles And Interviews Related To Life Is Strange Called?",
+    "answer": "A",
+    "choices": {
+      "A": "Life is Strange Archive",
+      "B": "Life is Strange Encyclopedia",
+      "C": "Life is Strange Wiki",
+      "D": "Life is Strange Press"
+    }
+  },
+  {
+    "question": "Which Gaming Website Ranked Life Is Strange As The 7th Best Game Of The Year In 2015?",
+    "answer": "B",
+    "choices": {
+      "A": "VentureBeat",
+      "B": "Polygon",
+      "C": "Twinfinite",
+      "D": "HoustonPress"
+    }
+  },
+  {
+    "question": "Which Gaming Website Named Max And Chloe As The Best Video Game Women Of 2015?",
+    "answer": "B",
+    "choices": {
+      "A": "VentureBeat",
+      "B": "Polygon",
+      "C": "Forbes",
+      "D": "HoustonPress"
+    }
+  },
+  {
+    "question": "Which Gaming Website Awarded Life Is Strange The Best Musical Soundtrack Of 2015?",
+    "answer": "C",
+    "choices": {
+      "A": "VentureBeat",
+      "B": "Polygon",
+      "C": "PlayStation Universe",
+      "D": "Forbes"
+    }
+  },
+  {
+    "question": "Which Digital Media Prize Did Life Is Strange Win In 2016?",
+    "answer": "A",
+    "choices": {
+      "A": "Facebook and Peabody's Inaugural Digital Media Prize",
+      "B": "The Best Video Game Dogs of 2015",
+      "C": "The Best Indie Games of 2015",
+      "D": "Top 10 Kick-Ass Video Game Female Protagonists"
+    }
+  }
+]

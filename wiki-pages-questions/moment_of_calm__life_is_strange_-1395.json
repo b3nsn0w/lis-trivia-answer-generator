@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Where Is Max Sitting When She Thinks About The Consequences Of Her Time Traveling?",
+    "answer": "C",
+    "choices": {
+      "A": "Bench Outside The Dormitory Building",
+      "B": "Swing In The Backyard Of Chloe's House",
+      "C": "Stool Near The Kitchen In Chloe's House",
+      "D": "Chair Inside Kate's Hospital Room"
+    }
+  },
+  {
+    "question": "What Does Chloe Want To Do After Taking Over The Blackwell Gym?",
+    "answer": "A",
+    "choices": {
+      "A": "Take Over The World",
+      "B": "Go To The Beach",
+      "C": "Start A Band",
+      "D": "Have A Party"
+    }
+  },
+  {
+    "question": "What Does Max Think About The Alternate Timeline?",
+    "answer": "A",
+    "choices": {
+      "A": "She Feels Guilty",
+      "B": "She Feels Happy",
+      "C": "She Feels Confused",
+      "D": "She Feels Angry"
+    }
+  },
+  {
+    "question": "What Does Max Think About The Vortex Club At The End Of The World Party?",
+    "answer": "B",
+    "choices": {
+      "A": "She Wants To Join Them",
+      "B": "She Hates Them",
+      "C": "She Feels Indifferent",
+      "D": "She Feels Jealous"
+    }
+  }
+]

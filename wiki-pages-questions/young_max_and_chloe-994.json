@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Did Young Chloe And Max Dress Up As In One Of Their Photos?",
+    "answer": "A",
+    "choices": {
+      "A": "Pirates",
+      "B": "Princesses",
+      "C": "Superheroes",
+      "D": "Fairies"
+    }
+  },
+  {
+    "question": "What Did Young Chloe And Max Decorate Together?",
+    "answer": "A",
+    "choices": {
+      "A": "A Phone",
+      "B": "A Skateboard",
+      "C": "A Bike",
+      "D": "A Laptop"
+    }
+  },
+  {
+    "question": "What Did Young Max Make For Chloe?",
+    "answer": "A",
+    "choices": {
+      "A": "A Mix CD",
+      "B": "A Scrapbook",
+      "C": "A Painting",
+      "D": "A Necklace"
+    }
+  },
+  {
+    "question": "What Did Max's Family Never Do According To Her?",
+    "answer": "A",
+    "choices": {
+      "A": "Take Fun, Goofy Photos",
+      "B": "Travel Together",
+      "C": "Play Board Games",
+      "D": "Watch Movies Together"
+    }
+  },
+  {
+    "question": "What Did Max Accidentally Swallow When She Was Young?",
+    "answer": "A",
+    "choices": {
+      "A": "The Eye Of Her Teddy Bear",
+      "B": "A Marble",
+      "C": "A Button",
+      "D": "A Piece Of Candy"
+    }
+  }
+]

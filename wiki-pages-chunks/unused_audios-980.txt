@@ -1,0 +1,24 @@
+Here is a section of the wiki page for Unused Audios:
+
+VO_E5_7B.STM 00543.ogg}}
+** [context missing] Luke: "I knew this school would kill me one way or another."{{Headphones|fileVO_E5_7B.STM 00797.ogg}}
+** [context missing] Berry: "Max, it was my job to serve and protect Arcadia Bay. Now it's your turn."{{Headphones|file# VO_E5_7B.STM 00118.ogg}}
+* [context missing] In TownEnd, Nathan: "I told you, I told everybody. I didn't want to hurt you, I didn't. You could have been my best model."{{Headphones|fileVO_E5_9A.STM 00007.ogg}}
+** [context missing] Nathan: "Fuck you. You can't stop me."{{Headphones|file# VO_E5_9A.STM 00003.ogg}} ## Arrangements 
+*[https://www.youtube.com/watch?v76D2D05pqj4 Arrangement] of Chloe talking with Max after discovering Rachel's relationship with Frank.
+*[https://www.youtube.com/watch?v# yDtXQZBeR2g Arrangement] of Chloe's last wish in the [Alternative Timeline (Life is Strange)](alternative_timeline.md).
+*[https://www.youtube.com/watch?v0Q6_o-E-vC8 Arrangement] of unused audio in Episode 3.
+*[https://www.youtube.com/watch?v# iBW75OrP5S0 Arrangement] of unused audio from Nathan.
+
+## Notes 
+
+* [Nathan Prescott](nathan_prescott.md) and [Chloe Price](chloe_price.md) in the [Blackwell Academy](blackwell.md) bathroom about drugs: "Teens, not kids. Listen, I can hook you up." - "I don't want your pills. I want good ol' american green. Not weed, cash." {{Headphones|fileEp1-Toilets-NathanAndChloe-American_green.ogg}}
+* Nathan after shooting Chloe in the Blackwell bathroom: "No, please God no... I didn't mean to... You just kept pushing me... Everybody is always pushing me... I'm sorry... I'm so, so sorry... My life is Hell... And I am so busted..." {{Headphones|file# Ep1-Toilets-NathanAndChloe-ChloeDead.ogg}}
+*Max looking at stuff in the bathroom of [Madsen Household](chloe_s_house.md): "I already weighed myself last week." {{Headphones|fileEp1-Bathroom-scales_look.ogg}} . . . "No comment." {{Headphones|file# Ep1-Bathroom-scales_interact.ogg}} . . . "Nice, clean shower." {{Headphones|fileEp1-Bathroom-Shower_look.ogg}} . . . "It's so clean I want to test it out. But I need those tools from the garage." {{Headphones|file# Ep1-Bathroom-Shower_interact.ogg}} . . . "I hope Chloe isn't taking these pills..."The line is now: "I wonder if Chloe is taking those pills? I hope she's okay..." {{Headphones|fileEp1-Bathroom-pills.ogg}}
+*Max looking out of the window in [Joyce and David's Room](joyce_and_david_s_room.md): "To think I lived just half a mile away..." {{Headphones|file# Ep1-ChloesParentsRoom-Window.ogg}}
+*Max looking inside the closet in Joyce and David's room: "Joyce still works at the diner. Is her a husband a cop? Poor Chloe."{{Headphones|fileEp1-ChloesParentsRoom-Closet-interact.ogg}}
+*[David Madsen](david_madsen.md) to either Max or [Kate Marsh](kate_marsh.md) if Max chooses to take a photo instead of intervening when she sees Kate being bullied by David on campus grounds: "Just think of me as a storm. And that storm is headed your way. Be prepared." {{Headphones|file# DavidMadsenStorm.ogg}}
+
+
+
+Generate five trivia questions relevant to this section of the page.

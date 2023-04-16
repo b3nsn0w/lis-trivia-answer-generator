@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Course Does Mr. Jefferson Teach In The Photography Lab?",
+    "answer": "A",
+    "choices": {
+      "A": "The Language of Photography",
+      "B": "The Art of Painting",
+      "C": "The History of Sculpture",
+      "D": "The Science of Chemistry"
+    }
+  },
+  {
+    "question": "In Which Episode Can Max Obtain An Optional Photo By Photographing Kate Marsh?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 5: Polarized"
+    }
+  },
+  {
+    "question": "What Can Max Obtain By Photographing The Desk Etchings In The Photography Lab?",
+    "answer": "B",
+    "choices": {
+      "A": "A Secret Note",
+      "B": "An Optional Photo",
+      "C": "A Key To The Principal's Office",
+      "D": "A Clue To The Storm"
+    }
+  },
+  {
+    "question": "In Which Episode Can Max Visit The Photography Lab To Find Ingredients For A Pipe Bomb?",
+    "answer": "C",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 5: Polarized"
+    }
+  }
+]

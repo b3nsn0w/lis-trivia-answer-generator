@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Max Doing When She Receives A Text From Chloe?",
+    "answer": "A",
+    "choices": {
+      "A": "Sleeping",
+      "B": "Studying",
+      "C": "Eating",
+      "D": "Showering"
+    }
+  },
+  {
+    "question": "Where Does Chloe Want To Meet Max?",
+    "answer": "A",
+    "choices": {
+      "A": "In The Girls' Dormitories",
+      "B": "In The Cafeteria",
+      "C": "In The Science Lab",
+      "D": "In The Library"
+    }
+  },
+  {
+    "question": "What Does Max Give To Alice The Rabbit?",
+    "answer": "A",
+    "choices": {
+      "A": "A Carrot",
+      "B": "A Lettuce Leaf",
+      "C": "A Piece Of Bread",
+      "D": "A Slice Of Cheese"
+    }
+  },
+  {
+    "question": "What Does Max Do To Light Up The Dark Hallway?",
+    "answer": "A",
+    "choices": {
+      "A": "Turns On The Flashlight On Her Phone",
+      "B": "Turns On The Light Switch",
+      "C": "Lights A Candle",
+      "D": "Uses A Glowstick"
+    }
+  },
+  {
+    "question": "What Is The Title Of The Episode This Script Is For?",
+    "answer": "C",
+    "choices": {
+      "A": "Episode 1: Awake",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  }
+]

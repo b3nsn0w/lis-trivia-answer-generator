@@ -1,0 +1,57 @@
+Here is a section of the wiki page for Prescott Dormitory:
+
+## Outside 
+*{{Interaction|Max can look at the door near the dormitory gate.|"Principal Wells was so loaded the other night here."}}
+*{{Interaction|She can look at and take an optional photo of the cairn in the far end of the dormitory yard.|**Look: **"Okay, where did these rocks come from? This is too Blair Witch for me."
+**Look after talking to Samuel: **"I'm glad Samuel let me know about these rocks...
+Rest in peace, birdies."
+**Photo: **"One photo... for posterity."}}
+*{{Interaction|She can look at the Tobanga Totem.|"I don't think the Tobanga will ever give up any secrets to us."}}
+*{{Interaction|She can look at the accessibility upgrades board.|**Left money: **"Whew, good thing I didn’t let Chloe take that money from Principal Wells..."
+**Stole money: **"Oh great, Chloe stole money from the handicapped access fund... We're going to hell."}}
+*{{Interaction|She can look at Kate's memorial (determinant).|"Oh... my sweet Kate."}}
+*{{Interaction|She can look at and take an optional photo of two squirrels.|**First: **"How'd you like a partner for a quick photo op?"
+**Second: **"Did you think you could hide from Max Caulfield, 'Squirrel Paparazzi'?"
+**Both: **"Two cute little squirrels posing for me? If you insist..."
+**Photo: **"Now smile and say 'Nuts.'"}}
+*{{Interaction|She can look at Zachary.|"Enjoy the big game, Zachary... I hope it's not the last."}}
+*{{Interaction|She can look at Justin.|"I can tell that Justin is really into Chloe."}}
+*{{Interaction|She can look at and speak to Daniel.|"Poor Daniel. Looks like he needs a hug."}}
+*{{Interaction|She can look at and speak to Brooke.|'''Accepted Warren's invitation: '''"Brooke doesn't look happy that I'm 'Going Ape' with Warren..."
+'''Refused Warren's invitation: '''"Brooke looks happy that she's 'Going Ape' with Warren."}}
+*{{Interaction|She can look at and speak to Samuel.|"That's cool to see that Samuel is not alone for once."}}
+*{{Interaction|She can look at and speak to Ms. Grant.|"Ms. Grant looks interested in whatever Samuel is saying..."}}
+*{{Interaction|She can look at and speak to Chloe **(required)**.|"Chloe fits in so easy with Justin..."}}
+
+# #
+
+## Inside (Boys' Dorm) 
+*{{Interaction|Max can look at the map of the dormitories.|"Who needs a dorm map anyway? At least I can see that Nathan isn’t in room 106 or 108."}}
+*{{Interaction|She can look at a "Safety First" poster.|"Apparently Logan missed this poster."}}
+*{{Interaction|She can look at a poster about the cat pics.|"Who would steal cat pics?"}}
+*{{Interaction|She can look at a "Gamer Guyz" poster.|"They have one more meeting left..."}}
+*{{Interaction|She can take an optional photo of the footprints through a window.|"Every photographer should have one blurry Bigfoot shot..."}}
+*{{Interaction|She can look at a toilet paper roll.|"Are toilet paper wars mandatory in the dorms?"}}
+*{{Interaction|She can look at Daniel's drawings.|"Jerks. At least nobody messed with the Kate portrait."}}
+*{{Interaction|She can look at a "Don't Be Bullied" poster.|"This just makes me think of Kate..."}}
+*{{Interaction|She can look at a Bigfoots poster.|"Oh, you Bigfoots."}}
+*{{Interaction|She can look at a vandalized photo of Warren.|"Poor Warren. This is the work of Nathan. He's so lucky I'm a pacifist..."}}
+*{{Interaction|She can look at and write on Warren's slate.|**Before writing: **"Hello, Warren’s room! Hawking and him make a good team."
+**Accepted invitation: **"I can have a little fun with Warren for a change. He’s the one who wants to
+'Go Ape'... and sometimes you have to take a chance and see what happens..."
+**Refused invitation: **"I can have a little fun with Warren for a change. I mean, he tries so hard and
+I blew off his drive-in offer... Am I overthinking this?"}}
+*She can look at the other slates:
+**{{Interaction|Evan Harris|"Evan, of course. That's why no shits were given... Evan rules."}}
+**{{Interaction|Trevor|"Why, hello, Trevor... and Dana."}}
+**{{Interaction|Daniel DaCosta|"Even after Kate, nobody here learned anything about bullying."}}
+**{{Interaction|Nathan Prescott|"This can only be Nathan’s room."}}
+**{{Interaction|Hayden Jones|"Skunk weed and video games... I sense Hayden is near...}}
+**{{Interaction|Logan Robertson|"Looks like one of the jocks did care about Kate..."}}
+**{{Interaction|Zachary Riggins|"Zach or Logan? Who knows? Bros gotta bro."}}
+*She can enter Nathan's room.
+*{{Interaction|She can look at and speak to Chloe **(required)**.|"There's 'Eagle-Eye Chloe' scoping out the area for Nathan..."}}
+
+
+
+Generate five trivia questions relevant to this section of the page.

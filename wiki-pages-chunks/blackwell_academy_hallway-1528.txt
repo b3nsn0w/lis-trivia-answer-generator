@@ -1,0 +1,54 @@
+Here is a section of the wiki page for Blackwell Academy Hallway:
+
+## Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+*{{Interaction|She can look at the door into the [Science Lab](science_classroom.md).|**Before rewind: **"Ah, the science room. Here's the portal to [Warren Graham](warren.md)'s brain..."
+**After rewind: **"I have to stop screwing around and get to the bathroom!"}}
+*{{Interaction|She can look at the door into Principal Wells' office.|**Before: **"Principal doesn't come out of his office much."
+**After: **"What are you doing? Get to the bathroom!"}}
+*{{Interaction|She can look at and open her locker.|**Look: **"I hate having everybody see inside my locker."
+**Open: **"I love that picture of Mom and Dad... Hello Jack, kiss kiss...
+Andy, you look totally fabulous, as usual..."
+**After rewind: **"Right, everything is still in the same place..."}}
+*{{Interaction|She can look at [Taylor Christensen](taylor.md).|**Before: **"There's Taylor, always waiting for [Victoria Chase](victoria.md)."
+**After: **"Stop staring and go!"}}
+*{{Interaction|She can look at [Courtney Wagner](courtney.md).|**Before: **"I think that's Courtney. She's such a slave to Taylor and Victoria..."
+**After: **"They have no idea what is going with me and I can't tell them anything."}}
+*{{Interaction|She can look at [Alyssa Anderson](alyssa.md).|**Before: **"Alyssa is always texting, but she doesn't hang out with a lot of people."
+**After: **"Nobody here can help you. Move!"}}
+*{{Interaction|She can look at [Evan Harris](evan.md).|**Before: **"Evan doesn't say much to me, but, his photos are very cool."
+**After: **"Forget about them and go before that girl dies!"}}
+*{{Interaction|She can look at [Stella Hill](stella.md).|**Before: **"Stella is always deep in her notes. She didn't come to Blackwell to mess around."
+**After: **"Stella is still there with her notes. Quick, move, Max!"}}
+*{{Interaction|She can look at [Justin Williams](justin.md).|**Before: **"That's... Dana talking to... I think his name is Justin."
+**After: **"How can everybody look so calm, when I feel so stressed?"}}
+*{{Interaction|She can look at [Dana Ward](dana.md).|**Before: **"Dana is on my floor, too. She's such an archetypal gorgeous cheerleader. They must
+make them in a factory. I shouldn't be so catty. Dana is nice to me."
+**After: **"God, I wish I could talk to somebody about this... but everyone would think I'm nuts."}}
+*{{Interaction|She can look at [Brooke Scott](brooke.md).|**Before: **"I've seen Brooke hanging out with Warren. She seems like his type."
+**After: **"Brooke has no idea of the shit going on right now!"}}
+*{{Interaction|She can look at [Daniel DaCosta](daniel.md).|**Before: **"Poor Daniel. He's so nice. I wish I could beat the shit out of Logan."
+**After: **"Daniel is getting bullied all over again. I hope he doesn't remember..."}}
+*{{Interaction|She can look at [Logan Robertson](logan.md).|**Before: **"I hate bully jockstraps like Logan. And he's a [Vortex Club](vortex_club.md) member."
+**After: **"You can't help me at all, Logan."}}
+*{{Interaction|She can look at [Trevor Yard](trevor.md).|**Before: **"He's cute. I like skater boys. Too bad they don't like me."
+**After: **"Everybody is in the same place as they were before. I do need to hurry."}}
+*{{Interaction|She can look at [Samuel Taylor](samuel.md).|**Before: **"God, Samuel is such a weirdo. But I kinda like that about him."
+**After: **"I can't talk to Samuel about this, even if he might believe me."}}
+*{{Interaction|She can look at [Michelle Grant](ms__grant.md).|**Before: **"Ms. Grant is a great science teacher."
+**After: **"Ms. Grant can't help me now."}}
+*{{Interaction|She can look at [Zachary Riggins](zachary.md).|**Before: **"Figures Juliet would be dating Zachary. Jocks sucked up in the Vortex Club."
+**After: **"Nobody here can help you. Move!"}}
+*{{Interaction|She can look at [Juliet Watson](juliet.md).|**Before: **"There's Juliet from my dorm. Yet another Vortex Club disciple."
+**After: **"No, Max, they can't save that girl in the bathroom."}}
+*{{Interaction|She can look at [Hayden Jones](hayden.md).|**Before: **"There's Hayden, another Vortex Club bro. But, he's actually not an ass."
+**After: **"Why look at him? He can't help you!"}}
+*{{Interaction|She can look at [Rachel Amber](rachel_amber.md) Missing Person posters.|"These 'Missing Persons' posters are popping up everywhere."
+"'Rachel Amber.' She's so pretty. I hate these posters! So sad..."
+"It looks like she's been gone for months."
+"I wonder what actually happened to her..."
+**After rewind: **"If I don't hurry to that bathroom, another girl will be in trouble!"}}
+*{{Interaction|She can look at Halloween party posters.|"Yay Halloween, my favorite time of year!"
+"I wish October would last forever..."}}
+*{{Interaction|She can look at a set of bully free posters.|"Yes, this poster must stop bullies dead in their 
+
+Generate five trivia questions relevant to this section of the page.

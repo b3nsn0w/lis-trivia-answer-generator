@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is Bay City College?",
+    "answer": "D",
+    "choices": {
+      "A": "A college in San Francisco",
+      "B": "A college in Oregon",
+      "C": "A college in Arcadia Bay",
+      "D": "A fictional college"
+    }
+  },
+  {
+    "question": "Who is applying to Bay City College?",
+    "answer": "C",
+    "choices": {
+      "A": "Maxine Caulfield",
+      "B": "Rachel Amber",
+      "C": "Chloe Price",
+      "D": "Victoria Chase"
+    }
+  },
+  {
+    "question": "When is Bay City College mentioned in the game?",
+    "answer": "B",
+    "choices": {
+      "A": "During a conversation between Max and Chloe",
+      "B": "In a text message received by Max",
+      "C": "In a newspaper article found by Max",
+      "D": "During a lecture at Blackwell Academy"
+    }
+  },
+  {
+    "question": "What is the name of the real college located near Bay City, Oregon?",
+    "answer": "B",
+    "choices": {
+      "A": "Bay City College",
+      "B": "Tillamook Bay Community College",
+      "C": "Arcadia Bay College",
+      "D": "San Francisco College"
+    }
+  }
+]

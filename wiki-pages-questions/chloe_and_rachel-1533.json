@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Rachel Ask Chloe To Fix At Overlook Park?",
+    "answer": "B",
+    "choices": {
+      "A": "A Telescope",
+      "B": "A Viewfinder",
+      "C": "A Binocular",
+      "D": "A Camera"
+    }
+  },
+  {
+    "question": "What Does Chloe Use To Pry Open The Viewfinder At Overlook Park?",
+    "answer": "B",
+    "choices": {
+      "A": "A Knife",
+      "B": "A Nail File",
+      "C": "A Screwdriver",
+      "D": "A Key"
+    }
+  },
+  {
+    "question": "What Does Rachel Do When She Sees Her Father Kissing Another Woman?",
+    "answer": "C",
+    "choices": {
+      "A": "She Laughs It Off",
+      "B": "She Cries",
+      "C": "She Gets Angry",
+      "D": "She Ignores It"
+    }
+  },
+  {
+    "question": "What Does Rachel Burn In The Junkyard?",
+    "answer": "A",
+    "choices": {
+      "A": "A Photo",
+      "B": "A Book",
+      "C": "A Letter",
+      "D": "A Drawing"
+    }
+  },
+  {
+    "question": "What Warning Does Chloe's Father Give Her In Her Dream?",
+    "answer": "D",
+    "choices": {
+      "A": "To Be Careful Of Water",
+      "B": "To Be Careful Of Air",
+      "C": "To Be Careful Of Earth",
+      "D": "To Be Careful Of Fire"
+    }
+  }
+]

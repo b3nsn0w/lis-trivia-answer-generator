@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Who is the current Community Manager for the Life is Strange franchise?",
+    "answer": "A",
+    "choices": {
+      "A": "Toby Palm",
+      "B": "Scott Blows",
+      "C": "Lucy Hale",
+      "D": "Joshua Elkington"
+    }
+  },
+  {
+    "question": "Who was the Community Manager for the original Life is Strange game until December 2015?",
+    "answer": "B",
+    "choices": {
+      "A": "Toby Palm",
+      "B": "Scott Blows",
+      "C": "Lucy Hale",
+      "D": "Joshua Elkington"
+    }
+  },
+  {
+    "question": "Who is the current Video and Content Creator for the Life is Strange franchise?",
+    "answer": "C",
+    "choices": {
+      "A": "Toby Palm",
+      "B": "Scott Blows",
+      "C": "Lucy Hale",
+      "D": "Joshua Elkington"
+    }
+  }
+]

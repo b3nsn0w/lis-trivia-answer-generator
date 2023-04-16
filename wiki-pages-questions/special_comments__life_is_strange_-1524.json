@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Say When She Reaches The Limitation Of Her Rewind Ability?",
+    "answer": "A",
+    "choices": {
+      "A": "\"I Can't Go Back Further, I Need To Let Go!\"",
+      "B": "\"I Can't Take It! I Have To Stop!\"",
+      "C": "\"I Can Only Go So Far Back In Time.\"",
+      "D": "\"I'm Getting Dizzy... I Can't Rewind Any More…\""
+    }
+  },
+  {
+    "question": "What Does Max Say When She Finds Herself Or A Friend Nearby In A Life-Threatening Situation?",
+    "answer": "D",
+    "choices": {
+      "A": "\"I Need To Figure This Out.\"",
+      "B": "\"There's Only One Way Around This.\"",
+      "C": "\"Max, Don't Fuck Around! Rewind!\"",
+      "D": "\"I Have To Rewind Now!\""
+    }
+  },
+  {
+    "question": "What Does Max Say When She Tries To Explore An Area And Is Unable To?",
+    "answer": "C",
+    "choices": {
+      "A": "\"No Need To Go There Now.\"",
+      "B": "\"No Reason To Go Now.\"",
+      "C": "\"Can't Go That Way.\"",
+      "D": "\"Obviously Can't Go There.\""
+    }
+  },
+  {
+    "question": "What Does Max Say When She Is Unsuccessful At Performing An Action?",
+    "answer": "A",
+    "choices": {
+      "A": "\"It Won't Work.\"",
+      "B": "\"No Can Do.\"",
+      "C": "\"Not Gonna Happen.\"",
+      "D": "\"I Best Try Something Else.\""
+    }
+  },
+  {
+    "question": "What Does Max Say When She Loses A Photo After Rewinding?",
+    "answer": "C",
+    "choices": {
+      "A": "\"Aw Shit, My Photo Vanished!\"",
+      "B": "\"Man, There Goes Another Pulitzer!\"",
+      "C": "\"Damn, I Wanted To Keep That Picture!\"",
+      "D": "\"Are You Kidding Me? I Wanted That Shot!\""
+    }
+  }
+]

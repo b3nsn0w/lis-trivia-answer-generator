@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does AMA Stand For In The Context Of Reddit?",
+    "answer": "A",
+    "choices": {
+      "A": "Ask Me Anything",
+      "B": "All My Answers",
+      "C": "Ask My Anything",
+      "D": "All My Advice"
+    }
+  },
+  {
+    "question": "Which Game Franchise Is The Subject Of The Reddit AMAs Mentioned In This Section?",
+    "answer": "B",
+    "choices": {
+      "A": "The Walking Dead",
+      "B": "Life is Strange",
+      "C": "Grand Theft Auto",
+      "D": "Assassin's Creed"
+    }
+  },
+  {
+    "question": "Who Voiced Kate Marsh In Life is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Dayeanne Hutton",
+      "B": "Kylie Brown",
+      "C": "Hailey Hayes",
+      "D": "Hannah Telle"
+    }
+  },
+  {
+    "question": "When Was The Reddit AMA With The Life is Strange Team Held?",
+    "answer": "A",
+    "choices": {
+      "A": "January 27th, 2015",
+      "B": "May 22, 2018",
+      "C": "August 10, 2017",
+      "D": "April 26, 2018"
+    }
+  },
+  {
+    "question": "Which Voice Actor Played Chloe Price In Life is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "Dayeanne Hutton",
+      "B": "Ashly Burch",
+      "C": "Katy Bentz",
+      "D": "Nick Apostolides"
+    }
+  }
+]

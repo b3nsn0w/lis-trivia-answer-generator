@@ -1,0 +1,46 @@
+Here is a section of the wiki page for Special Comments (Life is Strange):
+
+## Idle Comments
+When Max stands idle for too long, she may make one of the following comments:
+**"Yep, I'm bored now" {{Headphones|file# VO_ACT_GEN_Max.STM_82~Act_GEN_Idle_Max_10.ogg‎}}*
+**"Tick tock, tick tock, tick tock…" {{Headphones|fileVO_ACT_GEN_Max.STM_70~Act_GEN_Idle_Max_100.ogg‎}}*
+**"That’s all she wrote, folks." {{Headphones|file# ‎VO_ACT_GEN_Max.STM_51~Act_GEN_Idle_Max_110.ogg}}*
+**"It’s great to watch the world pass you by..." {{Headphones|fileVO_ACT_GEN_Max.STM_25~Act_GEN_Idle_Max_120.ogg‎}}*
+**"I’d love to stand in this spot forever" {{Headphones|file# VO_ACT_GEN_Max.STM_31~Act_GEN_Idle_Max_130.ogg‎}}*
+**"And then inertia set in" {{Headphones|fileVO_ACT_GEN_Max.STM_36~Act_GEN_Idle_Max_140.ogg‎}}*
+**"If I took a selfie now, it would be a still life." {{Headphones|file# ‎VO_ACT_GEN_Max.STM_60~Act_GEN_Idle_Max_150.ogg}}*
+**"Boring" {{Headphones|fileVO_ACT_GEN_Max.STM_63~Act_GEN_Idle_Max_20.ogg‎}}*
+**"La dee da, la dee da" {{Headphones|file# VO_ACT_GEN_Max.STM_14~Act_GEN_Idle_Max_30.ogg‎}}*
+**"I’m just chilling like a villain" {{Headphones|fileVO_ACT_GEN_Max.STM_39~Act_GEN_Idle_Max_40.ogg‎}}*
+**"So I guess I’ll just chillax for awhile" {{Headphones|file# ‎VO_ACT_GEN_Max.STM_53~Act_GEN_Idle_Max_50.ogg}}*
+**"How long can I stand standing here ?" {{Headphones|file‎VO_ACT_GEN_Max.STM_84~Act_GEN_Idle_Max_60.ogg}}*
+**"If time is like a river, I’m stuck here" {{Headphones|file# VO_ACT_GEN_Max.STM_71~Act_GEN_Idle_Max_70.ogg‎}}*
+**"What to do, what to do…" {{Headphones|fileVO_ACT_GEN_Max.STM_55~Act_GEN_Idle_Max_80.ogg‎}}*
+**"Max, you need to stop talking to yourself. Agreed?... yes." {{Headphones|file# VO_ACT_GEN_Max.STM_9~Act_GEN_Idle_Max_90.ogg‎}}*
+
+#
+
+## Suggested Rewind
+When Max sees the potential to rewind, she may make one of the following comments:
+**"Damn, I better rewind." *{{Headphones|filespecialcomms-suggestedrw-dambetterrw.ogg}}
+**"I better rewind." *{{Headphones|file# specialcomms-suggestedrw-ibetterrw.ogg}}
+**"I should rewind." *{{Headphones|filespecialcomms-suggestedrw-shouldrw.ogg}}
+
+#
+
+## Paused Rewind
+If Max pauses when rewinding, she may make one of the following comments:
+**"No way I can stop here." *{{Headphones|file# specialcomms-pauserw-nowaycantstop.ogg}}
+**"Should I rewind or stop?" *{{Headphones|filespecialcomms-pauserw-shouldrworstop.ogg}}
+**"I can't be in two places at once." *{{Headphones|file# specialcomms-pauserw-cantbeintwoplaces.ogg}}
+**"Either I rewind or I cancel." *{{Headphones|filespecialcomms-pauserw-eitherrworcancel.ogg}}
+**"I definitely can't stop here." *{{Headphones|file# specialcomms-pauserw-defcantstop.ogg}}
+**"I need to rewind or stop." *{{Headphones|filespecialcomms-pauserw-rworstop.ogg}}
+**"No can do, Max." *{{Headphones|file# specialcomms-pauserw-nocando.ogg}}
+**"I need to hit this rewind or cancel." *{{Headphones|filespecialcomms-pauserw-hitrworcancel.ogg}}
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

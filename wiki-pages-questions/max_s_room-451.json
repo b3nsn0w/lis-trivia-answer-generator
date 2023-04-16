@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the name of the book that Max needs to find for Kate?",
+    "answer": "C",
+    "choices": {
+      "A": "The Great Gatsby by F. Scott Fitzgerald",
+      "B": "The Catcher in the Rye by J.D. Salinger",
+      "C": "The October Country by Ray Bradbury",
+      "D": "To Kill a Mockingbird by Harper Lee"
+    }
+  },
+  {
+    "question": "What does Max compare her outfit to when she decides what to wear?",
+    "answer": "C",
+    "choices": {
+      "A": "A superhero costume",
+      "B": "A school uniform",
+      "C": "Einstein's suit",
+      "D": "A trendy fashion statement"
+    }
+  },
+  {
+    "question": "What does Max say when she sees the message on her mirror after making fun of Victoria?",
+    "answer": "C",
+    "choices": {
+      "A": "\"I can't believe I did that.\"",
+      "B": "\"I should apologize to Victoria.\"",
+      "C": "\"That's what I get for being mean.\"",
+      "D": "\"I don't remember writing that.\""
+    }
+  },
+  {
+    "question": "What does Max say when she cleans up the mess on her carpet after spilling soda on Kate's book?",
+    "answer": "D",
+    "choices": {
+      "A": "\"I'm glad I spilled soda everywhere.\"",
+      "B": "\"I love cleaning up messes.\"",
+      "C": "\"At least the carpet needed a wash.\"",
+      "D": "\"Very zen. Except for that bullshit graffiti.\""
+    }
+  },
+  {
+    "question": "What does Max say after she successfully moves the glass of soda without spilling it on Kate's book?",
+    "answer": "B",
+    "choices": {
+      "A": "\"I'm a genius.\"",
+      "B": "\"Begone, foul soft drink!\"",
+      "C": "\"I should have done that earlier.\"",
+      "D": "\"I hope Kate likes her book.\""
+    }
+  }
+]

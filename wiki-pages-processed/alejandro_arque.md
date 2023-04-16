@@ -1,0 +1,69 @@
+#  Alejandro Arque 
+
+```yaml
+Crew
+
+title: Alejandro Arque
+profession: Game Designer
+image: Alejandro Arque.jpg
+type: squareenix
+born: September 2
+active: '2006'
+companies: |-
+  Digital Chocolate,
+  Gameloft,
+  Square Enix
+facebook: https://www.facebook.com/AlejandroArque
+twitter: https://twitter.com/darkvegetamad?lang
+instagram: https://www.instagram.com/alejandroarque/
+```
+
+> Working with Dontnod has been a great experience, it’s a studio with very talented people. I’ve spent a lot of time in Paris, working hard with the game designers and directors. The passion they put in every little scene of the game was incredible.
+
+**Alejandro Arque in an interview[https://www.reddit.com/r/lifeisstrange/comments/41jqaf/interview_alejandro_arque_life_is_strange_game/ Interview - Alejandro Arque, Life Is Strange Game Designer]**
+
+**Alejandro Arque Gallardo** is a Game Designer who worked at Square Enix from 2014 to 2021. He was one of the lead game designers on the original *[Life is Strange](life_is_strange.md)*, its prequel *[Life is Strange: Before the Storm](before_the_storm.md)* and the second season *[Life is Strange 2](life_is_strange_2.md)*. He currently works as a Game Director at Supermassive Games Ltd.
+
+##  Career 
+Alejandro Arque is interested in all types of game design and narrative experiences and has been active as a game designer since 2006, working on a variety of platforms including console, PC, mobile and Facebook games.
+
+Arque has a programmer background. From 1999 to 2002, he worked as a programmer for different Spanish companies.
+
+He went to Universitat Autònoma de Barcelona graduating with a Bachelor's degree in Computer Science. From 2005 to 2006, he went to the University of Westminster to study game development.
+
+From 2006 to 2010, Arque worked for Digital Chocolate, a Spanish studio located in his hometown Barcelona. As the Lead Designer he was responsible for creating new game concepts, level design and game mechanics for mobile, iPhone and Facebook games (most of them winners of Awards on Pocketgamer and IGN); e.g. *Crazy Window Cleaners* (Mobile), *Tower Bloxx 3D Deluxe* (iPhone), *Diamond Islands* (Mobile, iPhone and PC), *Pipemania* (Mobile).
+
+From 2008 to 2009, he worked as a game design lecturer at two different schools in Spain.
+
+From 2010 to 2013, he worked for Gameloft, another Spanish studio located in Madrid. As game designer, and later senior game designer, he was responsible for creating game concepts and presentations, detailing game aspects such as (but not limited to) gameplay, game world, characters, level design, audio, creating and maintaining the game design specifications document and game flows.
+
+###  Life is Strange 
+Since January 2014, he has worked for Square Enix, located in London. Square Enix's main release he was involved with was the episodic game *Life is Strange*, which he worked on for a year and a half. He was also responsible for design support and guidance in the production of *Triad Wars*, *Nosgoth* and *Heroes and Generals*.
+
+During the development of *Life is Strange,* he worked closely with the developers studio [Don't Nod](don_t_nod.md) in Paris. His responsibilities included script, design and principal game mechanics. For example, he designed the Forward or Skip mechanic that Max can use to skip scenes or dialogues she has already seen. Narrative-wise, he worked on two key plot elements in [Episode 5: Polarized](episode_5.md): [Victoria Chase](victoria_chase.md)'s appearance in the [Episode 4: Dark Room](dark_room.md) if you warned her about [Mark Jefferson](mr__jefferson.md)Mentioned in his interview for Blackwell Podcast., and the full conversation in which [Maxine Caulfield](max_caulfield.md) tells [Chloe Price](chloe_price.md) that she traveled to an [Alternative Timeline](alternate_reality.md).
+
+On June 12, 2017, Alejandro Arque announced that he is working on *[Life is Strange: Before the Storm](before_the_storm.md)*, the prequel to *Life is Strange* developed by [Deck Nine Games](deck_nine_games.md).
+
+###  After Life is Strange 
+
+In February 2021, Alejandro joined Supermassive Games Ltd., the developer of horror games such as. as Game Director. He stated on Twitter that it had been a dream for him to work on horror games. [https://twitter.com/DarkVegetaMad/status/1359411786617741312?s# 20 Twitter post by Alejandro Arque] (February 10, 2021)
+
+##  Trivia 
+* Alejandro Arque is of Spanish descent and grew up in Barcelona. Today he lives in London, UK.
+* *Life is Strange* won, among many awards, the BAFTA Games Awards for Best Story. Alejandro Arque has been a full BAFTA member since March 2017.
+* During a [Square_Enix_Extra_Life_Livestream_(November_2015)](stream.md) of the game, Arque stated that "Katie" from [Frank Bowers](frank_bowers.md)'s book is not [Kate Marsh](kate_marsh.md), as it was speculated it might refer to her.[https://www.reddit.com/r/lifeisstrange/comments/41jqaf/interview_alejandro_arque_life_is_strange_game/ Interview - Alejandro Arque, Life Is Strange Game Designer][https://www.twitch.tv/videos/24286722 Extra Life charity stream - Episode 4 & 5 of Life Is Strange] (1:54:10)
+* According to an [https://www.reddit.com/r/lifeisstrange/comments/41jqaf/interview_alejandro_arque_life_is_strange_game/ interview,] his favorite [Easter Eggs (Life is Strange)](easter_eggs.md) in *Life is Strange* are the references to *Harry Potter* and *Doctor Who*.
+* The following was stated during the [Blackwell Podcast](blackwell_podcast.md) interview:
+**There was nothing that was rejected before the final conception of *Life is Strange*. Square Enix loved everything that was presented to them by DONTNOD. Things were polished, but nothing was rejected. And this is unusual.
+**His original reaction to *Life is Strange* when it was first presented to him was, "Whoa!" He was wondering if DONTNOD were really going to that way with the slap Chloe receives from her [David Madsen](step_father.md), as he says he had never seen this kind of thing in a video game before, and because seeing that affected him. He was really impressed by the game and felt he really wanted to work on it.
+**It was never their intention of making an "{{Wiki|AAA (video game industry)|AAA}}" game from the start. They wanted to do something that felt "indie" and intended to make *Life is Strange* more reminiscent of {{Wiki|Sundance Film Festival}} films, because the game is different. The story needed to fit the visuals and the audios of the game.
+**Alejandro also stated that some people say the game is not realistic or, "Why aren't the graphics better?" But he thinks the graphics are great, because they show what they wanted to show. They never intended the game to look realistic, as realism doesn't fit the story they wanted to tell.
+
+##  Videos 
+
+Blackwell Podcast Episode 13 - Alejandro Arque
+
+##  Interviews 
+*[https://www.reddit.com/r/lifeisstrange/comments/41jqaf/interview_alejandro_arque_life_is_strange_game/ Interview - Alejandro Arque, Life Is Strange Game Designer]
+*[https://www.youtube.com/watch?v7_1PUySC38I Blackwell Podcast Episode 13 - Alejandro Arque] (February 6, 2016)
+

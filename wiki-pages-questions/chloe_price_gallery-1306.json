@@ -1,0 +1,52 @@
+[
+  {
+    "question": "In which episode does Chloe admit her selfishness?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1",
+      "B": "Episode 2",
+      "C": "Episode 4",
+      "D": "Episode 5"
+    }
+  },
+  {
+    "question": "What does Chloe do after seeing photos of Rachel Amber?",
+    "answer": "A",
+    "choices": {
+      "A": "She cries",
+      "B": "She threatens Frank",
+      "C": "She waits for Max",
+      "D": "She comforts Max"
+    }
+  },
+  {
+    "question": "Where does Chloe wait for Max to have revenge on Nathan?",
+    "answer": "D",
+    "choices": {
+      "A": "At the beach",
+      "B": "At the hospital",
+      "C": "At the junkyard",
+      "D": "At the Two Whales Diner"
+    }
+  },
+  {
+    "question": "What does Chloe do after discovering Rachel's body?",
+    "answer": "B",
+    "choices": {
+      "A": "She waits for Max",
+      "B": "She comforts Max",
+      "C": "She threatens Nathan",
+      "D": "She looks at Rachel's body again"
+    }
+  },
+  {
+    "question": "In which episode does Chloe get shot by Jefferson?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1",
+      "B": "Episode 2",
+      "C": "Episode 4",
+      "D": "Episode 5"
+    }
+  }
+]

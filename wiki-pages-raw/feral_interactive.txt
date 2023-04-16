@@ -1,0 +1,53 @@
+= Feral Interactive =
+
+[[File:feral-interactive-logo.png|thumb|309x309px]]
+'''Feral Interactive''' is an independent, private video-game-porting studio based in London, UK. It was founded in 1996 and works with games publishers and developers to port their PC and console games to other platforms. They serve a global area and currently work with [[Square Enix]] to port their [[Life is Strange (franchise)|''Life is Strange'' franchise]] to Mac and Linux.
+
+A port of [[Life is Strange 2]] is currently listed on their website as "coming soon."<ref>As at August 6th, 2019.</ref>
+
+The studio's mission statement is "to bring great games to the Mac" and also state that they "have established [themselves] as a world-leading publisher of games on Mac and, more recently, Linux."<ref>[https://www.feralinteractive.com/en/about/ Feral Interactive website's "About" page].</ref>
+
+The studio is open to suggestions for any games that people would like to see them port to Mac, Linux or mobile.
+
+== Life is Strange Ports Completed ==
+* ''[[Life is Strange]]''
+* ''[[Life is Strange: Before the Storm]]''
+
+== Life is Strange Ports Coming Soon ==
+* ''[[Life is Strange 2]]'' (2018-2019, 5 Episodes).
+
+== History ==
+TBC
+
+== Known Team ==
+The key people {{wiki|Feral Interactive|listed on Wikipedia}} are:
+* David Stephen
+* Ian Bullock
+* Edwin Smith
+* Andrew Wood
+
+== Interviews ==
+TBA
+
+== Gallery ==
+=== Concept Art ===
+TBC
+
+== External Links ==
+* [https://www.feralinteractive.com/en/ Official website]
+* [https://www.facebook.com/FeralInteractive Facebook]
+* [https://twitter.com/feralgames Twitter]
+* [https://www.youtube.com/user/feralinteractive/ YouTube]
+
+
+== References ==
+<references/>
+[[Category:Before the Storm]]
+
+[[Category:Developers]]
+[[Category:Behind the Scenes]]
+[[Category:Behind the Scenes (Life is Strange)]]
+[[Category:Behind the Scenes (Before the Storm)]]
+[[Category:Behind the Scenes (Life is Strange 2)]]
+[[Category:Life is Strange]]
+[[Category:Life is Strange 2]]

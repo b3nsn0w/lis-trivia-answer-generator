@@ -1,0 +1,94 @@
+Here is a section of the wiki page for Warren Graham:
+
+#  Warren Graham 
+
+```yaml
+Character
+
+name: Warren Graham
+image: warren_.png
+age: 16 ([Warren Graham#Inconsistencies
+See inconsistencies](warren_graham_inconsistencies_see_inconsistencies.md)): ''
+born: |-
+  November 20, 1996,
+  [Arcadia Bay](arcadia_bay.md), Oregon
+gender: Male
+hair: Brown
+eyes: Brown
+loveinterest: '[Maxine Caulfield'
+Max Caulfield](maxine_caulfield__max_caulfield.md)
+[Brooke Scott](brooke_scott.md) (determinant)
+[Stella Hill](stella_hill.md) (girlfriend, alternative timeline): ''
+friends: '[Maxine Caulfield'
+Max Caulfield](maxine_caulfield__max_caulfield.md)
+[Brooke Scott](brooke_scott.md)
+[Kate Marsh](kate_marsh.md): ''
+profession: High school student
+affiliation: '[Blackwell Academy](blackwell_academy.md)'
+appearance: >-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)  [Episode 2: Out of
+  Time](episode_2__out_of_time.md)  [Episode 3: Chaos
+  Theory](episode_3__chaos_theory.md)  [Episode 4: Dark
+  Room](episode_4__dark_room.md)  [Episode 5:
+  Polarized](episode_5__polarized.md)
+voice: |-
+  [Carlos Luna](carlos_luna.md) (ENG)
+
+  [Makoto Naruse](makoto_naruse.md) (JPN)
+died: October 11, 2013 (presumed, determinant)
+causeofdeath: |-
+  Killed by the [storm](storm.md) (presumed, determinant)
+  Caught in a gas explosion in the [Two Whales Diner
+diner](two_whales_diner_diner.md) (pre-rewind)
+: ''
+alsoknown: >-
+  The Doctor
+
+  Warren GayramThere is a graffiti in the boys' shower room at the [Blackwell
+  Swimming Pool](blackwell_swimming_pool.md).
+
+  White KnightWarren calls himself a "White Knight" after his confrontation with
+  Nathan in Episode 1, and Max also refers to him as that in her diary after
+  seeing him step in to save her from Nathan in Episode 4.
+
+  Dr. Graham
+
+  Science Guy
+
+  Mister Wizard (by [Maxine Caulfield
+Max](maxine_caulfield_max.md)): *
+```
+
+> Like time, my texts are infinite.
+
+**Warren to [Maxine Caulfield**, Max](maxine_caulfield____max.md) via SMS in "[Episode 2: Out of Time, Out of Time](episode_2__out_of_time__out_of_time.md)"
+
+**Warren Daniel Graham** (born November 20, 1996) is a student at [Blackwell Academy](blackwell_academy.md) and the tritagonist of *[Life is Strange](life_is_strange.md)*. He is good friends with [Maxine Caulfield](max_caulfield.md) and has a crush on her.
+
+Warren reappears in *[Life is Strange: Before the Storm](life_is_strange__before_the_storm.md)*, the prequel to the events of *Life is Strange* (although he is not seen other than being on a class photo).
+
+: *For Warren's image gallery, click [Warren Graham/Gallery](here.md). For Warren's flash drive, click [Warren's Flash Drive](here.md).''
+
+## Personality 
+Warren is a stereotypical science nerd who "knows how to be invisible" and loves old and obscure movies and anime. He has a kind and sensitive nature and is highly interested in Max. He always tries to get closer to her but, depending on Max's reactions to his offers and advances, he may end up having to deal with rejection constantly. He's also very shy and insecure with girls and struggles to express and deal with his feelings, so he tries to hide that underneath humor and bad jokes. He is a good friend, as he's always friendly and protective over Max. Although normally he's the one who would get beaten up, he finds the courage to defend Max against [Nathan Prescott](nathan_prescott.md).
+
+## Biography 
+The following is what Max wrote about Warren in her [Max's Journal](journal.md):
+
+*"I knew if I gave Warren my phone he would blow it up for "science". He wants his flash drive back after letting me borrow it for less than a week. He told me to watch everything because he has tons of cool TV shows and films on there.*
+
+''Thank Gawd it wasn't porn. He loves science but he really understands art and appreciates great photography. Even though he says he loves my pictures, I can't tell if he's just being nice.*
+
+*Warren is a geek but he definitely lets you know where he stands, I don't think he would ever lie to me. It feels good to have at least one strong ally the same age here... And he makes me smile."''
+
+## Appearance 
+Warren has an average build, choppy brown hair and matching hue eyes. He always dresses casually, wears jeans, sometimes a sweatshirt and t-shirts connected with geek culture throughout the game. After being hit by Nathan, he has a bruise around his left eye.
+
+## Background 
+Warren was born and probably grew up in [Arcadia Bay](arcadia_bay.md).
+
+At 16 years old, he is probably the youngest student at Blackwell Academy. He stands out with excellent scientific knowledge as shown by his GPA of 4.0; therefore, he is considered an exemplary and gifted student by [Raymond Wells](principal_wells.md). It can be assumed that he has advanced a few grades due to his academic abilities.
+
+
+
+Generate five trivia questions relevant to this section of the page.

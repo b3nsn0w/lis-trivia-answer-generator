@@ -1,0 +1,52 @@
+[
+  {
+    "question": "How Does Max Travel Back In Time To The Storm Timeline?",
+    "answer": "A",
+    "choices": {
+      "A": "By Focusing On A Photo",
+      "B": "By Using Her Time Rewind Power",
+      "C": "By Entering A Portal",
+      "D": "By Falling Asleep"
+    }
+  },
+  {
+    "question": "In The Sacrifice Chloe Timeline, What Happens To Nathan Prescott?",
+    "answer": "B",
+    "choices": {
+      "A": "He Escapes From The Police",
+      "B": "He Is Handcuffed By David",
+      "C": "He Is Killed By Jefferson",
+      "D": "He Is Rescued By Max"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Photo Max Focuses On In The Sacrifice Chloe Timeline?",
+    "answer": "A",
+    "choices": {
+      "A": "Blue Butterfly",
+      "B": "Blackwell Swimming Pool",
+      "C": "Train Tracks",
+      "D": "Lighthouse"
+    }
+  },
+  {
+    "question": "Who Illustrates The Timestream Images In Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Florent Auguy",
+      "B": "Max Caulfield",
+      "C": "Warren Graham",
+      "D": "Nathan Prescott"
+    }
+  },
+  {
+    "question": "What Happens To Chloe In The Storm Timeline?",
+    "answer": "B",
+    "choices": {
+      "A": "She Is Rescued By Max",
+      "B": "She Is Found Dead",
+      "C": "She Escapes From The Dark Room",
+      "D": "She Is Arrested By The Police"
+    }
+  }
+]

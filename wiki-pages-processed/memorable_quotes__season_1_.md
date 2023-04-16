@@ -1,0 +1,430 @@
+#  Memorable Quotes (Season 1) 
+
+[File:TakePhotoImg.png](thumb.md)
+The following list features **memorable quotes** from *[Life is Strange](life_is_strange.md)*.
+
+##  [Maxine Caulfield](max_caulfield.md) 
+{{Quote|Wowser|Max's favorite exclamation throughout the game}}
+
+{{Quote|Are you cereal?|Max in "[Episode 1: Chrysalis](chrysalis.md)"}}
+
+{{Quote|Everything is a picture waiting to be taken... |Max's [Max's Diary](diary.md), September 3}}
+
+{{Quote|When a door closes, a window opens... Or, something like that.|Max seeing the [Blue Butterfly](blue_butterfly.md) in "Chrysalis"}}
+
+{{Quote|Ready for the mosh pit, shaka brah.|Max at [Madsen Household](chloe_s_house.md) in "[Episode 3: Chaos Theory](chaos_theory.md)"}}
+
+{{Quote|I keep going back in time.|Max regarding her old memories of the [Two Whales Diner](diner.md) in "[Episode 2: Out of Time](out_of_time.md)"}}
+
+{{Quote|I wish I could stay in this moment forever. (...) But then it wouldn't be a moment.|Max at the diner in "Out of Time"}}
+
+{{Quote|Max, never Maxine.|Max to [Victoria](victoria.md) after waking up in the [Alternative Timeline](alternative_timeline.md)}}
+
+{{Quote|If that tornado came right now, I would just sit here and watch for a while.|Max at the [End of the World Party](vortex_club_party.md) in "[Episode 4: Dark Room](dark_room.md)"}}
+
+{{Quote|With great power comes great bullshit.|Max to [Brooke](brooke.md) in "Dark Room"}}
+
+{{Quote|The past... within the past. Ugh. Am I pushing myself too hard?|Max between realities in [Mr. Jefferson](mr__jefferson.md)'s class in "[Episode 5: Polarized](polarized.md)"}}
+
+##  [Chloe Price](chloe_price.md) 
+{{Quote|Amazeballs!|Chloe in "[Episode 2: Out of Time](out_of_time.md)"}}
+
+{{Quote|Awesomesauce!|Chloe in "[Episode 1: Chrysalis](chrysalis.md)"}}
+
+{{Quote|Hella!|Chloe's favorite intensifier throughout the game}}
+
+{{Quote|NO EMOJI!!!|Chloe's response to Max's SMS in "Out of Time"}}
+
+{{Quote|Everybody lies. No exceptions.|Chloe's graffiti in [Chloe's Room](her_room.md)}}
+
+{{Quote|Everybody pretends to care until they don't.|Chloe in "[Episode 3: Chaos Theory](chaos_theory.md)"}}
+
+{{Quote|Home, shit, home.|Chloe in "Chrysalis"}}
+
+{{Quote|Yep yep, I'm fucking insane in the brain! Let's dance!|Chloe in "Chrysalis"}}
+
+{{Quote|This shit-pit has taken everyone I've ever loved... I'd like to drop a bomb on Arcadia Bay and turn it to fucking glass...|Chloe in "Chrysalis"}}
+
+{{Quote|I pledge allegiance to Max and the power for which she stands...|Chloe heavily impressed by Max's [Rewind](rewind_power.md) in "Out of Time"}}
+
+{{Quote|Since you're the mysterious superhero... I'll be your faithful chauffeur and companion.|Chloe in "Out of Time"}}
+
+{{Quote|Dude, you fuck shit up, you rewind, you fix it. Drop the mic. Boom.|Chloe in "Out of Time"}}
+
+{{Quote|Why look, an otter in my water!|Chloe to Max at the [Blackwell Swimming Pool](swimming_pool.md) in "Chaos Theory"}}
+
+{{Quote|You better not rewind and take that kiss back. You know I'm hotter than those Seattle art-holes, right?|Chloe to Max if Max chose to kiss her in "Chaos Theory"}}
+
+##  [Warren Graham](warren_graham.md) 
+{{Quote|You can draw? I thought you were Blinded By Science, not art." - "Art IS Science. Music is math, et cetera, et cetera. I'd put Stephen Hawking against Picasso any day." - "Hardcore. So you must use a computer to draw." - "Of course. I'd love to tweak one of your selfies with some cool graphics...|Max and Warren in "[Episode 1: Chrysalis](chrysalis.md)" (determinant)}}
+{{Quote|I may be a pest, but... I'm a good listener.|Warren to Max in "Chrysalis" (determinant)}}
+{{Quote|I'll be in the TARDIS getting my Delorean ready.|Warren in a text message in "[Episode 2: Out of Time](out_of_time.md)"}}
+{{Quote|I bet you were glad to see her blast up in that truck like a rock star.|Warren talking about Chloe to Max in "[Episode 2: Out of Time](out_of_time.md)"}}
+{{Quote|Weird fucking week. Like that bizarro snowfall yesterday. Speaking of dystopia, that drive-in is having a 70's "Planet of the Apes" marathon. Let's "Go Ape"!" - "No, I don't think I can concentrate on going out to the movies. I just feel like escaping." - "Fine. Be a damned dirty human. I'll "Go Ape" myself.|Warren and Max in "Out of Time" (determinant)}}
+{{Quote|Don't be so modest, Doctor Caulfield...|Warren after being helped by Max with his science experiment in "Out of Time"}}
+{{Quote|You like to hurt people, huh? Like Max? Like Kate? Like me? Huh? Feel this, motherfucker!|Warren in "[Episode 4: Dark Room](dark_room.md)" (determinant)}}
+{{Quote|I really flipped out on Nathan. I just hate bullies...|Warren to Max and Chloe in "Dark Room"}}
+{{Quote|Welcome to the end of the world, ladies. I'm glad you decided to escort me...|Warren to Max and Chloe in "Dark Room"}}
+{{Quote|Hey, hey... I know this is a bad time, but can I get one picture? I've been feeling like this might be actually the end of the world, so... I want to have something for prosperity.|Warren in "Dark Room"}}
+{{Quote|I hate to say I'm glad to see you, but I'm so glad to see you.|Warren in "[Episode 5: Polarized](polarized.md)"}}
+{{Quote|Warren, I came for all of you. Just tell me you do have the photograph." - "I just want..." - "Now shut up and listen." - "Oh yeah, you’re finally going to tell me what you never did in the parking lot...|Warren in "Polarized"}}
+{{Quote|I'm not a real scientist, even though I play one at school, but this seems like pure cause and effect, maybe Chaos Theory...|Warren in "Polarized"}}
+{{Quote|Max... I'm so sorry you had to go through all that... You're the bravest person I've ever known.|Warren in "Polarized"}}
+{{Quote|For every action, there's... there's a reaction... Whenever you reversed or altered time, maybe you caused a chain reaction... even in the environment.|Warren in "Polarized"}}
+{{Quote|I know I can be a pain in the ass... and... and you've always treated me like a person, not... not a beta nerd. I told you before that I'll always believe you...|Warren in "Polarized" (determinant)}}
+{{Quote|Max, of course I believe you. You're the most amazing person I've ever met... and I'm glad you trust me.|Warren in "Polarized" (determinant)}}
+{{Quote|I don't have a fucking clue what's going on. But I have total faith that you'll do the right thing when the time comes. I'm so proud of you, Max. How could there be a more important moment in history? And I'm in the middle of it with you? So thank you for trusting me.|Warren in "Polarized"}}
+{{Quote|Hey... Be careful out there.|Warren in "Polarized"}}
+{{Quote|Just in case we don’t get out of this... I wanted to say..." - "I know, Warren..." - "Of course you do." - "I’m going to make the right choices from now on... I swear." - "That's why you're Super Max.|Warren and Max in "Polarized" (determinant)}}
+{{Quote|I was happy just being your friend... Why do you want all your friends to die?|Warren in [Max's Nightmare](max_s_nightmare.md) in "Polarized" (determinant)}}
+
+##  [Nathan Prescott](nathan_prescott.md) 
+{{Quote|It's cool, Nathan... Don't stress... You're okay, bro. Just count to three... Don't be scared... You own this school... If I wanted, I could blow it up... You're the boss...|Nathan in "[Episode 1: Chrysalis](chrysalis.md)"}}
+{{Quote|You don't know who the fuck I am or who you're messing around with!" - "Where'd you get that? What are you doing? Come on, put that thing down!" - "Don't EVER tell me what to do. I'm so SICK of people trying to control me!|Nathan and Chloe in "Chrysalis"}}
+{{Quote|Nobody... nobody lectures me. Everybody tries though... They try...|Nathan in "Chrysalis"}}
+{{Quote|Do not analyze me! I pay people for that. Worry about yourself, Max Caulfield.|Nathan in "Chrysalis"}}
+{{Quote|Nobody tells me what to do. Not my parents, not the Principal, or that whore in the bathroom!|Nathan in "Chrysalis"}}
+{{Quote|Here comes the mysterious Max. Disguised as a pixie hipster.|Nathan in "[Episode 2: Out of Time](out_of_time.md)" (determinant)}}
+{{Quote|Meow. Bring out the claws. I love seeing chicks fight.|Nathan in "Out of Time"}}
+{{Quote|Hey, that's total slander! I could sue you and this school so fast!... I already have a personal lawyer.|Nathan after Max blames him in "Out of Time"}}
+{{Quote|You don't know shit about my father, or me. Nobody here does!" - "Then tell me what I should know." - "Why? So you can pretend to care, hm? Spoiler alert, he's an asshole.|Nathan and Max in "[Episode 3: Chaos Theory](chaos_theory.md)"}}
+{{Quote|Bullshit. My dad doesn't hire, he owns. And these pigs know better than to narc on me.|Nathan in "Chaos Theory"}}
+{{Quote|Pussies cant fukin fite|Nathan's SMS to Max in "[Episode 4: Dark Room](dark_room.md)"}}
+{{Quote|Plus, my dad is on his way! You're all fucked! He owns you!|Nathan in "Dark Room" (determinant)}}
+{{Quote|Everybody hates me... everybody...|Nathan in "Dark Room" (determinant)}}
+{{Quote|Max... it's Nathan. I just wanted to say... I'm sorry. I didn't want to hurt Kate, or Rachel, or... I didn't want to hurt anybody. Everybody... used me! Mr. Jefferson is coming for me now. All this shit will be over soon. Watch out, Max... He wants to hurt you next. Sorry.|Nathan's voicemail in "[Episode 5: Polarized](polarized.md)"}}
+{{Quote|Just because I’m mentally ill doesn’t mean I deserve to die, Max!|Nathan in [Max's Nightmare](max_s_nightmare.md) in "Polarized"}}
+{{Quote|Nobody ever helped me, Max. Especially you...|Nathan in Max's Nightmare in "Polarized"}}
+{{Quote|Max, I'm... truly... I truly am sorry for being such a bastard. You would have been cool to hang out with. I just don’t want everybody else to suffer like me.|Nathan in Max's Nightmare in "Polarized"}}
+
+##  [Victoria Chase](victoria_chase.md) 
+{{Quote|Now you're totally stuck in the Retro Zone. Sad face.|directed at Max during Mr. Jefferson's art class in "[Episode 1: Chrysalis](chrysalis.md)"}}
+{{Quote|Oh look, it's Max Caulfield, the selfie ho of Blackwell. What a lame gimmick. Even Mark—Mr. Jefferson—falls for your waif hipster bullshit.|directed at Max as Victoria blocks her access to the dormitory in "[Episode 1: Chrysalis](chrysalis.md)"}}
+{{Quote|'The Daguerreian Process, Sir!' You could barely even say that. I guess you got your meds filled.|directed at Max in "[Episode 1: Chrysalis](chrysalis.md)"}}
+{{Quote|Don't worry, Max, I'll put a vintage filter on it right before I post it all over social medias.  Now, why don't you go fuck your selfie?|directed at Max in "[Episode 1: Chrysalis](chrysalis.md)"}}
+{{Quote|That video of you clubbing didn't look like homework...|directed at Kate in "[Episode 2: Out of Time](out_of_time.md)"}}
+{{Quote|I hate Max Caulfield. Can't you see how phony she is with her "Oh, I'm so shy and fragile" crap? She's a total drama queen.|said to Mr. Jefferson in "[Episode 3: Chaos Theory](chaos_theory.md)"}}
+{{Quote|I'll give you a one-word sneak preview of Max's photo: selfie. Listen... you've seen my entry, you know it's better than that. Wouldn't that be SO cool to hang out together in San Francisco, Mark?|said to Mr. Jefferson in "[Episode 3: Chaos Theory](chaos_theory.md)"}}
+{{Quote|You already love my work, so it's not like you're playing favorites. Just imagine if you picked my photo, though... we would have to spend a LOT of time together... That could be... fun, don't you think?|said to Mr. Jefferson in "[Episode 3: Chaos Theory](chaos_theory.md)"}}
+{{Quote|You might as well choose me... otherwise I might have to tell people you offered to choose my photo for favors or something...|Victoria blackmailing Mr. Jefferson's in "[Episode 3: Chaos Theory](chaos_theory.md)"}}
+{{Quote|I'm not perfect, okay? I'm a teenager at an art school. I'm only here to become a photographer and get famous.|said to Max at the [End of the World Party](end_of_the_world_party.md) in "[Episode 4: Dark Room](dark_room.md)"}}
+{{Quote|That makes both of us, Max. I always feel like I have to overcompensate. For what, I have no clue. I'm only here to become a photographer, not president.|said to Max at the End of the World Party in "Dark Room"}}
+{{Quote|You have talent, Victoria. You don't have to push people out of your way." - "You don't understand. My parents own a gallery. I know how this art game has to be played... it's brutal.|with Max at the End of the World Party in "Dark Room"}}
+{{Quote|On point, Max... Thanks for admitting again that I have some talent. Not that I think I always do." - 
+"I don't either, but that's the choice you make." - "Hard to believe, but I don't always make the best choices. Do you think it's, like, fate we're not supposed to be friends?|with Max at the End of the World Party in "Dark Room"}}
+{{Quote|By the way, nobody says we have to be friends, Max." - "Maybe, but who says we have to be enemies?" - "Whoever makes that decision." - "That would be us, Victoria." - "Well, Max Caulfield, I could always choose to let you in the Vortex Club...|with Max at the End of the World Party in "Dark Room"}}
+{{Quote|Why the hell not? We're both into art and photography, both kind of weird and pretentious. If we hung out without attitude, we'd get along fine." - "I almost asked you to hang out. You said my photos were "Avedon-esque." Then I remembered who I was..." - "You should have asked me. It would have been cool to compare photo notes."|with Max at the End of the World Party in "Dark Room"}}
+{{Quote|Maybe we're too much alike..." - "You might be right." - "Well, Max Caulfield, there's still time for you to get in the Vortex Club..." - "I actually hope so, Victoria.|with Max at the End of the World Party in "Dark Room"}}
+{{Quote|Max, I don't hate you... I actually think you're one of the coolest people at Blackwell... Weird, but cool. You just don't know it yet. Maybe I'm jealous because you don't give a shit what anybody thinks. And I do.|said to Max at the End of the World Party in "Dark Room"}}
+{{Quote|I don't believe anything you say. You're full of shit. "Oh, hi, I'm Max Caulfield and I'm so sensitive that butterflies make me cry."|mocking Max at the End of the World Party in "Dark Room"}}
+{{Quote|Eat a dick, Max. You're just jealous of me because I actually do the things you can't. I put my photographs out there, while you hide behind your lame retro-selfies.|mocking Max at the End of the World Party in "Dark Room"}}
+{{Quote|(crying) Max... I just can't believe this is real. I don't want to die like this! I'm only 18!|said to Max in "[Episode 5: Polarized](polarized.md)"}}
+{{Quote|I wish we had been friends, Max. But please... don’t let me die like this... I’m still a teenager...|said to Max in [Max's Nightmare](max_s_nightmare.md) in "Polarized"}}
+
+##  [Kate Marsh](kate_marsh.md) 
+{{Quote|It sucks to be dragged into the spotlight." - "Unless you're Victoria.|Kate and [Maxine Caulfield](max.md) in "[Episode 1: Chrysalis](chrysalis.md)" (determinant)}}
+{{Quote|Nobody believes me anyway... So you can't help me?" - "I'm trying. But you have to understand my position..." - "Why? You don't understand mine. Nobody does...nobody...|Kate and Mark in "[Episode 2: Out of Time](out_of_time.md)"}}
+{{Quote|Oh, I see... I'm not important to you anymore. Nobody cares about me... Nobody...|Kate to Mark in "Out of Time" (determinant)}}
+{{Quote|Max, I'm in a nightmare and I can't wake up... unless I put myself to sleep. Then everybody at Blackwell can post pics of my body; I'm already on the internet forever. No wonder they call it a "web"; nothing can ever get out. Like my video... I wish I could go back in time and erase everything...|Kate to Max in "Out of Time"}}
+{{Quote|Even angels need angels, Max.|Kate to Max in "[Episode 4: Dark Room](dark_room.md)"}}
+{{Quote|Max, I know Victoria can be a... a... not nice. But, I do believe in forgiveness and redemption. I might be naive, but I feel her struggle.|Kate to Max in "Dark Room"}}
+{{Quote|Hey, Kate, back again." - "Which makes me happy.|Kate and Max in "Dark Room"}}
+{{Quote|Max, why did you stop me from jumping? What kind of friend are you? You never understood me... or what happened to me... Now my family will never leave me alone... And that means I’ll always be alone... thanks to you.|Kate to Max in [Max's Nightmare](max_s_nightmare.md) in "[Episode 5: Polarized](polarized.md)" (determinant)}}
+{{Quote|Max, how could you let me jump off a roof? You were the only person I trusted here... But you never really listened to me... Now I’m never going to Heaven... Instead you’ve stuck me in Hell... Alone forever...|Kate to Max in Max's Nightmare in "Polarized" (determinant)}}
+
+##  [Mark Jefferson](mark_jefferson.md) 
+{{Quote|I could frame any one of you in a dark corner, and capture you in a moment of desperation.|Jefferson in "[Episode 1: Chrysalis](chrysalis.md)"}}
+{{Quote|Shh, I believe Max has taken what you kids call a "selfie"... A dumb word for a wonderful photographic tradition. And Max... has a gift.|Jefferson in "Chrysalis"}}
+{{Quote|Always take the shot. My number one rule of photography.|Jefferson in "[Episode 2: Out of Time](out_of_time.md)"}}
+{{Quote|Chloe, why isn't someone as cool as you going to Blackwell?|Jefferson in "[Episode 4: Dark Room](dark_room.md)"}}
+{{Quote|The slightly unconscious model is often the most open and honest. No vanity or posing, just... pure expression.|Jefferson in "[Episode 5: Polarized](polarized.md)"}}
+{{Quote|I knew you were special the second I saw your first... "selfie". Yes, I still hate that word. But I love the purity of your own image.|Jefferson in "Polarized"}}
+{{Quote|Chloe, right. Yeah, I'm sorry I killed—that Nathan killed her in self-defense. But she had a troubled history like most Arcadia Bay dropouts. Nobody will be surprised... or care. Though I promise... people will care when you die tonight, Max. I wasn't lying when I said you have a gift.|Jefferson in "Polarized"}}
+{{Quote|Stupid bitch! You just don't listen, do you? In fact, you never did hear much in my class; if you had, you might have seen all this coming.|Jefferson in "Polarized"}}
+{{Quote|Remember my number one rule. Always... take... the shot.|Jefferson in "Polarized"}}
+{{Quote|Yes, you're a psychopath. And this is your last session." - "Au contraire, Max. I'm so sane, that nobody knows what's happening to you right now.|[Maxine Caulfield](max.md) and Jefferson in "Polarized"}}
+{{Quote|Kate believed, and she survived. You failed to break her. She's stronger than ever. And she'll outlive you." - "She'll certainly outlive you. (chuckles) Who knows? Maybe I'll pay Kate a visit soon and test her faith again...|Max and Jefferson in "Polarized" (determinant)}}
+{{Quote|Then why did you blame David Madsen for stalking Kate? Of course, he was the only person who was about to find out the truth. Irony.|Jefferson in "Polarized" (determinant)}}
+{{Quote|Chloe and Rachel... you killed both of them!" - "They're fucking together in heaven right now. Is that what you wanna hear?|Max and Jefferson in "Polarized" (determinant)}}
+{{Quote|I'm going to make you live forever in my photographs. That's all that will be left of Maxine Caulfield. They won't even find your bag...|Jefferson in "Polarized" (determinant)}}
+{{Quote|There's nothing more innocent than a teenager's diary. Oh... look at your selfies. What a waste of talent.|Jefferson in "Polarized"}}
+{{Quote|Especially since you've developed from nerd to hero within a week. There's something... weird going on with you.|Jefferson in "Polarized"}}
+{{Quote|It's about time somebody finally killed Chloe... Think of how often that bitch almost got me killed... It's like you're doing both of us an awesome favor!" - "Chloe can never appreciate you the way I will... Maxine. And yes, I insist on calling you Maxine... forever.|Max and Jefferson during [Max's Nightmare](max_s_nightmare.md) in "Polarized"}}
+{{Quote|Please understand, Max... The only place I can be "myselfie" is in the Dark Room.|Jefferson during Max's Nightmare in "Polarized"}}
+
+##  [David Madsen](david_madsen.md) 
+{{Quote|Girls always use that excuse." - "Excuse for what?" - "For whatever you're up to. Your face is covered in guilt." - "The alarm tripped me out." - "Then trip on out of here, missy. Or are you hiding something? Huh?|David and Max in "[Episode 1: Chrysalis](chrysalis.md)"}}
+
+{{Quote|...so don't think I'm blind! I see everything here at Blackwell! Do you understand what I'm saying?" - "No, and leave me alone!" - "...you can't fool me. I know everything about this school. I cover the waterfront. So you better figure out what side you're on...|David and Kate in "Chrysalis" (determinant)}}
+
+{{Quote|I'm not screwing around, soldier. Chloe. Open this door.|David in "Chrysalis"}}
+
+{{Quote|I'm sick of your disrespect! Tell me the truth, that's an order!|David in "Chrysalis"}}
+
+{{Quote|For your own good, you should stay away from Chloe. She's a loser and she'll only drag you down. Stick to doing your homework.|David in "Chrysalis" (determinant)}}
+
+{{Quote|Is that why you hassled Kate yesterday? I took a photo of that moment for surveillance sake." - "Soldier, you don't have the facts. You think I'm a hypocrite because I want cameras around here for the safety of the students?|David and Max in "[Episode 2: Out of Time](out_of_time.md)" (determinant)}}
+
+{{Quote|Kate hasn't done anything wrong." - "Max, this isn't just about Kate Marsh. My concern is for the safety of all Blackwell students. Including you.|David and Max in "Out of Time" (determinant)}}
+
+{{Quote|I don't want to fight with you anymore. I don't want to fight with anyone anymore... That's all, Max.|David in "Out of Time"}}
+
+{{Quote|Are you fucking kidding me? This is major bullshit! I led troops into battle and you're letting this punk lead you?|David in "Out of Time" (determinant)}}
+
+{{Quote|You won this battle, Max. You broke up my family. I salute you." - "David, I didn't try to hurt you. Ever. But I won't let anybody hurt Chloe." - "Too late, isn't it? You just better be damn careful with her. Don't you wander off into the dark...|David and Max in "[Episode 4: Dark Room](dark_room.md)" (determinant)}}
+
+{{Quote|I didn't have all the evidence at the time. I... I am sorry, Max.|David in "Dark Room" (determinant)}}
+
+{{Quote|I have a family here, Max. And I think Blackwell is the best place for me, since only I know what's happening.|David in "Dark Room" (determinant)}}
+
+{{Quote|Jefferson! It's over!|David in "[Episode 5: Polarized](polarized.md)"}}
+
+{{Quote|You kind of suspected everybody..." - "Yes, and this is what I get for wasting all those hours on the Prescotts... I set my sights too wide, lack of focus.|David and Max in "Polarized" (determinant)}}
+
+{{Quote|We all make decisions we regret. But I have to admit, I'm impressed by you... and Chloe, and your investigation. I had all the high-tech toys, while you had each other.|David in "Polarized" (determinant)}}
+
+{{Quote|That's one of my problems... I'm not good at teamwork. Never was. Even in the service." - "I can't even imagine what you went through..." - "I'm not gonna make any excuses for my behavior. I tried to be a good soldier, but...I wasn't so great. I tried to be a good father, too...|David and Max in "Polarized" (determinant)}}
+
+{{Quote|I just wanna see her safe with her mother. I promised Joyce I would go see a family counselor... and I'll start by apologizing to Chloe. I don't expect her to call me dad, but maybe she'll stop calling me "step-douche". So, where is Chloe?|David in "Polarized" (determinant)}}
+
+{{Quote|I promised Joyce that I would protect her and Chloe... How can I face her and explain this? I never even told Chloe that I... I... Goddamn it! You killed my wife's child, you sick fucker?! You took away my stepdaughter?!|David in "Polarized" (determinant)}}
+
+{{Quote|Max, you’re exactly the kind of soldier I’d want by my side in a war.|David in [Max's Nightmare](max_s_nightmare.md) in "Polarized"}}
+
+##  [Frank Bowers](frank_bowers.md) 
+{{Quote|Hey, it's Thelma and Louise. Or is it Bonnie and Clyde?|Frank to Max and Chloe in "Out of Time"}}
+{{Quote|I was eating those beans—are you fucking insane? I WAS EATING THOSE BEANS!|Frank to Max in "Chaos Theory"}}
+{{Quote|God, I hate you Blackwell shits. You act like you own this town... like I'm your puppet. Nobody owns me, you understand that?|Frank to Max and Chloe in "Dark Room"}}
+{{Quote|How the hell did you know about that photo? That's my favorite picture of her... I can look at it anytime and she'll always be there for me. I can't stand not knowing where she is... not hearing her voice... or her laugh... anymore.|Frank to Max and Chloe in "Dark Room"}}
+{{Quote|If there's a chance in hell you two dorks can find Rachel... I'll take it.|Frank to Max and Chloe in "Dark Room"}}
+{{Quote|Rachel... Oh, God. She was the one good thing in my life, Max. I know she was too young, and... I expected her to leave me, just... just not how it happened. I would never have stopped her from going after her dreams.|Frank to Max in "Polarized"}}
+
+##  [Raymond Wells](raymond_wells.md) 
+{{Quote|You're sweating pinballs. Is that all you're thinking about?|Wells to Max in "Chrysalis"}}
+{{Quote|Don't think I don't know what goes on around here. You've only been here for three weeks and you're already causing conflict.|Raymond to Max in "[Episode 1: Chrysalis](chrysalis.md)" (determinant)}}
+{{Quote|Please don't say that. There's nothing to be scared of at Blackwell Academy. Our head of security is overseeing a new era of campus safety.|Raymond to Max in "[Episode 2: Out of Time](out_of_time.md)"}}
+{{Quote|As principal of Blackwell Academy, I take my duties seriously. I take the well-being of every student more seriously. What happened today should never happen in a hall of wisdom and knowledge.|Raymond in "[Episode 2: Out of Time](out_of_time.md)"}}
+{{Quote|Max, after this week, you are certainly not a little kid anymore. In fact, you're a noteworthy adult being honored by your peers. Now, you have to start acting like the photographer you want to be.|Raymond to Max in "San Francisco Timeline" in "[Episode 5: Polarized](polarized.md)"}}
+{{Quote|If an event skimps on the food, you know it's a bad event.|Wells to Max in the "[Zeitgeist Gallery](zeitgeist_gallery.md)"}}
+{{Quote|Attention... I regret to announce that one of your fellow classmates, Maxine Caulfield, has died under tragic circumstances that I promise to investigate after I get my drink on.|Principal Wells in the maze segment of Max's nightmare}}
+
+##  [Alyssa Anderson](alyssa_anderson.md) 
+{{Quote|Years of mad dodging skills. Bullies never change.|Alyssa after moving her head to avoid a thrown football}}
+{{Quote|I'm by myself reading chick-lit. Pretty soon I'll be bonding with Victoria at the Vortex Club...|Alyssa to Max in "Chrysalis"}}
+{{Quote|Okay, Max, that's twice you've saved me from a projectile weapon. Are you my guardian angel?|Alyssa to Max in "Out of Time"}}
+{{Quote|Not now, Max, I'm contemplating shit.|Alyssa as she stands looking out of a window in Mr. Jefferson's class}}
+
+##  Further Reading 
+* [https://en.wikiquote.org/wiki/Life_Is_Strange Wikiquote]
+
+{{Quote|Are you cereal?|Max in "[Episode 1: Chrysalis](chrysalis.md)"}}
+
+{{Quote|Everything is a picture waiting to be taken... |Max's [Max's Diary](diary.md), September 3}}
+
+{{Quote|When a door closes, a window opens... Or, something like that.|Max seeing the [Blue Butterfly](blue_butterfly.md) in "Chrysalis"}}
+
+{{Quote|Ready for the mosh pit, shaka brah.|Max at [Madsen Household](chloe_s_house.md) in "[Episode 3: Chaos Theory](chaos_theory.md)"}}
+
+{{Quote|I keep going back in time.|Max regarding her old memories of the [Two Whales Diner](diner.md) in "[Episode 2: Out of Time](out_of_time.md)"}}
+
+{{Quote|I wish I could stay in this moment forever. (...) But then it wouldn't be a moment.|Max at the diner in "Out of Time"}}
+
+{{Quote|Max, never Maxine.|Max to [Victoria](victoria.md) after waking up in the [Alternative Timeline](alternative_timeline.md)}}
+
+{{Quote|If that tornado came right now, I would just sit here and watch for a while.|Max at the [End of the World Party](vortex_club_party.md) in "[Episode 4: Dark Room](dark_room.md)"}}
+
+{{Quote|With great power comes great bullshit.|Max to [Brooke](brooke.md) in "Dark Room"}}
+
+{{Quote|The past... within the past. Ugh. Am I pushing myself too hard?|Max between realities in [Mr. Jefferson](mr__jefferson.md)'s class in "[Episode 5: Polarized](polarized.md)"}}
+
+##  [Chloe Price](chloe_price.md) 
+{{Quote|Amazeballs!|Chloe in "[Episode 2: Out of Time](out_of_time.md)"}}
+
+{{Quote|Awesomesauce!|Chloe in "[Episode 1: Chrysalis](chrysalis.md)"}}
+
+{{Quote|Hella!|Chloe's favorite intensifier throughout the game}}
+
+{{Quote|NO EMOJI!!!|Chloe's response to Max's SMS in "Out of Time"}}
+
+{{Quote|Everybody lies. No exceptions.|Chloe's graffiti in [Chloe's Room](her_room.md)}}
+
+{{Quote|Everybody pretends to care until they don't.|Chloe in "[Episode 3: Chaos Theory](chaos_theory.md)"}}
+
+{{Quote|Home, shit, home.|Chloe in "Chrysalis"}}
+
+{{Quote|Yep yep, I'm fucking insane in the brain! Let's dance!|Chloe in "Chrysalis"}}
+
+{{Quote|This shit-pit has taken everyone I've ever loved... I'd like to drop a bomb on Arcadia Bay and turn it to fucking glass...|Chloe in "Chrysalis"}}
+
+{{Quote|I pledge allegiance to Max and the power for which she stands...|Chloe heavily impressed by Max's [Rewind](rewind_power.md) in "Out of Time"}}
+
+{{Quote|Since you're the mysterious superhero... I'll be your faithful chauffeur and companion.|Chloe in "Out of Time"}}
+
+{{Quote|Dude, you fuck shit up, you rewind, you fix it. Drop the mic. Boom.|Chloe in "Out of Time"}}
+
+{{Quote|Why look, an otter in my water!|Chloe to Max at the [Blackwell Swimming Pool](swimming_pool.md) in "Chaos Theory"}}
+
+{{Quote|You better not rewind and take that kiss back. You know I'm hotter than those Seattle art-holes, right?|Chloe to Max if Max chose to kiss her in "Chaos Theory"}}
+
+##  [Warren Graham](warren_graham.md) 
+{{Quote|You can draw? I thought you were Blinded By Science, not art." - "Art IS Science. Music is math, et cetera, et cetera. I'd put Stephen Hawking against Picasso any day." - "Hardcore. So you must use a computer to draw." - "Of course. I'd love to tweak one of your selfies with some cool graphics...|Max and Warren in "[Episode 1: Chrysalis](chrysalis.md)" (determinant)}}
+{{Quote|I may be a pest, but... I'm a good listener.|Warren to Max in "Chrysalis" (determinant)}}
+{{Quote|I'll be in the TARDIS getting my Delorean ready.|Warren in a text message in "[Episode 2: Out of Time](out_of_time.md)"}}
+{{Quote|I bet you were glad to see her blast up in that truck like a rock star.|Warren talking about Chloe to Max in "[Episode 2: Out of Time](out_of_time.md)"}}
+{{Quote|Weird fucking week. Like that bizarro snowfall yesterday. Speaking of dystopia, that drive-in is having a 70's "Planet of the Apes" marathon. Let's "Go Ape"!" - "No, I don't think I can concentrate on going out to the movies. I just feel like escaping." - "Fine. Be a damned dirty human. I'll "Go Ape" myself.|Warren and Max in "Out of Time" (determinant)}}
+{{Quote|Don't be so modest, Doctor Caulfield...|Warren after being helped by Max with his science experiment in "Out of Time"}}
+{{Quote|You like to hurt people, huh? Like Max? Like Kate? Like me? Huh? Feel this, motherfucker!|Warren in "[Episode 4: Dark Room](dark_room.md)" (determinant)}}
+{{Quote|I really flipped out on Nathan. I just hate bullies...|Warren to Max and Chloe in "Dark Room"}}
+{{Quote|Welcome to the end of the world, ladies. I'm glad you decided to escort me...|Warren to Max and Chloe in "Dark Room"}}
+{{Quote|Hey, hey... I know this is a bad time, but can I get one picture? I've been feeling like this might be actually the end of the world, so... I want to have something for prosperity.|Warren in "Dark Room"}}
+{{Quote|I hate to say I'm glad to see you, but I'm so glad to see you.|Warren in "[Episode 5: Polarized](polarized.md)"}}
+{{Quote|Warren, I came for all of you. Just tell me you do have the photograph." - "I just want..." - "Now shut up and listen." - "Oh yeah, you’re finally going to tell me what you never did in the parking lot...|Warren in "Polarized"}}
+{{Quote|I'm not a real scientist, even though I play one at school, but this seems like pure cause and effect, maybe Chaos Theory...|Warren in "Polarized"}}
+{{Quote|Max... I'm so sorry you had to go through all that... You're the bravest person I've ever known.|Warren in "Polarized"}}
+{{Quote|For every action, there's... there's a reaction... Whenever you reversed or altered time, maybe you caused a chain reaction... even in the environment.|Warren in "Polarized"}}
+{{Quote|I know I can be a pain in the ass... and... and you've always treated me like a person, not... not a beta nerd. I told you before that I'll always believe you...|Warren in "Polarized" (determinant)}}
+{{Quote|Max, of course I believe you. You're the most amazing person I've ever met... and I'm glad you trust me.|Warren in "Polarized" (determinant)}}
+{{Quote|I don't have a fucking clue what's going on. But I have total faith that you'll do the right thing when the time comes. I'm so proud of you, Max. How could there be a more important moment in history? And I'm in the middle of it with you? So thank you for trusting me.|Warren in "Polarized"}}
+{{Quote|Hey... Be careful out there.|Warren in "Polarized"}}
+{{Quote|Just in case we don’t get out of this... I wanted to say..." - "I know, Warren..." - "Of course you do." - "I’m going to make the right choices from now on... I swear." - "That's why you're Super Max.|Warren and Max in "Polarized" (determinant)}}
+{{Quote|I was happy just being your friend... Why do you want all your friends to die?|Warren in [Max's Nightmare](max_s_nightmare.md) in "Polarized" (determinant)}}
+
+##  [Nathan Prescott](nathan_prescott.md) 
+{{Quote|It's cool, Nathan... Don't stress... You're okay, bro. Just count to three... Don't be scared... You own this school... If I wanted, I could blow it up... You're the boss...|Nathan in "[Episode 1: Chrysalis](chrysalis.md)"}}
+{{Quote|You don't know who the fuck I am or who you're messing around with!" - "Where'd you get that? What are you doing? Come on, put that thing down!" - "Don't EVER tell me what to do. I'm so SICK of people trying to control me!|Nathan and Chloe in "Chrysalis"}}
+{{Quote|Nobody... nobody lectures me. Everybody tries though... They try...|Nathan in "Chrysalis"}}
+{{Quote|Do not analyze me! I pay people for that. Worry about yourself, Max Caulfield.|Nathan in "Chrysalis"}}
+{{Quote|Nobody tells me what to do. Not my parents, not the Principal, or that whore in the bathroom!|Nathan in "Chrysalis"}}
+{{Quote|Here comes the mysterious Max. Disguised as a pixie hipster.|Nathan in "[Episode 2: Out of Time](out_of_time.md)" (determinant)}}
+{{Quote|Meow. Bring out the claws. I love seeing chicks fight.|Nathan in "Out of Time"}}
+{{Quote|Hey, that's total slander! I could sue you and this school so fast!... I already have a personal lawyer.|Nathan after Max blames him in "Out of Time"}}
+{{Quote|You don't know shit about my father, or me. Nobody here does!" - "Then tell me what I should know." - "Why? So you can pretend to care, hm? Spoiler alert, he's an asshole.|Nathan and Max in "[Episode 3: Chaos Theory](chaos_theory.md)"}}
+{{Quote|Bullshit. My dad doesn't hire, he owns. And these pigs know better than to narc on me.|Nathan in "Chaos Theory"}}
+{{Quote|Pussies cant fukin fite|Nathan's SMS to Max in "[Episode 4: Dark Room](dark_room.md)"}}
+{{Quote|Plus, my dad is on his way! You're all fucked! He owns you!|Nathan in "Dark Room" (determinant)}}
+{{Quote|Everybody hates me... everybody...|Nathan in "Dark Room" (determinant)}}
+{{Quote|Max... it's Nathan. I just wanted to say... I'm sorry. I didn't want to hurt Kate, or Rachel, or... I didn't want to hurt anybody. Everybody... used me! Mr. Jefferson is coming for me now. All this shit will be over soon. Watch out, Max... He wants to hurt you next. Sorry.|Nathan's voicemail in "[Episode 5: Polarized](polarized.md)"}}
+{{Quote|Just because I’m mentally ill doesn’t mean I deserve to die, Max!|Nathan in [Max's Nightmare](max_s_nightmare.md) in "Polarized"}}
+{{Quote|Nobody ever helped me, Max. Especially you...|Nathan in Max's Nightmare in "Polarized"}}
+{{Quote|Max, I'm... truly... I truly am sorry for being such a bastard. You would have been cool to hang out with. I just don’t want everybody else to suffer like me.|Nathan in Max's Nightmare in "Polarized"}}
+
+##  [Victoria Chase](victoria_chase.md) 
+{{Quote|Now you're totally stuck in the Retro Zone. Sad face.|directed at Max during Mr. Jefferson's art class in "[Episode 1: Chrysalis](chrysalis.md)"}}
+{{Quote|Oh look, it's Max Caulfield, the selfie ho of Blackwell. What a lame gimmick. Even Mark—Mr. Jefferson—falls for your waif hipster bullshit.|directed at Max as Victoria blocks her access to the dormitory in "[Episode 1: Chrysalis](chrysalis.md)"}}
+{{Quote|'The Daguerreian Process, Sir!' You could barely even say that. I guess you got your meds filled.|directed at Max in "[Episode 1: Chrysalis](chrysalis.md)"}}
+{{Quote|Don't worry, Max, I'll put a vintage filter on it right before I post it all over social medias.  Now, why don't you go fuck your selfie?|directed at Max in "[Episode 1: Chrysalis](chrysalis.md)"}}
+{{Quote|That video of you clubbing didn't look like homework...|directed at Kate in "[Episode 2: Out of Time](out_of_time.md)"}}
+{{Quote|I hate Max Caulfield. Can't you see how phony she is with her "Oh, I'm so shy and fragile" crap? She's a total drama queen.|said to Mr. Jefferson in "[Episode 3: Chaos Theory](chaos_theory.md)"}}
+{{Quote|I'll give you a one-word sneak preview of Max's photo: selfie. Listen... you've seen my entry, you know it's better than that. Wouldn't that be SO cool to hang out together in San Francisco, Mark?|said to Mr. Jefferson in "[Episode 3: Chaos Theory](chaos_theory.md)"}}
+{{Quote|You already love my work, so it's not like you're playing favorites. Just imagine if you picked my photo, though... we would have to spend a LOT of time together... That could be... fun, don't you think?|said to Mr. Jefferson in "[Episode 3: Chaos Theory](chaos_theory.md)"}}
+{{Quote|You might as well choose me... otherwise I might have to tell people you offered to choose my photo for favors or something...|Victoria blackmailing Mr. Jefferson's in "[Episode 3: Chaos Theory](chaos_theory.md)"}}
+{{Quote|I'm not perfect, okay? I'm a teenager at an art school. I'm only here to become a photographer and get famous.|said to Max at the [End of the World Party](end_of_the_world_party.md) in "[Episode 4: Dark Room](dark_room.md)"}}
+{{Quote|That makes both of us, Max. I always feel like I have to overcompensate. For what, I have no clue. I'm only here to become a photographer, not president.|said to Max at the End of the World Party in "Dark Room"}}
+{{Quote|You have talent, Victoria. You don't have to push people out of your way." - "You don't understand. My parents own a gallery. I know how this art game has to be played... it's brutal.|with Max at the End of the World Party in "Dark Room"}}
+{{Quote|On point, Max... Thanks for admitting again that I have some talent. Not that I think I always do." - 
+"I don't either, but that's the choice you make." - "Hard to believe, but I don't always make the best choices. Do you think it's, like, fate we're not supposed to be friends?|with Max at the End of the World Party in "Dark Room"}}
+{{Quote|By the way, nobody says we have to be friends, Max." - "Maybe, but who says we have to be enemies?" - "Whoever makes that decision." - "That would be us, Victoria." - "Well, Max Caulfield, I could always choose to let you in the Vortex Club...|with Max at the End of the World Party in "Dark Room"}}
+{{Quote|Why the hell not? We're both into art and photography, both kind of weird and pretentious. If we hung out without attitude, we'd get along fine." - "I almost asked you to hang out. You said my photos were "Avedon-esque." Then I remembered who I was..." - "You should have asked me. It would have been cool to compare photo notes."|with Max at the End of the World Party in "Dark Room"}}
+{{Quote|Maybe we're too much alike..." - "You might be right." - "Well, Max Caulfield, there's still time for you to get in the Vortex Club..." - "I actually hope so, Victoria.|with Max at the End of the World Party in "Dark Room"}}
+{{Quote|Max, I don't hate you... I actually think you're one of the coolest people at Blackwell... Weird, but cool. You just don't know it yet. Maybe I'm jealous because you don't give a shit what anybody thinks. And I do.|said to Max at the End of the World Party in "Dark Room"}}
+{{Quote|I don't believe anything you say. You're full of shit. "Oh, hi, I'm Max Caulfield and I'm so sensitive that butterflies make me cry."|mocking Max at the End of the World Party in "Dark Room"}}
+{{Quote|Eat a dick, Max. You're just jealous of me because I actually do the things you can't. I put my photographs out there, while you hide behind your lame retro-selfies.|mocking Max at the End of the World Party in "Dark Room"}}
+{{Quote|(crying) Max... I just can't believe this is real. I don't want to die like this! I'm only 18!|said to Max in "[Episode 5: Polarized](polarized.md)"}}
+{{Quote|I wish we had been friends, Max. But please... don’t let me die like this... I’m still a teenager...|said to Max in [Max's Nightmare](max_s_nightmare.md) in "Polarized"}}
+
+##  [Kate Marsh](kate_marsh.md) 
+{{Quote|It sucks to be dragged into the spotlight." - "Unless you're Victoria.|Kate and [Maxine Caulfield](max.md) in "[Episode 1: Chrysalis](chrysalis.md)" (determinant)}}
+{{Quote|Nobody believes me anyway... So you can't help me?" - "I'm trying. But you have to understand my position..." - "Why? You don't understand mine. Nobody does...nobody...|Kate and Mark in "[Episode 2: Out of Time](out_of_time.md)"}}
+{{Quote|Oh, I see... I'm not important to you anymore. Nobody cares about me... Nobody...|Kate to Mark in "Out of Time" (determinant)}}
+{{Quote|Max, I'm in a nightmare and I can't wake up... unless I put myself to sleep. Then everybody at Blackwell can post pics of my body; I'm already on the internet forever. No wonder they call it a "web"; nothing can ever get out. Like my video... I wish I could go back in time and erase everything...|Kate to Max in "Out of Time"}}
+{{Quote|Even angels need angels, Max.|Kate to Max in "[Episode 4: Dark Room](dark_room.md)"}}
+{{Quote|Max, I know Victoria can be a... a... not nice. But, I do believe in forgiveness and redemption. I might be naive, but I feel her struggle.|Kate to Max in "Dark Room"}}
+{{Quote|Hey, Kate, back again." - "Which makes me happy.|Kate and Max in "Dark Room"}}
+{{Quote|Max, why did you stop me from jumping? What kind of friend are you? You never understood me... or what happened to me... Now my family will never leave me alone... And that means I’ll always be alone... thanks to you.|Kate to Max in [Max's Nightmare](max_s_nightmare.md) in "[Episode 5: Polarized](polarized.md)" (determinant)}}
+{{Quote|Max, how could you let me jump off a roof? You were the only person I trusted here... But you never really listened to me... Now I’m never going to Heaven... Instead you’ve stuck me in Hell... Alone forever...|Kate to Max in Max's Nightmare in "Polarized" (determinant)}}
+
+##  [Mark Jefferson](mark_jefferson.md) 
+{{Quote|I could frame any one of you in a dark corner, and capture you in a moment of desperation.|Jefferson in "[Episode 1: Chrysalis](chrysalis.md)"}}
+{{Quote|Shh, I believe Max has taken what you kids call a "selfie"... A dumb word for a wonderful photographic tradition. And Max... has a gift.|Jefferson in "Chrysalis"}}
+{{Quote|Always take the shot. My number one rule of photography.|Jefferson in "[Episode 2: Out of Time](out_of_time.md)"}}
+{{Quote|Chloe, why isn't someone as cool as you going to Blackwell?|Jefferson in "[Episode 4: Dark Room](dark_room.md)"}}
+{{Quote|The slightly unconscious model is often the most open and honest. No vanity or posing, just... pure expression.|Jefferson in "[Episode 5: Polarized](polarized.md)"}}
+{{Quote|I knew you were special the second I saw your first... "selfie". Yes, I still hate that word. But I love the purity of your own image.|Jefferson in "Polarized"}}
+{{Quote|Chloe, right. Yeah, I'm sorry I killed—that Nathan killed her in self-defense. But she had a troubled history like most Arcadia Bay dropouts. Nobody will be surprised... or care. Though I promise... people will care when you die tonight, Max. I wasn't lying when I said you have a gift.|Jefferson in "Polarized"}}
+{{Quote|Stupid bitch! You just don't listen, do you? In fact, you never did hear much in my class; if you had, you might have seen all this coming.|Jefferson in "Polarized"}}
+{{Quote|Remember my number one rule. Always... take... the shot.|Jefferson in "Polarized"}}
+{{Quote|Yes, you're a psychopath. And this is your last session." - "Au contraire, Max. I'm so sane, that nobody knows what's happening to you right now.|[Maxine Caulfield](max.md) and Jefferson in "Polarized"}}
+{{Quote|Kate believed, and she survived. You failed to break her. She's stronger than ever. And she'll outlive you." - "She'll certainly outlive you. (chuckles) Who knows? Maybe I'll pay Kate a visit soon and test her faith again...|Max and Jefferson in "Polarized" (determinant)}}
+{{Quote|Then why did you blame David Madsen for stalking Kate? Of course, he was the only person who was about to find out the truth. Irony.|Jefferson in "Polarized" (determinant)}}
+{{Quote|Chloe and Rachel... you killed both of them!" - "They're fucking together in heaven right now. Is that what you wanna hear?|Max and Jefferson in "Polarized" (determinant)}}
+{{Quote|I'm going to make you live forever in my photographs. That's all that will be left of Maxine Caulfield. They won't even find your bag...|Jefferson in "Polarized" (determinant)}}
+{{Quote|There's nothing more innocent than a teenager's diary. Oh... look at your selfies. What a waste of talent.|Jefferson in "Polarized"}}
+{{Quote|Especially since you've developed from nerd to hero within a week. There's something... weird going on with you.|Jefferson in "Polarized"}}
+{{Quote|It's about time somebody finally killed Chloe... Think of how often that bitch almost got me killed... It's like you're doing both of us an awesome favor!" - "Chloe can never appreciate you the way I will... Maxine. And yes, I insist on calling you Maxine... forever.|Max and Jefferson during [Max's Nightmare](max_s_nightmare.md) in "Polarized"}}
+{{Quote|Please understand, Max... The only place I can be "myselfie" is in the Dark Room.|Jefferson during Max's Nightmare in "Polarized"}}
+
+##  [David Madsen](david_madsen.md) 
+{{Quote|Girls always use that excuse." - "Excuse for what?" - "For whatever you're up to. Your face is covered in guilt." - "The alarm tripped me out." - "Then trip on out of here, missy. Or are you hiding something? Huh?|David and Max in "[Episode 1: Chrysalis](chrysalis.md)"}}
+
+{{Quote|...so don't think I'm blind! I see everything here at Blackwell! Do you understand what I'm saying?" - "No, and leave me alone!" - "...you can't fool me. I know everything about this school. I cover the waterfront. So you better figure out what side you're on...|David and Kate in "Chrysalis" (determinant)}}
+
+{{Quote|I'm not screwing around, soldier. Chloe. Open this door.|David in "Chrysalis"}}
+
+{{Quote|I'm sick of your disrespect! Tell me the truth, that's an order!|David in "Chrysalis"}}
+
+{{Quote|For your own good, you should stay away from Chloe. She's a loser and she'll only drag you down. Stick to doing your homework.|David in "Chrysalis" (determinant)}}
+
+{{Quote|Is that why you hassled Kate yesterday? I took a photo of that moment for surveillance sake." - "Soldier, you don't have the facts. You think I'm a hypocrite because I want cameras around here for the safety of the students?|David and Max in "[Episode 2: Out of Time](out_of_time.md)" (determinant)}}
+
+{{Quote|Kate hasn't done anything wrong." - "Max, this isn't just about Kate Marsh. My concern is for the safety of all Blackwell students. Including you.|David and Max in "Out of Time" (determinant)}}
+
+{{Quote|I don't want to fight with you anymore. I don't want to fight with anyone anymore... That's all, Max.|David in "Out of Time"}}
+
+{{Quote|Are you fucking kidding me? This is major bullshit! I led troops into battle and you're letting this punk lead you?|David in "Out of Time" (determinant)}}
+
+{{Quote|You won this battle, Max. You broke up my family. I salute you." - "David, I didn't try to hurt you. Ever. But I won't let anybody hurt Chloe." - "Too late, isn't it? You just better be damn careful with her. Don't you wander off into the dark...|David and Max in "[Episode 4: Dark Room](dark_room.md)" (determinant)}}
+
+{{Quote|I didn't have all the evidence at the time. I... I am sorry, Max.|David in "Dark Room" (determinant)}}
+
+{{Quote|I have a family here, Max. And I think Blackwell is the best place for me, since only I know what's happening.|David in "Dark Room" (determinant)}}
+
+{{Quote|Jefferson! It's over!|David in "[Episode 5: Polarized](polarized.md)"}}
+
+{{Quote|You kind of suspected everybody..." - "Yes, and this is what I get for wasting all those hours on the Prescotts... I set my sights too wide, lack of focus.|David and Max in "Polarized" (determinant)}}
+
+{{Quote|We all make decisions we regret. But I have to admit, I'm impressed by you... and Chloe, and your investigation. I had all the high-tech toys, while you had each other.|David in "Polarized" (determinant)}}
+
+{{Quote|That's one of my problems... I'm not good at teamwork. Never was. Even in the service." - "I can't even imagine what you went through..." - "I'm not gonna make any excuses for my behavior. I tried to be a good soldier, but...I wasn't so great. I tried to be a good father, too...|David and Max in "Polarized" (determinant)}}
+
+{{Quote|I just wanna see her safe with her mother. I promised Joyce I would go see a family counselor... and I'll start by apologizing to Chloe. I don't expect her to call me dad, but maybe she'll stop calling me "step-douche". So, where is Chloe?|David in "Polarized" (determinant)}}
+
+{{Quote|I promised Joyce that I would protect her and Chloe... How can I face her and explain this? I never even told Chloe that I... I... Goddamn it! You killed my wife's child, you sick fucker?! You took away my stepdaughter?!|David in "Polarized" (determinant)}}
+
+{{Quote|Max, you’re exactly the kind of soldier I’d want by my side in a war.|David in [Max's Nightmare](max_s_nightmare.md) in "Polarized"}}
+
+##  [Frank Bowers](frank_bowers.md) 
+{{Quote|Hey, it's Thelma and Louise. Or is it Bonnie and Clyde?|Frank to Max and Chloe in "Out of Time"}}
+{{Quote|I was eating those beans—are you fucking insane? I WAS EATING THOSE BEANS!|Frank to Max in "Chaos Theory"}}
+{{Quote|God, I hate you Blackwell shits. You act like you own this town... like I'm your puppet. Nobody owns me, you understand that?|Frank to Max and Chloe in "Dark Room"}}
+{{Quote|How the hell did you know about that photo? That's my favorite picture of her... I can look at it anytime and she'll always be there for me. I can't stand not knowing where she is... not hearing her voice... or her laugh... anymore.|Frank to Max and Chloe in "Dark Room"}}
+{{Quote|If there's a chance in hell you two dorks can find Rachel... I'll take it.|Frank to Max and Chloe in "Dark Room"}}
+{{Quote|Rachel... Oh, God. She was the one good thing in my life, Max. I know she was too young, and... I expected her to leave me, just... just not how it happened. I would never have stopped her from going after her dreams.|Frank to Max in "Polarized"}}
+
+##  [Raymond Wells](raymond_wells.md) 
+{{Quote|You're sweating pinballs. Is that all you're thinking about?|Wells to Max in "Chrysalis"}}
+{{Quote|Don't think I don't know what goes on around here. You've only been here for three weeks and you're already causing conflict.|Raymond to Max in "[Episode 1: Chrysalis](chrysalis.md)" (determinant)}}
+{{Quote|Please don't say that. There's nothing to be scared of at Blackwell Academy. Our head of security is overseeing a new era of campus safety.|Raymond to Max in "[Episode 2: Out of Time](out_of_time.md)"}}
+{{Quote|As principal of Blackwell Academy, I take my duties seriously. I take the well-being of every student more seriously. What happened today should never happen in a hall of wisdom and knowledge.|Raymond in "[Episode 2: Out of Time](out_of_time.md)"}}
+{{Quote|Max, after this week, you are certainly not a little kid anymore. In fact, you're a noteworthy adult being honored by your peers. Now, you have to start acting like the photographer you want to be.|Raymond to Max in "San Francisco Timeline" in "[Episode 5: Polarized](polarized.md)"}}
+{{Quote|If an event skimps on the food, you know it's a bad event.|Wells to Max in the "[Zeitgeist Gallery](zeitgeist_gallery.md)"}}
+{{Quote|Attention... I regret to announce that one of your fellow classmates, Maxine Caulfield, has died under tragic circumstances that I promise to investigate after I get my drink on.|Principal Wells in the maze segment of Max's nightmare}}
+
+##  [Alyssa Anderson](alyssa_anderson.md) 
+{{Quote|Years of mad dodging skills. Bullies never change.|Alyssa after moving her head to avoid a thrown football}}
+{{Quote|I'm by myself reading chick-lit. Pretty soon I'll be bonding with Victoria at the Vortex Club...|Alyssa to Max in "Chrysalis"}}
+{{Quote|Okay, Max, that's twice you've saved me from a projectile weapon. Are you my guardian angel?|Alyssa to Max in "Out of Time"}}
+{{Quote|Not now, Max, I'm contemplating shit.|Alyssa as she stands looking out of a window in Mr. Jefferson's class}}
+
+##  Further Reading 
+* [https://en.wikiquote.org/wiki/Life_Is_Strange Wikiquote]
+

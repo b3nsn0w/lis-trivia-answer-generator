@@ -1,0 +1,38 @@
+Here is a section of the wiki page for Life is Strange (mobile game):
+
+## Development 
+It was announced for iOS and Android on December 12, 2017.[http://lifeisstrange-blog.tumblr.com/post/168470142496/life-is-strange-coming-to-mobile Life is Strange coming to Mobile, official Tumblr post] On July 18, 2018, the development of all episodes for iOS and Android concluded.
+
+On iOS the first three episodes were released on December 14, 2017, featuring an "enhanced user interface for full-touch screen integration", Unreal Engine 4 enhancements and optimizations, an in-app photo mode and exclusive iMessage stickers. An Android version and the other episodes were announced for early 2018.
+
+On March 29, 2018, the final two episodes were released on iOS, Episode 1 became free (as on the other platforms) and the Android version was confirmed for release later in 2018, targeting Summer due to needing more time for polish.[https://www.hardcoregamer.com/2018/03/29/new-life-is-strange-update-releases-episode-4-episode-5-for-ios-port/294899/ New Life Is Strange Update Releases Episode 4, Episode 5 for iOS Port] (March 29, 2018)[http://lifeisstrange-blog.tumblr.com/post/172380649260/life-is-strange-episodes-4-and-5-are-now-available "Life is Strange episodes 4 and 5 are now available...", official Tumblr post] The update's patch notes mention fixing issues relating to saving, loading, the iCloud saves and the photo mode now allows cycling between Max's skins and poses and additional photo settings. Simplified Chinese subtitles were also added to the game.[http://www.ign.中国/life-is-strange-iphone/20860/news/ios 《奇异人生》在IOS平台更新中文服务 - IGN China][https://steamcn.com/t375359-1-1 SteamCN Discussion]
+
+On June 4, 2018, the Android version was announced to be available in July with all five episodes and Android exclusive controller support.[http://lifeisstrange-blog.tumblr.com/post/174563922657/life-is-strange-is-now-available-for "Life is Strange is now available for...", official Tumblr post] The game was listed on the Google Play Store with the ability to preregister.[https://www.reddit.com/r/lifeisstrange/comments/8objdj/no_spoilers_you_can_now_preregister_for_life_is/ Reddit post by /u/fress93] An [Media:Android_beta_disclaimer.png](open_beta.md) was soft launched later that month, likely earliest on June 19th.[https://www.reddit.com/r/lifeisstrange/comments/8t71xf/no_spoilers_soft_launch_of_an_android_open_beta/ Reddit post by /u/IgelRM] The Android version was released on July 18, 2018, worldwide.[https://www.androidpolice.com/2018/07/18/square-enixs-graphic-adventure-life-strange-finally-coming-android-july/ Square Enix's graphic adventure 'Life is Strange' is finally coming to Android in July] (Android Police, updated 18 July, 2018)[https://www.reddit.com/r/lifeisstrange/comments/8zyveb/no_spoilers_life_is_strange_is_now_available_on/ Reddit post by /u/Oscar_gb1]
+
+Prior to Episode 1 being also free on mobile (its price originally being $2.99), a [Media:Lite_version_trial_screen.png](trial_version.md), which ends after hitting the alarm in the bathroom, was released for free as "Life Is Strange Lite" on December 14, 2017, and removed on March 29, 2018.[https://web.archive.org/web/20180329160035/https://webcache.googleusercontent.com/search?q=cache:jHmEaVCZntkJ:https://itunes.apple.com/us/app/life-is-strange-lite/id1313404226 Life Is Strange Lite (Archive)] Player progress was carried over to the full version via iCloud.
+
+## Official iOS Description 
+*"Life Is Strange* is a five-part episodic game that sets out to revolutionize story-based choice and consequence games by allowing the player to rewind time and affect the past, present, and future.
+
+Follow the story of [Maxine Caulfield](max_caulfield.md), a photography senior who discovers she can [rewind](rewind.md) time while saving her best friend [Chloe Price](chloe_price.md).
+
+The pair soon find themselves investigating the mysterious disappearance of fellow student [Rachel Amber](rachel_amber.md), uncovering a dark side to life in [Arcadia Bay](arcadia_bay.md). Meanwhile, Max must quickly learn that changing the past can sometimes lead to a devastating future.
+
+Exclusively on mobile, the game comes with Life is Strange iMessage stickers. Additionally, you can seamlessly share your progress on social media, and compare your own story choices with friends. An all-new photo mode allows you to take pictures like never before, modify them with filters and easily share them."
+
+[This version includes [Episode 1: Chrysalis](episode_1.md) of Life is Strange. The other episodes are available for in-app purchase. A Season Pass is also available [Episodes 2-5 bundle] which saves an additional 10% via the in-app "Play Episodes" menu.]
+
+Supported Devices: iPhone 6, iPad 5 (2017), iPad Air 2, iPad Mini 4 or newer devices.
+
+Episode 1 size: 960 MB
+
+**Key Features:**
+* A beautifully written modern adventure game;
+* Rewind time to change the course of events;
+* Multiple endings depending on the choices you make;
+* Striking, hand-painted visuals;
+* Distinct, licensed indie soundtrack featuring [Something Good](alt_j.md), [Spanish Sahara](foals.md), [Santa Monica Dream](angus__amp__julia_stone.md), [Crosses](jose_gonzales.md) and more.
+
+
+
+Generate five trivia questions relevant to this section of the page.

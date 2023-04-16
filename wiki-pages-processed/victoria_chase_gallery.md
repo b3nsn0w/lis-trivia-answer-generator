@@ -1,0 +1,110 @@
+#  Victoria Chase/Gallery 
+
+This article features images of the character [Victoria Chase](victoria_chase.md).
+
+##  Concept Art 
+
+victoria-concept-caplain.jpg|Concept Art by [Edouard Caplain](edouard_caplain.md).
+
+##  Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+
+vlcsnap-2016-09-13-14h39m27s369.png|Victoria with [Taylor Christensen](taylor.md) and [Courtney Wagner](courtney.md)
+vlcsnap-2016-09-13-14h41m06s598.png|Victoria talking to [Maxine Caulfield](max.md)
+Victoria Paint.jpg|Closeup of Victoria coated in paint
+vlcsnap-2016-09-13-15h35m56s330.png|Victoria looking at a poster of [Rachel Amber](rachel.md)
+
+##  Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+
+vlcsnap-2016-09-13-14h44m22s783.png|Victoria talking to Courtney
+victoria.jpg|Victoria and Taylor in the showers
+victoria2.jpg|Victoria and Taylor in the showers #2
+victoria1.jpg|Closeup of Victoria
+vlcsnap-2016-09-13-14h45m35s161.png|Victoria looking in the mirror
+vlcsnap-2016-09-13-14h50m01s445.png|Victoria and [Nathan Prescott](nathan.md) on Max's desk
+vlcsnap-2016-09-13-15h40m53s008.png|Victoria crying in [Victoria's Room](her_room.md)
+
+##  Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+
+20160710222009_1.jpg|Victoria and Nathan under the influence of drugs
+victoriaselfies.jpg|Victoria's selfies from her locker
+victoriaparty.jpg|Photo of Victoria partying
+vicandkate.jpg|Victoria laughing at a drugged [Kate Marsh](kate.md)
+vlcsnap-2016-09-13-14h52m30s410.png|Victoria talking to [Mark Jefferson](jefferson.md)
+vlcsnap-2016-09-13-14h53m41s474.png|Victoria talking to Jefferson #2
+vlcsnap-2016-09-13-14h56m40s432.png|Victoria talking to Max ([Alternative Timeline](alternative_timeline.md))
+
+##  Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+
+vlcsnap-2016-09-13-15h01m40s400.png|Victoria talking to Max at the [End of the World Party](party.md)
+vlcsnap-2016-09-13-15h02m00s966.png|Victoria talking to Max #2
+vlcsnap-2016-09-13-15h04m19s407.png|Victoria happy that she won the [Everyday Heroes Photo Contest](everyday_heroes_contest.md)
+vlcsnap-2016-09-13-15h04m59s887.png|Victoria on the stage
+vlcsnap-2016-09-13-15h05m09s278.png|Victoria on the stage #2
+
+##  Episode Five - "[Episode 5: Polarized](polarized.md)" 
+
+LifeIsStrange 2016-09-26 20-05-57-690.jpg|Victoria in the [Dark Room (Location)](dark_room.md) (closeup)
+LifeIsStrange 2016-09-26 20-06-10-815.jpg|Victoria in the Dark Room
+LifeIsStrange 2016-09-26 20-07-17-643.jpg|Victoria talking to Max
+
+###  [Max's Nightmare](max_s_nightmare.md) 
+
+LifeIsStrange 2016-09-26 20-17-14-478.jpg|Max transformed into Victoria
+LifeIsStrange 2016-09-26 20-26-40-237.jpg|Victoria about to kiss [Chloe Price](chloe.md)
+LifeIsStrange 2016-09-26 20-32-49-371.jpg|Victoria in the diner scene
+
+ Victoria Chase/Gallery =
+
+This article features images of the character [Victoria Chase](victoria_chase.md).
+
+##  Concept Art 
+
+victoria-concept-caplain.jpg|Concept Art by [Edouard Caplain](edouard_caplain.md).
+
+##  Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+
+vlcsnap-2016-09-13-14h39m27s369.png|Victoria with [Taylor Christensen](taylor.md) and [Courtney Wagner](courtney.md)
+vlcsnap-2016-09-13-14h41m06s598.png|Victoria talking to [Maxine Caulfield](max.md)
+Victoria Paint.jpg|Closeup of Victoria coated in paint
+vlcsnap-2016-09-13-15h35m56s330.png|Victoria looking at a poster of [Rachel Amber](rachel.md)
+
+##  Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+
+vlcsnap-2016-09-13-14h44m22s783.png|Victoria talking to Courtney
+victoria.jpg|Victoria and Taylor in the showers
+victoria2.jpg|Victoria and Taylor in the showers #2
+victoria1.jpg|Closeup of Victoria
+vlcsnap-2016-09-13-14h45m35s161.png|Victoria looking in the mirror
+vlcsnap-2016-09-13-14h50m01s445.png|Victoria and [Nathan Prescott](nathan.md) on Max's desk
+vlcsnap-2016-09-13-15h40m53s008.png|Victoria crying in [Victoria's Room](her_room.md)
+
+##  Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+
+20160710222009_1.jpg|Victoria and Nathan under the influence of drugs
+victoriaselfies.jpg|Victoria's selfies from her locker
+victoriaparty.jpg|Photo of Victoria partying
+vicandkate.jpg|Victoria laughing at a drugged [Kate Marsh](kate.md)
+vlcsnap-2016-09-13-14h52m30s410.png|Victoria talking to [Mark Jefferson](jefferson.md)
+vlcsnap-2016-09-13-14h53m41s474.png|Victoria talking to Jefferson #2
+vlcsnap-2016-09-13-14h56m40s432.png|Victoria talking to Max ([Alternative Timeline](alternative_timeline.md))
+
+##  Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+
+vlcsnap-2016-09-13-15h01m40s400.png|Victoria talking to Max at the [End of the World Party](party.md)
+vlcsnap-2016-09-13-15h02m00s966.png|Victoria talking to Max #2
+vlcsnap-2016-09-13-15h04m19s407.png|Victoria happy that she won the [Everyday Heroes Photo Contest](everyday_heroes_contest.md)
+vlcsnap-2016-09-13-15h04m59s887.png|Victoria on the stage
+vlcsnap-2016-09-13-15h05m09s278.png|Victoria on the stage #2
+
+##  Episode Five - "[Episode 5: Polarized](polarized.md)" 
+
+LifeIsStrange 2016-09-26 20-05-57-690.jpg|Victoria in the [Dark Room (Location)](dark_room.md) (closeup)
+LifeIsStrange 2016-09-26 20-06-10-815.jpg|Victoria in the Dark Room
+LifeIsStrange 2016-09-26 20-07-17-643.jpg|Victoria talking to Max
+
+###  [Max's Nightmare](max_s_nightmare.md) 
+
+LifeIsStrange 2016-09-26 20-17-14-478.jpg|Max transformed into Victoria
+LifeIsStrange 2016-09-26 20-26-40-237.jpg|Victoria about to kiss [Chloe Price](chloe.md)
+LifeIsStrange 2016-09-26 20-32-49-371.jpg|Victoria in the diner scene
+

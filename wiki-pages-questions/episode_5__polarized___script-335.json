@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Why is Victoria sobbing in this section of the script?",
+    "answer": "B",
+    "choices": {
+      "A": "She is scared of Mr. Jefferson",
+      "B": "She is upset about Max's situation",
+      "C": "She is in pain",
+      "D": "She is confused about what is happening"
+    }
+  },
+  {
+    "question": "What does Max realize about Mr. Jefferson in this section of the script?",
+    "answer": "B",
+    "choices": {
+      "A": "He is a good person",
+      "B": "He is a bad person",
+      "C": "He is a photographer",
+      "D": "He is a teacher"
+    }
+  },
+  {
+    "question": "What does Max think about taking another photo in this section of the script?",
+    "answer": "B",
+    "choices": {
+      "A": "She is excited to take another photo",
+      "B": "She is hesitant to take another photo",
+      "C": "She is scared to take another photo",
+      "D": "She is angry about taking another photo"
+    }
+  },
+  {
+    "question": "What does Max think about Jefferson in this section of the script?",
+    "answer": "B",
+    "choices": {
+      "A": "He is a great teacher",
+      "B": "He is a terrible teacher",
+      "C": "He is a kind person",
+      "D": "He is a suspicious person"
+    }
+  },
+  {
+    "question": "What is Max's goal in this section of the script?",
+    "answer": "B",
+    "choices": {
+      "A": "To take more photos",
+      "B": "To escape and save Chloe",
+      "C": "To find evidence against Mr. Jefferson",
+      "D": "To confront Mr. Jefferson"
+    }
+  }
+]

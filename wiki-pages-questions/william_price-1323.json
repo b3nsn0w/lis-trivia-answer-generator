@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Was The Gift William Left For His Family After His Death?",
+    "answer": "B",
+    "choices": {
+      "A": "Money",
+      "B": "Good Memories",
+      "C": "A Car",
+      "D": "A House"
+    }
+  },
+  {
+    "question": "In Which Episode Does Max Travel Back In Time To Save William?",
+    "answer": "C",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "What Happens To Chloe In The Alternative Timeline Where William Is Alive?",
+    "answer": "A",
+    "choices": {
+      "A": "She Goes To Paris For School",
+      "B": "She Buys A Red Pickup Truck",
+      "C": "She Becomes Paralyzed",
+      "D": "She Becomes A Rebel Without A Cause"
+    }
+  },
+  {
+    "question": "What Is The Cause Of Chloe's Paralysis In The Alternative Timeline?",
+    "answer": "A",
+    "choices": {
+      "A": "A Car Crash With An Unknown SUV",
+      "B": "A Car Crash With William",
+      "C": "A Car Crash With Max",
+      "D": "A Car Crash With Joyce"
+    }
+  },
+  {
+    "question": "What Does William Send To Max In Her Nightmare?",
+    "answer": "A",
+    "choices": {
+      "A": "A Message",
+      "B": "A Photo",
+      "C": "A Gift",
+      "D": "Money"
+    }
+  }
+]

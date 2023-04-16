@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Taylor's Relationship With Victoria?",
+    "answer": "A",
+    "choices": {
+      "A": "Best Friends",
+      "B": "Enemies",
+      "C": "Acquaintances",
+      "D": "Siblings"
+    }
+  },
+  {
+    "question": "What Does Taylor Throw At Kate In Episode One?",
+    "answer": "A",
+    "choices": {
+      "A": "A Crumpled Paper Note",
+      "B": "A Pen",
+      "C": "A Book",
+      "D": "A Water Bottle"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Photography Contest Mr. Jefferson Is Waiting For Taylor's Entry In?",
+    "answer": "A",
+    "choices": {
+      "A": "Everyday Heroes Photo Contest",
+      "B": "Blackwell Academy Photo Contest",
+      "C": "Life is Strange Photo Contest",
+      "D": "Max's Photography Contest"
+    }
+  },
+  {
+    "question": "What Is The Reason For Taylor's Standoffish Behavior?",
+    "answer": "C",
+    "choices": {
+      "A": "She Is Rude And Mean",
+      "B": "She Is Shy And Introverted",
+      "C": "She Is Trying To Impress Victoria",
+      "D": "She Is Going Through Personal Issues"
+    }
+  },
+  {
+    "question": "What Does Taylor Tell Max About Her Mother?",
+    "answer": "C",
+    "choices": {
+      "A": "She Had Cancer",
+      "B": "She Died Recently",
+      "C": "She Had Back Surgery",
+      "D": "She Is A Famous Actress"
+    }
+  }
+]

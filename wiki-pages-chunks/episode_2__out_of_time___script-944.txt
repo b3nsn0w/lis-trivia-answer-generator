@@ -1,0 +1,96 @@
+Here is a section of the wiki page for Episode 2: Out of Time - Script:
+
+## **Dormitory Roof** 
+*Max arrives at the roof.*
+
+**Max (thinking):** *Yes...*
+
+*Everything returns to normal speed as time unfreezes. Max attempts to rewind, but groans in pain as she finds she cannot. Hearing Max, Kate turns around to face her.*
+
+**Kate:** What are you doing here, Max?
+
+*Max attempts to rewind again but fails.''
+
+**Kate:** Stop! Don't come near me!
+
+**Max (thinking):** ''Not now... It won't work... I don't have any power... Now I have to do this by myself...?*
+
+***Choice 1***
+Took photo# Took photo**Kate:** Did you come to get another Pulitzer shot like yesterday, Max?
+
+{{#tag:tabber|I wanted proof.I wanted proof.**Max:** I only wanted proof that David was harassing you!
+
+**Kate:** More like you wanted another shot for the Max Caulfield scrapbook. You want another now? Huh?
+
+*Kate takes a step back.''
+
+**Max:** No! Please, Kate, you know me better than that...and I know you don't want to jump.
+
+**Kate:** But I do. My life is already over...
+
+{{S1E2RoofChoice2|1}}
+
+{{!}}-{{!}}I've been bullied, too.# I've been bullied, too.**Max:** I've been bullied too, Kate. And even when I got picked on, I stood up for myself.
+
+**Kate:** I know you only stand up for yourself. That's why you let David get in my face. Like everybody here...
+
+*Kate takes a step back.*
+
+**Max:** That's not true. People want to help you.
+
+**Kate:** Yes, they want to help kill me. And they can get their wish...
+
+{{S1E2RoofChoice2|1}}
+{{!}}-{{!}}I was scared.I was scared.**Max:** I'm so sorry, Kate. I thought I could help, but not by taking a picture. I'm ashamed...
+
+**Kate:** I know you're scared of David. He's scary. And I know you only want to help...
+
+*Max steps closer to Kate.*
+
+**Max:** I let you down and I'm sorry. I only want to help you.
+
+**Kate:** I wish you could... It's too late now... There's nothing for me here anymore...
+
+{{S1E2RoofChoice2|0}}
+
+{{!}}-{{!}}I had no idea.# I had no idea.**Max:** I had no idea what was going on between you and David...
+
+**Kate:** Really? So you took a picture to find out?
+
+**Max:** How else would I find out?
+
+**Kate:** You'll find out if I jump right now... Everybody will...
+
+*Kate takes a step back.*
+
+**Max:** Kate, don't! Please!
+
+**Kate:** Get out of here, Max, you can't change my mind. My life sucks and I want it over. Now.
+
+{{S1E2RoofChoice2|1}}
+}}
+|-|IntervenedIntervened**Kate:** Max, seriously, don't come near me. I will jump.
+
+**Max:** Okay, okay. I'm right here. Kate, please...
+
+**Kate:** Oh, Max, I know you want to help me... I love that you stepped up to David, but it doesn't matter now. Nothing matters.
+
+{{#tag:tabber|Things will get better.# Things will get better.*Max steps closer to Kate.*
+
+**Max:** Don't worry, Kate, things will get better. I promise.
+
+{{!}}-{{!}}You matter, not just to me.You matter, not just to me.*Max steps closer to Kate.*
+
+**Max:** You matter. And not just to me.
+
+}}
+
+**Kate:** I do want to believe that...
+
+{{S1E2RoofChoice2|0}}
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

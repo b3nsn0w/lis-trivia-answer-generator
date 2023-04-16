@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Name Of The Book Club Advertised On The Bulletin Board?",
+    "answer": "A",
+    "choices": {
+      "A": "Geek Grrls Book Club",
+      "B": "Young Guns Training",
+      "C": "Vortex Club",
+      "D": "Safe Not Sorry"
+    }
+  },
+  {
+    "question": "What Does Max Erase From Kate's Mirror After Taking A Shower?",
+    "answer": "A",
+    "choices": {
+      "A": "A Link To Kate's Video",
+      "B": "Insults Written By Victoria",
+      "C": "A Drawing Of A Skull",
+      "D": "A Phone Number"
+    }
+  },
+  {
+    "question": "Who Is Max Trying To Warn About The Toilet Paper Attack?",
+    "answer": "C",
+    "choices": {
+      "A": "Brooke Scott",
+      "B": "Victoria Chase",
+      "C": "Alyssa",
+      "D": "Kate Marsh"
+    }
+  },
+  {
+    "question": "What Does Max Say About The Size Of Blackwell Academy?",
+    "answer": "C",
+    "choices": {
+      "A": "It's A Labyrinth",
+      "B": "It's Huge",
+      "C": "It's Small",
+      "D": "It's A Maze"
+    }
+  }
+]

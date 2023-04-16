@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Say About Principal Wells Outside Of Campus?",
+    "answer": "B",
+    "choices": {
+      "A": "He Is Strict",
+      "B": "He Is Chill",
+      "C": "He Is Unapproachable",
+      "D": "He Is Intimidating"
+    }
+  },
+  {
+    "question": "What Does Max Say About Her Life After Everything That Happened That Week?",
+    "answer": "B",
+    "choices": {
+      "A": "She Hates Her Life",
+      "B": "She Is Grateful For Her Life",
+      "C": "She Is Indifferent About Her Life",
+      "D": "She Is Depressed About Her Life"
+    }
+  },
+  {
+    "question": "What Does Max Say She Needs To Do With Her Rewind Power?",
+    "answer": "B",
+    "choices": {
+      "A": "Use It More Often",
+      "B": "Put It On A Major Time-Out",
+      "C": "Train To Control It Better",
+      "D": "Share It With Chloe"
+    }
+  },
+  {
+    "question": "What Does Max Say She Needs To Save Chloe?",
+    "answer": "B",
+    "choices": {
+      "A": "Warren's Photo",
+      "B": "Her Contest Photo",
+      "C": "A Time Portal",
+      "D": "A Time Machine"
+    }
+  },
+  {
+    "question": "What Does Max Say About The Responsibility Of The Town's Destruction?",
+    "answer": "B",
+    "choices": {
+      "A": "She Is Not Responsible",
+      "B": "She Is Partially Responsible",
+      "C": "She Is Fully Responsible",
+      "D": "She Is Unsure Of Her Responsibility"
+    }
+  }
+]

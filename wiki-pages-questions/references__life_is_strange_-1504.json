@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Name Of The Fisherman's Boat In The Two Whales Diner Parking Lot?",
+    "answer": "A",
+    "choices": {
+      "A": "Bali Hai",
+      "B": "Moby Deck",
+      "C": "The Black Pearl",
+      "D": "The Jolly Roger"
+    }
+  },
+  {
+    "question": "What Is Written On The Bathroom Stall In The Two Whales Diner?",
+    "answer": "A",
+    "choices": {
+      "A": "\"I Aim To Misbehave\"",
+      "B": "\"Kate Marsh Love U Long Time\"",
+      "C": "\"Fire Walk With Me\"",
+      "D": "\"NTHRRTH\""
+    }
+  },
+  {
+    "question": "Who Is R.J. MacReady In The Two Whales Diner?",
+    "answer": "C",
+    "choices": {
+      "A": "The Fisherman",
+      "B": "The Owner Of The Diner",
+      "C": "The Protagonist Of The Thing",
+      "D": "The Name Of The Diner's Cook"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Mystery Fiction Series That Joyce References When Calling Max \"Nancy Drew\"?",
+    "answer": "A",
+    "choices": {
+      "A": "The Hardy Boys",
+      "B": "The Boxcar Children",
+      "C": "Encyclopedia Brown",
+      "D": "The Three Investigators"
+    }
+  },
+  {
+    "question": "What Is The Oblique Reference To Jax The Panda In Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "A Keychain",
+      "B": "A Graffiti",
+      "C": "A License Plate",
+      "D": "A Fishing Wall Of Fame"
+    }
+  }
+]

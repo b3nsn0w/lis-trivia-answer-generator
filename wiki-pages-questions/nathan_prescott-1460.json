@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Nathan's Response When Max Tells Him To Leave Her Alone?",
+    "answer": "A",
+    "choices": {
+      "A": "\"What The Fuck Ever\"",
+      "B": "\"I'm Sorry\"",
+      "C": "\"I'll Leave You Alone\"",
+      "D": "\"Please Forgive Me\""
+    }
+  },
+  {
+    "question": "What Is Nathan's Father's Name?",
+    "answer": "B",
+    "choices": {
+      "A": "Mark Prescott",
+      "B": "Sean Prescott",
+      "C": "David Prescott",
+      "D": "William Prescott"
+    }
+  },
+  {
+    "question": "What Is Nathan's Mental State Described As?",
+    "answer": "B",
+    "choices": {
+      "A": "Stable",
+      "B": "Unstable",
+      "C": "Normal",
+      "D": "Happy"
+    }
+  },
+  {
+    "question": "What Is Nathan's Voicemail To Max In Episode 5?",
+    "answer": "B",
+    "choices": {
+      "A": "A Threat",
+      "B": "An Apology",
+      "C": "A Request For Help",
+      "D": "A Confession"
+    }
+  },
+  {
+    "question": "What Is Nathan's Response When Max Wears Rachel's Clothes To The Two Whales Diner?",
+    "answer": "B",
+    "choices": {
+      "A": "He Is Shocked And Upset",
+      "B": "He Is Happy And Excited",
+      "C": "He Is Confused And Scared",
+      "D": "He Is Angry And Hostile"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Where can the layout of the Blackwell campus be found?",
+    "answer": "C",
+    "choices": {
+      "A": "In the principal's office",
+      "B": "In the school nurse's office",
+      "C": "In David's surveillance cupboard in the Madsen garage",
+      "D": "In the Prescott Dormitory"
+    }
+  },
+  {
+    "question": "Who is the head of security at Blackwell Academy?",
+    "answer": "C",
+    "choices": {
+      "A": "Michelle Grant",
+      "B": "Mark Jefferson",
+      "C": "David Madsen",
+      "D": "Raymond Wells"
+    }
+  },
+  {
+    "question": "Which teacher is currently on sick leave at Blackwell Academy?",
+    "answer": "D",
+    "choices": {
+      "A": "Raymond Wells",
+      "B": "Michelle Grant",
+      "C": "Mark Jefferson",
+      "D": "Bernadette Hoida"
+    }
+  },
+  {
+    "question": "Who is the lead environment artist on Life is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Amaury Balandier",
+      "B": "Michelle Barenchi",
+      "C": "Travis Keaton",
+      "D": "Samuel Taylor"
+    }
+  },
+  {
+    "question": "Who is the captain of The Otters at Blackwell Academy?",
+    "answer": "C",
+    "choices": {
+      "A": "Alyssa Anderson",
+      "B": "Brooke Scott",
+      "C": "Michelle Barenchi",
+      "D": "Victoria Chase"
+    }
+  }
+]

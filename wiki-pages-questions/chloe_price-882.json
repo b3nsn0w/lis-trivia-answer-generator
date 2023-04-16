@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What Happened To Chloe's Father In 2008?",
+    "answer": "A",
+    "choices": {
+      "A": "He Died In A Car Crash",
+      "B": "He Moved To Seattle",
+      "C": "He Got A New Job",
+      "D": "He Got Divorced"
+    }
+  },
+  {
+    "question": "What Was The Name Of The Junkyard That Chloe Considered Her \"Home Away From Hell\"?",
+    "answer": "A",
+    "choices": {
+      "A": "American Rust Junkyard",
+      "B": "Blackwell Junkyard",
+      "C": "Arcadia Bay Junkyard",
+      "D": "Seattle Junkyard"
+    }
+  }
+]

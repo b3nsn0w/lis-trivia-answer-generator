@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Name Of The Person Whose Account Book Max Finds?",
+    "answer": "B",
+    "choices": {
+      "A": "Nathan",
+      "B": "Frank",
+      "C": "Rachel",
+      "D": "Principal Wells"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Drug That Frank Supplies To His Customers?",
+    "answer": "A",
+    "choices": {
+      "A": "Party Supplies",
+      "B": "Happy Pills",
+      "C": "Joy Juice",
+      "D": "Fun Drugs"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Dog Breed That Nathan Is Compared To In Frank's Account Book?",
+    "answer": "A",
+    "choices": {
+      "A": "Rottweiler",
+      "B": "Bulldog",
+      "C": "Poodle",
+      "D": "Chihuahua"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Vehicle That Rachel Was Driving In The Photo Found By Max?",
+    "answer": "A",
+    "choices": {
+      "A": "Frank's RV",
+      "B": "Max's Car",
+      "C": "Chloe's Truck",
+      "D": "Nathan's Motorcycle"
+    }
+  }
+]

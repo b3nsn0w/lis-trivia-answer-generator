@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Name Of Nathan Prescott's Father?",
+    "answer": "C",
+    "choices": {
+      "A": "Raymond Wells",
+      "B": "Frank Bowers",
+      "C": "Sean Prescott",
+      "D": "Kristine Prescott"
+    }
+  },
+  {
+    "question": "What Is The Name Of Nathan Prescott's Supportive Older Sister?",
+    "answer": "C",
+    "choices": {
+      "A": "Chloe Prescott",
+      "B": "Rachel Prescott",
+      "C": "Kristine Prescott",
+      "D": "Victoria Prescott"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Development That The Prescotts Are Responsible For Building In Arcadia Bay?",
+    "answer": "B",
+    "choices": {
+      "A": "Blackwell Academy",
+      "B": "Pan Estates",
+      "C": "Vortex Club",
+      "D": "Two Whales Diner"
+    }
+  },
+  {
+    "question": "What Is Nathan Prescott's Position In The Vortex Club?",
+    "answer": "C",
+    "choices": {
+      "A": "Treasurer",
+      "B": "President",
+      "C": "Representative",
+      "D": "Member"
+    }
+  }
+]

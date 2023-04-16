@@ -1,0 +1,83 @@
+Here is a section of the wiki page for Max's Notes:
+
+vertical-align:top"|Look[File:note2-kateroom-sisterphoto.png](220px.md)
+|-|Read# None
+|-
+|**Email from Mrs. Marsh to Kate.**
+Location: Screen of Kate's tablet in her room.
+Max's comments: Kate is all alone dealing with this video bullshit. I hope her mother doesn't disown her...
+|style"height:186px; vertical-align:top"|Look# [File:note2-kateroom-tablet.png](220px.md)
+|-|Read[File:note2-kateroom-tablet2.png](220px.md)
+|-
+|**Rachel Amber Missing Person poster.**
+Location: [Samuel Taylor](samuel.md)'s [Custodial Room](custodial_room.md).
+Max's comments: I can see that Samuel's concerned but... does he need a poster?
+|style# "height:186px; vertical-align:top"|Look[File:note2-custodial-rachelposter.png](220px.md)
+|-|Read# None
+|-
+|**Photos of Rachel posing.**
+Location: Samuel's custodial room.
+Max's comments: How did Samuel get photos of Rachel posing?
+|style"height:186px; vertical-align:top"|Look# [File:note2-custodial-rachelphotos.png](220px.md)
+|-|Read
+|-
+|**Article in [The Independent](the_independent.md).**
+Location: Newspaper kiosk near the [Two Whales Diner](two_whales_diner.md).
+Max's comments: "Snow" — well, that's a good start to the story...
+|style# "height:186px; vertical-align:top"|Look[File:note2-dinerout-independent.png](220px.md)
+|-|Read# [File:note2-dinerout-independent2.png](220px.md)
+|-
+|**"Save Our Bay" flyer.**
+Location: In front of the [R.J. MacReady](fisherman.md) in the Two Whales parking lot.
+Max's comments: Look at all these flyers. It's so sad that nobody will read them...
+|style"height:186px; vertical-align:top"|Look# [File:note2-dinerout-savebay.png](220px.md)
+|-|Read[File:note2-dinerout-savebay2.png](220px.md)
+|-
+|**Halloween flyer.**
+Location: Near the entrance of the Two Whales Diner.
+Max's comments: Now that brings back memories... Chloe and I loved the parade...
+|style# "height:186px; vertical-align:top"|Look[File:note2-diner-halloweenflyer.png](220px.md)
+|-|Read# [File:note2-diner-halloweenflyer2.png](220px.md)
+|-
+|**[Pan Estates](pan_estates.md) flyer.**
+Location: Near the entrance of the Two Whales Diner.
+Max's comments: Good Lord. Talk about apocalyptic...
+|style"height:186px; vertical-align:top"|Look# [File:note2-diner-panestatesflyer.png](220px.md)
+|-|Read[File:note2-diner-panestatesflyer2.png](220px.md)
+|-
+|**Poster advertising Blackwell Academy.**
+Location: Near the entrance to the bathroom of the Two Whales.
+Max's comments: The poster doesn't mention whacked students with guns.
+|style# "height:186px; vertical-align:top"|Look[File:note2-diner-blackwellposter.png](220px.md)
+|-|Read# [File:note2-diner-blackwellposter2.png](220px.md)
+|-
+|**"Moby Deck"A [References (Life is Strange)](reference.md) to the {{Wiki|Moby Dick}} book. tours flyer.**
+Location: Under the TV in the Two Whales.
+Max's comments: Why does that so not sound fun?
+|style"height:186px; vertical-align:top"|Look# [File:note2-diner-mobydeck.png](220px.md)
+|-|Read[File:note2-diner-mobydeck2.png](220px.md)
+|-
+|**"Sasquatch Field Trip" flyer.**
+Location: Under the TV in the Two Whales.
+Max's comments: I might make Chloe check this out with me.
+|style# "height:186px; vertical-align:top"|Look[File:note2-diner-sasquatch.png](220px.md)
+|-|Read# [File:note2-diner-sasquatch2.png](220px.md)
+|-
+|**"Cousteaus Tours" flyer.**
+Location: Under the TV in the Two Whales.
+Max's comments: This guy has serious cojones.
+|style"height:186px; vertical-align:top"|Look# [File:note2-diner-tours.png](220px.md)
+|-|Read[File:note2-diner-tours2.png](220px.md)
+|-
+|**Fishing Wall of Fame.**
+Location: In the far end of the Two Whales.
+Max's comments: Forgot about the Fishing Wall O' Fame...
+|style# "height:186px; vertical-align:top"|Look[File:note2-diner-walloffame.png](220px.md)
+|-|Read# [File:note2-diner-walloffame2.png](220px.md)
+|-
+|**Photo of Ken Kesey with Joyce.**
+Location: Above the jukebox.
+Max's comments: Whoa, {{Wiki|Ken Kesey}} with Joyce! That's so perfect.
+|style"height:186px; vertical-align:top"|Look# 
+
+Generate five trivia questions relevant to this section of the page.

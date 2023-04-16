@@ -1,0 +1,64 @@
+Here is a section of the wiki page for Beach:
+
+#  Beach 
+
+```yaml
+Location
+
+image: Beach Ep 4.png
+name: Beach
+type: Beach
+location: '[Arcadia Bay](arcadia_bay.md)'
+coordinates: 'Latitude: 45.547693Longitude: -123.935308'
+state: Oregon
+appears: >-
+  [Episode 2: Out of Time](episode_2__out_of_time.md) (cutscene)[Episode 4: Dark
+  Room](episode_4__dark_room.md)
+
+  [Episode 5: Polarized](episode_5__polarized.md) (cutscene)
+```
+
+The **Beach** is a location first seen in [Episode 2: Out of Time](episode_2.md). Previous to that, we can catch a glimpse of it by looking towards the sea at the [lighthouse](lighthouse.md).
+
+##  Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+The beach is first seen in the ending cutscene of this episode, as [Frank Bowers](frank_bowers.md) and [Pompidou](pompidou.md) sit there admiring the eclipse.
+
+##  Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+The [Alternative Beach](alternative_beach.md) is featured in the [Alternative Timeline (Life is Strange)](alternative_timeline.md) in the beginning of this episode.
+
+Trying to find out more about [Rachel Amber](rachel_amber.md)'s disappearance, [Maxine Caulfield](max_caulfield.md) and [Chloe Price](chloe_price.md) drive to the beach to confront [Frank Bowers](frank.md) and get a list of his clients. This results in a complex showdown that ends with Frank getting possibly shot or stabbed, though it is possible to befriend him.
+
+##  Episode Five - "[Episode 5: Polarized](polarized.md)" 
+After convincing Chloe to not enter the [End of the World Party](end_of_the_world_party.md), Max wakes up at the beach with Chloe by her side, and finds out that the [storm](storm.md) is approaching [Arcadia Bay](arcadia_bay.md). They share a hug and Chloe tells Max everything that happened while she was out. Shortly after they decide to proceed to the lighthouse, Max loses consciousness and falls into a disturbing [Max's Nightmare](nightmare.md).
+
+##  Interactions 
+:**PC users: **''Hover over the text to see Max's comments. [Interactions](see_here.md) for all interactions in the game.''
+*{{Interaction|Max can look at a sign about the [wildlife](wildlife.md).|"The forests seem quiet. No sign of life... or deer."}}
+*{{Interaction|She can look at a [Pan Estates](pan_estates.md) flyer.|"There might not be any Pan Estates by Saturday..."}}
+*{{Interaction|She can look at the lighthouse trail sign.|"This is where my nightmare started..."}}
+*{{Interaction|She can look at and take an [Optional Photos](optional_photo.md) of the beached whales.|"Those beached whales look so awful, but still so majestic."
+"I may not know quantum-speak, but there has to be an explanation..."
+"How can all of this not be connected to a major storm?"}}
+*{{Interaction|She can look at a "no swimming" sign.|"Good thing there are no actual cops around to bust us..."}}
+*{{Interaction|She can look at a "no parking" sign.|"No worries, sign."}}
+*{{Interaction|She can look at a deflated beach ball.|"Awww, poor little beach ball..."}}
+*{{Interaction|She can look at broken beer bottles.|"Behold, Frank’s beer garden."}}
+*{{Interaction|She can look at Frank's garbage bag.|"Take the trash out sometime, dude."}}
+*{{Interaction|She can look at Frank's table.|"This is where Frank ponders his existence... and gets drunk."}}
+*{{Interaction|She can look at Pompidou's food bowl (available only if [Choices and Consequences#Pompidou and the dog bone](pompidou_is_alive.md)).|"Ooh, fresh meat! So Pompidou must be okay. Good doggie..."}}
+*{{Interaction|She can look at the windows of [Frank's RV](frank_s_rv.md).|"I don't think Frank listened to my cleaning advice. It's not funny anyway."
+"Frank doesn't need tinted windows when they’re this dirty..."
+"Can’t see inside with this shit blocking the view."}}
+*{{Interaction|She can look at and speak to [Chloe Price](chloe_price.md) **(required)**.|"Chloe looks ready to rumble."}}
+*{{Interaction|She can look at Frank's dead body (determinant).|"I can’t believe that Frank is just lying there... dead..."}}
+*{{Interaction|She can look at Pompidou's dead body (determinant).|"Oh no... Pompidou... I’m sorry..."}}
+
+##  Trivia 
+* Dead whales are seen laying on the beach in the same way they were in the [Alternative Beach](alternative_timeline.md).
+
+{{Location Navbox}}
+__NOEDITSECTION__
+
+
+
+Generate five trivia questions relevant to this section of the page.

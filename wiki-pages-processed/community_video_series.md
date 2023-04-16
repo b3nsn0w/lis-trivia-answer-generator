@@ -1,0 +1,51 @@
+#  Community Video Series 
+
+An official **community video series** about [Life is Strange (franchise)](_life_is_strange_.md) "news, behind-the-scenes content, theories and more" was launched on March 27, 2019.[https://twitter.com/LifeIsStrange/status/1110934510227677184 Official Twitter post] and [https://youtu.be/lwWYu4W1QQ0 video] from the Life is Strange official YouTube account The series is hosted by Lucy Hale from [Square Enix](square_enix.md)'s *Life is Strange* team and the first video released on April 17, 2019. As of now, the series has discussed central themes, behind-the-scenes facts, [Easily Missed Details (Life is Strange 2)](easily_missed_details.md) and [Easter Eggs (Life is Strange 2)](easter_eggs.md) that can be found in *[Life is Strange 2](life_is_strange_2.md)*.
+
+##  Video Content 
+###  "5 Things You Might've Missed" (April 17, 2019) 
+* **West Coast Roadtrip** (0:24): [Michel Koch](michel_koch.md), [Raoul Barbet](raoul_barbet.md), and [Jean-Luc Cano](jean_luc_cano.md) took a road trip along the west coast of the United States for inspiration, stopping in small towns they came across and frequenting the local establishments to absorb the culture and meet residents. [References (Life is Strange 2)](movies__books__and_other_forms_of_media.md) were also looked at for inspiration.
+* **The Sound of Silence** (1:14): When given timed dialogue options to choose from, silence is also a choice. Choosing not to respond to [Daniel Diaz](daniel.md) can affect their relationship and have a negative impact on Daniel's mood.
+* **Playing Captain Spirit Affects Episode 2** (02:12): Several [Captain Spirit - Choices and Consequences](choices.md) made in *[The Awesome Adventures of Captain Spirit](the_awesome_adventures_of_captain_spirit.md)* will carry over to the [Episode 2: Rules](second_episode.md) of *Life is Strange 2*, if the game imported the player's Captain Spirit savegame. This includes, but is not limited to, the appearance of Chris's costume, the state of [Snowmancer](snowmancer.md) and the presence of beer cans outside the [Eriksen Household](eriksen_household.md).
+* **Daniel Learns From Sean** (03:18): Most of Sean's [Choices and Consequences (Life is Strange 2)](dialogue_choices.md) and [Interactions (Life is Strange 2)](interactions.md) with the characters and the world around him will impact Daniel's actions and morals. This includes choices which are not explicitly shown to affect Daniel in the game.
+* **Ongoing Development** (04:24): The episodic nature of the game allows the developers to listen to fan feedback and alter the story arc in subsequent episodes. An example of this in *Life is Strange* is the [Hospital](hospital.md) scene with [Kate Marsh](kate_marsh.md) in "[Episode 4: Dark Room](dark_room.md)".
+
+###  "Choice and Consequence in Life is Strange" (May 1, 2019) 
+TBC
+
+###  "5 Things You Need To Know Before Playing Life is Strange 2" (May 8, 2019) 
+* '''It's not a Prequel or a Direct Sequel'* (0:28) - *Life is Strange 2'' takes place in the same universe as the first game, but it's a completely new story with a new cast of characters to get invested in.
+* '''It's still connected to Life is Strange''' (1:30) - Although it doesn't directly connect to the events of the first game, the game still has numerous connections to its predecessor. For instance, Arcadia Bay is either destroyed or intact depending on your final decision from the first game, and the song from the Two Whales Diner in "[Episode 2: Out of Time](out_of_time.md)" appears in Stephen's workshop in "[Episode 2: Rules](rules.md)."
+* **Choice and Consequence** (2:05) - The choice and consequence mechanic has been expanded upon even further. When playing as Sean, you also have to consider how the choices you make will affect Daniel. Daniel learns from the example you set and the actions you take, so difficult choices become more impactful. While the same major events will always play out, the emotional states of Sean and Daniel, the actions they take, and the people affected by their decisions will be different depending on your gameplay.
+* **Captain Spirit is in Life is Strange 2** (3:20) - The choices you make within *The Adventures of Captain Spirit* will carry over to Episode 2 of *Life is Strange 2*. This includes the costume you choose, the world around you, the phone calls you make, and more.
+* **A whole host of new characters** (4:15) - The game is comprised of numerous characters and personalities with their own stories to tell as Sean and Daniel continue their journey.
+
+###  "Unusual Easter Eggs in Episodes 1 and 2 of Life is Strange 2" (May 23, 2019) 
+* **Finn & Cassidy** (0:15) - The characters of [Cassidy](cassidy.md) and [Finn](finn.md) are both named after famous historical figures. Cassidy's namesake is {{Wiki|Butch Cassidy}}, an American train and bank robber who led the most successful train-robbing gang, the {{Wiki|Butch Cassidy's Wild Bunch|Wild Bunch}}. Finn's namesake is {{Wiki|Huckleberry Finn}}, the protagonist of {{Wiki|Mark Twain}}'s *{{Wiki|Adventures of Huckleberry Finn}}* and best friend to {{Wiki|Tom Sawyer}}. Cassidy also shares her name with musicians {{Wiki|David Cassidy}} and {{Wiki|Eva Cassidy}}.
+* '''Cassidy's Song''' (1:05) - The song Cassidy covers at the [Christmas Market](christmas_market.md), "[I Found A Way](i_found_a_way.md)" by {{Wiki|First Aid Kit}}, was chosen for its relevance to both Cassidy and Finn's and Sean and Daniel's relationship, including the lines "I'll follow you where I go" and "I need your condolence and your trust". The game's licensed songs are chosen by Co-Director [Raoul Barbet](raoul_barbet.md) and DONTNOD's audio team, who "painstakingly" go through songs and their lyrics in order to choose the most fitting ones.
+* **Hawt Dawg Man** (2:05) - Having first appeared in [Season 1](season_1.md), the fictional mascot [Hawt Dawg Man](hawt_dawg_man.md) makes several cameos throughout *Life is Strange 2*, including on the purchasable [Sean's Souvenirs#Mascot Bundle](mascot_bundle_souvenirs.md), a television at the [Three Seals Motel](three_seals_motel.md), and on a comic book at the [Old House](abandoned_house.md).
+* **Exit Door to Somewhere Else** (2:47) - Within [Karen's Room](karen_s_room.md), Sean can find scratches on a nightstand depicting the words "Exit Door to Somewhere Else", a reference to a similar "Hole to Another Universe" graffiti drawn by [Chloe Price](chloe_price.md) in *Life is Strange*. This represents the thematic parallel in their "shared desire to escape".
+* **1337 Trains** (3:15) - At the end of Episode 2, Sean and Daniel hop on a train which bears the same numbers and a similar design to a [Train](train.md) which appears in [Episode 2: Out of Time](episode_2.md) of *Life is Strange*. As [Arcadia Bay](arcadia_bay.md) and [Beaver Creek](beaver_creek.md) are both located in Oregon, it is possible that the two are the same train.
+
+##  Videos 
+
+Hello everyone! 
+5 Things You Might've Missed Life is Strange 2
+Choice and Consequence in Life is Strange
+5 Things You Need To Know Before Playing Life is Strange 2
+Unusual Easter Eggs in Episodes 1 and 2 of Life is Strange 2
+
+, an American train and bank robber who led the most successful train-robbing gang, the {{Wiki|Butch Cassidy's Wild Bunch|Wild Bunch}}. Finn's namesake is {{Wiki|Huckleberry Finn}}, the protagonist of {{Wiki|Mark Twain}}'s *{{Wiki|Adventures of Huckleberry Finn}}* and best friend to {{Wiki|Tom Sawyer}}. Cassidy also shares her name with musicians {{Wiki|David Cassidy}} and {{Wiki|Eva Cassidy}}.
+* '''Cassidy's Song''' (1:05) - The song Cassidy covers at the [Christmas Market](christmas_market.md), "[I Found A Way](i_found_a_way.md)" by {{Wiki|First Aid Kit}}, was chosen for its relevance to both Cassidy and Finn's and Sean and Daniel's relationship, including the lines "I'll follow you where I go" and "I need your condolence and your trust". The game's licensed songs are chosen by Co-Director [Raoul Barbet](raoul_barbet.md) and DONTNOD's audio team, who "painstakingly" go through songs and their lyrics in order to choose the most fitting ones.
+* **Hawt Dawg Man** (2:05) - Having first appeared in [Season 1](season_1.md), the fictional mascot [Hawt Dawg Man](hawt_dawg_man.md) makes several cameos throughout *Life is Strange 2*, including on the purchasable [Sean's Souvenirs#Mascot Bundle](mascot_bundle_souvenirs.md), a television at the [Three Seals Motel](three_seals_motel.md), and on a comic book at the [Old House](abandoned_house.md).
+* **Exit Door to Somewhere Else** (2:47) - Within [Karen's Room](karen_s_room.md), Sean can find scratches on a nightstand depicting the words "Exit Door to Somewhere Else", a reference to a similar "Hole to Another Universe" graffiti drawn by [Chloe Price](chloe_price.md) in *Life is Strange*. This represents the thematic parallel in their "shared desire to escape".
+* **1337 Trains** (3:15) - At the end of Episode 2, Sean and Daniel hop on a train which bears the same numbers and a similar design to a [Train](train.md) which appears in [Episode 2: Out of Time](episode_2.md) of *Life is Strange*. As [Arcadia Bay](arcadia_bay.md) and [Beaver Creek](beaver_creek.md) are both located in Oregon, it is possible that the two are the same train.
+
+##  Videos 
+
+Hello everyone! 
+5 Things You Might've Missed Life is Strange 2
+Choice and Consequence in Life is Strange
+5 Things You Need To Know Before Playing Life is Strange 2
+Unusual Easter Eggs in Episodes 1 and 2 of Life is Strange 2
+

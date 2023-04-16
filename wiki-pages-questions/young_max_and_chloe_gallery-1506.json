@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who Created The Young Max Concept Art?",
+    "answer": "A",
+    "choices": {
+      "A": "Edouard Caplain",
+      "B": "Michel Koch",
+      "C": "Raoul Barbet",
+      "D": "Luc Baghadoust"
+    }
+  },
+  {
+    "question": "In Which Episode Do Chloe and William Make Pancakes?",
+    "answer": "C",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "What Is Chloe Doing In The Backyard In The \"Farewell\" Bonus Episode?",
+    "answer": "A",
+    "choices": {
+      "A": "Playing Pirates",
+      "B": "Playing With A Telescope",
+      "C": "Swinging",
+      "D": "Drawing"
+    }
+  },
+  {
+    "question": "What Is Chloe Doing In Her Room In The \"Farewell\" Bonus Episode?",
+    "answer": "B",
+    "choices": {
+      "A": "Crying On The Floor",
+      "B": "Listening To A Recording",
+      "C": "Drawing Max",
+      "D": "Hiding Behind The Bed"
+    }
+  }
+]

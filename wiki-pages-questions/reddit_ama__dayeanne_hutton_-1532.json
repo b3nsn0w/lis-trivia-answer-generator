@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What Was Dayeanne Hutton's Favorite Dialogue That She Recorded For Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Water Weenie\"",
+      "B": "\"Pool Noodle\"",
+      "C": "\"Beach Ball\"",
+      "D": "\"Swimming Ring\""
+    }
+  },
+  {
+    "question": "What Is Dayeanne Hutton's Favorite Film?",
+    "answer": "D",
+    "choices": {
+      "A": "The Lion King",
+      "B": "Beauty and the Beast",
+      "C": "Mulan",
+      "D": "Emperor's New Groove"
+    }
+  },
+  {
+    "question": "What Did Dayeanne Hutton Say About Mental Health And Society's Attitude Towards It?",
+    "answer": "B",
+    "choices": {
+      "A": "It's Not Important To Society",
+      "B": "It's Okay To Need Help",
+      "C": "It's Embarrassing To Talk About",
+      "D": "It's The Victim's Fault"
+    }
+  }
+]

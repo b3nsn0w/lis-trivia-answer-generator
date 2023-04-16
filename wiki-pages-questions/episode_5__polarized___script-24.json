@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Max Referring To When She Says \"This Might Work\"?",
+    "answer": "B",
+    "choices": {
+      "A": "A Time Travel Experiment",
+      "B": "A Plan To Save Chloe",
+      "C": "A Way To Escape The Dark Room",
+      "D": "A Method To Contact Warren"
+    }
+  },
+  {
+    "question": "What Is Max Trying To Do With The Photo?",
+    "answer": "D",
+    "choices": {
+      "A": "Travel Back In Time",
+      "B": "Contact Chloe",
+      "C": "Save Rachel Amber",
+      "D": "Save Chloe"
+    }
+  },
+  {
+    "question": "What Episode Of Life Is Strange Is This Script Excerpt From?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 5: Polarized"
+    }
+  },
+  {
+    "question": "What Is The Title Of Episode 5 Of Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Polarized",
+      "B": "Chrysalis",
+      "C": "Out of Time",
+      "D": "Chaos Theory"
+    }
+  },
+  {
+    "question": "What Is The Format Of The Excerpt?",
+    "answer": "B",
+    "choices": {
+      "A": "A Dialogue Between Max And Chloe",
+      "B": "A Monologue By Max",
+      "C": "A Description Of The Environment",
+      "D": "A Description Of A Photograph"
+    }
+  }
+]

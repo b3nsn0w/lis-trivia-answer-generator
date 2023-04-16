@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What was the planned hospital scene in Episode 5 supposed to show?",
+    "answer": "A",
+    "choices": {
+      "A": "Max waking up in the hospital next to Chloe's hospital bed",
+      "B": "Max escaping from the hospital to go get the photo from Warren",
+      "C": "David bringing Max to the hospital after freeing her from the Dark Room",
+      "D": "Max and Chloe wandering around the main campus"
+    }
+  },
+  {
+    "question": "What was the alternative ending that Dontnod had considered for \"Sacrifice Chloe\"?",
+    "answer": "A",
+    "choices": {
+      "A": "Chloe falling into a coma",
+      "B": "Max waking up in the hospital next to Chloe's hospital bed",
+      "C": "Chloe being rescued by David",
+      "D": "Max attending Chloe's funeral"
+    }
+  },
+  {
+    "question": "What was the purpose of the unused Jefferson's Car location?",
+    "answer": "A",
+    "choices": {
+      "A": "To hint at a different ending for Episode 4",
+      "B": "To show Jefferson's car collection",
+      "C": "To reveal Nathan's secret hideout",
+      "D": "To introduce a new character"
+    }
+  }
+]

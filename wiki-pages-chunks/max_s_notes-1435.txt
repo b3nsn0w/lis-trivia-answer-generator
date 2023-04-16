@@ -1,0 +1,79 @@
+Here is a section of the wiki page for Max's Notes:
+
+[File:note2-blackwellhall-blackwellposter2.png](220px.md)
+|-
+|**Poster about the freak snow.**
+Location: Blackwell Academy hallway.
+Max's comments: I should go and see what I can learn...
+|style"height:186px; vertical-align:top"|Look# [File:note2-blackwellhall-freaksnow.png](220px.md)
+|-|Read[File:note2-blackwellhall-freaksnow2.png](220px.md)
+|-
+|**End of the World Party flyer.**
+Location: Blackwell Academy hallway.
+Max's comments: If I was normal, I'd be super excited about going to a major shindig.
+|style# "height:186px; vertical-align:top"|Look[File:note2-blackwellhall-partyflyer.png](220px.md)
+|-|Read# [File:note2-blackwellhall-partyflyer2.png](220px.md)
+|-
+|**End of the World Party flyer.**
+Location: Blackwell Academy hallway.
+Max's comments: I wouldn't want to be at an "End Of The World" party with Nathan Prescott. Too much truth in advertising.
+|style"height:186px; vertical-align:top"|Look# [File:note2-blackwellhall-partyflyertwo.png](220px.md)
+|-|Read[File:note2-blackwellhall-partyflyertwo2.png](220px.md)
+|-
+|**End of the World Party flyer.**
+Location: Blackwell Academy hallway.
+Max's comments: If my tornado vision came true, it would be the "end of the world"...
+|style# "height:186px; vertical-align:top"|Look[File:note2-blackwellhall-partyflyerthree.png](220px.md)
+|-|Read# [File:note2-blackwellhall-partyflyerthree2.png](220px.md)
+|-
+|**Set of rules.**
+Location: Blackwell Academy hallway.
+Max's comments: Carrying a gun to class is cool, though.
+|style"height:186px; vertical-align:top"|Look# [File:note2-blackwellhall-rules.png](220px.md)
+|-|Read[File:note2-blackwellhall-rules2.png](220px.md)
+|-
+|**Vortex Club flyer.**
+Location: Wall of Blackwell Academy hallway and in front of [Courtney Wagner](courtney.md).
+Max's comments: It's the "Invasion of the Vortex Club"...
+Join us... or die!
+|style# "height:186px; vertical-align:top"|Look[File:note2-blackwellhall-vortexflyer.png](220px.md)
+|-|Read# [File:note2-blackwellhall-vortexflyer2.png](220px.md)
+|-
+|**"The World is Yours Today" poster.**
+Location: Wall of Blackwell Academy hallway.
+Max's comments: Desperate much? We're already here...
+|style"height:186px; vertical-align:top"|Look# [File:note2-blackwellhall-worldyours.png](220px.md)
+|-|Read[File:note2-blackwellhall-worldyours2.png](220px.md)
+|-
+|**Science poster in Leonardo DaVinci style.**
+Location: Wall of the [Science Lab](science_lab.md).
+Max's comments: DaVinci was a boss.
+|style# "height:186px; vertical-align:top"|Look[File:note2-sciencelab-davinci.png](220px.md)
+|-|Read# [File:note2-sciencelab-davinci2.png](220px.md)
+|-
+|'*"Front to the Future"*{{Wiki|Back to the Future}}* reference. poster.*'
+Location: Wall near the entrance to the Science Lab.
+Max's comments: I wish I could bring a mini Warren with me to my Science exams.
+|style"height:186px; vertical-align:top"|Look# [File:note2-sciencelab-fronttofuture.png](220px.md)
+|-|Read[File:note2-sciencelab-fronttofuture2.png](220px.md)
+|-
+|'''Daniel's sketch of Dana.'''
+Location: In front of Daniel in the [Photography Lab](photography_lab.md).
+Max's comments: That's a great sketch of Dana. Daniel is the real deal.
+|style# "height:186px; vertical-align:top"|Look[File:note2-photolab-danielsketch.png](220px.md)
+|-|Read# [File:note2-photolab-danielsketch2.png](220px.md)
+|-
+|**Book by Mr. Jefferson.**
+Location: On Max's desk during Mr. Jefferson's class.
+Max's comments: It's cool that Mr. Jefferson published his own little book of photo tips.
+|style"height:186px; vertical-align:top"|Look# [File:note2-photolab-jeffbook.png](220px.md)
+|-|Read[File:note2-photolab-jeffbook2.png](220px.md)
+|-
+|'''Max's drawing.'''
+Location: On Max's desk during Mr. Jefferson's class.
+Max's comments: None
+|style# "height:186px; vertical-align:top"|Look[File:note2-photolab-maxnotes.png](220px.md)
+|-|Read# [File:note2-photolab-maxnotes2.png](220px.md)
+|} 
+
+Generate five trivia questions relevant to this section of the page.

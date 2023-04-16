@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Meaning Of The Word \"Dontnod\"?",
+    "answer": "A",
+    "choices": {
+      "A": "It Is A Palindrome",
+      "B": "It Is A French Word For \"Entertainment\"",
+      "C": "It Is An Acronym For The Founders' Names",
+      "D": "It Is A Reference To A Video Game"
+    }
+  },
+  {
+    "question": "Who Is The Character \"Weatherman\" In Life Is Strange Based On?",
+    "answer": "A",
+    "choices": {
+      "A": "CEO Guilbert Oskar",
+      "B": "Lead Environment Artist Amaury Balandier",
+      "C": "Co-Founder Alain Damasio",
+      "D": "Audio Director Sébastien Gaillard"
+    }
+  },
+  {
+    "question": "What Is The Name Of The French Novel That The Glyphs In Life Is Strange Refer To?",
+    "answer": "A",
+    "choices": {
+      "A": "La Horde du Contrevent",
+      "B": "Parade",
+      "C": "Chrysalis",
+      "D": "Yearbook Committee"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Brand Of Soda Cans In Chloe's Room In Life Is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "Amaury",
+      "B": "Dontnod",
+      "C": "Pr_Amaury",
+      "D": "Soda-Can"
+    }
+  },
+  {
+    "question": "What Is The Name Given To The Staff Members Of Dontnod?",
+    "answer": "A",
+    "choices": {
+      "A": "Dontnodians",
+      "B": "Dontnodders",
+      "C": "Dontnodites",
+      "D": "Dontnodists"
+    }
+  }
+]

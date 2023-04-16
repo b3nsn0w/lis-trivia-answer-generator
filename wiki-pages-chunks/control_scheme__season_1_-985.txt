@@ -1,0 +1,105 @@
+Here is a section of the wiki page for Control Scheme (Season 1):
+
+#  Control Scheme (Season 1) 
+
+[File:Controls (PC).png](thumb.md)
+The **Control Scheme** page lists the default control keys for *[Life is Strange](life_is_strange.md)* across six platforms: PC, Mac, PlayStation 3/4 and Xbox 360/One.
+
+## PC
+[Image:Button-pc-mouse.png](thumb.md) Drag the mouse to aim at a object/person and hold Left Mouse Button to interact with it. Then, drag the mouse towards the interaction and release Left Mouse Button to look at the photo.
+
+#
+
+## Default 
+{| class# "wikitable"
+!Symbol
+!Name
+!Primary Function
+|-
+|[File:Keyboard White Esc.png](50px.md)
+|Pause Menu
+|Press ESC to pause the game.
+|-
+|[File:WASD.png](50px.md)
+|Movement
+|Players can control the character [Maxine Caulfield](max.md) using the W, A, S and D keys.
+|-
+|[File:Keyboard White Mouse Simple.png](50px.md)
+|Camera
+|Use the mouse to move the camera.
+|-
+|[Image:Keyboard White Space.png](50px.md)
+|Skip Scene
+|To skip a previously viewed scene after rewinding, press the Spacebar button.
+|-
+|[Image:Keyboard White Mouse Left.png](50px.md)
+|Contextual action
+|Hold left mouse button, drag the [File:Keyboard White Mouse Simple.png](20px.md) and release left mouse button to perform contextual action(s).
+|-
+|[Image:Keyboard White Mouse Right.png](50px.md)
+|Rewind
+|Hold right mouse button to rewind time.
+|-
+|[Image:Keyboard White Focus.png](50px.md)
+|Focus
+|Use A/D keys and Left/Right mouse buttons to focus on photos.
+|-
+|[Image:Keyboard White Shift Alt.png](50px.md)
+|Run
+|Hold Shift to move faster.When rewinding, press [File:Keyboard White Mouse Right.png](20px.md) and hold Shift to rewind faster.
+|-
+|[Image:Keyboard White Ctrl.png](50px.md)
+|Undo
+|Press Ctrl to rewind to your last action.
+|-
+|[File:Keyboard White Mouse Middle.png](50px.md)
+|Center Camera
+|Use middle mouse button to recenter camera.
+|-
+|[File:Keyboard White Tab.png](50px.md)
+|Journal
+|Press Tab to open your [Max's Journal](journal.md).
+|}
+
+#
+
+## Alternative 
+{| class# "wikitable"
+!Symbol
+!Name
+!Primary Function
+|-
+|[File:Keyboard White Backspace.png](50px.md)
+|Pause Menu
+|Press Backspace to pause the game.
+|-
+|[File:Keyboard White Arrows.png](50px.md)
+|Movement
+|Players can control the character [Maxine Caulfield](max.md) using the arrow keys.
+|-
+|[Image:Keyboard White Num0.png](50px.md)
+|Skip Scene
+|To skip a previously viewed scene after rewinding, press 0 on the numeric keypad.
+|-
+|[Image:Keyboard White C.png](50px.md)
+|Contextual action
+|Hold C, drag the [File:Keyboard White Mouse Simple.png](20px.md) and release C to perform contextual action(s).
+|-
+|[Image:Keyboard White R.png](50px.md)
+|Rewind
+|Hold R to rewind time.
+|-
+|[File:Keyboard White End.png](50px.md)
+|Journal
+|Press End to open your [Max's Journal](journal.md).
+|}
+
+## Mac[http://support.feralinteractive.com/docs/en/lifeisstrange/latest/steam/manual/#!spread4 Mac controls from the Feral Interactive manual]
+[File:Feral_mac_controls.png](center.md)
+
+## PlayStation
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

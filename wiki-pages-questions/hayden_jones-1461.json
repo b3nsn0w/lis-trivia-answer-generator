@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Hayden's Profession?",
+    "answer": "B",
+    "choices": {
+      "A": "High School Student",
+      "B": "Photographer",
+      "C": "Art Teacher",
+      "D": "Filmmaker"
+    }
+  },
+  {
+    "question": "What Does Hayden Say About Rachel Amber?",
+    "answer": "A",
+    "choices": {
+      "A": "She Was Too Cool For The Vortex Club",
+      "B": "She Was A Member Of The Vortex Club",
+      "C": "She Was Boring And Unattractive",
+      "D": "She Was Nathan's Girlfriend"
+    }
+  },
+  {
+    "question": "What Is Hayden Doing When Max Sees Him In Episode Two?",
+    "answer": "A",
+    "choices": {
+      "A": "Photographing Dana",
+      "B": "Filming Kate's Suicide Attempt",
+      "C": "Smoking Weed",
+      "D": "Sleeping In Class"
+    }
+  },
+  {
+    "question": "What Comment Does Hayden Leave On Max's Social Media Page If Kate Dies?",
+    "answer": "B",
+    "choices": {
+      "A": "\"Epic\"",
+      "B": "\"Ouch\"",
+      "C": "\"Anybody Notice Weird Sh**t Going On Around Blackwell This Week?\"",
+      "D": "He Doesn't Leave A Comment"
+    }
+  },
+  {
+    "question": "What Happens To Hayden In The Sacrifice Arcadia Bay Ending?",
+    "answer": "B",
+    "choices": {
+      "A": "He Survives The Storm",
+      "B": "He Dies In The Storm",
+      "C": "He Leaves Arcadia Bay Before The Storm Hits",
+      "D": "It Is Not Mentioned What Happens To Him"
+    }
+  }
+]

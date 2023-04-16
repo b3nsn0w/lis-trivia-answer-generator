@@ -1,0 +1,135 @@
+Here is a section of the wiki page for Control Scheme (Season 1):
+
+## Xbox 360 Controller
+{| class"wikitable"
+!Symbol
+!Name
+!Primary Function
+|-
+|[Image:button-x360-back.png](link__.md)
+|Journal Menu
+|To access or exit Max's journal, use the back button on the Xbox controller.
+|-
+|[Image:button-x360-start.png](link.md)
+|Pause Menu
+|
+Pause the game.
+|-
+|[Image:button-xbox-leftstick.png](50px.md)
+|Movement
+|Players can control the character Max using the left analog stick.
+|-
+|[Image:button-xbox-rightstick.png](50px.md)
+|Camera
+|Players can control the direction of the camera using the right analog stick.
+|-
+|[Image:button-x360-LT.png](50px.md)
+|Rewind
+|Use LT to rewind time.
+|-
+|[Image:button-x360-RT.png](50px.md)
+|Quick RewindRun
+|While holding down LT to rewind, hold down RT to rewind faster.Hold RT to move/walk faster.
+|-
+|[Image:button-x360-LB.png](50px.md)
+|UndoJournal Tab
+|Press LB to rewind to your last action.Use LB to scroll journal tabs to the left.
+|-
+|[Image:button-x360-RB.png](50px.md)
+|Journal TabSkip
+|Browse through the tabs of Max's Journal using the RB button.Skip a previously viewed scene using the RB button.
+|-
+|[Image:Button-xbox-focus.png](50px.md)
+|Focus
+|Use the analog sticks to focus on photos.
+|-
+|[Image:button-xbox-dpad.png](50px.md)
+|Forward/Back
+|Use the left and right d-pad buttons to browse through photographs and Max's journal.
+|-
+|[Image:button-xbox-y.png](50px.md)
+|Look
+|To interact with and study objects in front of Max, click the Y button.To choose dialog with new information (from rewind) click the Y button.
+|-
+|[Image:button-xbox-x.png](50px.md)
+|Dialog
+|Press X to choose an option provided on the dialog tree.Press X to take a photograph.
+|-
+|[Image:button-xbox-a.png](50px.md)
+|Read
+|To read interactive objects, press the A button.To use objects press the A button
+|-
+|[Image:button-xbox-b.png](50px.md)
+|BackDialog
+|After reading the journal or other interactive objects, to back out, press the B button.Press B to choose an option provided on the dialog tree.
+|}
+
+#
+
+## Xbox One Controller
+{| class# "wikitable"
+!Symbol
+!Name
+!Primary Function
+|-
+|[File:button-xone-Windows.png](50px.md)
+|Journal Menu
+|To access or exit Max's journal, use the back button on the Xbox controller.
+|-
+|[File:button-xone-Menu.png](50px.md)
+|Pause Menu
+|
+Pause the game.
+|-
+|[File:button-xbox-leftstick.png](50px.md)
+|Movement
+|Players can control the character Max using the left analog stick.
+|-
+|[File:button-xbox-rightstick.png](50px.md)
+|Camera
+|Players can control the direction of the camera using the right analog stick.
+|-
+|[File:button-xone-LT.png](50px.md)
+|Rewind
+|Use LT to rewind time.
+|-
+|[File:button-xone-RT.png](50px.md)
+|Quick RewindRun
+|Use RT to While holding down LT to rewind, hold down RT to rewind faster.Hold RT to move/walk faster.
+|-
+|[File:button-xone-LB.png](50px.md)
+|Journal Tab
+|Browse through Max's Journal using the LB button.
+|-
+|[File:button-xone-RB.png](50px.md)
+|Journal TabSkip
+|Browse through Max's Journal using the RB button.Skip a previously viewed scene using the RB button.
+|-
+|[Image:Button-xbox-focus.png](50px.md)
+|Focus
+|Use the analog sticks to focus on photos.
+|-
+|[File:button-xbox-dpad.png](50px.md)
+|Forward/Back
+|Use the left and right d-pad buttons to browse through photographs and Max's journal.
+|-
+|[File:button-xbox-y.png](50px.md)
+|Look
+|To interact with and study objects in front of Max, click the Y button.To choose dialog with new information (from rewind) click the Y button.
+|-
+|[File:button-xbox-x.png](50px.md)
+|Dialog
+|Press X to choose an option provided on the dialog tree.Press X to take a photograph.
+|-
+|[File:button-xbox-a.png](50px.md)
+|Read
+|To read interactive objects, press the A button.To use objects press the A button
+|-
+|[File:button-xbox-b.png](50px.md)
+|BackDialog
+|After reading the journal or other interactive objects, to back out, press the B button.Press B to choose an option provided on the dialog tree.
+|}
+
+
+
+Generate five trivia questions relevant to this section of the page.

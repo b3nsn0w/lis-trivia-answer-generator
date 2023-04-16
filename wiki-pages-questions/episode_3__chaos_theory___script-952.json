@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Ask Frank To Do For Her?",
+    "answer": "A",
+    "choices": {
+      "A": "Drop Chloe's Debt",
+      "B": "Sell Her Drugs",
+      "C": "Give Her His Keys",
+      "D": "Show Her Rachel's Photo"
+    }
+  },
+  {
+    "question": "What Does Frank Say When Max Asks Him For \"Higher Education\"?",
+    "answer": "B",
+    "choices": {
+      "A": "\"Sure, I'll Hook You Up\"",
+      "B": "\"I Only Sell Bottles\"",
+      "C": "\"I Have Some Weed\"",
+      "D": "\"You're A Spoiled Blackwell Punk\""
+    }
+  },
+  {
+    "question": "What Does Frank Show Max After She Mentions Rachel's Favorite Picture?",
+    "answer": "C",
+    "choices": {
+      "A": "His Gun",
+      "B": "His Dog",
+      "C": "His Car Keys",
+      "D": "His Wallet"
+    }
+  },
+  {
+    "question": "What Does Max Do After Frank Aggressively Gets Up To Get His Keys?",
+    "answer": "C",
+    "choices": {
+      "A": "She Leaves The Diner",
+      "B": "She Gives Him The Keys",
+      "C": "She Rewinds Time",
+      "D": "She Calls The Police"
+    }
+  },
+  {
+    "question": "What Happens To Alyssa At The Bus Stop?",
+    "answer": "B",
+    "choices": {
+      "A": "She Gets Hit By A Truck",
+      "B": "She Gets Drenched In Water",
+      "C": "She Gets Robbed",
+      "D": "She Misses Her Bus"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who Told His Photography Class About The Everyday Heroes Photo Contest?",
+    "answer": "A",
+    "choices": {
+      "A": "Mark Jefferson",
+      "B": "Nathan Prescott",
+      "C": "David Madsen",
+      "D": "Daniel DaCosta"
+    }
+  },
+  {
+    "question": "What Is The Prize For Winning The Everyday Heroes Photo Contest?",
+    "answer": "B",
+    "choices": {
+      "A": "A Trip To New York City",
+      "B": "A Trip To San Francisco And Lots Of Publicity",
+      "C": "A Cash Prize Of $10,000",
+      "D": "A Photography Exhibition At The Zeitgeist Gallery"
+    }
+  },
+  {
+    "question": "Who Is Chosen As The Winner Of The Everyday Heroes Photo Contest In The Original Timeline?",
+    "answer": "B",
+    "choices": {
+      "A": "Max Caulfield",
+      "B": "Victoria Chase",
+      "C": "Kate Marsh",
+      "D": "Nathan Prescott"
+    }
+  },
+  {
+    "question": "What Was The Purpose Of The #EverydayHeroes Hashtag Campaign Launched By Square Enix?",
+    "answer": "A",
+    "choices": {
+      "A": "To Raise Awareness About Bullying And Donate To A Bullying Prevention Center",
+      "B": "To Promote The Everyday Heroes Photo Contest",
+      "C": "To Encourage People To Share Their Favorite Inspirational Stories",
+      "D": "To Raise Money For A Photography Exhibition"
+    }
+  }
+]

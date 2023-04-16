@@ -1,0 +1,77 @@
+Here is a section of the wiki page for Max's Notes:
+
+storeroom.
+Max's comments: Trust me, I'm trying to figure out how... I swear.
+|style"height:186px; vertical-align:top"|Look# [File:note5-diner-saveourbay.png](220px.md)
+|-|Read[File:note5-diner-saveourbay2.png](220px.md)
+|-
+|**Class photo (Nightmare)**
+Location: Wall of the photography/art class.
+Max's comments: Oh... That's awful...
+Note: All eyes in the photo are now scratched out.
+|style# "height:186px; vertical-align:top"|Look[File:Nightmare-class-photo.png](220px.md)
+|-|Read# None
+|-
+|**Pop Vine magazine poster (Nightmare)**
+Location: Wall of the photography/art class.
+Max's comments: That's... me? Are you kidding?!
+Note: The face of girl in this poster turned to Max's.
+|style"height:186px; vertical-align:top"|Look# [File:Nightmare-pop-vine-mag.png](220px.md)
+|-|ReadNone
+|-
+|**Synapse magazine poster (Nightmare)**
+Location: Wall of the photography/art class.
+Max's comments: This is definitely not for reals.
+Note: The face of girl in this poster turned to Max's.
+|style# "height:186px; vertical-align:top"|Look[File:Nightmare-synapse-mag.png](220px.md)
+|-|Read# None
+|-
+|**NEONVAULT editing software (Nightmare)**
+
+Location: Computer screen at the back of the photography/art class.
+Max's comments: That's too creepy...
+Note: The image on the computer changed to one of Max in the Dark Room.
+|style"height:186px; vertical-align:top"|Look# [File:Nightmare-computer-screen.png](220px.md)
+|-|ReadNone
+|-
+|**Paper ball thrown by Taylor to Kate (Nightmare)**
+Location: Floor of the photography/art class.
+Max's comments: Not yet, you bastard.
+|style# "height:186px; vertical-align:top"|Look[File:Nightmare-thrown-note.png](220px.md)
+|-|Read# [File:Nightmare-note-read.png](220px.md)
+|-
+|**Everyday Heroes poster (Nightmare)**
+Location: Wall of the photography/art class.
+Max's comments: I'm not going to take the bait... I'm not.
+Note: Contest name has changed to Everyday Zeroes and mocks Max.
+|style"height:186px; vertical-align:top"|Look# [File:Nightmare-everyday-heroes-poster.png](220px.md)
+|-|ReadNone
+|-
+|**Lighthouse photo (Nightmare)**
+Location: Wall of the photography/art class.
+Max's comments: Oh no...
+Note: Lighthouse now appears to be being ripped apart (by the tornado).
+|style# "height:186px; vertical-align:top"|Look[File:Nightmare-lighthouse-photo.png](220px.md)
+|-|Read# None
+|-
+|**Forest photo (Nightmare)**
+Location: Wall of the photography/art class.
+Max's comments: Rachel didn't deserve any of this.
+Note: Forest now shows Chloe and Max in the foreground (digging for Rachel's body).
+|style"height:186px; vertical-align:top"|Look# [File:Nightmare-forest-photo.png](220px.md)
+|-|ReadNone
+|-
+|'''Map of the [Prescott Dormitory](prescott_dormitory.md) from Rachel Amber's time.'''
+Location: Nightmare version of the dormitory hallway.
+Max's comments: None
+|style# "height:186px; vertical-align:top"|Look[File:note5-nightmare-rachelmap.png](220px.md)
+|-|Read# None
+|-
+|'''Map of the Prescott Dormitory during Max's time.'''
+Location: Nightmare version of the dormitory hallway.
+Max's comments: None
+|style"height:186px; vertical-align:top"|Look# [File:note5-nightmare-dormmap.png](220px.md)
+|-|ReadNone
+|} 
+
+Generate five trivia questions relevant to this section of the page.

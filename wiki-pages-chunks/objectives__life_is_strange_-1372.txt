@@ -1,0 +1,46 @@
+Here is a section of the wiki page for Objectives (Life is Strange):
+
+#  Objectives (Life is Strange) 
+
+[File:Objective_note.png](thumb.md)
+The **Objectives** give instruction on what to do to progress the story. There are 130 total objectives viewable in [Maxine Caulfield](max_caulfield.md)'s [Max's Journal](journal.md).
+
+## Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+* "I need to freshen up in the bathroom" - Go to the bathroom and let Max wash her face.
+* "I must go back to the bathroom and save the girl" - Go back to the bathroom.
+* "I must prevent the blue-haired girl from getting shot" - Save [Chloe Price](chloe_price.md) by triggering the fire alarm.
+* "I need to go to my room to get Warren's flash drive" - [Warren Graham](warren_graham.md) texts Max to retrieve his [Warren's Flash Drive](flash_drive.md) and says he's waiting for her at the [Blackwell Parking Lot](blackwell_parking_lot.md). Follow the signs to the [Prescott Dormitory](prescott_dormitory.md) and speak to [Victoria Chase](victoria_chase.md).
+* "I need to get Victoria out of my way" - Turn up the sprinklers in [Samuel Taylor](samuel_taylor.md)'s [Custodial Room](custodial_room.md), then tamper with the paint bucket.
+* "I need to go to my room to get Warren's flash drive" - Enter the dormitory, find [Max's Room](max_s_room.md) and look at the sticky note that [Dana Ward](dana_ward.md) left on her desk.
+* "I have to get that flash drive back from Dana's room" - Leave Max's room and speak to [Juliet Watson](juliet_watson.md).
+* "I need proof Dana is innocent" - Go into [Victoria's Room](victoria_s_room.md), use her computer, and print out the e-mail. Show it to Juliet.
+* "I have to get that flash drive back from Dana's room" - Enter [Dana's Room](dana_s_room.md) and take the flash drive on her desk.
+* "I have to meet up with Warren in the parking lot" - Leave the dormitory and speak to Warren in the [Blackwell Parking Lot](parking_lot.md).
+* "I have to find music to put on" - Turn on the power strip, search the metal box under Chloe's bed, and insert the CD into the HiFi.
+* "I need to find precision tools downstairs" - Enter the [David's Garage](garage.md). Turn on the washing machine, then rewind. Push the piece of cardboard under the washing machine and turn it on again. Pull out the piece of cardboard and retrieve the tools. 
+* "I should go back upstairs and repair my camera" - Enter Chloe's room and sit down at her desk.
+* "I should join Chloe near the cliff's edge" - Speak to Chloe.
+* "I should follow the doe" - Follow the doe to the lighthouse.
+
+## Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+* "I need to grab my shower supplies and go to the showers" - Grab Max's shower supplies, go to the bathroom, and speak to [Kate Marsh](kate_marsh.md).
+* "I should take a shower" - Walk over to the shower stall and take a shower.
+* "I have to find Kate's book" - Go back to Max's room and search through the papers on the DVD stand next to the sofa. Rewind and move the glass of soda, then take the book.
+* "I have to give back Kate's book" - Enter [Kate's Room](kate_s_room.md) and speak to her.
+* "I need to take the bus to get to the diner" - Chloe wants Max to meet her at the [Two Whales Diner](diner.md) to discuss Max's [Rewind](power.md). Leave the dormitory.
+* "I should sit down inside and wait for Chloe" - Enter the diner and sit in the designated booth.
+* "I have to memorize Chloe's stuff and rewind to tell Chloe" - Examine Chloe's items, rewind, and correctly tell her what's in her pockets.
+* "I have to watch what's going on and rewind to tell Chloe" - Watch the four events unfold, rewind, and correctly tell Chloe what'll happen.
+* "I have to leave the diner with Chloe" - Leave the diner.
+* "I have to find 5 bottles" - Find the 5 bottles scattered around the [American Rust Junkyard](junkyard.md). Bottles are located in the following places: on top of a refrigerator, on the boat, in the [Hideout](hideout.md), on the hood of a car, and near the campfire.
+* "I have to give the bottles to Chloe" - Speak to Chloe.
+* "I have to help Chloe shoot the bottles" - For the first bottle, tell Chloe to aim the gun to the right. For the second, tell her to aim up. Then tell her to shoot the wheel rim and the tire.
+* "I should speak to Chloe" - Speak to Chloe.
+* "I should leave this place with Chloe" - Leave the junkyard.
+* "I have to get Chloe off the railtracks" - Max can either take the crowbar and use it on the wedge blocking the cable drum or she can take the crowbar, open the door with it, take the pliers from the middle drawer, and use them on the red wire in the fuse box. The former option will damage the train tracks.
+* "I should attend art class" - Enter the [Photography Lab](photography_lab.md), speak to Victoria and [Nathan Prescott](nathan_prescott.md), and sit in the chair.
+* "I have to reach Kate on the rooftop" - Enter the dormitory.
+
+
+
+Generate five trivia questions relevant to this section of the page.

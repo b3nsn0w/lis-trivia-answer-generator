@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which Location Is The Setting For The Beginning Of Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Blackwell Academy",
+      "B": "Two Whales Diner",
+      "C": "Arcadia Bay Lighthouse",
+      "D": "Chloe's House"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Beach That Max And Chloe Visit In Episode 3?",
+    "answer": "C",
+    "choices": {
+      "A": "Arcadia Bay Beach",
+      "B": "Two Whales Beach",
+      "C": "Otter Beach",
+      "D": "Cape Scott Beach"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Vortex Club Party Location In Episode 4?",
+    "answer": "D",
+    "choices": {
+      "A": "The End of the World Party",
+      "B": "The Tempest Party",
+      "C": "The Apocalypse Party",
+      "D": "The Blackout Party"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Junkyard Where Chloe And Max Find Rachel's Body?",
+    "answer": "C",
+    "choices": {
+      "A": "The Rusty Junkyard",
+      "B": "The Abandoned Junkyard",
+      "C": "The Price Family Junkyard",
+      "D": "The Arcadia Bay Junkyard"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Diner That Serves As A Frequent Location In The Game?",
+    "answer": "A",
+    "choices": {
+      "A": "Two Whales Diner",
+      "B": "The Blue Moon Diner",
+      "C": "The Arcadia Bay Diner",
+      "D": "The Lighthouse Diner"
+    }
+  }
+]

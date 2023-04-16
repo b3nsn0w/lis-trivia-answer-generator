@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Club is led by Brooke Scott?",
+    "answer": "C",
+    "choices": {
+      "A": "Vegan Club",
+      "B": "Science Gamer's Group",
+      "C": "Geek Grrls Book Club",
+      "D": "Sci-Fi Movie Club"
+    }
+  },
+  {
+    "question": "What is the name of the school newspaper in Blackwell Academy?",
+    "answer": "C",
+    "choices": {
+      "A": "Blackwell Times",
+      "B": "Blackwell Chronicle",
+      "C": "Blackwell Totem",
+      "D": "Blackwell Gazette"
+    }
+  },
+  {
+    "question": "What is the name of the football team in Blackwell Academy?",
+    "answer": "B",
+    "choices": {
+      "A": "The Otters",
+      "B": "The Bigfoots",
+      "C": "The Vortex Club",
+      "D": "The Blackwell Bears"
+    }
+  },
+  {
+    "question": "Who leads the Anti-Mobbing Support/Discussion Group in Blackwell Academy?",
+    "answer": "A",
+    "choices": {
+      "A": "S. Sorber",
+      "B": "Brooke Scott",
+      "C": "Kate Marsh",
+      "D": "Warren Graham"
+    }
+  }
+]

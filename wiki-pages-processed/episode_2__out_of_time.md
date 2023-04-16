@@ -1,0 +1,229 @@
+#  Episode 2: Out of Time 
+
+```yaml
+Episode
+
+title: Out of Time
+season: '1'
+number: '2'
+image: TX Episode2 Preview.png
+imagewidth: '250'
+airdate: March 24, 2015
+writer: '[Jean-Luc Cano](jean_luc_cano.md)[Christian Divine](christian_divine.md)'
+director: '[Raoul Barbet](raoul_barbet.md)[Michel Koch](michel_koch.md)'
+Previous: '[Episode 1: Chrysalis](episode_1__chrysalis.md)'
+Next: '[Episode 3: Chaos Theory](episode_3__chaos_theory.md)'
+```
+
+{{Scaleimage|file# 11091020_898326323522616_1503959853231518140_o.jpg|sizelarge}}
+
+"**Out of Time**" is the second episode of *[Life is Strange](life_is_strange.md)*. The episode was released March 24, 2015 and is available on PC, Mac, PS3, PS4, Xbox 360 and Xbox One. An [Out of Time (Leaked Build)](unfinished_version.md) of Episode 2 had been leaked in February 2015.
+
+##  Synopsis 
+[Maxine Caulfield](max_caulfield.md) tries to convince [Chloe Price](chloe_price.md) that she can [Rewind](rewind_time.md) but starts to suspect that her power may not last forever. Meanwhile, [Kate Marsh](kate_marsh.md) tries to deal with the public shame over a viral video that was leaked and shared around the students of [Blackwell Academy](blackwell.md).
+
+: ''See here for [Max's Diary#Episode_Two_-_.22Out_of_Time_.22](diary_entries.md) and [Max's_Messages#Episode_Two_-_.22Out_of_Time.22](messages.md) from this episode.''
+
+##  Checkpoints 
+#Girls' Dormitories
+#[Prescott Dormitory](dormitories.md) - Morning
+#[Main Campus](main_campus.md) - Morning
+#Bus
+#[Two Whales Diner](diner.md)
+#[American Rust Junkyard](junkyard.md)
+#Railroad
+#Main Campus - Before Class
+#[Blackwell Academy](high_school.md)
+#Dormitories
+#[Principal Wells' Office](principal_s_office.md)
+#Main Campus - With [Warren Graham](warren_graham.md)
+
+##  Characters 
+{| width# "100%" align"center"
+| valign# "top" |
+*[Maxine Caulfield](max_caulfield.md)
+*[Courtney Wagner](courtney_wagner.md)
+*[Victoria Chase](victoria_chase.md)
+*[Taylor Christensen](taylor_christensen.md)
+*[Alyssa Anderson](alyssa_anderson.md)
+*[Trevor Yard](trevor_yard.md)
+*[Brooke Scott](brooke_scott.md)
+*[Juliet Watson](juliet_watson.md)
+*[Stella Hill](stella_hill.md)
+*[Dana Ward](dana_ward.md)
+*[Kate Marsh](kate_marsh.md)
+*[Samuel Taylor](samuel_taylor.md)
+*[Rachel Amber](rachel_amber.md)
+*[Warren Graham](warren_graham.md)
+*[Nathan Prescott](nathan_prescott.md)
+*[David Madsen](david_madsen.md)
+*[Alice the Rabbit](alice.md) (Kate's rabbit)
+*[Diner Woman](woman.md) ([Two Whales Diner](diner.md) bus stop)
+*[Old Guy](old_guy.md) (Diner bus stop)
+*[R.J. MacReady](r_j__macready.md) (Fisherman, Diner parking lot)
+*[Homeless Lady](homeless_lady.md)
+*[Frank Bowers](frank_bowers.md)
+*[Pompidou](pompidou.md) (Frank's dog)
+*[Diner Man](man.md) (In front of the Diner)
+| valign"top" |
+*[Truck Driver](truck_driver.md) (In front of the Diner)
+*[Justin Williams](justin_williams.md)
+*[Diner Fisherman](fisherman.md) (Diner)
+*[Weird Lady](weird_lady.md) (Diner)
+*[Diner Dude](dude.md) (Diner)
+*[Diner Cop](cop.md) (Diner)
+*[Joyce Price](joyce_price.md)
+*[Chloe Price](chloe_price.md)
+*Principal [Raymond Wells](raymond_wells.md)
+*[Zachary Riggins](zachary_riggins.md)
+*[Luke Parker](luke_parker.md)
+*[Evan Harris](evan_harris.md)
+*[Logan Robertson](logan_robertson.md)
+*[Michelle Grant](michelle_grant.md)
+*[Mark Jefferson](mark_jefferson.md)
+*[Hayden Jones](hayden_jones.md)
+*[Daniel DaCosta](daniel_dacosta.md)
+*Officer [Anderson Berry](anderson_berry.md)
+*[Auntie Marsh](auntie_marsh.md) (Mentioned)
+*[Lynn Marsh](lynn_marsh.md) (Mentioned)
+*[Richard Marsh](richard_marsh.md) (Mentioned)
+*[Mrs. Marsh](mrs__marsh.md) (Mentioned)
+*[Bernadette Hoida](bernadette_hoida.md) (Mentioned)
+|}
+
+##  Deaths 
+*[Chloe Price](chloe_price.md) **(Pre-Rewind) - **Max uses her rewind power to save Chloe twice in the Episode.
+**While playing with David's gun in the junkyard, Chloe will accidentally shoot herself if she shoots the bumper of an old car, forcing Max to rewind.
+**When Chloe's foot gets stuck in the tracks, Max must rewind when the oncoming train gets too close to prevent it from running over Chloe and buy herself more time to free her.
+*[Kate Marsh](kate_marsh.md) **(Determinant)** - Kate isn't able to take the constant humiliation anymore and tries to end her life by jumping off of the dormitory roof. It's up to Max to stop her, but it's not guaranteed to be successful.
+
+##  Licensed Soundtrack 
+{{Main|Soundtrack (Life is Strange)}}
+*"[Something Good](something_good.md)" - Alt-J (Max wakes up in her room the day after "Chrysalis")
+*"Naughty" - William Davies, Edward Nutbrown, Charles Nutbrown, Tajh Abdulsamad (Dana's room)
+*"What a Day" - Barrie Gledden, Chris Bussey, Steve Dymond (Dana's room)
+*"Save the World" - Barrie Gledden, Chris Bussey, Steve Dymond (Dana's room)
+*"[Crosses](crosses.md)" - José González (bus drive to the Two Whales Diner)
+*"[Mt. Washington](mt__washington.md)" - Local Natives (Max and Warren together on the campus and the eclipse occurs, ending scene)
+
+##  Reception 
+* Out of Time has the same Metascore as the previous episode [Episode 1: Chrysalis](chrysalis.md) of 77 and a User Score of 8.7.
+* IGN gave it a good 7.0 calling it a good step in the right direction after the last episode, criticizing the writing and voice-over.
+
+##  Achievements 
+There are twelve [Achievements (Life is Strange)](achievements.md) the player can earn on Steam, PlayStation or Xbox.
+
+{{Achievements
+|name #  Field Of View
+|image  Field_Of_View_Achievement.png
+|description #  Take optional photo #1 in Episode 2: Out Of Time
+|type  bronze
+|score #  10
+}}
+{{Achievements
+|name  Full Exposure
+|image #  Full_Exposure_Achievement.png
+|description  Take optional photo #2 in Episode 2: Out of Time
+|type #  bronze
+|score  10
+}}
+{{Achievements
+|name #  Processor
+|image Processor_Achievement.PNG
+|description #  Take optional photo #3 in Episode 2: Out of Time
+|type  bronze
+|score #  10
+}}
+{{Achievements
+|name  Image Stabilizer
+|image # Image_Stabilizer_Achievement.PNG
+|description  Take optional photo #4 in Episode 2: Out of Time
+|type #  bronze
+|score  10
+}}
+{{Achievements
+|name #  Compressed
+|image  Compressed_Achievement.PNG
+|description #  Take optional photo #5 in Episode 2: Out of Time
+|type  bronze
+|score #  10
+}}
+{{Achievements
+|name  Pixelated
+|image #  Pixelated_Achievement.PNG
+|description  Take optional photo #6 in Episode 2: Out of Time
+|type #  bronze
+|score  10
+}}
+{{Achievements
+|name #  Dynamic Range
+|image  Dynamic_Range_Achievement.PNG
+|description #  Take optional photo #7 in Episode 2: Out of Time
+|type  bronze
+|score #  10
+}}
+{{Achievements
+|name  Colorized
+|image #  Colorized_Achievement.PNG
+|description  Take optional photo #8 in Episode 2: Out of Time
+|type #  bronze
+|score  10
+}}
+{{Achievements
+|name #  Meter Made
+|image  Meter_Made_Achievement.PNG
+|description #  Take optional photo #9 in Episode 2: Out of Time
+|type  bronze
+|score #  10
+}}
+{{Achievements
+|name  Resolution Revolution
+|image #  Resolution_Revolution_Achievement.PNG
+|description  Take optional photo #10 in Episode 2: Out of Time
+|type #  bronze
+|score  10
+}}
+{{Achievements
+|name #  Lab Master
+|image  Lab_Master_Achievement.PNG
+|description #  Take all optional photos in Episode 2: Out of Time
+|type  bronze
+|score #  45
+}}
+{{Achievements
+|name  Out of Time
+|image #  Out_Of_Time_Achievement.PNG
+|description  Finish Episode 2: Out of Time
+|type #  bronze
+|score  55
+}}
+
+##  Leaked Build 
+An unfinished version of the second episode had been leaked prior to its aimed release, which contained altered and unused dialogue choices.
+
+{{Main|Out of Time (Leaked Build)}}
+
+##  Trivia 
+*Upon the release of "Out of Time", international hotlines were provided by DONTNOD Entertainment for anyone who may be (or may have been) affected by any of the issues in *Life Is Strange*, and especially those in "Out of Time" that addressed bullying, harassment or suicidal thoughts. The link is [http://www.lifeisstrange.com/talk/ here].
+*The website link that [Victoria Chase](victoria_chase.md) writes on the bathroom mirror, "[http://katesvid.com/ katesvid.com]", is a real link to a blog with a banner that tells you to "Check out Kate's tongue record!" and a single header of "Kate at the Vortex Club!!!". The video cannot be viewed as it bears the message that it was "removed by the user", linking to the fact that Victoria took the video down after Kate's suicide attempt.
+*The episode was originally titled, "Episode 2: Time Out".[https://www.esrb.org/ratings/Synopsis.aspx?Certificate# 10019151&TitleLife%20Is%20Strange%20%u2013%20Episode%202%3A%20Time%20Out ESRB Rating]
+*In [Dana's Room](dana_s_room.md), Max can look at the roller blades in the corner and make a comment that she wanted to be a Derby Girl, but Derby Girls wear roller skates, not in-liners.
+*When Max gets dressed in this episode, she says that Einstein had the "same exact suit for every day of the week". This is an indirect reference to the characters in the game that have the same outfits with different skins.
+*Chloe and Max re-enact the railroad scene from the coming of age film *Stand by Me*. Writer Jean-Luc confirmed the reference on Facebook adding that it's one of his favorite films.
+*Max mentions American novelist and poet Jack Kerouac when explaining the attraction of train tracks to Chloe.
+*The quote "maybe she doth protest too much" by Mr. Jefferson to Max during their conversation about Kate at the Art Lab refers to the quote "{{Wiki|The_lady_doth_protest_too_much,_methinks|the lady who doth protest too much, methinks}}" from the play "{{Wiki|Hamlet}}" by {{Wiki|William Shakespeare}}.
+*Square Enix's blog played an April Fools' prank by advertising a [Lisa the Plant](lisa.md) plant as official *Life is Strange* merchandise.
+*Gaming website {{Wiki|Destructoid}} reported on February 26, 2015 that "Out of Time" had been delayed, due to being under the impression that episodes were being released exactly six weeks apart from each other, but DONTNOD Entertainment reported that things were still on schedule for the episode to be released near the end of March.
+*A hands-on demo of the beginning of the second episode was made available at {{Wiki|Pax East}} on March 6, 2015 during the *Life is Strange* panel, "What if: An Insiders Look at *Life is Strange*".
+*On March 14, 2015 at {{Wiki|Eurogamer}}'s {{Wiki|Eurogamer#EGX|EGX Rezzed}}, DONTNOD Entertainment revealed a fifteen-minute look at the second episode's opening.
+*The locomotive in the junkyard and in the second "Save Chloe" scene is of an indeterminate type. Due to the flared radiators on the back, placement of the air reservoirs above the fuel tank, the placement and size of the dustbin vent and hatch, the placement of the radiator fans, presence of HTCS trucks, and the overall length, we can assume the base is an EMD SD70M-2, SD70Ace, or SD80MAC (the biggest detail being the flared radiators). However, the nose's design is probably based on a GE 8-40B. The aforementioned locomotives are only found in Oregon through class 1 railroads such as BNSF and UP, as no class 2 or 3 railroads in Oregon own said locomotives. The railroad "Oregon Rail" bolstered by the locomotive is also fictitious with design elements similar to the Central Oregon and Pacific Railroad. The couplings of the locomotive are *Scharfenbergkupplungen*, a type of coupling used all over the word for high speed trains. This type of coupling is, however, not used in America. The railcars pulled by the locomotive are a type of stake car found exclusively in Germany and Austria. American railcars never have less than 4 axles and are always on rotating trucks, usually with coil springs. The couplings on the railcars do not match the ones on the locomotive and appear to just be a piece of metal.
+* The audio files for Episode 3 contain a file called "VO_E3_6B.STM_pck-0000000043", featuring Officer Berry's voice: ''"Since you know so much about episode 2, maybe you should tell me what's going on? I sure hope you're not proud of yourself for playing a leaked, incomplete game, and, if you do it again, next time you roll through Arcadia Bay might be your last time. Choose wisely."'' This is probably related due to the [Out of Time (Leaked Build)](leak_of__out_of_time_.md) before release.
+* [File:EP2-Max_phone_alarm.png](thumb.md) A game texture reveals that Max's phone alarm was set to wake her up at 8:00 am, which she snoozes. However, this alarm screen isn't shown in the game, perhaps due to the inconsistency, it would create when Max receives a text from Chloe as soon as she gets out of her bed, because the timestamp on Chloe's initial text reads 7:34 am.
+* [File:Max_room_paradox_book.png](right.md) The "Theory, Paradoxes & Possibilities" book seen on the floor of [Max's Room](max_s_room.md) in this episode could perhaps be based on a 2013 [https://www.space.com/21675-time-travel.html online article] about time travel, which is titled, "Time Travel: Theories, Paradoxes & Possibilities". (The two white lines that sit above the "Theory, Paradoxes & Possibilities" title on Max's book could be an artistic representation of the two words, "time travel", as the text is commonly represented on the game textures by way of bars and squiggles.)
+* A robbery scene was planned in the very early stages of writing. Chloe has an idea to do a robbery to test Max's powers and the robbery would have happened around the place where we now have the diner and junkyard scenes (when Chloe has David's gun). It was written for the very beginning of the Max and Chloe relationship to show them just having fun with the power, but the diner and junkyard scenes were a better way to present the same idea. The robbery would have addressed the topic of stealing, but this is presented at a later point in the game when Chloe wants to take the money in the principal’s office.[https://youtu.be/u4GarUR_an4?t=10m20s YouTube video] that mentions the early robbery scene.
+
+##  Trailers 
+
+Life Is Strange - Episode 2 Out of Time - Preview Trailer (HD) 1080p
+Life is Strange Episode 2 - Out of Time Trailer
+

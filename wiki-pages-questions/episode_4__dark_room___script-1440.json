@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Movie Do Max and Chloe Watch?",
+    "answer": "B",
+    "choices": {
+      "A": "The Matrix",
+      "B": "Blade Runner",
+      "C": "Star Wars",
+      "D": "The Terminator"
+    }
+  },
+  {
+    "question": "What Does Chloe Ask Max To Retrieve From Upstairs?",
+    "answer": "C",
+    "choices": {
+      "A": "A Sandwich",
+      "B": "A Book",
+      "C": "A Morphine Injector",
+      "D": "A Pillow"
+    }
+  },
+  {
+    "question": "What Does Chloe Say About People?",
+    "answer": "C",
+    "choices": {
+      "A": "They Are All Terrible",
+      "B": "They Are All Amazing",
+      "C": "They Are All Selfish",
+      "D": "They Are All Joking"
+    }
+  },
+  {
+    "question": "Who Does Max Mention Was Interested In Her?",
+    "answer": "A",
+    "choices": {
+      "A": "Warren",
+      "B": "Nathan",
+      "C": "Frank",
+      "D": "David"
+    }
+  }
+]

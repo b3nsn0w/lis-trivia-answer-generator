@@ -1,0 +1,52 @@
+[
+  {
+    "question": "How Does Max Discover That The Storm Is Still Approaching Arcadia Bay?",
+    "answer": "A",
+    "choices": {
+      "A": "By Watching The News",
+      "B": "By Seeing The Storm Clouds",
+      "C": "By Reading Her Diary",
+      "D": "By Talking To Chloe"
+    }
+  },
+  {
+    "question": "What Does Max Do To Prevent Herself From Winning The Everyday Heroes Photo Contest?",
+    "answer": "B",
+    "choices": {
+      "A": "She Deletes Her Entry",
+      "B": "She Tears Apart Her Entry",
+      "C": "She Submits A Different Photo",
+      "D": "She Withdraws From The Contest"
+    }
+  },
+  {
+    "question": "What Happens To Jefferson In The San Francisco Timeline?",
+    "answer": "B",
+    "choices": {
+      "A": "He Escapes From The Police",
+      "B": "He Is Arrested",
+      "C": "He Commits Suicide",
+      "D": "He Is Killed By Max"
+    }
+  },
+  {
+    "question": "What Does Max Do After Tearing Apart Her Gallery Entry?",
+    "answer": "C",
+    "choices": {
+      "A": "She Leaves San Francisco",
+      "B": "She Submits A Different Entry",
+      "C": "She Burns Her Diary",
+      "D": "She Goes To The Dark Room"
+    }
+  },
+  {
+    "question": "What Does Max Discover When She Arrives At The Zeitgeist Gallery?",
+    "answer": "B",
+    "choices": {
+      "A": "She Has Won The Everyday Heroes Photo Contest",
+      "B": "The Storm Is Approaching Arcadia Bay",
+      "C": "Chloe Is Waiting For Her",
+      "D": "Jefferson Is There"
+    }
+  }
+]

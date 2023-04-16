@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Where Can The \"Missing Persons\" Posters Be Found?",
+    "answer": "C",
+    "choices": {
+      "A": "In Chloe's Room",
+      "B": "In The Blackwell Academy Bathroom",
+      "C": "In The Blackwell Academy Common Area",
+      "D": "In Mr. Jefferson's Classroom"
+    }
+  },
+  {
+    "question": "What Is Max's Opinion On The \"Save Arcadia Bay\" Poster?",
+    "answer": "B",
+    "choices": {
+      "A": "She Thinks It's A Good Idea To Contact Them",
+      "B": "She Thinks It's A Messed Up Idea",
+      "C": "She Thinks It's A Waste Of Time",
+      "D": "She Doesn't Have An Opinion"
+    }
+  },
+  {
+    "question": "Where Is The \"Abstinence\" Poster Located?",
+    "answer": "B",
+    "choices": {
+      "A": "In Chloe's Room",
+      "B": "In The Blackwell Academy Bathroom",
+      "C": "In The Blackwell Academy Common Area",
+      "D": "In The Blackwell Academy Main Campus"
+    }
+  },
+  {
+    "question": "What Is Max's Opinion On The \"Otter Power\" Slogan?",
+    "answer": "A",
+    "choices": {
+      "A": "She Thinks It's Overused",
+      "B": "She Thinks It's Inspiring",
+      "C": "She Thinks It's Lame",
+      "D": "She Doesn't Have An Opinion"
+    }
+  },
+  {
+    "question": "Where Is The Otter Swim-Team Tryouts Poster Located?",
+    "answer": "D",
+    "choices": {
+      "A": "In Chloe's Room",
+      "B": "In The Blackwell Academy Bathroom",
+      "C": "In The Blackwell Academy Common Area",
+      "D": "In The Blackwell Swimming Pool"
+    }
+  }
+]

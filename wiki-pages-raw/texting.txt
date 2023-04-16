@@ -1,0 +1,63 @@
+= Texting =
+
+{{Stub}}[[File:sms-icon.png|thumb|100px]]
+'''Texting''' is one of several important gameplay elements throughout the story. True to the lives of most modern teenagers, ''[[Life is Strange]]'' includes insights into the protagonists' cellphones.
+
+The player can scroll through both old and new conversations in [[Max's Messages|Max Caulfield's text messages]] in ''[[Life is Strange]], ''[[Chloe's Messages|Chloe Price's text messages]] in ''[[Life is Strange: Before the Storm|Before the Storm]]'', [[Sean's Messages|Sean Diaz's text messages]] in ''[[Life is Strange 2]],'' and [[Alex's Messages|Alex Chen's text messages]] in ''[[Life is Strange: True Colors]]'' to get a better context on [[:Category:Characters|characters]] and [[objectives]] in the games.
+
+== Messages ==
+* [[Max's Messages]]
+* [[Chloe's Messages]]
+* [[Sean's Messages]]
+*[[Alex's Messages]]
+
+== Objectives ==
+Some [[objectives]] in the games involve texting.
+
+''(Still incomplete. Please help elaborating this section.)''
+
+=== Life is Strange ===
+
+==== Episode One - "[[Episode 1: Chrysalis|Chrysalis]]" ====
+* Returning [[Warren Graham]]'s [[Warren's Flash Drive|Flash-Drive]] - Warren texts Max to retrieve his Flash-Drive and says he's waiting for her at the [[Blackwell Parking Lot]].
+
+==== Episode Two - "[[Episode 2: Out of Time|Out of Time]]" ====
+* Getting to the [[Two Whales Diner]] - [[Chloe Price]] wants Max to meet her at the diner to discuss Max's [[Rewind|power]].
+
+==== Episode Three - "[[Episode 3: Chaos Theory|Chaos Theory]]" ====
+* Getting on the [[Blackwell Campus|main campus]] to meet Chloe - Chloe wants Max to meet on the main campus in front of the [[Blackwell Academy]].
+* Entering [[Principal Wells' Office|Principal Wells' office]] - Max asks Warren for a way to open the locked door to Principal Wells' office; he texts Max the ingredients for a pipe bomb to open the door.
+
+==== Episode Four - "[[Episode 4: Dark Room|Dark Room]]" ====
+* Entering Nathan Prescott's [[Nathan's Room|dorm room]] - If Max managed to save [[Kate Marsh]] from committing suicide on the previous episode, she texts Max his room number if you had looked at her "Get well soon" card and mentioned Nathan when talking to her in the hospital.
+
+==== Episode Five - "[[Episode 5: Polarized|Polarized]]" ====
+* Max asks Warren for the [[Media:Warren-max-pola.png|photo]] - Max asks Warren if he still has the photo from the [[End of the World Party]] to jump back in time and save Chloe.
+
+=== Before the Storm ===
+
+==== Episode One - "[[Episode 1: Awake|Awake]]" ====
+* Getting DVD from [[Steph Gingrich]] - Just before Chloe leaves her house, Steph texts her saying she has her DVD and Chloe can get it before school. Later on, when Chloe arrives at Blackwell, Steph texts her again saying she's at the picnic tables with [[Mikey North]].
+
+==== Episode Two - "[[Episode 2: Brave New World|Brave New World]]" ====
+* Opening [[Drew North]]'s trunk - If Chloe puts the wrong code on the trunk 5 times, she'll text Steph asking what's the most important thing to Drew. Steph says Mikey's the most important thing to Drew and Chloe asks when Mikey's birthday is. Steph says it's December 27 (1227), and Chloe manages to open the trunk and get the money.
+
+== Trivia ==
+* In Episode 5, "[[Episode 5: Polarized|Polarized]]", the player uses Max's texting feature actively for the first time to send a text message to [[David Madsen]] during a cutscene.
+* Max only speaks to another person using her phone three or four times, depending on the player's [[Choices and Consequences|choice]] to answer Kate's call in "[[Episode 2: Out of Time|Out of Time]]". The other times being: Max calling Warren to ask for instructions for the pipe bomb in "[[Episode 3: Chaos Theory|Chaos Theory]]", calling Chloe from the [[Zeitgeist Gallery]] after hearing her voice and calling Warren to ask for his photo (both in "[[Episode 5: Polarized|Polarized]]").
+* During [[Nightmare|Max's nightmare]] in Episode 5, Max receives several strange and disturbing [[Max's Nightmare - Messages|text messages]] from characters including [[William Price]], [[Rachel Amber]], [[Samuel Taylor]] and [[Pompidou]].
+* The font used for Max and Sean's text messages is [https://www.dafont.com/helvetihand.font Helvetihand].
+* The font used for Chloe's text messages is [http://www.fixedsysexcelsior.com/ FixedSys].
+
+== Gallery ==
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="200" captionalign="center" position="center">
+Max texting.png|Texting interface in ''Life is Strange''.
+Chloe texting.png|Texting interface in ''Life is Strange: Before the Storm''.
+Sean texting.png|Texting interface in ''Life is Strange 2''.
+File:Alex's-phone.png|Texting interface in Life is Strange: True Colors
+</gallery>
+
+[[Category:Gameplay]]
+[[Category:Article stubs]]
+[[Category:Gameplay (Life is Strange)]]
+[[Category:Life is Strange]]

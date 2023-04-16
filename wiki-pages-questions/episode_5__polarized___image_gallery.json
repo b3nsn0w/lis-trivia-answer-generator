@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Name Of The Episode 5 Of Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Polarized",
+      "B": "Rewind",
+      "C": "Butterfly Effect",
+      "D": "Dark Room"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Image File That Shows Max And Chloe Kissing?",
+    "answer": "A",
+    "choices": {
+      "A": "Max and Chloe kiss.png",
+      "B": "Dark Room Ingame.jpg",
+      "C": "Blue Butterfly on coffin.jpg",
+      "D": "Funeral.png"
+    }
+  },
+  {
+    "question": "Which Image File Shows Max With Her Head Down In Episode 5?",
+    "answer": "A",
+    "choices": {
+      "A": "Episode 5 Max head down.jpg",
+      "B": "ss+(2016-01-24+at+02.23.54).jpg",
+      "C": "Funeral.png",
+      "D": "Blue Butterfly on coffin.jpg"
+    }
+  },
+  {
+    "question": "Which Image File Shows A Blue Butterfly On A Coffin?",
+    "answer": "A",
+    "choices": {
+      "A": "Blue Butterfly on coffin.jpg",
+      "B": "Max and Chloe kiss.png",
+      "C": "ss+(2016-01-24+at+02.29.15).jpg",
+      "D": "Funeral.png"
+    }
+  },
+  {
+    "question": "Which Image File Shows Max And Warren Together In Episode 5?",
+    "answer": "A",
+    "choices": {
+      "A": "Max_and_Warren_-_Polarized_(32).jpg",
+      "B": "Max_and_Warren_-_Polarized_(33).jpg",
+      "C": "Max_and_Warren_-_Polarized_(34).jpg",
+      "D": "Max_and_Warren_-_Polarized_(36).jpg"
+    }
+  }
+]

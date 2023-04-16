@@ -1,0 +1,87 @@
+Here is a section of the wiki page for Chloe Price:
+
+#  Chloe Price 
+
+```yaml
+Character
+
+name: Chloe Price
+image: Chloe_.png
+fullname: Chloe Elizabeth Price
+alsoknown: >-
+  Queen of Assholes, Queen of the World, Faithful Companion, Captain Chloe (by
+  herself)
+
+  Professor Price, Girl Wonder, Miss I Hate Math, Speedy, Chloe the Keymaster,
+  Watson, Blackwell Ninja, Girlfriend, Bro Killer, Minion, Buttercup, Eagle-Eye
+  Chloe, Woman of the World, Captain Chloe (by [Maxine Caulfield
+"Max](maxine_caulfield__max.md))
+\nBulldog (by [Frank Bowers](frank_bowers.md))
+C. (by [Rachel Amber](rachel_amber.md))": ''
+age: '19'
+born: |-
+  March 11, 1994
+  [Arcadia Bay](arcadia_bay.md), Oregon
+died: |-
+  October 11, 2013 (pre-rewind)
+  October 7, 2013 (determinant)
+causeofdeath: Shot in the chest by [Nathan Prescott](nathan_prescott.md) (ending dependant)
+gender: Female
+hair: |-
+  Blue (dyed)
+  Strawberry Blond (natural hair color)
+eyes: Blue
+height: >-
+  5'9" (1.75m)This was confirmed by [Luc Baghadoust](luc_baghadoust.md) on
+  [https://mobile.twitter.com/ValarMyghulis/status/598019146627063808 Twitter].
+loveinterest: |-
+  [Rachel Amber](rachel_amber.md) (deceased)
+  [Maxine Caulfield
+Max Caulfield](maxine_caulfield_max_caulfield.md): *
+relatives: >-
+  [Joyce Price](joyce_price.md) (mother)
+
+  [William Price](william_price.md) (father, deceased)
+
+  [David Madsen](david_madsen.md) (step-father)
+
+  [Aaron Price](aaron_price.md) (uncle) [Dorothy](dorothy.md)(maternal great
+  aunt) [Bongo
+Bongo](bongo_bongo.md) (family pet, deceased)
+: *
+friends: '[Maxine Caulfield'
+Max Caulfield](maxine_caulfield__max_caulfield.md)
+[Justin Williams](justin_williams.md)
+[Trevor Yard](trevor_yard.md)
+[Frank Bowers](frank_bowers.md) (determinant)
+[Rachel Amber](rachel_amber.md) (deceased): ''
+profession: |-
+  High school student (former)
+  Unemployed
+affiliation: '[Blackwell Academy](blackwell_academy.md) (former)'
+appearance: >-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)[Episode 2: Out of
+  Time](episode_2__out_of_time.md)[Episode 3: Chaos
+  Theory](episode_3__chaos_theory.md)[Episode 4: Dark
+  Room](episode_4__dark_room.md)[Episode 5: Polarized](episode_5__polarized.md)
+voice: |-
+  [Ashly Burch](ashly_burch.md) (ENG)
+  [Lynn](lynn.md) (JPN)
+weight: 112 lbs (50 kg)
+```
+
+> Since you're the mysterious superhero... I'll be your faithful chauffeur and companion!
+
+**Chloe in "[Episode 2: Out of Time**, Out of Time](episode_2__out_of_time____out_of_time.md)"
+
+**Chloe Elizabeth Price** (born March 11, 1994)[Media:Ep3-PrinOffice-ChloeFile.png](chloe_s_student_file.md) in "Chaos Theory" is the deuteragonist of *[Life is Strange](life_is_strange.md)*. She was the best friend of [Maxine Caulfield](max_caulfield.md) before she moved to [Seattle](seattle.md), leaving Chloe in their hometown of [Arcadia Bay](arcadia_bay.md), Oregon. They rekindle their friendship during the events of the game. After Max left, Chloe became best friends with [Rachel Amber](rachel_amber.md) before Rachel went missing. She is the daughter of [William Price](william_price.md) and [Joyce Price](joyce_price.md), and the step-daughter of [David Madsen](david_madsen.md).
+
+Chloe’s death may be the catalyst to unlocking [Max's Abilities](max_s_powers.md) and their emotional journey together is the main thrust of the story right through to its conclusion.
+
+Chloe features again in the [Life is Strange (Franchise)](franchise.md) as the playable protagonist in *[Life is Strange: Before the Storm](before_the_storm.md)* (the prequel to the events of *Life is Strange*) and is most recently mentioned in the fifth episode of *[Life is Strange 2](life_is_strange_2.md)* and the bonus chapter of *[Life is Strange: True Colors](life_is_strange__true_colors.md)*.
+
+: ''For the image gallery, click [Chloe Price/Gallery](here.md). To visit Chloe's room, click [Chloe's Room](here.md)*. *To visit Chloe's truck, click [Chloe's Truck](here.md). To check out Chloe's computer, click [Chloe's Computer](here.md).''
+
+
+
+Generate five trivia questions relevant to this section of the page.

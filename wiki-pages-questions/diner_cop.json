@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Where is the Diner Cop seen in Max's nightmare?",
+    "answer": "A",
+    "choices": {
+      "A": "At the Two Whales Diner",
+      "B": "At the American Rust Junkyard",
+      "C": "At the police station",
+      "D": "At the Blackwell Academy"
+    }
+  },
+  {
+    "question": "What does the Diner Cop warn Max to stay away from?",
+    "answer": "C",
+    "choices": {
+      "A": "The Two Whales Diner",
+      "B": "The police station",
+      "C": "Frank's RV",
+      "D": "The American Rust Junkyard"
+    }
+  },
+  {
+    "question": "In which episode of Life is Strange does Max talk to the Diner Cop?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "What is the Diner Cop's fate in the Sacrifice Arcadia Bay ending?",
+    "answer": "C",
+    "choices": {
+      "A": "He is arrested by the police",
+      "B": "He is killed by Jefferson",
+      "C": "He is presumed to have died in the storm",
+      "D": "He escapes from Arcadia Bay"
+    }
+  }
+]

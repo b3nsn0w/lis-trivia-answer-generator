@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Happens If Max Warns The Homeless Lady About The Storm?",
+    "answer": "A",
+    "choices": {
+      "A": "The Homeless Lady's Place Will Be Empty",
+      "B": "Max Will Discover Her Dead Body Behind The Diner",
+      "C": "Max Will Be Able To Save Her From The Storm",
+      "D": "The Homeless Lady Will Thank Max For The Warning"
+    }
+  },
+  {
+    "question": "What Happens If Max Leaves A Mark On The Fireplace In The Alternative Timeline?",
+    "answer": "A",
+    "choices": {
+      "A": "There Will Be A Mark On The Fireplace",
+      "B": "There Won't Be A Mark On The Fireplace",
+      "C": "Max Will Be Able To Time Travel To The Present Timeline",
+      "D": "The House Will Burn Down"
+    }
+  },
+  {
+    "question": "What Happens If Max Kisses Chloe?",
+    "answer": "D",
+    "choices": {
+      "A": "Chloe Will Text Warren That He \"Doesn't Stand A Chance\"",
+      "B": "Max Will Wish To Kiss Chloe Again After Returning From The Alternative Timeline",
+      "C": "Max And Chloe Will Share A Long Kiss At The Cliff In The \"Sacrifice Chloe\" Ending",
+      "D": "All Of The Above"
+    }
+  },
+  {
+    "question": "What Happens If Max Sides With David?",
+    "answer": "D",
+    "choices": {
+      "A": "David Will Stay At The Madsen Household",
+      "B": "Chloe Will Berate Max For Not Defending Her",
+      "C": "Max Will Self-Think About \"Choosing To Help David Over William\"",
+      "D": "All Of The Above"
+    }
+  },
+  {
+    "question": "What Happens If Max Warns Alyssa About Getting Soaked?",
+    "answer": "B",
+    "choices": {
+      "A": "Alyssa Will Not Read A Robert Frost Quote",
+      "B": "Alyssa Will Read A Robert Frost Quote",
+      "C": "Max Will Get Soaked Instead",
+      "D": "Alyssa Will Get Angry At Max"
+    }
+  }
+]

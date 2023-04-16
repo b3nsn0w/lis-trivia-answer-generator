@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-75mQXMifHc0IYBDEatprltdEvyLQc",
+  "object": "chat.completion",
+  "created": 1681612149,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 936,
+    "completion_tokens": 231,
+    "total_tokens": 1167
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "[Question] Who is Aaron Price related to?\n[A] William Price and Joyce Price\n[B] Chloe Price and William Price\n[C] Joyce Price and Chloe Price\n[D] William Price and Max Caulfield\n[Answer] A\n\n[Question] What does Aaron apologize for in his letter to William?\n[A] Not being able to visit him\n[B] Not sending him enough money\n[C] Not being able to attend his wedding\n[D] Not being able to help him with his car\n[Answer] B\n\n[Question] Where is Aaron being sent for work in the alternative timeline?\n[A] Salt Lake City\n[B] Los Angeles\n[C] New York City\n[D] San Francisco\n[Answer] A\n\n[Question] What does William thank Aaron for in his email?\n[A] A pressure washer\n[B] A car\n[C] A lawnmower\n[D] A bicycle\n[Answer] A\n\n[Question] What does William offer Aaron in his email?\n[A] A cold beer\n[B] A hot coffee\n[C] A glass of wine\n[D] A cup of tea\n[Answer] A"
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}

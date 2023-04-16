@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who Is Max's Photography Teacher At Blackwell Academy?",
+    "answer": "A",
+    "choices": {
+      "A": "Mark Jefferson",
+      "B": "Victoria Chase",
+      "C": "Kate Marsh",
+      "D": "Nathan Prescott"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Photography Contest That Mark Jefferson Wants Max To Enter?",
+    "answer": "A",
+    "choices": {
+      "A": "Everyday Hero",
+      "B": "Everyday Heroes",
+      "C": "National Exposure",
+      "D": "San Francisco Showcase"
+    }
+  },
+  {
+    "question": "Who Is Missing From Blackwell Academy And Has Posters All Over Campus?",
+    "answer": "C",
+    "choices": {
+      "A": "Kate Marsh",
+      "B": "Victoria Chase",
+      "C": "Rachel Amber",
+      "D": "Nathan Prescott"
+    }
+  },
+  {
+    "question": "Who Triggered Max's Time Rewind Power By Shooting A Girl In The Bathroom?",
+    "answer": "D",
+    "choices": {
+      "A": "Mark Jefferson",
+      "B": "Victoria Chase",
+      "C": "Kate Marsh",
+      "D": "Nathan Prescott"
+    }
+  }
+]

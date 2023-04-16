@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Where Does Max Find Blackwell Academy's Pamphlet?",
+    "answer": "A",
+    "choices": {
+      "A": "In The Photography/Art Class",
+      "B": "In The Principal's Office",
+      "C": "In The Science Lab",
+      "D": "In The Cafeteria"
+    }
+  },
+  {
+    "question": "What Does Max Say About The Forest Around Arcadia Bay?",
+    "answer": "B",
+    "choices": {
+      "A": "It's Ugly",
+      "B": "It's Beautiful",
+      "C": "It's Haunted",
+      "D": "It's Dangerous"
+    }
+  },
+  {
+    "question": "What Does Max Say About The Lighthouse?",
+    "answer": "B",
+    "choices": {
+      "A": "She Hates It",
+      "B": "She Loves It",
+      "C": "She Is Scared Of It",
+      "D": "She Wants To Destroy It"
+    }
+  },
+  {
+    "question": "Where Does Max Find Victoria's Notebook?",
+    "answer": "A",
+    "choices": {
+      "A": "On Victoria's Desk In The Art Class",
+      "B": "In The Principal's Office",
+      "C": "In The Science Lab",
+      "D": "In The Cafeteria"
+    }
+  },
+  {
+    "question": "What Does Max Say About The \"Everyday Heroes\" Contest Poster?",
+    "answer": "C",
+    "choices": {
+      "A": "She Wants To Enter The Contest",
+      "B": "She Thinks It's Stupid",
+      "C": "She Thinks It's Inspiring",
+      "D": "She Wants To Tear It Down"
+    }
+  }
+]

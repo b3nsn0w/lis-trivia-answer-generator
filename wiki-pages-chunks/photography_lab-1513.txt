@@ -1,0 +1,65 @@
+Here is a section of the wiki page for Photography Lab:
+
+look at and use Victoria's tablet.|**Look: **"Of course, Victoria has to have the bestest, newest, most expensive everything."
+**Use: **"I should have known. She'll have better equipment than Blackwell."
+**After rewind: **"Stop wasting time. Go!"}}
+*{{Interaction|She can look at and take an optional photo of the etched marks.|"Hmmm, this might make a cool shot..."}}
+*{{Interaction|She can look at and speak to Kate.|**Before: **"Kate looks so sad and quiet today. Poor thing."
+**After: **"Kate probably wouldn't laugh at me, but how could I ask her about what's going on?"}}
+*{{Interaction|She can look at Victoria.|**Before: **"Every time I look at Victoria I feel like she's talking smack about me."
+**After: **"Victoria hasn't moved from that spot..."}}
+*{{Interaction|She can look at and speak to Mr. Jefferson **(required)**.|**Before: **"This is ridiculous. I always get so shy and nervous around Mr. Jefferson."
+**After: **"I wish I could go talk to Mr. Jefferson about what's going on... but I can't."}}
+
+# ## Episode Two - "Out of Time" 
+*{{Interaction|Max can look at the Everyday Heroes Contest poster.|"I guess I'm out of time to turn in a photo for the contest. Irony!"}}
+*{{Interaction|She can look at the picture of the Arcadia Bay forest.|"Even in pictures, the forest around here always looks mysterious..."}}
+*{{Interaction|She can look at the picture of the lighthouse.|"Arcadia Bay looks way more majestic here..."}}
+*{{Interaction|She can look at Jefferson's camera.|"Whoa! Mr. Jefferson is not messing around with that monster. He probably paid 20 grand
+for that camera... I bet he gets pristine digital images. But I still dig my little instant camera."}}
+*{{Interaction|She can look at the magazine covers.|"So cool to see Mr. Jefferson's actual published pictures. Gives me hope."
+"I love seeing Mr. Jefferson's awesome photos on these magazine covers."}}
+*{{Interaction|She can look at the class photo.|"That was amazing when Mr. Jefferson took a class picture the first week. Even though I didn't
+want to be in the picture at all, it was fairly fucking cool to watch him at work framing us."}}
+*{{Interaction|She can look at a printer.|"That printer is amazing. I'd love to see how it reproduces my pictures.
+I could pump out a whole gallery show with that thing. When I don't suck. Someday..."}}
+*{{Interaction|She can look at and speak to [Hayden Jones](hayden.md).|"It's hard to not like Hayden, because... he just doesn't give a shit."}}
+*{{Interaction|She can look at and speak to [Dana Ward](dana.md).|"Dana is ready for her 15 minutes of fame."}}
+*{{Interaction|She can look at and speak to [Taylor Christensen](taylor.md).|"I like Taylor's artistic side, not her personality."}}
+*{{Interaction|She can look at and speak to [Daniel DaCosta](daniel.md).|"Daniel is always on the outside looking in..."}}
+*{{Interaction|She can look at Daniel's sketch of Dana.|"That's a great sketch of Dana. Daniel is the real deal."}}
+*{{Interaction|She can look at, speak to and take an optional photo of [Alyssa Anderson](alyssa.md).|"Alyssa really lives for her classes..."}}
+*{{Interaction|She can look at [Stella Hill](stella.md).|"Stella is smart to stay out of all the drama."}}
+*{{Interaction|She can look at and speak to Nathan **(required)**.|**Told on Nathan: **"I can't believe the Principal lets him stay in school after I told him what happened."
+**Hid the truth: **"I should have told the Principal about Nathan and the gun just for life insurance..."}}
+*{{Interaction|She can look at and speak to Victoria **(required)**.|**Made fun of: **"I feel so awkward after bagging on Victoria yesterday..."
+**Comforted: **"Even if Victoria ignores me, I'm glad we talked yesterday."}}
+*She can sit at her desk.
+
+After sitting at her desk,
+*{{Interaction|Max can look at a book by Mr. Jefferson.|"It's cool that Mr. Jefferson published his own little book of photo tips."}}
+*{{Interaction|She can look at Kate's chair.|"I guess Kate will miss class now... I'm worried about her."}}
+*She can draw on her notebook, and look at the drawing afterwards.
+
+#
+
+## Episode Three - "Chaos Theory" 
+*{{Interaction|Max can look at the Everyday Heroes Contest poster.|**Saved Kate: **"I feel silly thinking of myself as an 'Everyday Hero' for helping Kate...
+but it's cool that other people do. Now if I could only find Rachel..."
+'''Didn't save Kate: '''"If Kate were still alive maybe I actually would be an 'Everyday Hero'...
+Maybe I can make it up by finding Rachel..."}}
+*{{Interaction|She can look at the photo of the lighthouse.|"You can never escape the lighthouse here..."}}
+*{{Interaction|She can look at the entries for the Everyday Heroes contest.|**Kate: **"Oh Kate... even when you were sad you tried to see the good in the world... Shit."
+**Daniel: **"Daniel's a better illustrator than photographer, said Max the art critic."
+**Victoria: **"Victoria... that is pretty fucking sweet. How can I hate somebody that shoots like that?"
+**Nathan: **"I feel gross even looking at Nathan's work, but he does have some style..."}}
+*{{Interaction|She can look at Victoria's cigarettes.|"Victoria's cigarettes? I'm sure Mr. Jefferson is impressed."}}
+*{{Interaction|She can look at the class photo.|"That was amazing when Mr. Jefferson took a class picture the first week. Even though I didn't
+want to be in the picture at all, it was fairly fucking cool to watch him at work framing us."}}
+*{{Interaction|She can take the duct tape from two locations in the lab **(required)**.|"The tape is mine!"}}
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

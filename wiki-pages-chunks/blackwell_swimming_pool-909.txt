@@ -1,0 +1,49 @@
+Here is a section of the wiki page for Blackwell Swimming Pool:
+
+## Boys' Locker Room 
+*{{Interaction|Max can look at a jacket inside a locker.|"I guess somebody forgot their Blackwell spirit."}}
+*{{Interaction|She can look at Logan's locker.|"I guess I should consider this evolution."}}
+*{{Interaction|She can look at Zachary's locker.|"Zach is really careless. Doesn't he know what happens when I'm around?"}}
+*{{Interaction|She can look at Warren's locker.|"Bet he developed that in Jefferson's class... but why?"}}
+*{{Interaction|She can look at Nathan's locker.|"It's okay for Nathan to be hooked on these drugs, right?"}}
+*{{Interaction|She can look at Zachary's jersey.|"No way am I touching Zach's jersey..."}}
+*{{Interaction|She can look at the floats.|"This must be for training kids."}}
+*{{Interaction|She can look at an e-cigarette.|"Some poor hipster lost their vape..."}}
+*{{Interaction|She can look at a "No Worries, It's All Bad" graffiti.|"Sometimes..."}}
+*{{Interaction|She can look at a "Sex Me Up" graffiti.|"Boys' locker room is right."}}
+*{{Interaction|She can look at a "Victoria Loves The D." graffiti.|"Huh, it's nice to know Victoria loves something besides herself."}}
+*{{Interaction|She can look at a "Max is a Feminazi" graffiti.|"Welcome to 1950."}}
+*{{Interaction|She can look at a "I ❤ Warren Gayram" graffiti.|"I bet you do..."}}
+*{{Interaction|She can look at the soap dispenser.|"This one is almost empty. The guys must like their pink goo."}}
+*{{Interaction|She can look at herself in the mirror.|"Max Caulfield, Moral Avenger. Or Self-Righteous Hypocrite..."}}
+*{{Interaction|She can look at a "69 Reasons to Bang Rachel" graffiti.|"Bros will be bros."}}
+
+# #
+
+## Pool 
+*{{Interaction|Max can look at a rescue board.|"I don't think anybody has ever drowned here... I hope."}}
+*{{Interaction|She can look at an oxygen kit.|"In case I run out of air, I know where to come."}}
+*{{Interaction|She can look at a pool toy.|"Just when I thought it was safe to go back in the water..."}}
+*{{Interaction|She can look at and modify the End of the World Party guest list.|**Look: **"Looks like I'm the Vortex Club bouncer... Decisions, decisions..."
+**Add name: **"Oh, for just one picture of their faces when they see my name..."
+**Remove names: **"Oh, I am sorry, your names are not on the list... You'll have to eat shit now."}}
+*{{Interaction|She can look at and speak to Chloe **(required)**.|"Chloe just couldn't wait to splish splash in the pool."}}
+
+# #
+
+## Office 
+*{{Interaction|Max can look at a cup of coffee.|"Coffee and swimming. Good combo."}}
+*{{Interaction|She can search a drawer.|"Yes, we get it. Otters."}}
+*{{Interaction|She can look at a whiteboard.|"So, the big plan is... 'Win.'"}}
+*{{Interaction|She can look at a Halloween pumpkin.|"Aw, look at the baby Halloween pumpkin..."}}
+*{{Interaction|She can look at a rescue dummy.|"Don't even think I'm going to make a move on you."}}
+*{{Interaction|She can look at and switch on the lights control panel **(required)**.|"Now I have the power over light and death."}}
+
+#
+
+## Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+# #
+
+
+
+Generate five trivia questions relevant to this section of the page.

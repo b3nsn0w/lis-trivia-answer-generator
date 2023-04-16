@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Find In The Junkyard?",
+    "answer": "A",
+    "choices": {
+      "A": "A Message In A Bottle",
+      "B": "A Secret Letter",
+      "C": "A Graffiti",
+      "D": "A Gun"
+    }
+  },
+  {
+    "question": "What Does Chloe Say To Max When She Fails At Hitting Bottles?",
+    "answer": "B",
+    "choices": {
+      "A": "\"Just Shoot, It's All Good.\"",
+      "B": "\"Max, The Bottles Are Mocking Us.\"",
+      "C": "\"How About Another Target, Max?\"",
+      "D": "\"Yes, I'm Getting Bored, Max.\""
+    }
+  },
+  {
+    "question": "What Does Max Say After Shooting At Frank In The Junkyard?",
+    "answer": "A",
+    "choices": {
+      "A": "\"I Almost Shot This Guy.\"",
+      "B": "\"I Need To Walk Off All That Drama.\"",
+      "C": "\"Now He's Even More Dangerous To Chloe And Me.\"",
+      "D": "\"I Should Rewind And Try Something Else.\""
+    }
+  },
+  {
+    "question": "What Does Chloe Say To Frank After He Says, \"Oh Christ. You're More Like Abbot And Costello.\"?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Who?\"",
+      "B": "\"You're Dumb And Dumber.\"",
+      "C": "\"Don't Ever Pull Crap Like This Again.\"",
+      "D": "\"You Still Have A Tab With Me.\""
+    }
+  },
+  {
+    "question": "What Does Max Find Sad About The Missing Person Posters In Blackwell Corridor?",
+    "answer": "D",
+    "choices": {
+      "A": "The Number Of Posters",
+      "B": "The Design Of The Posters",
+      "C": "The Age Of The Missing Persons",
+      "D": "The Fact That They Are Missing"
+    }
+  }
+]

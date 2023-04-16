@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Take From The Science Lab?",
+    "answer": "B",
+    "choices": {
+      "A": "A Box Of Sugar",
+      "B": "A Container Of Weedkiller",
+      "C": "A Science Textbook",
+      "D": "A Fish From The Aquarium"
+    }
+  },
+  {
+    "question": "What Is Sodium Chlorate Commonly Used As?",
+    "answer": "B",
+    "choices": {
+      "A": "A Cleaning Agent",
+      "B": "A Weedkiller",
+      "C": "A Fertilizer",
+      "D": "A Medicine"
+    }
+  },
+  {
+    "question": "What Does Max Take From The Photography Lab?",
+    "answer": "B",
+    "choices": {
+      "A": "A Camera",
+      "B": "A Duct Tape",
+      "C": "A Lighter",
+      "D": "A Contest Entry"
+    }
+  },
+  {
+    "question": "What Does Max And Chloe Use To Blow Up The Door?",
+    "answer": "B",
+    "choices": {
+      "A": "A Grenade",
+      "B": "A Pipe Bomb",
+      "C": "A Firecracker",
+      "D": "A Stick Of Dynamite"
+    }
+  },
+  {
+    "question": "What Happens After Max And Chloe Blow Up The Door?",
+    "answer": "C",
+    "choices": {
+      "A": "They Get Caught By The Police",
+      "B": "They Run Away From The School",
+      "C": "An Alarm Goes Off",
+      "D": "The Principal Congratulates Them"
+    }
+  }
+]

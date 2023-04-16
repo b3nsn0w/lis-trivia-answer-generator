@@ -1,0 +1,68 @@
+Here is a section of the wiki page for Blackwell Academy Hallway:
+
+## Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+*{{Interaction|She can look at a Vortex Club banner.|"These elite assholes throw a lot of big parties...
+Another chance for Nathan Prescott to dose somebody..."}}
+*{{Interaction|She can look at a map of the Academy interior.|"How many students ever actually memorize all this shit? I guess we all should, these days."}}
+*{{Interaction|She can look at the "Rules of Hall Conduct".|"Carrying a gun to class is cool, though."}}
+*{{Interaction|She can look at an advertisement of Blackwell Academy.|"I should feel lucky to be here."}}
+*{{Interaction|She can look at Justin.|"Justin always looks stoned."}}
+*{{Interaction|She can look at Trevor.|"Trevor surveys his domain."}}
+*{{Interaction|She can look at Zachary.|"Zachary always looks like he's ready to throw a football."}}
+*{{Interaction|She can look at [Luke Parker](luke.md).|"Luke is always using the phone as a shield to avoid people."}}
+*{{Interaction|She can look at Juliet.|"Juliet is laying the smackdown on Zachary."}}
+*{{Interaction|She can look at Evan.|"I love how Evan is 'so above' the Vortex Club and everything else."}}
+*{{Interaction|She can look at and speak to [David Madsen](david_madsen.md) **(required)**.|"If only I knew what David Madsen was really up to..."}}
+*{{Interaction|She can look at and speak to [Mark Jefferson](mr__jefferson.md) **(required)**.|"I bet Mr. Jefferson has had to deal with a lot of troubled students."}}
+*{{Interaction|She can look at and speak to Principal Wells.|"I swear Principal Wells always looks distressed..."}}
+*{{Interaction|She can look at and speak to Courtney Wagner.|"Courtney will do anything for Victoria and the Vortex Club..."}}
+*{{Interaction|She can look at a Vortex Club flyer on the table near Courtney.|"Join us... or die!"}}
+*{{Interaction|She can look at three different posters for the [End of the World Party](end_of_the_world_party.md).|"If I was normal, I'd be super excited about going to a major shindig."
+"I wouldn't want to be at an 'End Of The World' party with Nathan Prescott.
+Too much truth in advertising."
+"If my tornado vision came true, it would be the 'end of the world'..."}}
+*{{Interaction|She can look at a Vortex Club poster.|"It's the 'Invasion of the Vortex Club'..."}}
+*{{Interaction|She can look at a "The world is yours today" poster.|"Desperate much? We're already here..."}}
+*{{Interaction|She can look at a poster about the snow.|"I should go and see what I can learn..."}}
+*{{Interaction|She can look at a set of bully free posters.|"Yes, this poster must stop bullies dead in their tracks."}}
+*{{Interaction|She can look at a gun-free and no tobacco use poster.|"Good thing I left my AK at home."}}
+*{{Interaction|She can look at Rachel Amber Missing Person posters.|"Now why would Frank Bowers have your bracelet?"
+"Maybe you owed money to Frank too..."
+"I wish you and Chloe had run away earlier."
+"I am going to find out what happened to you, Rachel."}}
+*{{Interaction|She can look at an American football trophy.|"Look at these trophies. Gotta give it up for those Bigfoots. They do stomp."}}
+*{{Interaction|She can look at an engraved plaque trophy.|"Blackwell sure takes its swimming seriously. But otters are cute. Go Otters!"}}
+*{{Interaction|She can look at the notices on a notice board.|"You can really learn a lot about a school by the weird shit posted on the boards."}}
+
+#
+
+## Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+*{{Interaction|She can look at Rachel Amber Missing Person posters.|"Where the hell are you, Rachel Amber?"
+"I feel like you're guiding us along... but where?"
+"Oh Rachel, I know you and Kate are connected by all this..."
+"Yes, I am going to find you, Rachel... For Chloe and Kate."}}
+*{{Interaction|She can look at the football cup trophies.|"No trophy will help Blackwell's reputation now..."}}
+*{{Interaction|She can look at a Vortex Club poster.|"Maybe Kate started a revolution..."}}
+*{{Interaction|She can look at the door of the girls' bathroom.|"A long time ago, in a girls' room right here..."
+**Nathan expelled: **"A long time ago... Nathan got smacked down."}}
+*{{Interaction|She can examine several trash cans.|"And nothing here."
+"Nope. Doesn't anybody drink sodas here?"
+"What do you know? Trash."}}
+*{{Interaction|She can look at two posters for the "End of the World" party.|"First Rachel and now Kate... This is the end of the Vortex Club."
+"So you can almost shoot somebody on Monday and party on Friday? Prescott Power."}}
+*{{Interaction|She can get a soda can from the vending machine **(required)**.|**Use: **"Release the kra-can!"
+**Take can: **"It's all mine anyway."
+**Use after rewind: **"So I can use my power to get every can here with only one coin...
+Hmm. I see the possibilities. But don't go to the dark side, young Max..."}}
+*{{Interaction|She can look at a set of bully free posters.|"Yes, this poster must stop bullies dead in their tracks."}}
+*{{Interaction|She can look at a join the chess team poster.|"Nerd alert! This poster has Warren written all over it."}}
+*{{Interaction|She can look at [Kate Marsh](kate.md)'s locker.|**Kate alive: **"So glad you still have your locker, Kate."
+**Kate dead: **"Oh Kate, your locker looks so lonely..."}}
+*She can enter the [Photography Lab](photography_lab.md).
+*She can enter the [Science Lab](science_lab.md).
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

@@ -1,0 +1,62 @@
+Here is a section of the wiki page for Zeitgeist Gallery:
+
+#  Zeitgeist Gallery 
+
+```yaml
+Location
+
+image: Zeitgeist Gallery1.png
+location: '[San Francisco](san_francisco.md)'
+state: California
+appears: '[Episode 5: Polarized](episode_5__polarized.md)'
+type: Art gallery
+```
+
+> Wowser, Max... You did it. Somehow... I went from the Dark Room...to this gallery. I've been through so many realities in one week. Life is...weird.
+
+**[Maxine Caulfield**, Max](maxine_caulfield____max.md)'s comment in "[Episode 5: Polarized, Polarized](episode_5__polarized__polarized.md)"
+
+The **Zeitgeist Gallery** is an explorable location that appears in "[Episode 5: Polarized](polarized.md)", in the alternative timeline where [Mark Jefferson](mark_jefferson.md) is caught and arrested and [Maxine Caulfield](max_caulfield.md) wins the [Everyday Heroes Contest](everyday_heroes_contest.md). It has several sections and interactive objects and patrons.
+
+## Episode Five - "[Episode 5: Polarized](polarized.md)" 
+After having a nosebleed in the [plane](plane.md), Max finds herself inside the gallery along with [Raymond Wells](principal_wells.md). They talk about [San Francisco](san_francisco.md) and the gallery's size. Principal Wells urges Max to talk to the many influential people there in order to advance her photography career. He then moves to the second floor and starts to eat caviar.
+
+Max may walk around the gallery and talk to several people who will be praising her photo and the technique with which it was taken. After looking at the photo, Max will have a nosebleed and a brief vision of the [storm](tornado.md), with [Chloe Price](chloe_price.md) calling for help in the background. Max rushes to the lower level of the gallery and calls Chloe after seeing 6 missed calls on her phone. It is revealed that the Storm is still coming towards [Arcadia Bay](arcadia_bay.md). Determined to save Chloe, Max focuses on the picture and gets transported to [Max's Room](her_room.md) in the [Blackwell Academy](blackwell.md) [Prescott Dormitory](dormitories.md).
+
+## Environment 
+The gallery is divided into a lobby, a bathroom, a staff-only room, a ground-floor exhibit room, a lower-floor exhibit room, and an upper-floor exhibit room. The Zeitgeist Gallery is located on a busy street corner of . On the right-hand side of every exhibit is a small card or paper giving information about the piece. (This information is not viewable by the player and is purely for aesthetic.)
+#
+
+## Lobby 
+The lobby has a staff-only room and a bathroom on either side of the entrance. There is a reception desk to the right of the door upon entrance, where Max can view several art books, donate to the gallery, and speak to the receptionist. On the other side of the room, there are two chairs and a table with leaflets, fliers, and a newspaper placed non-descriptively. Max can interact with all of them save the leaflet underneath one of the chairs.
+
+Golden Gate Reporter Zeitgeist Gallery.png|The Golden Gate Newspaper.
+The Real Hunt Leaflet Cover Zeitgeist Gallery.png|The Hunt For The Real October! Leaflet
+FUCK Leaflet Cover Zeitgeist Gallery.png|Stop the Startups Leaflet
+History of Dystopian Cinema Leaflet Zeitgeist Gallery.png|History of Dystopian Cinema Leaflet
+Skulls and Bones Party Flier Zeitgeist Gallery.png|Skull & Bones Halloween Party Flier
+Nigel's Samhain Druid Festival Flier Zeitgeist Gallery.png|Nigel's Samhain Druid Festival Flier
+Learn the Craft and History of Shambhala Leaflet Zeitgeist Gallery.png|Learn the Craft and History of the Shambhala Leaflet
+Caltiki Tours Leaflet Zeitgeist Gallery.png|Calitiki Tours Leaflet (Feat. Tobanga!)
+Mission Murals Zeitgeist Gallery.png|Mission Murals Art Book
+The Zeitgeist Pictorial History Zeitgeist Gallery.png|In the Zeitgeist: A Pictorial History Art Book
+Lobby Zeitgeist Gallery.png|The reception desk.
+Donation Box Card Zeitgeist Gallery.png|Zeitgeist Gallery donation box card.
+
+#
+
+## Ground-Floor Exhibit Room 
+On the left wall of the ground-floor exhibit room, the winners of the Everyday Heroes Photo Contest are listed. Max's name is listed fifth on the first row. Next to this, there is a blurb talking about the gallery's involvement in the contest and giving information to Max and other patrons of the gallery. The header of this wall reads "EVERYDAY HEROES". On the other side of the wall, there are several photos on display that are part of the Everyday Heroes exhibit. Four photos are on display, including one of [Hawt Dawg Man](hawt_dawg_man.md). Neon art resembling a  is on the wall visible after making a turn past the chairs in the lobby, stretching to the ceiling. The lights are white and connected by black wires. The ground-floor exhibit room is connected to the lower-floor exhibit room by a doorway with few stairs leading to it, and connected to the upper-floor exhibit room by a small flight of stairs. The guestbook is located next to the entrance to the lower-floor exhibit room.
+
+Max's Name on the List Zeitgeist Gallery.png|Max Caulfield's name on the list of winners.
+Neon Art Zeitgeist Gallery.png|Neon art.
+Two pictures Near Entrance Zeitgeist Gallery.png|Photos near the entrance, one of young and old people and the other of competition athletic runners.
+Burnt Firefighter Zeitgeist Gallery.png|Photo of a firefighter covered in soot.
+Hawt Dog Man and Young Girl Zeitgeist Gallery.png|Photo of a Hawt Dawg Man statue and a child.
+Guestbook Zeitgeist Gallery.png|Guestbook signed by visitors of the gallery.
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

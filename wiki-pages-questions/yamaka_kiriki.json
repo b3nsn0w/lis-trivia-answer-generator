@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Which character did Yamaka Kiriki voice in the Japanese release of Life is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "Max Caulfield",
+      "B": "Chloe Price",
+      "C": "Joyce Price",
+      "D": "Rachel Amber"
+    }
+  },
+  {
+    "question": "In which country was the Japanese release of Life is Strange made available?",
+    "answer": "A",
+    "choices": {
+      "A": "Japan",
+      "B": "China",
+      "C": "South Korea",
+      "D": "United States"
+    }
+  },
+  {
+    "question": "Which of the following is NOT true about Yamaka Kiriki?",
+    "answer": "C",
+    "choices": {
+      "A": "She is a voice actress.",
+      "B": "She voiced Joyce Price in the Japanese release of Life is Strange.",
+      "C": "She is from South Korea.",
+      "D": "Her Japanese name is \"Kanuka Mitsuki\"."
+    }
+  },
+  {
+    "question": "Which of the following is the correct Japanese name for Joyce Price?",
+    "answer": "A",
+    "choices": {
+      "A": "ジョイス・プライス",
+      "B": "桐木 山花",
+      "C": "かぬか みつあき",
+      "D": "ライフ イズ ストレンジ"
+    }
+  }
+]

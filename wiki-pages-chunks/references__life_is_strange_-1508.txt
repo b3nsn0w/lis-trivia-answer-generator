@@ -1,0 +1,53 @@
+Here is a section of the wiki page for References (Life is Strange):
+
+## Law of Thermodynamics 
+The {{wiki|Laws of Thermodynamics}} define physical quantities like temperature, energy, and entropy that characterize thermodynamic systems at thermal equilibrium. The laws describe how these quantities behave under various circumstances, and preclude the possibility of certain phenomena such as perpetual motion. The only reference found in the game is a written statement by Max claiming that they can obviously be broken.
+
+#
+
+## Multiverse Theory 
+The {{wiki|Multiverse Theory}} also known as an omniverse or meta-universe, is a hypothetical group of multiple universes. Together, these universes comprise everything that exists: the entirety of space, time, matter, energy, and the physical laws and constants that describe them. The different universes within the multiverse are called "parallel universes", "other universes", or "alternate universes". Obviously this is one of Max's conundrums, as she often wonders about what happens to the original reality she just altered, the more prominent case being the "alternative reality timeline".
+
+#
+
+## Newton's Laws of Motion 
+{{wiki|Newton's Laws of Motion}} are three physical laws that, together, laid the foundation for classical mechanics. They describe the relationship between a body and the forces acting upon it, and its motion in response to those forces. More precisely, the first law defines the force qualitatively, the second law offers a quantitative measure of the force, and the third asserts that a single isolated force doesn't exist. Warren makes a direct reference to Newton's third law when in Episode 5, he states "For every action there is a reaction."
+
+#
+
+## Quantum Entanglement 
+{{wiki|Quantum Entanglement}} is a physical phenomenon that occurs when pairs or groups of particles are generated, interact, or share spatial proximity in ways such that the quantum state of each particle cannot be described independently of the state of the others, even when the particles are separated by a large distance. After pulling an all-nighter to research about her power, thanks to one of the bases of this physical phenomenon, Max arrives to the conclusion "...that time as a FRAGILE FOUNDATION. Nothing is written in stone."
+
+#
+
+## Schrödinger's Cat 
+{{wiki|Schrödinger's cat}} is a thought experiment, sometimes described as a paradox, devised by Austrian physicist Erwin Schrödinger in 1935. It illustrates what he saw as the problem of the Copenhagen interpretation of quantum mechanics applied to everyday objects. The scenario presents a hypothetical cat that may be simultaneously both alive and dead, a state known as a quantum superposition, as a result of being linked to a random subatomic event that may or may not occur. Schrödinger's cat is present throughout the game and in several ways and forms. Max writes about it after pulling an all-nighter to research, Warren makes a joke in a message to Max and you may even consider the Sacrifice Arcadia Bay ending, as a Schrödinger's cat example, everybody is alive and dead until one is asserted.
+
+#
+
+## Strange Attractors 
+In the mathematical field of dynamical systems, Strange Attractors are a kind of {{wiki|Attractor}}. An attractor is called strange if it has a fractal structure. This is often the case when the dynamics on it are chaotic, but strange non chaotic attractors also exist. If a strange attractor is chaotic, exhibiting sensitive dependence on initial conditions, then any two arbitrarily close alternative initial points on the attractor, after any of various numbers of iterations, will lead to points that are arbitrarily far apart (subject to the confines of the attractor), and after any of various other numbers of iterations will lead to points that are arbitrarily close together. Thus, a dynamic system with a chaotic attractor is locally unstable yet globally stable: once some sequences have entered the attractor, nearby points diverge from one another but never depart from the attractor. Chloe calls Max the perfect example of a Strange Attractor.
+
+#
+
+## Tourism in Time 
+Tourism in Time or Time Tourists is a term usually used to describe the presence of people or objects with anachronisms in photos or other images, one of the most famous being a woman with a cellphone in a Charlie Chaplin movie. The term rose to fame after Dr. {{wiki|Stephen Hawking}} referred it in a lecture. Max after pulling an all-nighter to do research on her power arrives to the conclusion, at least one of them, that she may be one of Hawking's fabled Time Tourists.
+
+#
+
+## Wormhole Theory 
+At a given time Max can use her laptop for research about her power, after opening a page about {{Wiki|Wormhole}} Theory, she will comment on how that theory makes sense. If taken into account how her power works during the rewind Max may actually be right. She may indeed open a wormhole in the fabric of time, (not space), allowing her to go back in time and not to have moved at all in space. This would also explain why pause rewind is harder for Max to perform, in Kate's rescue, under this theory when she pauses time, she actually has to open a wormhole in the fabric space/time as she needs to move herself as well. Further, supporting this theory, is the fact that the rewind position in the timeline is indicated by a "swirl meter" that resembles a crude drawing of a wormhole in the corner of the screen.
+
+## Characters 
+
+#
+
+## Max Caulfield 
+* [Maxine Caulfield](max_caulfield.md)'s surname is a reference to Holden Caulfield, the protagonist of the {{Wiki|J. D. Salinger}} novel *{{Wiki|The Catcher in the Rye}}*, a student at an exclusive boarding school like Max, and an icon for teenage rebellion and angst.This reference was confirmed in an [http://www.siliconera.com/2015/02/05/life-strange-director-talks-theme-identity-visual-novels/ interview] with Creative Director [Jean-Maxime Moris](jean_maxime_moris.md). Both have similar personality traits such as the urge to preserve innocence. A central aspect of *The Catcher in the Rye* is the dilemma of Holden's state in between adolescence and adulthood. There are several other references to that book throughout the game, such as "the WINGER and the COW" poster in [Max's Room](max_s_room.md) which has a very similar style to the cover of *The Catcher in the Rye*, or the red cap in the principal's secretary office which resembles the hat Holden wears; she also calls it "phony" which is a characteristic word used many times by Holden in the novel.
+* Max might also be based on Clementine/Adele from the French graphic novel and film *{{Wiki|Blue Is the Warmest Color (comics)|Blue is the Warmest Color}}*. Both are young queer women coming of age with similar hair who fall for a wild blue haired girl. The graphic novel version of their retrospective characters look nearly identical.
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

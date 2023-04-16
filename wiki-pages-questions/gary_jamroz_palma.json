@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is Gary Jamroz-Palma's profession?",
+    "answer": "B",
+    "choices": {
+      "A": "Writer",
+      "B": "Concept Artist",
+      "C": "Programmer",
+      "D": "Musician"
+    }
+  },
+  {
+    "question": "Which video game project did Gary Jamroz-Palma work on as a Senior Concept Artist?",
+    "answer": "D",
+    "choices": {
+      "A": "Remember Me",
+      "B": "Vampyr",
+      "C": "Life is Strange",
+      "D": "All of the above"
+    }
+  },
+  {
+    "question": "Which location from Life is Strange did Gary Jamroz-Palma create concept art for?",
+    "answer": "A",
+    "choices": {
+      "A": "Blackwell Academy",
+      "B": "Arcadia Bay",
+      "C": "Two Whales Diner",
+      "D": "Prescott Barn"
+    }
+  },
+  {
+    "question": "What is the name of the photo contest that Daniel DaCosta enters in Life is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Everyday Heroes Photo Contest",
+      "B": "Life Through the Lens Contest",
+      "C": "Capturing Memories Photo Contest",
+      "D": "Picture Perfect Photo Challenge"
+    }
+  },
+  {
+    "question": "What did Michel Koch confirm on Twitter about Gary Jamroz-Palma's appearance in Life is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "He was a hidden character in the game.",
+      "B": "He was the voice actor for a minor character.",
+      "C": "He was a model for a photo contest entry.",
+      "D": "He was a concept artist working at DONTNOD's studio."
+    }
+  }
+]

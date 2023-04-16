@@ -1,0 +1,247 @@
+#  Rachel Amber 
+
+```yaml
+Character
+
+name: Rachel Amber
+image: Journal Rachel.png
+fullname: Rachel Dawn Amber
+alsoknown: Rach (by [Chloe Price
+Chloe](chloe_price_chloe.md))
+Lioness (by [Frank Bowers: *
+Frank](frank_bowers____frank.md)): *
+age: |-
+  18 (at time of disappearance)
+  19 (missing persons poster)
+born: |-
+  July 22, 1994
+  Long Beach, California
+died: April 22, 2013: *
+causeofdeath: >-
+  Accidental overdose by [Nathan Prescott](nathan_prescott.md) (according to
+  [Mark Jefferson
+Jefferson](mark_jefferson_jefferson.md)): *
+gender: Female
+hair: Blond
+eyes: Hazel
+height: 5'5" (1.65m)
+weight: 110 lbs (50 kg)
+loveinterest: >-
+  [Mark Jefferson](mark_jefferson.md) (affair)There is a letter in the junkyard
+  in which Rachel explains that she met someone who is "different from the lame
+  Vortex Club snobs".  It was [Media:rachel_letter.png
+confirmed](media_rachel_letter_png_confirmed.md) in the [Square_Enix_Extra_Life_Livestream_(November_2015): ''
+"Extra Life livestream](square_enix_extra_life_livestream__november_2015_______extra_life_livestream.md) that Rachel was referring to Jefferson.
+\n[Frank Bowers](frank_bowers.md) (boyfriend, former)
+\n[Chloe Price](chloe_price.md) (ambiguous)While there is nothing in Season 1 that would confirm Chloe to have been anything more than a friend to Rachel, there is also nothing that suggests she couldn't have been more. [Jean-Maxime Moris](jean_maxime_moris.md) (Creative Director of Life is Strange and co-founder of DONTNOD Entertainment) stated in an [https://www.engadget.com/2014/08/14/life-is-strange-ambiguous-young-love-among-leading-ladies/\n August 2014 article] that there is ambiguity when the interviewer asked whether there was a romantic relationship between any of the girls.": *
+relatives: Unknown parents Rachel Amber. She was my... angel.
+
+**[Chloe Price**, Chloe](chloe_price____chloe.md) about Rachel in "[Episode 1: Chrysalis, Chrysalis](episode_1__chrysalis__chrysalis.md)"
+
+**Rachel Dawn Amber** (born July 22, 1994) serves as a major character in *[Life is Strange](life_is_strange.md)* (although she never appears in person) and as the deuteragonist of *[Life is Strange: Before the Storm](before_the_storm.md).*
+
+Based on the information found in Arcadia Bay, Rachel was a popular student who attended [Blackwell Academy](blackwell_academy.md). She and [Chloe Price](chloe_price.md) were both close and dreamed of leaving [Arcadia Bay](arcadia_bay.md) together. However, she suddenly went missing on Monday, April 22, 2013 with little to no information about her whereabouts.
+
+Although she does not make an appearance, Rachel is mentioned in flashbacks in the bonus chapter of *[Life is Strange: True Colors](life_is_strange__true_colors.md)''.
+
+##  Physical Appearance 
+Rachel was 5'5" and weighed 110 lbs (165 cm and 50 kg). She had blond hair and hazel eyes, and two tattoos; a dragon on her right calf, and a star on the inside of her left wrist. ''(This is evident from her 'Missing Person' posters.)''
+
+##  Personality 
+Rachel's character is a mystery, up to the point where there are mixed opinions about her personality. She is generally considered popular and nice, but also rebellious. She partied a lot, took drugs and had an affection for punk-rock like Chloe, expressed in both her music taste and style. [Joyce Price](joyce_price.md) fondly calls her a "hell-raiser", while Chloe refers to her as her "angel". However, [Nathan Prescott](nathan_prescott.md) describes her as a "*fiend* on her own", which implies she was a drug addict. According to Chloe, she was also smart and had an eye for images and art, just like Max. Considering her school performance and the effort she put into becoming a model, she was a very ambitious person. She seems to have had a caring personality, as she was well-loved by those close to her. Rachel also seems to have been more girly and idealistic than Chloe, reflected by her love of makeup and ambition to become a model. However, there are also rumors of Rachel being sexually promiscuous. Several pieces of graffiti all over Blackwell support this image of her. A letter[Media:RachelChloeLetter.png](letter.md) ([Media:Note2-junkyard-letter2.png](read.md)) from Rachel to Chloe indicates that she often partied with Vortex Club "snobs" such as [Nathan Prescott](nathan_prescott.md), [Zachary Riggins](zachary_riggins.md) etc. It is also implied that she used [Frank Bowers](frank_bowers.md) to facilitate her drug habit.
+
+##  Biography 
+The following is what Max wrote about Rachel in [Max's Journal](her_journal.md):
+
+*Where is Rachel Amber? Even though Blackwell Academy feels so remote and tranquil, you still get sad reminders of reality, like "Missing Person" posters literally wallpapered all over campus. I already know her name through osmosis. I guess she was a popular student here and vanished six months ago. Rachel has a great picture on her "Missing Person" poster. She looks posed and pretty, like a model.*
+
+''Of course, I wonder who took the photo. Did she run away from home? I'd like to hope so. For her sake. It's so depressing. And I feel awful for her parents. What a shitty thing to go through. SIGH. No matter how much Blackwell seems like a secret bubble of knowledge, you can't escape the real world...''
+
+[File:Rachel_Amber_Journal_Entry.png](thumb.md)
+
+##  Background 
+Rachel attended Blackwell Academy and was both successful and popular with the students and faculty. With an outstanding GPA of 4.0, she was considered the quintessential representation of Blackwell by [Raymond Wells](principal_wells.md) and excelled in both her studies and numerous extracurricular activities.
+
+Her diverse goals included a career in international law and fashion modeling, and she was very ambitious to realize her dreams.This is evident through her [Media:Rachel Amber Blackwell School Record.jpg](blackwell_academy_record.md).
+
+In 2010, she got to know Chloe Price, as they were both Blackwell students, and soon they became very close friends. Rachel helped Chloe through her hard time after facing her father's death and her mother's new marriage. The two often got into varying degrees of mischief and spent most of their time in their secret [hideout](hideout.md), a den in the [American Rust Junkyard](american_rust_junkyard.md). They even planned to leave Arcadia Bay together to head for [Los Angeles](los_angeles.md), California.
+
+Rachel was connected with Arcadia Bay's drug scene and developed a relationship with drug dealer Frank Bowers, which she kept secret from Chloe, but she left him after he became violent towards her.
+
+As memos from Principal Wells' office reveal, Rachel was accused of drug dealing by Nathan and [David Madsen](david_madsen.md). In her defense, she claimed that David was following her and taking pictures, but Wells didn't take any side's accusations seriously due to Rachel's acquaintance with Frank at that point. Arcadia Bay Police Department reports indicate that David actually caught her with "controlled substances" at school.
+
+Secret files from David's computer furthermore reveal that he was actually investigating her for some time before her disappearance. Moreover, they prove that she was cutting school and meeting up with Frank at least one week before her disappearance.
+
+She regularly attended Vortex Club parties. The last one she attended was probably on March 28, just one month before she went officially missing on April 22 after she met someone who "changed her life".
+
+After an unknown period of time, the [Arcadia Bay Police Department](arcadia_bay_police_department.md) decided to close investigations on Rachel's disappearance, and even her parents gave up hope looking for her. Only Chloe didn't want to give up, believing she was still out there and distributed Missing Person posters all over the town.
+
+##  Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+[File:Rachelposterhq.png](thumb.md)
+Max is introduced to her character early on via the Missing Person posters plastered around the Blackwell Academy campus. By talking to the students around the Blackwell campus, Max can find out tidbits of information about Rachel.
+
+Upon speaking to [Stella Hill](stella_hill.md) about Rachel, we hear that there is a rumor about her sleeping with her art teacher, [Mark Jefferson](mark_jefferson.md).
+
+By speaking to janitor [Samuel Taylor](samuel_taylor.md), we discover that Rachel's ambitions to be a model are clear, with her handing out headshots to everyone, whether they asked her to or not.
+
+[Daniel DaCosta](daniel_dacosta.md) reveals that his muse was Rachel, emphasizing her love of being drawn, photographed and being in the spotlight.
+[File:RachelAmberLove.png](left.md)
+In Jefferson's classroom, Max can find some etched marks on Daniel's desk (in front of her own), which read "Rachel Amber ♥ 4 ever". Max can take an [Optional Photos](optional_photo.md) of those marks.
+
+When we later search Chloe's room for the CD, we can see that she obviously had a close relationship with Rachel. In her lockbox by the bed, we discover the original photograph from the Missing Person poster; originally a shot of the two girls together. Chloe is responsible for creating and putting up the posters, if you look around Chloe's room you can find a postcard from Rachel.
+
+She tells Max that Rachel's parents have given up hope looking for her, choosing to believe she just moved away, rather than face the unknown. Chloe reveals that they had planned to gather enough funds to move to Los Angeles together, to start a new life. Chloe believes Rachel is still out there, and never would have left Arcadia without her.
+
+##  Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+In this episode, Max visits the bathroom on her way to get ready for breakfast with Chloe. There, we can see graffiti bearing the slogan "Rachel Amber is a whore" implying people thought she was sexually reckless. In the bathroom of the [Two Whales Diner](two_whales_diner.md), the same can be said with the graffiti, as "Rachel A owes me a BJ" can be seen on the wall of one of the cubicles.
+
+Later in the episode, Max has the option to explore Chloe and Rachel's hideout in the American Rust Junkyard where she can discover a lot of mementos of Chloe's friendship with Rachel. She can also find a crumpled letter that reads as follows:
+
+[File:RachelChloeLetter.png](right.md)
+
+{{Bigquote
+|C.
+
+You can tell how much I want you to read this letter since I've been dragging my ass to give it to you. Maybe I just want you to find it when I'm not around so we never have to talk about it. And I don't want you to hate me. Where to start? 
+
+I met somebody recently who's so different from the lame Vortex Club snobs. I know you'll have a meltdown when I tell you and think he's gross, but I swear he's wise and unconventional. Kind of scary, not in a "bad boy" way. He's just experienced some serious shit. Yes, I'm kinda obssessed (sic). I won't blame you for freaking.
+
+Maybe I know you're right and this just has to be my secret. 
+
+I hate not sharing this with you except I know you'd give me that stink eye and grill me for every stupid detail. If I even told you thatThe word "just" has been added as an insert here, like an afterthought by Rachel. However, this word is not included in the screen text when the letter is read. last night we hooked up near campus
+(...)"}}
+
+As Max turns the corner towards the grassy area, presumed Rachel's spirit animal appears - the [doe](doe.md). Stand still, and you can see where it originates; a particular spot Max and Chloe will occupy in Episode 4.
+
+Chloe and Rachel's bond is emphasized here in their special place. Rachel is more girly than Chloe, evident from the makeup left there. A drawing on the wall of Rachel with a dog, presumed to be [Pompidou](pompidou.md), reveals that she had a connection with Frank Bowers. We can tell that Rachel was in a secret relationship she did not want to confide in Chloe about, because of a scribbled out note she left in the trash there.It is possible this relationship is with either Frank Bowers or Mark Jefferson. The former is more likely, due to the pictures Frank has of her later in the game, as well as the confirmation that she had a relationship with Frank.  Max can also find friendship bracelets and funny photos of both of them, proving their deep friendship.
+
+##  Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+[File:Tumblr inline nqklmnrIDM1tv1bk8 540.jpg](thumb.md)
+When searching through files in [Raymond Wells](principal_wells.md)' office, Max and Chloe come across a file on Rachel. When searching the file on the computer of Nathan Prescott, they look at a highly disturbing picture that Nathan drew that says "Rachel in the Dark Room", hinting that Rachel is trapped somewhere and Nathan is somehow connected to her disappearance. They also find files connecting Rachel to Nathan Prescott and David Madsen, who accused her of drug dealing.
+
+Chloe mentions Rachel while she and Max swim in the [Blackwell Swimming Pool](blackwell_swimming_pool.md), stating that she would love being in there.
+
+When approaching Nathan in the Two Whales Diner after his suspension, he initially mistakes Max as Rachel Amber by exclaiming Rachel's name in excitement as he looks up at Max, implying that he and Rachel were friendly. If asked about Rachel and Frank, he will say that she partied more than him, and she was a "fiend on her own". He accidentally lets it slip that Frank made a "blood oath" with Rachel, but tells Max not to let anyone know he said anything. If Max rewinds, she can use the information about the blood oath against Nathan, throwing him off guard. Panicked, Nathan reveals that Frank believed Rachel was in love with him when Nathan believed all she wanted was his drugs and used Frank taking pictures of her to facilitate her drug habit. Rachel thought Frank was a liar and loser, like most in Arcadia Bay.
+
+While Max is going through Frank's trailer, she finds pictures of Rachel with Frank, Rachel posing sexually, and Rachel cuddling with Pompidou. Max also finds love letters from Rachel to Frank. It is made clear that the two had a relationship, and that they were close. Frank keeps a picture of her in his wallet and clearly misses her as much as Chloe does. When Max tells Chloe about this, she feels betrayed and states that Rachel had lied to her.
+
+##  Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+When talking with Frank about finding Rachel, he seems upset and shouts at the girls, accepting that she is gone. He also mentions that he knew her better than both Max and Chloe ever did. Max can use this information in order to persuade him to give her and Chloe the details for his account book.
+
+Later, Max and Chloe explore the "[Dark Room (Location)](dark_room.md)", a survival bunker under the [Prescott Barn](prescott_barn.md). They discover incriminating sexual pictures of Rachel, taken while she was drugged. There are several shots, one of which Max notices is different, as Rachel seems "awake and furious"; this makes it clear that the photos are not consensual, despite Chloe insisting that she posed for them.
+
+Chloe becomes upset, saying she recognizes the spot in the photo of Rachel and Nathan. The two girls then head to the junkyard to investigate. Chloe begins digging, and the pair uncovers Rachel's body, at exactly the same place where the doe had originated before in Episode 2. They recoil from the smell, implying that she had been dead for a long period of time and Chloe is devastated to find this out. They revisit the spot later in the episode to confirm that her body is still there.
+
+##  Episode Five - "[Episode 5: Polarized](polarized.md)" 
+Jefferson reveals that Rachel was in love with him and that she loved having pictures taken of her. He also reveals that Nathan accidentally killed Rachel with an overdose whilst trying to impress Jefferson (whom he saw as a father-figure) by taking pictures of her drugged (as Mr. Jefferson does for his famous artwork).
+
+Chloe also refers to the tornado terrorizing Arcadia Bay as "Rachel's revenge".
+
+##  Alternative Timeline 
+In the [Alternative Timeline](alternative_timeline.md), not much is known about Rachel, but she is still missing, and probably already dead as in the original timeline. We can find newspaper articles on her, which show that finding her is still a public issue. An article says that, contrary to the original timeline, the police and FBI are still investigating. The article also says that "family and friends have intensified the search" for Rachel and that her family even offered a reward for any information. Rachel's case has even caught the interest of a national reality show revolving around missing person cases.
+
+Chloe and Rachel had never met in the alternative timeline but Chloe reveals that she read about her in the newspaper when Max asks.
+
+##  Relationships 
+###  Friends 
+* [Chloe Price](chloe_price.md) - Rachel was Chloe's best friend while Max was away in Seattle, and the one who rejuvenated her life after her father died and Max left her behind. The two shared a very strong bond according to Chloe, who is desperate to uncover the reason for her disappearance. The two often got into varying degrees of mischief and spent a lot of time in Chloe's "secret hideout." Chloe developed a deep trust in Rachel and planned to leave Arcadia Bay for good with her once they paid off Frank Bowers, but she disappeared before they could do so. There are numerous mementos of Chloe and Rachel's friendship in their hideout and in Chloe's room, which proves their deep bond and Rachel's central role in Chloe's life. However, Rachel kept her relationship with Frank from Chloe, and Chloe feels betrayed when she finds out about it. *(See [Chloe and Rachel](here.md) for more information on their relationship.)*
+* [Evan Harris](evan_harris.md) - According to Evan, he and Rachel were close like brother and sister, although he didn't like her Vortex Club friends and she didn't seem to care about that. He always felt understood by Rachel and never judged. He regularly took photos of Rachel who he thought was his favorite model at Blackwell, because she always knew "what angles worked best with his eyes".
+*[Justin Williams](justin_williams.md) and [Trevor](trevor.md) - Rachel used to hang out with Justin, Trevor and their skater friends prior to her disappearance. She stopped spending time with them after she went missing.
+* [Nathan Prescott](nathan_prescott.md) (?) - As both Vortex Club members, they very likely hung out together frequently. Nathan seems to be happy to see her when he mistakes Max with Rachel. He also seems to know a lot about her relationship with Frank Bowers. It might be that they had a rather good relationship before her disappearance. On the other hand, he accused her of drug dealing prior to her disappearance, and, as revealed in episode five by Mark Jefferson, Nathan was apparently in lust with Rachel and drugged her to follow Jefferson's footsteps, but accidentally killed her by giving her an overdose.
+* [:Category:Blackwell Academy Students](blackwell_students.md) - It's clear that Rachel was a very popular person, and was well-liked by most of Blackwell's student body, as well as the faculty.
+
+###  Family 
+Although never appearing in the original game by [Don't Nod](don_t_nod.md), Rachel's family is a key part of the plot of the prequel game *[Life is Strange: Before the Storm](life_is_strange__before_the_storm.md)* by [Deck Nine Games](deck_nine_games.md). *(See [Rachel Amber (Before the Storm)](this_page.md) for further details.)*
+
+Chloe says that Rachel's parents were in denial over Rachel being "missing".Max: "What about her parents? Are they looking for her?" - Chloe: "They're in denial. Max, I know she's missing." (Episode 1 - Chloe's room.) At the point of the game's plot setting in, there are no signs of her parents actively looking for her. Chloe mentions Rachel staying over at her place regularly, though does never mention her parents or her place apart from the remark above, which might hint at a complicated family situation. The nightmare sequence in Episode furthermore implies that Rachel may have had a dorm room at Blackwell Academy despite living in Arcadia Bay; it's unclear whether this supports the problematic family background thesis, however the same is the case for Nathan Prescott.
+
+###  Enemies 
+* [Victoria Chase](victoria_chase.md) - Rachel does not appear to be liked by Victoria, and this may be a jealous rivalry of sorts due to Rachel's popularity with other students and members of the Vortex Club. In the cutscene at the end of Episode 1, Victoria is seen pulling a Rachel Amber missing poster from out of a student notice board before throwing it to the ground in disgust. It is not seen but implied that she may also do this with the second poster that's on display. Victoria also keeps one of these missing posters in her room that she has vandalized in red pen with the word "bitch". However, when Max asks [Hayden Jones](hayden_jones.md) - a member of the Vortex Club - if Victoria liked Rachel, Hayden says, "She respected Rachel, even if she didn't act like it."
+* [Truck Driver](truck_driver.md) - A trucker who frequents the Two Whales Diner appears to have an unfavorable opinion of Rachel, telling a curious Max that he only knew her from the diner and that "she was just a gold digger. She belonged in California with all those... you know whats... good riddance."
+
+###  Romantic 
+*[Frank Bowers](frank_bowers.md) - It is clear that Rachel had a relationship with Frank, and that she valued him highly, even considering to leave Arcadia Bay with himThis is evident from a [Media:Rachel-lettertofrank.png](letter.md) from Rachel to Frank in his RV.. However, she was unable to find the courage to tell Chloe directly about the relationship and appears to have left Frank after he became violent while on drugs as evidenced in another letter in Frank's RV. Whether this relationship break would have been permanent is unknown. It is Nathan's belief that Rachel was only using Frank to have easy access to drugs and was letting Frank take pictures of her to fool him into thinking their relationship went deeper. Nathan claims Rachel thought Frank was a liar and loser like most people did in Arcadia Bay. *(See [Rachel and Frank](here.md) for more information on their relationship.)*
+* [Chloe Price](chloe_price.md) - It is implied that Chloe may have had romantic feelings for Rachel, as she more or less admits to having a crush on her when speaking with Max in "[Episode 3: Chaos Theory](chaos_theory.md)"Max: "Sounds like you totally crushed on Rachel." . . . Chloe: "You would have too. Smart, sexy and sassy... Like me, right?" (Episode 3: Chaos Theory - Chloe's bedroom.) and is devastated to find her body in "[Episode 4: Dark Room](dark_room.md)", breaking down in tears in front of Max and saying she loved her so much. Chloe's sexuality and whether Rachel reciprocated feelings are unstated. It is possible they had feelings they never acted on, but this is also unstated. Also possible is that Rachel knew about Chloe's feelings towards her, considering how troubled she was to tell Chloe about her relationship with Jefferson. Fearing Chloe might hate her for it, Rachel also kept her relationship with Frank a secret from Chloe. What is clear, though, is that Chloe thought a lot of Rachel and was quick to anger over her discovery of Rachel's secret relationship with Frank. It is implied through dialogue that Chloe would have preferred to remain blind to the discovery of Rachel's attention being divided: *"She blended like a chameleon. Clearly more than I knew... or wanted to know...".* 
+* [Mark Jefferson](mark_jefferson.md) - It is rumored that they had slept with each other. Both had their affections for photography and modeling which could have led to them hooking up. Jefferson was most probably the person whom Rachel met shortly before her disappearance who "changed her life" (as she had told Chloe). During the *Life is Strange* [Square_Enix_Extra_Life_Livestream_(November_2015)](livestream.md), the developers confirmed that Rachel was in fact in love with Jefferson and that [Media:RachelChloeLetter.png](the_letter.md) to Chloe in their hideout actually referred to him. She also seemed to trust Jefferson a lot as Jefferson knew about Rachel's relation to Chloe and Frank, yet Chloe and Frank were completely clueless about Rachel's love for Mark Jefferson. Jefferson describes Rachel as having loved her pictures being taken by him and that they had a real connection. He seemed to have an affection for Rachel but not actually love her and didn't seem too upset when she died as he felt her death would have been inevitable, considering her plans to go to Los Angeles. Although rumors were abundant about Rachel's relationship with Mark Jefferson, the reality of it can never truly be established as Jefferson is an unreliable narrator. *(See [Rachel and Jefferson](here.md) for more information on their relationship.)*
+
+##  Symbolism 
+
+###  Spirit Animal 
+There has been some debate over the true spirit animal of Rachel.
+
+The blue jay feather Rachel wears as an earring is representative of the other characters wearing their spirit animals. Max wears the doe shirt, Chloe the blue butterfly tattoo. The blue jay fits Rachel's personality, it's very adaptable, able to fit into other groups, just like Rachel fits into any group at school. They are highly intelligent and known for risk-taking as well. The blue jay in Chloe's house constantly dying in one theory is representative of Chloe's deaths and in another is representative of Rachel in that no matter how you try to save it, it's always going to die, foreshadowing that Rachel is dead.
+
+Some believe it is the [Doe](doe.md), due to its frequent appearances in the Junkyard; specifically in Episode 2 when it originates from the same spot in which Rachel is buried, and in Episode 4 when the Doe observes Max and Chloe at the grave, and disappears, as if to signify her spirit is at rest since being found. In the [Director's Commentary](director_s_commentary.md), it has been confirmed that "the doe is clearly linked to Rachel and it's basically somehow a presence of Rachel that's guiding Max at moments." This works with the doe as Max's spirit animal, as any spirit guiding Max would appear as a doe to her, regardless of their spirit animal.
+
+Rachel is also associated with the [Blue Butterfly](blue_butterfly.md). Native American cultures see the butterfly as a symbol of the spreading of joy and of transformation.http://www.whats-your-sign.com/butterfly-animal-symbolism.html Rachel was extremely popular at Blackwell; Chloe admits that anyone would have had a crush on her. Her ability to spread joy and empower people around Arcadia Bay was well known. The Butterfly is a potent symbol for those considering, or in the throes of, a big change; Rachel represents a change in Arcadia Bay, in addition to her personal change of moving to Los Angeles, or perhaps the change in the form of her death. This change could also be the change in the pattern of victims in the Dark Room Conspiracy; she is the only known victim to be killed by the culprits.
+
+In some traditions, butterflies are also seen as messengers or guides from the land of the dead; this would be extremely applicable if Rachel's spirit intervened in the initial bathroom scene, by giving Max the ability to use her rewind powers."Departed loved ones can also speak to us through butterflies. Many people report seeing butterflies shortly after a loved one’s death. Some see the butterfly as a symbol of resurrection, while others consider it to be the essence of the deceased’s soul. In fact, there is an old Irish saying, “Butterflies are souls of the dead waiting to pass through purgatory."
+ ([http://www.psychicsuniverse.com/articles/spirituality/living-spiritual-life/angels/butterflies-winged-spiritual-messengers *Butterflies: Winged Spiritual Messengers*]) 
+
+###  Symbolism 
+Rachel had a dragon tattoo on her right calf. The symbol of the dragon is connected with fame, reputation and career as well as strength and power, which is all applicable to Rachel's personality and background. The dragon symbol also embodies desire and sexual passion. Furthermore, dragons in the Orient are associated with wisdom, longevity, and regeneration, which refers to her academic performances and intellect, but also her persistence in the hearts and memories of most people in Arcadia Bay as well as her omnipresence through her Missing Person Posters all over the town. The dragon is also known to serve as a powerful guardian and guide, which refers to the role Rachel played in Chloe's life, but also the guidance Rachel indirectly provides for Max throughout the game. Dragons are messengers of balance and magic, encouraging us to see the world through the eyes of mystery and wonder, and they also are the embodiment of primordial power.http://www.whats-your-sign.com/dragon-totem.htmlhttp://www.livingartsoriginals.com/meaning-dragon.html
+
+##  Theories 
+{{Main|Theories and Speculations (Life is Strange)}}
+**Note: These are theories developed prior to the release of Episode 5: Polarized.**
+* There were many fan theories about Rachel and her whereabouts. Some even suggested that Rachel Amber was Max from an alternative timeline.
+* One theory was also that Rachel wasn't actually dead, but rather working together with Jefferson, as it was rumored they had slept with each other and both had their affections for photography and modeling which could have hooked them up.
+** In that case, it was assumed that the supposedly dead body of Rachel Amber that is buried on the junkyard could be a deer instead since there is a ghost of a deer that's always there.
+* Another theory is that the Doe that disappears at the end of Episode 4 is the spirit of Rachel that moves on once her body is found by Max and Chloe. This theory has later been confirmed by the developers.
+* Some fans have speculated that the storm is Rachel Amber's wrath for the injustice that was done to her and also later to Chloe when she was shot in the bathroom at Blackwell Academy. Given that Max has powers herself, the possibility is there when Chloe says, "this storm could be Rachel’s Revenge... Our revenge..."
+
+##  Inconsistencies 
+{{Main|Inconsistencies (Life is Strange)}}
+* Rachel's Missing Person Posters state that Rachel was 19, while her Blackwell Student Record originally stated that she was 18, born July 22, 1995. However, this contradiction was corrected with a patch update on January 19, 2016, which changed her year of birth to 1994.
+
+##  Character Concept and Design 
+Rachel appears to be based on [w:c:twinpeaks:Laura Palmer](laura_palmer.md), a well-liked teenage girl whose murder sparked the events of the television series *[w:c:twinpeaks:Twin Peaks](twin_peaks.md)*, which *Life is Strange* has numerous references to.If you want to see a list of *Twin Peaks* references and influences, see *[References (Life is Strange)#Twin Peaks](here.md)*. Rachel shares her birthday (July 22) with Laura Palmer.
+
+There has been a lot of speculation and theorizing about whether or not Rachel really died. In an interview however Co-Director and Writer [Michel Koch](michel_koch.md) confirmed her death as an important part of the narrative:
+
+{{Bigquote|"It's quite hard, quite dark, the way you discover her, but that's something we also wanted to push, because... it's like some times in real life, when you have someone that's been missing for months. Most of the time, the reality is, that person is dead. We knew for a lot of players, there was this fantasy of finding her alive or that she was a time traveler or she was something else. But for us, Life is Strange is not a fantasy game, even if there are sci-fi elements."[http://www.shacknews.com/article/92865/life-is-strange-co-director-discusses-the-games-endings-production-and-answers-chatty-questions Life is Strange co-director discusses the game's endings, production, and answers Chatty questions] (January 22, 2016)}}
+
+##  Trivia 
+* Rachel's zodiac sign is Leo, as stated by herself in a letter to Frank.
+* Rachel's last name, "Amber" is possibly derived from the term "Amber Alert." The Amber Alert is an emergency response system that disseminates information about a missing person, usually a child, to the public. This could refer to the "Missing" posters of Rachel Amber that are scattered throughout the town.
+*At some point in the game's development, Rachel was going to be called Jessie. The file name for the photo of Chloe and Rachel found under Chloe's bed in Chrysalis is *"TX_Papers_PictureChloeJessie01_D"*. The postcard from Rachel is named in a similar fashion: *"TX_Papers_PostcardJessie01_D"*.
+* The [Director's Commentary](director_s_commentary.md) confirmed that the name Rachel was chosen because it's a hybrid of the first names of the directors [Raoul Barbet](raoul_barbet.md) and [Michel Koch](michel_koch.md).
+* It also confirmed in the Commentary that the [Doe](doe.md) is the presence of Rachel that guides Max.
+* [File:junkyard-rachel-shirt.png](thumb.md) It is foreshadowed that Max and Chloe will find Rachel in the junkyard; the doe Max tries to photograph originally appears directly over the spot where she is buried. There is also part of a punk-rock shirt, similar to her style, torn and hanging near the spot. The game asset for this shirt is listed as TX_Fab_JnkRachPnk_D, which suggests that it did indeed belonged to Rachel.
+* In Chloe's room, there is a postcard from Rachel saying she misses Chloe and wishes she were there with her. DONTNOD has confirmed that this postcard was in fact sent by Rachel herself.
+* The second time Max and Chloe go to the junkyard to confirm if Rachel's body is still there, Max can spot red (possibly blood) writing on the side of the den stating 'CHLOE WAS HERE, MAX WAS HERE, RACHEL WAS IS HERE' with Rachel's line now being in present tense rather than past. Max's line is only visible if you chose to add on to the graffiti in episode 2.
+* Rachel probably attended a Vortex Club Party on March 28, 2013, as a flyer Max can find in the junkyard's den hints to.
+* In [Max's Nightmare](max_s_nightmare.md), Rachel's dormitory room number is 224 as seen on the [Media:Dormmap2.png](nightmare_map.md). This suggests that Rachel has lived in room 224 prior to her demise. The room is occupied by [Taylor Christensen](taylor_christensen.md) after Rachel's disappearance.
+** Another thing of interest is that 224 reflects Rachel's missing date (April 22) when read in European date format (Dontnod being a European developer), though the game's setting is American.
+* Rachel's missing poster is labeled as "Rachel_Wanted" in the game files.
+* The [Max's Character Notes](character_notes.md) for Rachel Amber will appear in Max's journal after she finds a photograph in [Chloe Price](chloe_price.md)'s bedroom that features Chloe and Rachel posing together. The photograph of Rachel on her character notes page matches Chloe's photograph. This suggests that Max has taken a photograph of this picture with her camera. An unused image file originally intended for use in Max's character notes is a [Media:Rachel Pola.png](black_and_white_photograph.md) of Rachel from her 'missing' poster, taken at an angle.
+* [File:Comparison-0.jpg](thumb.md)Rachel's earrings are heavily inspired, if not copied, from a model from the website Indiverve (2012): the comparison doesn't leave much room for doubt.
+[Image:Rachelamber.png](thumb.md)
+* Rachel wanted to become a model, but it is never stated which kind she dreamed of becoming. Her Missing Person posters state that she is '''5'5 ft (165 cm)** tall, so she would only be limited in her range of modeling work but not necessarily unsuccessful. Although many famous female models are usually around **5'8 ft** to **5'10 ft''', there is no average height in the modeling industry as requirements vary from agency to agency. (Unless Rachel wished to be a catwalk model for the fashion industry, then a taller height would be preferred.)
+
+###  Photos 
+There are several photos of Rachel you can find in [Frank's RV](frank_s_rv.md) which show her together with him and Pompidou, sitting in his RV or posing for him. Pictures of Rachel also appear in the Prices' photo book.
+
+rachel-frankrvfiles1.png
+rachel-frankrvfiles2.png
+rachel-frankrvfiles3.png
+rachel-frankrvfiles4.png
+rachel photobook.png
+Rachel Chloe photobook.png
+
+###  Rachel's Binder 
+In the Dark Room, Rachel's binder is one of the three viewable [Dark Room Victims#Binders](binders.md) other than [Kate Marsh](kate_marsh.md)'s binder and Victoria Chase's empty one. In the binder, you can find several photographs of a drugged Rachel, presumably taken by Nathan Prescott.
+
+{{Hidegallery
+|num# 1
+|descriptionThis gallery contains disturbing images.
+|img1# R1.PNG
+|cap1Rachel in the Dark Room
+|img2# R2.PNG
+|cap2Closeup of Rachel
+|img3# R3.PNG
+|cap3Rachel and Nathan in the junkyard
+}}
+
+##  Notes 
+

@@ -1,0 +1,45 @@
+Here is a section of the wiki page for Zeitgeist Gallery:
+
+## Ground Floor 
+*{{Interaction|Max can look at the gallery donation box.|"I need to drop some serious cash in there."}}
+*{{Interaction|She can look at an art book about the history of the gallery.|"The Zeitgeist Gallery does have a cool history in Frisco... I mean, San Francisco."}}
+*{{Interaction|She can look at another art book about murals.|"I wish I had time to go see those murals here..."}}
+*{{Interaction|She can look at and speak to the gallery receptionist.|"I never thought I'd get to speak to a gallery receptionist about my own work... Nice."}}
+*{{Interaction|She can read an issue of the "Golden Gate Reporter" newspaper.|"Wowser, a Danny Lee article..."}}
+*{{Interaction|She can look at the "Hunt for the Real October" leaflet.|"I wonder how it is to live in a submarine like that... It must be really claustrophobic."}}
+*{{Interaction|She can look at the "Stop the Startups" leaflet.|"The revolution will not be televised..."}}
+*{{Interaction|She can look at the "Learn the Craft and History of the Shambhala" leaflet.|"I love how much cool art is going on all over the Bay Area... unlike Arcadia Bay."}}
+*{{Interaction|She can look at the "Caltiki Tours" leaflet.|"Some mysteries... should stay that way."}}
+*{{Interaction|She can look at the "Skull&Bones" leaflet.|"Holy shit! This flyer was designed just for Chloe. I wonder if I'm ready for the mosh pit..."}}
+*{{Interaction|She can look at the "Nigel's Samhain Druid Festival" leaflet.|"But what would I wear?"}}
+*{{Interaction|She can look at the "History of Dystopian Cinema" leaflet.|"How fun! Yes, [Warren Graham](warren.md) would definitely 'Go Ape' over this show."}}
+*{{Interaction|She can look at the list of the "Everyday Heroes" Contest winners.|"There I am... along with all the other winners. I should say 'artists' instead."}}
+*{{Interaction|She can look at the neon art.|"Not my style, but the neon is a nice representation... Oh shit! Pretentious alert."}}
+*She can speak to a man standing near the neon art.
+*{{Interaction|She can look at the guestbook.|"It's great to read all these comments... even the mean ones."}}
+
+#
+
+## Lower Floor 
+*{{Interaction|Max can look at the three statues.|"That one is kind of silly..."
+"I would love to have this on a shelf, someday."
+"I like. But imagine how much time it takes to make one sculpture..."}}
+*She can speak to a red-headed woman.
+*{{Interaction|Max can look at the camera next to the woman and take an [Optional Photos](optional_photo.md) with it.|"Hmmm. That looks familiar... This might be too meta-metaphoric."}}
+
+#
+
+## Upper Floor 
+*{{Interaction|Max can look at the food.|"I guess I have to get used to the idea of fancy food I don't want to eat..."}}
+*{{Interaction|She can look at and speak to Principal Wells.|"It was cool that Principal Wells came along. He could have
+canceled our entries after... what happened with Jefferson."}}
+*{{Interaction|She can look at the champagne.|"Champagne makes me think of me and Chloe getting busted with that wine..."}}
+*{{Interaction|She can read an issue of "[The Independent](the_independent.md)".|"Young and grunge... He'll think about those days for the rest of his life in prison... Good."}}
+*She can speak to several people admiring pictures in the gallery.
+*She can have a [Moment of Calm (Life is Strange)](moment_of_calm.md) on the couch.
+*She can have a conversation with [Daniel Lee](daniel_lee.md).
+*{{Interaction|She can look at and focus on her contest entry **(required)**.|"You did it, Max... You're a real artist. At least for today..."}}
+
+
+
+Generate five trivia questions relevant to this section of the page.

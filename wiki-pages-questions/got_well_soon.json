@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Name Of The Band That Performs \"Got Well Soon\"?",
+    "answer": "A",
+    "choices": {
+      "A": "Breton",
+      "B": "Kate Marsh",
+      "C": "Maxine Caulfield",
+      "D": "Vortex Club"
+    }
+  },
+  {
+    "question": "In Which Episode Of Life Is Strange Is \"Got Well Soon\" Featured?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Album That \"Got Well Soon\" Is Featured In?",
+    "answer": "A",
+    "choices": {
+      "A": "War Room Stories",
+      "B": "End of the World Party",
+      "C": "Blackwell Swimming Pool",
+      "D": "Vortex Club Party"
+    }
+  },
+  {
+    "question": "What Is The Trivia Fact Mentioned About The Release Date Of \"Got Well Soon\"?",
+    "answer": "C",
+    "choices": {
+      "A": "It is the same date as Maxine Caulfield's birthday",
+      "B": "It is the same date as the tornado in Arcadia Bay",
+      "C": "It is the same date as the Vortex Club Party where Kate Marsh was drugged",
+      "D": "It is the same date as the day Maxine Caulfield moved to Arcadia Bay"
+    }
+  },
+  {
+    "question": "What Happens When Maxine Caulfield Enters The Vortex Club's End of the World Party?",
+    "answer": "B",
+    "choices": {
+      "A": "She meets Kate Marsh",
+      "B": "She hears \"Got Well Soon\" by Breton",
+      "C": "She gets drugged",
+      "D": "She leaves the party immediately"
+    }
+  }
+]

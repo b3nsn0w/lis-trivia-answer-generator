@@ -1,0 +1,42 @@
+[
+  {
+    "question": "In which episode can an unfinished version of McFlinn be seen?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "What is the name of the character stuck in McFlinn in Episode 5?",
+    "answer": "B",
+    "choices": {
+      "A": "Chloe Price",
+      "B": "Alyssa Anderson",
+      "C": "Maxine Caulfield",
+      "D": "Rachel Amber"
+    }
+  },
+  {
+    "question": "What happens to Alyssa if Max didn't help her in at least one of the previous episodes?",
+    "answer": "C",
+    "choices": {
+      "A": "She is rescued by the police",
+      "B": "She escapes through a window",
+      "C": "She falls to her death through a hole in the floor",
+      "D": "She is arrested by the police"
+    }
+  },
+  {
+    "question": "What is the hint that the building might not be new?",
+    "answer": "C",
+    "choices": {
+      "A": "The windows are broken",
+      "B": "The interior of the first floor is never shown",
+      "C": "The letter(s) between the L and N seem to have fallen off",
+      "D": "The building is heavily damaged"
+    }
+  }
+]

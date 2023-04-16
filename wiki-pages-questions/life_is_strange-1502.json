@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Was The Original Title Of Life Is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "Remember Me",
+      "B": "Vampyr",
+      "C": "What If?",
+      "D": "Tell Me Why"
+    }
+  },
+  {
+    "question": "Which Voice Actress Auditioned For Both Max And Chloe?",
+    "answer": "A",
+    "choices": {
+      "A": "Ashly Burch",
+      "B": "Hannah Telle",
+      "C": "Dayeanne Hutton",
+      "D": "Kylie Brown"
+    }
+  },
+  {
+    "question": "How Much Was The Pre-Production Budget For Life Is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "€20 Million",
+      "B": "€4 Million",
+      "C": "€10 Million",
+      "D": "€15 Million"
+    }
+  },
+  {
+    "question": "What Was The Achievement Awarded To The Player For Unlocking All Trophies?",
+    "answer": "A",
+    "choices": {
+      "A": "What If?",
+      "B": "Remember Me",
+      "C": "Life is Strange",
+      "D": "Vampyr"
+    }
+  },
+  {
+    "question": "In Which Other Game By Dontnod Is Life Is Strange Referenced?",
+    "answer": "B",
+    "choices": {
+      "A": "Vampyr",
+      "B": "Remember Me",
+      "C": "Tell Me Why",
+      "D": "None of the above"
+    }
+  }
+]

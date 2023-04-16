@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Chloe See Victoria Do To Rachel's Tea?",
+    "answer": "A",
+    "choices": {
+      "A": "Drug It",
+      "B": "Spit In It",
+      "C": "Pour It Out",
+      "D": "Nothing"
+    }
+  },
+  {
+    "question": "Why Does Victoria Accuse Rachel Of Being On Drugs?",
+    "answer": "A",
+    "choices": {
+      "A": "Because She Is Drunk",
+      "B": "Because She Is Jealous Of Rachel",
+      "C": "Because She Is Trying To Cover Up Her Own Actions",
+      "D": "Because She Is Concerned For Rachel's Safety"
+    }
+  },
+  {
+    "question": "What Does Rachel Do When She Learns The Truth About Her Biological Mother?",
+    "answer": "B",
+    "choices": {
+      "A": "She Cries And Refuses To See Her",
+      "B": "She Is Angry And Confronts Her Father",
+      "C": "She Is Happy And Excited To Meet Her",
+      "D": "She Is Indifferent And Chooses Not To Meet Her"
+    }
+  },
+  {
+    "question": "Who Stabs Rachel In The Arm?",
+    "answer": "D",
+    "choices": {
+      "A": "Mark Jefferson",
+      "B": "Nathan Prescott",
+      "C": "James Amber",
+      "D": "Damon Merrick"
+    }
+  },
+  {
+    "question": "What Does Rachel Give Chloe Before Urging Her To Find Sera?",
+    "answer": "A",
+    "choices": {
+      "A": "The Code To Her Father's Office",
+      "B": "A Map To The Hospital",
+      "C": "A Phone Number To Call For Help",
+      "D": "A Key To Her House"
+    }
+  }
+]

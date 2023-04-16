@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Fate Of Blackwell Academy In The Sacrifice Arcadia Bay Ending?",
+    "answer": "B",
+    "choices": {
+      "A": "It Is Completely Destroyed By The Storm",
+      "B": "It Is Unaffected By The Storm",
+      "C": "It Suffers Minor Damage From The Storm",
+      "D": "It Is Evacuated Before The Storm Hits"
+    }
+  },
+  {
+    "question": "What Event Was Supposed To Take Place On The Day Of The Storm?",
+    "answer": "C",
+    "choices": {
+      "A": "A Concert",
+      "B": "A Science Fair",
+      "C": "A Football Game",
+      "D": "A Theater Performance"
+    }
+  },
+  {
+    "question": "What Is The Theory About Max's Time Rewind Power And Alternate Timelines?",
+    "answer": "B",
+    "choices": {
+      "A": "Max Only Changes Reality And Does Not Create New Timelines",
+      "B": "Max Creates New Timelines That Run Parallel To Each Other",
+      "C": "Max Can Only Rewind Time Within The Same Timeline",
+      "D": "Max's Time Rewind Power Is Not Real And Is Just A Figment Of Her Imagination"
+    }
+  },
+  {
+    "question": "What Is The Theory About The Meteorological Anomalies In The Game?",
+    "answer": "B",
+    "choices": {
+      "A": "They Are Caused By Climate Change",
+      "B": "They Are Caused By The Time Rewind Power",
+      "C": "They Are Caused By A Natural Disaster",
+      "D": "They Are Caused By Max's Emotions"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "When Was The Awesome Adventures of Captain Spirit Announced?",
+    "answer": "A",
+    "choices": {
+      "A": "June 10, 2018",
+      "B": "June 26, 2018",
+      "C": "June 15, 2018",
+      "D": "July 4, 2018"
+    }
+  },
+  {
+    "question": "What Is The Awesome Adventures of Captain Spirit?",
+    "answer": "A",
+    "choices": {
+      "A": "A Self-Contained Spin-Off Game",
+      "B": "A Sequel To Life Is Strange",
+      "C": "A Demo For Life Is Strange 2",
+      "D": "A Mobile Game"
+    }
+  },
+  {
+    "question": "Who Is Chris?",
+    "answer": "B",
+    "choices": {
+      "A": "A Character From Life Is Strange",
+      "B": "A Character From The Awesome Adventures of Captain Spirit",
+      "C": "A Character From Life Is Strange 2",
+      "D": "A Character From Another Game"
+    }
+  },
+  {
+    "question": "What Is The Purpose Of The Awesome Adventures of Captain Spirit?",
+    "answer": "D",
+    "choices": {
+      "A": "To Introduce Life Is Strange 2",
+      "B": "To Introduce The Developers' Style Of Games",
+      "C": "To Provide A Demo For Life Is Strange 2",
+      "D": "To Provide A Standalone Experience"
+    }
+  },
+  {
+    "question": "What Is The Relationship Between The Awesome Adventures of Captain Spirit And Life Is Strange 2?",
+    "answer": "B",
+    "choices": {
+      "A": "The Awesome Adventures of Captain Spirit Is A Sequel To Life Is Strange 2",
+      "B": "The Awesome Adventures of Captain Spirit Is A Prequel To Life Is Strange 2",
+      "C": "The Awesome Adventures of Captain Spirit Is A Demo For Life Is Strange 2",
+      "D": "The Awesome Adventures of Captain Spirit Is Unrelated To Life Is Strange 2"
+    }
+  }
+]

@@ -1,0 +1,37 @@
+Here is a section of the wiki page for Diner Man:
+
+#  Diner Man 
+
+```yaml
+Character
+
+name: Diner Man
+image: Newspaper-man.jpg
+died: October 11, 2013 (presumed, determinant)
+causeofdeath: Killed by the [storm](storm.md) (presumed, determinant)
+gender: Male
+hair: Brown
+eyes: Brown
+appearance: |-
+  [Episode 2: Out of Time](episode_2__out_of_time.md)
+  [Episode 5: Polarized](episode_5__polarized.md) (nightmare)
+voice: '[Don McManus](don_mcmanus.md) (uncredited)'
+width: '250'
+```
+
+The **"Diner Man"** is a resident of [Arcadia Bay](arcadia_bay.md). He is reading a newspaper near the [Two Whales Diner](two_whales_diner.md) in Episode 2.
+
+##  Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+This man is standing near the kiosk with a newspaper called "NETWORK" in his hands. When [Maxine Caulfield](max.md) tries to talk to him, it turns out that he is heavily displeased with the latest headline being "Snow", and sarcastically refers to the next week's big story as "Clouds". He thinks that a snowfall amid a warm sunny day is nothing unusual and attributes it to global warming. He also thinks that Arcadia Bay is going to become a ghost town in a few years. When the conversation shifts to [Rachel Amber](rachel_amber.md), the man says she ran away because she was bored. Max can also tell him that the town is a mystery to her, but he merely responds that she'll eventually grow out of it.
+
+##  Episode Five - "[Episode 5: Polarized](polarized.md)" 
+He appears in the diner scene of [Max's Nightmare](max_s_nightmare.md), standing just near the entrance to the bathroom. When Max approaches him, he says that he was about to start a new life in California, something which wouldn't be possible if Max decided to sacrifice Arcadia Bay.
+In the Sacrifice Arcadia Bay ending, he is presumed to have died in the storm.
+
+newspaperman-nightmare.jpg
+
+{{Character Navbox}}
+
+
+
+Generate five trivia questions relevant to this section of the page.

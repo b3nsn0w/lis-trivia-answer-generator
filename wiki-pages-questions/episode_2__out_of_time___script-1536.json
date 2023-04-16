@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Did Max Use As Proof Against David?",
+    "answer": "B",
+    "choices": {
+      "A": "A Video",
+      "B": "A Photo",
+      "C": "A Voice Recording",
+      "D": "A Text Message"
+    }
+  },
+  {
+    "question": "What Happens To David After Max Presents Her Proof?",
+    "answer": "B",
+    "choices": {
+      "A": "He Is Fired",
+      "B": "He Is Suspended",
+      "C": "He Is Promoted",
+      "D": "Nothing Happens To Him"
+    }
+  },
+  {
+    "question": "Why Does Principal Wells Suggest Putting David On Temporary Leave?",
+    "answer": "A",
+    "choices": {
+      "A": "Because He Was Harassing Kate",
+      "B": "Because Max Accused Him Of Drug Dealing",
+      "C": "Because He Was In A Fight",
+      "D": "Because He Was Late For Work"
+    }
+  },
+  {
+    "question": "What Is Nathan's Reaction When Max Defends Kate?",
+    "answer": "B",
+    "choices": {
+      "A": "He Agrees With Max",
+      "B": "He Gets Angry With Max",
+      "C": "He Apologizes To Max",
+      "D": "He Ignores Max"
+    }
+  },
+  {
+    "question": "Why Does Principal Wells Suggest Removing Jefferson From The \"Everyday Heroes\" Contest?",
+    "answer": "B",
+    "choices": {
+      "A": "Because He Was Late For Work",
+      "B": "Because He Was Involved In Kate's Situation",
+      "C": "Because He Was Accused Of Drug Dealing",
+      "D": "Because He Was Caught Cheating"
+    }
+  }
+]

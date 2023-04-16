@@ -1,0 +1,88 @@
+Here is a section of the wiki page for Cinematic Screenshots:
+
+## Tools/Mods 
+{{Main|Modifications}}
+* [http://steamcommunity.com/sharedfiles/filedetails/?id# 656832219 "Life is Strange: Photographer Mod" by IDK31]
+* [https://web.archive.org/web/20151026153249/http://davidcsimon.com:80/LiS/about/camera-modding-instructions/ Camera Modding using Unreal Engine commands by davidcsimon]
+** [https://forums.geforce.com/default/topic/808518/pc-games/life-is-strange-camera-mods-useful-for-screenshots/ Unreal Engine camera control commands by notN1P]
+* [https://steamcommunity.com/sharedfiles/filedetails/?id544446117 Activating the Dev Console / Advanced Screenshot Guide by Ness199X]
+* [https://www.reddit.com/r/lifeisstrange/comments/3quja0/ep3_spoilers_complete_guide_to_life_is_strange/ Reddit post by /u/Illyndrei]
+* [http://www.deadendthrills.com/forum/discussion/427/guide-life-is-strange/p1 Guide by One3rd]
+* [https://www.reddit.com/r/lifeisstrange/comments/3ril4x/supersized/cwp0vvz/ Reddit post by /u/Illyndrei]
+
+#
+
+## *[Life is Strange: Before the Storm](before_the_storm.md)* 
+# #
+
+## Instructions 
+Prerequisites:
+*Replace the "Assembly-Csharp.dll" file in [SteamApps]\common\Life is Strange - Before the Storm\Life is Strange - Before the Storm_Data\Managed" with the modified one by Haoose and create a backup of the original one.
+
+Activating the freecam in-game with player controls:
+*Have [https://cheatengine.org/downloads.php Cheat Engine] (Use the portable version which doesn't include an {{Wiki|adware}}-packed installer) opened, select the process and load the linked [http://steamcommunity.com/sharedfiles/filedetails/?id# 656832219 Cheat Engine table].
+*Load the area you would like to explore in [Collectible Mode](collectible_mode.md).
+*Press **F9** to activate the freecam.
+*Activate Cheat Engine's mono features to use the DOF adjustments.
+*Hide the HUD with **H**.
+*Hide the outlines with **N**.
+*Tweak all settings to your liking using the debug mode and Cheat Engine table.
+
+Optionally pause the game time by hiding the UI and pressing escape. This will pause the whole game world and you will still be able to explore around because the pause UI is hidden. (Possibly requires an older version of the table)
+
+Controls [written down by /u/0mgzh4x]:
+***WASD**: Move
+***EQ**: Up, down
+***Mouse**: Aim
+***Left shift**: Faster
+***Left control**: Slower
+***Left shift + Mouse wheel down, up**: Zoom in, out
+***F12**: NOCLIP
+***F11**: 8K SCREENSHOT (saved to "..\StreamingAssets\ScreenShots")
+***F10**: Toggle Postprocessing (DOF, color grading)
+***R**: Revert (return to start location)
+
+XBOX controller:
+***Left stick**: Move
+***Right stick**: Aim
+***Right, left trigger**: Up, down
+***Right bumper**: Faster
+***Left bumper**: Slower
+***Pad up**: 8K screenshot
+***Pad down**: Revert
+***Xbox Y:** Toggle PP
+***Xbox B + Left stick**: Zoom in, out
+
+#
+
+## Tools/Mods # 
+{{Main|Modifications#Before the Storm}}
+* [https://www.reddit.com/r/lifeisstrange/comments/78bcgj/no_spoilers_enabling_freecam_in_debug_mode_in/ Enabling freecam in debug mode in Episode 2 for screenshots by /u/IgelRM]
+* [http://steamcommunity.com/sharedfiles/filedetails/?id682947327 Camera modding Cheat Engine table with a hide UI feature by IDK31]
+
+#
+
+## *[Life is Strange 2](life_is_strange_2.md)* & *[Captain Spirit](captain_spirit.md)* 
+# #
+
+## Instructions 
+Activating the freecam in-game with player controls:
+*Have [https://cheatengine.org/downloads.php Cheat Engine] opened (use the portable version which doesn't include an {{Wiki|adware}}-packed installer), select the process and load the linked [http://steamcommunity.com/sharedfiles/filedetails/?id# 656832219 Cheat Engine table].
+*Load the area you would like to explore in [Collectible Mode](collectible_mode.md).
+*Toggle freecam with **PGDN**.
+*Move with the numpad keys (**8** (up), **5** (down), **4** (left), **6** (right)), **9** (up), & **7** (down)).
+*Rotate by holding down **enter** in combination with the numpad keys.
+*Aim and zoom by holding down **+** in combination with the numpad keys.
+* Adjust camera speed with **C** (slow), **F** (fast), and **T** (faster)
+* Adjust game speed with **F5**-**F10** (default speed is F9).
+*Adjust camera location, pitch, yaw, roll, & FOV in >> VALUES section.
+*Hide and show the HUD with **H** and **G**, respectively.
+
+#
+
+## Tools/Mods # 
+* [http://steamcommunity.com/sharedfiles/filedetails/?id682947327 Camera modding Cheat Engine tables by IDK31]
+
+
+
+Generate five trivia questions relevant to this section of the page.

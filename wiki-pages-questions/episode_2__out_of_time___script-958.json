@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Warren Invite Max To Do?",
+    "answer": "A",
+    "choices": {
+      "A": "Go To The Movies",
+      "B": "Play Video Games",
+      "C": "Go To A Party",
+      "D": "Study Together"
+    }
+  },
+  {
+    "question": "Who Does Max Say Chloe Is?",
+    "answer": "C",
+    "choices": {
+      "A": "Her Cousin",
+      "B": "Her Sister",
+      "C": "An Old Friend",
+      "D": "Her Neighbor"
+    }
+  },
+  {
+    "question": "What Movie Marathon Does Warren Invite Max To?",
+    "answer": "D",
+    "choices": {
+      "A": "Star Wars",
+      "B": "Harry Potter",
+      "C": "Lord of the Rings",
+      "D": "Planet of the Apes"
+    }
+  },
+  {
+    "question": "Who Does Max See Arguing On The Main Campus?",
+    "answer": "A",
+    "choices": {
+      "A": "David Madsen and Nathan Prescott",
+      "B": "Chloe Price and Rachel Amber",
+      "C": "Victoria Chase and Kate Marsh",
+      "D": "Warren Graham and Brooke Scott"
+    }
+  },
+  {
+    "question": "Where Does Max Get Off The Bus?",
+    "answer": "D",
+    "choices": {
+      "A": "At The School",
+      "B": "At The Park",
+      "C": "At The Beach",
+      "D": "At The Two Whales Diner"
+    }
+  }
+]

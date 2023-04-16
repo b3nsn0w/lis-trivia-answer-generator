@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Shared Interest Between Max And Warren?",
+    "answer": "B",
+    "choices": {
+      "A": "Science",
+      "B": "Photography",
+      "C": "Literature",
+      "D": "Music"
+    }
+  },
+  {
+    "question": "What Does Warren Ask Max For In His Note To Her?",
+    "answer": "C",
+    "choices": {
+      "A": "Her Phone Number",
+      "B": "Her Homework",
+      "C": "His Flash Drive",
+      "D": "Her Camera"
+    }
+  },
+  {
+    "question": "What Does Dana Imply About Warren's Feelings Towards Max?",
+    "answer": "A",
+    "choices": {
+      "A": "He Has A Crush On Her",
+      "B": "He Hates Her",
+      "C": "He Is Jealous Of Her",
+      "D": "He Is Indifferent Towards Her"
+    }
+  },
+  {
+    "question": "What Does Nathan Do To Warren In The Parking Lot?",
+    "answer": "C",
+    "choices": {
+      "A": "He Punches Him",
+      "B": "He Kicks Him",
+      "C": "He Headbutts Him",
+      "D": "He Stabs Him"
+    }
+  },
+  {
+    "question": "What Does Max Say About Warren's Texts?",
+    "answer": "B",
+    "choices": {
+      "A": "They Are Annoying",
+      "B": "They Are Infinite",
+      "C": "They Are Boring",
+      "D": "They Are Romantic"
+    }
+  }
+]

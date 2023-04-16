@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who Did Cissy Jones Voice in Life is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "Max Caulfield",
+      "B": "Chloe Price",
+      "C": "Joyce Price",
+      "D": "Rachel Amber"
+    }
+  },
+  {
+    "question": "What Other Game Did Cissy Jones Voice a Lead Character in?",
+    "answer": "C",
+    "choices": {
+      "A": "Fallout 4",
+      "B": "The Walking Dead",
+      "C": "Firewatch",
+      "D": "Life is Strange 2"
+    }
+  },
+  {
+    "question": "What Other Characters Did Cissy Jones Voice in The Walking Dead?",
+    "answer": "A",
+    "choices": {
+      "A": "Michonne",
+      "B": "Clementine",
+      "C": "Lee Everett",
+      "D": "Kenny"
+    }
+  },
+  {
+    "question": "In Which Interview Did Cissy Jones Discuss Her Role in Firewatch?",
+    "answer": "B",
+    "choices": {
+      "A": "NEW YEARS EVE Q&A WITH CISSY JONES",
+      "B": "Passion in the Voice – An Interview with Firewatch Lead Actress Cissy Jones",
+      "C": "Blackwell Podcast Episode 22 - Cissy Jones",
+      "D": "None of the above"
+    }
+  }
+]

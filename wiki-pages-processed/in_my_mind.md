@@ -1,0 +1,102 @@
+#  In My Mind 
+
+```yaml
+Song
+
+image: amanda palmer goes down under.png
+artist: Amanda Palmer
+release: '2013'
+album: Amanda Palmer Goes Down Under
+appears: '[Episode 4: Dark Room](episode_4__dark_room.md)'
+```
+
+**"In My Mind"** is a single by [WP:en:Amanda Palmer](amanda_palmer.md) from her album *Amanda Palmer Goes Down Under* and is featured in [Episode 4: Dark Room](episode_4.md) of *[Life is Strange](life_is_strange.md)*, heard when [Maxine Caulfield](max_caulfield.md) returns from the [Alternative Timeline](alternative_timeline.md) and finds herself in the [Chloe's Room](room.md) of [Chloe Price](chloe_price.md).
+
+## Lyrics
+
+: In my mind
+: In a future five years from now
+: I'm a hundred and twenty pounds
+: And I never get hung over
+: Because I will be the picture of discipline
+: Never minding what state I'm in
+: And I will be someone I admire
+: And it's funny how I imagined
+: That I would be that person now
+: But it does not seem to have happened
+: Maybe I've just forgotten how to see
+: That I am not exactly the person that I thought I'd be
+
+: And in my mind
+: In the faraway here and now
+: I've become in control somehow
+: And I never lose my wallet
+: Because I will be the picture of discipline
+: Never fucking up anything
+: And I'll be a good defensive driver
+: And it's funny how I imagined
+: That I would be that person now
+: But it does not seem to have happened
+: Maybe I've just forgotten how to see
+: That I'll never be the person that I thought I'd be
+
+: And in my mind
+: When I'm old I am beautiful
+: Planting tulips and vegetables
+: Which I will mindfully watch over
+: Not like me now
+: I'm so busy with everything
+: That I don't look at anything
+: But I'm sure I'll look when I am older
+: And it's funny how I imagined
+: That I could be that person now
+: But that's not what I want
+: But that's what I wanted
+: And I'd be giving up somehow
+: How strange to see
+: That I don't wanna be the person that I want to be
+
+: And in my mind
+: I imagine so many things
+: Things that aren't really happening
+: And when they put me in the ground
+: I'll start pounding the lid
+: Saying I haven't finished yet
+: I still have a tattoo to get
+: That says I'm living in the moment
+: And it's funny how I imagined
+: That I could win this, win this fight
+: But maybe it isn't all that funny
+: That I've been fighting all my life
+: But maybe I have to think it's funny
+: If I wanna live before I die
+: And maybe it's funniest of all
+: To think I'll die before I actually see
+: That I am exactly the person that I want to be
+
+: Fuck yes
+: I am exactly the person that I want to be
+
+##  Videos 
+
+[File:"In My Mind" by Amanda Palmer](thumb.md)
+
+##  Interpretation 
+It seems this song has been chosen precisely because of its lyrics:
+
+* **"In a future five years from now"** coincides perfectly with what happened to Max: she just traveled in time from 2008 to 2013 or, to put it another way, five years.
+
+* '''"I will be the picture of discipline", "In the faraway here and now I've become in control somehow"**. Max wants to be the best person possible and be in control of her powers: she thinks she can "twist time around her fingers" and save William with impunity.
+* **"I'll be a good defensive driver"**. This line hits just as Max embraces Chloe, who in the alternate timeline had been paralysed in a car crash.
+
+* **"And it's funny how I imagined / That I would be that person now / But it does not seem to have happened / Maybe I've just forgotten how to see / That I'll never be the person that I thought I'd be"'''. These lines could also be interpreted as Max realizing she could have turned to be a totally different person (the alternative Max) but didn't. It could also be interpreted as Max understanding she could never be the person she wanted to be, that is to say the "normal" Max but still friend with Chloe and with William alive (which was her original plan).
+
+* '''"And it's funny how I imagined that I could be that person now, but that's not what I want. But that's what I wanted."** These lines can be also interpreted as Max having made a choice: she wanted to make things different by saving William, but in the end she traded her new life with her old one, not without having regrets about her failure to save William.
+
+* **"To think I'll die before I actually see that I am exactly the person that I want to be"** These lines seem to foreshadow the gruesome fate of Chloe if the player picks the saving the bay ending. On the cliff, Chloe realizes she was the one to blame for almost everything wrong in her life and admits she was self-centered but she will unfortunately die before ever realizing it (since Max came back in time to let her die in the bathroom).
+
+* **"I still have a tattoo to get"''' could also be a reference to Chloe's tattoo.
+
+##  Navigation 
+{{Soundtrack Navbox}}
+

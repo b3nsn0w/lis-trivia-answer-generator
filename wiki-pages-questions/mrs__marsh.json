@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the name of Kate Marsh's mother?",
+    "answer": "B",
+    "choices": {
+      "A": "Mrs. Prescott",
+      "B": "Mrs. Marsh",
+      "C": "Mrs. Wells",
+      "D": "Mrs. Caulfield"
+    }
+  },
+  {
+    "question": "What is the name of Kate Marsh's father?",
+    "answer": "B",
+    "choices": {
+      "A": "Mr. Prescott",
+      "B": "Mr. Marsh",
+      "C": "Mr. Wells",
+      "D": "Mr. Caulfield"
+    }
+  },
+  {
+    "question": "What is the name of Kate Marsh's sister-in-law?",
+    "answer": "A",
+    "choices": {
+      "A": "Auntie Marsh",
+      "B": "Auntie Prescott",
+      "C": "Auntie Wells",
+      "D": "Auntie Caulfield"
+    }
+  },
+  {
+    "question": "What is the name of the church preacher who is married to Mrs. Marsh?",
+    "answer": "B",
+    "choices": {
+      "A": "Richard Wells",
+      "B": "Richard Marsh",
+      "C": "Richard Prescott",
+      "D": "Richard Caulfield"
+    }
+  },
+  {
+    "question": "What does Mrs. Marsh say in her email to Kate after learning about the party video?",
+    "answer": "A",
+    "choices": {
+      "A": "\"We'll pray for you and expect you to pray for forgiveness.\"",
+      "B": "\"You have brought shame on our family.\"",
+      "C": "\"We are disappointed in you.\"",
+      "D": "\"You are grounded for a month.\""
+    }
+  }
+]

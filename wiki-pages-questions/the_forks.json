@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Forks?",
+    "answer": "C",
+    "choices": {
+      "A": "A Local Band",
+      "B": "A Restaurant",
+      "C": "A Poster",
+      "D": "A Piece Of Filler"
+    }
+  },
+  {
+    "question": "What Is The Design On The Forks Poster?",
+    "answer": "B",
+    "choices": {
+      "A": "A Fork",
+      "B": "A Peach",
+      "C": "A Tomato",
+      "D": "A Piece Of Food"
+    }
+  },
+  {
+    "question": "Where Can The Forks Posters Be Found?",
+    "answer": "D",
+    "choices": {
+      "A": "Only In Chloe's Room",
+      "B": "Only In The Prescott Dormitory",
+      "C": "Only In Blackwell Academy",
+      "D": "All Over Town"
+    }
+  },
+  {
+    "question": "What Is The Most Likely Reason For The Forks Poster's Existence?",
+    "answer": "C",
+    "choices": {
+      "A": "To Advertise A Local Band",
+      "B": "To Advertise A Restaurant",
+      "C": "To Create A Lived-In Atmosphere",
+      "D": "To Promote The Game's World"
+    }
+  }
+]

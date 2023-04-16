@@ -1,0 +1,50 @@
+Here is a section of the wiki page for Two Whales Diner:
+
+## Inside
+*{{Interaction|Max can look at a Halloween flyer.|"Now that brings back memories... Chloe and I loved the parade..."}}
+*{{Interaction|She can look at a [Pan Estates](pan_estates.md) flyer.|"Good Lord. Talk about apocalyptic..."}}
+*{{Interaction|She can look at the gum stand.|"Oh man, I bet that's the same gum from when I was here last..."}}
+*She can look at several leaflets:
+**{{Interaction|"Coasteaus Tours"|"This guy has serious cojones."}}
+**{{Interaction|"Moby Deck Tours"|"Why does that so not sound fun?"}}
+**{{Interaction|"Sasquatch Field Trip"|"I might make Chloe check this out with me."}}
+*{{Interaction|She can look at a poster of Blackwell Academy near the bathroom entrance.|"The poster doesn't mention whacked students with guns."}}
+*{{Interaction|She can look at a tourist shirt.|"I would buy a shirt, but they're so damn tourist."}}
+*{{Interaction|She can look at some postcards.|"You'd never know how weird this town is by these postcards..."}}
+*{{Interaction|She can look at a graffiti in the bathroom.|"Thank you, redneck poet."}}
+*She can take an optional photo of the mirror inscription.
+*{{Interaction|She can look at another graffiti near the stalls.|"Gross."}}
+*{{Interaction|She can look at a graffiti inside one of the stalls.|"That graffiti has been here forever..."}}
+*{{Interaction|She can look at the food counter.|"Drool. Want everything."}}
+*{{Interaction|She can look at a picture of a whale.|"That's funny, our family never went whale watching. Looks fun."}}
+*{{Interaction|She can look at and choose a song on the jukebox.|"'I Got You Babe.' How apropos... But no fucking way."}}
+*{{Interaction|She can look at the "Fishing Wall of Fame".|"Forgot about the Fishing Wall O' Fame..."}}
+*{{Interaction|She can look at a photo of Ken Kesey with Joyce.|"Whoa, Ken Kesey with Joyce! That's so perfect."}}
+*{{Interaction|She can look at and speak to the [Weird Lady](weird_lady.md).|"I always wonder what people think about when they eat alone."}}
+*{{Interaction|She can look at and speak to a [Diner Fisherman](fisherman.md).|"These fishermen are so damn quiet..."}}
+*{{Interaction|She can look at and try to speak to a [Diner Dude](drunk_man.md).|"Ew, that guy looks unpleasant..."}}
+*{{Interaction|She can look at and speak to a [Diner Cop](police_officer.md).|"That officer looks nicer than wannabe-cop David Madsen..."}}
+*{{Interaction|She can look at and speak to a [Truck Driver](truck_driver.md).|"Truckers have such a romantic life, always on the road..."}}
+*{{Interaction|She can look at and speak to [Diner Trucker](another_trucker.md).|"I wouldn't last one day as a trucker. Those rigs are too damn big."}}
+*{{Interaction|She can look at and speak to [Justin Williams](justin.md).|"Justin is such a mellow dude."}}
+*{{Interaction|She can look at and speak to [Trevor Yard](trevor.md).|"Trevor looks as happy as Dana did..."}}
+*She can sit at a diner booth **(required)**.
+
+After ordering her breakfast:
+*{{Interaction|Max can look at the menu.|"The only thing that's changed on the menu are the prices..."}}
+*{{Interaction|She can look at a graffiti on the table.|"Nerd graffiti. Warren must have been here."}}
+*{{Interaction|She can look at and drink her coffee.|**Look: **"Oh yes, black coffee, you will be mine..."
+**Drink: **"This is like fourth-dimensional deja-vu... I keep going back in time..."}}
+*{{Interaction|She can look out the window.|"The lighthouse looks so mysterious... I wish I could stay in this moment forever...
+I guess I actually can now. But then it wouldn't be a moment..."}}
+*{{Interaction|She can look at Chloe's stuff **(required)**.|"Okay Max, study every item carefully and don't forget anything!"}}
+*She can look at the TV.
+
+#
+
+## Episode Three - "Chaos Theory"
+# #
+
+
+
+Generate five trivia questions relevant to this section of the page.

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Symbolic Meaning Of The Blue Butterfly In Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Rebirth and change",
+      "B": "Death and destruction",
+      "C": "Love and friendship",
+      "D": "Power and control"
+    }
+  },
+  {
+    "question": "What Is The Symbolic Meaning Of The Blue Jay In Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Mischievousness and good nature",
+      "B": "Death and suffering",
+      "C": "Peace and acceptance",
+      "D": "Love and loyalty"
+    }
+  },
+  {
+    "question": "What Is The Connection Between The Doe And Max In Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "The doe is Max's spirit animal",
+      "B": "The doe is Rachel Amber's spirit animal",
+      "C": "The doe is a symbol of death",
+      "D": "The doe is a symbol of rebirth"
+    }
+  },
+  {
+    "question": "What Does Samuel Taylor Say About The Doe In Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "It is a sign of Max's destiny",
+      "B": "It is a symbol of Rachel Amber's spirit",
+      "C": "It is a symbol of death and suffering",
+      "D": "It is a symbol of rebirth and change"
+    }
+  }
+]

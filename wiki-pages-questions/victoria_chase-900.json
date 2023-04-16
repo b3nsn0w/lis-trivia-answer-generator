@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Name Of The Gallery Owned By Victoria's Parents In Seattle?",
+    "answer": "C",
+    "choices": {
+      "A": "Kroft Gallery",
+      "B": "Bean Hip Cafe",
+      "C": "Chase Space",
+      "D": "Jefferson Gallery"
+    }
+  },
+  {
+    "question": "What Is Victoria's Aspiration In The Photography Industry?",
+    "answer": "A",
+    "choices": {
+      "A": "To Become A Fashion Photographer",
+      "B": "To Join The Kroft Gallery",
+      "C": "To Teach Photography",
+      "D": "To Work For National Geographic"
+    }
+  },
+  {
+    "question": "What Did Victoria Do To Kate Marsh At The Vortex Club Party?",
+    "answer": "B",
+    "choices": {
+      "A": "She Helped Her When She Got Intoxicated",
+      "B": "She Filmed Her Kissing Several Strangers",
+      "C": "She Warned Her About Nathan Prescott",
+      "D": "She Ignored Her When She Needed Help"
+    }
+  },
+  {
+    "question": "What Is Victoria's Opinion Of Rachel Amber?",
+    "answer": "B",
+    "choices": {
+      "A": "She Respects Her",
+      "B": "She Is Jealous Of Her",
+      "C": "She Is Indifferent To Her",
+      "D": "She Hates Her"
+    }
+  }
+]

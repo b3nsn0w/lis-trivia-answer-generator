@@ -1,0 +1,59 @@
+= Blue Jay =
+
+{{Infobox Character
+|name = Blue Jay
+|image = Blue_jay.png
+|died = October 7, 2013 <small>(determinant)</small><br />
+October 11, 2013 <small>(presumed, determinant)</small>
+|causeofdeath = Killed by a window <small>(determinant)</small><br />
+Killed by the [[storm]] <small>(presumed, determinant)</small>
+|gender = Male <small>(as referred to by Max)</small><ref>Evident from Max's comment in episode 3 while at Chloe's house: "''Oh, look at the poor bird... He seems kind of freaked out...''".</ref>
+|hair = Blue and white
+|appearance = [[Episode 1: Chrysalis]] <small>([[Joyce and David's Room]])</small><br>[[Episode 3: Chaos Theory]] <small>(Madsen's Bathroom)</small><br>[[Episode 4: Dark Room]] <small>(Madsen's upper corridor)</small>
+}}The '''blue jay''' is a bird that appears around the [[Madsen Household|Madsen household]].
+
+A blue jay also appears in ''[[Life is Strange: Before the Storm]]''.
+
+== Episode One - "[[Episode 1: Chrysalis|Chrysalis]]" ==
+The bird tries to fly into [[Joyce and David's Room|Joyce and David's bedroom]] through a window and hits a closed window pane where it dies. [[Maxine Caulfield|Max Caulfield]] can [[rewind]] to save it by opening the window where the bird will fly inside and perch on top of a wardrobe.
+
+If Max saves the bird from killing itself, Max will later encounter the bird along the path leading to the [[lighthouse]] where Max may take an [[Optional Photos|optional photo]].
+
+== Episode Three - "[[Episode 3: Chaos Theory|Chaos Theory]]" ==
+The bird is seen on a perch in the bathroom. Max can look at the bird.
+
+== Episode Four - "[[Episode 4: Dark Room|Dark Room]]" ==
+When Max comes back to the original timeline, she will be given the option to leave Chloe's bedroom and head back to the garage. Instead, stay on the upper level and open the window. Go to the bathroom and scare the bird atop the shower. It will fly into the hallway and onto a bookshelf. Scare the bird one more time and it will fly out the window.
+
+== Before the Storm ==
+In ''[[Life is Strange: Before the Storm|Before the Storm]]'', a similar looking bird is seen in the [[Blackwell Parking Lot (Before the Storm)|parking lot]]. It flies away when Chloe looks at it and she comments: "Okay, yeah, bye. Elitist Blackwell bird...".
+
+== Symbolism ==
+It was speculated that blue jay is [[Rachel Amber]]'s [[:Category:Spirit Animals|spirit animal]]. However, in the [[Director's Commentary - Script##04_-_A_matter_of_choice|Director's Commentary]], it was said that "the [[Doe]] is clearly linked to Rachel".
+
+== Gallery ==
+<gallery widths="200px" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+TX_MinorChoice_Bird.png|Minor choice image of the bird
+2015-05-28_00036.jpg|Optional photo 9 in "Chrysalis"
+</gallery>
+
+== References ==
+<references />
+{{Character Navbox}}
+
+[[es:Arrendajo azul]]
+[[ru:Синяя сойка]]
+[[Category:Characters (Life is Strange)]]
+[[Category:Determinant]]
+[[Category:Male Characters]]
+[[Category:Male Characters (Life is Strange)]]
+[[Category:Animals]]
+[[Category:Animals (Life is Strange)]]
+[[Category:Episode 1: Chrysalis Characters]]
+[[Category:Episode 3: Chaos Theory Characters]]
+[[Category:Episode 4: Dark Room Characters]]
+[[Category:Minor Characters]]
+[[Category:Minor Characters (Life is Strange)]]
+[[Category:Characters]]
+
+[[Category:Life is Strange]]

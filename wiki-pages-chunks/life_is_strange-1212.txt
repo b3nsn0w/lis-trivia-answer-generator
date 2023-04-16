@@ -1,0 +1,26 @@
+Here is a section of the wiki page for Life is Strange:
+
+## Setting 
+[File:Arcadia Garibaldi Comp.png](thumb.md) and a real photo of the town of Garibaldi.]]
+From early on, the developers team wanted the game's environment to be based on a small town on the coastline of Oregon. The developers conducted research on the setting by traveling to the Pacific Northwest for the purpose of conveying a nostalgic and autumnal feel to the game. The development team visited the region, took photographs, looked at local newspapers and used Google Street View to make sure the environment was accurately portrayed. Initially, the main reference for the town of [Arcadia Bay](arcadia_bay.md) was Astoria, a city on the hillside of Oregon, but it was way too big for the setting they were aiming for. Eventually they found Garibaldi, a much smaller town in Oregon, which was working well with its [Arcadia Bay Ave](main_street.md) running along the coast. Other locations such as the Blackwell Academy, the Two Whales Diner, the junkyard and the lighthouse were inspired by various locations from around the United States. Concept artist Edouard Caplain based his concept art off on various photo references and screenshots he gathered during his research. 
+
+Creative Director [Jean-Maxime Moris](jean_maxime_moris.md) said that, "the Pacific Northwest was something that we determined very early in the development process as the place we wanted to set the game in. That's because we wanted to have this very nostalgic and autumnal feel to the game, and in terms of colors ... to me it's really one of those places that brings this kind of nostalgia, and I mean this in a positive way. This sense of looking inside yourself".[http://gamerhub.tv/videos/life-is-strange-gameplay-preview-interview/2014/08/27/ Life Is Strange Gameplay Preview Interview] (August 27, 2014)
+
+The game's setting took [References (Life is Strange)#Twin Peaks](inspiration.md) from the 90s American mystery drama television series *{{wiki|Twin Peaks}}* which also takes place in the Pacific Northwest and glimpses behind the seemingly pleasant curtain of small town in America to reveal its darkest secrets.[Kinda Funny Stage Show E3 2015](kinda_funny_stage_show_e3_2015.md)
+
+Jean-Maxime Maurice said in an interview that they were very close to choose Seattle as main location for the game, but they didn't because the city was too big for an intimist story. He also said they considered making the game take place in a Scandinavian country because the general atmosphere and colors would have been similar.[https://www.youtube.com/watch?v# P9-HB5m3vtc Jean-Maxime Moris Interview] (January 28, 2015)
+
+#
+
+## Visual Style 
+With a clear vision for the game's visual style, Art Director Michel Koch gathered art references from artists who are known for their realistic shapes with stylized textures such as Alberto Mielgo, known for the "smooth blend of photorealism and abstraction" of his paintings.[http://www.cartoonbrew.com/animators/an-appreciation-of-alberto-mielgos-background-paintings-30640.html An Appreciation of Alberto Mielgo’s Background Paintings] (November 6, 2010) From the very beginning, the game was aimed to look like animated concept art, which was a major aspect of the art direction. The 3D artists had to translate the painterly look of the concept art primarily provided by [Edouard Caplain](edouard_caplain.md) into 3D models, and all textures were hand-painted to achieve what artistic director Michel Koch called "impressionistic rendering".[http://www.dualshockers.com/2014/08/13/life-is-strange-gets-new-screenshots-showing-dontnods-lovely-art-style-it-looks-super-sweet-on-ps4/ Life Is Strange Gets New Screenshots Showing Dontnod’s Lovely Art Style; It looks Super-Sweet on PS4] (August 13, 2014)[http://www.gamereactor.eu/previews/249994/ One of the oddest reveals of Gamescom also proved to be one of the most interesting. Here's what the Remember Me developers did next] (August 22, 2014) The stylized effect was intentionally chosen as it would work best with the game's focus on its narrative aspect. It was meant to make it easier for the players to focus on and identify with the characters as well as to convey emotions more powerfully by using colors or lighting which would be too subtle to capture in real life otherwise.[https://80.lv/articles/life-is-strange-concept-artist-talks-about-art/ The Artist behind Life is Strange] (March 3, 2016)
+
+TBC
+
+"Every object in the game has a distinct look and feel,” Koch points out, as we're shown in Chloe’s den, “We achieved that by going for an impressionistic style over a realistic style and every texture in the game is hand-painted.”[https://www.xboxachievements.com/news/news-19071-Gamescom-2014--Life-is-Strange-In-Depth-First-Look-Preview---Turn-Back-Time.html Gamescom 2014: Life is Strange In-Depth First Look Preview - Turn Back Time] (August 22,2014)
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

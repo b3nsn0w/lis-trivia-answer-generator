@@ -1,0 +1,750 @@
+#  Max and Chloe 
+
+> My powers might not last, Chloe." - "That's okay. We will. Forever.
+
+**[Maxine Caulfield**, Max](maxine_caulfield____max.md) and Chloe's response in "[Episode 2: Out of Time, Out of Time](episode_2__out_of_time__out_of_time.md)"
+
+[File:Maxandchloe-main.png](thumb.md)
+This article is meant to give a deeper and more detailed look at the relationship between [Maxine Caulfield](max_caulfield.md) and [Chloe Price](chloe_price.md) and its development throughout the *[Life is Strange](life_is_strange.md)* franchise. Max and Chloe are childhood best friends who fell out of touch after Max moved with her parents to [Seattle](seattle.md) and rekindle their friendship during the events of the original game. They are long-time friends, regardless of Max's choices.
+
+The prequel game, *[Life is Strange: Before the Storm](before_the_storm.md)*, is set three years prior to the events of the main game and explores how Chloe deals with the separation from her best friend and tries to move on.
+
+In *[Life is Strange 2](life_is_strange_2.md)*, in [Episode 5: Wolves](episode_5.md), if a player had sacrificed [Arcadia Bay](arcadia_bay.md) to save Chloe in the original game, Max and Chloe will be seen in a photograph inside a trailer that belongs to Chloe's step-father, [David Madsen (Life is Strange 2)](david_madsen.md).
+
+In *[Life is Strange: True Colors](life_is_strange__true_colors.md),* in the bonus story [Wavelengths](wavelengths.md), if Arcadia Bay was sacrificed in the first game, Max and Chloe will be mentioned by [Steph Gingrich (True Colors)](steph_gingrich.md). 
+
+##  Background 
+[File:Max and Chloe 12.png](thumb.md) Max and Chloe have been friends since childhood and lived half a mile from each other.Max: "To think I lived just half a mile away..." ([Episode 1: Chrysalis](episode_1.md) - Joyce's room, Chloe's house.) Max used to spend a lot of time at [Madsen Household](chloe_s_house.md), where the two would often play pirates by dressing up and pretending the living room couch is a pirate ship. Chloe's father, [William Price](william_price.md), would occasionally entertain them by hosting barbecues in the backyard and kept a height chart in [Chloe's Room](chloe_s_room.md). The two also enjoyed watching TV shows, such as *{{Wiki|Spongebob}}*, *{{Wiki|Power Rangers}}*, ''{{Wiki|Blue's Clues}}* and *{{Wiki|Teletubbies}}'', and they had movie nights and played video games together. They had a tree fort, the location of which Chloe [Media:Note-lighthouse-map.png](marked.md) on the orientation map of [Arcadia Bay](arcadia_bay.md) at the [lighthouse](lighthouse.md) so they would "always be able to find each other in case of emergency." The girls also seem to tag locations where they shared games and adventures, proven by the tree stump engraving at the lighthouse.
+
+In 1999, Chloe's parents bought her a kitten named [Bongo](bongo.md), which would later become part of Max and Chloe's "superhero adventure" drawings. After he got killed by a car, Chloe and Max made a gravestone for him located in Chloe's backyard. Also in the backyard of Chloe's house, there is a swing which Max and Chloe would take turns on when they were little. Chloe liked to fly way up into the air, while Max was scared and always jumped off before falling.Max remembers this if she uses the swing in "[Episode 3: Chaos Theory](chaos_theory.md)". There is also a wooden board decorated by the two girls, although the drawing is now barely visible. This board is later used to sort out the clues in Max and Chloe's investigation on the [:Category:Dark Room Conspiracy](dark_room_conspiracy.md).
+
+In 2008, the girls were having secret "wine-tasting sessions" at Chloe's house, one of which is remembered by Max when she visits Chloe's house for the first time in five years. The wine spilt on the carpet in the dining room had left a stain which couldn't be washed out and remains visible to the present day. (It is likely that this stain was what gave their wine tasting activities away to Chloe's parents.)
+
+At some point in 2008, Max and Chloe were making pancakes together with William at Chloe's house when [Joyce Price](chloe_s_mom.md) called and asked William to pick her up from the [Sav-Mart](grocery_store.md), which led to William's death in a car accident. Although Max was supportive at the time, she soon moved to Seattle with her [:Category:Caulfield Family](parents.md), leaving her best friend and her old life behind. The two fell out of touch until Max's return to Arcadia Bay five years later. 
+
+: ''For a more detailed breakdown of Max and Chloe's childhood, click [Young Max and Chloe](here.md).''
+
+##  Life is Strange 
+###  Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+[File:Max and Chloe 24.png](thumb.md) After taking a photo of the [Blue Butterfly](blue_butterfly.md) and finding out she can [rewind](rewind.md) time, Max saves a blue-haired girl from accidentally being shot by [Nathan Prescott](nathan_prescott.md) in the girls' bathroom of [Blackwell Academy](blackwell_academy.md). This girl is later revealed to be Chloe. Nathan finds out Max was in the bathroom and confronts her at the [Blackwell Parking Lot](blackwell_parking_lot.md), but Chloe shows up in [Chloe's Truck](her_truck.md) and rescues Max.
+
+On the way to Chloe's house, Max and Chloe talk about Max's time in Seattle. Chloe is unhappy and somewhat angry with Max for abandoning her and not contacting her despite being in Arcadia Bay for a month. Max finds out her [Max's Camera](camera.md) is broken, and Chloe offers to fix it with [David Madsen](her_stepdad.md)'s tools.
+
+[File:Life-is-strange-ep1.jpg](thumb.md) In [Chloe's Room](chloe_s_room.md), Max may find mementos from their childhood, such as an old phone and drawings. Chloe starts smoking and asks Max to put on music. Unable to find a disk elsewhere, Max discovers a metal box containing photos of [Rachel Amber](rachel_amber.md) under Chloe's bed. It is revealed that Rachel was Chloe's best friend during Max's time away, but went missing six months ago. Chloe has since been desperate to find her.
+[File:Max and Chloe 25.png](thumb.md) Max finds the tools for her camera in the [David's Garage](garage.md) of Chloe's stepdad, who turns out to be [David Madsen](david_madsen.md) and returns to Chloe's room. She then puts all the photos she took during the day on the table and tries to fix her camera but to no avail. Chloe gets up and looks through Max's photos. She notices the blue butterfly among them and realizes that it was Max who set off the alarm and thereby saved her life. She may become a bit angry if Max reveals she told [Raymond Wells](principal_wells.md) about what happened. Then Chloe gives William's camera to Max as a late birthday present. Max is initially hesitant in taking it, but Chloe insists that it would be used awesomely in Max's hands, and takes the butterfly photo as a symbol of their renewed friendship. Chloe puts on loud music and the girls start dancing but are shortly thereafter interrupted by David, who expresses his disapproval of Chloe's music and is on his way to her room. Chloe tells Max to hide somewhere, puts off her joint and lays it on the table. David comes in and asks Chloe if she took one of his missing guns, which Chloe refuses. David notices the joint and immediately demands an explanation.
+
+Don't hide, Take the blame# Max is unable to hide in time, and Chloe blames the joint on her. Max agrees, and David corners her, threatening to call the police and accusing Max of "dragging Chloe down". Chloe defends Max and David leaves the room. Chloe feels like she's won a victory against David and offers Max to hang out somewhere else.
+|-|Don't hide, Blame ChloeMax is unable to hide in time, and Chloe blames the joint on her. Max disagrees, and David says Chloe gave Max "good friend rates". This causes Chloe to start an argument, which leads to her being slapped by David. After he leaves the room, Chloe becomes upset at Max and says she's no better than everyone else in Chloe's life. Chloe wishes she hadn't even seen Max and leaves her room immediately.
+|-|Hide, Step in# Max hides in the closet, but steps in and says the joint is hers. David corners Max, threatening to call the police and accusing Max of "dragging Chloe down". Chloe defends Max and David leaves the room. Chloe feels like she's won a victory against David, and shows Max David's gun she has stolen from him sometime before. Max dislikes that and says she doesn't want Chloe in any more trouble, but Chloe states she needs self-defense, then offers Max to hang out somewhere else.
+|-|Stay hiddenMax hides in the closet and stays hidden as an argument breaks out between Chloe and David, which eventually leads to David slapping Chloe. After David leaves the room, Max comes out of hiding and comforts Chloe, apologizing for what happened. Chloe says it could have gone worse and offers Max to hang out somewhere else.
+
+Chloe takes Max to the lighthouse, where they have a conversation about David and Nathan. Max may tell Chloe about David having installed cameras in the Madsen Household. [File:Max and Chloe 26.png](thumb.md) Then Chloe confides in Max that she had been drugged and photographed by Nathan, and came to the bathroom in an attempt to blackmail him. After Max collapses with her vision, Chloe initially doesn't believe her friend, advising her to get high to get over her delusions. However, Max ultimately convinces her of the truth that she can rewind time after the snowstorm begins.
+
+###  Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+Shortly after waking up, Max gets a [Max's Messages](message.md) from Chloe asking her to meet up at the [Two Whales Diner](two_whales_diner.md). Max comments that she enjoys having Chloe back in her life again, in spite of all the crazy things that have happened in the past days. Another message notifying Max that Chloe will be late arrives as Max is about to enter the diner.
+
+[File:Max and Chloe in Diner.png](thumb.md) Chloe arrives after a while, and immediately wants proof of Max's new-found powers. Max obliges by telling her the contents of her pockets; a parking ticket for 10:34 AM, a pack of 7 cigarettes, a robot panda keychain and 86 cents. For further proof, Max predicts the future in the diner to Chloe's amazement. One of the first comments Chloe makes about Max's power is: "Maybe you made a move on me and I would never know", which might hint that Chloe subconsciously wants that to happen. Max gets a nosebleed from overusing her powers. Chloe then asks Max to come with her to a secret spot in order to further test her powers.
+
+Before leaving, Max gets a phone call from Kate. Max chooses whether to answer or not.
+
+Answer#  If Max stops to answer the phone and comfort Kate, Chloe will be caught by Joyce and the two will argue. Chloe doesn't appreciate that Max fobbed her off for one of the new Blackwell friends she sees everyday. 
+|-|Don't answer If Max doesn't answer Kate's call, Chloe will be happy to escape the diner before her mother can start a fight between them, and gives Max a high-five.
+
+The two girls leave for the [American Rust Junkyard](american_rust_junkyard.md). Chloe expresses her joy about having Max back in her life and even more about Max's superpower. She sends Max off to find five beer bottles while Chloe herself prepares a gun range for the test.
+
+Having found all the bottles, Max returns to Chloe and helps her at the shooting range, rewinding for more impressive shots. They then try shooting other objects around the junkyard as well as an old car. If Chloe shoots the car bumper, she accidentally shoots herself, causing Max to rewind again. [File:Max and Chloe 27.png](thumb.md) Max passes out from using her power too much and awakens to Chloe comforting her. Chloe sits on the hood of a car, waiting for her friend to recover enough to have her turn at shooting. As Max handles the gun, [Frank Bowers](frank_bowers.md) shows up, having followed them and heard the gun noises and breaking glass. He threatens Chloe, demanding the money she owes him. Mid-conversation, Chloe notices a bracelet on Frank's wrist belonging to Rachel. She interrupts him, asking where he got the bracelet. He pulls a knife on her, and Max intervenes by revealing the gun and aiming at Frank. She must then decide whether to shoot or not to shoot him.
+
+Shoot#  As Max pulls the trigger, the gun clicks, out of ammo. Frank is furious, saying he will remember that you tried to shoot him. However, Chloe is impressed and compliments Max for standing her ground.
+|-|Don't shoot If Max fails to pull the trigger, Frank leans forwards and takes the gun. He leaves, and Chloe seems unimpressed that Max lost her only form of protection against her enemies.
+
+[File:Max and Chloe 03.png](thumb.md) Regardless of the outcome, Max and Chloe leave the junkyard to venture the train tracks. They talk about Frank and Rachel, and Max expresses her wish to build another "pirate fort" where she would be alone with Chloe. As Max gets up to take a photo of the sun, she falls into another vision and shortly afterwards hears Chloe calling for help. Max realizes that Chloe is stuck inside the tracks, and has to be quick in freeing her because a train is approaching.
+
+Didn't damage the train tracks# Max saves Chloe by obtaining a crowbar to open the door to a small office and finding a pair of wirecutters inside. Max uses this pair of wirecutters on the fuse box by the tracks to cut a set of red wires, which releases the tracks' grip on Chloe, allowing her to escape.
+|-|Damaged the train tracks Max saves Chloe by pushing a large bollard onto the tracks. This results in the tracks breaking, but Chloe being able to run away. 
+
+[File:Max and Chloe 04.png](thumb.md) Max lifts Chloe up just in time, and Chloe remarks that they are now bonded for life. The two head back to Chloe's truck, as it is time for Max to return to Blackwell. Upon arrival, they have a short conversation about the Chaos Theory and Chloe drops Max off, leaving to head home.
+
+In the ending cutscene, Chloe can be seen texting Max as they both witness the eclipse.
+
+###  Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+[File:Max and Chloe 05.png](thumb.md) Max is awoken at midnight by a message from Chloe asking her to meet up in front of [Blackwell Campus](campus.md). If Max decided to shoot Frank in Episode 2, Chloe will also jokingly propose to Max to marry her, though Max responds that same-sex marriage is illegal in Oregon for the time. Chloe jumpscares Max when she approaches, screaming "booyah" as a joke. Max does not appreciate that action, especially if she wasn't able to save Kate earlier, though Chloe apologizes immediately and says she doesn't know how to deal with such situations. They talk about Kate and Rachel and decide to search for clues so that a similar thing doesn't happen to anyone else. Chloe shows Max the spare keys to Blackwell she stole from David, and they move on to explore the main building.
+[File:Chloe breaks lock.png](thumb.md)
+Chloe suggests examining the [Principal Wells' Office](principal_s_office.md) first, but shortly thereafter finds out the key to the office is missing. She reveals to Max that she learned to lockpick from Frank sometime before and tries to pick the lock while Max decides to call Warren for help. When Warren mentions going drive-in once again on phone and Max responds to him whether if she can go or not, camera focuses on Chloe where she gives a look to Max, which suggests that she got jealous.
+
+Eventually Max manages to construct a makeshift pipe bomb and blows the lock up.[File:Max and Chloe 06.png](thumb.md) This causes the school alarm to go off, and Max rewinds time and opens the door for Chloe from the inside, visibly impressing her. As they are getting ready to leave, Chloe searches through the principal's desk drawers and uncovers an envelope full of money that is labelled as the school's handicapped fund. Chloe wants to take it to pay Frank back, but it is up to Max on whether to allow Chloe to steal the money or not.
+
+Leave the money# Max thinks that paying Frank back isn't worth getting into trouble and risking divine retribution for stealing the money meant for the school's handicapped fund. Chloe feels disappointed and puts the money back inside the drawer.
+|-|Steal the moneyMax reasons that Frank might be more willing to talk about Rachel if he's been paid. Chloe hugs Max joyfully and offers to take her on a road trip to Portland with the leftover money.
+
+After leaving the office, Chloe suggests to Max that they have a late night swim at the [Blackwell Swimming Pool](blackwell_swimming_pool.md) all to themselves. Although initially hesitant, Max finds herself unable to refuse Chloe's offer as she feels that after the crazy day's events they "hella deserve" some mindless fun in the water. Upon hearing the word "hella," Chloe declares that she is indeed a "good bad influence" on Max.
+
+[File:Dontlooksosadimneverleavingyou.png](left.md)
+At the pool, Chloe asks Max to turn on the pool lights, and then jumps in and starts swimming. When Max approaches, Chloe splashes water on her, taunting her to enter the pool. Max jumps in the pool, yelling "cowabunga", and the girls start attacking each other in the "[The Otters](otter.md) vs [Mr. Sharkie](shark.md) style". Chloe expresses her wish for Rachel to be with them now, and Max says they will eventually meet each other. Chloe then says that Max's power is changing her personality in a positive way and that she's not so "chickenshit" as she used to be. Max still feels unsure about the true meaning of her power, but Chloe remarks that weren't the case when Max saved her, probably due to the strong connection between them. Max tells Chloe that she makes Max feel more sure about her actions, and Chloe responds that Max instead gives her a reason for staying in Arcadia Bay. Chloe sees Max as the smartest and most talented person in her life and promises to never leave her. The girls get cold and decide to exit the pool.
+
+Dressing up, Chloe says "You look cute with your hair soaked in chemicals." and Max thanks her. As they are going to leave the building, Blackwell security enters and starts to sweep the area. Sneaking past the guards, Max and Chloe run to the parking lot and drive to Chloe's house, where they have a sleepover.
+
+[File:Vlcsnap-2016-09-04-15h35m44s526.png ](thumb.md) 
+In the morning, Max takes her usual daily selfie with Chloe by her side. They have a conversation about last night's events and about Max's troubles with submitting a photo for the [Everyday Heroes Contest](everyday_heroes_contest.md). Chloe says she would like to hang out with Max all day like when they were kids, and that now they both are adults and can date freely. Max gets up and finds out her clothes are still wet with chlorine, and Chloe offers her some of the clothes Rachel left. Max may also take a look at Chloe's mobile phone; if Max supported Chloe enough in the previous episodes (took the blame for the weed, didn't answer Kate's call, tried to shoot Frank and allowed Chloe to take the money), the background will be changed from Rachel to Max. A book about mystic weather can be found on the table, and Max comments that Chloe is cute for trying to figure out the meaning of Max's vision.
+
+Opening the closet, Max initially doesn't want to put on Rachel's clothes as they are of a different style, but Chloe encourages her and says she can always rewind if she doesn't like them, as with other chances in her life. As an example, Chloe dares Max to kiss her, and Max's decision will have a crucial impact on their relationship later in the game.
+
+Kiss Chloe# Chloe takes a few steps back in surprise after Max kisses her and remarks that Max is "hardcore". Max's arms linger in the air, which somewhat suggests that if Chloe hadn't jumped back, it would've been longer. Chloe also jokes that she will text Warren that he doesn't stand a chance unless he's into girl-on-girl action. It's later revealed that she really texted Warren. Max will think that it was priceless when she kissed Chloe. In her journal she will also mention that it was cute how Chloe looked embarrassed after the kiss.
+|-|Don't kiss ChloeChloe returns to her bed and remarks that she wasn't that easy to allow any kissing on her, and Max might already have used her rewind power after kissing her. Chloe also jokes that she will text Warren that Max is saving herself all for him. It's later revealed that she really texted Warren. Max will say in her diary that she would have, but she didn't like being dared like it was some big deal and maybe she's scared; that's why she comments she likes that Chloe is so fearless.
+
+After this moment, in either way, Max later states in her journal that "Besides, I think Chloe sees Rachel Amber in her future..."
+
+[File:Max and Chloe 10.png](thumb.md)
+Chloe compliments Max's new outfit and tells her to go downstairs and have breakfast while Chloe "wakes n' bakes". Max goes down and helps Joyce prepare the breakfast, talking to her about Rachel and Chloe. Joyce may reveal that Chloe has been telling her for the last five years that she would like to be more like Max. They also review the family album, and Joyce gives Max a photo of Max and Chloe making pancakes together with William.
+
+Having obtained the files from David's garage, Max is ready to leave with Chloe, but David returns home and an argument breaks out in the living room. Max has to side with either David or Chloe.
+
+Side with David# Max backs David up, saying there is no proof that he has done anything wrong. David moves on to have breakfast. Chloe is disappointed, and asks Max to rewind the situation to change the outcome.
+|-|Side with ChloeMax brings up David's threatening attitude towards students, and his unsettling files containing information about Kate and Rachel. This causes Joyce to kick David out of the house. That visibly pleases Chloe, and she asks Max not to rewind her decision.
+
+[File:Max and Chloe 11.png](thumb.md) Max suggests to Chloe that they search [Frank's RV](frank_s_rv.md) next to find information about Rachel Amber. Inside the RV, Chloe sits in the driver's seat and expresses how awesome it would be to cruise around in the RV with Max. Chloe will ask Max if she could see them travelling together. Max agrees and will, if you kissed Chloe earlier, mention that Chloe would probably want her to kiss her again.  They search Frank's RV and Max finds photo evidence of Rachel Amber being more than "friends" with Frank, as well as romantic letters and notes Rachel wrote to Frank. Max shows everything she found to Chloe, making Chloe enraged at the fact that Rachel lied straight to her face. Chloe says that everyone in her life, including Max, has betrayed her, then runs out of the RV and gets into her truck.
+
+On the way back to Blackwell in Chloe's pickup, Chloe blames her misfortune on the death of her biological father, William, and becomes angry with Max over leaving her, regardless of whether Max sided with Chloe or David earlier. Chloe will drop Max at Blackwell Academy without even looking at Max or waving goodbye to her, which is a large contrast to Chloe dropping Max at Blackwell Academy in Episode 2.
+
+Feeling equally upset at Chloe's outburst, Max will take a look at the last picture Chloe's father took of them after returning to her dormitory room and suddenly discover her ability to jump back in time through photos. Finding herself in her 13-year-old body, Max saves William by hiding his car keys and thus preventing the accident. This action creates an [Alternative Timeline (Life is Strange)](alternative_timeline.md) in which Chloe's life is largely different from her original self: she is severely immobilized and can only breathe with the help of a machine.
+
+###  Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+[File:Max and Chloe 14.png](thumb.md) 
+Max spends time with Chloe in the alternative timeline. Walking along the seafront, Max discovers that Chloe was in a car accident; William gave her the new car for her birthday, and she was hit by an oncoming SUV, causing her to become paralyzed from the neck down. They stop after a while and admire the sunset. Max apologizes again for not staying in touch, but Chloe thanks her for coming and says she's doing awesome.
+
+Chloe starts to feel cold and the girls return to the [Alternative Price Household](price_household.md). After talking for a while about Chloe's condition, she asks Max for a drink of water, saying that it's probably the most she's talked all year. Max can also wipe sandy tears from Chloe's face with a tissue.
+
+[File:Max and Chloe 15.png](thumb.md)
+Max asks Chloe what she wants to do, and she answers that she feels like watching a movie together like in the old times; Max puts on the {{Wiki|*Blade Runner*}} DVD, and the girls watch together. Max warns Chloe that she had better not fall asleep like she used to when they were kids. Ironically, it's Max who falls asleep, while Chloe stays awake all night. Max wakes up and begins talking to Chloe again about their childhood, and how much Chloe appreciates her friendship. She begins to get a headache and asks Max to get her morphine injector from the bathroom for her.
+
+Walking around the Price Household, Max discovers that Chloe's condition is getting worse, and she only has a certain amount of time before she dies. Returning to Chloe with the morphine, Max gives it to her to alleviate her headache. Chloe then wants to review the family album, and Max turns the pages for her. Looking at the photo of them making pancakes, Chloe mentions that she knows exactly what's going on, despite her parents not telling her about the doctor's report. She asks Max to increase her dosage to end her life and stop her suffering. Spending time with Max has reminded Chloe of the happy times when they used to run around Arcadia Bay playing pirates, and Chloe wishes to keep this memory as her last one.
+
+Accept# Max turns the dial on Chloe's morphine drip to its highest setting. Chloe thanks her and says that she is proud of Max for following her dreams. Chloe says that she loves Max and asks to not forget about her. Max promises to never forget about her and adds that she will see Chloe sooner than she thinks.
+|-|RefuseIf Max does not give Chloe an overdose, Chloe will lash out at her, angry that her best friend wouldn't help her with this one request. She wants Max to go away and never come back.
+
+Max focuses on the photo and returns to the year 2008. This time, Max lets William leave the house and burns the photo in the campfire. She has a heartfelt moment of apology with Chloe who doesn't understand the situation, and the timeline corrects itself.
+[File:Max and Chloe 01.jpg](left.md)
+Chloe helps Max to deduce and investigate Rachel Amber's disappearance and Kate Marsh's suicide attempt. They've been up all night and Chloe tries to keep herself awake by drinking coffee. It is evident from Max's messages that she and Chloe made up after Chloe's outburst. After Max returns to the original timeline, she hugs Chloe joyfully, and, if Max decided to kiss Chloe earlier, she will joke, "Whoa! Down, Max! You get one kiss and now you're all over me...". If Max didn't kiss Chloe, Chloe will say "Oh yeah, now you suddenly want to kiss me? You had your chance." Max will reply that she is glad to see Chloe and Chloe will thank her for the "morning grope."
+
+Later, if Max didn't kiss her earlier she will state in her journal "''I've never been so glad to see Chloe in my life. The second I saw her blue hair and that beautiful pissed off face, I kind of regretted not kissing her when she double dared me. Maybe if she had double dog dared me...*", If Max kissed her earlier, she will say *"I've never been so glad to see Chloe in my life. The second I saw her blue hair and that beautiful pissed off face I wanted to kiss her again."''
+
+They decide to search for information from David Madsen, Nathan Prescott and Frank Bowers. While Max is looking for further hints in David's garage, Chloe tries to find some information on the Internet.
+
+Kate Survived#  [File:Max and Chloe 17.png](thumb.md) Max says that she first has to check how Kate's doing in the hospital. When the duo arrives there, Chloe says hospitals always freaked her out. She apologizes to Max for preventing her from being Kate's friend and being angry when she called. Chloe says that Max saved Kate similarly to her. Then she patiently waits outside the room while Max chats up with Kate. In the end, Max thanks Chloe for coming with her and they head to Blackwell.
+
+[File:chloe-shocked.png](thumb.md)
+
+On the Blackwell campus, they stumble upon Mr. Jefferson. After Max introduces Chloe, he asks why somebody as cool as Chloe isn't going to Blackwell, to which Chloe responds, "I was way too cool for this school. It’s a long story. In actual files here." When Jefferson tells Max to come to the [End of the World Party](end_of_the_world_party.md), Chloe says she'll be there as "Max's date".  As he leaves, Chloe remarks "Hot for teacher" as an observation on Jefferson's appearance as she watches him walk away; this was possibly said for Max's embarrassment.
+
+[File:Chloestruck-ep4-maxandchloe.png](thumb.md)
+
+After obtaining clues from Nathan's room, Max and Chloe head to the [Beach](beach.md) to meet with Frank and obtain the code for his account book. Before moving on, they have a short conversation inside Chloe's car about Rachel and their trip to Portland. Chloe says they couldn't have guessed this would happen to them when they grew up. The dialogue with Frank is complex, but there are three main outcomes:
+
+Chloe killed FrankFrank and Pompidou both die after being shot, and killed, by Chloe. Max and Chloe steal his account book key from his dead body. Chloe is terrified by the fact that she had to kill a man and a dog.
+|-|Chloe wounded Frank# Frank is wounded after being either stabbed or shot in the leg by Chloe. He begrudgingly agrees to give Max and Chloe the account book key.
+|-|No one got hurtThe situation is handled well and no one gets hurt. Frank agrees to give you the account book key and becomes an ally in the cause to find Rachel.
+
+The girls finally return to Chloe's house to piece the facts together. If Chloe killed Frank, she will be crying on her bed and Max has to calm her down. Chloe says she will go to the police and promises to take all the responsibility for killing Frank only on herself. Their investigation leads them to an abandoned barn owned by the Prescott family where they discover a hidden underground bunker beneath which was the dark room Nathan was mentioning and illegal photography was carried out on Rachel Amber, Kate Marsh and other missing girls from Arcadia Bay.
+
+[File:Max and Chloe 19.png](thumb.md) Upon seeing Rachel's files, Chloe immediately recognizes a spot from the Junkyard on one of the pictures and rushes there with Max. They find Rachel buried underground and Chloe bursts into tears, with Max also crying and comforting her. Later, Chloe drives Max to the End of the World Party, hoping to confront Nathan and stop him. However, they fail to find him and when Chloe receives a message from Nathan saying he had got rid of all the evidence of Rachel's disappearance, Chloe and Max rush back to the Junkyard in the dark. Suddenly caught by surprise from behind, Max is dosed with sedatives rendering her unable to use her rewind. Hearing Max's warning, Chloe turns around and expresses shock at the culprit which turns out to be Mr. Jefferson. [File:Max and Chloe 18.png](thumb.md) 
+Before she has the opportunity to aim her gun, she is shot in the head and falls backwards onto Rachel's grave. Max's eyes are watering as she witnesses Chloe's death and whispers her name before passing out.
+
+###  Episode Five - "[Episode 5: Polarized](polarized.md)" 
+[File:Maxthoughtinplane.jpg](thumb.md)
+In this episode, Max initially prevents Chloe's death at the hands of Mark Jefferson by rewinding through the selfie she took on the first day of the week in Jefferson's class and informing David of Jefferson's deeds, creating a new timeline where Jefferson was already arrested on Tuesday with Chloe still alive and Max as the winner of the photo contest in San Francisco. Through Max's text messages we get to know that Max was there for Chloe after finding out about Rachel's death on Tuesday; everything that happened the following days in the original timeline probably never did. After Max messaged Chloe about her win on Wednesday, she was evidently very proud and happy for Max and had helped Max to pack for San Francisco. Aside from finding out about Rachel's death, everything seems optimal for Chloe. However, in this timeline, she will apparently be killed by the tornado from the vision that already approached the town in the middle of a phone call with Max in the [Zeitgeist Gallery](zeitgeist_gallery.md). 
+[File:Max and Chloe 20.png](thumb.md) Having witnessed Chloe dying yet again, Max returns to captivity in the Dark Room where Chloe was already dead at that point. Max escaped from the Dark Room with the help of David. After leaving the Dark Room, Max will manage to reach Warren at the Two Whales Diner and successfully revive Chloe yet again by using the selfie photograph that she took with Warren at the End of the World Party and returning to the time it was taken the night before. Max joyfully leaps Chloe's arms once again, much to Chloe's shock.
+[File:Chloe max.jpg](right.md)
+Max warns Chloe of Jefferson's treachery and Nathan's death at his hands. Moreover, Max reveals to Chloe what she had experienced in the alternative timeline where Max prevented William's death and could not keep fixing the altered time. She manages to convince Chloe, and instead of springing Jefferson's trap as they did before, Max and Chloe proceed to report the scandal to David, who promptly, with the help of the police, will arrest Mark Jefferson, and stay at Chloe's home till the [Storm](storm.md) is about to strike. 
+[File:Love.jpg](left.md)
+After altering, Max wakes up at the beach and finds out, with the tornado striking Arcadia Bay the next day, that Chloe took Max to the beach where they would be protected from the storm. Max hugs Chloe and is relieved that she finally managed to keep both of them alive. Chloe offers to get out of Max's life after everything she put Max through, but Max disagrees. Then Chloe mentions once again how well Max has handled all the difficult situations, and that she's the best friend a human can have. Chloe tells Max everything that happened while she was out, and they are on their way to the lighthouse when Max loses consciousness and falls into a disturbing [Max's Nightmare](nightmare.md).
+
+Chloe appears several times during the nightmare and is particularly prominent towards the end. She is depicted in most scenes in a harsh manner, telling Max that she is unworthy of her attentions, or that she should never have come back to Arcadia Bay. Her abandonment issues are accentuated, meant to play on Max's guilty conscience. She is also displayed in a more romantic manner during some scenes; bizarrely hooking up with different characters, to make Max jealous as it's represented as one of her insecurity.Max later says in [Max's Diary](her_diary.md) that she experienced physical pain while seeing Chloe act like that. One of the final scenes in the diner, however, showcase Chloe as the sole person who defends Max and looks out for her, and the digit code needed to get to the diner is 0311, representing Chloe's birthday, 03/11 (March 11th). The scene is followed by heartfelt and prominent moments between the two girls, revealing how close a relationship Max and Chloe have rekindled during the week.
+
+[File:Max and Chloe 21.png](thumb.md) During Max's unconsciousness, Chloe carried Max up to the cliff. When Chloe and Max reach the lighthouse, safe and out of the way of the incoming tornado, Max finally laments to Chloe that she was the cause of the town's destruction. Whereas Chloe, admitting her selfishness after how much Max went through preventing and reviving her from death over and over again, is ready to accept her own fate of death. Chloe hands Max the photograph of the blue butterfly Max took in the Blackwell bathroom and gives her the option to return to the time where Nathan accidentally killed her in the Blackwell bathroom to restore the original timeline, or to move on from the present timeline from there. No matter what decision Max would make, Chloe would be cool either way, as she knows Max would make the right decision.
+
+Sacrifice Arcadia Bay# Max decides not to trade Chloe's life for the sake of the town and tosses the photo of the blue butterfly. Chloe and Max promise each other to always be together and wait at the cliff holding hands until the storm subsides. After taking a final look at the aftermath of the storm, they leave the town in Chloe's truck.
+|-|Sacrifice ChloeMax sacrifices Chloe for the sake of the town and the residents as Chloe suggested. Chloe will say that being together was the best farewell gift she could have hoped for. They will kiss each other if Max supported Chloe on all occasions throughout the game. Chloe says that she will always love Max and will never forget her. Max promises to never forget about Chloe as well.
+
+###  Alternative Timeline 
+[File:Maxstrip.jpg](thumb.md) In the alternative timeline, Max kept in touch with Chloe through letters on parchment paper, which is a hint at the fact that she still valued their friendship. She also sent Chloe one of her selfies from a road trip. However, William is surprised to see Max when answering the door, implying that she did not, in fact, keep in touch as much as she meant to.It took alternate Max 5 months to respond to Chloe, but alternate Chloe just four minutes to respond to Max. Max's diary entries and text messages reveal that Max only marginally thought about rekindling with Chloe since she's been back at Blackwell and that she has been more interested in partying with her new friends.
+
+Chloe is extremely happy to see Max, unlike in the original timeline in which she was accusatory about Max abandoning her. It can be revealed that she was a little hurt by Max not visiting; but she understands, commenting that her friend isn't "SuperMax". Chloe still considers Max as her best friend, still cherishing their childhood memories a lot, and chooses to have Max's company as her last good memory.
+
+The text of Max's letter to Chloe:
+
+{{Bigquote
+|''Chloe, just thought I'd drop you a quick note to let you know I'm thinking about you. I feel so lame writing shit like "I hope you are well" etc. I know your life is so different now and I don't want that to get in the way of our friendship. Yes, I haven't been around lately, but that will change soon.*
+
+*"I hope you are well."*
+
+*Love, Max''}}
+
+# ###  Mirroring 
+In this alternative timeline, there is some amusing mirroring of the [Timeline](original_timeline.md). Alternative Max now says, "hella", much to Alternative Chloe's displeasure (she hates the very word that 'Original Chloe' loves). Alternative Chloe, in turn, comes out with a phrasing that Max uses on a couple of occasions in the original timeline: "the company I keep".
+
+# ###  Academic Life 
+In this timeline, Max is a member of the Vortex Club and appears to be friends with [Victoria Chase](victoria_chase.md). Before Chloe became disabled, she was a straight-A student at Blackwell Academy, which Max discovers when she finds an old report card belonging to Chloe dated May 22nd, 2010. Once she became disabled in 2011, Chloe was no longer able to attend Blackwell Academy due to its lack of facilities to support her special needs.
+
+##  Romantic Instances 
+* At the Two Whales Diner in Episode 2, Chloe jokes about the sexual advantages of Max's proven rewind abilities, adding, "Maybe you made a move on me and I would never know!" Towards the end of this episode, if Max tries to shoot Frank, Chloe will text Max in Jefferson's class, proposing to marry her. Max replies that it is "illegal in Oregon... for now," to which Chloe replies they can elope.
+* Chloe becomes quite playful and more relaxed toward Max in [Episode 3: Chaos Theory](episode_3.md) - presumably an effect of Max's calming influence on her. When they are trying break into the principal's office, Max makes a phone call to Warren for some assistance, but as soon as she replies to Warren's movie night invitation, Chloe stops lock picking to look in Max's direction before losing her temper with the door in what seems like a small fit of jealousy. When inside the principal's office, if Chloe is allowed to take the money she finds in a desk drawer, she excitedly invites Max on a road trip to Portland with the leftover cash, suggesting strip clubs as a destination. She then says she is kidding about the strip clubs before adding an afterthought of, "you never know..." Once outside the principal's office, Chloe wears an impish look on her face and invites Max for a "midnight swim" in the pool. Once Chloe is in the pool and urging Max to join her, she glances away momentarily as Max gets undressed down to her underwear.Fans have speculated a few things about this glance, such as Chloe experiencing a moment of attraction or shyness, or reluctantly looking away to give an awkward Max some privacy. Another speculation is that she may have felt a brief pang of guilt over sharing this moment with Max when she still misses Rachel.
+* The morning after the midnight swim, Chloe dares Max to kiss her, and Max has the option to accept or refuse. If Max does kiss her, she will "forbid" Max from rewinding and taking the kiss back, claiming Max knows she is hotter than any of those Seattle "Artholes." Max will think the kiss was priceless. If Max refuses to kiss her, claiming she is not that easy, Chloe will reply in kind before telling Max to just admit she already "macked" on her before rewinding like it never happened. Max will love Chloe's fearlessness. Chloe may also state she doesn't believe anyone is good enough to be with Max except for her.
+* The [Easily Missed Details (Life is Strange)#Chloe.27s_Phone_Background](lock_screen.md) of Chloe's phone in Episode 3 has an effect on Max. If, up to this point, Max has made choices that please Chloe, the lock screen will display a picture of Max. Max believes this means she has proven herself worthy again.
+* Later in this episode, when Max and Chloe gain access to Frank's RV, Chloe sits herself in the driver's seat and excitedly asks Max if she can see them both heading down the coast in it. Seemingly out of nowhere, Max brings up the earlier kiss dare as though it's still on her mind. If she had kissed Chloe earlier, she tells Chloe that she would probably want Max to kiss her again on this road trip. If she had refused to kiss Chloe, she tells Chloe she would probably dare her to drive the RV like she dared Max to kiss her. There's no response from Chloe to either comment, and Max changes the subject, saying they are on a schedule to look for clues. Chloe replies that she was "just daydreaming."
+* In [Episode 4: Dark Room](episode_4__dark_room.md), after returning to the original timeline, Max will state in her journal: "The second I saw her blue hair and that beautiful pissed off face I wanted to kiss her again", or state that she regrets not kissing Chloe when she had the chance.
+* Also in Episode 4, when Chloe and Max speak with Mark Jefferson on campus, Max seems to stumble over her introduction of Chloe, hesitating slightly before referring to Chloe as her friend. Later, in the same conversation, Chloe refers to herself as Max's date to the End of the World Party.
+* Depending on the choices before this point, at the end of [Episode 5: Polarized](episode_5__polarized.md), if Max chooses to sacrifice Chloe, the two may share a long and passionate kiss before Max changes the timeline. If Max sacrifices Arcadia Bay, the two will survive the storm and ride into the sunset (or sunrise depending on when they left).
+* If the player presses **Tab** just after the nightmare sequence, they can access Max's last journal entries which are heavily focused on her feelings about Chloe. If the player didn't kiss Chloe in Episode 3, Max asks herself if she has subconsciously been developing some feelings for Chloe. If the player chose to kiss Chloe, Max seems more sure about her feelings. (''[Max's Diary#finalentry](click_here.md) to read the entries'')
+
+##  Anecdotes 
+###  Wine Tasting Sessions 
+There are three instances in which Max and Chloe's "wine tasting sessions" are mentioned. The first is when Max is at Chloe's house for the first time in the game and is able to explore the living room. She finds the stain that was left from one time when they had spilt the wine on the ground and it makes her remember that situation vividly. The second one is when Max goes back to 2008 and tries to prevent William's death. When William is leaving the house, he says, "And no Max and Chloe wine tasting sessions." The third instance is when Max makes a passing comment at the Zeitgeist Gallery: "Champagne makes me think of me and Chloe getting busted with that wine..."
+
+If Max sits on the couch in the living room, she will reminisce the moment between her and Chloe:
+
+**Chloe: **Come on, open it chicken!
+**Max: **Hold on. And I'm not chicken!
+**Chloe: **Prove it! You drink first, Max!
+**Max: **No way! It was your idea, Chloe!
+**Chloe: **Whateva. Give me that bottle.
+**Max: **Well?
+**Chloe: **Tasty. Very tasty.
+**Max: **Here, I want a sip!
+**Chloe: **Sorry, this is not for kids.
+**Max: **Don't be greedy! Gimme some!
+**Chloe: **Oh shit, the carpet!
+**Max: **There's wine all over! What do we do now?
+**Chloe: **My parents are coming! Cover it up...
+
+###  TPing the Neighbor's House 
+After their Blackwell night trip, Max mentions in her diary (page 47) how it reminded her of the time they were going to TP one of the neighbor's houses. They snuck out but ended up being too afraid to go through with it and ran back home.
+
+"''Even though my body smelled like I had been doused in chlorine, it was so nice to crash in Chloe's room for the first time in five years and wake up next to her like our old sleepovers... For some reason, it reminded me of the time we were going to TP one of the neighbor's houses and we even snuck out but got chicken and ran back home, laughing all the way..."*
+
+##  Views on their Relationship 
+* In the [Developer_Diary_Series_(Life is Strange)](developer_diary_series.md) in January 2015, [Michel Koch](michel_koch.md) and [Raoul Barbet](raoul_barbet.md) stated their very first interpretation of the relationship was "Max and Chloe are different, but they are also opposite and complementary at the same time. I think one is not good without the other."[https://youtu.be/Z-lDFJH_IHc?t# 8m49s Life Is Strange Developer Diary - A New Beginning]; [https://i.imgur.com/yZ5jj7S.jpg Screenshots]
+* In October 2015, Co-game Director Michel Koch said in a [https://twitter.com/DONTNOD_Michel/status/658789176955924480 Twitter reply] to another user that Max and Chloe can still continue as just best friends after the ending, because, to him, *"it really depends on the way you played Max and her relationship with Chloe through the game."'' The localized files for the final pages of Max's journal are given the prefixes 'FRIEND' or 'LOVE', so this correlates with what the Co-game Director has said. It seems from certain comments in Max's journal, regardless of how you play the game, that Max has developing feelings for Chloe, shows general disinterest in Warren at this particular time and even writes that she regrets not kissing Chloe if she hadn't kissed her earlier when she was dared; but as Michel Koch has said, this does not mean a romantic relationship is guaranteed to happen if that's not how the player sees things unfolding between them after the "Sacrifice Arcadia Bay" ending. Regarding why they aren't seen to kiss in this ending if the same criteria has been met that achieves the "Pricefield kiss" in the "Sacrifice Chloe" ending, Michel Koch says earlier in the same [https://twitter.com/DONTNOD_Michel/status/657051836147351552 Twitter thread] that, ''"It wasn't the moment, with all the destruction and death... It will certainly happen after, it's an open end."''
+* In February 2016, Michel Koch confirmed that Max and Chloe is the ultimate pairing during a [https://www.twitch.tv/videos/39608332 Twitch stream] with [Luc Baghadoust](luc_baghadoust.md). When interviewers asked about romance (i.e. Max and Chloe's relationship), he replied: "''Chloe et Max ne marchent qu'ensemble''", which means they "only walked together" (as also in romantically attached to each other) as in they are a great pair and can only function with each other. He also called Chloe an antagonist and her being the opposite of Max and how it's the reason their pairing worked.
+* In February 2018, when [Hannah Telle](hannah_telle.md)'s (Max Caulfield's VA) was asked about their relationship and their love for each other, she said: "Their relationship is bigger than that. Bigger than love. Bigger than romantic." [https://www.youtube.com/watch?v_Xhb_fvZ4UM Video link]
+
+##  Before the Storm 
+*Before the Storm* is set three years prior to the events of the main game and two years after Max moved to Seattle. Max is not making an appearance in *Before the Storm*, as it is set during the period where Max is absent from Chloe's life; however, Chloe is feeling her absence and will reference her throughout the game. Chloe also is writing [Chloe's Letters](letters_to_max.md) which she never sends because she gave up hope that she would ever play an important role in Max's life again.
+
+###  Episode One - "[Episode 1: Awake](awake.md)" 
+[File:Max and Chloe 28.png](left.md)
+[Chloe Price (Before the Storm)](chloe.md) is deeply affected by the absence of [Maxine Caulfield (Before the Storm)](max.md) and this shows in her eager [Chloe's Messages](text_messages.md) and the [Chloe's Letters](diary_entries.md) she has been writing as though she is addressing Max directly. In the very first entry dated March 5, 2010, Chloe tells Max that they haven't talked in three monthsMax's last text message to Chloe was on November 28, 2009. Although Max texting Chloe does contradict the statement that Chloe makes in *Life is Strange: Season 1* when she tells Max, "You were happy to wait five years without a call, or even a text.", despite all her calls and texts. The tone of her diary is very much a deep loss and longing for her best friend to return to her. She uses this "Journal Max" as a sounding board for all of her life problems and life events.Just like in *Life is Strange: Season 1*, the diary is a game mechanic that is used to log player progress and choices. She talks to Max about her intense dislike of her [Joyce Price (Before the Storm)](mother.md)'s new boyfriend, [David Madsen (Before the Storm)](david.md). On April 4, 2010, she also discloses to "Journal Max" a feeling of sexual confusion over fantasizing about Pris from *Blade Runner* - a movie they enjoyed watching together as kids.
+
+Chloe refers to Max in her diary as an "artsy motherfucker" who loves photography more than life itself and more than her. She blames Max's abandoning of her as teaching her the life lesson that she cannot rely on anyone. Chloe also says that the worst part of Max's habitual ignoring of her texts is that she knows that she still misses Max and would take her back in a heartbeat.
+[File:Max and Chloe 29.jpg](right.md)  
+[File:Max and Chloe 28.jpg](thumb.md)
+Chloe has two [Chloe's Dreams](dreams.md) that involve Max. Her first dream is a more pleasant memory where Max has written her a letter that she keeps in her diary. The letter reads:
+
+{{Bigquote
+|*Dear Chloe,*
+
+''I have the best news -- I'm coming back to Arcadia Bay! My dad got a job at the Beacon, and we're moving back in like, a day. How crazy is that?!*
+
+*I've missed you so much, Chloe. I found out the other day that all the letters I've been sending you have been lost in the mail. That's just so, so shitty. I'd never not write you. I'd never forget you. You're my best friend, and I've missed you so much.*
+
+*Promise me the first thing we do when I get back is hit up the Two Whales for some of your mom's waffles. Then we're going to binge watch tv in bed and draw new comics about super hero alter egos of ourselves. Then I'm going to take glamour shots of your beautiful face so all the world can know how incredible you really are.*
+
+*Can't wait!*
+
+*Max.''}}
+
+Max's text messages in this dream are of Max wondering where Chloe has disappeared to, showing that she cares about Chloe disappearing from her, if the shoe were on the other foot, so to speak.
+
+Chloe's next dream is more of a nightmare that shows her diary opened to an illustration of Max hanging from a tree.Max's clothes in this illustration are identical to the clothes she wears in *Life is Strange: Season 1*'s Episode 1 ("Chrysalis") There are some disturbing text messages from Max in this dream that state she will see Chloe "real soon", when Chloe is dead. But if the player reads the messages according to the timestamp, (they are inverted), the messages will seem strangely premonitory and somewhat comforting.
+
+Also of note in this episode is that we see Chloe using the same phone that she had decorated with Max two or more years ago (as seen in *Life is Strange: Season 1*'s Episode 3 if Max had opened one of Chloe's bedroom drawers). Other characters are using smartphones, so for Chloe to hang onto an old phone like this that is decorated with youthful stickers shows just how sentimental it is to her and how truly missed Max is.
+[File:old-phone-bts.png](thumb.md)
+
+###  Episode Two - "[Episode 2: Brave New World](brave_new_world.md)" 
+Just like she does in the first episode, Chloe continues to "communicate" with Max in her diary entries. During this episode, Chloe also comments that she thinks she is more jealous of Max than anything (in relation to Max having escaped Arcadia Bay). In a dream, Chloe receives text messages from Max that tell Chloe they cannot be friends anymore because Chloe got kicked out of Blackwell. Max also questions if they were ever friends. Also in the dream, her dead father, [William Price (Before the Storm)](william_price.md), warns her about getting drawn to fire and its blinding beauty (perhaps a reference to her new friendship with / attraction to [Rachel Amber (Before the Storm)](rachel_amber.md)) and tells her that, "Sometimes there's a greater beauty yet to come" (which may be a reference to Max returning to her in three years).
+
+###  Episode Three - "[Episode 3: Hell Is Empty](hell_is_empty.md)" 
+N/A
+
+###  Bonus Episode - "[Farewell](farewell.md)" 
+Max and Chloe's childhood is further explored in this episode, where the girls go on a treasure hunt just before William dies in a car accident. Following this event, Max moves to Seattle, separating her from Chloe and severing their relationship.
+
+##  Life is Strange 2 
+[File:LiS2E5_Away_-_Max_&_Chloe.png](thumb.md) If Arcadia Bay had perished in the storm, Max and Chloe's friendship has continued into July, 2017. This is first established in the [Episode 5: Wolves](final_episode.md) from a [Media:LiS2 Chloe & Max.png](photograph.md) kept by Chloe's step-father, [David Madsen (Life is Strange 2)](david_madsen.md), who is now part of a remote desert commune in Arizona called "[Away](away.md)."
+There are some differences in their appearance in this photograph:
+* Chloe's tattoo has been given a partial black ink cover-up.Co-Game Director Michel Koch stated that the reasoning behind it was due to a combination of "mixed feelings: angst, remorse, guilt, to not forget who died in the storm, to grow up, to advance in her life," and "to never forget." - Source: [https://twitter.com/DONTNOD_Michel/status/1202347738383425537 Twitter post by Michel Koch] She also appears to be growing her hair out into its natural color. The green that extends down from this could be what remains of the blue-turquoise hair she was seen with in the original game, as blue-turquoise dye fades to green due to its undertones being green (unless it is primed with a purple toner which neutralizes yellows).
+**There is no date to the photograph, but if Chloe was no longer dying her hair after the events of Season 1, then 6 inches of average human hair growth would put this photograph at approximately one year after the events of Season 1. If she continued to dye her hair in a blue-turquoise or even deliberately green, then she could have decided to stop doing this at any time, making it more difficult to date the photograph.
+* With regards to Max, there are no big differences in her appearance other than her bangs looking either grown out or swept aside more.
+
+Polaroids are also seen inside David's trailer, which perhaps implies these were taken by Max and that her interest in retro photography has also continued.
+
+David confides in the [Sean Diaz](main_protagonist.md) of *Life is Strange 2* that he used to hate Max and Chloe for running away - hitting the road and never looking back while he was trying to rebuild. Once he acknowledged that the past was the past and moved on, like they did, he reached out to them, and they made peace with each other. They both stayed at "Away" for a while. During the conversation, he pauses as he refers to Chloe as his "daughter," almost as though he is still getting used to using that word.
+
+The above conversation is interrupted by David's cell phone ringing, and he takes the call in the privacy of his trailer. He opens the call with, "Hey, Sweetie! What's up?" As the conversation unfolds, it becomes clear that this is a call from Chloe. The call implies that Max and Chloe are either in New York or had just had a bad experience with somebody from New York. The experience seems to concern Max and a gallery, and Max may have been trying to submit her work to a gallery or was perhaps applying for a job at one. David is heard to ask Chloe, "How about that other gallery she told me about?" then follows it up with, "Cool! Fingers crossed then!" After his comment about them checking out his working solar panels the next time they come by, he suggests they could maybe drive down to Louisiana or Texas, which could mean they have plans to visit soon. He ends the call with, "Wish Max luck for me, okay? Bye bye, love ya!"
+
+It is clear from *Life is Strange 2* that, if Arcadia Bay was sacrificed, Chloe and Max continue to be there for one another (which may have also evolved into a romantic relationship) and that Chloe has now accepted David as a father figure in her life.
+
+##  Life is Strange: True Colors 
+Max and Chloe are only mentioned in the game's [Wavelengths](dlc_chapter.md).  In the Halloween segment (if Arcadia Bay was sacrificed), while Steph and [Mikey North (Wavelengths)](mikey.md) are playing tabletop, Mikey asks Steph if she ever talked to Chloe. Steph says that she's "off the radar" like her and she is wandering with her other "weirdo" (a reference to Max).
+
+##  Memorable Quotes 
+###  Life is Strange 
+{{Quote|I'm so glad that you're my partner in crime." - "As long as you're my partner in time."|Max and Chloe's response in "Chaos Theory"}}
+{{Quote|Can't we build another pirate fort and shut the world out?|Max to Chloe in "Out of Time"}}
+{{Quote|How can this be such a shitty week, and yet one of the best of my life?" - "Because we're back in action again!|Chloe and Max's response after dropping Max off at Blackwell in "Out of Time"}}
+{{Quote|Last time I saw you and Chloe in your pirate outfits, I knew she would never find a better friend.|Joyce to Max in "Chaos Theory"}}
+{{Quote|Max, don't look so sad. I'm never leaving you.|Chloe in "Chaos Theory"}}
+{{Quote|I just don't think anybody's good enough for you. Besides me... |Chloe to Max in "Chaos Theory"}}
+{{Quote|I’ll just drift asleep... dreaming of us here together... forever." - "Chloe...|Chloe and Max's dialogue in "Dark Room" - alternative timeline}}
+{{Quote|Listen, whatever happens, I want you to be strong. Even if you feel like I wasn't there for you... because I will never abandon you, Chloe. I'll always have your back. Always.|Max to Chloe before letting William die again in "Dark Room"}}
+{{Quote|As you've noticed, this whole town is messed up. We can't trust anybody... Except each other.|Chloe to Max in "Dark Room"}}
+{{Quote|All those moments between us were real, and they will always be ours.|Chloe to Max in "Polarized"}}
+{{Quote|Max, you finally came back to me this week, and... you did nothing but show me your love and friendship.|Chloe to Max in "Polarized"}}
+{{Quote|I've always wanted my life to be special, an adventure. But not without you.|Max to Chloe in "Polarized"}}
+{{Quote|I'll always love you, now get out of here please, do it before I freak. And Max Caulfield? Don't you forget about me..." - "Never.|Chloe and Max's response in the Sacrifice Chloe ending}}
+{{Quote|Max... I'll always be with you..." - "Forever.|Chloe and Max's response in the Sacrifice Arcadia Bay ending}}
+
+###  Before the Storm 
+{{Quote|You are one of a kind, Chloe Price." - "What?" - "I'm lucky your my best friend, that's all." - "Damn right you are, you mushy weirdo!|Max and Chloe in "[Farewell](farewell.md)" (determinant)}}
+{{Quote|You know what, Max Caulfield?" - "What, Chloe Price?" - "You're the frickin' best. That's all." - "Talk about mushy. Where'd that come from?" - "Just thinking about how awesome this day is. And how awesome we are.|Chloe and Max in "Farewell" (determinant)}}
+{{Quote|Just like old times, huh, Max? Remember how we used to talk about ruling the Bays of Arcadia one day? We thought we were gonna be pirates forever." - "If being a pirate means acting silly and going on crazy adventures together, then we'll always be pirates.|Chloe and Max in "Farewell" (determinant)}}
+{{Quote|Hey, ready for something else? I've got a great plan for the rest of the afternoon." - "(thinking) Crap. I don't want to ruin the rest of the day." - "You're staying for dinner, right?" - "(thinking) Would Chloe even want me to tell her?|Chloe and Max in "Farewell"}}
+{{Quote|We're Max and Chloe, remember? We're always together, even when we're not.|Chloe in "Farewell" (determinant)}}
+{{Quote|Chloe, listen. Even if I never—even if we're moving for good... We're always together, okay? Even when we're apart. We're still Max and Chloe. I will always, always love you. Goodbye.|Max in "Farewell"}}
+
+##  Trivia 
+**Life is Strange* - In [Episode 1: Chrysalis](episode_1.md), when Max is in [Chloe's Room](chloe_s_bedroom.md), she can open a drawer in the blue dressing cabinet and see an old drawing they did together (believed to have been made on the same day as another image dated 07.28.2007 that we see with it on the lounge table in an earlier timeline). In Episode 3, there is now an old [Media:LifeIsStrange 2016-07-28 14-25-37-504.png](cell_phone.md) lying on top of this drawing. Max comments that she remembers this phone because they had decorated it together ("Chloe + Max" is scratched into the paint). The appearance of this phone implies that Chloe has been going through all of her things that remind her of the old days with Max, as though she has been reminiscing about their friendship when Max isn't around. This is further supported in Episode 3 by Max finding a photo of the two of them on her 10th birthday inside Chloe's shoe box of photos. This photo was either not visible or present in Episode 1, as Max only commented on photos she saw of Chloe and her real father. It appears that the photo of Max and Chloe together may have been placed on the top.
+**Life is Strange*'s [Don't Nod](developers.md) had the following dynamics for Max and Chloe's relationship in mind: "We wanted them to be quite different. We wanted Chloe to be the best friend [to Max], but we also wanted her to be one of the main antagonists. We tried to find a balance in the hostile best friend."[https://www.polygon.com/2014/8/14/6003109/remember-me-creators-next-game-looks-like-gone-home-with-time-travel Remember Me creator's next game looks like Gone Home with time travel] (August 14, 2014)
+* *Life is Strange* - There are options to change the lock screen on Chloe's phone from a picture of Chloe and Rachel to one of just Max. However, the lock screen will remain unchanged no matter what if Max does not hide from David and blames Chloe directly for the weed he finds in Chloe's room in Episode 1.
+* *Life is Strange* - Throughout the game, the color blue seems to be associated with Chloe, and pinks and pinkish reds seem associated with Max. It may not be a coincidence that Max has a blue screensaver on her computer and Chloe has a pinkish red one. Even in the alternative timeline, Chloe has the same color screensaver.
+* September 21, 2008 to March 10, 2009 is the only date range where Chloe would be 14 and Max would be 13. Max left Arcadia Bay when Chloe was 14, and we know that Max was 13 when William Price died in a tragic car accident in 2008. (The date range for William's death could only be September 21 to December 31 based on the months in 2008 where Max is 13.)
+* Chloe would have started as a freshman at Blackwell Academy in fall 2008 at age 14. Max would have still been in Arcadia Bay when Chloe started going to school at Blackwell, as Max only turned 13 in September 2008.
+*The fan community refers to a romantic pairing between Max and Chloe as "Pricefield," and those who support a romance are referred to as "Pricefielders."
+**Life is Strange 2* - In July, 2017 (the month the [Sean Diaz](main_protagonist.md) leaves the desert commune where Chloe's step-father now lives), Chloe would be 23 years of age and Max would be 21 years of age (turning 22 two months later).
+
+###  Life is Strange 
+# ###  Mementos 
+
+childdrawing1.png|A childhood drawing depicting Max and Chloe as superheroes.
+childdrawing2.png|Another drawing in which they are film noir characters.
+Chloe's room - toy.png|An old phone that they decorated together.
+drawingboard.png|Board from Chloe's backyard.
+piratetowel.png|Pirate towel from Chloe's bathroom.
+maxchloe-bffpirates.png|Lighthouse stump inscription.
+
+# ###  Photos 
+
+Chloe_Max_Photo1.jpg|Max and Chloe dressed as pirates.
+Max and Chloe - Young - Photo.jpg|Chloe and Max (2008).
+Max 10th birthday.jpg|Chloe and Max on Max's tenth birthday.
+maxandchloe-ep1chloepola.png|Photo of Chloe taken by Max in Episode 1
+maxandchloe-ep3selfiepola.png|Max and Chloe's selfie from
+Episode 3
+
+# ###  Screenshots 
+
+LifeIsStrange Truck Chloe Max.jpg|Chloe meeting Max for the first time after 5 years ("Chrysalis").
+Life-is-strange-max-chloe.jpg|Chloe looking at Max ("Chrysalis").
+LifeIsStrange max and Chloe look into sunset.jpg|Max and Chloe looking at the sunset ("Chrysalis").
+Max and Chloe 02.png|Max and Chloe high five ("Out of Time").
+Maxandchloe2.jpg|Max and Chloe sitting on a car boot ("Out of Time").
+LifeIsStrange 2015-05-25 08-33-53-76.png|Max and Chloe walking on the train tracks ("Out of Time").
+Thisislove.gif|Chloe hugging Max after being saved ("Out of Time").
+Chloe's stare.jpg|Chloe looking at Max ("Chaos Theory").
+Vlcsnap-2016-09-04-15h25m40s065.png|Max and Chloe in the pool ("Chaos Theory")
+Max and Chloe in pool.gif|Max looking at Chloe ("Chaos Theory").
+Max and Chloe 09.png|Max kisses Chloe in Episode 3 (determinant).
+Max and Chloe 13.png|Max and Alternative Chloe on the beach ("Dark Room").
+Max and Chloe 16.png|Max and Alternative Chloe looking though the photo album ("Dark Room").
+Find someone who look at you the way chloe looks at max.jpg|Alternative Chloe looking at Max ("Dark Room").
+1474595306130.jpg|Max running to hug Chloe ("Dark Room").
+Pricefield ending2.png|Max and Chloe can kiss each other in the Sacrifice Chloe ending (determinant).
+Max and Chloe kiss.png|Close up on the kiss.
+maxchloe-sacrificetown.png|Chloe and Max holding each other in front of the storm in the Sacrifice Arcadia Bay ending (determinant).
+Max and Chloe 23.png|Max looking at Chloe in the Sacrifice Arcadia Bay ending.
+Max and Chloe 22.png|Chloe looking at Max in the Sacrifice Arcadia Bay ending.
+
+###  Before the Storm 
+# ###  "Farewell" Screenshots 
+
+Max and Chloe - Farewell - Settingupbomb.png|Max and Chloe setting up the bomb
+Max and Chloe - Farewell - Hiding Behind Bed.png|Max and Chloe hiding behind the bed
+Max and Chloe - Farewell - Looking Around Chloe's Room.png|Max and Chloe looking around [Chloe's Room (Before the Storm)](chloe_s_room.md)
+Max and Chloe - Farewell - Listening to 2003.png|Max and Chloe listening to a recording from 2003
+Max and Chloe - Farewell - hugging.png|Max and Chloe hugging in the backyard
+Max and Chloe - Farewell - Looking at Barrel.png|Max and Chloe looking at the buried barrel
+Max and Chloe - Farewell - Reminiscing.png|Max and Chloe going through their mementos
+Max and Chloe - Farewell - On Couch.png|Max and Chloe sitting on the couch
+Max and Chloe - Farewell - Always Together.png|Max and Chloe promising each other to always be together
+Max and Chloe - Farewell - Meeting Joyce.png|Max and Chloe seeing a crying [Joyce Price (Before the Storm)](joyce.md)
+
+=# ###  Photos 
+...
+
+##  Notes 
+
+*, *{{Wiki|Power Rangers}}*, *{{Wiki|Blue's Clues}}* and *{{Wiki|Teletubbies}}'', and they had movie nights and played video games together. They had a tree fort, the location of which Chloe [Media:Note-lighthouse-map.png](marked.md) on the orientation map of [Arcadia Bay](arcadia_bay.md) at the [lighthouse](lighthouse.md) so they would "always be able to find each other in case of emergency." The girls also seem to tag locations where they shared games and adventures, proven by the tree stump engraving at the lighthouse.
+
+In 1999, Chloe's parents bought her a kitten named [Bongo](bongo.md), which would later become part of Max and Chloe's "superhero adventure" drawings. After he got killed by a car, Chloe and Max made a gravestone for him located in Chloe's backyard. Also in the backyard of Chloe's house, there is a swing which Max and Chloe would take turns on when they were little. Chloe liked to fly way up into the air, while Max was scared and always jumped off before falling.Max remembers this if she uses the swing in "[Episode 3: Chaos Theory](chaos_theory.md)". There is also a wooden board decorated by the two girls, although the drawing is now barely visible. This board is later used to sort out the clues in Max and Chloe's investigation on the [:Category:Dark Room Conspiracy](dark_room_conspiracy.md).
+
+In 2008, the girls were having secret "wine-tasting sessions" at Chloe's house, one of which is remembered by Max when she visits Chloe's house for the first time in five years. The wine spilt on the carpet in the dining room had left a stain which couldn't be washed out and remains visible to the present day. (It is likely that this stain was what gave their wine tasting activities away to Chloe's parents.)
+
+At some point in 2008, Max and Chloe were making pancakes together with William at Chloe's house when [Joyce Price](chloe_s_mom.md) called and asked William to pick her up from the [Sav-Mart](grocery_store.md), which led to William's death in a car accident. Although Max was supportive at the time, she soon moved to Seattle with her [:Category:Caulfield Family](parents.md), leaving her best friend and her old life behind. The two fell out of touch until Max's return to Arcadia Bay five years later. 
+
+: ''For a more detailed breakdown of Max and Chloe's childhood, click [Young Max and Chloe](here.md).''
+
+##  Life is Strange 
+###  Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+[File:Max and Chloe 24.png](thumb.md) After taking a photo of the [Blue Butterfly](blue_butterfly.md) and finding out she can [rewind](rewind.md) time, Max saves a blue-haired girl from accidentally being shot by [Nathan Prescott](nathan_prescott.md) in the girls' bathroom of [Blackwell Academy](blackwell_academy.md). This girl is later revealed to be Chloe. Nathan finds out Max was in the bathroom and confronts her at the [Blackwell Parking Lot](blackwell_parking_lot.md), but Chloe shows up in [Chloe's Truck](her_truck.md) and rescues Max.
+
+On the way to Chloe's house, Max and Chloe talk about Max's time in Seattle. Chloe is unhappy and somewhat angry with Max for abandoning her and not contacting her despite being in Arcadia Bay for a month. Max finds out her [Max's Camera](camera.md) is broken, and Chloe offers to fix it with [David Madsen](her_stepdad.md)'s tools.
+
+[File:Life-is-strange-ep1.jpg](thumb.md) In [Chloe's Room](chloe_s_room.md), Max may find mementos from their childhood, such as an old phone and drawings. Chloe starts smoking and asks Max to put on music. Unable to find a disk elsewhere, Max discovers a metal box containing photos of [Rachel Amber](rachel_amber.md) under Chloe's bed. It is revealed that Rachel was Chloe's best friend during Max's time away, but went missing six months ago. Chloe has since been desperate to find her.
+[File:Max and Chloe 25.png](thumb.md) Max finds the tools for her camera in the [David's Garage](garage.md) of Chloe's stepdad, who turns out to be [David Madsen](david_madsen.md) and returns to Chloe's room. She then puts all the photos she took during the day on the table and tries to fix her camera but to no avail. Chloe gets up and looks through Max's photos. She notices the blue butterfly among them and realizes that it was Max who set off the alarm and thereby saved her life. She may become a bit angry if Max reveals she told [Raymond Wells](principal_wells.md) about what happened. Then Chloe gives William's camera to Max as a late birthday present. Max is initially hesitant in taking it, but Chloe insists that it would be used awesomely in Max's hands, and takes the butterfly photo as a symbol of their renewed friendship. Chloe puts on loud music and the girls start dancing but are shortly thereafter interrupted by David, who expresses his disapproval of Chloe's music and is on his way to her room. Chloe tells Max to hide somewhere, puts off her joint and lays it on the table. David comes in and asks Chloe if she took one of his missing guns, which Chloe refuses. David notices the joint and immediately demands an explanation.
+
+Don't hide, Take the blame# Max is unable to hide in time, and Chloe blames the joint on her. Max agrees, and David corners her, threatening to call the police and accusing Max of "dragging Chloe down". Chloe defends Max and David leaves the room. Chloe feels like she's won a victory against David and offers Max to hang out somewhere else.
+|-|Don't hide, Blame ChloeMax is unable to hide in time, and Chloe blames the joint on her. Max disagrees, and David says Chloe gave Max "good friend rates". This causes Chloe to start an argument, which leads to her being slapped by David. After he leaves the room, Chloe becomes upset at Max and says she's no better than everyone else in Chloe's life. Chloe wishes she hadn't even seen Max and leaves her room immediately.
+|-|Hide, Step in# Max hides in the closet, but steps in and says the joint is hers. David corners Max, threatening to call the police and accusing Max of "dragging Chloe down". Chloe defends Max and David leaves the room. Chloe feels like she's won a victory against David, and shows Max David's gun she has stolen from him sometime before. Max dislikes that and says she doesn't want Chloe in any more trouble, but Chloe states she needs self-defense, then offers Max to hang out somewhere else.
+|-|Stay hiddenMax hides in the closet and stays hidden as an argument breaks out between Chloe and David, which eventually leads to David slapping Chloe. After David leaves the room, Max comes out of hiding and comforts Chloe, apologizing for what happened. Chloe says it could have gone worse and offers Max to hang out somewhere else.
+
+Chloe takes Max to the lighthouse, where they have a conversation about David and Nathan. Max may tell Chloe about David having installed cameras in the Madsen Household. [File:Max and Chloe 26.png](thumb.md) Then Chloe confides in Max that she had been drugged and photographed by Nathan, and came to the bathroom in an attempt to blackmail him. After Max collapses with her vision, Chloe initially doesn't believe her friend, advising her to get high to get over her delusions. However, Max ultimately convinces her of the truth that she can rewind time after the snowstorm begins.
+
+###  Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+Shortly after waking up, Max gets a [Max's Messages](message.md) from Chloe asking her to meet up at the [Two Whales Diner](two_whales_diner.md). Max comments that she enjoys having Chloe back in her life again, in spite of all the crazy things that have happened in the past days. Another message notifying Max that Chloe will be late arrives as Max is about to enter the diner.
+
+[File:Max and Chloe in Diner.png](thumb.md) Chloe arrives after a while, and immediately wants proof of Max's new-found powers. Max obliges by telling her the contents of her pockets; a parking ticket for 10:34 AM, a pack of 7 cigarettes, a robot panda keychain and 86 cents. For further proof, Max predicts the future in the diner to Chloe's amazement. One of the first comments Chloe makes about Max's power is: "Maybe you made a move on me and I would never know", which might hint that Chloe subconsciously wants that to happen. Max gets a nosebleed from overusing her powers. Chloe then asks Max to come with her to a secret spot in order to further test her powers.
+
+Before leaving, Max gets a phone call from Kate. Max chooses whether to answer or not.
+
+Answer#  If Max stops to answer the phone and comfort Kate, Chloe will be caught by Joyce and the two will argue. Chloe doesn't appreciate that Max fobbed her off for one of the new Blackwell friends she sees everyday. 
+|-|Don't answer If Max doesn't answer Kate's call, Chloe will be happy to escape the diner before her mother can start a fight between them, and gives Max a high-five.
+
+The two girls leave for the [American Rust Junkyard](american_rust_junkyard.md). Chloe expresses her joy about having Max back in her life and even more about Max's superpower. She sends Max off to find five beer bottles while Chloe herself prepares a gun range for the test.
+
+Having found all the bottles, Max returns to Chloe and helps her at the shooting range, rewinding for more impressive shots. They then try shooting other objects around the junkyard as well as an old car. If Chloe shoots the car bumper, she accidentally shoots herself, causing Max to rewind again. [File:Max and Chloe 27.png](thumb.md) Max passes out from using her power too much and awakens to Chloe comforting her. Chloe sits on the hood of a car, waiting for her friend to recover enough to have her turn at shooting. As Max handles the gun, [Frank Bowers](frank_bowers.md) shows up, having followed them and heard the gun noises and breaking glass. He threatens Chloe, demanding the money she owes him. Mid-conversation, Chloe notices a bracelet on Frank's wrist belonging to Rachel. She interrupts him, asking where he got the bracelet. He pulls a knife on her, and Max intervenes by revealing the gun and aiming at Frank. She must then decide whether to shoot or not to shoot him.
+
+Shoot#  As Max pulls the trigger, the gun clicks, out of ammo. Frank is furious, saying he will remember that you tried to shoot him. However, Chloe is impressed and compliments Max for standing her ground.
+|-|Don't shoot If Max fails to pull the trigger, Frank leans forwards and takes the gun. He leaves, and Chloe seems unimpressed that Max lost her only form of protection against her enemies.
+
+[File:Max and Chloe 03.png](thumb.md) Regardless of the outcome, Max and Chloe leave the junkyard to venture the train tracks. They talk about Frank and Rachel, and Max expresses her wish to build another "pirate fort" where she would be alone with Chloe. As Max gets up to take a photo of the sun, she falls into another vision and shortly afterwards hears Chloe calling for help. Max realizes that Chloe is stuck inside the tracks, and has to be quick in freeing her because a train is approaching.
+
+Didn't damage the train tracks# Max saves Chloe by obtaining a crowbar to open the door to a small office and finding a pair of wirecutters inside. Max uses this pair of wirecutters on the fuse box by the tracks to cut a set of red wires, which releases the tracks' grip on Chloe, allowing her to escape.
+|-|Damaged the train tracks Max saves Chloe by pushing a large bollard onto the tracks. This results in the tracks breaking, but Chloe being able to run away. 
+
+[File:Max and Chloe 04.png](thumb.md) Max lifts Chloe up just in time, and Chloe remarks that they are now bonded for life. The two head back to Chloe's truck, as it is time for Max to return to Blackwell. Upon arrival, they have a short conversation about the Chaos Theory and Chloe drops Max off, leaving to head home.
+
+In the ending cutscene, Chloe can be seen texting Max as they both witness the eclipse.
+
+###  Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+[File:Max and Chloe 05.png](thumb.md) Max is awoken at midnight by a message from Chloe asking her to meet up in front of [Blackwell Campus](campus.md). If Max decided to shoot Frank in Episode 2, Chloe will also jokingly propose to Max to marry her, though Max responds that same-sex marriage is illegal in Oregon for the time. Chloe jumpscares Max when she approaches, screaming "booyah" as a joke. Max does not appreciate that action, especially if she wasn't able to save Kate earlier, though Chloe apologizes immediately and says she doesn't know how to deal with such situations. They talk about Kate and Rachel and decide to search for clues so that a similar thing doesn't happen to anyone else. Chloe shows Max the spare keys to Blackwell she stole from David, and they move on to explore the main building.
+[File:Chloe breaks lock.png](thumb.md)
+Chloe suggests examining the [Principal Wells' Office](principal_s_office.md) first, but shortly thereafter finds out the key to the office is missing. She reveals to Max that she learned to lockpick from Frank sometime before and tries to pick the lock while Max decides to call Warren for help. When Warren mentions going drive-in once again on phone and Max responds to him whether if she can go or not, camera focuses on Chloe where she gives a look to Max, which suggests that she got jealous.
+
+Eventually Max manages to construct a makeshift pipe bomb and blows the lock up.[File:Max and Chloe 06.png](thumb.md) This causes the school alarm to go off, and Max rewinds time and opens the door for Chloe from the inside, visibly impressing her. As they are getting ready to leave, Chloe searches through the principal's desk drawers and uncovers an envelope full of money that is labelled as the school's handicapped fund. Chloe wants to take it to pay Frank back, but it is up to Max on whether to allow Chloe to steal the money or not.
+
+Leave the money# Max thinks that paying Frank back isn't worth getting into trouble and risking divine retribution for stealing the money meant for the school's handicapped fund. Chloe feels disappointed and puts the money back inside the drawer.
+|-|Steal the moneyMax reasons that Frank might be more willing to talk about Rachel if he's been paid. Chloe hugs Max joyfully and offers to take her on a road trip to Portland with the leftover money.
+
+After leaving the office, Chloe suggests to Max that they have a late night swim at the [Blackwell Swimming Pool](blackwell_swimming_pool.md) all to themselves. Although initially hesitant, Max finds herself unable to refuse Chloe's offer as she feels that after the crazy day's events they "hella deserve" some mindless fun in the water. Upon hearing the word "hella," Chloe declares that she is indeed a "good bad influence" on Max.
+
+[File:Dontlooksosadimneverleavingyou.png](left.md)
+At the pool, Chloe asks Max to turn on the pool lights, and then jumps in and starts swimming. When Max approaches, Chloe splashes water on her, taunting her to enter the pool. Max jumps in the pool, yelling "cowabunga", and the girls start attacking each other in the "[The Otters](otter.md) vs [Mr. Sharkie](shark.md) style". Chloe expresses her wish for Rachel to be with them now, and Max says they will eventually meet each other. Chloe then says that Max's power is changing her personality in a positive way and that she's not so "chickenshit" as she used to be. Max still feels unsure about the true meaning of her power, but Chloe remarks that weren't the case when Max saved her, probably due to the strong connection between them. Max tells Chloe that she makes Max feel more sure about her actions, and Chloe responds that Max instead gives her a reason for staying in Arcadia Bay. Chloe sees Max as the smartest and most talented person in her life and promises to never leave her. The girls get cold and decide to exit the pool.
+
+Dressing up, Chloe says "You look cute with your hair soaked in chemicals." and Max thanks her. As they are going to leave the building, Blackwell security enters and starts to sweep the area. Sneaking past the guards, Max and Chloe run to the parking lot and drive to Chloe's house, where they have a sleepover.
+
+[File:Vlcsnap-2016-09-04-15h35m44s526.png ](thumb.md) 
+In the morning, Max takes her usual daily selfie with Chloe by her side. They have a conversation about last night's events and about Max's troubles with submitting a photo for the [Everyday Heroes Contest](everyday_heroes_contest.md). Chloe says she would like to hang out with Max all day like when they were kids, and that now they both are adults and can date freely. Max gets up and finds out her clothes are still wet with chlorine, and Chloe offers her some of the clothes Rachel left. Max may also take a look at Chloe's mobile phone; if Max supported Chloe enough in the previous episodes (took the blame for the weed, didn't answer Kate's call, tried to shoot Frank and allowed Chloe to take the money), the background will be changed from Rachel to Max. A book about mystic weather can be found on the table, and Max comments that Chloe is cute for trying to figure out the meaning of Max's vision.
+
+Opening the closet, Max initially doesn't want to put on Rachel's clothes as they are of a different style, but Chloe encourages her and says she can always rewind if she doesn't like them, as with other chances in her life. As an example, Chloe dares Max to kiss her, and Max's decision will have a crucial impact on their relationship later in the game.
+
+Kiss Chloe# Chloe takes a few steps back in surprise after Max kisses her and remarks that Max is "hardcore". Max's arms linger in the air, which somewhat suggests that if Chloe hadn't jumped back, it would've been longer. Chloe also jokes that she will text Warren that he doesn't stand a chance unless he's into girl-on-girl action. It's later revealed that she really texted Warren. Max will think that it was priceless when she kissed Chloe. In her journal she will also mention that it was cute how Chloe looked embarrassed after the kiss.
+|-|Don't kiss ChloeChloe returns to her bed and remarks that she wasn't that easy to allow any kissing on her, and Max might already have used her rewind power after kissing her. Chloe also jokes that she will text Warren that Max is saving herself all for him. It's later revealed that she really texted Warren. Max will say in her diary that she would have, but she didn't like being dared like it was some big deal and maybe she's scared; that's why she comments she likes that Chloe is so fearless.
+
+After this moment, in either way, Max later states in her journal that "Besides, I think Chloe sees Rachel Amber in her future..."
+
+[File:Max and Chloe 10.png](thumb.md)
+Chloe compliments Max's new outfit and tells her to go downstairs and have breakfast while Chloe "wakes n' bakes". Max goes down and helps Joyce prepare the breakfast, talking to her about Rachel and Chloe. Joyce may reveal that Chloe has been telling her for the last five years that she would like to be more like Max. They also review the family album, and Joyce gives Max a photo of Max and Chloe making pancakes together with William.
+
+Having obtained the files from David's garage, Max is ready to leave with Chloe, but David returns home and an argument breaks out in the living room. Max has to side with either David or Chloe.
+
+Side with David# Max backs David up, saying there is no proof that he has done anything wrong. David moves on to have breakfast. Chloe is disappointed, and asks Max to rewind the situation to change the outcome.
+|-|Side with ChloeMax brings up David's threatening attitude towards students, and his unsettling files containing information about Kate and Rachel. This causes Joyce to kick David out of the house. That visibly pleases Chloe, and she asks Max not to rewind her decision.
+
+[File:Max and Chloe 11.png](thumb.md) Max suggests to Chloe that they search [Frank's RV](frank_s_rv.md) next to find information about Rachel Amber. Inside the RV, Chloe sits in the driver's seat and expresses how awesome it would be to cruise around in the RV with Max. Chloe will ask Max if she could see them travelling together. Max agrees and will, if you kissed Chloe earlier, mention that Chloe would probably want her to kiss her again.  They search Frank's RV and Max finds photo evidence of Rachel Amber being more than "friends" with Frank, as well as romantic letters and notes Rachel wrote to Frank. Max shows everything she found to Chloe, making Chloe enraged at the fact that Rachel lied straight to her face. Chloe says that everyone in her life, including Max, has betrayed her, then runs out of the RV and gets into her truck.
+
+On the way back to Blackwell in Chloe's pickup, Chloe blames her misfortune on the death of her biological father, William, and becomes angry with Max over leaving her, regardless of whether Max sided with Chloe or David earlier. Chloe will drop Max at Blackwell Academy without even looking at Max or waving goodbye to her, which is a large contrast to Chloe dropping Max at Blackwell Academy in Episode 2.
+
+Feeling equally upset at Chloe's outburst, Max will take a look at the last picture Chloe's father took of them after returning to her dormitory room and suddenly discover her ability to jump back in time through photos. Finding herself in her 13-year-old body, Max saves William by hiding his car keys and thus preventing the accident. This action creates an [Alternative Timeline (Life is Strange)](alternative_timeline.md) in which Chloe's life is largely different from her original self: she is severely immobilized and can only breathe with the help of a machine.
+
+###  Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+[File:Max and Chloe 14.png](thumb.md) 
+Max spends time with Chloe in the alternative timeline. Walking along the seafront, Max discovers that Chloe was in a car accident; William gave her the new car for her birthday, and she was hit by an oncoming SUV, causing her to become paralyzed from the neck down. They stop after a while and admire the sunset. Max apologizes again for not staying in touch, but Chloe thanks her for coming and says she's doing awesome.
+
+Chloe starts to feel cold and the girls return to the [Alternative Price Household](price_household.md). After talking for a while about Chloe's condition, she asks Max for a drink of water, saying that it's probably the most she's talked all year. Max can also wipe sandy tears from Chloe's face with a tissue.
+
+[File:Max and Chloe 15.png](thumb.md)
+Max asks Chloe what she wants to do, and she answers that she feels like watching a movie together like in the old times; Max puts on the {{Wiki|*Blade Runner*}} DVD, and the girls watch together. Max warns Chloe that she had better not fall asleep like she used to when they were kids. Ironically, it's Max who falls asleep, while Chloe stays awake all night. Max wakes up and begins talking to Chloe again about their childhood, and how much Chloe appreciates her friendship. She begins to get a headache and asks Max to get her morphine injector from the bathroom for her.
+
+Walking around the Price Household, Max discovers that Chloe's condition is getting worse, and she only has a certain amount of time before she dies. Returning to Chloe with the morphine, Max gives it to her to alleviate her headache. Chloe then wants to review the family album, and Max turns the pages for her. Looking at the photo of them making pancakes, Chloe mentions that she knows exactly what's going on, despite her parents not telling her about the doctor's report. She asks Max to increase her dosage to end her life and stop her suffering. Spending time with Max has reminded Chloe of the happy times when they used to run around Arcadia Bay playing pirates, and Chloe wishes to keep this memory as her last one.
+
+Accept# Max turns the dial on Chloe's morphine drip to its highest setting. Chloe thanks her and says that she is proud of Max for following her dreams. Chloe says that she loves Max and asks to not forget about her. Max promises to never forget about her and adds that she will see Chloe sooner than she thinks.
+|-|RefuseIf Max does not give Chloe an overdose, Chloe will lash out at her, angry that her best friend wouldn't help her with this one request. She wants Max to go away and never come back.
+
+Max focuses on the photo and returns to the year 2008. This time, Max lets William leave the house and burns the photo in the campfire. She has a heartfelt moment of apology with Chloe who doesn't understand the situation, and the timeline corrects itself.
+[File:Max and Chloe 01.jpg](left.md)
+Chloe helps Max to deduce and investigate Rachel Amber's disappearance and Kate Marsh's suicide attempt. They've been up all night and Chloe tries to keep herself awake by drinking coffee. It is evident from Max's messages that she and Chloe made up after Chloe's outburst. After Max returns to the original timeline, she hugs Chloe joyfully, and, if Max decided to kiss Chloe earlier, she will joke, "Whoa! Down, Max! You get one kiss and now you're all over me...". If Max didn't kiss Chloe, Chloe will say "Oh yeah, now you suddenly want to kiss me? You had your chance." Max will reply that she is glad to see Chloe and Chloe will thank her for the "morning grope."
+
+Later, if Max didn't kiss her earlier she will state in her journal "''I've never been so glad to see Chloe in my life. The second I saw her blue hair and that beautiful pissed off face, I kind of regretted not kissing her when she double dared me. Maybe if she had double dog dared me...*", If Max kissed her earlier, she will say *"I've never been so glad to see Chloe in my life. The second I saw her blue hair and that beautiful pissed off face I wanted to kiss her again."''
+
+They decide to search for information from David Madsen, Nathan Prescott and Frank Bowers. While Max is looking for further hints in David's garage, Chloe tries to find some information on the Internet.
+
+Kate Survived#  [File:Max and Chloe 17.png](thumb.md) Max says that she first has to check how Kate's doing in the hospital. When the duo arrives there, Chloe says hospitals always freaked her out. She apologizes to Max for preventing her from being Kate's friend and being angry when she called. Chloe says that Max saved Kate similarly to her. Then she patiently waits outside the room while Max chats up with Kate. In the end, Max thanks Chloe for coming with her and they head to Blackwell.
+
+[File:chloe-shocked.png](thumb.md)
+
+On the Blackwell campus, they stumble upon Mr. Jefferson. After Max introduces Chloe, he asks why somebody as cool as Chloe isn't going to Blackwell, to which Chloe responds, "I was way too cool for this school. It’s a long story. In actual files here." When Jefferson tells Max to come to the [End of the World Party](end_of_the_world_party.md), Chloe says she'll be there as "Max's date".  As he leaves, Chloe remarks "Hot for teacher" as an observation on Jefferson's appearance as she watches him walk away; this was possibly said for Max's embarrassment.
+
+[File:Chloestruck-ep4-maxandchloe.png](thumb.md)
+
+After obtaining clues from Nathan's room, Max and Chloe head to the [Beach](beach.md) to meet with Frank and obtain the code for his account book. Before moving on, they have a short conversation inside Chloe's car about Rachel and their trip to Portland. Chloe says they couldn't have guessed this would happen to them when they grew up. The dialogue with Frank is complex, but there are three main outcomes:
+
+Chloe killed FrankFrank and Pompidou both die after being shot, and killed, by Chloe. Max and Chloe steal his account book key from his dead body. Chloe is terrified by the fact that she had to kill a man and a dog.
+|-|Chloe wounded Frank# Frank is wounded after being either stabbed or shot in the leg by Chloe. He begrudgingly agrees to give Max and Chloe the account book key.
+|-|No one got hurtThe situation is handled well and no one gets hurt. Frank agrees to give you the account book key and becomes an ally in the cause to find Rachel.
+
+The girls finally return to Chloe's house to piece the facts together. If Chloe killed Frank, she will be crying on her bed and Max has to calm her down. Chloe says she will go to the police and promises to take all the responsibility for killing Frank only on herself. Their investigation leads them to an abandoned barn owned by the Prescott family where they discover a hidden underground bunker beneath which was the dark room Nathan was mentioning and illegal photography was carried out on Rachel Amber, Kate Marsh and other missing girls from Arcadia Bay.
+
+[File:Max and Chloe 19.png](thumb.md) Upon seeing Rachel's files, Chloe immediately recognizes a spot from the Junkyard on one of the pictures and rushes there with Max. They find Rachel buried underground and Chloe bursts into tears, with Max also crying and comforting her. Later, Chloe drives Max to the End of the World Party, hoping to confront Nathan and stop him. However, they fail to find him and when Chloe receives a message from Nathan saying he had got rid of all the evidence of Rachel's disappearance, Chloe and Max rush back to the Junkyard in the dark. Suddenly caught by surprise from behind, Max is dosed with sedatives rendering her unable to use her rewind. Hearing Max's warning, Chloe turns around and expresses shock at the culprit which turns out to be Mr. Jefferson. [File:Max and Chloe 18.png](thumb.md) 
+Before she has the opportunity to aim her gun, she is shot in the head and falls backwards onto Rachel's grave. Max's eyes are watering as she witnesses Chloe's death and whispers her name before passing out.
+
+###  Episode Five - "[Episode 5: Polarized](polarized.md)" 
+[File:Maxthoughtinplane.jpg](thumb.md)
+In this episode, Max initially prevents Chloe's death at the hands of Mark Jefferson by rewinding through the selfie she took on the first day of the week in Jefferson's class and informing David of Jefferson's deeds, creating a new timeline where Jefferson was already arrested on Tuesday with Chloe still alive and Max as the winner of the photo contest in San Francisco. Through Max's text messages we get to know that Max was there for Chloe after finding out about Rachel's death on Tuesday; everything that happened the following days in the original timeline probably never did. After Max messaged Chloe about her win on Wednesday, she was evidently very proud and happy for Max and had helped Max to pack for San Francisco. Aside from finding out about Rachel's death, everything seems optimal for Chloe. However, in this timeline, she will apparently be killed by the tornado from the vision that already approached the town in the middle of a phone call with Max in the [Zeitgeist Gallery](zeitgeist_gallery.md). 
+[File:Max and Chloe 20.png](thumb.md) Having witnessed Chloe dying yet again, Max returns to captivity in the Dark Room where Chloe was already dead at that point. Max escaped from the Dark Room with the help of David. After leaving the Dark Room, Max will manage to reach Warren at the Two Whales Diner and successfully revive Chloe yet again by using the selfie photograph that she took with Warren at the End of the World Party and returning to the time it was taken the night before. Max joyfully leaps Chloe's arms once again, much to Chloe's shock.
+[File:Chloe max.jpg](right.md)
+Max warns Chloe of Jefferson's treachery and Nathan's death at his hands. Moreover, Max reveals to Chloe what she had experienced in the alternative timeline where Max prevented William's death and could not keep fixing the altered time. She manages to convince Chloe, and instead of springing Jefferson's trap as they did before, Max and Chloe proceed to report the scandal to David, who promptly, with the help of the police, will arrest Mark Jefferson, and stay at Chloe's home till the [Storm](storm.md) is about to strike. 
+[File:Love.jpg](left.md)
+After altering, Max wakes up at the beach and finds out, with the tornado striking Arcadia Bay the next day, that Chloe took Max to the beach where they would be protected from the storm. Max hugs Chloe and is relieved that she finally managed to keep both of them alive. Chloe offers to get out of Max's life after everything she put Max through, but Max disagrees. Then Chloe mentions once again how well Max has handled all the difficult situations, and that she's the best friend a human can have. Chloe tells Max everything that happened while she was out, and they are on their way to the lighthouse when Max loses consciousness and falls into a disturbing [Max's Nightmare](nightmare.md).
+
+Chloe appears several times during the nightmare and is particularly prominent towards the end. She is depicted in most scenes in a harsh manner, telling Max that she is unworthy of her attentions, or that she should never have come back to Arcadia Bay. Her abandonment issues are accentuated, meant to play on Max's guilty conscience. She is also displayed in a more romantic manner during some scenes; bizarrely hooking up with different characters, to make Max jealous as it's represented as one of her insecurity.Max later says in [Max's Diary](her_diary.md) that she experienced physical pain while seeing Chloe act like that. One of the final scenes in the diner, however, showcase Chloe as the sole person who defends Max and looks out for her, and the digit code needed to get to the diner is 0311, representing Chloe's birthday, 03/11 (March 11th). The scene is followed by heartfelt and prominent moments between the two girls, revealing how close a relationship Max and Chloe have rekindled during the week.
+
+[File:Max and Chloe 21.png](thumb.md) During Max's unconsciousness, Chloe carried Max up to the cliff. When Chloe and Max reach the lighthouse, safe and out of the way of the incoming tornado, Max finally laments to Chloe that she was the cause of the town's destruction. Whereas Chloe, admitting her selfishness after how much Max went through preventing and reviving her from death over and over again, is ready to accept her own fate of death. Chloe hands Max the photograph of the blue butterfly Max took in the Blackwell bathroom and gives her the option to return to the time where Nathan accidentally killed her in the Blackwell bathroom to restore the original timeline, or to move on from the present timeline from there. No matter what decision Max would make, Chloe would be cool either way, as she knows Max would make the right decision.
+
+Sacrifice Arcadia Bay# Max decides not to trade Chloe's life for the sake of the town and tosses the photo of the blue butterfly. Chloe and Max promise each other to always be together and wait at the cliff holding hands until the storm subsides. After taking a final look at the aftermath of the storm, they leave the town in Chloe's truck.
+|-|Sacrifice ChloeMax sacrifices Chloe for the sake of the town and the residents as Chloe suggested. Chloe will say that being together was the best farewell gift she could have hoped for. They will kiss each other if Max supported Chloe on all occasions throughout the game. Chloe says that she will always love Max and will never forget her. Max promises to never forget about Chloe as well.
+
+###  Alternative Timeline 
+[File:Maxstrip.jpg](thumb.md) In the alternative timeline, Max kept in touch with Chloe through letters on parchment paper, which is a hint at the fact that she still valued their friendship. She also sent Chloe one of her selfies from a road trip. However, William is surprised to see Max when answering the door, implying that she did not, in fact, keep in touch as much as she meant to.It took alternate Max 5 months to respond to Chloe, but alternate Chloe just four minutes to respond to Max. Max's diary entries and text messages reveal that Max only marginally thought about rekindling with Chloe since she's been back at Blackwell and that she has been more interested in partying with her new friends.
+
+Chloe is extremely happy to see Max, unlike in the original timeline in which she was accusatory about Max abandoning her. It can be revealed that she was a little hurt by Max not visiting; but she understands, commenting that her friend isn't "SuperMax". Chloe still considers Max as her best friend, still cherishing their childhood memories a lot, and chooses to have Max's company as her last good memory.
+
+The text of Max's letter to Chloe:
+
+{{Bigquote
+|''Chloe, just thought I'd drop you a quick note to let you know I'm thinking about you. I feel so lame writing shit like "I hope you are well" etc. I know your life is so different now and I don't want that to get in the way of our friendship. Yes, I haven't been around lately, but that will change soon.*
+
+*"I hope you are well."*
+
+*Love, Max''}}
+
+# ###  Mirroring 
+In this alternative timeline, there is some amusing mirroring of the [Timeline](original_timeline.md). Alternative Max now says, "hella", much to Alternative Chloe's displeasure (she hates the very word that 'Original Chloe' loves). Alternative Chloe, in turn, comes out with a phrasing that Max uses on a couple of occasions in the original timeline: "the company I keep".
+
+# ###  Academic Life 
+In this timeline, Max is a member of the Vortex Club and appears to be friends with [Victoria Chase](victoria_chase.md). Before Chloe became disabled, she was a straight-A student at Blackwell Academy, which Max discovers when she finds an old report card belonging to Chloe dated May 22nd, 2010. Once she became disabled in 2011, Chloe was no longer able to attend Blackwell Academy due to its lack of facilities to support her special needs.
+
+##  Romantic Instances 
+* At the Two Whales Diner in Episode 2, Chloe jokes about the sexual advantages of Max's proven rewind abilities, adding, "Maybe you made a move on me and I would never know!" Towards the end of this episode, if Max tries to shoot Frank, Chloe will text Max in Jefferson's class, proposing to marry her. Max replies that it is "illegal in Oregon... for now," to which Chloe replies they can elope.
+* Chloe becomes quite playful and more relaxed toward Max in [Episode 3: Chaos Theory](episode_3.md) - presumably an effect of Max's calming influence on her. When they are trying break into the principal's office, Max makes a phone call to Warren for some assistance, but as soon as she replies to Warren's movie night invitation, Chloe stops lock picking to look in Max's direction before losing her temper with the door in what seems like a small fit of jealousy. When inside the principal's office, if Chloe is allowed to take the money she finds in a desk drawer, she excitedly invites Max on a road trip to Portland with the leftover cash, suggesting strip clubs as a destination. She then says she is kidding about the strip clubs before adding an afterthought of, "you never know..." Once outside the principal's office, Chloe wears an impish look on her face and invites Max for a "midnight swim" in the pool. Once Chloe is in the pool and urging Max to join her, she glances away momentarily as Max gets undressed down to her underwear.Fans have speculated a few things about this glance, such as Chloe experiencing a moment of attraction or shyness, or reluctantly looking away to give an awkward Max some privacy. Another speculation is that she may have felt a brief pang of guilt over sharing this moment with Max when she still misses Rachel.
+* The morning after the midnight swim, Chloe dares Max to kiss her, and Max has the option to accept or refuse. If Max does kiss her, she will "forbid" Max from rewinding and taking the kiss back, claiming Max knows she is hotter than any of those Seattle "Artholes." Max will think the kiss was priceless. If Max refuses to kiss her, claiming she is not that easy, Chloe will reply in kind before telling Max to just admit she already "macked" on her before rewinding like it never happened. Max will love Chloe's fearlessness. Chloe may also state she doesn't believe anyone is good enough to be with Max except for her.
+* The [Easily Missed Details (Life is Strange)#Chloe.27s_Phone_Background](lock_screen.md) of Chloe's phone in Episode 3 has an effect on Max. If, up to this point, Max has made choices that please Chloe, the lock screen will display a picture of Max. Max believes this means she has proven herself worthy again.
+* Later in this episode, when Max and Chloe gain access to Frank's RV, Chloe sits herself in the driver's seat and excitedly asks Max if she can see them both heading down the coast in it. Seemingly out of nowhere, Max brings up the earlier kiss dare as though it's still on her mind. If she had kissed Chloe earlier, she tells Chloe that she would probably want Max to kiss her again on this road trip. If she had refused to kiss Chloe, she tells Chloe she would probably dare her to drive the RV like she dared Max to kiss her. There's no response from Chloe to either comment, and Max changes the subject, saying they are on a schedule to look for clues. Chloe replies that she was "just daydreaming."
+* In [Episode 4: Dark Room](episode_4__dark_room.md), after returning to the original timeline, Max will state in her journal: "The second I saw her blue hair and that beautiful pissed off face I wanted to kiss her again", or state that she regrets not kissing Chloe when she had the chance.
+* Also in Episode 4, when Chloe and Max speak with Mark Jefferson on campus, Max seems to stumble over her introduction of Chloe, hesitating slightly before referring to Chloe as her friend. Later, in the same conversation, Chloe refers to herself as Max's date to the End of the World Party.
+* Depending on the choices before this point, at the end of [Episode 5: Polarized](episode_5__polarized.md), if Max chooses to sacrifice Chloe, the two may share a long and passionate kiss before Max changes the timeline. If Max sacrifices Arcadia Bay, the two will survive the storm and ride into the sunset (or sunrise depending on when they left).
+* If the player presses **Tab** just after the nightmare sequence, they can access Max's last journal entries which are heavily focused on her feelings about Chloe. If the player didn't kiss Chloe in Episode 3, Max asks herself if she has subconsciously been developing some feelings for Chloe. If the player chose to kiss Chloe, Max seems more sure about her feelings. (''[Max's Diary#finalentry](click_here.md) to read the entries'')
+
+##  Anecdotes 
+###  Wine Tasting Sessions 
+There are three instances in which Max and Chloe's "wine tasting sessions" are mentioned. The first is when Max is at Chloe's house for the first time in the game and is able to explore the living room. She finds the stain that was left from one time when they had spilt the wine on the ground and it makes her remember that situation vividly. The second one is when Max goes back to 2008 and tries to prevent William's death. When William is leaving the house, he says, "And no Max and Chloe wine tasting sessions." The third instance is when Max makes a passing comment at the Zeitgeist Gallery: "Champagne makes me think of me and Chloe getting busted with that wine..."
+
+If Max sits on the couch in the living room, she will reminisce the moment between her and Chloe:
+
+**Chloe: **Come on, open it chicken!
+**Max: **Hold on. And I'm not chicken!
+**Chloe: **Prove it! You drink first, Max!
+**Max: **No way! It was your idea, Chloe!
+**Chloe: **Whateva. Give me that bottle.
+**Max: **Well?
+**Chloe: **Tasty. Very tasty.
+**Max: **Here, I want a sip!
+**Chloe: **Sorry, this is not for kids.
+**Max: **Don't be greedy! Gimme some!
+**Chloe: **Oh shit, the carpet!
+**Max: **There's wine all over! What do we do now?
+**Chloe: **My parents are coming! Cover it up...
+
+###  TPing the Neighbor's House 
+After their Blackwell night trip, Max mentions in her diary (page 47) how it reminded her of the time they were going to TP one of the neighbor's houses. They snuck out but ended up being too afraid to go through with it and ran back home.
+
+"''Even though my body smelled like I had been doused in chlorine, it was so nice to crash in Chloe's room for the first time in five years and wake up next to her like our old sleepovers... For some reason, it reminded me of the time we were going to TP one of the neighbor's houses and we even snuck out but got chicken and ran back home, laughing all the way..."*
+
+##  Views on their Relationship 
+* In the [Developer_Diary_Series_(Life is Strange)](developer_diary_series.md) in January 2015, [Michel Koch](michel_koch.md) and [Raoul Barbet](raoul_barbet.md) stated their very first interpretation of the relationship was "Max and Chloe are different, but they are also opposite and complementary at the same time. I think one is not good without the other."[https://youtu.be/Z-lDFJH_IHc?t# 8m49s Life Is Strange Developer Diary - A New Beginning]; [https://i.imgur.com/yZ5jj7S.jpg Screenshots]
+* In October 2015, Co-game Director Michel Koch said in a [https://twitter.com/DONTNOD_Michel/status/658789176955924480 Twitter reply] to another user that Max and Chloe can still continue as just best friends after the ending, because, to him, *"it really depends on the way you played Max and her relationship with Chloe through the game."'' The localized files for the final pages of Max's journal are given the prefixes 'FRIEND' or 'LOVE', so this correlates with what the Co-game Director has said. It seems from certain comments in Max's journal, regardless of how you play the game, that Max has developing feelings for Chloe, shows general disinterest in Warren at this particular time and even writes that she regrets not kissing Chloe if she hadn't kissed her earlier when she was dared; but as Michel Koch has said, this does not mean a romantic relationship is guaranteed to happen if that's not how the player sees things unfolding between them after the "Sacrifice Arcadia Bay" ending. Regarding why they aren't seen to kiss in this ending if the same criteria has been met that achieves the "Pricefield kiss" in the "Sacrifice Chloe" ending, Michel Koch says earlier in the same [https://twitter.com/DONTNOD_Michel/status/657051836147351552 Twitter thread] that, ''"It wasn't the moment, with all the destruction and death... It will certainly happen after, it's an open end."''
+* In February 2016, Michel Koch confirmed that Max and Chloe is the ultimate pairing during a [https://www.twitch.tv/videos/39608332 Twitch stream] with [Luc Baghadoust](luc_baghadoust.md). When interviewers asked about romance (i.e. Max and Chloe's relationship), he replied: "''Chloe et Max ne marchent qu'ensemble''", which means they "only walked together" (as also in romantically attached to each other) as in they are a great pair and can only function with each other. He also called Chloe an antagonist and her being the opposite of Max and how it's the reason their pairing worked.
+* In February 2018, when [Hannah Telle](hannah_telle.md)'s (Max Caulfield's VA) was asked about their relationship and their love for each other, she said: "Their relationship is bigger than that. Bigger than love. Bigger than romantic." [https://www.youtube.com/watch?v_Xhb_fvZ4UM Video link]
+
+##  Before the Storm 
+*Before the Storm* is set three years prior to the events of the main game and two years after Max moved to Seattle. Max is not making an appearance in *Before the Storm*, as it is set during the period where Max is absent from Chloe's life; however, Chloe is feeling her absence and will reference her throughout the game. Chloe also is writing [Chloe's Letters](letters_to_max.md) which she never sends because she gave up hope that she would ever play an important role in Max's life again.
+
+###  Episode One - "[Episode 1: Awake](awake.md)" 
+[File:Max and Chloe 28.png](left.md)
+[Chloe Price (Before the Storm)](chloe.md) is deeply affected by the absence of [Maxine Caulfield (Before the Storm)](max.md) and this shows in her eager [Chloe's Messages](text_messages.md) and the [Chloe's Letters](diary_entries.md) she has been writing as though she is addressing Max directly. In the very first entry dated March 5, 2010, Chloe tells Max that they haven't talked in three monthsMax's last text message to Chloe was on November 28, 2009. Although Max texting Chloe does contradict the statement that Chloe makes in *Life is Strange: Season 1* when she tells Max, "You were happy to wait five years without a call, or even a text.", despite all her calls and texts. The tone of her diary is very much a deep loss and longing for her best friend to return to her. She uses this "Journal Max" as a sounding board for all of her life problems and life events.Just like in *Life is Strange: Season 1*, the diary is a game mechanic that is used to log player progress and choices. She talks to Max about her intense dislike of her [Joyce Price (Before the Storm)](mother.md)'s new boyfriend, [David Madsen (Before the Storm)](david.md). On April 4, 2010, she also discloses to "Journal Max" a feeling of sexual confusion over fantasizing about Pris from *Blade Runner* - a movie they enjoyed watching together as kids.
+
+Chloe refers to Max in her diary as an "artsy motherfucker" who loves photography more than life itself and more than her. She blames Max's abandoning of her as teaching her the life lesson that she cannot rely on anyone. Chloe also says that the worst part of Max's habitual ignoring of her texts is that she knows that she still misses Max and would take her back in a heartbeat.
+[File:Max and Chloe 29.jpg](right.md)  
+[File:Max and Chloe 28.jpg](thumb.md)
+Chloe has two [Chloe's Dreams](dreams.md) that involve Max. Her first dream is a more pleasant memory where Max has written her a letter that she keeps in her diary. The letter reads:
+
+{{Bigquote
+|*Dear Chloe,*
+
+''I have the best news -- I'm coming back to Arcadia Bay! My dad got a job at the Beacon, and we're moving back in like, a day. How crazy is that?!*
+
+*I've missed you so much, Chloe. I found out the other day that all the letters I've been sending you have been lost in the mail. That's just so, so shitty. I'd never not write you. I'd never forget you. You're my best friend, and I've missed you so much.*
+
+*Promise me the first thing we do when I get back is hit up the Two Whales for some of your mom's waffles. Then we're going to binge watch tv in bed and draw new comics about super hero alter egos of ourselves. Then I'm going to take glamour shots of your beautiful face so all the world can know how incredible you really are.*
+
+*Can't wait!*
+
+*Max.''}}
+
+Max's text messages in this dream are of Max wondering where Chloe has disappeared to, showing that she cares about Chloe disappearing from her, if the shoe were on the other foot, so to speak.
+
+Chloe's next dream is more of a nightmare that shows her diary opened to an illustration of Max hanging from a tree.Max's clothes in this illustration are identical to the clothes she wears in *Life is Strange: Season 1*'s Episode 1 ("Chrysalis") There are some disturbing text messages from Max in this dream that state she will see Chloe "real soon", when Chloe is dead. But if the player reads the messages according to the timestamp, (they are inverted), the messages will seem strangely premonitory and somewhat comforting.
+
+Also of note in this episode is that we see Chloe using the same phone that she had decorated with Max two or more years ago (as seen in *Life is Strange: Season 1*'s Episode 3 if Max had opened one of Chloe's bedroom drawers). Other characters are using smartphones, so for Chloe to hang onto an old phone like this that is decorated with youthful stickers shows just how sentimental it is to her and how truly missed Max is.
+[File:old-phone-bts.png](thumb.md)
+
+###  Episode Two - "[Episode 2: Brave New World](brave_new_world.md)" 
+Just like she does in the first episode, Chloe continues to "communicate" with Max in her diary entries. During this episode, Chloe also comments that she thinks she is more jealous of Max than anything (in relation to Max having escaped Arcadia Bay). In a dream, Chloe receives text messages from Max that tell Chloe they cannot be friends anymore because Chloe got kicked out of Blackwell. Max also questions if they were ever friends. Also in the dream, her dead father, [William Price (Before the Storm)](william_price.md), warns her about getting drawn to fire and its blinding beauty (perhaps a reference to her new friendship with / attraction to [Rachel Amber (Before the Storm)](rachel_amber.md)) and tells her that, "Sometimes there's a greater beauty yet to come" (which may be a reference to Max returning to her in three years).
+
+###  Episode Three - "[Episode 3: Hell Is Empty](hell_is_empty.md)" 
+N/A
+
+###  Bonus Episode - "[Farewell](farewell.md)" 
+Max and Chloe's childhood is further explored in this episode, where the girls go on a treasure hunt just before William dies in a car accident. Following this event, Max moves to Seattle, separating her from Chloe and severing their relationship.
+
+##  Life is Strange 2 
+[File:LiS2E5_Away_-_Max_&_Chloe.png](thumb.md) If Arcadia Bay had perished in the storm, Max and Chloe's friendship has continued into July, 2017. This is first established in the [Episode 5: Wolves](final_episode.md) from a [Media:LiS2 Chloe & Max.png](photograph.md) kept by Chloe's step-father, [David Madsen (Life is Strange 2)](david_madsen.md), who is now part of a remote desert commune in Arizona called "[Away](away.md)."
+There are some differences in their appearance in this photograph:
+* Chloe's tattoo has been given a partial black ink cover-up.Co-Game Director Michel Koch stated that the reasoning behind it was due to a combination of "mixed feelings: angst, remorse, guilt, to not forget who died in the storm, to grow up, to advance in her life," and "to never forget." - Source: [https://twitter.com/DONTNOD_Michel/status/1202347738383425537 Twitter post by Michel Koch] She also appears to be growing her hair out into its natural color. The green that extends down from this could be what remains of the blue-turquoise hair she was seen with in the original game, as blue-turquoise dye fades to green due to its undertones being green (unless it is primed with a purple toner which neutralizes yellows).
+**There is no date to the photograph, but if Chloe was no longer dying her hair after the events of Season 1, then 6 inches of average human hair growth would put this photograph at approximately one year after the events of Season 1. If she continued to dye her hair in a blue-turquoise or even deliberately green, then she could have decided to stop doing this at any time, making it more difficult to date the photograph.
+* With regards to Max, there are no big differences in her appearance other than her bangs looking either grown out or swept aside more.
+
+Polaroids are also seen inside David's trailer, which perhaps implies these were taken by Max and that her interest in retro photography has also continued.
+
+David confides in the [Sean Diaz](main_protagonist.md) of *Life is Strange 2* that he used to hate Max and Chloe for running away - hitting the road and never looking back while he was trying to rebuild. Once he acknowledged that the past was the past and moved on, like they did, he reached out to them, and they made peace with each other. They both stayed at "Away" for a while. During the conversation, he pauses as he refers to Chloe as his "daughter," almost as though he is still getting used to using that word.
+
+The above conversation is interrupted by David's cell phone ringing, and he takes the call in the privacy of his trailer. He opens the call with, "Hey, Sweetie! What's up?" As the conversation unfolds, it becomes clear that this is a call from Chloe. The call implies that Max and Chloe are either in New York or had just had a bad experience with somebody from New York. The experience seems to concern Max and a gallery, and Max may have been trying to submit her work to a gallery or was perhaps applying for a job at one. David is heard to ask Chloe, "How about that other gallery she told me about?" then follows it up with, "Cool! Fingers crossed then!" After his comment about them checking out his working solar panels the next time they come by, he suggests they could maybe drive down to Louisiana or Texas, which could mean they have plans to visit soon. He ends the call with, "Wish Max luck for me, okay? Bye bye, love ya!"
+
+It is clear from *Life is Strange 2* that, if Arcadia Bay was sacrificed, Chloe and Max continue to be there for one another (which may have also evolved into a romantic relationship) and that Chloe has now accepted David as a father figure in her life.
+
+##  Life is Strange: True Colors 
+Max and Chloe are only mentioned in the game's [Wavelengths](dlc_chapter.md).  In the Halloween segment (if Arcadia Bay was sacrificed), while Steph and [Mikey North (Wavelengths)](mikey.md) are playing tabletop, Mikey asks Steph if she ever talked to Chloe. Steph says that she's "off the radar" like her and she is wandering with her other "weirdo" (a reference to Max).
+
+##  Memorable Quotes 
+###  Life is Strange 
+{{Quote|I'm so glad that you're my partner in crime." - "As long as you're my partner in time."|Max and Chloe's response in "Chaos Theory"}}
+{{Quote|Can't we build another pirate fort and shut the world out?|Max to Chloe in "Out of Time"}}
+{{Quote|How can this be such a shitty week, and yet one of the best of my life?" - "Because we're back in action again!|Chloe and Max's response after dropping Max off at Blackwell in "Out of Time"}}
+{{Quote|Last time I saw you and Chloe in your pirate outfits, I knew she would never find a better friend.|Joyce to Max in "Chaos Theory"}}
+{{Quote|Max, don't look so sad. I'm never leaving you.|Chloe in "Chaos Theory"}}
+{{Quote|I just don't think anybody's good enough for you. Besides me... |Chloe to Max in "Chaos Theory"}}
+{{Quote|I’ll just drift asleep... dreaming of us here together... forever." - "Chloe...|Chloe and Max's dialogue in "Dark Room" - alternative timeline}}
+{{Quote|Listen, whatever happens, I want you to be strong. Even if you feel like I wasn't there for you... because I will never abandon you, Chloe. I'll always have your back. Always.|Max to Chloe before letting William die again in "Dark Room"}}
+{{Quote|As you've noticed, this whole town is messed up. We can't trust anybody... Except each other.|Chloe to Max in "Dark Room"}}
+{{Quote|All those moments between us were real, and they will always be ours.|Chloe to Max in "Polarized"}}
+{{Quote|Max, you finally came back to me this week, and... you did nothing but show me your love and friendship.|Chloe to Max in "Polarized"}}
+{{Quote|I've always wanted my life to be special, an adventure. But not without you.|Max to Chloe in "Polarized"}}
+{{Quote|I'll always love you, now get out of here please, do it before I freak. And Max Caulfield? Don't you forget about me..." - "Never.|Chloe and Max's response in the Sacrifice Chloe ending}}
+{{Quote|Max... I'll always be with you..." - "Forever.|Chloe and Max's response in the Sacrifice Arcadia Bay ending}}
+
+###  Before the Storm 
+{{Quote|You are one of a kind, Chloe Price." - "What?" - "I'm lucky your my best friend, that's all." - "Damn right you are, you mushy weirdo!|Max and Chloe in "[Farewell](farewell.md)" (determinant)}}
+{{Quote|You know what, Max Caulfield?" - "What, Chloe Price?" - "You're the frickin' best. That's all." - "Talk about mushy. Where'd that come from?" - "Just thinking about how awesome this day is. And how awesome we are.|Chloe and Max in "Farewell" (determinant)}}
+{{Quote|Just like old times, huh, Max? Remember how we used to talk about ruling the Bays of Arcadia one day? We thought we were gonna be pirates forever." - "If being a pirate means acting silly and going on crazy adventures together, then we'll always be pirates.|Chloe and Max in "Farewell" (determinant)}}
+{{Quote|Hey, ready for something else? I've got a great plan for the rest of the afternoon." - "(thinking) Crap. I don't want to ruin the rest of the day." - "You're staying for dinner, right?" - "(thinking) Would Chloe even want me to tell her?|Chloe and Max in "Farewell"}}
+{{Quote|We're Max and Chloe, remember? We're always together, even when we're not.|Chloe in "Farewell" (determinant)}}
+{{Quote|Chloe, listen. Even if I never—even if we're moving for good... We're always together, okay? Even when we're apart. We're still Max and Chloe. I will always, always love you. Goodbye.|Max in "Farewell"}}
+
+##  Trivia 
+**Life is Strange* - In [Episode 1: Chrysalis](episode_1.md), when Max is in [Chloe's Room](chloe_s_bedroom.md), she can open a drawer in the blue dressing cabinet and see an old drawing they did together (believed to have been made on the same day as another image dated 07.28.2007 that we see with it on the lounge table in an earlier timeline). In Episode 3, there is now an old [Media:LifeIsStrange 2016-07-28 14-25-37-504.png](cell_phone.md) lying on top of this drawing. Max comments that she remembers this phone because they had decorated it together ("Chloe + Max" is scratched into the paint). The appearance of this phone implies that Chloe has been going through all of her things that remind her of the old days with Max, as though she has been reminiscing about their friendship when Max isn't around. This is further supported in Episode 3 by Max finding a photo of the two of them on her 10th birthday inside Chloe's shoe box of photos. This photo was either not visible or present in Episode 1, as Max only commented on photos she saw of Chloe and her real father. It appears that the photo of Max and Chloe together may have been placed on the top.
+**Life is Strange*'s [Don't Nod](developers.md) had the following dynamics for Max and Chloe's relationship in mind: "We wanted them to be quite different. We wanted Chloe to be the best friend [to Max], but we also wanted her to be one of the main antagonists. We tried to find a balance in the hostile best friend."[https://www.polygon.com/2014/8/14/6003109/remember-me-creators-next-game-looks-like-gone-home-with-time-travel Remember Me creator's next game looks like Gone Home with time travel] (August 14, 2014)
+* *Life is Strange* - There are options to change the lock screen on Chloe's phone from a picture of Chloe and Rachel to one of just Max. However, the lock screen will remain unchanged no matter what if Max does not hide from David and blames Chloe directly for the weed he finds in Chloe's room in Episode 1.
+* *Life is Strange* - Throughout the game, the color blue seems to be associated with Chloe, and pinks and pinkish reds seem associated with Max. It may not be a coincidence that Max has a blue screensaver on her computer and Chloe has a pinkish red one. Even in the alternative timeline, Chloe has the same color screensaver.
+* September 21, 2008 to March 10, 2009 is the only date range where Chloe would be 14 and Max would be 13. Max left Arcadia Bay when Chloe was 14, and we know that Max was 13 when William Price died in a tragic car accident in 2008. (The date range for William's death could only be September 21 to December 31 based on the months in 2008 where Max is 13.)
+* Chloe would have started as a freshman at Blackwell Academy in fall 2008 at age 14. Max would have still been in Arcadia Bay when Chloe started going to school at Blackwell, as Max only turned 13 in September 2008.
+*The fan community refers to a romantic pairing between Max and Chloe as "Pricefield," and those who support a romance are referred to as "Pricefielders."
+**Life is Strange 2* - In July, 2017 (the month the [Sean Diaz](main_protagonist.md) leaves the desert commune where Chloe's step-father now lives), Chloe would be 23 years of age and Max would be 21 years of age (turning 22 two months later).
+
+###  Life is Strange 
+# ###  Mementos 
+
+childdrawing1.png|A childhood drawing depicting Max and Chloe as superheroes.
+childdrawing2.png|Another drawing in which they are film noir characters.
+Chloe's room - toy.png|An old phone that they decorated together.
+drawingboard.png|Board from Chloe's backyard.
+piratetowel.png|Pirate towel from Chloe's bathroom.
+maxchloe-bffpirates.png|Lighthouse stump inscription.
+
+# ###  Photos 
+
+Chloe_Max_Photo1.jpg|Max and Chloe dressed as pirates.
+Max and Chloe - Young - Photo.jpg|Chloe and Max (2008).
+Max 10th birthday.jpg|Chloe and Max on Max's tenth birthday.
+maxandchloe-ep1chloepola.png|Photo of Chloe taken by Max in Episode 1
+maxandchloe-ep3selfiepola.png|Max and Chloe's selfie from
+Episode 3
+
+# ###  Screenshots 
+
+LifeIsStrange Truck Chloe Max.jpg|Chloe meeting Max for the first time after 5 years ("Chrysalis").
+Life-is-strange-max-chloe.jpg|Chloe looking at Max ("Chrysalis").
+LifeIsStrange max and Chloe look into sunset.jpg|Max and Chloe looking at the sunset ("Chrysalis").
+Max and Chloe 02.png|Max and Chloe high five ("Out of Time").
+Maxandchloe2.jpg|Max and Chloe sitting on a car boot ("Out of Time").
+LifeIsStrange 2015-05-25 08-33-53-76.png|Max and Chloe walking on the train tracks ("Out of Time").
+Thisislove.gif|Chloe hugging Max after being saved ("Out of Time").
+Chloe's stare.jpg|Chloe looking at Max ("Chaos Theory").
+Vlcsnap-2016-09-04-15h25m40s065.png|Max and Chloe in the pool ("Chaos Theory")
+Max and Chloe in pool.gif|Max looking at Chloe ("Chaos Theory").
+Max and Chloe 09.png|Max kisses Chloe in Episode 3 (determinant).
+Max and Chloe 13.png|Max and Alternative Chloe on the beach ("Dark Room").
+Max and Chloe 16.png|Max and Alternative Chloe looking though the photo album ("Dark Room").
+Find someone who look at you the way chloe looks at max.jpg|Alternative Chloe looking at Max ("Dark Room").
+1474595306130.jpg|Max running to hug Chloe ("Dark Room").
+Pricefield ending2.png|Max and Chloe can kiss each other in the Sacrifice Chloe ending (determinant).
+Max and Chloe kiss.png|Close up on the kiss.
+maxchloe-sacrificetown.png|Chloe and Max holding each other in front of the storm in the Sacrifice Arcadia Bay ending (determinant).
+Max and Chloe 23.png|Max looking at Chloe in the Sacrifice Arcadia Bay ending.
+Max and Chloe 22.png|Chloe looking at Max in the Sacrifice Arcadia Bay ending.
+
+###  Before the Storm 
+# ###  "Farewell" Screenshots 
+
+Max and Chloe - Farewell - Settingupbomb.png|Max and Chloe setting up the bomb
+Max and Chloe - Farewell - Hiding Behind Bed.png|Max and Chloe hiding behind the bed
+Max and Chloe - Farewell - Looking Around Chloe's Room.png|Max and Chloe looking around [Chloe's Room (Before the Storm)](chloe_s_room.md)
+Max and Chloe - Farewell - Listening to 2003.png|Max and Chloe listening to a recording from 2003
+Max and Chloe - Farewell - hugging.png|Max and Chloe hugging in the backyard
+Max and Chloe - Farewell - Looking at Barrel.png|Max and Chloe looking at the buried barrel
+Max and Chloe - Farewell - Reminiscing.png|Max and Chloe going through their mementos
+Max and Chloe - Farewell - On Couch.png|Max and Chloe sitting on the couch
+Max and Chloe - Farewell - Always Together.png|Max and Chloe promising each other to always be together
+Max and Chloe - Farewell - Meeting Joyce.png|Max and Chloe seeing a crying [Joyce Price (Before the Storm)](joyce.md)
+
+=# ###  Photos 
+...
+
+##  Notes 
+

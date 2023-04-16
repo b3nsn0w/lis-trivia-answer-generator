@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Doe's Connection To Max In Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "It Is Max's Spirit Animal",
+      "B": "It Is Rachel Amber's Spirit Animal",
+      "C": "It Is A Symbol Of Rebirth",
+      "D": "It Is A Guardian Of Secrets"
+    }
+  },
+  {
+    "question": "What Is The Symbolic Meaning Of The Squirrel As A Spirit Animal?",
+    "answer": "A",
+    "choices": {
+      "A": "Curiosity And Resourcefulness",
+      "B": "Regeneration And Innocence",
+      "C": "Love And Harmony",
+      "D": "Intuition And Grace"
+    }
+  },
+  {
+    "question": "What Does The Raven Represent In Life Is Strange: Before The Storm?",
+    "answer": "A",
+    "choices": {
+      "A": "Introspection And Courage",
+      "B": "Rebirth And Transformation",
+      "C": "Curiosity And Resourcefulness",
+      "D": "Love And Harmony"
+    }
+  },
+  {
+    "question": "What Is The Symbolic Meaning Of The Butterfly In Japanese Culture?",
+    "answer": "D",
+    "choices": {
+      "A": "A Representation Of A Person's Soul",
+      "B": "A Symbol Of Immortality And Long Life",
+      "C": "A Sign Of Comfort At Funerals",
+      "D": "All Of The Above"
+    }
+  }
+]

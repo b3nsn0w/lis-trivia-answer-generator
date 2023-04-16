@@ -1,0 +1,52 @@
+[
+  {
+    "question": "In which episode does David fix the fusebox?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1",
+      "B": "Episode 2",
+      "C": "Episode 3",
+      "D": "Episode 4"
+    }
+  },
+  {
+    "question": "What is David doing in Chloe's room in Episode 1?",
+    "answer": "B",
+    "choices": {
+      "A": "Smoking a cigarette",
+      "B": "Holding a joint",
+      "C": "Drinking beer",
+      "D": "Sleeping"
+    }
+  },
+  {
+    "question": "In which episode does David aim his gun at Mark Jefferson?",
+    "answer": "C",
+    "choices": {
+      "A": "Episode 3",
+      "B": "Episode 4",
+      "C": "Episode 5",
+      "D": "None of the above"
+    }
+  },
+  {
+    "question": "What is David's occupation in the alternative timeline?",
+    "answer": "C",
+    "choices": {
+      "A": "Police officer",
+      "B": "Security guard",
+      "C": "Bus driver",
+      "D": "Mechanic"
+    }
+  },
+  {
+    "question": "In which episode does David argue with Chloe in the living room?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode 2",
+      "B": "Episode 3",
+      "C": "Episode 4",
+      "D": "Episode 5"
+    }
+  }
+]

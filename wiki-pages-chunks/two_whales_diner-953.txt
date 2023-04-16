@@ -1,0 +1,54 @@
+Here is a section of the wiki page for Two Whales Diner:
+
+## Not-Listed Items
+The following items are not listed on the menu.
+*Daily specials
+*Cookies (in food counter)
+*Doughnuts (in food counter)
+*Bread (in food counter)
+*Cupcakes and/or Muffins (in food counter)
+*Cherry-topped cake (on counter)
+*Bacon and Eggs - $5.45 (on whiteboard behind counter)
+*Beans (being eaten by [Frank Bowers](frank_bowers.md))
+*Pumpkin pie (mentioned by the [Diner Cop](diner_cop.md))
+*Mac and Cheese (mentioned by the Diner Cop)
+*Hamburgers (on advertisements)
+*French Fries (on advertisements)
+
+## Observable Items 
+The diner has many items that Max has the option to observe. 
+[File:diner-walloffame.png](thumb.md) The "Fishing Wall Of Fame" is located in the corner of the diner closest to the jukebox. Awards are given each month to fishermen that catch fish which are significant, but how they are significant is unspecified. The awards are given by the [Arcadia Bay Fishing Club](arcadia_bay_fishing_club.md) according to the banner underneath the display. 
+* White Surgeon, caught by [Dick Weber](dick_weber.md)
+* Steelhead trout, caught by [Andy Berry](andy_berry.md)
+* Chinook Salmon, caught by [Rich Conrad](rich_conrad.md)
+
+In the bathroom, there are many instances of graffiti, some of which are also observable. 
+* "The 7th sign: The sea and sky will turn black, and living things will die because of it."This is an incredibly ominous reference to the eco-disaster later in the game. It also foreshadows the destruction of the Bay.
+* The Doe - next to the hand-drier, similar to the one on Max's shirt.
+
+## Interactions 
+:**PC users: **''Hover over the text to see Max's comments. [Interactions](see_here.md) for all interactions in the game.''
+#
+
+## Episode Two - "Out of Time"
+# #
+
+## Outside
+*{{Interaction|She can look at and speak to [Diner Woman](a_woman.md).|"She looks busy and stressed."}}
+*{{Interaction|She can look at and try to speak to an [Old Guy](old_man.md).|"I bet he's seen a lot of changes to Arcadia Bay in his lifetime..."}}
+*{{Interaction|She can look at a newspaper kiosk.|"I wonder if they explained that snow..."}}
+*{{Interaction|She can read a [The Independent](newspaper.md) from the kiosk.|"'Snow'—well, that's a good start to the story..."}}
+*{{Interaction|She can look at and speak to a man reading the newspaper.|"Newspapers are going to be retro soon..."}}
+*{{Interaction|She can look at and speak to the [Homeless Lady](homeless_lady.md).|"Poor woman. I hope there's a shelter for her."}}
+*{{Interaction|She can take an optional photo of Pompidou from behind the diner.|"There was something creepy about that guy and his dog..."}}
+*{{Interaction|She can look at and speak to [R.J. MacReady](the_fisherman.md)|"He looks like a photo of the classic Arcadia Bay crusty fisherman..."}}
+*{{Interaction|She can look at the flyers in front of the fisherman.|"Look at all these flyers. It's so sad that nobody will read them..."}}
+*{{Interaction|She can look at [Frank's RV](frank_s_rv.md).|"There's that dirty RV from the other day..."}}
+*{{Interaction|She can look at the window of Frank's RV (if she drew on it the previous day).|"Obviously nobody took my advice."}}
+*{{Interaction|She can look at the diner's sign.|"That sign reminds me of so many times I ate here with Chloe and my family... when we were happy."}}
+
+# #
+
+
+
+Generate five trivia questions relevant to this section of the page.

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who is Max's new friend in her science class?",
+    "answer": "A",
+    "choices": {
+      "A": "Warren Graham",
+      "B": "Nathan Prescott",
+      "C": "Kate Marsh",
+      "D": "Victoria Chase"
+    }
+  },
+  {
+    "question": "What is the name of the elite club that Victoria and Nathan are part of?",
+    "answer": "C",
+    "choices": {
+      "A": "Blackwell Society",
+      "B": "Arcadia Bay Elite",
+      "C": "Vortex Club",
+      "D": "Prescott Club"
+    }
+  },
+  {
+    "question": "What is the name of the photo contest Mr. Jefferson wants his students to enter?",
+    "answer": "A",
+    "choices": {
+      "A": "Everyday Heroes",
+      "B": "National Geographic",
+      "C": "San Francisco Trip",
+      "D": "Blackwell Photography Contest"
+    }
+  },
+  {
+    "question": "Who does Max think is much cooler than her science class?",
+    "answer": "B",
+    "choices": {
+      "A": "Warren Graham",
+      "B": "Michelle Grant",
+      "C": "Kate Marsh",
+      "D": "Victoria Chase"
+    }
+  },
+  {
+    "question": "What does Max love to do after taking pictures?",
+    "answer": "D",
+    "choices": {
+      "A": "Edit them",
+      "B": "Post them on social media",
+      "C": "Sell them",
+      "D": "Feel great"
+    }
+  }
+]

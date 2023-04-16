@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Minimum Required Operating System For Life is Strange On Windows?",
+    "answer": "A",
+    "choices": {
+      "A": "Windows Vista",
+      "B": "Windows 7",
+      "C": "Windows 8",
+      "D": "Windows 10"
+    }
+  },
+  {
+    "question": "What Is The Recommended Processor For Life is Strange On macOS?",
+    "answer": "D",
+    "choices": {
+      "A": "Intel 1.8GHz",
+      "B": "Intel 2.4GHz",
+      "C": "AMD FX-6300 1.8GHz",
+      "D": "Intel Core i5 2.4GHz"
+    }
+  },
+  {
+    "question": "What Is The Minimum Required Graphics Card For Life is Strange On Ubuntu?",
+    "answer": "B",
+    "choices": {
+      "A": "1GB Nvidia 640 or better",
+      "B": "1GB AMD R9 270 or better",
+      "C": "1GB Intel Iris Pro 6200 or better",
+      "D": "1GB Nvidia 7xx series or better"
+    }
+  },
+  {
+    "question": "What Is The Minimum Required RAM For Life is Strange On macOS?",
+    "answer": "B",
+    "choices": {
+      "A": "2 GB RAM",
+      "B": "4 GB RAM",
+      "C": "8 GB RAM",
+      "D": "16 GB RAM"
+    }
+  },
+  {
+    "question": "What Is The Minimum Required Available Space For Life is Strange On Ubuntu?",
+    "answer": "C",
+    "choices": {
+      "A": "3 GB available space",
+      "B": "15 GB available space",
+      "C": "16 GB available space",
+      "D": "32 GB available space"
+    }
+  }
+]

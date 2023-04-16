@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Was the Planned Hospital Scene in Episode 5 Meant to Show?",
+    "answer": "C",
+    "choices": {
+      "A": "Max and Chloe escaping from the hospital",
+      "B": "Max waking up in the hospital next to Chloe's hospital bed",
+      "C": "Max being taken to the hospital by David after being freed from the Dark Room",
+      "D": "Max and Warren going to the hospital to get a photo"
+    }
+  },
+  {
+    "question": "What Was the Reason for Scrapping the Hospital Scene in Episode 5?",
+    "answer": "B",
+    "choices": {
+      "A": "It was too expensive to produce",
+      "B": "It didn't add much to the story",
+      "C": "It was too violent for the game's rating",
+      "D": "It was too difficult to animate"
+    }
+  },
+  {
+    "question": "What Was the Unused Ending Considered by Dontnod?",
+    "answer": "B",
+    "choices": {
+      "A": "Sacrifice Max",
+      "B": "Coma Chloe",
+      "C": "Kill David",
+      "D": "Escape Arcadia Bay"
+    }
+  },
+  {
+    "question": "What Was the Dialogue Option for Jefferson's Car Scene That Was Cut from the Game?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Call the police.\"",
+      "B": "\"Kill him!\"",
+      "C": "\"Let's run away.\"",
+      "D": "\"Let's talk to Nathan.\""
+    }
+  }
+]

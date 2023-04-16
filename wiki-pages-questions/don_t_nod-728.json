@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who presented *Life is Strange 2* during the Gamescom opening ceremony 2018?",
+    "answer": "B",
+    "choices": {
+      "A": "Raoul Barbet",
+      "B": "Michel Koch",
+      "C": "Jean-Luc Cano",
+      "D": "Luc Bagadhoust"
+    }
+  },
+  {
+    "question": "Which award did Dontnod win at the 2016 GDC Awards?",
+    "answer": "D",
+    "choices": {
+      "A": "Best Narrative",
+      "B": "Best Game Design",
+      "C": "Best Audio",
+      "D": "Audience Award"
+    }
+  },
+  {
+    "question": "What is the name of the BAFTA Showcase where slides were shown for *Life is Strange*?",
+    "answer": "D",
+    "choices": {
+      "A": "Quo Vadis 2016",
+      "B": "Gamescom 2018",
+      "C": "DONTNOD 10 YEAR ANNIVERSARY",
+      "D": "None of the above"
+    }
+  },
+  {
+    "question": "Who was interviewed by IGN Japan about *Captain Spirit* at E3 2018?",
+    "answer": "A",
+    "choices": {
+      "A": "Raoul Barbet",
+      "B": "Michel Koch",
+      "C": "Luc Bagadhoust",
+      "D": "Jean-Luc Cano"
+    }
+  },
+  {
+    "question": "Which game did Dontnod release in 2018?",
+    "answer": "B",
+    "choices": {
+      "A": "Life is Strange",
+      "B": "Vampyr",
+      "C": "The Awesome Adventures of Captain Spirit",
+      "D": "None of the above"
+    }
+  }
+]

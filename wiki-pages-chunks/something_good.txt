@@ -1,0 +1,54 @@
+Here is a section of the wiki page for Something Good:
+
+#  Something Good 
+
+```yaml
+Song
+
+image: altj an awesome wave.png
+artist: Alt-J
+album: An Awesome Wave
+release: September 18, 2012
+appears: '[Episode 2: Out of Time](episode_2__out_of_time.md)'
+```
+
+**"Something Good"** is a single by Alt-J from their album *An Awesome Wave*, and is featured in the beginning of Episode 2 when [Maxine Caulfield](max.md) is waking up.
+
+##  Lyrics 
+
+: Something good, oh, something good
+: Oh, something good, something good
+: Tonight will make me forget about you for now
+: Get high, hit the floor before you go, matador
+: Estocada, you're my blood sport
+
+: Something good, oh, something good
+: Oh, something good, something good
+: Tonight will make me forget about you, for now
+: Forty-eight thousand seats bleats
+: And roars for my memories of you
+
+: Now that I'm fully clean
+: The matador is no more and is dragged from view
+: Get high, hit the floor before you go
+: Matador, estocada, you're my blood sport
+
+: Forty-eight thousand seats bleats
+: And roars for my memories of you
+: Now that I am clean
+: The matador is no more and is dragged from view
+
+: But something good, oh, something good
+: Oh, something good, something good
+: Will make me forget about you for now
+
+##  Videos 
+
+Life is Strange Soundtrack - Something Good by alt-J
+
+##  Navigation 
+{{Soundtrack Navbox}}
+
+
+
+Generate five trivia questions relevant to this section of the page.

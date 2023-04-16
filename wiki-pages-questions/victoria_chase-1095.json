@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who did Victoria Chase bully and spread a video of, leading to a suicide attempt?",
+    "answer": "C",
+    "choices": {
+      "A": "Rachel Amber",
+      "B": "Maxine Caulfield",
+      "C": "Kate Marsh",
+      "D": "Juliet Watson"
+    }
+  },
+  {
+    "question": "Why did Victoria vandalize Rachel Amber's missing person poster and write negative things about her?",
+    "answer": "A",
+    "choices": {
+      "A": "Rachel was in a relationship with Mark Jefferson, whom Victoria had a crush on",
+      "B": "Rachel was spreading rumors about Victoria",
+      "C": "Victoria was jealous of Rachel's popularity",
+      "D": "Victoria and Rachel had a fight over Zachary Riggins"
+    }
+  },
+  {
+    "question": "What is the subject line of an email on Victoria's laptop that Max cannot read?",
+    "answer": "B",
+    "choices": {
+      "A": "\"Victoria's revenge\"",
+      "B": "\"Juliet and her gazette...\"",
+      "C": "\"Zachary's secrets\"",
+      "D": "\"Blackwell's bullies\""
+    }
+  },
+  {
+    "question": "What is Victoria's motivation for wanting to win the Everyday Heroes Contest?",
+    "answer": "A",
+    "choices": {
+      "A": "To spend time alone with Mark Jefferson",
+      "B": "To prove herself to her family",
+      "C": "To become more popular at Blackwell",
+      "D": "To win a cash prize"
+    }
+  }
+]

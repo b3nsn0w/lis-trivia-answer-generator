@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Where is the location of the \"Beacon\" newspaper?",
+    "answer": "B",
+    "choices": {
+      "A": "David's Garage",
+      "B": "Living Room of Chloe's House",
+      "C": "Blackwell Academy",
+      "D": "Pan Estates"
+    }
+  },
+  {
+    "question": "What appears if Max signed the petition in Episode 1?",
+    "answer": "C",
+    "choices": {
+      "A": "Email from Ms. Grant to David",
+      "B": "Email from an anonymous to David",
+      "C": "Email from Principal Wells to David",
+      "D": "Crumpled letter from David to Joyce"
+    }
+  },
+  {
+    "question": "What appears if David is on leave?",
+    "answer": "B",
+    "choices": {
+      "A": "Email from Principal Wells to David",
+      "B": "Email from an anonymous to David",
+      "C": "Email from David to Officer Berry",
+      "D": "Note from Sean Prescott for David"
+    }
+  },
+  {
+    "question": "What does Max find inside the locker in David's garage?",
+    "answer": "A",
+    "choices": {
+      "A": "Maps, notes, coordinates, photos of Kate, Nathan",
+      "B": "Surveillance map of Pan Estates",
+      "C": "End of the World Party flyer",
+      "D": "Crumpled letter from David to Joyce"
+    }
+  },
+  {
+    "question": "What does Max wonder about David in regards to the End of the World Party?",
+    "answer": "A",
+    "choices": {
+      "A": "If he is going to the party",
+      "B": "If he is working for the Prescotts",
+      "C": "If he is on leave",
+      "D": "If he is protecting Chloe"
+    }
+  }
+]

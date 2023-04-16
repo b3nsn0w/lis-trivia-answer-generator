@@ -1,0 +1,34 @@
+Here is a section of the wiki page for Optional Photos:
+
+## Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+{| class"wikitable" style# "border: 1px solid #57333F; background: transparent; width:100%"
+! Photo
+! Description !! Achievement
+|-
+| [File:LiS-Optional1-E4.jpg](220px.md) || Chloe sitting at her desk after Max returns from the alternative timeline. There she is, alive and well. You don't want to to lose her again, so capture this moment for ever! Taking this photo awards you the "Ambient" achievement. ||[File:Ambient_Achievement.png](centre.md)
+|-
+| [File:LiS-Optional2-E4.jpg](220px.md) || There is a birds nest in the [David's Garage](madsen_garage.md). Move the board (and move it back after, if you don't want to disturb the nest) to add another photo to your Arcadia Bay Wildlife Collection! Taking this photo awards you the "Time-Lapsed" achievement.
+| [File:Time-Lapsed_Achievement.png](centre.md)
+|-
+| [File:LiS-Optional3-E4.jpg](220px.md) || Cairn outside the dorms in front of the [Tobanga Totem](tobanga.md). Taking this photo awards you the "Balance" achievement.|| [File:Balance_Achievement.png](centre.md)
+|-
+| [File:LiS-Optional4-E4.jpg](220px.md) || Talk to [Samuel Taylor](samuel.md) and ask him about his squirrels, he will spread food and attract a squirrel. Use Samuel's food to lure a second squirrel out of a bush to the other and take a cute shot of them eating together. Taking this photo awards you the "Rangefinder" achievement. || [File:Rangefinder_Achievement.png](centre.md)
+|-
+| [File:LiS-Optional5-E4.jpg](220px.md) || While snooping around the boys' dorm, look out the window - footprints. It seems Bigfoot left his mark. Every photographer should have one blurry bigfoot shot! Taking this photo awards you the "Gamma Value" achievement.|| [File:Gamma_Value_Achievement.png](centre.md)
+|-
+| [File:LiS-Optional6-E4.jpg](220px.md) || Before talking to Frank about his sales, look at the whale on the beach. Taking this photo awards you the "Dioptric Power" achievement.|| [File:Dioptric_Power_Achievement.png](centre.md)
+|-
+| [File:LiS-Optional7-E4.jpg](220px.md) || Outside the [The Prescott Barn](old_barn.md) above the [Dark Room (Location)](dark_room.md), grab a shot of a bird with a windmill in the background. Taking this photo awards you the "Fisheye" achievement.|| [File:Fisheye_Achievement.png](centre.md)
+|-
+| [File:LiS-Optional8-E4.jpg](220px.md) || Inside that old barn, at the top where the old motor was, an owl rests. This photo awards you the "Manually Exposed" achievement.|| [File:Manually_Exposed_Achievement.png](centre.md)
+|-
+| [File:LiS-Optional9-E4.jpg](220px.md) || At the [Vortex Club](vortex_club.md) [End of the World Party](end_of_the_world_party.md), find a drawn skeleton; line up the shot so [Justin](justin.md) is behind it and "part of" it. Taking this photo awards you the "Slideshow" achievement.|| [File:Slideshow_Achievement.png](centre.md)
+|-
+| [File:LiS-Optional10-E4.jpg](220px.md) || Double moon just near the entrance to the pool party - seen through the window. Taking this photo awards you the "Tripod" achievement.|| [File:Tripod_Achievement.png](centre.md)
+|-
+| [File:2015-12-24 00005.jpg](220px.md) || Taking all the photographs in this episode awards the "Shutterbug" achievement. || [File:Shutterbug_Achievement.png](centre.md)
+|}
+
+
+
+Generate five trivia questions relevant to this section of the page.

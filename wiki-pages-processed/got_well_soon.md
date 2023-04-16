@@ -1,0 +1,71 @@
+#  Got Well Soon 
+
+```yaml
+Song
+
+image: breton war room stories.png
+artist: Breton
+album: War Room Stories
+release: October 4, 2013
+appears: '[Episode 4: Dark Room](episode_4__dark_room.md)'
+```
+
+**"Got Well Soon"** is a single by {{wiki|Breton (band)|Breton}} from their album *War Room Stories* and is featured in [Episode 4: Dark Room](episode_4.md) when [Maxine Caulfield](max_caulfield.md) enters the [Vortex Club](vortex_club.md)'s [End of the World Party](end_of_the_world_party.md) at [Blackwell Academy](blackwell_academy.md)'s [Blackwell Swimming Pool](swimming_pool.md).
+
+##  Lyrics 
+: If anything like the self destructed
+: If ever alike inside you're scraping, the pockets avail
+: Whatever you're like when you came in
+: Whatever you use, whatever you chose,
+: Whatever your acronym
+
+: They say that either you're out or you're in
+: But you're on
+: They say that either you're out or you swim
+: When you're on
+
+: You start a local sound,
+: A speech on how you moved around
+: You tell them all so well, I had to memorize
+: You poured a few tears - there's ground and there's your feet
+: And never they shall meet
+
+: If anything like the self destructed
+: If ever alike inside you're scraping, the pockets avail
+: Whatever you're like when you came in
+: Whatever you use, whatever you chose,
+: Whatever your acronym
+
+: If anything like the self destructed
+: If ever alike inside you're scraping, the pockets avail
+: Whatever you're like when you came in
+: Whatever you use, whatever you chose,
+: Whatever your acronym
+
+: They say that either you're out or you're in
+: But you're on!
+: They say that either you're out or you swim
+: But you're on!
+
+: What if we started what became
+: Don't get found out again
+: What if we're starting what remains
+: You set our lives again
+
+: They say that either you're out or you're in
+: But you're on!
+: They say that either you're out or you swim
+: But you're on!
+
+: Don't get found out again!
+
+##  Videos 
+
+Life is Strange Soundtrack - Got Well Soon by Breton
+
+##  Trivia 
+*The release date of the song is October 4, 2013, which is also the date of the [Vortex Club Party (October 4, 2013)](vortex_club.md) party that [Kate Marsh](kate_marsh.md) was drugged at.
+
+##  Navigation 
+{{Soundtrack Navbox}}
+

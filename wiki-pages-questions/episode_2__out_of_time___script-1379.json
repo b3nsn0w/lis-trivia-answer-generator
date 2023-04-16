@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Does Brooke Say About The Snow Flurry?",
+    "answer": "C",
+    "choices": {
+      "A": "It Was A Normal Weather Phenomenon",
+      "B": "It Was Caused By Climate Change",
+      "C": "It Was Unexplainable By Meteorologists",
+      "D": "It Was A Sign Of An Impending Storm"
+    }
+  },
+  {
+    "question": "What Does Victoria Write On The Mirror In Lipstick?",
+    "answer": "B",
+    "choices": {
+      "A": "A Love Note To Nathan",
+      "B": "A Link To Kate's Embarrassing Video",
+      "C": "A Reminder To Study For Exams",
+      "D": "A Message To Meet Her Later"
+    }
+  },
+  {
+    "question": "What Does Max Do To Victoria's Drawing On Her Slate?",
+    "answer": "B",
+    "choices": {
+      "A": "Adds More Insults To It",
+      "B": "Erases It And Draws A New Picture",
+      "C": "Takes A Photo Of It",
+      "D": "Shows It To Other Students"
+    }
+  },
+  {
+    "question": "What Does Kate Say To Max When Max Apologizes To Her?",
+    "answer": "C",
+    "choices": {
+      "A": "\"I Don't Want To Talk To You\"",
+      "B": "\"I Forgive You\"",
+      "C": "\"You're Just Like Everyone Else Here\"",
+      "D": "\"It's Okay, I Understand\""
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What happens if Max warns Victoria at the Vortex Club Party and Victoria believes her?",
+    "answer": "A",
+    "choices": {
+      "A": "Victoria goes to Mr. Jefferson for help and ends up in the Dark Room",
+      "B": "Victoria does not end up in the Dark Room",
+      "C": "Max acts more kindly towards Victoria in the past",
+      "D": "Max acts more hostile towards Victoria in the past"
+    }
+  },
+  {
+    "question": "What happens if Max warns Victoria at the Vortex Club Party and Victoria does not believe her?",
+    "answer": "B",
+    "choices": {
+      "A": "Victoria goes to Mr. Jefferson for help and ends up in the Dark Room",
+      "B": "Victoria does not end up in the Dark Room",
+      "C": "Max acts more kindly towards Victoria in the past",
+      "D": "Max acts more hostile towards Victoria in the past"
+    }
+  },
+  {
+    "question": "What happens if Max doesn't warn Victoria at the Vortex Club Party?",
+    "answer": "B",
+    "choices": {
+      "A": "Victoria goes to Mr. Jefferson for help and ends up in the Dark Room",
+      "B": "Victoria does not end up in the Dark Room",
+      "C": "Max acts more kindly towards Victoria in the past",
+      "D": "Max acts more hostile towards Victoria in the past"
+    }
+  },
+  {
+    "question": "What happens if Max tells the truth about Rachel to Frank?",
+    "answer": "D",
+    "choices": {
+      "A": "Frank will be visibly distressed about what happened to Rachel",
+      "B": "Frank will blame himself if Max tells him that Rachel died from an overdose",
+      "C": "Frank says he just hopes that Rachel is fine elsewhere",
+      "D": "All of the above"
+    }
+  },
+  {
+    "question": "What happens if Max saves Alyssa in every episode?",
+    "answer": "C",
+    "choices": {
+      "A": "Alyssa will save Max from a falling billboard afterwards",
+      "B": "Alyssa will mention it in the nightmare at the Two Whales",
+      "C": "Both A and B",
+      "D": "None of the above"
+    }
+  }
+]

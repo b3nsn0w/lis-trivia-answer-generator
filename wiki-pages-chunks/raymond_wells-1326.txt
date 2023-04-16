@@ -1,0 +1,64 @@
+Here is a section of the wiki page for Raymond Wells:
+
+#  Raymond Wells 
+
+```yaml
+Character
+
+name: Raymond Wells
+image: Ray Wells.png
+alsoknown: Ray (by himself)
+died: October 11, 2013 (presumed, determinant)
+causeofdeath: Killed by the [storm](storm.md) (presumed, determinant)
+gender: Male
+hair: Bald
+eyes: Brown
+friends: '[Mark Jefferson](mark_jefferson.md)'
+profession: Principal
+affiliation: '[Blackwell Academy](blackwell_academy.md)'
+appearance: |-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)
+  [Episode 2: Out of Time](episode_2__out_of_time.md)
+  [Episode 3: Chaos Theory](episode_3__chaos_theory.md)
+  [Episode 4: Dark Room](episode_4__dark_room.md) (cutscene)
+  [Episode 5: Polarized](episode_5__polarized.md)
+voice: '[Eric Morgan Stuart](eric_morgan_stuart.md)'
+```
+
+> As principal of Blackwell Academy, I take my duties seriously. I take the well-being of every student more seriously. What happened today should never happen in a hall of wisdom and knowledge.
+
+**Principal Wells in "[Episode 2: Out of Time**, Out of Time](episode_2__out_of_time____out_of_time.md)"
+
+**RaymondHis full name is mentioned in several places throughout the game, for example in a conversation between Max and Ms. Grant, or inside [Media:Note4-garage-grantwin.png](an_email.md) from Wells to David in Episode 4. "Ray" Wells** is the principal of [Blackwell Academy](blackwell_academy.md). He doesn't leave his [Principal Wells' Office](office.md) much and often looks distracted. His office is in the main building of the campus. [Maxine Caulfield](max_caulfield.md) has seen him being nicer to other students, so she feels like he dislikes her.
+
+Principal Wells reappears in *[Life is Strange: Before the Storm](life_is_strange__before_the_storm.md)*, the prequel to the events of the original *[Life is Strange](life_is_strange.md)*. He also is mentioned in *[The Awesome Adventures of Captain Spirit](the_awesome_adventures_of_captain_spirit.md)*.[Media:CapSpirit-wells-to-emily-letter.png](screenshot.md) of a letter.
+
+## Biography 
+The following is what [Maxine Caulfield](max_caulfield.md) wrote about Ray in her journal:
+
+''I can't figure out where Principal Wells is coming from. For some reason, he seems to be suspicious of me at all times. Who knew I was that much trouble? He wanted to know why I was zoning out in the halls. I stuttered like a fool. He has so much power over my scholarship I get uber-nervous around him. I've seen him laughing with other teachers and students, so I know he must have a problem with me.*
+
+*He also seems a little stressed out. I would be too if I had to oversee Blackwell and all its drama. I thought I smelled alcohol on his breath but that could have been his cologne. Right? But I remember my first meeting in his office and he was so nice and made me feel like I was becoming part of a special world.*
+
+*He said he hoped I would become a great photographer and someday return the favor to Blackwell. I thought that was a bit of wishful thinking, but it made me feel good. I just need to lay low around him. Until I can somehow gain his trust.''
+
+## Personality 
+Wells is a stern authority figure. He keeps mostly to himself, staying in his office most of the time.
+
+## Background 
+Easily threatened by the [Prescott Family](prescott_family.md), Wells must strike a balance between caring for the Blackwell community and its students and keeping the vast sums of funding the Prescott family provide.
+
+He is apparently under a lot of pressure in his responsibility as a principal and therefore has developed a drinking problem.
+
+## Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+Max initially comments that she hasn't seen much of Wells, as he stays in his office most of the time. She doesn't go to the principal on her way to help [Chloe Price](chloe_price.md) because she didn't want to stall. After Max sets off the fire alarm to save Chloe from being shot by [Nathan Prescott](nathan_prescott.md), Principal Wells can say he doesn't want her wandering around indoors, and to go outside. However, before she can leave, he asks Max to come back. If she goes to him before leaving, he asks if she is okay.
+
+Max can either report Nathan or hide the truth. If she tells the truth, Principal Wells says he will look into the matter personally, but thinks that it is uncharacteristic of Nathan to have a gun because of his reputation. He says they will continue the discussion later, but for now she has to go outside. When Max goes outside, the principal says over the school loudspeakers that he wants to see Nathan.
+
+If she hides the truth, she can say she felt dizzy and that's why she is wandering around. She avoids telling him what happened and ends up offending him with her attitude. He emails [Vanessa Caulfield](max_s_mom.md) about the incident, and adds he is concerned that Max is not fitting in well and is hiding in her dorm room. The Principal will not say anything on the loudspeaker for obvious reasons.
+
+Later, Max can tell [Luke Parker](luke_parker.md) that she told Principal Wells about Nathan having a gun, which pleases Luke to hear because he dislikes Nathan.
+
+
+
+Generate five trivia questions relevant to this section of the page.

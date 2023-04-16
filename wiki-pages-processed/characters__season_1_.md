@@ -1,0 +1,8 @@
+#  Characters (Season 1) 
+
+This category features a full list of **characters** in *[Life is Strange](life_is_strange.md)*.
+
+ Characters (Season 1) =
+
+This category features a full list of **characters** in *[Life is Strange](life_is_strange.md)*.
+

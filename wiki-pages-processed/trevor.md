@@ -1,0 +1,95 @@
+#  Trevor 
+
+```yaml
+Character
+
+name: Trevor
+image: Trevor.png
+width: 270px
+gender: Male
+hair: Dark brown
+eyes: Brown
+loveinterest: '[Dana Ward](dana_ward.md) (girlfriend)'
+friends: |-
+  [Justin Williams](justin_williams.md)
+  [Chloe Price](chloe_price.md)
+  [Rachel Amber](rachel_amber.md) (deceased)
+profession: High school student
+affiliation: '[Blackwell Academy](blackwell_academy.md)'
+appearance: >-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)[Episode 2: Out of
+  Time](episode_2__out_of_time.md)[Episode 4: Dark
+  Room](episode_4__dark_room.md)[Episode 5: Polarized](episode_5__polarized.md)
+voice: '[Nik Shriner](nik_shriner.md) (uncredited)'
+died: October 11, 2013 (presumed, determinant)
+causeofdeath: Killed by the [storm](storm.md) (presumed, determinant)
+alsoknown: |-
+  T.
+  Trev
+```
+
+> Fuck that dorm curfew shit. We’re 18.
+
+**Trevor to [Dana Ward**, Dana](dana_ward____dana.md) in "[Episode 4: Dark Room, Dark Room](episode_4__dark_room__dark_room.md)"
+
+**Trevor**Although Trevor's surname was never mentioned in the game, a surname of "Johnson" exists for him in [DONTNOD](dontnod.md)'s original files, as confirmed by Square Enix's *Life is Strange* [Community Management](community_manager.md), Toby Palm. is a student at [Blackwell Academy](blackwell_academy.md). He is a typical skater, [Maxine Caulfield](max_caulfield.md) admires his skills, and admits that he's cute. He is good friends with [Justin Williams](justin_williams.md) and in a relationship with [Dana Ward](dana_ward.md).
+
+Trevor is mentioned in *[Life is Strange: Before the Storm](before_the_storm.md)*, the prequel to the events of *[Life is Strange](life_is_strange.md)*.
+
+##  Personality 
+He enjoys getting high, skating and having a good time. He seems to be a bit of a joker and a goofball. He also doesn't seem to care what other people think about him. Moreover, he seems to be a caring boyfriend.
+
+##  Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+Trevor makes an appearance in the [Blackwell Academy Hallway](main_hallway.md) in Blackwell at the beginning of the episode.
+
+Later, outside the main building, if Max has spoken to Justin and proves herself as a non-poser, Trevor can show Max some skate moves; the noseslide or the tre flip. When he attempts a tre flip, he falls, hurting himself (when the board strikes his crotch). While he writhes on the floor in pain, Max can take a [Optional Photos](photo.md) of him. He will get up and sit on the wall to the side after Max has taken the optional photo. If Max doesn't speak to Justin first, Trevor carries out his regular moves just fine. He also seems fine with completing a noseslide.
+
+##  Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+Max witnesses Trevor leaving [Dana Ward](dana_ward.md)'s [Dana's Room](room.md) in the morning. He leaves her a cute note on her slate, and judging by her happy dancing and loud music, she seems to enjoy his company. She reveals that Trevor asked her to the Halloween Bash, and encourages Max to go along too. Trevor also leaves his jacket in Dana's room, making himself entirely too comfortable. Max comments that she hopes the two don't get caught.
+
+He is later seen in the [Two Whales Diner](two_whales_diner.md) with Justin, sharing breakfast. The two are obviously high. Max can talk to Justin about their conversation; the two are making amends with each other due to Trevor getting together with Dana, despite Justin also having interest in her. Justin admits that he was sad that Trevor got to Dana first, as the two are now officially dating. Later on in the diner, the two argue for a moment before [Joyce Price](joyce_price.md) breaks them up.
+
+##  Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+After [Kate Marsh](kate_marsh.md)'s possible suicide, Max can find an email from Trevor to Dana comforting her and thanking her for always being there for him.
+
+If Kate attempted suicide, the email will read as follows:
+
+{{Bigquote
+|Hey Dana I've been thinking about you all day and know how hard it was for you to see Kate almost jump from the roof today. Glad that Max swooped in like a super hero. I don't have anything deep or smart to say I just want you to know that you're a good friend to Kate and I wish she had more friends like you. You have been so good for me when everything else is so fucked up and I am here for you always. I miss you.
+
+Trev
+}}
+
+If Kate committed suicide, the email will read as follows:
+
+{{Bigquote
+|Hey Dana I've been thinking about you all day and know how shitty it was to see Kate jump from the roof today. I don't have anything deep or smart to say I just want you to know that you were a good friend to her and I wish she had more friends like you. You have been so good for me when everything else is so fucked up and I am here for you always. I miss you.
+
+Trev
+}}
+
+##  Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+While Max checks the Dormitory for [Nathan Prescott](nathan_prescott.md)'s [Nathan's Room](room.md), she can examine Trevor's room. He and Dana can be heard inside the room, and Max seems disgruntled by their obvious illicit activities there.
+
+Trevor makes an appearance at the "[End of the World Party](end_of_the_world.md)" [Vortex Club](vortex_club.md) party in the VIP section while dancing with Dana. He seems to be comfortable around her and the other students, dancing like a goofball in front of everyone, making Dana laugh. She seems to enjoy having him as her date.
+
+## Episode Five - "Polarized"
+In the Sacrifice Chloe ending, he is one of the people attending Chloe's funeral. In the Sacrifice Arcadia Bay ending, he presumably dies in the storm.
+
+##  Relationships 
+###  Friends 
+* [Justin Williams](justin_williams.md) - Although they had disagreements over dating Dana, the two skater friends are happy to be in each other's lives. They hang out frequently, getting high together.
+
+###  Romantic 
+* [Dana Ward](dana_ward.md) - Dana and Trevor hit it off together, and begin dating during the second episode of the game. Dana seems to enjoy his carefree attitude, and appreciates that he isn't on the football team. She doesn't seem to care about his embarrassing dance moves at the Vortex Club End of the World party. It is highly probable that the two are engaging in a sexual relationship, as Trevor spent the night in her room, and the two can be heard making noises during the fourth episode from the hallway of the boys' dorm, as well as Dana mentioning that Trevor knows how to be safe.
+
+##  Trivia 
+*His room in the Boys' Dormitory is room 105.
+*When looking for Nathan's room in the Boys' Dormitory, his room slate says, "Skateboarding is not a crime".
+*On [Dana's Computer](dana_s_laptop.md), Trevor mentioned playing *{{Wiki|Super Mario}}*.
+*Trevor and [Sarah](sarah.md) are the only known [Blackwell Academy](blackwell_academy.md) students whose last names are not mentioned in *Life is Strange*.
+
+##  Notes 
+
+{{Character Navbox}}
+

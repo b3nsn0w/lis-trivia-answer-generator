@@ -1,0 +1,98 @@
+Here is a section of the wiki page for Investigation Files:
+
+## Trivia 
+* The times and coordinates of David's location files indicate that Kate was drugged and kidnapped during a [Vortex Club Party (October 4, 2013)](vortex_club_party_on_october_4.md), the week prior to the game's events. David's tracking files on Nathan's car show that he was at the Prescott Barn at 10:56pm that day.
+
+David investigation board gps2 highlighted.png|David's tracking files on Nathan.
+locationclues-barn-highlighted.png|Location clue on the Prescott Barn. 
+
+* The license plates in the GPS sheets are references to several television series: TPFTHLK from [Mark Jefferson](jefferson.md)'s car is a reference to *{{Wiki|Top of the Lake}}*, SXFTNDR from [Nathan Prescott](nathan.md)'s car references to *{{Wiki|Six Feet Under}}*, the only one not being within the mystery genre; TWNPKS from [Chloe Price](chloe.md)'s car making a reference to *{{Wiki|Twin Peaks}}*, and TWLGHTZN being a reference from *{{Wiki|The Twilight Zone}}*.
+* The icon of David's investigation files when obtained from the locker features an X in the top left corner. This could be a reference to *{{Wiki|The X-Files}}*, a science fiction drama series. Max also refers to the sames files as David's X-Files in her diary.
+*All of the coordinates found in David's files are actually coordinates for various points in Tillamook Bay (the second largest bay on the Oregon coast). This allowed DONTNOD to use nondescript coordinates for fictitious locations.
+*It's possible that the Arcadia Bay is meant to represent the town of {{Wiki|Bayocean, OR}} which was destroyed over the course of 40 years by man-made erosion, and existed where there is now water, which could be another possible explanation for the coordinates from David's file corresponding with the water area.
+
+#
+
+## David's Files 
+# #
+
+## Files on Kate 
+
+David_investigation_Kate1.png|Photo 1 from David's garage files
+David_investigation_Kate2.png|Photo 2 from David's garage files
+David_investigation_Kate3.png|Photo 3 from David's garage files
+David_investigation_Kate4.png|Photo 4 from David's garage files
+kateprofile.jpg|Kate Marsh profile from David's laptop
+
+# #
+
+## Files on Max 
+
+maxprofile.jpg|Max Caulfield profile from David's laptop
+Max-student-ID.PNG|Max's student ID.
+Max-schedule.png|Max's schedule.
+
+# #
+
+## Files on Rachel 
+
+rachelprofile.jpg|Rachel Amber profile from David's laptop
+
+# #
+
+## Security Files 
+
+Blackwell_Campus_Map.png|Blackwell Campus map with security camera locations
+Pan_Estates_plan.png|Pan Estates map with red marks, which probably represent security cameras
+
+#
+
+## Principal Wells' Computer 
+
+Wellscomp-disciplinary.png|Disciplinary Warning Report
+Wellscomp-incidentreport.png|Incident Report
+Wellscomp-memos.png|Memos
+
+#
+
+## Investigation Board 
+Nathan's car has a damaged left light indicating his number plate to be "SXFTNDR".
+
+David_investigation_board1.png|Clue 1 from the investigation board
+David_investigation_board2.png|Clue 2 from the investigation board
+David_investigation_board_gps1.png|GPS sheet 1 from the investigation board (Jefferson's car)
+David_investigation_board_gps2.png|GPS sheet 2 from the investigation board (Nathan's car)
+David_investigation_twnpks.png|GPS sheet from investigation board (Chloe's car)
+David_investigation_twlghtzn.png|GPS sheet from investigation board (car owner unknown)
+David_investigation_katefile.png|David's record of Kate's actions.
+David_investigation_maxphotos.png|Photos of Max are also featured in the investigation.
+David_investigation_nathandriving.png|Nathan driving his car.
+David_investigation_nathandealing.png|Nathan dealing drugs.
+David_investigation_chloeplate.png|Chloe's license plate.
+David_investigation_unknownplate.png|Unknown car license plate.
+David_investigation_jeffersonplate.png|Jefferson's license plate.
+David_investigation_nathanplate.png|Nathan's license plate.
+
+# #
+
+## Nathan's Files 
+The third SMS describes Frank's delivery of drugs to a special location on the 4th that was used on Kate.
+
+Nathan Student File.png|Nathan's student file.
+nathanclues-creepydrawing.png|Creepy drawing by Nathan.
+nathanclues-incidentreport.png|Blackwell Incident Report.
+nathanclues-partyposter.png|Vortex Club party poster.
+nathanclues-scribbles.png|Some scribbles by Nathan.
+nathanclues-simplastic.png|Plastic casing of Nathan's SIM card.
+nathanclues-warningreport.png|Disciplinary Waring Report.
+nathanclues-sms1.png|Conversation between Nathan and Frank #1.
+nathanclues-sms2.png|Conversation between Nathan and Frank #2.
+nathanclues-sms3.png|Conversation between Nathan and Frank #3.
+nathanclues-sms4.png|Conversation between Nathan and Frank #4.
+nathanclues-sms5.png|Conversation between Nathan and Frank #5.
+
+# #
+
+
+
+Generate five trivia questions relevant to this section of the page.

@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Who is An-Marie Barenchi?",
+    "answer": "A",
+    "choices": {
+      "A": "Blackwell Academy's school nurse",
+      "B": "The coach for the school swimming team",
+      "C": "The principal of Blackwell Academy",
+      "D": "A student at Blackwell Academy"
+    }
+  },
+  {
+    "question": "Why did An-Marie Barenchi contact Principal Wells about Kate Marsh?",
+    "answer": "B",
+    "choices": {
+      "A": "Because Kate was skipping classes",
+      "B": "Because Kate was being bullied",
+      "C": "Because Kate was causing trouble in school",
+      "D": "Because Kate was failing her exams"
+    }
+  },
+  {
+    "question": "What is the name of the school swimming team at Blackwell Academy?",
+    "answer": "C",
+    "choices": {
+      "A": "The Sharks",
+      "B": "The Dolphins",
+      "C": "The Otters",
+      "D": "The Whales"
+    }
+  }
+]

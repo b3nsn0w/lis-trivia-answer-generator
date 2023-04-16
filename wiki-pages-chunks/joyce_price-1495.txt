@@ -1,0 +1,72 @@
+Here is a section of the wiki page for Joyce Price:
+
+#  Joyce Price 
+
+```yaml
+Character
+
+name: Joyce Price
+image: Joyce.png
+died: October 11, 2013 (determinant)
+causeofdeath: >-
+  Killed by the [storm](storm.md) (determinant), Caught in a gas explosion in
+  the [Two Whales Diner
+diner](two_whales_diner_diner.md) (pre-rewind): ''
+gender: Female
+hair: Blonde
+eyes: Green
+loveinterest: >-
+  [William Price](william_price.md) (1st husband, deceased)  [David
+  Madsen](david_madsen.md) (2nd husband)
+profession: Waitress
+affiliation: '[Two Whales Diner](two_whales_diner.md)'
+appearance: >-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)  [Episode 2: Out of
+  Time](episode_2__out_of_time.md)  [Episode 3: Chaos
+  Theory](episode_3__chaos_theory.md)  [Episode 4: Dark
+  Room](episode_4__dark_room.md) ([Alternative Timeline (Life is Strange)
+'alternative timeline](alternative_timeline__life_is_strange___alternative_timeline.md))  [Episode 5: Polarized](episode_5__polarized.md)': ''
+voice: '[Cissy Jones](cissy_jones.md)'
+relatives: >-
+  [Chloe Price](chloe_price.md) (daughter)  [Dorothy](dorothy.md) (maternal
+  aunt)
+```
+
+{{DONTNODWiki}}
+> Joyce, I am so sorry about William. I have great memories of him.*"*
+*"*I'm glad, Max. That was his gift to us... wonderful memories. Even if Chloe doesn't understand yet.
+
+**[Maxine Caulfield**, Max](maxine_caulfield____max.md) and Joyce in "[Episode 2: Out of Time, Out of Time](episode_2__out_of_time__out_of_time.md)"
+
+**Joyce Madsen** (formerly **Joyce Price**) is [Chloe Price](chloe_price.md)'s mother and long-time resident of [Arcadia Bay](arcadia_bay.md). She is the widow of [William Price](william_price.md) and is currently married to [David Madsen](david_madsen.md). After her marriage, she took her new husband's surname.
+
+Joyce works at the local eatery, the [Two Whales Diner](two_whales_diner.md). She is an excellent cook and a protective, loving mother towards Chloe. She still lives in the [Madsen Household](same_house.md) from Chloe's childhood.
+
+She first appears in the first episode, "[Episode 1: Chrysalis](chrysalis.md)", during the ending scene as she cleans the counters in the diner, but we meet her properly in the second episode, "[Episode 2: Out of Time](out_of_time.md)".
+
+Joyce reappears in *[Life is Strange: Before the Storm](before_the_storm.md)*, the prequel to the events of *[Life is Strange](life_is_strange.md)* and is mentioned in *[Life is Strange 2](life_is_strange_2.md)*.
+
+: ''For the image gallery, click [Joyce Price/Gallery](here.md). To visit Joyce's room, click [Joyce and David's Room](here.md).''
+
+## Personality 
+Joyce is a strong mother figure within the game. She is a kind, hardworking and a sassy woman, she takes no nonsense from both Chloe and the squabbling diner patrons she deals with daily. She is a loving, worried mother who wishes the best for her daughter.
+
+## Biography 
+The following is what Max wrote about Joyce in [Max's Journal](her_journal.md):
+
+''Talking to Joyce Price after five years was almost as intense as seeing Chloe again. Especially right back in "ye olde" Two Whales Diner. That clinking of silverware and the smell of sizzling bacon rewound me back to being a kid, hanging out there with my parents for breakfast. I remember her always smiling at Chloe, even in mischief. Doubt she smiles at her hijinks now, but they still banter like mother and daughter. I moved to Seattle so soon after William died that I never saw how it affected Joyce. I'm glad she's not pissed at me for being selfish and never looking back. I still remember the last time Chloe and I saw him alive. I wonder how often Joyce relives that day? That's the worst kind of rewind: one you can't control. But if I could go back to that moment... what would I do?*
+
+*I can only imagine how Joyce ended up with David Madsen. Talk about opposites. You can tell she loves him - disturbing as that sounds. Maybe she just wanted a more structured life for herself... Obviously it didn't work out that way with Chloe. I hope they both treat her right. Joyce deserves the best.''
+
+## Background 
+Joyce was married to William Price. In 1993, she became pregnant with their first and only daughter [Chloe Price](chloe_price.md). Joyce and William both travelled to [San Francisco](san_francisco.md) and took a photograph in front of the Golden Gate Bridge, as noted by the photograph of the holiday she keeps in her bedside dresser. Max notes that she has "a little shrine to William" there, so obviously she misses him and their relationship. The couple raised their newborn in Arcadia Bay, where Chloe became best friends with [Maxine Caulfield](max_caulfield.md), practically a second daughter for the Price family.
+
+In 1999, Joyce and William bought to their daughter a cat, named [Bongo](bongo.md), who was later killed by a passing car.
+
+In 2008, her husband William died in a car accident. Joyce often blames herself for the death of her husband, because she was the reason behind him leaving the house the day he died. She rang him to ask for a ride after getting groceries, resulting in his car crash. Chloe has also admitted that she also sometimes blames her mother for her father's untimely death.
+
+After William's death, Joyce met David Madsen in the Two Whales Diner and married him sometime after, much to the disgust of her daughter who resented him for replacing her father and being too harsh on her.
+
+
+
+Generate five trivia questions relevant to this section of the page.

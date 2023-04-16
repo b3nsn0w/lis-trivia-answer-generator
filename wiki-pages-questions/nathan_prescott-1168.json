@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What does Nathan reveal in the voicemail he leaves for Max?",
+    "answer": "A",
+    "choices": {
+      "A": "He is sorry for hurting Kate and Rachel",
+      "B": "He is going to turn himself in to the police",
+      "C": "He is planning to escape from the Dark Room",
+      "D": "He is going to kill Mr. Jefferson"
+    }
+  },
+  {
+    "question": "How does Nathan die in the \"Sacrifice Chloe\" ending?",
+    "answer": "C",
+    "choices": {
+      "A": "He is killed by Mr. Jefferson",
+      "B": "He is arrested by the police",
+      "C": "He is accidentally killed by Chloe",
+      "D": "His fate is not revealed"
+    }
+  },
+  {
+    "question": "What is Nathan's relationship with Max in the Alternative Timeline?",
+    "answer": "C",
+    "choices": {
+      "A": "They are enemies",
+      "B": "They are dating",
+      "C": "They are friends",
+      "D": "They are classmates who never interact"
+    }
+  },
+  {
+    "question": "Who does David Madsen keep a mugshot of in Life is Strange 2?",
+    "answer": "A",
+    "choices": {
+      "A": "Nathan Prescott",
+      "B": "Mark Jefferson",
+      "C": "Chloe Price",
+      "D": "Sean Diaz"
+    }
+  }
+]

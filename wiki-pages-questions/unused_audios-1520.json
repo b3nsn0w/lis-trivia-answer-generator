@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is KBay7Host's Concern In The Unused Audio?",
+    "answer": "C",
+    "choices": {
+      "A": "The Uncommon Snow Storm",
+      "B": "The Eclipse",
+      "C": "The Crazy Weather",
+      "D": "The Global Warming"
+    }
+  },
+  {
+    "question": "What Does Max Find In The Garage?",
+    "answer": "A",
+    "choices": {
+      "A": "David's Uniform",
+      "B": "David's Dog Tag",
+      "C": "David's Pass Number",
+      "D": "David's Dead Head"
+    }
+  },
+  {
+    "question": "What Does Max Find In The Living Room?",
+    "answer": "A",
+    "choices": {
+      "A": "A Blue Bird",
+      "B": "A Clue About David's Password",
+      "C": "A News About Kate",
+      "D": "A Fruit VS Bacon Debate"
+    }
+  },
+  {
+    "question": "What Does Max Wonder About The Eclipse?",
+    "answer": "A",
+    "choices": {
+      "A": "What Everybody Saw",
+      "B": "If It Was Real",
+      "C": "If It Was A Sign",
+      "D": "If It Was A Dream"
+    }
+  },
+  {
+    "question": "What Does Max Want To Find Out From Nathan?",
+    "answer": "A",
+    "choices": {
+      "A": "His Response",
+      "B": "His Location",
+      "C": "His Alibi",
+      "D": "His Motive"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Why Is It Not Recommended To Shake Modern Polaroid Film Formula?",
+    "answer": "A",
+    "choices": {
+      "A": "It Could Damage The Quality Of The Image",
+      "B": "It Could Develop The Photograph Faster",
+      "C": "It Could Make The Colors More Vibrant",
+      "D": "It Could Make The Image More Clear"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Photography Contest That Max Participates In?",
+    "answer": "A",
+    "choices": {
+      "A": "Everyday Heroes Photo Contest",
+      "B": "Arcadia Bay Photography Contest",
+      "C": "Polaroid Photo Contest",
+      "D": "Retro Photography Contest"
+    }
+  },
+  {
+    "question": "What Is The Symbolism Behind Max Tearing Up Her Everyday Heroes Photo Contest Photo?",
+    "answer": "A",
+    "choices": {
+      "A": "She Is Rejecting The Idea Of Being A Hero",
+      "B": "She Is Rejecting The Idea Of Winning The Contest",
+      "C": "She Is Rejecting The Idea Of Being A Photographer",
+      "D": "She Is Rejecting The Idea Of Being Famous"
+    }
+  },
+  {
+    "question": "What Does Max's Mother Suggest She Should Use Instead Of Instant Film?",
+    "answer": "A",
+    "choices": {
+      "A": "A Digital Camera",
+      "B": "A Polaroid Camera",
+      "C": "A Film Camera",
+      "D": "A Disposable Camera"
+    }
+  }
+]

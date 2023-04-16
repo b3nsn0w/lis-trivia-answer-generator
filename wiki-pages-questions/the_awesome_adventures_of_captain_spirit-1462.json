@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Name Of Chris' Imaginary Superhero Alter Ego?",
+    "answer": "C",
+    "choices": {
+      "A": "Power Bear",
+      "B": "Sky Pirate",
+      "C": "Captain Spirit",
+      "D": "Forest Warrior"
+    }
+  },
+  {
+    "question": "What Happened To Chris' Mother?",
+    "answer": "B",
+    "choices": {
+      "A": "She Left The Family",
+      "B": "She Was Killed In A Hit-And-Run Accident",
+      "C": "She Moved To Another Country",
+      "D": "She Got Divorced From Charles"
+    }
+  },
+  {
+    "question": "Who Is Audra?",
+    "answer": "D",
+    "choices": {
+      "A": "Chris' Mother",
+      "B": "Charles' Boss",
+      "C": "Charles' Ex-Wife",
+      "D": "Charles' Girlfriend"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Neighbor Who Hears The Commotion In Chris' House?",
+    "answer": "B",
+    "choices": {
+      "A": "Emily",
+      "B": "Claire Reynolds",
+      "C": "Kristen Wyatt",
+      "D": "Ms. Stroud"
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What Is The Common Shape Of All The Photos Displayed In The Lower-Floor Exhibit Room?",
+    "answer": "B",
+    "choices": {
+      "A": "Rectangle",
+      "B": "Square",
+      "C": "Circle",
+      "D": "Triangle"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What does Max say while taking a photo of a squirrel?",
+    "answer": "B",
+    "choices": {
+      "A": "\"Cheese!\"",
+      "B": "\"Nut!\"",
+      "C": "\"Smile!\"",
+      "D": "\"Pose!\""
+    }
+  },
+  {
+    "question": "Why is Principal Wells sitting outside at night?",
+    "answer": "B",
+    "choices": {
+      "A": "He is waiting for someone.",
+      "B": "He is on suspension.",
+      "C": "He is enjoying the night sky.",
+      "D": "He is avoiding his responsibilities."
+    }
+  },
+  {
+    "question": "What does Principal Wells say to Max after she saves Kate?",
+    "answer": "B",
+    "choices": {
+      "A": "\"You're in trouble now.\"",
+      "B": "\"You're a hero, Max.\"",
+      "C": "\"Don't get too confident.\"",
+      "D": "\"You should have done more.\""
+    }
+  }
+]

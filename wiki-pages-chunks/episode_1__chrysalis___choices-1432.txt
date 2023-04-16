@@ -1,0 +1,152 @@
+Here is a section of the wiki page for Episode 1: Chrysalis - Choices:
+
+## Kate's Slate Insults# 
+
+|-|ErasedErased
+*Episode 2
+**Kate's whiteboard will be vandalized again.
+**Max will bring up this action during part two of the conversation with Kate on the rooftop.
+***This does not make it easier to talk Kate down.
+***Kate will either accept or reject Max's statement depending on whether or not Max answered her phone call in Episode 2.
+|-|Ignored# Ignored
+*Episode 2
+**Kate's whiteboard retains the original vandalism.
+**Max will not bring up the whiteboard during part two of the conversation with Kate on the rooftop.
+***This does not make it harder to talk Kate down.
+***Kate's reactions differ only based on whether or not Max answered her phone call in Episode 2.
+
+#
+
+## Lisa #1# 
+
+|-|WateredWatered
+*Episode 2
+**Lisa will look healthy.
+*Episode 3
+**Contributes to Lisa's death by drowning (1/2).
+**Prevents Lisa from drying out.
+|-|Didn't Water# Didn't Water
+*Episode 2
+**Lisa will look wilted.
+*Episode 3
+**Contributes to Lisa's death by drying out (1/2).
+**Prevents Lisa from drowning.
+
+#
+
+## Victoria's Photos# 
+
+|-|ReorganizedReorganized
+*Episode 1
+**Max can take optional photo #6.
+*Episode 2
+**Victoria will write "Hi I'm Max selfie" and draw a Polaroid of fecal matter on Max's whiteboard. 
+*Episode 3
+**Victoria has stolen Max's cookies.
+|-|Didn't Reorganize# Didn't Reorganize
+*Episode 1
+**Max cannot take optional photo #6 (unless she reorganized the photos and rewound).
+*Episode 2
+**No one will write on Max's whiteboard.
+*Episode 3
+**Victoria did not steal Max's cookies.
+
+#
+
+## Dana's Pregnancy Test# 
+
+|-|TouchedTouched
+*Episode 1
+**Dana is pissed at Max for invading her privacy and kicks Max out of the room.
+*Episode 2
+**Max can apologize to Dana for looking at the pregnancy test.
+*Episode 4
+**Dana will talk to Max about Trevor knowing how to "be safe".
+**Max can call Logan out for abandoning Dana when she needed help.
+|-|Didn't Touch# Didn't Touch
+*Episode 1
+**Dana and Max can only talk about Juliet, Warren, and general Blackwell drama.
+*Episode 2
+**Dana will invite Max to the party without much preamble.
+*Episode 4
+**Dana will not talk to Max about Trevor knowing how to "be safe".
+**If she did not find out that Logan got Dana pregnant, Max cannot call Logan out for abandoning Dana when she needed help.
+|-|Touched and RewoundTouched and Rewound
+*Episode 1
+**Dana confides in Max and respects her intuition.
+*Episode 2
+**Dana is glad that she talked to Max.
+*Episode 4
+**Dana will talk to Max about Trevor knowing how to "be safe".
+**Max can call Logan out for abandoning Dana when she needed help.
+
+# #
+
+## Alyssa #1
+
+|-|Warn# Warn
+*Episode 1
+**Max can take optional photo #7.
+**A window of the Prescott Dormitory is broken and remains so for the rest of the game.
+*Episode 2
+**Alyssa will call Max her guardian angel if saved from toilet paper.
+*Episode 3
+**Max will think about how much such a small thing reminds her of altering history, when looking at the broken window.
+*Episode 4
+**Contributes to Alyssa reading a Robert Frost quote to Max (1/4, all needed).
+*Episode 5
+**Contributes to Alyssa saving Max from a sign falling onto her (1/4, all needed).
+|-|IgnoreIgnore
+*Episode 1
+**Max cannot take optional photo #7 (unless she saved Alyssa and then rewound).
+**The window of the Prescott Dormitory remains whole.
+*Episode 2
+**Alyssa will thank Max for helping her if saved from toilet paper.
+*Episode 4
+**Alyssa will not read a Robert Frost quote to Max.
+*Episode 5
+**Contributes to Alyssa frightfully telling Max that bad things always happen to her when she's around, leading her to back into a hole in the floor (1/4, all needed).
+***Max can rewind and save Alyssa.
+
+# #
+
+## Kate and David
+
+|-|Took a Photo# Took a Photo
+*Episode 1
+**Max regrets not standing up for Kate.
+**Kate texts Max telling her that what she did was "not cool". 
+**Chloe will declare the photo to be evidence against David.
+**Chloe will bring up the photo in her fight with David.
+*Episode 2
+**Kate will confront Max in the bathroom for her actions.
+**Kate will confront Max more fervently in Kate's room.
+**Max will be given four options to say to Kate during part one of the conversation with Kate on the rooftop.
+***Three of the options will upset Kate.
+**David will be suspended if Max blames him in the principal's office.
+*Episode 3
+**Max can comment on the photo upon examination if she did not blame David with it in Episode 2.
+|-|IntervenedIntervened
+*Episode 1
+**Max is glad that she stood up for Kate.
+**Kate texts Max thanking her for her actions.
+**Chloe does not see the photo.
+**Chloe will bring up that David is a "fucking security guard" during her argument with him.
+*Episode 2
+**Kate will thank Max in the bathroom for her actions.
+**Kate will question why Max helped her in Kate's room.
+**Max will be given two options to say to Kate during part one of the conversation with Kate on the rooftop.
+***Neither option upsets Kate.
+**David will not be suspended if Max blames him in the principal's office.
+**Max will be suspended if she blames him, reported Nathan, and took the blame for Chloe's weed.
+**No one will be suspended if:
+***Max blames David and didn't take the blame for Chloe's weed.
+***Max blames David, didn't report Nathan, and took the blame for Chloe's weed.
+*Episode 3
+**The photo will not be in Max's room.
+
+# #
+
+
+
+Generate five trivia questions relevant to this section of the page.

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Song Starts Playing In Reverse When Max Puts On Her Headphones?",
+    "answer": "B",
+    "choices": {
+      "A": "Obstacles",
+      "B": "To All of You",
+      "C": "Something Good",
+      "D": "Mountains"
+    }
+  },
+  {
+    "question": "Who Does Max Overhear Talking About Her In The Hallway?",
+    "answer": "B",
+    "choices": {
+      "A": "Taylor and Courtney",
+      "B": "Juliet and Zachary",
+      "C": "Victoria and Nathan",
+      "D": "Kate and Warren"
+    }
+  },
+  {
+    "question": "What Does Taylor Say About Max Taking Selfies?",
+    "answer": "A",
+    "choices": {
+      "A": "She Thinks Max Is Obsessed With Herself",
+      "B": "She Wants To Take Selfies With Max",
+      "C": "She Thinks Max Takes Good Selfies",
+      "D": "She Thinks Max Should Stop Taking Selfies"
+    }
+  },
+  {
+    "question": "What Does Max Hear When To All of You Starts Playing In Reverse?",
+    "answer": "A",
+    "choices": {
+      "A": "A Whispering Voice",
+      "B": "A Loud Scream",
+      "C": "A Phone Ringing",
+      "D": "A Dog Barking"
+    }
+  },
+  {
+    "question": "What Appears In Front Of Max Before She Enters The Bathroom?",
+    "answer": "B",
+    "choices": {
+      "A": "A Ghost",
+      "B": "A Deer",
+      "C": "A Rabbit",
+      "D": "A Bird"
+    }
+  }
+]

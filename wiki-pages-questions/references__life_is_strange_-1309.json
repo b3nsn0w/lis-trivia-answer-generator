@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Name Of The Book Found On The Floor Of Max's Room?",
+    "answer": "A",
+    "choices": {
+      "A": "Theories, Paradoxes & Possibilities",
+      "B": "The Moron’s Guide to Time Travel",
+      "C": "The October Country",
+      "D": "Mystic Enchantment"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Trading Card Game Referenced In The Excerpt?",
+    "answer": "A",
+    "choices": {
+      "A": "Magic: The Gathering",
+      "B": "Yu-Gi-Oh!",
+      "C": "Pokémon Trading Card Game",
+      "D": "Hearthstone"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Short Story Collection That Kate Is Reading?",
+    "answer": "A",
+    "choices": {
+      "A": "The October Country",
+      "B": "The Time Machine",
+      "C": "The Moron’s Guide to Time Travel",
+      "D": "Mystic Enchantment"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Film Series Being Shown At The Drive-In In Newport?",
+    "answer": "A",
+    "choices": {
+      "A": "Planet of the Apes",
+      "B": "Back to the Future",
+      "C": "Star Wars",
+      "D": "Harry Potter"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "How Does Max Save Herself From Jefferson's Restraints?",
+    "answer": "D",
+    "choices": {
+      "A": "By Using Her Time Rewind Power",
+      "B": "By Kicking The Table",
+      "C": "By Grabbing David's Gun",
+      "D": "By Pulling The Cable On The Lights"
+    }
+  },
+  {
+    "question": "What Does David Do After Knocking Jefferson Unconscious?",
+    "answer": "B",
+    "choices": {
+      "A": "He Calls The Police",
+      "B": "He Holsters His Gun",
+      "C": "He Burns The Studio",
+      "D": "He Escapes With Max"
+    }
+  },
+  {
+    "question": "What Does Max Take From The Table Before Leaving The Studio?",
+    "answer": "D",
+    "choices": {
+      "A": "A Camera",
+      "B": "A Diary",
+      "C": "A Gun",
+      "D": "Car Keys"
+    }
+  },
+  {
+    "question": "What Does David Notice About Jefferson After Max Is Freed?",
+    "answer": "C",
+    "choices": {
+      "A": "He Is Laughing",
+      "B": "He Is Crying",
+      "C": "He Is Moving His Head",
+      "D": "He Is Sleeping"
+    }
+  },
+  {
+    "question": "What Does David Say About The Studio?",
+    "answer": "C",
+    "choices": {
+      "A": "It's A School",
+      "B": "It's A Hospital",
+      "C": "It's A Studio",
+      "D": "It's A Mansion"
+    }
+  }
+]

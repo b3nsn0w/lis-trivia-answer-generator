@@ -1,0 +1,51 @@
+Here is a section of the wiki page for Arcadia Bay:
+
+## Locations 
+{| width# "100%" align"center"
+| valign# "top" |
+* [Blackwell Academy](blackwell_academy.md)
+* [Bean Hip Cafe](bean_hip_cafe.md)
+* [Prescott Barn](prescott_barn.md) ([Dark Room (Location)](dark_room.md))
+* [American Rust Junkyard](american_rust_junkyard.md)
+* [Two Whales Diner](two_whales_diner.md)
+* [Lighthouse](lighthouse.md)
+* [Beach](beach.md)
+* [Madsen Household](madsen_household.md)
+* [Arcadia Bay Cemetery](arcadia_bay_cemetery.md)
+* [Arcadia Bay Police Department](arcadia_bay_police_department.md)
+* Arcadia Bay Fire Department
+* [Harbor](harbor.md)
+* Lumber Mill
+* [Water Tower](water_tower.md)
+* [Hospital](hospital.md)
+* [Train Tracks](train_tracks.md)
+* [Prescott Estate](prescott_estate.md)
+* [Pan Estates](pan_estates.md)
+| valign"top" |
+* [Up All Nite Donuts](up_all_nite_donuts.md)
+* [Arcadia Gas](_arcadia_gas__gas_station.md)
+* [Rue Altimore](rue_altimore.md)
+* [Harbor Inn](harbor_inn.md)
+* Arcadia Bay Rental Services
+* Arcadia Bus Lines
+* [Tony's Liquor Store](tony_s_liquor_store.md)
+* [ACFC Drive-Thru](acfc_drive_thru.md)
+* [McFlinn](mcflinn.md)
+* Arcadia Bay Grocery&Deli
+* [Pacific Steve's Famous Crab](pacific_steve_s_famous_crab.md) (former)
+* Cedar Ave
+* [Arcadia Bay Ave](arcadia_bay_ave.md)
+
+* [Old Mill](old_mill.md) (Before the Storm)
+* [Overlook](overlook.md) (Before the Storm)
+* [Train](train.md) (Before the Storm)
+
+* [Otter Point](otter_point.md) (Life is Strange 2)
+|}
+
+Map LIS.png|Map of Arcadia Bay in *Life is Strange*
+Map BTS.png|Map of Arcadia Bay in *Before the Storm*
+
+
+
+Generate five trivia questions relevant to this section of the page.

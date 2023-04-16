@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What Character Did Daniel Bonjour Voice In Life Is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "Nathan Prescott",
+      "B": "Frank Bowers",
+      "C": "Warren Graham",
+      "D": "David Madsen"
+    }
+  },
+  {
+    "question": "In Which TV Show Did Daniel Bonjour Play Aiden Monroe?",
+    "answer": "A",
+    "choices": {
+      "A": "The Walking Dead",
+      "B": "Breaking Bad",
+      "C": "Stranger Things",
+      "D": "Game of Thrones"
+    }
+  },
+  {
+    "question": "What Was Daniel Bonjour's Role In The Movie 'Dracula's Guest'?",
+    "answer": "A",
+    "choices": {
+      "A": "German Captain",
+      "B": "Ricky",
+      "C": "Derek Blake",
+      "D": "Connor Hughes"
+    }
+  }
+]

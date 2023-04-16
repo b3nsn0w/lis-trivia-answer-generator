@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Name Of The Protagonist In Life Is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "Chloe Price",
+      "B": "Rachel Amber",
+      "C": "Maxine Caulfield",
+      "D": "Sean Diaz"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Town That Max Explores In Life Is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "Blackwell",
+      "B": "Arcadia Bay",
+      "C": "Seattle",
+      "D": "Los Angeles"
+    }
+  },
+  {
+    "question": "What Happens To The \"Notes\" That Max Finds Throughout The Game?",
+    "answer": "A",
+    "choices": {
+      "A": "They Are Added To Her Journal",
+      "B": "They Are Deleted",
+      "C": "They Are Shared On Social Media",
+      "D": "They Are Hidden In Her Backpack"
+    }
+  },
+  {
+    "question": "What Are Some Examples Of The \"Notes\" That Max Can Find In The Game?",
+    "answer": "A",
+    "choices": {
+      "A": "Pictures, Documents, Brochures, Posters, Photos, Items Of Interest",
+      "B": "Weapons, Armor, Potions, Spells, Gold, Treasure",
+      "C": "Recipes, Ingredients, Cookware, Utensils, Appliances",
+      "D": "Clothing, Accessories, Shoes, Hats, Bags"
+    }
+  },
+  {
+    "question": "Can Max Access The \"Notes\" She Finds In The Game After She Looks At Them?",
+    "answer": "A",
+    "choices": {
+      "A": "Yes, Through Her Journal",
+      "B": "No, They Are Deleted Automatically",
+      "C": "Only In Subsequent Episodes",
+      "D": "Only If She Takes A Screenshot"
+    }
+  }
+]

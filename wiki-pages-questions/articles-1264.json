@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who created the folk soundtrack for Life is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Jonathan Morali",
+      "B": "Edouard Caplain",
+      "C": "Ashly Burch",
+      "D": "Christian Divine"
+    }
+  },
+  {
+    "question": "When was the Blackwell Podcast Episode 20 with Ashly Burch released?",
+    "answer": "A",
+    "choices": {
+      "A": "March 23, 2016",
+      "B": "April 21, 2016",
+      "C": "May 31, 2016",
+      "D": "July 7, 2016"
+    }
+  },
+  {
+    "question": "What is the topic of the Audiokinetic Blog about Life is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Dynamic Music Positioning",
+      "B": "Character Design",
+      "C": "Fan Theories",
+      "D": "Licensed Soundtracks"
+    }
+  },
+  {
+    "question": "Who was interviewed in the article \"Life is Strange developer chat\"?",
+    "answer": "C",
+    "choices": {
+      "A": "Jonathan Morali",
+      "B": "Edouard Caplain",
+      "C": "Raoul Barbet and Luc Baghadoust",
+      "D": "Christian Divine"
+    }
+  }
+]

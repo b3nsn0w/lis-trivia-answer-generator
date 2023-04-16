@@ -1,0 +1,64 @@
+#  Fan:Mt. Washington - Local Natives cover 
+
+**"Mt. Washington (cover)"** is a song performed by [Fan:Fan Music#Riley Hawke](riley_hawke.md). The song was written by {{wiki|Local Natives}}. Hawke's rendition was released on August 23, 2016, as an entry in a *Life is Strange* song contest organized by [Life Is Strange Fans](life_is_strange_fans.md).
+
+##  Lyrics 
+
+:Face stained in the ceiling
+:Why does it keep saying
+:I don't have to see you right now
+:I don't have to see you right now
+
+:Digging like you can bury
+:Something that cannot die
+:Or we could wash the dirt off our hands now
+:Keep it from living underground
+
+:Lazy summer goddess
+:You can tell our whole empire
+:I don't have to see you right now
+:I don't have to see you right now
+
+:I don't have to see you right now
+:I don't have to see you right now
+:I don't have to see you right now
+:I don't have to see you right now
+
+##  Video 
+
+Mt. Washington - Local Natives (Life is Strange music contest entry)
+
+##  Navigation 
+{{Music Navbox}}
+
+. Hawke's rendition was released on August 23, 2016, as an entry in a *Life is Strange* song contest organized by [Life Is Strange Fans](life_is_strange_fans.md).
+
+##  Lyrics 
+
+:Face stained in the ceiling
+:Why does it keep saying
+:I don't have to see you right now
+:I don't have to see you right now
+
+:Digging like you can bury
+:Something that cannot die
+:Or we could wash the dirt off our hands now
+:Keep it from living underground
+
+:Lazy summer goddess
+:You can tell our whole empire
+:I don't have to see you right now
+:I don't have to see you right now
+
+:I don't have to see you right now
+:I don't have to see you right now
+:I don't have to see you right now
+:I don't have to see you right now
+
+##  Video 
+
+Mt. Washington - Local Natives (Life is Strange music contest entry)
+
+##  Navigation 
+{{Music Navbox}}
+

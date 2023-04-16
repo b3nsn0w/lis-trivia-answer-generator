@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is Max's conclusion after researching about her power?",
+    "answer": "A",
+    "choices": {
+      "A": "Time is a fragile foundation",
+      "B": "Time travel is impossible",
+      "C": "Time is a constant",
+      "D": "Time is a linear progression"
+    }
+  },
+  {
+    "question": "What is the reference to Stephen Hawking in Life is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "The term \"Tourism in Time\"",
+      "B": "Max's research on wormhole theory",
+      "C": "Chloe's nickname for Max",
+      "D": "Warren's scientific discussions with Max"
+    }
+  },
+  {
+    "question": "What is the connection between Max Caulfield and Holden Caulfield?",
+    "answer": "D",
+    "choices": {
+      "A": "They are both students at an exclusive boarding school",
+      "B": "They both have a similar personality trait",
+      "C": "They both have a red cap",
+      "D": "They are both icons for teenage rebellion and angst"
+    }
+  },
+  {
+    "question": "What is the Strange Attractor in Life is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "A type of attractor with a fractal structure",
+      "B": "A person with anachronisms in photos",
+      "C": "A reference to a Charlie Chaplin movie",
+      "D": "A type of attractor with chaotic dynamics"
+    }
+  },
+  {
+    "question": "What is Schrödinger's Cat?",
+    "answer": "A",
+    "choices": {
+      "A": "A thought experiment about quantum superposition",
+      "B": "A type of attractor with a fractal structure",
+      "C": "A physical phenomenon that occurs when pairs or groups of particles are generated",
+      "D": "A hypothetical group of multiple universes"
+    }
+  }
+]

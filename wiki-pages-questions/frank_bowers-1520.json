@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is Frank Bowers' Profession?",
+    "answer": "B",
+    "choices": {
+      "A": "Student",
+      "B": "Drug Dealer",
+      "C": "Police Officer",
+      "D": "Teacher"
+    }
+  },
+  {
+    "question": "What Is Frank Bowers' Relationship With Rachel Amber?",
+    "answer": "D",
+    "choices": {
+      "A": "Best Friends",
+      "B": "Siblings",
+      "C": "Enemies",
+      "D": "Girlfriend/Boyfriend"
+    }
+  },
+  {
+    "question": "What Is Frank Bowers' Reaction When Max And Chloe Try To Get His Client List?",
+    "answer": "B",
+    "choices": {
+      "A": "He Gives It To Them Without Any Resistance",
+      "B": "He Gets Angry And Threatens Them",
+      "C": "He Runs Away",
+      "D": "He Calls The Police"
+    }
+  },
+  {
+    "question": "What Does Frank Bowers Reveal About His Beliefs In Episode 5?",
+    "answer": "B",
+    "choices": {
+      "A": "He Is An Atheist",
+      "B": "He Believes In God And Attends Church",
+      "C": "He Is A Satanist",
+      "D": "He Doesn't Believe In Anything"
+    }
+  }
+]

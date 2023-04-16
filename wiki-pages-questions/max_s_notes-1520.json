@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Where Is Kate's Drawing Located?",
+    "answer": "A",
+    "choices": {
+      "A": "On Her Bed",
+      "B": "On The Wall",
+      "C": "On The Desk",
+      "D": "On The Floor"
+    }
+  },
+  {
+    "question": "What Does Max Say About Kate's Art?",
+    "answer": "B",
+    "choices": {
+      "A": "It Is Dark And Gloomy",
+      "B": "It Is Perfect For A Children's Book",
+      "C": "It Is Boring And Uninspired",
+      "D": "It Is Too Abstract"
+    }
+  },
+  {
+    "question": "What Does Max Say About The Marsh Family Photo?",
+    "answer": "B",
+    "choices": {
+      "A": "They Look Like A Happy Family",
+      "B": "They Look Like Zombies",
+      "C": "They Look Like Criminals",
+      "D": "They Look Like Celebrities"
+    }
+  },
+  {
+    "question": "Where Is The \"Safe Not Sorry\" Poster Located?",
+    "answer": "B",
+    "choices": {
+      "A": "On The Wall",
+      "B": "On The Desk",
+      "C": "On The Floor",
+      "D": "On The Door"
+    }
+  },
+  {
+    "question": "What Does Max Say About The \"Save Our Bay\" Flyer?",
+    "answer": "B",
+    "choices": {
+      "A": "It Is A Waste Of Paper",
+      "B": "It Is Heartbreaking That Nobody Will Read It",
+      "C": "It Is An Effective Way To Raise Awareness",
+      "D": "It Is A Political Propaganda"
+    }
+  }
+]

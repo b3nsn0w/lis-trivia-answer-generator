@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Did Max Want To Be When She Grew Up?",
+    "answer": "B",
+    "choices": {
+      "A": "A Pirate",
+      "B": "A Photographer",
+      "C": "A Museum Curator",
+      "D": "A Coffee Shop Owner"
+    }
+  },
+  {
+    "question": "What Did Max And Chloe Dream Of Having Together?",
+    "answer": "C",
+    "choices": {
+      "A": "A House",
+      "B": "A Car",
+      "C": "A Life Of Adventure",
+      "D": "A Successful Business"
+    }
+  },
+  {
+    "question": "Who Believed In Max's Ability To Become A Photographer?",
+    "answer": "C",
+    "choices": {
+      "A": "Joyce",
+      "B": "William",
+      "C": "Chloe",
+      "D": "Max Herself"
+    }
+  },
+  {
+    "question": "What Did Chloe Think Of Max's Personality When They Were Kids?",
+    "answer": "B",
+    "choices": {
+      "A": "She Thought Max Was Too Loud",
+      "B": "She Thought Max Was A Wallflower",
+      "C": "She Thought Max Was A Smartass",
+      "D": "She Thought Max Was A Chickenshit"
+    }
+  },
+  {
+    "question": "What Did Max And Chloe See Seattle As?",
+    "answer": "C",
+    "choices": {
+      "A": "A Place To Start A Business",
+      "B": "A Place To Settle Down",
+      "C": "A Place Of Adventure And Treasure",
+      "D": "A Place To Retire"
+    }
+  }
+]

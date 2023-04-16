@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who taunts Max about Victoria not being her best friend forever?",
+    "answer": "A",
+    "choices": {
+      "A": "Nathan",
+      "B": "David",
+      "C": "Frank",
+      "D": "Mr. Jefferson"
+    }
+  },
+  {
+    "question": "Who accuses Max of being a stoner and a weed junkie?",
+    "answer": "A",
+    "choices": {
+      "A": "David",
+      "B": "Frank",
+      "C": "Mr. Jefferson",
+      "D": "Nathan"
+    }
+  },
+  {
+    "question": "Who offers Max drugs after Rachel's death?",
+    "answer": "A",
+    "choices": {
+      "A": "Frank",
+      "B": "David",
+      "C": "Mr. Jefferson",
+      "D": "Nathan"
+    }
+  },
+  {
+    "question": "What does Max say about collecting bottles in the maze?",
+    "answer": "A",
+    "choices": {
+      "A": "\"This might be Hell.\"",
+      "B": "\"I hate this game.\"",
+      "C": "\"I'm getting good at this.\"",
+      "D": "\"I wish I had a map.\""
+    }
+  },
+  {
+    "question": "Who claims to have dug up Rachel's body to be with her one final time?",
+    "answer": "C",
+    "choices": {
+      "A": "Frank",
+      "B": "David",
+      "C": "Mr. Jefferson",
+      "D": "Nathan"
+    }
+  }
+]

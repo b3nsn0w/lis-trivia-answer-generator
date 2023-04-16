@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Chloe Do When She Finds Rachel's Body?",
+    "answer": "A",
+    "choices": {
+      "A": "She Digs With Her Hands",
+      "B": "She Calls The Police",
+      "C": "She Runs Away",
+      "D": "She Faints"
+    }
+  },
+  {
+    "question": "What Does Max See Watching Them From Across The Junkyard?",
+    "answer": "B",
+    "choices": {
+      "A": "A Ghost",
+      "B": "A Deer",
+      "C": "A Cat",
+      "D": "A Dog"
+    }
+  },
+  {
+    "question": "What Does Chloe Do With Her Gun Before Entering The Party?",
+    "answer": "C",
+    "choices": {
+      "A": "She Throws It Away",
+      "B": "She Gives It To Max",
+      "C": "She Puts It In Her Back Pocket",
+      "D": "She Gives It To Warren"
+    }
+  },
+  {
+    "question": "What Does Warren Want To Take Before They Enter The Party?",
+    "answer": "C",
+    "choices": {
+      "A": "A Selfie",
+      "B": "A Group Photo",
+      "C": "A Polaroid",
+      "D": "A Video"
+    }
+  },
+  {
+    "question": "What Does Max Ask Warren To Do If He Sees Nathan?",
+    "answer": "C",
+    "choices": {
+      "A": "Take A Picture",
+      "B": "Call The Police",
+      "C": "Text Her Immediately",
+      "D": "Follow Him"
+    }
+  }
+]

@@ -1,0 +1,100 @@
+Here is a section of the wiki page for Episode 3: Chaos Theory - Script:
+
+## **Diner** 
+
+**Max:** Listen, when I went through David's laptop, I found pictures of Rachel and Frank... being more than friends.
+
+**Chloe:** Right. No way, Max. She was just posing to tease Frank.
+
+**Max:** If you're not gonna believe me, why don't we check out what Frank has in his RV?
+
+**Chloe:** What's that gonna prove?
+
+**Max:** Frank has Rachel's bracelet. What else does he have in there?
+
+**Chloe:** Motherfucker better not have anything. For his sake.
+
+*Frank is eating breakfast inside the diner. Chloe parks the car.*
+
+**Chloe:** Let's check the door. Frank gets so wasted he sometimes forgets to lock it.
+
+*Max and Chloe approach the RV.*
+
+**Max:** I can't believe you hung out with him.
+
+**Chloe:** Not anymore. We have to be casual ninjas here...
+
+*Chloe tries the door; it is locked, and Pompidou begins barking from inside.*
+
+**Chloe:** Shitballs. Okay, here's the plan. I'll go to the diner and distract Frank by telling him I have his money, but he needs to come with me. Then you come in and rewind so Frank doesn't see me, then you can tell Frank he needs to check out his RV and then you rewind after you get the key, and... uh... and...
+
+**Max:** Chloe, I got this. Be right back.
+
+*Max walks towards the diner.*
+
+**Chloe:** Don't let my epic plan get in the way of yours. I'll try to scrounge up a Scooby snack to distract his mangy mutt...
+
+**Max:** *(thinking)* Now to find a quick and easy way to snag Frank's keys.
+
+*Max receives a text message from her father.*
+
+(Saved Kate)(Saved Kate)**Dad (SMS):** Maxine. Pop here. I'm sorry I haven't gotten in touch sooner. I know your mom is very proud of you for saving that girl. As am I. We have no doubt sending you to Blackwell was the best thing you ever demanded we do :) It makes us so proud to read about you in the news and see actual video of you walking down from the roof with that girl.
+|-|(Didn't save Kate)# (Didn't save Kate)**Dad (SMS):** Maxine. Pop here. I'm sorry I haven't gotten in touch sooner. I know you're upset but your mom and I know you did everything you could to save that girl. Some things are just out of our control.
+
+(Max was suspended)(Max was suspended)**Dad (SMS):** That said, we are very concerned about your suspension. I'd prefer to talk in person. Maybe it's time to review your plans for the future. Your mother and I think you should come home and search for a local high school here.
+
+Love, Pop
+
+|-|(Max wasn't suspended)# (Max wasn't suspended)**Dad (SMS):** And if you want to come back home now to relax and maybe go to a high school around here, the door is wide open.
+
+Love, Pop
+
+**Max (SMS):** Thanx Pop. It's been intense here. But I'm not ready to come home. Talk later. Maxoxo
+
+#
+
+## **Optional Conversation with Fisherman** # 
+
+**Max:** Good morning! How are the fish today?
+
+**Fisherman:** Don't ask. First the snow, then an eclipse... What's next, a tornado?
+
+Climate change.Climate change.**Max:** You don't think it could be like climate change or something?
+
+{{#tag:tabber|(Max blamed Nathan)# (Max blamed Nathan)**Fisherman:** The climate sure has changed around here. Just saw that Prescott brat having a fit by himself in the parking lot...
+
+**Max:** Isn't he always having a fit?
+
+**Fisherman:** He ain't the only one. If you knew what was going on with the fish around Arcadia Bay... Sorry, I'm too pissed to talk about it. See ya around, kid.
+
+{{!}}-{{!}}(Max didn't blame Nathan)(Max didn't blame Nathan)**Fisherman:** I'm a fisherman, no scientist. I know the sea is warming but this is something new... and maybe worse.
+
+**Max:** What do you mean "worse"?
+
+**Fisherman:** If you knew what was going on with the fish around Arcadia Bay... Sorry, I'm too salty to talk about it. See ya around, kid.
+
+}}
+
+|-|I hope not.# I hope not.**Max:** I hope not...
+**Fisherman:** Could be worse, we could get one of those California quakes.
+
+**Max:** True... well, I'm feeling a little dizzy now. Hope you catch the big one today!
+
+**Fisherman:** I better... too late to switch careers now. See ya around, kid.
+
+|-|Fish. ("Climate change," then rewind)Fish. ("Climate change," then rewind)**Max:** I heard that something bad was happening to the fish in Arcadia Bay...
+**Fisherman:** Well, since you mentioned it first... There ain't no fish in Arcadia Bay!
+
+**Max:** What? Come on... None?
+
+**Fisherman:** None worth catching and eating anymore... I'm not shitting you. Salmon, trout, bass have died and migrated. Even the damn clams are dying...
+
+**Max:** Oh my God... but what about...
+
+**Fisherman:** Sorry, I'm too salty to talk about it. See ya around, kid.
+
+# #
+
+
+
+Generate five trivia questions relevant to this section of the page.

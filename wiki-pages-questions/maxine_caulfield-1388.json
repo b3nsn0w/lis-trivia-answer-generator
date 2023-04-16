@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is Max's Primary Equipment As An Aspiring Photographer?",
+    "answer": "B",
+    "choices": {
+      "A": "Diary",
+      "B": "Camera",
+      "C": "Cell Phone",
+      "D": "Computer"
+    }
+  },
+  {
+    "question": "What Is The Side-Effect Of Max's Time Rewind Power?",
+    "answer": "A",
+    "choices": {
+      "A": "She Disappears",
+      "B": "She Becomes Invisible",
+      "C": "She Teleports",
+      "D": "She Becomes Intangible"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Theory That Explains The Consequences Of Changing Major Events In The Past?",
+    "answer": "B",
+    "choices": {
+      "A": "Butterfly Effect",
+      "B": "Chaos Theory",
+      "C": "Time Paradox",
+      "D": "Causality Principle"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Improvised Explosive Device That Max Constructs With Warren's Help?",
+    "answer": "B",
+    "choices": {
+      "A": "Grenade",
+      "B": "Pipe Bomb",
+      "C": "Molotov Cocktail",
+      "D": "Dynamite"
+    }
+  }
+]

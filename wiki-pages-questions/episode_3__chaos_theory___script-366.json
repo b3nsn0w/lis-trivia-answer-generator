@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Chloe Say When Frank's Dog Runs Towards Max?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Get the treat treat, boy!\"",
+      "B": "\"Run away, Max!\"",
+      "C": "\"Throw the bone, Max!\"",
+      "D": "\"Hide, Max!\""
+    }
+  },
+  {
+    "question": "What Happens To Frank's Dog After Max Throws The Bone?",
+    "answer": "B",
+    "choices": {
+      "A": "He Runs Towards The Beach",
+      "B": "He Runs Towards The Road",
+      "C": "He Runs Towards The RV",
+      "D": "He Runs Towards The Woods"
+    }
+  },
+  {
+    "question": "What Does Max Fear Will Happen To Frank's Dog?",
+    "answer": "C",
+    "choices": {
+      "A": "He Will Get Lost",
+      "B": "He Will Get Stolen",
+      "C": "He Will Get Hit By A Car",
+      "D": "He Will Get Sick"
+    }
+  },
+  {
+    "question": "Where Does Frank's Dog End Up After Chasing The Bone?",
+    "answer": "D",
+    "choices": {
+      "A": "In The RV",
+      "B": "In The Woods",
+      "C": "In The Beach",
+      "D": "In The Parking Lot"
+    }
+  },
+  {
+    "question": "What Does Chloe Say After Frank's Dog Lies Down To Chew The Bone?",
+    "answer": "C",
+    "choices": {
+      "A": "\"We Should Leave Now\"",
+      "B": "\"We Should Stay And Watch\"",
+      "C": "\"We Should Take The Bone\"",
+      "D": "\"We Should Pet The Dog\""
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What happens if Max warns Alyssa about the football throw in Episode 2?",
+    "answer": "A",
+    "choices": {
+      "A": "Alyssa will call Max her guardian angel",
+      "B": "Alyssa will ignore Max",
+      "C": "Alyssa will throw the football back at Max",
+      "D": "Alyssa will report Max to the principal"
+    }
+  },
+  {
+    "question": "What will happen if Max blames David for Kate's suicide attempt?",
+    "answer": "A",
+    "choices": {
+      "A": "David will be suspended",
+      "B": "Kate will be suspended",
+      "C": "Max will be suspended",
+      "D": "Nathan will be suspended"
+    }
+  },
+  {
+    "question": "What is the consequence of Max invading Dana's privacy in Episode 1?",
+    "answer": "C",
+    "choices": {
+      "A": "Dana will talk to Max about Trevor",
+      "B": "Dana will invite Max to a party",
+      "C": "Dana will refuse to talk to Max",
+      "D": "Dana will report Max to the principal"
+    }
+  },
+  {
+    "question": "What is the consequence of Max not writing on Frank's RV in Episode 1?",
+    "answer": "C",
+    "choices": {
+      "A": "Max cannot take an optional photo",
+      "B": "Frank's RV will have Max's writing",
+      "C": "Frank's RV will remain the same",
+      "D": "Frank will confront Max about not writing on his RV"
+    }
+  },
+  {
+    "question": "What is the consequence of Max not finding out that Logan got Dana pregnant?",
+    "answer": "A",
+    "choices": {
+      "A": "Max cannot call Logan out for abandoning Dana",
+      "B": "Dana will not talk to Max about Trevor",
+      "C": "Max will be suspended",
+      "D": "Logan will be suspended"
+    }
+  }
+]

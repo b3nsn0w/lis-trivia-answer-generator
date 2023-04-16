@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to the excerpt, how does music help the writers in creating scenes for the game?",
+    "answer": "B",
+    "choices": {
+      "A": "It helps them focus on the dialogue",
+      "B": "It helps them visualize the images they want to put on paper",
+      "C": "It helps them come up with new storylines",
+      "D": "It helps them determine the pacing of the game"
+    }
+  },
+  {
+    "question": "Who is Raoul?",
+    "answer": "A",
+    "choices": {
+      "A": "A member of the audio team",
+      "B": "A camera artist",
+      "C": "A writer for the game",
+      "D": "A member of the editing team"
+    }
+  },
+  {
+    "question": "According to Jean-Luc, is there a canonical ending or path in Life is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "Yes, there is a specific ending that is considered canon",
+      "B": "No, the game is designed to let players have their own experience",
+      "C": "There is a canon path, but it is not the same for all players",
+      "D": "The developers have not yet decided on a canon ending"
+    }
+  },
+  {
+    "question": "What is the topic of the question asked by the audience member?",
+    "answer": "B",
+    "choices": {
+      "A": "The representation of under-represented characters in the game",
+      "B": "The pressure of creating a game that accurately represents minorities",
+      "C": "The process of writing stories that don't get seen very often",
+      "D": "The importance of video games in asking difficult questions"
+    }
+  }
+]

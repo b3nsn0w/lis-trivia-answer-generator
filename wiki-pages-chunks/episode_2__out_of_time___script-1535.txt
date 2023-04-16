@@ -1,0 +1,168 @@
+Here is a section of the wiki page for Episode 2: Out of Time - Script:
+
+it's my new avatar.
+		
+					**Daniel:** Excellent. I got tons of "Likes" on FB. Ah, made you blush!
+		
+					**Max:** Shut up!
+
+			{{!}}-{{!}}I was scared.I was scared.
+
+				
+		
+					**Max:** Of course. But believe it or not, I get embarrassed thinking about people looking at me...
+		
+					**Daniel:** Trust me, I understand.
+		
+				
+
+			}}
+
+		**Daniel:** Someday your portrait may hang in the Daniel DaCosta wing of the Louvre. We'll talk about it later.
+
+	
+|-|(If Max talked with Daniel yesterday, but didn't let him sketch her)# (If Max talked with Daniel yesterday, but didn't let him sketch her)
+	
+	
+		**Daniel:** Don't worry, Max. I won't ask you again to pose for me.
+
+			{{#tag:tabber|I'm shy...I'm shy...
+
+				
+	
+					**Max:** Please don't be offended. I feel like a dork when somebody talented asks me to pose.
+		
+			{{!}}-{{!}}You pissed?# You pissed?
+
+				
+		
+					**Max:** Are you pissed I didn't let you sketch me yesterday? I'm just shy. I get so embarrassed...
+		
+				
+
+			}}
+		
+		**Daniel:** Trust me, I understand.
+		
+		**Max:** I'd love to get a second chance at art history with you...
+					
+		**Daniel:** Someday your portrait may hang in the Daniel DaCosta wing of the Louvre. We'll talk about it later.
+
+	
+
+*If Max tries to talk with Daniel again…*
+
+(Max talked with Daniel yesterday)(Max talked with Daniel yesterday)
+
+	
+	
+	**Daniel:** You want that portrait now? Seriously? Let’s talk later.
+	
+
+	
+|-|(Max did not talk with Daniel yesterday)# (Max did not talk with Daniel yesterday)
+
+	
+	
+	**Daniel:** Waiting to draw Dana after Hayden gets his paparazzi on.
+	
+
+**Optional Conversation with Alyssa**
+
+**Alyssa:** Not now, Max. I'm contemplating shit.
+
+**Conversation Between Victoria and Nathan**
+
+**Victoria:** Do you think Max will be pissed we're sitting at her desk?
+
+**Nathan:** Oh, I'm sure she'll report us to the principal. Like I give a flying fuck.
+
+**Victoria:** Or she'll run to Mr. Jefferson. Like he gives a shit.
+
+**Nathan:** Like anybody does. Max is such a little--
+
+**Victoria:** Shh! I think she can hear us.
+
+**Conversation with Nathan and Victoria**
+
+Reported NathanReported Nathan**Nathan:** Better be quiet, Victoria. We have a master snitch and liar here.
+
+{{#tag:tabber|Made fun of Victoria# Made fun of Victoria**Victoria:** And paparazzi. I want that photo, whore. Or I get nasty.
+
+**Max:** Too late.
+
+**Nathan:** Oh, burn! Max is so fearless when she has backup.
+
+**Max:** Right. Can I sit at my table now?
+
+*Victoria and Nathan get up.*
+
+**Victoria:** Don't get cocky. This isn't over.
+
+**Nathan:** In fact, shit's just starting, Max.
+
+{{!}}-{{!}}Comforted VictoriaComforted Victoria**Victoria:** Did you think we were best friends forever or something?
+
+**Max:** Not at all, Victoria.
+
+**Nathan:** Max is such an attention-whore.
+
+**Max:** You would know. Can I sit down now?
+
+*Victoria and Nathan get up.*
+
+**Victoria:** Oh, please do. Take a selfie of this moment.
+
+**Nathan:** Yeah, Max. So I won't forget you.
+
+}}
+
+|-|Hid the truth# Hid the truth**Nathan:** Here comes the mysterious Max. Disguised as a pixie hipster.
+
+{{#tag:tabber|Made fun of VictoriaMade fun of Victoria**Victoria:** Or paparazzi. I want that photo, whore. Or I get nasty.
+
+**Max:** Too late.
+
+**Nathan:** Meow! Bring out the claws. I love seeing chicks fight.
+
+**Max:** Can I sit down, please?
+
+*Victoria and Nathan get up.*
+
+**Victoria:** I don't know...can you?
+
+**Nathan:** Let her have the desk. That's all she's got...
+
+{{!}}-{{!}}Comforted Victoria# Comforted Victoria**Victoria:** Like all the other precious twee artists here.
+
+**Max:** You really nailed me.
+
+**Nathan:** Meow! Bring out the claws. I love seeing chicks fight.
+
+**Max:** Right. Can I sit at my table now?
+
+*Victoria and Nathan get up.*
+
+**Victoria:** Max thought we were going to be buds. Fucking haha.
+
+}}
+
+**Max:** Assholes.
+
+*Max sits down at her desk. She looks out the window and notices Kate walking along the path with David close by, hiding behind a tree and taking photos of her.*
+
+**Max (thinking):** *Okay, why is David taking photos of Kate? Now, this is so wrong. And weird...*
+
+''Warren enters the classroom and sits down on the edge of Max's desk.''
+
+**Warren:** What up, Max?
+
+**Max:** Hey, Warren!
+
+**Warren:** I saw Kate earlier and her eyes were puffy from crying.
+
+**Max:** Kate has a lot on her plate...
+
+**Warren:** I didn't know what to say, and she 
+
+Generate five trivia questions relevant to this section of the page.

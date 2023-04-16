@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Say When She Enters Victoria's Room In The Nightmare Sequence?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Oh, Thank God I'm Myself Again... Now I Know Where To Go.\"",
+      "B": "\"This Is Like An Evil Maze...\"",
+      "C": "\"Maybe I'll Be Safe In The Lighthouse... Maybe I'll Wake Up...\"",
+      "D": "\"Jefferson Is Coming After Me Again... No...\""
+    }
+  },
+  {
+    "question": "What Does Max Say When She Realizes She Is Trapped In The Nightmare?",
+    "answer": "D",
+    "choices": {
+      "A": "\"What If I Can't Wake Up And This Is... Real...?\"",
+      "B": "\"Please, Chloe... Where Are You...\"",
+      "C": "\"Now Where Exactly Am I?\"",
+      "D": "\"If This Is A Nightmare... I Want To Wake Up...\""
+    }
+  },
+  {
+    "question": "What Does Max Say When She Sees The Lighthouse In The Nightmare Maze?",
+    "answer": "A",
+    "choices": {
+      "A": "\"The Lighthouse Is Over There!\"",
+      "B": "\"Maybe I'll Be Safe In The Lighthouse... Maybe I'll Wake Up...\"",
+      "C": "\"Dammit, Max... Wake Up!\"",
+      "D": "\"Be Strong... You Have To.\""
+    }
+  },
+  {
+    "question": "What Does Max Say When She Is Disappointed Or Bored?",
+    "answer": "A",
+    "choices": {
+      "A": "\"This Blows.\"",
+      "B": "\"Wowser!\"",
+      "C": "\"Awesome.\"",
+      "D": "\"Hella Yes!\""
+    }
+  },
+  {
+    "question": "What Does Max Say When She Is Positively Surprised?",
+    "answer": "C",
+    "choices": {
+      "A": "\"This Blows.\"",
+      "B": "\"Wowser!\"",
+      "C": "\"Awesome.\"",
+      "D": "\"Hella Yes!\""
+    }
+  }
+]

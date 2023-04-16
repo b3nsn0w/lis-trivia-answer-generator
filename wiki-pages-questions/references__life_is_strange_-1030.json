@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Reference On Chloe's License Plate?",
+    "answer": "C",
+    "choices": {
+      "A": "Breaking Bad",
+      "B": "Parks and Recreation",
+      "C": "Twin Peaks",
+      "D": "The Twilight Zone"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Time Machine Warren References When Talking About His Car?",
+    "answer": "A",
+    "choices": {
+      "A": "The Wayback Machine",
+      "B": "The TARDIS",
+      "C": "The DeLorean",
+      "D": "The Time Turner"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Bobble Head On Chloe's Truck Dashboard?",
+    "answer": "D",
+    "choices": {
+      "A": "Elvis Presley",
+      "B": "The Wacky Wobbler",
+      "C": "The Funko Pop",
+      "D": "The '68 Special"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Television Series Referenced By The License Plate \"THPRCTC\"?",
+    "answer": "A",
+    "choices": {
+      "A": "The Practice",
+      "B": "The Sopranos",
+      "C": "Six Feet Under",
+      "D": "The Wire"
+    }
+  }
+]

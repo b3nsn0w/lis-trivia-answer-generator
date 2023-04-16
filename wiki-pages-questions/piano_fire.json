@@ -1,0 +1,52 @@
+[
+  {
+    "question": "In which episode of Life is Strange is \"Piano Fire\" featured as an optional track?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "What is the name of the album that \"Piano Fire\" is featured on?",
+    "answer": "A",
+    "choices": {
+      "A": "It's A Wonderful Life",
+      "B": "Dreamt for Light Years in the Belly of a Mountain",
+      "C": "Good Morning Spider",
+      "D": "Vivadixiesubmarinetransmissionplot"
+    }
+  },
+  {
+    "question": "What does Chloe do when \"Piano Fire\" plays in her room?",
+    "answer": "C",
+    "choices": {
+      "A": "She dances",
+      "B": "She sings along",
+      "C": "She switches her HiFi-system",
+      "D": "She turns off the lights"
+    }
+  },
+  {
+    "question": "What musical instruments are mentioned in the lyrics of \"Piano Fire\"?",
+    "answer": "C",
+    "choices": {
+      "A": "Guitars and drums",
+      "B": "Saxophones and trumpets",
+      "C": "Fiery pianos and squeaky old organs",
+      "D": "Harps and violins"
+    }
+  },
+  {
+    "question": "Which artist performs \"Piano Fire\"?",
+    "answer": "C",
+    "choices": {
+      "A": "Radiohead",
+      "B": "Nirvana",
+      "C": "Sparklehorse",
+      "D": "The Smashing Pumpkins"
+    }
+  }
+]

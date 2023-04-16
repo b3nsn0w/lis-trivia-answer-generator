@@ -1,0 +1,40 @@
+Here is a section of the wiki page for Chuck Pierce Jr.:
+
+#  Chuck Pierce Jr. 
+
+[File:Sasquatch field trip brochure.png](thumb.md)
+**{{PAGENAME}}** is a cryptozoologist and resident of [Arcadia Bay](arcadia_bay.md). He hosts the Sasquatch Field Trip, taking clients out into the wilderness to hunt for evidence of the Sasquatch. A brochure for his program can be found inside the [Two Whales Diner](two_whales_diner.md) in [Episode 2: Out of Time](episode_2.md). It reads as follows:
+
+{{Bigquote
+|SASQUATCH FIELD TRIP
+
+Explore The Wild Woods Of Arcadia Bay With Respected Cryptozoologist Chuck Pierce Jr.
+
+Author of "BIGFOOT: MYTH OR SCIENCE?" and "BIGFOOT: MONSTER OR SASQUATCH?"
+Narrator Of The Documentary, "BIGFOOT: I BELIEVE IN YOU"
+
+Join Chuck every Saturday & Sunday for a full half day of hiking to the sites where Bigfoot is most likely to appear. Chuck will share his extensive knowledge of lore, legend and fact and you'll end the day casting your very own bigfoot print based on an area known only to Chuck Pierce, Jr.
+
+For more info, price and detailed schedule, please contact: SasquatchLives@wildtracks.gu
+}}
+{{Character Navbox}}
+
+''' is a cryptozoologist and resident of [Arcadia Bay](arcadia_bay.md). He hosts the Sasquatch Field Trip, taking clients out into the wilderness to hunt for evidence of the Sasquatch. A brochure for his program can be found inside the [Two Whales Diner](two_whales_diner.md) in [Episode 2: Out of Time](episode_2.md). It reads as follows:
+
+{{Bigquote
+|SASQUATCH FIELD TRIP
+
+Explore The Wild Woods Of Arcadia Bay With Respected Cryptozoologist Chuck Pierce Jr.
+
+Author of "BIGFOOT: MYTH OR SCIENCE?" and "BIGFOOT: MONSTER OR SASQUATCH?"
+Narrator Of The Documentary, "BIGFOOT: I BELIEVE IN YOU"
+
+Join Chuck every Saturday & Sunday for a full half day of hiking to the sites where Bigfoot is most likely to appear. Chuck will share his extensive knowledge of lore, legend and fact and you'll end the day casting your very own bigfoot print based on an area known only to Chuck Pierce, Jr.
+
+For more info, price and detailed schedule, please contact: SasquatchLives@wildtracks.gu
+}}
+{{Character Navbox}}
+
+
+
+Generate five trivia questions relevant to this section of the page.

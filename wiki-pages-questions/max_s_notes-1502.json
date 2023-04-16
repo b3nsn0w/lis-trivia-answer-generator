@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Where Is The \"Save Our Bay\" Flyer Located?",
+    "answer": "A",
+    "choices": {
+      "A": "In Front Of The R.J. MacReady In The Two Whales Parking Lot",
+      "B": "Near The Entrance Of The Two Whales Diner",
+      "C": "Under The TV In The Two Whales",
+      "D": "Near The Entrance To The Bathroom Of The Two Whales"
+    }
+  },
+  {
+    "question": "What Is Written On The \"Snow\" Article In The Independent?",
+    "answer": "B",
+    "choices": {
+      "A": "A Story About A Blizzard",
+      "B": "A Story About A Missing Person",
+      "C": "A Story About A Ski Resort",
+      "D": "A Story About A Snowstorm"
+    }
+  },
+  {
+    "question": "Where Is The Halloween Flyer Located?",
+    "answer": "A",
+    "choices": {
+      "A": "Near The Entrance Of The Two Whales Diner",
+      "B": "In Front Of The R.J. MacReady In The Two Whales Parking Lot",
+      "C": "Under The TV In The Two Whales",
+      "D": "Near The Entrance To The Bathroom Of The Two Whales"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Fishing Wall In The Two Whales Diner?",
+    "answer": "A",
+    "choices": {
+      "A": "Wall Of Fame",
+      "B": "Wall Of Fish",
+      "C": "Fisherman's Wall",
+      "D": "Fishing Hall Of Fame"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Tour Company Advertised On The Flyer Under The TV In The Two Whales?",
+    "answer": "C",
+    "choices": {
+      "A": "Moby Deck Tours",
+      "B": "Sasquatch Field Trip Tours",
+      "C": "Cousteaus Tours",
+      "D": "Fishing Tours"
+    }
+  }
+]

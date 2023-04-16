@@ -1,0 +1,45 @@
+= Alternative Beach =
+
+{{Infobox Location
+|name = Alternative Beach
+|type = Beach
+|location = [[Arcadia Bay]]
+|state = Oregon
+|appears = [[Episode 3: Chaos Theory]] <small>(cutscene)</small><br \>[[Episode 4: Dark Room]] <small>([[Alternative Timeline (Life is Strange)|alternative timeline]])</small>
+|image = Alternative-Beach.jpg}}The '''Alternative Beach''' is a location seen in the [[Alternative Timeline (Life is Strange)|alternative timeline]] [[Maxine Caulfield|Max Caulfield]] creates by saving [[William Price]] in the year 2008. It is the duplicate of the [[Timeline|original timeline]] [[beach]] but is unexplorable.
+
+== Episode Four - "[[Episode 4: Dark Room|Dark Room]]" ==
+The beach is featured at the beginning of the episode in the alternative timeline as Max and [[Chloe Price]] take a stroll along the seafront together. They go along the boardwalk of the seafront in order to facilitate Chloe's wheelchair.
+
+They talk about Chloe's accident and how Max and Chloe still have a strong, caring friendship despite only keeping in touch occasionally. It is revealed that Max kept in touch with Chloe by writing to her on pretentious "parchment paper" like an Old English poet. It becomes clear that many of Chloe's other friendships never lasted due to the awkwardness of her disability after the accident.
+
+Chloe reveals that she doesn't know [[Rachel Amber]] personally anymore, and only knows her from the news coverage of her disappearance.
+
+They can mention the dead whales caused by the oncoming [[storm]], which is still a problem in this alternative timeline. They have symbolic meaning as the death of the history of [[Arcadia Bay]], as well as the end of [[Joyce]]'s hope for her daughter, which is exaggerated in the alternative timeline due to Chloe's terminal illness.<ref>See the 'Spirit Animal' section of the [[Joyce Price#Spirit Animal and Symbolism|Joyce Price]] page for more details.</ref>
+
+Chloe mentions how lovely the sunset is, and asks Max what the technical term for natural lighting is; Max affirms that photographers call it "the golden hour". Chloe mentions later that she loves being able to live in a place where she can see the seafront.
+
+They leave the beach as Chloe feels too cold, and return to [[Alternative Price Household|Chloe's house]].
+
+== Gallery ==
+<gallery hideaddbutton="true" position="center" widths="250" bordersize="none" bordercolor="transparent" captionalign="center">
+Life is Strange - Alternative Beach (Without Music)
+</gallery>
+
+== References ==
+<references />
+{{Location Navbox}}
+
+[[de:Alternativer Strand]]
+[[es:Playa alternativa]]
+[[ru:Альтернативный пляж]]
+[[Category:Locations]]
+[[Category:Locations (Life is Strange)]]
+[[Category:Episode 3: Chaos Theory Locations]]
+[[Category:Episode 4: Dark Room Locations]]
+[[Category:Alternative Timeline Locations]]
+[[Category:Locations in Arcadia Bay]]
+[[Category:Other Locations]]
+[[Category:Non-Explorable Locations]]
+
+[[Category:Life is Strange]]

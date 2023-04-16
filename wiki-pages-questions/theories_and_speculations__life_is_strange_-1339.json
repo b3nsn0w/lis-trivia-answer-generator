@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Blue Butterfly Symbolic Of?",
+    "answer": "A",
+    "choices": {
+      "A": "Rebirth and Change",
+      "B": "Death and Destruction",
+      "C": "Chaos and Disorder",
+      "D": "Love and Affection"
+    }
+  },
+  {
+    "question": "What Is Max's Connection To The Doe?",
+    "answer": "A",
+    "choices": {
+      "A": "It Is Her Spirit Animal",
+      "B": "It Is Rachel Amber's Spirit Animal",
+      "C": "It Is A Symbol Of Death",
+      "D": "It Is A Symbol Of Misfortune"
+    }
+  },
+  {
+    "question": "What Is The Blue Jay Symbolic Of?",
+    "answer": "A",
+    "choices": {
+      "A": "Chaos and Mischief",
+      "B": "Death and Suffering",
+      "C": "Peace and Tranquility",
+      "D": "Love and Compassion"
+    }
+  },
+  {
+    "question": "What Is The Theory Behind The Blue Butterfly And The Storm?",
+    "answer": "A",
+    "choices": {
+      "A": "The Butterfly Caused The Storm",
+      "B": "The Butterfly Predicted The Storm",
+      "C": "The Butterfly Prevented The Storm",
+      "D": "The Butterfly Had No Connection To The Storm"
+    }
+  },
+  {
+    "question": "What Is The Theory Behind The Doe?",
+    "answer": "B",
+    "choices": {
+      "A": "It Is Rachel Amber's Spirit Animal",
+      "B": "It Is Max's Spirit Animal",
+      "C": "It Is A Symbol Of Death",
+      "D": "It Is A Symbol Of Misfortune"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Happens To Chloe's Mobile Phone Background If Max Answers Kate's Phone Call?",
+    "answer": "A",
+    "choices": {
+      "A": "It Remains Unchanged",
+      "B": "It Changes To A Picture Of Max",
+      "C": "It Changes To A Picture Of Kate",
+      "D": "It Changes To A Picture Of Rachel"
+    }
+  },
+  {
+    "question": "What Happens To The Gun If Max Doesn't Try To Shoot Frank?",
+    "answer": "D",
+    "choices": {
+      "A": "Frank Takes The Gun",
+      "B": "Chloe Loses The Gun To Frank",
+      "C": "The Gun Is Visible In Chloe's Room",
+      "D": "The Gun Is Around In Frank's RV"
+    }
+  },
+  {
+    "question": "What Happens To The Truck Driver If Max Damages The Train Tracks?",
+    "answer": "B",
+    "choices": {
+      "A": "He Leaves Town",
+      "B": "He Gets Stuck In Town",
+      "C": "He Gets A New Job",
+      "D": "He Gets A Promotion"
+    }
+  },
+  {
+    "question": "What Happens If Max Gains Entry To The Vortex Club Party?",
+    "answer": "B",
+    "choices": {
+      "A": "She Cannot Add Her Name To The Guest List",
+      "B": "She Is Greeted By Courtney As \"Our Guest Star\"",
+      "C": "She Has To Enter The VIP Section Secretly",
+      "D": "She Is Not Allowed To Attend The Party"
+    }
+  },
+  {
+    "question": "What Happens If Max Blames Mark Jefferson For Kate's Suicide Attempt?",
+    "answer": "A",
+    "choices": {
+      "A": "Mark Will Bring Up Max Not Answering Kate's Phone Call",
+      "B": "Mark Will Apologize To Max",
+      "C": "Mark Will Ignore Max",
+      "D": "Mark Will Get Angry At Max"
+    }
+  }
+]

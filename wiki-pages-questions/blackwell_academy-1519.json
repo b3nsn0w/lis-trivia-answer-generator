@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who founded Blackwell Academy?",
+    "answer": "C",
+    "choices": {
+      "A": "Raymond Wells",
+      "B": "Michelle Grant",
+      "C": "Jeremiah Blackwell",
+      "D": "Mark Jefferson"
+    }
+  },
+  {
+    "question": "What is Blackwell Academy's motto?",
+    "answer": "A",
+    "choices": {
+      "A": "The Future Needs Excellence",
+      "B": "Global Excellence in Arts and Science",
+      "C": "Striving for Perfection",
+      "D": "Excellence is Our Tradition"
+    }
+  },
+  {
+    "question": "Who donated the dormitory building to Blackwell Academy?",
+    "answer": "A",
+    "choices": {
+      "A": "The Prescott Family",
+      "B": "The Wells Family",
+      "C": "The Grant Family",
+      "D": "The Blackwell Family"
+    }
+  },
+  {
+    "question": "Which teacher's lab is located in Room 102 of Blackwell Academy?",
+    "answer": "C",
+    "choices": {
+      "A": "Michelle Grant",
+      "B": "Raymond Wells",
+      "C": "Mark Jefferson",
+      "D": "Travis Keaton"
+    }
+  }
+]

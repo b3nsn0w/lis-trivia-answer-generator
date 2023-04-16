@@ -1,0 +1,178 @@
+= Photography Lab =
+
+{{Infobox Location|location = [[Blackwell Academy]], [[Arcadia Bay]]|state = Oregon|appears = [[Episode 1: Chrysalis]]<br \>[[Episode 2: Out of Time]]<br \>[[Episode 3: Chaos Theory]]<br \>[[Episode 5: Polarized]]|image = Photolab-ep1back.png|type = Classroom}}The '''photography lab''', also known as the '''art classroom''', is one of four main labs at [[Blackwell Academy]]. [[Mr. Jefferson]] holds his lectures in this room including a course called "The Language of Photography".<ref>This information is from [[Media:Max-schedule.png|Max's timetable]].</ref> It is well-equipped with high-tech photography equipment and literature. It's likely also used for other art courses. The photography lab is a recurring explorable location in ''[[Life is Strange]]'' and the second featured location overall.
+
+== Episode One - "[[Episode 1: Chrysalis|Chrysalis]]" ==
+After having a disturbing dream about a [[The Storm|storm]] destroying [[Arcadia Bay]], [[Maxine Caulfield|Max Caulfield]] awakens in Jefferson's class in the middle of his lecture. The lesson finishes, leaving Max to explore the classroom if she likes. She returns to the classroom a short while later, having rewound time.
+
+== Episode Two - "[[Episode 2: Out of Time|Out of Time]]" ==
+After spending the morning with [[Chloe Price|Chloe]], Max heads to the photography lab for Mr. Jefferson's class. The room is once again explorable during this time.
+
+== Episode Three - "[[Episode 3: Chaos Theory|Chaos Theory]]" ==
+During Max and Chloe's night investigation at Blackwell, Max is able to visit the photography lab, particularly to find ingredients for a pipe bomb to open the [[Principal Wells' Office|Principal's office]].
+
+== Episode Five - "[[Episode 5: Polarized|Polarized]]" ==
+After rewinding to the first day of the week, by focusing on the selfie she took during Jefferson's first class, Max finds herself again in the middle of his lecture.
+
+The classroom is, later in the episode, featured again in [[Max's Nightmare|Max's nightmare]].
+
+== Optional Photos ==
+During Episode 1, there is an [[Optional Photos|optional photograph]] obtainable from the desk etchings on the desk opposite Max's.
+
+During Episode 2, there is an optional photograph obtainable by standing behind Alyssa at the window, and snapping the shot.
+
+During Episode 5, Kate Marsh may be photographed after speaking to her and reassuring her about the many friends and supporters she has.
+
+During Episode 5, the desk etchings can once more be photographed after looking at them twice.
+
+== Interactions ==
+Max can view many objects and people in the photography lab.
+:<span style="display:none">'''PC users: '''</span>''Hover over the text to see Max's comments. [[Interactions|See here]] for all interactions in the game.''
+=== Episode One - "Chrysalis" ===
+*{{Interaction|Max can look at her selfie.|'''Before rewind: '''"Look at this crap! How can I show this to Mr. Jefferson?<br>I can hear the class laughing at me now."<br>'''After rewind: '''"Still the same stupid picture... So everything seems the same as before."}}
+*{{Interaction|She can look at and read [[Max's Journal|her journal]].|'''Before rewind: '''"I haven't kept up with my journal as much as I should."<br>'''After rewind: '''"What is going on? Nothing has moved at all."}}
+*{{Interaction|She can look at her pencil case.|'''Before: '''"I can't believe I still have this pencil case. I should upgrade to the 21st century.<br>But I like it old school."<br>'''After: '''"My pencil case is still in the same place..."}}
+*{{Interaction|She can look at her camera bag.|'''Before: '''"My little camera bag is battered, but still kicking."<br>'''After: '''"Dammit, everything is the same!"}}
+*{{Interaction|She can look at and take a selfie with her camera '''(required)'''.|'''Before selfie: '''"I do love my analog camera. I should take a quick picture now."<br>'''After selfie: '''"Sorry, Max. No more selfies right now."<br>'''After rewind: '''"Wowser, my old broken camera is new again..."}}
+
+After the lesson finishes,
+*{{Interaction|Max can look at and use a computer.|'''Look: '''"Obviously Blackwell spent bank on the computers here."<br>'''Use: '''"Looks like somebody was already working on this... cool."<br>'''After rewind: '''"Wowser, you are blowing it! Save that girl!"}}
+*{{Interaction|She can look at a printer.|'''Before rewind: '''"That printer is amazing. I'd love to see how it reproduces my pictures.<br>I could pump out a whole gallery show with that thing. When I don't suck. Someday..."<br>'''After rewind: '''"There's no time to fuck around here!"}}
+*{{Interaction|She can look at two different magazine covers.|"So cool to see Mr. Jefferson's actual published pictures. Gives me hope."<br>"I love seeing Mr. Jefferson's awesome photos on these magazine covers."<br>'''After rewind: '''"That girl is going to get shot, unless you go!"<br>"How long are you going to stall? Move!"}}
+*{{Interaction|She can look at the class photo.|"That was amazing when Mr. Jefferson took a class picture the first week. Even though I didn't<br>want to be in the picture at all, it was fairly fucking cool to watch him at work framing us."<br>'''After rewind: '''"You don't have time to gaze. Get out of here!"}}
+*{{Interaction|She can look at a tripod.|'''Before rewind: '''"Damn, they have carbon fiber tripods here.<br>The ballhead even has a pan-lock? God, I'm such a photo nerd."<br>'''After rewind: '''"That's not as interesting as that girl about to die!"}}
+*{{Interaction|She can look at the photo equipment inside a cupboard.|'''Before: '''"This is definitely where cameras go to heaven... Oh man, they have those<br>sweet ultrasonic lenses... and look at that vintage rangefinder! Want!"<br>'''After: '''"You better get to that bathroom!"}}
+*{{Interaction|She can look at some books.|'''Before: '''"So cool that we can check these out anytime... 'The Decisive Moment' by<br>Henri Cartier-Bresson. That's rare... Annie Leibovitz, mad respect... the amazing Eugene Smith...<br>good to see Avedon among the masters... Dali, of course... Lots of people I haven't heard of yet...<br>I guess that's why I'm here."<br>'''After: '''"That girl needs your help now!"}}
+*{{Interaction|She can look at a poster for the [[Everyday Heroes Photo Contest|Everyday Heroes Contest]].|'''Before: '''"Here's the poster for the contest... Mr. Jefferson really expects me to enter.<br>Why? I don't know if I'm ready for my 15 minutes of infamy."<br>'''After: '''"If I want to be an 'Everyday Hero' I better go save that girl!"}}
+*{{Interaction|She can look at an HDTV.|'''Before: '''"Man, he even has the best plasma HDTV for a class monitor.<br>Can't wait to watch some more documentaries on this bad boy."<br>'''After: '''"Stop this bullshit and go save that girl!"}}
+*{{Interaction|She can look at a picture of the Arcadia Bay forest.|'''Before: '''"Even in pictures, the forest around here always looks mysterious..."<br>'''After: '''"That girl is going to get shot, unless you go!"}}
+*{{Interaction|She can look at a picture of the [[lighthouse]].|'''Before: '''"You can never escape the lighthouse here..."<br>'''After: '''"There's no time to fuck around here!"}}
+*{{Interaction|She can look at Mr. Jefferson's camera.|'''Before: '''"Whoa! Mr. Jefferson is not messing around with that monster. He probably paid 20 grand<br>for that camera... I bet he gets pristine digital images. But I still dig my little instant camera."<br>'''After: '''"Get going, Max, you don't have time!"}}
+*{{Interaction|She can look at a crumpled paper ball.|'''Before: '''"Now I wish I wouldn't have read this. Purge."<br>'''After: '''"What are you waiting for? Go!"}}
+*{{Interaction|She can look at the window.|'''Before: '''"I like this panoramic view of Blackwell. Everything looks so green and serene..."}}
+*{{Interaction|She can look at Victoria's notebook.|'''Before: '''"Even her schoolbooks are gift-wrapped. I can't believe she made fun of me in class.<br>What is she, fifteen years old? And people laughed..."<br>'''After: '''"That girl needs your help now!"}}
+*{{Interaction|She can look at and use Victoria's tablet.|'''Look: '''"Of course, Victoria has to have the bestest, newest, most expensive everything."<br>'''Use: '''"I should have known. She'll have better equipment than Blackwell."<br>'''After rewind: '''"Stop wasting time. Go!"}}
+*{{Interaction|She can look at and take an optional photo of the etched marks.|"Hmmm, this might make a cool shot..."}}
+*{{Interaction|She can look at and speak to Kate.|'''Before: '''"Kate looks so sad and quiet today. Poor thing."<br>'''After: '''"Kate probably wouldn't laugh at me, but how could I ask her about what's going on?"}}
+*{{Interaction|She can look at Victoria.|'''Before: '''"Every time I look at Victoria I feel like she's talking smack about me."<br>'''After: '''"Victoria hasn't moved from that spot..."}}
+*{{Interaction|She can look at and speak to Mr. Jefferson '''(required)'''.|'''Before: '''"This is ridiculous. I always get so shy and nervous around Mr. Jefferson."<br>'''After: '''"I wish I could go talk to Mr. Jefferson about what's going on... but I can't."}}
+
+=== Episode Two - "Out of Time" ===
+*{{Interaction|Max can look at the Everyday Heroes Contest poster.|"I guess I'm out of time to turn in a photo for the contest. Irony!"}}
+*{{Interaction|She can look at the picture of the Arcadia Bay forest.|"Even in pictures, the forest around here always looks mysterious..."}}
+*{{Interaction|She can look at the picture of the lighthouse.|"Arcadia Bay looks way more majestic here..."}}
+*{{Interaction|She can look at Jefferson's camera.|"Whoa! Mr. Jefferson is not messing around with that monster. He probably paid 20 grand<br>for that camera... I bet he gets pristine digital images. But I still dig my little instant camera."}}
+*{{Interaction|She can look at the magazine covers.|"So cool to see Mr. Jefferson's actual published pictures. Gives me hope."<br>"I love seeing Mr. Jefferson's awesome photos on these magazine covers."}}
+*{{Interaction|She can look at the class photo.|"That was amazing when Mr. Jefferson took a class picture the first week. Even though I didn't<br>want to be in the picture at all, it was fairly fucking cool to watch him at work framing us."}}
+*{{Interaction|She can look at a printer.|"That printer is amazing. I'd love to see how it reproduces my pictures.<br>I could pump out a whole gallery show with that thing. When I don't suck. Someday..."}}
+*{{Interaction|She can look at and speak to [[Hayden Jones|Hayden]].|"It's hard to not like Hayden, because... he just doesn't give a shit."}}
+*{{Interaction|She can look at and speak to [[Dana Ward|Dana]].|"Dana is ready for her 15 minutes of fame."}}
+*{{Interaction|She can look at and speak to [[Taylor Christensen|Taylor]].|"I like Taylor's artistic side, not her personality."}}
+*{{Interaction|She can look at and speak to [[Daniel DaCosta|Daniel]].|"Daniel is always on the outside looking in..."}}
+*{{Interaction|She can look at Daniel's sketch of Dana.|"That's a great sketch of Dana. Daniel is the real deal."}}
+*{{Interaction|She can look at, speak to and take an optional photo of [[Alyssa Anderson|Alyssa]].|"Alyssa really lives for her classes..."}}
+*{{Interaction|She can look at [[Stella Hill|Stella]].|"Stella is smart to stay out of all the drama."}}
+*{{Interaction|She can look at and speak to Nathan '''(required)'''.|'''Told on Nathan: '''"I can't believe the Principal lets him stay in school after I told him what happened."<br>'''Hid the truth: '''"I should have told the Principal about Nathan and the gun just for life insurance..."}}
+*{{Interaction|She can look at and speak to Victoria '''(required)'''.|'''Made fun of: '''"I feel so awkward after bagging on Victoria yesterday..."<br>'''Comforted: '''"Even if Victoria ignores me, I'm glad we talked yesterday."}}
+*She can sit at her desk.
+
+After sitting at her desk,
+*{{Interaction|Max can look at a book by Mr. Jefferson.|"It's cool that Mr. Jefferson published his own little book of photo tips."}}
+*{{Interaction|She can look at Kate's chair.|"I guess Kate will miss class now... I'm worried about her."}}
+*She can draw on her notebook, and look at the drawing afterwards.
+
+=== Episode Three - "Chaos Theory" ===
+*{{Interaction|Max can look at the Everyday Heroes Contest poster.|'''Saved Kate: '''"I feel silly thinking of myself as an 'Everyday Hero' for helping Kate...<br>but it's cool that other people do. Now if I could only find Rachel..."<br>'''Didn't save Kate: '''"If Kate were still alive maybe I actually would be an 'Everyday Hero'...<br>Maybe I can make it up by finding Rachel..."}}
+*{{Interaction|She can look at the photo of the lighthouse.|"You can never escape the lighthouse here..."}}
+*{{Interaction|She can look at the entries for the Everyday Heroes contest.|'''Kate: '''"Oh Kate... even when you were sad you tried to see the good in the world... Shit."<br>'''Daniel: '''"Daniel's a better illustrator than photographer, said Max the art critic."<br>'''Victoria: '''"Victoria... that is pretty fucking sweet. How can I hate somebody that shoots like that?"<br>'''Nathan: '''"I feel gross even looking at Nathan's work, but he does have some style..."}}
+*{{Interaction|She can look at Victoria's cigarettes.|"Victoria's cigarettes? I'm sure Mr. Jefferson is impressed."}}
+*{{Interaction|She can look at the class photo.|"That was amazing when Mr. Jefferson took a class picture the first week. Even though I didn't<br>want to be in the picture at all, it was fairly fucking cool to watch him at work framing us."}}
+*{{Interaction|She can take the duct tape from two locations in the lab '''(required)'''.|"The tape is mine!"}}
+
+=== Episode Five - "Polarized" ===
+*{{Interaction|Max can look at her camera.|"Did you know someday your pictures would actually alter time and space?"}}
+*{{Interaction|She can look at her doodles.|"I hope I still love photography when this is done... 'Don't confuse the art with the artist.' Bastard."}}
+*{{Interaction|She can look at her cellphone and use it to warn [[David Madsen]] '''(required)'''.|"All I need is David's number and Jefferson is one text closer to life without parole..."}}
+*{{Interaction|She can look at her journal.|"This diary literally saved my life…"}}
+*{{Interaction|She can look at and search through her messenger bag '''(required)'''.|"I've got a ton of Blackwell brochures so I hope David's number is in there..."}}
+
+**{{Interaction|She can look at the front of the school pamphlet inside her bag.|"I should be able to track down David's number from this school pamphlet."}}
+**She can look at the biographies of several Blackwell faculty members.
+**{{Interaction|She can look at the page with contact numbers '''(required)'''.|"Found you!"}}
+
+After getting up from her desk,
+*{{Interaction|Max can look at the class photo.|"If only I could tell the whole class about Jefferson, and watch him squirm...<br>but I better let David take care of everything."}}
+*{{Interaction|She can look at a tripod.|"Not impressed anymore."}}
+*{{Interaction|She can look at the covers of two magazines.|"Now I wonder how many victims Jefferson has left behind in his career..."<br>"The '90s are over for you, asshole."}}
+*{{Interaction|She can look at the photo equipment inside a cupboard.|"I can't blame the cameras, but... I just think of Jefferson using them."}}
+*{{Interaction|She can look at Victoria's notebook.|'''Victoria believed Max: '''"Oh, Victoria... We could have been friends..."<br>'''Victoria didn't believe Max/Max didn't warn Victoria: '''"Victoria... it's<br>nice to know how you really feel..."}}
+*{{Interaction|She can look at Victoria's tablet.|'''Victoria believed Max: '''"I'm happy to fix it so you'll be here to get your fancy camera, Victoria..."<br>'''Victoria didn't believe Max/Max didn't warn Victoria: '''"This fancy camera does not give you any<br>extra talent, Victoria... or excuses. You will not hurt Kate Marsh this time."}}
+*{{Interaction|She can look at and comfort Kate.|'''Saved Kate: '''"Poor Kate..."<br>'''Saved and comforted: '''"At least Kate knows people have her back."<br>'''Didn't save Kate: '''"I'm sad for Kate, but... so happy she's alive."<br>'''Didn't save but comforted: '''"Have faith, Kate. This time I'm here for you..."}}
+
+**She can take an optional photo of Kate after comforting her.
+*{{Interaction|She can look at the paper ball.|"This is the last time somebody bullies you, Kate."}}
+*{{Interaction|She can look at the "Rachel Amber ❤ 4ever" etchings.|"Oh, Rachel... I'm sorry..."}}
+*{{Interaction|She can look at some art books.|"Just a week ago, I was so naive about art... life... the world…"}}
+*{{Interaction|She can look at the "Everyday Heroes" contest poster.|"An 'Everyday Hero' is going to bust your ass, Jefferson."}}
+*{{Interaction|She can look at a photo of the Arcadia Bay forest.|"There's still some beauty left in Arcadia Bay."}}
+*{{Interaction|She can look at a photo of the lighthouse.|"I still feel like... the lighthouse is calling out to me."}}
+*{{Interaction|She can look at Jefferson's camera on his desk.|"I'd like to bust this up right now."}}
+*{{Interaction|She can look at Victoria.|'''Victoria believed Max: '''"Victoria, I'm sorry you have to stand next to that psycho."<br>'''Victoria didn't believe Max/Max didn't warn Victoria: '''"Victoria, if you knew who<br>Jefferson really was..."}}
+*{{Interaction|She can look at and give a selfie to Jefferson '''(required)'''.|"I see right through your bullshit, Jefferson... Everybody else will too."}}
+
+During the nightmare,
+*{{Interaction|Max can look at the class photo.|"Oh... That's awful..."}}
+*{{Interaction|She can look at the magazine covers.|"That's... me? Are you kidding?!"<br>"This is definitely not for reals."}}
+*{{Interaction|She can look at the computer screen.|"That's too creepy..."}}
+*{{Interaction|She can look at the blood stain on Kate's desk (determinant).|"I'm sorry, Kate..."}}
+*{{Interaction|She can look at the "I WANT TO DIE" writings on Kate's desk (determinant).|"You didn't die, Kate... You're alive."}}
+*{{Interaction|She can look at the paper ball.|"Not yet, you bastard."}}
+*{{Interaction|She can look at and take an optional photo of the etched marks.|'''Look: '''"That's it? Three times is clearly not the charm."<br>'''Photo: '''"I don't care if this is a dream or a nightmare... I'm taking this picture."}}
+*{{Interaction|She can look at the photo of the forest around Arcadia Bay.|"Rachel didn't deserve any of this."}}
+*{{Interaction|She can look at the photo of the lighthouse.|"Oh no…"}}
+*{{Interaction|She can look at the "Everyday Zeroes" poster.|"I'm not going to take the bait... I'm not."}}
+
+<gallery orientation="none" position="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+Magazine 1 Photography Lab.png|Magazine featuring Mark Jefferson's photography in the Photography lab.
+Magazine 2 Photography Lab.png|Magazine featuring Mark Jefferson's photography.
+Class Photo Photography Lab.png|Class photo taken by Mark Jefferson.
+Computer Photography Lab.png|Computer screen in the photography lab.
+Everyday Heroes Poster Photography Lab.png|Everyday Heroes Photo Contest poster in the Photography lab.
+Forest Photo Photography Lab.png|Photo of a forest in the Photography lab.
+Lighthouse Photo Photography Lab.png|Lighthouse Photo in the Photography lab.
+Crumpled Ball Photography Lab.png|Crumpled note in the Photography lab.
+</gallery>
+
+== Gallery ==
+=== Screenshots ===
+<gallery widths="200px" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+photolab-ep1front.png|Photography Lab in "Chrysalis"
+photolab-ep2back.png|Photography Lab in "Out of Time"
+photolab-night.png|Photography Lab in "Chaos Theory"
+</gallery>
+
+=== Concept Art ===
+<gallery widths="200px" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+Photolab-concept-caplain.jpg|Concept art by [[Edouard Caplain]]
+</gallery>
+
+== Trivia ==
+* The Photography Lab is numbered as Room 102.
+
+== References ==
+<references />
+{{Location Navbox}}
+
+[[ru:Фотолаборатория]]
+[[Category:Locations]]
+[[Category:Locations (Life is Strange)]]
+[[Category:Blackwell Academy]]
+[[Category:Episode 1: Chrysalis Locations]]
+[[Category:Episode 2: Out of Time Locations]]
+[[Category:Episode 3: Chaos Theory Locations]]
+[[Category:Episode 5: Polarized Locations]]
+[[Category:Optional Photo Location]]
+[[Category:Explorable Locations]]
+[[Category:Explorable Locations (Life is Strange)]]
+[[Category:Locations in Arcadia Bay]]
+[[Category:Life is Strange]]

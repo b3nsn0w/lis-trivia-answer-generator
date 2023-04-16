@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Where does Chloe ask Max to meet her?",
+    "answer": "B",
+    "choices": {
+      "A": "In Max's room",
+      "B": "In front of campus",
+      "C": "In the girls' bathroom",
+      "D": "In the school bus"
+    }
+  },
+  {
+    "question": "What does Max put in Alice the Rabbit's cage?",
+    "answer": "A",
+    "choices": {
+      "A": "A carrot",
+      "B": "A piece of lettuce",
+      "C": "A slice of apple",
+      "D": "A cracker"
+    }
+  },
+  {
+    "question": "What does Max use to light up the dark hallway?",
+    "answer": "A",
+    "choices": {
+      "A": "A flashlight on her phone",
+      "B": "A candle",
+      "C": "A lantern",
+      "D": "A matchstick"
+    }
+  },
+  {
+    "question": "Who answers the door when Max goes to Chloe's house?",
+    "answer": "B",
+    "choices": {
+      "A": "Chloe",
+      "B": "William",
+      "C": "David Madsen",
+      "D": "Stella"
+    }
+  }
+]

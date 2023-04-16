@@ -1,0 +1,128 @@
+Here is a section of the wiki page for Episode 2: Out of Time - Script:
+
+## **Science Lab** 
+**Warren's Comments about Experiment**
+
+**Warren:** Think, big brain, think...
+
+**Warren:''' This can't be that hard...
+
+**Warren:** Yes, I am a scientist. Fuck...
+
+**Optional Conversation with Warren**
+
+**Max:** Hey, Warren. Are you okay? You look thoughtful, yet confused.
+
+**Warren:** Maxwell Silver Hammer! Perfect timing! I need help with this chemical experiment...
+
+**Max:** Asking me for help means you're screwed...
+
+**Warren:** I have to add either a bit of potassium or sodium. It's up to you to decide, Dr. Max.
+
+Sodium.Sodium.**Max:** I have a vision...go-dium!
+
+**Warren:** "Go-dium"? That's the worst pun I've ever heard! Yet Max has spoken. Sodium it is!
+
+*Warren pours sodium into the beaker.*
+
+**Warren:** Damn. Zip. Nothing. Nada.
+
+|-|Potassium.# Potassium.**Max:** I'm not sure why you're letting me decide your fate, but...go-tassium!
+
+**Warren:** Potassium it shall be. If this works, you get a free hug...
+
+''Warren pours potassium into the beaker. There's a slight explosion and smoke drifts up from the beaker.''
+
+**Warren:** Weird science.
+
+|-|Lots of potassium. (after rewind)Lots of potassium. (after rewind)**Max:** I actually think you should use a lot of potassium. I mean, a shitload.
+
+**Warren:** See, look at that smile! You're going to become a scientist yet... Let's do this thing!
+
+''Warren pours a lot of potassium into the beaker. There's a big explosion that knocks Warren backward as smoke drifts up from the beaker.''
+
+**Warren:** She blinded me with science...
+
+|-|Chlorine. (after getting the answer from Ms. Grant)# Chlorine. (after getting the answer from Ms. Grant)**Max:** Wrong, Warren, you need to add chlorine, not potassium or sodium!
+
+**Warren:** Chlorine? I didn't think of that. Can't argue with a confident scientist. Let's try it!
+
+*Warren pours chlorine into the beaker. The mixture turns bright pink.*
+
+**Warren:** Eureka! She's got it!
+
+**Max:** No, you got it.
+
+**Warren:** Don't be so modest, Dr. Caulfield...
+
+**Brooke (in background):** Oh, you guys really broke the bounds of science...
+
+**Max (thinking):** ''That was fun, helping Warren. He's pretty cute when he's in full-on geek mode...''
+
+|-|I don't know.I don't know.**Max:** Warren, this seems kinda dangerous. You might as well flip a switch, Frankenstein.
+
+**Warren:** I'm the only mad scientist without a faithful Igor. I'll choose using the scientific method: eeny, meeny, miny, moe... Potassium!
+
+''Warren pours potassium into the beaker. There's a slight explosion and smoke drifts up from the beaker.*
+
+**Warren:** Weird science.
+
+*If Max tries to speak to Warren after the experiment…*
+
+Sodium.# Sodium.
+**Warren:** I give up.
+
+|-|Potassium.Potassium.**Warren:** Yes, I am a scientist. Fuck…
+
+|-|Lots of potassium.# Lots of potassium.**Warren:** Yes, that was a blast! But, let’s keep it a professional secret, cool?
+
+|-|Chlorine.Chlorine. **Warren:** Check out the big brain on Max! You might be the next Heisenberg of Blackwell.
+
+**Optional Conversation with Brooke**
+
+First time# First time**Max:** Howdy, Brooke.
+
+**Brooke:** Hi, Max. Making your daily rounds?
+
+|-|Further times (while more options are available, and after talking to Warren)Further times (while more options are available, and after talking to Warren)**Max:** Again we meet, Brooke.
+
+**Brooke:** This is true, Max.
+|-|Further times (while no options are available, but before talking to Warren)# Further times (while no options are available, but before talking to Warren)**Brooke:** I have to finish this lab, Max. Sorry.
+
+*The conversation ends here.''
+
+Warren. (after talking to Warren)Warren. (after talking to Warren)**Max:** I'm helping Warren with his latest experiment.
+
+**Brooke:** Oh. I guess he needed a neophyte assistant so he wouldn't be threatened. But you came to his rescue anyway.
+
+{{#tag:tabber|My nature.# My nature.**Max:** Apparently, it's my nature.
+
+**Brooke:** Yet Warren ignores the experts right in front of him. Not that he would ask me for help anyway...
+
+{{!}}-{{!}}Not me.Not me.**Max:** Not me. Warren doesn't need my help.
+
+**Brooke:** The boy knows things.
+
+}}
+
+|-|Experiment. (after failing to help Warren)# Experiment. (after failing to help Warren)**Max:** I need to know if you can help me with a potassium experiment...
+
+**Brooke:** No can do, Max. I'm all about robotics, not chemistry. Give me a drone over a beaker.
+
+|-|Drone.Drone.**Max:** How's your drone?
+
+**Brooke:** Ms. Grant busted me flying it over the parking lot. She's all jacked up about surveillance bullshit. Like I was spying on Warren's new car.
+
+**Max:** You already planted a GPS on him?
+
+**Brooke:** I borrowed the one he has on you.
+
+|-|Bye.# Bye.**Max:** Hate to hit and run, but...
+
+**Brooke:** Don't let me get in your way. So long.
+
+**Optional Conversation with Ms. Grant**
+
+First timeFirst 
+
+Generate five trivia questions relevant to this section of the page.

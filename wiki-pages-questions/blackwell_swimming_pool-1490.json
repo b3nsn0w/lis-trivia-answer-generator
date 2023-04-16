@@ -1,0 +1,52 @@
+[
+  {
+    "question": "In which episode do Max and Chloe break into the Blackwell Swimming Pool?",
+    "answer": "C",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "What is the name of the swim team that uses the Blackwell Swimming Pool?",
+    "answer": "C",
+    "choices": {
+      "A": "The Sharks",
+      "B": "The Dolphins",
+      "C": "The Otters",
+      "D": "The Whales"
+    }
+  },
+  {
+    "question": "Whose locker does Max view in the girls' locker room?",
+    "answer": "D",
+    "choices": {
+      "A": "Victoria Chase",
+      "B": "Kate Marsh",
+      "C": "Brooke Scott",
+      "D": "All of the above"
+    }
+  },
+  {
+    "question": "What is the name of the party that the Vortex Club holds at the Blackwell Swimming Pool?",
+    "answer": "A",
+    "choices": {
+      "A": "The End of the World Party",
+      "B": "The Back to School Party",
+      "C": "The Summer Bash",
+      "D": "The Winter Wonderland"
+    }
+  },
+  {
+    "question": "What is found in Nathan Prescott's locker in the boys' locker room?",
+    "answer": "C",
+    "choices": {
+      "A": "A gun",
+      "B": "A knife",
+      "C": "Pills",
+      "D": "Money"
+    }
+  }
+]

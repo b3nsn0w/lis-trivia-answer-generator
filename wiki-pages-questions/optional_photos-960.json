@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Where Can You Find A Woman Looking At Art To Take A Photo Of In Episode 5?",
+    "answer": "C",
+    "choices": {
+      "A": "At The Two Whales Diner",
+      "B": "At The Prescott Barn",
+      "C": "At The Zeitgeist Gallery",
+      "D": "At The Vortex Club Party"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Achievement Awarded For Taking A Photo Of The Dead Whale Outside The Diner?",
+    "answer": "D",
+    "choices": {
+      "A": "Incandescent",
+      "B": "Night Vision",
+      "C": "Framed",
+      "D": "Camera Obscura"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Achievement Awarded For Taking All The Photographs In Episode 5?",
+    "answer": "A",
+    "choices": {
+      "A": "Selfie Awareness",
+      "B": "Sensor",
+      "C": "Light Meter",
+      "D": "Silhouettes"
+    }
+  }
+]

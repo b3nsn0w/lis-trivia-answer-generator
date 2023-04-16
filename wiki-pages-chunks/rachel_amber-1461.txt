@@ -1,0 +1,66 @@
+Here is a section of the wiki page for Rachel Amber:
+
+#  Rachel Amber 
+
+```yaml
+Character
+
+name: Rachel Amber
+image: Journal Rachel.png
+fullname: Rachel Dawn Amber
+alsoknown: Rach (by [Chloe Price
+Chloe](chloe_price_chloe.md))
+Lioness (by [Frank Bowers: *
+Frank](frank_bowers____frank.md)): *
+age: |-
+  18 (at time of disappearance)
+  19 (missing persons poster)
+born: |-
+  July 22, 1994
+  Long Beach, California
+died: April 22, 2013: *
+causeofdeath: >-
+  Accidental overdose by [Nathan Prescott](nathan_prescott.md) (according to
+  [Mark Jefferson
+Jefferson](mark_jefferson_jefferson.md)): *
+gender: Female
+hair: Blond
+eyes: Hazel
+height: 5'5" (1.65m)
+weight: 110 lbs (50 kg)
+loveinterest: >-
+  [Mark Jefferson](mark_jefferson.md) (affair)There is a letter in the junkyard
+  in which Rachel explains that she met someone who is "different from the lame
+  Vortex Club snobs".  It was [Media:rachel_letter.png
+confirmed](media_rachel_letter_png_confirmed.md) in the [Square_Enix_Extra_Life_Livestream_(November_2015): ''
+"Extra Life livestream](square_enix_extra_life_livestream__november_2015_______extra_life_livestream.md) that Rachel was referring to Jefferson.
+\n[Frank Bowers](frank_bowers.md) (boyfriend, former)
+\n[Chloe Price](chloe_price.md) (ambiguous)While there is nothing in Season 1 that would confirm Chloe to have been anything more than a friend to Rachel, there is also nothing that suggests she couldn't have been more. [Jean-Maxime Moris](jean_maxime_moris.md) (Creative Director of Life is Strange and co-founder of DONTNOD Entertainment) stated in an [https://www.engadget.com/2014/08/14/life-is-strange-ambiguous-young-love-among-leading-ladies/\n August 2014 article] that there is ambiguity when the interviewer asked whether there was a romantic relationship between any of the girls.": *
+relatives: Unknown parents Rachel Amber. She was my... angel.
+
+**[Chloe Price**, Chloe](chloe_price____chloe.md) about Rachel in "[Episode 1: Chrysalis, Chrysalis](episode_1__chrysalis__chrysalis.md)"
+
+**Rachel Dawn Amber** (born July 22, 1994) serves as a major character in *[Life is Strange](life_is_strange.md)* (although she never appears in person) and as the deuteragonist of *[Life is Strange: Before the Storm](before_the_storm.md).*
+
+Based on the information found in Arcadia Bay, Rachel was a popular student who attended [Blackwell Academy](blackwell_academy.md). She and [Chloe Price](chloe_price.md) were both close and dreamed of leaving [Arcadia Bay](arcadia_bay.md) together. However, she suddenly went missing on Monday, April 22, 2013 with little to no information about her whereabouts.
+
+Although she does not make an appearance, Rachel is mentioned in flashbacks in the bonus chapter of *[Life is Strange: True Colors](life_is_strange__true_colors.md)''.
+
+## Physical Appearance 
+Rachel was 5'5" and weighed 110 lbs (165 cm and 50 kg). She had blond hair and hazel eyes, and two tattoos; a dragon on her right calf, and a star on the inside of her left wrist. ''(This is evident from her 'Missing Person' posters.)''
+
+## Personality 
+Rachel's character is a mystery, up to the point where there are mixed opinions about her personality. She is generally considered popular and nice, but also rebellious. She partied a lot, took drugs and had an affection for punk-rock like Chloe, expressed in both her music taste and style. [Joyce Price](joyce_price.md) fondly calls her a "hell-raiser", while Chloe refers to her as her "angel". However, [Nathan Prescott](nathan_prescott.md) describes her as a "*fiend* on her own", which implies she was a drug addict. According to Chloe, she was also smart and had an eye for images and art, just like Max. Considering her school performance and the effort she put into becoming a model, she was a very ambitious person. She seems to have had a caring personality, as she was well-loved by those close to her. Rachel also seems to have been more girly and idealistic than Chloe, reflected by her love of makeup and ambition to become a model. However, there are also rumors of Rachel being sexually promiscuous. Several pieces of graffiti all over Blackwell support this image of her. A letter[Media:RachelChloeLetter.png](letter.md) ([Media:Note2-junkyard-letter2.png](read.md)) from Rachel to Chloe indicates that she often partied with Vortex Club "snobs" such as [Nathan Prescott](nathan_prescott.md), [Zachary Riggins](zachary_riggins.md) etc. It is also implied that she used [Frank Bowers](frank_bowers.md) to facilitate her drug habit.
+
+## Biography 
+The following is what Max wrote about Rachel in [Max's Journal](her_journal.md):
+
+*Where is Rachel Amber? Even though Blackwell Academy feels so remote and tranquil, you still get sad reminders of reality, like "Missing Person" posters literally wallpapered all over campus. I already know her name through osmosis. I guess she was a popular student here and vanished six months ago. Rachel has a great picture on her "Missing Person" poster. She looks posed and pretty, like a model.*
+
+''Of course, I wonder who took the photo. Did she run away from home? I'd like to hope so. For her sake. It's so depressing. And I feel awful for her parents. What a shitty thing to go through. SIGH. No matter how much Blackwell seems like a secret bubble of knowledge, you can't escape the real world...''
+
+[File:Rachel_Amber_Journal_Entry.png](thumb.md)
+
+
+
+Generate five trivia questions relevant to this section of the page.

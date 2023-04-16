@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What command can be executed to exit a branching dialog sequence in Life is Strange 2?",
+    "answer": "A",
+    "choices": {
+      "A": "KillAll WhatIfDialogActor",
+      "B": "SSSwapControllers 0",
+      "C": "DebugRemovePlayer 0",
+      "D": "DebugCreatePlayer 0"
+    }
+  }
+]

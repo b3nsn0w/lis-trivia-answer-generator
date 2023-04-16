@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Max's Biggest Fear Regarding Her Time Rewind Power?",
+    "answer": "A",
+    "choices": {
+      "A": "Not Being Able To Rewind When She Needs To",
+      "B": "Creating Knots In Time",
+      "C": "Losing Her Memories",
+      "D": "Having Nosebleeds"
+    }
+  },
+  {
+    "question": "Who Saves Max From The Dark Room?",
+    "answer": "B",
+    "choices": {
+      "A": "Chloe",
+      "B": "David",
+      "C": "Victoria",
+      "D": "Jefferson"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Diner That Warren Is Trapped In During The Storm?",
+    "answer": "A",
+    "choices": {
+      "A": "Two Whales",
+      "B": "The Blue Moon",
+      "C": "The Red Lantern",
+      "D": "The Green Parrot"
+    }
+  },
+  {
+    "question": "Who Does Max Kiss During The Storm?",
+    "answer": "C",
+    "choices": {
+      "A": "Chloe",
+      "B": "Warren",
+      "C": "Both Chloe and Warren",
+      "D": "None of them"
+    }
+  },
+  {
+    "question": "What Is The Main Thing Max Has To Do With Warren's Photo?",
+    "answer": "D",
+    "choices": {
+      "A": "Save Victoria",
+      "B": "Save Joyce and Warren",
+      "C": "Save Frank",
+      "D": "Save Chloe"
+    }
+  }
+]

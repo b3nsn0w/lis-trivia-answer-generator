@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who is the alternate version of Max in this conversation?",
+    "answer": "B",
+    "choices": {
+      "A": "A friend of Max",
+      "B": "A version of Max from a different timeline",
+      "C": "A villain trying to hurt Max",
+      "D": "A figment of Max's imagination"
+    }
+  },
+  {
+    "question": "What does the alternate Max accuse Max of doing with her powers?",
+    "answer": "A",
+    "choices": {
+      "A": "Controlling everybody and everything",
+      "B": "Using them for personal gain",
+      "C": "Killing Mr. Jefferson",
+      "D": "Rewinding time too much"
+    }
+  },
+  {
+    "question": "What does Max claim was the reason she used her powers?",
+    "answer": "C",
+    "choices": {
+      "A": "To make friends",
+      "B": "To become popular",
+      "C": "To do the right thing",
+      "D": "To control others"
+    }
+  },
+  {
+    "question": "What does the alternate Max accuse Chloe of doing to Max?",
+    "answer": "A",
+    "choices": {
+      "A": "Trapping her with drama",
+      "B": "Ignoring her for five years",
+      "C": "Stealing money from the handicapped fund",
+      "D": "Using her for personal gain"
+    }
+  },
+  {
+    "question": "What does Max believe is her destiny?",
+    "answer": "A",
+    "choices": {
+      "A": "To save Chloe",
+      "B": "To control time and space",
+      "C": "To become a hero",
+      "D": "To make more friends"
+    }
+  }
+]

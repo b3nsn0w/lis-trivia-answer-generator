@@ -1,0 +1,468 @@
+#  Life is Strange 
+
+```yaml
+VG
+
+title: Life is Strange
+image: '[File:LiS_logo.jpg'
+270px](file_lis_logo_jpg__270px.md): ''
+developer: '[Don''t Nod](don_t_nod.md)'
+publisher: ''
+director: |-
+  [Michel Koch](michel_koch.md)
+  [Raoul Barbet](raoul_barbet.md)
+writer: |
+  [Jean-Luc Cano](jean_luc_cano.md)
+  [Michel Koch](michel_koch.md)
+  [Raoul Barbet](raoul_barbet.md)
+  [Christian Divine](christian_divine.md)
+artist: |-
+  [Michel Koch](michel_koch.md)
+  Kenny Laurent
+  [Amaury Balandier](amaury_balandier.md)
+  [Edouard Caplain](edouard_caplain.md)
+composer: '[Jonathan Morali](jonathan_morali.md)'
+platform: >-
+  Windows, PS3, PS4, Xbox One, Xbox 360;Mac, Linux (July 21, 2016);iOS, Android
+  (2017-2018)
+released: '[Episode 1: Chrysalis'
+'Episode 1](episode_1__chrysalis___episode_1.md): 30 Jan, 2015
+[Episode 2: Out of Time': ''
+'Episode 2](episode_2__out_of_time_______episode_2.md): 24 Mar, 2015
+[Episode 3: Chaos Theory': ''
+'Episode 3](episode_3__chaos_theory_______episode_3.md): 19 May, 2015
+[Episode 4: Dark Room': ''
+'Episode 4](episode_4__dark_room_______episode_4.md): 28 Jul, 2015
+[Episode 5: Polarized': ''
+'Episode 5](episode_5__polarized_______episode_5.md): 20 Oct, 2015': ''
+genre: |-
+  Interactive Storytelling
+  Drama, High School, Adventure, Supernatural, Coming-Of-Age
+languages: '**Audio:** English, [Japanese Release (Life is Strange)'
+Japanese](japanese_release__life_is_strange___japanese.md)
+**Subtitles:** English, Russian, Japanese, French, Italian, German, Spanish, Portuguese: ''
+ratings: PEGI-16, ESRB-M, USK12, ACB-M, ClassInd-16, GRAC-18, CERO-D
+```
+
+**Life is Strange** is a five-part episodic adventure game that sets out to revolutionize story-based choice and consequence games. It is developed by [Don't Nod](dontnod_entertainment.md) and published by {{Wiki|Square Enix}}. The developers describe the game as a nostalgic coming-of-age story that combines the present with the past, creating key moments for each episode. Episode 1, "[Episode 1: Chrysalis](chrysalis.md)", was released on January 29, 2015 and the final episode, "[Episode 5: Polarized](polarized.md)", was released on October 20, 2015. A [Japanese Release (Life is Strange)](japanese_version.md) was released on March 3, 2016.[http://www.hardcoregamer.com/2015/12/10/life-is-stranges-japanese-version-receives-a-release-date/181870/ Life Is Strange’s Japanese Version Receives a Release Date] (December 10, 2015) A macOS and Linux port by Feral Interactive was released on July 21, 2016.[https://www.thumbsticks.com/life-is-strange-mac-linux-versions-21072016/ Life Is Strange Mac and Linux versions available now] (July 21, 2016) On December 12, 2017, a version for [Life is Strange (mobile game)](mobile_platforms.md) was announced[http://lifeisstrange-blog.tumblr.com/post/168470142496/life-is-strange-coming-to-mobile Life is Strange Tumblr blog post], fully released in March 29 and July 18, 2018.
+
+The game's protagonist is [Maxine Caulfield](max_caulfield.md), better known as Max, a shy 18-year-old photography senior who discovers she can [Rewind](rewind_time.md) to change the course of events. Back in her hometown [Arcadia Bay](arcadia_bay.md), a picturesque seaside town in Oregon, Max is reunited with her old friend, [Chloe Price](chloe_price.md), and they start to uncover the truth behind fellow student [Rachel Amber](rachel_amber.md)'s mysterious disappearance, and soon they find themselves exposed to the darker side of Arcadia Bay.
+
+Max gets disturbing premonitions of the future, and must take on the responsibility to prevent a devastating destiny for her town. As she struggles to understand the implications of her power, she must quickly learn which consequences her interfering in time and space holds.
+
+The characters have to deal with everyday life issues created by their own families and school mates, and as you can expect in a typical public [Blackwell Academy](high_school.md) environment, there is a lot of high school drama, and sometimes teens make bad decisions. Players will be given the opportunity to make choices while playing Max, and each choice will have [Choices and Consequences](consequences.md) in gameplay. Her ability to '[rewind](rewind.md) time' will impact the game's narrative. There are multiple endings depending on the choices the player makes for Max. The game has a licensed indie [Soundtrack (Life is Strange)](soundtrack.md) and hand-painted visuals.
+
+The game approaches real world issues and problematic situations such as depression, bullying, suicide, domestic violence, mental illness and the loss of loved ones.
+
+**Official Key Features:**
+**Life is Strange* is an interactive episodic, modern adventure game with a twist.
+*Player [Choices and Consequences](choice_and_consequence.md) play a key role and your actions will determine how the story unfolds around you.
+*The [Rewind](rewind.md) feature allows you to go back in time by a few moments at any point: solve puzzles, change reactions, or simply experience new choices.
+*Discover how it is to return to a world that lies 5 years behind you, and rekindle with your childhood friend.
+*Explore the picturesque seaside town [Arcadia Bay](arcadia_bay.md) and the stories behind its [:Category:Characters](people.md) as you investigate the mysterious disappearance of [Rachel Amber](rachel_amber.md).
+*Discover the world of art and photography at the prestigious [Blackwell Academy](blackwell_academy.md).
+*True to the lives of most modern teenagers, you get insights into [Texting](max_s_cellphone.md) and [Max's Diary](her_diary.md), which records your exploration in Arcadia Bay and reveals extra snippets of Max's inner thoughts depending on your choices.
+*Distinct [soundtrack (Life is Strange)](soundtrack.md), with modern indie-folk influences.
+*Striking art style, with hand-drawn textures to give it a highly unique look.
+
+##  Story 
+###  Episode 1: [Episode 1: Chrysalis](chrysalis.md) 
+On October 7th, Max finds out she can rewind time when she uses it to save her old friend Chloe from being shot by [Nathan Prescott](nathan_prescott.md). They later reunite and Max senses that a storm is coming after getting premonitions.
+
+###  Episode 2: [Episode 2: Out of Time](out_of_time.md) 
+On October 8th, Max tries to find out more about her ability to rewind time, and finds out the reason for [Kate Marsh](kate.md)'s sudden change in mood and behavior. Chloe tests out Max's rewind power intensively and Max starts to discover the limits on her ability. Max will eventually discover the ability to stop time itself to save her friend Kate from a suicide attempt.
+
+###  Episode 3: [Episode 3: Chaos Theory](chaos_theory.md) 
+On October 8th, Max and Chloe’s investigation into Rachel Amber’s disappearance lead them to break into Blackwell Academy after dark, searching for answers. It’s here and in the following day, they discover that Rachel kept many secrets and was not the person Chloe thought she knew. Max meanwhile discovers she has another power that brings with it some devastating consequences.
+
+###  Episode 4: [Episode 4: Dark Room](dark_room.md) 
+In an [Alternative Timeline (Life is Strange)](alternative_timeline.md) created by Max's actions to save Chloe's father, [William Price](william.md), Max learns the consequences of her abilities and changes things back to the way they were. In the original timeline, Max and Chloe work together to piece evidence that Nathan Prescott drugged Kate and is going to strike again at the [Vortex Club Party](vortex_club_party.md). They discover the [Dark Room (Location)](dark_room.md) and Rachel Amber's whereabouts, and get outmaneuvered by the real culprit.
+
+###  Episode 5: [Episode 5: Polarized](polarized.md) 
+Trapped in the Dark Room, Max must escape and rewind to save Chloe from the gunshot by [Mark Jefferson](mr__jefferson.md). Finding out Nathan was killed, Max eventually finds a way to reunite with Chloe. Max is confronted with the devastating consequences of her actions over the week and her biggest fears, and in the end, is left with two choices: Sacrificing Chloe, saving Arcadia Bay and her friends, but Chloe ends up dead; or sacrificing Arcadia Bay, presumably killing all her friends, but leaving Chloe alive. The two leave the town's ruins in [Chloe's Truck](chloe_s_truck.md) shortly after the town's destruction.
+
+##  Development 
+
+###  Early Development 
+The development of *Life is Strange* took place over the span of three years, starting circa in April 2013.[https://www.instagram.com/p/tpS23ynCCX/ Ask DONTNOD 4] During the first year of development, it wasn’t the main project at DONTNOD Entertainment so they only had a small team of around fifteen people working on the prototype of the game.[http://www.momenta.online/2016/02/edouard-caplain-on-the-art-behind-life-is-strange/ Edouard Caplain on the Art Behind Life Is Strange] (February 9, 2016)
+
+DONTNOD Entertainment considered over a hundred different names for *Life is Strange*. *What If?* originally was the game's working title, while *Life is Strange* was only supposed to be the title of the [Episode 1: Chrysalis](first_episode.md).[https://www.hautbasgauchedroite.fr/fr/podcast/228/P226-le-role-du-scenario-et-du-scenariste-dans-le-developpement-d-un-jeu #226 - Le rôle du scénariste dans le développement d'un jeu (Life is Strange) et l'évolution du scénario dans le temps]
+*What If* was discarded as because a Daniel Radcliffe film of the same name had been released in 2013 and 2014 earlier.
+
+When they started to work on the game, they couldn't imagine how successful the game would turn out to be. They merely focused on what kind of story they were passionate to tell, and disregarded factors such as target audience and marketing.
+
+In the development diary, "A New Beginning", DONTNOD Entertainment's developers state that every publisher except Square Enix asked them to make their protagonists male instead of female. Before being accepted by Square Enix, seven different publishers rejected the game, mainly for the reasons mentioned above.[https://www.hautbasgauchedroite.fr/fr/podcast/228/P226-le-role-du-scenario-et-du-scenariste-dans-le-developpement-d-un-jeu #226 - Le rôle du scénariste dans le développement d'un jeu (Life is Strange) et l'évolution du scénario dans le temps]
+
+At the time, most prospective publishers were unwilling to publish the game unless it featured more action sequences[https://www.gamespot.com/articles/square-enix-s-life-is-strange-considered-100-diffe/1100-6425742/ Square Enix's Life is Strange Considered 100 Different Names] (March 6, 2015) or had a male protagonist due to "little sales potential"[https://www.gamespot.com/articles/other-publishers-told-us-to-make-it-a-male-lead-ch/1100-6424577/ "Other Publishers Told Us to Make It a Male Lead Character," Life is Strange Dev Says] (January 10, 2015)[https://v1.escapistmagazine.com/news/view/139401-Publishers-Disliked-Dontnods-Life-is-Strange-Having-Female-Leads Publishers Wanted Life is Strange Devs to Make Leads Male] (January 11, 2015), a problem they had already faced with their first title, *Remember Me*.[https://www.gamespot.com/articles/publishers-said-you-cant-have-a-female-character-says-remember-me-dev/1100-6405550/ Publishers said 'You can't have a female character,' says Remember Me dev] (March 19, 2013) CEO Oskar Guilbert had also challenged the idea at the start.Barnes, Ben (June 2016). "Edge #293". Edge. p. 94-97: Future plc. Square Enix, who loved the game's storytelling element, was the only publisher that that supported the project with no intention to change it. Originally, Dontnod had pitched a larger game to Square Enix that the publisher was not interested in, whereupon Dontnod chose to present their smaller narrative project *Life is Strange*.[https://www.mcvuk.com/business-news/they-originally-pitched-a-different-game-how-square-enix-discovered-life-is-strange/ ‘They originally pitched a different game’: how Square Enix discovered Life Is Strange] (August 7, 2015) 
+
+The team's size would eventually grow up to a number of 40 people working on the team.[http://www.eurogamer.net/articles/2014-09-10-life-is-strange-it-takes-time-to-be-different Life is Strange: It takes time to be different] (December 9, 2014)
+
+*Life is Strange* was composed as a self-contained story. After the release of the final episode, Co-Director [Michel Koch](michel_koch.md) explained that they told the story about Max and Chloe that they had planned from the beginning in the course of five episodes and that their story was done. Prior to the release of *[Life is Strange 2](life_is_strange_2.md)*, Koch reconfirmed that the story of Max and Chloe was done and that Dontnod wanted players to imagine what happened after the endings on their own.[https://www.eurogamer.net/articles/2018-08-21-life-is-strange-2 Why Life is Strange 2 is ditching Arcadia Bay for its radically different roadtrip] (August 21, 2018)
+
+###  Announcement and Reveal 
+On October 4, 2013, during the news of DONTNOD Entertainment's "bankruptcy", it was announced that Dontnod were searching for public funding for a new intellectual property titled "What If?".[https://www.gamekult.com/actualite/le-prochain-dontnod-remember-me-nomme-maj-112109.html Le prochain DONTNOD (Remember Me) nommé ?] (October 4, 2013) On June 5, 2014 — roughly half a year later — Dontnod officially revealed their collaboration with publisher Square Enix for a "new game on digital platforms" as "a twist on traditional story-driven games" that "feels refreshingly different from traditional story-driven games."[http://www.ign.com/articles/2014/06/05/remember-me-developer-dontnod-creating-new-game-with-square-enix REMEMBER ME DEVELOPER DONTNOD CREATING NEW GAME WITH SQUARE ENIX] (June 5, 2014)
+
+During the [DualShockers Video at Gamescom 2014 (August 13, 2014)](gamescom_2014_event.md) on August 11, 3:00 pm, Dontnod and Square Enix officially revealed the title "Life is Strange" and a [https://www.youtube.com/watch?v# HXS97NSXAyc first gameplay video] for their episodic adventure game project.[https://kotaku.com/square-enix-new-game-is-something-completely-different-1619365355 Square Enix's New Game Is Something Completely Different] (August 11, 2014) Creative Director [Jean-Maxime Moris](jean_maxime_moris.md) and Co-Director [Michel Koch](michel_koch.md) presented the game to the press in a demo area booth built by Square Enix, a special *Life is Strange* room that replicates the interior of [Chloe's Room](chloe_s_room.md) from the originally revealed gameplay. They also presented the game during the NYCC in October 2014. Jean-Maxime Moris: "Everybody at DONTNOD is excited to be working on such a refreshing title. We’re not only crafting the best game we possibly can, we also feel we’re providing the type of experience that perfectly fits today’s renewed taste for originality and diversity." "When we first saw *Life is Strange* we immediately realized that DONTNOD have created a unique experience, something special. Everyone who’s seen the game has instantly fallen in love with its distinctive style and mood", said Jon Brooke, VP Brand and European Marketing Square Enix Europe.[https://www.gamasutra.com/view/pressreleases/223093/SQUARE_ENIX__DONTNOD_ENTERTAINMENT_ANNOUNCE_LIFE_ISSTRANGE.php SQUARE ENIX & DONTNOD ENTERTAINMENT ANNOUNCE LIFE IS STRANGE] (August 11, 2014)
+
+###  Episodic Format 
+DONTNOD purposefully chose the episodic format inspired by TV shows. [https://www.shacknews.com/article/117561/from-chaos-the-aspirational-storytelling-of-life-is-strange?page4#detail-view From Chaos: The Aspirational Storytelling of Life is Strange] (May 13, 2020).
+
+Before signing with Square Enix, *Life is Strange* was imagined as a full-length video game that Dontnod would self-publish. However, the publisher surmised that it would be more successful as an episodic title.Barnes, Ben (June 2016). "Edge #293". Edge. p. 94-97: Future plc. The episodic format, which had become a successful phenomenon through Telltale Games' releases, was adapted due to financial reasons as a "slow risk" approach, as well as marketing and creative reasons, allowing them to tell the story in its preferred slow pace.[https://www.mcvuk.com/business-news/life-is-good-dontnod-on-the-success-of-life-is-strange-and-what-comes-next/ Life is good: Dontnod on the success of Life is Strange and what comes next] (March 15, 2015)[https://www.theguardian.com/technology/2015/apr/26/life-is-strange-episodic-video-game-dontnodLife Is Strange: episodic video games prove as addictive as episodic TV] (April 26, 2015
+
+Developing in episodes which released over the span of a year allowed the studio to adjust their story and some details according to the player feedback they received after each episode.
+
+Game Director [Raoul Barbet](raoul_barbet.md): ''"With a full game that was released all at one time, we wouldn't have been able to have this huge community. (...) The gaps between episodes were times when players could discuss the characters and story. Also, that format helped us focus on characters by filling in blanks. When developers get feedback from players between episodes, we can react and adjust gameplay and character development."*
+
+Game and Art Director [Michel Koch](michel_koch.md): *"I think if we'd made this game as a [single release], we would have still wanted breaks between chapters. It would have been us saying to players, 'If you want to stop, maybe stop here, then you can go on to the next chapter.' That's sometimes the issue with bigger, longer games. We don't know when players will stop playing. I've been in this position: If I stop playing a game that's a bit slow, I might not go back to it until later [and forget what happened]."''
+
+TBC[https://www.theguardian.com/technology/2015/apr/26/life-is-strange-episodic-video-game-dontnodLife Is Strange: episodic video games prove as addictive as episodic TV] (April 26, 2015)[https://www.gamesindustry.biz/articles/2014-08-14-hitting-reset-dontnods-new-episode Hitting reset: Dontnod's new episode] (August 14, 2014)
+
+###  Original Idea and Mechanic 
+The initial idea for *Life is Strange* had its origin in Dontnod's first game *Remember Me*'s memory remixes (interactions with people's memories that trigger consequence effects). After they had finished *Remember Me*, which was a very fast-paced action adventure game, they wanted to make a slow-paced adventure game that focused more on the consequence effect instead. Based on the memory remix concept, they developed the rewind mechanism to tell a coming-of-age story about growing up, about the impact even small choices in your life can have and "about realizing that sometimes you need to stop looking backwards and wanting to change everything", which they thought resonated most with the rewind power, together with the characters, the high school setting and the visuals they subsequently developed.
+
+*Life is Strange* was inspired by narrative-focused {{Wiki|Adventure game|adventure games}} such as *{{Wiki|Gone Home}}*, *{{Wiki|The Walking Dead (video game)|The Walking Dead}}* and *{{Wiki|Heavy Rain}}*, [wikipedia:Visual novel](visual_novels.md) such as *{{Wiki|Danganronpa|Danganronpa}}*, and novels such as *{{Wiki|The Catcher in the Rye}}*.[http://www.siliconera.com/2015/02/05/life-strange-director-talks-theme-identity-visual-novels/ Life Is Strange Director Talks About The Theme Of "Identity" And Visual Novels] (February 5, 2015) During a CNC conference about realism in video games that was held in June 2015, Writer Jean-Luc Cano confirmed that {{Wiki|Stephen King}}'s work was a source of inspiration in the creation of the game's plot and its universe.[https://www.lesnumeriques.com/jeux-video/reel-dans-jeu-video-representation-experience-a2225.html Le réel dans le jeu vidéo : représentation et expérience] (June27, 2015)
+
+###  Characters, Themes and Social Issues 
+*Life is Strange* tells a {{Wiki|coming-of-age story}} through the journey of protagonist Max Caulfield, and the rewind mechanism was specifically designed to serve this purpose.
+
+Co-Director and Writer Michel Koch explained in an interview: "We knew that we wanted to use this [rewind] mechanism as a tool, as a metaphor, to tell this coming-of-age story. To tell a story about growing up, about realizing that sometimes you need to stop looking backwards and wanting to change everything."
+
+Michel Koch: "So that's why we have this art direction, that's why we have those characters, why we choose the setting of a high-school. And because when you're a teen, it's a time in your life when your choices will really affect you as an adult, so it's a really good period to question fate, choice and consequences, and destiny."
+
+"The fact that [Max’s power] is a supernatural element is mostly used as a contrast to the human and real-life things we are dealing with. We are big fans of the books by Stephen King. He's so good at anchoring a real world scenario with believable characters and real-life issues, but then using one supernatural or horror element to bring chaos on top of that."
+
+Raoul Barbet: "We wanted to talk about all those topics and I think as a teenager you can't avoid that. Being a teenager nowadays is quite difficult, and we really didn't want to write a story about teenagers without talking about things like cyber bullying, for example. It's part of our life and it's part of the new generation's life, so we wanted to talk about that with the character of Kate." 
+
+As well as drawing from personal experience for their writing, Dontnod also heavily researched the topics they were covering to ensure accuracy and respect. “That was our responsibility, especially when you decide to cover these topics in a video game where you’re putting the player in those positions,” Michel Koch explained.[https://www.pcgamesn.com/life-is-strange/max-and-chloes-story-is-done-life-is-strange-devs-talk-the-future-success-and-the-importance-of-diversity "Max and Chloe's story is done": Life is Strange devs talk the future, success, and the importance of diversity] (January 22, 2016)
+
+Artistic director Michel Koch revealed in an [http://www.vice.com/en_uk/read/first-love-and-awkwardness-inside-the-mind-of-life-is-strange-co-director-michel-koch-423 interview] that they wrote Episode 1 with the intention of introducing the typical high school stereotypes, before building upon them and subverting them with every episode. "When we started to create every character, we really wanted to use known archetypes that people see in teenage drama and in movies."[https://www.vice.com/en_uk/article/exqpga/first-love-and-awkwardness-inside-the-mind-of-life-is-strange-co-director-michel-koch-423 First Love and Awkwardness: Inside the Mind of ‘Life Is Strange’ Co-Director Michel Koch] (August 4, 2015) According to Koch, the developers wanted the game to have "gray characters," where no one is completely good or bad. Dontnod wanted to bring that complexity of people's personalities to *Life is Strange*.[https://www.polygon.com/2014/8/14/6003109/remember-me-creators-next-game-looks-like-gone-home-with-time-travel Remember Me creator's next game looks like Gone Home with time travel] (August 14, 2014)
+
+###  Setting 
+[File:Arcadia Garibaldi Comp.png](thumb.md) and a real photo of the town of Garibaldi.]]
+From early on, the developers team wanted the game's environment to be based on a small town on the coastline of Oregon. The developers conducted research on the setting by traveling to the Pacific Northwest for the purpose of conveying a nostalgic and autumnal feel to the game. The development team visited the region, took photographs, looked at local newspapers and used Google Street View to make sure the environment was accurately portrayed. Initially, the main reference for the town of [Arcadia Bay](arcadia_bay.md) was Astoria, a city on the hillside of Oregon, but it was way too big for the setting they were aiming for. Eventually they found Garibaldi, a much smaller town in Oregon, which was working well with its [Arcadia Bay Ave](main_street.md) running along the coast. Other locations such as the Blackwell Academy, the Two Whales Diner, the junkyard and the lighthouse were inspired by various locations from around the United States. Concept artist Edouard Caplain based his concept art off on various photo references and screenshots he gathered during his research. 
+
+Creative Director [Jean-Maxime Moris](jean_maxime_moris.md) said that, "the Pacific Northwest was something that we determined very early in the development process as the place we wanted to set the game in. That's because we wanted to have this very nostalgic and autumnal feel to the game, and in terms of colors ... to me it's really one of those places that brings this kind of nostalgia, and I mean this in a positive way. This sense of looking inside yourself".[http://gamerhub.tv/videos/life-is-strange-gameplay-preview-interview/2014/08/27/ Life Is Strange Gameplay Preview Interview] (August 27, 2014)
+
+The game's setting took [References (Life is Strange)#Twin Peaks](inspiration.md) from the 90s American mystery drama television series *{{wiki|Twin Peaks}}* which also takes place in the Pacific Northwest and glimpses behind the seemingly pleasant curtain of small town in America to reveal its darkest secrets.[Kinda Funny Stage Show E3 2015](kinda_funny_stage_show_e3_2015.md)
+
+Jean-Maxime Maurice said in an interview that they were very close to choose Seattle as main location for the game, but they didn't because the city was too big for an intimist story. He also said they considered making the game take place in a Scandinavian country because the general atmosphere and colors would have been similar.[https://www.youtube.com/watch?v# P9-HB5m3vtc Jean-Maxime Moris Interview] (January 28, 2015)
+
+###  Visual Style 
+With a clear vision for the game's visual style, Art Director Michel Koch gathered art references from artists who are known for their realistic shapes with stylized textures such as Alberto Mielgo, known for the "smooth blend of photorealism and abstraction" of his paintings.[http://www.cartoonbrew.com/animators/an-appreciation-of-alberto-mielgos-background-paintings-30640.html An Appreciation of Alberto Mielgo’s Background Paintings] (November 6, 2010) From the very beginning, the game was aimed to look like animated concept art, which was a major aspect of the art direction. The 3D artists had to translate the painterly look of the concept art primarily provided by [Edouard Caplain](edouard_caplain.md) into 3D models, and all textures were hand-painted to achieve what artistic director Michel Koch called "impressionistic rendering".[http://www.dualshockers.com/2014/08/13/life-is-strange-gets-new-screenshots-showing-dontnods-lovely-art-style-it-looks-super-sweet-on-ps4/ Life Is Strange Gets New Screenshots Showing Dontnod’s Lovely Art Style; It looks Super-Sweet on PS4] (August 13, 2014)[http://www.gamereactor.eu/previews/249994/ One of the oddest reveals of Gamescom also proved to be one of the most interesting. Here's what the Remember Me developers did next] (August 22, 2014) The stylized effect was intentionally chosen as it would work best with the game's focus on its narrative aspect. It was meant to make it easier for the players to focus on and identify with the characters as well as to convey emotions more powerfully by using colors or lighting which would be too subtle to capture in real life otherwise.[https://80.lv/articles/life-is-strange-concept-artist-talks-about-art/ The Artist behind Life is Strange] (March 3, 2016)
+
+TBC
+
+"Every object in the game has a distinct look and feel,” Koch points out, as we're shown in Chloe’s den, “We achieved that by going for an impressionistic style over a realistic style and every texture in the game is hand-painted.”[https://www.xboxachievements.com/news/news-19071-Gamescom-2014--Life-is-Strange-In-Depth-First-Look-Preview---Turn-Back-Time.html Gamescom 2014: Life is Strange In-Depth First Look Preview - Turn Back Time] (August 22,2014)
+
+###  Soundtrack 
+TBC[https://www.20minutes.fr/culture/1771631-20160123-life-is-strange-comment-francais-jonathan-morali-cree-bande-originale-folk-lier «Life is Strange»: Comment le Français Jonathan Morali a créé une bande originale folk à lier] (January 23, 2016[https://usbeketrica.com/fr/article/des-millions-de-gens-decouvrent-l-art-et-l-histoire-manette-en-main «Des millions de gens découvrent l’art et l'histoire manette en main»] (July 2, 2019)[https://www.neonmag.fr/frederic-devanlay-designer-sonore-de-life-is-strange-a-la-difference-du-cinema-le-son-dun-jeu-video-nest-pas-fige-523946.html How sound design creates the atmosphere of a video game (with Frédéric Devanlay, sound designer of Life is Strange)] (March 20, 2019)
+
+Art Director [Sébastien Gaillard](s_bastien_gaillard.md): "Really early in the game development, alongside the writing and the pre-production, we decided to have both an original soundtrack and licensed tracks, as it was logical with our intentions for this project: each of them would and should serve a precise purpose at different moments of the game. It was really important to never have music for the sake of it, as the music shouldn’t be used as a ‘song jukebox’ with no real intention. When we were writing the game and key scenes started to emerge, we started to gather hundreds of different songs that could accompany those scenes, that would not only illustrate them, but also add secondary layers of meaning and narrative."[https://www.mcvuk.com/development-news/working-in-harmony-with-licensed-soundtracks-in-games/ Working in harmony with licensed soundtracks in games] (July 11, 2016)
+
+##  Game Editions 
+###  Standard Edition 
+TBC
+###  Limited Edition 
+TBC
+###  Remastered Edition 
+TBC
+
+##  Reception 
+During its release, *Life is Strange* received generally favorable reviews commending its unique art style, the character development, the rewind game mechanic and its smart take on branching storytelling as well as the use of taboo subjects. It was also praised both among reviewers and fans for featuring female protagonists and for the portrayal of gay romance. Some reviewers disliked the slang, lack of lip-syncing and tonal inconsistencies. 
+
+The first episode was ranked fifth among the best selling PlayStation 3 and PlayStation 4 video games of February 2015.[https://blog.playstation.com/2015/03/12/playstation-store-february-2015s-top-sellers/ PlayStation Store: February 2015’s Top Sellers] (March 12, 2015) It had sold one million digital copies by the end of July 2015.[https://www.ign.com/articles/2015/07/23/life-is-strange-hits-1-million-sales-episode-4-release-date-announced Life is Strange Hits 1 Million Sales, Episode 4 Release Date Announced] (July 23, 2015) As of May 2017, more than three million copies have been sold.[http://www.eurogamer.net/articles/2017-05-18-life-is-strange-2-finally-confirmed Life is Strange 2 finally confirmed] (May 18, 2017)
+
+The complete season received a Metascore of 83/85 and a User Score of 8.6/8.7.[https://www.metacritic.com/game/pc/life-is-strange Metacritic Life is Strange PC][https://www.metacritic.com/game/playstation-4/life-is-strange Metacritic Life is Strange PS4][https://www.metacritic.com/game/xbox-one/life-is-strange Metacritic Life is Strange Xbox One] On Opencritic, it currently has a rating of 81.[https://opencritic.com/game/1995/life-is-strange-season-one OpenCritic - Life is Strange - Season 1] It is rated as "overwhelmingly positive" (with 96% of over 120,000 user reviews) on Steam.
+
+###  Awards and Nominations 
+
+{|class"wikitable" style# "border:none; margin:0; width:100%;"
+|- valign"bottom"
+! Date !! Ceremony !! Category !! Recipient(s) !! Result
+|- valign# "center"
+| rowspan"23"|2015
+| rowspan# "2"|{{Wiki|Develop_(magazine)|Develop Industry Excellence Awards}}
+| New Games IP – PC/console
+| rowspan"5"|*Life is Strange*
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(153,255,153); width:70px"|Won
+|- valign"top"
+| Use of Narrative
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(153,255,153);"|Won
+|- valign"center"
+| rowspan# "6"|{{Wiki|Golden_Joystick_Award|Golden Joystick Award}}
+| Best Original Game
+| style"padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(176,176,176);"|Runner-Up
+|- valign# "top"
+| Best Storytelling
+| style"padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(176,176,176);"|Runner-Up
+|- valign# "top"
+| Best Audio
+| style"padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(176,176,176);"|Runner-Up
+|- valign# "top"
+| Best Gaming Moment
+| Saving [Kate Marsh](kate.md)
+| style"padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(205,133,0);"|Third
+|- valign# "top"
+| Performance of the Year
+| [Ashly Burch](ashly_burch.md) as [Chloe Price](chloe.md)
+| style"padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(153,255,153);"|Won
+|- valign# "top"
+| Game of the Year
+| *Life is Strange*
+| style"padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(205,133,0);"|Third
+|- valign# "center"
+| rowspan"4"|Global Game Awards
+| Best Adventure
+| rowspan# "4"|*Life is Strange* – Episode 1
+| style"padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(153,255,153);"|Won
+|- valign# "center"
+| Best Story
+| style"padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(176,176,176);"|Second
+|- valign# "center"
+| Best Original Game
+| style"padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(153,255,153);"|Won
+|- valign# "center"
+| Game of the Year
+| style"padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(176,176,176);"|Second
+|- valign# "center"
+| rowspan"3"|{{Wiki|The_Game_Awards|The Game Awards}}
+| Best Narrative
+| *Life is Strange*
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(255,221,221);"|Nominated
+|- valign"top"
+| Best Performance
+| [Ashly Burch](ashly_burch.md) as [Chloe Price](chloe.md)
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(255,221,221);"|Nominated
+|- valign"top"
+| Games For Change
+| rowspan# "2"| *Life is Strange*
+| style"padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(153,255,153);"|Won
+|- valign# "center"
+| rowspan"2"|{{Wiki|PlayStation Official Magazine}}
+| Best Episodic Adventure
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(153,255,153);"|Won
+|- valign"center"
+| Best Moment
+| Episode 2 conclusion
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(153,255,153);"|Won
+|- valign"center"
+| {{Wiki|Vice (magazine)|Vice}} Canada's Top 20 video games of 2015
+| rowspan# "3"|Best Game
+| rowspan"18"|*Life is Strange*
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(205,133,0);"|Fourth
+|- valign"center"
+| {{Wiki|New_York_(magazine)#Digital_expansion_and_blogs|Vulture}}'s Top 10 video games of 2015
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(153,255,153);"|Won
+|- valign"center"
+| {{Wiki|Red Bull}} Games' Top 10 video games of 2015
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(176,176,176);"|Second
+|- valign"center"
+| {{Wiki|Polygon (website)|Polygon}}'s Games of the Year 2015
+| Game of the Year
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(205,133,0);"|Seventh
+|- valign"center"
+| {{Wiki|Destructoid}}'s Best of 2015
+| Best Xbox One Game
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(255,221,221);"|Nominated
+|- valign"center"
+| {{Wiki|Eurogamer}}'s Top 10 video games of 2015
+| Best Game
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(205,133,0);"|Tenth
+|- valign"center"
+| rowspan# "15"|2016
+| {{Wiki|IGN}}'s Best of 2015
+| Game of the Year
+| style"padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(255,221,221);"| Nominated
+|- valign# "center"
+| rowspan"4"|{{Wiki|PlayStation Blog}}'s Best of 2015
+| Best PS4 Game
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(255,221,221);"| Nominated
+|- valign"center"
+| Best Story
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(176,176,176);"| Runner-Up
+|- valign"center"
+| Best Soundtrack
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(176,176,176);"| Runner-Up
+|- valign"center"
+| Best Digital-Only Release
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(176,176,176);"| Runner-Up
+|- valign"center"
+|*{{Wiki|New Statesman}}*
+'​s Top 10 video games of 2015
+|Best Game
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(153,255,153);"| Won
+|- valign"center"
+|*{{Wiki|Hardcore Gamer}}*
+'​s Best of 2015
+|Best Adventure Game
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(176,176,176);"| Runner-Up
+|- valign"center"
+|rowspan# "3"|Emotional Games Awards 2016[http://www.emotionalgamesawards.com/nominees.html  Emotional Games Awards 2016 Nominees] (January 14, 2016)
+|Best Emotional Game
+| style"padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(153,255,153 );"|Won
+|- valign# "center"
+|Best Emotional Game Design
+| style"padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(255,221,221);"|Nominated
+|- valign# "center"
+|Best Emotional Music Game
+| style"padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(255,221,221);"|Nominated
+|- valign# "center"
+| rowspan"3"|{{Wiki|Academy of Interactive Arts & Sciences|DICE Awards}}[http://www.polygon.com/2016/1/13/10760412/dice-awards-2016-nominees Polygon - DICE Awards finalists] (13 January, 2016)
+|Outstanding Achievement in Game Direction
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(255,221,221);"|Nominated
+|- valign"center"
+|Adventure Game of the Year
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(255,221,221);"|Nominated
+|- valign"center"
+|Outstanding Achievement in Character
+|Max Caulfield
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(255,221,221);"|Nominated
+|-
+| rowspan"3"|{{Wiki|Game Developers Choice Awards}}
+|Audience Award
+|*Life is Strange*
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(153,255,153 );"|Won
+|}
+
+##  System Requirements 
+{| border"0" cellpadding# "1" cellspacing"1" class# "article-table" style"width: 600px;"
+|-
+! scope# "col" style"width:300px"|Minimum:
+! scope# "col" style"width:300px"|Recommended:
+|-
+|OS: Windows Vista
+|OS: Windows 7
+|-
+|Processor: Dual Core 2.0GHz or equivalent
+|Processor: Dual Core 3.0GHz or equivalent
+|-
+|Memory: 2 GB RAM
+|Memory: 2 GB RAM
+|-
+|style# "width:50%"|Graphics: ATI or NVidia card w/ 512 MB RAM (not recommended for Intel HD Graphics cards)
+|style"width:50%"|Graphics: ATI or NVidia card w/ 1024 MB RAM (NVIDIA GeForce GTX 260 or ATI HD 4890)
+|-
+|DirectX: Version 9.0
+|DirectX: Version 9.0
+|-
+|Hard Drive: 3 GB available space
+|Hard Drive: 3 GB available space
+|}
+{| border# "0" cellpadding"1" cellspacing# "1" class"article-table" style# "width: 600px;"
+|-
+! scope"col"|Minimum:
+! scope# "col"|Recommended:
+|-
+|OS: macOS 10.11
+|OS: macOS 10.11.4
+|-
+|Processor: Intel 1.8GHz
+|Processor: Intel 2.4GHz
+|-
+|Memory: 4 GB RAM
+|Memory: 8 GB RAM
+|-
+|style"width:50%"|Graphics: card w/ 512 MB VRAM (Intel HD4000 graphics cards require ​8GB of system RAM)
+|style# "width:50%"|Graphics: card w/ 1GB VRAM
+|-
+|Input: Keyboard and mouse
+|Input: Gamepad
+|-
+|Storage: 15 GB available space
+|Storage: 15 GB available space
+|}
+{| border"0" cellpadding# "1" cellspacing"1" class# "article-table" style"width: 600px;"
+|-
+! scope# "col" style"width:50%"|Minimum:
+! scope# "col" style"width:50%"|Recommended:
+|-
+|OS: Ubuntu 16.04, Steam OS 2.0 (64-bit)
+|Ubuntu 16.04, Steam OS 2.0 (64-bit)
+|-
+|Processor: Intel Core i3, AMD FX-6300 1.8GHz
+|Processor: Intel Core i5 2.4GHz
+|-
+|Memory: 4 GB RAM
+|Memory: 8 GB RAM
+|-
+|style# "width:50%"|Graphics: 1GB AMD R9 270 or better,1GB Nvidia 640 or better,1GB Intel Iris Pro 6200 or better
+|style"width:50%"|Graphics: 1GB Nvidia 7xx series or better
+|-
+|style# "width:50%"|Graphics drivers: Nvidia cards require driver version 367.27. AMD and Intel cards require MESA 11.2. AMD cards are not supported on Steam OS.
+|style"width:50%"|Graphics drivers: Nvidia cards require driver version 367.27. AMD and Intel cards require MESA 11.2. AMD cards are not supported on Steam OS.
+|-
+|Storage: 16 GB available space
+|Storage: 16 GB available space
+|}
+
+##  Trivia 
+* The original title of the game, *What If?*, is referenced in the [Achievements (Life is Strange)](achievement.md) that is awarded to the player for unlocking all trophies.
+* Dontnod's CEO, [Oskar Guilbert](oskar_guilbert.md) referred in an interview (recorded before the first episode came out) to more than five episodes: "We want to be able to tell the players when episodes 2, 3, 4, 5, 6, etc will be available".[https://www.youtube.com/watch?v# somLjf2a1VE&featureyoutu.be&t# 41s Indies @ PGW Interview Life is Strange]
+* The pre-production budget for *Life is Strange* was around €4 million. For comparison, the budget of Dontnod's previous game, *Remember Me*, was close to €20 million.[http://www.lemonde.fr/pixels/article/2016/06/13/oskar-guilbert-le-miracule-de-la-french-touch_4949284_4408996.html Oskar Guilbert, le miraculé du jeu vidéo français] (June 13, 2016)
+* Voice actress [Ashly Burch](ashly_burch.md), auditioned for the roles of both [Maxine Caulfield](max_caulfield.md) and [Chloe Price](chloe_price.md). Dontnod blind-cast Burch as Chloe after hearing her take for the character.
+* At the end of the credits on Episode 4, it says "thanks for crying" instead of "thanks for playing".
+* In an [https://youtu.be/S3s5IcoEROY?t27m55s interview] at LiU Game Conference 2015, Game Director [Raoul Barbet](raoul_barbet.md) stated that they heavily modified Unreal Engine 3 to turn it into a PBR/PBL ({{Wiki|physically based rendering}}) engine to create the stylized "impressionistic rendering" that gives *Life is Strange* its visual style. It was decided that having this kind of stylized rendering would allow the game to "age better". The most important aspect of the visual style, for Dontnod, was the lighting, so even though the visual style of the game was quite simple, they made sure to use high-end technology for the lighting, because they felt that light is one of the most important parts of a visual. They felt that having low-detailed visuals with good lighting was far better than having detailed visuals with bad lighting. They also felt that light is linked to memories and emotions. They also had three dedicated "lighting artists", which was not a very common thing to see in the gaming industry and was even more impressive due to Dontnod's small team size in the game's initial stages. In addition to this, there were two "camera developers".
+* A idea that was proposed was to control a different character by the later episodes, considered for e.g. Episode 5 or 6.[https://cite-sciences.ubicast.tv/videos/12-12-2016-185656-partie-1/ MASTERCLASS CJV #16 - Michel Koch]
+** Its possible this idea was later revised for the nightmare sequence in episode 5, where at one point, the player has to navigate the girls dorms correctly to reach the school corridor and every correct door will make the player switch between characters.
+* The title of the original game has been updated in July 2017 and afterwards matches the non-capitalized "i" *[Life is Strange: Before the Storm](life_is_strange__before_the_storm.md)*.[https://www.reddit.com/r/lifeisstrange/comments/6gzrbv/just_noticed_this_and_my_ocd_is_killing_me_plz_fix/ Reddit post by /u/Fry98]
+* In 2018, there was a philosophy course centered on ethics offered at UC Santa Cruz that is taught using *Life is Strange*.[https://www.reddit.com/r/lifeisstrange/comments/9tpyds/no_spoilers_theres_a_philosophy_course_offered_at/ Reddit post by u/bananaslugger99] (see [here](here.md) for further information on academic adaption and analysis of the game)
+* In Dontnod's other episodic game *{{wiki|Tell_Me_Why_(video_game)|Tell Me Why}}* (released in 2020), *Life is Strange* is one of three games referenced in the second episode through the achievement "Remember Strange Vampyr." The achievement's title references Dontnod games in release order - *Remember Me*, *Life is Strange*, and *Vampyr* - and is activated by looking at three posters that relate to these games inside the Veni Vidi Vecchi General Store. The poster for *Life is Strange* is located on the wall behind Michael Abila and features a polaroid camera very similar to [Max's Camera](max_s.md) and a [Blue Butterfly](blue_butterfly.md). If Tyler inspects the poster, he will ask Michael if he remembers the ad for it and what the slogan was. Michael will reply that it was "something poetic about time travel and life being weird."
+
+###  Promo Keyart 
+
+Life_is_Strange-01.jpg|Max's Rewind
+
+###  Episode Keyart 
+
+1908440 888207817867800 545726511779941891 n.jpg
+11091020 898326323522616 1503959853231518140 o.jpg
+Episode 3 Cover (2).jpg
+Life-Is-Strange-Episode-4.png
+Ep5.JPG
+
+###  Promo Screenshots 
+
+Life-is-strange-max-chloe.jpg
+Basement.jpg
+Life-is-strange-02 1920.jpg
+lifeisstrange_1246084_650x.jpg
+Lifeisstrange 1246094b.jpg
+Life-is-strange-kitchen 1920.0.jpg
+Life-is-strange-max-and-david 1920.0.jpg
+Life-is-strange-max-chloe-david 1920.0.jpg
+Life-is-strange-max-chloe-stereo 1920.0.jpg
+Life-is-strange-max-garden 1920.0.jpg
+Life-is-strange-max-tools 1920.0.jpg
+maxrewindd.png
+life-is-strange-rewind-burn_1920.0.jpg
+
+###  [Concept Art (Life is Strange)](concept_art__life_is_strange_.md) 
+
+Chloe_Concepts_1.png|Chloe - by Michel Koch.
+Chloe_Concepts_3.png|Chloe's Shirt design - by [Fred Augis](fred_augis.md).
+Chloe_Concepts_2.png|Chloe's Tattoo - By Fred Augis.
+Max_Concept_Art.png|Max - by Edouard Caplain.
+Max_Concepts_1.png|Max's Shirt - by Michel Koch.
+Max's_Bedroom_(morning_time).png|Max's Room
+Dorm_Concept_Art.png|Prescott Dormitory Grounds
+Blackwell_Academy_Concept_Art.png|Blackwell Corridor
+Chloe_and_Max_Junkyard_concept.png|Max and Chloe at the Junkyard
+TRAIN_VS_TIME_TRAVELER.png|Max and Chloe in "Out of Time"
+Gary-jamroz-palma-showers-pool-artstation.jpg
+Gary-jamroz-palma-science-class-1920.jpg
+Gary-jamroz-palma-pool-fete-final-1920.jpg
+Gary-jamroz-palma-pool-bassin-unlit.jpg
+Gary-jamroz-palma-pool-bassin-artstation.jpg
+Gary-jamroz-palma-office-pool-artstation.jpg
+Gary-jamroz-palma-lockers-room-pool-artstation.jpg
+Gary-jamroz-palma-train-miniature-concept.png
+Gary-jamroz-palma-karen-room-concept.png
+Florent-auguy-02.png
+
+###  Dontnod Entertainment 
+* [http://www.dont-nod.com/ Official Website]
+* [https://www.dontnod-bourse.com/en/ Investor Website]
+* [https://www.facebook.com/DONTNOD.Entertainment Facebook]
+* [https://twitter.com/Dontnod_ent Twitter]
+* [https://www.youtube.com/channel/UCXde0XwoBkAB8qvyPZBQstQ YouTube]
+

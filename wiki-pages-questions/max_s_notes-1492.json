@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Where Is The Everyday Heroes Contest Poster Located?",
+    "answer": "D",
+    "choices": {
+      "A": "On The Hood Of A Wrecked Car",
+      "B": "Near The Computer In The Dark Room",
+      "C": "Inside The Diner's Storeroom",
+      "D": "On The Trolley In The Dark Room"
+    }
+  },
+  {
+    "question": "What Is Written On The Child's Drawing?",
+    "answer": "B",
+    "choices": {
+      "A": "\"I Love You\"",
+      "B": "\"Save Us\"",
+      "C": "\"Help Me\"",
+      "D": "\"Don't Forget\""
+    }
+  },
+  {
+    "question": "What Is Written On The Note About The Tablet With Cat Pics?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Mystery Solved\"",
+      "B": "\"Reward Offered\"",
+      "C": "\"Thank You\"",
+      "D": "\"Found It\""
+    }
+  },
+  {
+    "question": "Where Is The Arcadia Bay Softball League Flyer Located?",
+    "answer": "B",
+    "choices": {
+      "A": "On The Ground In Front Of The Diner",
+      "B": "Inside The Diner's Storeroom",
+      "C": "On The Ground Inside The Storeroom Of \"Tony's Liquor Store\"",
+      "D": "On The Hood Of A Wrecked Car"
+    }
+  },
+  {
+    "question": "What Is Written On The Issue Of \"The Bay Bud Weekly\" Newspaper?",
+    "answer": "A",
+    "choices": {
+      "A": "\"The Monsters Are Actually The People Here\"",
+      "B": "\"If We Can Make It Out Of This, Chloe\"",
+      "C": "\"Go Get 'Em, Juliet\"",
+      "D": "\"Not Anymore\""
+    }
+  }
+]

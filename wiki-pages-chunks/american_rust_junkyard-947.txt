@@ -1,0 +1,44 @@
+Here is a section of the wiki page for American Rust Junkyard:
+
+#  American Rust Junkyard 
+
+```yaml
+Location
+
+name: American Rust
+image: American-Rust.png
+type: Junkyard
+location: '[Arcadia Bay](arcadia_bay.md)'
+state: Oregon
+appears: >-
+  [Episode 2: Out of Time](episode_2__out_of_time.md)[Episode 4: Dark
+  Room](episode_4__dark_room.md)
+coordinates: 'Latitude: 45.552381Longitude: -123.925695'
+```
+
+> Welcome to American Rust. My home away from hell." - "Raw and rough. It suits you...
+
+**Conversation between [Chloe Price](chloe_price.md) and [Maxine Caulfield**, Max Caulfield](maxine_caulfield____max_caulfield.md) in "[Episode 2: Out of Time, Out of Time](episode_2__out_of_time__out_of_time.md)"
+
+**American Rust** is [Arcadia Bay](arcadia_bay.md)'s junkyard located next to the [Train Tracks](train_tracks.md). It is considered by [Chloe Price](chloe_price.md) as her "home away from Hell."
+
+Chloe and [Rachel Amber](rachel_amber.md) spent a lot of time here, as evident from their [hideout](hideout.md) in a wrecked outhouse which is covered in their belongings and graffiti.
+
+It is an explorable area in [Episode 2: Out of Time](episode_2.md) and is featured again in [Episode 4: Dark Room](episode_4.md). The junkyard is also featured in *[Life is Strange: Before the Storm](before_the_storm.md)*, the prequel to the events of *[Life is Strange](life_is_strange.md)*.
+
+## Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+[File:Full view junkard.jpg](thumb.md)
+In this episode, Chloe and her best friend, [Maxine Caulfield](max_caulfield.md), hang out in the junkyard to practice shooting with [David Madsen](david_madsen.md)'s stolen gun. Chloe asks Max to find empty bottles for a make-shift gun range while she sets it up and drinks.
+
+Max has to explore the junkyard to find bottles hidden around the garbage. After bringing the bottles back to Chloe, Max assists her with aiming at the bottles using her [Rewind](rewind_power.md). The two girls destroy the range and an old car. It is possible here for Chloe to accidentally shoot herself after shooting the car bumper, as the bullet will bounce back and strike her in the chest. Max rewinds to save her, and the scene continues.
+
+Max passes out from overuse of her power and has a conversation with Chloe about Rachel before having her turn with the gun. Before she can use the weapon, the girls are interrupted by [Frank Bowers](frank_bowers.md), who followed the girls to the junkyard and heard the noises of breaking glass and gunshots. Max hides the gun behind her back. He threatens Chloe, asking for his money back. She gets angry with him after seeing he is wearing Rachel Amber's bracelet, and he pulls a knife on her. Max reacts instinctively and points the gun at Frank. She has the choice to shoot him or not shoot him.
+
+Don't shoot Frank# Don't shoot FrankMax decides to not shoot Frank.  He slowly approaches Max and ultimately takes the gun from her and then leaves. Chloe initially complains about Max not sticking up to Frank but ultimately tells Max that she is happy things went down as peacefully as they did. She would really just rather still have the gun to protect herself from Nathan.
+|-|Shoot FrankShoot FrankMax attempts to shoot Frank.  The gun is already out of bullets and makes an audible click as she pulls the trigger. Frank warns Max that he will never forget her face as she almost shot him and leaves. Chloe cheers about Max being a badass.
+
+The two girls then leave the junkyard after the encounter with Frank and head off towards the train tracks which lie parallel to the junkyard.
+
+
+
+Generate five trivia questions relevant to this section of the page.

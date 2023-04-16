@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Kate's Favorite Bible Verse?",
+    "answer": "B",
+    "choices": {
+      "A": "John 3:16",
+      "B": "Matthew 11:28",
+      "C": "Psalm 23:4",
+      "D": "Romans 8:28"
+    }
+  },
+  {
+    "question": "What Does Max Do In Kate's Room When Returning Her Book?",
+    "answer": "D",
+    "choices": {
+      "A": "Looks Through Her Phone",
+      "B": "Cleans The Mirror",
+      "C": "Takes A Picture",
+      "D": "Reads Her Diary"
+    }
+  },
+  {
+    "question": "What Happens To Kate In Episode Two If Max Chooses To Go To The Police?",
+    "answer": "A",
+    "choices": {
+      "A": "She Is Easier To Deal With At The Climax",
+      "B": "She Runs Off Crying",
+      "C": "She Talks To Mark Jefferson For Help",
+      "D": "She Throws Herself Off The Roof"
+    }
+  },
+  {
+    "question": "What Happens To Kate's Dorm Room After Her Suicide Attempt?",
+    "answer": "A",
+    "choices": {
+      "A": "It Is Sealed Off With Barricade Tape",
+      "B": "It Is Cleaned Out And Repurposed",
+      "C": "It Is Turned Into A Memorial",
+      "D": "It Is Given To Another Student"
+    }
+  },
+  {
+    "question": "What Does Kate's Father Thank Max For In His Message To Her?",
+    "answer": "A",
+    "choices": {
+      "A": "Saving Kate's Life",
+      "B": "Taking Care Of Kate's Bunny",
+      "C": "Being A Good Friend To Kate",
+      "D": "Helping Kate With Her Homework"
+    }
+  }
+]

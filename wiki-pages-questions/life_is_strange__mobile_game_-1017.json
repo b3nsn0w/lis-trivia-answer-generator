@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who Originally Developed Life is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "Turn Me Up Games, Inc",
+      "B": "Black Wing Foundation",
+      "C": "Don't Nod",
+      "D": "Michel Koch"
+    }
+  },
+  {
+    "question": "What Is The Genre Of Life is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "Puzzle",
+      "B": "Interactive Storytelling",
+      "C": "Racing",
+      "D": "Platformer"
+    }
+  },
+  {
+    "question": "What Is The Cost Of The Full Season Pass On iOS?",
+    "answer": "C",
+    "choices": {
+      "A": "$4.99",
+      "B": "$7.99",
+      "C": "$8.99",
+      "D": "$9.99"
+    }
+  },
+  {
+    "question": "What Languages Are Available For Subtitles In Life is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "English Only",
+      "B": "English, Spanish, French, Italian, Japanese, Portuguese, German, Simplified Chinese",
+      "C": "Spanish Only",
+      "D": "French Only"
+    }
+  },
+  {
+    "question": "What Is The Price Of Episode 2 On Android?",
+    "answer": "A",
+    "choices": {
+      "A": "$0.99",
+      "B": "$4.99",
+      "C": "$5.49",
+      "D": "$8.99"
+    }
+  }
+]

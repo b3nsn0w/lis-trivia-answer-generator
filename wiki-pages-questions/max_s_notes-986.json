@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Where Does Max Find Photos Of Kate In David's Files?",
+    "answer": "A",
+    "choices": {
+      "A": "Inside The Garage",
+      "B": "In The Living Room",
+      "C": "In The Kitchen",
+      "D": "In The Bathroom"
+    }
+  },
+  {
+    "question": "What Does Max Say About The Wildlife Sign Near The Lighthouse?",
+    "answer": "C",
+    "choices": {
+      "A": "It Was Recently Updated",
+      "B": "It Was Made In The 1990s",
+      "C": "It Was Made In The 1980s",
+      "D": "It Was Made In The 1970s"
+    }
+  },
+  {
+    "question": "What Does Max Say About David's Laptop Password?",
+    "answer": "D",
+    "choices": {
+      "A": "It Is Easy To Guess",
+      "B": "It Is Impossible To Guess",
+      "C": "It Is Related To His Military Service",
+      "D": "It Is Not Relevant To Finding Tools"
+    }
+  },
+  {
+    "question": "What Does The Map Near The Lighthouse Mark?",
+    "answer": "A",
+    "choices": {
+      "A": "The Location Of A Treefort",
+      "B": "The Location Of A Hidden Treasure",
+      "C": "The Location Of A Secret Passage",
+      "D": "The Location Of A Time Capsule"
+    }
+  },
+  {
+    "question": "What Is David's Job At Blackwell?",
+    "answer": "A",
+    "choices": {
+      "A": "Head Of Security",
+      "B": "Janitor",
+      "C": "Teacher",
+      "D": "Principal"
+    }
+  }
+]

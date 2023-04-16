@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Name Of The Party Max Invites Daniel To?",
+    "answer": "C",
+    "choices": {
+      "A": "Blackwell Bash",
+      "B": "Vortex Club Party",
+      "C": "End Of The World Party",
+      "D": "Back To School Party"
+    }
+  },
+  {
+    "question": "What Does Ms. Grant Brag About To Max?",
+    "answer": "C",
+    "choices": {
+      "A": "Max's Good Grades",
+      "B": "Max's Photography Skills",
+      "C": "Blackwell's Surveillance-Free Status",
+      "D": "Max's Athletic Abilities"
+    }
+  },
+  {
+    "question": "What Does Max Ask Ms. Grant To Explain?",
+    "answer": "A",
+    "choices": {
+      "A": "The Strange Weather Phenomena",
+      "B": "The Recent Animal Deaths",
+      "C": "The Eclipse",
+      "D": "The Whales In The Bay"
+    }
+  },
+  {
+    "question": "What Does Daniel Say He Will Do After Max Encourages Him To Go To The Party?",
+    "answer": "A",
+    "choices": {
+      "A": "Go To The Party",
+      "B": "Not Go To The Party",
+      "C": "Draw In His Sketchbook",
+      "D": "Leave Blackwell"
+    }
+  }
+]

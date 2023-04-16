@@ -1,0 +1,26 @@
+#  Thomas Defianas 
+
+{{Template:Stub}}
+
+**Thomas Defianas** (born August 31, 1990) is an enrivonment artist who has been working for [Don't Nod](don_t_nod.md) since 2014. He's worked on all *[Life is Strange (franchise)](life_is_strange.md)* related installments directed by Dontnod, including the original *[Life is Strange](life_is_strange.md)*, *[The Awesome Adventures of Captain Spirit](the_awesome_adventures_of_captain_spirit.md)* and *[Life is Strange 2](life_is_strange_2.md)*, as well as Dontnod's *Vampyr*.
+
+##  Career 
+TBA
+
+## Life is Strange 
+TBA
+
+##  Trivia 
+* Thomas Defianas is openly gay as apparent from his Twitter account's description.
+
+**Thomas Defianas** (born August 31, 1990) is an enrivonment artist who has been working for [Don't Nod](don_t_nod.md) since 2014. He's worked on all *[Life is Strange (franchise)](life_is_strange.md)* related installments directed by Dontnod, including the original *[Life is Strange](life_is_strange.md)*, *[The Awesome Adventures of Captain Spirit](the_awesome_adventures_of_captain_spirit.md)* and *[Life is Strange 2](life_is_strange_2.md)*, as well as Dontnod's *Vampyr*.
+
+##  Career 
+TBA
+
+## Life is Strange 
+TBA
+
+##  Trivia 
+* Thomas Defianas is openly gay as apparent from his Twitter account's description.
+

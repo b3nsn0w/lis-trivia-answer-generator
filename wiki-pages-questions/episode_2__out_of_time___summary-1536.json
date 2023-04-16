@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Does Warren Ask Max To Do With Him?",
+    "answer": "B",
+    "choices": {
+      "A": "Go To The Two Whales Diner",
+      "B": "Go To The Movies",
+      "C": "Go To The Junkyard",
+      "D": "Go To The Science Lab"
+    }
+  },
+  {
+    "question": "What Does Chloe Want Max To Do To Test Her Powers?",
+    "answer": "A",
+    "choices": {
+      "A": "Predict The Future",
+      "B": "Rewind Time",
+      "C": "Teleport",
+      "D": "Levitate"
+    }
+  },
+  {
+    "question": "What Does Chloe Do When She Sees Frank Wearing Rachel's Bracelet?",
+    "answer": "B",
+    "choices": {
+      "A": "Asks Him To Give It Back",
+      "B": "Takes It From Him",
+      "C": "Ignores It",
+      "D": "Calls The Police"
+    }
+  },
+  {
+    "question": "What Does Max Use To Free Chloe From The Train Tracks?",
+    "answer": "A",
+    "choices": {
+      "A": "A Crowbar",
+      "B": "A Hammer",
+      "C": "A Screwdriver",
+      "D": "A Wrench"
+    }
+  }
+]

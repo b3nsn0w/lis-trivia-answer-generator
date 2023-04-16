@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Who composed the original score for Life is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Jonathan Morali",
+      "B": "Syd Matters",
+      "C": "Amanda Palmer",
+      "D": "Brian Viglione"
+    }
+  },
+  {
+    "question": "Which song is played during the Sacrifice Arcadia Bay ending in Episode Five?",
+    "answer": "B",
+    "choices": {
+      "A": "Obstacles",
+      "B": "Spanish Sahara",
+      "C": "Alone With A Heart",
+      "D": "Your Memory Moved In To Stay"
+    }
+  },
+  {
+    "question": "What is the name of the song played in the \"Out of Time\" Launch Trailer?",
+    "answer": "A",
+    "choices": {
+      "A": "On My Side",
+      "B": "Seeker of the Sight",
+      "C": "Hold on Hope",
+      "D": "Glass Walls"
+    }
+  }
+]

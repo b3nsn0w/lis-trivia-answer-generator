@@ -1,0 +1,83 @@
+Here is a section of the wiki page for Max's Notes:
+
+vertical-align:top"|Look# [File:note4-invD2-warrenfight.png](220px.md)
+|-|ReadNone
+|-
+|'''Key for Frank's account book.'''
+Location: First series of Frank's clues in the investigation puzzle.
+Max's comments: "Rott" must stand for Rottweiler. That does fit Nathan... rotten.
+|style# "height:186px; vertical-align:top"|Look[File:note4-invF1-acbookdecrypt.png](220px.md)
+|-|Read# [File:note4-invF1-acbookdecrypt2.png](220px.md)
+|-
+|'''Frank's account book.'''
+Location: First series of Frank's clues in the investigation puzzle.
+Max's comments: Frank’s account book. But the client names are encrypted.
+|style"height:186px; vertical-align:top"|Look# [File:note4-invF1-acbooktaped.png](220px.md)
+|-|ReadNone
+|-
+|'''Excerpt from Principal Wells' notes.'''
+Location: First series of Frank's clues in the investigation puzzle.
+Max's comments: Frank is for sure the "local dealer," but I doubt Rachel was carrying drugs for him... right?
+|style# "height:186px; vertical-align:top"|Look[File:note4-invF1-drugdealnote.png](220px.md)
+|-|Read# [File:note4-invF1-drugdealnote2.png](220px.md)
+|-
+|**Letter from Rachel to Frank.**
+Location: First series of Frank's clues in the investigation puzzle.
+Max's comments: There’s no doubt she loved him in some way...
+|style"height:186px; vertical-align:top"|Look# [File:note4-invF1-inkletter.png](220px.md)
+|-|Read[File:note4-invF1-inkletter2.png](220px.md)
+|-
+|**Letter from Rachel to Frank #2.**
+Location: First series of Frank's clues in the investigation puzzle.
+Max's comments: So what happened to Rachel after this? She dumped Frank, but I don't think he would hurt her.
+|style# "height:186px; vertical-align:top"|Look[File:note4-invF1-rachelletter.png](220px.md)
+|-|Read# [File:note4-invF1-rachelletter2.png](220px.md)
+|-
+|'''Photo of Rachel driving [Frank's RV](frank_s_rv.md).'''
+Location: First series of Frank's clues in the investigation puzzle.
+Max's comments: Maybe Rachel took a road trip with Frank, but she did come back.
+|style"height:186px; vertical-align:top"|Look# [File:note4-invF1-rachelphoto.png](220px.md)
+|-|ReadNone
+|-
+|**Photo of Rachel and Frank.**
+Location: First series of Frank's clues in the investigation puzzle.
+Max's comments: So weird how close they were. But Frank couldn't keep Rachel... or protect her.
+|style# "height:186px; vertical-align:top"|Look[File:note4-invF1-frankandrachel.png](220px.md)
+|-|Read# None
+|-
+|'''Key to Frank's account book.'''
+Location: Second series of Frank's clues in the investigation puzzle.
+Max's comments: Okay, Max, remember these names and see how Nathan fits in with all this.
+|style"height:186px; vertical-align:top"|Look# [File:note4-invF2-acbookdecrypt.png](220px.md)
+|-|Read[File:note4-invF2-acbookdecrypt2.png](220px.md)
+|-
+|'''Page #1 from Frank's account book.'''
+Location: Second series of Frank's clues in the investigation puzzle.
+Max's comments: Frank sure is keeping his customers satisfied. He could open a store.
+|style# "height:186px; vertical-align:top"|Look[File:note4-invF2-clientpageone.png](220px.md)
+|-|Read# [File:note4-invF2-clientpageone2.png](220px.md)
+|-
+|'''Page #2 from Frank's account book.'''
+Location: Second series of Frank's clues in the investigation puzzle.
+Max's comments: Hmmm, two deals with Nathan on the same day... "Party supplies" no doubt.
+|style"height:186px; vertical-align:top"|Look# [File:note4-invF2-clientpagetwo.png](220px.md)
+|-|Read[File:note4-invF2-clientpagetwo2.png](220px.md)
+|-
+|'''Page #3 from Frank's account book.'''
+Location: Second series of Frank's clues in the investigation puzzle.
+Max's comments: Everybody in Arcadia Bay must be high. That explains a lot.
+|style# "height:186px; vertical-align:top"|Look[File:note4-invF2-clientpagethree.png](220px.md)
+|-|Read# [File:note4-invF2-clientpagethree2.png](220px.md)
+|-
+|'''Page #4 from Frank's account book.'''
+Location: Second series of Frank's clues in the investigation puzzle.
+Max's comments: I'm getting a contact high just reading this.
+|style"height:186px; vertical-align:top"|Look# [File:note4-invF2-clientpagefour.png](220px.md)
+|-|Read[File:note4-invF2-clientpagefour2.png](220px.md)
+|-
+|'''Page #5 from Frank's account book.'''
+Location: Second series of Frank's clues in the investigation puzzle.
+Max's comments: If Frank applied this kind of detail to his life... Who am I to talk?
+|style# "height:186px; 
+
+Generate five trivia questions relevant to this section of the page.

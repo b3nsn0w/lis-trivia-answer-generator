@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Name Of Chuck Pierce Jr.'s Program?",
+    "answer": "B",
+    "choices": {
+      "A": "Bigfoot Adventure",
+      "B": "Sasquatch Expedition",
+      "C": "Wild Woods Exploration",
+      "D": "Cryptozoology Tour"
+    }
+  },
+  {
+    "question": "What Can Clients Expect To Do At The End Of The Sasquatch Field Trip?",
+    "answer": "B",
+    "choices": {
+      "A": "Take A Photo With Bigfoot",
+      "B": "Hunt For Bigfoot's Footprints",
+      "C": "Watch A Documentary About Bigfoot",
+      "D": "Learn About Bigfoot's Lore And Legend"
+    }
+  },
+  {
+    "question": "Where Can Clients Find The Brochure For Chuck Pierce Jr.'s Program?",
+    "answer": "B",
+    "choices": {
+      "A": "At The Sasquatch Museum",
+      "B": "At The Two Whales Diner",
+      "C": "At The Arcadia Bay Visitor Center",
+      "D": "At The Wild Tracks Office"
+    }
+  },
+  {
+    "question": "What Is The Name Of Chuck Pierce Jr.'s Documentary?",
+    "answer": "C",
+    "choices": {
+      "A": "Bigfoot: Myth Or Science?",
+      "B": "Bigfoot: Monster Or Sasquatch?",
+      "C": "Bigfoot: I Believe In You",
+      "D": "Bigfoot: The Legend Lives On"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What Happens If Max Blames David For The Weed And Reports Nathan?",
+    "answer": "A",
+    "choices": {
+      "A": "Max Can Be Suspended In The Principal's Office",
+      "B": "Chloe Will Be Very Happy With Max",
+      "C": "Joyce Will Bring Up The Matter As Proof That Max Isn't A Good Influence On Chloe",
+      "D": "David Will Reply To Anderson Berry With An E-mail Mentioning Chloe Having Weed"
+    }
+  },
+  {
+    "question": "What Does Alyssa Do If Max Warns Her About The Toilet Paper?",
+    "answer": "A",
+    "choices": {
+      "A": "She Reads A Robert Frost Quote",
+      "B": "She Ignores Max",
+      "C": "She Talks About Warren And Max's Favorite Movie",
+      "D": "She Throws The Toilet Paper Back At Max"
+    }
+  },
+  {
+    "question": "What Does Joyce Bring Up Before The Argument With David?",
+    "answer": "A",
+    "choices": {
+      "A": "The Weed",
+      "B": "The Gun",
+      "C": "The Polarized Timeline",
+      "D": "The Missing Persons Posters"
+    }
+  }
+]

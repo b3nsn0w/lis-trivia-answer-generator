@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is Written On The Leaflet That Max Can Look At In The Madsen Household?",
+    "answer": "C",
+    "choices": {
+      "A": "The End is Near",
+      "B": "The End is Here",
+      "C": "The End is Now",
+      "D": "The End is Coming"
+    }
+  },
+  {
+    "question": "What Does Max Find In David's Hotel Room If She Sides With Chloe?",
+    "answer": "A",
+    "choices": {
+      "A": "A Piece Of Paper With David's Hotel Room Number On It",
+      "B": "A Crumpled-Up Photo Of Joyce And David's Wedding",
+      "C": "A Bill From An Expensive Restaurant",
+      "D": "A Note For David By Joyce On The Refrigerator"
+    }
+  },
+  {
+    "question": "What Does Max Find In The Living Room If She Sides With David?",
+    "answer": "C",
+    "choices": {
+      "A": "A Piece Of Paper With David's Hotel Room Number On It",
+      "B": "A Crumpled-Up Photo Of Joyce And David's Wedding",
+      "C": "A Bill From An Expensive Restaurant",
+      "D": "A Note For David By Joyce On The Refrigerator"
+    }
+  },
+  {
+    "question": "What Does Max Find In The Backyard If She Sides With Chloe?",
+    "answer": "A",
+    "choices": {
+      "A": "Several Dead Birds",
+      "B": "Unpainted Exterior Of The House",
+      "C": "A Crumpled-Up Photo Of Joyce And David's Wedding",
+      "D": "A Piece Of Paper With David's Hotel Room Number On It"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Who is Dayeanne Hutton and what character did she voice in Life is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "A Twitch streamer who played Life is Strange",
+      "B": "A voice actor who played Max Caulfield",
+      "C": "A voice actor who played Kate Marsh",
+      "D": "A YouTube content creator who played Life is Strange"
+    }
+  },
+  {
+    "question": "Who were the special guests in Dayeanne Hutton's live stream for Episode 5 of Life is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "Tony Noto and Derek Phillips",
+      "B": "Hannah Telle and Tony Noto",
+      "C": "Hannah Telle and Derek Phillips",
+      "D": "Ashly Burch and Hannah Telle"
+    }
+  },
+  {
+    "question": "What was the duration of Dayeanne Hutton's live stream for Episode 5 of Life is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "2 hrs 30 mins",
+      "B": "3 hrs 45 mins",
+      "C": "4 hrs 26 mins",
+      "D": "5 hrs 10 mins"
+    }
+  }
+]

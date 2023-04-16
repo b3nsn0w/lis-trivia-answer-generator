@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Chloe Dare Max To Do Before Leaving For Breakfast?",
+    "answer": "B",
+    "choices": {
+      "A": "Sing A Song",
+      "B": "Kiss Her",
+      "C": "Wear Rachel's Clothes",
+      "D": "Dye Her Hair"
+    }
+  },
+  {
+    "question": "What Does Max Have To Search For In The Kitchen To Help Joyce Prepare Breakfast?",
+    "answer": "A",
+    "choices": {
+      "A": "Eggs, Bacon, And Milk",
+      "B": "Cereal, Bread, And Juice",
+      "C": "Pancake Mix, Syrup, And Butter",
+      "D": "Coffee, Sugar, And Creamer"
+    }
+  },
+  {
+    "question": "What Does Max Discover In David's Garage?",
+    "answer": "A",
+    "choices": {
+      "A": "Files On Rachel, Kate, And Herself",
+      "B": "A Locked Safe",
+      "C": "A Secret Room",
+      "D": "A Hidden Camera"
+    }
+  },
+  {
+    "question": "What Does Max Find In Frank's RV?",
+    "answer": "C",
+    "choices": {
+      "A": "A Gun",
+      "B": "A Knife",
+      "C": "A Photo Of Rachel",
+      "D": "A Stolen Car"
+    }
+  },
+  {
+    "question": "What Happens To Chloe After Max Shows Her The Proof Of Rachel And Frank's Relationship?",
+    "answer": "A",
+    "choices": {
+      "A": "She Throws Frank's Keys Onto The Roof",
+      "B": "She Apologizes To Max",
+      "C": "She Drives Max Back To Blackwell",
+      "D": "She Cries Tears Of Joy"
+    }
+  }
+]

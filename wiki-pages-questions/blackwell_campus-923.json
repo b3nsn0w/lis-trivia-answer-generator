@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who founded Blackwell Academy?",
+    "answer": "C",
+    "choices": {
+      "A": "Max Caulfield",
+      "B": "Nathan Prescott",
+      "C": "Jeremiah Blackwell",
+      "D": "Victoria Chase"
+    }
+  },
+  {
+    "question": "What is in the middle of the Blackwell Campus?",
+    "answer": "A",
+    "choices": {
+      "A": "A fountain",
+      "B": "A statue of Max Caulfield",
+      "C": "A garden",
+      "D": "A swimming pool"
+    }
+  },
+  {
+    "question": "In which episode does Max first explore the Blackwell Campus?",
+    "answer": "A",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "In which episode does Max awaken on the Blackwell Campus surrounded by Vortex Club members?",
+    "answer": "C",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  }
+]

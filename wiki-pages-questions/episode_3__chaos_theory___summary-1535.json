@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Discover In David's Computer?",
+    "answer": "A",
+    "choices": {
+      "A": "Files On Rachel, Kate, And Herself",
+      "B": "Files On Nathan, Victoria, And Warren",
+      "C": "Files On Jefferson, Wells, And Samuel",
+      "D": "Files On Frank, Pompidou, And Anderson Berry"
+    }
+  },
+  {
+    "question": "What Does Max Suggest To Chloe After Telling Her About Rachel And Frank?",
+    "answer": "A",
+    "choices": {
+      "A": "They Break Into Frank's RV",
+      "B": "They Tell The Police",
+      "C": "They Confront Rachel",
+      "D": "They Ignore It"
+    }
+  },
+  {
+    "question": "What Does Max Do To Get Frank's Keys?",
+    "answer": "D",
+    "choices": {
+      "A": "Tells Him She Needs Them For A Test Drive",
+      "B": "Spills Soda On Him",
+      "C": "Steals Them From His Pocket",
+      "D": "Uses Information About His Dog And Rachel To Trick Him"
+    }
+  },
+  {
+    "question": "What Does Max Find In Frank's RV?",
+    "answer": "C",
+    "choices": {
+      "A": "A Gun",
+      "B": "A Knife",
+      "C": "A Photograph",
+      "D": "A Map"
+    }
+  },
+  {
+    "question": "What Happens To William In The Altered Timeline?",
+    "answer": "B",
+    "choices": {
+      "A": "He Dies In A Car Accident",
+      "B": "He Spends Time With His Family",
+      "C": "He Leaves Chloe And Joyce",
+      "D": "He Becomes A Police Officer"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What was the name of Rachel Amber in an early stage of the game's development?",
+    "answer": "A",
+    "choices": {
+      "A": "Jessie",
+      "B": "Hayley",
+      "C": "Alyssa",
+      "D": "Brooke"
+    }
+  },
+  {
+    "question": "In an early stage of development, what was the name of Brooke Scott?",
+    "answer": "B",
+    "choices": {
+      "A": "Jessie",
+      "B": "Hayley",
+      "C": "Alyssa",
+      "D": "Brooke"
+    }
+  },
+  {
+    "question": "What was the ethnicity/skin color of Principal Wells in an early stage of development?",
+    "answer": "A",
+    "choices": {
+      "A": "White",
+      "B": "Black",
+      "C": "Asian",
+      "D": "Hispanic"
+    }
+  },
+  {
+    "question": "What was the original design of Chloe Price's tattoo sleeve and vest?",
+    "answer": "A",
+    "choices": {
+      "A": "Rainbow on the sleeve and a skull on the vest",
+      "B": "A butterfly on the sleeve and a flower on the vest",
+      "C": "A dragon on the sleeve and a heart on the vest",
+      "D": "A star on the sleeve and a moon on the vest"
+    }
+  },
+  {
+    "question": "What was the name of the user who leaked plot points after the release of Episode 1: Chrysalis?",
+    "answer": "A",
+    "choices": {
+      "A": "kcbeliever",
+      "B": "sarah is strange",
+      "C": "Toby Palm",
+      "D": "Edouard Caplain"
+    }
+  }
+]

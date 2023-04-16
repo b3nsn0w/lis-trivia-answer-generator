@@ -1,0 +1,70 @@
+= Truck Driver =
+
+{{Introquote|Time is money for a guy like me.|Truck Driver to [[Maxine Caulfield|Max]] in "[[Episode 3: Chaos Theory|Chaos Theory]]"}}
+{{Infobox Character
+|name         = Truck Driver
+|image        = TruckDriver.png
+|gender       = Male
+|hair         = Blonde
+|eyes         = Brown
+|friends      = [[Maxine Caulfield|Max Caulfield]] <small>(determinant)</small> 
+|profession   = Truck Driver
+|affiliation  = [[Arcadia Bay]]
+|appearance   = '''Life is Strange:'''<br>"[[Episode 2: Out of Time]]"<br />"[[Episode 3: Chaos Theory]]"<br />"[[Episode 5: Polarized]]"
+'''Before the Storm:'''<br>"[[Episode 1: Awake]]"
+|voice        = [[Don McManus]] <small>(uncredited)</small> 
+|died         = October 11, 2013 <small>(determinant)</small>
+|causeofdeath = Killed by the [[Storm|storm]] <small>(determinant)</small>}}
+
+The '''Truck Driver''' is a resident of [[Arcadia Bay]] who often visits the [[Two Whales Diner]]. An original character of ''[[Life is Strange]]'', he makes a brief reappearance in the prequel ''[[Life is Strange: Before the Storm]]''.
+
+== Episode Two - "[[Episode 2: Out of Time|Out of Time]]" ==
+The Truck Driver can be seen eating at the Two Whales Diner. If [[Maxine Caulfield|Max Caulfield]] attempts to speak with him, he will complain that she is in his eyesight. If Max responds that everything is in his eyesight he will compare her unfavorably to [[Joyce Price]], suggesting that they both have the same sense of humor. If Max apologizes, he will forgive her and tell her that he's keeping an eye on his truck.
+
+While Max is having breakfast with [[Chloe Price]], the truck driver will grumble about the music Chloe chose on the jukebox and the lack of beer being served at the diner. When Chloe is testing Max's [[Rewind|rewind powers]], Max will observe the truck driver accidentally drop and break his mug and Joyce will not be giving him any refills.
+
+== Episode Three - "[[Episode 3: Chaos Theory|Chaos Theory]]" ==
+Max can talk to the Truck Driver outside of the Two Whales Diner and discover that he knew [[Rachel Amber]]. He reveals that she once asked him to give her a ride out of the city, but didn't care about his truck. If Max rewinds time, she can mention his truck's model and the fact that Rachel Amber spoke highly of his truck, which will prompt him to allow her to take a picture of it and a possible interview in future.
+
+<tabber>Destroyed the train tracks=<h5 style="display:none">Destroyed the train tracks</h5>If Max destroyed the train rails instead of switching the lever on the previous day, he will remark on how the destruction of the track inconvenienced him.
+|-|Didn't destroy the train tracks=<h5 style="display:none">Didn't destroy the train tracks</h5>If Max switched the lever and kept the train rails intact on the previous day, he will remark on available work in Arcadia Bay drying up.</tabber>
+
+== Episode Five - "[[Episode 5: Polarized|Polarized]]" ==
+Near the end of Episode 5, Max can choose to rescue the truck driver from his truck during the [[Storm|storm]]. He will offer Max a ride out of the city in his truck, but she tells him that she has to stay and help more people.
+
+He later appears in [[Max's Nightmare|Max's nightmare]], and his lines depend on whether Max saved him or not in Episode 5.
+
+He is presumed to have died in the Sacrifice Arcadia Bay ending, but it is possible that he may have survived since he was planning to leave town but it is unknown if he made it out in time.
+
+== Before the Storm ==
+=== Episode One - "[[Episode 1: Awake|Awake]]" ===
+The Truck Driver can be seen standing near presumably his truck in front of the [[Old Mill|old mill]]. If [[Chloe Price (Before the Storm)|Chloe Price]] releases the brakes on the [[T-Shirt Vendor]]'s car, he and the Truck Driver argue, as the vendor probably blames him for what happened to his car.
+
+==Gallery==
+<gallery widths="200px" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+TruckDriverEP2.png|The Truck Driver eating in the Two Whales Diner in "Out of Time"
+Truck.png|The Truck Driver's Truck in "Chaos Theory"
+truckdriver-trapped.png|The Truck Driver trapped in debris in "Polarized"
+truckdriver-nightmare.jpg|The truck driver in Max's nightmare
+</gallery>
+
+{{Character Navbox}}
+
+[[es:Conductor de camión]]
+[[ru:Водитель грузовика]]
+[[Category:Characters]]
+[[Category:Characters (Life is Strange)]]
+[[Category:Characters (Before the Storm)]]
+[[Category:Male Characters]]
+[[Category:Minor Characters]]
+[[Category:Episode 2: Out of Time Characters]]
+[[Category:Episode 3: Chaos Theory Characters]]
+[[Category:Episode 5: Polarized Characters]]
+[[Category:Determinant]]
+[[Category:Two Whales Diner]]
+[[Category:Episode 1: Awake Characters]]
+[[Category:Male Characters (Before the Storm)]]
+[[Category:Minor Characters (Before the Storm)]]
+[[Category:Male Characters (Life is Strange)]]
+[[Category:Minor Characters (Life is Strange)]]
+[[Category:Life is Strange]]

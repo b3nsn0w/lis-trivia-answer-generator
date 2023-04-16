@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Title Of The Second Episode Of Life Is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "Chrysalis",
+      "B": "Out of Time",
+      "C": "Chaos Theory",
+      "D": "Polarized"
+    }
+  },
+  {
+    "question": "What Is The Name Of Kate Marsh's Rabbit?",
+    "answer": "A",
+    "choices": {
+      "A": "Alice",
+      "B": "Pompidou",
+      "C": "R.J. MacReady",
+      "D": "Lynn Marsh"
+    }
+  },
+  {
+    "question": "Who Tries To Deal With The Public Shame Over A Viral Video That Was Leaked?",
+    "answer": "D",
+    "choices": {
+      "A": "Maxine Caulfield",
+      "B": "Chloe Price",
+      "C": "Victoria Chase",
+      "D": "Kate Marsh"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Fisherman In The Diner Parking Lot?",
+    "answer": "A",
+    "choices": {
+      "A": "R.J. MacReady",
+      "B": "Frank Bowers",
+      "C": "Diner Fisherman",
+      "D": "Truck Driver"
+    }
+  },
+  {
+    "question": "Who Is The Director Of Episode 2: Out of Time?",
+    "answer": "C",
+    "choices": {
+      "A": "Jean-Luc Cano",
+      "B": "Christian Divine",
+      "C": "Raoul Barbet",
+      "D": "Michel Koch"
+    }
+  }
+]

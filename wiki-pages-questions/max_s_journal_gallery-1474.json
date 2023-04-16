@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What Is The Name Of The Reddit User Who Created The PDF Of Max's Diary?",
+    "answer": "A",
+    "choices": {
+      "A": "/u/Nichotal",
+      "B": "/u/MaxDiary",
+      "C": "/u/JournalMaster",
+      "D": "/u/DiaryEntries"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Episode Where Max's Journal Gallery Contains The Most Screenshots?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 5: Polarized"
+    }
+  }
+]

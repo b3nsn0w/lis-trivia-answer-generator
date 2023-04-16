@@ -1,0 +1,26 @@
+Here is a section of the wiki page for Optional Photos:
+
+## Trivia 
+*The "Meter Made" achievement could be a reference to the Beatles song "[https://www.youtube.com/watch?v# j_AQZf-Q6XM Lovely Rita]". This is likely due to the other [References (Life is Strange)](references.md) made by Warren associated with the band.
+*In the [Alternative Timeline (Life is Strange)](alternative_timeline.md), Max leaves her camera bag on the [Blackwell Campus](blackwell_campus.md) floor. This is probably the reason why she doesn't take any pictures in this timeline.
+*At the end of the game, Max will still have the photos she took during the game because she keeps any object in her inventory even if she rewinds.
+*While playing in "Collectible Mode" the player can collect all the photos several times, except for the last one during Max's nightmare. After the photo is taken once, the bottles break and can never be collected or posed for the shot again.
+
+ movie. Taking this photo awards the "Compressed" achievement.  || [File:Compressed_Achievement.PNG](centre.md)
+|-
+| [File:LIS-Optional6-E2.jpg](220px.md) || The bus directly behind you in the [American Rust Junkyard](junkyard.md) as you talk to Chloe is the next shot. You'll need to approach it from this angle. Taking this photo awards the "Pixelated" achievement. || [File:Pixelated_Achievement.PNG](centre.md)
+|-
+| [File:LIS-Optional7-E2.jpg](220px.md) || This [doe](doe.md) is a vision; so catch it quickly! No amount of rewind will bring it back. You'll need to snap the shot before the oncoming train scares it away. Taking this photo awards the "Dynamic Range" achievement.  || [File:Dynamic_Range_Achievement.PNG](centre.md)
+|-
+| [File:LIS-Optional8-E2.jpg](220px.md) || Move to Chloe's side to take this next photo. Taking this photo awards the "Colorized" achievement.  || [File:Colorized_Achievement.PNG](centre.md)
+|-
+| [File:LIS-Optional9-E2.jpg](220px.md) || Help [Warren Graham](warren.md) with his chemistry experiment in order to take a picture of his apparatus. Taking this photo awards the "Meter Made" achievement. || [File:Meter_Made_Achievement.PNG](centre.md)
+|-
+| [File:LIS-Optional10-E2.jpg](220px.md) || The last picture is of [Alyssa](alyssa.md) in Jefferson's classroom, staring into the distance. Taking this photo awards the "Resolution Revolution" achievement. || [File:Resolution_Revolution_Achievement.PNG](centre.md)
+|-
+| [File:LiS-OptionalPhotos-E2.jpg](220px.md) || Taking all the photographs in this episode awards the "Lab Master" achievement. || [File:Lab_Master_Achievement.PNG](centre.md)
+|}
+
+
+
+Generate five trivia questions relevant to this section of the page.

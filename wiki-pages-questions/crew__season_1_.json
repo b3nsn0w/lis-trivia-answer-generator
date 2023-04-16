@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who is listed as the Art Director for Life is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Michel Koch",
+      "B": "Gary Jamroz-Palma",
+      "C": "Edouard Caplain",
+      "D": "Alyzian"
+    }
+  },
+  {
+    "question": "Who is listed as the Lead Designer for Life is Strange?",
+    "answer": "D",
+    "choices": {
+      "A": "Michel Koch",
+      "B": "Raoul Barbet",
+      "C": "Luc Baghadoust",
+      "D": "Baptiste Moison"
+    }
+  },
+  {
+    "question": "Who is listed as the Narrative Producer for Life is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "Michel Koch",
+      "B": "Raoul Barbet",
+      "C": "Gladys Deussner",
+      "D": "Nicolas Simon"
+    }
+  },
+  {
+    "question": "Who is listed as the Writer for Life is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "Michel Koch",
+      "B": "Raoul Barbet",
+      "C": "Christian Divine",
+      "D": "Jean-Luc Cano"
+    }
+  },
+  {
+    "question": "Who is listed as the Music Composer for Life is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "Michel Koch",
+      "B": "Raoul Barbet",
+      "C": "Jonathan Morali",
+      "D": "Luc Baghadoust"
+    }
+  }
+]

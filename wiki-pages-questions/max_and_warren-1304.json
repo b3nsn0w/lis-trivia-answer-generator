@@ -1,0 +1,52 @@
+[
+  {
+    "question": "How Does Max Obtain The Ingredients To Build A Pipe Bomb?",
+    "answer": "C",
+    "choices": {
+      "A": "She Buys Them From A Store",
+      "B": "She Steals Them From The Principal's Office",
+      "C": "She Retrieves Them From The Science And Art Labs",
+      "D": "She Asks Warren To Bring Them To Her"
+    }
+  },
+  {
+    "question": "What Does Max Write On Warren's Dorm Room Slate?",
+    "answer": "B",
+    "choices": {
+      "A": "A Love Letter",
+      "B": "A Chemistry Joke",
+      "C": "A Warning About Nathan",
+      "D": "A Drawing Of Chloe"
+    }
+  },
+  {
+    "question": "What Does Kate Think Of Warren?",
+    "answer": "B",
+    "choices": {
+      "A": "She Thinks He Is A Jerk",
+      "B": "She Thinks He Is A Good-Hearted Person",
+      "C": "She Thinks He Is Dangerous",
+      "D": "She Doesn't Know Who He Is"
+    }
+  },
+  {
+    "question": "What Does Warren Say After Headbutting Nathan?",
+    "answer": "A",
+    "choices": {
+      "A": "\"I'm Feeling Pretty Alpha Now\"",
+      "B": "\"I'm Sorry, I Shouldn't Have Done That\"",
+      "C": "\"I Hope Max Is Okay\"",
+      "D": "\"I Need To Leave Town\""
+    }
+  },
+  {
+    "question": "How Does Max Feel About Warren After The End Of The World Party?",
+    "answer": "A",
+    "choices": {
+      "A": "She Feels Sad And Cares About Him",
+      "B": "She Feels Angry And Disgusted By Him",
+      "C": "She Feels Indifferent And Neutral",
+      "D": "She Feels Happy And Excited To See Him"
+    }
+  }
+]

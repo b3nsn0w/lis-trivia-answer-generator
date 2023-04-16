@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Who is Lynn Marsh?",
+    "answer": "B",
+    "choices": {
+      "A": "Kate's Mother",
+      "B": "Kate's Sister",
+      "C": "Kate's Aunt",
+      "D": "Kate's Cousin"
+    }
+  },
+  {
+    "question": "In which episode is Lynn Marsh mentioned for the first time?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "In which location is Lynn Marsh mentioned as a possible victim of the Dark Room?",
+    "answer": "B",
+    "choices": {
+      "A": "Prescott Dormitory",
+      "B": "Blackwell Academy",
+      "C": "Kate's Room",
+      "D": "Hospital"
+    }
+  }
+]

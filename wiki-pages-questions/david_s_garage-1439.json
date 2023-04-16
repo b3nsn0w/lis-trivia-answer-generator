@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is David's Occupation At Blackwell Academy?",
+    "answer": "B",
+    "choices": {
+      "A": "Teacher",
+      "B": "Head Of Security",
+      "C": "Janitor",
+      "D": "Principal"
+    }
+  },
+  {
+    "question": "What Does Max Find Missing From David's Gun Rack?",
+    "answer": "C",
+    "choices": {
+      "A": "A Pistol",
+      "B": "A Shotgun",
+      "C": "A Rifle",
+      "D": "A Grenade"
+    }
+  },
+  {
+    "question": "What Is The Password That Max Successfully Uses To Hack Into David's Laptop?",
+    "answer": "A",
+    "choices": {
+      "A": "Stepdouche",
+      "B": "Chloe",
+      "C": "David",
+      "D": "Surveillance"
+    }
+  },
+  {
+    "question": "What Item Does Max Consider Using As A Password For David's Laptop?",
+    "answer": "D",
+    "choices": {
+      "A": "A Birthday Card",
+      "B": "A Videotape",
+      "C": "A Knife",
+      "D": "A Nameplate"
+    }
+  },
+  {
+    "question": "What Is Written On The Two Whales Receipt That Max Finds?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Let's Get Married\"",
+      "B": "\"Congratulations On Your Wedding\"",
+      "C": "\"Happy Anniversary\"",
+      "D": "\"Date Night\""
+    }
+  }
+]

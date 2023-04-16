@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Where Is The Photo Of Young Chloe Located?",
+    "answer": "A",
+    "choices": {
+      "A": "Near The Bed In Joyce And William's Room",
+      "B": "In Max's Room",
+      "C": "In The Living Room",
+      "D": "In The Garage"
+    }
+  },
+  {
+    "question": "What Is The Title Of The Book By Dr. Bill Found In William's Nightstand Drawer?",
+    "answer": "A",
+    "choices": {
+      "A": "Superdad",
+      "B": "Supermom",
+      "C": "Parenting 101",
+      "D": "The Art Of Raising Children"
+    }
+  },
+  {
+    "question": "Where Is The \"Supermom\" Book By Dr. Bill Located?",
+    "answer": "A",
+    "choices": {
+      "A": "In Joyce's Nightstand Drawer In Joyce And William's Room",
+      "B": "In Max's Room",
+      "C": "In The Living Room",
+      "D": "In The Garage"
+    }
+  },
+  {
+    "question": "What Are Max's Comments About William In Regards To The \"Superdad\" Book?",
+    "answer": "A",
+    "choices": {
+      "A": "\"William Is Trying So Hard. He's Still Awesome.\"",
+      "B": "\"William Needs To Step Up His Parenting Game.\"",
+      "C": "\"William Is A Terrible Father.\"",
+      "D": "\"William Should Read The 'Supermom' Book Instead.\""
+    }
+  }
+]

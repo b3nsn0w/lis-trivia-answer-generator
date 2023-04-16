@@ -1,0 +1,32 @@
+[
+  {
+    "question": "In Which Episode Does Max Wake Up In A San Francisco Art Gallery?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1",
+      "B": "Episode 2",
+      "C": "Episode 3",
+      "D": "Episode 5"
+    }
+  },
+  {
+    "question": "What Is Lorem Ipsum?",
+    "answer": "C",
+    "choices": {
+      "A": "A Character In Life Is Strange",
+      "B": "A Type Of Food Served At Two Whales Diner",
+      "C": "A Filler Text Used In Printing And Typesetting",
+      "D": "A Place In San Francisco Visited By Max"
+    }
+  },
+  {
+    "question": "What Does Alternative Chloe Say Before She Disappears In Max's Nightmare?",
+    "answer": "A",
+    "choices": {
+      "A": "Life Is... So Not Fair",
+      "B": "Life Is... Strange",
+      "C": "Life Is... Beautiful",
+      "D": "Life Is... Unpredictable"
+    }
+  }
+]

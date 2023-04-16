@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Lorem Ipsum And Where Can It Be Found In Life Is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "A Type Of Coffee, In The Vortex Club",
+      "B": "A Type Of Flower, In Chloe's Backyard",
+      "C": "A Type Of Filler Text, In Max's Journal",
+      "D": "A Type Of Graffiti, In The Abandoned Mill"
+    }
+  },
+  {
+    "question": "Who Makes An Appearance In \"Polarized\" And Criticizes The Pictures In The Zeitgeist Gallery?",
+    "answer": "A",
+    "choices": {
+      "A": "Michel Koch",
+      "B": "Mark Jefferson",
+      "C": "Rachel Amber",
+      "D": "Chloe Price"
+    }
+  },
+  {
+    "question": "What Is Written On Max's T-Shirt When She Goes Back In Time To The Day William Price Died?",
+    "answer": "C",
+    "choices": {
+      "A": "\"Life Is Strange\"",
+      "B": "\"No Regrets\"",
+      "C": "\"No Fucks Given\"",
+      "D": "\"Chaos Theory\""
+    }
+  },
+  {
+    "question": "What Can Be Heard Normally In The Reversed Blackwell Academy Sequence Of Max's Nightmare?",
+    "answer": "A",
+    "choices": {
+      "A": "Samuel Taylor's Voice",
+      "B": "Chloe Price's Voice",
+      "C": "Nathan Prescott's Voice",
+      "D": "Victoria Chase's Voice"
+    }
+  },
+  {
+    "question": "Whose Signature Is Present On Max's Pencil Case In The Photography Lab?",
+    "answer": "B",
+    "choices": {
+      "A": "Michel Koch's",
+      "B": "Raoul Barbet's",
+      "C": "Mark Jefferson's",
+      "D": "Chris Eriksen's"
+    }
+  }
+]

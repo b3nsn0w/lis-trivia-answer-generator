@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Why did Max ask Stella if she had seen Nathan?",
+    "answer": "B",
+    "choices": {
+      "A": "To warn her about him",
+      "B": "To ask for his location",
+      "C": "To find out if he was at the party",
+      "D": "To ask if he had done anything suspicious"
+    }
+  },
+  {
+    "question": "Who hired Stella to work at the Vortex Club party?",
+    "answer": "B",
+    "choices": {
+      "A": "Nathan",
+      "B": "Mr. Jefferson",
+      "C": "Principal Wells",
+      "D": "Victoria"
+    }
+  },
+  {
+    "question": "What does Stella think about the Vortex Club's attitude towards Kate Marsh?",
+    "answer": "B",
+    "choices": {
+      "A": "They are supportive of her",
+      "B": "They don't care about her",
+      "C": "They are actively trying to help her",
+      "D": "They are spreading rumors about her"
+    }
+  },
+  {
+    "question": "Why did Daniel come to the party?",
+    "answer": "B",
+    "choices": {
+      "A": "To hang out with Brooke",
+      "B": "To see Max",
+      "C": "To find Nathan",
+      "D": "To party"
+    }
+  },
+  {
+    "question": "What does Max say is the reason for her serious expression?",
+    "answer": "A",
+    "choices": {
+      "A": "Blackwell drama",
+      "B": "Her mission to find Nathan",
+      "C": "Her date with Warren",
+      "D": "Her concern for Rachel"
+    }
+  }
+]

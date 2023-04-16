@@ -1,0 +1,87 @@
+Here is a section of the wiki page for Max's Notes:
+
+[File:note4-altgarage-skatemagazine2.png](220px.md)
+|-
+|**Framed photo of Chloe and William.**
+Location: On top of a dresser in the garage.
+Max's comments: I'm glad I took this photo. Chloe has a new memory of William and her together.
+Notes: Appears only if Max took the photo in 2008.
+|style"height:186px; vertical-align:top"|Look# [File:note4-altgarage-newmemory.png](220px.md)
+|-|ReadNone
+|-
+|**Medical bills.**
+Location: Living room of the [Alternative Price Household](price_household.md).
+Max's comments: Damn, this is just for Chloe’s basic supplies…
+|style# "height:186px; vertical-align:top"|Look[File:note4-pricehouse-chloebills.png](220px.md)
+|-|Read# [File:note4-pricehouse-chloebills2.png](220px.md)
+|-
+|**Garage sale flyer.**
+Location: Near the front door of the Price Household.
+Max's comments: Joyce and William never had a garage sale before…
+|style"height:186px; vertical-align:top"|Look# [File:note4-pricehouse-garagesale.png](220px.md)
+|-|Read[File:note4-pricehouse-garagesale2.png](220px.md)
+|-
+|**Mail from credit card services.**
+Location: Near the front door of the Price Household.
+Max's comments: They're drowning in debt... just to take care of their daughter. Such bullshit.
+|style# "height:186px; vertical-align:top"|Look[File:note4-pricehouse-creditmail.png](220px.md)
+|-|Read# [File:note4-pricehouse-creditmail2.png](220px.md)
+|-
+|**Mail from rehabilitation center.**
+Location: Near the front door of the Price Household .
+Max's comments: None
+|style"height:186px; vertical-align:top"|Look# [File:note4-pricehouse-insurancemail.png](220px.md)
+|-|Read[File:note4-pricehouse-insurancemail2.png](220px.md)
+|-
+|**Letter from loan services to William.**
+Location: Table in the living room.
+Max's comments: They might get their own home taken away because of medical bills... That’s terrible.
+|style# "height:186px; vertical-align:top"|Look[File:note4-pricehouse-loanletter.png](220px.md)
+|-|Read# [File:note4-pricehouse-loanletter2.png](220px.md)
+|-
+|**Article about the beached whales.**
+Location: Table in the living room.
+Max's comments: These whales are just a preview of the tornado to come... and the Prescott Foundation? Jesus.
+|style"height:186px; vertical-align:top"|Look# [File:note4-pricehouse-whales.png](220px.md)
+|-|Read[File:note4-pricehouse-whales2.png](220px.md)
+|-
+|**Article about Rachel.**
+Location: Table in the living room.
+Max's comments: Rachel Amber is even missing in this reality... I guess I can't change everything.
+|style# "height:186px; vertical-align:top"|Look[File:note4-pricehouse-rachel.png](220px.md)
+|-|Read# [File:note4-pricehouse-rachel2.png](220px.md)
+|-
+|**Food coupons.**
+Location: Kitchen of the Price Household.
+Max's comments: Joyce is a food coupon boss.
+|style"height:186px; vertical-align:top"|Look# [File:note4-pricehouse-foodcoupons.png](220px.md)
+|-|ReadNone
+|-
+|**Letter from [Dorothy](aunt_dorothy.md) to the Price family.**
+Location: [Chloe's Room#Alternate Timeline](chloe_s_room.md) on the second floor of the Price Household.
+Max's comments: Too bad Joyce and William can’t get any help from the Prescott Foundation...
+|style# "height:186px; vertical-align:top"|Look[File:note4-pricehouse-dorothyletter.png](220px.md)
+|-|Read# [File:note4-pricehouse-dorothyletter2.png](220px.md)
+|-
+|**Letter from [Aaron Price](aaron_price.md) to William.**
+Location: Chloe's room on the second floor of the Price Household.
+Max's comments: I never heard much about William's brother.
+|style"height:186px; vertical-align:top"|Look# [File:note4-pricehouse-aaronletter.png](220px.md)
+|-|Read[File:note4-pricehouse-aaronletter2.png](220px.md)
+|-
+|**Blue butterfly poster.**
+Location: Chloe's room on the second floor of the Price Household.
+Max's comments: A blue butterfly? I'm sure this is a total coincidence...
+|style# "height:186px; vertical-align:top"|Look[File:note4-pricehouse-butterfly.png](220px.md)
+|-|Read# None
+|-
+|**Letter from Arcadia Bay Spinal Center to the Prices.**
+Location: [Joyce and David's Room#Alternate Timeline](joyce_and_william_s_room.md) on the second floor.
+Max's comments: Oh no... I didn't realize how bad Chloe's injury really was...
+|style"height:186px; vertical-align:top"|Look# [File:note4-pricehouse-spinalletter.png](220px.md)
+|-|Read[File:note4-pricehouse-spinalletter2.png](220px.md)
+|-
+|**Framed photo of young Joyce and William.**
+Location: On a dresser in Joyce and William's 
+
+Generate five trivia questions relevant to this section of the page.

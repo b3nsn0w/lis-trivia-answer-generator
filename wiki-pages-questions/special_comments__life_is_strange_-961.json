@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What Does Max Say About Being Back In Art Class?",
+    "answer": "A",
+    "choices": {
+      "A": "\"It's only been a week but it felt like five years.\"",
+      "B": "\"I wish I was waking up from a long dream.\"",
+      "C": "\"Okay Jefferson, here's my fucking photo for the contest.\"",
+      "D": "\"Calm down... Breathe... One change at a time... for good.\""
+    }
+  },
+  {
+    "question": "What Is Max's Objective In Art Class?",
+    "answer": "B",
+    "choices": {
+      "A": "To escape from the Dark Room.",
+      "B": "To give the last photo for the \"Everyday Heroes\" contest.",
+      "C": "To focus on the photograph within a photograph.",
+      "D": "To mess things up."
+    }
+  }
+]

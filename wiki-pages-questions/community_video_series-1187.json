@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Who hosts the official community video series about Life is Strange?",
+    "answer": "D",
+    "choices": {
+      "A": "Michel Koch",
+      "B": "Raoul Barbet",
+      "C": "Jean-Luc Cano",
+      "D": "Lucy Hale"
+    }
+  },
+  {
+    "question": "What is the purpose of the community video series about Life is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "To showcase fan-made content",
+      "B": "To provide news and behind-the-scenes content",
+      "C": "To promote other Square Enix games",
+      "D": "To discuss real-life road trips"
+    }
+  },
+  {
+    "question": "What is the benefit of the episodic nature of Life is Strange 2 for the developers?",
+    "answer": "C",
+    "choices": {
+      "A": "It allows them to release the game faster",
+      "B": "It allows them to make more money",
+      "C": "It allows them to listen to fan feedback and alter the story arc in subsequent episodes",
+      "D": "It allows them to reuse assets from previous episodes"
+    }
+  }
+]

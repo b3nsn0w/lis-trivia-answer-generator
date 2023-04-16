@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Name Of The Seaside Town In Life Is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "Blackwell Academy",
+      "B": "Arcadia Bay",
+      "C": "Vortex Club",
+      "D": "Dark Room"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Episode Where Max Learns To Stop Time?",
+    "answer": "B",
+    "choices": {
+      "A": "Chrysalis",
+      "B": "Out of Time",
+      "C": "Chaos Theory",
+      "D": "Dark Room"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Location Where Rachel Amber Was Held Captive?",
+    "answer": "C",
+    "choices": {
+      "A": "Blackwell Academy",
+      "B": "Vortex Club",
+      "C": "Dark Room",
+      "D": "Chloe's Truck"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Episode Where Max Discovers She Has Another Power?",
+    "answer": "C",
+    "choices": {
+      "A": "Chrysalis",
+      "B": "Out of Time",
+      "C": "Chaos Theory",
+      "D": "Dark Room"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Episode Where Max Is Left With Two Choices?",
+    "answer": "D",
+    "choices": {
+      "A": "Chrysalis",
+      "B": "Out of Time",
+      "C": "Chaos Theory",
+      "D": "Polarized"
+    }
+  }
+]

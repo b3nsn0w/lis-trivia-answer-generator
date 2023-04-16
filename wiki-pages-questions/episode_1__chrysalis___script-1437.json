@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Did Alfred Hitchcock Call Film?",
+    "answer": "A",
+    "choices": {
+      "A": "Little Pieces of Time",
+      "B": "A Work of Art",
+      "C": "A Masterpiece",
+      "D": "A Reflection of Reality"
+    }
+  },
+  {
+    "question": "Who Was The Photographer Mentioned By Victoria?",
+    "answer": "A",
+    "choices": {
+      "A": "Diane Arbus",
+      "B": "Robert Frank",
+      "C": "Salvador Dali",
+      "D": "Louis Daguerre"
+    }
+  },
+  {
+    "question": "What Was The Name Of The Process That Gave Birth To The First Self-Portraits?",
+    "answer": "A",
+    "choices": {
+      "A": "The Daguerreian Process",
+      "B": "The Retro Zone",
+      "C": "The Mirror Effect",
+      "D": "The Reflective Style"
+    }
+  },
+  {
+    "question": "What Was The Name Of The Photo Contest Mentioned By Mr. Jefferson?",
+    "answer": "A",
+    "choices": {
+      "A": "Everyday Heroes Photo Contest",
+      "B": "Art World Photo Contest",
+      "C": "San Francisco Photo Contest",
+      "D": "Photography Career Photo Contest"
+    }
+  },
+  {
+    "question": "Who Was The First American To Take A Daguerreotype Self-Portrait?",
+    "answer": "A",
+    "choices": {
+      "A": "Robert Cornelius",
+      "B": "Louis Daguerre",
+      "C": "Robert Frank",
+      "D": "Salvador Dali"
+    }
+  }
+]

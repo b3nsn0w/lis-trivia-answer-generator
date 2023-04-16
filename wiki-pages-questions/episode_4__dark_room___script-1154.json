@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Does Chloe Say About Max's Letters?",
+    "answer": "C",
+    "choices": {
+      "A": "They Are Boring",
+      "B": "They Are Too Short",
+      "C": "They Are Written On Cool Parchment Paper",
+      "D": "They Are Sentimental"
+    }
+  },
+  {
+    "question": "What Does Chloe Call The Time Of Day When The Sunset Looks Golden?",
+    "answer": "A",
+    "choices": {
+      "A": "The Golden Hour",
+      "B": "The Sunset Hour",
+      "C": "The Golden Moment",
+      "D": "The Magic Hour"
+    }
+  },
+  {
+    "question": "What Happened To Chloe In The Car Accident?",
+    "answer": "C",
+    "choices": {
+      "A": "She Lost Her Memory",
+      "B": "She Broke Her Arm",
+      "C": "She Couldn't Move A Muscle",
+      "D": "She Had A Concussion"
+    }
+  },
+  {
+    "question": "How Does Max Feel About The State Of Arcadia Bay?",
+    "answer": "A",
+    "choices": {
+      "A": "Hopeful",
+      "B": "Fearful",
+      "C": "Indifferent",
+      "D": "Angry"
+    }
+  }
+]

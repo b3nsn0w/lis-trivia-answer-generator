@@ -1,0 +1,18 @@
+Here is a section of the wiki page for Cinematic Screenshots:
+
+#  Cinematic Screenshots 
+
+[File:Rachel_Camera.png](thumb.md)
+This article is a guide to and a collection of **cinematic screenshots** by the community.
+
+## Guide 
+These guide allows you to move the camera freely with WASD and QE for changing the height, which is useful for taking screenshots and exploring areas usually inaccessible in "normal" gameplay.
+
+#
+
+## *[Life is Strange](life_is_strange.md)* 
+# #
+
+
+
+Generate five trivia questions relevant to this section of the page.

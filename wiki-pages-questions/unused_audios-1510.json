@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Was Nathan's Fate Originally Planned To Be In Episode 5?",
+    "answer": "C",
+    "choices": {
+      "A": "He Escapes From The Dark Room",
+      "B": "He Is Rescued By Max",
+      "C": "He Is Found Dead",
+      "D": "He Is Arrested By The Police"
+    }
+  },
+  {
+    "question": "What Was Max's Destination For Her First Gallery Show?",
+    "answer": "B",
+    "choices": {
+      "A": "New York",
+      "B": "San Francisco",
+      "C": "Los Angeles",
+      "D": "Paris"
+    }
+  },
+  {
+    "question": "What Does Max Think About Leaving Warnings To Herself Everywhere?",
+    "answer": "A",
+    "choices": {
+      "A": "She Will End Up Changing Too Much",
+      "B": "She Will End Up Changing Too Little",
+      "C": "She Will End Up Losing Her Mind",
+      "D": "She Will End Up Changing The Wrong Things"
+    }
+  },
+  {
+    "question": "What Did Max Say About Mr. Jefferson's Car?",
+    "answer": "A",
+    "choices": {
+      "A": "It's Almost As Good As A DeLorean",
+      "B": "It's Better Than A DeLorean",
+      "C": "It's Not As Good As A DeLorean",
+      "D": "It's Similar To A DeLorean"
+    }
+  }
+]

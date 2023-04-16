@@ -1,0 +1,52 @@
+[
+  {
+    "question": "How Did Chloe and David First Meet?",
+    "answer": "B",
+    "choices": {
+      "A": "At School",
+      "B": "Through David's Job",
+      "C": "At A Party",
+      "D": "Through Chloe's Father"
+    }
+  },
+  {
+    "question": "How Would You Describe Chloe and David's Relationship?",
+    "answer": "C",
+    "choices": {
+      "A": "Positive",
+      "B": "Neutral",
+      "C": "Negative",
+      "D": "Indifferent"
+    }
+  },
+  {
+    "question": "Who Is Joyce Price In Relation To Chloe and David?",
+    "answer": "C",
+    "choices": {
+      "A": "Chloe's Friend",
+      "B": "David's Sister",
+      "C": "Chloe's Mother",
+      "D": "David's Wife"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Franchise That Features Chloe and David's Relationship?",
+    "answer": "A",
+    "choices": {
+      "A": "Life is Strange",
+      "B": "The Walking Dead",
+      "C": "The Last of Us",
+      "D": "Uncharted"
+    }
+  },
+  {
+    "question": "How Did Chloe and David's Relationship Affect Joyce?",
+    "answer": "C",
+    "choices": {
+      "A": "It Made Her Happy",
+      "B": "It Had No Effect On Her",
+      "C": "It Put A Strain On Her",
+      "D": "It Made Her Angry"
+    }
+  }
+]

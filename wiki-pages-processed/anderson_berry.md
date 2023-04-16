@@ -1,0 +1,64 @@
+#  Anderson Berry 
+
+```yaml
+Character
+
+name: Anderson Berry
+image: Officer Berry.png
+died: October 11, 2013 (determinant)
+causeofdeath: Killed by the [storm](storm.md) (presumed, determinant)
+gender: Male
+hair: Black
+eyes: Brown
+relatives: '[Andy Berry](andy_berry.md) (son)'
+friends: '[David Madsen](david_madsen.md)'
+profession: Police Officer
+affiliation: '[Arcadia Bay Police Department](arcadia_bay_police_department.md)'
+appearance: >-
+  **Life is Strange:**
+
+  [Episode 2: Out of Time](episode_2__out_of_time.md) (determinant)[Episode 3:
+  Chaos Theory](episode_3__chaos_theory.md)[Episode 5:
+  Polarized](episode_5__polarized.md)**Before the Storm:**
+
+  "[Farewell](farewell.md)"
+voice: '[Don McManus](don_mcmanus.md) (uncredited)'
+```
+
+{{DONTNODWiki}}
+> There she is, Super Maxine. That's your new nickname around the Bay. Sorry, but you did earn it. We're all real proud of you for helping Kate down.
+
+**Anderson in "[Episode 3: Chaos Theory**, Chaos Theory](episode_3__chaos_theory____chaos_theory.md)" (determinant)
+
+Officer **Anderson Berry** is a resident of [Arcadia Bay](arcadia_bay.md) and a member of the [Arcadia Bay Police Department](local_police_force.md). He is also keeping an eye on [Nathan Prescott](nathan_prescott.md) as a side job as a favor to Nathan's father, [Sean Prescott](sean_prescott.md). He can be spoken to in the [Two Whales Diner](two_whales_diner.md) during Episode 3, "[Episode 3: Chaos Theory](chaos_theory.md)."
+
+##  Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+Following the death of [Kate Marsh](kate_marsh.md), an official investigation is organized. Officer Berry is present in [Raymond Wells](principal_wells.md)' [Principal Wells' Office](office.md) at the end of the episode, taking notes for the police inquiry. After hearing the statements of all those involved, the principal urges [Maxine Caulfield](max_caulfield.md), [Mark Jefferson](mark_jefferson.md), [Nathan Prescott](nathan_prescott.md) and [David Madsen](david_madsen.md) to cooperate with him while the investigation was ongoing.
+
+LiS1-Ep2-Berry_present.png|Officer Berry is only present if Kate dies.
+LiS1-Ep2-Berry_NotPresent.png|Officer Berry is not present if Kate lives.
+
+##  Episode Three - [Episode 3: Chaos Theory](_chaos_theory_.md) 
+The next morning, Max will meet Officer Berry in the [Two Whales Diner](two_whales_diner.md), who is sitting at the counter. Regardless of the outcome, Berry commends Max for her conduct during the previous day. Max finds out that he is working for the [:Category:Prescott Family](prescott_family.md) by helping to keep an eye on Nathan Prescott. Max may also find out about [Frank Bowers](frank_bowers.md)'s history with dog fighting and that he came to own [Pompidou](pompidou.md) by rescuing him from an animal fight ring. Officer Berry speculates that David will not be working at [Blackwell Academy](blackwell_academy.md) for much longer, given his instability.
+
+While searching through David's laptop, Max will find out that Officer Berry was the reporting officer in an incident with [Rachel Amber](rachel_amber.md) where she was picked up for possession of a controlled substance.
+
+##  Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+If Max allows [Chloe Price](chloe_price.md) to steal the money from the handicapped fund, Officer Berry will send Chloe an email, asking her to come to the [Arcadia Bay Police Department](police_station.md) the following Monday. The printed email will be lying next to Chloe's jacket in [Chloe's Room](her_room.md).
+
+##  Episode Five - "[Episode 5: Polarized](polarized.md)" 
+As Max is trying to reach the diner while the [storm](storm.md) is coming towards the town, Officer Berry's body can be seen outside near the alleyway.
+
+After focusing on [Warren Graham](warren_graham.md)'s photo to prevent Chloe's death at the hands of Jefferson, Chloe and Max report their investigations to David. David then joins forces with Officer Berry and the [Diner Cop](diner_cop.md) to arrest Jefferson the next day. It is unknown whether Officer Berry survived the storm in this timeline.
+
+He also appears in the diner sequence of [Max's Nightmare](max_s_nightmare.md), standing near the Diner Cop and slightly holding out his right hand.
+
+If Max chooses to sacrifice Chloe, Officer Berry will be seen arresting Jefferson in front of Blackwell Academy's main entrance. If Max chooses to sacrifice Arcadia Bay, he is presumed to be among the town's casualties.
+
+##  Before the Storm 
+At the end of the "[Farewell](farewell.md)" bonus episode, he can be seen at the background accompanying [Joyce Price (Before the Storm)](joyce_price.md) to their house after [William Price (Before the Storm)](william.md)'s fatal car accident.
+
+##  Trivia 
+* [File:Deputy Andy Brennan Twin Peaks - Officer Anderson Berry.jpg](thumb.md) Officer Berry appears to be modeled after deputy [http://twinpeaks.wikia.com/wiki/Andy_Brennan Andy Brennan] from *Twin Peaks*. This is very likely considering the fact that there are a lot of [References (Life is Strange)#Twin Peaks](_twin_peaks__references.md) in *Life is Strange. *Apart from general similar looks, they share the same first name (Anderson, shortened to Andy) and even the prominent mole on the exact same spot, on the right, slightly above the mouth.
+* The audio files for Episode 3 contain a file called "VO_E3_6B.STM_pck-0000000043", featuring Officer Berry's voice: "Since you know so much about episode 2, maybe you should tell me what's going on? I sure hope you're not proud of yourself for playing a leaked, incomplete game, and, if you do it again, next time you roll through Arcadia Bay might be your last time. Choose wisely." This is probably related due to the [Out of Time (Leaked Build)](leak_of__out_of_time_.md) before release.
+

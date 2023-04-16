@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Does Justin Plan To Do After Getting His Coffee?",
+    "answer": "D",
+    "choices": {
+      "A": "Study",
+      "B": "Cut Class",
+      "C": "Take Photos",
+      "D": "Destroy Some Rails"
+    }
+  },
+  {
+    "question": "What Does Max Tell Justin When He Asks If She Should Be Taking Photos?",
+    "answer": "A",
+    "choices": {
+      "A": "She Is Always Taking Photos",
+      "B": "She Is Taking A Break From Photography",
+      "C": "She Is Not Interested In Photography",
+      "D": "She Is Focusing On Her Studies"
+    }
+  },
+  {
+    "question": "What Does Joyce Say Was Chloe's Latest Infraction?",
+    "answer": "D",
+    "choices": {
+      "A": "Skipping Class",
+      "B": "Smoking Cigarettes",
+      "C": "Drinking Alcohol",
+      "D": "Smoking Marijuana"
+    }
+  },
+  {
+    "question": "What Does Max Tell Joyce About Her Relationship With Chloe?",
+    "answer": "A",
+    "choices": {
+      "A": "Chloe Needs Time To Understand",
+      "B": "Chloe Is Angry And Resentful",
+      "C": "Chloe Has Changed A Lot",
+      "D": "Chloe Is Still Her Best Friend"
+    }
+  }
+]

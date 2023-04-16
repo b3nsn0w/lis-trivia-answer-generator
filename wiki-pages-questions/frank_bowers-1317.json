@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is Frank's Father Quoted Saying In The Diner?",
+    "answer": "A",
+    "choices": {
+      "A": "\"I Want To Enter His House Justified\"",
+      "B": "\"I Want To Be A Better Father\"",
+      "C": "\"I Want To Make Amends\"",
+      "D": "\"I Want To Be Forgiven\""
+    }
+  },
+  {
+    "question": "Who Did Frank Have A Romantic Relationship With?",
+    "answer": "C",
+    "choices": {
+      "A": "Max Caulfield",
+      "B": "Chloe Price",
+      "C": "Rachel Amber",
+      "D": "Nathan Prescott"
+    }
+  },
+  {
+    "question": "What Is The Symbolic Meaning Behind Frank's Red Shirt?",
+    "answer": "A",
+    "choices": {
+      "A": "Aggression, Tragic Circumstances, and Anger",
+      "B": "Love, Passion, and Romance",
+      "C": "Wealth, Power, and Success",
+      "D": "Peace, Tranquility, and Serenity"
+    }
+  },
+  {
+    "question": "What Is Frank's Spirit Animal?",
+    "answer": "B",
+    "choices": {
+      "A": "A Cat",
+      "B": "A Dog",
+      "C": "A Bear",
+      "D": "A Wolf"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is Daniel Lee's Profession?",
+    "answer": "B",
+    "choices": {
+      "A": "Photographer",
+      "B": "Journalist",
+      "C": "Artist",
+      "D": "Musician"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Newspaper That Includes An Article Written By Daniel Lee?",
+    "answer": "B",
+    "choices": {
+      "A": "The San Francisco Chronicle",
+      "B": "The Golden Gate Reporter",
+      "C": "The Berkeley People's Herald",
+      "D": "The Zeitgeist Gallery News"
+    }
+  },
+  {
+    "question": "What Does Daniel Lee Give To Max After Meeting Her?",
+    "answer": "B",
+    "choices": {
+      "A": "His Phone Number",
+      "B": "His Business Card",
+      "C": "A Signed Photograph",
+      "D": "A Book About Art"
+    }
+  },
+  {
+    "question": "What Could Daniel Lee's Phrase About The \"Berkeley People's Herald\" Be A Reference To?",
+    "answer": "B",
+    "choices": {
+      "A": "A Song By The Beatles",
+      "B": "A Movie Called Big Trouble in Little China",
+      "C": "A Book By Stephen King",
+      "D": "A TV Show Called Friends"
+    }
+  }
+]

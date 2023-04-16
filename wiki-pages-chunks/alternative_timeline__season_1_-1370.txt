@@ -1,0 +1,76 @@
+Here is a section of the wiki page for Alternative Timeline (Season 1):
+
+#  Alternative Timeline (Season 1) 
+
+{{Free Tab Template
+|minwidth #  22%
+|maxwidth  100%
+|borderradius #  4
+|height  2
+|tab1 #  Life is Strange|link1  Timelines (Life is Strange)
+|tab2 #  Before the Storm|link2  Timeline (Before the Storm)
+|tab3 #  Captain Spirit|link3  Timeline (Captain Spirit)
+|tab4 #  Life is Strange 2|link4  Timeline (Life is Strange 2)
+}}
+{{Free Tab Template
+|minwidth #  31%
+|maxwidth  100
+|borderradius #  4
+|height  2
+|tab1# Timelines |link1Timelines (Life is Strange)
+|tab2# Original Timeline|link2Timeline (Life is Strange)
+|tab3# Alternative Timeline |link3Alternative Timeline (Life is Strange)
+}}
+[File:timeline-icon.png](thumb.md)
+This is a **timeline** for all the events and happenings in the **alternative timeline** of *[Life is Strange](life_is_strange.md).* This timeline will begin in 2008; the year [Maxine Caulfield](max_caulfield.md) visits in her photo trip and prevents [William Price](william_price.md) from dying.
+
+: *Click [Timeline](here.md) to view the original timeline. (Honkai Impact 3rd)*
+
+## 2008 
+* [Maxine Caulfield](max_caulfield.md) moves to [Seattle](seattle.md) with her parents.
+
+## 2009 
+* The Price family goes on vacation to Paris, France.Evident from the new photographs in the time stream montage. Exact date unknown.
+* The Price family attend a carnival together.
+
+## 2010 
+* **Thursday, March 11th, 2010** - Chloe is given her car for her 16th birthday.
+* **Saturday, May 22nd, 2010** - Chloe is a straight-A student at Blackwell Academy.Discovered from Chloe's Report Card in her garage bedroom.
+
+## 2011 
+* Chloe is paralyzed in a car accident.Evident from Principal Wells' letter regarding her handicapped access to the Blackwell campus for that year. 
+* The Price family falls into debt due to their daughter's expensive medical treatments.
+* Max sends Chloe some letters on parchment paper.We know that she sent letters to Chloe after her accident to attempt to keep in touch.
+
+## 2013 
+
+#
+
+## At Blackwell 
+Max enters the altered timeline in front of [Blackwell Academy](blackwell_academy.md). She learns that in this altered timeline she is no longer the same person. The alternative life of Max is part of the [Vortex Club](vortex_club.md), is involved with taking recreational drugs and partying, as well as being somewhat inconsiderate towards her parents. Max dresses differently, and is treated by [Victoria Chase](victoria_chase.md) as the new "Queen Bee" on campus. 
+
+Max learns that [Warren Graham](warren_graham.md) and [Stella Hill](stella_hill.md) end up dating, and that [David Madsen](david_madsen.md) is no longer security on the campus, but becomes a bus driver for Blackwell instead.Without Joyce in his life, David's passion for justice and security were probably less supported and he ended up taking on a simpler job with a routine in order to help with his PTSD.
+
+Beached whales can be seen on the [Alternative Beach](beach.md), showing that the [Meteorological Anomalies](meteorological_anomalies.md) still happen in this timeline.
+#
+
+## At The [Alternative Price Household](price_household.md) 
+Max is greeted at the front door of the house by [William Price](william_price.md), and meets Chloe who is now a quadriplegic in a wheelchair. She and Chloe venture to the beach to discuss the past, and to catch up. Chloe reveals that she had never known [Rachel Amber](rachel_amber.md), and that most of her friends never kept in touch with her after the accident.
+
+She and Max hang out all night and watch *Blade Runner* together. Max falls asleep, while Chloe ends up staying awake all night, despite the two joking that the opposite happened in their childhood. Chloe asks Max to fetch her morphine from the upstairs bathroom for her.
+
+Max can speak with both [Joyce Price](joyce_price.md) and William, and discovers that Chloe's illness, despite bringing them all closer, has ruined the family financially. A letter in the house also reveals that Chloe's condition is terminal. Chloe's School Report Card and a letter from Principal Wells (dated the 8th of August, 2011) reveals that Chloe attended Blackwell, but after her accident and due to the lack of disability access available around the historic campus wasn't able to attend Blackwell anymore. Max gets the morphine for Chloe, and an old photo album. The two look through the album until they come across the photo Max used to travel back to save William. Chloe sidetracks into asking Max to end her life. Being in considerable pain everyday, and witnessing the toll her illness has taken on her family, Chloe begs Max to end her suffering, leaving her with their time together as her last good memory before her death. At this point the player must choose whether to accede to her last request or to leave Chloe. Either way, Max ends her time there by returning to the day of William's death through the photo.
+
+#
+
+## Traveling Back 
+Max returns to her younger self, and prevents the changes she made previously, burning the photograph and letting William leave the house. She then returns to the [Timeline](original_timeline.md), and finds herself in [Chloe's Room](chloe_s_room.md), piecing together the [:Category:Dark Room Conspiracy](dark_room_conspiracy.md).
+
+#
+
+## Extras 
+During this time, Max receives [Max's Messages#Alternate Timeline](different_text_messages.md) from people in her new life, and records very [Max's Diary#Alternative Timeline](different_diary_entries.md).
+
+
+
+Generate five trivia questions relevant to this section of the page.

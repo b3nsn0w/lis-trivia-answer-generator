@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Did 84% Of Players Do Regarding David And Kate?",
+    "answer": "B",
+    "choices": {
+      "A": "They Took A Photo Of David Harassing Kate",
+      "B": "They Intervened To Help Out Kate",
+      "C": "They Ignored The Situation",
+      "D": "They Reported David To The Principal"
+    }
+  },
+  {
+    "question": "What Did 68% Of Players Do Regarding Lisa The Plant?",
+    "answer": "A",
+    "choices": {
+      "A": "They Watered The Plant",
+      "B": "They Didn't Water The Plant",
+      "C": "They Moved The Plant To A Sunny Spot",
+      "D": "They Gave The Plant Fertilizer"
+    }
+  },
+  {
+    "question": "What Did 20% Of Players Do Regarding Frank's RV?",
+    "answer": "A",
+    "choices": {
+      "A": "They Wrote On The RV",
+      "B": "They Didn't Write On The RV",
+      "C": "They Stole Something From The RV",
+      "D": "They Reported The RV To The Police"
+    }
+  },
+  {
+    "question": "What Did 12% Of Players Do Regarding Chloe's Snow Globe?",
+    "answer": "A",
+    "choices": {
+      "A": "They Broke The Snow Globe",
+      "B": "They Didn't Break The Snow Globe",
+      "C": "They Stole The Snow Globe",
+      "D": "They Gave The Snow Globe To Victoria"
+    }
+  }
+]

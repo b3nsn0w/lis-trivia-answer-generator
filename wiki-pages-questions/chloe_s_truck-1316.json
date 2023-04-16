@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Item Hangs From The Rear View Mirror Of Chloe's Truck?",
+    "answer": "B",
+    "choices": {
+      "A": "A White Cup",
+      "B": "A Five-Pointed Star",
+      "C": "A Light Brown Feather",
+      "D": "A Dark Brown Feather"
+    }
+  },
+  {
+    "question": "What Does Max Find In Chloe's Room Related To The Truck?",
+    "answer": "B",
+    "choices": {
+      "A": "A Box Of Missing Person Posters",
+      "B": "A Repair Shop Invoice",
+      "C": "A Bobble Head Of Elvis Presley",
+      "D": "A Cup With The Two Whales Diner Logo"
+    }
+  },
+  {
+    "question": "How Do Max And Chloe Escape From The Blackwell Swimming Pool?",
+    "answer": "B",
+    "choices": {
+      "A": "They Run Away On Foot",
+      "B": "They Use Chloe's Truck",
+      "C": "They Call The Police",
+      "D": "They Hide In The Locker Room"
+    }
+  },
+  {
+    "question": "What Do Max And Chloe Find In Frank's RV?",
+    "answer": "A",
+    "choices": {
+      "A": "Information About Rachel Amber",
+      "B": "A Bobble Head Of Elvis Presley",
+      "C": "A Cup With The Two Whales Diner Logo",
+      "D": "A Repair Shop Invoice"
+    }
+  }
+]

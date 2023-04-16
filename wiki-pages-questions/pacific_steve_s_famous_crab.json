@@ -1,0 +1,52 @@
+[
+  {
+    "question": "When Was Pacific Steve's Famous Crab Shut Down?",
+    "answer": "A",
+    "choices": {
+      "A": "Friday, May 7th, 2010",
+      "B": "Friday, May 7th, 2011",
+      "C": "Friday, May 7th, 2012",
+      "D": "Friday, May 7th, 2013"
+    }
+  },
+  {
+    "question": "What Did Max Love About Pacific Steve's Famous Crab When She Was A Kid?",
+    "answer": "B",
+    "choices": {
+      "A": "The Crab Cakes",
+      "B": "The Hushpuppies",
+      "C": "The Lobster Bisque",
+      "D": "The Shrimp Cocktail"
+    }
+  },
+  {
+    "question": "Who Used To Go To Pacific Steve's Famous Crab As Kids?",
+    "answer": "C",
+    "choices": {
+      "A": "Max and Rachel",
+      "B": "Max and Warren",
+      "C": "Max and Chloe",
+      "D": "Chloe and Rachel"
+    }
+  },
+  {
+    "question": "What Was The Reason For Pacific Steve's Famous Crab Shutting Down?",
+    "answer": "B",
+    "choices": {
+      "A": "Lack Of Customers",
+      "B": "Health And Safety Violations",
+      "C": "Bankruptcy",
+      "D": "Owner's Retirement"
+    }
+  },
+  {
+    "question": "Where Can Max Find The Old Sign Of Pacific Steve's Famous Crab?",
+    "answer": "A",
+    "choices": {
+      "A": "American Rust Junkyard",
+      "B": "Chloe's Room",
+      "C": "Arcadia Bay Beach",
+      "D": "Two Whales Diner"
+    }
+  }
+]

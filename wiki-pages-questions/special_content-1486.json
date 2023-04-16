@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Type Of Content Is Listed Under \"Easily Missed Details\"?",
+    "answer": "C",
+    "choices": {
+      "A": "Easter Eggs",
+      "B": "Bugs and Glitches",
+      "C": "Interesting Observations",
+      "D": "Timelines"
+    }
+  },
+  {
+    "question": "What Type Of Content Is Listed Under \"Inconsistencies\"?",
+    "answer": "D",
+    "choices": {
+      "A": "Easter Eggs",
+      "B": "Bugs and Glitches",
+      "C": "Interesting Observations",
+      "D": "Canon Inconsistencies"
+    }
+  },
+  {
+    "question": "Which Page Contains Written Transcripts Of The Episodes Of \"Life Is Strange\"?",
+    "answer": "C",
+    "choices": {
+      "A": "Timelines (Life is Strange)",
+      "B": "Chronological Sequence of Events (Life is Strange)",
+      "C": "Episode Scripts",
+      "D": "Memorable Quotes (Life is Strange)"
+    }
+  },
+  {
+    "question": "What Type Of Content Is Listed Under \"Easter Eggs\"?",
+    "answer": "A",
+    "choices": {
+      "A": "Timelines",
+      "B": "Bugs and Glitches",
+      "C": "Interesting Observations",
+      "D": "Inconsistencies"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Prequel To \"Life Is Strange\"?",
+    "answer": "B",
+    "choices": {
+      "A": "Polarized",
+      "B": "Before the Storm",
+      "C": "Captain Spirit",
+      "D": "Life is Strange 2"
+    }
+  }
+]

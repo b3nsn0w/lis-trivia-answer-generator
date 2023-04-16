@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Who Is Joyce's Second Husband?",
+    "answer": "B",
+    "choices": {
+      "A": "William Price",
+      "B": "David Madsen",
+      "C": "Max Caulfield",
+      "D": "Frank Bowers"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Cat Joyce And William Bought For Chloe?",
+    "answer": "A",
+    "choices": {
+      "A": "Bongo",
+      "B": "Whiskers",
+      "C": "Mittens",
+      "D": "Fluffy"
+    }
+  },
+  {
+    "question": "What Is The Reason Behind William's Death?",
+    "answer": "C",
+    "choices": {
+      "A": "He Died Of Natural Causes",
+      "B": "He Was Murdered",
+      "C": "He Died In A Car Accident",
+      "D": "He Committed Suicide"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "question": "How Do Max And Chloe Enter The Prescott Barn?",
+    "answer": "C",
+    "choices": {
+      "A": "By Climbing Through A Window",
+      "B": "By Breaking Down The Door",
+      "C": "By Moving A Metal Panel",
+      "D": "By Using A Secret Code"
+    }
+  },
+  {
+    "question": "What Do Max And Chloe Discover Inside The Prescott Barn?",
+    "answer": "A",
+    "choices": {
+      "A": "A Chest With Information About Old Deals Within The Marsh Family",
+      "B": "A Trapdoor Leading To The Two Whales Diner",
+      "C": "A Code-Locked Door Leading To The Dark Room",
+      "D": "A Photo Of The Barn"
+    }
+  },
+  {
+    "question": "What Do Max And Chloe Find Parked Inside The Prescott Barn?",
+    "answer": "C",
+    "choices": {
+      "A": "A Tractor",
+      "B": "A Selfie Stick",
+      "C": "A Car Belonging To Mark Jefferson",
+      "D": "A Haystack"
+    }
+  }
+]

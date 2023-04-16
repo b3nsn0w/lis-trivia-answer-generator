@@ -1,0 +1,52 @@
+[
+  {
+    "question": "In \"Chrysalis,\" what does David accuse Max of being guilty of?",
+    "answer": "D",
+    "choices": {
+      "A": "Stealing",
+      "B": "Lying",
+      "C": "Cheating",
+      "D": "Hiding something"
+    }
+  },
+  {
+    "question": "In \"Out of Time,\" what does David claim to know about Blackwell?",
+    "answer": "B",
+    "choices": {
+      "A": "The students' grades",
+      "B": "The students' secrets",
+      "C": "The school's history",
+      "D": "The school's layout"
+    }
+  },
+  {
+    "question": "In \"Dark Room,\" what does Frank say was the one good thing in his life?",
+    "answer": "C",
+    "choices": {
+      "A": "Money",
+      "B": "Drugs",
+      "C": "Rachel",
+      "D": "His car"
+    }
+  },
+  {
+    "question": "In \"Polarized,\" what does David promise to do to start repairing his relationship with Chloe?",
+    "answer": "C",
+    "choices": {
+      "A": "Buy her a new car",
+      "B": "Take her on a vacation",
+      "C": "Apologize to her",
+      "D": "Give her money"
+    }
+  },
+  {
+    "question": "In \"Polarized,\" what does David say he tried to be but wasn't so great at?",
+    "answer": "B",
+    "choices": {
+      "A": "A soldier",
+      "B": "A father",
+      "C": "A husband",
+      "D": "A teacher"
+    }
+  }
+]

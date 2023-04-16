@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Happens If Max Advises Kate To Go To The Police?",
+    "answer": "A",
+    "choices": {
+      "A": "Kate Will Be Appreciative And Send Max SMS Messages Later To Thank Her For Her Advice",
+      "B": "Kate Will Be Upset And Refuse To Talk Any Further",
+      "C": "Kate Will Acknowledge Max's Help But Will Not Change Her Decision",
+      "D": "Kate Will Jump Off The Roof"
+    }
+  },
+  {
+    "question": "What Happens If Max Tells Kate She Is Gathering Proof?",
+    "answer": "B",
+    "choices": {
+      "A": "Kate Will Be Upset And Take A Few Steps Closer To The Edge Of The Roof",
+      "B": "Kate Will Acknowledge Max's Help And Enable Max To Get Closer To Save Her",
+      "C": "Kate Will Refuse To Talk Any Further",
+      "D": "Kate Will Jump Off The Roof"
+    }
+  },
+  {
+    "question": "What Happens If Max Chooses Belgian Waffles For Breakfast At Two Whales Diner?",
+    "answer": "A",
+    "choices": {
+      "A": "The Nightmare-Max Sitting At The Same Place As Max In Episode 5 Will Also Be Eating Belgian Waffles",
+      "B": "The Nightmare-Max Sitting At The Same Place As Max In Episode 5 Will Also Be Eating Bacon Omelette",
+      "C": "Max Will Not Be Able To Finish Her Breakfast",
+      "D": "Max Will Get A Discount On Her Meal"
+    }
+  },
+  {
+    "question": "What Happens If Max Ignores Kate's Video Link In The Shower Room?",
+    "answer": "D",
+    "choices": {
+      "A": "Max Will Not Mention The Link During The Conversation With Kate On The Rooftop",
+      "B": "The Link Will Be Erased By Other People",
+      "C": "Only Lipstick Smear Leftovers Are Visible On The Bathroom Mirror",
+      "D": "All Of The Above"
+    }
+  }
+]

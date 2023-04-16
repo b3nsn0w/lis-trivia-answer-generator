@@ -1,0 +1,139 @@
+#  David's Garage 
+
+```yaml
+Location
+
+image: Davidgarage-ep1.jpg
+name: David's Garage
+type: Garage
+location: '[Madsen Household](madsen_household.md), [Arcadia Bay](arcadia_bay.md)'
+state: Oregon
+appears: >-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)[Episode 3: Chaos
+  Theory](episode_3__chaos_theory.md)[Episode 4: Dark
+  Room](episode_4__dark_room.md)
+```
+
+'''David's Garage''' is the garage in of the [Madsen Household](madsen_household.md), located besides the corridor on the ground floor. [David Madsen](david_madsen.md) uses it to store his weapons in a rack, repair a car and as a surveillance center. He has a monitor in a closet that is connected to security cameras around the house. His [David's Files](surveillance_files.md) are also hidden on top of a closet.
+
+##  Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+[Maxine Caulfield](max_caulfield.md) can find David's files and read them, but due to her clumsiness they get dirty and she can [Rewind](rewind.md) so David doesn't notice that someone touched his files. She can also find the surveillance monitor and notice the security cameras installed in the house. By examining the chest of drawers to the left of the entrance, Max can find David's security badge, gun license and a photo of him in the military camouflage.
+
+##  Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+[Chloe Price](chloe_price.md) distracts [Joyce Price](joyce_price.md), so that Max can sneak inside David's garage to gather clues. Max needs to find the password for David's laptop and can examine several objects while searching. The password is the date of David and Joyce meeting in the [Two Whales Diner](two_whales_diner.md), where they likely fall in love with each other. They met on November 27, 2008. This can be observed from a receipt of the diner with a note from Joyce on the back, which is hidden under the sun visor of David's car. The data on David's laptop reveals that Rachel had a close relationship with Frank and that he is tracking Kate and Max. Max can also see the code of the padlock laying on the table, which David will use in episode 4 to lock his locker.
+
+Note from Joyce on the back of the receipt:
+
+"It was an honor having you in the diner.
+
+Nice to know that gentlemen still exist.
+Love to talk again with you soon.
+
+BTW, the name is Joyce if you forgot :)"
+
+##  Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+Depending on Joyce throwing David out of the house, David can either be in his garage working or on the way to a hotel room. Max needs to open David's locker, which contains information about his investigation on [Rachel Amber](rachel_amber.md). She can do so by either inputting the correct combination for the padlock (7171) or using a crowbar. The car, which prevented Max from reaching the locker earlier, is no longer present, hinting at the fact that David has finished the repairs.
+
+Near the entrance to the garage is located a bird's nest. Max can move the board (and move it back after, if you do not want to disturb the nest) to take an [Optional Photos](optional_photo.md).
+
+##  Alternative Timeline 
+{{Main|Alternative Price Garage}}
+In the [Alternative Timeline](alternative_timeline.md) the garage has been replaced by a high-tech medical room for Chloe. Her bed stands in the middle, facing the doorway. An additional window has been added in order to give Chloe a good view of the outside world. Another bathroom has also been attached to the room for Chloe's convenience.
+
+##  Interactions 
+:**PC users: **''Hover over the text to see Max's comments. [Interactions](see_here.md) for all interactions in the game.''
+###  Episode One - "Chrysalis" 
+*{{Interaction|Max can search a shelf.|"Nothing! This is so lame..."}}
+*{{Interaction|She can look at a photo of David in Blackwell security uniform inside a drawer.|"Chloe's stepdad is head of security at Blackwell! He wants to put
+surveillance cameras all over the school? How paranoid can you get?"}}
+*{{Interaction|She can look at David's security badge in another drawer.|"Chloe's step-father is this asshole from Blackwell? You've got to be shitting me."}}
+*She can toggle the gun rack light.
+*{{Interaction|She can look at David's gun rack after switching on the light.|"Hmm, one of these guns is missing... I hope Chloe's stepdad isn't packing heat."}}
+*{{Interaction|She can look at a target.|"YES! Score!"}}
+*{{Interaction|She can look at the tools **(required)**.|**Above: **"Boom! Precision screwdrivers! Except, I can't reach them..."
+**On the floor: **"Let's see, the tools are stuck, out of reach and no way in hell to get them.
+Brilliant, Max, brilliant."}}
+*{{Interaction|She can look at and turn on the washing machine **(required)**.|"That does not look stable."}}
+*{{Interaction|She can look at and push a piece of cardboard **(required)**.|**Look: **"Yes, here's some ancient cardboard..."
+**Pull while empty: **"Man, I should have done that before they fell."
+**Take tools: **"Yes! You have mad skills, Max."}}
+*She can open a cupboard containing the surveillance monitor.
+**{{Interaction|She can look at a map of Blackwell plastered on the cupboard.|"Wowser, a map of Blackwell Academy. I wonder why?"}}
+**{{Interaction|She can look at and switch on the surveillance monitor.|**Look: **"Should I switch this on? Decisions, decisions..."
+**Switch on: **"What the—? Chloe's stepdad actually installed cameras in the rooms? For reals?
+This guy has serious trust issues! Do Chloe and Joyce even know about this?"}}
+*She can open another cupboard.
+*{{Interaction|She can look at and use David's laptop.|**Look: **"This must belong to Chloe's stepdad."
+**Use: **"No password. Like it would help me find tools anyway."}}
+*{{Interaction|She can look at and try to grab David's files.|**Look: **"I wonder what's in those files up there?"
+**Search: **"Shit! Butterfingers!"}}
+*{{Interaction|She can closely examine David's files lying on the floor.|"Kate Marsh? Why the hell would he have pictures of her? Okay, this is getting totally weird."}}
+*{{Interaction|She can look at and try to grab the files once again after rewinding.|**Look: **"I don't want to look at these creepy photos again. Why does David have them?"
+**Search: **"Ah man, I'll always make them fall!"}}
+*{{Interaction|She can look at the deer head trophy.|"Poor little deer... It's not enough to kill you, they have to display your head."}}
+*{{Interaction|She can look at the food cans.|"Look at all that food! That's like enough Spam for 100 years..."}}
+*{{Interaction|She can look at David's car.|"Check out the muscle car! Chloe's stepdad must be a gearhead."}}
+
+###  Episode Three - "Chaos Theory" 
+*{{Interaction|She can look at and use David's laptop **(required)**.|**Look: **"I bet David has all of his surveillance secrets in his laptop."
+**Use: **"No shit it needs a password... How about 'stepdouche'... Try again! I need more clues..."
+**Locked: **"No way, Max. You totally froze the laptop."
+**Success: **"Score! Max the Hacker strikes again!"}}
+*{{Interaction|She can look at the side and bottom of David's padlock.|**Side: **"Naturally David would buy a heavy duty military padlock..."
+**Bottom: **"I can even see the combination... That might be a useful password..."}}
+*{{Interaction|She can look at a padlock on the gun rack.|'''Didn't shoot Frank: '''"Chloe can't get another gun now—unless she steals it back from Frank."
+**Shot Frank: **"There's no way Chloe can put that gun back now..."}}
+*{{Interaction|She can look at a guide for veterans.|"Looks like David has read this a lot. What did he learn?"}}
+*{{Interaction|She can look at David's car.|"Now the car looks ready to roll. This is a better hobby for David than surveillance..."}}
+*She can toggle the gun rack light.
+The following is a list of items usable as a password for David's laptop.
+*{{Interaction|Inside cupboards.|"Nothing to see here."}}
+*{{Interaction|Birthday card for Chloe.|"Maybe I could try 'StepDad' for the password..."}}
+*{{Interaction|David's security badge.|"Hmmm, maybe this ID number might work..."}}
+*{{Interaction|David's handgun license.|"I could try the license number for the password..."}}
+*{{Interaction|Videotape from David's parents.|"Obviously David's parents care about him... That date might be a good password..."}}
+*{{Interaction|Number plate from David and Joyce's wedding.|"Cute. Can't picture David driving Joyce around with this on the car..."}}
+*{{Interaction|Piece of paper inside a bag.|"That's cute... could be a password here."}}
+*{{Interaction|David's knife.|"Even David Madsen might be an angel to somebody else..."}}
+*{{Interaction|Nameplate on the deer head trophy.|"David has been dragging this head around since 2001?"}}
+*{{Interaction|**Two Whales receipt.**|"Joyce might as well have wrote, 'Let's get married'..."}}
+
+###  Episode Four - "Dark Room" 
+:*See [Alternative Price Garage#Interactions](here.md) for the alternative timeline interactions.*
+
+*{{Interaction|Max can look at a map of Pan Estates.|"Surveillance cameras at Pan Estates? David must be working for the Prescotts, too."}}
+*{{Interaction|She can look at a box labeled "William's stuff".|"That makes me sad. It was so incredible to see William again. I wish Chloe could, too."}}
+*{{Interaction|She can look at a note from Sean Prescott to David.|"Hmmm, what the hell did David do for Nathan? And what did his dad do for David?"}}
+*{{Interaction|She can look at the End of the World Party flyer.|"I wonder if David is going to the party..."}}
+*{{Interaction|She can look at and unlock David's locker, which contains his files **(required)**.|**Look: **"Whoa, that is a serious padlock on that locker. Hey, David, whatcha hidin’?"
+**Look again: **"Looks like you need a code to open this. Or a way to break in... I know this padlock..."
+**Use number: **"Oh yes, I knew that number would be important."
+**Use keys: **"I am the Keymaster."
+**Use crowbar: **"Sorry, David, but I bet you would do the same thing as me."}}
+*{{Interaction|She can look at and take an optional photo of the blue jay nest.|**Look: **"Awww, look at the baby blue jay eggs in the nest! I better move this plank if I want
+to take the shot..."
+**After moving plank: **"Oh, please don’t make these little birds die like the others..."
+**Photo: **"Click! Another photo for my 'Arcadia Bay Wildlife Series.'"
+**After photo: **"Max, you better put that plank back to protect the nest."}}
+*{{Interaction|She can look at and move a wooden plank.|**Look: **"This plank is good for nest protection, but bad for a nest photo."
+**Move: **"Excuse me, just one picture, please."
+**Move back: **"Thank you! Sleep tight, my eggy weggs."}}
+*Max can look at several printed emails (the contents of some emails will differ depending on previous choices):
+**{{Interaction|From Principal Wells to David.|**Signed: **"Should I have signed the petition? Blackwell sure isn't 'safe and private' anymore..."
+'''Didn't sign: '''"I promise I’ll help Ms. Grant next time... if there is one."}}
+**{{Interaction|From Ms. Grant to David.|"Oh, meow, Ms. Grant. Twist that knife."}}
+**{{Interaction|From an anonymous student to David.|"At least he has one weird fan..."}}
+**{{Interaction|From David to Principal Wells.|"Wish I had surveillance footage of that conversation."}}
+**{{Interaction|From David to Officer Berry (determinant).|"David really did protect Chloe... I’m glad I stuck up for him."}}
+If Max sided with David,
+*She will be able to speak to David.
+After entering an incorrect padlock combination,
+*{{Interaction|She can look at and take the locker keys.|"The keys to the kingdom... or at least David's locker."}}
+*{{Interaction|She can look at and tamper with the fuse box.|"Hmmm, this fuse box looks like a perfect David distraction."}}
+If Max sided with Chloe,
+*{{Interaction|She can look at a crumpled letter from David to Joyce.|"There’s more to David Madsen than meets the eye. He should finish this letter to Joyce..."}}
+*{{Interaction|She can look at a box with David's belongings.|"Oh jeez, David is packing up wedding stuff too."}}
+*{{Interaction|She can look at the gun rack.|"Either Chloe stole another gun or David is out there armed..."}}
+After entering an incorrect padlock combination,
+*{{Interaction|She can take a crowbar from the table.|"Okay, I can use that crowbar to pry open the locker."}}
+

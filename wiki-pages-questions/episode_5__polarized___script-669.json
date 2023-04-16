@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Headline On The Newspaper In Front Of Principal Wells?",
+    "answer": "A",
+    "choices": {
+      "A": "Local Teacher Arrested!",
+      "B": "Everyday Heroes Contest Winner!",
+      "C": "Blackwell Academy Closed!",
+      "D": "Prescott Family Donates To Charity!"
+    }
+  },
+  {
+    "question": "What Is The Temperature In San Francisco When The Plane Is Landing?",
+    "answer": "A",
+    "choices": {
+      "A": "60 Degrees",
+      "B": "70 Degrees",
+      "C": "80 Degrees",
+      "D": "90 Degrees"
+    }
+  },
+  {
+    "question": "Who Sends Max A Text Message While She Is On The Plane?",
+    "answer": "D",
+    "choices": {
+      "A": "David",
+      "B": "Mr. Jefferson",
+      "C": "Victoria",
+      "D": "Chloe"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Airline Max Is Flying With?",
+    "answer": "A",
+    "choices": {
+      "A": "PacificWest Air",
+      "B": "Blackwell Air",
+      "C": "Jefferson Air",
+      "D": "Prescott Air"
+    }
+  },
+  {
+    "question": "What Happens To Max While She Is Talking To Principal Wells On The Plane?",
+    "answer": "A",
+    "choices": {
+      "A": "She Gets A Nosebleed",
+      "B": "She Falls Asleep",
+      "C": "She Receives A Phone Call",
+      "D": "She Loses Her Phone"
+    }
+  }
+]

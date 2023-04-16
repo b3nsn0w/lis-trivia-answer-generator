@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who Is Tyron?",
+    "answer": "B",
+    "choices": {
+      "A": "A Teacher At Blackwell Academy",
+      "B": "A Student At Blackwell Academy",
+      "C": "A Resident Of Prescott Dormitory",
+      "D": "A Bike Mechanic"
+    }
+  },
+  {
+    "question": "What Is Tyron Selling?",
+    "answer": "B",
+    "choices": {
+      "A": "A Car",
+      "B": "A Bike",
+      "C": "A Skateboard",
+      "D": "A Scooter"
+    }
+  },
+  {
+    "question": "Where Can Max See Tyron's Advertisement?",
+    "answer": "B",
+    "choices": {
+      "A": "In The Blackwell Academy Courtyard",
+      "B": "In The Prescott Dormitory Hallway",
+      "C": "In The Science Lab",
+      "D": "In The Principal's Office"
+    }
+  },
+  {
+    "question": "What Is Tyron's Phone Number?",
+    "answer": "A",
+    "choices": {
+      "A": "555-7561896",
+      "B": "555-7561986",
+      "C": "555-7651896",
+      "D": "555-7651986"
+    }
+  }
+]

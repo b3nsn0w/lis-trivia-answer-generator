@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Happens To The Train Tracks?",
+    "answer": "A",
+    "choices": {
+      "A": "They Get Damaged",
+      "B": "They Get Blocked By Trees",
+      "C": "They Get Flooded",
+      "D": "They Get Covered In Snow"
+    }
+  },
+  {
+    "question": "How Does Chloe Describe Max's Powers?",
+    "answer": "C",
+    "choices": {
+      "A": "As A Superhero's Power",
+      "B": "As A Quantum Physics Experiment",
+      "C": "As A Strange Attractor",
+      "D": "As A Rock Star's Power"
+    }
+  },
+  {
+    "question": "What Does Chloe Say About The Week They're Having?",
+    "answer": "A",
+    "choices": {
+      "A": "It's The Worst Week Of Her Life",
+      "B": "It's The Best Week Of Her Life",
+      "C": "It's A Normal Week",
+      "D": "It's A Boring Week"
+    }
+  },
+  {
+    "question": "What Does Max Say About The Connection Between Snow And Tornadoes?",
+    "answer": "B",
+    "choices": {
+      "A": "It's A Normal Phenomenon",
+      "B": "It's A Random Phenomenon",
+      "C": "It's A Predictable Phenomenon",
+      "D": "It's A Scientific Phenomenon"
+    }
+  },
+  {
+    "question": "What Does Chloe Say About The Possibility Of Armageddon?",
+    "answer": "B",
+    "choices": {
+      "A": "It's A Joke",
+      "B": "It's A Possibility",
+      "C": "It's A Myth",
+      "D": "It's A Scientific Fact"
+    }
+  }
+]

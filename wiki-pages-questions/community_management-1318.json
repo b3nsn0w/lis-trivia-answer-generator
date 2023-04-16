@@ -1,0 +1,42 @@
+[
+  {
+    "question": "When Was The Square Enix Extra Life Livestream Held?",
+    "answer": "B",
+    "choices": {
+      "A": "January 27, 2015",
+      "B": "November 5-6, 2015",
+      "C": "January 12, 2016",
+      "D": "August 10, 2017"
+    }
+  },
+  {
+    "question": "What Was The Name Of The Developer Updates Series Launched In November 2018?",
+    "answer": "C",
+    "choices": {
+      "A": "Community Heroes",
+      "B": "Community Video Series",
+      "C": "#BehindtheStrange Series",
+      "D": "#JourneysEnd Livestreams"
+    }
+  },
+  {
+    "question": "When Was The Gamescom Meet & Greet Held In 2019?",
+    "answer": "C",
+    "choices": {
+      "A": "August 22, 2018",
+      "B": "August 27, 2017",
+      "C": "August 22, 2019",
+      "D": "August 10, 2017"
+    }
+  },
+  {
+    "question": "What Was The Hashtag Used For The Life is Strange 5th Anniversary Contest?",
+    "answer": "C",
+    "choices": {
+      "A": "#JourneysEnd",
+      "B": "#BehindtheStrange",
+      "C": "#LiS5thAnniversaryContest",
+      "D": "#FanArtFriday"
+    }
+  }
+]

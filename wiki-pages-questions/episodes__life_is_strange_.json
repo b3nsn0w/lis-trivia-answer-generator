@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Name Of The First Episode Of Life Is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "Polarized",
+      "B": "Chrysalis",
+      "C": "Out of Time",
+      "D": "Dark Room"
+    }
+  },
+  {
+    "question": "Which Episode Features The Vortex Club Party?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode 2: Out of Time",
+      "B": "Episode 3: Chaos Theory",
+      "C": "Episode 4: Dark Room",
+      "D": "Episode 5: Polarized"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Final Episode Of Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Polarized",
+      "B": "Chrysalis",
+      "C": "Out of Time",
+      "D": "Dark Room"
+    }
+  },
+  {
+    "question": "Which Episode Features The Character Frank Bowers?",
+    "answer": "C",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  }
+]

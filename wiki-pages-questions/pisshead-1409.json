@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Who is a member of the band PissHead?",
+    "answer": "B",
+    "choices": {
+      "A": "Chloe Price",
+      "B": "Skip Matthews",
+      "C": "David Hein",
+      "D": "Chuck Carr"
+    }
+  },
+  {
+    "question": "Where can PissHead's songs be heard in Life is Strange: Before the Storm?",
+    "answer": "A",
+    "choices": {
+      "A": "On the radio station The STYR!",
+      "B": "In Chloe's room",
+      "C": "At the Blackwell Academy talent show",
+      "D": "During the end credits"
+    }
+  }
+]

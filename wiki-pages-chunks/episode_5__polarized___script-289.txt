@@ -1,0 +1,20 @@
+Here is a section of the wiki page for Episode 5: Polarized - Script:
+
+Joyce, you've gone through so much for Chloe and David. If you were my mom... I would be so proud.
+
+**Joyce:** Oh sweetie, thank you. But your parents should be prouder of you. Even David told me how tough he thinks you are... and he doesn't give out many compliments, as you know.
+
+{{#tag:tabber|David needs you.David needs you.
+**Max:** He does about you. It’s so obvious he needs you in his life...
+
+**Joyce:** He better. Like I said, people don't always see the real David Madsen. I hope Chloe does someday...
+
+{{!}}-{{!}}David is a hero.# David is a hero.
+**Max:** David is a real hero. I don't know what he's gone through in war, but I can imagine... and he even showed me how to find my own strength under extreme conditions.
+
+**Joyce:** I'm so glad to hear you say that, Max... I know he's not always an easy person to defend... Most people only see him at his worst... You've seen him at his best. And that's the man I want in my life.
+}}
+
+# 
+
+Generate five trivia questions relevant to this section of the page.

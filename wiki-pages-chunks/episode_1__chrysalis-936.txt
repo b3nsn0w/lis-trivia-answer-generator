@@ -1,0 +1,106 @@
+Here is a section of the wiki page for Episode 1: Chrysalis:
+
+## Licensed Soundtrack 
+{{Main|Soundtrack (Life is Strange)}}
+*"[To All of You](to_all_of_you.md)" - Syd Matters (Opening sequence, Blackwell Academy hallway)
+*"[Crosses](crosses.md)" - Jose Gonzalez (Optionally in Max's room on radio or guitar)
+*"[Piano Fire](piano_fire.md)" - Sparklehorse (Chloe's room)
+*"[Santa Monica Dream](santa_monica_dream.md)" - Angus & Julia Stone (Chloe's room)
+*"[Obstacles](obstacles.md)" - Syd Matters (Chloe and Max at the cliff, closing scene)
+
+## Reception 
+*Chrysalis is rated as "overwhelmingly positive" (with 96% of nearly 50,000 user reviews positive) on Steam. The ratings may have been intended for the game as a whole, however, since Steam considers episodes 2-5 to be DLC.
+*On Metacritic, it currently has a Metascore 75/100 and a User Score of 8.2.
+*IGN gave it a pretty mediocre 6.5 calling the writing awful.
+
+## Achievements 
+There are twelve [Achievements (Life is Strange)](achievements.md) the player can earn on Steam, PlayStation or Xbox.
+
+{{Achievements
+|image #  Macro_Eyes_Achievement.png
+|name  Macro Eyes
+|description #  Take optional photo #1 in Episode 1: Chrysalis
+|type  bronze
+|score #  10
+}}
+{{Achievements
+|name  Wide Angles
+|image #  Wide_Angles_Achievement.png
+|description  Take optional photo #2 in Episode 1: Chrysalis
+|type #  bronze
+|score  10
+}}
+{{Achievements
+|name #  Telephotogenic
+|image  Telephotogenic_Achievement.png
+|description #  Take optional photo #3 in Episode 1: Chrysalis
+|type  bronze
+|score #  10
+}}
+{{Achievements
+|name  Close-Ups
+|image #  Close-Ups_Achievement.png
+|description  Take optional photo #4 in Episode 1: Chrysalis
+|type #  bronze
+|score  10
+}}
+{{Achievements
+|name #  Red Eye
+|image  Red_Eye_Achievement.png
+|description #  Take optional photo #5 in Episode 1: Chrysalis
+|type  bronze
+|score #  10
+}}
+{{Achievements
+|image  Focused Achievement.png
+|name #  Focused
+|description  Take optional photo #6 in Episode 1: Chrysalis
+|type #  bronze
+|score  10
+}}
+{{Achievements
+|name #  Zoomed In
+|image  Zoomed_In_Achievement.png
+|description #  Take optional photo #7 in Episode 1: Chrysalis
+|type  bronze
+|score #  10
+}}
+{{Achievements
+|name  Focal Pointed
+|image #  Focal_Pointed_Achievement.png
+|description  Take optional photo #8 in Episode 1: Chrysalis
+|type #  bronze
+|score  10
+}}
+{{Achievements
+|name #  Maximum Aperture
+|image  Maximum_Aperture_Achievement.png
+|description #  Take optional photo #9 in Episode 1: Chrysalis
+|type  bronze
+|score #  10
+}}
+{{Achievements
+|name  Light Leak
+|image #  Light_Leak_Achievement.png
+|description  Take optional photo #10 in Episode 1: Chrysalis
+|type #  bronze
+|score  10
+}}
+{{Achievements
+|name #  Visionary
+|image  Visionary_Achivement.png
+|description #  Take all optional photos in Episode 1: Chrysalis
+|type  bronze
+|score #  45
+}}
+{{Achievements
+|name  Chrysalis
+|image #  Chrysalis_Achievement.png
+|description  Finish Episode 1: Chrysalis
+|type #  bronze
+|score  55
+}}
+
+
+
+Generate five trivia questions relevant to this section of the page.

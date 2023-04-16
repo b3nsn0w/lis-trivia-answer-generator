@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Book Did Kate Let Max Borrow?",
+    "answer": "A",
+    "choices": {
+      "A": "The October Country",
+      "B": "Battle Royale",
+      "C": "The Catcher in the Rye",
+      "D": "To Kill a Mockingbird"
+    }
+  },
+  {
+    "question": "What Does Max Say Is The Best Weather Of The Year?",
+    "answer": "D",
+    "choices": {
+      "A": "Winter",
+      "B": "Spring",
+      "C": "Summer",
+      "D": "Autumn"
+    }
+  },
+  {
+    "question": "What Does Max Want To Experience By Crashing A Halloween Party?",
+    "answer": "A",
+    "choices": {
+      "A": "Social Mingling",
+      "B": "Swimming",
+      "C": "Dancing",
+      "D": "Eating"
+    }
+  },
+  {
+    "question": "What Does Max's Parents Keep Telling Her?",
+    "answer": "A",
+    "choices": {
+      "A": "You Have All The Time In The World",
+      "B": "You Need To Work Harder",
+      "C": "You Should Make More Friends",
+      "D": "You Should Travel More"
+    }
+  }
+]

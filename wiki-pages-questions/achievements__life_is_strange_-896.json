@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What Is The Name Of The Achievement For Taking Optional Photo #3 In Episode 4: Dark Room?",
+    "answer": "B",
+    "choices": {
+      "A": "Ambient",
+      "B": "Balance",
+      "C": "Rangefinder",
+      "D": "Gamma Value"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Achievement For Taking All Optional Photos In Episode 4: Dark Room?",
+    "answer": "A",
+    "choices": {
+      "A": "Shutterbug",
+      "B": "Tripod",
+      "C": "Fisheye",
+      "D": "Manually Exposed"
+    }
+  },
+  {
+    "question": "Which Achievement Has The Lowest Rarity On Steam?",
+    "answer": "D",
+    "choices": {
+      "A": "Ambient",
+      "B": "Rangefinder",
+      "C": "Fisheye",
+      "D": "Tripod"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the name of the dormitory where Max can find the cairn and the Tobanga Totem?",
+    "answer": "A",
+    "choices": {
+      "A": "Prescott Dormitory",
+      "B": "Blackwell Dormitory",
+      "C": "Jefferson Dormitory",
+      "D": "Arcadia Dormitory"
+    }
+  },
+  {
+    "question": "What is the name of the student who is interested in video games and skunk weed?",
+    "answer": "C",
+    "choices": {
+      "A": "Evan Harris",
+      "B": "Trevor",
+      "C": "Hayden Jones",
+      "D": "Logan Robertson"
+    }
+  },
+  {
+    "question": "What is the name of the student who drew a portrait of Kate?",
+    "answer": "C",
+    "choices": {
+      "A": "Evan Harris",
+      "B": "Trevor",
+      "C": "Daniel DaCosta",
+      "D": "Nathan Prescott"
+    }
+  },
+  {
+    "question": "What is the name of the student who Chloe is scoping out the area for in Nathan's room?",
+    "answer": "C",
+    "choices": {
+      "A": "Evan Harris",
+      "B": "Trevor",
+      "C": "Nathan Prescott",
+      "D": "Logan Robertson"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Name Of The Principal Of Blackwell Academy?",
+    "answer": "A",
+    "choices": {
+      "A": "Raymond Wells",
+      "B": "Frank Bowers",
+      "C": "Warren Graham",
+      "D": "Samuel"
+    }
+  },
+  {
+    "question": "What Is The Possible Connection Between Principal Wells And The Prescotts?",
+    "answer": "C",
+    "choices": {
+      "A": "Wells Is A Prescott Family Member",
+      "B": "Wells Is A Close Friend Of The Prescotts",
+      "C": "The Prescotts Fund Blackwell Academy",
+      "D": "The Prescotts Are Wells' Employees"
+    }
+  },
+  {
+    "question": "What Is The Fan Theory About The Storm In Life Is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "It Is A Natural Disaster",
+      "B": "It Is Rachel Amber's Revenge",
+      "C": "It Is Caused By Max's Powers",
+      "D": "It Is A Result Of Climate Change"
+    }
+  },
+  {
+    "question": "What Is The Possible Connection Between Samuel And Rachel Amber?",
+    "answer": "B",
+    "choices": {
+      "A": "Samuel Is Rachel's Father",
+      "B": "Samuel Is Involved In Rachel's Disappearance",
+      "C": "Samuel Is A Friend Of Rachel's",
+      "D": "Samuel Has No Connection To Rachel"
+    }
+  },
+  {
+    "question": "What Is The Disturbing Movie Mentioned By Warren In Life Is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "Ultravixens",
+      "B": "Cannibal Holocaust",
+      "C": "The Texas Chainsaw Massacre",
+      "D": "The Silence Of The Lambs"
+    }
+  }
+]

@@ -1,0 +1,117 @@
+Here is a section of the wiki page for Episode 2: Out of Time - Script:
+
+mother.
+
+|-|Chloe.# Chloe.**Max:** So, you know Chloe?
+
+**Cop:** Sadly, we all know Chloe down at the station. Poor Joyce.
+
+{{#tag:tabber|Stayed hiddenStayed hidden**Cop:** Just heard she even just got busted with pot in her room.
+
+{{!}}-{{!}}Took the blame for Chloe# Took the blame for Chloe**Cop:** Just heard that Chloe even had a pot dealer in her room...
+
+}}
+
+{{#tag:tabber|Who told you?Who told you?**Max:** Uh, who told you that?
+
+**Cop:** I didn't hear it on the police scanner. Joyce said the weed belonged to Chloe's friend, but...I highly doubt that.
+
+**Max:** Joyce didn't tell you who?
+
+**Cop:** She wouldn't. Afraid I'd go arrest somebody. As if I would. I'd just tell that loser to stay the hell away from Chloe. Or else... Just kidding. Besides, David Madsen is watching over them.
+
+{{!}}-{{!}}That's not good.# That's not good.**Max:** Uh... That's not good. Anyway. Mm, that bacon sure smells good...
+
+{{!}}-{{!}}No big thing.No big thing.**Max:** Is that really a big thing? At least she was chilling in her room.
+
+**Cop:** How do you know she was "chilling in her room"?
+
+**Max:** You just said so.
+
+**Cop:** She might have been getting high or getting her spray cans ready or whatever. I'd like to think the best of her, but she's now in the Arcadia Bay police database.
+
+}}
+
+**Cop:** Is she a friend of yours?
+
+{{#tag:tabber|I know her.# I know her.**Max:** I know her.
+
+**Cop:** Then you know she's a handful.
+
+{{#tag:tabber|She can be.She can be.**Max:** She can be, but she can also be a good friend who shows up when you need her.
+
+**Cop:** Sounds like you're a good friend. I wish she would be a great daughter and not cause Joyce so much stress.
+
+{{!}}-{{!}}No.# No.**Max:** No, I just think she's just had some bad luck.
+
+**Cop:** You have to create your own good luck. I think Chloe would rather destroy. But, I'm just a cop, not a psychologist, so...
+
+}}
+
+{{!}}-{{!}}Not really...Not really...**Max:** Not really...
+
+**Cop:** That's good. She's not a bad person, she's had hard times, but there's no excuse for burning things.
+
+**Max:** I know her dad died...
+
+**Cop:** My dad died when I was 13. I never burned garbage cans or tagged signs. Joyce is a great mother, Chloe just isn't paying attention.
+
+}}
+
+|-|David.# David.**Max:** I guess you're friends with David Madsen?
+
+**Cop:** I wouldn't use that word. We know each other. Why do you ask?
+
+{{#tag:tabber|Just curious.Just curious.**Max:** Just curious... I'm surprised he's not a police officer in Arcadia Bay.
+
+{{!}}-{{!}}He has a reputation.# He has a reputation.**Max:** He kinda has a reputation at Blackwell.
+
+}}
+
+**Cop:** I have respect for David. He served his country. He found his calling at Blackwell. At the station, we're happy David is exactly where he is... Not everybody can be a cop.
+
+|-|I have to go.I have to go.**Max:** I have to go now. Enjoy your breakfast.
+
+**Cop:** By the way, one thing I can tell you for certain is to stay away from that RV outside.
+
+**Max:** I usually stay away from sketchy parked vehicles.
+
+**Cop:** Wise policy. The guy who lives in it, Frank, is pretty sketchy himself. That's all I can say for now... I should finish up my coffee and get to work.
+
+**Optional Conversation with Trucker**
+
+**Trucker:** I don't feel like talking right now. I gotta deliver a load of breakfast to my stomach. Over and out.
+
+**Optional Conversation with Truck Driver**
+
+**Max:** Er, hello?
+
+**Truck Driver:** "Pardonne moi", but you're in my eyesight.
+
+Everything is in eyesight.# Everything is in eyesight.**Max:** Isn't everything in here within eyesight?
+
+**Truck Driver:** I don't care for your tone. You sound like Joyce.
+
+**Max:** How does Joyce sound?
+
+**Truck Driver:** Bossy and smartass...like you.
+
+{{#tag:tabber|Joyce rules!Joyce rules!**Max:** Joyce rules. I want to be exactly like her when I grow up.
+
+**Truck Driver:** Looks like you're on your way. I've been coming to this dive for three years and Joyce gives me shit like it's going out of style.
+
+**Max:** That's how she rolls. That's why I worship her every move.
+
+**Truck Driver:** Good, I can't wait to see you flipping greasy bacon in a diner when you grow up...exactly like Joyce. Now pardon me while I get back to my coffee.
+
+{{!}}-{{!}}You're rude.# You're rude.**Max:** Why are you being so rude?
+
+**Truck Driver:** Because I been on the road for 12 hours straight, hopped up on coffee and diet pills, carrying two tons of nitrate and all I want to do is eat a quiet breakfast and stare out the window. Do you mind?
+
+}}
+
+|-|Sorry...Sorry...**Max:** Oh...sorry.
+
+**Truck Driver:** That's okay, I just need to see my truck out there in the lot. Been a long night on the road and I have to make sure my baby is sleeping 
+
+Generate five trivia questions relevant to this section of the page.

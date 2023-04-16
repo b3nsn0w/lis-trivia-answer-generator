@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Happens If Max Shoots Frank With Chloe's Gun In Episode 2?",
+    "answer": "A",
+    "choices": {
+      "A": "Frank Will Take Chloe's Gun",
+      "B": "Frank Will Threaten To Break Max's Camera",
+      "C": "Chloe Will Faux-Propose To Max Via Text",
+      "D": "Chloe Will Not Have The Gun In Her Room In Episode 3"
+    }
+  },
+  {
+    "question": "What Happens If Max Adds Her Name To The Vortex Club Party List In Episode 3?",
+    "answer": "D",
+    "choices": {
+      "A": "She Will Have To Sneak Around The Side Of The Pool",
+      "B": "Courtney Will Greet Her As \"Our Guest Star\"",
+      "C": "She Will Be Unable To Attend The Party",
+      "D": "An Amusing Cutscene Will Play"
+    }
+  },
+  {
+    "question": "What Is The Consequence Of Not Helping Warren In Episode 3?",
+    "answer": "A",
+    "choices": {
+      "A": "Warren Gets An A- On His Experiment",
+      "B": "Warren Will Text The Original Max Positively",
+      "C": "Max Cannot Take Optional Photo #9",
+      "D": "Max Cannot Change Warren's Grade To An A+"
+    }
+  },
+  {
+    "question": "What Happens If Max Informs Mr. Jefferson About David's Confrontation With Kate In Episode 2?",
+    "answer": "A",
+    "choices": {
+      "A": "Wells Will Retort That Max Can Speak For Herself",
+      "B": "Jefferson Will Not Bring Up David",
+      "C": "Wells Will Suspend David",
+      "D": "Kate Will Be Expelled From Blackwell Academy"
+    }
+  },
+  {
+    "question": "What Happens If The Situation With Frank At His RV Is Not Resolved Peacefully In Episode 4?",
+    "answer": "D",
+    "choices": {
+      "A": "Chloe Will Injure Or Kill Frank",
+      "B": "Frank Will Say That Max Almost Shot Him",
+      "C": "Chloe Will Kill Pompidou If He Is Able To Get Out",
+      "D": "Chloe Will Take His Account Book Code From Him"
+    }
+  }
+]

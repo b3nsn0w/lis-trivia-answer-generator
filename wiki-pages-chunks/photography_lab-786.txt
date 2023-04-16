@@ -1,0 +1,51 @@
+Here is a section of the wiki page for Photography Lab:
+
+#  Photography Lab 
+
+```yaml
+Location
+
+location: '[Blackwell Academy](blackwell_academy.md), [Arcadia Bay](arcadia_bay.md)'
+state: Oregon
+appears: >-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)[Episode 2: Out of
+  Time](episode_2__out_of_time.md)[Episode 3: Chaos
+  Theory](episode_3__chaos_theory.md)[Episode 5:
+  Polarized](episode_5__polarized.md)
+image: Photolab-ep1back.png
+type: Classroom
+```
+
+The **photography lab**, also known as the **art classroom**, is one of four main labs at [Blackwell Academy](blackwell_academy.md). [Mr. Jefferson](mr__jefferson.md) holds his lectures in this room including a course called "The Language of Photography".This information is from [Media:Max-schedule.png](max_s_timetable.md). It is well-equipped with high-tech photography equipment and literature. It's likely also used for other art courses. The photography lab is a recurring explorable location in *[Life is Strange](life_is_strange.md)* and the second featured location overall.
+
+## Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+After having a disturbing dream about a [The Storm](storm.md) destroying [Arcadia Bay](arcadia_bay.md), [Maxine Caulfield](max_caulfield.md) awakens in Jefferson's class in the middle of his lecture. The lesson finishes, leaving Max to explore the classroom if she likes. She returns to the classroom a short while later, having rewound time.
+
+## Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+After spending the morning with [Chloe Price](chloe.md), Max heads to the photography lab for Mr. Jefferson's class. The room is once again explorable during this time.
+
+## Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+During Max and Chloe's night investigation at Blackwell, Max is able to visit the photography lab, particularly to find ingredients for a pipe bomb to open the [Principal Wells' Office](principal_s_office.md).
+
+## Episode Five - "[Episode 5: Polarized](polarized.md)" 
+After rewinding to the first day of the week, by focusing on the selfie she took during Jefferson's first class, Max finds herself again in the middle of his lecture.
+
+The classroom is, later in the episode, featured again in [Max's Nightmare](max_s_nightmare.md).
+
+## Optional Photos 
+During Episode 1, there is an [Optional Photos](optional_photograph.md) obtainable from the desk etchings on the desk opposite Max's.
+
+During Episode 2, there is an optional photograph obtainable by standing behind Alyssa at the window, and snapping the shot.
+
+During Episode 5, Kate Marsh may be photographed after speaking to her and reassuring her about the many friends and supporters she has.
+
+During Episode 5, the desk etchings can once more be photographed after looking at them twice.
+
+## Interactions 
+Max can view many objects and people in the photography lab.
+:**PC users: **''Hover over the text to see Max's comments. [Interactions](see_here.md) for all interactions in the game.''
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

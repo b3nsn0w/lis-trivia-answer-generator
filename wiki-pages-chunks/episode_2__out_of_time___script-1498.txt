@@ -1,0 +1,130 @@
+Here is a section of the wiki page for Episode 2: Out of Time - Script:
+
+self.
+
+**Max:** Jesus, Kate, I'm sorry. This is serious shit.
+
+**Kate:** How do I get a viral video taken down? I know it's already spreading--what if my church sees that? I need to know what to do...
+
+**Max:** Kate, we'll figure it out. I'll check back later, okay?
+
+**Kate:** Thanks, Max... You can put my book here, near my bag.
+
+''Max places the book next to Kate's bag.''
+
+**Kate:** So, Max, can I ask you a question? And please be honest.
+
+**Max:** Absolutely, Kate. Anything.
+
+**Kate:** I need to find out if Nathan Prescott helped me...or hurt me after that party. Should I go to the police?
+
+GO TO THE POLICEGO TO THE POLICE**Max:** Yes, you should definitely go to the police, Kate. I totally believe every word you say. Nathan Prescott is truly dangerous.
+
+**Kate:** Bless you, Max. I will go to the police...and also Principal Wells. With you as my back-up witness, they'll have to take us seriously now.
+
+**Max:** Back-up witness? Well, I mean, I believe you and everything, but...we're still just spoiled punk students to the cops and faculty... I just think we need to be very careful here...
+
+**Kate:** Why? Careful of what?
+
+**Max:** Nothing...except the Prescotts are a powerful family. I hope this won't backfire on us, that's all. Even though that rich bastard has earned some serious bad karma. He'll get it...
+
+**Max (thinking):** Time out, Max. You actually told Kate to go to the police and the Principal...after getting a scary text threat. Now the police will definitely drag you into this shit.
+
+|-|LOOK FOR PROOF# LOOK FOR PROOF**Max:** If you do that, they won't believe you. You're on video grabbing at all those guys and they'll use that against you. Bad.
+
+**Kate:** But I know I was drugged--
+
+**Max:** That's what you have to prove. Not them. I'm just telling you how the cops and school will look at this. The video doesn't exactly back you up...
+
+**Kate:** You make me feel so hopeless--
+
+**Max:** No, no, Kate. I just don't want you to get hurt any more...
+
+**Kate:** That seems impossible at this point. So that's your answer?
+
+**Max:** I think we should wait. There are other things going on that might help you.
+
+**Kate:** But not right now. So I can walk down the halls with people calling me a viral slut. Thanks, Max.
+
+**Max (thinking):** Good job, Dr. Max. She didn't like what I had to say, but we need more proof of what happened.
+
+''Max leaves Kate's room.*
+
+*Optional: Max enters Dana's room.*
+
+# ## *'Dana's Room'* # 
+*If Max enters Dana's room while Dana is dancing on her bed, Stella can be heard through the wall complaining about the loud music.*
+
+**Stella:** Turn the goddamn music down! People sleeping!
+
+*Juliet can be found here after Max takes a shower.*
+
+**Optional Conversation with Dana**
+
+*This conversation can take place before or after Max's shower.''
+
+Touched Dana's pregnancy testTouched Dana's pregnancy test**Max:** Uh, hi, Dana. Do you hate me?
+
+**Dana:** No Max, I don't hate you. Not that I don't like juicy gossip... I just wish you weren't so nosey.
+
+**Max:** It's like my fatal character flaw.
+
+**Dana:** Or a gift. You're very good at being nosey.
+
+**Max:** Because I care.
+
+**Dana:** I would laugh, but you did save me yesterday. So let's call it even.
+
+|-|Didn't talk to Dana about pregnancy# Didn't talk to Dana about pregnancy**Max:** What's happening, Dana? Everything cool between you and Juliet?
+
+**Dana:** Oh, yeah. Thanks again for releasing me from her captivity.
+
+|-|Talked to Dana about pregnancyTalked to Dana about pregnancy**Max:** Hi, Dana, how are you?
+
+**Dana:** Much better than yesterday. I'm glad we talked.
+
+{{#tag:tabber|Me too.# Me too.**Max:** Me too. I know it's good to just talk about...this stuff.
+
+{{!}}-{{!}}Are you?Are you?**Max:** Are you? I'm not trying to get into your business...
+
+}}
+
+**Dana:** You're almost psychic. I felt like you knew everything anyway...
+
+**Dana:** By the way, the best and biggest news of the day is that Trevor asked me to the Halloween shindig.
+
+**Max:** That's awesome, Dana.
+
+**Dana:** At least we're showing our faces together in public... So you absolutely should go with us. Borrow one of my outfits and come as a cute geek couple with your bitch Warren...
+
+**Max:** Err, I'm not big on cosplay.
+
+**Dana:** Don't let life pass you by, Max. So, are you coming to the party or not?
+
+Why not.# Why not?
+**Max:** Why the fuck not? If I hate it, I can always go back...to my room.
+
+**Dana:** That's the spirit, Max! After this, you'll be ready for a rave...
+
+**Max:** It does sound like fun. Now I have to go contemplate my party future...
+
+|-|No.No.
+**Max:** No, sorry. It's just...not my thing.
+
+**Dana:** You came to Blackwell to discover yourself, not hide in your dorm.
+
+**Max:** I won't discover myself avoiding projectile vomit from bro-dudes. Thanks anyway.
+
+*If Max tries to talk to Dana again*
+
+**Dana:** Let's talk later, Max.
+
+''Max leaves Dana's room.*
+
+*Max leaves the Girls' Dormitories.''
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

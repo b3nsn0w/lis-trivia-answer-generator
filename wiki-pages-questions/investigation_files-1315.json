@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Reference Behind The License Plate \"TPFTHLK\" From Mark Jefferson's Car?",
+    "answer": "B",
+    "choices": {
+      "A": "The X-Files",
+      "B": "Top of the Lake",
+      "C": "Twin Peaks",
+      "D": "Six Feet Under"
+    }
+  },
+  {
+    "question": "What Is The Possible Real-Life Location That Arcadia Bay Is Based On?",
+    "answer": "A",
+    "choices": {
+      "A": "Bayocean, OR",
+      "B": "Tillamook Bay",
+      "C": "Blackwell Campus",
+      "D": "Pan Estates"
+    }
+  },
+  {
+    "question": "What Does The X In The Top Left Corner Of David's Investigation Files Icon Refer To?",
+    "answer": "B",
+    "choices": {
+      "A": "The Twilight Zone",
+      "B": "The X-Files",
+      "C": "Six Feet Under",
+      "D": "Top of the Lake"
+    }
+  },
+  {
+    "question": "What Was The Special Location Frank Delivered Drugs To On October 4th?",
+    "answer": "A",
+    "choices": {
+      "A": "The Prescott Barn",
+      "B": "Blackwell Academy",
+      "C": "The Vortex Club Party",
+      "D": "David's Garage"
+    }
+  },
+  {
+    "question": "What Is The License Plate Number Of Nathan's Car?",
+    "answer": "C",
+    "choices": {
+      "A": "TWLGHTZN",
+      "B": "TPFTHLK",
+      "C": "SXFTNDR",
+      "D": "TWNPKS"
+    }
+  }
+]

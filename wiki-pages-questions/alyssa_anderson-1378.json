@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is Alyssa's message to Kate's social media page after Kate's death?",
+    "answer": "A",
+    "choices": {
+      "A": "\"I'll remember your smile\"",
+      "B": "\"We're all behind you\"",
+      "C": "\"Rest in peace\"",
+      "D": "\"You will be missed\""
+    }
+  },
+  {
+    "question": "In Episode 3, what does Alyssa suggest to Max after Max is suspended from Blackwell Academy?",
+    "answer": "C",
+    "choices": {
+      "A": "They should start a petition",
+      "B": "They should visit Kate in the hospital",
+      "C": "They should take a lot of photos",
+      "D": "They should boycott class"
+    }
+  },
+  {
+    "question": "What does Alyssa say to Max about her heroism after Kate's suicide attempt?",
+    "answer": "C",
+    "choices": {
+      "A": "\"You're a true hero\"",
+      "B": "\"You're amazing\"",
+      "C": "\"You're a guardian angel\"",
+      "D": "\"You're a lifesaver\""
+    }
+  },
+  {
+    "question": "In Episode 2, what does Alyssa ask Max about after Warren lent Max his flash drive?",
+    "answer": "A",
+    "choices": {
+      "A": "Her favorite sci-fi film",
+      "B": "Her favorite book",
+      "C": "Her favorite music genre",
+      "D": "Her favorite TV show"
+    }
+  }
+]

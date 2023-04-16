@@ -1,0 +1,167 @@
+Here is a section of the wiki page for Episode 1: Chrysalis - Script:
+
+## **Optional Conversation with Stella**# 
+**Max:** Hey there, Stella.
+
+**Stella:** Hey, I know you! You're the new quiet girl in Jefferson's class. Isn't he incredible?
+
+I think so.I think so.
+
+**Max:** I think so. We're lucky to have such a famous teacher. And I actually love his work...
+
+**Stella:** Me too. His New York urban stuff is great, but I'm glad he came back to his Oregon roots. Screw the East Coast elite. It must piss off those pretentious galleries that Mark Jefferson is teaching photography to us Blackwell hicks...plus he is pretty hot for an older guy.
+
+|-|He's aloof.# He's aloof.
+
+**Max:** He's aloof... He seems like he's always above you, not like a snob, but like you don't know what's in his head.
+
+**Stella:** Maybe. Mr. Jefferson just has his own style.
+
+|-|Not sure yet.Not sure yet.
+
+**Max:** I'm not sure yet, I mean, he's clearly a genius. But I don't agree with everything he says.
+
+**Stella:** He does get a bit pretentious, but he's passionate and just says what he thinks.
+
+**Stella:** If Victoria wasn't all over him, I would definitely make a move.
+
+Victoria?# Victoria?
+
+**Max:** Victoria is pretty obvious. I don't think Jefferson is into her.
+
+**Stella:** I don't think she's closed the deal. But she's not the only player...
+
+**Max:** Now how do you know this?
+
+|-|Now that you mention it.Now that you mention it.
+
+**Max:** Now that you mention it, he doesn't respond to Victoria's flirting. That means he has good taste.
+
+|-|No Way.# No Way.
+
+**Max:** No way. You can get him so busted. And he's not going to mess around with a student.
+
+**Stella:** That's what you think.
+
+**Max:** Now how do you know this?
+
+**Stella:** You have a lot to learn here at Blackwell. Rachel Amber absolutely had sex with him. Well...I heard that from a good source.
+
+You knew Rachel?You knew Rachel?
+
+**Max:** So you knew Rachel?
+
+**Stella:** Not really. I saw her hanging with the other cool kids like Victoria. Not my kind of clique. But I heard insane stories about Rachel...
+
+|-|Interesting.# Interesting.
+
+**Max:** Interesting. See, you learn something new everyday at school.
+
+**Stella:** Like I said, you have a lot to learn, Max. See ya in class.
+
+#
+
+## **Optional Conversation with Justin** # 
+**Max:** Yo, Justin.
+
+**Justin:** Check out the Max. Come to thrash?
+
+Oh yeah.Oh yeah.
+
+**Max:** Oh, yeah. Bring it.
+
+**Justin:** What's your first move gonna be?
+
+**Max:** Uh...jump?
+
+**Justin:** You're such a poser. If you can't even name a simple noseslide or a tre flip, you should walk on.
+
+|-|Thrash?# Thrash?
+
+**Max:** Thrash? You mean stage diving or...
+
+**Justin:** You're such a poser. If you can't even name a simple noseslide or a tre flip, you should walk on.
+
+|-|I came to Noseslide. (after rewind)I came to Noseslide. (after rewind)
+
+**Max:** I came to noseslide, but I'd love to see somebody do a "tre flip"!
+
+**Justin:** Oh, sick, you're not a poser.
+
+**Max:** Nah, I just can't skate worth shit.
+
+**Justin:** Oh, check it. We're gonna destroy some rails for you. What do you want to see?
+
+{{#tag:tabber|Noseslide.# Noseslide.
+
+**Max: **I'd love to see a...noseslide.
+
+**Justin:** Let's get [Trevor](trevor.md) all over that action.
+
+*Trevor does the trick successfully.*
+
+{{!}}-{{!}}Tre flip.Tre flip.
+
+**Max: **Go for a "tre flip".
+
+**Justin: **Let's get [Trevor](trevor.md) all over that action.
+
+*Trevor fails to do the trick.*
+
+}}
+
+# #
+
+## **Optional Conversation with Justin #2** 
+
+**Max:** Hey.
+
+(Trevor did a noseslide)# (Trevor did a noseslide)
+
+**Justin:** You're not really a Skate Betty.
+
+|-|(Trevor did a tre flip)(Trevor did a tre flip)
+
+**Justin:** I'm stoked to see those photos framed and shit. You're not really a Skate Betty, though.
+
+I used to be.# I used to be.
+
+**Max:** I used to be, but I'm into my camera now.
+
+**Justin:** I can tell. We need more girls out here. Rachel Amber and her punk friend used to skate with us...
+
+|-|Not really.Not really.
+
+**Max:** Not really.
+
+**Justin:** Too bad. It's nice to have the females on board too. Rachel Amber and her punk friend used to love skating with us.
+
+You knew Rachel?# You knew Rachel?
+
+**Max:** You knew Rachel?
+
+**Justin:** She used to chill with us sometimes. But one day she just vanished... Hope she's livin' the dream somewhere. If anybody hurt her we'll get a skate posse and take 'em out with our boards.
+
+|-|Punk friend?Punk friend?
+
+**Max:** Who was Rachel's punk friend?
+
+**Justin:** I can't remember her name... But she was hot. Tats. Blue hair. Hardcore. She stopped hanging out with us after Rachel disappeared...or ran away.
+
+|-|You hang with Victoria?# You hang with Victoria?
+
+**Max:** You ever hang out with Victoria?
+
+**Justin:** Fuck that! I'd rather rollerblade than hang out with snobs like her.
+
+|-|Let's chill later.Let's chill later.
+
+**Max:** Let's chill later, Justin.
+
+**Justin:** Anytime you want to take some action shots, we're here for you, Max.
+
+# #
+
+
+
+Generate five trivia questions relevant to this section of the page.

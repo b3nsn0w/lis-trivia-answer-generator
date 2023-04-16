@@ -1,0 +1,60 @@
+#  Aaron Price 
+
+**Aaron Price** is [William Price](william_price.md)'s younger brother, [Joyce Price](joyce_price.md)'s brother-in-law, and [Chloe Price](chloe_price.md)'s paternal uncle. He writes a [Media:Aaron_Price_letter.png](letter.md) to William, apologizing for not staying in touch and wishing he could send him more money, in the [Alternative Timeline](alternative_timeline.md). It reads as follows:
+
+[File:Aaron_Price_letter.png](thumb.md)
+
+{{Bigquote 
+|Hi Bill,
+
+Sorry for not staying in touch since the accident.
+Work has been piling up and I'm being sent to Salt Lake City
+to oversee a new parking lot. You have to go where the work is these days.
+
+I wish I could have sent you a bigger check but you know the story. Money is nobody's favorite thing.
+
+Maybe I'll see you next spring for a visit.
+
+Kiss Chloe and Joyce for me.
+
+Hang in there, Billy.
+
+Your brother,
+
+Aaron
+}}
+
+In *[Farewell](farewell.md)*, an email from William to Aaron can be seen on [William's Computer](william_and_joyce_s_computer.md) in their room. William praises Aaron's pressure washer and invites him to come over. The email reads as follows:
+
+[File:Farewell_WilliamToAaronLetter.png](thumb.md)
+
+{{Bigquote
+|SUBJECT: Thanks for the pressure washer!
+
+Finally used your pressure washer today and I just wanted to say thanks again for letting me borrow it! Works like a charm! It‘s not our dream house, but now it can at least be the right color!
+
+If you want to come over next weekend and give me a hand, there'll be a cold beer in it for you! Give me a call!
+
+Hope everything at work is still going well, and tell Linda I say hello!
+
+-William
+}}
+{{Character Navbox}}
+
+In *[Farewell](farewell.md)*, an email from William to Aaron can be seen on [William's Computer](william_and_joyce_s_computer.md) in their room. William praises Aaron's pressure washer and invites him to come over. The email reads as follows:
+
+[File:Farewell_WilliamToAaronLetter.png](thumb.md)
+
+{{Bigquote
+|SUBJECT: Thanks for the pressure washer!
+
+Finally used your pressure washer today and I just wanted to say thanks again for letting me borrow it! Works like a charm! It‘s not our dream house, but now it can at least be the right color!
+
+If you want to come over next weekend and give me a hand, there'll be a cold beer in it for you! Give me a call!
+
+Hope everything at work is still going well, and tell Linda I say hello!
+
+-William
+}}
+{{Character Navbox}}
+

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Did Chloe Steal From David's Gun Rack?",
+    "answer": "B",
+    "choices": {
+      "A": "A Hunting Rifle",
+      "B": "A Revolver",
+      "C": "A Shotgun",
+      "D": "A Pistol"
+    }
+  },
+  {
+    "question": "What Did Chloe Use To Break Into The Principal's Office?",
+    "answer": "D",
+    "choices": {
+      "A": "A Key",
+      "B": "A Crowbar",
+      "C": "A Hammer",
+      "D": "Lock Picks"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Gallery Where Max And Principal Wells Are During The Storm?",
+    "answer": "A",
+    "choices": {
+      "A": "Zeitgeist Gallery",
+      "B": "Blackwell Gallery",
+      "C": "Arcadia Gallery",
+      "D": "Jefferson Gallery"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Episode Where Chloe Dies In The Alternative Timeline?",
+    "answer": "C",
+    "choices": {
+      "A": "Chrysalis",
+      "B": "Out of Time",
+      "C": "Dark Room",
+      "D": "Polarized"
+    }
+  }
+]

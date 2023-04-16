@@ -1,0 +1,93 @@
+Here is a section of the wiki page for Max's Notes:
+
+## Notes 
+
+" period...
+|style# "height:186px; vertical-align:top"|Look[File:note2-kateroom-creepydrawing.png](220px.md)
+|-|Read# None
+|-
+|'''Kate's drawing.'''
+Location: On Kate's bed inside her room.
+Max's comments: Kate's art is perfect for a children's book—everything looks so fun and colorful and... positive.
+|style"height:186px; vertical-align:top"|Look# [File:note2-kateroom-drawing.png](220px.md)
+|-|ReadNone
+|-
+|**Photo of the [:Category:Marsh Family](marsh_family.md).**
+Location: Kate's room.
+Max's comments: Damn, it's the All-American Zombie Family.
+|style# "height:186px; vertical-align:top"|Look[File:note2-kateroom-familyphoto.png](220px.md)
+|-|Read# None
+|-
+|**Photo of Kate with Alyssa and Stella.**
+Location: Kate's room.
+Max's comments: I had no idea that Kate ever hung out with Alyssa and Stella...
+|style"height:186px; vertical-align:top"|Look# [File:note2-kateroom-friendphoto.png](220px.md)
+|-|ReadNone
+|-
+|**Postcard from Richard Marsh to Kate (front side).**
+Location: Kate's room.
+Max's comments: None
+|style# "height:186px; vertical-align:top"|Look[File:note2-kateroom-postcardone.png](220px.md)
+|-|Read# None
+|-
+|**Postcard from Richard Marsh to Kate (back side).**
+Location: Kate's room.
+Max's comments: Kate really has a doting father.
+|style"height:186px; vertical-align:top"|Look# [File:note2-kateroom-postcardtwo.png](220px.md)
+|-|Read[File:note2-kateroom-postcardtwo2.png](220px.md)
+|-
+|**"Safe Not Sorry" poster.**
+Location: Stuck on a side of a desk in Kate's room.
+Max's comments: Maybe Kate has a split personality... Church girl by day, party monster by night?
+|style# "height:186px; vertical-align:top"|Look[File:note2-kateroom-safesorry.png](220px.md)
+|-|Read# [File:note2-kateroom-safesorry2.png](220px.md)
+|-
+|**Photo of Kate with her sisters.**
+Location: Kate's room.
+Max's comments: Almost forgot what Kate looks like when she smiles...
+|style"height:186px; vertical-align:top"|Look# [File:note2-kateroom-sisterphoto.png](220px.md)
+|-|ReadNone
+|-
+|**Email from Mrs. Marsh to Kate.**
+Location: Screen of Kate's tablet in her room.
+Max's comments: Kate is all alone dealing with this video bullshit. I hope her mother doesn't disown her...
+|style# "height:186px; vertical-align:top"|Look[File:note2-kateroom-tablet.png](220px.md)
+|-|Read# [File:note2-kateroom-tablet2.png](220px.md)
+|-
+|**Rachel Amber Missing Person poster.**
+Location: [Samuel Taylor](samuel.md)'s [Custodial Room](custodial_room.md).
+Max's comments: I can see that Samuel's concerned but... does he need a poster?
+|style"height:186px; vertical-align:top"|Look# [File:note2-custodial-rachelposter.png](220px.md)
+|-|ReadNone
+|-
+|**Photos of Rachel posing.**
+Location: Samuel's custodial room.
+Max's comments: How did Samuel get photos of Rachel posing?
+|style# "height:186px; vertical-align:top"|Look[File:note2-custodial-rachelphotos.png](220px.md)
+|-|Read# 
+|-
+|**Article in [The Independent](the_independent.md).**
+Location: Newspaper kiosk near the [Two Whales Diner](two_whales_diner.md).
+Max's comments: "Snow" — well, that's a good start to the story...
+|style"height:186px; vertical-align:top"|Look# [File:note2-dinerout-independent.png](220px.md)
+|-|Read[File:note2-dinerout-independent2.png](220px.md)
+|-
+|**"Save Our Bay" flyer.**
+Location: In front of the [R.J. MacReady](fisherman.md) in the Two Whales parking lot.
+Max's comments: Look at all these flyers. It's so sad that nobody will read them...
+|style# "height:186px; vertical-align:top"|Look[File:note2-dinerout-savebay.png](220px.md)
+|-|Read# [File:note2-dinerout-savebay2.png](220px.md)
+|-
+|**Halloween flyer.**
+Location: Near the entrance of the Two Whales Diner.
+Max's comments: Now that brings back memories... Chloe and I loved the parade...
+|style"height:186px; vertical-align:top"|Look# [File:note2-diner-halloweenflyer.png](220px.md)
+|-|Read[File:note2-diner-halloweenflyer2.png](220px.md)
+|-
+|**[Pan Estates](pan_estates.md) flyer.**
+Location: Near the entrance of the Two Whales Diner.
+Max's comments: Good Lord. Talk about apocalyptic...
+|style# "height:186px; vertical-align:top"|Look[File:note2-diner-panestatesflyer.png](220px.md)
+|-|Read# 
+
+Generate five trivia questions relevant to this section of the page.

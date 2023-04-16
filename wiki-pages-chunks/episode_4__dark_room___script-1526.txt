@@ -1,0 +1,95 @@
+Here is a section of the wiki page for Episode 4: Dark Room - Script:
+
+here...
+
+{{!}}-{{!}}Prophecy.Prophecy.**Max:** So, you don't think this could be some kind of..prophecy or something?
+
+**Ms. Grant:** Max, you know how fascinated I am by Arcadia Bay legends, but I haven't found any apocalyptic signs yet...unless you count those "End of the World" posters.
+
+}}
+
+**Ms. Grant:** Unless you know something I don't?
+
+{{#tag:tabber|Time travel.# Time travel.**Max:** What about wormholes and Chaos theory? Like, time travel stuff?
+
+**Ms. Grant:** The only wormholes in Arcadia Bay are underground. And Chaos Theory is just that... But if this is about time travel, sign me up.
+
+**Max:** Would you really change time?
+
+**Ms. Grant:** Not after reading that Bradbury story, "A Sound of Thunder." I won't give it away, but it involves dinosaurs and butterflies. Time is like a thread, Max. One tug and it all can unravel.
+
+{{!}}-{{!}}Tobanga.Tobanga.**Max:** I wonder if the Tobanga knows more than anybody here...
+
+**Ms. Grant:** Oh, Max, nobody even knows who brought the Tobanga here. It was likely stolen from the South Pacific by local fishermen. But I know what you're saying. There's a lot of energy here.
+
+}}
+
+|-|Nathan.# Nathan.**Max:** I was looking for Nathan Prescott and I thought he might be in your class...
+
+{{#tag:tabber|(Nathan is suspended)(Nathan is suspended)**Ms. Grant:** Mr. Prescott has no class at all, after his suspension. I didn't think you were friends.
+
+{{#tag:tabber|Hell no.# Hell no.**Max:** Hell no. Sorry, Ms. Grant.
+
+**Ms. Grant:** You're an adult, you can swear, damn it. And I'm glad you did.
+
+**Max:** So, you haven't seen Nathan at all?
+
+**Ms. Grant:** Let's just say I try not to, Max. But I did catch him storming off campus. After what happened this week, I hope you don't see him either. You're not the best student here, but you--you might be the wisest.
+
+{{!}}-{{!}}You know him better.You know him better.**Max:** You probably know him better...
+
+**Ms. Grant:** I've tried. Nathan is a Prescott and with that comes a lot of baggage. Too much for one teenager. This week was the proof... Principal Wells did the right thing.
+
+**Max:** I know. Nathan needs real help.
+
+**Ms. Grant:** Yes, he does, Max. I did try once...but Mr. Prescott didn't appreciate my help. I did see Nathan leaving the campus, looking angrier than usual, so...maybe it's good you haven't found him.
+
+}}
+
+{{!}}-{{!}}(Nathan isn't suspended)# (Nathan isn't suspended)**Ms. Grant:** I'm surprised, Max. I didn't think you and Nathan were exactly friends.
+
+{{#tag:tabber|No way.No way.**Max:** No way. I just have to... ask him a question.
+
+**Ms. Grant:** I saw him leaving campus looking angrier than usual. But to be honest, Max, Nathan hasn't been too well lately. You might know more about that than me.
+
+**Max:** Too much...
+
+**Ms. Grant:** I can tell. You look like you have more than a question on your mind. Maybe asking Nathan isn't such a good idea right now. You hear me, Max?
+
+{{!}}-{{!}}Study partners.# Study partners.**Max:** Just... study partners. I can't believe he does have friends.
+
+**Ms. Grant:** That depends what your definition is... But I'd like to see more friendships at Blackwell, less bullying. Especially after this week.
+
+**Max:** Me too, Ms. Grant. So you don't know where Nathan is?
+
+**Ms. Grant:** I saw him sulking off campus earlier. But you look like you have more on your mind than a question...
+
+}}
+
+}}
+
+|-|Kate.Kate.**Max:** I don't think surveillance would've helped Kate Marsh.
+
+{{#tag:tabber|(Saved Kate)# (Saved Kate)**Ms. Grant:** Who needs surveillance when we have Maxine Caulfield? You did a wonderful thing and now we have to make sure Kate gets the help she needs.
+
+{{!}}-{{!}}(Couldn't save Kate)(Couldn't save Kate)**Ms. Grant:** Oh, Max, I'm so sorry you had to go through that... Kate was the sweetest student I've ever met at Blackwell...and they can be so cruel to each other...
+
+}}
+
+**Ms. Grant:** Do you need to talk to a counselor?
+
+{{#tag:tabber|Blackwell needs help.# Blackwell needs help.**Max:** Blackwell Academy needs the help. There's something terrible going on here... You see it, right?
+
+**Ms. Grant:** This week hasn't been Blackwell's finest hour. But me and some faculty members won't rest until all the students here feel safe, not bullied.
+
+{{!}}-{{!}}No, thanks.No, thanks.**Max:** Uh, no, thanks, Ms. Grant. I have my best friend and my parents...for now.
+
+**Ms. Grant:** I'm happy to hear that, Max. Just don't ever be afraid to talk to somebody, okay? I wish Kate had come to me... I had no idea what she was going through.
+
+}}
+
+**Max:** Kate was drugged at the Vortex Club party and bullied by them, until she ended up on the roof. How do you stop that?
+
+**Ms. Grant:** Shut down that damn Vortex Club, for a start! I don't mean to get riled up, but that party should've been postponed. It's extremely tasteless given what happened with 
+
+Generate five trivia questions relevant to this section of the page.

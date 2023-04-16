@@ -1,0 +1,28 @@
+#  Hospital Ending 
+
+[File:Life is Strange Hospital Ending Sacrifice Chloe Concept Art.jpg](thumb.md).]]
+The **Hospital Ending** was an alternate version of the "Sacrifice Chloe" ending planned for the original *[Life is Strange](life_is_strange.md)*, in which [Chloe Price](chloe_price.md) would have fallen into a coma instead of being killed. The scene would have shown [Maxine Caulfield](max_caulfield.md) waking up in the hospital next to Chloe's hospital bed instead of attending Chloe's funeral.
+
+##  Background 
+Co-Director [Michel Koch](michel_koch.md) explained in an interview[http://www.shacknews.com/article/92865/life-is-strange-co-director-discusses-the-games-endings-production-and-answers-chatty-questions LiS co-director discusses the game's endings, production, and answers Chatty questions] (Shacknews, January 22, 2016):
+
+:''“It wasn't a third ending. It was when we were in the writing process, when you make the choice of sacrificing Chloe to save Arcadia Bay, we were hesitating between really killing Chloe like we did and maybe leaving her in a coma to offer hope that she could still be alive. But ultimately, when we were writing, we thought that it wasn't a good decision to go this way, because it would reduce the impact of your choice. So if you’re making the choice of sacrificing Chloe, we shouldn't make a cop-out and we should go all the way to really offer an end.”''
+
+With the mentioning of a location called **"Hospital - Ending"** in the [Unused Content#Unused Locations](game_files.md) since [Episode 1: Chrysalis](episode_1.md), it was speculated whether [Don't Nod](dontnod_entertainment.md) originally intended to provide a third ending where Max ended up in the hospital - probably shot by [Nathan Prescott](nathan_prescott.md) after intervening in his and Chloe's confrontation in the bathroom at [Blackwell Academy](blackwell_academy.md), and so preventing both [Arcadia Bay](arcadia_bay.md)'s destruction and Chloe's death. This possible outcome inspired a lot of fan fictions.
+
+The [Hospital](hospital_room.md) scene in [Episode 4: Dark Room](episode_4.md) was originally created for this alternate Sacrifice Chloe ending, which is evident by a concept art done in an early stage of development (see above). Furthermore, [Kate Marsh](kate_marsh.md)'s appearance in the hospital wasn't originally planned either; it was only added because the players liked Kate so much.
+
+ Hospital Ending =
+
+[File:Life is Strange Hospital Ending Sacrifice Chloe Concept Art.jpg](thumb.md).]]
+The **Hospital Ending** was an alternate version of the "Sacrifice Chloe" ending planned for the original *[Life is Strange](life_is_strange.md)*, in which [Chloe Price](chloe_price.md) would have fallen into a coma instead of being killed. The scene would have shown [Maxine Caulfield](max_caulfield.md) waking up in the hospital next to Chloe's hospital bed instead of attending Chloe's funeral.
+
+##  Background 
+Co-Director [Michel Koch](michel_koch.md) explained in an interview[http://www.shacknews.com/article/92865/life-is-strange-co-director-discusses-the-games-endings-production-and-answers-chatty-questions LiS co-director discusses the game's endings, production, and answers Chatty questions] (Shacknews, January 22, 2016):
+
+:''“It wasn't a third ending. It was when we were in the writing process, when you make the choice of sacrificing Chloe to save Arcadia Bay, we were hesitating between really killing Chloe like we did and maybe leaving her in a coma to offer hope that she could still be alive. But ultimately, when we were writing, we thought that it wasn't a good decision to go this way, because it would reduce the impact of your choice. So if you’re making the choice of sacrificing Chloe, we shouldn't make a cop-out and we should go all the way to really offer an end.”''
+
+With the mentioning of a location called **"Hospital - Ending"** in the [Unused Content#Unused Locations](game_files.md) since [Episode 1: Chrysalis](episode_1.md), it was speculated whether [Don't Nod](dontnod_entertainment.md) originally intended to provide a third ending where Max ended up in the hospital - probably shot by [Nathan Prescott](nathan_prescott.md) after intervening in his and Chloe's confrontation in the bathroom at [Blackwell Academy](blackwell_academy.md), and so preventing both [Arcadia Bay](arcadia_bay.md)'s destruction and Chloe's death. This possible outcome inspired a lot of fan fictions.
+
+The [Hospital](hospital_room.md) scene in [Episode 4: Dark Room](episode_4.md) was originally created for this alternate Sacrifice Chloe ending, which is evident by a concept art done in an early stage of development (see above). Furthermore, [Kate Marsh](kate_marsh.md)'s appearance in the hospital wasn't originally planned either; it was only added because the players liked Kate so much.
+

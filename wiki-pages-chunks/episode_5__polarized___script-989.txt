@@ -1,0 +1,68 @@
+Here is a section of the wiki page for Episode 5: Polarized - Script:
+
+## **Ground Floor** 
+*Max walks slowly near the entrance of the [Zeitgeist Gallery](gallery.md) and stares in awe at the people and pictures. Principal Wells is talking to the woman at the front desk. Max approaches him and touches his arm to get his attention, and he turns to face her.*
+
+**Max:** San Francisco is so cool...and this gallery is huge!
+
+**Principal Wells:** So is the buffet. If an event skimps on the food, you know it's a bad event.
+
+**Max:** As long as I don't have to eat any caviar...
+
+**Principal Wells:** This is your day, Max. You can do whatever you want. I hope you take advantage of your status and talk to as many influential people here as possible. Work the room.
+
+**Max:** I don't know... I feel so weird, like I'm a little kid hanging with the adults.
+
+**Principal Wells:** Max, after this week, you are certainly not a little kid anymore. In fact, you're a noteworthy adult being honored by your peers. Now, you have to start acting like the photographer you want to be. Hell, I wanted to be in charge of a big school someday, so I started taking charge of things when I was young. *[chuckles]* Ask my poor classmates... Max, I'm gonna eat up that caviar so you don't have to. Better get in there and start schmoozing. You know, I won't always be here to take charge. But you come talk to me, whenever you want.
+
+*Principal Wells pats Max on the back, then leaves and walks toward the buffet table.*
+
+**Max:** Come on, Max... After everything that's happened, this should be the least scary thing you've ever done.
+
+**Max:** *(thinking)* Wowser, Max... You did it. Somehow... I went from the Dark Room...to this gallery. I've been through so many realities in one week. Life is...weird.
+
+**Optional Conversation with the Receptionist**
+
+**Receptionist:** Why, good morning! You must be Max Caulfield. Congratulations for your "Everyday Heroes" photo! The exhibition is quite impressive, especially with your entry.
+
+**Conversation Between Man and Woman Near Neon Art**
+
+**Man:** I heard Mark Jefferson was supposed to be here tonight.
+
+**Woman:** Not anymore.
+
+**Man:** That was so shocking. I have one of his monographs too.
+
+**Woman:** Hold onto it. His work is gonna be worth serious cash.
+
+**Optional Conversation with Man Near Neon Art**
+
+**Man:** Are you Max Caulfield? Bravo on your entry. I'm the art critic for Iris-In Magazine, and we would love to include you in a piece about future trendsetters in photography. I'll send you the details this week, if that's okay. Congratulations for your piece.
+
+**Conversation Between Family Behind Everyday Heroes Board**
+
+**Man:** Look at this print, the depth of field , the colors, look at the bokeh shape, this was definitely shot with a medium format camera, using a Leica 35mm lens. You can definitely find out those details, the story of a photo… if you know how to look at all the details of a picture.
+
+**Woman:** *(sarcastically)* Ooh, this is so interesting Matthew, I didn't think you knew about all this.
+
+**Matthew:** When I was younger I did a lot of photography studies, didn't I tell you about it Emma? I was quite good at it actually, but I decided to drop photography to do a real paying job... Anyway, it is interesting to be here, and you're lucky to be with me here, I can share all of this with you.
+
+**Girl:** Errr Dad, the label says that this is a print from a disposable camera, what are you talking about?
+
+**Matthew:** Oh, yes of course, I was meaning a Leica disposable camera… yes, yes… and don't contradict me anyway...
+
+**Girl:** *[scoffs]* Whatever...
+
+#
+
+## **Lower Floor** 
+
+**Optional Conversation with Woman**
+
+**Woman:** Aren't you from Blackwell Academy? I wanted to go there, but I didn't get in... They have such a cool program! I bet you're learning a lot.
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

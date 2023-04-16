@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is Thomas Defianas' Role In The Life is Strange Franchise?",
+    "answer": "B",
+    "choices": {
+      "A": "Writer",
+      "B": "Environment Artist",
+      "C": "Voice Actor",
+      "D": "Composer"
+    }
+  },
+  {
+    "question": "Which Other Game Developed By Dontnod Did Thomas Defianas Work On?",
+    "answer": "D",
+    "choices": {
+      "A": "Remember Me",
+      "B": "Life is Strange: Before the Storm",
+      "C": "Tell Me Why",
+      "D": "Twin Mirror"
+    }
+  },
+  {
+    "question": "Which Life is Strange Installments Directed By Dontnod Did Thomas Defianas Work On?",
+    "answer": "D",
+    "choices": {
+      "A": "Life is Strange: Before the Storm",
+      "B": "The Awesome Adventures of Captain Spirit",
+      "C": "Life is Strange 2",
+      "D": "All of the Above"
+    }
+  },
+  {
+    "question": "What Is One Piece Of Trivia Mentioned About Thomas Defianas On His Twitter Account?",
+    "answer": "C",
+    "choices": {
+      "A": "He Is A Vegetarian",
+      "B": "He Is A Professional Gamer",
+      "C": "He Is Openly Gay",
+      "D": "He Is A Published Author"
+    }
+  }
+]

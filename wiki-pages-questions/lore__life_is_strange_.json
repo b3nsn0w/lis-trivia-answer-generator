@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Category Name For The List Of Lore In Life Is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "Life Is Strange Lore",
+      "B": "Lore (Life Is Strange)",
+      "C": "Life Is Strange Trivia",
+      "D": "Life Is Strange Facts"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Game That The Lore Category Is For?",
+    "answer": "D",
+    "choices": {
+      "A": "Life is Strange: Before the Storm",
+      "B": "Life is Strange 2",
+      "C": "Life is Strange: True Colors",
+      "D": "Life is Strange"
+    }
+  },
+  {
+    "question": "What Does The Lore Category Feature?",
+    "answer": "D",
+    "choices": {
+      "A": "A List Of All Characters In The Game",
+      "B": "A List Of All Episodes In The Game",
+      "C": "A List Of All Locations In The Game",
+      "D": "A List Of All Lore In The Game"
+    }
+  },
+  {
+    "question": "Which Season Of Life Is Strange Does The Lore Category Refer To?",
+    "answer": "A",
+    "choices": {
+      "A": "Season 1",
+      "B": "Season 2",
+      "C": "Before the Storm",
+      "D": "True Colors"
+    }
+  },
+  {
+    "question": "What Is The Purpose Of The Lore Category In Life Is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "To Provide Trivia Questions",
+      "B": "To Provide Information About The Game World",
+      "C": "To Provide A List Of Achievements",
+      "D": "To Provide A List Of Bugs And Glitches"
+    }
+  }
+]

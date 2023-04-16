@@ -1,0 +1,54 @@
+Here is a section of the wiki page for Don't Nod:
+
+2020)[https://www.gamesindustry.biz/articles/2020-05-29-dontnod-entertainment-opens-new-canadian-studio Dontnod Entertainment opens new Canadian studio] (May 29, 2020)
+
+In March 2020, a new *Life is Strange* title named *[Life is Strange: True Colors](life_is_strange__true_colors.md)* was revealed by Square Enix. Like *Before the Storm*, the prequel to the original *Life is Strange*, this game is being developed by Colorado-based Deck Nine Games who were contracted by publisher Square Enix for another entry to the franchise. It was also revealed that *Life is Strange* and *Before the Storm* would be re-released as remastered editions in fall 2021.
+
+In a financial report from March 31, 2021, Dontnod reveal their plan to focus on self-publishing.Ref needed. Reveal of Gerda: A Flame in Winter, co-operation with Danish studio PortaPlay. Eurogamer reported that with the announcement of *True Colors*, 
+
+In 2022, Dontnod rebranded their studio and changed their studio name's spelling to "Don't Nod". (TBC) ## Known Team 
+The following Dontnod members are publicly known to have been involved in the creation of the *Life is Strange* games:
+{{col-begin}}
+
+{{col-2}}
+* [Oskar Guilbert](oskar_guilbert.md) (Founder, President)
+* [Alain Damasio](alain_damasio.md) (Founder, Former Writer)
+* [Jean-Maxime Moris](jean_maxime_moris.md) (Founder, Former Creative Director)
+* [Aleksi Briclot](aleksi_briclot.md) (Founder, Former Illustrator)
+* Hervé Bonin (Founder, Former Production Designer)
+* [Luc Baghadoust](luc_baghadoust.md) (Producer)
+* [Jean-Luc Cano](jean_luc_cano.md) (Writer)
+* [Christian Divine](christian_divine.md) (Writer)
+* [Michel Koch](michel_koch.md) (Creative Director, Writer, Art Director, Concept Artist)
+* [Raoul Barbet](raoul_barbet.md) (Director)
+* [Saheb Sofiane](saheb_sofiane.md) (Lead Narrative Designer) 
+
+{{col-2}}
+* [Macha Lopez](macha_lopez.md) (Narrative Designer)
+* Baptiste Moisan (Lead Designer)
+* [Amaury Balandier](amaury_balandier.md) (Lead Environment Artist)
+* [Thomas Defianas](thomas_defianas.md) (Environment Artist)
+* [Suzy Bouche](suzy_bouche.md) (Character Artist 3D)
+* [Juliette Devillers](juliette_devillers.md) (Character Artist 3D)
+* Amaury Darras (Character Artist)
+* [Simon Svoboda](simon_svoboda.md) (Level Designer) 
+* [Sébastien Gaillard](s_bastien_gaillard.md) (Audio Director)
+* [Yannick Tassin](yannick_tassin.md) (Audio Lead)
+* [Frederic Devanlay](frederic_devanlay.md) (Sound Designer)
+{{col-end}}
+
+During the development of the original *Life is Strange* and following installments, several people from Square Enix helped Dontnod's team:
+* [Alejandro Arque](alejandro_arque.md) (Game Designer at Square Enix)
+* Scott Blows ([Community Management](community_manager.md) at Square Enix, until December 2015)
+* Toby Palm (Community Manager at Square Enix, since 2015)
+* Anne Chanteau (Communications Manager at Dontnod)
+* Corentin Naud (Community Manager at Dontnod since December 2018)
+
+The voice over production was directed by [Philip Bache](philip_bache.md).
+
+During the development of *Life is Strange 2*, the writing team was assisted by Steve Gaynor and 
+Karla Zimonja, co-founders of {{Wiki|Fullbright (company)|Fullbright}} and creators of *{{Wiki|Gone Home}}*.
+
+
+
+Generate five trivia questions relevant to this section of the page.

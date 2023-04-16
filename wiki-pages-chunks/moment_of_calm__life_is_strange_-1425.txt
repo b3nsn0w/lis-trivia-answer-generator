@@ -1,0 +1,36 @@
+Here is a section of the wiki page for Moment of Calm (Life is Strange):
+
+## Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+{| class# "wikitable" style"border: 1px solid #57333F; background: transparent; width:100%"
+! Location
+! Max's comments
+|-
+| [File:Moc-spooltable-ep4.jpg](220px.md)Spool table in [Chloe's Room#Alternate_Timeline](alternativechloe_s_room.md) upstairs.||"I'm still overwhelmed by this [Alternative Timeline](new_reality.md). And I feel so guilty for putting Chloe and her family through this. I could give Chloe the choice of keeping [William Price](william.md) alive, but that would be cruel. But then I see that they're a family again, and... who am I to judge?"
+|-
+| [File:Moc-chloesbed-ep4.jpg](220px.md)Return to the [Timeline](original_timeline.md)(Chloe’s bed).||Accepted Chloe's request# Accepted Chloe's request"Welcome back to the real world, Max… I don't think I can ever tell Chloe about what happened. How can I explain to my best friend that I put her in a wheelchair just to euthanize her... and then I had to let her father die again? So... no fucking way. Chloe has enough excuses to hate the world. But if my [The Storm](tornado.md) vision is true, then we might not have a world after this week…"
+|-|Refused Chloe's requestRefused Chloe's request"Welcome back to the real world, Max… I don't think I can ever tell Chloe about what happened. How can I explain to my best friend that I put her in a wheelchair, then refused to honor her dying request... Then I had to let her father die again? So... no fucking way. Chloe has enough excuses to hate the world. But if my [The Storm](tornado.md) vision is true, then we might not have a world after this week…"
+|-
+| [File:Moc-stool-ep4.jpg](220px.md)Stool near the kitchen in Chloe’s house.||"Somehow I existed in this whole other reality, but I don't know what happened... The more I use my power, the more I see how little control I have over what happens. Now Max Caulfield exists in two or maybe three different realities... How can I have a destiny?"
+Accepted Chloe's request# Accepted Chloe's request"If these alternate lives exist, I hate the thought of William and [Joyce](joyce.md) finding Chloe like that. Thinking about all these lifelines almost makes my head hurt worse than the rewind."
+|-|Refused Chloe's requestRefused Chloe's request"I wonder if Chloe would hate me for keeping her alive... but I couldn’t do it. Thinking about all these lifelines almost makes my head hurt worse than the rewind."
+|-
+| [File:Moc-hospitalchair-ep4.png](220px.md)Chair inside Kate’s [Hospital](hospital.md) room(available only if Kate is alive).||"It’s amazing to just sit here quiet with Kate again… If I couldn’t freeze time, would she really have jumped anyway? I don’t think I’ll ever know how much destiny I’m changing… But who ever said we only have a single fate? Time travel is such a mindfuck…"
+|-
+| [File:Moc-partychair-ep4.jpg](220px.md)Chair inside the VIP section of the[End of the World Party](end_of_the_world_party.md).||"Kate (almost) dead... [Rachel Amber](rachel.md) dead... Enter the [Vortex Club](vortex_club.md). Look at these entitled assholes... they don’t give a shit about anybody. If that tornado came right now, I would just sit here and watch for a while. But I have to make sure Chloe doesn’t go on her own rampage… I hate feeling this way... dark and angry…"
+|}
+
+## Episode Five - "[Episode 5: Polarized](polarized.md)" 
+{| class# "wikitable" style"border: 1px solid #57333F; background: transparent; width:100%"
+! Location
+! Max's comments
+|-
+| [File:Moc-gallerycouch-ep5.jpg](220px.md)Couch in the [Zeitgeist Gallery](zeitgeist_gallery.md)(second floor).||"I can't believe I'm in San Francisco… How can I process this after all the death I've seen this week? I wish Chloe was here with me now… Without her, I couldn't have fought [Jefferson](jefferson.md)... And she always pushed me to not be shy about my photos… Even if that feels so trivial after what happened with Rachel... and Kate. But for whatever reason I have this power, I hope I finally used it right…"
+|-
+| [File:Moc-dinerbooth-ep5.jpg](220px.md)Booth at the [Two Whales Diner](two_whales_diner.md).||"Max, give yourself one moment to do nothing... This is where I convinced Chloe I could rewind time. So what's the point of this power, what's the lesson... To keep fixing what I keep fucking up? No, because I didn't ask for this "gift"... But I was able to stop Mark Jefferson... and now I can stop Chloe from dying... for the last time."
+|-
+| [File:Moc-nightmarechair-ep5.jpg](220px.md)Chair in the maze sequence of [Max's Nightmare](max_s_nightmare.md) (Chloe and Rachel’s [hideout](hideout.md)).||"Max, sit down. You're taking a time-out no matter what. If this is my nightmare, let me have one sanctuary... Of course this is where Chloe... and Rachel... used to hide from the world... But I can't hide for long. Whatever reality I'm in... feels like a bad dream... Am I just not learning my lesson? Maybe your real lesson is to get out of this place... Just don't be afraid, Max. Let them be afraid of you."
+|}
+
+
+
+Generate five trivia questions relevant to this section of the page.

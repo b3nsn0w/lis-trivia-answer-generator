@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Did Chloe Draw On The Orientation Map Found Next To The Lighthouse?",
+    "answer": "A",
+    "choices": {
+      "A": "A Red Skull And Crossbones",
+      "B": "A Heart",
+      "C": "A Smiley Face",
+      "D": "A Flower"
+    }
+  },
+  {
+    "question": "What Did Max And Chloe Enjoy Eating For Breakfast?",
+    "answer": "C",
+    "choices": {
+      "A": "Pancakes",
+      "B": "Cereal",
+      "C": "Eggs And Bacon",
+      "D": "Toast"
+    }
+  },
+  {
+    "question": "What Did Max And Chloe Pretend To Be When Playing In The Forests?",
+    "answer": "C",
+    "choices": {
+      "A": "Superheroes",
+      "B": "Detectives",
+      "C": "Pirates",
+      "D": "Ninjas"
+    }
+  },
+  {
+    "question": "What Did Max And Chloe Use To Mark Their Height Over The Years?",
+    "answer": "B",
+    "choices": {
+      "A": "A Ruler",
+      "B": "A Height Chart",
+      "C": "A Measuring Tape",
+      "D": "A Yardstick"
+    }
+  },
+  {
+    "question": "What Did Max And Chloe Enjoy Doing At The Town's Annual Halloween Bazaar?",
+    "answer": "C",
+    "choices": {
+      "A": "Watching A Movie",
+      "B": "Going On Rides",
+      "C": "Participating In A Costume Parade",
+      "D": "Eating Cotton Candy"
+    }
+  }
+]

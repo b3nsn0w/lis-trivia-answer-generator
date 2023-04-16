@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Was The Name Of Chloe's Kitten?",
+    "answer": "A",
+    "choices": {
+      "A": "Bongo",
+      "B": "Whiskers",
+      "C": "Fluffy",
+      "D": "Mittens"
+    }
+  },
+  {
+    "question": "What Did Max And Chloe Mark On The Orientation Map Of Arcadia Bay?",
+    "answer": "A",
+    "choices": {
+      "A": "The Location Of Their Tree Fort",
+      "B": "The Location Of A Graveyard",
+      "C": "The Location Of A Secret Hideout",
+      "D": "The Location Of A Treasure Chest"
+    }
+  },
+  {
+    "question": "What Did Max And Chloe Do During Their Secret \"Wine-Tasting Sessions\"?",
+    "answer": "D",
+    "choices": {
+      "A": "Played Video Games",
+      "B": "Watched Movies",
+      "C": "Painted Together",
+      "D": "Drank Wine"
+    }
+  },
+  {
+    "question": "What Was The Reason For William's Death?",
+    "answer": "A",
+    "choices": {
+      "A": "He Was In A Car Accident",
+      "B": "He Had A Heart Attack",
+      "C": "He Was Murdered",
+      "D": "He Committed Suicide"
+    }
+  },
+  {
+    "question": "What Did Max And Chloe Engrave On The Wooden Board In Chloe's Backyard?",
+    "answer": "D",
+    "choices": {
+      "A": "Their Names",
+      "B": "A Treasure Map",
+      "C": "A Secret Code",
+      "D": "Clues For Their Investigation"
+    }
+  }
+]

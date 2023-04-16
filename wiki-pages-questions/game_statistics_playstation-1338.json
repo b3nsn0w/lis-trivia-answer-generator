@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What Is The Outcome Of The \"David vs. Chloe\" Major Choice In Episode Three?",
+    "answer": "B",
+    "choices": {
+      "A": "You Side With David",
+      "B": "You Side With Chloe",
+      "C": "You Remain Neutral",
+      "D": "You Kill David"
+    }
+  },
+  {
+    "question": "What Is The Outcome Of The \"Frank's Dog\" Major Choice In Episode Three?",
+    "answer": "B",
+    "choices": {
+      "A": "You Get Frank's Dog Hurt",
+      "B": "You Keep Frank's Dog From Harm",
+      "C": "You Kill Frank's Dog",
+      "D": "You Steal Frank's Dog"
+    }
+  },
+  {
+    "question": "What Is The Outcome Of The \"Chloe's Request\" Major Choice In Episode Four?",
+    "answer": "A",
+    "choices": {
+      "A": "You Accept Chloe's Request",
+      "B": "You Refuse Chloe's Request",
+      "C": "You Kill Chloe",
+      "D": "You Steal From Chloe"
+    }
+  }
+]

@@ -1,0 +1,71 @@
+Here is a section of the wiki page for Madsen Household:
+
+## Downstairs 
+*{{Interaction|Max can look at a leaflet labeled "The End is Now".|"This might be the one time these people are right..."}}
+*She can look at the family photos.
+*{{Interaction|She can look at the answering machine.|"Looks like a message..."}}
+*{{Interaction|She can also play and erase the message on the answering machine.|**Erase without listening: **"Oops. I hope that message wasn't for Joyce or Chloe..."
+**Erase after listening: **"Goodbye message. I think Chloe has earned a break from all this bullshit."}}
+*{{Interaction|She can look at and speak to Joyce **(required)**.|"Joyce looks so different in her street clothes."}}
+*{{Interaction|She can look at the refrigerator.|"I love that they still have the same refrigerator..."}}
+*She can open the sliding door leading to the backyard.
+**{{Interaction|She can look at a dead bird.|"Oooh, dead bird. Poor thing."
+"I wonder how these birds died?"}}
+**{{Interaction|She can look at several dead birds.|"Three dead birds lined up... That's fucking ominous."}}
+**{{Interaction|She can look at a swing and have a [Moment of Calm (Life is Strange)](moment_of_calm.md).|"Sitting in a swing always feels so comforting..."}}
+*{{Interaction|She will be able to open the refrigerator if she chooses to have eggs and bacon for breakfast.|"I should evolve and become a vegan but... Huh, bacon."}}
+*{{Interaction|She can look at a box of cereal.|"Wowser, Chloe still eats the same cereal... So do I..."}}
+*{{Interaction|She can open and close a window in the living room.|"I keep expecting to see the sky turn red..."}}
+*{{Interaction|She can look at and scare away a yellow bird in the living room.|**Look: **"Oh, look at the poor bird... He seems kind of freaked out..."
+**Scare: **"Bird, begone! Fly, you fool!"}}
+*{{Interaction|She can read an issue of [The Independent](the_independent.md).|**Kate alive: **"Oh man, I don't want to be famous for this..."
+**Kate dead: **Kate's life was sure worth a nice exploitive headline."}}
+*{{Interaction|She can look at a beer bottle on the living room table.|"Who drinks beer this early around here?"}}
+*{{Interaction|She can look at and eat her breakfast **(required)**.|**Bacon: **"Bring those eggs and bacon to my belly!"
+**Pancakes: **"Now that's what I call pancakes!"}}
+
+#
+
+## Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+**Note: [Alternative Price Household#Interactions](click_here.md) to view the alternative timeline interactions.**
+
+# #
+
+## Upstairs 
+*{{Interaction|Max can look at a picture of Arcadia Bay.|"This might be the last poster advertising Arcadia Bay after tomorrow night…"}}
+*{{Interaction|She can open the window and look out of it.|"It's such a warm beautiful day. How could a killer storm just pop up tomorrow?"}}
+*{{Interaction|She can look at the door of Joyce and David's room.|"Since David might be in there, I better mosey along for a change."}}
+*She can enter Chloe's room.
+*She can toggle the bathroom light switch.
+
+# #
+
+## Downstairs 
+*{{Interaction|Max can look at the family photos.|"David isn't any different from me when he's looking at those family photos."}}
+*{{Interaction|She can look at the front door of the house.|**Sided with Chloe: **"I helped Joyce lose William, and now David."
+**Sided with David: **"I give up William, but defend David... Would Chloe hate me if she knew?"}}
+*{{Interaction|She can read an issue of the [Arcadia Bay Beacon](arcadia_bay_beacon.md) newspaper.|"To think this all started with my vision of a tornado..."}}
+*{{Interaction|She can look at and repair the clock in the living room.|**Look: **"Did I actually cause that clock to stop?"
+**Repair: **"Oh... there's a ladybug stuck in the dials."
+**After repairing: **"Time keeps on ticking."}}
+*{{Interaction|She can look at the TV in the kitchen.|"Those poor whales are like beached angels. What is going on here?"}}
+*{{Interaction|She can look at the "Travel Money" jar.|"Looks like they’re back on the road to Paris."}}
+*{{Interaction|She can look at the fireplace.|"My butterfly sketch doesn't exist in this timeline...
+like William. 'Max the Time Bandit' strikes again."}}
+*She can open the backyard sliding door.
+**{{Interaction|She can look at the unpainted exterior of the house in the backyard.|"William never finished painting that wall…"}}
+**{{Interaction|She can look at several dead birds in the backyard.|**Sided with Chloe: **"Poor birds... I guess David wasn't in the mood to clean up."
+**Sided with David: **"David even made sure to bag up the dead birds…"}}
+If Max sided with Chloe, she will be able to look at:
+*{{Interaction|A piece of paper with David's hotel room number on it.|"Looks like David already booked a room."}}
+*{{Interaction|A note for David by Joyce on the refrigerator.|"Ouch."}}
+*{{Interaction|A crumpled-up photo of Joyce and David's wedding in the living room.|"Joyce must be so upset... Are you helping anybody, Max?"}}
+If Max sided with David:
+*{{Interaction|She will find a bill from an expensive restaurant in the living room.|"The most expensive restaurant in town? David knows how to get on Joyce's good side."}}
+*{{Interaction|The note from Joyce will be different.|"Joyce really wants David and Chloe to be a family."}}
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

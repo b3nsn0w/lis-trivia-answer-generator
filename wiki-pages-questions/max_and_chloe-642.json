@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Outcome If The Situation With Frank Is Handled Well?",
+    "answer": "C",
+    "choices": {
+      "A": "Chloe Kills Frank",
+      "B": "Frank Is Wounded",
+      "C": "No One Gets Hurt",
+      "D": "Frank Escapes"
+    }
+  },
+  {
+    "question": "Where Do Max And Chloe Discover The Dark Room?",
+    "answer": "B",
+    "choices": {
+      "A": "In An Abandoned Hospital",
+      "B": "In A Hidden Bunker Beneath An Abandoned Barn",
+      "C": "In A Secret Room In The Prescott Estate",
+      "D": "In A Basement Of A Local Diner"
+    }
+  },
+  {
+    "question": "Who Is The Culprit That Doses Max With Sedatives?",
+    "answer": "C",
+    "choices": {
+      "A": "Nathan",
+      "B": "Frank",
+      "C": "Mr. Jefferson",
+      "D": "Rachel"
+    }
+  },
+  {
+    "question": "What Happens To Chloe At The End Of The Section?",
+    "answer": "B",
+    "choices": {
+      "A": "She Kills Mr. Jefferson",
+      "B": "She Is Shot In The Head And Dies",
+      "C": "She Escapes With Max",
+      "D": "She Is Arrested By The Police"
+    }
+  }
+]

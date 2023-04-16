@@ -1,0 +1,21 @@
+Here is a section of the wiki page for Max's Room:
+
+disturbed."}}
+*{{Interaction|She can look at the message on her mirror (if Max made fun of Victoria on the previous day).|"Victoria. Of course. That's what I get for making fun of her... Bitch."}}
+*{{Interaction|She can look at and clean up the mess on the carpet in her room (if Max made fun of Victoria on the previous day).|**Look: **"My poor Donnie Darko... How could anybody want to break cute li'l Jake Gyllenhaal?"
+**Clean: **"Ta da! I do love a clean room. Very zen. Except for that bullshit graffiti."}}
+*{{Interaction|She can put on the clothes in her wardrobe **(required)**.|"Maybe I'll just put on a shirt and jeans. Hey, Einstein had the same exact
+suit for every day of the week. And he couldn't even rewind time."}}
+*{{Interaction|She can search her desk, the papers on the floor, the papers on the sofa, and the papers on the small DVD stand next to the sofa for Kate's book **(required)**.|"No book here..."
+"And nothing here."
+"I promise to clean this up, if I find the book."}}
+
+**{{Interaction|She can rewind and move the glass of soda after she spills it on Kate's book **(required)**.|**Before rewind: **"Of course you just spilled soda on Kate's book."
+ "Better fix this fast. Kate needs the book and I don't want to add
+to her list of problems."
+**After rewind: **"Begone, foul soft drink!"}}
+**{{Interaction|She can look at and take Kate's book, "The October Country" by Ray Bradbury, after moving the glass of soda **(required)**.|"Aha, you sneaky book, you're mine!"}}
+
+# 
+
+Generate five trivia questions relevant to this section of the page.

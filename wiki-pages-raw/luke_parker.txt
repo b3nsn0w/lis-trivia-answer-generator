@@ -1,0 +1,76 @@
+= Luke Parker =
+
+{{Introquote|Yeah, history always proves that, right? Just wait for justice, you sheeple...|Luke to [[Maxine Caulfield|Max]] in "[[Episode 1: Chrysalis|Chrysalis]]"}}
+{{Infobox Character
+|name           = Luke Parker
+|image          = Luke Parker.png
+|width=270
+|gender         = Male
+|hair           = Black
+|eyes           = Dark brown
+|friends        = [[Maxine Caulfield|Max Caulfield]] <small>(determinant)</small>
+|profession     = Student
+|affiliation    = [[Blackwell Academy]]
+|appearance     = [[Episode 1: Chrysalis]] <br />[[Episode 2: Out of Time]] <br> [[Episode 4: Dark Room]]
+|voice          = [[Nik Shriner]] <small>(uncredited)</small>
+|died = October 11, 2013 <small>(determinant)</small>
+|causeofdeath = Killed by the [[Storm|storm]] <small>(presumed, determinant)</small>}}
+
+'''Luke Parker''' is a student at [[Blackwell Academy]].
+
+== Biography ==
+The previous week, [[Zachary Riggins|Zachary]] had shoved Luke into a locker. This hints that although Luke doesn't give a damn about what people think, he is sometimes bullied.
+
+== Personality ==
+Luke is sometimes rude and seems fed up with the popular students at Blackwell, whom he's likely to be bitter towards since he implies they often bully him by locking him in his locker. He is frustrated and seems happy when [[Nathan Prescott|Nathan]] is at a disadvantage. Despite his attitude, he seems friendly towards Max.
+
+== Episode One - "[[Episode 1: Chrysalis|Chrysalis]]" ==
+[[Maxine Caulfield|Max]] encounters Luke when she is outside Blackwell's main building. If she speaks to him, he tells her that he doesn't feel like talking. Max can either leave him, and he says they'll talk later, or she can ask him what's wrong. Upon being asked this, Luke says that [[Nathan Prescott|Nathan]]'s sense of entitlement is bothering him. Max can either say she told [[Raymond Wells|Principal Wells]] that she saw Nathan with a gun, and he considers Max his hero if she tells him this, or she can lie that she just dislikes him.
+
+== Episode Two - "[[Episode 2: Out of Time|Out of Time]]" ==
+Luke is seen in the [[Blackwell Academy Hallway|Blackwell hallway]], listening to music. Max comments that he always uses his phone as a shield to avoid people.
+
+== Episode Four - "[[Episode 4: Dark Room|Dark Room]]" ==
+Luke is seen at the [[Vortex Club]]'s [[End of the World Party]]. If Max speaks to him, he will mention that he doesn't mind seeing Max at the party, contrary to almost everybody else. Max will say that she is looking for Nathan, and Luke asks why. Max can either say it's not a big deal, or tell him that Nathan is dangerous.
+
+If she says that Nathan is dangerous, he will understand, bringing up what happened to [[Kate Marsh|Kate]], also exerting his hate for Nathan. Max tells him that [[Warren Graham|Warren]] gave Nathan an epic headbutt (or Warren beat him up if you chose to not restrain Warren). Luke will cheer Warren on because of this, and say that the [[Prescott Family|Prescotts]] need to be run out of town. Max can either bring up the Vortex Club or [[Sean Prescott]]; if Sean Prescott, he will state that he met him at a football game once, and that he was so mean that he "explains Nathan".
+
+== Relationships ==
+
+=== Friends ===
+* [[Maxine Caulfield|Max Caulfield]] ('''Determinant''') - If Max reports the gun incident with Nathan and informs Luke of this, Luke will call her a hero. Otherwise, they will have a neutral relationship.
+
+=== Enemies ===
+* [[Zachary Riggins]] - He pushed Luke into a locker before the game's events.
+* [[Nathan Prescott]] - Luke calls him a "rich bitch kid". He is also friends with Zachary.
+
+==Gallery==
+<gallery widths="200px" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+luke-ep1.png|Luke sitting at a picnic table ("Chrysalis")
+luke-ep2.png|Luke standing by his locker ("Out of Time")
+luke-ep4sit.png|Luke at the Vortex Club's party ("Dark Room")
+luke-ep4talktomax.png|Luke talking to Max at the party
+Life is Strange Concept Art Luke Parker by Fred Augis.jpg|Concept art by [[Fred Augis]]
+</gallery>
+
+== Trivia ==
+N/A
+
+{{Character Navbox}}
+
+[[de:Luke Parker]]
+[[es:Luke Parker]]
+[[pl:Luke Parker]]
+[[pt-br:Luke Parker]]
+[[ru:Люк Паркер]]
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Characters (Life is Strange)]]
+[[Category:Blackwell Academy Students]]
+[[Category:Episode 1: Chrysalis Characters]]
+[[Category:Episode 4: Dark Room Characters]]
+[[Category:Episode 5: Polarized Characters]]
+[[Category:Male Characters (Life is Strange)]]
+[[Category:Minor Characters]]
+[[Category:Minor Characters (Life is Strange)]]
+[[Category:Life is Strange]]

@@ -1,0 +1,22 @@
+#  Water Tower 
+
+```yaml
+Location
+
+image: American_Rust_Junkyard_-_Water_Tower.png
+type: Water tower
+location: >-
+  [American Rust Junkyard](american_rust_junkyard.md), [Arcadia
+  Bay](arcadia_bay.md)
+state: Oregon
+appears: '[Episode 2: Out of Time](episode_2__out_of_time.md)'
+```
+
+The **Water Tower** is a non-explorable location in [Arcadia Bay](arcadia_bay.md). It is located near the [Train Tracks](train_tracks.md) in the [American Rust Junkyard](american_rust_junkyard.md).
+
+##  Appearance 
+The water tower is a tall, heavily rusted structure with the words "City of Arcadia Bay" printed in fading letters across its water tank. Blue graffiti is written on the water tank's side, reading "Not a single fuck was given that day".
+
+##  Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+As [Maxine Caulfield](max_caulfield.md) and [Chloe Price](chloe_price.md) traverse down the train tracks at the junkyard, the water tower can be seen overlooking the rails.
+

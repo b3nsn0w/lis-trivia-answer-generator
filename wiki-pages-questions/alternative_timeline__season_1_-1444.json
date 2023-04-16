@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Medical Condition That The Blue Awareness Ribbon In Alternative Chloe's Room Represents?",
+    "answer": "A",
+    "choices": {
+      "A": "Acute Respiratory Distress Syndrome",
+      "B": "Cancer",
+      "C": "Diabetes",
+      "D": "Heart Disease"
+    }
+  },
+  {
+    "question": "What Movie Does Alternative Chloe Reference When She Calls Herself \"Chloe Of The Caribbean\"?",
+    "answer": "A",
+    "choices": {
+      "A": "Pirates of the Caribbean",
+      "B": "The Little Mermaid",
+      "C": "Finding Nemo",
+      "D": "Moana"
+    }
+  },
+  {
+    "question": "What Is The Name Of The School That Ray Wells Suggests Taking Alternative Chloe To?",
+    "answer": "A",
+    "choices": {
+      "A": "Miskatonic Institute",
+      "B": "Blackwell Academy",
+      "C": "Arcadia Bay Spinal Center",
+      "D": "Seattle Children's Hospital"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Composer Of The Blade Runner Soundtrack That Max Mentions In Her Diary?",
+    "answer": "C",
+    "choices": {
+      "A": "John Williams",
+      "B": "Hans Zimmer",
+      "C": "Vangelis",
+      "D": "Ennio Morricone"
+    }
+  }
+]

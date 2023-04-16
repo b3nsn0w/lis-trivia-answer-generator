@@ -1,0 +1,104 @@
+Here is a section of the wiki page for Limited Edition (Life is Strange):
+
+#  Limited Edition (Life is Strange) 
+
+[File:Limited Edition.png](centre.md)
+The **Limited Edition** of *[Life is Strange](life_is_strange.md)* for PS4, Xbox One and PC was released on January 19 (USA) and January 22, 2016, in all PAL territories. Since Square Enix had seen a lot of requests from the community for a physical release and they wanted to create a package fit for *Life is Strange* fans. The Limited Edition features a 32 page artbook (including unreleased [Concept Art (Life is Strange)](concept_art.md)), the full *Life is Strange* [soundtrack (Life is Strange)](soundtrack.md), plus the original score by [Jonathan Morali](jonathan_morali.md), and [Director's Commentary](director_s_commentary.md). Additionally to the previously released English and French subtitles, the disc includes subtitles for the following languages: German, Italian, Spanish (Castilian) / Spanish (Mexican), Brazilian Portuguese.[http://eu.square-enix.com/en/blog/life-strange-limited-edition-announcement Square Enix Limited Edition Announcement] The edition was announced on January 19, 2016.
+
+The initial price was 25€ at the Square Enix Store.[https://web.archive.org/web/20160406204209/https://www.square-enix-boutique.com/product/291496/life-is-strange-edition-limitee-pc Square Enix Store, Archive.org snapshot]
+
+{{Quote|The response to *Life is Strange* really has blown us away! To be able to share that experience with our fans in a traditional boxed format is something we’re really excited about and the decision to include the extra items for the Limited Edition is a direct response to fan requests.|[Luc Baghadoust](luc_baghadoust.md) (Producer on *Life is Strange* - [Don't Nod](don_t_nod.md))}}
+
+## Trailer 
+[File:Life is Strange Boxed Limited Edition - Out Now (PEGI)](centre.md)
+
+## Official Description 
+"Follow the story of Max Caulfield, a photography senior who discovers she can rewind time while saving her best friend Chloe Price.
+
+The pair soon find themselves investigating the mysterious disappearance of fellow student Rachel Amber, uncovering a dark side to life in Arcadia Bay.
+
+Meanwhile, Max must quickly learn that changing the past can sometimes lead to a devastating future."
+
+## Soundtrack 
+List of all songs featured in the [Soundtrack (Life is Strange)](soundtrack.md) for the Limited Edition:
+{| width# "100%" align"center"
+| valign# "top" |
+01. Syd Matters - [To All of You](to_all_of_you.md)
+02. José González - [Crosses](crosses.md)
+03. Angus &amp; Julia Stone - [Santa Monica Dream](santa_monica_dream.md)
+04. Sparklehorse - [Piano Fire](piano_fire.md)
+05. alt-J - [Something Good](something_good.md)
+06. Local Natives - [Mt. Washington](mt__washington.md)
+07. Bright Eyes - [Lua](lua.md)
+08. Mogwai - [Kids Will Be Skeletons](kids_will_be_skeletons.md)
+09. Amanda Palmer - [In My Mind](in_my_mind.md) *(feat. Brian Viglione)*
+10. Message To Bears - [Mountains](mountains.md)
+11. Breton - [Got Well Soon](got_well_soon.md)
+| valign"top" |
+12. Mudflow - [The Sense of Me](the_sense_of_me.md)
+13. Foals - [Spanish Sahara](spanish_sahara.md)
+14. Syd Matters - [Obstacles](obstacles.md)
+15. Golden Hour
+16. The Storm
+17. Blackwell Academy
+18. Kate
+19. Timeless
+20. Timelines
+21. Night Walk
+22. Max & Chloe
+|}
+NOTE: Everything from #15. and onwards is part of the Original Score which was composed by [Jonathan Morali](jonathan_morali.md).
+
+Soundtrack Slip Front.png|Front of soundtrack slip.
+Soundtrack Slip Back.png|Back of soundtrack slip.
+
+## Director's Commentary 
+{{Main|Director's Commentary}}
+The Limited Edition features a 9-part directors commentary with [Michel Koch](michel_koch.md) and [Raoul Barbet](raoul_barbet.md). It's available for free on all platforms and you can also watch it on YouTube.
+
+## Limited Edition Patch
+With the release of the Limited Edition, a polishing patch with improvements was released, some dialog was changed. The lip syncing was also improved.[https://www.youtube.com/watch?v# 6eVSL0raLR0 Video showing the changes]
+*If there are still changed dialog lines or files missing, feel free to add them.*
+
+#
+
+## Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+Look at the Hi-Fi in [Chloe's Room](chloe_s_room.md) after activating the power strip:
+
+Pre-Limited Edition releasePre-Limited Edition release
+:"''Now let's see what kind of music Chloe is into these days.*"
+:— Max
+|-|Post Limited Edition release# Post Limited Edition release
+:"*Houston, we have the power. But we need to find a disk to play''"
+:— Max
+
+[File:Change_1.jpg](thumb.md)
+
+Look at Joyce's and David's closet in [Joyce and David's Room](joyce_and_david_s_room.md):
+
+Pre-Limited Edition releasePre-Limited Edition release
+:"*Joyce still works at the diner. Is her [a] husband a cop?*"
+:— Max
+There was a typing error in the subtitle text noted with brackets.
+|-|Post Limited Edition release# Post Limited Edition release
+:"''Joyce still works at the diner and Chloe's new dad is a security guard... (small laugh) Uh oh.''"
+:— Max
+
+[File:Change_2.jpg](thumb.md)
+
+Open the drawer in Madsen's Bathroom:
+
+Pre-Limited Edition releasePre-Limited Edition release
+:"''I hope Chloe isn't taking these pills...*"
+:— Max
+|-|Post Limited Edition release# Post Limited Edition release
+:"*I wonder if Chloe is taking those pills? I hope she's okay...''"
+:— Max
+
+[File:Change_3.jpg](thumb.md)
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

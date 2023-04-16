@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is Jack Cousteau's Business?",
+    "answer": "B",
+    "choices": {
+      "A": "A Fishing Tackle Shop",
+      "B": "A Boat Chartering Business",
+      "C": "A Scuba Diving School",
+      "D": "A Marine Research Center"
+    }
+  },
+  {
+    "question": "What Is Jack Cousteau's Connection To Jacques Cousteau?",
+    "answer": "D",
+    "choices": {
+      "A": "They Are Brothers",
+      "B": "They Are Cousins",
+      "C": "They Are Business Partners",
+      "D": "Jack Is Named After Jacques Cousteau"
+    }
+  },
+  {
+    "question": "What Can Clients Expect To Do During Jack Cousteau's Sea Adventure?",
+    "answer": "C",
+    "choices": {
+      "A": "Watch TV",
+      "B": "Read The News",
+      "C": "Catch And Prepare Fish",
+      "D": "Take A Nap"
+    }
+  },
+  {
+    "question": "Where Can You Find A Brochure Advertising Jack Cousteau's Business?",
+    "answer": "A",
+    "choices": {
+      "A": "At The Two Whales Diner",
+      "B": "At The Arcadia Bay Marina",
+      "C": "At The Local Library",
+      "D": "At The Fish Market"
+    }
+  }
+]

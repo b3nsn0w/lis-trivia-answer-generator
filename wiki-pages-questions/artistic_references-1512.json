@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who is the photographer that Max calls \"my man\"?",
+    "answer": "B",
+    "choices": {
+      "A": "Henri Cartier-Bresson",
+      "B": "Philip-Lorca diCorcia",
+      "C": "Robert Doisneau",
+      "D": "W. Eugene Smith"
+    }
+  },
+  {
+    "question": "What is the name of the book that Max borrows from Kate Marsh?",
+    "answer": "A",
+    "choices": {
+      "A": "The October Country",
+      "B": "Battle Royale",
+      "C": "The Tyger",
+      "D": "The Dharma Bums"
+    }
+  },
+  {
+    "question": "Who is the photographer that Victoria Chase prefers over Diane Arbus?",
+    "answer": "B",
+    "choices": {
+      "A": "Henri Cartier-Bresson",
+      "B": "Robert Frank",
+      "C": "Louis Daguerre",
+      "D": "Robert Doisneau"
+    }
+  },
+  {
+    "question": "What is the name of the French painter that Victoria Chase mentions created \"Daguerreotypes\"?",
+    "answer": "B",
+    "choices": {
+      "A": "Henri Cartier-Bresson",
+      "B": "Louis Daguerre",
+      "C": "Jean Cocteau",
+      "D": "Robert Cornelius"
+    }
+  }
+]

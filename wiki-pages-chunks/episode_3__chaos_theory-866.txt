@@ -1,0 +1,104 @@
+Here is a section of the wiki page for Episode 3: Chaos Theory:
+
+## Licensed Soundtrack 
+{{Main|Soundtrack (Life is Strange)}}
+*"[Lua](lua.md)" - Bright Eyes (Morning sequence in Chloe's Room)
+*"[Santa Monica Dream](santa_monica_dream.md)" - Angus & Julia Stone (Optionally played in Chloe's Room)
+*"[Piano Fire](piano_fire.md)" - Sparklehorse (Optionally played in Chloe's Room)
+*"[Kids Will Be Skeletons](kids_will_be_skeletons.md)" - Mogwai (Max's bus ride in the closing sequence)
+
+## Reception 
+* Chaos Theory has the second highest Metascore of all episodes on Metacritic with a Metascore of 80 and a User Score of 9.0.
+* IGN gave it a great 8.0 calling it a massive turn with a heartfelt and ambitious new story.
+
+## Achievements 
+There are twelve [Achievements (Life is Strange)](achievements.md) the player can earn on Steam, PlayStation or Xbox.
+
+{{Achievements
+|name #  Parallax View
+|image  Parallax_View_Achievement.png
+|description #  Take optional photo #1 in Episode 3: Chaos Theory
+|type  bronze
+|score #  10
+}}
+{{Achievements
+|name  Lenscrafted
+|image #  Lenscrafted_Achievement.png
+|description  Take optional photo #2 in Episode 3: Chaos Theory
+|type #  bronze
+|score  10
+}}
+{{Achievements
+|name #  The Reflex
+|image  The_Reflex_Achievement.png
+|description #  Take optional photo #3 in Episode 3: Chaos Theory
+|type  bronze
+|score #  10
+}}
+{{Achievements
+|name  Histogrammar
+|image #  Histogrammar_Achievement.png
+|description  Take optional photo #4 in Episode 3: Chaos Theory
+|type #  bronze
+|score  10
+}}
+{{Achievements
+|name #  Bokeh
+|image  Bokeh_Achievement.png
+|description #  Take optional photo #5 in Episode 3: Chaos Theory
+|type  bronze
+|score #  10
+}}
+{{Achievements
+|name  Pinholed
+|image #  Pinholed_Achievement.png
+|description  Take optional photo #6 in Episode 3: Chaos Theory
+|type #  bronze
+|score  10
+}}
+{{Achievements
+|name #  RAW Strength
+|image  RAWStrengthAchievement.png
+|description #  Take optional photo #7 in Episode 3: Chaos Theory
+|type  bronze
+|score #  10
+}}
+{{Achievements
+|name  Viewfinder
+|image #  Viewfinder_Achievement.png
+|description  Take optional photo #8 in Episode 3: Chaos Theory
+|type #  bronze
+|score  10
+}}
+{{Achievements
+|name #  Optican
+|image  Optican_Achievement.png
+|description #  Take optional photo #9 in Episode 3: Chaos Theory
+|type  bronze
+|score #  10
+}}
+{{Achievements
+|name  Flash!
+|image #  Flash!_Achievement.png
+|description  Take optional photo #10 in Episode 3: Chaos Theory
+|type #  bronze
+|score  10
+}}
+{{Achievements
+|name #  Camera Eye
+|image  Camera_Eye_Achievement.png
+|description #  Take all optional photos in Episode 3: Chaos Theory
+|type  bronze
+|score #  45
+}}
+{{Achievements
+|name  Chaos Theory
+|image #  Chaos_Theory_Achievement.png
+|description  Finish Episode 3: Chaos Theory
+|type #  bronze
+|score  55
+}}
+
+
+
+Generate five trivia questions relevant to this section of the page.

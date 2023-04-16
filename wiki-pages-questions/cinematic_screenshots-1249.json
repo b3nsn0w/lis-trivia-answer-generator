@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Where Can You Find Ultrawide Screenshots Of Life is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "Flickr",
+      "B": "Reddit",
+      "C": "Tumblr",
+      "D": "DeviantArt"
+    }
+  },
+  {
+    "question": "Who Took The Screenshots In The Flickr Album Titled \"Ultrawide Screenshot\"?",
+    "answer": "B",
+    "choices": {
+      "A": "IDK31FC",
+      "B": "Lim3Fru1t",
+      "C": "Simme605",
+      "D": "UseYourIlusion"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Reddit User Who Posted The Panoramas Of Episode 1 And 2 Of Before The Storm?",
+    "answer": "B",
+    "choices": {
+      "A": "Lim3Fru1t",
+      "B": "LawnReality",
+      "C": "Fish013",
+      "D": "Cinemaker321"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Flickr User Who Posted Screenshots Of Life is Strange?",
+    "answer": "D",
+    "choices": {
+      "A": "IDK31FC",
+      "B": "Lim3Fru1t",
+      "C": "Simme605",
+      "D": "FlashRemedy"
+    }
+  }
+]

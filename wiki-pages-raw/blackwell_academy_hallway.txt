@@ -1,0 +1,134 @@
+= Blackwell Academy Hallway =
+
+{{Free Tab
+|minwidth = 47%
+|maxwidth = 100%
+|borderradius = 2
+|height = 2
+|tab1=Life is Strange |link1=Blackwell Academy Hallway
+|tab2=Before the Storm |link2=Blackwell Academy Hallway (Before the Storm)
+}}
+{{Infobox Location
+|image = hallwayep1.jpg
+|type = Common corridor
+|location = [[Blackwell Academy]], [[Arcadia Bay]]
+|state = Oregon
+|appears = [[Episode 1: Chrysalis]]<br \>[[Episode 2: Out of Time]]<br \>[[Episode 3: Chaos Theory]]<br \>[[Episode 5: Polarized]] <small>([[Max's Nightmare|nightmare]])</small>}}
+
+The '''Hallway''' in [[Blackwell Academy]] connects two classrooms, two separate bathrooms for boys and girls each, [[Principal Wells' Office]], the exit to the front entrance of Blackwell Academy and doorways to other interior areas of the academy. [[Maxine Caulfield|Max Caulfield]] will often pass through this hallway to reach an objective location.
+
+Max's locker is located among the lockers along the corridor. Most of the people at this corridor are busy with their own affairs. There are various posters and notice boards along the walls of this hallway. There is a soft drinks and a snack vending machine at this corridor between Principal Wells' Office and the boys' bathroom. On the other side, there is a trophy case between the front entrance and the girls' bathroom.
+
+== Interactions ==
+During the game, Max has different objects and people to interact with throughout the hallway.
+
+:<span style="display:none">'''PC users: '''</span>''Hover over the text to see Max's comments. [[Interactions|See here]] for all interactions in the game.''
+=== Episode One - "[[Episode 1: Chrysalis|Chrysalis]]" ===
+*{{Interaction|She can look at the door into the [[Science Lab|Science classroom]].|'''Before rewind: '''"Ah, the science room. Here's the portal to [[Warren Graham|Warren]]'s brain..."<br>'''After rewind: '''"I have to stop screwing around and get to the bathroom!"}}
+*{{Interaction|She can look at the door into Principal Wells' office.|'''Before: '''"Principal doesn't come out of his office much."<br>'''After: '''"What are you doing? Get to the bathroom!"}}
+*{{Interaction|She can look at and open her locker.|'''Look: '''"I hate having everybody see inside my locker."<br>'''Open: '''"I love that picture of Mom and Dad... Hello Jack, kiss kiss...<br>Andy, you look totally fabulous, as usual..."<br>'''After rewind: '''"Right, everything is still in the same place..."}}
+*{{Interaction|She can look at [[Taylor Christensen|Taylor]].|'''Before: '''"There's Taylor, always waiting for [[Victoria Chase|Victoria]]."<br>'''After: '''"Stop staring and go!"}}
+*{{Interaction|She can look at [[Courtney Wagner|Courtney]].|'''Before: '''"I think that's Courtney. She's such a slave to Taylor and Victoria..."<br>'''After: '''"They have no idea what is going with me and I can't tell them anything."}}
+*{{Interaction|She can look at [[Alyssa Anderson|Alyssa]].|'''Before: '''"Alyssa is always texting, but she doesn't hang out with a lot of people."<br>'''After: '''"Nobody here can help you. Move!"}}
+*{{Interaction|She can look at [[Evan Harris|Evan]].|'''Before: '''"Evan doesn't say much to me, but, his photos are very cool."<br>'''After: '''"Forget about them and go before that girl dies!"}}
+*{{Interaction|She can look at [[Stella Hill|Stella]].|'''Before: '''"Stella is always deep in her notes. She didn't come to Blackwell to mess around."<br>'''After: '''"Stella is still there with her notes. Quick, move, Max!"}}
+*{{Interaction|She can look at [[Justin Williams|Justin]].|'''Before: '''"That's... Dana talking to... I think his name is Justin."<br>'''After: '''"How can everybody look so calm, when I feel so stressed?"}}
+*{{Interaction|She can look at [[Dana Ward|Dana]].|'''Before: '''"Dana is on my floor, too. She's such an archetypal gorgeous cheerleader. They must<br>make them in a factory. I shouldn't be so catty. Dana is nice to me."<br>'''After: '''"God, I wish I could talk to somebody about this... but everyone would think I'm nuts."}}
+*{{Interaction|She can look at [[Brooke Scott|Brooke]].|'''Before: '''"I've seen Brooke hanging out with Warren. She seems like his type."<br>'''After: '''"Brooke has no idea of the shit going on right now!"}}
+*{{Interaction|She can look at [[Daniel DaCosta|Daniel]].|'''Before: '''"Poor Daniel. He's so nice. I wish I could beat the shit out of Logan."<br>'''After: '''"Daniel is getting bullied all over again. I hope he doesn't remember..."}}
+*{{Interaction|She can look at [[Logan Robertson|Logan]].|'''Before: '''"I hate bully jockstraps like Logan. And he's a [[Vortex Club]] member."<br>'''After: '''"You can't help me at all, Logan."}}
+*{{Interaction|She can look at [[Trevor Yard|Trevor]].|'''Before: '''"He's cute. I like skater boys. Too bad they don't like me."<br>'''After: '''"Everybody is in the same place as they were before. I do need to hurry."}}
+*{{Interaction|She can look at [[Samuel Taylor|Samuel]].|'''Before: '''"God, Samuel is such a weirdo. But I kinda like that about him."<br>'''After: '''"I can't talk to Samuel about this, even if he might believe me."}}
+*{{Interaction|She can look at [[Michelle Grant|Ms. Grant]].|'''Before: '''"Ms. Grant is a great science teacher."<br>'''After: '''"Ms. Grant can't help me now."}}
+*{{Interaction|She can look at [[Zachary Riggins|Zachary]].|'''Before: '''"Figures Juliet would be dating Zachary. Jocks sucked up in the Vortex Club."<br>'''After: '''"Nobody here can help you. Move!"}}
+*{{Interaction|She can look at [[Juliet Watson|Juliet]].|'''Before: '''"There's Juliet from my dorm. Yet another Vortex Club disciple."<br>'''After: '''"No, Max, they can't save that girl in the bathroom."}}
+*{{Interaction|She can look at [[Hayden Jones|Hayden]].|'''Before: '''"There's Hayden, another Vortex Club bro. But, he's actually not an ass."<br>'''After: '''"Why look at him? He can't help you!"}}
+*{{Interaction|She can look at [[Rachel Amber]] Missing Person posters.|"These 'Missing Persons' posters are popping up everywhere."<br>"'Rachel Amber.' She's so pretty. I hate these posters! So sad..."<br>"It looks like she's been gone for months."<br>"I wonder what actually happened to her..."<br>'''After rewind: '''"If I don't hurry to that bathroom, another girl will be in trouble!"}}
+*{{Interaction|She can look at Halloween party posters.|"Yay Halloween, my favorite time of year!"<br>"I wish October would last forever..."}}
+*{{Interaction|She can look at a set of bully free posters.|"Yes, this poster must stop bullies dead in their tracks."}}
+*{{Interaction|She can look at a blood donation poster.|"I shouldn't be so stingy with my blood."}}
+*{{Interaction|She can look at a Save [[Arcadia Bay]] poster.|"That's so messed up. I should contact them to find out what I can do... As if I am."}}
+*{{Interaction|She can look at a gun-free and no tobacco use poster.|"Good thing I left my AK at home."}}
+*{{Interaction|She can look at a join the chess team poster.|"Nerd alert! This poster has Warren written all over it."}}
+*{{Interaction|She can look at a [[Vortex Club]] poster.|"Oh, I can hardly wait to never be too cool like Nathan and Victoria. Lame."}}
+*{{Interaction|She can look at an Arcadia Bay [[lighthouse]] tour poster.|"There's the lighthouse again..."}}
+*{{Interaction|She can look at a skeleton decoration.|"You can never have enough ghosts and skeletons in the hall."}}
+*{{Interaction|She can look at a soft drinks vending machine.|"They should just call it a 'Sugar Machine'... That would be awesome if you put<br>money in there and a bag of sugar dropped out."}}
+*{{Interaction|She can look at the notices on a notice board.|"Don't need a PC, missed the Poetry Jam Tryouts, and I did not steal that backpack."}}
+*{{Interaction|She can look at a map of the Academy interior.|"How many students ever actually memorize all this shit? I guess we all should, these days."}}
+*{{Interaction|She can look at the [[Bigfoots]] banner.|"The Bigfoots' stomp... I should develop some school spirit. Go team."}}
+*{{Interaction|She can look at another notice board.|"You can really learn a lot about a school by the weird shit posted on the boards."}}
+*{{Interaction|She can look at an American football trophy.|"Look at these trophies. Gotta give it up for those Bigfoots. They do stomp."}}
+*{{Interaction|She can look at an engraved plaque trophy.|"Blackwell sure takes its swimming seriously. But otters are cute. Go Otters!"}}
+*She can enter the girls' bathroom.
+*{{Interaction|She can look at and speak to [[Raymond Wells|Principal Wells]] after exiting the bathroom '''(required)'''.|"Principal Wells always looks so distracted. I can never figure out what he's thinking...<br>Does he hate me?"}}
+
+=== Episode Two - "[[Episode 2: Out of Time|Out of Time]]" ===
+*{{Interaction|She can look at a Vortex Club banner.|"These elite assholes throw a lot of big parties...<br>Another chance for Nathan Prescott to dose somebody..."}}
+*{{Interaction|She can look at a map of the Academy interior.|"How many students ever actually memorize all this shit? I guess we all should, these days."}}
+*{{Interaction|She can look at the "Rules of Hall Conduct".|"Carrying a gun to class is cool, though."}}
+*{{Interaction|She can look at an advertisement of Blackwell Academy.|"I should feel lucky to be here."}}
+*{{Interaction|She can look at Justin.|"Justin always looks stoned."}}
+*{{Interaction|She can look at Trevor.|"Trevor surveys his domain."}}
+*{{Interaction|She can look at Zachary.|"Zachary always looks like he's ready to throw a football."}}
+*{{Interaction|She can look at [[Luke Parker|Luke]].|"Luke is always using the phone as a shield to avoid people."}}
+*{{Interaction|She can look at Juliet.|"Juliet is laying the smackdown on Zachary."}}
+*{{Interaction|She can look at Evan.|"I love how Evan is 'so above' the Vortex Club and everything else."}}
+*{{Interaction|She can look at and speak to [[David Madsen]] '''(required)'''.|"If only I knew what David Madsen was really up to..."}}
+*{{Interaction|She can look at and speak to [[Mark Jefferson|Mr. Jefferson]] '''(required)'''.|"I bet Mr. Jefferson has had to deal with a lot of troubled students."}}
+*{{Interaction|She can look at and speak to Principal Wells.|"I swear Principal Wells always looks distressed..."}}
+*{{Interaction|She can look at and speak to Courtney Wagner.|"Courtney will do anything for Victoria and the Vortex Club..."}}
+*{{Interaction|She can look at a Vortex Club flyer on the table near Courtney.|"Join us... or die!"}}
+*{{Interaction|She can look at three different posters for the [[End of the World Party]].|"If I was normal, I'd be super excited about going to a major shindig."<br>"I wouldn't want to be at an 'End Of The World' party with Nathan Prescott.<br>Too much truth in advertising."<br>"If my tornado vision came true, it would be the 'end of the world'..."}}
+*{{Interaction|She can look at a Vortex Club poster.|"It's the 'Invasion of the Vortex Club'..."}}
+*{{Interaction|She can look at a "The world is yours today" poster.|"Desperate much? We're already here..."}}
+*{{Interaction|She can look at a poster about the snow.|"I should go and see what I can learn..."}}
+*{{Interaction|She can look at a set of bully free posters.|"Yes, this poster must stop bullies dead in their tracks."}}
+*{{Interaction|She can look at a gun-free and no tobacco use poster.|"Good thing I left my AK at home."}}
+*{{Interaction|She can look at Rachel Amber Missing Person posters.|"Now why would Frank Bowers have your bracelet?"<br>"Maybe you owed money to Frank too..."<br>"I wish you and Chloe had run away earlier."<br>"I am going to find out what happened to you, Rachel."}}
+*{{Interaction|She can look at an American football trophy.|"Look at these trophies. Gotta give it up for those Bigfoots. They do stomp."}}
+*{{Interaction|She can look at an engraved plaque trophy.|"Blackwell sure takes its swimming seriously. But otters are cute. Go Otters!"}}
+*{{Interaction|She can look at the notices on a notice board.|"You can really learn a lot about a school by the weird shit posted on the boards."}}
+
+=== Episode Three - "[[Episode 3: Chaos Theory|Chaos Theory]]" ===
+*{{Interaction|She can look at Rachel Amber Missing Person posters.|"Where the hell are you, Rachel Amber?"<br>"I feel like you're guiding us along... but where?"<br>"Oh Rachel, I know you and Kate are connected by all this..."<br>"Yes, I am going to find you, Rachel... For Chloe and Kate."}}
+*{{Interaction|She can look at the football cup trophies.|"No trophy will help Blackwell's reputation now..."}}
+*{{Interaction|She can look at a Vortex Club poster.|"Maybe Kate started a revolution..."}}
+*{{Interaction|She can look at the door of the girls' bathroom.|"A long time ago, in a girls' room right here..."<br>'''Nathan expelled: '''"A long time ago... Nathan got smacked down."}}
+*{{Interaction|She can examine several trash cans.|"And nothing here."<br>"Nope. Doesn't anybody drink sodas here?"<br>"What do you know? Trash."}}
+*{{Interaction|She can look at two posters for the "End of the World" party.|"First Rachel and now Kate... This is the end of the Vortex Club."<br>"So you can almost shoot somebody on Monday and party on Friday? Prescott Power."}}
+*{{Interaction|She can get a soda can from the vending machine '''(required)'''.|'''Use: '''"Release the kra-can!"<br>'''Take can: '''"It's all mine anyway."<br>'''Use after rewind: '''"So I can use my power to get every can here with only one coin...<br>Hmm. I see the possibilities. But don't go to the dark side, young Max..."}}
+*{{Interaction|She can look at a set of bully free posters.|"Yes, this poster must stop bullies dead in their tracks."}}
+*{{Interaction|She can look at a join the chess team poster.|"Nerd alert! This poster has Warren written all over it."}}
+*{{Interaction|She can look at [[Kate Marsh|Kate]]'s locker.|'''Kate alive: '''"So glad you still have your locker, Kate."<br>'''Kate dead: '''"Oh Kate, your locker looks so lonely..."}}
+*She can enter the [[Photography Lab]].
+*She can enter the [[Science Lab]].
+
+=== Episode Five - "[[Episode 5: Polarized|Polarized]]" ===
+*Same as in the [[Blackwell_Academy_Hallway#Episode_One_-_.22Chrysalis.22|first episode]], except it is now possible for Max to "un-take" an [[Optional Photos|optional photo]] of the smoking skeleton.
+
+== Trivia ==
+*If Max is in a near collision with a passing student, she will automatically sidestep.
+
+== Gallery ==
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true">
+Max_nearcollision.jpg|Max in a near collision with passing student.
+Blackwell_Academy_Concept_Art.png|[[Concept Art (Life is Strange)]] by [[Gary Jamroz-Palma]]
+</gallery>
+
+{{Location Navbox}}
+
+[[ru:Коридор академии Блэквелл]]
+[[Category:Locations]]
+[[Category:Locations (Life is Strange)]]
+[[Category:Blackwell Academy]]
+[[Category:Episode 1: Chrysalis Locations]]
+[[Category:Episode 2: Out of Time Locations]]
+[[Category:Episode 3: Chaos Theory Locations]]
+[[Category:Episode 5: Polarized Locations]]
+[[Category:Optional Photo Location]]
+[[Category:Explorable Locations]]
+[[Category:Explorable Locations (Life is Strange)]]
+[[Category:Locations in Arcadia Bay]]
+
+[[Category:Life is Strange]]

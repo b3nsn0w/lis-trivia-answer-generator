@@ -1,0 +1,76 @@
+Here is a section of the wiki page for Life is Strange:
+
+10 video games of 2015
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(153,255,153);"|Won
+|- valign"center"
+| {{Wiki|Red Bull}} Games' Top 10 video games of 2015
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(176,176,176);"|Second
+|- valign"center"
+| {{Wiki|Polygon (website)|Polygon}}'s Games of the Year 2015
+| Game of the Year
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(205,133,0);"|Seventh
+|- valign"center"
+| {{Wiki|Destructoid}}'s Best of 2015
+| Best Xbox One Game
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(255,221,221);"|Nominated
+|- valign"center"
+| {{Wiki|Eurogamer}}'s Top 10 video games of 2015
+| Best Game
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(205,133,0);"|Tenth
+|- valign"center"
+| rowspan# "15"|2016
+| {{Wiki|IGN}}'s Best of 2015
+| Game of the Year
+| style"padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(255,221,221);"| Nominated
+|- valign# "center"
+| rowspan"4"|{{Wiki|PlayStation Blog}}'s Best of 2015
+| Best PS4 Game
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(255,221,221);"| Nominated
+|- valign"center"
+| Best Story
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(176,176,176);"| Runner-Up
+|- valign"center"
+| Best Soundtrack
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(176,176,176);"| Runner-Up
+|- valign"center"
+| Best Digital-Only Release
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(176,176,176);"| Runner-Up
+|- valign"center"
+|*{{Wiki|New Statesman}}*
+'​s Top 10 video games of 2015
+|Best Game
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(153,255,153);"| Won
+|- valign"center"
+|*{{Wiki|Hardcore Gamer}}*
+'​s Best of 2015
+|Best Adventure Game
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(176,176,176);"| Runner-Up
+|- valign"center"
+|rowspan# "3"|Emotional Games Awards 2016[http://www.emotionalgamesawards.com/nominees.html  Emotional Games Awards 2016 Nominees] (January 14, 2016)
+|Best Emotional Game
+| style"padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(153,255,153 );"|Won
+|- valign# "center"
+|Best Emotional Game Design
+| style"padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(255,221,221);"|Nominated
+|- valign# "center"
+|Best Emotional Music Game
+| style"padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(255,221,221);"|Nominated
+|- valign# "center"
+| rowspan"3"|{{Wiki|Academy of Interactive Arts & Sciences|DICE Awards}}[http://www.polygon.com/2016/1/13/10760412/dice-awards-2016-nominees Polygon - DICE Awards finalists] (13 January, 2016)
+|Outstanding Achievement in Game Direction
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(255,221,221);"|Nominated
+|- valign"center"
+|Adventure Game of the Year
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(255,221,221);"|Nominated
+|- valign"center"
+|Outstanding Achievement in Character
+|Max Caulfield
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(255,221,221);"|Nominated
+|-
+| rowspan"3"|{{Wiki|Game Developers Choice Awards}}
+|Audience Award
+|*Life is Strange*
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(153,255,153 );"|Won
+|} 
+
+Generate five trivia questions relevant to this section of the page.

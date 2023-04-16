@@ -1,0 +1,2392 @@
+#  Choices and Consequences 
+
+[File:This action will have consequences-0.png](centre.md)
+
+: *This article is about Life is Strange. For information on Before the Storm, see [Choices and Consequences (Before the Storm)](here.md). For information on Life is Strange 2, see [Choices and Consequences (Life is Strange 2)](here.md)*.
+
+**Choices and Consequences** are a main gameplay element in *[Life is Strange](life_is_strange.md)*. The protagonist, [Maxine Caulfield](max_caulfield.md), is presented with different choices in the form of available action or dialogue options and optional interactions which can stop the scene and freeze time if it is a major choice. A butterfly symbol will appear at the top of the screen after the choice is made, and Max will usually make a comment regarding her decision; she will then have the option to [Rewind](rewind.md) to make a different choice, or progress further into the story and usually reach a save checkpoint location. The choices made during the episode, along with comparisons with friends and global statistics on choices made will be revealed to the player at the end of each episode. The associated consequences will often be revealed later on in the same or in subsequent episodes.
+
+##  Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+
+### Nathan's Gun
+Major choice:
+
+Report Nathan# Report Nathan
+***Episode 1**
+**[Raymond Wells](principal_wells.md) will call [Nathan Prescott](nathan_prescott.md) into his office through a public announcement system as Max exits the main building of [Blackwell Academy](blackwell.md).
+**Max can tell [Luke Parker](luke_parker.md) about "busting" Nathan with a gun, giving him satisfaction and thanking Max for doing so.
+**Nathan will get angry with Max for reporting him and confront her at the parking lot.
+**[Chloe Price](chloe_price.md) will express her disapproval over Max having reported Nathan to the principal.
+***Episode 2**
+**Nathan will leave a threatening message and photo in [Max's Room](max_s_room.md) after Max returns from her shower.
+**Nathan and someone claiming to be [Sean Prescott](nathan_s_father.md) will send Max two separate threatening SMS messages from two different private numbers.
+**Max can talk to [Warren Graham](warren_graham.md) about "busting" Nathan with a gun.
+**Principal Wells will admit that he doesn't believe her accusation if Max talks to him.
+**[Mark Jefferson](mr__jefferson.md) will say he does not believe Max's accusation when he talks to Max.
+**Nathan will be aggressive during his desk confrontation with Max.
+**Nathan will be suspended if Max blames him for [Kate Marsh](kate_marsh.md)'s suicide attempt.
+**Max will be suspended instead if she tries to blame David after not taking a photo and taking the blame for Chloe's weed.
+***Episode 3**
+**At the [Two Whales Diner](two_whales_diner.md), Nathan's attitude will be more hostile.
+***Episode 4**
+**Principal Wells will send an email to Nathan to apologize for Max's accusation.
+**Nathan will steal a selfie from Max's room.
+***Episode 5**
+**Max can talk with Principal Wells in [Zeitgeist Gallery](zeitgeist_gallery.md) about how she tried to warn him about Nathan.
+**Max will tell [David Madsen](david_madsen.md) that she should have tried harder to convince the principal about Nathan.
+|-|Hide the truthHide the truth
+***Episode 1**
+**No public announcement will be broadcast as Max exits the main building of [Blackwell Academy](blackwell.md).
+**Max cannot tell [Luke Parker](luke_parker.md) about "busting" [Nathan Prescott](nathan_prescott.md) with a gun, thus keeping their relationship the same.
+**Nathan will figure out that Max was in the bathroom and will try to intimidate her at the [Blackwell Parking Lot](parking_lot.md).
+**[Chloe Price](chloe_price.md) will be glad that Max didn't report Nathan.
+***Episode 2**
+**Nathan will not vandalize or leave anything in [Max's Room](max_s_room.md).
+**Max will only receive one threatening text by Nathan from a private number.
+**Max can talk to [Warren Graham](warren_graham.md) about Nathan with a gun.
+**[Raymond Wells](principal_wells.md) will bring up Max's evasive answer to him in the previous day if Max talks to him.
+**[Mark Jefferson](mr__jefferson.md) will say that he does not believe Max's accusation if she brings it up to him.
+**Nathan will be snarky during his desk confrontation with Max. More in this video https://youtu.be/faz4O_Qee1I
+**Nathan will be suspended if Max blames him at the end of Episode 2 and did not take the blame for Chloe's weed.
+**Max will be suspended instead if she tries to blame Nathan and took the blame for Chloe's weed earlier which David will bring up.
+***Episode 3**
+**At the [Two Whales Diner](two_whales_diner.md), Nathan's attitude will be less hostile. More in this video https://youtu.be/faz4O_Qee1I
+***Episode 4**
+**Nathan will not receive any email from Principal Wells.
+**Nathan will not steal Max's selfies.
+***Episode 5**
+**Max can talk with Principal Wells at the [Zeitgeist Gallery](zeitgeist_gallery.md) and say that she should have reported Nathan.
+**Max will tell [David Madsen](david_madsen.md) that she regrets not telling the principal that Nathan had a gun.
+
+### [Daniel DaCosta](daniel_dacosta.md)'s Portrait
+Minor choice:
+
+Accept# Accept
+***Episode 1**
+**Daniel's portrait of Max is posted on her social media page.
+**Warren will bring up the portrait to Max.
+***Episode 2** 
+**Daniel will bring up the portrait in Jefferson's classroom.
+***Episode 4**
+**Daniel can be easily convinced to attend the [Vortex Club](vortex_club.md)'s [End of the World Party](end_of_the_world_party.md).
+|-|DeclineDecline
+***Episode 1**
+**Daniel will not post anything on Max's social media page.
+**Warren will not discuss Daniel or the portrait with Max.
+***Episode 2**
+**Daniel will bring up Max not sitting for a portrait in Jefferson’s classroom.
+***Episode 4**
+**Daniel can only be convinced to attend the [Vortex Club](vortex_club.md)'s [End of the World Party](end_of_the_world_party.md) after a rewind.
+
+### [Michelle Grant](michelle_grant.md)'s Petition
+Minor choice:
+
+Signed# Signed
+***Episode 2**
+**Michelle Grant will mention Max's help in her classroom.
+***Episode 3**
+**A drafted letter can be seen on Principal Well's desk detailing how Mrs. Grant's petition was successful enough to make him put a hold on David's surveillance program.
+***Episode 4**
+**Michelle Grant will be thankful to Max for helping the petition to be successful.
+|-|Didn't signDidn't sign
+***Episode 2**
+**Michelle Grant will mention there were not enough people to sign her petition as more preferred to just voice support without actually signing on the petition in her classroom.
+***Episode 3**
+**A drafted letter can be seen on Principal Well's desk detailing how Mrs. Grant's petition was unsuccessful and thus he will go ahead with his decision to allow David's surveillance program to be implemented.
+***Episode 4**
+**Outside the [Prescott Dormitory](dormitory.md), Max will say that she does not think surveillance would have helped Kate (regardless of her having attempted or committed suicide). Ms. Grant comments afterwards, "Who needs surveillance when we have Max Caulfield".
+**Michelle Grant will express disappointment at Max for deciding not to sign her petition.
+
+### [Victoria Chase](victoria_chase.md) Outside the Dormitory
+Major choice:
+
+Make fun of Victoria# Make fun of Victoria
+***Episode 1**
+**Victoria will leave her photo of Max in Max's social media page.
+**Max can tell Warren Graham about getting a photo of Victoria.
+**Chloe will see the photo while looking through Max's photos collected for the day and comment on the photo of Victoria.
+***Episode 2**
+**Max will have the photo on her dresser before Max goes to have her shower.
+**Victoria will add additional unflattering pictures of Max superimposed on a sheep and monkey in Max's social media page.
+**Victoria will blame Max's behavior while talking with [Taylor Christensen](taylor_christensen.md) in the bathroom.
+**Victoria will vandalize Max's mirror, ransack the room and steal the photo.
+**Victoria will be aggressive during her desk confrontation with Max.
+***Episode 3**
+**The photo of Victoria will be in [Victoria's Room](victoria_s_room.md).
+***Episode 4**
+**It will be impossible to get Victoria to believe Max if she tries to warn her about the [Dark Room (Location)](dark_room.md).
+***Episode 5**
+**Victoria will not end up in the Dark Room as she doesn't know or heed Max's warning and will not approach Mr. Jefferson for help.
+|-|Comfort VictoriaComfort Victoria
+***Episode 1**
+**Victoria will delete the photo of Max on her mobile phone and put up a photo of Blackwell's [Blackwell Campus](main_campus.md) instead.
+**Max can tell Warren about her missed opportunity to take a photo of Victoria where Warren will respond that Max could've started a Kickstarter fund with a photograph of Victoria covered in paint.
+**Chloe will not see any photo of Victoria among Max's photos collected for the day.
+***Episode 2**
+**Max will not have any photo of Victoria in Max's room.
+**Max will not have any unflattering pictures uploaded onto Max's social media page. 
+**Victoria will blame [Taylor Christensen](taylor_christensen.md) and [Courtney Wagner](courtney_wagner.md)'s slowness while talking with Taylor in the bathroom.
+**Victoria will not vandalize or ransack Max's room.
+**Victoria will be snarky during her desk confrontation with Max.
+***Episode 3**
+**Victoria will not have any photo in her room.
+***Episode 4**
+**Victoria will believe Max if she tries to warn Victoria about the [Dark Room (Location)](dark_room.md), as long as Max doesn't reveal that she set up the paint can.
+***Episode 5**
+**If Victoria believed Max's warning in the previous episode, she will be in the Dark Room for a short while before being killed after approaching Mark Jefferson for help and getting captured by him on the previous day.
+
+### Insults on [Kate Marsh](kate_marsh.md)'s Slate
+Minor choice:
+
+Erased# Erased
+***Episode 2**
+**Kate's slate will be vandalized again.
+**Max will bring up this action during the conversation with Kate on the rooftop.
+***This does not affect Kate's decision on whether to allow Max to come closer or to take steps backwards to jump off the roof, although she will acknowledge Max's help if Max also answered her phone call earlier.
+|-|IgnoredIgnored
+***Episode 2**
+**Kate's slate will retain the original message.
+**Max will not mention the slate during the conversation with Kate on the rooftop.
+
+### [Lisa](lisa.md) #1
+Minor choice:
+
+Watered# Watered
+***Episode 2**
+**Lisa will look healthy.
+***Episode 3**
+**This will prevent Lisa from drying out.
+|-|Didn't waterDidn't water
+***Episode 2**
+**Lisa will look wilted.
+***Episode 3**
+**This will prevent Lisa from drowning.
+
+### Victoria's Photo Collection
+Minor choice:
+
+Reorganized# Reorganized
+***Episode 1**
+**Max can take an optional photo.
+***Episode 2**
+**Victoria will write "Hi I'm Max selfie" and draw an unflattering picture on Max's slate which Max can erase and draw a different picture on the slate. Max's cookies will also be gone from Max's room after she returns from her shower.
+***Episode 3**
+**Max's cookies will be found in Victoria's room.
+|-|Didn't reorganizeDidn't reorganize
+***Episode 1**
+**Max can take an optional photo provided she reorganizes the photo collection and decides to rewind after taking the photo.
+***Episode 2**
+**Max's slate will remain intact with Max's blank slate or Max's drawn pokerface picture. Max's cookies will also remain in Max's room after she returns from her shower.
+***Episode 3**
+**Max's cookies will remain in Max's room.
+
+### [Dana Ward](dana_ward.md)'s Pregnancy Test
+Minor choice:
+
+Touched# Touched
+***Episode 1**
+**Dana is upset at Max for invading her privacy and refuses to talk any further.
+***Episode 2**
+**Max can apologize to Dana for looking at the pregnancy test kit without her permission.
+***Episode 4**
+**Dana will talk to Max about Trevor knowing how to "be safe".
+**Max can call [Logan Robertson](logan_robertson.md) out for abandoning Dana.
+|-|Didn't touchDidn't touch
+***Episode 1**
+**Dana and Max can only talk about [Juliet Watson](juliet_watson.md), Warren, and general affairs at Blackwell.
+***Episode 2**
+**Dana will invite Max to the party.
+***Episode 4**
+**Dana will not talk to Max about Trevor knowing how to "be safe".
+**If Max did not find out that [Logan Robertson](logan_robertson.md) got Dana pregnant, Max cannot call Logan out.
+|-|Touched and rewound# Touched and rewound
+***Episode 1**
+**Dana will admit her pregnancy and confide in Max.
+***Episode 2**
+**Dana will be glad that she talked to Max.
+***Episode 4**
+**Dana will talk to Max about Trevor knowing how to "be safe".
+**Max can call [Logan Robertson](logan_robertson.md) out for abandoning Dana.
+
+### Football thrown at [Alyssa Anderson](alyssa_anderson.md)
+Minor choice:
+
+WarnWarn
+***Episode 1**
+**The football hits and breaks a window of the Prescott Dormitory.
+**Max can take an optional photo of the broken window.
+***Episode 2**
+**Alyssa will call Max her guardian angel if Max warns her about the toilet roll throw.
+***Episode 3**
+**Max will think about how much such a small thing reminds her of altering history when looking at the broken window that is now boarded up.
+***Episode 4**
+**Contributes to Alyssa reading a Robert Frost quote to Max.
+***Episode 5**
+**Contributes to Max having the option to save Alyssa where Alyssa will save Max from a sign falling onto her.
+|-|Ignore# Ignore
+***Episode 1**
+**The window of the Prescott Dormitory remains intact.
+**Max cannot take any optional photo unless Max decides to warn Alyssa and rewind after taking the photo.
+***Episode 2**
+**Alyssa will thank Max for helping her if Max warns her about the toilet roll throw.
+***Episode 4**
+**Alyssa will not read a Robert Frost quote to Max.
+***Episode 5**
+**Contributes to Max not being able to save Alyssa.
+**If saved, Alyssa will not help to move Max away from the falling sign.
+
+### [Kate Marsh](kate_marsh.md)'s and [David Madsen](david_madsen.md)'s Confrontation
+Major choice:
+
+Took photoTook photo
+***Episode 1**
+**Max will regret not intervening for Kate.
+**Kate will send Max an SMS message to tell her that what she did was "not cool". 
+**Chloe will see the photo among Max's photos collected for the day and comment on it.
+**Chloe will bring up the photo during an argument with David.
+***Episode 2**
+**Kate will confront Max in the bathroom.
+**Kate will confront Max again later in [Kate's Room](kate_s_room.md).
+**It will be harder to save Kate - Max will be given four options to say to Kate during part one of the conversation with Kate on the rooftop.
+***There are four options: "I wanted proof", "I've been bullied too", "I was scared" and "I had no idea". Only the option "I was scared" will not upset Kate. Any other option will cause Kate to take a few steps closer to the edge of the roof. 
+**David will be suspended if Max decides to blame him for Kate's suicide attempt.
+***Episode 3**
+**Max can look at the photo in her room if she didn't use it to bust David.
+|-|Intervened# Intervened
+***Episode 1**
+**Max is glad that she intervened for Kate.
+**Kate will send Max an SMS message to thank her for her actions.
+**Chloe will not see any photo of David among Max's photos collected for the day.
+**Chloe will bring up that David is a "fucking security guard" during her argument with him.
+***Episode 2**
+**Kate will thank Max in the bathroom for her actions.
+**Kate will question why Max helped her in [Kate's Room](kate_s_room.md).
+**It will be easier to save Kate - Max will be given two options to say to Kate during part one of the conversation with Kate on the rooftop.
+***There are two options: "Things will get better" and "You matter, not just to me". Neither option will upset Kate.
+** If Max did not report Nathan's gun earlier and didn't take the blame for Chloe's weed, no action will be taken against anybody if Max tries to blame David in the principal's office.
+**Max will be suspended if Max tries to blame David, took the blame for Chloe's weed, and did report Nathan earlier.
+***Episode 3**
+**There will not be a photo in Max's room.
+
+### RV at the [Blackwell Parking Lot](parking_lot.md)
+Minor choice:
+
+WroteWrote
+***Episode 1**
+**This will enable Max to take an optional photo.
+***Episodes 2, 3 and 4**
+**[Frank's RV](frank_s_rv.md) will have Max's writing.
+|-|Didn't write# Didn't write
+***Episode 1**
+**Max cannot take an optional photo.
+***Episodes 2, 3 and 4**
+**[Frank's RV](frank_s_rv.md) remains the same without any message written on it.
+
+### Chloe's Snow Globe
+Minor choice:
+
+BrokeBroke
+***Episode 1**
+**Chloe will be upset with Max for breaking the snow globe.
+**Max can read Chloe's report card that has fallen onto the ground to add to Max's collected [Max's Notes](notes.md).
+***Episode 3**
+**The broken snow globe is visible in [Chloe's Room](chloe_s_room.md).
+***Episode 4**
+**Max can comment on it in the living room remembering that it originally belonged to William.
+|-|Didn't break# Didn't break
+***Episode 1**
+**Chloe does not get upset with Max.
+**Max cannot read Chloe's report card (unless she broke the snow globe and rewound).
+***Episode 3**
+**Max can see the snow globe intact in [Chloe's Room](chloe_s_room.md).
+***Episode 4**
+**Max can comment on it in the living room.
+
+### [Blue Jay](blue_jay.md)
+Minor choice:
+
+SavedSaved
+***Episode 1**
+**Max can take an optional photo at the [Lighthouse](lighthouse.md).
+***Episode 3**
+**The bird will appear in the bathroom upstairs in [Madsen Household](chloe_s_house.md).
+***Episode 4**
+**The bird will appear upstairs in Chloe's house which Max can decide on whether to open the window and chase the bird out or not.
+|-|Died# Died
+***Episode 1**
+**Max cannot take an optional photo at the [Lighthouse](lighthouse.md).
+***Episode 3**
+**The bird does not appear in [Madsen Household](chloe_s_house.md).
+***Episode 4**
+**The bird does not appear in Chloe's house.
+
+### Leaving Evidence
+Minor choice:
+
+Left evidenceLeft evidence
+***Episode 1**
+**David will bring this up during his confrontation with Chloe, accusing Chloe of going through them.
+***Episode 4**
+**If Max destroys the files and sides with David, she can find them in his garage later.
+|-|Covered up the evidence# Covered up the evidence	
+***Episode 1**
+**David will not confront Chloe about his files being looked through.
+
+### [David's Files](david_s_files.md)
+Minor choice:
+
+Looked throughLooked through
+***Episode 1**
+**Max will bring this up to Chloe at the lighthouse.
+***Episode 3**
+**Chloe will bring up David's files if Max sides with David during the argument.
+|-|Didn't look through# Didn't look through
+***Episode 1**
+**Chloe will wish that Max had read David's files.
+***Episode 3**
+**Chloe will not mention David's files if Max sides with David during the argument.
+
+### Chloe Price's Weed
+Major choice:
+
+Take blameTake blame
+***Episode 1**
+**Chloe will feel she has won a victory against David.
+**Chloe will wait for Max to leave the room with her but still doesn't show the gun.
+**Chloe will be happy when she goes to the lighthouse with Max and will contribute to Chloe changing her mobile phone background to a picture of Max (1 of 4, at least 3 required).
+***Episode 2**
+**[Joyce Price](joyce_price.md) will bring up the matter as proof that Max isn't a good influence on Chloe, but she will also say that she admires that Max took the heat for Chloe like a great friend.
+**Max can be suspended in the principal's office if she blames David and did report Nathan.
+**Max can be suspended in the principal's office if she decides to blame Nathan and did not report Nathan with a gun in the bathroom earlier.
+***Episode 3**
+**Chloe will joke about the weed belonging to Max during the break-in at Blackwell.
+**Joyce will bring up the weed before the argument with David.
+***Episode 4**
+**If Max did not erase the message on the phone, David will reply to [Anderson Berry](officer_berry.md) with an e-mail where he will mention Max having weed.
+***Episode 5**
+**In the maze sequence of Max's [Nightmare](nightmare.md), David will call her "pot head" and "weed junkie".
+|-|Blame Chloe# Blame Chloe
+***Episode 1**
+**Chloe will be very upset with Max, and this will cause Chloe to retain her mobile phone background of her and [Rachel Amber](rachel_amber.md) no matter what. (This action is deemed so serious by Chloe that the remaining 3 choices make no difference.)
+**Chloe will immediately leave the room and does not show Max the gun.
+**Chloe will be upset at the lighthouse.
+***Episode 2**
+**[Joyce Price](joyce_price.md) will bring up the matter as proof that Chloe isn't responsible and needs the influence of Max.
+**Max cannot be suspended in the principal's office.
+***Episode 3**
+**Chloe will bring up Max blaming her for the weed during the break-in at Blackwell.
+**Joyce will bring up the weed before the argument with David.
+***Episode 4**
+**If Max did not erase the message on the phone, David will reply to [Anderson Berry](officer_berry.md) with an e-mail where he will mention Chloe having weed.
+|-|Stay hiddenStay hidden
+***Episode 1**
+**Chloe will be slightly upset with Max and will contribute to Chloe retaining her phone background (1 of 4, up to 2 required).
+**Chloe will wait for Max to leave the room with her and will not show Max the gun.
+**Chloe will be upset at the lighthouse.
+***Episode 2**
+**[Joyce Price](joyce_price.md) will bring up the matter as proof that Chloe isn't responsible and needs the influence of Max.
+**Max cannot be suspended in the principal's office.
+***Episode 3**
+**Chloe will bring up Max allowing David to catch her with the weed during the break-in at Blackwell.
+**Joyce will bring up the weed before the argument with David.
+**Max will also bring up David slapping Chloe in the argument if Max decides to side with Chloe.
+***Episode 4**
+**If Max did not erase the message on the phone, David will reply to [Anderson Berry](officer_berry.md) with an e-mail where he will mention Chloe having weed.
+|-|Hide and reveal to David# Hide and reveal to David
+***Episode 1**
+**Chloe will be very happy with Max and it will contribute towards Chloe changing her mobile phone background to a picture of Max (1 of 4, at least 3 required).
+**Chloe will show Max the gun and wait for Max to leave the room with her.
+**Chloe is happy when she goes to the lighthouse.
+***Episode 2**
+**[Joyce Price](joyce_price.md) will bring up the matter as proof that Max isn't a good influence on Chloe, but she will also say that she admires that Max took the heat for Chloe like a great friend.
+**Max can be suspended in the principal's office if she blames David and did report Nathan.
+**Max can be suspended in the principal's office if she decides to blame Nathan and did not report Nathan with a gun in the bathroom earlier.
+***Episode 3**
+**Chloe will joke about the weed belonging to Max during the break-in at Blackwell.
+***Episode 4**
+**If Max did not erase the message on the phone, David will reply to [Anderson Berry](officer_berry.md) with an e-mail where he will mention Max having weed.
+
+##  Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+
+### Lisa #2
+Minor choice:
+
+WateredWatered
+***Episode 2**
+**If Max already watered Lisa, she will say "Drink up! It's got electrolytes" referring to "Brawndo" from Idiocracy.
+***Episode 3**
+**If Max watered Lisa twice, Lisa will drown to death.
+**If Max watered Lisa once, Lisa will live and Max will comment that she managed to keep Lisa alive despite not being able to save Kate or Max managed to keep both Kate and Lisa alive.
+|-|Didn't water# Didn't water
+***Episode 2**
+**Max will not make any comment by not watering the plant.
+***Episode 3**
+**If Max watered Lisa once, Lisa will live and Max will comment that she managed to keep Lisa alive despite not being able to save Kate or Max managed to keep both Kate and Lisa alive.
+**If Max did not water Lisa on the previous day, Lisa will wilt and die.
+
+### Toilet paper thrown at Alyssa
+Minor choice:
+
+WarnWarn
+***Episode 2**
+**Max can talk to Alyssa about Warren and Max's favorite movie.
+***Episode 4**
+**This will contribute to Alyssa reading a Robert Frost quote.
+|-|Ignore# Ignore
+***Episode 2**
+**Max cannot talk to Alyssa.
+***Episode 4**
+**Alyssa will not read a Robert Frost quote.
+
+### Kate's Video Link (In the Shower Room)
+Minor choice:
+
+ErasedErased
+***Episode 2**
+**Max will bring up this action during the conversation with Kate on the rooftop.
+***This does not affect Kate's decision on whether to allow Max to come closer or to take steps backwards to jump off the roof, although she will acknowledge Max's help if Max also advised her to go to the police earlier. 
+***Episode 3**
+**Only lipstick smear leftovers are visible on the bathroom mirror.
+|-|Ignored# Ignored
+***Episode 2**
+**Max will not mention the link during the conversation with Kate on the rooftop.
+***Episode 3**
+**The link will be erased by other people.
+**The mirror will remain blank if Max managed to save Kate.
+**Three messages ("FUCK THE HATERS", "KATE MARSH DIED FOR OUR SINS" and "Sorry Kate") in three different lipstick colors will be written on the mirror if Max failed to save Kate.
+
+### Giving Kate Advice
+Major choice:
+
+Go to the policeGo to the police
+***Episode 2**
+**Kate will be appreciative.
+**Kate will send Max SMS messages later to thank Max for her advice.
+**It will be easier to save Kate - Max will be given two options to say to Kate during the conversation with Kate on the rooftop.
+***There are two options: "Nathan is involved" and "You were drugged". Either option will not upset Kate and will enable Max to get closer to save Kate.
+|-|Look for proof# Look for proof
+***Episode 2**
+**Kate will be upset and will refuse to talk any further.
+**Kate will send Max SMS messages later to express Kate's disappointment.
+**It will be harder to save Kate - Max will be given four options to say to Kate during the conversation with Kate on the rooftop.
+***There are four options: "I'm gathering proof", "Too dangerous for us", "I wasn't sure" and "I needed more time". Only the option "I'm gathering proof" will enable Max to get closer to save Kate. Any other option will upset Kate and cause her to take a few steps closer to edge of roof or to jump off the roof if she had already moved to edge of roof.
+
+### Friendship with [Taylor Christensen](taylor_christensen.md) about her mother
+Minor choice:
+
+FriendlyFriendly
+***Episode 3**
+**Taylor will state that she knows she can trust Max.
+**Taylor will admit that Victoria is wrong about Max.
+**Taylor will be confident in believing Max's promise not to tell anyone about Victoria sneaking out.
+***Episode 4**
+**Taylor will be more open and trusting to Max at the party.
+|-|Neutral# Neutral
+***Episode 3**
+**Taylor will be uncertain in believing Max's promise not to tell anyone about Victoria sneaking out.
+***Episode 4**
+**Taylor will not trust Max as much at the party.
+
+### [Warren Graham](warren_graham.md)'s Invitation
+Minor choice:
+
+Accept invitationAccept invitation
+***Episode 2**
+**Warren will send Max SMS messages to update and remind Max about going to the drive-in with him.
+***Episode 3**
+**Warren will continue to send Max additional SMS messages about going to the drive-in with him.
+***Episode 4**
+**Warren will continue to send Max additional SMS messages about going to the drive-in with him and the message will vary depending on Max's earlier decisions on whether to help and change Warren's science practical and grade and whether Max kissed Chloe earlier.
+**[Brooke Scott](brooke_scott.md) will be upset with Max and will not allow Max to fly her drone.
+**Brooke can be the person to tell Max that Nathan isn't around.
+**Brooke will be seen together with Daniel at the Vortex Club party and Brooke will accept Daniel's invitation to attend an art gallery exhibition instead (If Daniel is persuaded to attend the Vortex Club party earlier).
+|-|Reject invitation# Reject invitation
+***Episode 2**
+**Warren will send Max SMS messages to persuade Max to reconsider going to the drive-in with him.
+***Episode 3**
+**Warren will continue to send Max additional SMS messages about Warren buying an extra ticket for her.
+***Episode 4**
+**Warren will continue to send Max additional SMS messages about Max not going to the drive-in with him and the message will vary depending on Max's earlier decisions on whether to help and change Warren's science practical and grade and whether Max kissed Chloe earlier.
+**[Brooke Scott](brooke_scott.md) will be happy that she's invited to the drive-in with Warren and will allow Max to fly her drone.
+**Brooke cannot be the person to tell Max that Nathan isn't around, as she was too distracted.
+
+### Choice of breakfast course at Two Whales Diner
+Minor choice:
+
+Belgian Waffles
+***Episode 5**
+**The Nightmare-Max sitting at the same place as Max in this episode will also be eating Belgian Waffles.
+|-|Bacon Omelette# Bacon Omelette 
+***Episode 5**
+**The Nightmare-Max sitting at the same place as Max in this episode will also be eating Bacon Omelette.
+
+### Kate Marsh's phone call
+Major choice:
+
+AnsweredAnswered
+***Episode 2**
+**Max is glad Kate is comforted and appreciative of Max. At the same time, Max will also regret this action leading to Chloe and her mother Joyce Price getting into an argument due to Chloe having to wait for Max to finish speaking with Kate.
+**Chloe will be upset with Max. 
+**Counts towards Chloe retaining her original mobile phone background (2 of 4, up to 2 required).
+**Kate will send Max SMS messages later to thank Max for answering her phone call.
+**It will be easier to save Kate - Max will be given two options to say to Kate during the conversation with Kate on the rooftop.
+***There are two options: "You're my friend" and "I'm here for you". Either option will not upset Kate and will enable Max to get closer to save Kate.
+**Mark Jefferson will bring up Max answering this phone call if Max blames him for Kate's suicide attempt.
+***Episode 4**
+**If Kate is alive in the hospital, Chloe will be relieved that Max answered Kate's phone call earlier.
+|-|Didn't answer# Didn't answer
+***Episode 2**
+**Chloe will be pleased with Max. At the same time, Max will also regret not being available to talk to Kate.
+**Chloe will be pleased with Max. 
+**Counts towards Chloe changing her mobile phone background to a picture of Max (2 of 4, up to 3 required).
+**Kate will send Max SMS messages later to express disappointment in Max for not answering her phone call.
+**It will be harder to save Kate - Max will be given four options to say to Kate during the conversation with Kate on the rooftop.
+***There are four options: "It was in silent mode", "My phone died", "I was with Chloe" and "Thought it was Warren". Only the option "It was in silent mode" will enable Max to get closer to save Kate. Any other option will upset Kate and cause her to take a few steps closer to the edge of  the roof or to jump off the roof if she had already moved to the edge.
+**Mark Jefferson will bring up Max not answering this phone call if Max blames him for Kate's suicide attempt.
+***Episode 4**
+**If Kate is alive in the hospital, Chloe will express her regret and apologize to Max that she almost indirectly caused Max to lose a good friend forever.
+
+### The [American Rust Junkyard](american_rust_junkyard.md)
+Minor choice:
+
+Write a messageWrite a message
+***Episode 4**
+**Max and Chloe's names will be circled on the wall of the [Hideout](hideout.md) and have the words "YOU'RE ALL GOING TO DIE" written in red.
+**The "was" in "Rachel was here" will be replaced with a red "is".
+|-|Leave it# Leave it
+***Episode 4**
+**Chloe's name will remain unchanged on the wall of the [Hideout](hideout.md) .
+**The "was" in "Rachel was here" will be replaced with a red "is".
+
+### [Frank Bowers](frank_bowers.md) and the gun
+Major choice:
+
+Tried to shootTried to shoot
+***Episode 2**
+**Frank is both angry and amused that Max tried to shoot him with an empty gun.
+**Chloe will be glad that she still has the gun.
+**Chloe will send Max SMS messages to jokingly ask Max to marry her and express appreciation to Max later on. This will contribute to Chloe changing her mobile phone background to a picture of Max (3 of 4, up to 3 required).
+***Episode 3**
+**The gun will be visible in Chloe's room.
+**Frank will remind Max that she almost shot him when she tries to talk to him in the diner.
+**The gun will not be around in Frank's RV.
+***Episode 4**
+**It will be harder to convince Frank to give his cipher code peacefully and turn him to an ally.
+***Frank will question Max's intentions by reminding her that she tried to shoot him earlier.
+****There will be four possible options to say to Frank.
+****Only the option "You scared me" will not anger him. Any other option will cause Frank to get angry, unless you give him the money Chloe owes him.
+***Episode 5**
+**Contributes to Max and Chloe sharing a passionate kiss in the "Sacrifice Chloe" ending.
+|-|Didn't try to shoot# Didn't try to shoot
+***Episode 2**
+**Frank will only be amused at Max's inexperience and snatch Chloe's gun.
+**Chloe will express her disappointment at Max for helping her lose the gun to Frank and have Frank use the gun as additional collateral for Chloe's debt.
+**Chloe will send Max SMS messages to ask Max to rewind and shoot Frank later on. This will contribute to Chloe retaining her original mobile phone background (3 of 4, up to 2 required).
+***Episode 3**
+**The gun will not be around in Chloe's room.
+**Frank will threaten to break Max's camera at the diner if Max tries to take a picture of him.
+**The gun will be around in Frank's RV.
+***Max may decide to take the gun.
+***Taking the gun will affect the meeting with Frank later in the following episode.
+***Episode 4**
+**It will be easier to convince Frank to give his cipher code peacefully and turn him to an ally.
+***Max will say that she isn't there to fight.
+****Frank will not question Max's actions at the junkyard earlier.
+***Episode 5**
+**Contributes to Max and Chloe sharing a long hug in the "Sacrifice Chloe" ending.
+
+### The [Train Tracks](train_tracks.md)
+Minor choice:
+
+DamagedDamaged
+***Episode 3**
+**The [Truck Driver](truck_driver.md) will mention that he is stuck in town due to the train tracks being broken.
+|-|Didn't damage# Didn't damage
+***Episode 3**
+**The [Truck Driver](truck_driver.md) will mention that work in town has dried up.
+
+### The [End of the World Party](vortex_club_party.md) VIP Entry
+Minor choice:
+
+Gained entryGained entry
+***Episode 3**
+**Max cannot add her name to the Vortex Club Party list.
+***Episode 4**
+**Courtney will greet Max as "our guest star" and help Max enter the VIP section easily.
+|-|Didn't gain entry# Didn't gain entry
+***Episode 3**
+**Max may add her name to the Vortex Club Party list at the Blackwell [Swimming Pool](swimming_pool.md) area.
+***Episode 4**
+**Max will have to enter the VIP section secretly through the side of the swimming pool, regardless of whether Max added her name to the Vortex Club party list earlier.
+
+### Help Warren with his science experiment
+Minor choice:
+
+Help WarrenHelp Warren
+***Episode 2**
+**Warren makes a purple colored liquid in a conical flask and Max may take an optional photo of Warren posing with the flask.
+***Episode 3**
+**Warren gets a grade of A- for his experiment.
+**Max has the option to change Warren's grade to an A+.
+***Episode 4**
+**Warren will send Max SMS messages to report his obtained grade for the experiment. The message will be more upbeat in tone.
+***Episode 5**
+**Contributes to Max being able to kiss Warren in the Two Whales Diner.
+|-|Don't help Warren# Don't help Warren
+***Episode 2**
+**Max cannot take an optional photo unless she rewinds after helping Warren and taking the photo.
+***Episode 3**
+**Warren gets a grade of B- for his experiment.
+**Max has the option to change Warren's grade to a B+.
+***Episode 4**
+**Warren will send Max SMS messages to report his obtained grade for the experiment. The message will be more negative in tone.
+***Episode 5**
+**Counts against Max being able to kiss Warren in the Two Whales Diner.
+
+### Tell Mark Jefferson about David's confrontation with Kate
+Minor choice:
+
+InformInform
+***Episode 2**
+**Mark Jefferson will bring it up if Max tries to blame Mark for Kate's suicide attempt. 
+|-|Don't inform# Don't inform
+***Episode 2**
+**Mark Jefferson will not mention it at all.
+
+### Kate's suicide attempt
+Major choice:
+
+Saved KateSaved Kate
+***Episode 2**
+**Principal Wells will compliment Max for being quite a hero for getting Kate to come down.
+**Warren will praise Max as a superhero and an angel.
+**Kate will be shown lying on a hospital bed with multiple balloons from well-wishers in the ending scene.
+***Episode 3**
+**Max's social media profile page will be full of praises and positive comments. 
+**All the slates in Blackwell girls' dormitories will have well-wishes for Kate.
+**Kate's door will be sealed with crime scene tape. Max will comment that sealing her room with crime scene tape is not needed as she is still alive in the hospital.
+**The mirror in the bathroom will remain or be wiped clean.
+**No memorial to Kate will be visible at the dormitory entrance.
+**Max will feel kind of invincible.
+**Taylor, Dana, Victoria and Mark will comment on Kate's suicide attempt.
+**Max will receive separate SMS messages from both Kate and her father, [Richard Marsh](richard_marsh.md), to thank Max for all of her help.
+**Max's parents will both send separate SMS messages to praise Max.
+**The [Homeless Lady](homeless_lady.md) outside the diner will mention that she saw the news that Kate almost jumped and somebody managed to save her.
+**The truck driver outside the diner will say that "Arcadia Bay has a slut trying to commit suicide".
+**Officer Berry will praise Max for getting Kate to come down from the roof.
+**Alyssa will suggest visiting Kate together with some friends soon in the near-future if Max warns her about the speeding vehicle.
+***Episode 4**
+**Max can mention she had saved Kate earlier to alternative Chloe.
+**Max will visit Kate.
+**Kate will send Max several SMS messages.
+**Kate can be asked to help Max find Nathan's room which she will provide in an SMS message.
+***Episode 5**
+**Max can ask Mark Jefferson about his involvement in Kate's dosing and abduction.
+**Kate's desk in Mark Jefferson's classroom will be filled with scribbles of "I WANT TO DIE".
+**Kate will accuse Max of making sure that Kate would never be alone again by saving her life outside the door leading to her room.
+**Kate will ask Max not to kill her so that they can have their tea session at the nightmare diner area.
+|-|Kate commits suicide# Kate commits suicide
+***Episode 2**
+**Principal Wells will say that "This isn't pleasant for any of us, but we have to figure out why Kate was driven to suicide." and assure Max that she did all she could to save Kate.
+**[Anderson Berry](officer_berry.md) will be present at the meeting in Principal Wells' office.
+**Warren will reassure Max that she did all she could to save her friend.
+**A memorial for Kate will be shown in the ending scene.
+***Episode 3**
+**Max's social media profile page will contain both supportive messages and snide comments.
+**All the slates in Blackwell girls' dormitories will have messages to mourn Kate's death.
+**Kate's door will be sealed in crime scene tape with a small memorial consisting of candles and crosses placed in front.
+**The mirror in the bathroom will have new messages written over it or remain wiped clean.
+**A memorial to Kate will be visible at the dormitory entrance.
+**Max will be more uncertain of her powers.
+**Taylor, Dana, Victoria and Mark will comment on Kate's suicide.
+**Max will receive SMS messages Kate's father, [Richard Marsh](richard_marsh.md), to thank Max for all of her help.
+**Max's parents will both send separate SMS messages to express condolences and how upset Max must feel of Kate.
+**The [Homeless Lady](homeless_lady.md) outside the diner will mention that she saw the news about Kate killing herself.
+**The truck driver outside the diner will say that "Arcadia Bay has a slut committing suicide."
+**Officer Berry will console Max by saying they all know she did her best.
+***Episode 4**
+**Max can mention she had failed to save Kate earlier to alternative Chloe.
+**Max and Chloe will not go to the hospital after leaving Chloe's house.
+**Richard Marsh will send Max SMS messages to inform Max about Kate's funeral.
+**Max will not receive any SMS message to tell her Nathan's room number and Max will have to deduce Nathan's room by reading through the slates outside instead.
+***Episode 5**
+**Max can blame Mark Jefferson for Kate's death.
+**Kate's desk in Mark Jefferson's classroom will be splattered with blood.
+**Kate will accuse Max of letting her die and claim she is stuck in hell forever outside the door leading to her room.
+**Kate will ask Max not to let her die at the nightmare diner area.
+
+### Decision on who to blame for Kate's suicide attempt (Part 1/2)
+Major choice:
+
+David on temporary leaveDavid on temporary leave
+***Episode 3**
+**Nathan will not send Max any SMS message from a private number.
+**Max will comment on being distracted if she looks at her class timetable.
+**A webpage to report David's suspension will appear on [Max's Computer](max_s_computer.md).
+**No e-mail from Nathan will be found on [Victoria's Computer](victoria_s_computer.md).
+**Dana Ward will ask about David's role or involvement in Kate's suicide attempt.
+**An unnamed security guard will be supervising the search for intruders at the Blackwell locker room and swimming pool area.
+**Max will remark to Chloe that going to school everyday feels like a test.
+**David will return home the following day in his smart casual attire and complain of having to work overnight to make up for lost pay when Blackwell listened to kids who got him dismissed.
+**Nathan Prescott will say that Max is the one trying to fake it until she makes it and is glad that Max "kept her big mouth shut" in the principal's office.
+***Episode 5**
+**Mark Jefferson will gloat to Max about Max blaming the only person about to find out the truth.
+|-|Nathan Gets Suspended# Nathan Gets Suspended
+***Episode 3**
+**Nathan will send Max an SMS message that "Feminazis will be exterminated" from a private number.
+**Max will comment on being distracted if she looks at her class timetable.
+**No relevant webpage to announce Nathan's suspension will appear on [Max's Computer](max_s_computer.md).
+**An e-mail from Nathan about Max and the Vortex Club party will be found on [Victoria's Computer](victoria_s_computer.md). 
+**Dana Ward will ask about Nathan's role or involvement in Kate's suicide attempt.
+**David will be supervising the search for intruders at the Blackwell locker room and swimming pool area.
+**Max will remark to Chloe that going to school everyday feels like a test.
+**David will return home the following day in his Blackwell security uniform and complain of having to write vandalism reports all night yesterday.
+**Nathan Prescott will angrily remind Max that Max got him suspended.
+***Episode 4**
+**Victoria will mention Max busting Nathan out of Blackwell when she tries to warn her about him.
+***Episode 5**
+**Mark Jefferson will gloat to and thank Max for enabling suspicion to fall on Nathan and away from him.
+|-|Blame JeffersonBlame Jefferson
+***Episode 3**
+**Nathan will not send Max any SMS message from a private number.
+**Max will comment on being distracted if she looks at her class timetable.
+**A webpage to support Mark Jefferson will appear in [Max's Computer](max_s_computer.md).
+**No e-mail from Nathan will be found in [Victoria's Computer](victoria_s_computer.md).
+**Dana Ward will mention Mark's removal from the [Everyday Heroes Photo Contest](everyday_heroes.md) photo contest.
+**Mark Jefferson will mention that he's no longer eligible to travel to San Francisco together with the Everyday Heroes contest winner.
+**Max can find a letter on Mark Jefferson's desk from Principal Wells about the investigation on Mark.
+**David will be supervising the search for intruders at the Blackwell locker room and swimming pool area.
+**Max will remark to Chloe that going to school everyday feels like a test.
+**David will return home the following day in his Blackwell security uniform and complain of having to write vandalism reports all night yesterday.
+**Victoria will send Max angry SMS messages.
+**Nathan Prescott will say how great it was seeing Max turn on her idol and that he is glad she "kept her big mouth shut" in the principal's office.
+***Episode 4**
+**Victoria will aggressively text Max.
+**Max will bring up blaming Mark Jefferson.
+***Episode 5**
+**Mark Jefferson will gloat to Max that he thought Max almost had him, but that principal's alcoholism kept him from being too suspicious.
+
+### Decision on who to blame for Kate's suicide attempt (Part 2/2)
+Major choice:
+
+Max gets suspended for blaming Nathan# Max gets suspended for blaming Nathan
+***Episode 3**
+**Nathan will send Max an SMS message that she has plenty of time to ponder what a fuckup loser she is now that she is suspended from a private number.
+**Max will lament on all the classes she won't be attending if she looks at her class timetable.
+**No relevant webpage to announce Max's suspension will appear in Max's laptop.
+**No e-mail from Nathan will be found in Victoria's laptop.
+**Dana Ward will ask about Max's role or involvement in Kate's suicide attempt.
+**Principal Wells will mention Max's suspension if he spots Max trying to leave the dormitory during the night curfew.
+**David will be supervising the search for intruders at the Blackwell locker room and swimming pool area.
+**Max will discuss with Chloe about Max’s school obligations.
+**David will return home the following day in his Blackwell security uniform and complain of having to write vandalism reports all night yesterday.
+**Max will discuss with Chloe about Max’s school obligations.
+**Nathan will ask if Max is dressing in Rachel Amber’s clothes because she’s been suspended, thank Max sarcastically for trying to get him in trouble and say Max shouldn't have snitched on Nathan.
+***Episode 5**
+**Mark Jefferson will not mention anything regarding Max's decision to blame Nathan.
+|-|Max gets suspended for blaming DavidMax gets suspended for blaming David
+***Episode 3**
+**Nathan will send Max an SMS message that she has plenty of time to ponder what a fuckup loser she is now that she is suspended from a private number.
+**Max will lament on all the classes she won't be attending if she looks at her class timetable.
+**No relevant webpage to announce Max's suspension will appear in Max's laptop.
+**No e-mail from Nathan will be found in Victoria's laptop.
+**Dana Ward will ask about Max's role or involvement in Kate's suicide attempt.
+**Principal Wells will mention Max's suspension if he spots Max trying to leave the dormitory during the night curfew.
+**David will be supervising the search for intruders at the Blackwell locker room and swimming pool area.
+**Max will discuss with Chloe about Max’s school obligations.
+**David will return home the following day in his Blackwell security uniform and complain of having to write vandalism reports all night yesterday.
+**Nathan will ask if Max is dressing in Rachel Amber’s clothes because she’s been suspended and say that Max is already in enough trouble with David and that he is glad she "kept her big mouth shut" in the principal's office.
+***Episode 5**
+**Mark Jefferson will not mention anything regarding Max's decision to blame David.
+|-|No action taken# No action taken
+***Episode 3**
+**Nathan will not send Max any SMS message from a private number.
+**Max will comment on being distracted if she looks at her class timetable.
+**No additional webpage will appear in Max's laptop.
+**No e-mail from Nathan will be found in Victoria's laptop.
+**Dana Ward will not try to guess if anyone is involved in Kate's suicide attempt.
+**David will be supervising the search for intruders at the Blackwell locker room and swimming pool area.
+**Max will remark to Chloe that going to school everyday feels like a test.
+**David will return home the following day in his Blackwell security uniform and complain of having to write vandalism reports all night yesterday.
+**Nathan Prescott will say that Max is the one trying to fake it until she makes it and that he is glad she "kept her big mouth shut" in the principal's office.
+***Episode 5**
+**Mark Jefferson will not mention anything regarding Max's decision to blame David.
+
+##  Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+
+### The Handicapped Fund
+Major choice:
+
+Steal the money
+***Episode 3**
+**Chloe will joyfully mention the money at the Blackwell Swimming Pool: "And with my cash stash I'm queen of the world!"
+**The envelope will lie in a shelf in Chloe's room the next morning.
+**Chloe will seem more relaxed.
+**Max will think she might go to hell for her decision, but also glad to help Chloe with Frank.
+**Chloe will have texted Frank that she has his money.
+**Contributes to Chloe changing her mobile phone background to a picture of Max (4 of 4, up to 3 required).
+***Episode 4**
+**In the alternate timeline, Max will comment that she's glad they stole the money when reading a letter from Principal Wells to Chloe's parents informing them there would not be enough money for Chloe's accessible accommodations and recommending she transfer to a disability-friendly school in Boston.
+**An email from Officer Berry will be in Chloe's room, asking her to come to the [Arcadia Bay Police Department](police_department.md) on Monday for further inquiry.
+**A sign will be outside the dormitories showing a delay in an accessibility upgrade due to lack of funds, making Max comment on how she is somewhat remorseful for allowing Chloe to take the money.
+**Max may decide whether to repay Frank with the money and allow up to two answers which might anger Frank before he will attack Chloe, or to withhold the money from Frank and allow only one answer which might anger Frank. 
+|-|Don't steal the money# Don't steal the money
+***Episode 3**
+**No envelope will be visible in Chloe's room.
+**Contributes to Chloe retaining her original mobile phone background (4 of 4, up to 2 required).
+**Max can comment on how she wishes she let Chloe take the money.
+***Episode 4**
+**In the alternate timeline, Max will comment that she should have let Chloe steal the money when reading a letter from Principal Wells to Chloe's parents informing them there would not be enough money for Chloe's accessible accommodations and recommending she transfer to a disability-friendly school in Boston.
+**No email from Officer Berry will be present in Chloe's room. 
+**Chloe will aggressively remark about Max not letting her take the money.
+**A sign will be outside the dormitories showing an accessibility upgrade taking place thanks to the fund, making Max comment on how she is glad she didn't let Chloe take the money.
+**Max can only admit to Frank that Max and Chloe didn't have any money to repay Frank and allow only one answer which might anger Frank.
+
+### Chloe's Dare
+Major choice:
+
+ Kiss Chloe
+* **Episode 3**
+** Chloe will call Max "hardcore"
+** Chloe will claim to text Warren that he "doesn't stand a chance".
+*** Chloe will actually text Warren that he's "out of the loop".
+* **Episode 4**
+** Max will wish to kiss Chloe again after returning from the alternative timeline (journal entry).
+** Chloe will refer to that kiss when Max hugs her after returning saying, "You got one kiss and now you're all over me?"
+** Warren will text Max regarding Chloe's earlier message.
+*** If she declined his invitation, he will tell her he understands why she did it and that she should go to the drive-in with Chloe.
+*** If she accepted his invitation, he will tell her he understands why she did it and suggests to take Chloe with them to the drive-in.
+* **Episode 5**
+** Contributes to Max writing a diary entry questioning her feelings for Chloe, tending more to love than friendship (x of x).
+** Contributes to Max and Chloe sharing a long kiss at the cliff in the "Sacrifice Chloe" ending (x of x).
+|-|Don't kiss Chloe# Don't kiss Chloe
+* **Episode 3**
+** Chloe will be disappointed.
+** Chloe will claim to text Warren that Max is "saving herself all for him".
+*** Chloe will actually text Warren that Max "shot her down".
+* **Episode 4**
+** Max will wish to joyfully kiss Chloe for the first time after returning from the alternative timeline (journal entry)
+** Chloe will refer to that kiss when Max hugs her after returning saying, "Oh yeah, now you suddenly want to kiss me? You had your chance."
+** Warren will text Max regarding Chloe's earlier message.
+*** If she declined his invitation, he will tell her that he feels better "knowing she turned both of [them] down".
+*** Warren will be very depressed if she accepted his invitation.
+* **Episode 5**
+** Counts against Max and Chloe sharing a long kiss at the cliff in the "Sacrifice Chloe" ending.
+** Contributes to Max writing a diary entry questioning her feelings for Chloe, tending more to friendship than love (x of x).
+
+### Confronting David
+Major choice:
+
+Side with DavidSide with David
+***Episode 3**
+**David will stay at the Madsen household.
+**Chloe will berate you for not defending her.
+***Episode 4**
+**Max will self-think about "Choosing to help David over William".
+**David will have taken Joyce to the most expensive restaurant in Arcadia Bay.
+***Episode 5**
+**While talking to David, Max will say that she is glad that she sided with David.
+|-|Side with Chloe# Side with Chloe
+***Episode 3**
+**David will leave the house and take a hotel room.
+***Episode 4**
+**Joyce will have crumpled up the photo of her wedding with David, and leaves a note for him to not be home when she's back from work.
+**There will be an unfinished letter to Joyce in David's garage.
+***Episode 5**
+**Chloe will refer to Max reaming him the other day when she suggests involving David (after focussing on Warren's photo).
+**Max has a chance to convince Joyce to give David another chance at the Two Whales Diner.
+
+### Alyssa's clothes getting soaked (Two Whales Diner)
+Minor choice:
+
+WarnWarn
+***Episode 4**
+**This will contribute to Alyssa reading a Robert Frost quote.
+|-|Ignore# Ignore
+***Episode 4**
+**Alyssa will not read a Robert Frost quote.
+
+### The [Homeless Lady](homeless_lady.md) - Warn About The Storm Or Not
+Minor choice:
+
+Warn about the StormWarn about th Storm
+***Episode 5**
+**The Homeless Woman's place will be empty and Max hopes that she had found shelter before the [Storm](storm.md) approaches.
+**In the Two Whales Diner sequence of Max's Nightmare, she will say to Max, "Thanks for that warning, Max. You treated me like a human, not like trash. I sure hope you do that for everybody in town."
+|-|Don't warn about the Storm# Don't warn about the Storm
+***Episode 5**
+**Max can discover her dead body behind the diner as a result of the [Storm](storm.md).
+**In the Two Whales Diner sequence of Max's Nightmare, she will say to Max, "I've already lived forever, maybe you can help others live too."
+
+### [Pompidou](pompidou.md) and the dog bone
+Major choice:
+
+Pompidou gets hurtPompidou gets hurt
+***Episode 4**
+**There will be a picture of Pompidou's injured body on Nathan's bed.
+**Pompidou will not be inside Frank's RV, preventing Chloe from being able to kill Frank.
+**Pompidou's food bowl will not be near Frank's RV.
+|-|Pompidou remains unharmed# Pompidou remains unharmed
+***Episode 4**
+**Pompidou will be inside Frank's RV, making it possible for Chloe to kill Frank, if she has a gun.
+**Pompidou's food bowl will be near Frank's RV.
+
+### Frank Bowers and the gun #2
+Major choice:
+(Only available if Frank took Chloe's gun in Episode 2)
+
+Take backTake back
+***Episode 3**
+**Chloe will have the gun again.
+***Episode 4**
+**If Pompidou is alive, it is possible for Chloe to kill Frank.
+|-|Leave it# Leave it
+***Episode 3**
+**Chloe will not have the gun.
+***Episode 4**
+**Chloe will only be able to shoot Frank if Warren beat up Nathan.
+
+### Fire Place
+Minor choice:
+
+Leave a MarkLeave a Mark
+***Episode 4**
+**There will be a mark on the fireplace in the [Alternative Price Household](alternative_price_household.md) in the [Alternative Timeline (Life is Strange)](alternative_timeline.md).
+|-|Don't leave a Mark# Don't leave a Mark
+***Episode 4**
+**There won't be a mark on the fireplace in the [Alternative Price Household](alternative_price_household.md) in the [Alternative Timeline (Life is Strange)](alternative_timeline.md).
+
+##  Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+
+### Alternative Chloe's Last Wish
+Major choice:
+
+AcceptAccept
+***Episode 4**
+**Alternative Chloe will be grateful.
+**When Max returns to the original timeline and sees Chloe alive, Max runs up to Chloe and says: "Chloe, you're alive."
+***Episode 5**
+**When preventing Chloe from entering the End of the World Party, Max tells Chloe that she helped her as she didn't want her to suffer in any reality.
+**Max will receive a text from Joyce in the nightmare sequence threatening her after finding out Chloe's death was recorded on surveillance.
+|-|Refuse# Refuse
+***Episode 4**
+**Alternative Chloe will be upset at Max.
+**When Max returns to the original timeline and sees Chloe alive, Max runs up to Chloe and says: "Chloe, you're back."
+***Episode 5**
+**When preventing Chloe from entering the End of the World Party, Max tells her that she couldn't kill her, that she had to return to the original timeline and see her again.
+**Max will receive a text from Chloe in the nightmare sequence scolding her (with normal Chloe's language) for leaving her behind to suffer in her reality.
+
+### Blue Jay Encounter #2
+Minor choice:
+Leave present day Chloe's bedroom. Open the upper floor window and "scare away" the bird in the bathroom. You can also kill the bird by leaving the window closed and scaring it so that it slams into the window and dies, with no known effects or differences from not saving it at all.
+
+This special encounter is most likely (only) for game statistics purposes.
+
+Save No further effects known for Season 1.
+|-|Don't save# Don't save
+***Episode 4**
+**When returning to Chloe's room later, the bird can be found dead near the window. Max will lament trapping it in the house.
+
+### The Bird's Nest
+Minor choice:
+
+Disturb the nestDisturb the nest
+***Episode 4**
+**If you side with Chloe, Joyce will text you a picture of the destroyed nest.
+**If you side with David, Joyce will not text you.
+|-|Don't disturb the nest# Don't disturb the nest
+***Episode 4**
+**Joyce will not text you.
+
+### David's Files #2
+Minor choice:TBA
+
+### [Nathan's Room](nathan_s_room.md)
+Minor choice:
+
+Break Open and LeaveBreak Open and Leave
+***Episode 4**
+**Nathan will [Max's Messages#Nathan_2](message.md) Max, threatening to take away her scholarship.
+|-|Break Open and Rewind# Break Open and Rewind
+***Episode 4**
+**Nathan will not message Max.
+
+### Warren's slate
+Minor choice:
+
+Leave a MessageLeave a Message
+***Episode 4**
+**Warren will text Max, thanking her and saying he'll never erase the message.
+|-|Ignore# Ignore
+***Episode 4**
+**Warren will not text Max.
+
+### Warren vs. Nathan
+Major choice:
+
+Step inStep in
+***Episode 4**
+**Nathan will keep his gun.
+**Warren will mention he is glad Max stopped him from stooping to Nathan's level.
+**If Max talks to Luke at the Vortex Club party, she will inform him about Warren headbutting Nathan, to which he will be happy Nathan got some bad karma.
+***Episode 5**
+**Mr. Jefferson will remark on how Max thinks she is a "good" person for stopping Warren from hurting Nathan.
+|-|Don't step in# Don't step in
+***Episode 4**
+**Chloe will take Nathan's gun, allowing her to kill or hurt Frank if she didn't have David's gun.
+**If Max talks to Luke at the Vortex Club party, he will be ecstatic that Nathan finally got what was coming to him.
+**Two boys sitting near Luke at the Vortex Club party can be overheard talking about Warren beating down Nathan.
+***Episode 5**
+**Mr. Jefferson will remark on how he and Max aren't very different, as she let Warren almost beat Nathan to death.
+
+### Daniel and the Vortex Club Party
+Minor choice:
+
+ConvincedConvince
+***Episode 4**
+**Daniel will be standing next to Brooke at the Vortex Club Party.
+|-|Didn't convince# Didn't convince
+***Episode 4**
+**Daniel won't be around at the Vortex Club Party.
+
+### Meeting with Frank
+Major choice:
+
+Chloe killed FrankChloe killed Frank
+***Episode 4**
+**Chloe will be depressed because she was the one who killed Frank.
+***Episode 5**
+**Frank won't be at the Two Whales Diner during the storm.
+|-|Chloe wounded Frank# Chloe wounded Frank
+***Episode 4**
+**If Chloe has a gun (that is, if Max tried to shoot Frank in Episode 2, didn't try to shoot Frank but found the gun in his RV and returned it to Chloe, or if she let Warren beat up Nathan and Chloe took Nathan's gun), Chloe will wound Frank by shooting him in the leg.
+**If Chloe doesn't have a gun, she will wound Frank by stabbing him in the leg with his own knife.
+**Chloe will think about wounding Frank in her house.
+***Episode 5**
+**Frank will be at the Two Whales Diner during the storm where Max can tell him Rachel's fate.
+**Frank will be upset at Max for letting Chloe wound him and calls Chloe a thief if she didn't pay him back. 
+|-|No one got hurtNo one got hurt
+***Episode 4**
+**Chloe will be glad that things worked out with Frank.
+***Episode 5**
+**Frank will be at the Two Whales Diner during the storm where Max can tell him Rachel's fate.
+**Frank will speak in a friendly manner and won't say bad things about Chloe.
+
+### Warn Alyssa at the Vortex Club Party
+Minor choice:
+
+Warn# Warn
+***Episode 4**
+**Contributes to Alyssa reading a Robert Frost quote.
+***Episode 5**
+**If Max warned her in every episode, a sign will fall onto Max and Alyssa will push her out of the way before she gets hit, saying it makes them even.
+|-|Don't WarnDon't Warn
+***Episode 4**
+**Alyssa will not read a Robert Frost quote.
+
+### Warn Victoria at the Vortex Club Party
+Major choice:
+
+Believed Max's warning# Believed Max's warning
+***Episode 5**
+**Victoria will go to Mr. Jefferson for help, and will end up in the Dark Room with you, and will be killed eventually.
+**When Max goes back to the past of Monday in Jefferson's class, Max acts more kindly to Victoria when getting her away from Mr. Jefferson, appealing to Victoria's sense of morals about how she treated Kate.
+|-|Didn't believe Max's warningDidn't believe Max's warning
+***Episode 5**
+**Victoria will not end up in the Dark Room.
+**When Max goes back to the past of Monday in Jefferson's class, Max acts more hostile towards Victoria to drive her away from Jefferson, berating Victoria for posting the viral video of Kate.
+|-|Max didn't warn Victoria# Max didn't warn Victoria
+***Episode 5**
+**Victoria will not end up in the Dark Room.
+**When Max goes back to the past of Monday in Jefferson's class, Max acts more hostile towards Victoria to drive her away from Jefferson, berating Victoria for posting the viral video of Kate.
+
+## Episode Five - "[Episode 5: Polarized](polarized.md)"
+
+### David and Jefferson's fight
+Minor choice:
+
+David got a scar during the fightDavid got a scar during the fight
+* David will have a scar in his face until Max time jumps with Warren's photo.
+|-|David didn't get a scar during the fight# David didn't get a scar during the fight
+* David won't have a scar in his face.
+
+### The truth about Chloe
+Minor choice:
+
+David killed JeffersonDavid killed Jefferson
+* Max will mention to Frank and Warren that Jefferson is dead.
+* One or more of the Jeffersons in Max's nightmare will blame her for letting him be killed.
+* During the nightmare scene, the Other Max in the Two Whales Diner may mention that you let David kill Jefferson, and that you are more of a cold-blooded killer than David or Nathan are.
+|-|David didn't kill Jefferson# David didn't kill Jefferson
+* Max will tell Frank and Warren that Jefferson is going to jail and will no longer be able to hurt anyone. 
+
+### Chloe's necklace
+Minor choice:
+
+You looked at the necklaceYou looked at the necklace
+* Max makes a determined comment about saving Chloe for the last time (as if she is speaking to Chloe directly).
+|-|You took the necklace# You took the necklace
+* Max makes a sentimental comment about not leaving the necklace there (as if she is speaking to Chloe directly).
+* Max wears the necklace on her way to the Two Whales Diner.
+
+### The Trucker
+Minor choice:
+
+You saved the truckerYou saved the trucker
+* The trucker will mention it in the nightmare at the Two Whales.
+|-|You didn't save the trucker# You didn't save the trucker
+* The trucker will mention it in the nightmare at the Two Whales.
+
+### Warn [Evan Harris](evan_harris.md)
+Minor choice:
+
+You saved EvanYou saved Evan
+* Evan will mention it in the nightmare at the Two Whales.
+|-|You didn't save Evan# You didn't save Evan
+* Evan will mention it in the nightmare at the Two Whales.
+
+### Alyssa is stuck in a house
+Minor choice:
+
+You saved AlyssaYou saved Alyssa
+* If Max warned Alyssa in every episode, Alyssa will save Max from a falling billboard afterwards.
+* Alyssa will mention it in the nightmare at the Two Whales.
+|-|You didn't save Alyssa# You didn't save Alyssa
+* Alyssa will mention it in the nightmare at the Two Whales.
+
+### The Fisherman
+You saved the fisherman
+* The fisherman will mention it in the nightmare at the Two Whales.
+|-|You didn't save the fisherman# You didn't save the fisherman
+* The fisherman will mention it in the nightmare at the Two Whales.
+
+### [Joyce Price](joyce_price.md)'s mind about David
+Minor choice:
+
+You helped Joyce believe in David againYou heped Joyc believe in David again
+*Joyce says that David is not William, but he's not supposed to be. She confides in Max that David gave her hope and strength when she lost William, and wants David to come back home.
+|-|You didn't change Joyce's mind about David# You didn't change Joyce's mind about David
+*Joyce says that she loves David, but sometimes he scares her and reminds her and Chloe about how hard life is. Joyce ultimately decides that she doesn't need this reminder.
+
+### The truth about [Rachel Amber](rachel_amber.md)
+Minor choice:
+
+You told the truth about Rachel to FrankYou told the truth about Rachel to Frank
+*Frank will be visibly distressed about what happened to Rachel.
+*He will blame himself if Max tells him that Rachel died from an overdose.
+|-|You didn't tell the truth about Rachel to Frank# You didn't tell the truth about Rachel to Frank
+*Frank says he just hopes that Rachel is fine elsewhere. 
+*If Frank got wounded in Episode 4, he says that it doesn't matter now and tells Max to stand aside.
+
+### Max and Warren
+Minor choice:
+
+You kissed WarrenYou kissed Warren
+*In Max's nightmare, nightmare Warren will insult Max's kiss to nightmare Chloe. If Max didn't kiss Chloe in Episode 3, she will also state that she hears Warren and she's not into nerds (as in earlier episodes Max stated that she was seeing herself as 'nerd'). In the nightmare of the Two Whales, Warren will say how Max had kissed him, only to kill him.
+*If Max kissed Chloe in Episode 3, nightmare Chloe and nightmare Warren will insult Max, saying how she is trying to have both of them.
+*Doesn't affect Max and Chloe's relationship/getting kiss in Sacrifice Chloe ending (since it depends on how many times you sided with Chloe.)
+|-|You didn't show Warren any affection# You didn't show Warren any affection
+*In Max's nightmare, nightmare Warren will insult Max and say he doesn't care if she didn't kiss him to nightmare Chloe. In the nightmare of the Two Whales, Warren will ask why she wants all her friends to die.
+*Doesn't affect Max and Chloe's relationship/getting kiss in Sacrifice Chloe ending (since it depends on how many times you sided with Chloe.)
+|-|You hugged WarrenYou hugged Warren
+*In Max's nightmare, nightmare Warren will insult Max and say he doesn't care if she didn't kiss him to nightmare Chloe. In the nightmare of the Two Whales, Warren will ask why she wants all her friends to die.
+*In Max's nightmare (Dark Room), if Max didn't kiss either of them, Chloe will offend Max by saying she doesn't have a type and Warren will say that she is actually into Mr. Jefferson.
+*In Max's nightmare (Diner), Warren will say that he is glad that they are friends and ask Max not to kill her friends.
+*Doesn't affect Max and Chloe's relationship/getting kiss in Sacrifice Chloe ending (since it depends on how many times you sided with Chloe.)
+
+ Choices and Consequences # 
+
+[File:This action will have consequences-0.png](centre.md)
+
+: *This article is about Life is Strange. For information on Before the Storm, see [Choices and Consequences (Before the Storm)](here.md). For information on Life is Strange 2, see [Choices and Consequences (Life is Strange 2)](here.md)*.
+
+**Choices and Consequences** are a main gameplay element in *[Life is Strange](life_is_strange.md)*. The protagonist, [Maxine Caulfield](max_caulfield.md), is presented with different choices in the form of available action or dialogue options and optional interactions which can stop the scene and freeze time if it is a major choice. A butterfly symbol will appear at the top of the screen after the choice is made, and Max will usually make a comment regarding her decision; she will then have the option to [Rewind](rewind.md) to make a different choice, or progress further into the story and usually reach a save checkpoint location. The choices made during the episode, along with comparisons with friends and global statistics on choices made will be revealed to the player at the end of each episode. The associated consequences will often be revealed later on in the same or in subsequent episodes.
+
+##  Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+
+### Nathan's Gun
+Major choice:
+
+Report NathanReport Nathan
+***Episode 1**
+**[Raymond Wells](principal_wells.md) will call [Nathan Prescott](nathan_prescott.md) into his office through a public announcement system as Max exits the main building of [Blackwell Academy](blackwell.md).
+**Max can tell [Luke Parker](luke_parker.md) about "busting" Nathan with a gun, giving him satisfaction and thanking Max for doing so.
+**Nathan will get angry with Max for reporting him and confront her at the parking lot.
+**[Chloe Price](chloe_price.md) will express her disapproval over Max having reported Nathan to the principal.
+***Episode 2**
+**Nathan will leave a threatening message and photo in [Max's Room](max_s_room.md) after Max returns from her shower.
+**Nathan and someone claiming to be [Sean Prescott](nathan_s_father.md) will send Max two separate threatening SMS messages from two different private numbers.
+**Max can talk to [Warren Graham](warren_graham.md) about "busting" Nathan with a gun.
+**Principal Wells will admit that he doesn't believe her accusation if Max talks to him.
+**[Mark Jefferson](mr__jefferson.md) will say he does not believe Max's accusation when he talks to Max.
+**Nathan will be aggressive during his desk confrontation with Max.
+**Nathan will be suspended if Max blames him for [Kate Marsh](kate_marsh.md)'s suicide attempt.
+**Max will be suspended instead if she tries to blame David after not taking a photo and taking the blame for Chloe's weed.
+***Episode 3**
+**At the [Two Whales Diner](two_whales_diner.md), Nathan's attitude will be more hostile.
+***Episode 4**
+**Principal Wells will send an email to Nathan to apologize for Max's accusation.
+**Nathan will steal a selfie from Max's room.
+***Episode 5**
+**Max can talk with Principal Wells in [Zeitgeist Gallery](zeitgeist_gallery.md) about how she tried to warn him about Nathan.
+**Max will tell [David Madsen](david_madsen.md) that she should have tried harder to convince the principal about Nathan.
+|-|Hide the truth# Hide the truth
+***Episode 1**
+**No public announcement will be broadcast as Max exits the main building of [Blackwell Academy](blackwell.md).
+**Max cannot tell [Luke Parker](luke_parker.md) about "busting" [Nathan Prescott](nathan_prescott.md) with a gun, thus keeping their relationship the same.
+**Nathan will figure out that Max was in the bathroom and will try to intimidate her at the [Blackwell Parking Lot](parking_lot.md).
+**[Chloe Price](chloe_price.md) will be glad that Max didn't report Nathan.
+***Episode 2**
+**Nathan will not vandalize or leave anything in [Max's Room](max_s_room.md).
+**Max will only receive one threatening text by Nathan from a private number.
+**Max can talk to [Warren Graham](warren_graham.md) about Nathan with a gun.
+**[Raymond Wells](principal_wells.md) will bring up Max's evasive answer to him in the previous day if Max talks to him.
+**[Mark Jefferson](mr__jefferson.md) will say that he does not believe Max's accusation if she brings it up to him.
+**Nathan will be snarky during his desk confrontation with Max. More in this video https://youtu.be/faz4O_Qee1I
+**Nathan will be suspended if Max blames him at the end of Episode 2 and did not take the blame for Chloe's weed.
+**Max will be suspended instead if she tries to blame Nathan and took the blame for Chloe's weed earlier which David will bring up.
+***Episode 3**
+**At the [Two Whales Diner](two_whales_diner.md), Nathan's attitude will be less hostile. More in this video https://youtu.be/faz4O_Qee1I
+***Episode 4**
+**Nathan will not receive any email from Principal Wells.
+**Nathan will not steal Max's selfies.
+***Episode 5**
+**Max can talk with Principal Wells at the [Zeitgeist Gallery](zeitgeist_gallery.md) and say that she should have reported Nathan.
+**Max will tell [David Madsen](david_madsen.md) that she regrets not telling the principal that Nathan had a gun.
+
+### [Daniel DaCosta](daniel_dacosta.md)'s Portrait
+Minor choice:
+
+AcceptAccept
+***Episode 1**
+**Daniel's portrait of Max is posted on her social media page.
+**Warren will bring up the portrait to Max.
+***Episode 2** 
+**Daniel will bring up the portrait in Jefferson's classroom.
+***Episode 4**
+**Daniel can be easily convinced to attend the [Vortex Club](vortex_club.md)'s [End of the World Party](end_of_the_world_party.md).
+|-|Decline# Decline
+***Episode 1**
+**Daniel will not post anything on Max's social media page.
+**Warren will not discuss Daniel or the portrait with Max.
+***Episode 2**
+**Daniel will bring up Max not sitting for a portrait in Jefferson’s classroom.
+***Episode 4**
+**Daniel can only be convinced to attend the [Vortex Club](vortex_club.md)'s [End of the World Party](end_of_the_world_party.md) after a rewind.
+
+### [Michelle Grant](michelle_grant.md)'s Petition
+Minor choice:
+
+SignedSigned
+***Episode 2**
+**Michelle Grant will mention Max's help in her classroom.
+***Episode 3**
+**A drafted letter can be seen on Principal Well's desk detailing how Mrs. Grant's petition was successful enough to make him put a hold on David's surveillance program.
+***Episode 4**
+**Michelle Grant will be thankful to Max for helping the petition to be successful.
+|-|Didn't sign# Didn't sign
+***Episode 2**
+**Michelle Grant will mention there were not enough people to sign her petition as more preferred to just voice support without actually signing on the petition in her classroom.
+***Episode 3**
+**A drafted letter can be seen on Principal Well's desk detailing how Mrs. Grant's petition was unsuccessful and thus he will go ahead with his decision to allow David's surveillance program to be implemented.
+***Episode 4**
+**Outside the [Prescott Dormitory](dormitory.md), Max will say that she does not think surveillance would have helped Kate (regardless of her having attempted or committed suicide). Ms. Grant comments afterwards, "Who needs surveillance when we have Max Caulfield".
+**Michelle Grant will express disappointment at Max for deciding not to sign her petition.
+
+### [Victoria Chase](victoria_chase.md) Outside the Dormitory
+Major choice:
+
+Make fun of VictoriaMake fun of Victoria
+***Episode 1**
+**Victoria will leave her photo of Max in Max's social media page.
+**Max can tell Warren Graham about getting a photo of Victoria.
+**Chloe will see the photo while looking through Max's photos collected for the day and comment on the photo of Victoria.
+***Episode 2**
+**Max will have the photo on her dresser before Max goes to have her shower.
+**Victoria will add additional unflattering pictures of Max superimposed on a sheep and monkey in Max's social media page.
+**Victoria will blame Max's behavior while talking with [Taylor Christensen](taylor_christensen.md) in the bathroom.
+**Victoria will vandalize Max's mirror, ransack the room and steal the photo.
+**Victoria will be aggressive during her desk confrontation with Max.
+***Episode 3**
+**The photo of Victoria will be in [Victoria's Room](victoria_s_room.md).
+***Episode 4**
+**It will be impossible to get Victoria to believe Max if she tries to warn her about the [Dark Room (Location)](dark_room.md).
+***Episode 5**
+**Victoria will not end up in the Dark Room as she doesn't know or heed Max's warning and will not approach Mr. Jefferson for help.
+|-|Comfort Victoria# Comfort Victoria
+***Episode 1**
+**Victoria will delete the photo of Max on her mobile phone and put up a photo of Blackwell's [Blackwell Campus](main_campus.md) instead.
+**Max can tell Warren about her missed opportunity to take a photo of Victoria where Warren will respond that Max could've started a Kickstarter fund with a photograph of Victoria covered in paint.
+**Chloe will not see any photo of Victoria among Max's photos collected for the day.
+***Episode 2**
+**Max will not have any photo of Victoria in Max's room.
+**Max will not have any unflattering pictures uploaded onto Max's social media page. 
+**Victoria will blame [Taylor Christensen](taylor_christensen.md) and [Courtney Wagner](courtney_wagner.md)'s slowness while talking with Taylor in the bathroom.
+**Victoria will not vandalize or ransack Max's room.
+**Victoria will be snarky during her desk confrontation with Max.
+***Episode 3**
+**Victoria will not have any photo in her room.
+***Episode 4**
+**Victoria will believe Max if she tries to warn Victoria about the [Dark Room (Location)](dark_room.md), as long as Max doesn't reveal that she set up the paint can.
+***Episode 5**
+**If Victoria believed Max's warning in the previous episode, she will be in the Dark Room for a short while before being killed after approaching Mark Jefferson for help and getting captured by him on the previous day.
+
+### Insults on [Kate Marsh](kate_marsh.md)'s Slate
+Minor choice:
+
+ErasedErased
+***Episode 2**
+**Kate's slate will be vandalized again.
+**Max will bring up this action during the conversation with Kate on the rooftop.
+***This does not affect Kate's decision on whether to allow Max to come closer or to take steps backwards to jump off the roof, although she will acknowledge Max's help if Max also answered her phone call earlier.
+|-|Ignored# Ignored
+***Episode 2**
+**Kate's slate will retain the original message.
+**Max will not mention the slate during the conversation with Kate on the rooftop.
+
+### [Lisa](lisa.md) #1
+Minor choice:
+
+WateredWatered
+***Episode 2**
+**Lisa will look healthy.
+***Episode 3**
+**This will prevent Lisa from drying out.
+|-|Didn't water# Didn't water
+***Episode 2**
+**Lisa will look wilted.
+***Episode 3**
+**This will prevent Lisa from drowning.
+
+### Victoria's Photo Collection
+Minor choice:
+
+ReorganizedReorganized
+***Episode 1**
+**Max can take an optional photo.
+***Episode 2**
+**Victoria will write "Hi I'm Max selfie" and draw an unflattering picture on Max's slate which Max can erase and draw a different picture on the slate. Max's cookies will also be gone from Max's room after she returns from her shower.
+***Episode 3**
+**Max's cookies will be found in Victoria's room.
+|-|Didn't reorganize# Didn't reorganize
+***Episode 1**
+**Max can take an optional photo provided she reorganizes the photo collection and decides to rewind after taking the photo.
+***Episode 2**
+**Max's slate will remain intact with Max's blank slate or Max's drawn pokerface picture. Max's cookies will also remain in Max's room after she returns from her shower.
+***Episode 3**
+**Max's cookies will remain in Max's room.
+
+### [Dana Ward](dana_ward.md)'s Pregnancy Test
+Minor choice:
+
+TouchedTouched
+***Episode 1**
+**Dana is upset at Max for invading her privacy and refuses to talk any further.
+***Episode 2**
+**Max can apologize to Dana for looking at the pregnancy test kit without her permission.
+***Episode 4**
+**Dana will talk to Max about Trevor knowing how to "be safe".
+**Max can call [Logan Robertson](logan_robertson.md) out for abandoning Dana.
+|-|Didn't touch# Didn't touch
+***Episode 1**
+**Dana and Max can only talk about [Juliet Watson](juliet_watson.md), Warren, and general affairs at Blackwell.
+***Episode 2**
+**Dana will invite Max to the party.
+***Episode 4**
+**Dana will not talk to Max about Trevor knowing how to "be safe".
+**If Max did not find out that [Logan Robertson](logan_robertson.md) got Dana pregnant, Max cannot call Logan out.
+|-|Touched and rewoundTouched and rewound
+***Episode 1**
+**Dana will admit her pregnancy and confide in Max.
+***Episode 2**
+**Dana will be glad that she talked to Max.
+***Episode 4**
+**Dana will talk to Max about Trevor knowing how to "be safe".
+**Max can call [Logan Robertson](logan_robertson.md) out for abandoning Dana.
+
+### Football thrown at [Alyssa Anderson](alyssa_anderson.md)
+Minor choice:
+
+Warn# Warn
+***Episode 1**
+**The football hits and breaks a window of the Prescott Dormitory.
+**Max can take an optional photo of the broken window.
+***Episode 2**
+**Alyssa will call Max her guardian angel if Max warns her about the toilet roll throw.
+***Episode 3**
+**Max will think about how much such a small thing reminds her of altering history when looking at the broken window that is now boarded up.
+***Episode 4**
+**Contributes to Alyssa reading a Robert Frost quote to Max.
+***Episode 5**
+**Contributes to Max having the option to save Alyssa where Alyssa will save Max from a sign falling onto her.
+|-|IgnoreIgnore
+***Episode 1**
+**The window of the Prescott Dormitory remains intact.
+**Max cannot take any optional photo unless Max decides to warn Alyssa and rewind after taking the photo.
+***Episode 2**
+**Alyssa will thank Max for helping her if Max warns her about the toilet roll throw.
+***Episode 4**
+**Alyssa will not read a Robert Frost quote to Max.
+***Episode 5**
+**Contributes to Max not being able to save Alyssa.
+**If saved, Alyssa will not help to move Max away from the falling sign.
+
+### [Kate Marsh](kate_marsh.md)'s and [David Madsen](david_madsen.md)'s Confrontation
+Major choice:
+
+Took photo# Took photo
+***Episode 1**
+**Max will regret not intervening for Kate.
+**Kate will send Max an SMS message to tell her that what she did was "not cool". 
+**Chloe will see the photo among Max's photos collected for the day and comment on it.
+**Chloe will bring up the photo during an argument with David.
+***Episode 2**
+**Kate will confront Max in the bathroom.
+**Kate will confront Max again later in [Kate's Room](kate_s_room.md).
+**It will be harder to save Kate - Max will be given four options to say to Kate during part one of the conversation with Kate on the rooftop.
+***There are four options: "I wanted proof", "I've been bullied too", "I was scared" and "I had no idea". Only the option "I was scared" will not upset Kate. Any other option will cause Kate to take a few steps closer to the edge of the roof. 
+**David will be suspended if Max decides to blame him for Kate's suicide attempt.
+***Episode 3**
+**Max can look at the photo in her room if she didn't use it to bust David.
+|-|IntervenedIntervened
+***Episode 1**
+**Max is glad that she intervened for Kate.
+**Kate will send Max an SMS message to thank her for her actions.
+**Chloe will not see any photo of David among Max's photos collected for the day.
+**Chloe will bring up that David is a "fucking security guard" during her argument with him.
+***Episode 2**
+**Kate will thank Max in the bathroom for her actions.
+**Kate will question why Max helped her in [Kate's Room](kate_s_room.md).
+**It will be easier to save Kate - Max will be given two options to say to Kate during part one of the conversation with Kate on the rooftop.
+***There are two options: "Things will get better" and "You matter, not just to me". Neither option will upset Kate.
+** If Max did not report Nathan's gun earlier and didn't take the blame for Chloe's weed, no action will be taken against anybody if Max tries to blame David in the principal's office.
+**Max will be suspended if Max tries to blame David, took the blame for Chloe's weed, and did report Nathan earlier.
+***Episode 3**
+**There will not be a photo in Max's room.
+
+### RV at the [Blackwell Parking Lot](parking_lot.md)
+Minor choice:
+
+Wrote# Wrote
+***Episode 1**
+**This will enable Max to take an optional photo.
+***Episodes 2, 3 and 4**
+**[Frank's RV](frank_s_rv.md) will have Max's writing.
+|-|Didn't writeDidn't write
+***Episode 1**
+**Max cannot take an optional photo.
+***Episodes 2, 3 and 4**
+**[Frank's RV](frank_s_rv.md) remains the same without any message written on it.
+
+### Chloe's Snow Globe
+Minor choice:
+
+Broke# Broke
+***Episode 1**
+**Chloe will be upset with Max for breaking the snow globe.
+**Max can read Chloe's report card that has fallen onto the ground to add to Max's collected [Max's Notes](notes.md).
+***Episode 3**
+**The broken snow globe is visible in [Chloe's Room](chloe_s_room.md).
+***Episode 4**
+**Max can comment on it in the living room remembering that it originally belonged to William.
+|-|Didn't breakDidn't break
+***Episode 1**
+**Chloe does not get upset with Max.
+**Max cannot read Chloe's report card (unless she broke the snow globe and rewound).
+***Episode 3**
+**Max can see the snow globe intact in [Chloe's Room](chloe_s_room.md).
+***Episode 4**
+**Max can comment on it in the living room.
+
+### [Blue Jay](blue_jay.md)
+Minor choice:
+
+Saved# Saved
+***Episode 1**
+**Max can take an optional photo at the [Lighthouse](lighthouse.md).
+***Episode 3**
+**The bird will appear in the bathroom upstairs in [Madsen Household](chloe_s_house.md).
+***Episode 4**
+**The bird will appear upstairs in Chloe's house which Max can decide on whether to open the window and chase the bird out or not.
+|-|DiedDied
+***Episode 1**
+**Max cannot take an optional photo at the [Lighthouse](lighthouse.md).
+***Episode 3**
+**The bird does not appear in [Madsen Household](chloe_s_house.md).
+***Episode 4**
+**The bird does not appear in Chloe's house.
+
+### Leaving Evidence
+Minor choice:
+
+Left evidence# Left evidence
+***Episode 1**
+**David will bring this up during his confrontation with Chloe, accusing Chloe of going through them.
+***Episode 4**
+**If Max destroys the files and sides with David, she can find them in his garage later.
+|-|Covered up the evidenceCovered up the evidence	
+***Episode 1**
+**David will not confront Chloe about his files being looked through.
+
+### [David's Files](david_s_files.md)
+Minor choice:
+
+Looked through# Looked through
+***Episode 1**
+**Max will bring this up to Chloe at the lighthouse.
+***Episode 3**
+**Chloe will bring up David's files if Max sides with David during the argument.
+|-|Didn't look throughDidn't look through
+***Episode 1**
+**Chloe will wish that Max had read David's files.
+***Episode 3**
+**Chloe will not mention David's files if Max sides with David during the argument.
+
+### Chloe Price's Weed
+Major choice:
+
+Take blame# Take blame
+***Episode 1**
+**Chloe will feel she has won a victory against David.
+**Chloe will wait for Max to leave the room with her but still doesn't show the gun.
+**Chloe will be happy when she goes to the lighthouse with Max and will contribute to Chloe changing her mobile phone background to a picture of Max (1 of 4, at least 3 required).
+***Episode 2**
+**[Joyce Price](joyce_price.md) will bring up the matter as proof that Max isn't a good influence on Chloe, but she will also say that she admires that Max took the heat for Chloe like a great friend.
+**Max can be suspended in the principal's office if she blames David and did report Nathan.
+**Max can be suspended in the principal's office if she decides to blame Nathan and did not report Nathan with a gun in the bathroom earlier.
+***Episode 3**
+**Chloe will joke about the weed belonging to Max during the break-in at Blackwell.
+**Joyce will bring up the weed before the argument with David.
+***Episode 4**
+**If Max did not erase the message on the phone, David will reply to [Anderson Berry](officer_berry.md) with an e-mail where he will mention Max having weed.
+***Episode 5**
+**In the maze sequence of Max's [Nightmare](nightmare.md), David will call her "pot head" and "weed junkie".
+|-|Blame ChloeBlame Chloe
+***Episode 1**
+**Chloe will be very upset with Max, and this will cause Chloe to retain her mobile phone background of her and [Rachel Amber](rachel_amber.md) no matter what. (This action is deemed so serious by Chloe that the remaining 3 choices make no difference.)
+**Chloe will immediately leave the room and does not show Max the gun.
+**Chloe will be upset at the lighthouse.
+***Episode 2**
+**[Joyce Price](joyce_price.md) will bring up the matter as proof that Chloe isn't responsible and needs the influence of Max.
+**Max cannot be suspended in the principal's office.
+***Episode 3**
+**Chloe will bring up Max blaming her for the weed during the break-in at Blackwell.
+**Joyce will bring up the weed before the argument with David.
+***Episode 4**
+**If Max did not erase the message on the phone, David will reply to [Anderson Berry](officer_berry.md) with an e-mail where he will mention Chloe having weed.
+|-|Stay hidden# Stay hidden
+***Episode 1**
+**Chloe will be slightly upset with Max and will contribute to Chloe retaining her phone background (1 of 4, up to 2 required).
+**Chloe will wait for Max to leave the room with her and will not show Max the gun.
+**Chloe will be upset at the lighthouse.
+***Episode 2**
+**[Joyce Price](joyce_price.md) will bring up the matter as proof that Chloe isn't responsible and needs the influence of Max.
+**Max cannot be suspended in the principal's office.
+***Episode 3**
+**Chloe will bring up Max allowing David to catch her with the weed during the break-in at Blackwell.
+**Joyce will bring up the weed before the argument with David.
+**Max will also bring up David slapping Chloe in the argument if Max decides to side with Chloe.
+***Episode 4**
+**If Max did not erase the message on the phone, David will reply to [Anderson Berry](officer_berry.md) with an e-mail where he will mention Chloe having weed.
+|-|Hide and reveal to DavidHide and reveal to David
+***Episode 1**
+**Chloe will be very happy with Max and it will contribute towards Chloe changing her mobile phone background to a picture of Max (1 of 4, at least 3 required).
+**Chloe will show Max the gun and wait for Max to leave the room with her.
+**Chloe is happy when she goes to the lighthouse.
+***Episode 2**
+**[Joyce Price](joyce_price.md) will bring up the matter as proof that Max isn't a good influence on Chloe, but she will also say that she admires that Max took the heat for Chloe like a great friend.
+**Max can be suspended in the principal's office if she blames David and did report Nathan.
+**Max can be suspended in the principal's office if she decides to blame Nathan and did not report Nathan with a gun in the bathroom earlier.
+***Episode 3**
+**Chloe will joke about the weed belonging to Max during the break-in at Blackwell.
+***Episode 4**
+**If Max did not erase the message on the phone, David will reply to [Anderson Berry](officer_berry.md) with an e-mail where he will mention Max having weed.
+
+##  Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+
+### Lisa #2
+Minor choice:
+
+Watered# Watered
+***Episode 2**
+**If Max already watered Lisa, she will say "Drink up! It's got electrolytes" referring to "Brawndo" from Idiocracy.
+***Episode 3**
+**If Max watered Lisa twice, Lisa will drown to death.
+**If Max watered Lisa once, Lisa will live and Max will comment that she managed to keep Lisa alive despite not being able to save Kate or Max managed to keep both Kate and Lisa alive.
+|-|Didn't waterDidn't water
+***Episode 2**
+**Max will not make any comment by not watering the plant.
+***Episode 3**
+**If Max watered Lisa once, Lisa will live and Max will comment that she managed to keep Lisa alive despite not being able to save Kate or Max managed to keep both Kate and Lisa alive.
+**If Max did not water Lisa on the previous day, Lisa will wilt and die.
+
+### Toilet paper thrown at Alyssa
+Minor choice:
+
+Warn# Warn
+***Episode 2**
+**Max can talk to Alyssa about Warren and Max's favorite movie.
+***Episode 4**
+**This will contribute to Alyssa reading a Robert Frost quote.
+|-|IgnoreIgnore
+***Episode 2**
+**Max cannot talk to Alyssa.
+***Episode 4**
+**Alyssa will not read a Robert Frost quote.
+
+### Kate's Video Link (In the Shower Room)
+Minor choice:
+
+Erased# Erased
+***Episode 2**
+**Max will bring up this action during the conversation with Kate on the rooftop.
+***This does not affect Kate's decision on whether to allow Max to come closer or to take steps backwards to jump off the roof, although she will acknowledge Max's help if Max also advised her to go to the police earlier. 
+***Episode 3**
+**Only lipstick smear leftovers are visible on the bathroom mirror.
+|-|IgnoredIgnored
+***Episode 2**
+**Max will not mention the link during the conversation with Kate on the rooftop.
+***Episode 3**
+**The link will be erased by other people.
+**The mirror will remain blank if Max managed to save Kate.
+**Three messages ("FUCK THE HATERS", "KATE MARSH DIED FOR OUR SINS" and "Sorry Kate") in three different lipstick colors will be written on the mirror if Max failed to save Kate.
+
+### Giving Kate Advice
+Major choice:
+
+Go to the police# Go to the police
+***Episode 2**
+**Kate will be appreciative.
+**Kate will send Max SMS messages later to thank Max for her advice.
+**It will be easier to save Kate - Max will be given two options to say to Kate during the conversation with Kate on the rooftop.
+***There are two options: "Nathan is involved" and "You were drugged". Either option will not upset Kate and will enable Max to get closer to save Kate.
+|-|Look for proofLook for proof
+***Episode 2**
+**Kate will be upset and will refuse to talk any further.
+**Kate will send Max SMS messages later to express Kate's disappointment.
+**It will be harder to save Kate - Max will be given four options to say to Kate during the conversation with Kate on the rooftop.
+***There are four options: "I'm gathering proof", "Too dangerous for us", "I wasn't sure" and "I needed more time". Only the option "I'm gathering proof" will enable Max to get closer to save Kate. Any other option will upset Kate and cause her to take a few steps closer to edge of roof or to jump off the roof if she had already moved to edge of roof.
+
+### Friendship with [Taylor Christensen](taylor_christensen.md) about her mother
+Minor choice:
+
+Friendly# Friendly
+***Episode 3**
+**Taylor will state that she knows she can trust Max.
+**Taylor will admit that Victoria is wrong about Max.
+**Taylor will be confident in believing Max's promise not to tell anyone about Victoria sneaking out.
+***Episode 4**
+**Taylor will be more open and trusting to Max at the party.
+|-|NeutralNeutral
+***Episode 3**
+**Taylor will be uncertain in believing Max's promise not to tell anyone about Victoria sneaking out.
+***Episode 4**
+**Taylor will not trust Max as much at the party.
+
+### [Warren Graham](warren_graham.md)'s Invitation
+Minor choice:
+
+Accept invitation# Accept invitation
+***Episode 2**
+**Warren will send Max SMS messages to update and remind Max about going to the drive-in with him.
+***Episode 3**
+**Warren will continue to send Max additional SMS messages about going to the drive-in with him.
+***Episode 4**
+**Warren will continue to send Max additional SMS messages about going to the drive-in with him and the message will vary depending on Max's earlier decisions on whether to help and change Warren's science practical and grade and whether Max kissed Chloe earlier.
+**[Brooke Scott](brooke_scott.md) will be upset with Max and will not allow Max to fly her drone.
+**Brooke can be the person to tell Max that Nathan isn't around.
+**Brooke will be seen together with Daniel at the Vortex Club party and Brooke will accept Daniel's invitation to attend an art gallery exhibition instead (If Daniel is persuaded to attend the Vortex Club party earlier).
+|-|Reject invitationReject invitation
+***Episode 2**
+**Warren will send Max SMS messages to persuade Max to reconsider going to the drive-in with him.
+***Episode 3**
+**Warren will continue to send Max additional SMS messages about Warren buying an extra ticket for her.
+***Episode 4**
+**Warren will continue to send Max additional SMS messages about Max not going to the drive-in with him and the message will vary depending on Max's earlier decisions on whether to help and change Warren's science practical and grade and whether Max kissed Chloe earlier.
+**[Brooke Scott](brooke_scott.md) will be happy that she's invited to the drive-in with Warren and will allow Max to fly her drone.
+**Brooke cannot be the person to tell Max that Nathan isn't around, as she was too distracted.
+
+### Choice of breakfast course at Two Whales Diner
+Minor choice:
+
+Belgian Waffles# 
+***Episode 5**
+**The Nightmare-Max sitting at the same place as Max in this episode will also be eating Belgian Waffles.
+|-|Bacon OmeletteBacon Omelette 
+***Episode 5**
+**The Nightmare-Max sitting at the same place as Max in this episode will also be eating Bacon Omelette.
+
+### Kate Marsh's phone call
+Major choice:
+
+Answered# Answered
+***Episode 2**
+**Max is glad Kate is comforted and appreciative of Max. At the same time, Max will also regret this action leading to Chloe and her mother Joyce Price getting into an argument due to Chloe having to wait for Max to finish speaking with Kate.
+**Chloe will be upset with Max. 
+**Counts towards Chloe retaining her original mobile phone background (2 of 4, up to 2 required).
+**Kate will send Max SMS messages later to thank Max for answering her phone call.
+**It will be easier to save Kate - Max will be given two options to say to Kate during the conversation with Kate on the rooftop.
+***There are two options: "You're my friend" and "I'm here for you". Either option will not upset Kate and will enable Max to get closer to save Kate.
+**Mark Jefferson will bring up Max answering this phone call if Max blames him for Kate's suicide attempt.
+***Episode 4**
+**If Kate is alive in the hospital, Chloe will be relieved that Max answered Kate's phone call earlier.
+|-|Didn't answerDidn't answer
+***Episode 2**
+**Chloe will be pleased with Max. At the same time, Max will also regret not being available to talk to Kate.
+**Chloe will be pleased with Max. 
+**Counts towards Chloe changing her mobile phone background to a picture of Max (2 of 4, up to 3 required).
+**Kate will send Max SMS messages later to express disappointment in Max for not answering her phone call.
+**It will be harder to save Kate - Max will be given four options to say to Kate during the conversation with Kate on the rooftop.
+***There are four options: "It was in silent mode", "My phone died", "I was with Chloe" and "Thought it was Warren". Only the option "It was in silent mode" will enable Max to get closer to save Kate. Any other option will upset Kate and cause her to take a few steps closer to the edge of  the roof or to jump off the roof if she had already moved to the edge.
+**Mark Jefferson will bring up Max not answering this phone call if Max blames him for Kate's suicide attempt.
+***Episode 4**
+**If Kate is alive in the hospital, Chloe will express her regret and apologize to Max that she almost indirectly caused Max to lose a good friend forever.
+
+### The [American Rust Junkyard](american_rust_junkyard.md)
+Minor choice:
+
+Write a message# Write a message
+***Episode 4**
+**Max and Chloe's names will be circled on the wall of the [Hideout](hideout.md) and have the words "YOU'RE ALL GOING TO DIE" written in red.
+**The "was" in "Rachel was here" will be replaced with a red "is".
+|-|Leave itLeave it
+***Episode 4**
+**Chloe's name will remain unchanged on the wall of the [Hideout](hideout.md) .
+**The "was" in "Rachel was here" will be replaced with a red "is".
+
+### [Frank Bowers](frank_bowers.md) and the gun
+Major choice:
+
+Tried to shoot# Tried to shoot
+***Episode 2**
+**Frank is both angry and amused that Max tried to shoot him with an empty gun.
+**Chloe will be glad that she still has the gun.
+**Chloe will send Max SMS messages to jokingly ask Max to marry her and express appreciation to Max later on. This will contribute to Chloe changing her mobile phone background to a picture of Max (3 of 4, up to 3 required).
+***Episode 3**
+**The gun will be visible in Chloe's room.
+**Frank will remind Max that she almost shot him when she tries to talk to him in the diner.
+**The gun will not be around in Frank's RV.
+***Episode 4**
+**It will be harder to convince Frank to give his cipher code peacefully and turn him to an ally.
+***Frank will question Max's intentions by reminding her that she tried to shoot him earlier.
+****There will be four possible options to say to Frank.
+****Only the option "You scared me" will not anger him. Any other option will cause Frank to get angry, unless you give him the money Chloe owes him.
+***Episode 5**
+**Contributes to Max and Chloe sharing a passionate kiss in the "Sacrifice Chloe" ending.
+|-|Didn't try to shootDidn't try to shoot
+***Episode 2**
+**Frank will only be amused at Max's inexperience and snatch Chloe's gun.
+**Chloe will express her disappointment at Max for helping her lose the gun to Frank and have Frank use the gun as additional collateral for Chloe's debt.
+**Chloe will send Max SMS messages to ask Max to rewind and shoot Frank later on. This will contribute to Chloe retaining her original mobile phone background (3 of 4, up to 2 required).
+***Episode 3**
+**The gun will not be around in Chloe's room.
+**Frank will threaten to break Max's camera at the diner if Max tries to take a picture of him.
+**The gun will be around in Frank's RV.
+***Max may decide to take the gun.
+***Taking the gun will affect the meeting with Frank later in the following episode.
+***Episode 4**
+**It will be easier to convince Frank to give his cipher code peacefully and turn him to an ally.
+***Max will say that she isn't there to fight.
+****Frank will not question Max's actions at the junkyard earlier.
+***Episode 5**
+**Contributes to Max and Chloe sharing a long hug in the "Sacrifice Chloe" ending.
+
+### The [Train Tracks](train_tracks.md)
+Minor choice:
+
+Damaged# Damaged
+***Episode 3**
+**The [Truck Driver](truck_driver.md) will mention that he is stuck in town due to the train tracks being broken.
+|-|Didn't damageDidn't damage
+***Episode 3**
+**The [Truck Driver](truck_driver.md) will mention that work in town has dried up.
+
+### The [End of the World Party](vortex_club_party.md) VIP Entry
+Minor choice:
+
+Gained entry# Gained entry
+***Episode 3**
+**Max cannot add her name to the Vortex Club Party list.
+***Episode 4**
+**Courtney will greet Max as "our guest star" and help Max enter the VIP section easily.
+|-|Didn't gain entryDidn't gain entry
+***Episode 3**
+**Max may add her name to the Vortex Club Party list at the Blackwell [Swimming Pool](swimming_pool.md) area.
+***Episode 4**
+**Max will have to enter the VIP section secretly through the side of the swimming pool, regardless of whether Max added her name to the Vortex Club party list earlier.
+
+### Help Warren with his science experiment
+Minor choice:
+
+Help Warren# Help Warren
+***Episode 2**
+**Warren makes a purple colored liquid in a conical flask and Max may take an optional photo of Warren posing with the flask.
+***Episode 3**
+**Warren gets a grade of A- for his experiment.
+**Max has the option to change Warren's grade to an A+.
+***Episode 4**
+**Warren will send Max SMS messages to report his obtained grade for the experiment. The message will be more upbeat in tone.
+***Episode 5**
+**Contributes to Max being able to kiss Warren in the Two Whales Diner.
+|-|Don't help WarrenDon't help Warren
+***Episode 2**
+**Max cannot take an optional photo unless she rewinds after helping Warren and taking the photo.
+***Episode 3**
+**Warren gets a grade of B- for his experiment.
+**Max has the option to change Warren's grade to a B+.
+***Episode 4**
+**Warren will send Max SMS messages to report his obtained grade for the experiment. The message will be more negative in tone.
+***Episode 5**
+**Counts against Max being able to kiss Warren in the Two Whales Diner.
+
+### Tell Mark Jefferson about David's confrontation with Kate
+Minor choice:
+
+Inform# Inform
+***Episode 2**
+**Mark Jefferson will bring it up if Max tries to blame Mark for Kate's suicide attempt. 
+|-|Don't informDon't inform
+***Episode 2**
+**Mark Jefferson will not mention it at all.
+
+### Kate's suicide attempt
+Major choice:
+
+Saved Kate# Saved Kate
+***Episode 2**
+**Principal Wells will compliment Max for being quite a hero for getting Kate to come down.
+**Warren will praise Max as a superhero and an angel.
+**Kate will be shown lying on a hospital bed with multiple balloons from well-wishers in the ending scene.
+***Episode 3**
+**Max's social media profile page will be full of praises and positive comments. 
+**All the slates in Blackwell girls' dormitories will have well-wishes for Kate.
+**Kate's door will be sealed with crime scene tape. Max will comment that sealing her room with crime scene tape is not needed as she is still alive in the hospital.
+**The mirror in the bathroom will remain or be wiped clean.
+**No memorial to Kate will be visible at the dormitory entrance.
+**Max will feel kind of invincible.
+**Taylor, Dana, Victoria and Mark will comment on Kate's suicide attempt.
+**Max will receive separate SMS messages from both Kate and her father, [Richard Marsh](richard_marsh.md), to thank Max for all of her help.
+**Max's parents will both send separate SMS messages to praise Max.
+**The [Homeless Lady](homeless_lady.md) outside the diner will mention that she saw the news that Kate almost jumped and somebody managed to save her.
+**The truck driver outside the diner will say that "Arcadia Bay has a slut trying to commit suicide".
+**Officer Berry will praise Max for getting Kate to come down from the roof.
+**Alyssa will suggest visiting Kate together with some friends soon in the near-future if Max warns her about the speeding vehicle.
+***Episode 4**
+**Max can mention she had saved Kate earlier to alternative Chloe.
+**Max will visit Kate.
+**Kate will send Max several SMS messages.
+**Kate can be asked to help Max find Nathan's room which she will provide in an SMS message.
+***Episode 5**
+**Max can ask Mark Jefferson about his involvement in Kate's dosing and abduction.
+**Kate's desk in Mark Jefferson's classroom will be filled with scribbles of "I WANT TO DIE".
+**Kate will accuse Max of making sure that Kate would never be alone again by saving her life outside the door leading to her room.
+**Kate will ask Max not to kill her so that they can have their tea session at the nightmare diner area.
+|-|Kate commits suicideKate commits suicide
+***Episode 2**
+**Principal Wells will say that "This isn't pleasant for any of us, but we have to figure out why Kate was driven to suicide." and assure Max that she did all she could to save Kate.
+**[Anderson Berry](officer_berry.md) will be present at the meeting in Principal Wells' office.
+**Warren will reassure Max that she did all she could to save her friend.
+**A memorial for Kate will be shown in the ending scene.
+***Episode 3**
+**Max's social media profile page will contain both supportive messages and snide comments.
+**All the slates in Blackwell girls' dormitories will have messages to mourn Kate's death.
+**Kate's door will be sealed in crime scene tape with a small memorial consisting of candles and crosses placed in front.
+**The mirror in the bathroom will have new messages written over it or remain wiped clean.
+**A memorial to Kate will be visible at the dormitory entrance.
+**Max will be more uncertain of her powers.
+**Taylor, Dana, Victoria and Mark will comment on Kate's suicide.
+**Max will receive SMS messages Kate's father, [Richard Marsh](richard_marsh.md), to thank Max for all of her help.
+**Max's parents will both send separate SMS messages to express condolences and how upset Max must feel of Kate.
+**The [Homeless Lady](homeless_lady.md) outside the diner will mention that she saw the news about Kate killing herself.
+**The truck driver outside the diner will say that "Arcadia Bay has a slut committing suicide."
+**Officer Berry will console Max by saying they all know she did her best.
+***Episode 4**
+**Max can mention she had failed to save Kate earlier to alternative Chloe.
+**Max and Chloe will not go to the hospital after leaving Chloe's house.
+**Richard Marsh will send Max SMS messages to inform Max about Kate's funeral.
+**Max will not receive any SMS message to tell her Nathan's room number and Max will have to deduce Nathan's room by reading through the slates outside instead.
+***Episode 5**
+**Max can blame Mark Jefferson for Kate's death.
+**Kate's desk in Mark Jefferson's classroom will be splattered with blood.
+**Kate will accuse Max of letting her die and claim she is stuck in hell forever outside the door leading to her room.
+**Kate will ask Max not to let her die at the nightmare diner area.
+
+### Decision on who to blame for Kate's suicide attempt (Part 1/2)
+Major choice:
+
+David on temporary leave# David on temporary leave
+***Episode 3**
+**Nathan will not send Max any SMS message from a private number.
+**Max will comment on being distracted if she looks at her class timetable.
+**A webpage to report David's suspension will appear on [Max's Computer](max_s_computer.md).
+**No e-mail from Nathan will be found on [Victoria's Computer](victoria_s_computer.md).
+**Dana Ward will ask about David's role or involvement in Kate's suicide attempt.
+**An unnamed security guard will be supervising the search for intruders at the Blackwell locker room and swimming pool area.
+**Max will remark to Chloe that going to school everyday feels like a test.
+**David will return home the following day in his smart casual attire and complain of having to work overnight to make up for lost pay when Blackwell listened to kids who got him dismissed.
+**Nathan Prescott will say that Max is the one trying to fake it until she makes it and is glad that Max "kept her big mouth shut" in the principal's office.
+***Episode 5**
+**Mark Jefferson will gloat to Max about Max blaming the only person about to find out the truth.
+|-|Nathan Gets SuspendedNathan Gets Suspended
+***Episode 3**
+**Nathan will send Max an SMS message that "Feminazis will be exterminated" from a private number.
+**Max will comment on being distracted if she looks at her class timetable.
+**No relevant webpage to announce Nathan's suspension will appear on [Max's Computer](max_s_computer.md).
+**An e-mail from Nathan about Max and the Vortex Club party will be found on [Victoria's Computer](victoria_s_computer.md). 
+**Dana Ward will ask about Nathan's role or involvement in Kate's suicide attempt.
+**David will be supervising the search for intruders at the Blackwell locker room and swimming pool area.
+**Max will remark to Chloe that going to school everyday feels like a test.
+**David will return home the following day in his Blackwell security uniform and complain of having to write vandalism reports all night yesterday.
+**Nathan Prescott will angrily remind Max that Max got him suspended.
+***Episode 4**
+**Victoria will mention Max busting Nathan out of Blackwell when she tries to warn her about him.
+***Episode 5**
+**Mark Jefferson will gloat to and thank Max for enabling suspicion to fall on Nathan and away from him.
+|-|Blame Jefferson# Blame Jefferson
+***Episode 3**
+**Nathan will not send Max any SMS message from a private number.
+**Max will comment on being distracted if she looks at her class timetable.
+**A webpage to support Mark Jefferson will appear in [Max's Computer](max_s_computer.md).
+**No e-mail from Nathan will be found in [Victoria's Computer](victoria_s_computer.md).
+**Dana Ward will mention Mark's removal from the [Everyday Heroes Photo Contest](everyday_heroes.md) photo contest.
+**Mark Jefferson will mention that he's no longer eligible to travel to San Francisco together with the Everyday Heroes contest winner.
+**Max can find a letter on Mark Jefferson's desk from Principal Wells about the investigation on Mark.
+**David will be supervising the search for intruders at the Blackwell locker room and swimming pool area.
+**Max will remark to Chloe that going to school everyday feels like a test.
+**David will return home the following day in his Blackwell security uniform and complain of having to write vandalism reports all night yesterday.
+**Victoria will send Max angry SMS messages.
+**Nathan Prescott will say how great it was seeing Max turn on her idol and that he is glad she "kept her big mouth shut" in the principal's office.
+***Episode 4**
+**Victoria will aggressively text Max.
+**Max will bring up blaming Mark Jefferson.
+***Episode 5**
+**Mark Jefferson will gloat to Max that he thought Max almost had him, but that principal's alcoholism kept him from being too suspicious.
+
+### Decision on who to blame for Kate's suicide attempt (Part 2/2)
+Major choice:
+
+Max gets suspended for blaming NathanMax gets suspended for blaming Nathan
+***Episode 3**
+**Nathan will send Max an SMS message that she has plenty of time to ponder what a fuckup loser she is now that she is suspended from a private number.
+**Max will lament on all the classes she won't be attending if she looks at her class timetable.
+**No relevant webpage to announce Max's suspension will appear in Max's laptop.
+**No e-mail from Nathan will be found in Victoria's laptop.
+**Dana Ward will ask about Max's role or involvement in Kate's suicide attempt.
+**Principal Wells will mention Max's suspension if he spots Max trying to leave the dormitory during the night curfew.
+**David will be supervising the search for intruders at the Blackwell locker room and swimming pool area.
+**Max will discuss with Chloe about Max’s school obligations.
+**David will return home the following day in his Blackwell security uniform and complain of having to write vandalism reports all night yesterday.
+**Max will discuss with Chloe about Max’s school obligations.
+**Nathan will ask if Max is dressing in Rachel Amber’s clothes because she’s been suspended, thank Max sarcastically for trying to get him in trouble and say Max shouldn't have snitched on Nathan.
+***Episode 5**
+**Mark Jefferson will not mention anything regarding Max's decision to blame Nathan.
+|-|Max gets suspended for blaming David# Max gets suspended for blaming David
+***Episode 3**
+**Nathan will send Max an SMS message that she has plenty of time to ponder what a fuckup loser she is now that she is suspended from a private number.
+**Max will lament on all the classes she won't be attending if she looks at her class timetable.
+**No relevant webpage to announce Max's suspension will appear in Max's laptop.
+**No e-mail from Nathan will be found in Victoria's laptop.
+**Dana Ward will ask about Max's role or involvement in Kate's suicide attempt.
+**Principal Wells will mention Max's suspension if he spots Max trying to leave the dormitory during the night curfew.
+**David will be supervising the search for intruders at the Blackwell locker room and swimming pool area.
+**Max will discuss with Chloe about Max’s school obligations.
+**David will return home the following day in his Blackwell security uniform and complain of having to write vandalism reports all night yesterday.
+**Nathan will ask if Max is dressing in Rachel Amber’s clothes because she’s been suspended and say that Max is already in enough trouble with David and that he is glad she "kept her big mouth shut" in the principal's office.
+***Episode 5**
+**Mark Jefferson will not mention anything regarding Max's decision to blame David.
+|-|No action takenNo action taken
+***Episode 3**
+**Nathan will not send Max any SMS message from a private number.
+**Max will comment on being distracted if she looks at her class timetable.
+**No additional webpage will appear in Max's laptop.
+**No e-mail from Nathan will be found in Victoria's laptop.
+**Dana Ward will not try to guess if anyone is involved in Kate's suicide attempt.
+**David will be supervising the search for intruders at the Blackwell locker room and swimming pool area.
+**Max will remark to Chloe that going to school everyday feels like a test.
+**David will return home the following day in his Blackwell security uniform and complain of having to write vandalism reports all night yesterday.
+**Nathan Prescott will say that Max is the one trying to fake it until she makes it and that he is glad she "kept her big mouth shut" in the principal's office.
+***Episode 5**
+**Mark Jefferson will not mention anything regarding Max's decision to blame David.
+
+##  Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+
+### The Handicapped Fund
+Major choice:
+
+Steal the money# 
+***Episode 3**
+**Chloe will joyfully mention the money at the Blackwell Swimming Pool: "And with my cash stash I'm queen of the world!"
+**The envelope will lie in a shelf in Chloe's room the next morning.
+**Chloe will seem more relaxed.
+**Max will think she might go to hell for her decision, but also glad to help Chloe with Frank.
+**Chloe will have texted Frank that she has his money.
+**Contributes to Chloe changing her mobile phone background to a picture of Max (4 of 4, up to 3 required).
+***Episode 4**
+**In the alternate timeline, Max will comment that she's glad they stole the money when reading a letter from Principal Wells to Chloe's parents informing them there would not be enough money for Chloe's accessible accommodations and recommending she transfer to a disability-friendly school in Boston.
+**An email from Officer Berry will be in Chloe's room, asking her to come to the [Arcadia Bay Police Department](police_department.md) on Monday for further inquiry.
+**A sign will be outside the dormitories showing a delay in an accessibility upgrade due to lack of funds, making Max comment on how she is somewhat remorseful for allowing Chloe to take the money.
+**Max may decide whether to repay Frank with the money and allow up to two answers which might anger Frank before he will attack Chloe, or to withhold the money from Frank and allow only one answer which might anger Frank. 
+|-|Don't steal the moneyDon't steal the money
+***Episode 3**
+**No envelope will be visible in Chloe's room.
+**Contributes to Chloe retaining her original mobile phone background (4 of 4, up to 2 required).
+**Max can comment on how she wishes she let Chloe take the money.
+***Episode 4**
+**In the alternate timeline, Max will comment that she should have let Chloe steal the money when reading a letter from Principal Wells to Chloe's parents informing them there would not be enough money for Chloe's accessible accommodations and recommending she transfer to a disability-friendly school in Boston.
+**No email from Officer Berry will be present in Chloe's room. 
+**Chloe will aggressively remark about Max not letting her take the money.
+**A sign will be outside the dormitories showing an accessibility upgrade taking place thanks to the fund, making Max comment on how she is glad she didn't let Chloe take the money.
+**Max can only admit to Frank that Max and Chloe didn't have any money to repay Frank and allow only one answer which might anger Frank.
+
+### Chloe's Dare
+Major choice:
+
+ Kiss Chloe# 
+* **Episode 3**
+** Chloe will call Max "hardcore"
+** Chloe will claim to text Warren that he "doesn't stand a chance".
+*** Chloe will actually text Warren that he's "out of the loop".
+* **Episode 4**
+** Max will wish to kiss Chloe again after returning from the alternative timeline (journal entry).
+** Chloe will refer to that kiss when Max hugs her after returning saying, "You got one kiss and now you're all over me?"
+** Warren will text Max regarding Chloe's earlier message.
+*** If she declined his invitation, he will tell her he understands why she did it and that she should go to the drive-in with Chloe.
+*** If she accepted his invitation, he will tell her he understands why she did it and suggests to take Chloe with them to the drive-in.
+* **Episode 5**
+** Contributes to Max writing a diary entry questioning her feelings for Chloe, tending more to love than friendship (x of x).
+** Contributes to Max and Chloe sharing a long kiss at the cliff in the "Sacrifice Chloe" ending (x of x).
+|-|Don't kiss ChloeDon't kiss Chloe
+* **Episode 3**
+** Chloe will be disappointed.
+** Chloe will claim to text Warren that Max is "saving herself all for him".
+*** Chloe will actually text Warren that Max "shot her down".
+* **Episode 4**
+** Max will wish to joyfully kiss Chloe for the first time after returning from the alternative timeline (journal entry)
+** Chloe will refer to that kiss when Max hugs her after returning saying, "Oh yeah, now you suddenly want to kiss me? You had your chance."
+** Warren will text Max regarding Chloe's earlier message.
+*** If she declined his invitation, he will tell her that he feels better "knowing she turned both of [them] down".
+*** Warren will be very depressed if she accepted his invitation.
+* **Episode 5**
+** Counts against Max and Chloe sharing a long kiss at the cliff in the "Sacrifice Chloe" ending.
+** Contributes to Max writing a diary entry questioning her feelings for Chloe, tending more to friendship than love (x of x).
+
+### Confronting David
+Major choice:
+
+Side with David# Side with David
+***Episode 3**
+**David will stay at the Madsen household.
+**Chloe will berate you for not defending her.
+***Episode 4**
+**Max will self-think about "Choosing to help David over William".
+**David will have taken Joyce to the most expensive restaurant in Arcadia Bay.
+***Episode 5**
+**While talking to David, Max will say that she is glad that she sided with David.
+|-|Side with ChloeSide with Chloe
+***Episode 3**
+**David will leave the house and take a hotel room.
+***Episode 4**
+**Joyce will have crumpled up the photo of her wedding with David, and leaves a note for him to not be home when she's back from work.
+**There will be an unfinished letter to Joyce in David's garage.
+***Episode 5**
+**Chloe will refer to Max reaming him the other day when she suggests involving David (after focussing on Warren's photo).
+**Max has a chance to convince Joyce to give David another chance at the Two Whales Diner.
+
+### Alyssa's clothes getting soaked (Two Whales Diner)
+Minor choice:
+
+Warn# Warn
+***Episode 4**
+**This will contribute to Alyssa reading a Robert Frost quote.
+|-|IgnoreIgnore
+***Episode 4**
+**Alyssa will not read a Robert Frost quote.
+
+### The [Homeless Lady](homeless_lady.md) - Warn About The Storm Or Not
+Minor choice:
+
+Warn about the Storm# Warn about th Storm
+***Episode 5**
+**The Homeless Woman's place will be empty and Max hopes that she had found shelter before the [Storm](storm.md) approaches.
+**In the Two Whales Diner sequence of Max's Nightmare, she will say to Max, "Thanks for that warning, Max. You treated me like a human, not like trash. I sure hope you do that for everybody in town."
+|-|Don't warn about the StormDon't warn about the Storm
+***Episode 5**
+**Max can discover her dead body behind the diner as a result of the [Storm](storm.md).
+**In the Two Whales Diner sequence of Max's Nightmare, she will say to Max, "I've already lived forever, maybe you can help others live too."
+
+### [Pompidou](pompidou.md) and the dog bone
+Major choice:
+
+Pompidou gets hurt# Pompidou gets hurt
+***Episode 4**
+**There will be a picture of Pompidou's injured body on Nathan's bed.
+**Pompidou will not be inside Frank's RV, preventing Chloe from being able to kill Frank.
+**Pompidou's food bowl will not be near Frank's RV.
+|-|Pompidou remains unharmedPompidou remains unharmed
+***Episode 4**
+**Pompidou will be inside Frank's RV, making it possible for Chloe to kill Frank, if she has a gun.
+**Pompidou's food bowl will be near Frank's RV.
+
+### Frank Bowers and the gun #2
+Major choice:
+(Only available if Frank took Chloe's gun in Episode 2)
+
+Take back# Take back
+***Episode 3**
+**Chloe will have the gun again.
+***Episode 4**
+**If Pompidou is alive, it is possible for Chloe to kill Frank.
+|-|Leave itLeave it
+***Episode 3**
+**Chloe will not have the gun.
+***Episode 4**
+**Chloe will only be able to shoot Frank if Warren beat up Nathan.
+
+### Fire Place
+Minor choice:
+
+Leave a Mark# Leave a Mark
+***Episode 4**
+**There will be a mark on the fireplace in the [Alternative Price Household](alternative_price_household.md) in the [Alternative Timeline (Life is Strange)](alternative_timeline.md).
+|-|Don't leave a MarkDon't leave a Mark
+***Episode 4**
+**There won't be a mark on the fireplace in the [Alternative Price Household](alternative_price_household.md) in the [Alternative Timeline (Life is Strange)](alternative_timeline.md).
+
+##  Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+
+### Alternative Chloe's Last Wish
+Major choice:
+
+Accept# Accept
+***Episode 4**
+**Alternative Chloe will be grateful.
+**When Max returns to the original timeline and sees Chloe alive, Max runs up to Chloe and says: "Chloe, you're alive."
+***Episode 5**
+**When preventing Chloe from entering the End of the World Party, Max tells Chloe that she helped her as she didn't want her to suffer in any reality.
+**Max will receive a text from Joyce in the nightmare sequence threatening her after finding out Chloe's death was recorded on surveillance.
+|-|RefuseRefuse
+***Episode 4**
+**Alternative Chloe will be upset at Max.
+**When Max returns to the original timeline and sees Chloe alive, Max runs up to Chloe and says: "Chloe, you're back."
+***Episode 5**
+**When preventing Chloe from entering the End of the World Party, Max tells her that she couldn't kill her, that she had to return to the original timeline and see her again.
+**Max will receive a text from Chloe in the nightmare sequence scolding her (with normal Chloe's language) for leaving her behind to suffer in her reality.
+
+### Blue Jay Encounter #2
+Minor choice:
+Leave present day Chloe's bedroom. Open the upper floor window and "scare away" the bird in the bathroom. You can also kill the bird by leaving the window closed and scaring it so that it slams into the window and dies, with no known effects or differences from not saving it at all.
+
+This special encounter is most likely (only) for game statistics purposes.
+
+Save#  No further effects known for Season 1.
+|-|Don't saveDon't save
+***Episode 4**
+**When returning to Chloe's room later, the bird can be found dead near the window. Max will lament trapping it in the house.
+
+### The Bird's Nest
+Minor choice:
+
+Disturb the nest# Disturb the nest
+***Episode 4**
+**If you side with Chloe, Joyce will text you a picture of the destroyed nest.
+**If you side with David, Joyce will not text you.
+|-|Don't disturb the nestDon't disturb the nest
+***Episode 4**
+**Joyce will not text you.
+
+### David's Files #2
+Minor choice:TBA
+
+### [Nathan's Room](nathan_s_room.md)
+Minor choice:
+
+Break Open and Leave# Break Open and Leave
+***Episode 4**
+**Nathan will [Max's Messages#Nathan_2](message.md) Max, threatening to take away her scholarship.
+|-|Break Open and RewindBreak Open and Rewind
+***Episode 4**
+**Nathan will not message Max.
+
+### Warren's slate
+Minor choice:
+
+Leave a Message# Leave a Message
+***Episode 4**
+**Warren will text Max, thanking her and saying he'll never erase the message.
+|-|IgnoreIgnore
+***Episode 4**
+**Warren will not text Max.
+
+### Warren vs. Nathan
+Major choice:
+
+Step in# Step in
+***Episode 4**
+**Nathan will keep his gun.
+**Warren will mention he is glad Max stopped him from stooping to Nathan's level.
+**If Max talks to Luke at the Vortex Club party, she will inform him about Warren headbutting Nathan, to which he will be happy Nathan got some bad karma.
+***Episode 5**
+**Mr. Jefferson will remark on how Max thinks she is a "good" person for stopping Warren from hurting Nathan.
+|-|Don't step inDon't step in
+***Episode 4**
+**Chloe will take Nathan's gun, allowing her to kill or hurt Frank if she didn't have David's gun.
+**If Max talks to Luke at the Vortex Club party, he will be ecstatic that Nathan finally got what was coming to him.
+**Two boys sitting near Luke at the Vortex Club party can be overheard talking about Warren beating down Nathan.
+***Episode 5**
+**Mr. Jefferson will remark on how he and Max aren't very different, as she let Warren almost beat Nathan to death.
+
+### Daniel and the Vortex Club Party
+Minor choice:
+
+Convinced# Convince
+***Episode 4**
+**Daniel will be standing next to Brooke at the Vortex Club Party.
+|-|Didn't convinceDidn't convince
+***Episode 4**
+**Daniel won't be around at the Vortex Club Party.
+
+### Meeting with Frank
+Major choice:
+
+Chloe killed Frank# Chloe killed Frank
+***Episode 4**
+**Chloe will be depressed because she was the one who killed Frank.
+***Episode 5**
+**Frank won't be at the Two Whales Diner during the storm.
+|-|Chloe wounded FrankChloe wounded Frank
+***Episode 4**
+**If Chloe has a gun (that is, if Max tried to shoot Frank in Episode 2, didn't try to shoot Frank but found the gun in his RV and returned it to Chloe, or if she let Warren beat up Nathan and Chloe took Nathan's gun), Chloe will wound Frank by shooting him in the leg.
+**If Chloe doesn't have a gun, she will wound Frank by stabbing him in the leg with his own knife.
+**Chloe will think about wounding Frank in her house.
+***Episode 5**
+**Frank will be at the Two Whales Diner during the storm where Max can tell him Rachel's fate.
+**Frank will be upset at Max for letting Chloe wound him and calls Chloe a thief if she didn't pay him back. 
+|-|No one got hurt# No one got hurt
+***Episode 4**
+**Chloe will be glad that things worked out with Frank.
+***Episode 5**
+**Frank will be at the Two Whales Diner during the storm where Max can tell him Rachel's fate.
+**Frank will speak in a friendly manner and won't say bad things about Chloe.
+
+### Warn Alyssa at the Vortex Club Party
+Minor choice:
+
+WarnWarn
+***Episode 4**
+**Contributes to Alyssa reading a Robert Frost quote.
+***Episode 5**
+**If Max warned her in every episode, a sign will fall onto Max and Alyssa will push her out of the way before she gets hit, saying it makes them even.
+|-|Don't Warn# Don't Warn
+***Episode 4**
+**Alyssa will not read a Robert Frost quote.
+
+### Warn Victoria at the Vortex Club Party
+Major choice:
+
+Believed Max's warningBelieved Max's warning
+***Episode 5**
+**Victoria will go to Mr. Jefferson for help, and will end up in the Dark Room with you, and will be killed eventually.
+**When Max goes back to the past of Monday in Jefferson's class, Max acts more kindly to Victoria when getting her away from Mr. Jefferson, appealing to Victoria's sense of morals about how she treated Kate.
+|-|Didn't believe Max's warning# Didn't believe Max's warning
+***Episode 5**
+**Victoria will not end up in the Dark Room.
+**When Max goes back to the past of Monday in Jefferson's class, Max acts more hostile towards Victoria to drive her away from Jefferson, berating Victoria for posting the viral video of Kate.
+|-|Max didn't warn VictoriaMax didn't warn Victoria
+***Episode 5**
+**Victoria will not end up in the Dark Room.
+**When Max goes back to the past of Monday in Jefferson's class, Max acts more hostile towards Victoria to drive her away from Jefferson, berating Victoria for posting the viral video of Kate.
+
+## Episode Five - "[Episode 5: Polarized](polarized.md)"
+
+### David and Jefferson's fight
+Minor choice:
+
+David got a scar during the fight# David got a scar during the fight
+* David will have a scar in his face until Max time jumps with Warren's photo.
+|-|David didn't get a scar during the fightDavid didn't get a scar during the fight
+* David won't have a scar in his face.
+
+### The truth about Chloe
+Minor choice:
+
+David killed Jefferson# David killed Jefferson
+* Max will mention to Frank and Warren that Jefferson is dead.
+* One or more of the Jeffersons in Max's nightmare will blame her for letting him be killed.
+* During the nightmare scene, the Other Max in the Two Whales Diner may mention that you let David kill Jefferson, and that you are more of a cold-blooded killer than David or Nathan are.
+|-|David didn't kill JeffersonDavid didn't kill Jefferson
+* Max will tell Frank and Warren that Jefferson is going to jail and will no longer be able to hurt anyone. 
+
+### Chloe's necklace
+Minor choice:
+
+You looked at the necklace# You looked at the necklace
+* Max makes a determined comment about saving Chloe for the last time (as if she is speaking to Chloe directly).
+|-|You took the necklaceYou took the necklace
+* Max makes a sentimental comment about not leaving the necklace there (as if she is speaking to Chloe directly).
+* Max wears the necklace on her way to the Two Whales Diner.
+
+### The Trucker
+Minor choice:
+
+You saved the trucker# You saved the trucker
+* The trucker will mention it in the nightmare at the Two Whales.
+|-|You didn't save the truckerYou didn't save the trucker
+* The trucker will mention it in the nightmare at the Two Whales.
+
+### Warn [Evan Harris](evan_harris.md)
+Minor choice:
+
+You saved Evan# You saved Evan
+* Evan will mention it in the nightmare at the Two Whales.
+|-|You didn't save EvanYou didn't save Evan
+* Evan will mention it in the nightmare at the Two Whales.
+
+### Alyssa is stuck in a house
+Minor choice:
+
+You saved Alyssa# You saved Alyssa
+* If Max warned Alyssa in every episode, Alyssa will save Max from a falling billboard afterwards.
+* Alyssa will mention it in the nightmare at the Two Whales.
+|-|You didn't save AlyssaYou didn't save Alyssa
+* Alyssa will mention it in the nightmare at the Two Whales.
+
+### The Fisherman
+You saved the fisherman# 
+* The fisherman will mention it in the nightmare at the Two Whales.
+|-|You didn't save the fishermanYou didn't save the fisherman
+* The fisherman will mention it in the nightmare at the Two Whales.
+
+### [Joyce Price](joyce_price.md)'s mind about David
+Minor choice:
+
+You helped Joyce believe in David again# You heped Joyc believe in David again
+*Joyce says that David is not William, but he's not supposed to be. She confides in Max that David gave her hope and strength when she lost William, and wants David to come back home.
+|-|You didn't change Joyce's mind about DavidYou didn't change Joyce's mind about David
+*Joyce says that she loves David, but sometimes he scares her and reminds her and Chloe about how hard life is. Joyce ultimately decides that she doesn't need this reminder.
+
+### The truth about [Rachel Amber](rachel_amber.md)
+Minor choice:
+
+You told the truth about Rachel to Frank# You told the truth about Rachel to Frank
+*Frank will be visibly distressed about what happened to Rachel.
+*He will blame himself if Max tells him that Rachel died from an overdose.
+|-|You didn't tell the truth about Rachel to FrankYou didn't tell the truth about Rachel to Frank
+*Frank says he just hopes that Rachel is fine elsewhere. 
+*If Frank got wounded in Episode 4, he says that it doesn't matter now and tells Max to stand aside.
+
+### Max and Warren
+Minor choice:
+
+You kissed Warren# You kissed Warren
+*In Max's nightmare, nightmare Warren will insult Max's kiss to nightmare Chloe. If Max didn't kiss Chloe in Episode 3, she will also state that she hears Warren and she's not into nerds (as in earlier episodes Max stated that she was seeing herself as 'nerd'). In the nightmare of the Two Whales, Warren will say how Max had kissed him, only to kill him.
+*If Max kissed Chloe in Episode 3, nightmare Chloe and nightmare Warren will insult Max, saying how she is trying to have both of them.
+*Doesn't affect Max and Chloe's relationship/getting kiss in Sacrifice Chloe ending (since it depends on how many times you sided with Chloe.)
+|-|You didn't show Warren any affectionYou didn't show Warren any affection
+*In Max's nightmare, nightmare Warren will insult Max and say he doesn't care if she didn't kiss him to nightmare Chloe. In the nightmare of the Two Whales, Warren will ask why she wants all her friends to die.
+*Doesn't affect Max and Chloe's relationship/getting kiss in Sacrifice Chloe ending (since it depends on how many times you sided with Chloe.)
+|-|You hugged Warren=You hugged Warren
+*In Max's nightmare, nightmare Warren will insult Max and say he doesn't care if she didn't kiss him to nightmare Chloe. In the nightmare of the Two Whales, Warren will ask why she wants all her friends to die.
+*In Max's nightmare (Dark Room), if Max didn't kiss either of them, Chloe will offend Max by saying she doesn't have a type and Warren will say that she is actually into Mr. Jefferson.
+*In Max's nightmare (Diner), Warren will say that he is glad that they are friends and ask Max not to kill her friends.
+*Doesn't affect Max and Chloe's relationship/getting kiss in Sacrifice Chloe ending (since it depends on how many times you sided with Chloe.)
+

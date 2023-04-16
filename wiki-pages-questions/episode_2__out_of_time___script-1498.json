@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Kate Ask Max For Help With?",
+    "answer": "A",
+    "choices": {
+      "A": "Taking Down A Viral Video",
+      "B": "Finding Evidence Against Nathan Prescott",
+      "C": "Escaping From The Dark Room",
+      "D": "Getting Revenge On Victoria"
+    }
+  },
+  {
+    "question": "What Does Max Suggest To Kate Instead Of Going To The Police?",
+    "answer": "A",
+    "choices": {
+      "A": "To Wait For More Evidence",
+      "B": "To Confront Nathan Prescott",
+      "C": "To Ask For Help From The Principal",
+      "D": "To Take Matters Into Her Own Hands"
+    }
+  },
+  {
+    "question": "What Is Dana Excited About In This Section?",
+    "answer": "A",
+    "choices": {
+      "A": "Going To A Party With Trevor",
+      "B": "Passing Her Exams",
+      "C": "Getting A New Job",
+      "D": "Moving To A New Dorm Room"
+    }
+  },
+  {
+    "question": "What Is Max's Response When Dana Invites Her To The Halloween Party?",
+    "answer": "B",
+    "choices": {
+      "A": "She Accepts The Invitation",
+      "B": "She Politely Declines",
+      "C": "She Asks If Warren Will Be There",
+      "D": "She Suggests They Go To A Movie Instead"
+    }
+  },
+  {
+    "question": "What Does Max Say Is Her \"Fatal Character Flaw\"?",
+    "answer": "B",
+    "choices": {
+      "A": "Being Too Shy",
+      "B": "Being Too Curious",
+      "C": "Being Too Impulsive",
+      "D": "Being Too Judgmental"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Written On Kate's Desk During The Nightmare Sequence?",
+    "answer": "A",
+    "choices": {
+      "A": "\"I WANT TO DIE\"",
+      "B": "\"HELP ME\"",
+      "C": "\"SAVE ME\"",
+      "D": "\"I'M SORRY\""
+    }
+  },
+  {
+    "question": "What Is The Name Of The Photography Contest Poster In The Photography Lab?",
+    "answer": "A",
+    "choices": {
+      "A": "Everyday Heroes",
+      "B": "Everyday Zeroes",
+      "C": "Everyday Villains",
+      "D": "Everyday Nobodies"
+    }
+  },
+  {
+    "question": "What Is Written On The Paper Ball In The Photography Lab?",
+    "answer": "A",
+    "choices": {
+      "A": "\"You're Not Alone\"",
+      "B": "\"You're Not Weak\"",
+      "C": "\"You're Not Helpless\"",
+      "D": "\"You're Not A Victim\""
+    }
+  },
+  {
+    "question": "What Is Written On Victoria's Tablet If She Believes Max?",
+    "answer": "A",
+    "choices": {
+      "A": "\"I'm Happy To Fix It So You'll Be Here To Get Your Fancy Camera, Victoria...\"",
+      "B": "\"I'm Sorry You Have To Stand Next To That Psycho.\"",
+      "C": "\"Oh, Victoria... We Could Have Been Friends...\"",
+      "D": "\"This Fancy Camera Does Not Give You Any Extra Talent, Victoria... Or Excuses.\""
+    }
+  },
+  {
+    "question": "What Does Max Say About The Lighthouse In The Photography Lab?",
+    "answer": "A",
+    "choices": {
+      "A": "\"I Still Feel Like... The Lighthouse Is Calling Out To Me.\"",
+      "B": "\"I Wish I Could Go Back To The Lighthouse And Change Everything.\"",
+      "C": "\"The Lighthouse Is The Key To Solving The Mystery Of Rachel Amber.\"",
+      "D": "\"The Lighthouse Is The Only Safe Place Left In Arcadia Bay.\""
+    }
+  }
+]

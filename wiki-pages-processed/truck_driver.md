@@ -1,0 +1,58 @@
+#  Truck Driver 
+
+```yaml
+Character
+
+name: Truck Driver
+image: TruckDriver.png
+gender: Male
+hair: Blonde
+eyes: Brown
+friends: '[Maxine Caulfield'
+Max Caulfield](maxine_caulfield__max_caulfield.md) (determinant): ''
+profession: Truck Driver
+affiliation: '[Arcadia Bay](arcadia_bay.md)'
+appearance: >-
+  **Life is Strange:**
+
+  "[Episode 2: Out of Time](episode_2__out_of_time.md)""[Episode 3: Chaos
+  Theory](episode_3__chaos_theory.md)""[Episode 5:
+  Polarized](episode_5__polarized.md)"
+
+  **Before the Storm:**
+
+  "[Episode 1: Awake](episode_1__awake.md)"
+voice: '[Don McManus](don_mcmanus.md) (uncredited)'
+died: October 11, 2013 (determinant)
+causeofdeath: Killed by the [Storm
+storm](storm_storm.md) (determinant): *
+```
+
+> Time is money for a guy like me.
+
+**Truck Driver to [Maxine Caulfield**, Max](maxine_caulfield____max.md) in "[Episode 3: Chaos Theory, Chaos Theory](episode_3__chaos_theory__chaos_theory.md)"
+
+The **Truck Driver** is a resident of [Arcadia Bay](arcadia_bay.md) who often visits the [Two Whales Diner](two_whales_diner.md). An original character of *[Life is Strange](life_is_strange.md)*, he makes a brief reappearance in the prequel *[Life is Strange: Before the Storm](life_is_strange__before_the_storm.md)''.
+
+##  Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+The Truck Driver can be seen eating at the Two Whales Diner. If [Maxine Caulfield](max_caulfield.md) attempts to speak with him, he will complain that she is in his eyesight. If Max responds that everything is in his eyesight he will compare her unfavorably to [Joyce Price](joyce_price.md), suggesting that they both have the same sense of humor. If Max apologizes, he will forgive her and tell her that he's keeping an eye on his truck.
+
+While Max is having breakfast with [Chloe Price](chloe_price.md), the truck driver will grumble about the music Chloe chose on the jukebox and the lack of beer being served at the diner. When Chloe is testing Max's [Rewind](rewind_powers.md), Max will observe the truck driver accidentally drop and break his mug and Joyce will not be giving him any refills.
+
+##  Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+Max can talk to the Truck Driver outside of the Two Whales Diner and discover that he knew [Rachel Amber](rachel_amber.md). He reveals that she once asked him to give her a ride out of the city, but didn't care about his truck. If Max rewinds time, she can mention his truck's model and the fact that Rachel Amber spoke highly of his truck, which will prompt him to allow her to take a picture of it and a possible interview in future.
+
+Destroyed the train tracks# Destroyed the train tracksIf Max destroyed the train rails instead of switching the lever on the previous day, he will remark on how the destruction of the track inconvenienced him.
+|-|Didn't destroy the train tracksDidn't destroy the train tracksIf Max switched the lever and kept the train rails intact on the previous day, he will remark on available work in Arcadia Bay drying up.
+
+##  Episode Five - "[Episode 5: Polarized](polarized.md)" 
+Near the end of Episode 5, Max can choose to rescue the truck driver from his truck during the [Storm](storm.md). He will offer Max a ride out of the city in his truck, but she tells him that she has to stay and help more people.
+
+He later appears in [Max's Nightmare](max_s_nightmare.md), and his lines depend on whether Max saved him or not in Episode 5.
+
+He is presumed to have died in the Sacrifice Arcadia Bay ending, but it is possible that he may have survived since he was planning to leave town but it is unknown if he made it out in time.
+
+##  Before the Storm 
+###  Episode One - "[Episode 1: Awake](awake.md)" 
+The Truck Driver can be seen standing near presumably his truck in front of the [Old Mill](old_mill.md). If [Chloe Price (Before the Storm)](chloe_price.md) releases the brakes on the [T-Shirt Vendor](t_shirt_vendor.md)'s car, he and the Truck Driver argue, as the vendor probably blames him for what happened to his car.
+

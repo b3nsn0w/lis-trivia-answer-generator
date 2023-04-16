@@ -1,0 +1,131 @@
+Here is a section of the wiki page for Episode 4: Dark Room - Script:
+
+## **Beach** 
+''Max and Chloe drive up to the beach where Frank's RV is parked.*
+
+**Max:** God... I hate seeing those poor whales like that.
+
+**Chloe:** Me too. I just think of their families out there in the ocean looking for them. Well, that asshole is gonna help us find Rachel.
+
+(Chloe has a gun)# (Chloe has a gun)*Chloe will use David's gun if Frank doesn't have it. She will use Nathan's gun if she took it from him and Frank has David's gun.''
+
+**Max:** Or what? You'll actually shoot him? Chloe, do not count on my rewind... seriously.
+
+**Chloe:** Obviously I'm not counting on you. That's why I have a gun. And I might even save you someday.
+
+**Max:** About time.
+
+**Chloe:** I am so going to hit you.
+
+|-|(Chloe doesn't have a gun)(Chloe doesn't have a gun)**Chloe:** You know what would be great? If I still had a gun.
+
+**Max:** Yes, the chance for gunplay would just about even the odds here.
+
+**Chloe:** Frank would scare better. He's a pussy. Besides, if I take him out, you can just rewind...
+
+**Max:** Chloe, do not count on my rewind... seriously. After Kate, I feel like every time I do it might be the last...
+
+**Chloe:** There's no way we could have guessed this is what would happen to us when we grew up.
+
+**Max:** I'm looking forward to the day when we can just go on a road trip to Portland.
+
+**Chloe:** Fuck yeah. You, me... and Rachel.
+
+**Max:** Absolutely. So, let's play this cool, okay?
+
+(Left the money)# (Left the money)**Max:** Just talk to Frank so we can get that code for the book from him. That's all.
+
+|-|(Stole the money)(Stole the money)**Max:** Just pay Frank his money and then we can get that code for the book from him. That's all.
+
+**Chloe:** Got it. No dicking around.
+
+**Max:** Let's roll.
+
+*Max and Chloe get out of the car.*
+
+'''Max's Thoughts About the Beach**
+
+**Max *(thinking)*:'* *It blows my mind that I was just here with Chloe in an alternate reality...''
+
+**Negotiation with Frank**
+
+(Max didn't rewind)# (Max didn't rewind)*Max approaches Chloe. She nods toward the RV door and Chloe knocks.*
+
+|-|(Max rewound the whole scene)(Max rewound the whole scene)**Max:** Listen, Chloe, I can tell you for a fact that this will not go well.
+
+**Chloe:** Max, I should have known you would be kind and rewind... So tell me exactly what I need to do here.
+
+{{#tag:tabber|Get rid of gun. (If Chloe has a gun)# Get rid of gun. (If Chloe has a gun)**Max:** You won't like this, but you need to get rid of that gun.
+
+**Chloe:** No, Max, I don't like that at all... but I trust you. And girl, if I need that gun, you better rewind fast...
+
+''Chloe tosses the gun away, then knocks on Frank's RV door.''
+
+{{!}}-{{!}}Watch your mouth.Watch your mouth.**Max:** Please watch your mouth. You have no social skills here and you will piss off Frank immediately.
+
+**Chloe:** You kind of love this, don't you? Fine, I'll try being like you for a change. Or how you used to be...
+
+''Chloe knocks on Frank's RV door.''
+
+{{!}}-{{!}}Be careful.# Be careful.**Max:** Be careful, okay? Don't give Frank any excuses to go ballistic. We need his help, Chloe.
+
+**Chloe:** You know, I'm not a total fuck-up. Occasionally I can be both cool and careful... like now, okay?
+
+''Chloe knocks on Frank's RV door.*
+
+}}
+
+*Frank opens the door and gets out of his RV.''
+
+**Frank:** Oh, look... The Wonder Twins. You should have come alone.
+
+**Chloe:** She's my partner.
+
+**Frank:** Yeah, or bodyguard. So let's get to business. Where's my fucking money?
+
+*Chloe looks at Max.*
+
+(Stole the money)(Stole the money)
+{{#tag:tabber|(Give the money to Frank)# (Give the money to Frank)
+
+*Max nods and Chloe gives the money to Frank.*
+
+**Frank:** Oh, why, thank you. That wasn't so hard, now was it? And let's not do any more business again. Now if you'll excuse me...
+
+**Chloe:** Frank... could we ask you a couple of quick questions?
+
+{{!}}-{{!}}(Keep the money)(Keep the money)
+
+''Max shakes her head and Chloe doesn't give the money to Frank.''
+
+**Chloe:** I—I don't have the money... yet.
+
+**Frank:** Oh, really... then why did you text me that you did?
+
+**Chloe:** Because I wanted to tell you in person.
+
+**Frank:** Oh, I'm truly touched, Chloe. Now why are you losers really here?
+
+**Chloe:** We just want to ask you some questions.
+
+*Frank gets angry.*
+
+}}
+
+|-|(Left the money)# (Left the money)
+
+*Max shrugs helplessly, shaking her head. Chloe looks back at Frank.*
+
+**Chloe:** I—I don't have the money... yet.
+
+**Frank:** Oh, really... then why did you text me that you did?
+
+**Chloe:** Because I wanted to tell you in person.
+
+**Frank:** Oh, I'm truly touched, Chloe. Now why are you losers really here?
+
+**Chloe:** We just want to ask you some questions.
+
+*Frank gets 
+
+Generate five trivia questions relevant to this section of the page.

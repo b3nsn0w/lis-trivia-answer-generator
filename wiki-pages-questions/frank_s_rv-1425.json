@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Name Of Frank's Dog?",
+    "answer": "B",
+    "choices": {
+      "A": "Pompom",
+      "B": "Pompidou",
+      "C": "Pumpernickel",
+      "D": "Pompous"
+    }
+  },
+  {
+    "question": "In Which Episode Does Max Break Into Frank's RV?",
+    "answer": "C",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "What Does Chloe Use To Distract Pompidou In Order To Enter Frank's RV?",
+    "answer": "A",
+    "choices": {
+      "A": "A Bone",
+      "B": "A Toy",
+      "C": "A Stick",
+      "D": "A Sandwich"
+    }
+  },
+  {
+    "question": "What Does Max Find Inside The Vent Of Frank's RV?",
+    "answer": "D",
+    "choices": {
+      "A": "A Gun",
+      "B": "A Knife",
+      "C": "A Love Letter",
+      "D": "A Photo Of Rachel And Frank"
+    }
+  },
+  {
+    "question": "What Happens To Frank's RV In The Polarized Timeline?",
+    "answer": "A",
+    "choices": {
+      "A": "It Explodes",
+      "B": "It Gets Stolen",
+      "C": "It Is Repaired",
+      "D": "It Is Sold"
+    }
+  }
+]

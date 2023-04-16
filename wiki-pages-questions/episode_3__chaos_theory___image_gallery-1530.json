@@ -1,0 +1,42 @@
+[
+  {
+    "question": "In which episode is the image gallery from?",
+    "answer": "C",
+    "choices": {
+      "A": "Episode 1",
+      "B": "Episode 2",
+      "C": "Episode 3",
+      "D": "Episode 4"
+    }
+  },
+  {
+    "question": "Who took the in-game screenshots featured in the gallery?",
+    "answer": "C",
+    "choices": {
+      "A": "The game developers",
+      "B": "A professional photographer",
+      "C": "The player who uploaded them",
+      "D": "A fan artist"
+    }
+  },
+  {
+    "question": "Which image shows Max and Chloe sitting on a bed together?",
+    "answer": "A",
+    "choices": {
+      "A": "LifeIsStrange 2015-05-26 11-44-48-14.png",
+      "B": "LifeIsStrange 2015-05-26 12-14-00-24.png",
+      "C": "LifeIsStrange 2015-05-26 12-47-19-32.png",
+      "D": "LifeIsStrange 2015-05-26 12-57-40-28.png"
+    }
+  },
+  {
+    "question": "What does Max admit to in the image titled \"Max-Caulfield.png\"?",
+    "answer": "C",
+    "choices": {
+      "A": "Her love for Chloe",
+      "B": "Her fear of the storm",
+      "C": "Her guilt over a decision",
+      "D": "Her desire to leave Arcadia Bay"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Chloe Notice On Frank's Wrist?",
+    "answer": "B",
+    "choices": {
+      "A": "A Watch",
+      "B": "A Bracelet",
+      "C": "A Ring",
+      "D": "A Necklace"
+    }
+  },
+  {
+    "question": "How Does Frank React When Chloe Accuses Him Of Stealing Rachel's Bracelet?",
+    "answer": "A",
+    "choices": {
+      "A": "He Denies It",
+      "B": "He Admits It",
+      "C": "He Laughs It Off",
+      "D": "He Gets Angry"
+    }
+  },
+  {
+    "question": "What Does Frank Pull Out When Chloe Tries To Take The Bracelet From Him?",
+    "answer": "B",
+    "choices": {
+      "A": "A Gun",
+      "B": "A Knife",
+      "C": "A Taser",
+      "D": "A Pepper Spray"
+    }
+  },
+  {
+    "question": "What Happens When Max Pulls The Trigger Of The Gun?",
+    "answer": "D",
+    "choices": {
+      "A": "Frank Gets Shot",
+      "B": "The Gun Jams",
+      "C": "The Bullets Miss Frank",
+      "D": "The Gun Is Out Of Bullets"
+    }
+  },
+  {
+    "question": "What Does Frank Take From Max After Disarming Her?",
+    "answer": "D",
+    "choices": {
+      "A": "Her Phone",
+      "B": "Her Wallet",
+      "C": "Her Camera",
+      "D": "Her Gun"
+    }
+  }
+]

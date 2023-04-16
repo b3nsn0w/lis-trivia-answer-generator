@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What Is The Name Of The Achievement Awarded For Taking The First Optional Photo In Episode One?",
+    "answer": "A",
+    "choices": {
+      "A": "Macro Eyes",
+      "B": "Wide Angles",
+      "C": "Telephotogenic",
+      "D": "Close-Ups"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Achievement Awarded For Taking A Photo Of Max In Her Room Mirror?",
+    "answer": "A",
+    "choices": {
+      "A": "Red Eye",
+      "B": "Focused",
+      "C": "Zoomed In",
+      "D": "Light Leak"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Achievement Awarded For Taking All The Photographs In Episode One?",
+    "answer": "A",
+    "choices": {
+      "A": "Visionary",
+      "B": "Maximum Aperture",
+      "C": "Focal Pointed",
+      "D": "Light Leak"
+    }
+  }
+]

@@ -1,0 +1,91 @@
+= Hideout =
+
+{{Free Tab
+|minwidth = 47%
+|maxwidth = 100%
+|height = 2
+|tab1=Life is Strange|link1=Hideout
+|tab2=Before the Storm|link2=Hideout (Before the Storm)
+}}
+{{Introquote|This looks like a graffiti museum for Chloe and Rachel... I bet I can find out more about Rachel here...|[[Maxine Caulfield|Max Caulfield]]'s monologue in "[[Episode 2: Out of Time|Out of Time]]"}}
+{{Infobox Location
+|image = hideout-external.png
+|type = Brick building
+|location = [[American Rust Junkyard]], [[Arcadia Bay]]
+|state = Oregon
+|appears = [[Episode 2: Out of Time]]<br/>[[Episode 4: Dark Room]]}}
+
+The '''Hideout''' is a brick building in the [[American Rust Junkyard]]. [[Chloe Price]] and [[Rachel Amber]] used to hang out in there a lot, and there are now several mementos and photos from their time together. It's an explorable location in ''[[Life is Strange]]'', and is featured again in the prequel ''[[Life is Strange: Before the Storm|Before the Storm]]''. [[Maxine Caulfield|Max Caulfield]] may enter it when she visits the junkyard in Episodes 2 and 4.
+
+== Overview ==
+[[File:full interior view.jpg|300px|right|Full interior view]]
+The hideout is half-built, missing a door and using slate and wooden planks for a roof. One of the windows looks to the train tracks. The walls are covered with graffiti and posters, showcasing Chloe and Rachel's dream of going to [[Los Angeles]] one day. Empty pizza boxes and beer bottles are scattered around. Other items include several car number plates, a dartboard and a [[Vortex Club]] party flyer. There is also a spool table with makeup, which was likely used more by Rachel than Chloe. A big yellow carpet with an image of an elephant between two palm trees hangs in front of the spool table.
+
+After Rachel's disappearance, Chloe has added a graffiti saying "Fuck you, yes you", as well as wrote "I WANT TO DIE" on a sheet of paper. She also defaced the "Welcome to L.A" poster, replacing "L.A" with "HELL".  The yellow carpet has been pierced with bullets, although it is unknown whether this was done before or after Rachel went missing.
+
+== Episode Two - "[[Episode 2: Out of Time|Out of Time]]" ==
+Max comes across the hideout while searching for 5 beer bottles to bring to Chloe. Upon entering, she calls it a "graffiti museum" and thinks she can find out more about Rachel there. The beer bottle stands on a chair. Max can add her name to the graffiti on the wall to indicate she was here along with Chloe and Rachel.
+
+== Episode Four - "[[Episode 4: Dark Room|Dark Room]]" ==
+[[File:Hideout graffiti.jpg|thumb|left|200px]] When the girls return to the junkyard at night, Max can enter the hideout instead of following Chloe. A rat will briefly run across the floor, which disgusts Max. If she decided to add her name to the graffiti earlier, both Max and Chloe's names will be circled and have the words "YOU'RE ALL GONNA DIE" written in red. The "was" in "Rachel was here" will also be replaced with a red "is".
+
+== Interactions ==
+:<span style="display:none">'''PC users: '''</span>''Hover over the text to see Max's comments. [[Interactions|See here]] for all interactions in the game.''
+*{{Interaction|Max can look at and add her name to the graffiti on the hideout wall.|'''Look: '''"I don't want to intrude, but... I was here."<br>'''Write: '''"Now we're officially a trio... we just have to find Rachel."}}
+*{{Interaction|She can look at a [[Vortex Club]] party leaflet.|"So Rachel did go to a Vortex Club party... This flyer is dated right before she disappeared..."}}
+*{{Interaction|She can look at a sheet of paper with "I WANT TO DIE" written on it.|"'I want to die.' Jeez. Who wrote this?"}}
+*{{Interaction|She can look at another graffiti.|"Ouch."}}
+*{{Interaction|She can look at a CD titled "Rachel Songs".|"'Rachel songs.' I wonder if Chloe would ever make me a mixtape."}}
+*{{Interaction|She can look at a makeup case.|"I can't see Chloe playing with makeup..."}}
+*{{Interaction|She can look at three photos of Chloe and Rachel.|"They really were besties. That could have been me instead of Rachel..."}}
+*{{Interaction|She can look at a handmade bracelet.|"That kinda hurts..."}}
+*{{Interaction|She can look at a rave flyer.|"They would have gone all the way to Los Angeles for a rave. Looks fun."}}
+*{{Interaction|She can look at a letter from Rachel to Chloe.|"Now what's up with this weird secret relationship? Sounds like Rachel was confused <br>about it, maybe even ashamed... I wish she named names. I better not show this to Chloe <br>or she will be seriously hurt."}}
+
+== Trivia ==
+*There's a "Juliet + Zachary = Love 4ever" graffiti next to the hideout.
+*Inside the hideout is the graffiti 'La-la land this way'. La-La Land is a nickname for Los Angeles, California, where Chloe and Rachel planned to run away to together. 
+*There are two American license plates inside the hideout: the one on the wall beneath the 'La-la land' graffiti is an Oregon State plate; the plate beneath it is for Washington State. It is unknown if the '''978 AM''' on the Oregon plate bears any significance in the game. This is also the only number plate in the game which is not [[References (Life is Strange)|referencing]] a famous TV show.
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="200" captionalign="center" position="center">
+oregon-plate.jpg|Oregon Plate
+oregon-plate-small.png|Typical Oregon license plate
+</gallery>
+* The '''978 AM''' plate inside the hideout has a green sticker in its bottom-left corner. These stickers are color-coded to the months they are issued and are changed quarterly. A green sticker means that this plate would have been issued April through June.<ref>See the Oregon 1991 plate text on [http://www.15q.net/or.html this] page for further details on the quarterly stickers.</ref>
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="200" captionalign="center" position="center">
+Oregon_plate-LiS-Dirty.png|The green sticker is visible in the bottom-left corner. 
+</gallery>
+[[File:Welcome_to_HELL-a-Poster.png|right|thumb|200px]]
+* The "Welcome to L.A." poster on the wall of the hideout seems to have a triple pun as a result of the graffiti:
+**Welcome to HELL.
+**Welcome to HELLA.
+**Welcome to HELL A.
+
+== Gallery ==
+<gallery widths="200px" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+hideout-wall1.png|Wall of the hideout
+hideout-wall2.png|Wall #2 of the hideout
+hideout-makeup.png|Table with makeup
+hideout-plates.png|Old number plates
+hideout-elephant.png|Yellow carpet
+hideout-chloehere.png|Chloe and Rachel's name graffiti
+hideout-labitch.png|"L.A Bitch" graffiti
+hideout-fuqyou.png|"Fuck you" graffiti
+la-la-land-graffiti.jpg|"La-La Land this way" graffiti
+</gallery>
+
+== References ==
+<references />
+{{Location Navbox}}
+
+[[Category:Locations]]
+[[Category:Locations (Life is Strange)]]
+[[Category:Locations in Arcadia Bay]]
+[[Category:Episode 2: Out of Time Locations]]
+[[Category:Episode 4: Dark Room Locations]]
+[[Category:Explorable Locations]]
+[[Category:Explorable Locations (Life is Strange)]]
+
+[[Category:Life is Strange]]
+
+[[pt-br:Esconderijo]]
+[[ru:Убежище]]

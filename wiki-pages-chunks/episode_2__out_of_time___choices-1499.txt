@@ -1,0 +1,141 @@
+Here is a section of the wiki page for Episode 2: Out of Time - Choices:
+
+## Alyssa #2
+
+|-|Warn# Warn
+*Episode 2
+**Max can talk to Alyssa about Warren, nerd culture, and school.
+*Episode 4
+**Contributes to Alyssa reading a Robert Frost quote to Max (2/4, all needed).
+|-|IgnoreIgnore
+*Episode 2
+**Max cannot talk to Alyssa, as she is in too much pain.
+*Episode 4
+**Alyssa will not read a Robert Frost quote to Max.
+
+# #
+
+## Kate's Video Link
+
+|-|Erased# Erased
+*Episode 2
+**Max will bring up this action during part three of the conversation with Kate on the rooftop.
+***This does not make it easier to talk Kate down.
+***Kate will either accept or reject Max's statement depending on whether or not Max told her to go to the police in Episode 2.
+*Episode 3
+**The lipstick smears will remain on the bathroom mirror.
+**No one will write on the mirror.
+|-|IgnoredIgnored
+*Episode 2
+**Max will not mention the link during part three of the conversation with Kate on the rooftop.
+***This does not make it harder to talk Kate down.
+***Kate will either accept or reject Max's statement depending on whether or not Max told her to go to the police in Episode 2.
+****The way she rejects Max if she told Kate not to go to the police is particularly brutal.
+*Episode 3
+**Other people will have erased the link.
+**If Kate lived:
+***No one will write on the mirror.
+**If Kate died:
+***One or more people will have written "FUCK THE HATERS," "sorry Kate," and "KATE MARSH DIED FOR OUR SINS" in three colors of lipstick.
+
+# #
+
+## Giving Kate Advice
+
+|-|Go to the Police# Go to the Police
+*Episode 2
+**Kate will be very pleased with Max.
+**Kate will text Max during the Junkyard scene thanking Max for her advice (exact text sequence will vary based on the combination with "Kate's Phone Call").
+**Max will be given two options to say to Kate during part three of the conversation with Kate on the rooftop.
+***Neither option upsets Kate.
+|-|Look for ProofLook for Proof
+*Episode 2
+**Kate will be upset with Max and kick her out of the room.
+**Kate will text Max during the Junkyard scene accusing Max of victim blaming (exact text sequence will vary based on the combination with "Kate's Phone Call").
+**Max will be given four options to say to Kate during part three of the conversation with Kate on the rooftop.
+***Three of the options upset Kate.
+
+# #
+
+## Friendship with Taylor #1
+
+|-|Friendly# Friendly
+*Episode 3
+**Taylor will state that she knows she can trust Max.
+**Taylor will admit that Victoria is wrong about Max.
+**Taylor will believe Max promising not to tell anyone about Victoria sneaking out.
+*Episode 4
+**Taylor will be open and trusting with Max at the party.
+|-|NeutralNeutral
+*Episode 3
+**Taylor won't be sure whether or not to believe Max will keep silent about Victoria sneaking out.
+*Episode 4
+**Taylor will not trust Max during the party.
+
+# #
+
+## Warren's Invite
+
+|-|Accept Invitation# Accept Invitation
+*Episode 2
+**Warren will text Max repeatedly about going to the drive-in with him.
+*Episode 3
+**Warren will deluge Max with texts about how she can't back out of going to the drive-in with him now.
+*Episode 4
+**Brooke will be bitter about Max going with Warren and will not let Max fly her drone.
+**Brooke can be the person to tell Max that Nathan isn't around.
+**Warren will text Max about going to the drive-in with him (though texts will change depending on whether or not Max kissed Chloe).
+|-|Reject InvitationReject Invitation
+*Episode 2
+**Warren will text Max repeatedly about how he wishes she had accepted his invitation.
+*Episode 3
+**Warren will deluge Max with texts about how he bought an extra ticket for her.
+*Episode 4
+**Brooke will be happy that she's going with Warren and will let Max fly her drone.
+**Brooke cannot be the person to tell Max that Nathan isn't around, as she was too distracted.
+**Warren will text Max about not going to the drive-in with him (though texts will change depending on whether or not Max kissed Chloe).
+
+# #
+
+## Two Whales Diner 
+Belgian Waffles# Belgian Waffles
+*Episode 5
+** The Nightmare-Max sitting at the same place as Max in this episode will also eat Belgian Waffles.
+|-|Bacon Omelette Bacon Omelette  
+*Episode 5
+**The Nightmare-Max sitting at the same place as Max in this episode will also eat Bacon Omelettes.
+
+# #
+
+## Kate's Phone Call
+
+|-|Answered# Answered
+*Episode 2
+**Max is glad she could comfort Kate but regrets Joyce and Chloe having an argument.
+**Chloe is upset with Max when they reach the junkyard.
+**Kate will text Max during the Junkyard scene thanking Max for her reassurances (exact text sequence will vary based on the combination with "Kate and the Police").
+**Max will be given two options to say to Kate during part two of the conversation with Kate on the rooftop.
+***Neither option upsets Kate
+**Mr. Jefferson will bring up Max taking this phone call/listening to Kate if Max blames him for Kate's suicide attempt.
+*Episode 3
+**Counts against Chloe changing her phone background (background will not change if another point is lost).
+*Episode 4
+**If Kate lives, Chloe will be glad that Max answered Kate's phone call despite Chloe's protestations.
+|-|Didn't AnswerDidn't Answer
+*Episode 2
+**Chloe is happy with Max, though Max regrets not talking to Kate and hopes for the best.
+**Chloe is excited to be with Max when they reach the junkyard.
+**Kate will text Max during the Junkyard scene condemning Max for ignoring Kate when she needed help (exact text sequence will vary based on the combination with "Kate and the Police").
+**Max will be given four options to say to Kate during part two of the conversation with Kate on the rooftop.
+***Three of the options upset Kate.
+**Mr. Jefferson will bring up Max missing this phone call if Max blames him for Kate's suicide attempt.
+*Episode 3
+**Contributes to Chloe changing her phone background (2 of 4).
+*Episode 4
+**If Kate lives, Chloe will wish Max had answered Kate's phone call in spite of Chloe's protestations, saying that she kept Max from being Kate's friend.
+
+# #
+
+
+
+Generate five trivia questions relevant to this section of the page.

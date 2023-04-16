@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What does the text between Warren and Max in Episode 2 reference?",
+    "answer": "B",
+    "choices": {
+      "A": "Time travel in general",
+      "B": "The TARDIS from Doctor Who",
+      "C": "The DeLorean from Back to the Future",
+      "D": "The Butterfly Effect"
+    }
+  },
+  {
+    "question": "What is the name of the employee on the laundry ticket found in Victoria's Room in Episode 1?",
+    "answer": "B",
+    "choices": {
+      "A": "Gary Jamroz-Palma",
+      "B": "Amelia Pond",
+      "C": "River S.",
+      "D": "Rory W."
+    }
+  },
+  {
+    "question": "What does the note on Max's notepad in the classroom at the beginning of the game depict?",
+    "answer": "B",
+    "choices": {
+      "A": "A butterfly",
+      "B": "A rabbit",
+      "C": "A panda",
+      "D": "A bird"
+    }
+  },
+  {
+    "question": "What does the end credits of Episode 4 say instead of \"Thanks for playing\"?",
+    "answer": "A",
+    "choices": {
+      "A": "Thanks for crying",
+      "B": "Thanks for laughing",
+      "C": "Thanks for watching",
+      "D": "Thanks for enjoying"
+    }
+  }
+]

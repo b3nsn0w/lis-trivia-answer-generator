@@ -1,0 +1,42 @@
+[
+  {
+    "question": "In Which Episode Of Life Is Strange Does DJ Doom Appear?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Party Where DJ Doom Performs?",
+    "answer": "B",
+    "choices": {
+      "A": "Everyday Heroes Photo Contest",
+      "B": "End of the World Party",
+      "C": "Vortex Club Party",
+      "D": "Blackwell Academy Party"
+    }
+  },
+  {
+    "question": "What Is The Symbolic Meaning Behind DJ Doom's Name?",
+    "answer": "A",
+    "choices": {
+      "A": "It Represents The True Intentions Of The Party",
+      "B": "It Represents The Storm",
+      "C": "It Represents The Prescott Family",
+      "D": "It Represents The Everyday Heroes Photo Contest"
+    }
+  },
+  {
+    "question": "What Happens When Max Tries To Enter The VIP Section During DJ Doom's Set?",
+    "answer": "B",
+    "choices": {
+      "A": "DJ Doom Ignores Her",
+      "B": "DJ Doom Gets Angry And Comes After Her",
+      "C": "DJ Doom Invites Her To Join The Party",
+      "D": "DJ Doom Stops His Set And Leaves The Party"
+    }
+  }
+]

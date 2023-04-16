@@ -1,0 +1,85 @@
+Here is a section of the wiki page for Max's Notes:
+
+## Alternative Timeline 
+{| class# "wikitable" style"border: 1px solid #57333F; background: transparent; width:100%"
+! Description !! Photo
+|-
+|**"Black Attic Club" website.**
+Location: Screen of [Chloe's Computer#Alternative Timeline](chloe_s_computer.md) in the garage.
+Max's comments: Chloe is still a punk at heart... but she can't stage dive anymore.
+|style# "height:186px; vertical-align:top"|Look[File:note4-altgarage-blackattic.png](220px.md)
+|-|Read# [File:note4-altgarage-blackattic2.png](220px.md)
+|-
+|**"Hawt Wheels Chatroom website."**
+Location: Screen of Chloe's computer in the garage.
+Max's comments: That's so cool that Chloe has made friends online.
+|style"height:186px; vertical-align:top"|Look# [File:note4-altgarage-hawtwheels.png](220px.md)
+|-|Read[File:note4-altgarage-hawtwheels2.png](220px.md)
+|-
+|'''Postcard from Max's parents to Chloe (front).'''
+Location: Chloe's message board in the garage.
+Max's comments: None
+|style# "height:186px; vertical-align:top"|Look[File:note4-altgarage-caulfieldcardfront.png](220px.md)
+|-|Read# None
+|-
+|'''Postcard from Max's parents to Chloe (back).'''
+Location: Chloe's message board in the garage.
+Max's comments: It's nice my parents sent a card at least.
+|style"height:186px; vertical-align:top"|Look# [File:note4-altgarage-caulfieldcardback.png](220px.md)
+|-|Read[File:note4-altgarage-caulfieldcardback2.png](220px.md)
+|-
+|**Postcard from [Megan Weaver](megan_weaver.md) to Chloe (front).**
+Location: Chloe's message board in the garage.
+Max's comments: None
+|style# "height:186px; vertical-align:top"|Look[File:note4-altgarage-megancardfront.png](220px.md)
+|-|Read# None
+|-
+|**Postcard from [Megan Weaver](megan_weaver.md) to Chloe (back).**
+Location: Chloe's message board in the garage.
+Max's comments: I wonder who this is. Kind of a generic card.
+|style"height:186px; vertical-align:top"|Look# [File:note4-altgarage-megancardback.png](220px.md)
+|-|Read[File:note4-altgarage-megancardback2.png](220px.md)
+|-
+|**Letter from Max to Chloe.**
+Location: Chloe's message board in the garage.
+Max's comments: I wasn't very available to Chloe. Real nice.
+|style# "height:186px; vertical-align:top"|Look[File:note4-altgarage-maxletter.png](220px.md)
+|-|Read# [File:note4-altgarage-maxletter2.png](220px.md)
+|-
+|'''Max's selfie.'''
+Location: Chloe's message board in the garage.
+Max's comments: At least I sent road-trip selfies to Chloe. I’m sure that made her feel great.
+|style"height:186px; vertical-align:top"|Look# [File:note4-altgarage-maxselfie.png](220px.md)
+|-|ReadNone
+|-
+|**"Pirate Power" mix.**
+Location: Drawer under the HDTV in the garage.
+Max's comments: Oh my God, I made that mix for her when we were twelve.
+|style# "height:186px; vertical-align:top"|Look[File:note4-altgarage-piratepower.png](220px.md)
+|-|Read# [File:note4-altgarage-piratepower2.png](220px.md)
+|-
+|'''Chloe's Blackwell Record.'''
+Location: Drawer in the garage.
+Max's comments: Wowser, Chloe was a straight-A student. She could have gone to any college.
+|style"height:186px; vertical-align:top"|Look# [File:note4-altgarage-chloeblackwell.png](220px.md)
+|-|Read[File:note4-altgarage-chloeblackwell2.png](220px.md)
+|-
+|**Letter from Principal Wells to the Price family.**
+Location: Drawer in the garage.
+Max's comments: **Stole money: **Gutless bastard. I am so glad Chloe stole your bullshit fund. Even if it was in another reality…**Left money: **"What a bastard. I totally should have let Chloe steal your bullshit fund. Even if it was in another reality…
+|style# "height:186px; vertical-align:top"|Look[File:note4-altgarage-wellsletter.png](220px.md)
+|-|Read# [File:note4-altgarage-wellsletter2.png](220px.md)
+|-
+|**Photo of the Price family.**
+Location: Drawer in the garage.
+Max's comments: Despite everything, they’re still a happy family again…
+|style"height:186px; vertical-align:top"|Look# [File:note4-altgarage-familyphoto.png](220px.md)
+|-|ReadNone
+|-
+|**Skateboarding magazine.**
+Location: Drawer in the garage.
+Max's comments: It's cool that in this reality, Chloe really loves skating too.
+|style# "height:186px; vertical-align:top"|Look[File:note4-altgarage-skatemagazine.png](220px.md)
+|-|Read# 
+
+Generate five trivia questions relevant to this section of the page.

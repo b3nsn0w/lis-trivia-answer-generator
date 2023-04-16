@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Type Of Camera Does Max Own?",
+    "answer": "B",
+    "choices": {
+      "A": "Digital Camera",
+      "B": "Polaroid Camera",
+      "C": "Film Camera",
+      "D": "Disposable Camera"
+    }
+  },
+  {
+    "question": "What Happens To Max's Camera During Her Confrontation With Nathan Prescott?",
+    "answer": "B",
+    "choices": {
+      "A": "It Gets Stolen",
+      "B": "It Gets Dropped And Breaks",
+      "C": "It Gets Confiscated By The Police",
+      "D": "It Gets Lost In The Woods"
+    }
+  },
+  {
+    "question": "Whose Camera Does Chloe Give To Max As A Replacement?",
+    "answer": "B",
+    "choices": {
+      "A": "Her Own Camera",
+      "B": "William Price's Camera",
+      "C": "Nathan Prescott's Camera",
+      "D": "Mark Jefferson's Camera"
+    }
+  },
+  {
+    "question": "In \"Before The Storm,\" Where Is William's Camera Located?",
+    "answer": "C",
+    "choices": {
+      "A": "In Max's Bag",
+      "B": "In The Photography Lab",
+      "C": "In The Price Household Garage",
+      "D": "In The Blackwell Academy Parking Lot"
+    }
+  }
+]

@@ -1,0 +1,127 @@
+#  William Price 
+
+```yaml
+Character
+
+name: William Price
+image: PSN_Avatar_William.jpg
+alsoknown: >-
+  Bill (by [Joyce Price](joyce_price.md) and [Aaron Price](aaron_price.md))Billy
+  (by Aaron Price in the [Alternative Timeline (Life is Strange)
+alternative timeline](alternative_timeline__life_is_strange__alternative_timeline.md)): ''
+born: January 3, 1970Seen on a gravestone in the Sacrifice Chloe ending.
+died: >-
+  September 21, 2008 - November 27, 2008 William died in 2008 when Max was aged
+  13 (evidenced by the in-game dialogue, "I'm 18 years old inside my **13** year
+  old self... How?", and the journal entry: "Then I found myself actually back
+  in the photo... to when I was **13** years old. I was back in Chloe's kitchen
+  in the year **2008**."). This time period is the only period that William
+  could have died, because this is the only time period in 2008 where Max would
+  be 13 years old. It is also almost certain that William died before Joyce met
+  David Madsen, on November 27, 2008 according to the Diner receipt which is
+  used to unlock David's computer in Episode 3. In the prequel *Before the
+  Storm*, it seems to be implied that William died on 9/28/2008 at 11:57 a.m.
+  from the timestamps on Joyce's texts during [Chloe's Dreams
+'Chloe''s dream](chloe_s_dreams__chloe__s_dream.md). This day was a Sunday, explaining why Max and Chloe stayed at home that day. Originally, the timestamp was 6/21/2008 but it was updated to the current one after the release of Episode 2: Brave New World, probably due to a possible [Canon Inconsistencies': *
+canon inconsistency](canon_inconsistencies_____canon_inconsistency.md). (original timeline): *
+causeofdeath: Car accident (original timeline)
+gender: Male
+hair: Strawberry blond
+eyes: Blue
+loveinterest: '[Joyce Price](joyce_price.md) (married wife, widow in the original timeline)'
+relatives: >-
+  [Chloe Price](chloe_price.md) (daughter)[Aaron Price](aaron_price.md)
+  (brother)
+friends: '[Maxine Caulfield'
+Max Caulfield](maxine_caulfield__max_caulfield.md): ''
+appearance: >-
+  [Episode 3: Chaos Theory](episode_3__chaos_theory.md)[Episode 4: Dark
+  Room](episode_4__dark_room.md)[Episode 5: Polarized](episode_5__polarized.md)
+  ([Max's Nightmare
+nightmare](max_s_nightmare_nightmare.md)): ''
+voice: '[Joe Ochman](joe_ochman.md)'
+```
+
+{{DONTNODWiki}}
+> She's never leaving me!*"* - *"*That makes all of us.
+
+**William and [Chloe Price**, Chloe](chloe_price____chloe.md)'s last words to each other in the original timeline
+
+**William Price** is the father of [Chloe Price](chloe_price.md) and husband of [Joyce Madsen](joyce_madsen.md). He died in 2008 after a car crash and is sorely missed by his family. Chloe is particularly affected by his passing and mentions him often to her best friend, [Maxine Caulfield](max_caulfield.md). He lives in the alternate timeline.
+
+:*For the image gallery, click [William Price/Gallery](here.md).*
+
+William is featured in *[Life is Strange: Before the Storm](before_the_storm.md)*, the prequel to the events of *[Life is Strange](life_is_strange.md)*, in [Chloe's Dreams](chloe_s_dreams.md).
+
+##  Background 
+William Price lived alongside Joyce in [Arcadia Bay](arcadia_bay.md) with their daughter, Chloe. Before her birth in March 1994, William and Joyce visited [San Francisco](san_francisco.md) on holiday. In the year 1999 they bought Chloe a kitten named [Bongo](bongo.md).
+
+William was an amicable, kindhearted and gentle man and family father who enjoyed entertaining Chloe and her best friend, Max, in their youth by hosting activities such as barbecues in their backyard. He also shared Max's passion for photography.
+
+In 2008, Bongo the cat was killed by a passing car. In the original timeline, William also died in 2008 when involved in a car crash whilst driving to pick up Joyce who was shopping for groceries. Chloe and Joyce were devastated by the loss. Some time before his death, he started to paint the front of his house in blue, but he was never able to finish it, and so it remained unfinished as it was. In [Episode 3: Chaos Theory](episode_3.md), Chloe states that Joyce blames herself for the event, and that occasionally, so does she.
+
+##  Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+Five years after William's death, Max returns to Arcadia Bay to attend [Blackwell Academy](blackwell_academy.md). After driving Max away from the [Blackwell Parking Lot](blackwell_parking_lot.md) confrontation, Chloe mentions that the death of her father was very hard on her, and with Max also gone she felt lonely and abandoned until meeting [Rachel Amber](rachel_amber.md).
+
+When Max looks through Chloe's room for a music tape she finds two photos of Chloe and William. One of these shows the two hugging, captioned "me + daddy" with a heart drawn next to it. The other is of Chloe and her dad in their backyard with Bongo in Chloe's hands. Upon finding the photos, Max remarks that Chloe and her dad were close. There are references to him throughout the household.
+
+[File:Joyce and william.png](thumb.md)
+
+If Max decides to look through Joyce and David's bedroom, she can find a picture showing Joyce and William in their younger days inside a drawer in Joyce's bedside table. The photo was taken approximately nineteen years ago when Joyce was pregnant with Chloe. It is titled "SF Holidays with William (and Chloe)". The photo shows the couple kissing in front of the Golden Gate Bridge in San Francisco. After finding this, Max comments that "Joyce has a little shrine to William". Obviously, Joyce misses William greatly, but it seems that David, her current husband, understands her situation, allowing her to have her memorial shrine untouched.
+
+When Max fails to fix her Polaroid camera, Chloe will give Max a replacement Polaroid camera that belonged to William. Max is initially hesitant about taking it, but Chloe insists, stating that "her Dad would be pissed if she never used it", and that she knows Max will use it the right way. William seemed to have taken all the family photos, and shared Max's love for analogue images.
+
+##  Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+While waiting for Chloe to arrive at the [Two Whales Diner](two_whales_diner.md), Max and Joyce talk about William. Max apologizes for not being there after his death, feeling guilty for not having supported the family while in Seattle. She realizes that things were tough for William's family after his death.
+
+Joyce explains that she has done her best to move on after William's death, but Chloe remains in the past and became angry over his death, turning her into a rebel without a cause. Joyce believes that William's gift to the two after his passing were the good memories that they had; something Chloe does not understand yet.
+
+In the [American Rust Junkyard](junkyard.md), Max spots an old car wreck and wonders if Chloe ever thinks about her father when she looks at them, alluding to the fact that the man was involved in a car accident.
+
+##  Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+Episode 3 changes William's life drastically. As Chloe complains that her life is horrible solely due to the death of her father, Max becomes distraught and contemplates the situation in her bedroom.
+
+Max's powers progress and allow her to visit the far-flung past via the last photograph William took of Chloe and Max. She travels back to the day William dies and becomes determined to save him and save Chloe from the pain of losing him. If she tries to warn Chloe and William about the upcoming accident, they won't take her warning seriously. Max succeeds in hiding William's car keys by either throwing them in the sink or in the backyard. This causes William to take the bus to help Joyce rather than taking his car, and allows him to avoid the car accident, living on in a new alternative timeline. Max skips time back to her 18-year old body, and finds herself in this alternative timeline, in which William is still alive.
+
+This comes at the cost of Chloe being badly injured in the future after getting into a car crash in a new vehicle her father bought her. This tragically renders her paralyzed.
+
+##  Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+In the new timeline, Max discovers that Chloe's accident is caused by a car-crash with an unknown SUV; fitting considering her father's past death. William and Joyce stay a happy couple, dealing with the stresses of having an entirely dependent daughter.
+
+There is an extreme strain on the family's financial situation, as Chloe's medical bills threaten the Price family with foreclosure and bankruptcy. It is revealed that the family got to go to Paris, a lifelong dream for Joyce and Chloe; William even reveals that Chloe loved it so much she had considered going there for school before her accident. Despite the family's seemingly hopeless situation, William tries to stay optimistic, and makes jokes when talking to Max and looking at the loan letter. Inside a drawer in Chloe's new room, Max can find a photo of the Price family on the beach, with all the family members smiling.
+
+Max discovers that Chloe is dying, and resolves to rewind to the day she changed William's fate. She sadly lets William leave the household to pick up Joyce, and his fate from the original timeline is repeated, returning the time stream to normal.
+
+Chloe and Max make up, Chloe apologizing for her earlier behavior and teen drama, saying she didn't mean what she said about her father.
+
+##  Episode Five - "[Episode 5: Polarized](polarized.md)" 
+William makes an appearance in [Max's Nightmare](max_s_nightmare.md) as Max reviews the scene of herself letting him die again. He also sends Max [Max's Messages#William](a_message.md) asking her to say hi to Chloe and Joyce.
+
+##  Alternative Timeline 
+In the [Alternative Timeline (Life is Strange)](alternative_timeline.md), William is still alive due to the car crash never happening. He took his family on a holiday to Paris and bought Chloe a red pickup truck for her 16th birthday. He works extremely hard to care for Chloe, such as having three jobs.
+
+##  Relationships 
+
+###  Family 
+* [Joyce Price](joyce_price.md) - Joyce and William were happily married until their marriage ended after his death in 2008. It is revealed by Chloe in Episode 3 that Joyce partly blames herself for William's death.
+* [Chloe Price](chloe_price.md) - Chloe is the daughter of Joyce and William, who she was very loving to until William's death in 2008 and Max soon leaving Chloe without staying in contact. These events have appeared to take a toll on Chloe deeply as she rebels against her mother and [David Madsen](stepfather.md). It is revealed by Joyce that the last moment Chloe spent with William was the last time she ever saw her truly happy. In the alternative timeline, he spends most of his time caring for the now paralyzed Chloe, going to extreme lengths, such as getting three jobs to pay for the massive bills caused by Chloe's medical treatments.
+* [Aaron Price](aaron_price.md) - Aaron is William's brother. A letter from him to William can be found in Chloe's abandoned upstairs room in the alternative timeline. He apologizes for not being able to help the Prices financially as much as he would like to.
+
+###  Friends 
+* [Maxine Caulfield](max_caulfield.md) - Max is like a second daughter to the Price family and she loved William like her own family, no doubt due to her growing up as Chloe's best friend and spending much time with her and her family during the girls' childhood years. Max was sad when she found out about William's death but couldn't be there personally for Chloe or Joyce because of her moving out of town shortly after.
+
+##  Memorable Quotes 
+{{Quote|Aha! You can't hide from me forever!|William in "[Episode 3: Chaos Theory](chaos_theory.md)"}}
+{{Quote|All it takes is a few minutes to change a girl's whole life. But she's alive. And she's been a trooper.|William to Max about Chloe in "[Episode 4: Dark Room](dark_room.md)"}}
+{{Quote|These bills are more like crushing. We have to mortgage our home and that's pretty scary...but we'll get through it. The Price is always right. Get it? No?|William to Max in "Dark Room"}}
+
+##  Trivia 
+* William's old camera which Chloe gives Max in "[Episode 1: Chrysalis](chrysalis.md)" is based on Polaroid Image/Spectra.
+* Several [Unused Audios](unused_audio.md) segments extracted from the game's files for Episode 5 have William blame Max for letting him die again and accepting/refusing alternative Chloe's request. They indicate that the developers had a plan to put William in the stealth sequence of Max's nightmare, but cancelled it for some reason.
+* When Max goes back in time to her 13-year-old self and hides William's car keys, he produces a key-locating gadget and utters the phrase, "Release the keys", in a style similar to how future Max says, "Release the kraken" and "Release the kra-can". (See the [References (Life is Strange)](references__life_is_strange_.md) page for *kraken*.)
+* An unused audio file in Episode 3 ("Chaos Theory") revealed that the snow doe that sits on the mantelpiece in the 2008 Price household (which Chloe keeps in her room in 2013 - both timelines) actually belonged to William. {{Headphones|file# Snow-doe-William.ogg}}
+* William likes to use the Middle English word "yonder" and refers to Joyce as his "queen". In an unused audio file, he refers to himself as her squire. {{Headphones|fileWilliam-found_keys.ogg}}
+* William works three jobs to pay Chloe’s hospital debts in the alternate timeline. His first job is at [Pan Estates](pan_estates.md) while the other two are unknown.
+[File:No1_Dad_mug.png](100px.md)
+* On the living room table at [Madsen Household](chloe_s_house.md) in Episode 3, when Max heads downstairs for breakfast, there is a light blue mug that says "No1 Dad." The design looks old and faded, and it is possible that Chloe had bought this for William as it seems unlikely that she would have bought David a mug like this. (The mug is not seen at any other time in the game.)
+

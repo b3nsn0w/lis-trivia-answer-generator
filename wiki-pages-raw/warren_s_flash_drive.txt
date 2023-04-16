@@ -1,0 +1,41 @@
+= Warren's Flash Drive =
+
+{{Infobox computer
+|image = Drive-closeup.jpg
+|type = USB flash drive
+|location = [[Dana's Room]], [[Prescott Dormitory]], [[Blackwell Academy]], [[Arcadia Bay]]
+|appears = [[Episode 1: Chrysalis]]<br>[[Episode 4: Dark Room]]}}'''Warren's Flash D​rive''' appears in [[Episode 1: Chrysalis]]. One of the first [[Objectives (Life is Strange)|objectives]] of [[Maxine Caulfield|Max Caulfield]] is to bring it back to [[Warren Graham]] after having borrowed it on October 3.<ref>Max states in [[Max's Diary|her diary]] that it hasn't been a full week since she borrowed the flash drive, and Warren sends Max a message reminding her to check NEKromantik on his flash drive that day.</ref>
+
+== Episode One - "[[Episode 1: Chrysalis|Chrysalis]]" ==
+[[File:Dana-flashdrivenote.png|thumb|left|120px]] Shortly after exiting the [[Blackwell Academy]] building, Max receives a [[Max's Messages|message]] from Warren asking for his flash drive to be returned. She heads to [[Max's Room|her dorm room]] and finds out that [[Dana Ward]] has borrowed the drive to entertain herself while studying. Max then has to sort out the drama between [[Juliet Watson]] and Dana to finally get to [[Dana's Room|Dana's room]] and grab the flash drive. She can also plug it into [[Dana's Computer|Dana's computer]] (or [[Max's Computer|her own]]) to check its contents. After returning the drive to Warren on the [[Blackwell Parking Lot]], Max and Warren talk about the various films contained on it.
+
+== Contents ==
+*Weird Science - Homework
+*Warren G.'s Incredible Film Library
+*Greatest TV Shows Ever
+*Muzak
+*Randomz'
+*Not downloaded
+*The Party Buster - Unholy Obscenities
+*MAX
+
+== Gallery ==
+<gallery widths="200px" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+maxgivesdrive.png|Max giving the flash drive to Warren.
+Warrenflashcontents.jpg|Content of Warren's flash drive as seen on [[Dana's Computer|Dana's computer]] in Episode 1.
+</gallery>
+
+== Trivia ==
+*After grabbing the flash, Max says: "Must protect my precious, so Max never has to chase it down again." This is a [[References (Life is Strange)|reference]] to "[[w:c:lotr|''The Lord of the Rings'']]".
+*Warren's flash drive has colored sides and looks like three cubes connected together. This might be a reference to the ''[https://en.wikipedia.org/wiki/Rubik's_Cube Rubik's Cube].''
+*[[File:ComputerScreen Chloe-flashdrive.png|thumb|100px]] During the investigation in [[Chloe's Room|Chloe's room]] in "[[Episode 4: Dark Room|Dark Room]]," the background screen on [[Chloe's Computer|Chloe's laptop]] is the screen previously seen in Episode 1 that shows the contents of Warren's flash drive; however, it is now minus the MAX folder and has a green border. This appears to be a reused and modified asset.
+
+== Notes ==
+<references />
+{{Object Navbox}}
+
+[[ru:Флешка Уоррена]]
+[[Category:Objects]]
+
+
+[[Category:Life is Strange]]

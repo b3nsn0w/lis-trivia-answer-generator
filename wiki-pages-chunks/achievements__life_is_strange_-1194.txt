@@ -1,0 +1,134 @@
+Here is a section of the wiki page for Achievements (Life is Strange):
+
+#  Achievements (Life is Strange) 
+
+There are 60 **achievements**[http://steamcommunity.com/stats/319630/achievements Steam achievements list (Life is Strange)] (61 trophies)[https://psnprofiles.com/trophies/3313-life-is-strange PS4 trophies list (Life is Strange)] that can be earned in *[Life is Strange](life_is_strange.md)*, all of which involve taking [Optional Photos](optional_photos.md) and finishing an [:Category:Episodes](episode.md). There is one platinum trophy in all three games that is exclusive to PlayStation consoles.
+
+In *Life is Strange*, there are hints on where each optional photo may be located by looking at the sketch drawings in [Maxine Caulfield](max_caulfield.md)'s optional photos section in [Max's Journal](her_journal.md) and by replaying a particular scene in an episode. All achievements that are awarded for taking optional photos refer to photography terms.
+
+## Life is Strange 
+{{Achievements
+|image #  What_If_Achievement.png
+|name  What if?
+|description #  Unlock all other trophies from Life Is Strange™
+|type  platinum
+|rarityps4 #  8.1
+}}
+
+#
+
+## Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+{{Achievements
+|image  Macro_Eyes_Achievement.png
+|name #  Macro Eyes
+|description  Take optional photo #1 in Episode 1: Chrysalis
+|type #  bronze
+|score  10
+|rarityps4 #  73.5
+|raritysteam  69.6
+}}
+{{Achievements
+|name #  Wide Angles
+|image  Wide_Angles_Achievement.png
+|description #  Take optional photo #2 in Episode 1: Chrysalis
+|type  bronze
+|score #  10
+|rarityps4  17.2
+|raritysteam #  14.8
+}}
+{{Achievements
+|name  Telephotogenic
+|image #  Telephotogenic_Achievement.png
+|description  Take optional photo #3 in Episode 1: Chrysalis
+|type #  bronze
+|score  10
+|rarityps4 #  25.1
+|raritysteam  23.1
+}}
+{{Achievements
+|name #  Close-Ups
+|image  Close-Ups_Achievement.png
+|description #  Take optional photo #4 in Episode 1: Chrysalis
+|type  bronze
+|score #  10
+|rarityps4  15.9
+|raritysteam #  14.6
+}}
+{{Achievements
+|name  Red Eye
+|image #  Red_Eye_Achievement.png
+|description  Take optional photo #5 in Episode 1: Chrysalis
+|type #  bronze
+|score  10
+|rarityps4 #  45.4
+|raritysteam  43
+}}
+{{Achievements
+|image #  Focused Achievement.png
+|name  Focused
+|description #  Take optional photo #6 in Episode 1: Chrysalis
+|type  bronze
+|score #  10
+|rarityps4  22.4
+|raritysteam #  17.4
+}}
+{{Achievements
+|name  Zoomed In
+|image #  Zoomed_In_Achievement.png
+|description  Take optional photo #7 in Episode 1: Chrysalis
+|type #  bronze
+|score  10
+|rarityps4 #  17
+|raritysteam  15.4
+}}
+{{Achievements
+|name #  Focal Pointed
+|image  Focal_Pointed_Achievement.png
+|description #  Take optional photo #8 in Episode 1: Chrysalis
+|type  bronze
+|score #  10
+|rarityps4  17.1
+|raritysteam #  15.1
+}}
+{{Achievements
+|name  Maximum Aperture
+|image #  Maximum_Aperture_Achievement.png
+|description  Take optional photo #9 in Episode 1: Chrysalis
+|type #  bronze
+|score  10
+|rarityps4 #  15.6
+|raritysteam  13.8
+}}
+{{Achievements
+|name #  Light Leak
+|image  Light_Leak_Achievement.png
+|description #  Take optional photo #10 in Episode 1: Chrysalis
+|type  bronze
+|score #  10
+|rarityps4  23.2
+|raritysteam #  23
+}}
+{{Achievements
+|name  Visionary
+|image #  Visionary_Achivement.png
+|description  Take all optional photos in Episode 1: Chrysalis
+|type #  bronze
+|score  45
+|rarityps4 #  11.1
+|raritysteam  8.1
+}}
+{{Achievements
+|name #  Chrysalis
+|image  Chrysalis_Achievement.png
+|description #  Finish Episode 1: Chrysalis
+|type  bronze
+|score #  55
+|rarityps4  54.6
+|raritysteam #  52
+}}
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

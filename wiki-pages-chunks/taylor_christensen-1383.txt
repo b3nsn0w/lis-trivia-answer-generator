@@ -1,0 +1,78 @@
+Here is a section of the wiki page for Taylor Christensen:
+
+#  Taylor Christensen 
+
+```yaml
+Character
+
+name: Taylor Christensen
+image: Taylor.png
+alsoknown: Sweet-T (by [Victoria Chase](victoria_chase.md))
+died: October 11, 2013 (presumed, determinant)
+causeofdeath: Killed by the [storm](storm.md) (presumed, determinant)
+gender: Female
+hair: Blonde
+eyes: Blue
+relatives: Unnamed mother (mother): *
+friends: |-
+  [Victoria Chase](victoria_chase.md)
+  [Courtney Wagner](courtney_wagner.md)
+  [Maxine Caulfield
+Max Caulfield](maxine_caulfield_max_caulfield.md) (determinant): *
+profession: High school student
+affiliation: |-
+  [Blackwell Academy](blackwell_academy.md)
+  [Vortex Club](vortex_club.md)
+appearance: >-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)[Episode 2: Out of
+  Time](episode_2__out_of_time.md)[Episode 3: Chaos
+  Theory](episode_3__chaos_theory.md)[Episode 4: Dark
+  Room](episode_4__dark_room.md)[Episode 5: Polarized](episode_5__polarized.md)
+voice: '[Ashly Burch](ashly_burch.md) (ENG) (uncredited)[Lynn](lynn.md) (JPN)'
+width: 270px
+```
+
+> I'm not about tearing people down, Max.
+
+**Taylor to [Maxine Caulfield**, Max](maxine_caulfield____max.md) in "[Episode 2: Out of Time, Out of Time](episode_2__out_of_time__out_of_time.md)"
+
+**Taylor Christensen** is a student at [Blackwell Academy](blackwell_academy.md) in *[Life is Strange](life_is_strange.md)*. She is friends with [Victoria Chase](victoria_chase.md) and [Courtney Wagner](courtney_wagner.md) and is a member of the [Vortex Club](vortex_club.md). She and [Maxine Caulfield](max_caulfield.md) can have some positive moments in the game, despite the fact that she is always waiting for Victoria.
+
+## Personality 
+At first glance, Taylor appears to be rude as she bullies those less popular than her; probably to impress Victoria. She is often pushed around by Victoria and always follows her around and therefore called a "slave" on her room plate. She is appreciative of anyone who cares about her and is receptive to positive conversations. Taylor seems to be a little standoffish, but also fun-loving in the right setting.
+
+## Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+In Max's photography class with [Mark Jefferson](mr__jefferson.md), Taylor is sitting at a table with Victoria. She throws a crumpled paper note at [Kate Marsh](kate_marsh.md), which reads,
+
+{{Bigquote
+|Dear Kate,
+
+We love your porn video
+
+XOXO Blackwell Academy
+}}
+
+As the class ends, Mr. Jefferson tells her he is still waiting for her entry for the "[Everyday Heroes Photo Contest](everyday_heroes.md)" contest. After the class ended, she waited in the [Blackwell Academy Hallway](hallway.md) for Victoria with Courtney.
+
+After Max hits the fire alarm, Taylor is hanging out with Victoria and Courtney on the steps to the girls dormitory, blocking Max’s entry. While she doesn't move to let Max in, she doesn’t join Courtney in laughing at jokes Victoria is making about Max.
+
+When Max causes Victoria to get paint on her clothes, Taylor tries to help her friend by fetching a towel with Courtney. The two pass Max on their way out of the dormitory.
+
+## Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+As Max heads to the bathroom to take a shower, Taylor can be seen chilling out in [Victoria's Room](victoria_s_room.md) while Courtney is handed the brunt of Victoria's essay work to complete. This makes it very clear that Courtney is the least valued member in their friendship group, and that Taylor is better in-tune with Victoria.
+
+While Max is taking her shower, Taylor enters the room with Victoria. She laughs as Victoria belittles Kate, and expresses disbelief when Kate claims it wasn't her in the video. Once Kate runs off, Victoria comments about how Nathan hooked her up with drugs, and that he always has "the good shit", to which Taylor agrees.
+
+When Victoria angrily suggests that Taylor should hang out with Max, Taylor states that Max is a weirdo. She also loves how Victoria is an "evil bee-atch" when she leaves the link to Kate’s video on the mirror.
+
+On her way to leave the campus to meet [Chloe Price](chloe_price.md), Max sees Taylor alone, sitting next to a tree, and has the chance to talk to her. In the initial conversation, Taylor will be mostly blunt and rude to Max, however, she can tell Max about how her mother is sick.
+
+Max can then [rewind](rewind.md) and ask Taylor about her mother. Despite being a little skeptical, Taylor tells Max that her mother had back surgery and that Victoria was there for her like Max is for Kate. She also tells Max that she’s “not about tearing people down”. She will then say that she’s glad they talked and that they should even do it again.
+
+Later, before Mr. Jefferson’s photography class, she is taking pictures of [Dana Ward](dana_ward.md) with [Hayden Jones](hayden_jones.md), not having time to talk to Max because of her “art in progress”.
+
+When the entire school is standing outside the girls dormitory during Kate’s suicide attempt, Taylor is taking pictures with her phone, along with Victoria.
+
+
+
+Generate five trivia questions relevant to this section of the page.

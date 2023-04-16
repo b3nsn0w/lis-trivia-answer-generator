@@ -1,0 +1,59 @@
+Here is a section of the wiki page for Blackwell Swimming Pool:
+
+## Pool 
+*Max can speak to [Stella Hill](stella.md) **(required)**.
+*She can go through the curtain **(required)**.
+*She can take an optional photo of the double moon.
+*{{Interaction|She can look at and speak to [Brooke Scott](brooke.md).|'''Accepted Warren's invitation: **"Is she mad Warren asked me out?"
+**Rejected invitation: '''"Brooke is so over this party. She's ready to go out with Warren."
+**Persuaded Daniel to attend: **"Are Daniel and Brooke flirting? Right on."}}
+*{{Interaction|She can look at a set of energy drinks.|"Energy drinks, soda, energy drinks... I know somebody has the booze."}}
+*{{Interaction|She can look at and speak to [Courtney Wagner](courtney.md).|**Before talk: **"There's Courtney drinking alone, without Taylor or Victoria. I wonder why?"
+**After talking to Sarah: **"So I better see if she can get me into this idiotic VIP section."
+**On the list: **"So I just had to kiss Courtney’s ass to get in. Yay, Max."
+**Not on the list: **"Don’t stress, Courtney, I’m still getting into the VIP section."}}
+*{{Interaction|She can look at and speak to [Daniel DaCosta](daniel.md) (determinant).|"I'm glad I talked Daniel into coming, just to see him flirt with Brooke."}}
+*{{Interaction|She can look at and speak to [Alyssa Anderson](alyssa.md).|**Warned: **"Look at Alyssa shake that booty."
+'''Didn't warn: **"No way, are you kidding me?"}}
+*{{Interaction|She can look at a "No Fucking" graffiti on the pool floor.|"Ah, the wit of the Vortex Club."}}
+*{{Interaction|She can look at a Bigfoot and Otter graffiti on the wall.|"Bigfoot-on-Otter action..."}}
+*{{Interaction|She can look at and speak to [Luke Parker](luke.md).|"School days."}}
+*{{Interaction|She can look at a set of glowsticks.|"What would a shitty party be without glow sticks?"}}
+*{{Interaction|She can look at a "VIP Only" banner.|"Yes, you do suck."}}
+*{{Interaction|She can look at the bouncer.|"I am so not impressed by this VIP crap."}}
+*{{Interaction|She can look at and speak to [Sarah](sarah.md) **(required)'''.|"Why isn't Courtney guarding the list for the VIP section?"}}
+*{{Interaction|She can look at the rejected Vortex Club member (determinant).|"Trust me, dude, you’re not missing anything."}}
+*{{Interaction|She can look at and push the lane reel to enter the VIP section.|"Hmm, I could push this out of the way and officially crash the VIP section..."}}
+# #
+
+## VIP Section 
+*{{Interaction|Max can look at a "Fuck Your Selfie" graffiti.|"Oh, that makes me want to pull a '{{Wiki|Carrie (novel)|Carrie}}' on the Vortex Club..."}}
+*She can have a [Moment of Calm (Life is Strange)](moment_of_calm.md) on the nearby chair.
+*{{Interaction|She can look at some bottles.|"No. More. Bottles."}}
+*{{Interaction|She can look at [DJ Doom](dj_doom.md).|"The Vortex Club actually hired 'DJ Doom' for the party..."}}
+*{{Interaction|She can look at [Juliet Watson](juliet.md).|"So Juliet hooked up with Zachary again... She better be careful
+so he doesn't pull any 'revenge porn' or something..."}}
+*{{Interaction|She can look at [Zachary Riggins](zachary.md).|"Zachary, if you mess with Juliet I will kick your balls on a loop."}}
+*{{Interaction|She can look at [Trevor Yard](trevor.md).|"I love that Trevor doesn't care how goofy he dances in the VIP section..."}}
+*{{Interaction|She can look at and speak to [Dana Ward](dana.md).|"I’m glad Dana ended up with Trevor."}}
+*{{Interaction|She can look at and speak to [Victoria Chase](victoria.md) **(required)**.|**Before talk: **"Here is the queen bee..."
+**Believed warning: **"That didn’t go as bad as I expected. Victoria seemed to believe
+my warning, so maybe."
+'''Didn't believe: **"Shit, she didn’t believe me at all...I tried...I did try...."
+**Didn't warn: **"Oh man, should I have warned Victoria? Would Nathan even bother her?"}}
+*{{Interaction|She can look at and speak to [Logan Robertson](logan.md).|**Before talk: **"No, Logan, you are not getting any action tonight. Or even a dance."
+**After talk: '''"After our chat, maybe Logan will start taking his choices seriously...or not."}}
+*{{Interaction|She can look at the barman.|"So the Vortex VIPs get real alcohol at their underage bar... again."}}
+*{{Interaction|She can look at several cans with chips.|"Chips and crackers... spare no expense, Vortex Club."}}
+*{{Interaction|She can look at an oxygen kit.|"That oxygen kit might come in handy if somebody binges."}}
+*{{Interaction|She can look at and speak to [Taylor Christensen](taylor.md).|"Taylor really shows her Vortex Club spirit."}}
+*{{Interaction|She can look at a "[Kate Marsh](kate_marsh.md) RIP" graffiti (determinant).|"Victoria and her meme girls were here."}}
+*{{Interaction|She can look at a bong.|"A bong... give me a break."}}
+*{{Interaction|She can look at a wasted girl.|"She's wasted and nobody is looking out for her... Nobody learns at Blackwell."}}
+*{{Interaction|She can look at and speak to [Hayden Jones](hayden.md).|"Surprise, Hayden is trashed. He would dose his own drink first before anybody else's..."}}
+
+# #
+
+
+
+Generate five trivia questions relevant to this section of the page.

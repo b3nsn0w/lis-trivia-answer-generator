@@ -1,0 +1,61 @@
+Here is a section of the wiki page for Timestream:
+
+## San Francisco Timeline 
+After Max is captured by Jefferson in [Episode 5: Polarized](episode_5.md), she uses [Max's Diary](her_diary.md) to travel back to [Photography Lab](jefferson_s_classroom.md). She texts [David Madsen](david_madsen.md) about Jefferson and the Dark Room and then submits her photo to the [Everyday Heroes Photo Contest](everyday_heroes_contest.md). A timestream montage is shown; some events remain the same, but others change dramatically, such as police officers infiltrating the Dark Room and later uncovering Rachel's body, Jefferson and Nathan being arrested, and Max winning the contest and setting off for [San Francisco](san_francisco.md).
+
+{| class"article-table" style# "text-align:center; width:620px; margin: 0 auto;"
+|-
+! style"text-align:center; width:50%; font-size:100%" |Original Events
+! style# "text-align:center; width:50%; font-size:100%" |Alternative Events
+|-
+|valign"top"|[File:Timestream EP5 1 Florent Auguy.jpg](300px.md)Chloe and Nathan in the bathroom.
+|valign# "top"|[File:Timestream EP5 1 Florent Auguy.jpg](300px.md)Chloe and Nathan in the bathroom.
+|-
+|valign"top"|[File:Timestream EP5 13 Florent Auguy.jpg](300px.md)Chloe and Max walking on the train tracks.
+|valign# "top"|[File:Timestream EP5 13 Florent Auguy.jpg](300px.md)Chloe and Max walking on the train tracks.
+|-
+|valign"top"|[File:timestream-sf-dinercop.png](300px.md)The [Diner Cop](diner_cop.md) eating in the [Two Whales Diner](two_whales_diner.md).
+|valign# "top"|[File:timestream-sf-dinercop2.png](300px.md)Police officers raiding the Dark Room.
+|-
+|valign"top"|[File:timestream-sf-jeffhallway.png](300px.md)[Kate Marsh](kate_marsh.md) walking away from Jefferson.
+|valign# "top"|[File:timestream-sf-jeffhallway2.png](300px.md)Jefferson and Nathan arrested.
+|-
+|valign"top"|[File:timestream-sf-kateroof.png](300px.md)Max and Kate on the roof.
+|valign# "top"|[File:timestream-sf-kateroof2.png](300px.md)Police officers uncovering Rachel's body.
+|-
+|valign"top"|[File:timestream-sf-cryingchloe.png](300px.md)Max comforting Chloe in the junkyard.
+|valign# "top"|[File:timestream-sf-cryingchloe2.png](300px.md)Max declared the winner of the contest.
+|-
+|valign"top"|[File:timestream-sf-jeffkillschloe.png](300px.md)Jefferson after killing Chloe.
+|valign# "top"|[File:timestream-sf-jeffkillschloe2.png](300px.md)Max packing for San Francisco.
+|-
+|valign"top"|[File:timestream-sf-maxonfloor.png](300px.md)Jefferson taking photos of Max.
+|valign# "top"|[File:timestream-sf-maxonfloor2.png](300px.md)Max entering a taxi to the airport.
+|-
+|valign"top"|[File:timestream-sf-maxwithdiary.png](300px.md)Max looking at her diary.
+|valign# "top"|[File:timestream-sf-maxwithdiary2.png](300px.md)Max entering a taxi, probably to a hotel in San Francisco (since she doesn't have any luggage with her in the gallery).
+|}
+
+After arriving at the [Zeitgeist Gallery](zeitgeist_gallery.md), Max discovers that the [storm](storm.md) is still in existence and approaching [Arcadia Bay](arcadia_bay.md). Determined to save Chloe, Max focuses on her gallery entry, returns to the day it was taken and tears it apart, preventing herself from winning the contest. A timestream montage shows Max putting the torn photo inside her diary, Jefferson burning Max's diary, Max restrained in the Dark Room and Jefferson entering the Dark Room.
+
+{| class"article-table" style# "text-align:center; width:620px; margin: 0 auto;"
+|-
+! style"text-align:center; width:50%; font-size:100%" |Original Events
+! style# "text-align:center; width:50%; font-size:100%" |Alternative Events
+|-
+|valign"top"|[File:timestream-sf-photoindiary.png](300px.md)Max putting the photo in her diary.
+|valign# "top"|[File:timestream-sf-cryingchloe2.png](300px.md)Max declared the winner of the contest.
+|-
+|valign"top"|[File:timestream-sf-jeffburnsphotos.png](300px.md)Jefferson burning Max's diary.
+|valign# "top"|[File:timestream-sf-maxonfloor2.png](300px.md)Max entering a taxi to the airport.
+|-
+|valign"top"|[File:timestream-sf-maxburneddiary.png](300px.md)Max looking at her burned diary.
+|valign# "top"|[File:timestream-sf-maxwithdiary2.png](300px.md)Max entering a taxi probably to a hotel in San Francisco (since she doesn't have any luggage with her in the gallery).
+|-
+|valign"top"|[File:timestream-sf-sfgallery2.png](300px.md)Jefferson entering the Dark Room.
+|valign# "top"|[File:timestream-sf-sfgallery.png](300px.md)Max looking at her gallery entry.
+|}
+
+
+
+Generate five trivia questions relevant to this section of the page.

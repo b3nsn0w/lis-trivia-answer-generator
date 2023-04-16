@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What Is Max's Dream Career?",
+    "answer": "B",
+    "choices": {
+      "A": "Writer",
+      "B": "Photographer",
+      "C": "Musician",
+      "D": "Scientist"
+    }
+  },
+  {
+    "question": "What Is Max's Personality Like?",
+    "answer": "B",
+    "choices": {
+      "A": "Outgoing and Confident",
+      "B": "Shy and Introverted",
+      "C": "Aggressive and Rude",
+      "D": "Arrogant and Selfish"
+    }
+  },
+  {
+    "question": "What Is Max's Favorite Type Of Camera?",
+    "answer": "B",
+    "choices": {
+      "A": "Digital Camera",
+      "B": "Polaroid Camera",
+      "C": "DSLR Camera",
+      "D": "Film Camera"
+    }
+  }
+]

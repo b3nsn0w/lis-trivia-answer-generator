@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Ms. Grant Want Max To Sign A Petition For?",
+    "answer": "B",
+    "choices": {
+      "A": "To Install Surveillance Cameras Around The Campus",
+      "B": "To Remove Surveillance Cameras From The Campus",
+      "C": "To Increase Security Personnel Around The Campus",
+      "D": "To Ban The Use Of Drones On The Campus"
+    }
+  },
+  {
+    "question": "What Is Ms. Grant's Opinion On David Madsen's Proposal?",
+    "answer": "B",
+    "choices": {
+      "A": "She Supports It",
+      "B": "She Is Against It",
+      "C": "She Is Indifferent",
+      "D": "She Has No Opinion"
+    }
+  },
+  {
+    "question": "What Does Brooke Own That She Shows To Max?",
+    "answer": "C",
+    "choices": {
+      "A": "A Weapon",
+      "B": "A Balloon",
+      "C": "A Drone",
+      "D": "A Camera"
+    }
+  },
+  {
+    "question": "What Does Max Say She Loves Before Brooke Shows Her The Drone?",
+    "answer": "A",
+    "choices": {
+      "A": "Planes And Balloons",
+      "B": "Aerial Photography",
+      "C": "Drones And Balloons",
+      "D": "Planes And Aerial Photography"
+    }
+  },
+  {
+    "question": "What Is The Model Of The HiFly Drone That Brooke Owns?",
+    "answer": "A",
+    "choices": {
+      "A": "B400 EVO",
+      "B": "B200 PRO",
+      "C": "C300 EVO",
+      "D": "C200 PRO"
+    }
+  }
+]

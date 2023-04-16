@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Happens If Max Enters An Incorrect Code To The Dark Room Multiple Times?",
+    "answer": "A",
+    "choices": {
+      "A": "She Gets Locked Out Of The Room",
+      "B": "The Room Explodes",
+      "C": "The Police Are Alerted",
+      "D": "Nothing Happens"
+    }
+  },
+  {
+    "question": "What Happens If Chloe Misses Her First Two Shots During The Train Track Scene In Episode Two?",
+    "answer": "A",
+    "choices": {
+      "A": "Max Gets Hit By A Train",
+      "B": "Chloe Gets Hit By A Train",
+      "C": "The Train Derails",
+      "D": "Nothing Happens"
+    }
+  },
+  {
+    "question": "What Happens If Max Gives An Unconvincing Answer To Chloe In The Polarized Timeline?",
+    "answer": "C",
+    "choices": {
+      "A": "Chloe Gets Angry And Leaves",
+      "B": "Chloe Gets Kidnapped By Mark Jefferson",
+      "C": "Chloe Gets Shot By Mark Jefferson",
+      "D": "Nothing Happens"
+    }
+  },
+  {
+    "question": "What Happens If Max Enters A Wrong PIN Code On Nathan's Phone Three Times?",
+    "answer": "A",
+    "choices": {
+      "A": "Nathan's Phone Gets Locked",
+      "B": "The Phone Explodes",
+      "C": "The Police Are Alerted",
+      "D": "Nothing Happens"
+    }
+  }
+]

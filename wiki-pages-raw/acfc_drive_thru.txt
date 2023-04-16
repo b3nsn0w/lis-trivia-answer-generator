@@ -1,0 +1,56 @@
+= ACFC Drive-Thru =
+
+{{Infobox Location|image=Acfc-main.png
+|type = Restaurant
+|location = Arcadia Bay Ave,<br/>[[Arcadia Bay]]
+|appears = [[Episode 2: Out of Time]]<br>[[Episode 3: Chaos Theory]]<br>[[Episode 5: Polarized]]
+}}The '''ACFC Drive-Thru''' is a chain of fast food restaurants in the ''Life is Strange'' universe. It originally appears in [[Arcadia Bay]], the setting of the [[Life is Strange|first game]] and briefly reappears in [[Life is Strange 2|the second season]].
+
+== Life is Strange ==
+Two restaurant buildings can be spotted throughout the game, but neither is explorable. One of the restaurants is located on the [[Arcadia Bay Ave]] that runs parallel to the bay's coastline, across from the [[Two Whales Diner]] and next to [[Tony's Liquor Store]]. The other building is visible during Max's bus ride in [[Episode 2: Out of Time|Episode 2]].
+
+=== Episode Two - "[[Episode 2: Out of Time|Out of Time]]" ===
+On the way to the [[Two Whales Diner]], a restaurant can be briefly seen through the window of the [[Blackwell Academy]] school bus. It has a menu plastered to the glass, and three newspaper kiosks nearby.
+
+Another restaurant building can be seen near the diner itself, across the street. If the player tries to reach it by foot, [[Maxine Caulfield|Max]] will stop and say that she doesn't want to go there.
+
+=== Episode Three - "[[Episode 3: Chaos Theory|Chaos Theory]]" ===
+The player can once again see both restaurant buildings; the second one is visible during a cutscene in [[Chloe Price|Chloe]]'s [[Chloe's Truck|truck]].
+
+=== Episode Five - "[[Episode 5: Polarized|Polarized]]" ===
+Both buildings have been wrecked by [[The Storm|the tornado]] hitting Arcadia Bay. The logo of one has been blown off and is lying on the road.
+
+== Life is Strange 2 ==
+[[File:LiS2-ACFC-diner-receipt.png|thumb|203x203px|ACFC diner receipt from Season 2.]]
+In the [[Episode 1: Roads|first episode]] of the [[Life is Strange 2|second season]], an ACFC "diner receipt" dated the previous day (10/29/2016) can be found in [[Sean Diaz]]'s backpack when he sets up camp with [[Daniel Diaz]] at [[Mount_Rainier_National_Park#Nisqually_River|Nisqually River]] in [[Mount Rainier National Park]]. They were served to burgers and shakes by a cashier called Alice.
+
+== Gallery ==
+<gallery widths="200px" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+Acfc2-frombus.png|The first building, visible from the bus ("Out of Time")
+Acfc-fromdiner.png|The second building as viewed from the diner
+Acfc2-fromchloecar.png|The first building ("Chaos Theory")
+Acfc2-ep5.png|The first building ("Polarized")
+Acfc-ep5.png|The second building ("Polarized")
+</gallery>
+
+== Trivia ==
+* The sign of the drive-thru is an old asset that relates to the original name Dontnod were using for Arcadia Bay, "Aurora Creek" (Aurora Creek Fried Chicken).<ref>[https://twitter.com/edouardcaplain/status/1204703458164723712 Confirmation from Concept Artist, Edouard Caplain].</ref> [[Christian Divine]] suggested the name "Arcadia Bay" because "it just sounded more peaceful and mystic, and the word ‘Arcadia’ has all these connotations that would be fun to play with and contrast with the darkness that’s actually going on in the town. It has all these different representations and metaphors that you can look in to and work with."<ref name=":0">[http://onlysp.com/dungeons-dragons-life-strange-discussion-writer-christian-divine/ From ‘Dungeons & Dragons’ to ‘Life Is Strange’ – A Discussion with Writer Christian Divine]</ref>
+* The sign's texture artist, [[Edouard Caplain]], says he "kept the same pattern KFC has" (''{{Wiki|KFC|Kentucky Fried Chicken (KFC)}}'') when designing the name on the sign. The ACFC Drive-Thru's logo appears to resemble a turkey.
+*The two restaurant buildings in Arcadia Bay are in fact near each other; this can be inferred from comparing screenshots of the diner street in Episode 3 and Episode 5.
+
+== References ==
+<references />
+
+{{Location Navbox}}
+
+[[ru:Автокафе ACFC]]
+[[Category:Locations]]
+[[Category:Locations in Arcadia Bay]]
+[[Category:Locations (Life is Strange)]]
+[[Category:Episode 2: Out of Time Locations]]
+[[Category:Episode 3: Chaos Theory Locations]]
+[[Category:Episode 5: Polarized Locations]]
+[[Category:Two Whales Diner]]
+[[Category:Non-Explorable Locations]]
+[[Category:Locations (Life is Strange 2)]]
+[[Category:Life is Strange]]

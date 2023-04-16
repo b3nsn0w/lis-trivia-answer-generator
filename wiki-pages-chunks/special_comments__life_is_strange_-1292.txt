@@ -1,0 +1,42 @@
+Here is a section of the wiki page for Special Comments (Life is Strange):
+
+## Art Class 
+In the art class before saving Chloe:
+* *"Another daily fail in front of the world."* {{Headphones|file# VO_E1_2A.STM_449~Act_E1_2A_ArtClass_VoiceOver02_Max_020.ogg}}
+* *"It's so... awesome to look like an idiot in my favorite teacher's class."* {{Headphones|fileVO_E1_2A.STM_205~Act_E1_2A_ArtClass_VoiceOver02_Max_030.ogg‎}}
+In the art class after the first accidental rewind:
+* *"Why is this happening? And to me?"* {{Headphones|file# VO_E1_2A.STM_213~Act_E1_2A_ArtClass_VoiceOverRewind04_Max_030.ogg}}
+* *"This is so fucking bizarro."* {{Headphones|fileVO_E1_2A.STM_403~Act_E1_2A_ArtClass_VoiceOverRewind04_Max_040.ogg}}
+* *"I can't tell anybody; they'll think I'm nuts."* {{Headphones|file# VO_E1_2A.STM_232~Act_E1_2A_ArtClass_VoiceOverRewind04_Max_060.ogg}}
+* *"Could I save the girl in the bathroom?"* {{Headphones|fileVO_E1_2A.STM_17~Act_E1_2A_ArtClass_VoiceOverRewind04_Max_100.ogg}}
+* *"I need to hurry to the bathroom to save that girl."* {{Headphones|file# VO_E1_2A.STM_88~Act_E1_2A_ArtClass_VoiceOverRewind04_Max_110.ogg}}
+* *"That girl is going to die again, unless I get to the bathroom."* {{Headphones|fileVO_E1_2A.STM_61~Act_E1_2A_ArtClass_VoiceOverRewind04_Max_120.ogg}}
+
+# #
+
+## Blackwell Academy Hallway 
+In the [Blackwell Academy Hallway](corridor.md) before entering in the bathroom for the first time:
+* *"It's just one stupid picture, not your soul." {{Headphones|file# Vo_e1_2a.stm_125-act_e1_2a_corridor_voiceover01_max_020.ogg‎}}*
+* *"Okay, chill, splash some water on your face." {{Headphones|file‎Vo_e1_2a.stm_131-act_e1_2a_corridor_voiceover01_max_050.ogg‎}}*
+* *"You need a bathroom time-out." {{Headphones|file# Vo_e1_2a.stm_176-act_e1_2a_corridor_voiceover01_max_060.ogg‎}}*
+* *"Everybody looks happy just to be here, whatever." {{Headphones|fileVo_e1_2a.stm_194-act_e1_2a_corridor_voiceover01_max_040.ogg‎}}*
+* *"Max; you can always hide in a stall and cry." {{Headphones|file# ‎Vo_e1_2a.stm_294-act_e1_2a_corridor_voiceover01_max_030.ogg}}*
+* *"I need to go splash some water on my face and freshen up first." {{Headphones|fileVo_e1_2a.stm_357-act_e1_2a_corridor_voiceover02_max_020.ogg‎}}*
+* *"My eyes are stinging; let's go to the bathroom first." {{Headphones|file# Vo_e1_2a.stm_386-act_e1_2a_corridor_voiceover02_max_030.ogg‎}}*
+* *"You totally wussed out on entering the photo contest." {{Headphones|file‎Vo_e1_2a.stm_398-act_e1_2a_corridor_voiceover01_max_010.ogg}}*
+In the corridor before entering the bathroom a second time to save Chloe:
+* *"I can't tell anybody... they'll think I'm crazy!"*{{Headphones|file# VO_E1_2A.STM_289~Act_E1_2A_Corridor_VoiceOverRewind01_Max_020.ogg‎ }}
+* *"I can't let that girl die in the bathroom..."*{{Headphones|fileVO_E1_2A.STM_3~Act_E1_2A_Corridor_VoiceOverRewind01_Max_040.ogg}}
+
+# #
+
+## Bathroom (first time) 
+* *"I did come in here for a reason." *{{Headphones|file# VO_E1_2A.STM_137~Act_E1_2A_Toilets_VoiceOver01_Max_010.ogg}}
+* *"My face feels so oily and gross." *{{Headphones|fileVO_E1_2A.STM_79~Act_E1_2A_Toilets_VoiceOver01_Max_020.ogg}}
+* *"I should freshen up now that I'm here." *{{Headphones|file# VO_E1_2A.STM_39~Act_E1_2A_Toilets_VoiceOver01_Max_030.ogg}}
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

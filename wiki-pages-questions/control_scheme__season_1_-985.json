@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What Is The Primary Function Of The Left Mouse Button In The PC Control Scheme?",
+    "answer": "C",
+    "choices": {
+      "A": "Movement",
+      "B": "Camera Control",
+      "C": "Contextual Action",
+      "D": "Rewind"
+    }
+  },
+  {
+    "question": "How Can Players Move Faster In The PC Control Scheme?",
+    "answer": "C",
+    "choices": {
+      "A": "Hold Left Mouse Button",
+      "B": "Hold Right Mouse Button",
+      "C": "Hold Shift",
+      "D": "Hold Ctrl"
+    }
+  },
+  {
+    "question": "What Is The Primary Function Of The R Key In The Alternative PC Control Scheme?",
+    "answer": "D",
+    "choices": {
+      "A": "Movement",
+      "B": "Camera Control",
+      "C": "Contextual Action",
+      "D": "Rewind"
+    }
+  }
+]

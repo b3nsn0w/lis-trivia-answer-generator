@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Alyssa's Affection In Literature?",
+    "answer": "B",
+    "choices": {
+      "A": "Romance",
+      "B": "Science Fiction",
+      "C": "Mystery",
+      "D": "Horror"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Book Alyssa Is Reading In Episode One?",
+    "answer": "A",
+    "choices": {
+      "A": "Love Today or Die Forever",
+      "B": "The Catcher in the Rye",
+      "C": "The Great Gatsby",
+      "D": "To Kill a Mockingbird"
+    }
+  },
+  {
+    "question": "Who Throws The Football That Hits Alyssa In The Head?",
+    "answer": "A",
+    "choices": {
+      "A": "Zachary Riggins",
+      "B": "Nathan Prescott",
+      "C": "Warren Graham",
+      "D": "Mark Jefferson"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Contest That Jefferson Encourages Alyssa And Stella To Enter?",
+    "answer": "A",
+    "choices": {
+      "A": "Everyday Heroes Photo Contest",
+      "B": "Blackwell Academy Photo Contest",
+      "C": "Arcadia Bay Photo Contest",
+      "D": "Artistic Vision Photo Contest"
+    }
+  },
+  {
+    "question": "What Is Alyssa's Reaction When Max Asks Her How She Is Doing?",
+    "answer": "A",
+    "choices": {
+      "A": "She Replies Sarcastically",
+      "B": "She Ignores Max",
+      "C": "She Cries",
+      "D": "She Laughs"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Happens If Max Insults Victoria Outside The Dormitory?",
+    "answer": "A",
+    "choices": {
+      "A": "Victoria Will Vandalize Max's Mirror And Steal Her Photo",
+      "B": "Victoria Will Delete The Photo Of Max On Her Mobile Phone",
+      "C": "Victoria Will Add Additional Unflattering Pictures Of Max On Her Social Media Page",
+      "D": "Victoria Will Blame Max's Behavior While Talking With Taylor In The Bathroom"
+    }
+  },
+  {
+    "question": "What Happens If Max Erases The Insults On Kate's Slate?",
+    "answer": "D",
+    "choices": {
+      "A": "Kate's Slate Will Be Vandalized Again",
+      "B": "Kate Will Allow Max To Come Closer On The Rooftop",
+      "C": "Kate Will Acknowledge Max's Help If Max Also Answered Her Phone Call Earlier",
+      "D": "Kate's Slate Will Retain The Original Message"
+    }
+  },
+  {
+    "question": "What Happens If Max Waters Lisa?",
+    "answer": "A",
+    "choices": {
+      "A": "Lisa Will Look Healthy",
+      "B": "Lisa Will Look Wilted",
+      "C": "This Will Prevent Lisa From Drowning",
+      "D": "This Will Prevent Lisa From Drying Out"
+    }
+  },
+  {
+    "question": "What Happens If Max Accepts Daniel DaCosta's Portrait?",
+    "answer": "A",
+    "choices": {
+      "A": "Daniel's Portrait Of Max Is Posted On Her Social Media Page",
+      "B": "Daniel Will Bring Up The Portrait In Jefferson's Classroom",
+      "C": "Daniel Can Be Easily Convinced To Attend The Vortex Club's End Of The World Party",
+      "D": "Warren Will Not Discuss Daniel Or The Portrait With Max"
+    }
+  }
+]

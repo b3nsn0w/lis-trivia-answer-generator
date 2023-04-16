@@ -1,0 +1,52 @@
+[
+  {
+    "question": "In which episode does Max wake up in the Dark Room?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1",
+      "B": "Episode 2",
+      "C": "Episode 4",
+      "D": "Episode 5"
+    }
+  },
+  {
+    "question": "What does Max do after focusing on her winning selfie?",
+    "answer": "A",
+    "choices": {
+      "A": "She talks to Chloe on the phone",
+      "B": "She checks her phone",
+      "C": "She enters the Zeitgeist Gallery",
+      "D": "She sits on a bench in the gallery"
+    }
+  },
+  {
+    "question": "Who does Max talk to after waking up from her time trip?",
+    "answer": "B",
+    "choices": {
+      "A": "David",
+      "B": "Chloe",
+      "C": "Jefferson",
+      "D": "Victoria"
+    }
+  },
+  {
+    "question": "What does Max do in Chloe's room upstairs?",
+    "answer": "B",
+    "choices": {
+      "A": "She sits on a stool",
+      "B": "She looks at the photo album with Chloe",
+      "C": "She talks to Joyce",
+      "D": "She enters the Dark Room"
+    }
+  },
+  {
+    "question": "What happens to Max after letting Chloe die for the second time?",
+    "answer": "A",
+    "choices": {
+      "A": "She wakes up after 5 days",
+      "B": "She attends Chloe's funeral",
+      "C": "She talks to William",
+      "D": "She enters the Zeitgeist Gallery"
+    }
+  }
+]

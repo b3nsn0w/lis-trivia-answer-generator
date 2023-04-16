@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Was The Community Heroes Event?",
+    "answer": "A",
+    "choices": {
+      "A": "A Contest To Nominate Community Members",
+      "B": "A Game Mode In Life Is Strange",
+      "C": "A Charity Event",
+      "D": "A Fan Fiction Writing Competition"
+    }
+  },
+  {
+    "question": "What Were The Prizes For The Community Heroes Event?",
+    "answer": "C",
+    "choices": {
+      "A": "Official Life Is Strange T-Shirts",
+      "B": "Hawt Dawg Man Action Figures",
+      "C": "Life Is Strange Soundtrack On Vinyl (Signed) And Hawt Dawg Man Mugs",
+      "D": "Life Is Strange Game Keys"
+    }
+  },
+  {
+    "question": "Who Was The Admin Of The Life Is Strange Wikia And The Unofficial Facebook Group?",
+    "answer": "C",
+    "choices": {
+      "A": "Chris",
+      "B": "Gatsu",
+      "C": "Meyerliane",
+      "D": "Koethe"
+    }
+  },
+  {
+    "question": "What Was The Special Mention Given To The Cosplay Group?",
+    "answer": "B",
+    "choices": {
+      "A": "Life Is Strange Soundtrack On Vinyl (Signed)",
+      "B": "Hawt Dawg Man Mugs",
+      "C": "Life Is Strange T-Shirts",
+      "D": "Life Is Strange Game Keys"
+    }
+  }
+]

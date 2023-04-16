@@ -1,0 +1,129 @@
+Here is a section of the wiki page for Max's Journal Gallery:
+
+## Photos 
+
+TX E1 2A ArtClass DanielTable Locked.png
+TX E1 2A ArtClass DanielTable Unlocked.png
+TX E1 3A CampusA CHTrevor Locked.png
+TX E1 3A CampusA CHTrevor Unlocked.png
+TX E1 3A CampusA Statue Locked.png
+TX E1 3A CampusA Statue Unlocked.png
+TX E1 3B CampusB BrokenWindow Locked.png
+TX E1 3B CampusB BrokenWindow Unlocked.png
+TX E1 3B CampusB Squirrel Locked.png
+TX E1 3B CampusB Squirrel Unlocked.png
+TX E1 3C MaxRoom Mirror Locked.png
+TX E1 3C MaxRoom Mirror Unlocked.png
+TX E1 3C VicRoom Photos Locked.png
+TX E1 3C VicRoom Photos Unlocked.png
+TX E1 3D CampusPark DirtyWindow Locked.png
+TX E1 3D CampusPark DirtyWindow Unlocked.png
+TX E1 6A CliffNow Bird Locked.png
+TX E1 6A CliffNow Bird Unlocked.png
+TX E1 6A CliffNow CHChloe Locked.png
+TX E1 6A CliffNow CHChloe Unlocked.png
+TX E2 1A KateRoom Rabbit Locked.png
+TX E2 1A KateRoom Rabbit Unlocked.png
+TX E2 1B CampusB Squirrel Locked.png
+TX E2 1B CampusB Squirrel Unlocked.png
+TX E2 2A Diner Selfie Locked.png
+TX E2 2A Diner Selfie Unlocked.png
+TX E2 2A DinerPark DinerSignSunrise Locked.png
+TX E2 2A DinerPark DinerSignSunrise Unlocked.png
+TX E2 2A DinerPark Dog Locked.png
+TX E2 2A DinerPark Dog Unlocked.png
+TX E2 3A Junkyard CHChloe Locked.png
+TX E2 3A Junkyard CHChloe Unlocked.png
+TX E2 3A Junkyard Doe Locked.png
+TX E2 3A Junkyard Doe Unlocked.png
+TX E2 3A Junkyard SchoolBus Locked.png
+TX E2 3A Junkyard SchoolBus Unlocked.png
+TX E2 4B ArtClass CHAlyssa Locked.png
+TX E2 4B ArtClass CHAlyssa Unlocked.png
+TX E2 4B SciClass CHWarren Locked.png
+TX E2 4B SciClass CHWarren Unlocked.png
+TX E3 1A VicRoom Object01 Locked.png
+TX E3 1A VicRoom Object01 Unlocked.png
+TX E3 1B CampusB Squirrel Locked.png
+TX E3 1B CampusB Squirrel Unlocked.png
+TX E3 2A Corridor CHChloe Locked.png
+TX E3 2A Corridor CHChloe Unlocked.png
+TX E3 2A SciClass Aquarium Locked.png
+TX E3 2A SciClass Aquarium Unlocked.png
+TX E3 2A SciClass Skeleton Locked.png
+TX E3 2A SciClass Skeleton Unlocked.png
+TX E3 5A Bathroom Mirror Locked.png
+TX E3 5A Bathroom Mirror Unlocked.png
+TX E3 5B LivingRoom Bird Locked.png
+TX E3 5B LivingRoom Bird Unlocked.png
+TX E3 6B DinerPark AntSpiral Locked.png
+TX E3 6B DinerPark AntSpiral Unlocked.png
+TX E3 6B DinerPark Truck Locked.png
+TX E3 6B DinerPark Truck Unlocked.png
+TX E3 8A LivingRoom CAmera Locked.png
+TX E3 8A LivingRoom CAmera Unlocked.png
+TX E4 3A ChloeRoom CHChloe Locked.png
+TX E4 3A ChloeRoom CHChloe Unlocked.png
+TX E4 3B Garage Nest Locked.png
+TX E4 3B Garage Nest Unlocked.png
+TX E4 4A Beach Whales Locked.png
+TX E4 4A Beach Whales Unlocked.png
+TX E4 5A Corridor BigFoot Locked.png
+TX E4 5A Corridor BigFoot Unlocked.png
+TX E4 5B CampusB BirdGrave Locked.png
+TX E4 5B CampusB BirdGrave Unlocked.png
+TX E4 5B CampusB CHSquirrelM Locked.png
+TX E4 5B CampusB CHSquirrelM Unlocked.png
+TX E4 6A OldFarm Bird01 Locked.png
+TX E4 6A OldFarm Bird01 Unlocked.png
+TX E4 6A OldFarm Owl Locked.png
+TX E4 6A OldFarm Owl Unlocked.png
+TX E4 8B MenToilets CHJustin Locked.png
+TX E4 8B MenToilets CHJustin Unlocked.png
+TX E4 8B Pool TwoMoons Locked.png
+TX E4 8B Pool TwoMoons Unlocked.png
+TX E5 2A ArtClass CHKate Locked.png
+TX E5 2A ArtClass CHKate Unlocked.png
+TX E5 3B ArtGallery BehindSomeone Locked.png
+TX E5 3B ArtGallery BehindSomeone LONGPHOTO Unlocked.png
+TX E5 5C DinerPark CrashedCar Locked.png
+TX E5 5C DinerPark CrashedCar Unlocked.png
+TX E5 5C DinerPark CrashedWhale Locked.png
+TX E5 5C DinerPark CrashedWhale Unlocked.png
+TX E5 5D DarkRoom CHJefferson Locked.png
+TX E5 5D DarkRoom CHJefferson LONGPHOTO Unlocked.png
+TX E5 7B ArtClass DanielTable Locked.png
+TX E5 7B ArtClass DanielTable Unlocked.png
+TX E5 7B Corridor Skeleton Locked.png
+TX E5 7B Corridor Skeleton Unlocked.png
+TX E5 7B DormsCorridor Squirrel Locked.png
+TX E5 7B DormsCorridor Squirrel Unlocked.png
+TX E5 7B LabyStealth BottlesCollectible Locked.png
+TX E5 7B LabyStealth BottlesCollectible Unlocked.png
+TX E5 7B LabyStealth Warrenlocker Locked.png
+TX E5 7B LabyStealth Warrenlocker Unlocked.png
+
+## Locations 
+
+Journal_location_overview.jpg
+Journal_note_page_missing_person_poster.jpg
+
+## [Max's Messages](messages.md) 
+
+messagescreen-1.png
+messagescreen-2.png
+messagescreen-3.png
+
+#
+
+## [Alternative Timeline (Life is Strange)](alternative_timeline__life_is_strange_.md) 
+
+messagescreen-alt1.png
+messagescreen-alt2.png
+
+## [Objectives](objectives.md) 
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

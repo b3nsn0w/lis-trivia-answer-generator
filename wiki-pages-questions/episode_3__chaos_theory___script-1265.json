@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Chloe Find In Frank's RV That Makes Her Suspicious Of Him?",
+    "answer": "A",
+    "choices": {
+      "A": "Rachel's Bracelet",
+      "B": "A Gun",
+      "C": "A Stolen Car",
+      "D": "A Bag Of Drugs"
+    }
+  },
+  {
+    "question": "What Does Max Find In The Cabinet Near The Front Of The RV?",
+    "answer": "C",
+    "choices": {
+      "A": "A Knife",
+      "B": "A Bag Of Drugs",
+      "C": "Chloe's Gun",
+      "D": "Frank's Account Book"
+    }
+  },
+  {
+    "question": "What Does Max Use To Pry Open The Loose Vent In Frank's Bedroom?",
+    "answer": "C",
+    "choices": {
+      "A": "A Set Of Keys",
+      "B": "A Crowbar",
+      "C": "A Knife",
+      "D": "A Screwdriver"
+    }
+  },
+  {
+    "question": "What Does Chloe Do With Frank's Keys Before Leaving The RV?",
+    "answer": "C",
+    "choices": {
+      "A": "She Throws Them In The Trash",
+      "B": "She Puts Them In Her Pocket",
+      "C": "She Throws Them On The Roof Of The Diner",
+      "D": "She Gives Them To Max"
+    }
+  },
+  {
+    "question": "Why Is Chloe Upset With Rachel?",
+    "answer": "C",
+    "choices": {
+      "A": "Rachel Betrayed Her",
+      "B": "Rachel Stole Her Car",
+      "C": "Rachel Lied To Her",
+      "D": "Rachel Got Her In Trouble With The Police"
+    }
+  }
+]

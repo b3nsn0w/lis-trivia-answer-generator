@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What Was The Original Working Title For Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "What If?",
+      "B": "Chrysalis",
+      "C": "Remember Me",
+      "D": "Life is Strange"
+    }
+  },
+  {
+    "question": "Why Were Most Publishers Unwilling To Publish Life Is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "It Had Little Sales Potential",
+      "B": "It Featured Too Many Action Sequences",
+      "C": "It Had A Female Protagonist",
+      "D": "It Was Too Long"
+    }
+  }
+]

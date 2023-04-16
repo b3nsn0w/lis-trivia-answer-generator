@@ -1,0 +1,48 @@
+= Lynn Marsh =
+
+{{Infobox Character
+|name = Lynn Marsh
+|image = Lynn_Marsh.png
+|width = 220
+|gender = Female
+|hair = Blonde
+|eyes = Blue
+|relatives = [[Richard Marsh]] <small>(father)</small><br>[[Mrs. Marsh]] <small>(mother)</small><br>[[Kate Marsh]] <small>(sister)</small><br>[[Auntie Marsh]] <small>(aunt)</small><br>Unknown sister
+|age = 10
+|born = 2002 - 2003}}
+'''Lynn Marsh''' is the younger sister of [[Kate Marsh]], and the daughter of [[Richard Marsh]] and [[Mrs. Marsh|his wife]].
+
+== Episode Two - "[[Episode 2: Out of Time|Out of Time]]" ==
+She is only seen in two photographs in [[Kate's Room|Kate's room]]. When Kate thinks that nobody cares about her at the [[Prescott Dormitory|dormitory]] rooftop, [[Maxine Caulfield|Max Caulfield]] may mention her sisters and Kate will mention Lynn Marsh's name, age, and smile. Max's dialogue when referring to her differs depending on if she saw the photographs. If she saw it, Max will say, "I saw that cute photo of you with your sisters in your room this morning. I can see how much your little sister loves you by her smile." If she didn't see the photo, Max will say, "You told me about your sisters, especially the youngest one... What's her name?"
+
+If Max succeeds in saving Kate, she will mention in the [[Hospital|hospital]] that her [[:Category:Marsh Family|family]] is on their way to see her soon. This probably includes Lynn.
+
+== Episode Four - "[[Episode 4: Dark Room|Dark Room]]" ==
+The name "Lynn" appears on one of the [[Dark Room Victims|folders]] in the [[Dark Room (Location)|Dark Room]]. It is not clear whether this refers to Kate's sister and she could possibly be a victim. Due to Lynn's age and the unlikelihood of her being around [[Blackwell Academy|Blackwell]] and the other victims, it is improbable that Kate's sister is the same victim in the portfolio.
+
+== Gallery ==
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="200" captionalign="center" position="center">
+Note2-kateroom-sisterphoto.png|Lynn with her sisters ("Out of Time")
+Note2-kateroom-familyphoto.png|Lynn with her family ("Out of Time")
+</gallery>
+
+== Trivia ==
+* Kate's sisters and her father are two optional dialog choices. Selecting either of these choices contributes towards saving Kate.
+
+{{Character Navbox}}
+
+[[de:Lynn Marsh]]
+[[es:Lynn Marsh]]
+[[fr:Lynn Marsh]]
+[[ru:Линн Марш]]
+[[Category:Characters]]
+[[Category:Female Characters]]
+[[Category:Characters (Life is Strange)]]
+[[Category:Marsh Family]]
+[[Category:Episode 2: Out of Time Characters]]
+[[Category:Mentioned Characters (Life is Strange)]]
+[[Category:Minor Characters (Life is Strange)]]
+[[Category:Female Characters (Life is Strange)]]
+[[Category:Minor Characters]]
+[[Category:Mentioned Characters]]
+[[Category:Life is Strange]]

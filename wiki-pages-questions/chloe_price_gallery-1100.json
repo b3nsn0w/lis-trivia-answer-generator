@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who Took The Concept Art Of Alternative Chloe?",
+    "answer": "A",
+    "choices": {
+      "A": "Edouard Caplain",
+      "B": "David Madsen",
+      "C": "William Price",
+      "D": "Bongo"
+    }
+  },
+  {
+    "question": "In Which Episode Does Chloe Aim Her Gun At Max?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "What Is Chloe Doing In The Photo With David Madsen And Joyce Price?",
+    "answer": "A",
+    "choices": {
+      "A": "Smiling",
+      "B": "Crying",
+      "C": "Laughing",
+      "D": "Puzzled"
+    }
+  },
+  {
+    "question": "Where Do Max And Chloe Exit From In Episode 2?",
+    "answer": "B",
+    "choices": {
+      "A": "The Lighthouse",
+      "B": "The Two Whales Diner",
+      "C": "The American Rust Junkyard",
+      "D": "The Railroad"
+    }
+  },
+  {
+    "question": "What Is Chloe Doing In The Photo With Max Playing Pirates?",
+    "answer": "D",
+    "choices": {
+      "A": "Running",
+      "B": "Dancing",
+      "C": "Meditating",
+      "D": "Playing Pirates"
+    }
+  }
+]

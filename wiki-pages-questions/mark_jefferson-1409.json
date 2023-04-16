@@ -1,0 +1,52 @@
+[
+  {
+    "question": "How Does Max End Up In The Dark Room Again?",
+    "answer": "B",
+    "choices": {
+      "A": "She Wins The Everyday Heroes Contest",
+      "B": "She Destroys Her Competition Photo",
+      "C": "She Escapes From The Dark Room",
+      "D": "She Gets Rescued By David"
+    }
+  },
+  {
+    "question": "What Does Jefferson Burn When He Finds Out That Max Destroyed Her Photo Entry?",
+    "answer": "C",
+    "choices": {
+      "A": "Her Camera",
+      "B": "Her Clothes",
+      "C": "Her Diary",
+      "D": "Her Phone"
+    }
+  },
+  {
+    "question": "What Does Jefferson Consider Max's Transformation Between Nerd To Hero?",
+    "answer": "C",
+    "choices": {
+      "A": "Normal",
+      "B": "Expected",
+      "C": "Weird",
+      "D": "Inspiring"
+    }
+  },
+  {
+    "question": "Who Rescues Max From Jefferson In The Polarized Timeline?",
+    "answer": "A",
+    "choices": {
+      "A": "David Madsen",
+      "B": "Chloe Price",
+      "C": "Victoria Chase",
+      "D": "Nathan Prescott"
+    }
+  },
+  {
+    "question": "How Can Mark Jefferson Be Killed In The Game?",
+    "answer": "C",
+    "choices": {
+      "A": "By Max Using Her Time Rewind Power",
+      "B": "By Chloe Sacrificing Herself",
+      "C": "By David Madsen Shooting Him",
+      "D": "By Victoria Chase Reporting Him To The Police"
+    }
+  }
+]

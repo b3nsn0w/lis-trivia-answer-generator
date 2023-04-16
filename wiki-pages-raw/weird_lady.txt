@@ -1,0 +1,51 @@
+= Weird Lady =
+
+{{Introquote|Hello there to you! Such a beautiful day, eh?|The Weird Lady to [[Maxine Caulfield|Max]] in "[[Episode 2: Out of Time|Out of Time]]"}}
+{{Infobox Character
+|image = Weird_lady.png
+|died = October 11, 2013 <small>(presumed, determinant)</small>
+|causeofdeath = Killed by the [[storm]] <small>(presumed, determinant)</small>
+|gender = Female
+|hair = Brown
+|eyes = Brown
+|appearance = [[Episode 2: Out of Time]] <br/> [[Episode 3: Chaos Theory]] <br /> [[Episode 5: Polarized]] <small>([[Max's Nightmare|nightmare]])</small>
+|voice = [[Ashly Burch]] <small>(uncredited)</small>}}
+
+The '''"Weird Lady"''' is a resident of [[Arcadia Bay]], who [[Maxine Caulfield|Max Caulfield]] encounters in the [[Two Whales Diner]] in Episodes 2 and 3.
+
+== Episode Two - "[[Episode 2: Out of Time|Out of Time]]" ==
+Following her conversation with [[Diner Fisherman|a fisherman]], Max approaches the woman sitting in the corner booth. Observing the woman first, Max notes that she always wondered what people thought about when they ate alone.
+
+When Max decides to speak to the Weird Lady, she greets Max with a pronounced Canadian accent. The Weird Lady says that it's a beautiful day, and that it’s going to be a super day. She tells Max to enjoy her breakfast before returning to gazing out the window.
+
+== Episode Three - "[[Episode 3: Chaos Theory|Chaos Theory]]" ==
+The lady is sitting in the diner again. This time she has a different booth and is still looking in the window. Max cannot interact with her.
+
+== Episode Five - "[[Episode 5: Polarized|Polarized]]" ==
+She appears in the diner sequence of [[Max's Nightmare|Max's nightmare]], standing behind several Arcadia Bay citizens.
+
+In the Sacrifice Arcadia Bay ending, she apparently dies in the storm.
+
+== Gallery ==
+
+<gallery position="center" hideaddbutton="true" bordersize="none" bordercolor="transparent">
+weirdlady-ep3.jpg|Weird Lady in Episode 3
+weirdlady-nightmare.jpg|Weird Lady in Max's nightmare
+</gallery>
+
+{{Character Navbox}}
+
+[[es:Mujer extraña]]
+[[ru:Странная женщина]]
+[[Category:Characters]]
+[[Category:Female Characters]]
+[[Category:Minor Characters (Life is Strange)]]
+[[Category:Characters (Life is Strange)]]
+[[Category:Episode 2: Out of Time Characters]]
+[[Category:Episode 3: Chaos Theory Characters]]
+[[Category:Episode 5: Polarized Characters]]
+[[Category:Two Whales Diner]]
+[[Category:Female Characters (Life is Strange)]]
+[[Category:Minor Characters]]
+
+[[Category:Life is Strange]]

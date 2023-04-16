@@ -1,0 +1,42 @@
+[
+  {
+    "question": "In Max's nightmare, what is the first location she revisits?",
+    "answer": "C",
+    "choices": {
+      "A": "The beach",
+      "B": "The Dark Room",
+      "C": "Blackwell Academy hallway",
+      "D": "The Prescott Dormitory"
+    }
+  },
+  {
+    "question": "What is the name of the song Max listens to in reverse during her nightmare?",
+    "answer": "A",
+    "choices": {
+      "A": "\"To All of You\"",
+      "B": "\"Obstacles\"",
+      "C": "\"Something Good\"",
+      "D": "\"Crosses\""
+    }
+  },
+  {
+    "question": "What does Max find on a bench near the shower room door in the Prescott Dormitory?",
+    "answer": "B",
+    "choices": {
+      "A": "A map of the dormitory",
+      "B": "A key with a room number",
+      "C": "A note from Kate",
+      "D": "A photo of Rachel Amber"
+    }
+  },
+  {
+    "question": "What does Kate Marsh accuse Max of during the nightmare sequence in the Dormitory Hall?",
+    "answer": "C",
+    "choices": {
+      "A": "Stealing her diary",
+      "B": "Spreading rumors about her",
+      "C": "Causing her suicide attempt",
+      "D": "Ignoring her cries for help"
+    }
+  }
+]

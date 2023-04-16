@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Running Gag About In Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "A Lost Tablet With Cat Pics",
+      "B": "A Mysterious DVD Cover",
+      "C": "A Secret Video By Kate Marsh",
+      "D": "A Hidden Concept Art"
+    }
+  },
+  {
+    "question": "In Which Episode Can You Find A Note From The Thief Who Stole The Tablet With Cat Pics?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1",
+      "B": "Episode 2",
+      "C": "Episode 3",
+      "D": "Episode 5"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Movie That Max Wants To Watch On Victoria's Plasma TV?",
+    "answer": "A",
+    "choices": {
+      "A": "Final Fantasy: Spirits Within",
+      "B": "The Matrix",
+      "C": "Inception",
+      "D": "The Dark Knight"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Character Who Appears Several Times Throughout The Game?",
+    "answer": "A",
+    "choices": {
+      "A": "Hawt Dawg Man",
+      "B": "Hot Dog Guy",
+      "C": "Sausage Man",
+      "D": "Frankfurter Dude"
+    }
+  }
+]

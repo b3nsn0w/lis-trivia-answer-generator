@@ -1,0 +1,52 @@
+[
+  {
+    "question": "In which episode does Max discover her time-traveling ability?",
+    "answer": "C",
+    "choices": {
+      "A": "Episode 1",
+      "B": "Episode 2",
+      "C": "Episode 3",
+      "D": "Episode 4"
+    }
+  },
+  {
+    "question": "What does Max focus on to escape from the Dark Room?",
+    "answer": "C",
+    "choices": {
+      "A": "A photo of herself",
+      "B": "A photo of Rachel Amber",
+      "C": "A monochrome photo taken by Jefferson",
+      "D": "A photo of Warren Graham"
+    }
+  },
+  {
+    "question": "What happens to Max when she uses her time-traveling ability too often?",
+    "answer": "A",
+    "choices": {
+      "A": "She experiences headaches or a physical breakdown",
+      "B": "She loses her memory",
+      "C": "She gains new abilities",
+      "D": "She becomes immune to the side effects"
+    }
+  },
+  {
+    "question": "What is the consequence of using Max's photo jump ability?",
+    "answer": "A",
+    "choices": {
+      "A": "She experiences nose bleeding inside the photo boundaries",
+      "B": "She gains new memories",
+      "C": "She becomes immune to the side effects",
+      "D": "She loses her time-traveling ability"
+    }
+  },
+  {
+    "question": "What is the ethical debate surrounding Max's time-traveling ability?",
+    "answer": "A",
+    "choices": {
+      "A": "Whether it is right for her to interrupt the life of another Max",
+      "B": "Whether it is right for her to use her power to win the Everyday Heroes Photo Contest",
+      "C": "Whether it is right for her to use her power to save Chloe",
+      "D": "Whether it is right for her to use her power to warn David Madsen about Jefferson"
+    }
+  }
+]

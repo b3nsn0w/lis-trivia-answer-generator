@@ -1,0 +1,84 @@
+= Principal Wells' Office =
+
+{{Free Tab
+|minwidth = 47%
+|maxwidth = 100%
+|borderradius = 2
+|height = 2
+|tab1=Life is Strange |link1=Principal Wells' Office
+|tab2=Before the Storm |link2=Principal Wells' Office (Before the Storm)
+}}
+{{Stub}}
+{{Infobox Location
+|image = Principal_Wells_Office.png
+|type = Office
+|location = [[Blackwell Academy]]
+|state = Oregon
+|appears = [[Episode 1: Chrysalis]] <small>(cutscene)</small><br/>[[Episode 2: Out of Time]] <small>(cutscene)</small><br />[[Episode 3: Chaos Theory]]}}
+
+'''Principal Wells' Office''' is the office of the current principal of [[Blackwell Academy]], [[Principal Wells|Ray Wells]]. It is an explorable location featured in Episode 3, "[[Episode 3: Chaos Theory|Chaos Theory]]".
+
+== Interior ==
+The walls of the office are covered with expensive wood and adorned with paintings. [[Maxine Caulfield|Max]] thinks that it "looks like an oil painting spill". Near the big window, there are several bookcases, which Max may examine to obtain Student Files. [[Kate Marsh|Kate]]'s Student File lies open on a table in the far end of the room, while the files for former students are stored in a metal case. One of the bookcases hosts Principal Wells' whiskey.
+
+The central element of this room is a big table with a bronze hawk and the monitor of [[Principal Wells' Computer]] on it. Various papers and letters to [[David]] and [[Ms. Grant]] are also scattered on the table. The "handicapped fund" envelope is stored inside one of the drawers. There is also a "cosy chair" made of leather, which [[Chloe Price|Chloe]] likes so much that she even considers stealing it from the office.
+
+== Episode One - "[[Episode 1: Chrysalis|Chrysalis]]" ==
+At the beginning of the game, Max has the opportunity to come near the door of the office. She will comment that the Principal doesn't come out of there much. The interior of the office appears in the ending cutscene. Principal Wells is seen drinking whiskey as he witnesses the snowfall through a big window.
+
+== Episode Two - "[[Episode 2: Out of Time|Out of Time]]" ==
+[[File:Wellsoffice-ep2.png|thumb|left|200px]] Max is summoned to the office along with David Madsen, [[Nathan Prescott]] and [[Mark Jefferson]] to further investigate Kate's suicide (attempt). [[Officer Berry]] will be present if Kate is dead. Max has to blame Kate's situation on either David, Nathan or Jefferson, and may suspend someone or get suspended depending on earlier choices. If Jefferson isn't blamed, he comments that Max and Nathan need a break before Wells can investigate further. If Max blames Jefferson, he suggests investigating other staff members as well. Then Max signs a statement to confirm her words and everyone leaves the office.
+
+== Episode Three - "[[Episode 3: Chaos Theory|Chaos Theory]]" ==
+[[File: LifeIsStrange 2015-05-26 10-46-35-67.png|thumb|left|200px]]
+The office becomes explorable in this episode. Max and Chloe break into Blackwell with the aid of a spare set of keys from David, but fail to find the key to the Principal's office. With help from [[Warren Graham|Warren]], Max manages to construct a makeshift pipe bomb and blows the lock up. This causes the school alarm to go off, and Max rewinds time and opens the door for Chloe from the inside. Once in the office, Chloe searches for information on Wells' [[Principal Wells' Computer|computer]] while Max gathers the Student Files for Kate, Nathan and [[Rachel Amber|Rachel]]. Chloe finds Nathan's real file and a creepy drawing. Prior to leaving the office, Chloe discovers an envelope with 5000 dollars in it and wants to take the money so she can pay Frank back. It is up to Max on whether to allow Chloe to steal the money or not. Regardless of her decision, Chloe wants to go to the [[Blackwell Swimming Pool]].
+
+== Interactions ==
+Max can interact with several items when she visits the office in episode 3.
+:<span style="display:none">'''PC users: '''</span>''Hover over the text to see Max's comments. [[Interactions|See here]] for all interactions in the game.''
+=== Secretary's Office ===
+*{{Interaction|Max can examine up to four drawers to the right of Chloe.|"Nothing here..."<br>"Dead end..."<br>"Boring."<br>"Desolation."}}
+*{{Interaction|She can look at a red cap.|"Only a total phony would wear a crappy hat like that."}}
+*{{Interaction|She can look at a key rack.|"Here are the keys! None for the Principal's office."}}
+*{{Interaction|She can look at a book about [[:Category:Spirit Animals|spirit animals]].|"Squirrels like nuts... does that mean [[Samuel Taylor|Samuel]] is...? Nah."}}
+*{{Interaction|She can take the sugar needed for the bomb from a chest of drawers.|"Oooh, sugar."}}
+*{{Interaction|She can look at a letter from Ms. Grant to David.|"There's no way David would get in Ms. Grant's face. She'd shut his ass down fast."}}
+*She can speak to Chloe after gathering the ingredients '''(required)'''.
+
+=== Principal's Office ===
+*{{Interaction|Max can look at and open the office door for Chloe '''(required)'''.|"This ancient door is no match for Max the Magician!"}}
+*{{Interaction|She can search a pile of files.|"Look at this pile..."}}
+*{{Interaction|She can search a folder lying on a chair.|"Tumbleweeds..."}}
+*{{Interaction|She can search a bookcase to find Nathan's, [[Victoria Chase|Victoria]]'s, Warren's and her own file inside.|'''Nathan: '''"Weird! This asshole has a spotless record."<br>'''Victoria: '''"This file is going to be so spotless I'll projectile vomit."<br>'''Warren: '''"I have to make sure Warren doesn't have a criminal background..."<br>'''Max: '''"Like I'm not going to read my own personal file..."}}
+*{{Interaction|She can search a metal cabinet to find Chloe's and Rachel's files inside.|'''Chloe: '''"Man, I don't blame the Principal for expelling Chloe... Bad Chloe!"<br>'''Rachel: '''"Rachel doesn't seem so 'troubled' based on all this... but there's<br>not much here about the police investigation..."}}
+*{{Interaction|She can look at Principal Wells' whiskey.|"I'd drink too if I was the principal of Blackwell."}}
+*{{Interaction|She can search some books to the right of the big table.|"Wowser, this will so not come in handy."}}
+*She can toggle a lamp in the far end of the office.
+*{{Interaction|She can search Kate's file.|"This pretty much sums up Kate... shy and sweet. And in the wrong place."}}
+*{{Interaction|She can search some books in the far end of the office.|"I certainly... can't use this."}}
+*{{Interaction|She can look at an oil painting.|"Looks like an oil painting spill... Awful."}}
+On the big table,
+*{{Interaction|Max can look at a letter from Ms. Grant to Wells.|'''Signed petition: '''"That is so cool that my signature actually counted... Go, Ms. Grant!"<br>'''Didn't sign: '''"If I would have signed the petition, I could have made the difference."}}
+*{{Interaction|She can look at a letter from Sean Prescott to Wells.|"I guess being a bully is in the Prescott DNA."}}
+*{{Interaction|She can look at and take an optional photo of the bronze hawk.|"You're not so tacky up close..."}}
+*She can speak to Chloe '''(required)'''.
+*She can also use Principal Wells' computer after Chloe exits the office.
+
+{{Location Navbox}}
+
+[[Category:Locations]]
+[[Category:Locations (Life is Strange)]]
+[[Category:Blackwell Academy]]
+[[Category:Episode 2: Out of Time Locations]]
+[[Category:Episode 3: Chaos Theory Locations]]
+[[Category:Article stubs]]
+[[Category:Explorable Locations]]
+[[Category:Explorable Locations (Life is Strange)]]
+[[Category:Episode 2: Brave New World Locations]]
+[[Category:Locations in Arcadia Bay]]
+
+[[Category:Optional Photo Location]]
+[[Category:Life is Strange]]
+
+[[pt-br:Escritório do Diretor Wells]]
+[[ru:Кабинет ректора Уэллса]]

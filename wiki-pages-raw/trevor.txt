@@ -1,0 +1,118 @@
+= Trevor =
+
+{{Free Tab
+|minwidth = 47%
+|maxwidth = 100%
+|borderradius = 2
+|height = 2
+|tab1=Life is Strange |link1=Trevor
+|tab2=Before the Storm |link2=Trevor Yard (Before the Storm)
+}}
+{{Introquote|Fuck that dorm curfew shit. We’re 18.|Trevor to [[Dana Ward|Dana]] in "[[Episode 4: Dark Room|Dark Room]]"}}
+{{Infobox Character
+|name = Trevor
+|image = Trevor.png
+|width = 270px
+|gender = Male
+|hair = Dark brown
+|eyes = Brown
+|loveinterest = [[Dana Ward]] <small>(girlfriend)</small>
+|friends = [[Justin Williams]]<br>[[Chloe Price]]<br>[[Rachel Amber]] <small>(deceased)</small>
+|profession = High school student
+|affiliation = [[Blackwell Academy]]
+|appearance = [[Episode 1: Chrysalis]]<br />[[Episode 2: Out of Time]]<br />[[Episode 4: Dark Room]]<br />[[Episode 5: Polarized]]
+|voice = [[Nik Shriner]] <small>(uncredited)</small>
+|died = October 11, 2013 <small>(presumed, determinant)</small>
+|causeofdeath = Killed by the [[storm]] <small>(presumed, determinant)</small>
+|alsoknown = T.<br>Trev}}
+'''Trevor'''<ref group=note>Although Trevor's surname was never mentioned in the game, a surname of "Johnson" exists for him in [[DONTNOD]]'s original files, as confirmed by Square Enix's ''Life is Strange'' [[Community Management|Community Manager]], Toby Palm.</ref> is a student at [[Blackwell Academy]]. He is a typical skater, [[Maxine Caulfield|Max Caulfield]] admires his skills, and admits that he's cute. He is good friends with [[Justin Williams]] and in a relationship with [[Dana Ward]].
+
+Trevor is mentioned in ''[[Life is Strange: Before the Storm|Before the Storm]]'', the prequel to the events of ''[[Life is Strange]]''.
+
+== Personality ==
+He enjoys getting high, skating and having a good time. He seems to be a bit of a joker and a goofball. He also doesn't seem to care what other people think about him. Moreover, he seems to be a caring boyfriend.
+
+== Episode One - "[[Episode 1: Chrysalis|Chrysalis]]" ==
+Trevor makes an appearance in the [[Blackwell Academy Hallway|main hallway]] in Blackwell at the beginning of the episode.
+
+Later, outside the main building, if Max has spoken to Justin and proves herself as a non-poser, Trevor can show Max some skate moves; the noseslide or the tre flip. When he attempts a tre flip, he falls, hurting himself (when the board strikes his crotch). While he writhes on the floor in pain, Max can take a [[Optional Photos|photo]] of him. He will get up and sit on the wall to the side after Max has taken the optional photo. If Max doesn't speak to Justin first, Trevor carries out his regular moves just fine. He also seems fine with completing a noseslide.
+
+== Episode Two - "[[Episode 2: Out of Time|Out of Time]]" ==
+Max witnesses Trevor leaving [[Dana Ward]]'s [[Dana's Room|room]] in the morning. He leaves her a cute note on her slate, and judging by her happy dancing and loud music, she seems to enjoy his company. She reveals that Trevor asked her to the Halloween Bash, and encourages Max to go along too. Trevor also leaves his jacket in Dana's room, making himself entirely too comfortable. Max comments that she hopes the two don't get caught.
+
+He is later seen in the [[Two Whales Diner]] with Justin, sharing breakfast. The two are obviously high. Max can talk to Justin about their conversation; the two are making amends with each other due to Trevor getting together with Dana, despite Justin also having interest in her. Justin admits that he was sad that Trevor got to Dana first, as the two are now officially dating. Later on in the diner, the two argue for a moment before [[Joyce Price]] breaks them up.
+
+== Episode Three - "[[Episode 3: Chaos Theory|Chaos Theory]]" ==
+After [[Kate Marsh]]'s possible suicide, Max can find an email from Trevor to Dana comforting her and thanking her for always being there for him.
+
+If Kate attempted suicide, the email will read as follows:
+
+{{Bigquote
+|Hey Dana I've been thinking about you all day and know how hard it was for you to see Kate almost jump from the roof today. Glad that Max swooped in like a super hero. I don't have anything deep or smart to say I just want you to know that you're a good friend to Kate and I wish she had more friends like you. You have been so good for me when everything else is so fucked up and I am here for you always. I miss you.<br>
+Trev
+}}
+
+If Kate committed suicide, the email will read as follows:
+
+{{Bigquote
+|Hey Dana I've been thinking about you all day and know how shitty it was to see Kate jump from the roof today. I don't have anything deep or smart to say I just want you to know that you were a good friend to her and I wish she had more friends like you. You have been so good for me when everything else is so fucked up and I am here for you always. I miss you.<br>
+Trev
+}}
+
+== Episode Four - "[[Episode 4: Dark Room|Dark Room]]" ==
+While Max checks the Dormitory for [[Nathan Prescott]]'s [[Nathan's Room|room]], she can examine Trevor's room. He and Dana can be heard inside the room, and Max seems disgruntled by their obvious illicit activities there.
+
+Trevor makes an appearance at the "[[End of the World Party|End of the World]]" [[Vortex Club]] party in the VIP section while dancing with Dana. He seems to be comfortable around her and the other students, dancing like a goofball in front of everyone, making Dana laugh. She seems to enjoy having him as her date.
+
+==Episode Five - "Polarized"==
+In the Sacrifice Chloe ending, he is one of the people attending Chloe's funeral. In the Sacrifice Arcadia Bay ending, he presumably dies in the storm.
+
+== Relationships ==
+=== Friends ===
+* [[Justin Williams]] - Although they had disagreements over dating Dana, the two skater friends are happy to be in each other's lives. They hang out frequently, getting high together.
+
+=== Romantic ===
+* [[Dana Ward]] - Dana and Trevor hit it off together, and begin dating during the second episode of the game. Dana seems to enjoy his carefree attitude, and appreciates that he isn't on the football team. She doesn't seem to care about his embarrassing dance moves at the Vortex Club End of the World party. It is highly probable that the two are engaging in a sexual relationship, as Trevor spent the night in her room, and the two can be heard making noises during the fourth episode from the hallway of the boys' dorm, as well as Dana mentioning that Trevor knows how to be safe.
+
+== Trivia ==
+*His room in the Boys' Dormitory is room 105.
+*When looking for Nathan's room in the Boys' Dormitory, his room slate says, "Skateboarding is not a crime".
+*On [[Dana's Computer|Dana's laptop]], Trevor mentioned playing ''{{Wiki|Super Mario}}''.
+*Trevor and [[Sarah]] are the only known [[Blackwell Academy]] students whose last names are not mentioned in ''Life is Strange''.
+
+== Gallery ==
+<gallery widths="200px" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+trevor-ep1.png|Trevor talking on the phone ("Chrysalis")
+Trevor1.jpg|Trevor during skateboard practice ("Chrysalis")
+Trevor2.jpg|Trevor during skateboard practice ("Chrysalis")
+Trevor3.jpg|Trevor doing the noseslide ("Chrysalis")
+Trevor4.jpg|Trevor attempting a tre flip ("Chrysalis")
+Trevor5.jpg|Trevor on the ground after the tre flip attempt  ("Chrysalis")
+Trevor6.jpg|Trevor resting at the side after taking the optional photo ("Chrysalis")
+trevor-ep2write.png|Trevor writing on Dana's slate ("Out of Time")
+Trevor's Email.jpg|Trevor writing Dana after Kate's suicide attempt ("Chaos Theory")
+Trevor's Email2.jpg|Trevor writing Dana after Kate's suicide ("Chaos Theory")
+trevor-ep4dance.png|Trevor dancing with Dana at the party ("Dark Room")
+</gallery>
+
+== Notes ==
+<references group=note />
+{{Character Navbox}}
+
+[[de:Trevor]]
+[[es:Trevor]]
+[[pl:Trevor]]
+[[pt-br:Trevor]]
+[[ru:Тревор]]
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Characters (Life is Strange)]]
+[[Category:Blackwell Academy Students]]
+[[Category:Episode 1: Chrysalis Characters]]
+[[Category:Episode 2: Out of Time Characters]]
+[[Category:Episode 4: Dark Room Characters]]
+[[Category:Episode 5: Polarized Characters]]
+[[Category:Male Characters (Life is Strange)]]
+[[Category:Minor Characters]]
+[[Category:Minor Characters (Life is Strange)]]
+[[Category:Life is Strange]]

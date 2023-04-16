@@ -1,0 +1,90 @@
+Here is a section of the wiki page for Rewind:
+
+## Trivia 
+* If Max looks at her journal in "[Episode 1: Chrysalis](chrysalis.md)", she thinks that she hasn't kept up with it as much as she should. As she reads it, she wonders what other people would think if they looked at it. If she looks at it again after rewinding time, she notices that nothing has moved and wonders what is going on.
+** That may be due to the fact that any object in Max's possession (in contact with her or in her bag/pocket) travels with her, as evidenced when she takes Frank's key and then rewinds time, letting her keep the key without him knowing she has it.
+* If you rewind time after using the vending machine and use it again while searching through Blackwell at night in "[Episode 3: Chaos Theory](chaos_theory.md)", Max will make a comment about how she could get every can in the machine with just one coin.
+* If you try to go inside the Swimming Pool lockers in "Chaos Theory" and then rewind to open the door for Chloe, Chloe says, "Dude, it's getting old! Try and dazzle me with another trick!"
+* The Vortex Club symbol is similar to the rewind meter that is displayed in the top left corner whenever Max rewinds.
+* The sounds Max hears while rewinding are reversed future and past dialog pieces.Geek Remix
+ videos: [https://www.youtube.com/watch?v# DsfrTcCumw8], [https://www.youtube.com/watch?vO3eQ_hg1waQ] - Rewind sound effects backwards, cleaned up These same dialog pieces are used for almost every rewind; no other dialog is reversed and played.
+** In the reversed Blackwell Academy sequence of Max's nightmare in "[Episode 5: Polarized](polarized.md)", you can hear and see things normally if Max uses her rewind in this scene.
+*Max rewinds time at 2x speed normally and at 20x speed if she want to rewind time quickly.
+*When Max uses her rewind, she is not affected by changes in either time or space. In a [ENS Panel (February 2, 2016)](panel.md) with Dontnod, it was revealed that the team thought of acknowledging it directly in the game with other characters being surprised to see Max magically appearing but dropped it because it brought more problems than the ones they fixed.
+
+.
+
+After observing a new element of gameplay information, such as examining an object or having a particular conversation which gives Max new insight, the player can rewind in order to use that information to Max's advantage in the game.
+
+It can make her seem knowledgeable in front of her teachers and or less nosy in front of her friends and other people. This element of gameplay can influence the player's experience enormously.
+: *The butterfly icon in the top left corner of the screen is shown to indicate that Max has made an influencing decision which furthers the gameplay; this also indicates that those choices can be changed.*[File:This action will have consequences-0.png](thumb.md)
+
+## Mechanic 
+[File:Rewind Swirl.png](left.md)
+The rewind position is indicated by the swirl in the top left-hand corner. It dictates any notable events which have taken place - such as a conversation or interaction with an object - which Max has the ability to rewind. Using this, the player can see when they made decisions which can be changed within the game environment.
+
+A recent conversation, for example, will appear as a dot on the swirl. To go back to the moment before this conversation occurred, the player must rewind to the dot. It is then possible to repeat the same conversation and make different choices.
+
+{{Main|Control Scheme}}
+#
+
+## PC Controls 
+Press **Right Mouse Button** and hold - Rewind
+
+Press **Right Mouse Button** and hold **Shift** - Rewind faster
+
+Press **Control** - Rewinds to the last event on the recent timeline (indicated by a dot on the swirl, as above)
+
+Press **A/D** and **Left Mouse Button/Right Mouse Button** - Focus on photos
+
+#
+
+## PlayStation Controls 
+
+Press **L2** and hold - Rewind
+
+While holding down **L2** to rewind, hold down **R2** - Rewind faster
+
+Press **L1** - Rewinds to the last event on the recent timeline (indicated by a dot on the swirl, as above)
+
+Press **Left Stick** and **Right Stick** - Focus on photos
+
+#
+
+## Xbox Controls 
+
+Press **LT** and hold - Rewind
+
+While holding down **LT** to rewind, hold down **RT** - Rewind faster
+
+Press **LB** - Rewinds to the last event on the recent timeline (indicated by a dot on the swirl, as above)
+
+Press **Left Stick** and **Right Stick** - Focus on photos
+
+## Consequences 
+{{Main|Max's Abilities#Consequences}}
+
+## Puzzles 
+[File:Puzzle.png](thumb.md)
+In the tradition of adventure games, the player has to solve numerous puzzles by using Max's rewind, 30 in total.
+
+#
+
+## Episode One - "Chrysalis"
+* Convincing [Justin Williams](justin_williams.md) to show Max a skateboard move of her choice (optional).
+* Convincing [Brooke Scott](brooke_scott.md) to allow Max to fly her drone (optional).
+* Forcing [Victoria Chase](victoria_chase.md) to move aside and let Max enter the [Prescott Dormitory](dormitory.md).
+* Taking an [Optional Photos](optional_photo.md) of Victoria's photo arrangement without leaving behind any evidence of Max having vandalized it (optional).
+* Convincing [Dana Ward](dana_ward.md) to admit to her pregnancy without knowing Max had previously searched through her room (optional).
+* Warning [Alyssa Anderson](alyssa_anderson.md) about the football throw and taking an optional photo (optional).
+* Taking optional photo of [Frank Bowers](frank_bowers.md)'s [Frank's RV](rv.md) without leaving behind any evidence of Max having vandalized it (optional).
+* Saving the [Blue Jay](blue_jay.md) from killing itself (optional).
+* Obtaining the box of precision screwdrivers in [David Madsen](david_madsen.md)'s [David's Garage](workshop.md).
+* Uncovering David's surveillance information without leaving any evidence which will implicate Chloe (optional).
+* Hiding from David who is preparing to enter [Chloe's Room](chloe_s_room.md).
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

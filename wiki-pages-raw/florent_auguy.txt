@@ -1,0 +1,104 @@
+= Florent Auguy =
+
+{{Stub}}
+{{Infobox Crew
+|image = Florent Auguy.jpg
+|title = Florent Auguy
+|profession = Illustrator
+|companies = [[DONTNOD]]
+|twitter = https://twitter.com/florentauguy
+|facebook = https://www.facebook.com/auguy.florent?fref=ts
+|tumblr = http://florentauguy.tumblr.com/
+|website = http://www.florent-auguy.com/
+}}
+
+'''Florent Auguy''' is an illustrator currently working for [[Don't Nod|DONTNOD Entertainment]]. He was heavily involved in the visual development of ''[[Life is Strange]]'' before working as a Senior Concept artist with [[Gary Jamroz-Palma]] for DONTNOD's recent game, ''Vampyr'', released in June 2018. He also worked on ''[[The_Awesome_Adventures_of_Captain_Spirit|Captain Spirit]]'' (free standalone game inside the [[Life is Strange (franchise)|''Life is Strange'' universe]]), and the [[Season 2|second season]] of ''Life is Strange''.
+
+== Career ==
+Florent has illustrated concept artwork for multiple high-profile projects, including video games ''{{Wiki|Beyond Two Souls}}'', ''{{Wiki|Detroit: Become Human}}'', and ''{{Wiki|Vampyr}}'', as well as 2018 superhero film ''{{Wiki|Spider-man: Into the Spider-verse}}''.
+
+== Concept Art ==
+=== Life is Strange 2 ===
+
+<div style="overflow-y:scroll; overflow-x:hidden; height:600px; width:95%; margin:auto; border:1px solid #aaa; padding-left:10px">
+==== Locations ====
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="200" captionalign="center" position="center">
+Lis2 concept 1.jpg|[[Sean]] and [[Daniel]] walking alongside the road.
+Lis2-concept-2.jpg|Sean and Daniel looking over [[Mount Rainier National Park#Nisqually River|Nisqually River]].
+Lis2-concept-5.jpg|Sean and Daniel collecting shelter material by Nisqually River.
+Lis2-concept-4.jpg|Sean and Daniel sitting at their fire at Nisqually River.
+Florent-auguy-03.jpg|An exterior shot of [[Bear Station]].
+Florent-auguy-08.jpg|An interior shot of [[Bear Station]].
+Lis2-concept-3.jpg|Sean and Daniel at the [[Beach (Life is Strange 2)|beach]] next to [[Three Seals Motel]].
+Florent-auguy-07.jpg|An exterior shot of [[Three Seals Motel]].
+Florent-auguy-14.jpg|A linework sketch of Bear Station.
+Florent-auguy-15.jpg|A linework sketch of Three Seals Motel.
+</gallery>
+==== Objects====
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="200" captionalign="center" position="center">
+Florent-auguy-09.jpg|The back seat of [[Brody Holloway]]'s car.
+Florent-auguy-10.jpg
+Florent-auguy-11.jpg
+Florent-auguy-13.jpg|A police car's exterior.
+Florent-auguy-12.jpg|A police car's interior.
+</gallery>
+</div>
+
+
+== Illustrations ==
+
+=== Season 1 ===
+The following illustrations were used for the [[timestream]] montages that appear whenever [[Maxine Caulfield|Max]] changes realities in ''Life is Strange''.
+
+<div style="overflow-y:scroll; overflow-x:hidden; height:600px; width:95%; margin:auto; border:1px solid #aaa; padding-left:10px">
+<gallery widths="200" hideaddbutton="true" bordersize="none" spacing="small" orientation="landscape" captionsize="small">
+Timestream EP3 5 Florent Auguy.jpg
+Timestream EP3 2 Florent Auguy.jpg
+03_1920.jpg
+04_1920.jpg
+Timestream EP5 Storm 32 Florent Auguy.jpg
+06_1920.jpg
+Timestream EP3 1 Florent Auguy.jpg
+Timestream EP5 SacChloe 9 Florent Auguy.jpg
+09_1920.jpg
+10_1920.jpg
+Timestream EP5 SacChloe 2 Florent Auguy.jpg
+Timestream EP5 1 Florent Auguy.jpg
+Timestream EP5 13 Florent Auguy.jpg
+Florent-auguy-chloe-etwilliam-heureux-hd.jpg
+Florent-auguy-chloe-joyce-et-william-heureux-hd.jpg
+Florent-auguy-anniversaire-mariage-joyce-et-william-hd.jpg
+Florent-auguy-voiture-offerte-a-chloe-hd.jpg
+Florent-auguy-anniversaire-mariage-joyce-et-david-hd.jpg
+Florent Auguy David and Chloe berate cake.jpg
+Florent-auguy-chloe-max-panneau.jpg
+Florent-auguy-e5-9a-b2.jpg
+Florent-auguy-e5-9a-d2.jpg
+Florent-auguy-e5-9a-e2.jpg
+Florent-auguy-e5-9a-f1.jpg
+Florent-auguy-e5-9a-f2.jpg
+Florent-auguy-e5-9a-g2.jpg
+Florent-auguy-e5-9a-h1.jpg
+</gallery>
+</div>
+
+
+== External Links ==
+* [http://www.florent-auguy.com/ Official Homepage]
+* [https://www.facebook.com/auguy.florent?fref=ts Facebook]
+* [http://florentauguy.tumblr.com/ Tumblr]
+* [http://auguy.deviantart.com/ DeviantArt]
+* [https://www.artstation.com/florent-auguy ArtStation]
+
+== References ==
+<references />
+[[ru:Флорент Аугай]]
+[[Category:Illustrators]]
+[[Category:Crew]]
+[[Category:Crew (Life is Strange)]]
+[[Category:Crew (Life is Strange 2)]]
+[[Category:Concept Artists]]
+
+
+[[Category:Life is Strange]]
+[[Category:Life is Strange 2]]

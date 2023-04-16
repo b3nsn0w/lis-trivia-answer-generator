@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who composed the instrumental piece \"Power to Progress\"?",
+    "answer": "A",
+    "choices": {
+      "A": "Darren and Steven Loveday",
+      "B": "Jonathan Morali",
+      "C": "Syd Matters",
+      "D": "Daughter"
+    }
+  },
+  {
+    "question": "In which episode of Life is Strange was \"Power to Progress\" used?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 4: Dark Room",
+      "D": "Episode 5: Polarized"
+    }
+  },
+  {
+    "question": "Where was \"Power to Progress\" used in Life is Strange?",
+    "answer": "D",
+    "choices": {
+      "A": "During the opening credits",
+      "B": "During a romantic scene between Max and Chloe",
+      "C": "In the end credits",
+      "D": "In the launch trailer for Episode 5"
+    }
+  },
+  {
+    "question": "Who created the launch trailer for Episode 5 of Life is Strange?",
+    "answer": "D",
+    "choices": {
+      "A": "Darren and Steven Loveday",
+      "B": "Jonathan Morali",
+      "C": "Syd Matters",
+      "D": "Square Enix"
+    }
+  }
+]

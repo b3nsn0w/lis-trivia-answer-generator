@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Where is the Kroft Gallery located?",
+    "answer": "B",
+    "choices": {
+      "A": "Seattle, WA",
+      "B": "Eugene, OR",
+      "C": "Portland, OR",
+      "D": "San Francisco, CA"
+    }
+  },
+  {
+    "question": "Who submits photos to the Kroft Gallery?",
+    "answer": "D",
+    "choices": {
+      "A": "Max Caulfield",
+      "B": "Chloe Price",
+      "C": "Rachel Amber",
+      "D": "Victoria Chase"
+    }
+  },
+  {
+    "question": "What does the letter from Amanda Kroft say about Victoria's submission?",
+    "answer": "B",
+    "choices": {
+      "A": "It is accepted for display at the gallery",
+      "B": "It is not compatible with the gallery's mission statement",
+      "C": "It needs further editing before it can be displayed",
+      "D": "It is under consideration for future exhibits"
+    }
+  },
+  {
+    "question": "What does Max say about Victoria's submission to the Kroft Gallery?",
+    "answer": "C",
+    "choices": {
+      "A": "It's amazing and should have been accepted",
+      "B": "It's terrible and should never have been submitted",
+      "C": "At least Victoria put her work out there",
+      "D": "Max doesn't comment on Victoria's submission"
+    }
+  },
+  {
+    "question": "Who is Amanda Kroft?",
+    "answer": "B",
+    "choices": {
+      "A": "A photographer whose work is displayed at the gallery",
+      "B": "The owner of the Kroft Gallery",
+      "C": "A curator who selects the artwork for the gallery",
+      "D": "A critic who reviews the artwork submitted to the gallery"
+    }
+  }
+]

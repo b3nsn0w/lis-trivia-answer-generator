@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Tragic Event Led To Max Moving Away From Arcadia Bay?",
+    "answer": "C",
+    "choices": {
+      "A": "A House Fire",
+      "B": "A Tornado",
+      "C": "A Car Crash",
+      "D": "A Flood"
+    }
+  },
+  {
+    "question": "What Is Max's Passion In Life?",
+    "answer": "C",
+    "choices": {
+      "A": "Writing",
+      "B": "Painting",
+      "C": "Photography",
+      "D": "Acting"
+    }
+  },
+  {
+    "question": "What Is The Name Of Max's Teddy Bear?",
+    "answer": "B",
+    "choices": {
+      "A": "Teddy",
+      "B": "Captain",
+      "C": "Mr. Snuggles",
+      "D": "Brownie"
+    }
+  },
+  {
+    "question": "What Is The Name Of Max's Mother?",
+    "answer": "B",
+    "choices": {
+      "A": "Joyce Price",
+      "B": "Vanessa Caulfield",
+      "C": "Kristen",
+      "D": "Fernando"
+    }
+  },
+  {
+    "question": "What Is The Name Of Max's Childhood Friend?",
+    "answer": "C",
+    "choices": {
+      "A": "Kristen",
+      "B": "Fernando",
+      "C": "Chloe",
+      "D": "William"
+    }
+  }
+]

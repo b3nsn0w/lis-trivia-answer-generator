@@ -1,0 +1,48 @@
+#  Old Guy 
+
+```yaml
+Character
+
+image: Oldman-diner.png
+width: '270'
+gender: Male
+appearance: >-
+  [Episode 2: Out of Time](episode_2__out_of_time.md)
+
+  [Episode 3: Chaos Theory](episode_3__chaos_theory.md)[Episode 5:
+  Polarized](episode_5__polarized.md)
+hair: Brown
+eyes: Brown
+name: Old Guy
+died: October 11, 2013 (Determinant)
+causeofdeath: Killed by the [Storm
+storm](storm_storm.md) (Determinant): ''
+voice: '[Eric Morgan Stuart](eric_morgan_stuart.md) (uncredited)'
+```
+
+> No time for chit-chat. I'm a millionaire, yep. Got my lottery ticket right here.
+
+**The Old Guy to [Maxine Caulfield**, Max](maxine_caulfield____max.md) in "[Episode 2: Out of Time, Out of Time](episode_2__out_of_time__out_of_time.md)"
+
+The **"Old Guy"** is a resident of [Arcadia Bay](arcadia_bay.md). He is standing at the bus stop near the [Two Whales Diner](two_whales_diner.md) in "[Episode 2: Out of Time](out_of_time.md)," and can be seen inside the diner in "[Episode 3: Chaos Theory](chaos_theory.md)."
+
+##  Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+When [Maxine Caulfield](max_caulfield.md) is getting off the school bus, this man can be heard talking to [Diner Woman](a_woman.md) standing nearby. He is holding a lottery ticket in his right hand, and tells both Max and the woman he is going to be a millionaire as long as nobody steals the ticket from him and the bus comes in time so he can cash it in. Max thinks that he has seen a lot of changes to Arcadia Bay during his lifetime. If Max tries to talk to him, he will respond that he has "no time for chit-chat" and he's waiting for the bus. He also tells Max to get her own lottery ticket.
+
+##  Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+This time he is sitting inside the diner. A pair of doughnuts lie on a plate in front of him, but for some reason he isn't eating. Max cannot interact with him.
+
+##  Episode Five - "[Episode 5: Polarized](polarized.md)" 
+He can be seen sitting on the floor of the Two Whales diner, probably injured. [Joyce Price](joyce_price.md) will be helping him while Max talks to [Frank Bowers](frank_bowers.md) (if he did not die in Episode 4) about [Rachel Amber](rachel_amber.md). He also appears in the diner scene of [Max's Nightmare](max_s_nightmare.md), standing behind the counter. He tells Max that he hopes she can live with herself after these events.
+
+He apparently dies in the Sacrifice Arcadia Bay ending, but since the Two Whales Diner is partially standing the aftermath of the storm, it is possible he may have survived.
+
+##  Symbolism 
+This man and the woman can be considered opposites of each other in many ways:
+# The man states he's going to be a millionaire, while the woman has trouble with money.
+# The man brushes off Max's attempt to talk to him, while the woman is nice to Max and even thanks her for reassurance.
+# Their genders are opposite.
+It is probably not a simple coincidence that they are standing near each other.
+
+{{Character Navbox}}
+

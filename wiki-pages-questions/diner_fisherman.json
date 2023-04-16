@@ -1,0 +1,32 @@
+[
+  {
+    "question": "In Which Episodes Does The Diner Fisherman Appear?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode 1 and Episode 4",
+      "B": "Episode 2 and Episode 5",
+      "C": "Episode 3 and Episode 5",
+      "D": "Episode 2 and Episode 4"
+    }
+  },
+  {
+    "question": "What Does The Diner Fisherman Say When Max Asks Him If He Caught Any Big Fish Today?",
+    "answer": "C",
+    "choices": {
+      "A": "\"I caught a lot of big ones today\"",
+      "B": "\"I caught a few small ones today\"",
+      "C": "\"I didn't catch anything today\"",
+      "D": "\"I don't fish\""
+    }
+  },
+  {
+    "question": "What Happens To The Diner Fisherman If Max Chooses To Sacrifice Arcadia Bay?",
+    "answer": "C",
+    "choices": {
+      "A": "He Survives The Storm",
+      "B": "He Is Rescued By Max",
+      "C": "He Dies In The Storm",
+      "D": "It Is Not Mentioned"
+    }
+  }
+]

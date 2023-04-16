@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Drugs Does Max Find In Nathan's Gym Locker?",
+    "answer": "A",
+    "choices": {
+      "A": "Diazepam and Risperidone",
+      "B": "Cocaine and Marijuana",
+      "C": "LSD and Ecstasy",
+      "D": "Heroin and Methamphetamine"
+    }
+  },
+  {
+    "question": "What Do Nathan's Emails To Victoria Reveal About His Parents?",
+    "answer": "B",
+    "choices": {
+      "A": "They Want Him To Represent Them In Court",
+      "B": "They Want Him To Work In His Father's Office",
+      "C": "They Want Him To Attend A Different School",
+      "D": "They Want Him To Join The Military"
+    }
+  },
+  {
+    "question": "What Does Nathan Imply When He Tells Max To Ask Frank For \"Higher Education\"?",
+    "answer": "D",
+    "choices": {
+      "A": "Frank Can Teach Her How To Cook Meth",
+      "B": "Frank Can Teach Her How To Hack Computers",
+      "C": "Frank Can Teach Her How To Drive A Car",
+      "D": "Frank Can Sell Her Drugs"
+    }
+  },
+  {
+    "question": "What Does Nathan Reveal About Frank And Rachel's Relationship?",
+    "answer": "A",
+    "choices": {
+      "A": "They Were In Love",
+      "B": "They Were Business Partners",
+      "C": "They Were Rivals",
+      "D": "They Were Enemies"
+    }
+  },
+  {
+    "question": "What Does Nathan Say About Rachel's Opinion Of Frank?",
+    "answer": "A",
+    "choices": {
+      "A": "She Thought He Was A Liar And A Loser",
+      "B": "She Thought He Was A Genius",
+      "C": "She Thought He Was A Hero",
+      "D": "She Thought He Was A Villain"
+    }
+  }
+]

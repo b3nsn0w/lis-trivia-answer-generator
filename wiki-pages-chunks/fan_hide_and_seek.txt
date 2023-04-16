@@ -1,0 +1,60 @@
+Here is a section of the wiki page for Fan:Hide and Seek:
+
+#  Fan:Hide and Seek 
+
+```yaml
+Song
+
+image: HnS.jpg
+artist: '[Fan:Music#Eduard Frolov EFG'
+Eduard Frolov EFG](fan_music_eduard_frolov_efg__eduard_frolov_efg.md), Robyn Ardery: *
+album: Endings
+genre: Alternative/Indie
+release: July 9, 2016
+```
+
+**"Hide And Seek"** is a *[Life is Strange](life_is_strange.md)''-inspired indie song written and performed by [Fan:Music#Eduard Frolov EFG](eduard_frolov_efg.md) featuring vocals of Robyn Ardery. It was released on July 9, 2016.
+
+##  Lyrics 
+:I don't know 
+:What to do?
+:If I may, grant me just one thing
+:The memories to recall
+
+:Hide and seek
+:Hide and seek
+:I'll play hide and seek
+
+:Hide and seek 
+:Hide and seek
+:My memories of you
+
+:Empty walls
+:True or false
+:Only sorrow knows
+:Where pleasant moments hide
+
+:My heart can't rest
+:Unless I do my best
+:My heart can't rest
+:Unless I do my best
+
+:My memories
+:My memories
+:o ho oh
+:My memories of you
+
+:My memories
+:My memories
+:o ho oh
+:My memories of you
+
+##  Videos 
+[File:Eduard Frolov EFG - Hide and Seek ("Life Is Strange" Inspired Tribute Song GMV) ft. Robyn Ardery](thumb.md)
+
+##  Navigation 
+{{Music Navbox}}
+
+
+
+Generate five trivia questions relevant to this section of the page.

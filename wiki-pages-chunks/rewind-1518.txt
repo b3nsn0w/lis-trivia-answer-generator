@@ -1,0 +1,108 @@
+Here is a section of the wiki page for Rewind:
+
+#  Rewind 
+
+[File:Max power.png](thumb.md).]]
+**Rewinding** is one of the major gameplay elements in *[Life is Strange](life_is_strange.md)*. It gives the player the [Max's Abilities](ability.md) to Rewind Time through [Maxine Caulfield](max_caulfield.md), undoing any of her actions, and provides replay value to the game. It emphasizes the overall theme of cause and effect as well as the {{wiki|butterfly effect}}.
+
+After observing a new element of gameplay information, such as examining an object or having a particular conversation which gives Max new insight, the player can rewind in order to use that information to Max's advantage in the game.
+
+It can make her seem knowledgeable in front of her teachers and or less nosy in front of her friends and other people. This element of gameplay can influence the player's experience enormously.
+: *The butterfly icon in the top left corner of the screen is shown to indicate that Max has made an influencing decision which furthers the gameplay; this also indicates that those choices can be changed.*[File:This action will have consequences-0.png](thumb.md)
+
+## Mechanic 
+[File:Rewind Swirl.png](left.md)
+The rewind position is indicated by the swirl in the top left-hand corner. It dictates any notable events which have taken place - such as a conversation or interaction with an object - which Max has the ability to rewind. Using this, the player can see when they made decisions which can be changed within the game environment.
+
+A recent conversation, for example, will appear as a dot on the swirl. To go back to the moment before this conversation occurred, the player must rewind to the dot. It is then possible to repeat the same conversation and make different choices.
+
+{{Main|Control Scheme}}
+#
+
+## PC Controls 
+Press **Right Mouse Button** and hold - Rewind
+
+Press **Right Mouse Button** and hold **Shift** - Rewind faster
+
+Press **Control** - Rewinds to the last event on the recent timeline (indicated by a dot on the swirl, as above)
+
+Press **A/D** and **Left Mouse Button/Right Mouse Button** - Focus on photos
+
+#
+
+## PlayStation Controls 
+
+Press **L2** and hold - Rewind
+
+While holding down **L2** to rewind, hold down **R2** - Rewind faster
+
+Press **L1** - Rewinds to the last event on the recent timeline (indicated by a dot on the swirl, as above)
+
+Press **Left Stick** and **Right Stick** - Focus on photos
+
+#
+
+## Xbox Controls 
+
+Press **LT** and hold - Rewind
+
+While holding down **LT** to rewind, hold down **RT** - Rewind faster
+
+Press **LB** - Rewinds to the last event on the recent timeline (indicated by a dot on the swirl, as above)
+
+Press **Left Stick** and **Right Stick** - Focus on photos
+
+## Consequences 
+{{Main|Max's Abilities#Consequences}}
+
+## Puzzles 
+[File:Puzzle.png](thumb.md)
+In the tradition of adventure games, the player has to solve numerous puzzles by using Max's rewind, 30 in total.
+
+#
+
+## Episode One - "Chrysalis"
+* Convincing [Justin Williams](justin_williams.md) to show Max a skateboard move of her choice (optional).
+* Convincing [Brooke Scott](brooke_scott.md) to allow Max to fly her drone (optional).
+* Forcing [Victoria Chase](victoria_chase.md) to move aside and let Max enter the [Prescott Dormitory](dormitory.md).
+* Taking an [Optional Photos](optional_photo.md) of Victoria's photo arrangement without leaving behind any evidence of Max having vandalized it (optional).
+* Convincing [Dana Ward](dana_ward.md) to admit to her pregnancy without knowing Max had previously searched through her room (optional).
+* Warning [Alyssa Anderson](alyssa_anderson.md) about the football throw and taking an optional photo (optional).
+* Taking optional photo of [Frank Bowers](frank_bowers.md)'s [Frank's RV](rv.md) without leaving behind any evidence of Max having vandalized it (optional).
+* Saving the [Blue Jay](blue_jay.md) from killing itself (optional).
+* Obtaining the box of precision screwdrivers in [David Madsen](david_madsen.md)'s [David's Garage](workshop.md).
+* Uncovering David's surveillance information without leaving any evidence which will implicate Chloe (optional).
+* Hiding from David who is preparing to enter [Chloe's Room](chloe_s_room.md).
+
+#
+
+## Episode Two - "Out of Time"
+* Warning Alyssa from a toilet roll throw (optional).
+* Searching for [Kate Marsh](kate_marsh.md)'s book without damaging it.
+* Convincing [Taylor Christensen](taylor_christensen.md) to open up to Max (optional).
+* Convincing Chloe to believe in Max's rewind powers at the [Two Whales Diner](two_whales_diner.md) by succeeding at her challenges.
+* Saving Chloe from an approaching [train](train.md) without damaging the [Train Tracks](train_tracks.md).
+* Convincing [Courtney Wagner](courtney_wagner.md) to allow Max into the [Vortex Club](vortex_club.md)'s planned [End of the World Party](party.md) (optional).
+* Helping [Warren Graham](warren_graham.md) with his science experiment to score him a higher grade (optional).
+
+#
+
+## Episode Three - "Chaos Theory"
+* Sneaking past Principal [Raymond Wells](ray_wells.md).
+* Breaking into the [Principal Wells' Office](principal_s_office.md).
+* Warning Alyssa from being splashed by a passing car (optional).
+* Taking Frank's RV keys without Frank knowing Max had taken them.
+* Obtaining [William Price](william_price.md)'s car keys before he does and hiding them from his beeper.
+
+#
+
+## Episode Four - "Dark Room" 
+* Undoing the fire extinguisher damage to [Nathan's Room](nathan_s_room.md) door handle in the dormitories (optional).
+* Opening the lock to the [Dark Room (Location)](dark_room.md).
+* Warning Alyssa from being knocked into the [Blackwell Swimming Pool](swimming_pool.md) (optional).
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

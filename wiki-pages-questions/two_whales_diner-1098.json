@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Written On The Graffiti On The Table Max Sits At?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Nerd graffiti\"",
+      "B": "\"Warren was here\"",
+      "C": "\"Max and Chloe forever\"",
+      "D": "\"Two Whales Diner rules\""
+    }
+  },
+  {
+    "question": "What Can Max Look At And Choose A Song On?",
+    "answer": "A",
+    "choices": {
+      "A": "The jukebox",
+      "B": "The TV",
+      "C": "Chloe's stuff",
+      "D": "The fishing wall of fame"
+    }
+  },
+  {
+    "question": "What Does Max Say About The Prices On The Menu?",
+    "answer": "C",
+    "choices": {
+      "A": "They have gone up",
+      "B": "They have gone down",
+      "C": "They have stayed the same",
+      "D": "She doesn't mention the prices"
+    }
+  },
+  {
+    "question": "Who Does Max Say Looks As Happy As Dana Did?",
+    "answer": "A",
+    "choices": {
+      "A": "Trevor Yard",
+      "B": "Justin Williams",
+      "C": "The Weird Lady",
+      "D": "The Diner Fisherman"
+    }
+  },
+  {
+    "question": "What Does Max Say About The Lighthouse When She Looks Out The Window?",
+    "answer": "A",
+    "choices": {
+      "A": "It looks mysterious",
+      "B": "It looks boring",
+      "C": "It looks beautiful",
+      "D": "It looks scary"
+    }
+  }
+]

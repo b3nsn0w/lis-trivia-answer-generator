@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Did Max Do To Chloe's Past?",
+    "answer": "A",
+    "choices": {
+      "A": "She Changed It",
+      "B": "She Erased It",
+      "C": "She Ignored It",
+      "D": "She Forgot It"
+    }
+  },
+  {
+    "question": "What Happened To Chloe In The Timeline Where William Was Saved?",
+    "answer": "A",
+    "choices": {
+      "A": "She Died In A Car Crash",
+      "B": "She Graduated From Blackwell Academy",
+      "C": "She Became A Famous Photographer",
+      "D": "She Got Married To Nathan Prescott"
+    }
+  },
+  {
+    "question": "What Did Chloe Ask Max To Do In The Timeline Where She Was Paralyzed?",
+    "answer": "B",
+    "choices": {
+      "A": "To Save Her Father",
+      "B": "To End Her Life",
+      "C": "To Take Her To The Hospital",
+      "D": "To Rewind Time Again"
+    }
+  },
+  {
+    "question": "Why Did Max Want Chloe To Come With Her?",
+    "answer": "C",
+    "choices": {
+      "A": "To Stop Jefferson",
+      "B": "To Run Away From Arcadia Bay",
+      "C": "To Start A New Life Together",
+      "D": "To Forget About The Past"
+    }
+  }
+]

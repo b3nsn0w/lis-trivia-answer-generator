@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Purpose Of Adding Code To The \"LifeIsStrangeInput.ini\" File?",
+    "answer": "A",
+    "choices": {
+      "A": "To Modify The Game's Input Controls",
+      "B": "To Change The Game's Graphics Settings",
+      "C": "To Add New Game Modes",
+      "D": "To Access The Game's Debug Menu"
+    }
+  },
+  {
+    "question": "What Does The \"FOV\" Command Do?",
+    "answer": "C",
+    "choices": {
+      "A": "Changes The Game's Resolution",
+      "B": "Adjusts The Game's Brightness",
+      "C": "Changes The Game's Field Of View",
+      "D": "Enables/Disables The Game's Sound Effects"
+    }
+  },
+  {
+    "question": "What Does The \"Slomo\" Command Do?",
+    "answer": "A",
+    "choices": {
+      "A": "Changes The Game's Speed",
+      "B": "Changes The Game's Camera Angle",
+      "C": "Changes The Game's Lighting",
+      "D": "Changes The Game's Texture Quality"
+    }
+  },
+  {
+    "question": "Where Can The \"LifeIsStrangeInput.ini\" File Be Found?",
+    "answer": "B",
+    "choices": {
+      "A": "In The Game's Installation Folder",
+      "B": "In The \"My Documents\" Folder",
+      "C": "In The \"Program Files\" Folder",
+      "D": "In The \"Windows\" Folder"
+    }
+  }
+]

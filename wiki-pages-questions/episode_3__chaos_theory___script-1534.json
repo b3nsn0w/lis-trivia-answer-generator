@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Chloe Want Max To Find In The Swimming Pool?",
+    "answer": "A",
+    "choices": {
+      "A": "The Light Switch",
+      "B": "The Sharks",
+      "C": "The Lifeguard's Room",
+      "D": "The Changing Rooms"
+    }
+  },
+  {
+    "question": "What Does Chloe Say When Max Splashes Water On Her?",
+    "answer": "B",
+    "choices": {
+      "A": "\"Don't You Dare\"",
+      "B": "\"Come Stop Me, Hippie\"",
+      "C": "\"Cheater\"",
+      "D": "\"Okay, You Asked For It\""
+    }
+  },
+  {
+    "question": "What Does Max Say About Watching Shark Shows?",
+    "answer": "C",
+    "choices": {
+      "A": "She Loves Them",
+      "B": "She Hates Them",
+      "C": "She Gets Freaked Out By Them",
+      "D": "She Doesn't Care About Them"
+    }
+  },
+  {
+    "question": "What Does Chloe Say About Max's Power?",
+    "answer": "A",
+    "choices": {
+      "A": "It's Changing Everything",
+      "B": "It's Useless",
+      "C": "It's Dangerous",
+      "D": "It's A Joke"
+    }
+  },
+  {
+    "question": "What Does Chloe Say About Max Being Humble?",
+    "answer": "B",
+    "choices": {
+      "A": "She Likes It",
+      "B": "She Hates It",
+      "C": "She Doesn't Care",
+      "D": "She Wants Max To Stop"
+    }
+  }
+]

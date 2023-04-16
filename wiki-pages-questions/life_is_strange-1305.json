@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Was The Initial Idea For Life Is Strange Based On?",
+    "answer": "A",
+    "choices": {
+      "A": "Interactions With People's Memories",
+      "B": "Time Travel",
+      "C": "Superpowers",
+      "D": "Telekinesis"
+    }
+  },
+  {
+    "question": "What Was The Rewind Mechanism In Life Is Strange Designed To Represent?",
+    "answer": "B",
+    "choices": {
+      "A": "A Tool",
+      "B": "A Metaphor",
+      "C": "A Superpower",
+      "D": "A Game Mechanic"
+    }
+  },
+  {
+    "question": "What Inspired The Developers To Create Gray Characters In Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Stephen King's Novels",
+      "B": "Visual Novels",
+      "C": "Adventure Games",
+      "D": "Heavy Rain"
+    }
+  },
+  {
+    "question": "What Was The Setting Of Life Is Strange Chosen For?",
+    "answer": "A",
+    "choices": {
+      "A": "To Tell A Story About Growing Up",
+      "B": "To Tell A Story About Time Travel",
+      "C": "To Tell A Story About Superpowers",
+      "D": "To Tell A Story About Telekinesis"
+    }
+  },
+  {
+    "question": "What Did The Developers Research Heavily To Ensure Accuracy And Respect In Life Is Strange?",
+    "answer": "D",
+    "choices": {
+      "A": "The High School Setting",
+      "B": "The Rewind Mechanism",
+      "C": "The Gray Characters",
+      "D": "The Topics They Were Covering"
+    }
+  }
+]

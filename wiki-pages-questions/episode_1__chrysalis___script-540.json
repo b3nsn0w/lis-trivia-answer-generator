@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Nathan Say To Himself To Calm Down?",
+    "answer": "A",
+    "choices": {
+      "A": "\"You're the boss\"",
+      "B": "\"You can do this\"",
+      "C": "\"Don't mess up\"",
+      "D": "\"Stay calm\""
+    }
+  },
+  {
+    "question": "What Does Chloe Accuse Nathan Of Doing?",
+    "answer": "B",
+    "choices": {
+      "A": "Stealing Money",
+      "B": "Selling Drugs",
+      "C": "Cheating On Tests",
+      "D": "Bullying Other Students"
+    }
+  },
+  {
+    "question": "What Does Nathan Do When Chloe Threatens To Go To His Family?",
+    "answer": "D",
+    "choices": {
+      "A": "He Laughs",
+      "B": "He Walks Away",
+      "C": "He Begs Her Not To",
+      "D": "He Pulls Out His Gun"
+    }
+  },
+  {
+    "question": "What Does Nathan Say To Chloe After Pointing The Gun At Her?",
+    "answer": "D",
+    "choices": {
+      "A": "\"You're Dead\"",
+      "B": "\"I'll Kill You\"",
+      "C": "\"You're In Trouble\"",
+      "D": "\"You're A Bitch\""
+    }
+  },
+  {
+    "question": "What Does Max Do After Chloe Is Shot?",
+    "answer": "C",
+    "choices": {
+      "A": "She Runs Away",
+      "B": "She Calls The Police",
+      "C": "She Rewinds Time",
+      "D": "She Tries To Help Chloe"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Hideout Made Of?",
+    "answer": "B",
+    "choices": {
+      "A": "Wood and Metal",
+      "B": "Brick and Slate",
+      "C": "Concrete and Glass",
+      "D": "Stone and Plaster"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Club That Rachel Attended?",
+    "answer": "A",
+    "choices": {
+      "A": "Vortex Club",
+      "B": "Dark Room Club",
+      "C": "Rave Club",
+      "D": "Los Angeles Club"
+    }
+  },
+  {
+    "question": "What Is Written On The Sheet Of Paper That Max Finds In The Hideout?",
+    "answer": "C",
+    "choices": {
+      "A": "I Love You",
+      "B": "I Want To Live",
+      "C": "I Want To Die",
+      "D": "I Want To Leave"
+    }
+  },
+  {
+    "question": "What Is The Graffiti That Chloe Adds To The Hideout After Rachel's Disappearance?",
+    "answer": "B",
+    "choices": {
+      "A": "Welcome To Hell",
+      "B": "Fuck You, Yes You",
+      "C": "You're All Gonna Die",
+      "D": "Rachel Was Here"
+    }
+  },
+  {
+    "question": "What Is The Item That Hangs In Front Of The Spool Table In The Hideout?",
+    "answer": "A",
+    "choices": {
+      "A": "A Carpet With An Image Of An Elephant",
+      "B": "A Tapestry With A Picture Of A Lion",
+      "C": "A Banner With A Picture Of A Tiger",
+      "D": "A Rug With An Image Of A Giraffe"
+    }
+  }
+]

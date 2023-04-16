@@ -1,0 +1,51 @@
+= Diner Cop =
+
+{{Introquote|I have respect for David. He served his country. He found his calling at Blackwell. At the station, we're happy David is exactly where he is... Not everybody can be a cop.|Diner Cop in "[[Episode 2: Out of Time|Out of Time]]"}}
+{{Infobox Character
+|name = Diner Cop
+|image = Officer_diner_face.png
+|died = October 11, 2013 <small>(presumed, determinant)</small>
+|causeofdeath = Killed by the [[storm]] <small>(presumed, determinant)</small>
+|gender = Male
+|hair = Brown
+|eyes = Brown
+|profession = Police officer
+|affiliation = [[Arcadia Bay Police Department]]
+|appearance = [[Episode 2: Out of Time]]<br/>[[Episode 5: Polarized]] <small>(nightmare)</small>
+|voice = [[Eric Morgan Stuart]] <small>(uncredited)</small>
+}}The "'''Diner Cop'''" is a resident of [[Arcadia Bay]] and a member of the [[Arcadia Bay Police Department|local police force]].
+
+== Episode Two - "[[Episode 2: Out of Time|Out of Time]]" ==
+[[File:Officer_diner.png|thumb|left]]
+He sits at the counter in the [[Two Whales Diner]]. When [[Maxine Caulfield|Max Caulfield]] talks to him he comments that she looks a little lost, to which she can respond that she is hungry or that she has been here many times and that the diner is like a fourth home. He wishes he could make the diner his first home because of [[Joyce Price]]'s cooking. Then he comments that Max looks like [[Chloe Price]]'s age, to which she can start three different conversations, either about Chloe, Joyce or [[David Madsen]] or say that she has to go.
+Max suspects him to be friends with David, to which he responds that he wouldn't use that word, they just know each other.
+
+At the end of the conversation he tells Max to certainly stay away from [[Frank Bowers]]'s [[Frank's RV|RV]] parked in the parking lot of the diner. When Max tells him she usually stays away from "sketchy vehicles", the man says that Frank is pretty sketchy himself.
+
+While Max is having breakfast with Chloe, he gets a call on the radio, but his partner takes it and leaves without him. This is one of the events Max has to predict in order to prove [[Rewind|her power]] to Chloe.
+
+== Episode Five - "[[Episode 5: Polarized|Polarized]]" ==
+[[File:Officer_diner_nightmare.png|thumb]]
+In the timeline where Max wins the [[Everyday Heroes Photo Contest|Everyday Heroes Contest]], the diner cop and two other policemen are seen arresting [[Jefferson]], and later uncovering Rachel Amber's body in the [[American Rust Junkyard|junkyard]].
+
+He appears in the diner scene of [[Max's Nightmare|Max's nightmare]], sitting at the counter at the same place as in "[[Episode 2: Out of Time|Out of Time]]".
+
+In the Sacrifice Arcadia Bay ending, he is presumed to have died in the storm.
+
+== Trivia ==
+*The Diner Cop is similar to the character Dale Cooper from the television show ''{{Wiki|Twin Peaks}}'', who also very consistently praised pies from the local cafe. It's possible that this could be one of the many [[References (Life is Strange)|references]] made to the show in ''Life is Strange''.
+
+{{Character Navbox}}
+
+[[es:Policía del restaurante]]
+[[ru:Полицейский в закусочной]]
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Minor Characters (Life is Strange)]]
+[[Category:Characters (Life is Strange)]]
+[[Category:Episode 2: Out of Time Characters]]
+[[Category:Episode 5: Polarized Characters]]
+[[Category:Two Whales Diner]]
+[[Category:Male Characters (Life is Strange)]]
+[[Category:Minor Characters]]
+[[Category:Life is Strange]]

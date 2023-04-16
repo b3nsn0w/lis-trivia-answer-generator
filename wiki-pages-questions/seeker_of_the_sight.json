@@ -1,0 +1,42 @@
+[
+  {
+    "question": "In which episode of Life is Strange was \"Seeker of the Sight\" used for the launch trailer?",
+    "answer": "C",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "What is the first line of the chorus in \"Seeker of the Sight\"?",
+    "answer": "A",
+    "choices": {
+      "A": "\"See how they conform\"",
+      "B": "\"Beware of the lie\"",
+      "C": "\"Creature of the crime\"",
+      "D": "\"Feature of the flight\""
+    }
+  },
+  {
+    "question": "What is the significance of the meteors in \"Seeker of the Sight\"?",
+    "answer": "C",
+    "choices": {
+      "A": "They represent hope",
+      "B": "They are a warning",
+      "C": "They are a sign of danger",
+      "D": "They have no significance"
+    }
+  },
+  {
+    "question": "Which of the following is NOT a line in \"Seeker of the Sight\"?",
+    "answer": "C",
+    "choices": {
+      "A": "\"Leacher of the lie\"",
+      "B": "\"Breacher of the bind\"",
+      "C": "\"Teacher of the tide\"",
+      "D": "\"Feature of the flight\""
+    }
+  }
+]

@@ -1,0 +1,98 @@
+Here is a section of the wiki page for Episode 2: Out of Time:
+
+#  Episode 2: Out of Time 
+
+```yaml
+Episode
+
+title: Out of Time
+season: '1'
+number: '2'
+image: TX Episode2 Preview.png
+imagewidth: '250'
+airdate: March 24, 2015
+writer: '[Jean-Luc Cano](jean_luc_cano.md)[Christian Divine](christian_divine.md)'
+director: '[Raoul Barbet](raoul_barbet.md)[Michel Koch](michel_koch.md)'
+Previous: '[Episode 1: Chrysalis](episode_1__chrysalis.md)'
+Next: '[Episode 3: Chaos Theory](episode_3__chaos_theory.md)'
+```
+
+{{Scaleimage|file# 11091020_898326323522616_1503959853231518140_o.jpg|sizelarge}}
+
+"**Out of Time**" is the second episode of *[Life is Strange](life_is_strange.md)*. The episode was released March 24, 2015 and is available on PC, Mac, PS3, PS4, Xbox 360 and Xbox One. An [Out of Time (Leaked Build)](unfinished_version.md) of Episode 2 had been leaked in February 2015.
+
+## Synopsis 
+[Maxine Caulfield](max_caulfield.md) tries to convince [Chloe Price](chloe_price.md) that she can [Rewind](rewind_time.md) but starts to suspect that her power may not last forever. Meanwhile, [Kate Marsh](kate_marsh.md) tries to deal with the public shame over a viral video that was leaked and shared around the students of [Blackwell Academy](blackwell.md).
+
+: ''See here for [Max's Diary#Episode_Two_-_.22Out_of_Time_.22](diary_entries.md) and [Max's_Messages#Episode_Two_-_.22Out_of_Time.22](messages.md) from this episode.''
+
+## Checkpoints 
+#Girls' Dormitories
+#[Prescott Dormitory](dormitories.md) - Morning
+#[Main Campus](main_campus.md) - Morning
+#Bus
+#[Two Whales Diner](diner.md)
+#[American Rust Junkyard](junkyard.md)
+#Railroad
+#Main Campus - Before Class
+#[Blackwell Academy](high_school.md)
+#Dormitories
+#[Principal Wells' Office](principal_s_office.md)
+#Main Campus - With [Warren Graham](warren_graham.md)
+
+## Characters 
+{| width# "100%" align"center"
+| valign# "top" |
+*[Maxine Caulfield](max_caulfield.md)
+*[Courtney Wagner](courtney_wagner.md)
+*[Victoria Chase](victoria_chase.md)
+*[Taylor Christensen](taylor_christensen.md)
+*[Alyssa Anderson](alyssa_anderson.md)
+*[Trevor Yard](trevor_yard.md)
+*[Brooke Scott](brooke_scott.md)
+*[Juliet Watson](juliet_watson.md)
+*[Stella Hill](stella_hill.md)
+*[Dana Ward](dana_ward.md)
+*[Kate Marsh](kate_marsh.md)
+*[Samuel Taylor](samuel_taylor.md)
+*[Rachel Amber](rachel_amber.md)
+*[Warren Graham](warren_graham.md)
+*[Nathan Prescott](nathan_prescott.md)
+*[David Madsen](david_madsen.md)
+*[Alice the Rabbit](alice.md) (Kate's rabbit)
+*[Diner Woman](woman.md) ([Two Whales Diner](diner.md) bus stop)
+*[Old Guy](old_guy.md) (Diner bus stop)
+*[R.J. MacReady](r_j__macready.md) (Fisherman, Diner parking lot)
+*[Homeless Lady](homeless_lady.md)
+*[Frank Bowers](frank_bowers.md)
+*[Pompidou](pompidou.md) (Frank's dog)
+*[Diner Man](man.md) (In front of the Diner)
+| valign"top" |
+*[Truck Driver](truck_driver.md) (In front of the Diner)
+*[Justin Williams](justin_williams.md)
+*[Diner Fisherman](fisherman.md) (Diner)
+*[Weird Lady](weird_lady.md) (Diner)
+*[Diner Dude](dude.md) (Diner)
+*[Diner Cop](cop.md) (Diner)
+*[Joyce Price](joyce_price.md)
+*[Chloe Price](chloe_price.md)
+*Principal [Raymond Wells](raymond_wells.md)
+*[Zachary Riggins](zachary_riggins.md)
+*[Luke Parker](luke_parker.md)
+*[Evan Harris](evan_harris.md)
+*[Logan Robertson](logan_robertson.md)
+*[Michelle Grant](michelle_grant.md)
+*[Mark Jefferson](mark_jefferson.md)
+*[Hayden Jones](hayden_jones.md)
+*[Daniel DaCosta](daniel_dacosta.md)
+*Officer [Anderson Berry](anderson_berry.md)
+*[Auntie Marsh](auntie_marsh.md) (Mentioned)
+*[Lynn Marsh](lynn_marsh.md) (Mentioned)
+*[Richard Marsh](richard_marsh.md) (Mentioned)
+*[Mrs. Marsh](mrs__marsh.md) (Mentioned)
+*[Bernadette Hoida](bernadette_hoida.md) (Mentioned)
+|}
+
+
+
+Generate five trivia questions relevant to this section of the page.

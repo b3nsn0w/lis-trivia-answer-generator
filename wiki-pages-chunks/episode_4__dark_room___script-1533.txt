@@ -1,0 +1,105 @@
+Here is a section of the wiki page for Episode 4: Dark Room - Script:
+
+She's the sweetest, most genuine person I've ever met. I don't mind getting picked on by Blackwell bro-holes, but don't fuck with Kate.
+
+{{!}}-{{!}}(Couldn't save Kate)# (Couldn't save Kate)**Daniel:** I don't talk to anybody, Max. But I did actually have a conversation with Brooke. She was very sad about Kate.
+
+**Max:** So am I. And angry...
+
+**Daniel:** We should stop going to class and stage a protest. But that's not going to happen at Blackwell. Yet...
+
+}}
+
+**Max:** I like this revolutionary Daniel DaCosta.
+
+**Daniel:** Only if I can start the revolution from my sketchbook, Max.
+
+{{!}}-{{!}}Nathan.Nathan.**Max:** By the way, have you seen Nathan Prescott?
+
+{{#tag:tabber|(Nathan is suspended)# (Nathan is suspended)**Daniel:** Ooh, I heard a rumor he's actually suspended...
+
+**Max:** Yeah, but he's still gotta be on campus.
+
+**Daniel:** That explains why he looked so pissed off when I saw him leaving campus a few moments ago.
+
+{{!}}-{{!}}(Nathan isn't suspended)(Nathan isn't suspended)**Daniel:** You mean lately?
+
+**Max:** Like anytime today.
+
+**Daniel:** I saw Jefferson talking with Nathan a little while ago, but I try to stay out of his way. I have enough assholes to deal with here.
+
+}}
+
+{{!}}-{{!}}End of the World party.# End of the World party.**Max:** Are you going to the "End of the World" party tonight?
+
+**Daniel:** It will be if I go, man. People here push me into lockers, not dance floors.
+
+{{#tag:tabber|Go to the party.Go to the party.**Max:** That's exactly why you should go to that party. We have to stand up to these Blackwell bullies for Kate. You won't be alone, Daniel.
+
+**Daniel:** Not with you to back me up, Max. Damn it, I will go to the party like it is the end of the world! Okay, maybe I won't go, but... No, I won't do that, but...I'll go.
+
+{{!}}-{{!}}Don't go to the party.# Don't go to the party.**Max:** Screw the Vortex Club. They don't deserve you, Daniel.
+
+**Daniel:** They don't deserve anything. I mean, what do they actually do for Blackwell, huh? You're right, Max. Screw them.
+
+}}
+
+{{!}}-{{!}}Leave.Leave.**Max:** Let's talk later. Okay, Daniel?
+
+}}
+
+|-|Don't give up.# Don't give up.**Max:** Don't give up that easy. Just...stay away from your sketchbook for a while. You need to keep taking the shot, as Jefferson says.
+
+**Daniel:** Stay away from my sketchbook? You don't know me, Max. That's like you staying away from your camera. I think I'll just sit here bummed out, thanks.
+
+*If Max talks to Daniel again after saying "Draw your photos" / "I love your drawings":*
+
+**Max:** Thought I'd bug you again, Daniel.
+
+**Daniel:** Fortunately, Max, I like bugs.
+
+*If Max talks to Daniel again after exhausting all dialogue options and telling him to go to the party:*
+
+**Daniel:** Thanks again for making me feel better and pushing me to the party. Let's chat later, Max!
+
+*If Max talks to Daniel again after exhausting all dialogue options and telling him not to go to the party:*
+
+**Daniel:** Thanks again for making me feel better. Screw the Vortex Club. Let's chat later, Max!
+
+''If Max talks to Daniel again after saying "Take different photos " / "Don't give up":''
+
+**Daniel:** Oh, hey, Max. Sorry, I'm...still bumming. I'll talk to you later when I'm not so pathetic.
+
+**Conversation with Ms. Grant**
+
+**Max:** Hi, Ms. Grant.
+
+**Ms. Grant:** Max, you always show up when I'm talking about you.
+
+(Signed the petition)(Signed the petition)**Ms. Grant:** I'm still bragging about you and the other students making Blackwell surveillance-free.
+
+|-|(Didn't sign the petition)# (Didn't sign the petition)**Ms. Grant:** And I swear it's not about that petition you didn't sign.
+
+Recent events.Recent events.**Max:** I was hoping you could explain some of these crazy things happening in Arcadia Bay...
+
+**Ms. Grant:** If I could, I'd be collecting my Nobel prize in science today. I haven't been able to wrap my mind around that eclipse, much less the snow and whales...
+
+{{#tag:tabber|Scientific explanation.# Scientific explanation.**Max:** There must be a scientific explanation...right?
+
+**Ms. Grant:** When my friends at NASA tell me they can't explain a solar eclipse without a single theory as to how or why, maybe it's time to get worried. Like they are.
+
+{{!}}-{{!}}Beyond science.Beyond science.**Max:** I think this is beyond science.
+
+**Ms. Grant:** Nothing is beyond science except for our lack of knowledge. We may never know why, but that doesn't change reality.
+
+}}
+
+**Max:** I am worried about reality... I feel like it's changing right in front of us.
+
+**Ms. Grant:** You and Samuel both. We were talking about that before you came over. Our planet is changing, but it's not mystic. It's erosion.
+
+{{#tag:tabber|Dying animals.# Dying animals.**Max:** You think that's why all these animals are dying here?
+
+**Ms. Grant:** Well, our shoreline has been receding, not to mention the daily contamination of the ocean. That's all you need to kill off sea and wildlife 
+
+Generate five trivia questions relevant to this section of the page.

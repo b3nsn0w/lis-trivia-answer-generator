@@ -1,0 +1,53 @@
+= Artistic References =
+
+[[File:ArtBrushPalette.png|thumb|130px]]
+In ''[[Life is Strange]]'', [[Maxine Caulfield|Max Caulfield]]'s artistic background and interest in photography means the game is full of references to artists, authors<ref>[http://steamcommunity.com/sharedfiles/filedetails/?id=553201007 Zeitgeist Gallery references by st. mike]</ref>, musicians, photographers and film makers. This article focuses on '''artistic references''' that can be found throughout the game.
+
+== [[Maxine Caulfield|Max]] ==
+* {{Wiki|Ray Bradbury}} - Max has a copy of ''{{wiki|Battle_Royale_(novel)|Battle Royale}}'', and borrows [[Kate Marsh]]'s edition of ''{{wiki|The October Country}}''.
+* [http://en.wikipedia.org/wiki/Leonardo_da_Vinci Leonardo da Vinci] - Max admires him, simply stating "Da Vinci was a boss".
+* {{Wiki|Henri Cartier-Bresson}} - His book, ''The Decisive Moment'', is in Jefferson's classroom.
+** Max has one of his books in her [[Max's Room|dorm room]]. She comments on him being one of "the greatest."
+* {{Wiki|Annie Leibovitz}} - Max says she has "mad respect" for her while examining the textbooks in class.
+* {{Wiki|W. Eugene Smith}} - Max says he is amazing.
+* {{Wiki|Richard Avedon}} - Max says "it's good to see him among the masters."
+** If Max comforts [[Victoria Chase]] in [[Episode 1: Chrysalis|Episode 1]], she will say that Victoria's art style is "Richard Avedon-esque".
+* {{Wiki|Salvador Dalí}} - He is mentioned as Max is looking through the textbooks and again in her room. She says he "could truly freeze time."
+* {{Wiki|Robert Capa}} - His photograph ''{{wiki|The Falling Soldier}}'' is mentioned when asking [[Evan Harris]] about his portfolio.
+* {{Wiki|Robert Doisneau}} - When Evan challenges Max to state the correct photographer for ''The Falling Soldier'' image, Max can incorrectly state Doisneau as the photographer.
+** Max has one of his books in her dorm room. She comments on him being one of "the greatest."
+* {{Wiki|Edgar Allan Poe}} - Max speculates on her bed about her vision, "A dream within a dream."
+* {{Wiki|Man Ray}} - He is featured on a poster in Max's room. She wonders if he would call them "selfie portraits."
+* {{Wiki|Philip-Lorca diCorcia}} - Max calls him "my man."
+* {{Wiki|Julia Margaret Cameron}} - Max loves her Victorian vibe.
+* {{Wiki|Thomas Wolfe}} - "You can't go home again." But Max did.
+* {{Wiki|Joseph Pulitzer}} - "Another Pulitzer for the portfolio."
+* {{Wiki|H.R Giger}} - Max mentions that Kate is in her Giger period when looking at her sad drawings in Episode 2.
+* {{Wiki|William Blake}} - If Kate survived in Episode 2, Max writes the first stanza of ''The Tyger'' from ''Songs of Innocence and Experience'' on her room slate: "Tyger Tyger, burning bright / In the forests of the night; / What immortal hand or eye, / Could frame thy fearful symmetry?"
+* {{Wiki|Jack Kerouac}} - If Kate died in Episode 2, Max writes a quote from Jack Kerouac's ''The Dharma Bums'' on her room slate in memory of Kate: "Are we fallen angels who didn't want to believe that nothing is nothing..."
+** Max keeps a photograph of Kerouac inside the door of her school locker, which she can look at and say: "Hello Jack, kiss kiss...".
+** Max talks to Chloe about Kerouac while they are hanging out on the [[Train Tracks|train tracks]] in Episode 2: "Kerouac knew. It's the romance of travel and movement... The sound of the train whistle at night..."
+** Max thinks about Kerouac when she is in the [[Zeitgeist Gallery]] in [[Episode 5: Polarized|Episode 5]]: "I love that Jack Kerouac and the Beats hung out in this same hood. Dig it, cat."
+* {{Wiki|Andy Warhol}} - Max has his photo inside the door of her school locker and calls herself "Max Warhol" while at the Zeitgeist Gallery. There is also a Warhol stamp on the 28th page of [[Max's Diary|Max's diary]].
+* {{Wiki|David_Hamilton_(photographer)|David Hamilton}} - Max has one of his books in her dorm room. She comments on him being one of "the greatest."
+
+== [[Mark Jefferson|Jefferson]] ==
+* {{Wiki|Alfred Hitchcock}} - Jefferson makes reference to Hitchcock's saying about film and photography being "little pieces of time." However, he is mistaken since the saying is usually attributed to [https://en.wikipedia.org/wiki/James_Stewart James Stewart] (even though the two men collaborated on four movies)<ref>https://www.theguardian.com/film/2004/nov/30/features https://www.neh.gov/about/awards/jefferson-lecture/martin-scorsese-lecture That’s how James Stewart defined movies in a conversation with Peter Bogdanovich. This is foreshadowing the events of the third episode, in which Max can travel in time through a photograph.</ref>
+* {{Wiki|Allen Ginsberg}} - Jefferson mentions the iconic photo of [[media:Ginsberg_kerouac_balcony.png|Jack Kerouac on the balcony]].
+* {{Wiki|Salvador Dali}} - Jefferson comments that Dali is a "true renaissance man, like Cocteau".
+* {{Wiki|Jean Cocteau}} - ''(See quote on Dali above.)''
+* {{Wiki|Robert Cornelius}} - Jefferson informs his class that Cornelius was the man who created the first American {{Wiki|Daguerreotype}} self-portrait.
+* {{Wiki|John Lennon}} - Jefferson quotes Lennon while encouraging Max to submit her photo entry for the [[Everyday Heroes Photo Contest]]: "Life is what happens while you're busy making other plans."
+
+== [[Victoria Chase|Victoria]] ==
+* {{Wiki|Diane Arbus}} - Victoria feels haunted by her images of sad mothers and children. Jefferson critiques her work, saying that anyone could capture a moment of desperation and that Arbus could have taken another approach with her "brilliant eye," such as capturing people at the height of their beauty or innocence.
+* {{Wiki|Robert Frank}} - Victoria prefers his work to that of Arbus. Jefferson agrees and believes he captured the essence of post-war, beat America.
+* {{Wiki|Louis Daguerre}} - Victoria gives an answer to Jefferson's question that Daguerre was a French painter who created "Daguerreotypes" - a process she explains gave portraits "a sharp reflective style, like a mirror."
+
+== Notes ==
+<references />
+[[ru:Художественные отсылки]]
+
+[[Category:References]]
+[[Category:Behind the Scenes]]
+[[Category:Life is Strange]]

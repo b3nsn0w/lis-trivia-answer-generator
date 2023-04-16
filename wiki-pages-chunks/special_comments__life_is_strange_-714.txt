@@ -1,0 +1,28 @@
+Here is a section of the wiki page for Special Comments (Life is Strange):
+
+## Dark Room - Corridor 
+* *"Now that's a serious door. Where's Gandalf when I need him..." {{Headphones|file# VO_E4_6A.STM_84~Act_E4_6A_Corridor_ScriptedObjective01_Max_010.ogg‎‎}}*
+* *"Come on, Max, break that digicode." {{Headphones|file‎VO_E4_6A.STM_139~Act_E4_6A_Corridor_ScriptedObjective01_Max_020.ogg}}*
+* *"Digicode, numbers, rewind... Take a breath and get cracking." {{Headphones|file# VO_E4_6A.STM_26~Act_E4_6A_Corridor_ScriptedObjective01_Max_030.ogg‎}}*
+* *"The only reason to build a secret bunker under an abandoned farm is to do bad shit." {{Headphones|file‎VO_E4_6A.STM_66~Act_E4_6A_Corridor_ScriptedIdle_Max_010.ogg}}*
+
+# #
+
+## Dark Room - Inside 
+Before finding the binders:
+* *"How did Nathan get ahold of this place? A gift from dad?" {{Headphones|file# ‎VO_E4_6A.STM_94~Act_E4_6A_DarkRoom_ScriptedIdle01_Max_020.ogg}}*
+* *"I don’t think this is just a photo studio." {{Headphones|fileVO_E4_6A.STM_85~Act_E4_6A_DarkRoom_ScriptedIdle01_Max_030.ogg‎}}*
+* *"Oh no... is this the bright white room Kate told me about?" {{Headphones|file# ‎VO_E4_6A.STM_149~Act_E4_6A_DarkRoom_ScriptedIdle01_Max_040.ogg}}*
+* *"I couldn’t even make this shit up about the Prescotts..." {{Headphones|fileVO_E4_6A.STM_22~Act_E4_6A_DarkRoom_ScriptedIdle01_Max_050.ogg‎}}*
+* *"Scour this room, Max. There has to be evidence here." {{Headphones|file# VO_E4_6A.STM_135~Act_E4_6A_DarkRoom_ScriptedObjective_Max_010.ogg‎}}*
+* *"I know we’ll find serious dirt in here." {{Headphones|fileVO_E4_6A.STM_123~Act_E4_6A_DarkRoom_ScriptedObjective_Max_020.ogg‎}}*
+
+After finding the binders:
+* *"If Chloe did recognize a spot in the junkyard, then I better go with her and| just get ready for the worst... We'll need each other."*
+* *"There might be more clues around here, but I have to get back to Chloe soon…"*
+
+# #
+
+
+
+Generate five trivia questions relevant to this section of the page.

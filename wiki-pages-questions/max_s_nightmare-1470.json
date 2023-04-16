@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Who defends Max for the first time during her nightmare?",
+    "answer": "D",
+    "choices": {
+      "A": "Rachel Amber",
+      "B": "Victoria Chase",
+      "C": "Warren Graham",
+      "D": "Chloe Price"
+    }
+  },
+  {
+    "question": "Who sends Max a text message during her nightmare?",
+    "answer": "A",
+    "choices": {
+      "A": "Nathan, Rachel, and Samuel",
+      "B": "Victoria, Warren, and Pompidou",
+      "C": "David, Joyce, and Frank",
+      "D": "Kate, Taylor, and Courtney"
+    }
+  },
+  {
+    "question": "How is Chloe depicted in Max's nightmare?",
+    "answer": "D",
+    "choices": {
+      "A": "As a supportive friend",
+      "B": "As a harsh critic",
+      "C": "As a romantic interest",
+      "D": "All of the above"
+    }
+  }
+]

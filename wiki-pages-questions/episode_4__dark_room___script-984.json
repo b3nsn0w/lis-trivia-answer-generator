@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Who did Chloe receive a text from at the end of the scene?",
+    "answer": "C",
+    "choices": {
+      "A": "Mr. Jefferson",
+      "B": "Kate Marsh",
+      "C": "Nathan",
+      "D": "Victoria"
+    }
+  },
+  {
+    "question": "What does Nathan's text to Chloe say?",
+    "answer": "D",
+    "choices": {
+      "A": "He's sorry for what he did to Rachel",
+      "B": "He's going to turn himself in",
+      "C": "He's going to kill himself",
+      "D": "Nobody will ever find Rachel again after he's done"
+    }
+  },
+  {
+    "question": "Where do Max and Chloe go after leaving the party?",
+    "answer": "B",
+    "choices": {
+      "A": "The beach",
+      "B": "The junkyard",
+      "C": "The police station",
+      "D": "Nathan's dorm"
+    }
+  }
+]

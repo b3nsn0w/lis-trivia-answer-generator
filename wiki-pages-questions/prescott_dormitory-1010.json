@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Written On The \"Safe Not Sorry\" Poster In The Showers?",
+    "answer": "C",
+    "choices": {
+      "A": "\"Be Brave\"",
+      "B": "\"Speak Up\"",
+      "C": "\"Report It\"",
+      "D": "\"Stay Strong\""
+    }
+  },
+  {
+    "question": "Whose Room Can Max Enter In The Prescott Dormitory?",
+    "answer": "C",
+    "choices": {
+      "A": "Victoria Chase",
+      "B": "Brooke Scott",
+      "C": "Dana Ward",
+      "D": "Stella Hill"
+    }
+  },
+  {
+    "question": "What Can Max Do With Kate's Shrine In The Prescott Dormitory?",
+    "answer": "B",
+    "choices": {
+      "A": "Look At It",
+      "B": "Light It (Determinant)",
+      "C": "Move It",
+      "D": "Destroy It"
+    }
+  },
+  {
+    "question": "What Can Max Look At In Samuel's Custodial Room?",
+    "answer": "A",
+    "choices": {
+      "A": "A Scarf, A Fashion Magazine, A Box With An Empty Paint Bucket",
+      "B": "A Toolbox, A Broken Lamp, A Tobanga Totem",
+      "C": "A Vortex Club Poster, A \"Safe Not Sorry\" Poster, A \"Missing Person\" Poster",
+      "D": "A Polaroid Camera, A Map Of Arcadia Bay, A Bottle Of Whiskey"
+    }
+  },
+  {
+    "question": "What Can Max Look At Outside The Prescott Dormitory?",
+    "answer": "A",
+    "choices": {
+      "A": "A Broken Window (Determinant)",
+      "B": "A Polaroid Camera",
+      "C": "A Vortex Club Poster",
+      "D": "A \"Missing Person\" Poster"
+    }
+  }
+]

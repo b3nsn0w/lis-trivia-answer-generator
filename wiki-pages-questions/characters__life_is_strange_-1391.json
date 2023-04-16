@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who Is The Principal Of Blackwell Academy?",
+    "answer": "C",
+    "choices": {
+      "A": "Mark Jefferson",
+      "B": "David Madsen",
+      "C": "Raymond Wells",
+      "D": "Michelle Grant"
+    }
+  },
+  {
+    "question": "What Is The Name Of Chloe Price's Mother?",
+    "answer": "B",
+    "choices": {
+      "A": "Vanessa Caulfield",
+      "B": "Joyce Price",
+      "C": "Michelle Grant",
+      "D": "Lynn Marsh"
+    }
+  },
+  {
+    "question": "Who Is The Only Prescott Family Member Who Is Not Mentioned By Name In The Wiki Page?",
+    "answer": "C",
+    "choices": {
+      "A": "Sean Prescott",
+      "B": "Nathan Prescott",
+      "C": "Kristine Prescott",
+      "D": "Martin Lewis Prescott"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Blackwell Student Who Commits Suicide?",
+    "answer": "B",
+    "choices": {
+      "A": "Rachel Amber",
+      "B": "Kate Marsh",
+      "C": "Alyssa Anderson",
+      "D": "Brooke Scott"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Blackwell Staff Member Who Is A Janitor?",
+    "answer": "D",
+    "choices": {
+      "A": "David Madsen",
+      "B": "Michelle Grant",
+      "C": "Raymond Wells",
+      "D": "Samuel Taylor"
+    }
+  }
+]

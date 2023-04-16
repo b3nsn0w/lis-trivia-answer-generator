@@ -1,0 +1,52 @@
+[
+  {
+    "question": "In which episode of Life is Strange does the Blue Jay first appear?",
+    "answer": "A",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "What happens to the Blue Jay in Episode 1 if Max does not save it?",
+    "answer": "B",
+    "choices": {
+      "A": "It flies away",
+      "B": "It dies",
+      "C": "It attacks Max",
+      "D": "It perches on a wardrobe"
+    }
+  },
+  {
+    "question": "In which episode of Life is Strange can Max scare the Blue Jay in the bathroom?",
+    "answer": "C",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "What happens to the Blue Jay in Episode 4 if Max scares it twice?",
+    "answer": "A",
+    "choices": {
+      "A": "It flies away",
+      "B": "It dies",
+      "C": "It attacks Max",
+      "D": "It perches on a bookshelf"
+    }
+  },
+  {
+    "question": "What is the Blue Jay's possible symbolism in Life is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "It is linked to Rachel Amber",
+      "B": "It is linked to Max Caulfield",
+      "C": "It is linked to Chloe Price",
+      "D": "It is linked to Nathan Prescott"
+    }
+  }
+]

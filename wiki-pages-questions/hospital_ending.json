@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Was the Hospital Ending in Life is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "Chloe Dies",
+      "B": "Chloe Falls into a Coma",
+      "C": "Max Dies",
+      "D": "Max and Chloe Both Die"
+    }
+  },
+  {
+    "question": "Why Was the Hospital Ending Scrapped?",
+    "answer": "B",
+    "choices": {
+      "A": "It Was Too Expensive to Produce",
+      "B": "It Reduced the Impact of the Player's Choice",
+      "C": "It Was Too Depressing",
+      "D": "It Was Too Confusing for Players"
+    }
+  },
+  {
+    "question": "What Was the Original Purpose of the Hospital Scene in Episode 4?",
+    "answer": "C",
+    "choices": {
+      "A": "To Show Kate Marsh's Recovery",
+      "B": "To Show Max's Recovery After Being Shot",
+      "C": "To Show Chloe's Recovery After Being Shot",
+      "D": "To Show Nathan Prescott's Arrest"
+    }
+  },
+  {
+    "question": "What Was the Speculated Third Ending That Was Mentioned in the Unused Content?",
+    "answer": "D",
+    "choices": {
+      "A": "Max Dies",
+      "B": "Chloe Dies",
+      "C": "Both Max and Chloe Die",
+      "D": "Max Saves Arcadia Bay and Chloe Lives"
+    }
+  },
+  {
+    "question": "Why Was Kate Marsh's Appearance in the Hospital Scene Added?",
+    "answer": "D",
+    "choices": {
+      "A": "To Show Her Recovery",
+      "B": "To Provide a Positive Element in the Scene",
+      "C": "To Hint at Her Involvement in the Dark Room",
+      "D": "Because the Players Liked Her So Much"
+    }
+  }
+]

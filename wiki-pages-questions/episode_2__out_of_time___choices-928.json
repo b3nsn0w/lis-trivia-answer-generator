@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Will Principal Wells Say If Kate Is Saved?",
+    "answer": "C",
+    "choices": {
+      "A": "\"This isn't pleasant for any of us.\"",
+      "B": "\"We need to figure out why Kate was driven to suicide.\"",
+      "C": "\"Max, you're a hero.\"",
+      "D": "\"Officer Berry, please leave the room.\""
+    }
+  },
+  {
+    "question": "What Will Be Written On The Whiteboards In The Girls' Dormitories If Kate Is Saved?",
+    "answer": "B",
+    "choices": {
+      "A": "Messages of mourning",
+      "B": "Well wishes for Kate",
+      "C": "Nothing will be written",
+      "D": "The boards will not be shown"
+    }
+  },
+  {
+    "question": "What Will The Homeless Woman Outside The Two Whales Diner Talk To Max About If Kate Commits Suicide?",
+    "answer": "A",
+    "choices": {
+      "A": "Kate's suicide attempt",
+      "B": "Kate's funeral",
+      "C": "Kate's success in school",
+      "D": "Kate's favorite food"
+    }
+  },
+  {
+    "question": "What Will Officer Berry Tell Max If Kate Is Saved?",
+    "answer": "A",
+    "choices": {
+      "A": "\"You did a great thing getting Kate down from the roof.\"",
+      "B": "\"We couldn't have saved her without you.\"",
+      "C": "\"I'm sorry we couldn't do more to help.\"",
+      "D": "\"You should have let her jump.\""
+    }
+  }
+]

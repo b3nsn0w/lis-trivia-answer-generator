@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Who is the character that requests Max to give her a morphine overdose in the alternative timeline?",
+    "answer": "B",
+    "choices": {
+      "A": "Rachel Amber",
+      "B": "Chloe Price",
+      "C": "Victoria Chase",
+      "D": "Kate Marsh"
+    }
+  },
+  {
+    "question": "Which episode of Life is Strange has the lowest Metascore?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "Who is the character that Max and Chloe find dead in the junkyard?",
+    "answer": "B",
+    "choices": {
+      "A": "Kate Marsh",
+      "B": "Rachel Amber",
+      "C": "Victoria Chase",
+      "D": "Alyssa Anderson"
+    }
+  }
+]

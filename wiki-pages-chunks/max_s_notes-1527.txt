@@ -1,0 +1,83 @@
+Here is a section of the wiki page for Max's Notes:
+
+vertical-align:top"|Look[File:note4-invD1-nathanphotos.png](220px.md)
+|-|Read# None
+|-
+|'''Excerpt from Principal Wells' notes.'''
+Location: First series of David's clues in the investigation puzzle.
+Max's comments: David really has been on Rachel's ass for a while. She should have been upset.
+|style"height:186px; vertical-align:top"|Look# [File:note4-invD1-rachelnote.png](220px.md)
+|-|Read[File:note4-invD1-rachelnote2.png](220px.md)
+|-
+|'''David's profile on Rachel.'''
+Location: First series of David's clues in the investigation puzzle.
+Max's comments: Does David know what’s going on with Rachel or is he just paranoid about everybody?
+|style# "height:186px; vertical-align:top"|Look[File:note4-invD1-rachelprofile.png](220px.md)
+|-|Read# [File:note4-invD1-rachelprofile2.png](220px.md)
+|-
+|**Photo of Nathan in his car.**
+Location: Second series of David's clues in the investigation puzzle.
+Max's comments: Of course, Nathan drives an SUV. Overcompensating as usual.
+|style"height:186px; vertical-align:top"|Look# [File:note4-invD2-nathancarphoto.png](220px.md)
+|-|ReadMone
+|-
+|**Photo of Nathan dealing drugs.**
+Location: Second series of David's clues in the investigation puzzle.
+Max's comments: There’s Nathan dealing to the kids right out in the open.
+|style# "height:186px; vertical-align:top"|Look[File:note4-invD2-nathandealing.png](220px.md)
+|-|Read# None
+|-
+|'''Coordinates of Nathan's car.'''
+Location: Second series of David's clues in the investigation puzzle.
+Max's comments: None
+|style"height:186px; vertical-align:top"|Look# [File:note4-invD2-sxftndrcoords.png](220px.md)
+|-|Read[File:note4-invD2-sxftndrcoords2.png](220px.md)
+|-
+|'''Photo of Nathan's car license plate.'''
+Location: Second series of David's clues in the investigation puzzle.
+Max's comments: Hmmm, who does this car belong to?
+|style# "height:186px; vertical-align:top"|Look[File:note4-invD2-sxftndrphoto.png](220px.md)
+|-|Read# [File:note4-invD2-sxftndrphoto2.png](220px.md)
+|-
+|'''Coordinates of Jefferson's car.'''
+Location: Second series of David's clues in the investigation puzzle.
+Max's comments: Hmmm, who else was David tracking here?
+|style"height:186px; vertical-align:top"|Look# [File:note4-invD2-tpfthlkcoords.png](220px.md)
+|-|Read[File:note4-invD2-tpfthlkcoords2.png](220px.md)
+|-
+|'''Photo of Jefferson's car license plate.'''
+Location: Second series of David's clues in the investigation puzzle.
+Max's comments: Wowser, this looks like an expensive machine.
+|style# "height:186px; vertical-align:top"|Look[File:note4-invD2-tpfthlkphoto.png](220px.md)
+|-|Read# [File:note4-invD2-tpfthlkphoto2.png](220px.md)
+|-
+|**Coordinates of an unknown car (TWLGHTZN).**
+Location: Second series of David's clues in the investigation puzzle.
+Max's comments: Why the hell are you following these people? And to where?
+|style"height:186px; vertical-align:top"|Look# [File:note4-invD2-twlghtzncoords.png](220px.md)
+|-|Read[File:note4-invD2-twlghtzncoords2.png](220px.md)
+|-
+|**Photo of unknown car license plate (TWLGHTZN). **
+Location: Second series of David's clues in the investigation puzzle.
+Max's comments: Interesting... is this Nathan's car?
+|style# "height:186px; vertical-align:top"|Look[File:note4-invD2-twlghtznphoto.png](220px.md)
+|-|Read# [File:note4-invD2-twlghtznphoto2.png](220px.md)
+|-
+|'''Coordinates of Chloe's car.'''
+Location: Second series of David's clues in the investigation puzzle.
+Max's comments: Yep. Another car David was tracking.
+|style"height:186px; vertical-align:top"|Look# [File:note4-invD2-twnpkscoords.png](220px.md)
+|-|Read[File:note4-invD2-twnpkscoords2.png](220px.md)
+|-
+|'''Photo of Chloe's car license plate.'''
+Location: Second series of David's clues in the investigation puzzle.
+Max's comments: That's definitely Chloe's car.
+|style# "height:186px; vertical-align:top"|Look[File:note4-invD2-twnpksphoto.png](220px.md)
+|-|Read# [File:note4-invD2-twnpksphoto2.png](220px.md)
+|-
+|**Photo of the parking lot confrontation.**
+Location: Second series of David's clues in the investigation puzzle.
+Max's comments: I'm glad Warren got his revenge.
+|style"height:186px; 
+
+Generate five trivia questions relevant to this section of the page.

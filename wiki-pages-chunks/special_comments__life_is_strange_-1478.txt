@@ -1,0 +1,74 @@
+Here is a section of the wiki page for Special Comments (Life is Strange):
+
+#  Special Comments (Life is Strange) 
+
+This is a compilation of the various **comments** made by [Maxine Caulfield](max_caulfield.md), the protagonist of *[Life is Strange](life_is_strange.md)*, in response to her environment and situations. The sub-sections chosen for this article are based on naming categories in the game file.
+
+## General 
+
+#
+
+## Anger/Disagreement
+**"You gotta be kidding me!"* {{Headphones|file# specialcomms-anger-gottabekidding.ogg}}
+**"No way!"* {{Headphones|filespecialcomms-anger-noway.ogg}}
+**"Are you serious?"* {{Headphones|file# specialcomms-anger-areyouserious.ogg}}
+
+#
+
+## Boredom/Disappointment
+**"This blows."* {{Headphones|filespecialcomms-boredom-thisblows.ogg}}
+**"Duh"* {{Headphones|file# specialcomms-boredom-duh.ogg}}
+**"Just great."* {{Headphones|filespecialcomms-boredom-justgreat.ogg}}
+**"Well…"* {{Headphones|file# specialcomms-boredom-well.ogg}}
+
+#
+
+## Negative Surprise
+**"Damn!"* {{Headphones|filespecialcomms-negative-damn.ogg}}
+**"Rats!"* {{Headphones|file# specialcomms-negative-rats.ogg}}
+**"Shit!"* {{Headphones|filespecialcomms-negative-shit.ogg}}
+**"Damn it!"* {{Headphones|file# specialcomms-negative-dammit.ogg}}
+**"NO!!!"* {{Headphones|filespecialcomms-negative-no.ogg}}
+
+#
+
+## Positive Surprise
+**"Wowser!" {{Headphones|file# VO_ACT_GEN_Max.STM_42~Act_GEN_PositiveSurprise_Max_10.ogg‎}}*
+**"Awesome." {{Headphones|fileVO_ACT_GEN_Max.STM_75~Act_GEN_PositiveSurprise_Max_20.ogg‎}}*
+**"Oh, yes." {{Headphones|file# VO_ACT_GEN_Max.STM_34~Act_GEN_PositiveSurprise_Max_30.ogg‎}}*
+**"Yes!" {{Headphones|file‎VO_ACT_GEN_Max.STM_12~Act_GEN_PositiveSurprise_Max_40.ogg}}*
+**"Hella yes!" {{Headphones|file# ‎VO_ACT_GEN_Max.STM_85~Act_GEN_PositiveSurprise_Max_50.ogg}}*
+
+#
+
+## Idle Comments
+When Max stands idle for too long, she may make one of the following comments:
+*''"Yep, I'm bored now" {{Headphones|fileVO_ACT_GEN_Max.STM_82~Act_GEN_Idle_Max_10.ogg‎}}*
+**"Tick tock, tick tock, tick tock…" {{Headphones|file# VO_ACT_GEN_Max.STM_70~Act_GEN_Idle_Max_100.ogg‎}}*
+**"That’s all she wrote, folks." {{Headphones|file‎VO_ACT_GEN_Max.STM_51~Act_GEN_Idle_Max_110.ogg}}*
+**"It’s great to watch the world pass you by..." {{Headphones|file# VO_ACT_GEN_Max.STM_25~Act_GEN_Idle_Max_120.ogg‎}}*
+**"I’d love to stand in this spot forever" {{Headphones|fileVO_ACT_GEN_Max.STM_31~Act_GEN_Idle_Max_130.ogg‎}}*
+**"And then inertia set in" {{Headphones|file# VO_ACT_GEN_Max.STM_36~Act_GEN_Idle_Max_140.ogg‎}}*
+**"If I took a selfie now, it would be a still life." {{Headphones|file‎VO_ACT_GEN_Max.STM_60~Act_GEN_Idle_Max_150.ogg}}*
+**"Boring" {{Headphones|file# VO_ACT_GEN_Max.STM_63~Act_GEN_Idle_Max_20.ogg‎}}*
+**"La dee da, la dee da" {{Headphones|fileVO_ACT_GEN_Max.STM_14~Act_GEN_Idle_Max_30.ogg‎}}*
+**"I’m just chilling like a villain" {{Headphones|file# VO_ACT_GEN_Max.STM_39~Act_GEN_Idle_Max_40.ogg‎}}*
+**"So I guess I’ll just chillax for awhile" {{Headphones|file‎VO_ACT_GEN_Max.STM_53~Act_GEN_Idle_Max_50.ogg}}*
+**"How long can I stand standing here ?" {{Headphones|file# ‎VO_ACT_GEN_Max.STM_84~Act_GEN_Idle_Max_60.ogg}}*
+**"If time is like a river, I’m stuck here" {{Headphones|fileVO_ACT_GEN_Max.STM_71~Act_GEN_Idle_Max_70.ogg‎}}*
+**"What to do, what to do…" {{Headphones|file# VO_ACT_GEN_Max.STM_55~Act_GEN_Idle_Max_80.ogg‎}}*
+**"Max, you need to stop talking to yourself. Agreed?... yes." {{Headphones|fileVO_ACT_GEN_Max.STM_9~Act_GEN_Idle_Max_90.ogg‎}}*
+
+#
+
+## Suggested Rewind
+When Max sees the potential to rewind, she may make one of the following comments:
+**"Damn, I better rewind." *{{Headphones|file# specialcomms-suggestedrw-dambetterrw.ogg}}
+**"I better rewind." *{{Headphones|filespecialcomms-suggestedrw-ibetterrw.ogg}}
+**"I should rewind." *{{Headphones|file# specialcomms-suggestedrw-shouldrw.ogg}}
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

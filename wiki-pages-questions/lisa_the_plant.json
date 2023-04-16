@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Where is Lisa located in Max's room?",
+    "answer": "A",
+    "choices": {
+      "A": "In front of the windows",
+      "B": "On Max's bed",
+      "C": "On the floor",
+      "D": "On the shelf"
+    }
+  },
+  {
+    "question": "What happens to Lisa if Max waters her twice?",
+    "answer": "A",
+    "choices": {
+      "A": "She drowns",
+      "B": "She becomes dehydrated",
+      "C": "She grows bigger",
+      "D": "Nothing happens"
+    }
+  },
+  {
+    "question": "What is the achievement unlocked in Vampyr by watering the seemingly dead plant and naming it Lisa?",
+    "answer": "A",
+    "choices": {
+      "A": "Unlife is Strange",
+      "B": "Bloom of Life",
+      "C": "Watering Master",
+      "D": "Plant Savior"
+    }
+  }
+]

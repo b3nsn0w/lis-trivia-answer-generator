@@ -1,0 +1,170 @@
+= Rewind =
+
+[[File:Max power.png|thumb|220x220px|Drawing from [[Max's Journal|Max's journal]].]]
+'''Rewinding''' is one of the major gameplay elements in ''[[Life is Strange]]''. It gives the player the [[Max's Abilities|ability]] to Rewind Time through [[Maxine Caulfield|Max Caulfield]], undoing any of her actions, and provides replay value to the game. It emphasizes the overall theme of cause and effect as well as the {{wiki|butterfly effect}}.
+
+After observing a new element of gameplay information, such as examining an object or having a particular conversation which gives Max new insight, the player can rewind in order to use that information to Max's advantage in the game.
+
+It can make her seem knowledgeable in front of her teachers and or less nosy in front of her friends and other people. This element of gameplay can influence the player's experience enormously.
+: ''The butterfly icon in the top left corner of the screen is shown to indicate that Max has made an influencing decision which furthers the gameplay; this also indicates that those choices can be changed.''[[File:This action will have consequences-0.png|thumb|300x300px|centre]]
+
+== Mechanic ==
+[[File:Rewind Swirl.png|left|thumb|140x140px]]
+The rewind position is indicated by the swirl in the top left-hand corner. It dictates any notable events which have taken place - such as a conversation or interaction with an object - which Max has the ability to rewind. Using this, the player can see when they made decisions which can be changed within the game environment.
+
+A recent conversation, for example, will appear as a dot on the swirl. To go back to the moment before this conversation occurred, the player must rewind to the dot. It is then possible to repeat the same conversation and make different choices.
+
+{{Main|Control Scheme}}
+=== <u>PC Controls</u> ===
+Press '''Right Mouse Button''' and hold - Rewind
+
+Press '''Right Mouse Button''' and hold '''Shift''' - Rewind faster
+
+Press '''Control''' - Rewinds to the last event on the recent timeline (indicated by a dot on the swirl, as above)
+
+Press '''A/D''' and '''Left Mouse Button/Right Mouse Button''' - Focus on photos
+
+=== <u>PlayStation Controls</u> ===
+
+Press '''L2''' and hold - Rewind
+
+While holding down '''L2''' to rewind, hold down '''R2''' - Rewind faster
+
+Press '''L1''' - Rewinds to the last event on the recent timeline (indicated by a dot on the swirl, as above)
+
+Press '''Left Stick''' and '''Right Stick''' - Focus on photos
+
+=== <u>Xbox Controls</u> ===
+
+Press '''LT''' and hold - Rewind
+
+While holding down '''LT''' to rewind, hold down '''RT''' - Rewind faster
+
+Press '''LB''' - Rewinds to the last event on the recent timeline (indicated by a dot on the swirl, as above)
+
+Press '''Left Stick''' and '''Right Stick''' - Focus on photos
+
+== Consequences ==
+{{Main|Max's Abilities#Consequences}}
+
+== Puzzles ==
+[[File:Puzzle.png|thumb|106x106px]]
+In the tradition of adventure games, the player has to solve numerous puzzles by using Max's rewind, 30 in total.
+
+===<u>Episode One - "Chrysalis"</u>===
+* Convincing [[Justin Williams]] to show Max a skateboard move of her choice (optional).
+* Convincing [[Brooke Scott]] to allow Max to fly her drone (optional).
+* Forcing [[Victoria Chase]] to move aside and let Max enter the [[Prescott Dormitory|dormitory]].
+* Taking an [[Optional Photos|optional photo]] of Victoria's photo arrangement without leaving behind any evidence of Max having vandalized it (optional).
+* Convincing [[Dana Ward]] to admit to her pregnancy without knowing Max had previously searched through her room (optional).
+* Warning [[Alyssa Anderson]] about the football throw and taking an optional photo (optional).
+* Taking optional photo of [[Frank Bowers]]'s [[Frank's RV|RV]] without leaving behind any evidence of Max having vandalized it (optional).
+* Saving the [[Blue Jay]] from killing itself (optional).
+* Obtaining the box of precision screwdrivers in [[David Madsen]]'s [[David's Garage|workshop]].
+* Uncovering David's surveillance information without leaving any evidence which will implicate Chloe (optional).
+* Hiding from David who is preparing to enter [[Chloe's Room|Chloe's room]].
+
+===<u>Episode Two - "Out of Time"</u>===
+* Warning Alyssa from a toilet roll throw (optional).
+* Searching for [[Kate Marsh]]'s book without damaging it.
+* Convincing [[Taylor Christensen]] to open up to Max (optional).
+* Convincing Chloe to believe in Max's rewind powers at the [[Two Whales Diner]] by succeeding at her challenges.
+* Saving Chloe from an approaching [[train]] without damaging the [[Train Tracks|train tracks]].
+* Convincing [[Courtney Wagner]] to allow Max into the [[Vortex Club]]'s planned [[End of the World Party|party]] (optional).
+* Helping [[Warren Graham]] with his science experiment to score him a higher grade (optional).
+
+===<u>Episode Three - "Chaos Theory"</u>===
+* Sneaking past Principal [[Raymond Wells|Ray Wells]].
+* Breaking into the [[Principal Wells' Office|principal's office]].
+* Warning Alyssa from being splashed by a passing car (optional).
+* Taking Frank's RV keys without Frank knowing Max had taken them.
+* Obtaining [[William Price]]'s car keys before he does and hiding them from his beeper.
+
+=== <u>Episode Four - "Dark Room"</u> ===
+* Undoing the fire extinguisher damage to [[Nathan's Room|Nathan's room]] door handle in the dormitories (optional).
+* Opening the lock to the [[Dark Room (Location)|Dark Room]].
+* Warning Alyssa from being knocked into the [[Blackwell Swimming Pool|swimming pool]] (optional).
+
+=== <u>Episode Five - "Polarized"</u> ===
+* Helping David win the fight against [[Mark Jefferson]].
+* Warning [[Evan Harris]] from being killed by flying debris (optional).
+* Reaching the [[R.J. MacReady|fisherman]] safely and warning him about the exposed electrical wire (optional).
+* Preventing a fire from reaching the Two Whales Diner and causing a massive explosion.
+
+== Unrewindable Actions ==
+[[File:Unrewindable.png|thumb|80px]]
+There are some situations or instances throughout the game where Max cannot use her rewind powers and therefore makes decisions she has to live with as the game progresses.
+*In [[Episode 2: Out of Time|Episode 2]], Max cannot rewind on the rooftop with Kate, because she presumably used all her energy to freeze time in order to get to Kate.
+*In [[Episode 4: Dark Room|Episode 4]], Jefferson injects Max's neck with a syringe filled with a drug, making her unconscious and unable to rewind time while being unconscious.
+
+== Forced Rewinds ==
+[[File:ForcedRewind.png|thumb|80px]]
+Throughout the game, there are multiple instances where Max is forced to rewind because either she and or a person that she care’s about nearby is in a life-threatening situation, or Max is required to do something specific in order to progress further. During such moments, Max's surroundings will freeze and the screen will become desaturated.
+===<u>Episode One - "Chrysalis"</u>===
+*Chloe Price gets shot by [[Nathan Prescott]].
+*Paint can is allowed to hang (un-tampered with) on scaffolding for [[Samuel Taylor]] to paint the wall, or paint can falls down onto the empty ground below.
+*Box of precision screwdrivers falls under furniture with no easy way to get it.
+*Hit by [[lighthouse]] debris (avoidable).
+*Hit by boulder (avoidable).
+*Falling tree falls down on the path in front of Max (avoidable).
+*Hit by falling tree (avoidable).
+*Hit by falling logs (avoidable).
+*Hit by lighthouse debris again (avoidable).
+
+===<u>Episode Two - "Out of Time"</u>===
+*Accidentally spilled soda on Kate's book.
+*Failed Chloe's challenge to guess the items in her pockets.
+*Failed a challenge to Chloe to predict the four events that will happen within the diner.
+*Accidentally broke a bottle while trying to get one of the bottles for Chloe.
+*Trapped by heavy debris while trying to get one of the bottles for Chloe.
+*Chloe Price misses her first two shots.
+*Chloe Price is directed to shoot at any target other than the wheel rim on the left or the car tire on the right (avoidable).
+*Chloe Price gets struck in the chest by a bullet after being directed to shoot at the car bumper (avoidable).
+*Max Caulfield gets hit by a moving train (avoidable).
+*Chloe Price gets hit by a moving train (only avoidable if the quicker option to damage the train tracks with the cable drum is chosen).
+
+===<u>Episode Three - "Chaos Theory"</u>===
+*[[File:Forced Rewind Max and Frank.jpg|thumb|231x231px]] Principal Wells finishes trying out all his keys and sits down to watch the dormitory exit.
+*Using a pipe bomb to blow up the door into Principal Wells's office and triggering fire alarm.
+*Spotted by Blackwell security guard while in locker or toilet area in Blackwell swimming pool (avoidable).
+*Attacked by Frank Bowers when Max takes his keys or spills his beer or beans. He lunges at her, saying he is going to kill her, but it is unclear how far he would go.
+*Breaking the knife to open a vent to find nothing inside while in Frank's RV (avoidable).
+*Allowing William Price to leave [[Price Household (2008)|Chloe's house]] with the car keys.
+
+===<u>Episode Four - "Dark Room"</u>===
+*Spotted by David Madsen while trying to distract him and take his locker keys (avoidable).
+*Entering a wrong PIN code on Nathan's phone three times (avoidable).
+*Entering a wrong code to the Dark Room multiple times (avoidable).
+*Spotted by two guys at the End Of The World party after accidentally dropping a column speaker into the pool while trying to enter the Vortex Club VIP section (avoidable).
+
+=== <u>Episode Five - "Polarized"</u> ===
+* Overdosed by Mark Jefferson.
+* Attempting to warn David too early (avoidable).
+* David Madsen gets bludgeoned or shot to death by Mark Jefferson.
+* Hit by falling electrical pole (avoidable).
+* Preventing a fire from reaching the Two Whales Diner and causing a massive explosion, killing everyone in it.
+* Giving an unconvincing answer to Chloe, causing her to continue to head into the End of the World Party (avoidable).
+* Spotted by any of the characters searching for Max with their flashlights or by the rotating beam from the [[Blackwell Academy]] founder's statue in Max's [[Max's Nightmare|nightmare]] section (avoidable).
+
+== Trivia ==
+* If Max looks at her journal in "[[Episode 1: Chrysalis|Chrysalis]]", she thinks that she hasn't kept up with it as much as she should. As she reads it, she wonders what other people would think if they looked at it. If she looks at it again after rewinding time, she notices that nothing has moved and wonders what is going on.
+** That may be due to the fact that any object in Max's possession (in contact with her or in her bag/pocket) travels with her, as evidenced when she takes Frank's key and then rewinds time, letting her keep the key without him knowing she has it.
+* If you rewind time after using the vending machine and use it again while searching through Blackwell at night in "[[Episode 3: Chaos Theory|Chaos Theory]]", Max will make a comment about how she could get every can in the machine with just one coin.
+* If you try to go inside the Swimming Pool lockers in "Chaos Theory" and then rewind to open the door for Chloe, Chloe says, "Dude, it's getting old! Try and dazzle me with another trick!"
+* The Vortex Club symbol is similar to the rewind meter that is displayed in the top left corner whenever Max rewinds.
+* The sounds Max hears while rewinding are reversed future and past dialog pieces.<ref>Geek Remix
+ videos: [https://www.youtube.com/watch?v=DsfrTcCumw8], [https://www.youtube.com/watch?v=O3eQ_hg1waQ] - Rewind sound effects backwards, cleaned up</ref> These same dialog pieces are used for almost every rewind; no other dialog is reversed and played.
+** In the reversed Blackwell Academy sequence of Max's nightmare in "[[Episode 5: Polarized|Polarized]]", you can hear and see things normally if Max uses her rewind in this scene.
+*Max rewinds time at 2x speed normally and at 20x speed if she want to rewind time quickly.
+*When Max uses her rewind, she is not affected by changes in either time or space. In a [[ENS Panel (February 2, 2016)|panel]] with Dontnod, it was revealed that the team thought of acknowledging it directly in the game with other characters being surprised to see Max magically appearing but dropped it because it brought more problems than the ones they fixed.
+
+== References ==
+<references />[[pt-br:Rebobinar]]
+[[ru:Перемотка]]
+
+[[Category:Gameplay]]
+[[Category:Time]]
+[[Category:Gameplay (Life is Strange)]]
+
+[[Category:Time Travel]]
+[[Category:Life is Strange]]

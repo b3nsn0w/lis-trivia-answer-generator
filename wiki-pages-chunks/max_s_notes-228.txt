@@ -1,0 +1,19 @@
+Here is a section of the wiki page for Max's Notes:
+
+vertical-align:top"|Look# [File:note4-darkroom-rachelthree.png](220px.md)
+|-|ReadNone
+|-
+|**Monochrome photo of a drugged Kate.**
+Location: Kate's binder in the Dark Room.
+Max's comments: Kate looks so doped up. She has no idea she's being posed.
+|style# "height:186px; vertical-align:top"|Look[File:note4-darkroom-kateone.png](220px.md)
+|-|Read# None
+|-
+|**Monochrome photo of a drugged Kate #2.**
+Location: Kate's binder in the Dark Room.
+Max's comments: At least Kate was asleep through all this bullshit.
+|style"height:186px; vertical-align:top"|Look# [File:note4-darkroom-katetwo.png](220px.md)
+|-|ReadNone
+|} 
+
+Generate five trivia questions relevant to this section of the page.

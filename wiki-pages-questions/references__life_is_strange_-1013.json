@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the reference behind the missing person entry for \"Winston Smith\" on Max's laptop?",
+    "answer": "A",
+    "choices": {
+      "A": "A character from a George Orwell novel",
+      "B": "A famous musician",
+      "C": "A historical figure",
+      "D": "A fictional character from a TV show"
+    }
+  },
+  {
+    "question": "What is the reference behind Max's quote \"Let there be...\" when turning on her flashlight?",
+    "answer": "B",
+    "choices": {
+      "A": "A famous song by Prince",
+      "B": "A creation story from the Bible",
+      "C": "A quote from a Douglas Adams novel",
+      "D": "A quote from a Jack Kerouac novel"
+    }
+  },
+  {
+    "question": "What is the reference behind the Vortex Club \"End of the World Party\" poster in the hall?",
+    "answer": "A",
+    "choices": {
+      "A": "A famous song by Prince",
+      "B": "A quote from a Douglas Adams novel",
+      "C": "A reference to a movie",
+      "D": "A reference to a popular club"
+    }
+  },
+  {
+    "question": "What is the reference behind the glow in the dark figurine in Victoria's room?",
+    "answer": "A",
+    "choices": {
+      "A": "A reference to a French and Chinese film",
+      "B": "A reference to a famous musician",
+      "C": "A reference to a historical figure",
+      "D": "A reference to a popular TV show"
+    }
+  }
+]

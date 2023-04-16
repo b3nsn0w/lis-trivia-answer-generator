@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Changed About Mark Jefferson's Birth Date In The Limited Edition Release?",
+    "answer": "A",
+    "choices": {
+      "A": "It Was Changed To April 11, 1975",
+      "B": "It Was Changed To April 11, 1985",
+      "C": "It Was Changed To April 11, 1995",
+      "D": "It Was Changed To April 11, 2005"
+    }
+  },
+  {
+    "question": "What Was Swapped In The Everyday Heroes Photo Contest Submissions In The Limited Edition Release?",
+    "answer": "A",
+    "choices": {
+      "A": "Victoria Chase And Daniel DaCosta",
+      "B": "Max Caulfield And Kate Marsh",
+      "C": "Rachel Amber And Nathan Prescott",
+      "D": "Warren Graham And Brooke Scott"
+    }
+  },
+  {
+    "question": "What Was Changed About Chloe's Position In The Chloe's Dare Decision In The Limited Edition Release?",
+    "answer": "B",
+    "choices": {
+      "A": "She Was Standing Up",
+      "B": "She Was Sitting Down",
+      "C": "She Was Lying Down",
+      "D": "She Was Upside Down"
+    }
+  },
+  {
+    "question": "What Was Added To The Cover Of The Art Book In The Limited Edition Release?",
+    "answer": "A",
+    "choices": {
+      "A": "Stickers And Tape",
+      "B": "Glitter And Gems",
+      "C": "Feathers And Fur",
+      "D": "Ribbons And Bows"
+    }
+  }
+]

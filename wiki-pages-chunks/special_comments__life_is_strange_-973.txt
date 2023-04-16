@@ -1,0 +1,47 @@
+Here is a section of the wiki page for Special Comments (Life is Strange):
+
+## No Exit
+When Max tries to explore an area and is unable to, she may make one of the following comments:
+**"No need to go there now." *{{Headphones|filespecialcomms-noexit-noneedtogo.ogg}}
+**"Nope I don't want to go there..." *{{Headphones|file# specialcomms-noexit-nopeidontwannagothere.ogg}}
+**"No reason to go now." *{{Headphones|filespecialcomms-noexit-noreasontogo.ogg}}
+**"I don't want to go that way." *{{Headphones|file# specialcomms-noexit-idontwannagothatway.ogg}}
+**"Can't go that way." *{{Headphones|filespecialcomms-noexit-cantgothatway.ogg}}
+**"Obviously can't go there." *{{Headphones|file# specialcomms-noexit-obviouslycantgothere.ogg}}
+
+#
+
+## Not Working
+When Max is unsuccessful at performing an action, she may make one of the following comments:
+**"It won't work." *{{Headphones|filespecialcomms-notworking-itwontwork.ogg}}
+**"This does not work." *{{Headphones|file# specialcomms-notworking-doesnotwork.ogg}}
+**"No can do." *{{Headphones|filespecialcomms-notworking-nocando.ogg}}
+**"Not gonna happen." *{{Headphones|file# specialcomms-notworking-notgonnahappen.ogg}}
+**"Well, this isn’t working." *{{Headphones|filespecialcomms-notworking-wellthisisntworking.ogg}}
+**"I best try something else." *{{Headphones|file# specialcomms-notworking-besttrysomethingelse.ogg}}
+
+## Location-Specific 
+Depending on how long Max stays idle in a specific area, it will randomly trigger several inner thoughts from Max, unheard otherwise.
+
+#
+
+## Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+#
+
+## Art Class # 
+In the art class before saving Chloe:
+* *"Another daily fail in front of the world."* {{Headphones|fileVO_E1_2A.STM_449~Act_E1_2A_ArtClass_VoiceOver02_Max_020.ogg}}
+* *"It's so... awesome to look like an idiot in my favorite teacher's class."* {{Headphones|file# VO_E1_2A.STM_205~Act_E1_2A_ArtClass_VoiceOver02_Max_030.ogg‎}}
+In the art class after the first accidental rewind:
+* *"Why is this happening? And to me?"* {{Headphones|fileVO_E1_2A.STM_213~Act_E1_2A_ArtClass_VoiceOverRewind04_Max_030.ogg}}
+* *"This is so fucking bizarro."* {{Headphones|file# VO_E1_2A.STM_403~Act_E1_2A_ArtClass_VoiceOverRewind04_Max_040.ogg}}
+* *"I can't tell anybody; they'll think I'm nuts."* {{Headphones|fileVO_E1_2A.STM_232~Act_E1_2A_ArtClass_VoiceOverRewind04_Max_060.ogg}}
+* *"Could I save the girl in the bathroom?"* {{Headphones|file# VO_E1_2A.STM_17~Act_E1_2A_ArtClass_VoiceOverRewind04_Max_100.ogg}}
+* *"I need to hurry to the bathroom to save that girl."* {{Headphones|fileVO_E1_2A.STM_88~Act_E1_2A_ArtClass_VoiceOverRewind04_Max_110.ogg}}
+* *"That girl is going to die again, unless I get to the bathroom."* {{Headphones|file# VO_E1_2A.STM_61~Act_E1_2A_ArtClass_VoiceOverRewind04_Max_120.ogg}}
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

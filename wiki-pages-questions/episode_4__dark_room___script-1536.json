@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Say About Victoria's Talent?",
+    "answer": "A",
+    "choices": {
+      "A": "She Admits That Victoria Has Some Talent",
+      "B": "She Insults Victoria's Photography Skills",
+      "C": "She Says That Victoria Is Mediocre",
+      "D": "She Doesn't Comment On Victoria's Talent"
+    }
+  },
+  {
+    "question": "What Does Victoria Say About Her Choices?",
+    "answer": "B",
+    "choices": {
+      "A": "She Always Makes The Best Choices",
+      "B": "She Admits That She Doesn't Always Make The Best Choices",
+      "C": "She Says That Her Choices Are None Of Max's Business",
+      "D": "She Refuses To Talk About Her Choices"
+    }
+  },
+  {
+    "question": "What Does Victoria Say About Mr. Jefferson?",
+    "answer": "A",
+    "choices": {
+      "A": "She Thinks He Will Choose Her Photo For The Contest",
+      "B": "She Doesn't Think She Will Win The Contest",
+      "C": "She Is Disappointed That Mr. Jefferson Can't Go To San Francisco",
+      "D": "She Doesn't Care About The Contest"
+    }
+  },
+  {
+    "question": "What Does Max Say About Victoria's Photographs?",
+    "answer": "B",
+    "choices": {
+      "A": "She Compliments Victoria's Headshots",
+      "B": "She Insults Victoria's Photographs",
+      "C": "She Says That Victoria's Photographs Are Better Than Hers",
+      "D": "She Doesn't Comment On Victoria's Photographs"
+    }
+  },
+  {
+    "question": "What Does Victoria Say About Letting Max Into The Vortex Club?",
+    "answer": "B",
+    "choices": {
+      "A": "She Offers To Let Max Join The Vortex Club",
+      "B": "She Refuses To Let Max Join The Vortex Club",
+      "C": "She Says That Max Is Not Cool Enough To Join The Vortex Club",
+      "D": "She Is Indifferent About Max Joining The Vortex Club"
+    }
+  }
+]

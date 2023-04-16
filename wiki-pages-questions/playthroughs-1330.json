@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which Playthrough Has The Most Views?",
+    "answer": "A",
+    "choices": {
+      "A": "Pewdiepie",
+      "B": "Jacksepticeye",
+      "C": "Gronkh",
+      "D": "NukemDukem"
+    }
+  },
+  {
+    "question": "Which Playthrough Has The Least Dislikes?",
+    "answer": "C",
+    "choices": {
+      "A": "Pewdiepie",
+      "B": "Jacksepticeye",
+      "C": "Gronkh",
+      "D": "NukemDukem"
+    }
+  },
+  {
+    "question": "Which Playthrough Has The Most Episodes Listed?",
+    "answer": "C",
+    "choices": {
+      "A": "Pewdiepie",
+      "B": "Jacksepticeye",
+      "C": "Gronkh",
+      "D": "NukemDukem"
+    }
+  },
+  {
+    "question": "Which Playthrough Has The Lowest Approval Ratio?",
+    "answer": "D",
+    "choices": {
+      "A": "Pewdiepie",
+      "B": "Jacksepticeye",
+      "C": "Gronkh",
+      "D": "NukemDukem"
+    }
+  },
+  {
+    "question": "Which Playthrough Has The Most Likes?",
+    "answer": "A",
+    "choices": {
+      "A": "Pewdiepie",
+      "B": "Jacksepticeye",
+      "C": "Gronkh",
+      "D": "NukemDukem"
+    }
+  }
+]

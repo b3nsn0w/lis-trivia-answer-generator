@@ -1,0 +1,42 @@
+[
+  {
+    "question": "According to one theory, what is the actual reality point that the game is based on?",
+    "answer": "A",
+    "choices": {
+      "A": "The day in Mark Jefferson's class before the strange events began",
+      "B": "The day Max first discovered her time rewind power",
+      "C": "The day Chloe was shot by Nathan",
+      "D": "The day the tornado hit Arcadia Bay"
+    }
+  },
+  {
+    "question": "What is the theory behind the cause of the upcoming disastrous tornado in Arcadia Bay?",
+    "answer": "A",
+    "choices": {
+      "A": "Chloe's wrath toward her miserable destiny",
+      "B": "Max's time rewind power",
+      "C": "Rachel's supernatural powers",
+      "D": "The Butterfly Effect"
+    }
+  },
+  {
+    "question": "What is the likely theory that ties the game together?",
+    "answer": "A",
+    "choices": {
+      "A": "Max needs to let Chloe die in order to correct the timeline",
+      "B": "Max needs to save Chloe and placate Nathan",
+      "C": "Max needs to go back to the day she discovered her power",
+      "D": "Max needs to stop the tornado from happening"
+    }
+  },
+  {
+    "question": "According to one theory, who is connected to Max's power or may even be the source of it?",
+    "answer": "D",
+    "choices": {
+      "A": "Rachel Amber",
+      "B": "Mark Jefferson",
+      "C": "Nathan Prescott",
+      "D": "Chloe Price"
+    }
+  }
+]

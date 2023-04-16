@@ -1,0 +1,147 @@
+Here is a section of the wiki page for Episode 1: Chrysalis - Script:
+
+distracted.
+
+I need to talk.I need to talk.
+
+**Max:** I need to talk to somebody...just to get it out of my system...
+
+**Warren:** Dr. Warren Graham is in da house. I won't even prescribe you any meds... Tell me everything.
+
+|-|Don't want to speak about it.# Don't want to speak about it.
+
+**Max:** I don't wanna speak about it. This is kind of a crazy day for me. I mean, I literally think I'm going crazy...
+
+**Warren:** I may be a pest, but...I'm a good listener.
+
+**Max:** For reals, Warren, this is between you and me, not social media.
+
+**Warren:** Don't insult me. Max, go on.
+
+**Max:** I had this incredibly bizarro experience in Mr. Jefferson's class today... I mean, life-changing. Have you ever had a dream so real it was like a movie?
+
+*Nathan approaches Max and Warren angrily.*
+
+**Nathan:** Max Caulfield, right? You're one of the Jefferson's photo groupies...
+
+**Max:** I'm one of his students.
+
+*Nathan shoves Warren away.*
+
+**Nathan:** Whatthefuckever. I know you like to take pictures, especially when you're hiding out in the bathrooms.
+
+(Reported Nathan)(Reported Nathan)
+
+**Nathan:** You best tell me what you told the Principal. Now. Answer me, bitch!
+
+{{#tag:tabber|I told him the truth.# I told him the truth.
+
+**Max:** I told him the truth. A student had a gun.
+
+**Nathan:** No, you told him I had a gun. That's why he dragged me into his office.
+
+**Max:** And did what? Gave you a stern lecture?
+
+**Nathan:** Nobody...nobody lectures me. Everyone tries though... They try...
+
+**Max:** You should talk to somebody, Nathan...
+
+{{!}}-{{!}}What are you talking about?What are you talking about?
+
+**Max:** What are you talking about?
+
+**Nathan:** I know you're new here, but don't even play stupid with me.
+
+**Max:** I'm not new. I've lived here for years.
+
+**Nathan:** Then you should know the Prescotts own this shithole.
+
+**Max:** Then you don't have to worry about me... Worry about yourself.
+
+}}
+
+|-|(Hid the truth)# (Hid the truth)
+
+**Nathan:** You best tell me what you saw. Now!
+
+{{#tag:tabber|What are you talking about?What are you talking about?
+
+**Max:** What are you talking about?
+
+**Nathan:** I know you're new here, but don't even play stupid with me.
+
+**Max:** I'm not new. I've lived here for years.
+
+**Nathan:** Then you should know the Prescotts own this shithole.
+
+**Max:** Then you don't have to worry about me... Worry about yourself.
+
+{{!}}-{{!}}Nothing.# Nothing.
+
+**Max:** Nothing but a butterfly.
+
+**Nathan:** You're full of shit! I'd respect you more if you told me the truth.
+
+**Max:** I don't need your respect.
+
+**Nathan:** You're clueless. You have no idea who I am or what I can do!
+
+**Max:** Actually, I have a pretty good idea of who you are.
+
+}}
+
+*Nathan clenches his fists.*
+
+**Nathan:** Do not analyze me! I pay people for that. Worry about yourself, Max Caulfield.
+
+Take a step back.Take a step back.
+
+**Max:** Take a step back, Nathan Prescott.
+
+**Nathan:** Oh, man, you're telling me what to do?
+
+|-|I could call the police.# I could call the police.
+
+**Max:** I could call the police.
+
+**Nathan:** Do it. The Prescotts own the pigs here.
+
+**Warren:** Get away from her, dude.
+
+*Nathan headbutts Warren. He falls down and holds his head in pain.*
+
+**Max:** Hey, leave him alone!
+
+*Max shoves Nathan, but he turns around and holds her by the neck.*
+
+**Nathan:** Nobody tells me what to do. Not my parents, not the Principal, or that whore in the bathroom!
+
+**Max:** Stop that! Right now!
+
+''Max scrapes Nathan's cheek with her fingernails and he pushes her to the ground. A beige truck drives up to the scene. Max gets up and looks in the windshield, where the girl from the bathroom is in the driver's seat.*
+
+**Chloe:** Max?
+
+**Max:** Chloe?
+
+**Nathan:** No way. You again?
+
+*Warren jumps at Nathan and knocks him to the ground.*
+
+**Max:** Warren!
+
+**Warren:** Go, go! I got this!
+
+*Nathan starts punching Warren in the face. Chloe opens the car door next to Max.*
+
+**Chloe:** Get in, Max!
+
+*Max gets in the car. Nathan gets up and kicks the door closed.''
+
+**Nathan:** Get your punk asses out of there now! Don't even try to run! Nobody messes with me! NOBODY!
+
+*Max and Chloe drive away. In the background, David Madsen runs into the parking lot.*
+
+# 
+
+Generate five trivia questions relevant to this section of the page.

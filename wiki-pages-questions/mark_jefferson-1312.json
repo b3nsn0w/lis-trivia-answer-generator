@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Mark Jefferson's Most Popular Work?",
+    "answer": "B",
+    "choices": {
+      "A": "Landscape Photography",
+      "B": "Black and White Portrait Photography",
+      "C": "Street Photography",
+      "D": "Wildlife Photography"
+    }
+  },
+  {
+    "question": "Where Did Mark Jefferson Attend Art School?",
+    "answer": "B",
+    "choices": {
+      "A": "Blackwell Academy",
+      "B": "American Academy of Art in Chicago",
+      "C": "New York University",
+      "D": "Parsons School of Design"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Secret Location Where Mark Jefferson Pursues His Illegal Photography?",
+    "answer": "A",
+    "choices": {
+      "A": "The Dark Room",
+      "B": "The Black Room",
+      "C": "The Secret Studio",
+      "D": "The Hidden Bunker"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Contest That Mark Jefferson Wants His Students To Submit A Photo For?",
+    "answer": "A",
+    "choices": {
+      "A": "Everyday Heroes",
+      "B": "Artistic Visions",
+      "C": "Creative Minds",
+      "D": "Masterpiece Challenge"
+    }
+  },
+  {
+    "question": "What Is The Rumor That Max Learns About Mark Jefferson In Episode One?",
+    "answer": "C",
+    "choices": {
+      "A": "He Is A Serial Killer",
+      "B": "He Is A Drug Addict",
+      "C": "He Had Sex With Rachel Amber",
+      "D": "He Is A Secret Agent"
+    }
+  }
+]

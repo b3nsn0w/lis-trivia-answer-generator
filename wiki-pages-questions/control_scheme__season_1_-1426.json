@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What button is used to pause the game on PlayStation 4?",
+    "answer": "C",
+    "choices": {
+      "A": "Share Button",
+      "B": "Touchpad Button",
+      "C": "Options Button",
+      "D": "L1 Button"
+    }
+  },
+  {
+    "question": "What button is used to access Max's journal on Xbox 360?",
+    "answer": "A",
+    "choices": {
+      "A": "Back Button",
+      "B": "Start Button",
+      "C": "LT Button",
+      "D": "RB Button"
+    }
+  },
+  {
+    "question": "What button is used to focus on photos on both PlayStation 4 and Xbox 360?",
+    "answer": "C",
+    "choices": {
+      "A": "Share Button",
+      "B": "Touchpad Button",
+      "C": "Focus Button",
+      "D": "Y Button"
+    }
+  },
+  {
+    "question": "What button is used to interact with and study objects in front of Max on Xbox 360?",
+    "answer": "A",
+    "choices": {
+      "A": "Y Button",
+      "B": "X Button",
+      "C": "A Button",
+      "D": "B Button"
+    }
+  },
+  {
+    "question": "What button is used to skip or fast-forward through a previously viewed scene on PlayStation 4?",
+    "answer": "B",
+    "choices": {
+      "A": "L1 Button",
+      "B": "R1 Button",
+      "C": "L2 Button",
+      "D": "R2 Button"
+    }
+  }
+]

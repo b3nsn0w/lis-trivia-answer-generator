@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What Did Max and Chloe Plan To Do To One Of Their Neighbor's Houses?",
+    "answer": "B",
+    "choices": {
+      "A": "Paint It",
+      "B": "TP It",
+      "C": "Egged It",
+      "D": "Graffiti It"
+    }
+  },
+  {
+    "question": "What is the reason for Max's absence in Before the Storm?",
+    "answer": "A",
+    "choices": {
+      "A": "She moved to Seattle",
+      "B": "She was in a coma",
+      "C": "She was studying abroad",
+      "D": "She was in jail"
+    }
+  },
+  {
+    "question": "What does Hannah Telle, Max's voice actor, say about Max and Chloe's relationship?",
+    "answer": "C",
+    "choices": {
+      "A": "They are just friends",
+      "B": "They are romantically involved",
+      "C": "Their relationship is bigger than love",
+      "D": "They are enemies"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+Here is a section of the wiki page for Max's Room:
+
+#  Max's Room 
+
+```yaml
+Location
+
+image: MaxRoomFrontSide.jpg
+type: Dormitory bedroom
+location: >-
+  [Prescott Dormitory](prescott_dormitory.md), [Blackwell
+  Academy](blackwell_academy.md), [Arcadia Bay](arcadia_bay.md)
+state: Oregon
+appears: >-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)[Episode 2: Out of
+  Time](episode_2__out_of_time.md)[Episode 3: Chaos
+  Theory](episode_3__chaos_theory.md)
+
+  [Episode 5: Polarized](episode_5__polarized.md)
+```
+
+> Home, sweet home. My favorite cocoon...
+
+**[Maxine Caulfield**, Max Caulfield](maxine_caulfield____max_caulfield.md) in "[Episode 1: Chrysalis, Chrysalis](episode_1__chrysalis__chrysalis.md)"
+
+'''Max's Room''' is number 219 in the [Prescott Dormitory](prescott_dormitory.md) at [Blackwell Academy](blackwell_academy.md). [Maxine Caulfield](max.md) fondly refers to it as her "favorite cocoon". She seems to have made herself at home in the room, with many of her personal belongings reflecting her love of photography and her links to [Seattle](seattle.md).
+
+In [Max's Nightmare](max_s_nightmare.md), the name "Tara Garcia" replaces Max's name on the dorm map, hinting that she occupied Max's dorm room before she arrived at Blackwell.
+
+## Exterior 
+Max's door slate is the only notable thing outside the room; in [Episode 1: Chrysalis](episode_1.md) it is blank, and Max has the opportunity to draw on it. She writes her name and creates an image of an awkward figure (poker face meme), commenting that she has nothing to say.
+
+In [Episode 2: Out of Time](episode_2.md), if Max comforted [Victoria Chase](victoria_chase.md) on the previous day, Max's door slate will remain intact. If Max made fun of Victoria, Max's door slate will be vandalized and Max may change the picture and message on it.
+
+## Interior 
+
+#
+
+## Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+On the wall next to the door, there is a mirror. There is also a power strip that Max can turn on and off, and it powers the lights that are hung above her bed. There is also Max's wardrobe against the wall, and a box of chocolate coconut bites that [Vanessa Caulfield](her_mother.md) sent Max for her birthday.
+
+Max has photos covering most of the wall that is to the right of the door. She thinks of it as "[The Max Caulfield Photo Memorial Wall](the_max_caulfield_photo_memorial_wall.md)". Her bed is by this wall, and Max has a cushion she sewed with her mother. Also on the bed is Max's teddy bear. By the end of the bed is a chest of drawers. Inside is a photo of Max with her best friend [Chloe Price](chloe_price.md) from five years ago. On top of the drawers are a Hi-Fi stereo, headphones, notes, cups, and other miscellaneous things. There is a shelf of art books above the drawers. Next to the drawers, the wall has more photos, including a tourist poster of her at the Space Needle, a photo of her at a hockey game with [Ryan Caulfield](her_dad.md), and a photo of her with her friends from Seattle, [Kristen](kristen.md) and [Fernando](fernando.md), at Fremont Troll.
+
+On the unpainted wall opposite the door, there is a window with a plant beneath it, named [Lisa the Plant](lisa.md). The wall next to the window has papers stuck to it, and there is a desk against the wall that has [Max's Computer](max_s_laptop.md) on it. The desk also has a photo album on it. A shelf next to the desk has miscellaneous things on it, such as another plant, and her film collection.
+
+Opposite the wall with Max's bed against it, there is a radiator with a poster above it. There is a sofa next to the radiator, a shelf with instant film on it, and a lamp. Max's borrowed copy of "The October Country" is on the sofa, as well as some cushions. There are some images and records above the sofa, as well as a pennant for the Thunderbirds team, and Max's guitar is leaning against the sofa.
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

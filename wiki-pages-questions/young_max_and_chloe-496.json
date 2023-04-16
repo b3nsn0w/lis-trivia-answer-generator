@@ -1,0 +1,52 @@
+[
+  {
+    "question": "According to Max, why did her family never take fun, goofy photos like Chloe's?",
+    "answer": "B",
+    "choices": {
+      "A": "They were too busy with work",
+      "B": "They were too serious",
+      "C": "They didn't have a camera",
+      "D": "They didn't like taking photos"
+    }
+  },
+  {
+    "question": "When Chloe and Max were chastised by Chloe's father, how did Chloe react?",
+    "answer": "B",
+    "choices": {
+      "A": "She took it seriously and apologized",
+      "B": "She laughed at her father's attempts to give them a \"time-out\"",
+      "C": "She cried and ran away",
+      "D": "She ignored her father and continued misbehaving"
+    }
+  },
+  {
+    "question": "What did Max say about the bond between Chloe and her father when she saw a photo of them together?",
+    "answer": "C",
+    "choices": {
+      "A": "It was fake",
+      "B": "It was non-existent",
+      "C": "It was close and filled with love",
+      "D": "It was strained and distant"
+    }
+  },
+  {
+    "question": "What happened to Max that caused her parents to rush her to the hospital?",
+    "answer": "B",
+    "choices": {
+      "A": "She broke her arm",
+      "B": "She swallowed the eye of her teddy bear",
+      "C": "She got a bad cold",
+      "D": "She fell down the stairs"
+    }
+  },
+  {
+    "question": "What activity did Max fondly reflect back on doing with her mother?",
+    "answer": "C",
+    "choices": {
+      "A": "Baking cookies",
+      "B": "Playing video games",
+      "C": "Sewing a cushion",
+      "D": "Painting a picture"
+    }
+  }
+]

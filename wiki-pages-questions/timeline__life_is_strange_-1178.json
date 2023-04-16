@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Name Of The Contest Max Enters In Episode 3?",
+    "answer": "A",
+    "choices": {
+      "A": "Everyday Heroes Contest",
+      "B": "Blackwell Photography Contest",
+      "C": "Arcadia Bay Art Competition",
+      "D": "Life is Strange Photo Challenge"
+    }
+  },
+  {
+    "question": "What Happens To Kate Marsh In Episode 2?",
+    "answer": "A",
+    "choices": {
+      "A": "She Attempts Suicide",
+      "B": "She Gets Kidnapped",
+      "C": "She Wins The Everyday Heroes Contest",
+      "D": "She Discovers Max's Time Rewind Power"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Party That Takes Place In Episode 4?",
+    "answer": "A",
+    "choices": {
+      "A": "The End of the World Party",
+      "B": "The Blackwell Bash",
+      "C": "The Vortex Club Soiree",
+      "D": "The Arcadia Bay Celebration"
+    }
+  },
+  {
+    "question": "What Does Max Have To Decide Between In Episode 5?",
+    "answer": "A",
+    "choices": {
+      "A": "Saving Chloe or Restoring The Original Timeline",
+      "B": "Winning The Everyday Heroes Contest or Saving The Town",
+      "C": "Telling The Truth or Keeping A Secret",
+      "D": "Going To College or Traveling The World"
+    }
+  }
+]

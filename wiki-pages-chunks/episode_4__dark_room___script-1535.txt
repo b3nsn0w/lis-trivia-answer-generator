@@ -1,0 +1,127 @@
+Here is a section of the wiki page for Episode 4: Dark Room - Script:
+
+## **Optional Conversation with Alyssa**# 
+(Warn)(Warn)
+
+**Max:** Alyssa, incoming!
+
+{{#tag:tabber|(Didn't warn in previous episodes)# (Didn't warn in previous episodes)
+
+**Alyssa:** Again? Whoa! That was too close. Thanks, Max! I wish you had been around earlier this week...
+
+{{!}}-{{!}}(Warned in a previous episode)(Warned in a previous episode)
+
+**Alyssa:** I'm on it. Whoa! Of course, you stepped up to protect me from another humiliating moment like yesterday. Thank you, Max.
+
+{{!}}-{{!}}(Warned in every episode)# (Warned in every episode)
+
+**Alyssa:** I'm on it. Whoa! Of course, my object angel has stepped up every single time to protect me from the cruel world. Thank you again, Mystic Max!
+
+}}
+
+|-|(Didn't warn)(Didn't warn)
+
+**Max:** Oh, shit, Alyssa! Are you okay?
+
+{{#tag:tabber|(Didn't warn in previous episodes)# (Didn't warn in previous episodes)
+
+**Alyssa:** Yes, I just got tagged by a water weenie and fell in the pool. I'm "Queen of the World"... And you're always nearby when I'm targeted. Maybe you could warn me one of these days, Max.
+
+{{!}}-{{!}}(Warned in a previous episode)(Warned in a previous episode)
+
+**Alyssa:** Yes, I just got tagged by a water weenie and fell in the pool. I'm great. I guess I can't expect you to warn me like you did last time.
+
+{{!}}-{{!}}(Warned in every episode)# (Warned in every episode)
+
+**Alyssa:** Yes, I just got tagged by a water weenie and fell in the pool. I'm groovy. Of course, this is the one time you didn't warn me, Max.
+
+}}
+
+**Alyssa:** I'm surprised to see you here.
+
+''Or, if Max previously spoke to Alyssa but didn't exhaust all dialogue options:''
+
+**Max:** Yes, I'm back.
+
+**Alyssa:** You scared me for a sec. I was ready to duck. Didn't think you'd come back.
+
+Kate.Kate.
+
+{{#tag:tabber|(Kate died)# (Kate died)
+
+**Max:** I'm surprised to see anybody here, considering that Kate just killed herself in front of everybody.
+
+**Alyssa:** I know. I only came because Warren was coming and I needed something else to vent about. This party is such a tribute to Kate's spirit.
+
+{{!}}-{{!}}(Kate lived)(Kate lived)
+
+**Max:** I'm surprised that Blackwell is having a party after Kate almost jumped off a roof. I guess people are happy that Kate is "okay" now and they can party again...
+
+**Alyssa:** I'm just happy she's drawing again. She seems much better and her mother is being so supportive for a change... Kate deserves that.
+
+}}
+{{#tag:tabber|Viral Video.# Viral Video.
+
+**Max:** I saw that the video got taken down, so I hope nobody posts it anywhere else... or is that naive?
+
+**Alyssa:** Look how fast people here forgot about Kate. They'll find some new Blackwell drama and forget about her video... So it goes.
+
+{{!}}-{{!}}Revenge.Revenge.
+
+**Max:** Kate deserves revenge. We have to make sure this doesn't happen to anybody else at Blackwell... 
+
+**Alyssa:** I can tell you know some serious shit by your face. You don't have to tell me now, but please let me know if I can help. Like you helped me.
+
+}}
+
+|-|Nathan.# Nathan.
+
+**Max:** Alyssa, I have to find Nathan. Have you seen him?
+
+**Alyssa:** I really don't know, but surely in the VIP section... like it's a New York club.
+
+**Max:** Thanks, Alyssa. Watch out for yourself.
+
+**Alyssa:** Why, when I have Max Caulfield at my side? Good luck.
+
+*Max automatically leaves the conversation.*
+
+|-|Vortex Club.Vortex Club.
+
+**Max:** Look at this... I'm at my first and only Vortex Club party.
+
+**Alyssa:** I know. This week was so shitty that I just wanted to be around a bunch of people trying to have a good time... even if I hate most of them.
+
+{{#tag:tabber|Victoria.# Victoria.
+
+**Max:** Victoria doesn't seem to hassle you like she does me or... Kate.
+
+**Alyssa:** She must know I'd punch her in the face. I probably should, just for Vortex Club posterity...
+
+{{!}}-{{!}}Rachel.Rachel.
+
+**Max:** I think Rachel Amber would agree...
+
+**Alyssa:** I didn't know her, but I hope she's safe and sound.
+
+**Max:** Uh... yeah. I'll talk to you later, Alyssa.
+
+**Alyssa:** Max, you look kind of tense. Maybe you should go crash. You had a tough week too with Kate... plus having to save my ass all the time.
+
+}}
+
+|-|I always warned you. (Determinant)# I always warned you. (Determinant)
+
+*Only available if Max warned Alyssa in every episode.*
+
+**Max:** I'm so glad I could warn you about all those sneak attacks.
+
+**Alyssa:** You kinda are a superhero. You always choose to help me. It reminds me of the only poem I can quote, by Robert Frost.
+
+{{#tag:tabber|Tell me now.Tell me now.
+
+**Max:** I could use one moment of poetry right now.
+
+**Alyssa:** 
+
+Generate five trivia questions relevant to this section of the page.

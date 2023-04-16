@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Name Of The Photography Contest That Victoria Wants To Win?",
+    "answer": "A",
+    "choices": {
+      "A": "Everyday Heroes",
+      "B": "Blackwell Academy Photo Contest",
+      "C": "The Jefferson Contest",
+      "D": "The Cultural Event"
+    }
+  },
+  {
+    "question": "What Does Mr. Jefferson Say Separates The Artist From The Amateur?",
+    "answer": "A",
+    "choices": {
+      "A": "Courage to Share Your Gift",
+      "B": "The Ability to Take Images",
+      "C": "The Fever to Frame the World",
+      "D": "The Talent to Edit Photos"
+    }
+  },
+  {
+    "question": "What Does Max Do With Her Polaroid Photo In The Bathroom?",
+    "answer": "A",
+    "choices": {
+      "A": "She Tears It Apart",
+      "B": "She Puts It In Her Bag",
+      "C": "She Gives It To Victoria",
+      "D": "She Throws It In The Trash"
+    }
+  },
+  {
+    "question": "What Does Max Say When She Sees The Blue Butterfly In The Bathroom?",
+    "answer": "C",
+    "choices": {
+      "A": "\"What A Beautiful Butterfly\"",
+      "B": "\"This Is A Sign\"",
+      "C": "\"I Need To Take A Photo Of This\"",
+      "D": "\"I Should Catch It And Let It Go Outside\""
+    }
+  },
+  {
+    "question": "Who Enters The Bathroom While Max Is Taking A Photo Of The Butterfly?",
+    "answer": "A",
+    "choices": {
+      "A": "Nathan Prescott",
+      "B": "Victoria Chase",
+      "C": "Mr. Jefferson",
+      "D": "Kate Marsh"
+    }
+  }
+]

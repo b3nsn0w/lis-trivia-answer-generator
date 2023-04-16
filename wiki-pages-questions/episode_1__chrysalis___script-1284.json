@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is Victoria's reaction when Max approaches her after the sprinkler incident?",
+    "answer": "A",
+    "choices": {
+      "A": "She threatens Max with Nathan's knowledge of where Max lives.",
+      "B": "She apologizes for her behavior and offers to help Max.",
+      "C": "She ignores Max and walks away.",
+      "D": "She takes a photo of Max with her phone."
+    }
+  },
+  {
+    "question": "What does Max do to Victoria after the sprinkler incident?",
+    "answer": "A",
+    "choices": {
+      "A": "She takes a photo of Victoria with her instant camera.",
+      "B": "She helps Victoria dry off and apologizes for the incident.",
+      "C": "She ignores Victoria and walks away.",
+      "D": "She spills paint on Victoria's cashmere coat."
+    }
+  },
+  {
+    "question": "What book is Alyssa reading when Max talks to her?",
+    "answer": "A",
+    "choices": {
+      "A": "Love Today Or Die Forever",
+      "B": "The Great Gatsby",
+      "C": "To Kill a Mockingbird",
+      "D": "Pride and Prejudice"
+    }
+  },
+  {
+    "question": "What is Kate's response when Max asks her how she liked class?",
+    "answer": "A",
+    "choices": {
+      "A": "She doesn't remember.",
+      "B": "She loved it.",
+      "C": "She thought it was boring.",
+      "D": "She didn't attend class that day."
+    }
+  },
+  {
+    "question": "What does Victoria say to Max after taking a photo of her with her phone?",
+    "answer": "B",
+    "choices": {
+      "A": "\"You're so lame, Max.\"",
+      "B": "\"I'll put a vintage filter on it right before I post it all over social medias.\"",
+      "C": "\"You're lucky I don't report you to the principal.\"",
+      "D": "\"You're not even worth my time.\""
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What Is The Name Of The Achievement For Taking Optional Photo #3 In Episode 1: Chrysalis?",
+    "answer": "A",
+    "choices": {
+      "A": "Telephotogenic",
+      "B": "Wide Angles",
+      "C": "Close-Ups",
+      "D": "Focal Pointed"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Achievement For Taking All Optional Photos In Episode 1: Chrysalis?",
+    "answer": "A",
+    "choices": {
+      "A": "Visionary",
+      "B": "Maximum Aperture",
+      "C": "Light Leak",
+      "D": "Red Eye"
+    }
+  }
+]

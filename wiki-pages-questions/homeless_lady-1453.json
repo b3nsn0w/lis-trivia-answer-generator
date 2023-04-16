@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Homeless Lady's Connection To Joyce Price?",
+    "answer": "D",
+    "choices": {
+      "A": "She Is Joyce's Sister",
+      "B": "She Is Joyce's Mother",
+      "C": "She Is Joyce's Aunt",
+      "D": "She Is A Friend Of Joyce's"
+    }
+  },
+  {
+    "question": "What Happens To The Homeless Lady If Max Warns Her About The Storm?",
+    "answer": "A",
+    "choices": {
+      "A": "She Finds A Shelter",
+      "B": "She Dies In The Storm",
+      "C": "She Leaves Arcadia Bay",
+      "D": "She Is Rescued By Max"
+    }
+  },
+  {
+    "question": "What Is The Homeless Lady's Opinion Of Chloe?",
+    "answer": "C",
+    "choices": {
+      "A": "She Dislikes Her",
+      "B": "She Is Indifferent To Her",
+      "C": "She Likes Her",
+      "D": "She Is Afraid Of Her"
+    }
+  },
+  {
+    "question": "What Is The Fan Theory About The Homeless Lady's Identity?",
+    "answer": "A",
+    "choices": {
+      "A": "She Is Max From The Future",
+      "B": "She Is Chloe From An Alternate Reality",
+      "C": "She Is Rachel Amber In Disguise",
+      "D": "She Is A Ghost Haunting Arcadia Bay"
+    }
+  },
+  {
+    "question": "What Is The Homeless Lady's Opinion Of Max After She Warns Her About The Storm?",
+    "answer": "A",
+    "choices": {
+      "A": "She Is Grateful To Max",
+      "B": "She Is Angry At Max",
+      "C": "She Is Suspicious Of Max",
+      "D": "She Is Indifferent To Max"
+    }
+  }
+]

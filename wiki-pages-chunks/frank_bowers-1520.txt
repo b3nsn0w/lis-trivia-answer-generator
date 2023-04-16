@@ -1,0 +1,76 @@
+Here is a section of the wiki page for Frank Bowers:
+
+#  Frank Bowers 
+
+```yaml
+Character
+
+name: Frank Bowers
+image: Frank_.png
+alsoknown: Frankie B. (by [Rachel Amber](rachel_amber.md))
+died: |-
+  October 10, 2013 (determinant)
+  October 11, 2013 (presumed, determinant)
+causeofdeath: |-
+  Shot by [Chloe Price](chloe_price.md) (determinant)
+  Killed by the [storm](storm.md) (presumed, determinant)
+gender: Male
+hair: Dirty blond
+eyes: Brown
+loveinterest: '[Rachel Amber](rachel_amber.md) (girlfriend, former)'
+friends: |-
+  [Pompidou](pompidou.md)
+  [Chloe Price](chloe_price.md) (determinant)
+  [Maxine Caulfield
+Max Caulfield](maxine_caulfield_max_caulfield.md) (determinant): ''
+profession: |-
+  Student (former)
+  Drug Dealer
+appearance: >-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)[Episode 2: Out of
+  Time](episode_2__out_of_time.md)[Episode 3: Chaos
+  Theory](episode_3__chaos_theory.md)[Episode 4: Dark
+  Room](episode_4__dark_room.md)[Episode 5: Polarized](episode_5__polarized.md)
+voice: |-
+  [Daniel Bonjour](daniel_bonjour.md) (ENG)
+  [Ryota Takeuchi](ryota_takeuchi.md) (JAP)
+height: 6'1" (1.86m)
+fullname: Francis Bowers
+age: '31'
+born: |-
+  August 31, 1981
+  Arcadia Bay, Oregon
+weight: 190 lbs (86 kg)
+relatives: Unnamed dad
+```
+
+{{DONTNODWiki}}
+> If there's a chance in hell you two dorks can find Rachel... I'll take it.
+
+**Frank to [Maxine Caulfield**, Max](maxine_caulfield____max.md) and [Chloe Price, Chloe](chloe_price__chloe.md) in "[Episode 4: Dark Room, Dark Room](episode_4__dark_room__dark_room.md)"
+
+**Frank Bowers** is a known local drug dealer who knows [Chloe Price](chloe_price.md) and [Rachel Amber](rachel_amber.md), and the owner of former dog-fight dog [Pompidou](pompidou.md). He lives in an [Frank's RV](rv.md) that moves around in various places within [Arcadia Bay](arcadia_bay.md).
+
+He is a minor antagonist in "[Episode 2: Out of Time](out_of_time.md)", and possibly other episodes of the game, depending on your choices. Frank reappears as a major character in the prequel *[Life is Strange: Before the Storm](before_the_storm.md)*.
+
+: ''For the image gallery, click [Frank Bowers/Gallery](here.md). To visit Frank's RV, click [Frank's RV](here.md).''
+
+## Personality 
+Frank is generally perceived as scary and sketchy. He mostly keeps to himself and lives an independent and solitary life in his RV - mainly on the beach outside the city - with his dog and best friend, Pompidou. He doesn't seem to trust people much, which might be the reason for his solitary life. According to his own words, he "trained Pompidou how to be [his] friend,"Frank will say this in Episode 4 when Max and Chloe are trying to get his client list if Max says that she loves dogs and wishes she had one trained as well as Pompidou. likely because he actually craves the company of someone he can trust in. Many people at Arcadia Bay seem to disrespect and avoid him and think of him as a liar and loser.This is mentioned by Nathan to Max at the Two Whales Diner in "Chaos Theory".
+
+Frank gets angered quickly and tends toward violent and aggressive behavior, especially when under the influence of drugs. His hostile and untrusting personality is probably due to his involvement with drugs.
+
+Despite these things, he is shown to have a good heart as revealed in Episode 4 when he can hand over his account book to Max and Chloe and wish them good luck in finding Rachel. He seems affectionate and loyal towards those he cares about, including Pompidou and Rachel Amber. Episodes 4 and 5 reveal he believes in God and attends church.During the meeting at the beach, if the player picks *Help or else* from the available dialogue options, Frank will say: "You snobby whores! Don't come into my home and judge me! That's why I go to church!" Another option, *No Bullets*, leads to him saying: "I'm not afraid of anybody except my maker!". In Episode 5, if the player decides to not reveal the truth about Rachel, at the end of the conversation Frank will say: "Thanks for trying, Max. So, I guess we just wait for the Lord to lift us up... or not."
+
+## Biography 
+The following is what [Maxine Caulfield](max.md) wrote about Frank in her [Max's Journal](journal.md):
+
+''I'll never forget Frank - if only because he's the first and last person I will ever aim a gun at. How did Chloe end up in this sketchy drug dealer's orbit? The weird* *thing is that when I first saw him threatening Chloe in the junkyard, I was more shocked how un-creepy he looked. I expected some try-hard gangster, but he looked more like a dumpster diving troll. Which I guess he kinda is since we were on his turf, testing out my rewind skills for Chloe's amusement. *
+
+*Though he didn't look like a serial killer, his vibe (aura, energy, whateva) was BAD. I could literally feel the the hair on my arms prickling. He wanted the money Chloe owed him, so it didn't make sense he would hurt her but I wasn't going to take a chance... So yes, I actually threatened him with David's gun. Ridiculous. Fortunately none of us ended up like "Reservoir Dogs"*A reference to the 1992 American neo-noir black comedy crime thriller.* and I saw that maybe Frank isn't as scary as I thought...*
+
+*But I don't want Chloe near him EVER again. Since he was wearing one of Rachel Amber's bracelets for WTF reasons, I doubt Chloe will be partying with him anymore. But he's at the top of our suspect list now...''
+
+
+
+Generate five trivia questions relevant to this section of the page.

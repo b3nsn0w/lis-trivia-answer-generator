@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Sean Prescott's Occupation?",
+    "answer": "B",
+    "choices": {
+      "A": "Teacher",
+      "B": "Businessman",
+      "C": "Doctor",
+      "D": "Artist"
+    }
+  },
+  {
+    "question": "What Is The Name Of Sean Prescott's Daughter?",
+    "answer": "B",
+    "choices": {
+      "A": "Caroline",
+      "B": "Kristine",
+      "C": "Rachel",
+      "D": "Victoria"
+    }
+  },
+  {
+    "question": "What Did Sean Prescott Donate Money For In Blackwell Academy?",
+    "answer": "C",
+    "choices": {
+      "A": "A New Gymnasium",
+      "B": "A New Science Lab",
+      "C": "A New Dormitory",
+      "D": "A New Library"
+    }
+  },
+  {
+    "question": "What Is The Relationship Between Sean Prescott And Nathan Prescott?",
+    "answer": "B",
+    "choices": {
+      "A": "They Have A Loving Father-Son Relationship",
+      "B": "They Have A Strained Relationship",
+      "C": "They Are Business Partners",
+      "D": "They Are Best Friends"
+    }
+  },
+  {
+    "question": "What Does Luke Parker Think Of Sean Prescott?",
+    "answer": "B",
+    "choices": {
+      "A": "He Thinks Sean Is A Kind And Generous Person",
+      "B": "He Thinks Sean Is A Mean And Cruel Person",
+      "C": "He Thinks Sean Is A Funny And Witty Person",
+      "D": "He Thinks Sean Is A Smart And Intelligent Person"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who does Max side with during the argument between Chloe and David?",
+    "answer": "A",
+    "choices": {
+      "A": "David",
+      "B": "Chloe",
+      "C": "Joyce",
+      "D": "Nathan Prescott"
+    }
+  },
+  {
+    "question": "What does Chloe accuse David of doing?",
+    "answer": "A",
+    "choices": {
+      "A": "Harassing Kate Marsh",
+      "B": "Stealing from Blackwell",
+      "C": "Selling drugs",
+      "D": "None of the above"
+    }
+  },
+  {
+    "question": "What does Max say about Nathan Prescott during the argument?",
+    "answer": "B",
+    "choices": {
+      "A": "He is innocent",
+      "B": "He is the real threat",
+      "C": "He is David's accomplice",
+      "D": "None of the above"
+    }
+  },
+  {
+    "question": "What does Joyce say about accusations during the argument?",
+    "answer": "A",
+    "choices": {
+      "A": "She doesn't want anyone to be accused of anything",
+      "B": "She thinks David is guilty",
+      "C": "She thinks Chloe is guilty",
+      "D": "She thinks Max is guilty"
+    }
+  },
+  {
+    "question": "What does David do after the argument?",
+    "answer": "B",
+    "choices": {
+      "A": "He apologizes to Max",
+      "B": "He leaves the house",
+      "C": "He calls the police",
+      "D": "None of the above"
+    }
+  }
+]

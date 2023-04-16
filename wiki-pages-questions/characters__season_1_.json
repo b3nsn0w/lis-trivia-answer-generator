@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What Is The Name Of The School Attended By The Main Protagonist?",
+    "answer": "A",
+    "choices": {
+      "A": "Blackwell Academy",
+      "B": "Arcadia High School",
+      "C": "Jefferson High School",
+      "D": "Prescott Academy"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Security Guard At Blackwell Academy?",
+    "answer": "D",
+    "choices": {
+      "A": "David Madsen",
+      "B": "Mark Jefferson",
+      "C": "Nathan Prescott",
+      "D": "Samuel Taylor"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Vortex Club Party Hosted By Nathan Prescott?",
+    "answer": "A",
+    "choices": {
+      "A": "End of the World Party",
+      "B": "Halloween Party",
+      "C": "Back to School Party",
+      "D": "End of the Semester Party"
+    }
+  }
+]

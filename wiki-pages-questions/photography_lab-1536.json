@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Does Max Say About Her Selfie Before Using Her Time Rewind Power?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Look at this crap! How can I show this to Mr. Jefferson?\"",
+      "B": "\"I look terrible in this picture.\"",
+      "C": "\"I can't believe I took this picture.\"",
+      "D": "\"I should have used a different filter.\""
+    }
+  },
+  {
+    "question": "What Does Max Say About Her Journal Before Using Her Time Rewind Power?",
+    "answer": "A",
+    "choices": {
+      "A": "\"I haven't kept up with my journal as much as I should.\"",
+      "B": "\"I love writing in my journal.\"",
+      "C": "\"My journal is my best friend.\"",
+      "D": "\"I should throw away this old journal.\""
+    }
+  },
+  {
+    "question": "What Does Max Say About Her Camera Bag Before Using Her Time Rewind Power?",
+    "answer": "A",
+    "choices": {
+      "A": "\"My little camera bag is battered, but still kicking.\"",
+      "B": "\"I need to buy a new camera bag.\"",
+      "C": "\"I hate carrying this camera bag around.\"",
+      "D": "\"I should leave my camera bag at home.\""
+    }
+  },
+  {
+    "question": "What Does Max Say About Victoria's Notebook?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Even her schoolbooks are gift-wrapped. I can't believe she made fun of me in class.\"",
+      "B": "\"Victoria's notebook is full of doodles.\"",
+      "C": "\"I wish I had a notebook like Victoria's.\"",
+      "D": "\"I don't care about Victoria's notebook.\""
+    }
+  }
+]

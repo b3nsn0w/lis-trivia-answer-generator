@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Luke's Attitude Towards Popular Students At Blackwell Academy?",
+    "answer": "B",
+    "choices": {
+      "A": "Friendly",
+      "B": "Bitter",
+      "C": "Indifferent",
+      "D": "Envious"
+    }
+  },
+  {
+    "question": "What Does Luke Say Is Bothering Him When Max Encounters Him In Episode One?",
+    "answer": "C",
+    "choices": {
+      "A": "His Grades",
+      "B": "His Love Life",
+      "C": "Nathan Prescott's Sense of Entitlement",
+      "D": "His Bullying"
+    }
+  },
+  {
+    "question": "What Does Max Have To Tell Luke In Order For Him To Consider Her A Hero?",
+    "answer": "A",
+    "choices": {
+      "A": "She Saw Nathan With A Gun",
+      "B": "She Helped Him With His Homework",
+      "C": "She Stood Up To Nathan",
+      "D": "She Gave Him Money"
+    }
+  },
+  {
+    "question": "Who Does Luke Cheer On For Giving Nathan Prescott An Epic Headbutt?",
+    "answer": "C",
+    "choices": {
+      "A": "Max Caulfield",
+      "B": "Zachary Riggins",
+      "C": "Warren Graham",
+      "D": "Raymond Wells"
+    }
+  },
+  {
+    "question": "What Is Luke's Relationship With Max If She Doesn't Report The Gun Incident With Nathan?",
+    "answer": "B",
+    "choices": {
+      "A": "Friendly",
+      "B": "Neutral",
+      "C": "Hostile",
+      "D": "Romantic"
+    }
+  }
+]

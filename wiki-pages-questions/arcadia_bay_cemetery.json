@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who attends Chloe's funeral in the Arcadia Bay Cemetery?",
+    "answer": "A",
+    "choices": {
+      "A": "Max, Joyce, David, Principal Wells, Frank, Pompidou, and various Blackwell students",
+      "B": "Max, Chloe, and Rachel",
+      "C": "Max, Chloe, and Warren",
+      "D": "Max, Chloe, and Victoria"
+    }
+  },
+  {
+    "question": "What appears on Chloe's coffin in the last moments of the game?",
+    "answer": "A",
+    "choices": {
+      "A": "A blue butterfly",
+      "B": "A black crow",
+      "C": "A white dove",
+      "D": "A red rose"
+    }
+  },
+  {
+    "question": "Who is seen attending William Price's funeral in the bonus episode \"Farewell\"?",
+    "answer": "A",
+    "choices": {
+      "A": "Chloe and Joyce",
+      "B": "Max and Joyce",
+      "C": "Chloe and Max",
+      "D": "Max and William"
+    }
+  },
+  {
+    "question": "Whose grave is located next to Chloe's in the Arcadia Bay Cemetery?",
+    "answer": "C",
+    "choices": {
+      "A": "Rachel Amber",
+      "B": "Max Caulfield",
+      "C": "William Price",
+      "D": "Nathan Prescott"
+    }
+  }
+]

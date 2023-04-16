@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Did Chloe Use To Cover Her Laptop?",
+    "answer": "A",
+    "choices": {
+      "A": "Stickers",
+      "B": "Paint",
+      "C": "Glitter",
+      "D": "Markers"
+    }
+  },
+  {
+    "question": "What Did Chloe And Max Use To Keep Track Of Their Height?",
+    "answer": "C",
+    "choices": {
+      "A": "A Ruler",
+      "B": "A Measuring Tape",
+      "C": "A Height Chart",
+      "D": "A Wall"
+    }
+  },
+  {
+    "question": "What Did Max Find In Chloe's Metal Box?",
+    "answer": "B",
+    "choices": {
+      "A": "A Gun",
+      "B": "A Diary",
+      "C": "Money",
+      "D": "Drugs"
+    }
+  },
+  {
+    "question": "What Did Max Find Out About Chloe's Academic Performance At Blackwell?",
+    "answer": "B",
+    "choices": {
+      "A": "She Was A Straight-A Student",
+      "B": "She Was Kicked Out Two Years Ago",
+      "C": "She Dropped Out To Pursue Art",
+      "D": "She Was Expelled For Fighting"
+    }
+  }
+]

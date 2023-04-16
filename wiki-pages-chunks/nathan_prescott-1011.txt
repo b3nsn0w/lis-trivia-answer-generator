@@ -1,0 +1,79 @@
+Here is a section of the wiki page for Nathan Prescott:
+
+#  Nathan Prescott 
+
+```yaml
+Character
+
+name: Nathan Prescott
+image: nathan_.png
+alsoknown: >-
+  Rott (by [Frank Bowers](frank_bowers.md))
+
+  Nate (by [Hayden Jones](hayden_jones.md), [Sean Prescott](sean_prescott.md),
+  and [Kristine Prescott](kristine_prescott.md))
+
+  Dickbagtheasshole (by [Maxine Caulfield
+Max](maxine_caulfield_max.md))Little Brother (by [Kristine Prescott](kristine_prescott.md))
+Dumbass (by [Mark Jefferson](mark_jefferson.md)) Fucker, little rich kid (by [Chloe Price](chloe_price.md)): ''
+age: >-
+  18 (student record)19 ([Max's Journal](max_s_journal.md), see [Nathan
+  Prescott#Inconsistencies
+inconsistencies section](nathan___prescott_inconsistencies_inconsistencies_section.md)): ''
+born: |-
+  August 29, 1995,
+  Fort Lauderdale, Florida
+died: October 10, 2013 (determinant)
+causeofdeath: Killed by [Mark Jefferson](mark_jefferson.md)
+gender: Male
+hair: Light brown
+eyes: Blue
+loveinterest: '[Rachel Amber](rachel_amber.md) (presumed/unconfirmed)'
+relatives: >-
+  [Martin Lewis Prescott](martin_lewis_prescott.md) (great-great-grandfather,
+  presumed)
+
+  [Harry Aaron Prescott](harry_aaron_prescott.md) (grandfather, presumed)
+
+  [Sean Prescott](sean_prescott.md) (father)
+
+  [Mrs. Prescott](mrs__prescott.md) (mother)
+
+  [Kristine Prescott](kristine_prescott.md) (older sister)
+friends: |-
+  [Victoria Chase](victoria_chase.md)
+  [Hayden Jones](hayden_jones.md)
+  [Maxine Caulfield
+Max Caulfield](maxine_caulfield_max_caulfield.md) (alternative timeline)
+Other [Vortex Club#Known_Members: *
+Vortex Club members](vortex_club_known_members____vortex_club_members.md): *
+profession: High school student
+affiliation: |-
+  [Blackwell Academy](blackwell_academy.md)
+  [Vortex Club](vortex_club.md)
+appearance: >-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)[Episode 2: Out of
+  Time](episode_2__out_of_time.md)[Episode 3: Chaos
+  Theory](episode_3__chaos_theory.md) [Episode 4: Dark
+  Room](episode_4__dark_room.md)[Episode 5: Polarized](episode_5__polarized.md)
+  ([Nightmare
+nightmare](nightmare_nightmare.md)): ''
+voice: |-
+  [Nik Shriner](nik_shriner.md) (ENG)
+  [Yasuhiro Mamiya](yasuhiro_mamiya.md) (JPN)
+fullname: Nathan Joshua Prescott
+```
+
+> Don't EVER tell me what to do! I'm so SICK of people trying to control me!
+
+**Nathan in "[Episode 1: Chrysalis**, Chrysalis](episode_1__chrysalis____chrysalis.md)"
+
+**Nathan Joshua Prescott** (born August 29, 1995) is a student at [Blackwell Academy](blackwell_academy.md) and is the secondary antagonist throughout *[Life is Strange](life_is_strange.md)*. He is associated with selling drugs at Blackwell, and it is consistently implied that he is mentally ill and is in therapy.
+
+Nathan reappears in *[Life is Strange: Before the Storm](before_the_storm.md)*, the prequel to the events of *Life is Strange* and is also mentioned in *[Life is Strange 2](life_is_strange_2.md).
+
+:*For the image gallery, click [Nathan Prescott/Gallery](here.md). For Nathan's room click [Nathan's Room](here.md).''
+
+
+
+Generate five trivia questions relevant to this section of the page.

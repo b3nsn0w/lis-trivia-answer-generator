@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Chloe Tell Max About Her Stepfather?",
+    "answer": "B",
+    "choices": {
+      "A": "He Deserves To Be Killed By The Storm",
+      "B": "He Deserves Her Mother Alive",
+      "C": "He Deserves To Be Arrested",
+      "D": "He Deserves To Die"
+    }
+  },
+  {
+    "question": "What Does Chloe Say About Her Fate?",
+    "answer": "A",
+    "choices": {
+      "A": "She Should Accept It",
+      "B": "She Should Fight It",
+      "C": "She Should Ignore It",
+      "D": "She Should Change It"
+    }
+  },
+  {
+    "question": "What Does Max Do With The Photo Of The Blue Butterfly?",
+    "answer": "A",
+    "choices": {
+      "A": "She Throws It Away",
+      "B": "She Gives It To Chloe",
+      "C": "She Burns It",
+      "D": "She Keeps It In Her Pocket"
+    }
+  },
+  {
+    "question": "What Song Begins To Play After Nathan Accidentally Shoots Chloe?",
+    "answer": "A",
+    "choices": {
+      "A": "Spanish Sahara",
+      "B": "Obstacles",
+      "C": "To All Of You",
+      "D": "Something Good"
+    }
+  },
+  {
+    "question": "What Happens To Nathan After He Shoots Chloe?",
+    "answer": "B",
+    "choices": {
+      "A": "He Escapes From The School",
+      "B": "He Gets Arrested By The Police",
+      "C": "He Commits Suicide",
+      "D": "He Goes Into Hiding"
+    }
+  }
+]

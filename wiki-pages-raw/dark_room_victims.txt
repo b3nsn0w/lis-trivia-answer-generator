@@ -1,0 +1,77 @@
+= Dark Room Victims =
+
+[[File:FejMMPWl.jpg|thumb|220x220px|Folders in the Dark Room]]
+
+While in the [[Dark Room (Location)|Dark Room]], [[Maxine Caulfield|Max Caulfield]] and [[Chloe Price]] find binders labeled with the names of several former [[:Category:Dark Room Victims|Dark Room Victims]] that were captured, drugged, and photographed by [[Mark Jefferson]].
+
+==Victims==
+{|align="center"
+| valign="top" width="33%"|
+* Alexis
+* Ashley
+* Beverly
+* Brittany
+* Carol-Ann
+* Cassidi *
+* Chelsea *
+* Crystal *
+| valign="top" width="33%"|
+* Deanna
+* [[Kate Marsh]]
+*Kayla
+* Kelly Davis
+* Lucy
+* Lula
+* Lynn
+* Marissa *
+| valign="top" width="33%"|
+* [[Maxine Caulfield|Max Caulfield]]
+* [[Megan Weaver|Megan]]
+* [[Rachel Amber]]
+* Suzie
+* Sydney *
+* Tyra
+* [[Victoria Chase]] 
+|}
+The names followed by * are not actually seen during the game but instead guessed from the game files (see the Notes section).
+
+== Binders ==
+=== Rachel's Binder ===
+<gallery widths="200px" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+R3.PNG
+R2.PNG
+R1.PNG
+</gallery>
+
+=== Kate's Binder ===
+<gallery widths="200px" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+K4.PNG
+K2.PNG
+K1.PNG
+</gallery>
+
+=== Max's Binder ===
+<gallery widths="200px" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+max1.png
+max2.png
+max3.png
+</gallery>
+
+==Notes==
+*When Max and Chloe open the Dark Room cupboard in the [[Episode 4: Dark Room|fourth episode]], only 17 binders are visible. Though unpacking the [[Media:Darkroom-allvictims.png|game files]], however, it becomes apparent that there are five additional names, which makes for a total of 23 victims (including Max).
+* Victoria will be taken to the Dark Room if Max warned her about [[Nathan Prescott]] in [[Episode 4: Dark Room]]. After Max warned Victoria, she went to Jefferson in search of protection, which led to her drugging and subsequent capture.
+*[[File:Red folders.png|thumb]] A glimpse of the red folders at the end of "[[Episode 1: Chrysalis|Chrysalis]]" reveals that the folder immediately before the one marked "Rachel" is marked with the name "Kelly". When [[Rachel Amber]] was attending [[Blackwell Academy]], a girl called Kelly Davis was staying in room 217 which is the room directly opposite Rachel Amber's old room (224) and next door to [[Dana Ward]]'s room (218). These room residents are visible on the [[Media:Dormmap2.png|dormitory floor plan]] that appears in [[Max's Nightmare|Max's nightmare]] in [[Episode 5: Polarized|Episode 5: Polarized]], when she inhabits the clothing of Rachel Amber. It has been confirmed by [[DONTNOD]] that these two are the same Kelly.
+* In the [[Alternative Timeline (Life is Strange)|alternative timeline]], Chloe mentioned that she had a friend named Megan who supported her while Max was away, but has recently become distant. It is confirmed by the directors that this is the same Megan whose name appears on the binder.
+
+[[fr:Victimes de la Chambre Noire]]
+[[ru:Жертвы проявочной]]
+[[Category:Characters]]
+[[Category:Female Characters]]
+[[Category:Dark Room Conspiracy]]
+[[Category:Episode 4: Dark Room Characters]]
+[[Category:Episode 5: Polarized Characters]]
+[[Category:Blackwell Academy Students]]
+[[Category:Lore]]
+[[Category:Lore (Life is Strange)]]
+[[Category:Female Characters (Life is Strange)]]
+[[Category:Life is Strange]]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who is Officer Corn?",
+    "answer": "A",
+    "choices": {
+      "A": "A member of the Arcadia Bay Police Department",
+      "B": "A student at Blackwell Academy",
+      "C": "A resident of the Madsen Household",
+      "D": "A friend of Chloe Price"
+    }
+  },
+  {
+    "question": "In which episode does Officer Corn leave a message on the answering machine in the Madsen Household?",
+    "answer": "C",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "What is the purpose of Officer Corn's message on the answering machine?",
+    "answer": "A",
+    "choices": {
+      "A": "To inform David Madsen or Joyce Price about a break-in at Blackwell Academy",
+      "B": "To report a stolen vehicle",
+      "C": "To request backup from other police officers",
+      "D": "To ask for information about Chloe Price's whereabouts"
+    }
+  },
+  {
+    "question": "Whose truck was spotted near Blackwell Academy around the time of the break-in?",
+    "answer": "C",
+    "choices": {
+      "A": "David Madsen's truck",
+      "B": "Joyce Price's truck",
+      "C": "Chloe Price's truck",
+      "D": "Max Caulfield's truck"
+    }
+  },
+  {
+    "question": "Which location is mentioned in Officer Corn's message?",
+    "answer": "B",
+    "choices": {
+      "A": "The Madsen Household",
+      "B": "Blackwell Academy",
+      "C": "The Price Household",
+      "D": "The Arcadia Bay Police Department"
+    }
+  }
+]

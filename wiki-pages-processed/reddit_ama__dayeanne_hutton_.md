@@ -1,0 +1,1140 @@
+#  Reddit AMA (Dayeanne Hutton) 
+
+A **Reddit AMA** with [Dayeanne Hutton](dayeanne_hutton.md), the voice of [Kate Marsh](kate_marsh.md), [Alyssa Anderson](alyssa_anderson.md), and [Juliet Watson](juliet_watson.md), took place on 22 May 2018. [Dayeanne Hutton](dayeanne_hutton.md) submitted the AMA and it lasted an hour. Her username is *dayebraham_lincoln*.
+##  Opening Statement 
+Hello! I'm Daye, voice of Kate Marsh, Alyssa Anderson and Juliet Watson in Life is Strange!
+
+I'm an actress, voice over artist, and streamer in Los Angeles, check me out all over the internets :
+
+[https://www.twitch.tv/dayebraham_lincoln TWITCH] - Where I play games only slightly better than horribly and hang with my Alpacats in a positive gaming space
+
+[https://www.intagram.com/dayebraham_lincoln INSTAGRAM] - Where I enjoy the occasional cosplay, click here for my nerdy adventures!
+
+[https://twitter.com/dayeannehutton TWITTER] - Where I announce things and stuff and promote my projects and friends!
+
+[https://www.dayeannehutton.com/ Website] - Where it's all professional and stuff!
+
+[https://www.imdb.com/name/nm3830070/?ref_# nv_sr_1 IMDb] - Where you can find other projects I've worked on!
+
+Let's see what you've got!
+
+[https://i.redd.it/304wvfbvbgz01.png AMA]
+
+##  Questions answered 
+
+**egor_dabest**
+
+Hi Dayeanne! I’m representing Russian fan community of Dontnod Entertainment and first of all I’d like to thank you for your amazing work on Life is Strange from all your Eastern fans! We’re all in love with this character and your performance! <3
+
+Due to the language barrier some people couldn’t ask you directly, so we’ve gathered a number of questions for you! These’s quite a lot of them so it’s okay you miss some although we’d love to see your answers to all of them… So, let’s cut to the chase!
+
+#How did you know about the game and have you tried on other roles?
+#What was it like to voice Kate? Was it challenging? What do you think about her family?
+#How close Kate’s character to your personality?
+#What is your opinion on bullying topic raised in Season 1?
+#Roof scene. Was it hard?
+#What, do you think, was Kate’s fate after ‘Sacrifice Arcadia Bay’ ending?
+#Which ending is your personal canon? 
+#What do you think about Nathan character? Did you forgive him after Episode 5?
+#What do you think about Chloe?
+#Did you like working on the project? Are you still in contact with any of the voice actors?
+#Would you like to continue voicing game characters? In what franchise, if so?
+#What is your favorite track from LiS franchise (Season 1 or Before the Storm may be?)
+#Would you like to work on Season 2 if asked?
+#Would you like to have time rewind powers like Max’s or anything else?
+#Was it hard to make Kate's hairstyle for the cosplay? :D
+#What kind of tea do you personally like?
+
+Thank you!
+
+P.S. Even angels need angels… 😉
+
+**dayebraham_lincoln**
+
+Hello! Thank you so much for all of your support!!!
+
+1)  How did you know about the game and have you tried on other roles?
+- I found out through my agents about the audition, and I believe I auditioned for Max, Victoria and Kate!
+2) What was it like to voice Kate? Was it challenging? What do you think about her family?
+- It was fun getting to voice Kate, but also sad, because she was always so sad. I wish her family had been more open minded and supportive.
+3) How close Kate’s character to your personality?
+- I grew up religious but have moved away from it as I got older. I definitely can be very shy and quiet sometimes!
+4)What is your opinion on bullying topic raised in Season 1?
+- I think it's very important to be aware of bullying and how to stop/prevent it. It's a very real problem and affects so many people. I'm glad a supportive and loving community has grown out of this game.
+
+5) Roof scene. Was it hard?
+- It was! But partially because I had no idea about it until I had to record, so I didn't have time to prepare! I did have Hannah with me in the booth, which made it easier to record. But it was definitely a very emotional scene.
+
+6) What, do you think, was Kate’s fate after ‘Sacrifice Arcadia Bay’ ending?
+- I don't know if anyone could have survived what Arcadia Bay went through with the ending :(
+
+7) Which ending is your personal canon?
+
+- I saved the town - I'm sorry!!! I had to save Kate!
+
+8) What do you think about Nathan character? Did you forgive him after Episode 5?
+
+- I feel very bad for Nathan. He had a very unpleasant upbringing, however many people have and didn't end up murdering a classmate. He deserves sympathy to an extent, but by the time we get to him in the story he's far gone and has made too many awful choices.
+
+9) What do you think about Chloe?
+
+- I had a hard time feeling sympathetic towards Chloe for a long time. It wasn't until I played Before the Storm that I finally understood her better.
+
+10) Did you like working on the project? Are you still in contact with any of the voice actors?
+
+- I loved working this project! I still talk with Hannah, Nik and Cissy!
+
+11) Would you like to continue voicing game characters? In what franchise, if so?
+
+- I would love to continue working in the VO world! I think it would be amazing to do another cinematic game, like The Last of Us, or something creepy like Until Dawn.
+
+12) What is your favorite track from LiS franchise (Season 1 or Before the Storm may be?)
+
+- Oh gosh! I don't know ALL of the songs, but I do love singing Obstacles with Hannah!
+
+13) Would you like to work on Season 2 if asked?
+
+- ABSOLUTELY! :)
+
+14) Would you like to have time rewind powers like Max’s or anything else?
+
+- No, I think that's too complicated and too dangerous. Too many things can go wrong! I would want to be able to apparate like in Harry Potter. No more LA traffic!
+
+15) Was it hard to make Kate's hairstyle for the cosplay? :D
+
+- hahahaha kind of! I used these plastic hair pieces called "bump-its" to try and get it bigger!
+
+16) What kind of tea do you personally like?
+
+- I love Irish Breakfast Tea!
+
+----
+**danbuter**
+
+Did Kate's Christianity affect you personally?
+
+I have to say, after playing LiS, I've reread the New Testament and pray daily. I was basically agnostic for over a decade before that, but Kate's character really spoke to me.
+
+**dayebraham_lincoln**
+Wow, I'm so happy that you were affected so positively, that's wonderful! I think it's important to have something to connect to that brings you peace and joy. I personally was not affected by her Christianity in that way, but I'm so happy you found comfort in it!
+
+----
+**Tierouy**
+Hi Dayeanne and thank you so much for doing this AMA!
+
+I have a couple questions:
+
+#Were there any particularly memorable/weird/funny/etc dialogue that you recorded for any of your characters in Life is Strange that ultimately ended up being left out of the finished game?
+#Which Life is Strange character would you say that you identify with the most?
+#What do you think of Marshfield?
+#Is Kate Marsh favorite tea chamomile?
+#Which of your films would you cite as your favorite? (If any.)
+
+**dayebraham_lincoln**
+
+It's my pleasure! Thanks for being here!
+
+# Uhmm I remember in the Vortex Club scene they had me calling the pool noodle a "Water Weenie", which I thought was adorable and hilarious and I don't believe it's in the game.
+#Probably Max! Awkward and nerdy and shy. Yup thats me haha.
+#Love it! Not sure how it would go down with Kates beliefs but I like it haha
+#It could be! I think she definitely drinks a cup every night before bed!
+#Emperor's New Groove! (yes, I am a child)
+
+--- 
+**esterve**
+
+Hey Daye!
+
+#Who do you think Max and Kate shit-talked over their tea sessions?
+#How do you feel about Kate's other friends (Stella, Alyssa, Dana?) I feel bad for Dana since she managed to screw over her friendship with Kate.
+#What made you take up the ukulele?
+
+**dayebraham_lincoln**
+
+Hello!!
+
+#I don't know if Kate would ever go so far. They might discuss how to get Victoria to be nicer. Maybe they'd make fun of Warren a little bit, in a sweet way haha
+#I don't understand why none of them seemed to reach out to Kate when she was so upset and left it up to Max (other than, there wouldn't be a game if Max didn't need to help lol) I like all of them though, I'm sure Kate would quickly forgive Dana.
+#Reteaching myself guitar just seemed too hard XD also a good friend of mine started teaching me on hers and it's just simple to pick up and start learning. At least more so than other instruments.
+----
+**Oriain_Original**
+
+Afternoon (at least where I am)!
+
+My only question is, who is ever more responsible, or who is responsible, for pushing too far on someone who's dealing with depression (as it is relatable to the decision Max has to make). I certainly could never place the blame on one soul, as I believe everyone is held accountable, for not helping the person out, or just not noticing (which is why I originally chose Jefferson, and you can see how that favoured my fortune).
+
+P.S. Kate was the first video game character to make me cry, even though I was able to save her. That whole scene caught me by surprise; looking upward of the dorm was enough, and the teetering on the ledge was wrenching. Happy you were apart of this experience, means the world to me.
+
+**dayebraham_lincoln**
+
+I think society is to blame for not taking Mental Health more seriously and not giving it the focus it deserves. The victim is too often blamed for something that is not their fault. And because it's not important to society, we aren't taught how to recognize it, how to help. I strongly urge everyone to take mental health more seriously, and not look at it with embarrassment. It's okay to need help. Life is hard. We ALL need help in some way or another, at some point or another. It's okay. 
+----
+**ThreadOfFate**
+
+Hey Daye! Nice to see you around the subreddit!
+
+#What's your favorite sandwich?
+#What was it like to find out that Kate turned out to be rather unexpectedly popular with the fandom?
+#Is there anyone you like seeing Kate paired with, romantically or otherwise?
+#What's up next for you?
+
+**dayebraham_lincoln**
+
+Hello! Nice to see you too :)
+
+#I LOVE cucumber tea sandwiches
+#Amazing! They brought me back in to record when they weren't sure they were going to. Thank you all! And the fans of this game, you're all so wonderful and kind and supportive. I'm so lucky to have been involved.
+#Alice! :P I love seeing all the creativity and fan art of the fandom shipping all the different characters.
+#Right now I'm mostly focused on my Twitch channel, but always on the lookout for the next fun project!
+
+----
+**Afbg123**
+
+Hi Dayeanne!
+
+#Kate’s a character many people relate with a lot because of her depression. What’s it like to be the voice of a character people identify with as a type of character that doesn’t get represented much in gaming?
+#What were some of the details of Kate’s character the voice directors gave you when you voiced her character?
+#What’s your favourite part of being a voice actor, and what type of characters would you like to voice if you had the opportunity to voice another character?
+
+**dayebraham_lincoln**
+
+Hello!
+
+#I am **so** honored to have given voice to a character that so many have found hope and connection in. It brings me so much joy that a supportive and loving community has grown out of this game and character, it truly amazes me.
+#Sad. I'm trying to remember but I think it was something like a sweet girl who is sad and depressed.
+#I love that you can play SO many different kinds of characters, you're not limited by how you look and if how you look fits in with the show or the rest of the cast etc. I really wanna voice a creepy character haha but really anything, I would have fun with anything!
+
+----
+**Claudebloch**
+
+Hi Dayeanne!
+
+I absolutely adore Kate, and can empathize hugely with her in-game story!
+
+A couple of questions:
+
+1) Were you able to draw on any real-life experiences or beliefs to get into character as Kate?
+
+2) Were you surprised at the huge amount of fans that Kate has, considering that she is effectively a supporting character?
+
+Thank you so much for doing this AMA, I’ll be following you on Twitch!
+
+**dayebraham_lincoln**
+
+Hello! So so happy you found a great connection with the game and character!
+
+1) Everyone has been embarrassed, or depressed, or in a hard situation. I just drew on those human aspects of life.
+
+2) I was surprised So pleasantly surprised! It's amazing to be connected to such a well loved characters, all the fan support means the world to me!
+
+Can't wait to see you on Twitch! Welcome to the AlpaCat fam!
+
+----
+**swaglikedyllon**
+
+Greetings from Cali Dayanne!
+
+I’m your opinion what do you think Kate’s favorite kind of tea is?
+
+**dayebraham_lincoln**
+
+Hello! Oooooooh I'm not sure! Maybe something like Earl Grey!
+
+----
+**tache17**
+
+Your character is amazingly acted and is actually really impressive, I have 1 quick question. What was it like recording your own suicide attempt/success.
+
+**dayebraham_lincoln**
+
+Thank you so much! It was very strange, an odd thing to be told you're going to do for the day. 
+
+----
+**konel_hft**
+
+Dayebraham Lincoln. That's awesome.
+ 
+**dayebraham_lincoln**
+
+Well thank you very much! :)
+
+----
+**Philkindred1**
+
+Hi Daye, thanks for dropping by and for being a part of one of my favourite games ever :)
+
+#Will you be continuing on with voice-acting in videogames and if so, can you share with us any upcoming titles you're involved in?
+
+#What's your overall favourite moment in the whole LiS series, BTS and Farewell included?
+
+Bonus question: Did you have a special technique for doing the voice of Alyssa? I always imagined that you stuck marshmallows in your mouth and read the lines like normal lol
+
+**dayebraham_lincoln**
+
+Hello! I'm so honored to be in one of your favourite games ever!
+
+#Yes! I would love to keep voice acting, but don't currently have any games in the works. I am part of a fun Podcast called [https://harleyhooman.com/ Harley Hooman] thats on right now. Please check it out!
+#AHHH I still haven't played Farewell :( I did LOVE playing DnD in BtS though :)
+
+Bonus Question:ahahahahaha no, no marshmallows were used in the making of Alyssa. I just kind of talk back further in my throat. I know that voice got criticism from some, but it's just kind of my super exaggerated "goth girl" voice. Bored and disgusted haha.
+
+----
+**Brewski89**
+
+Thanks for doing this AMA.
+
+My question comes from my own first play through of Life is Strange season 1, where I was unable, where I was unable to save Kate, and she jumped. That was one factor of many influencing my selection of the "Sacrifice Chloe" ending. (Although I see both endings as equally valid for different reasons.)
+
+I know you've said earlier in this AMA that you lean towards saving Arcadia Bay, but my questions are on the end of episode 2.
+
+#In your head canon, does Kate jump or is Max able to save her?
+#Who does Max blame at the end of Episode 3? Nathan, David or Jefferson?
+
+**dayebraham_lincoln**
+
+You're welcome - thank YOU for being here! :)
+
+I think Max is able to save her. I want to say Max blames Jefferson, but thats definitely influenced by me now knowing the true ending.
+
+----
+**Phill24**
+
+Hi, Daye. Thanks for doing AMA. :)
+
+    Is it weird and/or awkward to watch footage of yourself acting, or it something that doesn't bother you?
+
+    What roles were the most challenging for you to play?
+
+**dayebraham_lincoln**
+
+Hello! I'm so happy to be here!
+
+    It use to be, but after doing it over and over I'm actually quite use to it!
+    I've had a lot of fun in all of my roles, I don't actually think I've seen any of them as a challenge!
+
+----
+**SubAl21**
+
+Hello) This my question: How did you react to the violence against Kate?
+
+**dayebraham_lincoln**
+
+It was very difficult to witness, I hate that people can be so cruel. It's so unnecessary to torture someone like that. 
+
+----
+**nicefield**
+
+Hi Daye!
+
+What aspect of Kate do you relate to the most? What do you relate to the least?
+
+**dayebraham_lincoln**
+Hello! I could also be very sad in high school, the teen years are rough man. I related least to her religious beliefs. 
+
+----
+**Jimbobbillyboy**
+
+Hi Dayeanne, you might remember me from that comic of Kate spraying Victoria with water. First off it's really cool that you are doing this, so thank you. I think you did a fantastic job with the voices in LiS, and you do really good cosplay as well (especially the one of Kate). Also I feel really bad that I tweeted that Kate comic without giving the correct source, so here it is. http://gaybreadlover-deactivated.tumblr.com/post/128526414447/how-to-train-your-victoria-a-step-by-step
+
+Also could you please say hi to my friend Alonzo, he's busy right now but Kate is his favorite character in the game.
+
+Now onto questions: 1. How do you feel about Marshfield? Personally I think Kate is way too pure to ship her with anyone, but I was wondering what you think. 1.5. Who's your favorite character besides Kate? 2. What do you think happened to Kate if you pick the Bae ending? 3. Did you think Kate was such a Cinnabun when you were voicing her, or what was your opinion on her before the game was released? 4. You collab a lot with Hannah Telle, which is awesome. Would you ever consider doing a colab with Ashly Burch or any other voice actors? Like if you were on "Hey Ash, Watcha Playin?" would be awesome. If the episode 5 stream of LiS on Square Enix had both you, Ashly, and Hannah, I would die of joy... 5. Did you play Before the Storm, and if you did what did you think of it? And if you didn't, would you consider streaming it? or at least farewell 6. In an earlier stream of episode 2, you said you were looking into the stuff for the LiS-based tv show. Any progress? 7. (This one is for a friend) "What did you feel like when Kate died, and what did you feel like when Kate survived? Also how can the whole thing with Kate can apply to your life or anyone else's life?"
+
+I know I asked a lot, but I just had a lot to say and I have to try and sneak this in during lunch. So thanks if you read this, and may your day be as pure as Kate and her bun!
+
+**dayebraham_lincoln**
+
+I love that comic! Thank you! And hello to Alonzo!
+
+    I don't know if KATE would actually be down for Marshfield lol but I like it!
+    I honestly think she died :(
+    She kind of made me sad that she was always sad, I worried people would think she came off whiney. I'm glad she doesn't though, that makes me very happy!
+    I would love too! Unfortunately, I don't actually know Ashly, but it would be amazing to collab with her on something!
+    I have played it (though not the farewell episode yet!) I liked it, it really helped me to understand Chloe better.
+    I don't think there is anymore information out there yet
+    I haven't ever played where Kate died because thats too weird and sad for me haha I'm very happy and relieved when I save her! I think the whole thing with Kate can let us know that we all need to be more aware of mental health and take it more seriously. I think it should show us we need to learn how to deal with these issues instead of brushing them off, or telling depressed people to "get over it". Awareness is a good first step!
+
+----
+**Escope12**
+
+Hi Dayeanne Hutton. I wanted to say awesome job voicing Kate Marsh. What was it like voicing her?
+
+**dayebraham_lincoln**
+
+There were no lasting effects, as the recording actually went by so quickly. I am very glad that the character has helped so many people; I agree that mental health awareness is too often overlooked. I am honored to be involved with a game that let people know they aren't alone. 
+----
+**ScorelessPine**
+
+I've got some questions about the game itself:
+
+First off, have you played through LiS? If you have, what was your reaction to some of the more major plot points?
+
+Did you ever rewind and second guess the decisions you made?
+
+And lastly, were you able to save Kate on the rooftop, and what was your reaction to the result you got? Do you think you would have done differently if you didn't already record the voice lines for Kate?
+
+Thanks for doing this AMA, it's really awesome of you!
+
+**dayebraham_lincoln**
+
+Yes! I played through LiS on my Twitch channel and the VODs are on my YouTube! I was shocked by some of the things I didn't already know about, so much heavy and dark content. It's been a while, but I'm sure I used rewind due to second guessing a few times. I DID save Kate which was a very stressful time for me haha but I do think I had an advantage since I read through all the lines when recording. Unfortunately, theres a very good chance I would have failed if I didn't record the lines. 
+
+----
+**thelostsoul622**
+
+There's an otter in my water 5 points 4 months ago 
+Hi Daye, what is your favorite alpaca gif/video?
+
+**dayebraham_lincoln**
+
+OoOOOoo The one with the star wars music and all the alpacas are slowly walking towards the camera. 
+
+----
+
+**TacticalHog**
+
+Hi Daye :D
+
+#favorite color?
+
+#did you have a favorite moment from voice acting Kate?
+
+#Which ending do you prefer?
+
+**dayebraham_lincoln**
+
+Hello!!
+
+#Greens! Usually Mint or Sage
+#This may sounds weird, but I really liked getting to be creepy when recording the nightmare lines
+#Neither!!! haha I saved the Bay because I didn't think Max could survive letting a whole town die.
+
+----
+
+**gigantism**
+
+1) Have you played BtS, and do you have your own theories for what happens to Rachel and Chloe in the 3 years after BtS?
+
+2) Has anyone recognized you from your role out in public?
+
+3) If you could have any superpower, what would it be?
+
+4) Have you ever read any of the fan-fiction that's been created around the franchise?
+
+5) What's your favorite video game, and why?
+
+6) What was it like recording lines for multiple characters? Was the situation such that you'd have to do a Kate line one second and a Juliet one the next?
+
+7) The franchise incorporates heavy themes such as school shootings, income inequality, depression, online bullying, single parent households, drug addiction, LGBT representation, rural economic decline, etc. In Life is Strange 2, are there any themes or social issues you would like to see explored that didn't get as much visibility in the first game and prequel?
+
+**dayebraham_lincoln**
+
+#I have, all on my Twitch channel! I still need to play the Farewell episode, but I'm going to! I haven't thought about it TOO much honestly, I just figured they kept hanging out and getting into trouble and dealing with the information discovered in BtS
+#mmmm for LiS, no I don't think so!
+#I wanna apparate and not have to ever drive in traffic again!
+#I haven't! I know it's out there :)
+#You know, I LOVE me some classic Super Mario Bros. on the NES. I grew up playing it and have always loved it!
+#It was fun! The director helped me find their voices by letting me know about the types of characters they were. I knew Alyssa was kinda goth with purple hair, and that Juliet was a bit aggressive lol, we would do all of one characters lines, then switch to the next.
+#That's a really amazing question, unfortunately there is always MORE to explore and make more visible in todays world, and I don't pretend to know every issue that needs visibility. I just hope they keep pushing boundaries and showing mainstream media/gaming all that can be accomplished and the positive affect games can have on people.
+
+----
+
+**PinkAbuuna**
+
+Hi Day! I love your work as Kate, Alyssa and Juliet, the performances show a great range in your voice acting!
+
+What was the most fun part of playing these characters?
+
+**dayebraham_lincoln**
+Hello! Thank you so much! It was honestly just so fun to get to be multiple characters! I didn't know I would be doing that at first!
+
+----
+**Schnutzel**
+
+Hi Daye!
+#In what ways are you and Kate alike, and how are you different/opposite?
+#Favorite pizza topping? Pineapple on pizza, yes or no?
+#How did you manage voicing three different characters?
+#What does Hannah Telle smell like?
+#Amberprice or Pricefield?
+#What do you think will happen to Max and Kate after Arcadia Bay?
+#Have you played BtS? Do you think Samantha and Kate would have made good friends?
+
+Thanks!
+
+**dayebraham_lincoln**
+
+Hello!
+
+#I think we are both shy and quiet, sensitive, grew up with a lil Catholic guilt, academic. As for differences, I'm not as religious as Kate, and I definitely think I would have fought back in some way to get back at Vortex Club people. But then again, I've never been in that type of situation, so I can't be sure.
+#I LOVE plain cheese pizza lol or just fresh mozzarella, sauce and basil. I hated pineapple on pizza as a kid but I honestly haven't tried it since. It might be okay.
+#I had help from the wonderful director who told me more about the personalities of the characters and helped get me going in the right direction with their voices.
+#Rainbows and smiles
+#Pricefield
+#I really hope they stay in touch, I think they are both very good for each other!
+#I have! Most likely, though I think Kate would be a good friend to anyone thats willing!
+
+----
+
+**UnKn0wN31337**
+Hey Daye! I absolutely love your personality and admire your work, I really enjoy watching your streams too, found out about it from the awesome tea session stream with Hannah several months ago :3.
+
+Your lovely voice really fit nice for Kate as well and I can't imagine her with any other voice. I don't think I have anything to ask you that's unanswered, sorry :)
+
+I just want to say that whatever you're doing, especially your streams are awesome and you should keep it that way. In other notes I'd really like to see a Marshfield tea session DLC, because we didn't even get to get that part, it would be something like the Farewell for BtS I think, but that's highly unlikely to happen at this point :(
+
+Have a nice Daye :)
+
+**dayebraham_lincoln**
+
+Thank you so much!!! I'm so glad you're enjoying the streams as well, thank you for your continued support!
+
+----
+**bryan_stein99**
+
+Hi Daye,
+
+Here are my Questions 😇
+
+First of all: I apologize for not being word-perfect in English
+
+#Do you want to buy a Nintendo Switch, because I think that games like Mario Kart 8 would be a great community project for your Twitch Channel
+# Which Nintendo Games die you play?
+#Who is your favourite Character in Life is Strange & Life is Strange: Before the Storm?
+# What is your favorite genre of music (Favorite band or solo artist)?
+#Is there any chance to get an autograph from you?
+
+Thank you for answering my questions 👍😇
+
+Have a nice day!
+
+Bryan
+
+**dayebraham_lincoln**
+
+No apologies necessary! :)
+
+#I do have access to a Switch, I need to look into how to stream with it!
+#I've played a bunch! I don't currently have a nintendo system, but I do love all the Mario games!
+#Samuel!!! :)
+#Usually indie music, I love Sara Bareilles \
+#I have a PO box (shown on my twitch bio) and if you send something with a prepaid envelop for me to send it back in, I'm happy to sign!
+
+You have a nice day as well!
+
+----
+
+**RobertJHill**
+
+What do you think of the fan pairing of gay Kate/Victoria? I always thought the video of Kate likely had a section of the two of them on it, and Victoria thought it was rad and wanted more but Kate -because Jesus- was disgusted. So this made Victoria feel slighted, right? And she tortured Kate because of that.
+
+Thoughts on that theory?
+
+**dayebraham_lincoln**
+
+Ooooh and interesting theory indeed! It's definitely plausible, very true reactions from both characters. Though I'm not sure if I can see Victoria being genuinely interested in Kate. I could see her trying to get with Kate for the purpose of the video and further humiliating her... but honestly I've never thought about it and now I'm curious hahaha 
+
+----
+
+**Jossi55** 
+
+Hey Dayeanne Thank you for doing this Ama. I Love Kate, she is One of my favourite Videogame characters, thanks to your Great perfomance. :)
+
+My question. What was your favourite scene from Season 1 and why?
+
+**dayebraham_lincoln**
+
+Wow, thank you so much! I'm so happy you enjoy Kate so much! I liked the scene in the hospital, because Kate is finally feeling happier and even jokes around a little. 
+
+----
+
+**Jimbobbillyboy**
+
+Hey again, I already asked you something, but I forgot to ask one last thing. Are you (still) friends with any of the voice actors from the game? I know you often have Hannah with you on your streams, but is there anyone else you still talk to? And does the cast of the game keep in touch with each other or have you all branched off to other things? Thanks, and have a good day!
+
+**dayebraham_lincoln**
+
+Hello again! I see Nik when we stream and have hung out with Cissy a few times. I'm also getting to know Katy and Hailey from BtS. Some people keep in touch - others don't! :)
+
+----
+
+**Noahgonzy**
+
+Hey Dayeanna, simple question, what's your favorite pet?
+
+**dayebraham_lincoln**
+
+Normal Pet.... Cat
+
+Not Normal Pet... Alpaca :)
+
+ Reddit AMA (Dayeanne Hutton) 
+
+A **Reddit AMA** with [Dayeanne Hutton](dayeanne_hutton.md), the voice of [Kate Marsh](kate_marsh.md), [Alyssa Anderson](alyssa_anderson.md), and [Juliet Watson](juliet_watson.md), took place on 22 May 2018. [Dayeanne Hutton](dayeanne_hutton.md) submitted the AMA and it lasted an hour. Her username is *dayebraham_lincoln*.
+##  Opening Statement 
+Hello! I'm Daye, voice of Kate Marsh, Alyssa Anderson and Juliet Watson in Life is Strange!
+
+I'm an actress, voice over artist, and streamer in Los Angeles, check me out all over the internets :
+
+[https://www.twitch.tv/dayebraham_lincoln TWITCH] - Where I play games only slightly better than horribly and hang with my Alpacats in a positive gaming space
+
+[https://www.intagram.com/dayebraham_lincoln INSTAGRAM] - Where I enjoy the occasional cosplay, click here for my nerdy adventures!
+
+[https://twitter.com/dayeannehutton TWITTER] - Where I announce things and stuff and promote my projects and friends!
+
+[https://www.dayeannehutton.com/ Website] - Where it's all professional and stuff!
+
+[https://www.imdb.com/name/nm3830070/?ref_=nv_sr_1 IMDb] - Where you can find other projects I've worked on!
+
+Let's see what you've got!
+
+[https://i.redd.it/304wvfbvbgz01.png AMA]
+
+##  Questions answered 
+
+**egor_dabest**
+
+Hi Dayeanne! I’m representing Russian fan community of Dontnod Entertainment and first of all I’d like to thank you for your amazing work on Life is Strange from all your Eastern fans! We’re all in love with this character and your performance! <3
+
+Due to the language barrier some people couldn’t ask you directly, so we’ve gathered a number of questions for you! These’s quite a lot of them so it’s okay you miss some although we’d love to see your answers to all of them… So, let’s cut to the chase!
+
+#How did you know about the game and have you tried on other roles?
+#What was it like to voice Kate? Was it challenging? What do you think about her family?
+#How close Kate’s character to your personality?
+#What is your opinion on bullying topic raised in Season 1?
+#Roof scene. Was it hard?
+#What, do you think, was Kate’s fate after ‘Sacrifice Arcadia Bay’ ending?
+#Which ending is your personal canon? 
+#What do you think about Nathan character? Did you forgive him after Episode 5?
+#What do you think about Chloe?
+#Did you like working on the project? Are you still in contact with any of the voice actors?
+#Would you like to continue voicing game characters? In what franchise, if so?
+#What is your favorite track from LiS franchise (Season 1 or Before the Storm may be?)
+#Would you like to work on Season 2 if asked?
+#Would you like to have time rewind powers like Max’s or anything else?
+#Was it hard to make Kate's hairstyle for the cosplay? :D
+#What kind of tea do you personally like?
+
+Thank you!
+
+P.S. Even angels need angels… 😉
+
+**dayebraham_lincoln**
+
+Hello! Thank you so much for all of your support!!!
+
+1)  How did you know about the game and have you tried on other roles?
+- I found out through my agents about the audition, and I believe I auditioned for Max, Victoria and Kate!
+2) What was it like to voice Kate? Was it challenging? What do you think about her family?
+- It was fun getting to voice Kate, but also sad, because she was always so sad. I wish her family had been more open minded and supportive.
+3) How close Kate’s character to your personality?
+- I grew up religious but have moved away from it as I got older. I definitely can be very shy and quiet sometimes!
+4)What is your opinion on bullying topic raised in Season 1?
+- I think it's very important to be aware of bullying and how to stop/prevent it. It's a very real problem and affects so many people. I'm glad a supportive and loving community has grown out of this game.
+
+5) Roof scene. Was it hard?
+- It was! But partially because I had no idea about it until I had to record, so I didn't have time to prepare! I did have Hannah with me in the booth, which made it easier to record. But it was definitely a very emotional scene.
+
+6) What, do you think, was Kate’s fate after ‘Sacrifice Arcadia Bay’ ending?
+- I don't know if anyone could have survived what Arcadia Bay went through with the ending :(
+
+7) Which ending is your personal canon?
+
+- I saved the town - I'm sorry!!! I had to save Kate!
+
+8) What do you think about Nathan character? Did you forgive him after Episode 5?
+
+- I feel very bad for Nathan. He had a very unpleasant upbringing, however many people have and didn't end up murdering a classmate. He deserves sympathy to an extent, but by the time we get to him in the story he's far gone and has made too many awful choices.
+
+9) What do you think about Chloe?
+
+- I had a hard time feeling sympathetic towards Chloe for a long time. It wasn't until I played Before the Storm that I finally understood her better.
+
+10) Did you like working on the project? Are you still in contact with any of the voice actors?
+
+- I loved working this project! I still talk with Hannah, Nik and Cissy!
+
+11) Would you like to continue voicing game characters? In what franchise, if so?
+
+- I would love to continue working in the VO world! I think it would be amazing to do another cinematic game, like The Last of Us, or something creepy like Until Dawn.
+
+12) What is your favorite track from LiS franchise (Season 1 or Before the Storm may be?)
+
+- Oh gosh! I don't know ALL of the songs, but I do love singing Obstacles with Hannah!
+
+13) Would you like to work on Season 2 if asked?
+
+- ABSOLUTELY! :)
+
+14) Would you like to have time rewind powers like Max’s or anything else?
+
+- No, I think that's too complicated and too dangerous. Too many things can go wrong! I would want to be able to apparate like in Harry Potter. No more LA traffic!
+
+15) Was it hard to make Kate's hairstyle for the cosplay? :D
+
+- hahahaha kind of! I used these plastic hair pieces called "bump-its" to try and get it bigger!
+
+16) What kind of tea do you personally like?
+
+- I love Irish Breakfast Tea!
+
+----
+**danbuter**
+
+Did Kate's Christianity affect you personally?
+
+I have to say, after playing LiS, I've reread the New Testament and pray daily. I was basically agnostic for over a decade before that, but Kate's character really spoke to me.
+
+**dayebraham_lincoln**
+Wow, I'm so happy that you were affected so positively, that's wonderful! I think it's important to have something to connect to that brings you peace and joy. I personally was not affected by her Christianity in that way, but I'm so happy you found comfort in it!
+
+----
+**Tierouy**
+Hi Dayeanne and thank you so much for doing this AMA!
+
+I have a couple questions:
+
+#Were there any particularly memorable/weird/funny/etc dialogue that you recorded for any of your characters in Life is Strange that ultimately ended up being left out of the finished game?
+#Which Life is Strange character would you say that you identify with the most?
+#What do you think of Marshfield?
+#Is Kate Marsh favorite tea chamomile?
+#Which of your films would you cite as your favorite? (If any.)
+
+**dayebraham_lincoln**
+
+It's my pleasure! Thanks for being here!
+
+# Uhmm I remember in the Vortex Club scene they had me calling the pool noodle a "Water Weenie", which I thought was adorable and hilarious and I don't believe it's in the game.
+#Probably Max! Awkward and nerdy and shy. Yup thats me haha.
+#Love it! Not sure how it would go down with Kates beliefs but I like it haha
+#It could be! I think she definitely drinks a cup every night before bed!
+#Emperor's New Groove! (yes, I am a child)
+
+--- 
+**esterve**
+
+Hey Daye!
+
+#Who do you think Max and Kate shit-talked over their tea sessions?
+#How do you feel about Kate's other friends (Stella, Alyssa, Dana?) I feel bad for Dana since she managed to screw over her friendship with Kate.
+#What made you take up the ukulele?
+
+**dayebraham_lincoln**
+
+Hello!!
+
+#I don't know if Kate would ever go so far. They might discuss how to get Victoria to be nicer. Maybe they'd make fun of Warren a little bit, in a sweet way haha
+#I don't understand why none of them seemed to reach out to Kate when she was so upset and left it up to Max (other than, there wouldn't be a game if Max didn't need to help lol) I like all of them though, I'm sure Kate would quickly forgive Dana.
+#Reteaching myself guitar just seemed too hard XD also a good friend of mine started teaching me on hers and it's just simple to pick up and start learning. At least more so than other instruments.
+----
+**Oriain_Original**
+
+Afternoon (at least where I am)!
+
+My only question is, who is ever more responsible, or who is responsible, for pushing too far on someone who's dealing with depression (as it is relatable to the decision Max has to make). I certainly could never place the blame on one soul, as I believe everyone is held accountable, for not helping the person out, or just not noticing (which is why I originally chose Jefferson, and you can see how that favoured my fortune).
+
+P.S. Kate was the first video game character to make me cry, even though I was able to save her. That whole scene caught me by surprise; looking upward of the dorm was enough, and the teetering on the ledge was wrenching. Happy you were apart of this experience, means the world to me.
+
+**dayebraham_lincoln**
+
+I think society is to blame for not taking Mental Health more seriously and not giving it the focus it deserves. The victim is too often blamed for something that is not their fault. And because it's not important to society, we aren't taught how to recognize it, how to help. I strongly urge everyone to take mental health more seriously, and not look at it with embarrassment. It's okay to need help. Life is hard. We ALL need help in some way or another, at some point or another. It's okay. 
+----
+**ThreadOfFate**
+
+Hey Daye! Nice to see you around the subreddit!
+
+#What's your favorite sandwich?
+#What was it like to find out that Kate turned out to be rather unexpectedly popular with the fandom?
+#Is there anyone you like seeing Kate paired with, romantically or otherwise?
+#What's up next for you?
+
+**dayebraham_lincoln**
+
+Hello! Nice to see you too :)
+
+#I LOVE cucumber tea sandwiches
+#Amazing! They brought me back in to record when they weren't sure they were going to. Thank you all! And the fans of this game, you're all so wonderful and kind and supportive. I'm so lucky to have been involved.
+#Alice! :P I love seeing all the creativity and fan art of the fandom shipping all the different characters.
+#Right now I'm mostly focused on my Twitch channel, but always on the lookout for the next fun project!
+
+----
+**Afbg123**
+
+Hi Dayeanne!
+
+#Kate’s a character many people relate with a lot because of her depression. What’s it like to be the voice of a character people identify with as a type of character that doesn’t get represented much in gaming?
+#What were some of the details of Kate’s character the voice directors gave you when you voiced her character?
+#What’s your favourite part of being a voice actor, and what type of characters would you like to voice if you had the opportunity to voice another character?
+
+**dayebraham_lincoln**
+
+Hello!
+
+#I am **so** honored to have given voice to a character that so many have found hope and connection in. It brings me so much joy that a supportive and loving community has grown out of this game and character, it truly amazes me.
+#Sad. I'm trying to remember but I think it was something like a sweet girl who is sad and depressed.
+#I love that you can play SO many different kinds of characters, you're not limited by how you look and if how you look fits in with the show or the rest of the cast etc. I really wanna voice a creepy character haha but really anything, I would have fun with anything!
+
+----
+**Claudebloch**
+
+Hi Dayeanne!
+
+I absolutely adore Kate, and can empathize hugely with her in-game story!
+
+A couple of questions:
+
+1) Were you able to draw on any real-life experiences or beliefs to get into character as Kate?
+
+2) Were you surprised at the huge amount of fans that Kate has, considering that she is effectively a supporting character?
+
+Thank you so much for doing this AMA, I’ll be following you on Twitch!
+
+**dayebraham_lincoln**
+
+Hello! So so happy you found a great connection with the game and character!
+
+1) Everyone has been embarrassed, or depressed, or in a hard situation. I just drew on those human aspects of life.
+
+2) I was surprised So pleasantly surprised! It's amazing to be connected to such a well loved characters, all the fan support means the world to me!
+
+Can't wait to see you on Twitch! Welcome to the AlpaCat fam!
+
+----
+**swaglikedyllon**
+
+Greetings from Cali Dayanne!
+
+I’m your opinion what do you think Kate’s favorite kind of tea is?
+
+**dayebraham_lincoln**
+
+Hello! Oooooooh I'm not sure! Maybe something like Earl Grey!
+
+----
+**tache17**
+
+Your character is amazingly acted and is actually really impressive, I have 1 quick question. What was it like recording your own suicide attempt/success.
+
+**dayebraham_lincoln**
+
+Thank you so much! It was very strange, an odd thing to be told you're going to do for the day. 
+
+----
+**konel_hft**
+
+Dayebraham Lincoln. That's awesome.
+ 
+**dayebraham_lincoln**
+
+Well thank you very much! :)
+
+----
+**Philkindred1**
+
+Hi Daye, thanks for dropping by and for being a part of one of my favourite games ever :)
+
+#Will you be continuing on with voice-acting in videogames and if so, can you share with us any upcoming titles you're involved in?
+
+#What's your overall favourite moment in the whole LiS series, BTS and Farewell included?
+
+Bonus question: Did you have a special technique for doing the voice of Alyssa? I always imagined that you stuck marshmallows in your mouth and read the lines like normal lol
+
+**dayebraham_lincoln**
+
+Hello! I'm so honored to be in one of your favourite games ever!
+
+#Yes! I would love to keep voice acting, but don't currently have any games in the works. I am part of a fun Podcast called [https://harleyhooman.com/ Harley Hooman] thats on right now. Please check it out!
+#AHHH I still haven't played Farewell :( I did LOVE playing DnD in BtS though :)
+
+Bonus Question:ahahahahaha no, no marshmallows were used in the making of Alyssa. I just kind of talk back further in my throat. I know that voice got criticism from some, but it's just kind of my super exaggerated "goth girl" voice. Bored and disgusted haha.
+
+----
+**Brewski89**
+
+Thanks for doing this AMA.
+
+My question comes from my own first play through of Life is Strange season 1, where I was unable, where I was unable to save Kate, and she jumped. That was one factor of many influencing my selection of the "Sacrifice Chloe" ending. (Although I see both endings as equally valid for different reasons.)
+
+I know you've said earlier in this AMA that you lean towards saving Arcadia Bay, but my questions are on the end of episode 2.
+
+#In your head canon, does Kate jump or is Max able to save her?
+#Who does Max blame at the end of Episode 3? Nathan, David or Jefferson?
+
+**dayebraham_lincoln**
+
+You're welcome - thank YOU for being here! :)
+
+I think Max is able to save her. I want to say Max blames Jefferson, but thats definitely influenced by me now knowing the true ending.
+
+----
+**Phill24**
+
+Hi, Daye. Thanks for doing AMA. :)
+
+    Is it weird and/or awkward to watch footage of yourself acting, or it something that doesn't bother you?
+
+    What roles were the most challenging for you to play?
+
+**dayebraham_lincoln**
+
+Hello! I'm so happy to be here!
+
+    It use to be, but after doing it over and over I'm actually quite use to it!
+    I've had a lot of fun in all of my roles, I don't actually think I've seen any of them as a challenge!
+
+----
+**SubAl21**
+
+Hello) This my question: How did you react to the violence against Kate?
+
+**dayebraham_lincoln**
+
+It was very difficult to witness, I hate that people can be so cruel. It's so unnecessary to torture someone like that. 
+
+----
+**nicefield**
+
+Hi Daye!
+
+What aspect of Kate do you relate to the most? What do you relate to the least?
+
+**dayebraham_lincoln**
+Hello! I could also be very sad in high school, the teen years are rough man. I related least to her religious beliefs. 
+
+----
+**Jimbobbillyboy**
+
+Hi Dayeanne, you might remember me from that comic of Kate spraying Victoria with water. First off it's really cool that you are doing this, so thank you. I think you did a fantastic job with the voices in LiS, and you do really good cosplay as well (especially the one of Kate). Also I feel really bad that I tweeted that Kate comic without giving the correct source, so here it is. http://gaybreadlover-deactivated.tumblr.com/post/128526414447/how-to-train-your-victoria-a-step-by-step
+
+Also could you please say hi to my friend Alonzo, he's busy right now but Kate is his favorite character in the game.
+
+Now onto questions: 1. How do you feel about Marshfield? Personally I think Kate is way too pure to ship her with anyone, but I was wondering what you think. 1.5. Who's your favorite character besides Kate? 2. What do you think happened to Kate if you pick the Bae ending? 3. Did you think Kate was such a Cinnabun when you were voicing her, or what was your opinion on her before the game was released? 4. You collab a lot with Hannah Telle, which is awesome. Would you ever consider doing a colab with Ashly Burch or any other voice actors? Like if you were on "Hey Ash, Watcha Playin?" would be awesome. If the episode 5 stream of LiS on Square Enix had both you, Ashly, and Hannah, I would die of joy... 5. Did you play Before the Storm, and if you did what did you think of it? And if you didn't, would you consider streaming it? or at least farewell 6. In an earlier stream of episode 2, you said you were looking into the stuff for the LiS-based tv show. Any progress? 7. (This one is for a friend) "What did you feel like when Kate died, and what did you feel like when Kate survived? Also how can the whole thing with Kate can apply to your life or anyone else's life?"
+
+I know I asked a lot, but I just had a lot to say and I have to try and sneak this in during lunch. So thanks if you read this, and may your day be as pure as Kate and her bun!
+
+**dayebraham_lincoln**
+
+I love that comic! Thank you! And hello to Alonzo!
+
+    I don't know if KATE would actually be down for Marshfield lol but I like it!
+    I honestly think she died :(
+    She kind of made me sad that she was always sad, I worried people would think she came off whiney. I'm glad she doesn't though, that makes me very happy!
+    I would love too! Unfortunately, I don't actually know Ashly, but it would be amazing to collab with her on something!
+    I have played it (though not the farewell episode yet!) I liked it, it really helped me to understand Chloe better.
+    I don't think there is anymore information out there yet
+    I haven't ever played where Kate died because thats too weird and sad for me haha I'm very happy and relieved when I save her! I think the whole thing with Kate can let us know that we all need to be more aware of mental health and take it more seriously. I think it should show us we need to learn how to deal with these issues instead of brushing them off, or telling depressed people to "get over it". Awareness is a good first step!
+
+----
+**Escope12**
+
+Hi Dayeanne Hutton. I wanted to say awesome job voicing Kate Marsh. What was it like voicing her?
+
+**dayebraham_lincoln**
+
+There were no lasting effects, as the recording actually went by so quickly. I am very glad that the character has helped so many people; I agree that mental health awareness is too often overlooked. I am honored to be involved with a game that let people know they aren't alone. 
+----
+**ScorelessPine**
+
+I've got some questions about the game itself:
+
+First off, have you played through LiS? If you have, what was your reaction to some of the more major plot points?
+
+Did you ever rewind and second guess the decisions you made?
+
+And lastly, were you able to save Kate on the rooftop, and what was your reaction to the result you got? Do you think you would have done differently if you didn't already record the voice lines for Kate?
+
+Thanks for doing this AMA, it's really awesome of you!
+
+**dayebraham_lincoln**
+
+Yes! I played through LiS on my Twitch channel and the VODs are on my YouTube! I was shocked by some of the things I didn't already know about, so much heavy and dark content. It's been a while, but I'm sure I used rewind due to second guessing a few times. I DID save Kate which was a very stressful time for me haha but I do think I had an advantage since I read through all the lines when recording. Unfortunately, theres a very good chance I would have failed if I didn't record the lines. 
+
+----
+**thelostsoul622**
+
+There's an otter in my water 5 points 4 months ago 
+Hi Daye, what is your favorite alpaca gif/video?
+
+**dayebraham_lincoln**
+
+OoOOOoo The one with the star wars music and all the alpacas are slowly walking towards the camera. 
+
+----
+
+**TacticalHog**
+
+Hi Daye :D
+
+#favorite color?
+
+#did you have a favorite moment from voice acting Kate?
+
+#Which ending do you prefer?
+
+**dayebraham_lincoln**
+
+Hello!!
+
+#Greens! Usually Mint or Sage
+#This may sounds weird, but I really liked getting to be creepy when recording the nightmare lines
+#Neither!!! haha I saved the Bay because I didn't think Max could survive letting a whole town die.
+
+----
+
+**gigantism**
+
+1) Have you played BtS, and do you have your own theories for what happens to Rachel and Chloe in the 3 years after BtS?
+
+2) Has anyone recognized you from your role out in public?
+
+3) If you could have any superpower, what would it be?
+
+4) Have you ever read any of the fan-fiction that's been created around the franchise?
+
+5) What's your favorite video game, and why?
+
+6) What was it like recording lines for multiple characters? Was the situation such that you'd have to do a Kate line one second and a Juliet one the next?
+
+7) The franchise incorporates heavy themes such as school shootings, income inequality, depression, online bullying, single parent households, drug addiction, LGBT representation, rural economic decline, etc. In Life is Strange 2, are there any themes or social issues you would like to see explored that didn't get as much visibility in the first game and prequel?
+
+**dayebraham_lincoln**
+
+#I have, all on my Twitch channel! I still need to play the Farewell episode, but I'm going to! I haven't thought about it TOO much honestly, I just figured they kept hanging out and getting into trouble and dealing with the information discovered in BtS
+#mmmm for LiS, no I don't think so!
+#I wanna apparate and not have to ever drive in traffic again!
+#I haven't! I know it's out there :)
+#You know, I LOVE me some classic Super Mario Bros. on the NES. I grew up playing it and have always loved it!
+#It was fun! The director helped me find their voices by letting me know about the types of characters they were. I knew Alyssa was kinda goth with purple hair, and that Juliet was a bit aggressive lol, we would do all of one characters lines, then switch to the next.
+#That's a really amazing question, unfortunately there is always MORE to explore and make more visible in todays world, and I don't pretend to know every issue that needs visibility. I just hope they keep pushing boundaries and showing mainstream media/gaming all that can be accomplished and the positive affect games can have on people.
+
+----
+
+**PinkAbuuna**
+
+Hi Day! I love your work as Kate, Alyssa and Juliet, the performances show a great range in your voice acting!
+
+What was the most fun part of playing these characters?
+
+**dayebraham_lincoln**
+Hello! Thank you so much! It was honestly just so fun to get to be multiple characters! I didn't know I would be doing that at first!
+
+----
+**Schnutzel**
+
+Hi Daye!
+#In what ways are you and Kate alike, and how are you different/opposite?
+#Favorite pizza topping? Pineapple on pizza, yes or no?
+#How did you manage voicing three different characters?
+#What does Hannah Telle smell like?
+#Amberprice or Pricefield?
+#What do you think will happen to Max and Kate after Arcadia Bay?
+#Have you played BtS? Do you think Samantha and Kate would have made good friends?
+
+Thanks!
+
+**dayebraham_lincoln**
+
+Hello!
+
+#I think we are both shy and quiet, sensitive, grew up with a lil Catholic guilt, academic. As for differences, I'm not as religious as Kate, and I definitely think I would have fought back in some way to get back at Vortex Club people. But then again, I've never been in that type of situation, so I can't be sure.
+#I LOVE plain cheese pizza lol or just fresh mozzarella, sauce and basil. I hated pineapple on pizza as a kid but I honestly haven't tried it since. It might be okay.
+#I had help from the wonderful director who told me more about the personalities of the characters and helped get me going in the right direction with their voices.
+#Rainbows and smiles
+#Pricefield
+#I really hope they stay in touch, I think they are both very good for each other!
+#I have! Most likely, though I think Kate would be a good friend to anyone thats willing!
+
+----
+
+**UnKn0wN31337**
+Hey Daye! I absolutely love your personality and admire your work, I really enjoy watching your streams too, found out about it from the awesome tea session stream with Hannah several months ago :3.
+
+Your lovely voice really fit nice for Kate as well and I can't imagine her with any other voice. I don't think I have anything to ask you that's unanswered, sorry :)
+
+I just want to say that whatever you're doing, especially your streams are awesome and you should keep it that way. In other notes I'd really like to see a Marshfield tea session DLC, because we didn't even get to get that part, it would be something like the Farewell for BtS I think, but that's highly unlikely to happen at this point :(
+
+Have a nice Daye :)
+
+**dayebraham_lincoln**
+
+Thank you so much!!! I'm so glad you're enjoying the streams as well, thank you for your continued support!
+
+----
+**bryan_stein99**
+
+Hi Daye,
+
+Here are my Questions 😇
+
+First of all: I apologize for not being word-perfect in English
+
+#Do you want to buy a Nintendo Switch, because I think that games like Mario Kart 8 would be a great community project for your Twitch Channel
+# Which Nintendo Games die you play?
+#Who is your favourite Character in Life is Strange & Life is Strange: Before the Storm?
+# What is your favorite genre of music (Favorite band or solo artist)?
+#Is there any chance to get an autograph from you?
+
+Thank you for answering my questions 👍😇
+
+Have a nice day!
+
+Bryan
+
+**dayebraham_lincoln**
+
+No apologies necessary! :)
+
+#I do have access to a Switch, I need to look into how to stream with it!
+#I've played a bunch! I don't currently have a nintendo system, but I do love all the Mario games!
+#Samuel!!! :)
+#Usually indie music, I love Sara Bareilles \
+#I have a PO box (shown on my twitch bio) and if you send something with a prepaid envelop for me to send it back in, I'm happy to sign!
+
+You have a nice day as well!
+
+----
+
+**RobertJHill**
+
+What do you think of the fan pairing of gay Kate/Victoria? I always thought the video of Kate likely had a section of the two of them on it, and Victoria thought it was rad and wanted more but Kate -because Jesus- was disgusted. So this made Victoria feel slighted, right? And she tortured Kate because of that.
+
+Thoughts on that theory?
+
+**dayebraham_lincoln**
+
+Ooooh and interesting theory indeed! It's definitely plausible, very true reactions from both characters. Though I'm not sure if I can see Victoria being genuinely interested in Kate. I could see her trying to get with Kate for the purpose of the video and further humiliating her... but honestly I've never thought about it and now I'm curious hahaha 
+
+----
+
+**Jossi55** 
+
+Hey Dayeanne Thank you for doing this Ama. I Love Kate, she is One of my favourite Videogame characters, thanks to your Great perfomance. :)
+
+My question. What was your favourite scene from Season 1 and why?
+
+**dayebraham_lincoln**
+
+Wow, thank you so much! I'm so happy you enjoy Kate so much! I liked the scene in the hospital, because Kate is finally feeling happier and even jokes around a little. 
+
+----
+
+**Jimbobbillyboy**
+
+Hey again, I already asked you something, but I forgot to ask one last thing. Are you (still) friends with any of the voice actors from the game? I know you often have Hannah with you on your streams, but is there anyone else you still talk to? And does the cast of the game keep in touch with each other or have you all branched off to other things? Thanks, and have a good day!
+
+**dayebraham_lincoln**
+
+Hello again! I see Nik when we stream and have hung out with Cissy a few times. I'm also getting to know Katy and Hailey from BtS. Some people keep in touch - others don't! :)
+
+----
+
+**Noahgonzy**
+
+Hey Dayeanna, simple question, what's your favorite pet?
+
+**dayebraham_lincoln**
+
+Normal Pet.... Cat
+
+Not Normal Pet... Alpaca :)
+

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is Steve Hackney Looking For In The Noticeboard Advertisement?",
+    "answer": "C",
+    "choices": {
+      "A": "A Drummer",
+      "B": "A Singer",
+      "C": "A Guitarist",
+      "D": "A Bassist"
+    }
+  },
+  {
+    "question": "Which Episode Of Life Is Strange Features Steve Hackney's Advertisement?",
+    "answer": "A",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 5: Polarized"
+    }
+  },
+  {
+    "question": "Which Band Does Steve Hackney Mention The Most In His Influences List?",
+    "answer": "D",
+    "choices": {
+      "A": "The Beatles",
+      "B": "The White Stripes",
+      "C": "The Smiths",
+      "D": "The Ramones"
+    }
+  },
+  {
+    "question": "Who Might Steve Hackney's Name Be A Reference To?",
+    "answer": "D",
+    "choices": {
+      "A": "A Former UK Rugby Player",
+      "B": "A British '70s Singer",
+      "C": "A London Borough",
+      "D": "All Of The Above"
+    }
+  }
+]

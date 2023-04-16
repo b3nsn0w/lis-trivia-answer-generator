@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Where is the \"Heroes Contest\" poster located?",
+    "answer": "C",
+    "choices": {
+      "A": "Near the receptionist in the Zeitgeist Gallery",
+      "B": "To the left of the gallery entrance",
+      "C": "In front of Max in the plane",
+      "D": "Near the stairs to the lower floor"
+    }
+  },
+  {
+    "question": "What does Max say about the Zeitgeist Gallery's history?",
+    "answer": "A",
+    "choices": {
+      "A": "It has a cool history in Frisco",
+      "B": "It has a long and boring history",
+      "C": "It has a controversial history",
+      "D": "It has a mysterious history"
+    }
+  },
+  {
+    "question": "What does Max say about the \"Stop the Startups\" leaflet?",
+    "answer": "A",
+    "choices": {
+      "A": "The revolution will not be televised",
+      "B": "It's a waste of paper",
+      "C": "It's a great idea",
+      "D": "It's too radical"
+    }
+  },
+  {
+    "question": "What does Max say about the \"Skull Bones\" leaflet?",
+    "answer": "A",
+    "choices": {
+      "A": "It was designed just for Chloe",
+      "B": "It's too scary for her",
+      "C": "She's not interested in it",
+      "D": "She wants to go to the mosh pit"
+    }
+  },
+  {
+    "question": "Where is the guestbook of the gallery located?",
+    "answer": "D",
+    "choices": {
+      "A": "Near the receptionist in the Zeitgeist Gallery",
+      "B": "To the left of the gallery entrance",
+      "C": "In front of Max in the plane",
+      "D": "Near the stairs to the lower floor"
+    }
+  }
+]

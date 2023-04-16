@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is Alexis Bauzet's profession?",
+    "answer": "B",
+    "choices": {
+      "A": "Game Developer",
+      "B": "User Interface Artist",
+      "C": "Sound Designer",
+      "D": "Writer"
+    }
+  },
+  {
+    "question": "Which game did Alexis Bauzet work on before *Vampyr*?",
+    "answer": "A",
+    "choices": {
+      "A": "*Remember Me*",
+      "B": "*Life is Strange*",
+      "C": "*Max's Journal*",
+      "D": "*Alysianne Bui*"
+    }
+  },
+  {
+    "question": "What are some of the UI elements that Alexis Bauzet created for *Life is Strange*?",
+    "answer": "A",
+    "choices": {
+      "A": "The dialogue options",
+      "B": "The character models",
+      "C": "The background music",
+      "D": "The sound effects"
+    }
+  }
+]

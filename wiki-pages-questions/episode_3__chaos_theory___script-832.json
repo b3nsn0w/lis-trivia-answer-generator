@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Chloe Dare Max To Do?",
+    "answer": "B",
+    "choices": {
+      "A": "Try On Rachel's Clothes",
+      "B": "Kiss Her",
+      "C": "Get A Tattoo",
+      "D": "Dye Her Hair"
+    }
+  },
+  {
+    "question": "What Does Max Think About Chloe's Fearlessness?",
+    "answer": "A",
+    "choices": {
+      "A": "She Loves It",
+      "B": "She Is Jealous Of It",
+      "C": "She Is Scared Of It",
+      "D": "She Doesn't Care About It"
+    }
+  },
+  {
+    "question": "What Does Chloe Say About Max's Style?",
+    "answer": "A",
+    "choices": {
+      "A": "She Doesn't Have One Yet",
+      "B": "She Needs To Dress More Like Rachel",
+      "C": "She Should Stick To Her Chlorine Brand T-Shirt",
+      "D": "She Should Wear More Girly Clothes"
+    }
+  },
+  {
+    "question": "What Does Chloe Say About Warren After Max Kisses Her?",
+    "answer": "C",
+    "choices": {
+      "A": "He Doesn't Stand A Chance",
+      "B": "He Is Going To Be Jealous",
+      "C": "He Is Into Girl-On-Girl Action",
+      "D": "He Is Not Interested In Max"
+    }
+  },
+  {
+    "question": "What Does Chloe Say About Max's Breakfast Plans?",
+    "answer": "A",
+    "choices": {
+      "A": "She Wants To Join Her",
+      "B": "She Doesn't Want To Go",
+      "C": "She Wants To Bake First",
+      "D": "She Wants To Keep It A Secret"
+    }
+  }
+]

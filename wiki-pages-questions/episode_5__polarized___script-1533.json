@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Jefferson Do When David Enters The Room?",
+    "answer": "A",
+    "choices": {
+      "A": "He Hides The Syringe",
+      "B": "He Grabs A Gun",
+      "C": "He Turns Off The Music",
+      "D": "He Pretends To Be Asleep"
+    }
+  },
+  {
+    "question": "What Does Jefferson Use To Knock David Unconscious?",
+    "answer": "C",
+    "choices": {
+      "A": "A Gun",
+      "B": "A Syringe",
+      "C": "A Tripod",
+      "D": "A Camera"
+    }
+  },
+  {
+    "question": "What Does Max Do To Warn David About Jefferson?",
+    "answer": "C",
+    "choices": {
+      "A": "She Shouts His Name",
+      "B": "She Throws A Bottle",
+      "C": "She Tells Him To Watch Out",
+      "D": "She Pushes A Trolley"
+    }
+  },
+  {
+    "question": "What Happens When David Tries To Punch Jefferson?",
+    "answer": "C",
+    "choices": {
+      "A": "He Misses And Falls To The Ground",
+      "B": "He Hits Jefferson In The Face",
+      "C": "Jefferson Dodges And Hits David With The Tripod",
+      "D": "Jefferson Shoots David With A Gun"
+    }
+  },
+  {
+    "question": "What Does Jefferson Say When David Chases Him?",
+    "answer": "B",
+    "choices": {
+      "A": "\"You'll Never Catch Me\"",
+      "B": "\"It's Over\"",
+      "C": "\"You're Too Slow\"",
+      "D": "\"I Have A Gun\""
+    }
+  }
+]

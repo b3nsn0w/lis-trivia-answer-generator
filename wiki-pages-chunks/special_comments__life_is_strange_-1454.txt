@@ -1,0 +1,60 @@
+Here is a section of the wiki page for Special Comments (Life is Strange):
+
+## Nightmare - Art Class # 
+* *"If this is a nightmare... I want to wake up..." *{{Headphones|fileVO_E5_7B.STM_35~Act_E5_7B_ArtClass_NightmareLines_Scripted_Max_020.ogg‎}}
+* *"What if I can't wake up and this is... real...?" *{{Headphones|file# ‎VO_E5_7B.STM_271~Act_E5_7B_ArtClass_NightmareLines_Scripted_Max_090.ogg}}
+* *"Please, Chloe... Where are you..." *{{Headphones|fileVO_E5_7B.STM_737~Act_E5_7B_ArtClass_NightmareLines_Scripted_Max_030.ogg‎}}
+# #
+
+## Nightmare - Dorms 
+* *"Now where exactly am I?" *{{Headphones|file# VO_E5_7B.STM_769~Act_E5_7B_DormsCorridor_LostLines_Scripted_Max_010.ogg‎}}
+* *"Too many doors to choose..." *{{Headphones|file‎VO_E5_7B.STM_585~Act_E5_7B_DormsCorridor_LostLines_Scripted_Max_030.ogg}}
+* *"You're not going to be trapped here... Find the right door, Max!" *{{Headphones|file# VO_E5_7B.STM_665~Act_E5_7B_DormsCorridor_LostLines_Scripted_Max_040.ogg‎}}
+* *"Chloe... Help me..." *{{Headphones|fileVO_E5_7B.STM_656~Act_E5_7B_ArtClass_NightmareLines_Scripted_Max_080.ogg‎}}
+* *"Oh, thank God I'm myself again... Now I know where to go." (after having entered Victoria's room) *{{Headphones|file# VO_E5_7B.STM_342~Act_E5_7B_DormsCorridor_HintMaxRoom_Scripted_Max_010.ogg‎}}
+
+#
+
+## Nightmare - Maze # 
+* *"Jefferson is coming after me again... No..." *{{Headphones|fileVO_E5_7B.STM_132~Act_E5_7B_LabyStealth_IdleLines_Scripted_Max_010.ogg‎}}
+* *"This is like an evil maze…" *{{Headphones|file# VO_E5_7B.STM_625~Act_E5_7B_LabyStealth_IdleLines_Scripted_Max_030.ogg‎}}
+* *"The lighthouse is over there!" *{{Headphones|file‎VO_E5_7B.STM_26~Act_E5_7B_LabyStealth_IdleLines_Scripted_Max_040.ogg}}
+* *"Maybe I'll be safe in the lighthouse... maybe I'll wake up..." *{{Headphones|file# ‎VO_E5_7B.STM_461~Act_E5_7B_LabyStealth_IdleLines_Scripted_Max_050.ogg}}
+* *"Dammit, Max... Wake up!" *{{Headphones|fileVO_E5_7B.STM_513~Act_E5_7B_LabyStealth_IdleLines_Scripted_Max_060.ogg‎}}
+* *"Be strong... You have to." *{{Headphones|file# VO_E5_7B.STM_54~Act_E5_7B_ArtClass_NightmareLines_Scripted_Max_110.ogg‎}}
+* *"Freddy Krueger better not show up or I'll scream..." *{{Headphones|file‎VO_E5_7B.STM_208~Act_E5_7B_ArtClass_NightmareLines_Scripted_Max_060.ogg}}
+
+**"No way!"* {{Headphones|file# specialcomms-anger-noway.ogg}}
+**"Are you serious?"* {{Headphones|filespecialcomms-anger-areyouserious.ogg}}
+
+#
+
+## Boredom/Disappointment
+**"This blows."* {{Headphones|file# specialcomms-boredom-thisblows.ogg}}
+**"Duh"* {{Headphones|filespecialcomms-boredom-duh.ogg}}
+**"Just great."* {{Headphones|file# specialcomms-boredom-justgreat.ogg}}
+**"Well…"* {{Headphones|filespecialcomms-boredom-well.ogg}}
+
+#
+
+## Negative Surprise
+**"Damn!"* {{Headphones|file# specialcomms-negative-damn.ogg}}
+**"Rats!"* {{Headphones|filespecialcomms-negative-rats.ogg}}
+**"Shit!"* {{Headphones|file# specialcomms-negative-shit.ogg}}
+**"Damn it!"* {{Headphones|filespecialcomms-negative-dammit.ogg}}
+**"NO!!!"* {{Headphones|file# specialcomms-negative-no.ogg}}
+
+#
+
+## Positive Surprise
+**"Wowser!" {{Headphones|fileVO_ACT_GEN_Max.STM_42~Act_GEN_PositiveSurprise_Max_10.ogg‎}}*
+**"Awesome." {{Headphones|file# VO_ACT_GEN_Max.STM_75~Act_GEN_PositiveSurprise_Max_20.ogg‎}}*
+**"Oh, yes." {{Headphones|fileVO_ACT_GEN_Max.STM_34~Act_GEN_PositiveSurprise_Max_30.ogg‎}}*
+**"Yes!" {{Headphones|file# ‎VO_ACT_GEN_Max.STM_12~Act_GEN_PositiveSurprise_Max_40.ogg}}*
+**"Hella yes!" {{Headphones|file‎VO_ACT_GEN_Max.STM_85~Act_GEN_PositiveSurprise_Max_50.ogg}}*
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

@@ -1,0 +1,32 @@
+[
+  {
+    "question": "In What Oregon Town Does The Game Take Place?",
+    "answer": "B",
+    "choices": {
+      "A": "Arcadia Bay",
+      "B": "Beaver Creek",
+      "C": "Portland",
+      "D": "Eugene"
+    }
+  },
+  {
+    "question": "How Long Is The Game Expected To Be?",
+    "answer": "C",
+    "choices": {
+      "A": "30 minutes",
+      "B": "1 hour",
+      "C": "2 hours",
+      "D": "3 hours"
+    }
+  },
+  {
+    "question": "What Is The Connection Between The Awesome Adventures of Captain Spirit And Life Is Strange 2?",
+    "answer": "C",
+    "choices": {
+      "A": "They share the same protagonist",
+      "B": "They take place in the same town",
+      "C": "Choices and actions in Captain Spirit carry over to Life Is Strange 2",
+      "D": "They have no connection"
+    }
+  }
+]

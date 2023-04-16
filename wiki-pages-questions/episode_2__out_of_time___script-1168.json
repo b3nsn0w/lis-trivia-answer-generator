@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Ms. Grant's Opinion On Camera Surveillance?",
+    "answer": "A",
+    "choices": {
+      "A": "She Is Against It",
+      "B": "She Is In Favor Of It",
+      "C": "She Is Indifferent To It",
+      "D": "She Is Unsure About It"
+    }
+  },
+  {
+    "question": "What Is Ms. Grant's Response When Max Asks About Adding Potassium Or Sodium To A Chemical Mix?",
+    "answer": "C",
+    "choices": {
+      "A": "Add Potassium",
+      "B": "Add Sodium",
+      "C": "Add Chlorine",
+      "D": "Add Both Potassium And Sodium"
+    }
+  },
+  {
+    "question": "What Is Ms. Grant's Favorite Time Of Year?",
+    "answer": "C",
+    "choices": {
+      "A": "Spring",
+      "B": "Summer",
+      "C": "Autumn",
+      "D": "Winter"
+    }
+  },
+  {
+    "question": "What Is Ms. Grant's Opinion On Mr. Jefferson?",
+    "answer": "C",
+    "choices": {
+      "A": "She Dislikes Him",
+      "B": "She Is Indifferent To Him",
+      "C": "She Likes Him As A Teacher",
+      "D": "She Likes Him As An Artist"
+    }
+  },
+  {
+    "question": "What Is Ms. Grant's Response When Max Asks About The Snow?",
+    "answer": "A",
+    "choices": {
+      "A": "She Has No Explanation",
+      "B": "She Blames Climate Change",
+      "C": "She Blames The Local Tribes",
+      "D": "She Thinks It's Beautiful"
+    }
+  }
+]

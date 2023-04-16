@@ -1,0 +1,51 @@
+#  Plane 
+
+```yaml
+Location
+
+name: Plane
+image: plane-main.png
+type: Airplane
+appears: '[Episode 5: Polarized](episode_5__polarized.md) (alternative reality)'
+```
+
+> Okay... You're okay, Max... You're safe...on a plane. I hope I did everything right this time.
+
+**[Maxine Caulfield**, Max](maxine_caulfield____max.md) in "[Episode 5: Polarized, Polarized](episode_5__polarized__polarized.md)"
+The **Plane** is a location in "[Episode 5: Polarized](polarized.md)" in the [Alternative Timeline#Polarized Timeline (2013)](alternative_timeline.md) where [Mark Jefferson](mark_jefferson.md) is caught and arrested and [Maxine Caulfield](max_caulfield.md) wins the [Everyday Heroes Photo Contest](everyday_heroes_photo_contest.md). It flies to [San Francisco](san_francisco.md). Max can look at and interact with some objects from her chair. Photo boundaries are visible outside the airplane's window.
+
+##  Episode Five - "[Episode 5: Polarized](polarized.md)" 
+After turning in her photo for the contest, Max finds herself in a seat near the window of the airplane with [Ray Wells](principal_wells.md) sleeping beside her. As she wakes up, Max hopes she did everything right this time. She sees a newspaper article titled "Local Teacher Arrested" (from *[The Independent](the_independent.md)*) on a ledge in front of Wells and comments "Good work, David." Max takes out her phone and reads a text from Chloe, saying: "HOLY SHIT U RULE MAX!!!!! i am so proud of my superstar. this is just the start of your career". Max feels so blessed that Chloe is alive and - according to a text message - is glad to have shared her competition win with her.
+
+An announcement is played through speakers, notifying the passengers that the plane is going to land soon.
+
+Wells wakes up, moans, and comments that he hopes the seats get smaller so he doesn't have to fly anymore. Max can ask him how he slept, and he answers that he hopes he wasn't snoring out loud. Max responds with, "Just a bit." He goes on and speaks about the incident at [Blackwell Academy](blackwell.md). Max just comments that she totally gets the stressful situation Wells is in. He is proud of her for representing Blackwell in the contest.
+
+After the dialogue, Max gets another nosebleed, thinking that she is not just screwing around with time, and the scene fades into a photo montage.
+
+##  Interactions 
+:**PC users: **''Hover over the text to see Max's comments. [Interactions](see_here.md) for all interactions in the game.''
+*{{Interaction|Max can look out the plane window.|"It's so weird to be in between realities.
+Everything is out of focus and in the distance."}}
+*{{Interaction|She can turn on the display in front of her and view the route to San Francisco.|"We're almost in San Francisco... I'm so stressed but I'm so excited too..."}}
+*{{Interaction|She can read the newspaper article.|"The beginning of the end for Jefferson and the Prescotts..."}}
+*{{Interaction|She can look at an "Everyday Heroes" poster.|"I have to admit, I love being called an artist..."}}
+*{{Interaction|She can look at the display in front of Principal Wells and see a paused video of [Hawt Dawg Man](hawt_dawg_man.md).|"Awww, I haven't seen Hawt Dawg Man in forever... Chloe and I used to
+totally play the videogame and watch him all the time... When we were innocent..."}}
+*{{Interaction|She can look at and speak with Principal Wells after he wakes up **(required)**.|"I bet this is a nice break for Principal Wells... after all the
+damage control he had to do this week at Blackwell."}}
+
+##  Trivia 
+[File:Plane-ticket.png](thumb.md)
+* The seats for Max and Principal Wells are numbered 39A and 39B.
+* The person sitting on the right of the seat row in front of them could be an [Easter Eggs (Life is Strange)](easter_egg.md) to feature [Michel Koch](michel_koch.md), art and co-game director of *[Life is Strange](life_is_strange.md)*.
+* A drawing in Max's diary confirms that the plane took off from [Portland](portland__or.md).
+** San Francisco is misspelled as "Fransisco" on the same illustration.
+* There are three public-serving {{wiki|List_of_airports_in_the_San_Francisco_Bay_Area|airports}} in the "San Francisco Bay Area": San Francisco International Airport (KSFO), Oakland International Airport (KOAK), and San José International Airport (KSJC). Only the San José International Airport has a **Terminal B** as we see named on [Media:Timestream-sf-maxwithdiary2.png](this.md) image of Max leaving an airport and getting into a taxi. The other two airports in the Bay Area have numerically named terminals. This suggests that Max likely landed at San Jose International Airport. The drive to San Francisco from this airport is approximately 55 minutes, which can be considered a short journey in the USA.
+* The airline is called "PacificWest Air" or abbreviated "PAC WEST AIRLINES".
+
+Pac-west-airlines.png|Drawing from Max's diary.
+Planewing.png|The airline's name seen on the wing of the plane.
+
+{{Location Navbox}}
+

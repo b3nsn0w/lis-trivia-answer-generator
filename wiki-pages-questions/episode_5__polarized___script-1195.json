@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Does Max Find Next To Alyssa To Help Her Down?",
+    "answer": "B",
+    "choices": {
+      "A": "A Ladder",
+      "B": "A Plank of Wood",
+      "C": "A Rope",
+      "D": "A Chair"
+    }
+  },
+  {
+    "question": "What Happens To The Fisherman When Max Turns On The Fuse Box?",
+    "answer": "C",
+    "choices": {
+      "A": "He Escapes Unharmed",
+      "B": "He Is Burned By The Flames",
+      "C": "He Is Electrocuted",
+      "D": "He Falls Through The Floor"
+    }
+  },
+  {
+    "question": "What Warning Is Issued Over The Emergency Broadcast System?",
+    "answer": "B",
+    "choices": {
+      "A": "A Hurricane Warning",
+      "B": "A Tornado Warning",
+      "C": "A Flood Warning",
+      "D": "An Earthquake Warning"
+    }
+  },
+  {
+    "question": "Why Does Max Need The Photo From Warren?",
+    "answer": "A",
+    "choices": {
+      "A": "To Help Chloe",
+      "B": "To Win A Contest",
+      "C": "To Prove A Point",
+      "D": "To Impress Her Friends"
+    }
+  }
+]

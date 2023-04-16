@@ -1,0 +1,53 @@
+= Timelines (Life is Strange) =
+
+{{Free Tab
+|minwidth = 22%
+|maxwidth = 100%
+|borderradius = 4
+|height = 2
+|tab1 = Life is Strange|link1 = Timelines (Life is Strange)
+|tab2 = Before the Storm|link2 = Timeline (Before the Storm)
+|tab3 = Captain Spirit|link3 = Timeline (Captain Spirit)
+|tab4 = Life is Strange 2|link4 = Timeline (Life is Strange 2)
+}}
+{{Free Tab
+|minwidth = 31%
+|maxwidth = 100
+|borderradius = 4
+|height = 2
+|tab1=Timelines |link1=Timelines (Life is Strange)
+|tab2=Original Timeline|link2=Timeline (Life is Strange)
+|tab3=Alternative Timeline |link3=Alternative Timeline (Life is Strange)
+}}
+{{Stub}}
+[[File:timeline-icon.png|thumb|300px|center]]
+When using her [[rewind]] and/or [[timestream]] ability, [[Maxine Caulfield|Max Caulfield]] creates new major '''timelines''' that are relevant in the game ''[[Life is Strange]]''. These sometimes drastically differ from the current one with different life events, character personalities and meteorological anomalies.
+
+== Original Timeline ==
+{{Main|Timeline}}
+Referred to as the original timeline is the timeline Max originally follows, in which she rewinds only once to save Chloe in the bathroom in Episode 1, "[[Episode 1: Chrysalis|Chrysalis]]". It is present throughout the whole game and beyond and can only end (for her) with her final decision when she sacrifices Chloe in Episode 5, "[[Episode 5: Polarized|Polarized]]".
+
+== Alternative Timeline ==
+{{Main|Alternative Timeline}}
+Referred to as the alternative timeline is the timeline, which Max creates in Episode 4, "[[Episode 4: Dark Room|Dark Room]]", by using the photo which [[Joyce Price]] gave her, with the intention of stopping [[William Price]] from taking the car to pick up Joyce leading to his deadly car accident.
+
+Afterwards, many events change, most notably - William being alive and Chloe having a car accident herself, leading to her being paralyzed. Max reverts it after seeing Chloe dramatic state and final request, by focusing on the same photo again, which is in a photo album this time. [TBC, Further consequences]
+
+== San Francisco Timeline ==
+Referred to as the [[San Francisco]] timeline is the alternative timeline that is caused by Max rewinding to the first day of the week, where she informs [[David Madsen]] about the [[Dark Room (Location)|Dark Room]] and submits her [[Everyday Heroes Photo Contest|Everyday Heroes Contest]] photo. She also comforts Chloe on that occasion and confronts Victoria with her video of Kate. Max reverts it after she realizes that Chloe is in danger by the storm by tearing apart her contest winning photo leading her to be back in the Dark Room because [[Mark Jefferson|Mr. Jefferson]] burned her diary out of anger that she tore apart a great photo.
+
+== Dark Room Timeline ==
+Referred to as the Dark Room timeline is the timeline that is caused by Max tearing apart her Everyday Heroes Contest photo leading her to be back in the Dark Room because [[Mark Jefferson|Mr. Jefferson]] burned her diary out of anger that she tore apart a great photo.
+
+== Between Realities ==
+Referred to as between realities are the moments which are restricted by photo boundaries like the [[plane]] to San Francisco and taking the photo in [[Max's Room|Max's room]], which later becomes her Everyday Heroes Contest entry moments.
+
+[[pt-br:Realidades]]
+[[Category:Time Travel]]
+[[Category:Lore]]
+
+[[Category:Life is Strange]]
+[[Category:Lore (Life is Strange)]]
+[[Category:Special Content]]
+[[Category:Special Content (Life is Strange)]]
+[[Category:Time]]

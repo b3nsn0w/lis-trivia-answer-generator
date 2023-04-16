@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Tell Kate To Remind Her That She's Not Alone?",
+    "answer": "B",
+    "choices": {
+      "A": "\"You're Strong Enough To Get Through This\"",
+      "B": "\"You Have Friends Who Care About You\"",
+      "C": "\"You're Not The Only One Going Through This\"",
+      "D": "\"You're A Good Person Who Deserves Better\""
+    }
+  },
+  {
+    "question": "What Does Max Say To Victoria About Posting Videos Of People?",
+    "answer": "B",
+    "choices": {
+      "A": "\"It's A Great Way To Get Attention\"",
+      "B": "\"It's A Cruel And Unfair Thing To Do\"",
+      "C": "\"It's A Good Way To Make Friends\"",
+      "D": "\"It's A Harmless Prank\""
+    }
+  },
+  {
+    "question": "What Does Max Give To Jefferson For The \"Everyday Heroes\" Contest?",
+    "answer": "B",
+    "choices": {
+      "A": "A Painting",
+      "B": "A Photograph",
+      "C": "A Sculpture",
+      "D": "A Poem"
+    }
+  },
+  {
+    "question": "What Does Max Say To Jefferson About Putting Yourself Out There As An Artist?",
+    "answer": "B",
+    "choices": {
+      "A": "\"It's Easy When You're Talented\"",
+      "B": "\"It's A Scary But Necessary Step\"",
+      "C": "\"It's Not Worth The Risk\"",
+      "D": "\"It's Better To Keep Your Art To Yourself\""
+    }
+  },
+  {
+    "question": "What Does The Timestream Show After Max Gives Jefferson Her Photograph?",
+    "answer": "B",
+    "choices": {
+      "A": "Chloe And Max Walking On The Beach",
+      "B": "Kate Crying In The Hallway",
+      "C": "Max Winning The Lottery",
+      "D": "Jefferson Getting A Promotion"
+    }
+  }
+]

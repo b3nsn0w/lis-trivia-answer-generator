@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What Is The Outcome If Max Angers Frank During Their Confrontation In Episode Four?",
+    "answer": "A",
+    "choices": {
+      "A": "Frank And Pompidou Die",
+      "B": "Frank Is Wounded And Gives Max The Account Book Key",
+      "C": "Frank Agrees To Give Max The Account Book Key",
+      "D": "Max And Chloe Steal The Account Book Key From Frank's Dead Body"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Episode In Which Max And Chloe Confront Frank In His RV?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "What Is The Shared Belief That Brings Frank, Max, And Chloe Together As Friends?",
+    "answer": "D",
+    "choices": {
+      "A": "They All Love Dogs",
+      "B": "They All Hate Nathan",
+      "C": "They All Want To Leave Arcadia Bay",
+      "D": "They All Believe Rachel Is Alive"
+    }
+  }
+]

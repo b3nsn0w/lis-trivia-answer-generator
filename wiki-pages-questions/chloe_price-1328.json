@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Who is Chloe Price's best friend before Maxine Caulfield returns to Arcadia Bay?",
+    "answer": "A",
+    "choices": {
+      "A": "Rachel Amber",
+      "B": "David Madsen",
+      "C": "William Price",
+      "D": "Joyce Price"
+    }
+  },
+  {
+    "question": "What is the name of Chloe Price's step-father?",
+    "answer": "B",
+    "choices": {
+      "A": "William Price",
+      "B": "David Madsen",
+      "C": "Aaron Price",
+      "D": "Dorothy"
+    }
+  },
+  {
+    "question": "In which episode of Life is Strange is Chloe Price the playable protagonist?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Life is Strange: Before the Storm"
+    }
+  }
+]

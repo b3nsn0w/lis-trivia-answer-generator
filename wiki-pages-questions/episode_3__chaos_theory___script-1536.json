@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Offer To Get For The Homeless Lady From The Diner?",
+    "answer": "B",
+    "choices": {
+      "A": "Coffee",
+      "B": "Burger",
+      "C": "Fries",
+      "D": "Milkshake"
+    }
+  },
+  {
+    "question": "Who Does Max Mention That The Homeless Lady Recognizes?",
+    "answer": "A",
+    "choices": {
+      "A": "Victoria Chase",
+      "B": "Nathan Prescott",
+      "C": "Warren Graham",
+      "D": "David Madsen"
+    }
+  },
+  {
+    "question": "What Does The Homeless Lady Say About Nathan Prescott?",
+    "answer": "B",
+    "choices": {
+      "A": "He Was Expelled From Blackwell",
+      "B": "He Has A Bad Aura",
+      "C": "He Was Arrested",
+      "D": "He Is Homeless"
+    }
+  },
+  {
+    "question": "What Does Max Say About Frank Bowers?",
+    "answer": "D",
+    "choices": {
+      "A": "He Is Joyce's Husband",
+      "B": "He Took A Gun From Trespassers",
+      "C": "He Was Expelled From Blackwell",
+      "D": "He Knew Rachel Amber"
+    }
+  },
+  {
+    "question": "What Does The Homeless Lady Say About David Madsen?",
+    "answer": "A",
+    "choices": {
+      "A": "He Was Walking Around Pissed Off",
+      "B": "He Just Wants Something To Do",
+      "C": "He Has Something To Do With All This",
+      "D": "He Is On Leave"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Who is Phoenician Smith and what did he receive attention for?",
+    "answer": "A",
+    "choices": {
+      "A": "A cosplayer and roleplayer who does ASMR videos on YouTube; his Mr. Jefferson roleplay",
+      "B": "A photographer who directed a live action fan film",
+      "C": "A French cosplay duo portraying Max and Chloe",
+      "D": "A German cosplayer who cosplays Kate Marsh"
+    }
+  },
+  {
+    "question": "Who is Usako and which character did they cosplay as from Life is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "A German cosplayer who cosplays Kate Marsh",
+      "B": "An Austrian cosplayer who cosplayed as Chloe",
+      "C": "A Czech cosplayer who has cosplayed several characters of Life is Strange",
+      "D": "A French cosplay duo portraying Max and Chloe"
+    }
+  }
+]

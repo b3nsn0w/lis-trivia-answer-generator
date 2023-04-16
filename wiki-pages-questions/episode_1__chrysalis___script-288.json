@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is Happening When Max Wakes Up?",
+    "answer": "A",
+    "choices": {
+      "A": "It Is Raining Heavily",
+      "B": "The Sun Is Shining Brightly",
+      "C": "It Is Snowing",
+      "D": "There Is A Tornado"
+    }
+  },
+  {
+    "question": "What Does Max Hope Will Keep Her Safe?",
+    "answer": "C",
+    "choices": {
+      "A": "A Car",
+      "B": "A Boat",
+      "C": "A Lighthouse",
+      "D": "A Tree"
+    }
+  },
+  {
+    "question": "What Does Max See Approaching Arcadia Bay?",
+    "answer": "B",
+    "choices": {
+      "A": "A Hurricane",
+      "B": "A Tornado",
+      "C": "A Tsunami",
+      "D": "A Thunderstorm"
+    }
+  },
+  {
+    "question": "What Happens To The Lighthouse?",
+    "answer": "B",
+    "choices": {
+      "A": "It Is Struck By Lightning",
+      "B": "It Is Destroyed By A Boat",
+      "C": "It Collapses Due To An Earthquake",
+      "D": "It Is Burned Down"
+    }
+  }
+]

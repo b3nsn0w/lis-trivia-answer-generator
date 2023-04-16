@@ -1,0 +1,32 @@
+[
+  {
+    "question": "In Which Episode Does Joyce Learn The Truth About David?",
+    "answer": "C",
+    "choices": {
+      "A": "Episode One",
+      "B": "Episode Two",
+      "C": "Episode Three",
+      "D": "Episode Four"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Diner Where Joyce Works?",
+    "answer": "A",
+    "choices": {
+      "A": "Two Whales Diner",
+      "B": "Three Sharks Cafe",
+      "C": "Four Dolphins Restaurant",
+      "D": "Five Seals Bistro"
+    }
+  },
+  {
+    "question": "In Which Episode Does Joyce Appear In A Photo With David At Their Wedding?",
+    "answer": "C",
+    "choices": {
+      "A": "Episode Two",
+      "B": "Episode Three",
+      "C": "Episode Four",
+      "D": "Episode Five"
+    }
+  }
+]

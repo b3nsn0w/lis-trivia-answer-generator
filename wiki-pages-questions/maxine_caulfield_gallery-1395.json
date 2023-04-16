@@ -1,0 +1,42 @@
+[
+  {
+    "question": "In which location does Max wake up after being drugged by Jefferson?",
+    "answer": "A",
+    "choices": {
+      "A": "The Dark Room",
+      "B": "The Prescott Barn",
+      "C": "The Blackwell Campus",
+      "D": "The End of the World Party"
+    }
+  },
+  {
+    "question": "What is the name of the gallery where Max's winning photo is displayed?",
+    "answer": "A",
+    "choices": {
+      "A": "Zeitgeist Gallery",
+      "B": "Prescott Gallery",
+      "C": "Blackwell Gallery",
+      "D": "Jefferson Gallery"
+    }
+  },
+  {
+    "question": "What is the name of the location where Max enters her nightmare?",
+    "answer": "A",
+    "choices": {
+      "A": "Nightmare Classroom",
+      "B": "Dark Room",
+      "C": "Zeitgeist Gallery",
+      "D": "Prescott Barn"
+    }
+  },
+  {
+    "question": "What does Max do to enter her polarized timeline?",
+    "answer": "A",
+    "choices": {
+      "A": "Focus on her winning selfie",
+      "B": "Use her time rewind power",
+      "C": "Enter a portal",
+      "D": "Fall asleep"
+    }
+  }
+]

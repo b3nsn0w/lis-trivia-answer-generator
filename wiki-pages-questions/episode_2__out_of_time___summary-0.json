@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Name Of The Contest That Jefferson Announces In Class?",
+    "answer": "A",
+    "choices": {
+      "A": "Everyday Heroes Contest",
+      "B": "Best Student Photography Contest",
+      "C": "Blackwell Photography Competition",
+      "D": "Life Is Strange Photo Challenge"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Song That Plays During The End Credits Of Episode 2?",
+    "answer": "C",
+    "choices": {
+      "A": "\"To All Of You\" by Syd Matters",
+      "B": "\"Something Good\" by Alt-J",
+      "C": "\"Obstacles\" by Syd Matters",
+      "D": "\"Crosses\" by José González"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Security Guard At Blackwell Academy?",
+    "answer": "B",
+    "choices": {
+      "A": "Frank Bowers",
+      "B": "Samuel Taylor",
+      "C": "David Madsen",
+      "D": "Nathan Prescott"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Student Who Commits Suicide In The Girls' Bathroom?",
+    "answer": "C",
+    "choices": {
+      "A": "Victoria Chase",
+      "B": "Rachel Amber",
+      "C": "Kate Marsh",
+      "D": "Chloe Price"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Person Who Vandalizes Kate's Room?",
+    "answer": "B",
+    "choices": {
+      "A": "Nathan Prescott",
+      "B": "Victoria Chase",
+      "C": "Warren Graham",
+      "D": "Chloe Price"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Did Max See In Jefferson's Class That Prompted Her To Investigate?",
+    "answer": "A",
+    "choices": {
+      "A": "A Tornado Destroying Arcadia Bay",
+      "B": "A Murder",
+      "C": "A Robbery",
+      "D": "A Car Accident"
+    }
+  },
+  {
+    "question": "What Did Jefferson Do To Max?",
+    "answer": "B",
+    "choices": {
+      "A": "He Kidnapped Her",
+      "B": "He Took Sick Photos Of Her",
+      "C": "He Stole Her Money",
+      "D": "He Framed Her For A Crime"
+    }
+  },
+  {
+    "question": "What Does Warren Do With The Polaroid?",
+    "answer": "B",
+    "choices": {
+      "A": "He Throws It Away",
+      "B": "He Gives It To Max",
+      "C": "He Burns It",
+      "D": "He Rips It Up"
+    }
+  },
+  {
+    "question": "What Does Warren Say About Max's Time Travel Powers?",
+    "answer": "D",
+    "choices": {
+      "A": "They Are Magic",
+      "B": "They Are Science",
+      "C": "They Are From A Wizard",
+      "D": "They Are From A Wormhole"
+    }
+  }
+]

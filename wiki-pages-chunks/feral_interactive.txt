@@ -1,0 +1,51 @@
+Here is a section of the wiki page for Feral Interactive:
+
+#  Feral Interactive 
+
+[File:feral-interactive-logo.png](thumb.md)
+**Feral Interactive** is an independent, private video-game-porting studio based in London, UK. It was founded in 1996 and works with games publishers and developers to port their PC and console games to other platforms. They serve a global area and currently work with [Square Enix](square_enix.md) to port their [Life is Strange (franchise)](_life_is_strange__franchise.md) to Mac and Linux.
+
+A port of [Life is Strange 2](life_is_strange_2.md) is currently listed on their website as "coming soon."As at August 6th, 2019.
+
+The studio's mission statement is "to bring great games to the Mac" and also state that they "have established [themselves] as a world-leading publisher of games on Mac and, more recently, Linux."[https://www.feralinteractive.com/en/about/ Feral Interactive website's "About" page].
+
+The studio is open to suggestions for any games that people would like to see them port to Mac, Linux or mobile.
+
+##  Life is Strange Ports Completed 
+* *[Life is Strange](life_is_strange.md)*
+* *[Life is Strange: Before the Storm](life_is_strange__before_the_storm.md)*
+
+##  Life is Strange Ports Coming Soon 
+* *[Life is Strange 2](life_is_strange_2.md)* (2018-2019, 5 Episodes).
+
+##  History 
+TBC
+
+##  Known Team 
+The key people {{wiki|Feral Interactive|listed on Wikipedia}} are:
+* David Stephen
+* Ian Bullock
+* Edwin Smith
+* Andrew Wood
+
+##  Interviews 
+TBA
+
+###  Concept Art 
+TBC
+
+ are:
+* David Stephen
+* Ian Bullock
+* Edwin Smith
+* Andrew Wood
+
+##  Interviews 
+TBA
+
+###  Concept Art 
+TBC
+
+
+
+Generate five trivia questions relevant to this section of the page.

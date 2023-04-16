@@ -1,0 +1,37 @@
+= Soundtrack =
+
+{{Free Tab
+|minwidth = 12%
+|maxwidth = 30%
+|borderradius = 4
+|height = 2
+|tab1=Soundtrack |link1=Soundtrack
+|tab2=Life is Strange |link2=Soundtrack (Life is Strange) 
+|tab3=Before the Storm |link3=Soundtrack (Before the Storm)
+|tab4=Captain Spirit |link4=Soundtrack (Captain Spirit)
+|tab5=Life is Strange 2 |link5=Soundtrack (Life is Strange 2)
+|tab6=Analysis |link6=Soundtrack Analysis
+}}
+{{Stub}}
+[[File:LiS1-CD icon.png|thumb|220x220px]]
+
+''Under construction''
+
+[[de:Soundtrack]]
+[[ru:Саундтрек]]
+[[Category:Soundtrack]]
+
+[[Category:Soundtrack (Life is Strange)]]
+[[Category:Behind the Scenes]]
+[[Category:Behind the Scenes (Before the Storm)]]
+[[Category:Behind the Scenes (Life is Strange)]]
+[[Category:Behind the Scenes (Life is Strange 2)]]
+[[Category:Behind the Scenes (Captain Spirit)]]
+
+[[Category:Before the Storm]]
+[[Category:Captain Spirit]]
+[[Category:Soundtrack (Before the Storm)]]
+[[Category:Soundtrack (Life is Strange 2)]]
+[[Category:Soundtrack (Captain Spirit)]]
+[[Category:Life is Strange]]
+[[Category:Life is Strange 2]]

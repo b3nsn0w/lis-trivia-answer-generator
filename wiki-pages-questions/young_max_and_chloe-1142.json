@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Did Max and Chloe Use As A Backdrop To Play Pirate When They Were Kids?",
+    "answer": "A",
+    "choices": {
+      "A": "Old Ships And A Big Ocean",
+      "B": "A Wooden Fort And A Small Lake",
+      "C": "A Sandcastle And A Shallow Pool",
+      "D": "A Treehouse And A Creek"
+    }
+  },
+  {
+    "question": "What Did Chloe's Dad Build For Her When She Was Young?",
+    "answer": "B",
+    "choices": {
+      "A": "A Bed",
+      "B": "A Dresser",
+      "C": "A Desk",
+      "D": "A Bookshelf"
+    }
+  },
+  {
+    "question": "What Did Max Feel Like When She Was In Chloe's House?",
+    "answer": "D",
+    "choices": {
+      "A": "She Was In A Horror Movie",
+      "B": "She Was In A Soap Opera",
+      "C": "She Was In A Sitcom",
+      "D": "She Was In A True-Crime Show"
+    }
+  },
+  {
+    "question": "What Did Joyce Always Love To Look At?",
+    "answer": "B",
+    "choices": {
+      "A": "Artwork",
+      "B": "Mail-Order Catalogs",
+      "C": "Photographs",
+      "D": "Antique Furniture"
+    }
+  },
+  {
+    "question": "What Did Max and Chloe Play With When They Were Kids?",
+    "answer": "D",
+    "choices": {
+      "A": "Dolls",
+      "B": "Action Figures",
+      "C": "Board Games",
+      "D": "Pirate Costumes"
+    }
+  }
+]

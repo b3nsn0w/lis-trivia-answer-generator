@@ -1,0 +1,32 @@
+[
+  {
+    "question": "How Does Max Fix Her Camera After Breaking It In Jefferson's Class?",
+    "answer": "C",
+    "choices": {
+      "A": "She Buys A New One",
+      "B": "She Asks Chloe To Fix It",
+      "C": "She Uses Her Rewind Power",
+      "D": "She Takes It To A Repair Shop"
+    }
+  },
+  {
+    "question": "Whose Camera Does Chloe Give To Max As A Birthday Gift?",
+    "answer": "C",
+    "choices": {
+      "A": "Mark Jefferson's",
+      "B": "Nathan Prescott's",
+      "C": "William Price's",
+      "D": "Victoria Chase's"
+    }
+  },
+  {
+    "question": "In \"Before The Storm,\" Where Can William's Instant Camera Be Found?",
+    "answer": "B",
+    "choices": {
+      "A": "In The Price Household's Attic",
+      "B": "In The Garage",
+      "C": "In Chloe's Room",
+      "D": "In The Photography Lab"
+    }
+  }
+]

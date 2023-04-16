@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Samuel's Profession?",
+    "answer": "B",
+    "choices": {
+      "A": "Teacher",
+      "B": "Janitor",
+      "C": "Principal",
+      "D": "Student"
+    }
+  },
+  {
+    "question": "What Does Samuel Believe About The Dead Animals On Campus?",
+    "answer": "B",
+    "choices": {
+      "A": "It Is An Eco-Disaster",
+      "B": "Someone Is Causing It To Happen",
+      "C": "It Is A Natural Occurrence",
+      "D": "It Is A Sign Of The Apocalypse"
+    }
+  },
+  {
+    "question": "What Does Samuel Tell Max About Her Spirit Animal?",
+    "answer": "B",
+    "choices": {
+      "A": "It Is A Squirrel",
+      "B": "It Is A Deer",
+      "C": "It Is A Bird",
+      "D": "It Is A Butterfly"
+    }
+  },
+  {
+    "question": "What Does Victoria Plan To Do To Samuel For The Paint Incident?",
+    "answer": "B",
+    "choices": {
+      "A": "Get Him Promoted",
+      "B": "Get Him Fired",
+      "C": "Get Him Suspended",
+      "D": "Get Him A Raise"
+    }
+  },
+  {
+    "question": "What Does Samuel Believe About Destiny?",
+    "answer": "A",
+    "choices": {
+      "A": "It Is Unchangeable",
+      "B": "It Is A Choice",
+      "C": "It Is A Mystery",
+      "D": "It Is A Curse"
+    }
+  }
+]

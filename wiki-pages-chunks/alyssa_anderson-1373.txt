@@ -1,0 +1,64 @@
+Here is a section of the wiki page for Alyssa Anderson:
+
+#  Alyssa Anderson 
+
+```yaml
+Character
+
+name: Alyssa Anderson
+image: Alyssa.png
+died: October 11, 2013 (determinant)
+causeofdeath: |-
+  Killed by the [storm](storm.md) (determinant)
+
+  Fell to her death (determinant)
+gender: Female
+hair: Bright purple (dyed)
+eyes: Blue
+friends: '[Kate Marsh](kate_marsh.md)[Stella Hill](stella_hill.md)[Maxine Caulfield'
+Max Caulfield](maxine_caulfield__max_caulfield.md) (determinant): ''
+profession: High school student
+affiliation: '[Blackwell Academy](blackwell_academy.md)'
+appearance: >-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)  [Episode 2: Out of
+  Time](episode_2__out_of_time.md)  [Episode 3: Chaos
+  Theory](episode_3__chaos_theory.md)  [Episode 4: Dark
+  Room](episode_4__dark_room.md)  [Episode 5:
+  Polarized](episode_5__polarized.md)
+voice: |-
+  [Dayeanne Hutton](dayeanne_hutton.md) (ENG)
+  [Hana Takeda](hana_takeda.md) (JPN)
+width: 270px
+```
+
+{{DONTNODWiki}}
+> Okay, Max, that's twice you've saved me from a projectile weapon. Are you my guardian angel?
+
+**Alyssa in "[Episode 2: Out of Time**, Out of Time](episode_2__out_of_time____out_of_time.md)" (determinant)
+
+**Alyssa Anderson** is a student at [Blackwell Academy](blackwell_academy.md). [Maxine Caulfield](max_caulfield.md) feels like she and Alyssa should be better friends. In every episode, Alyssa can be saved by Max from unfortunate incidents caused by other people.
+
+Alyssa reappears in *[Life is Strange: Before the Storm](before_the_storm.md)*, the prequel to the events of *[Life is Strange](life_is_strange.md)*.
+
+## Personality 
+Alyssa is quiet and bookish, and mostly keeps to herself. However, she will stand up for her friends, such as [Kate Marsh](kate_marsh.md), when others badmouth them behind their backs. She isn't blinded by prejudice and is against bullying, and hates the [Vortex Club](vortex_club.md).
+
+Alyssa may be religious as she's always wearing a necklace with a cross pendant.
+
+## Background 
+Alyssa takes [Mark Jefferson](mr__jefferson.md)'s art classes and features in the class photo he took during the first week. She's always texting, but doesn't socialize much. Judging from her hair and gloomy clothing style, she could easily be considered "scene."
+
+Alyssa is often a target for other students at Blackwell Academy, particularly the [Bigfoots](bigfoots.md) and the Vortex Club. She spends her free time reading, contemplating life and walking around [Arcadia Bay](arcadia_bay.md). She has an affection for literature and science fiction.
+
+## Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+Alyssa is first seen in Mr. Jefferson's class when Max wakes up from her vision. She is silent throughout the entire lesson. When the lesson finishes, Jefferson tells her and [Stella Hill](stella_hill.md) to "get it together" and encourages them to turn in a photo for the [Everyday Heroes Photo Contest](everyday_heroes.md) contest.
+
+Moments later, Alyssa can be spotted texting in the [Blackwell Academy Hallway](hallway.md) of Blackwell Academy. Max comments that Alyssa's always texting and doesn't seem to hang out with real people. As Max makes her way to the girls' bathroom to save the [Chloe Price](blue_haired_girl.md) from being shot by [Nathan Prescott](nathan_prescott.md), she can look at Alyssa in the corridor again, although doesn't regard her as someone who can help.
+
+When Max is tasked with going to the [Prescott Dormitory](dormitories.md) to retrieve [Warren Graham](warren_graham.md)'s [Warren's Flash Drive](flash_drive.md), she can speak to Alyssa, who's reading a book outside. Max can ask her how she is or what she's reading. If asked the first question, Alyssa replies sarcastically that she's "fantastic" and that soon she'll be bonding with Victoria and the Vortex Club. If asked about the book, Alyssa says that it is a {{Wiki|Chick-lit|chick-lit}} book called *Love Today or Die Forever*, and immediately asks Max to not say anything. Max is non-judgmental, knowing the book's a bestseller. Either way, Alyssa excuses herself to continue reading.
+
+When Max returns to the same spot after retrieving Warren's flash drive, Alyssa is still reading, and [Zachary Riggins](zachary_riggins.md) is standing nearby looking down at his phone. Zachary reads an SMS from [Juliet Watson](juliet_watson.md) that accuses him of sexting Victoria, and he throws the football away in frustration. The ball hits Alyssa in the head, and she starts crying. Max has the option to rewind time and prevent Alyssa from getting hurt, which pleases Max upon learning she can help people with her power. If Max decides to talk to Alyssa afterward, she'll thank Max for the warning. Max may compliment Alyssa's quick reflexes or talk about the Vortex Club again. In the end, Alyssa will call Max 'smart' and say that they should hang out more.
+
+
+
+Generate five trivia questions relevant to this section of the page.

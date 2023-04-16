@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Why Does Max Warn Victoria About Nathan?",
+    "answer": "B",
+    "choices": {
+      "A": "Because Nathan is her best friend",
+      "B": "Because Nathan is dangerous and unstable",
+      "C": "Because Nathan is missing",
+      "D": "Because Principal Wells wants to see them both"
+    }
+  },
+  {
+    "question": "What Does Victoria Think Of Max?",
+    "answer": "D",
+    "choices": {
+      "A": "She thinks Max is a mean bitch",
+      "B": "She thinks Max is a real artist",
+      "C": "She thinks Max is weird but cool",
+      "D": "She thinks Max is jealous of her"
+    }
+  },
+  {
+    "question": "What Happened To Kate At The Party?",
+    "answer": "B",
+    "choices": {
+      "A": "She got hit with paint",
+      "B": "She got drugged by Nathan",
+      "C": "She won the photo contest",
+      "D": "She got into a fight with Victoria"
+    }
+  },
+  {
+    "question": "What Does Victoria Plan To Do At The Party?",
+    "answer": "B",
+    "choices": {
+      "A": "Warn Nathan about Max",
+      "B": "Get wasted",
+      "C": "Win the photo contest",
+      "D": "Apologize to Max"
+    }
+  },
+  {
+    "question": "Why Does Max Ask Victoria About Nathan?",
+    "answer": "D",
+    "choices": {
+      "A": "Because she wants to warn him about the party",
+      "B": "Because she wants to know where he is",
+      "C": "Because she wants to invite him to the photo contest",
+      "D": "Because Principal Wells wants to see him"
+    }
+  }
+]

@@ -1,0 +1,35 @@
+Here is a section of the wiki page for The Awesome Adventures of Captain Spirit:
+
+## Trivia 
+* The songs in the announcement trailer are "Death with Dignity" by Sufjan Stevens and "May Weather" by John Francis.
+* The promotional artwork depicting protagonist Chris strongly resembles the promotional artwork for the original *Life is Strange* depicting [Maxine Caulfield](max_caulfield.md).
+* The Awesome Adventures of Captain Spirit, is the only Life is Strange franchise game that doesn't have "Collectible Mode".
+* Co-Director [Raoul Barbet](raoul_barbet.md) said that {{Wiki|Sailor Moon}} was a reference they had in mind.[https://www.polygon.com/e3/2018/6/19/17458694/life-is-strange-captain-spirit-sailor-moon Life Is Strange spinoff draws inspiration from a classic anime] (June 25, 2018)
+* Chris can come across an e-mail on his [Charles' Computer](father_s_computer.md) detailing accounts of "unruly teenage freight-hoppers" in the area. [Michel Koch](michel_koch.md) revealed in an interview that one of his major inspirations for *Life is Strange 2* was {{Wiki|Mike Brodie|Mike Brodie}}, a photographer known for having train-hopped across the U.S.A. for four years while capturing images of the people he met along the way.[https://in.ign.com/life-is-strange-2/126982/preview/life-is-strange-2-developers-on-leaving-chloe-and-max-behind *Life is Strange 2* Developers on Leaving Chloe and Max Behind - Gamescom 2018] Both prior to and after the release of this interview, it was speculated that the protagonist of *Life is Strange 2* would encounter and join a group of the aforementioned freight-hoppers during the game.
+* The game doesn't have any trophies or achievements.[http://comicbook.com/gaming/2018/06/23/life-is-strange-captain-spirit-ps4-trophies-xbox-achievements/ The Awesome Adventures of Captain Spirit Won’t Have Trophies or Achievements] (June 23, 2018)
+* Toby Palm, the community manager for *Life is Strange*, called the game a "significant piece of content" and not a "quick throwaway."[https://www.resetera.com/threads/dontnod-reveals-the-awesome-adventures-of-captain-spirit-free-june-26-2018.48094/#post-8987512 ResetEra post]
+* Chris's costume's design varies based on the player's choices at the beginning of the game.
+* Some [Chris' Notes](documents.md) can be viewed in the Document Gallery in the menu that aren't shown as documents during normal play.
+* If dad is awake in the recliner, Chris can antagonize dad by continuously trying to talk to him using the speak option to the point that dad becomes rather irritated (the equivalent of "Dad, Dad, Dad....").
+* A [Super Comic Store](super_comic_store.md) pamphlet found in Chris's room contains a QR code. When scanned, it provides the text, "A ragged colt may make a good horse." It's speculated that this [Easter Eggs (Captain Spirit)](easter_egg.md) is a hint at *[Life is Strange 2](life_is_strange_2.md)*.[https://www.reddit.com/r/lifeisstrange/comments/8tvthr/cs_an_odd_quote_from_a_qr_code/ Reddit post by /u/MusicalNerd72]
+* One of the dates on Chris' height chart on his father's wardrobe is "09/10/2013". When read as a European date, this is possibly a link to the third episode of the original *Life is Strange*, "[Episode 3: Chaos Theory](chaos_theory.md)", which takes place on October 9th.
+* There are two variations of the main menu game logo that changes based on Chris' costume color choice at the start of the game.[https://youtu.be/m0IcnVjkBl8?t14m20s Blackwell Podcast Episode 57 - Captain Spirit]
+* Charles falls asleep after 23 minutes and all events pause the timer.
+* When Chris gives the "Radio Interview" in front of the mirror in the bathroom, the radio station he pretends to be speaking with is "WHERO". However, radio stations in the US start with either a "K" or a "W", depending on if they are west or east of the Mississippi River, and with Beaver Creek being located in the state of Oregon, all radio stations there would start with a "K", making it odd that Chris talks to a station that starts with a "W".
+* Chris and Ms. Reynolds respond specifically to the following conditions: 1) Chris shovels the steps outside of the house. 2) If Chris takes the waste-basket full of beer cans outside. 3) If Chris manages to fully complete the costume before waking up Chris' Dad. Also, right at the beginning of the game, as soon as Chris finishes eating the eggs, Chris can call Ms. Reynolds on the phone. Chris will have a chat about Stephen, plans for the day, etc. If Chris tries to call her after waking up Charles, she will not be home. Lastly, Chris' Dad will be angry with him saying the phone is not to be used to prank call others.
+* If Chris completes the quest to defeat the Water Eater early, Chris will have a special dialogue when using the kitchen and/or bathroom sink.
+* In Charles' room, Chris can steal a cigarette. If Chris takes it to the tree house, there is special dialog when used with the "Old Bowl". Chris laments about his special bowl being misused by his Dad as an ashtray.
+* The developers had planned to use a song by {{Wiki|Bruce Springsteen}} in the game, but it didn't happen.[https://www.jeuxvideo-live.com/news/deecouvrez-notre-interview-des-deeveloppeurs-de-life-is-strange-2-90593  Interview with the developers of Life is Strange 2 - JeuxVideo-Live] (August 26, 2018)
+
+#
+
+## Promotional Art 
+
+Dfb3ciqWAAAlgul.jpg|Key Art
+Captain_Spirit_Key_Art.jpg|Key Art without logo
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

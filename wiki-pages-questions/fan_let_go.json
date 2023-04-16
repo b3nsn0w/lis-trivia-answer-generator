@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Who wrote and performed the song \"Let Go\"?",
+    "answer": "C",
+    "choices": {
+      "A": "Robyn Ardery",
+      "B": "Life is Strange",
+      "C": "Eduard Frolov EFG",
+      "D": "American Rust"
+    }
+  },
+  {
+    "question": "Who provided the vocals for \"Let Go\"?",
+    "answer": "A",
+    "choices": {
+      "A": "Robyn Ardery",
+      "B": "Life is Strange",
+      "C": "Eduard Frolov EFG",
+      "D": "American Rust"
+    }
+  },
+  {
+    "question": "When was \"Let Go\" released?",
+    "answer": "B",
+    "choices": {
+      "A": "September 4, 2015",
+      "B": "September 4, 2016",
+      "C": "September 4, 2017",
+      "D": "September 4, 2018"
+    }
+  }
+]

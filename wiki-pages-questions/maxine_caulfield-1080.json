@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Name Of The High School That Max Attends?",
+    "answer": "A",
+    "choices": {
+      "A": "Blackwell Academy",
+      "B": "Arcadia Bay High School",
+      "C": "Seattle High School",
+      "D": "Prescott Academy"
+    }
+  },
+  {
+    "question": "What Is The First Significant Action Max Takes With Her Time Manipulation Power?",
+    "answer": "A",
+    "choices": {
+      "A": "Saving Chloe's Life",
+      "B": "Fixing Her Camera",
+      "C": "Soaking Victoria With The Sprinklers",
+      "D": "Retrieving Warren's Flash Drive"
+    }
+  },
+  {
+    "question": "What Does Chloe Give Max As A Replacement For Her Broken Camera?",
+    "answer": "B",
+    "choices": {
+      "A": "A Polaroid Camera",
+      "B": "An Analog Camera",
+      "C": "A Digital Camera",
+      "D": "A Disposable Camera"
+    }
+  },
+  {
+    "question": "What Is The Name Of Chloe's Stepfather Who Complains About The Noise?",
+    "answer": "A",
+    "choices": {
+      "A": "David Madsen",
+      "B": "Raymond Wells",
+      "C": "Zachary Riggins",
+      "D": "William"
+    }
+  }
+]

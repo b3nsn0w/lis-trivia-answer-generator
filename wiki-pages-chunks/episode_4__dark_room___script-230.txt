@@ -1,0 +1,21 @@
+Here is a section of the wiki page for Episode 4: Dark Room - Script:
+
+Chloe, are you ready yet? I have to get back to my dorm!
+
+**Chloe: **Are we happy?
+
+**Max: **Very happy. I hit the secret file jackpot. Kate, Nathan, and Rachel. Plus, there's some location coordinates. David is, like, a one-man surveillance army. Now let's get the hell out of here, before we get busted.
+
+(Saved Kate)(Saved Kate)**Max:** But I absolutely have to go see Kate in the hospital right now. I want to find out how she's doing.
+
+|-|(Couldn't save Kate)# (Couldn't save Kate)**Chloe:** Now let's go find out what Nathan is hiding in his room.
+
+**Max:** We have to be extra careful.
+
+**Chloe:** Max, now it's time for Nathan Prescott to be afraid of us.
+
+*The two girls get in the truck and drive away.*
+
+# 
+
+Generate five trivia questions relevant to this section of the page.

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Does Alternate Max Imply About Rachel Amber?",
+    "answer": "C",
+    "choices": {
+      "A": "She Was A Bully",
+      "B": "She Had Stockholm Syndrome",
+      "C": "She Was Killed By Chloe",
+      "D": "She Was Manipulated By Jefferson"
+    }
+  },
+  {
+    "question": "What Does Chloe Say About Alternate Max's Attempt To Manipulate Max?",
+    "answer": "D",
+    "choices": {
+      "A": "\"She's Just Jealous\"",
+      "B": "\"She's Crazy\"",
+      "C": "\"She's Dangerous\"",
+      "D": "\"She Knows What We Went Through\""
+    }
+  },
+  {
+    "question": "What Does Alternate Max Do When Chloe Enters The Diner?",
+    "answer": "C",
+    "choices": {
+      "A": "She Leaves The Booth",
+      "B": "She Hides Under The Table",
+      "C": "She Examines Chloe's Camera",
+      "D": "She Attacks Chloe"
+    }
+  },
+  {
+    "question": "How Does Max React To Alternate Max's Insults?",
+    "answer": "C",
+    "choices": {
+      "A": "She Cries",
+      "B": "She Laughs",
+      "C": "She Gets Angry",
+      "D": "She Ignores Her"
+    }
+  }
+]

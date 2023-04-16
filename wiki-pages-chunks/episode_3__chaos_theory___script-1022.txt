@@ -1,0 +1,77 @@
+Here is a section of the wiki page for Episode 3: Chaos Theory - Script:
+
+## **Conversation with Officer Berry** # 
+First conversationFirst conversation
+
+{{#tag:tabber|(Saved Kate)# (Saved Kate)**Officer Berry:** There she is, Super Maxine. That's your new nickname around the Bay. Sorry, but you did earn it. We're all real proud of you for helping Kate down.
+
+**Max:** Thanks, Officer Berry. I was just lucky...and right on time. Kate is who counts.
+
+{{!}}-{{!}}(Couldn't Save Kate)(Couldn't Save Kate)**Officer Berry:** How are you doing, Maxine? I'm so sorry you had to be up there with Kate when she... you know. Just know that we're proud of you for going up there.
+
+**Max:** Thanks, Officer Berry. I know you guys deal with this stuff way more than me, but it is hard to deal with.
+
+}}
+
+**Officer Berry:** I'm glad you're representing Blackwell Academy.
+
+|-|Second conversation# Second conversation**Officer Berry:** What can I do for you, Max?
+
+Kate Marsh.Kate Marsh.**Max:** I guess Kate Marsh will be the face of Blackwell for a while...
+
+{{#tag:tabber|(Saved Kate)# (Saved Kate)**Officer Berry:** And you for helping her. That's the kind of school spirit we need more of.
+
+{{!}}-{{!}}(Couldn't Save Kate)(Couldn't Save Kate)**Officer Berry:** Such a waste... awful...
+}}
+
+|-|Weird town.# Weird town.**Max:** Do you think Arcadia Bay is a weird town?
+
+**Officer Berry:** I'd take a normal city with normal problems about now...Makes me sick thinking about it...
+
+|-|David Madsen.David Madsen.**Max:** I feel like David Madsen represents Blackwell.
+
+**Officer Berry:** Not for long. He's a loose cannon. We all respect him for his service but he's too eager.
+
+**Max:** He's eager to be a dick to me and Chloe.
+
+**Officer Berry:** That's true. He was ranting about a stolen gun then I tuned out...Somebody's always out to get him.
+
+*Max automatically leaves the conversation.*
+
+|-|Nathan Prescott.# Nathan Prescott.**Max:** I thought Nathan Prescott represented Blackwell.
+
+**Officer Berry:** Don't make me backwash this bacon. You know what the Prescotts represent...
+
+**Max:** Taking over Arcadia Bay?
+
+**Officer Berry:** You're not far wrong, Max. I heard the Prescotts are working on some new big land deals...Mr. Prescott helped out my family once, a while ago. So I made a deal with him...That I can't seem to get out of. Man, if I could get one instant replay in life...I better finish my breakfast first.
+
+*Max automatically leaves the conversation.*
+
+|-|Prescott Deal. (Nathan Prescott, rewind)Prescott Deal. (Nathan Prescott, rewind)**Max:** Well, I heard a rumor you were working for the Prescott family on the side.
+
+**Officer Berry:** Jesus, doesn't this town ever shut up?
+
+**Max:** I don't blame you for getting extra work.
+
+**Officer Berry:** Look, sometimes I check up on the Prescott family to make sure they're doing all right...Nathan, included...Keep this quiet, Max.
+
+*Max automatically leaves the conversation.*
+
+|-|Rachel and Frank. (Nathan)# Rachel and Frank. (Nathan)**Max:** Nathan said that Rachel Amber represents Blackwell...with Frank Bowers.
+
+**Officer Berry:** Bowers ain't no student anymore. Sadly, he does represent one side of Arcadia Bay...I want you to stay out of his orbit, okay? Him and that rabid mutt...
+
+**Max:** I heard something about Frank Bowers and his puppy. A boy does love his dog...
+
+**Officer Berry:** Especially when the dog is your personal drooling bodyguard. You can bet he trained that poor thing on blood...
+
+**Max:** Gross. I wouldn't bet. Where did he get the pup?
+
+**Officer Berry:** Frank used to bet on dog fights. To his credit, he had a revelation and he saved a bunch of the dogs. Kept one for himself. He's still a creep. You and that Chloe stay away, right?
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

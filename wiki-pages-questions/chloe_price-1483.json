@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Caused Chloe's Disability?",
+    "answer": "A",
+    "choices": {
+      "A": "A Car Accident",
+      "B": "A Sports Injury",
+      "C": "A Disease",
+      "D": "A Birth Defect"
+    }
+  },
+  {
+    "question": "What Does Max Find Throughout Chloe's House?",
+    "answer": "D",
+    "choices": {
+      "A": "Signs of Wealth",
+      "B": "Signs of Illness",
+      "C": "Signs of Happiness",
+      "D": "Signs of Neglect"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Oldest Totem In Arcadia Bay?",
+    "answer": "B",
+    "choices": {
+      "A": "Tiki Totem",
+      "B": "Tobanga Totem",
+      "C": "Tribal Totem",
+      "D": "Timber Totem"
+    }
+  },
+  {
+    "question": "What Do Max And Chloe Discover In The Abandoned Barn?",
+    "answer": "A",
+    "choices": {
+      "A": "A Hidden Underground Bunker",
+      "B": "A Secret Meeting Room",
+      "C": "A Treasure Trove",
+      "D": "A Haunted House"
+    }
+  },
+  {
+    "question": "Who Shoots Chloe In The Head?",
+    "answer": "C",
+    "choices": {
+      "A": "Nathan Prescott",
+      "B": "Frank Bowers",
+      "C": "Mr. Jefferson",
+      "D": "Warren Graham"
+    }
+  }
+]

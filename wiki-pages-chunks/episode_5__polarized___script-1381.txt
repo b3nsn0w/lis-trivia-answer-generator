@@ -1,0 +1,114 @@
+Here is a section of the wiki page for Episode 5: Polarized - Script:
+
+## **-Two Whales Diner-**
+
+*Max stands in the bathroom of the Two Whales Diner. She looks at the keypad.*
+
+**Max:** *(thinking)'' I'll be so grateful if this is the last digicode...
+
+*Max enters 0311 into the keypad and opens the door.*
+
+**Courtney:** Don't kill us, Max.
+
+**Dana:** I guess I'll never dance again, Max...
+
+**Man:** Right when I was about to start a new life in California...
+
+**Other comments**
+
+(Chloe killed Frank)(Chloe killed Frank)
+**Frank:** So you kill me... and now all of my customers? What’s wrong with you, Max?
+
+|-|(Chloe wounded Frank)# (Chloe wounded Frank)
+**Frank:** Look, I know things were bad between us, but... that doesn’t mean I deserved to die.
+
+|-|(Chloe didn't harm Frank)(Chloe didn't harm Frank)
+
+**Frank:** Shit, Max… and I thought we were on the same team... Now, I’ll die alone.
+
+**Brooke:** Max, I hope you do the right thing. I hope...
+
+(Max kissed Warren)# (Max kissed Warren)
+**Warren:** I can’t believe I let you kiss me... Now you’re going to kill me...
+
+|-|(Max didn't kiss Warren)(Max didn't kiss Warren)
+**Warren:** I was happy just being your friend... Why do you want all your friends to die?
+
+**Juliet:** Max, please, save us.
+
+**Zachary:** Save the bigfoots, Max. Please.
+
+**Joyce:** Honey, I always thought of you like a daughter... and now you’re going to take me away from my family... Why would you do that?
+
+**David:** Max, you’re exactly the kind of soldier I’d want by my side in a war.
+
+**Man:** Son of a bitch, this is going to hurt...
+
+**Logan:** So this is how Max gets her revenge on?
+
+(Max saved the Fisherman)# (Max saved the Fisherman)
+**Fisherman:** Max, you saved my life, gave me the chance to catch one more fish...
+
+|-|(Max didn't save the Fisherman)(Max didn't save the Fisherman)
+**Fisherman:** Like I told you before... old fishermen never die... well, until now.
+
+(Max warned the Homeless Lady)# (Max warned the Homeless Lady)
+**Homeless Lady:** Thanks for that warning, Max... You treated me like a human, not like trash... I sure hope you do that for everybody in town...
+
+|-|(Max didn't warn the Homeless Lady)(Max didn't warn the Homeless Lady)
+**Homeless Lady:** I’ve already lived forever... maybe you can help others live too...
+
+**Justin:** Killing me is soooo not cool.
+
+**Trevor:** Wow Max, right when I finally find a cool chick to date...you have to kill us off. This sucks.
+
+(Max saved the Trucker)# (Max saved the Trucker)
+**Trucker:** Breaker, Breaker... Thanks for saving me and carrying the load, good buddy. That’s a big 10-4.
+
+|-|(Max didn't save the Trucker)(Max didn't save the Trucker)
+**Trucker:** It’s okay if I’m gone... I’ve paid my dues... Time to pay yours.
+
+**Woman:** This is not how I wanted to spend my last hour on Earth...
+
+**Man:** Max, can you call my mother in Portland and tell her that I love her?
+
+**Principal Wells:** I know I haven't been the best principal to you... but you've been a great "Everyday Hero" for us.
+
+**Courtney:** Please, save us.
+
+**Woman:** I guess my husband and new baby will have to go without me...
+
+**Man:** Max, I hope you can live with yourself after this.
+
+**Samuel:** Don't let the squirrels die.
+
+**Victoria:** I wish we had been friends, Max. But please... don’t let me die like this... I’m still a teenager...
+
+**Nathan:** Max, I'm... truly... I truly am sorry for being such a bastard. You would have been cool to hang out with. I just don’t want everybody else to suffer like me.
+
+(Max saved Alyssa in every episode)# (Max saved Alyssa in every episode)
+**Alyssa:** You’ve always had my back and now you’re going to let me die? Thanks Max.
+
+|-|(Max saved Alyssa's life)(Max saved Alyssa's life)
+**Alyssa:** I thought you were one of the few people I could trust at Blackwell. I thought...
+
+|-|(Max didn't save Alyssa's life)# (Max didn't save Alyssa's life)
+**Alyssa:** Even if I’m dead, how can you let all these other people get wiped out? They don’t deserve that...
+
+(Max saved Evan)(Max saved Evan)
+**Evan:** Oh Max, what exactly was the point of saving me if you're only going to let me die?
+
+|-|(Max didn't save Evan)# (Max didn't save Evan)
+**Evan:** Uh, let me get this straight: you didn't bother to save me or the Bay? How pathetic, child.
+
+**Kate:** Please, Max. Don't kill me, so we can finally have our tea session.
+
+**Daniel:** Max, I want you to know how much confidence you gave me... Nobody ever did that for me.
+
+**Stella:** I survived poverty and an abusive family... just so I can end up here to die...
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

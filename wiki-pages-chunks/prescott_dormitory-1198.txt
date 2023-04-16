@@ -1,0 +1,58 @@
+Here is a section of the wiki page for Prescott Dormitory:
+
+## Inside 
+*{{Interaction|Max can look at Rachel Amber Missing Person posters.|"Rachel looks like she's staring at me..."
+"I would love to believe Rachel Amber is just hiding."
+"Chloe is so determined to find you, Rachel."}}
+*Max can look at notices on several bulletin boards:
+**{{Interaction|Ms. Grant's petition notice|"Go, Ms. Grant! Not sure if I will though... I'm a loser."}}
+**{{Interaction|Young Guns Training advertisement|"I'd love to make a photo collage of every person who've posted these."}}
+**{{Interaction|Safe Not Sorry poster|"Man, people here are merciless."}}
+**{{Interaction|Geek Grrls Book Club advertisement|"Could be fun. Glad I'm not the only lonely nerd around here."}}
+**{{Interaction|Vortex Club flyer|"Thanks for the warning."}}
+**{{Interaction|Various notices|"This is like the public DNA of our dorm...}}
+*{{Interaction|She can look at a "Save the Earth" poster.|"But what's this poster really trying to tell me?"}}
+*{{Interaction|She can look at and speak to Alyssa after warning her about the toilet paper.|**Before: **"Alyssa is such an easy target for those jerks. I should help her..."
+**After TP hits Alyssa: **"If I help Alyssa, I could be like the 'godmother of Blackwell'..."}}
+*{{Interaction|She can look at the toilet paper after it hits Alyssa.|"One quick rewind and I could stop this TP attack..."}}
+*{{Interaction|She can look at a photo of a doe.|"Nice atmospheric shot. Needs dusting."}}
+*{{Interaction|She can look at a "Don't Be a Zombie" poster.|"They live!"}}
+*{{Interaction|She can look at and erase the insults on Kate's slate.|**Before: **"The marks of Satan."
+**After: **"I sure would like to catch this hall tagger..."}}
+*{{Interaction|She can look at a map of Blackwell Academy|"Blackwell isn't that big, but, it sure feels like a labyrinth."}}
+*{{Interaction|She can look at a map of the dormitories.|"Welcome to BlackHell..."}}
+*{{Interaction|She can look at a trash can.|"Samuel truly is a weirdo... but he is great at cleaning up."}}
+*{{Interaction|She can look at and erase her slate (determinant).|**Before: **"Why would anybody even care? I thought artists helped each other..."
+**After: **"Two can play at this game, Moriarty. They might not believe it—but they won't be sure."}}
+*{{Interaction|She can look at and speak to Juliet Watson.|**Before talk: **"Whatever they're watching must be hot stuff..."
+**After talk: **"Juliet has no clue how much this is hurting Kate."}}
+*{{Interaction|She can look at and speak to Brooke Scott.|**Before talk: **"There's Brooke, looking smarter than everybody."
+**After talk: **"At least she's dedicated to her schoolwork..."}}
+*She can knock on the doors of various people:
+**{{Interaction|Stella Hill|"Clearly not a morning person."}}
+**{{Interaction|Taylor Christensen|"Taylor is no doubt being led around by Victoria, as usual."}}
+**{{Interaction|Juliet Watson|"Wake up, Max. Juliet is next to me in the hall... not her room."}}
+**{{Interaction|Kate Marsh|"Kate is an early bird. She might be up and gone..."}}
+**{{Interaction|Victoria Chase|"Fine, I won't disturb you."}}
+**{{Interaction|Brooke Scott|"No Brooke here..."}}
+*She can enter Dana's room.
+*She can enter the showers **(required)**.
+Inside the showers,
+*{{Interaction|She can look at a "Flu Shot" poster.|"The last time I got a flu shot, I got the flu. Fuck you."}}
+*{{Interaction|She can look at a tampon dispenser.|"I'm good to flow, thanks."}}
+*{{Interaction|She can look at "The Otters" poster.|"'Otter Power?' I'm so not there."}}
+*{{Interaction|She can look at and speak to Kate **(required)**.|"Kate is not good. I wish David would 'get off her crack,' as Chloe would say."}}
+After taking a shower,
+*{{Interaction|Max can look at and erase the link to Kate's video from the mirror.|**Look: **"Is that the link to Kate's video? Damn, Victoria is so fucking mean."
+**Erase: **"Even if I can stop one person from watching it, it's worth it."}}
+*{{Interaction|She can look at and use one of the sinks.|"Water is almost as good as a cup of strong tea when I'm in sleepy-mode."}}
+*She can enter Kate's room **(required)**.
+
+#
+
+## Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+# #
+
+
+
+Generate five trivia questions relevant to this section of the page.

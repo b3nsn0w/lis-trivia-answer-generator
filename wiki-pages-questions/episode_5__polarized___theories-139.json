@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Name Of The Final Episode Of Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Polarized",
+      "B": "Chrysalis",
+      "C": "Dark Room",
+      "D": "Chaos Theory"
+    }
+  },
+  {
+    "question": "What Is The Purpose Of The \"Theories and Speculation\" Page?",
+    "answer": "A",
+    "choices": {
+      "A": "To List Theories And Speculations About The Final Episode",
+      "B": "To List Theories And Speculations About The Entire Game",
+      "C": "To List Theories And Speculations About The Characters",
+      "D": "To List Theories And Speculations About The Developers"
+    }
+  },
+  {
+    "question": "Where Can Players Comment And Discuss Their Ideas About The Final Episode?",
+    "answer": "A",
+    "choices": {
+      "A": "On The Theories And Speculations Page",
+      "B": "On The Main Page",
+      "C": "On The Characters Page",
+      "D": "On The Developers Page"
+    }
+  },
+  {
+    "question": "What Is The Significance Of The Final Choice In The Game?",
+    "answer": "A",
+    "choices": {
+      "A": "It Determines The Fate Of The Main Character",
+      "B": "It Determines The Fate Of The Antagonist",
+      "C": "It Determines The Fate Of The Supporting Characters",
+      "D": "It Determines The Fate Of The Game's World"
+    }
+  }
+]

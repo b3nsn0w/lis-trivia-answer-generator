@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Whose Entry For The Everyday Heroes Contest Did Max Find \"Pretty Fucking Sweet\"?",
+    "answer": "B",
+    "choices": {
+      "A": "Daniel DaCosta",
+      "B": "Victoria Chase",
+      "C": "Kate Marsh",
+      "D": "Nathan Prescott"
+    }
+  },
+  {
+    "question": "What Did Max Say About Nathan Prescott's Entry For The Everyday Heroes Contest?",
+    "answer": "B",
+    "choices": {
+      "A": "\"I feel gross even looking at Nathan's work.\"",
+      "B": "\"He does have some style.\"",
+      "C": "\"I don't understand his art.\"",
+      "D": "\"I'm surprised he even submitted something.\""
+    }
+  },
+  {
+    "question": "Where Was Chloe's Student File Located?",
+    "answer": "C",
+    "choices": {
+      "A": "Inside the Science Lab",
+      "B": "On Jefferson's Table in the Photography Lab",
+      "C": "Inside Principal Wells' Office",
+      "D": "On Max's Desk in Her Room"
+    }
+  },
+  {
+    "question": "What Did Max Say About Rachel's Student File?",
+    "answer": "A",
+    "choices": {
+      "A": "\"There's not much here about the police investigation.\"",
+      "B": "\"She seems like a troubled student.\"",
+      "C": "\"I'm surprised she was accepted into Blackwell.\"",
+      "D": "\"I wish I knew her better.\""
+    }
+  }
+]

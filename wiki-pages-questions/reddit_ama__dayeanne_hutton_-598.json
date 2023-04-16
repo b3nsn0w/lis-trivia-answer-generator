@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Who is Dayeanne Hutton and what characters did she voice in Life is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "A streamer and voice over artist, who voiced Kate Marsh, Alyssa Anderson, and Juliet Watson",
+      "B": "A game developer and voice actor, who voiced Max Caulfield and Chloe Price",
+      "C": "A writer and voice director, who voiced Rachel Amber and Victoria Chase",
+      "D": "A musician and sound designer, who voiced Nathan Prescott and Warren Graham"
+    }
+  },
+  {
+    "question": "What is Dayeanne Hutton's favorite normal pet and not normal pet?",
+    "answer": "B",
+    "choices": {
+      "A": "Dog and Snake",
+      "B": "Cat and Llama",
+      "C": "Bird and Hedgehog",
+      "D": "Fish and Ferret"
+    }
+  },
+  {
+    "question": "When did Dayeanne Hutton's Reddit AMA take place and how long did it last?",
+    "answer": "A",
+    "choices": {
+      "A": "22 May 2018 and an hour",
+      "B": "22 May 2019 and two hours",
+      "C": "22 June 2018 and 30 minutes",
+      "D": "22 June 2019 and three hours"
+    }
+  }
+]

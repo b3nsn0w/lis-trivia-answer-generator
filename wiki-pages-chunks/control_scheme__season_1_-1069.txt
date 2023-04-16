@@ -1,0 +1,104 @@
+Here is a section of the wiki page for Control Scheme (Season 1):
+
+## Mobile (iOS/Android) 
+The controls have been simplified for touch screens on mobile. On Android, controller support is available.
+
+{| class"wikitable"
+!Symbol
+!Name
+!Primary Function
+|-
+|[File:button-mobile-journal.png](50px.md)
+|Journal Menu
+|To access or exit Max's journal, tap the journal icon in the top right corner.
+|-
+|[File:button-mobile-leftscreen.png](50px.md)
+|Movement
+|To move, tap anywhere on the screen or swipe your thumb on the **left side** of the screen.
+|-
+|[File:button-mobile-rightscreen.png](50px.md)
+|Camera
+|To look around, swipe your thumb on the **right side** of the screen.
+|-
+|[File:button-mobile-rewind.png](50px.md)
+|Rewind
+|To rewind time, tap on the spiral icon in the top left corner of the screen and then tap on the fast-rewind or rewind icon.
+|-
+|[File:button-mobile-undo.png](50px.md)
+|Undo
+|Step back in time to your last important action, represented by a notch on the spiral.
+|-
+|[File:button-mobile-skip.png](50px.md)
+|Skip
+|Tap the bottom right corner of the screen to skip a previously viewed scene.
+|-
+|[File:button-mobile-interacticons.png](50px.md)
+|Look/Interact
+|To interact with objects and people, tap on an object and then select an action.
+|}
+
+IOS-movement.PNG|Movement.
+IOS-powers.PNG|Powers.
+IOS-other stuff.png|"Other stuff."
+
+.
+|-
+|[Image:Button-ps3-start.png](50px.md)
+|Pause Menu
+|
+Pause the game.
+|-
+|[Image:Button-ps-leftstick.png](50px.md)
+|Movement
+|Players can control the character Max using the left analog stick.
+|-
+|[Image:Button-ps-rightstick.png](50px.md)
+|Camera
+|Players can control the direction of the camera using the right analog stick.
+|-
+|[Image:Button-ps3-L1.png](50px.md)
+|UndoJournal Tab
+|Press L1 to rewind to your last action.Use L1 to scroll journal tabs to the left.
+|-
+|[Image:Button-ps3-R1.png](50px.md)
+|SkipJournal Tab
+|Use R1 to skip or fast-forward through a previously viewed scene.Use R1 to scroll journal tabs to the right.
+|-
+|[Image:Button-ps3-L2.png](50px.md)
+|Rewind
+|Rewind time by holding down the L2 button.
+|-
+|[Image:Button-ps3-R2.png](50px.md)
+|Quick rewindRun
+|While holding down L2 to rewind, hold down R2 to rewind faster.Hold R2 to move/walk faster.
+|-
+|[Image:Button-ps-focus.png](50px.md)
+|Focus
+|Use the analog sticks to focus on photos.
+|-
+|[Image:button-ps-dpad.png](50px.md)
+|Forward/Back
+|Use the left and right d-pad buttons to browse through [Optional Photos](photographs.md) and Max's journal.
+|-
+|[Image:Button-ps-triangle.png](50px.md)
+|Look/Dialog
+|To interact with and study objects in front of Max, click the triangle button.To choose dialog with new information (from rewind) click the triangle button.
+|-
+|[Image:Button-ps-square.png](50px.md)
+|Dialog
+|Press square to choose an option provided on the {{Wiki|dialog tree}}.Press square to take a photograph.
+|-
+|[Image:Button-ps-x.png](50px.md)
+|Read/Use
+|To read interactive objects, press the x/cross button.To use objects press the x/cross button.
+|-
+|[Image:Button-ps-circle.png](50px.md)
+|Go Back; Dialog
+|After reading the journal or other interactive objects, to back out, press the circle button.Press circle to choose an option provided on the {{Wiki|dialog tree}}.
+|}
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

@@ -1,0 +1,52 @@
+= William Price/Gallery =
+
+{{Free Tab
+|minwidth = 47%
+|maxwidth = 100%
+|borderradius = 2
+|height = 2
+|tab1=Life is Strange |link1=William Price/Gallery
+|tab2=Before the Storm |link2=William Price (Before the Storm)/Gallery
+}}The following images are of the character [[William Price]] from ''[[Life is Strange]]''
+
+==Episode Three - "[[Episode 3: Chaos Theory|Chaos Theory]]"==
+<gallery widths="200" position="center">
+Bill1.jpg
+Bill2.jpg
+Bill3.jpg
+Bill4.jpg
+Bill5.jpg
+Bill6.jpg
+Bill7.jpg
+Bill8.jpg
+Bill9.jpg
+Bill10.jpg
+Bill11.jpg
+Bill12.jpg
+Bill13.jpg
+Bill14.jpg
+Bill15.jpg
+Bill16.jpg
+Bill17.jpg
+Bill18.jpg
+Bill19.jpg
+Bill20.jpg
+Bill21.jpg
+</gallery>
+
+==Episode Four - "[[Episode 4: Dark Room|Dark Room]]"==
+<gallery widths="200" position="center">
+Bill22.jpg
+Bill23.jpg
+Bill24.jpg
+Bill25.jpg
+Bill26.jpg
+Bill27.jpg
+Bill28.jpg
+Bill29.jpg
+Bill30.jpg
+</gallery>
+[[Category:Character Gallery]]
+[[Category:Character Gallery (Life is Strange)]]
+[[Category:Life is Strange]]
+[[Category:Images of William Price]]

@@ -1,0 +1,65 @@
+Here is a section of the wiki page for Moment of Calm (Life is Strange):
+
+## Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+{| class"wikitable" style# "border: 1px solid #57333F; background: transparent; width:100%"
+! Location
+! Max's comments
+|-
+| [File:Moc-tree-ep1.jpg](220px.md)Tree on the [Blackwell Campus](blackwell_campus.md). ||"So bizarro to be back here after five years... I thought I could just fit right back in at school... But with all this shit going on, I'm even more an outsider... And who can I confide in, besides [Max's Journal](my_journal.md) and [Max's Camera](my_camera.md)? Man, these are supposed to be the best years of my life... This is what it's like to be alone and feel lonely at once..."
+|-
+| [File:Moc-fountain-ep1.jpg](220px.md)Fountain on the Blackwell Campus. ||"This day has been so insane... Everything is happening too fast... And none of it makes any sense... these visions, this... [Rewind](power.md). I keep expecting to wake up one more time... But if this is a dream, then I'm not asleep. Which means somehow... I did rewind time. So there has to be a reason... and I have to find out why."
+|-
+| [File:Moc-maxsbed-ep1.jpg](220px.md)Max’s bed in [Max's Room](her_room.md)in the [Prescott Dormitory](prescott_dormitory.md).||"Ah, it feels so nice to just relax. This day has been so damn bizarre and it feels like it has gone on forever... Maybe I'll just wake up now and find out I was dreaming all of this... Or like Poe said, 'A dream within a dream'..."
+|-
+| [File:Moc-guitar-ep1.jpg](220px.md)Max’s guitar in her room.|| None (Max plays "[Crosses](crosses.md)").
+|-
+| [File:Moc-chloescouch-ep1.jpg](220px.md)Couch on the first floor of[Chloe Price](chloe_price.md)’s [Madsen Household](house.md). ||
+Chat between young Max and Chloe at one of their "wine tasting sessions":
+
+**Chloe: **"Come on, open it chicken!"
+**Max: **"Hold on. And I'm not chicken!"
+**Chloe: **"Prove it! You drink first, Max!"
+**Max: **"No way! It was your idea, Chloe!"
+**Chloe: **"Whateva. Give me that bottle."
+**Max: **"Well?"
+**Chloe: **"Tasty. Very tasty."
+**Max: **"Here, I want a sip!"
+**Chloe: **"Sorry, this is not for kids."
+**Max: **"Don't be greedy! Gimme some!"
+**Chloe: **"Oh shit, the carpet!"
+**Max: **"There's wine all over! What do we do now?"
+**Chloe: **"My parents are coming! Cover it up..."
+
+|-
+| [File:Moc-swing-ep1.jpg](220px.md)Swing in the backyard ofChloe’s house.**||Chat between young Max and Chloe about what they want to do when they grow up: 
+
+**Max: **"What do you truly want to do when you grow up?"
+**Chloe: '''"Max, I'm already grown up. What about you?"
+**Max: **"Travel. That would be awesome. Explore the world. Go far from here..."
+**Chloe: **"Far from me? Thanks a lot, dude."
+**Max: **"Dude, you would totally come with me! I need a bodyguard for our adventures!"
+**Chloe: **"I would be like Lara Croft, except real. That would be majorly cool."
+**Max: **"Totally! We'd have cars and boats and planes all over for instant escape! And no adults could tell us what to do!"
+**Chloe: **"Count me in. What would you do while I was bodyguarding you?"
+**Max: **"Maybe take pictures of our adventures. I would love to be a photographer. As if I ever could be..."
+**Chloe: **"What are you talking about? Max, you are a photographer. Your pictures could be in a museum. Someday they will. I believe in you..."
+
+|}
+
+## Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+{| class"wikitable" style# "border: 1px solid #57333F; background: transparent; width:100%"
+! Location
+! Max's comments
+|-
+| [File:Moc-maxsbed-ep2.jpg](220px.md)**Beginning of episode (Max’s bed)**.||"I am so wrecked after staying up all night... I could use my rewind to catch a few more z's, but maybe I better save my strength..."
+|-
+| [File:Moc-guitar-ep2.jpg](220px.md)Max’s guitar.||None (Max plays "[Something Good](something_good.md)").
+|-
+| [File:Moc-chair-ep2.jpg](220px.md)Chair on top of a boat in the[American Rust Junkyard](american_rust_junkyard.md).||"Although this junkyard is a dive, I see why Chloe hangs here... She's a steam-punk... It actually feels like Chloe and I are kids again, we're hiding out and plotting our future... Despite all the chaos and bullshit, I feel so giddy hanging out with her again... So happy... Like we've both gone back in time..."
+|-
+| [File:Moc-stump-ep2.jpg](220px.md)Stump in the far end of the junkyard.||"It's so quiet and primordial out here... I always feel like the forest is whispering to me... Like [Arcadia Bay](arcadia_bay.md) is trying to tell me something... I just have to figure out the message..."
+|}
+
+
+
+Generate five trivia questions relevant to this section of the page.

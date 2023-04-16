@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Inconsistency Is There With Max's Description Of Warren's Age In Her Diary?",
+    "answer": "B",
+    "choices": {
+      "A": "Warren Is Described As Being Two Years Younger Than Max",
+      "B": "Warren Is Described As Being Two Years Older Than Max",
+      "C": "Warren's Age Is Not Mentioned In Max's Diary",
+      "D": "Warren's Age Is Inconsistent With His Student Record"
+    }
+  },
+  {
+    "question": "What Is The Inconsistency With Nathan's Age In Max's Diary?",
+    "answer": "B",
+    "choices": {
+      "A": "Nathan's Age Is Not Mentioned In Max's Diary",
+      "B": "Nathan's Age Is Inconsistent With His School Record",
+      "C": "Nathan's Age Is Inconsistent With His Appearance",
+      "D": "Nathan's Age Is Inconsistent With His Personality"
+    }
+  },
+  {
+    "question": "What Is The Inconsistency With The Graphics In Kate's Section Of Max's Diary?",
+    "answer": "A",
+    "choices": {
+      "A": "The Graphics Are Misnamed In The Unreal Engine Packages",
+      "B": "The Graphics Are Missing From Kate's Section",
+      "C": "The Graphics Are Inconsistent With The Consequences Of Max's Actions",
+      "D": "The Graphics Are Inconsistent With The Rest Of Max's Diary"
+    }
+  },
+  {
+    "question": "What Is The Inconsistency With Max's Drawing Of Chloe In Her Diary?",
+    "answer": "A",
+    "choices": {
+      "A": "Chloe Is Drawn With An Earring That She Does Not Have In The Game",
+      "B": "Chloe Is Drawn Without Her Tattoos",
+      "C": "Chloe Is Drawn With A Different Hair Color",
+      "D": "Chloe Is Drawn With A Different Outfit"
+    }
+  },
+  {
+    "question": "What Is The Inconsistency With Max's Description Of Her And Chloe's Ages In Her Diary?",
+    "answer": "A",
+    "choices": {
+      "A": "Max Describes Them As Being The Same Age When They Were 13",
+      "B": "Max Describes Them As Being Different Ages When They Were 13",
+      "C": "Max Describes Them As Being Different Ages When They Were 14",
+      "D": "Max Does Not Mention Their Ages When They Were 13"
+    }
+  }
+]

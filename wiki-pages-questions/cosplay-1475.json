@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who initiated the German cosplay project \"LiS - Not This Time\"?",
+    "answer": "D",
+    "choices": {
+      "A": "Dash Price",
+      "B": "Nunthius Cosplay",
+      "C": "Mee Luffy",
+      "D": "Daniel Anhut"
+    }
+  },
+  {
+    "question": "Which cosplay duo has portrayed Victoria Chase and Nathan Prescott together?",
+    "answer": "A",
+    "choices": {
+      "A": "Fox and Wolf Cosplay",
+      "B": "Harikaw and Faithcael Cosplay",
+      "C": "CacophonyandDiscord",
+      "D": "Priceless Cosplay"
+    }
+  },
+  {
+    "question": "Which French cosplay duo portrays Max and Chloe?",
+    "answer": "B",
+    "choices": {
+      "A": "Jaz & Zephy Cosplay",
+      "B": "Harikaw and Faithcael Cosplay",
+      "C": "CacophonyandDiscord",
+      "D": "Ivka Cosplay"
+    }
+  },
+  {
+    "question": "Who directed the live action fan film for Life is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Christopher Neville",
+      "B": "Erick Herrera",
+      "C": "Alive Alf Photography",
+      "D": "Michel Koch"
+    }
+  },
+  {
+    "question": "Which American cosplay duo has portrayed various characters from Life is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "Fox and Wolf Cosplay",
+      "B": "CacophonyandDiscord",
+      "C": "Harikaw and Faithcael Cosplay",
+      "D": "Priceless Cosplay"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Chloe Say About Max's Hair After They Get Out Of The Pool?",
+    "answer": "A",
+    "choices": {
+      "A": "It Looks Cute Soaked In Chemicals",
+      "B": "It Looks Gross And Smelly",
+      "C": "It Looks Like A Wet Dog",
+      "D": "It Looks Like A Mess"
+    }
+  },
+  {
+    "question": "What Does Max Say About The Pool After They Get Out?",
+    "answer": "A",
+    "choices": {
+      "A": "It Smells Like Chlorine Bay",
+      "B": "It's Too Cold To Swim In",
+      "C": "It's Too Dirty To Swim In",
+      "D": "It's Too Crowded To Swim In"
+    }
+  },
+  {
+    "question": "What Do Max And Chloe Do When They See The Guard Approaching?",
+    "answer": "A",
+    "choices": {
+      "A": "They Hide In The Locker Rooms",
+      "B": "They Run Out Of The Pool Building",
+      "C": "They Confront The Guard",
+      "D": "They Call The Police"
+    }
+  },
+  {
+    "question": "Where Does Chloe Suggest Max Should Stay For The Night?",
+    "answer": "A",
+    "choices": {
+      "A": "At Her Place",
+      "B": "At The Dorms",
+      "C": "At The Pool",
+      "D": "At The Principal's Office"
+    }
+  },
+  {
+    "question": "How Do Max And Chloe Feel About Themselves After Escaping From The Pool?",
+    "answer": "A",
+    "choices": {
+      "A": "They Feel Invisible",
+      "B": "They Feel Guilty",
+      "C": "They Feel Anxious",
+      "D": "They Feel Angry"
+    }
+  }
+]

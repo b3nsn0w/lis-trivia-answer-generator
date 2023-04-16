@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Objective Of Episode One That Involves Saving Chloe?",
+    "answer": "A",
+    "choices": {
+      "A": "\"I must prevent the blue-haired girl from getting shot\"",
+      "B": "\"I need to go to my room to get Warren's flash drive\"",
+      "C": "\"I need to find precision tools downstairs\"",
+      "D": "\"I should follow the doe\""
+    }
+  },
+  {
+    "question": "What Is The Objective Of Episode Two That Involves Finding Five Bottles?",
+    "answer": "A",
+    "choices": {
+      "A": "\"I have to find Kate's book\"",
+      "B": "\"I should take a shower\"",
+      "C": "\"I have to help Chloe shoot the bottles\"",
+      "D": "\"I have to reach Kate on the rooftop\""
+    }
+  },
+  {
+    "question": "What Is The Objective Of Episode One That Involves Getting Victoria Out Of The Way?",
+    "answer": "B",
+    "choices": {
+      "A": "\"I need to freshen up in the bathroom\"",
+      "B": "\"I need to get Victoria out of my way\"",
+      "C": "\"I have to get that flash drive back from Dana's room\"",
+      "D": "\"I should join Chloe near the cliff's edge\""
+    }
+  },
+  {
+    "question": "What Is The Objective Of Episode Two That Involves Watching Four Events Unfold?",
+    "answer": "D",
+    "choices": {
+      "A": "\"I should sit down inside and wait for Chloe\"",
+      "B": "\"I have to memorize Chloe's stuff and rewind to tell Chloe\"",
+      "C": "\"I have to help Chloe shoot the bottles\"",
+      "D": "\"I have to watch what's going on and rewind to tell Chloe\""
+    }
+  },
+  {
+    "question": "What Is The Objective Of Episode One That Involves Finding Warren's Flash Drive?",
+    "answer": "A",
+    "choices": {
+      "A": "\"I need to go to my room to get Warren's flash drive\"",
+      "B": "\"I have to get that flash drive back from Dana's room\"",
+      "C": "\"I have to meet up with Warren in the parking lot\"",
+      "D": "\"I should find music to put on\""
+    }
+  }
+]

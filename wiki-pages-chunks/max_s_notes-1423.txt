@@ -1,0 +1,95 @@
+Here is a section of the wiki page for Max's Notes:
+
+[File:note3-frankrv-rachelpompidou.png](220px.md)
+|-|ReadNone
+|-
+|**Letter from Rachel to [Frank Bowers](frank.md).**
+Location: Inside a vent in Frank's RV.
+Max's comments: I don't know if I should be touched or disturbed...
+|style# "height:186px; vertical-align:top"|Look[File:note3-frankrv-rachelletterone.png](220px.md)
+|-|Read# [File:note3-frankrv-rachelletterone2.png](220px.md)
+|-
+|'''Photo of Rachel driving Frank's RV.'''
+Location: Inside a vent in Frank's RV.
+Max's comments: I'm glad Rachel got to drive this beast. She looks genuinely happy.
+|style"height:186px; vertical-align:top"|Look# [File:note3-frankrv-racheldriving.png](220px.md)
+|-|ReadNone
+|-
+|**Photo of Rachel and Frank.**
+Location: Inside a vent in Frank's RV.
+Max's comments: Rachel really did hang out with Frank.
+|style# "height:186px; vertical-align:top"|Look[File:note3-frankrv-rachelfrank.png](220px.md)
+|-|Read# None
+|-
+|**Photo of Rachel posing.**
+Location: Inside a vent in Frank's RV.
+Max's comments: I'm learning more about Rachel than I want to know...
+|style"height:186px; vertical-align:top"|Look# [File:note3-frankrv-rachelposing.png](220px.md)
+|-|ReadNone
+|-
+|**Letter from Rachel to Frank.**
+Location: Inside a vent in Frank's RV.
+Max's comments: Hmm, trouble in paradise.
+|style# "height:186px; vertical-align:top"|Look[File:note3-frankrv-rachellettertwo.png](220px.md)
+|-|Read# [File:note3-frankrv-rachellettertwo2.png](220px.md)
+|-
+|**"Tween Life" magazine.**
+Location: Chloe's house in 2008.
+Max's comments: Man, I remember Chloe reading this... but not after today.
+|style"height:186px; vertical-align:top"|Look# [File:note3-past-magazine.png](220px.md)
+|-|Read[File:note3-past-magazine2.png](220px.md)
+|-
+|**Manga magazine**
+Location: Chloe's house in 2008.
+Max's comments: Chloe was so into manga... nice hair!
+|style# "height:186px; vertical-align:top"|Look[File:note3-past-manga.png](220px.md)
+|-|Read# None
+|-
+|**Photo of Chloe and [William Price](william.md)**
+Location: On fridge in Chloe's house.
+Max's comments: I know I've seen those pictures before...
+|style"height:186px; vertical-align:top"|Look# [File:note3-past-pictureone.png](220px.md)
+|-|ReadNone
+|-
+|**Photo of Chloe and William.**
+Location: On fridge in Chloe's house.
+Max's comments: None
+|style# "height:186px; vertical-align:top"|Look[File:note3-past-picturetwo.png](220px.md)
+|-|Read# None
+|-
+|**Photo of the Price Family.**
+Location: Corner of the living room of Chloe's house.
+Max's comments: My family never took fun, goofy photos like this...
+|style"height:186px; vertical-align:top"|Look# [File:note3-past-pricephoto.png](220px.md)
+|-|ReadNone
+|-
+|**Travel brochures.**
+Location: Chloe's house in 2008.
+Max's comments: I know they never took that big vacation.
+|style# "height:186px; vertical-align:top"|Look[File:note3-past-brochures.png](220px.md)
+|-|Read# None
+|-
+|**Note from Joyce to William.**
+Location: Wall inside the kitchen of Chloe's house.
+Max's comments: Joyce loves William so much.
+|style"height:186px; vertical-align:top"|Look# [File:note3-past-joycenote.png](220px.md)
+|-|Read[File:note3-past-joycenote2.png](220px.md)
+|-
+|**Drawing of the lighthouse.**
+Location: Wall inside Chloe's house.
+Max's comments: I forgot about this... back to the lighthouse...
+|style# "height:186px; vertical-align:top"|Look[File:note3-past-lighthousedrawing.png](220px.md)
+|-|Read# [File:note3-past-lighthousedrawing2.png](220px.md)
+|-
+|**Notebook with phone numbers.**
+Location: Near the telephone in Chloe's house.
+Max's comments: Yes! Here's the Two Whales number! Now I can warn Joyce.
+Note: Accessible only after William takes the telephone and Max rewinds.
+|style"height:186px; vertical-align:top"|Look# [File:note3-past-phonebook.png](220px.md)
+|-|Read[File:note3-past-phonebook2.png](220px.md)
+|} ## Episode Four - "[Episode 4: Dark Room](dark_room.md)"
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

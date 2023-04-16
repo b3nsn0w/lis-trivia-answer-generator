@@ -1,0 +1,67 @@
+Here is a section of the wiki page for Episode 5: Polarized:
+
+## Characters 
+{{col-begin}}
+{{col-2}}
+* [Maxine Caulfield](max_caulfield.md)
+* [Mark Jefferson](mark_jefferson.md)
+* [Chloe Price](chloe_price.md)
+* [Kate Marsh](kate_marsh.md)
+* [Victoria Chase](victoria_chase.md)
+* [Taylor Christensen](taylor_christensen.md)
+* [Hayden Jones](hayden_jones.md)
+* [Daniel DaCosta](daniel_dacosta.md)
+* [Stella Hill](stella_hill.md)
+* Principal [Raymond Wells](raymond_wells.md)
+* [David Madsen](david_madsen.md)
+* [Homeless Lady](homeless_lady.md)
+* [Truck Driver](truck_driver.md)
+* [R.J. MacReady](r_j__macready.md) (Fisherman)
+* [Evan Harris](evan_harris.md)
+* [Alyssa Anderson](alyssa_anderson.md)
+* [Warren Graham](warren_graham.md)
+* [Joyce Price](joyce_price.md)
+* [Frank Bowers](frank_bowers.md) (**Determinant**)
+* [Pompidou](pompidou.md) (Frank's dog) (**Determinant**)
+* [Nathan Prescott](nathan_prescott.md)
+{{col-2}}
+* [William Price](william_price.md)
+* [Justin Williams](justin_williams.md)
+* [Dana Ward](dana_ward.md)
+* [Zachary Riggins](zachary_riggins.md)
+* [Juliet Watson](juliet_watson.md)
+* [Michelle Grant](michelle_grant.md)
+* [Logan Robertson](logan_robertson.md)
+* [Samuel Taylor](samuel_taylor.md)
+* [Brooke Scott](brooke_scott.md)
+* [Trevor Yard](trevor_yard.md)
+* [Courtney Wagner](courtney_wagner.md)
+* Officer [Anderson Berry](anderson_berry.md)
+* [Daniel Lee](daniel_lee.md) ([Zeitgeist Gallery](zeitgeist_gallery.md))
+* [Diner Man](man.md) ([Nightmare](nightmare.md) [Two Whales Diner](diner.md))
+* [Diner Woman](woman.md) (Nightmare Diner)
+* [Old Guy](old_guy.md) (Nightmare Diner)
+* [Weird Lady](weird_lady.md) (Nightmare Diner)
+* [Diner Cop](cop.md) (Nightmare Diner)
+* [Diner Fisherman](fisherman.md) (Nightmare Diner)
+* Minor unnamed characters in the [Zeitgeist Gallery](zeitgeist_gallery.md)
+{{col-end}}
+
+## Deaths 
+* [Nathan Prescott](nathan_prescott.md) **(Determinant)** - Mark Jefferson mentions that he murdered Nathan and plans to pin his murders on him. However, this changes after Max warns Chloe in the past. He is arrested at the end for the murder of Chloe if Max chooses to sacrifice her in order to save Arcadia Bay. Alternatively, if she chooses to sacrifice the town instead, his fate is not altered, and he is still dead.
+* [Victoria Chase](victoria_chase.md) **(Pre-Rewind)** - If Max warns Victoria about Nathan in the previous episode, she will go to Mr. Jefferson who will capture her. Later, after Max returns to the dark room, Mr. Jefferson will reveal that he killed Victoria because he believes that she's where she should be. She is seen alive during Chloe's funeral if Max chooses to save Arcadia Bay's population.
+* [David Madsen](david_madsen.md) (**Pre-Rewind**) - When David enters the Dark Room and is confronted with Jefferson, there are several instances in which he is seriously hurt and even shot.
+* [Mark Jefferson](mark_jefferson.md) **(Determinant)** - In the original timeline if Max tells David that Mark murdered Chloe, David will execute him. However, this is changed after Max warns Chloe in the past.
+* [Truck Driver](trucker.md) **(Determinant)** - If Max doesn't help the trucker out from under his truck he will remain crushed underneath it.
+* [Evan](evan_harris.md) **(Determinant)** - If Max waits too long, Evan will be too distracted by the storm and a metal visor will take him out.
+* [Alyssa Anderson](alyssa_anderson.md) **(Determinant)** - If Max did not save Alyssa in more than 3 episodes and Max talks to her, she will back away from Max and will fall into a hole in the floor of her apartment.
+* [R.J. MacReady](r_j__macready.md) **(Determinant)** - Max will accidentally electrocute the fisherman to death in order to get past the fire, and if Max leaves without rewinding and warning him, he will stay that way.
+* Officer [Anderson Berry](anderson_berry.md) - Officer Berry can be seen crushed under a police car outside the diner.
+* [Homeless Lady](homeless_woman.md) **(Determinant)** - If Max chooses not to warn the homeless woman about the storm in Episode 3, she will be crushed by the dumpster.
+* [Chloe Price](chloe_price.md) **(Determinant)** - If Max chooses to go back to the day she stopped Nathan from shooting Chloe and allow him to do so, Max will prevent the storm from happening and consequently will save Arcadia Bay's population.
+* [Warren Graham](warren_graham.md), [Joyce Price](joyce_price.md), [Frank Bowers](frank_bowers.md), [Pompidou](pompidou.md) and an [Old Guy](unnamed_man.md) **(Pre-Rewind)** - They die in a gas explosion in the diner. Max needs to prevent that by rewinding so that she can get Warren's photo.
+* Many of [Arcadia Bay](arcadia_bay.md)'s people **(Presumed, Determinant)** - If Max chooses not to sacrifice Chloe, then the storm destroys Arcadia Bay and we can only see Max and Chloe alive after the storm.
+
+
+
+Generate five trivia questions relevant to this section of the page.

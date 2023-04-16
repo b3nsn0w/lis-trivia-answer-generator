@@ -1,0 +1,17 @@
+#  Bernadette Hoida 
+
+[File:Nathan disciplinarywarning.png](thumb.md)
+**Bernadette Hoida** is an English and Literature teacher at [Blackwell Academy](blackwell_academy.md). During the events of *[Life is Strange](life_is_strange.md)*, she is reportedly absent due to severe depression. She was still at Blackwell in September when [Maxine Caulfield](max_caulfield.md) began attending the school. It's assumed that [Nathan Prescott](nathan_prescott.md)'s disruptive behavior had something to do with her absence, as he had at least one crude outburst in Mrs. Hoida's Intro to Literature class on September 17, which is evident through an incident report file from [Raymond Wells](principal_wells.md)' [Principal Wells' Office](office.md).
+
+Mrs. Hoida is mentioned once in "[Episode 2: Out of Time](out_of_time.md)" when Max is looking at her class schedule.
+
+It's speculated that Mrs. Hoida could have known something about the [:Category:Dark Room Conspiracy](dark_room_conspiracy.md) which led to her absence from school.
+
+While seemingly a minor character in *Life is Strange*, Mrs. Hoida's absence plays an important role in its story. Indeed, the events of the second episode (diner/junkyard/rail tracks) would probably not have happened otherwise, Max not being the kind of student to skip classes.
+
+##  Before The Storm 
+[File:E1 s02 grades.png](thumb.md)
+Bernadette Hoida was Chloe's English teacher when she was in Grade 10 in 2010 as shown on Chloe's report card.
+
+{{Character Navbox}}
+

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Character Did Fred Augis Design In Life is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "Brooke Scott",
+      "B": "Nathan Prescott",
+      "C": "Mark Jefferson",
+      "D": "William Price"
+    }
+  },
+  {
+    "question": "What Did Michel Koch Offer Fred Augis To Work On In Life is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Character Designs and Props",
+      "B": "Background Art",
+      "C": "Sound Design",
+      "D": "Programming"
+    }
+  },
+  {
+    "question": "What Medium Inspires Fred Augis The Most?",
+    "answer": "C",
+    "choices": {
+      "A": "Fantasy",
+      "B": "Horror",
+      "C": "Sci-Fi",
+      "D": "Romance"
+    }
+  },
+  {
+    "question": "What Did Fred Augis Use To Learn Traditional And Digital Techniques?",
+    "answer": "A",
+    "choices": {
+      "A": "A Graphics Tablet",
+      "B": "A Pen And Paper",
+      "C": "A Camera",
+      "D": "A Paintbrush"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Which episode of Life is Strange features the song \"Kids Will Be Skeletons\"?",
+    "answer": "C",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "Who composed the song \"Kids Will Be Skeletons\"?",
+    "answer": "C",
+    "choices": {
+      "A": "Max Caulfield",
+      "B": "Chloe Price",
+      "C": "Mogwai",
+      "D": "Life is Strange Soundtrack"
+    }
+  },
+  {
+    "question": "In which album is the song \"Kids Will Be Skeletons\" featured?",
+    "answer": "A",
+    "choices": {
+      "A": "Happy Songs For Happy People",
+      "B": "Come On Die Young",
+      "C": "Mr. Beast",
+      "D": "Hardcore Will Never Die, But You Will"
+    }
+  },
+  {
+    "question": "When can the song \"Kids Will Be Skeletons\" be heard in Life is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "At the beginning of Episode 1",
+      "B": "During the end credits of Episode 2",
+      "C": "At the end of Episode 3",
+      "D": "During a dream sequence in Episode 4"
+    }
+  }
+]

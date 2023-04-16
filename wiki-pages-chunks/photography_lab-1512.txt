@@ -1,0 +1,72 @@
+Here is a section of the wiki page for Photography Lab:
+
+## Episode Five - "Polarized" 
+*{{Interaction|Max can look at her camera.|"Did you know someday your pictures would actually alter time and space?"}}
+*{{Interaction|She can look at her doodles.|"I hope I still love photography when this is done... 'Don't confuse the art with the artist.' Bastard."}}
+*{{Interaction|She can look at her cellphone and use it to warn [David Madsen](david_madsen.md) **(required)**.|"All I need is David's number and Jefferson is one text closer to life without parole..."}}
+*{{Interaction|She can look at her journal.|"This diary literally saved my life…"}}
+*{{Interaction|She can look at and search through her messenger bag **(required)**.|"I've got a ton of Blackwell brochures so I hope David's number is in there..."}}
+
+**{{Interaction|She can look at the front of the school pamphlet inside her bag.|"I should be able to track down David's number from this school pamphlet."}}
+**She can look at the biographies of several Blackwell faculty members.
+**{{Interaction|She can look at the page with contact numbers **(required)**.|"Found you!"}}
+
+After getting up from her desk,
+*{{Interaction|Max can look at the class photo.|"If only I could tell the whole class about Jefferson, and watch him squirm...
+but I better let David take care of everything."}}
+*{{Interaction|She can look at a tripod.|"Not impressed anymore."}}
+*{{Interaction|She can look at the covers of two magazines.|"Now I wonder how many victims Jefferson has left behind in his career..."
+"The '90s are over for you, asshole."}}
+*{{Interaction|She can look at the photo equipment inside a cupboard.|"I can't blame the cameras, but... I just think of Jefferson using them."}}
+*{{Interaction|She can look at Victoria's notebook.|**Victoria believed Max: **"Oh, Victoria... We could have been friends..."
+'''Victoria didn't believe Max/Max didn't warn Victoria: '''"Victoria... it's
+nice to know how you really feel..."}}
+*{{Interaction|She can look at Victoria's tablet.|**Victoria believed Max: **"I'm happy to fix it so you'll be here to get your fancy camera, Victoria..."
+'''Victoria didn't believe Max/Max didn't warn Victoria: **"This fancy camera does not give you any
+extra talent, Victoria... or excuses. You will not hurt Kate Marsh this time."}}
+*{{Interaction|She can look at and comfort Kate.|**Saved Kate: **"Poor Kate..."
+**Saved and comforted: **"At least Kate knows people have her back."
+**Didn't save Kate: '''"I'm sad for Kate, but... so happy she's alive."
+'''Didn't save but comforted: '''"Have faith, Kate. This time I'm here for you..."}}
+
+**She can take an optional photo of Kate after comforting her.
+*{{Interaction|She can look at the paper ball.|"This is the last time somebody bullies you, Kate."}}
+*{{Interaction|She can look at the "Rachel Amber ❤ 4ever" etchings.|"Oh, Rachel... I'm sorry..."}}
+*{{Interaction|She can look at some art books.|"Just a week ago, I was so naive about art... life... the world…"}}
+*{{Interaction|She can look at the "Everyday Heroes" contest poster.|"An 'Everyday Hero' is going to bust your ass, Jefferson."}}
+*{{Interaction|She can look at a photo of the Arcadia Bay forest.|"There's still some beauty left in Arcadia Bay."}}
+*{{Interaction|She can look at a photo of the lighthouse.|"I still feel like... the lighthouse is calling out to me."}}
+*{{Interaction|She can look at Jefferson's camera on his desk.|"I'd like to bust this up right now."}}
+*{{Interaction|She can look at Victoria.|**Victoria believed Max: **"Victoria, I'm sorry you have to stand next to that psycho."
+'''Victoria didn't believe Max/Max didn't warn Victoria: **"Victoria, if you knew who
+Jefferson really was..."}}
+*{{Interaction|She can look at and give a selfie to Jefferson **(required)'''.|"I see right through your bullshit, Jefferson... Everybody else will too."}}
+
+During the nightmare,
+*{{Interaction|Max can look at the class photo.|"Oh... That's awful..."}}
+*{{Interaction|She can look at the magazine covers.|"That's... me? Are you kidding?!"
+"This is definitely not for reals."}}
+*{{Interaction|She can look at the computer screen.|"That's too creepy..."}}
+*{{Interaction|She can look at the blood stain on Kate's desk (determinant).|"I'm sorry, Kate..."}}
+*{{Interaction|She can look at the "I WANT TO DIE" writings on Kate's desk (determinant).|"You didn't die, Kate... You're alive."}}
+*{{Interaction|She can look at the paper ball.|"Not yet, you bastard."}}
+*{{Interaction|She can look at and take an optional photo of the etched marks.|**Look: **"That's it? Three times is clearly not the charm."
+**Photo: **"I don't care if this is a dream or a nightmare... I'm taking this picture."}}
+*{{Interaction|She can look at the photo of the forest around Arcadia Bay.|"Rachel didn't deserve any of this."}}
+*{{Interaction|She can look at the photo of the lighthouse.|"Oh no…"}}
+*{{Interaction|She can look at the "Everyday Zeroes" poster.|"I'm not going to take the bait... I'm not."}}
+
+Magazine 1 Photography Lab.png|Magazine featuring Mark Jefferson's photography in the Photography lab.
+Magazine 2 Photography Lab.png|Magazine featuring Mark Jefferson's photography.
+Class Photo Photography Lab.png|Class photo taken by Mark Jefferson.
+Computer Photography Lab.png|Computer screen in the photography lab.
+Everyday Heroes Poster Photography Lab.png|Everyday Heroes Photo Contest poster in the Photography lab.
+Forest Photo Photography Lab.png|Photo of a forest in the Photography lab.
+Lighthouse Photo Photography Lab.png|Lighthouse Photo in the Photography lab.
+Crumpled Ball Photography Lab.png|Crumpled note in the Photography lab.
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

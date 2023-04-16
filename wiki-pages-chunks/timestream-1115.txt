@@ -1,0 +1,46 @@
+Here is a section of the wiki page for Timestream:
+
+## Alternative/Altered Timeline 
+Max travels back in time to the day [William Price](william_price.md) ([Chloe Price](chloe_price.md)'s father) dies in a car crash. She prevents him from driving his car, creating an [Alternative Timeline](alternative_timeline.md) very different from the original where William is now alive. A timestream montage shows the events of the original timeline being altered. After either accepting or refusing a serious request made by Chloe in this alternative timeline, Max returns to the day William died and lets events happen as they did in the original timeline. Another timestream montage occurs, depicting the previously shown events reverting back to the original ones.
+{| class"article-table" style# "text-align:center; width:620px; margin: 0 auto;"
+|-
+! style"text-align:center; width:50%; font-size:100%" |Original Events
+! style# "text-align:center; width:50%; font-size:100%" |Alternative Events
+|-
+|valign"top"|[File:Timestream EP3 1 Florent Auguy.jpg](300px.md)William's funeral, in 2008.
+|valign# "top"|[File:Florent-auguy-chloe-joyce-et-william-heureux-hd.jpg](300px.md)Chloe on vacation with [Joyce Price](joyce_price.md) and William.
+|-
+|valign"top"|[File:Timestream EP3 2 Florent Auguy.jpg](300px.md)Chloe with her backpack.
+|valign# "top"|[File:Florent-auguy-chloe-etwilliam-heureux-hd.jpg](300px.md)Chloe with William.
+|-
+|valign"top"|[File:Florent-auguy-anniversaire-mariage-joyce-et-david-hd.jpg](300px.md)Joyce and [David Madsen](david_madsen.md)'s marriage.
+|valign# "top"|[File:Florent-auguy-anniversaire-mariage-joyce-et-william-hd.jpg](300px.md)Joyce and William's marriage anniversary.
+|-
+|valign"top"|[File:Florent Auguy David and Chloe berate cake.jpg](300px.md)Chloe arguing with David on her 16th birthday.
+|valign# "top"|[File:Florent-auguy-voiture-offerte-a-chloe-hd.jpg](300px.md)Chloe receiving a car on her 16th birthday.
+|-
+|valign"top"|[File:Timestream EP3 5 Florent Auguy.jpg](300px.md)[Rachel Amber](rachel_amber.md) and Chloe.
+|valign# "top"|[File:florent-auguy-chloecarbroken.jpg](300px.md)Chloe's car following the accident.
+|-
+|valign"top"|[File:Timestream EP5 1 Florent Auguy.jpg](300px.md)Chloe and [Nathan Prescott](nathan_prescott.md) in the bathroom.
+|valign# "top"|[File:florent-auguy-chloeinbackyard.jpg](300px.md)Chloe in her backyard.
+|-
+|valign"top"|[File:Florent-auguy-chloe-max-panneau.jpg](300px.md)Chloe and Max investigating.
+|valign# "top"|[File:florent-auguy-chloemaxaltline.jpg](300px.md)Chloe and Max talking.
+|}
+
+## Dark Room Timeline 
+In an effort to escape from the [Dark Room (Location)](dark_room.md), Max focuses on a monochrome photo taken by [Mark Jefferson](mark_jefferson.md). She manages to kick a trolley and damages Jefferson's photos. The timestream montage shows an angry Jefferson looking at a folder.
+
+{| class"article-table" style# "text-align:center; width:620px; margin: 0 auto;"
+|-
+! style"text-align:center; width:50%; font-size:100%" |Original Events
+! style# "text-align:center; width:50%; font-size:100%" |Alternative Events
+|-
+|valign"top"|[File:timestream-damagedphotos.png](300px.md)Jefferson examining the photos.
+|valign# "top"|[File:timestream-damagedphotos2.png](300px.md)Jefferson looking at a damaged folder.
+|}
+
+
+
+Generate five trivia questions relevant to this section of the page.

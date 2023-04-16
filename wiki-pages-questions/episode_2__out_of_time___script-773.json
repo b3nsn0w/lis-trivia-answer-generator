@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Happens To The Trains That Prevents Them From Reaching The Lumber Mill?",
+    "answer": "A",
+    "choices": {
+      "A": "They Are Damaged",
+      "B": "They Are Stopped By The Police",
+      "C": "They Are Diverted To Another Route",
+      "D": "They Are Delayed Due To Weather"
+    }
+  },
+  {
+    "question": "What Does Chloe Say About Max Saving Her Life Twice?",
+    "answer": "B",
+    "choices": {
+      "A": "They Are Now Even",
+      "B": "They Are Bonded For Life",
+      "C": "Max Owes Her A Favor",
+      "D": "Max Is A Hero"
+    }
+  },
+  {
+    "question": "What Does Chloe Say Max's Rewind Power Might Be Connected To?",
+    "answer": "B",
+    "choices": {
+      "A": "A Tornado Vision",
+      "B": "A Snowstorm",
+      "C": "A Hurricane",
+      "D": "An Earthquake"
+    }
+  },
+  {
+    "question": "What Does Chloe Say About Chaos Theory?",
+    "answer": "B",
+    "choices": {
+      "A": "It Means \"Shit Happens\"",
+      "B": "It Means \"Crazy Shit Happens\"",
+      "C": "It Means \"Good Things Happen To Good People\"",
+      "D": "It Means \"Bad Things Happen To Good People\""
+    }
+  },
+  {
+    "question": "What Does Chloe Say About Max's Situation Being The Perfect Storm For?",
+    "answer": "A",
+    "choices": {
+      "A": "Quantum Physics",
+      "B": "Chemistry",
+      "C": "Biology",
+      "D": "Astronomy"
+    }
+  }
+]

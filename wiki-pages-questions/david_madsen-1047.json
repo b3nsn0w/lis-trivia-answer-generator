@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is David Madsen's Occupation In The Alternative Timeline?",
+    "answer": "B",
+    "choices": {
+      "A": "Security Guard",
+      "B": "Bus Driver",
+      "C": "Teacher",
+      "D": "Janitor"
+    }
+  },
+  {
+    "question": "Who Does David Madsen Arrest In The Bathroom If Chloe Is Killed By Nathan?",
+    "answer": "D",
+    "choices": {
+      "A": "Mark Jefferson",
+      "B": "Max Caulfield",
+      "C": "Kate Marsh",
+      "D": "Nathan Prescott"
+    }
+  },
+  {
+    "question": "What Is David Madsen's Relationship With Kate Marsh?",
+    "answer": "D",
+    "choices": {
+      "A": "He Is Her Friend",
+      "B": "He Is Her Stalker",
+      "C": "He Is Her Teacher",
+      "D": "He Is Her Bully"
+    }
+  },
+  {
+    "question": "What Happens To David Madsen In The End Of The Game?",
+    "answer": "B",
+    "choices": {
+      "A": "He Dies In The Storm",
+      "B": "He Gets Divorced From Joyce",
+      "C": "He Becomes The Principal Of Blackwell Academy",
+      "D": "He Leaves Arcadia Bay"
+    }
+  }
+]

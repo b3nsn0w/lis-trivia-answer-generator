@@ -1,0 +1,42 @@
+[
+  {
+    "question": "How Did Rachel Amber Die?",
+    "answer": "D",
+    "choices": {
+      "A": "She Was Shot",
+      "B": "She Was Poisoned",
+      "C": "She Was Suffocated",
+      "D": "She Overdosed"
+    }
+  },
+  {
+    "question": "Who Did Nathan Prescott Work With To Drug And Photograph Blackwell Students?",
+    "answer": "A",
+    "choices": {
+      "A": "Mark Jefferson",
+      "B": "Frank",
+      "C": "Max's Professor",
+      "D": "David"
+    }
+  },
+  {
+    "question": "What Did Frank Say About Chloe And Rachel's Relationship?",
+    "answer": "A",
+    "choices": {
+      "A": "He Was Jealous",
+      "B": "He Didn't Approve",
+      "C": "He Didn't Care",
+      "D": "He Was Happy For Them"
+    }
+  },
+  {
+    "question": "What Did Frank's Father Say About Doing The Right Thing?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Enter His House Justified\"",
+      "B": "\"Do What You Want\"",
+      "C": "\"Follow Your Heart\"",
+      "D": "\"Make Money\""
+    }
+  }
+]

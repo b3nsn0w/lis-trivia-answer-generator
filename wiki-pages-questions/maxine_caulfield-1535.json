@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Symbolic Meaning Of The Color Blue In The Game?",
+    "answer": "B",
+    "choices": {
+      "A": "Death",
+      "B": "Hopefulness",
+      "C": "Danger",
+      "D": "Mystery"
+    }
+  },
+  {
+    "question": "What Is The Symbolic Meaning Of The Death's-head Hawkmoth In The Game?",
+    "answer": "B",
+    "choices": {
+      "A": "Hopefulness",
+      "B": "Death",
+      "C": "Mystery",
+      "D": "Danger"
+    }
+  },
+  {
+    "question": "What Does The Dreamcatcher That Max Wears In Episode 5 Represent?",
+    "answer": "B",
+    "choices": {
+      "A": "Her Biggest Fear",
+      "B": "Her Love For Art",
+      "C": "Her Desire To Time Travel",
+      "D": "Her Wish To Forget The Past"
+    }
+  },
+  {
+    "question": "What Is Max's Favorite Exclamation Throughout The Game?",
+    "answer": "A",
+    "choices": {
+      "A": "Wowser",
+      "B": "Are You Cereal?",
+      "C": "Ready For The Mosh Pit, Shaka Brah",
+      "D": "Everything Is A Picture Waiting To Be Taken"
+    }
+  }
+]

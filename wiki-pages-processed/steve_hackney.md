@@ -1,0 +1,32 @@
+#  Steve Hackney 
+
+[File:Steve Hackney Ad.png](thumb.md)
+**Steve Hackney** is a student at [Blackwell Academy](blackwell_academy.md). He is a singer, calling himself the "best singer ever in Oregon," looking for a guitarist to form a band together. The advertisement can be seen on a noticeboard in the [Blackwell Academy Hallway](blackwell_hallway.md) in [Episode 1: Chrysalis](episode_1.md), [Episode 2: Out of Time](episode_2.md), and [Episode 5: Polarized](episode_5.md). It reads as follows:
+
+{{Bigquote
+|BEST SINGER EVER in Oregon looking for BEST GUITARIST EVER to form KICK-ASS BAND to take over the WORLD
+
+influences: {{Wiki|The Ramones}}, {{Wiki|The Shins}}, {{Wiki|The Beatles}}, The Ramones, {{Wiki|The White Stripes}}, The Ramones, {{Wiki|The Smiths}}, {{Wiki|The Who}}, The Ramones, {{Wiki|The Style Council}}, The Ramones and {{Wiki|Lady GaGa}}
+
+contact Steve Hackney 555.846.9129To read more about the prefix 555- used for fictitious telephone numbers see *{{Wiki|555 (telephone number)|here}}*.
+No calls before 4 pm or after 6:35 pm on weekdays
+}}
+
+##  Trivia 
+* *The Ramones* seem to be so important to Steve that he mentions them 4 times.
+* His name might be a [References (Life is Strange)](reference.md) to former UK rugby player Stephen Thomas Hackney aka. Steve Hackney.
+** Alternatively, it might be a reference to British '70's singer Steve Harley and his band Cockney Rebel, whose quirky, slightly menacing style arguably refigured punk. Hackney is a London borough, which may or may not be significant.
+* The prefix 555 is widely used for fictitious telephone numbers in North American television shows, films, video games and other media in order to prevent curious callers from bothering real people and organizations by telephoning numbers they see in works of fiction.
+
+, {{Wiki|The Shins}}, {{Wiki|The Beatles}}, The Ramones, {{Wiki|The White Stripes}}, The Ramones, {{Wiki|The Smiths}}, {{Wiki|The Who}}, The Ramones, {{Wiki|The Style Council}}, The Ramones and {{Wiki|Lady GaGa}}
+
+contact Steve Hackney 555.846.9129To read more about the prefix 555- used for fictitious telephone numbers see *{{Wiki|555 (telephone number)|here}}*.
+No calls before 4 pm or after 6:35 pm on weekdays
+}}
+
+##  Trivia 
+* *The Ramones* seem to be so important to Steve that he mentions them 4 times.
+* His name might be a [References (Life is Strange)](reference.md) to former UK rugby player Stephen Thomas Hackney aka. Steve Hackney.
+** Alternatively, it might be a reference to British '70's singer Steve Harley and his band Cockney Rebel, whose quirky, slightly menacing style arguably refigured punk. Hackney is a London borough, which may or may not be significant.
+* The prefix 555 is widely used for fictitious telephone numbers in North American television shows, films, video games and other media in order to prevent curious callers from bothering real people and organizations by telephoning numbers they see in works of fiction.
+

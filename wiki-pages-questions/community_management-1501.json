@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who is the main community manager for Life is Strange?",
+    "answer": "D",
+    "choices": {
+      "A": "Scott Blows",
+      "B": "Lucy Hale",
+      "C": "Joshua Elkington",
+      "D": "Toby Palm"
+    }
+  },
+  {
+    "question": "Which social media platform does Life is Strange have an official account on?",
+    "answer": "B",
+    "choices": {
+      "A": "Reddit",
+      "B": "Instagram",
+      "C": "Resetera",
+      "D": "Neogaf"
+    }
+  },
+  {
+    "question": "What is Lucy Hale's role on the Life is Strange team?",
+    "answer": "C",
+    "choices": {
+      "A": "Senior Community Manager",
+      "B": "Brand Manager",
+      "C": "Video and Content Creator",
+      "D": "Communications Assistant"
+    }
+  },
+  {
+    "question": "When did Scott Blows resign from his position as community manager for Life is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "June 2015",
+      "B": "December 2015",
+      "C": "January 2017",
+      "D": "February 2019"
+    }
+  },
+  {
+    "question": "What is Joshua Elkington's current role on the Life is Strange team?",
+    "answer": "D",
+    "choices": {
+      "A": "Senior Community Manager",
+      "B": "Brand Manager",
+      "C": "Video and Content Creator",
+      "D": "Global Community Executive"
+    }
+  }
+]

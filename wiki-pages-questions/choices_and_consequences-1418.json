@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Happens If Max Blames Nathan For Kate's Suicide Attempt?",
+    "answer": "A",
+    "choices": {
+      "A": "Max Gets Suspended",
+      "B": "Max Gets Expelled",
+      "C": "Max Gets Rewarded",
+      "D": "Max Gets A Warning"
+    }
+  },
+  {
+    "question": "What Does Nathan Say To Max After She Gets Suspended For Blaming Him?",
+    "answer": "B",
+    "choices": {
+      "A": "He Apologizes",
+      "B": "He Insults Her",
+      "C": "He Thanks Her",
+      "D": "He Ignores Her"
+    }
+  },
+  {
+    "question": "What Happens If Max Steals The Handicapped Fund Money?",
+    "answer": "A",
+    "choices": {
+      "A": "Chloe Changes Her Phone Background",
+      "B": "Chloe Gets Arrested",
+      "C": "Max Gets Expelled",
+      "D": "Max Gets Rewarded"
+    }
+  },
+  {
+    "question": "What Does Max Think About Her Decision To Steal The Handicapped Fund Money?",
+    "answer": "A",
+    "choices": {
+      "A": "She Regrets It",
+      "B": "She Is Proud Of It",
+      "C": "She Is Indifferent",
+      "D": "She Forgets About It"
+    }
+  },
+  {
+    "question": "What Happens If Max Doesn't Steal The Handicapped Fund Money?",
+    "answer": "A",
+    "choices": {
+      "A": "Chloe Retains Her Original Phone Background",
+      "B": "Chloe Gets Expelled",
+      "C": "Max Gets Rewarded",
+      "D": "Max Gets Arrested"
+    }
+  }
+]

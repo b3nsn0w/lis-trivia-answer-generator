@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Feel After Waking Up From A Nightmare?",
+    "answer": "A",
+    "choices": {
+      "A": "Free and hopeful",
+      "B": "Scared and hopeless",
+      "C": "Angry and frustrated",
+      "D": "Sad and lonely"
+    }
+  },
+  {
+    "question": "What Does Chloe Dare Max To Do?",
+    "answer": "B",
+    "choices": {
+      "A": "Jump Off A Cliff",
+      "B": "Kiss Her",
+      "C": "Steal A Car",
+      "D": "Rob A Bank"
+    }
+  },
+  {
+    "question": "How Does Max Feel When She Watches Chloe Being Cruel In Her Nightmare?",
+    "answer": "B",
+    "choices": {
+      "A": "Happy and excited",
+      "B": "Surprised and hurt",
+      "C": "Angry and frustrated",
+      "D": "Sad and lonely"
+    }
+  },
+  {
+    "question": "How Does Max Describe Her Relationship With Chloe?",
+    "answer": "D",
+    "choices": {
+      "A": "Opposites in every way",
+      "B": "Like yin and yang",
+      "C": "More like family than a couple",
+      "D": "All of the above"
+    }
+  },
+  {
+    "question": "What Does Max Wonder About Her Feelings For Chloe?",
+    "answer": "A",
+    "choices": {
+      "A": "Is it the power of friendship or love?",
+      "B": "Is it the power of fear or anger?",
+      "C": "Is it the power of sadness or loneliness?",
+      "D": "Is it the power of hope or excitement?"
+    }
+  }
+]

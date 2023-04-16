@@ -1,0 +1,44 @@
+Here is a section of the wiki page for Blackwell Campus:
+
+#  Blackwell Campus 
+
+```yaml
+Location
+
+image: Blackwell-campus.png
+type: Campus
+location: '[Blackwell Academy](blackwell_academy.md), [Arcadia Bay](arcadia_bay.md)'
+state: Oregon
+appears: >-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)[Episode 2: Out of
+  Time](episode_2__out_of_time.md) (cutscene)[Episode 3: Chaos
+  Theory](episode_3__chaos_theory.md)[Episode 4: Dark
+  Room](episode_4__dark_room.md) (cutscene)
+```
+
+The **Blackwell Campus** is the campus around [Blackwell Academy](blackwell_academy.md). Many [Blackwell_Academy#Related_Locations](locations_around_and_inside_the_campus.md) are explorable. The campus itself is only fully explorable during [Episode 1: Chrysalis](episode_1.md).
+
+## Appearance 
+There are several trees, benches, noticeboards and recycle bins on the campus territory. Exhibition panels with photos by [Mr. Jefferson](mr__jefferson.md) are scattered around. In the middle there is a statue of Jeremiah Blackwell, who founded the Academy in 1910. It is surrounded by a fountain with various graffiti.
+
+## Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+After saving [Chloe Price](chloe.md) from being shot by [Nathan Prescott](nathan_prescott.md), [Maxine Caulfield](max.md) exits the Blackwell building and wanders around the campus until getting a [Max's Messages](text.md) from [Warren Graham](warren.md) asking her to return his [Warren's Flash Drive](flash_drive.md) to him. She then decides to move on to her [Prescott Dormitory](dorm.md) [Max's Room](room.md), but is free to continue walking around and talking to people.
+
+The campus is shown once again as Max crosses it on her way to the [Blackwell Parking Lot](blackwell_parking_lot.md).
+
+## Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+The campus is featured in a brief cutscene as Max crosses it on her way to the [Two Whales Diner](two_whales_diner.md).
+
+After spending time together, Max and Chloe arrive at Blackwell and have a conversation in Chloe's truck. A small part of the campus is shown before the truck stops.
+
+## Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+Chloe arranges to meet with Max in front of campus, but Max hardly manages to enter it before Chloe jumpscares her. They talk about Rachel and Kate, and decide to explore [Ray Wells](principal_wells_.md) [Principal Wells' Office](office.md). However, before they can enter Blackwell, [Victoria](victoria.md) and Jefferson come out and have a conversation. Max and Chloe are forced to hide behind one of the exhibition panels. When the conversation ends, Jefferson and Victoria leave, and the girls finally enter the building.
+
+Later in the episode, Chloe drops Max off at Blackwell once again, this time without even looking at her. After Max goes to her room and discovers her focus ability, she awakens on a lawn, surrounded by [Vortex Club](vortex_club.md) members. Warren and [Stella](stella.md) are seen holding hands. She apologizes and quickly leaves the campus to go to [Alternative Price Household](chloe_s_house.md).
+
+## Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+After having a confrontation with Nathan in the boys' dormitory, Max, Chloe and Warren go to the main campus. Max thanks Warren for defending her, and he leaves. Chloe messages [Frank Bowers](frank.md) and arranges a meeting with him in front of [Frank's RV](his_rv.md). The two girls then exit the campus to meet with Frank.
+
+
+
+Generate five trivia questions relevant to this section of the page.

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Condition Of The Farmhouse In Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "The Roof Is Partially Broken And The Door And Some Windows Are Blocked With Wooden Planks",
+      "B": "It Is In Perfect Condition",
+      "C": "It Is Completely Burnt Down",
+      "D": "It Is Covered In Graffiti"
+    }
+  },
+  {
+    "question": "Who Owns The Farmland Where The Farmhouse Is Located?",
+    "answer": "A",
+    "choices": {
+      "A": "The Prescott Family",
+      "B": "The Caulfield Family",
+      "C": "The Amber Family",
+      "D": "The Price Family"
+    }
+  },
+  {
+    "question": "What Was The Original Name Of The Map Package For The Old Barn And The Farmhouse?",
+    "answer": "A",
+    "choices": {
+      "A": "OldFarm.upk",
+      "B": "Derelict.upk",
+      "C": "Abandoned.upk",
+      "D": "BrokenHouse.upk"
+    }
+  },
+  {
+    "question": "What Is The Inconsistency In The Location Of The Dark Room In The Game?",
+    "answer": "A",
+    "choices": {
+      "A": "The Wording Used In-Game Refers To Both The Farmhouse And The Barn",
+      "B": "The Dark Room Is Located In The Barn, But Chloe Refers To It As The Farmhouse",
+      "C": "The Dark Room Is Located In The Farmhouse, But Max Refers To It As The Barn",
+      "D": "The Dark Room Is Located In The Plane, But The Newspaper Refers To It As The Farmhouse"
+    }
+  }
+]

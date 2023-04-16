@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who is Fernando?",
+    "answer": "B",
+    "choices": {
+      "A": "Max's Cousin",
+      "B": "Max's Friend",
+      "C": "Max's Teacher",
+      "D": "Max's Neighbor"
+    }
+  },
+  {
+    "question": "Where did Fernando go with Max and Kristen?",
+    "answer": "C",
+    "choices": {
+      "A": "To The Beach",
+      "B": "To The Park",
+      "C": "To The Fremont Troll",
+      "D": "To The Mall"
+    }
+  },
+  {
+    "question": "In which episode is Fernando first mentioned?",
+    "answer": "A",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "How does Max know that Fernando and Kristen were drunk at the Fremont Troll?",
+    "answer": "C",
+    "choices": {
+      "A": "She saw them there",
+      "B": "They told her about it",
+      "C": "She saw photos of them",
+      "D": "She heard it from someone else"
+    }
+  }
+]

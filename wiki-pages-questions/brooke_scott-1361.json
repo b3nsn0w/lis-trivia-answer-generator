@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Brooke Say About Kate Marsh After Watching The Viral Video?",
+    "answer": "B",
+    "choices": {
+      "A": "She Is Disgusted By Kate's Behavior",
+      "B": "She Is Surprised By Kate's Behavior",
+      "C": "She Is Indifferent To Kate's Behavior",
+      "D": "She Defends Kate's Behavior"
+    }
+  },
+  {
+    "question": "What Does Brooke Say About The Freak Snowfall?",
+    "answer": "C",
+    "choices": {
+      "A": "It Was Caused By Climate Change",
+      "B": "It Was A Result Of A Science Experiment",
+      "C": "Even Meteorologists Can't Explain It",
+      "D": "It Was A Sign Of The Apocalypse"
+    }
+  },
+  {
+    "question": "What Does Brooke Suggest About Warren's Chemistry Experiment?",
+    "answer": "A",
+    "choices": {
+      "A": "He Needs An Inferior Mind To Help Him",
+      "B": "He Should Ask The Experts Instead",
+      "C": "He Is Wasting His Time",
+      "D": "He Is Trying To Impress Max"
+    }
+  },
+  {
+    "question": "What Does Brooke Replace Her \"Pi\" Visual With After Kate's Death?",
+    "answer": "A",
+    "choices": {
+      "A": "\"AVENGE KATE MARSH\"",
+      "B": "\"WE'LL WAIT FOR KATE!\"",
+      "C": "\"BRING BACK MR. JEFFERSON!\"",
+      "D": "\"THE AMERICAN DRIVE-IN THEATRE\""
+    }
+  },
+  {
+    "question": "What Does Brooke Comment On Max's Social Media Page After Kate Is Saved?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Watching You Walk Down With Kate Was The Greatest Thing I've Ever Seen In My Life. Thank You.\"",
+      "B": "\"I Can't Believe You Saved Kate. You're A Hero.\"",
+      "C": "\"I Knew You Could Do It. You're Amazing.\"",
+      "D": "\"I'm So Glad Kate Is Okay. You're A Good Friend.\""
+    }
+  }
+]

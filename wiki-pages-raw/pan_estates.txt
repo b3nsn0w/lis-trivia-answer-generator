@@ -1,0 +1,45 @@
+= Pan Estates =
+
+{{Stub}}
+{{Infobox Location
+|image = Pan_Estates_poster.png
+|imagewidth = 100
+|name = Pan Estate
+|type = Housing development
+|state = Oregon
+|appears = [[Episode 4: Dark Room]] <small>(mentioned)</small><br />[[Episode 5: Polarized]] <small>(mentioned)</small>
+|location = [[Arcadia Bay]]}}
+
+'''Pan Estates''' is a current project of the [[Prescott Family|Prescott family]] in [[Arcadia Bay]].
+
+[[Joyce Price]] works at Pan Estates in the[[Alternative Timeline (Life is Strange)| alternative timeline]]. [[David Madsen]] has a confidential security plan of Pan Estates in [[David's Garage|his garage]].
+==Trivia==
+*The title Pan Estates, located in Arcadia Bay, is likely a reference to the Greek god Pan, whose home was the wilderness of the Greek Utopia called Arcadia. Pan was the god of nature and the wild. 
+
+== Gallery ==
+<gallery hideaddbutton="true" bordercolor="transparent" captionalign="center">
+Pan_Estates_poster.png|Pan Estates advertisement
+Pan Estates plan.png|The security plan from David's garage
+Stop_Pan_Estates_flyer.png|"Stop Pan Estates" flyer
+estate-flyer.png|A flyer advertising Pan Estates (found in "[[Episode 5: Polarized|Polarized]]")
+vlcsnap-2016-09-07-23h07m03s328.png|Pan Estates billboard from the Sacrifice Arcadia Bay ending
+great-northwest-noteitem.png|A newspaper exposé on Pan Estates
+</gallery>
+
+==Theories==
+* [https://www.youtube.com/watch?v=77pWYhMyrgs Pan Estates: CLASSIFIED Theory]
+
+{{Location Navbox}}
+
+[[pt-br:Propriedades Pan]]
+[[ru:Pan Estates]]
+[[Category:Locations]]
+[[Category:Locations (Life is Strange)]]
+[[Category:Prescott Family]]
+[[Category:Locations in Arcadia Bay]]
+[[Category:Mentioned Locations]]
+
+[[Category:Non-Explorable Locations]]
+[[Category:Episode 4: Dark Room Locations]]
+[[Category:Episode 5: Polarized Locations]]
+[[Category:Life is Strange]]

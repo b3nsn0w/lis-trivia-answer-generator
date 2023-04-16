@@ -1,0 +1,162 @@
+= Objectives (Life is Strange) =
+
+{{Free Tab
+|minwidth = 31%
+|maxwidth = 100%
+|borderradius = 2
+|height = 2
+|tab1=Season 1|link1=Objectives (Life is Strange)
+|tab2=Before the Storm|link2=Objectives (Before the Storm)
+|tab3=Season 2|link3=Objectives (Life is Strange 2)
+}}
+[[File:Objective_note.png|thumb]]
+The '''Objectives''' give instruction on what to do to progress the story. There are 130 total objectives viewable in [[Maxine Caulfield|Max Caulfield]]'s [[Max's Journal|journal]].
+
+== Episode One - "[[Episode 1: Chrysalis|Chrysalis]]" ==
+* "I need to freshen up in the bathroom" - Go to the bathroom and let Max wash her face.
+* "I must go back to the bathroom and save the girl" - Go back to the bathroom.
+* "I must prevent the blue-haired girl from getting shot" - Save [[Chloe Price]] by triggering the fire alarm.
+* "I need to go to my room to get Warren's flash drive" - [[Warren Graham]] texts Max to retrieve his [[Warren's Flash Drive|flash drive]] and says he's waiting for her at the [[Blackwell Parking Lot]]. Follow the signs to the [[Prescott Dormitory]] and speak to [[Victoria Chase]].
+* "I need to get Victoria out of my way" - Turn up the sprinklers in [[Samuel Taylor]]'s [[Custodial Room|custodial room]], then tamper with the paint bucket.
+* "I need to go to my room to get Warren's flash drive" - Enter the dormitory, find [[Max's Room|Max's room]] and look at the sticky note that [[Dana Ward]] left on her desk.
+* "I have to get that flash drive back from Dana's room" - Leave Max's room and speak to [[Juliet Watson]].
+* "I need proof Dana is innocent" - Go into [[Victoria's Room|Victoria's room]], use her computer, and print out the e-mail. Show it to Juliet.
+* "I have to get that flash drive back from Dana's room" - Enter [[Dana's Room|Dana's room]] and take the flash drive on her desk.
+* "I have to meet up with Warren in the parking lot" - Leave the dormitory and speak to Warren in the [[Blackwell Parking Lot|parking lot]].
+* "I have to find music to put on" - Turn on the power strip, search the metal box under Chloe's bed, and insert the CD into the HiFi.
+* "I need to find precision tools downstairs" - Enter the [[David's Garage|garage]]. Turn on the washing machine, then rewind. Push the piece of cardboard under the washing machine and turn it on again. Pull out the piece of cardboard and retrieve the tools. 
+* "I should go back upstairs and repair my camera" - Enter Chloe's room and sit down at her desk.
+* "I should join Chloe near the cliff's edge" - Speak to Chloe.
+* "I should follow the doe" - Follow the doe to the lighthouse.
+
+== Episode Two - "[[Episode 2: Out of Time|Out of Time]]" ==
+* "I need to grab my shower supplies and go to the showers" - Grab Max's shower supplies, go to the bathroom, and speak to [[Kate Marsh]].
+* "I should take a shower" - Walk over to the shower stall and take a shower.
+* "I have to find Kate's book" - Go back to Max's room and search through the papers on the DVD stand next to the sofa. Rewind and move the glass of soda, then take the book.
+* "I have to give back Kate's book" - Enter [[Kate's Room|Kate's room]] and speak to her.
+* "I need to take the bus to get to the diner" - Chloe wants Max to meet her at the [[Two Whales Diner|diner]] to discuss Max's [[Rewind|power]]. Leave the dormitory.
+* "I should sit down inside and wait for Chloe" - Enter the diner and sit in the designated booth.
+* "I have to memorize Chloe's stuff and rewind to tell Chloe" - Examine Chloe's items, rewind, and correctly tell her what's in her pockets.
+* "I have to watch what's going on and rewind to tell Chloe" - Watch the four events unfold, rewind, and correctly tell Chloe what'll happen.
+* "I have to leave the diner with Chloe" - Leave the diner.
+* "I have to find 5 bottles" - Find the 5 bottles scattered around the [[American Rust Junkyard|junkyard]]. Bottles are located in the following places: on top of a refrigerator, on the boat, in the [[Hideout|hideout]], on the hood of a car, and near the campfire.
+* "I have to give the bottles to Chloe" - Speak to Chloe.
+* "I have to help Chloe shoot the bottles" - For the first bottle, tell Chloe to aim the gun to the right. For the second, tell her to aim up. Then tell her to shoot the wheel rim and the tire.
+* "I should speak to Chloe" - Speak to Chloe.
+* "I should leave this place with Chloe" - Leave the junkyard.
+* "I have to get Chloe off the railtracks" - Max can either take the crowbar and use it on the wedge blocking the cable drum or she can take the crowbar, open the door with it, take the pliers from the middle drawer, and use them on the red wire in the fuse box. The former option will damage the train tracks.
+* "I should attend art class" - Enter the [[Photography Lab|photography lab]], speak to Victoria and [[Nathan Prescott]], and sit in the chair.
+* "I have to reach Kate on the rooftop" - Enter the dormitory.
+
+== Episode Three - "[[Episode 3: Chaos Theory|Chaos Theory]]" ==
+* "I have to meet up with Chloe" - Chloe wants Max to meet on the main campus in front of the [[Blackwell Academy]].
+* "I need to find a way to avoid the Principal" -
+* "I have to find a way to get into the Principal's Office" - Max asks Warren for a way to open the locked door to Principal Wells' office; he texts Max the ingredients for a pipe bomb to open the door which Max must find.
+* "I must find documents about Nathan, Kate, and Rachel" -
+* "I have to find a key to the Principal's office" -
+* "I should look for some keys in this room" -
+* "I should look for some keys in this room" -
+* "I have to find all the items to make the bomb" -
+* I should speak to Chloe and set up the bomb" -
+* "I need to find sugar, a soda can, duct tape & sodium chlorate" -
+* "I need to set the bomb up on the door" -
+* "I have to find information about Nathan, Kate, and Rachel" -
+* "I need to find a way to light up the pool" -
+* "I should go see what Chloe is up to" -
+* "I should speak to Chloe" -
+* "I need to get out of the swimming pool facility" -
+* "I must reach Chloe's truck" -
+* "I should go downstairs and eat breakfast" -
+* "I have to find stuff on Rachel in David's garage" -
+* "I have to find some food to make breakfast" -
+* "I have to get Frank's key" -
+* "I have to find a way to distract Frank's dog" -
+* "I have to find some information on Rachel" -
+* "I must find a way to stop William from taking his car" -
+
+== Episode Four - "[[Episode 4: Dark Room|Dark Room]]" ==
+* "I should get back to Chloe with the morphine" -
+* "I have to go upstairs and get Chloe's medicine" -
+* "I have to get the photo album" -
+* "I should get back to Chloe with the photo album" -
+* "I need to go back and fix this" -
+* "I should give Chloe some water" -
+* "I have to find a movie to watch" -
+* "I should examine the board" -
+* "I must go downstairs and investigate David" -
+* "I must find a way to open the locker" -
+* "I must find a way to distract David" -
+* "I have to see what's inside the locker" -
+* "I should meet up with Chloe at the front door" -
+* "I need to investigate the clues of Nathan, Frank, and David" -
+* "I need to find the location of the "Dark Room" -
+* "I should talk to Kate" -
+* "I should leave this place" -
+* "I should check on Frank’s RV with Chloe " -
+* "I should get back to Chloe and leave" -
+* "I have to find Nathan's room" - Kate texts Max his room number if you had looked at her "Get well soon" card and mentioned Nathan when talking to her in the hospital. Otherwise Max can investigate the door slates.
+* "I must investigate Nathan's room" -
+* "I should go back to Chloe" -
+* "I should leave the dormitories" -
+* "I have to find info about Nathan" -
+* "I should go check inside Nathan's room" -
+* "I should debrief with Chloe and Warren" -
+* "I have to find a way into the barn" -
+* "I must find clues about the "Dark Room" -
+* "I have to find a way to open the hatch" -
+* "I have to enter the right entry code" -
+* "I have to find info about Rachel" -
+* "I should leave with Chloe" -
+* "I have to find Nathan" -
+* "I need to find a way to access the VIP area" -
+* "I should find Courtney" -
+* "I should speak to Chloe" -
+* "I have to check on Rachel's grave" -
+
+== Episode Five - "[[Episode 5: Polarized|Polarized]]" ==
+* "I have to find a way to go back in time" -
+* "I have to focus and go back in time" -
+* "I have to find a better moment to go back to" -
+* "I have to find a way to get out of here" -
+* "I have to find a way to access my journal" -
+* "I need to go further back in time" -
+* "I have to find a way to contact David" -
+* "I should give my entry photo to Mr. Jefferson" -
+* "I should speak to Principal Wells" -
+* "I should find my winning selfie" -
+* "I have to find a way to access my selfie" -
+* "I have to focus on my selfie" -
+* "I have to quickly focus on my selfie" -
+* "I have to tear up my selfie" -
+* "I have to find a way to get closer to the diner" - Max asks Warren if he still has the photo from the [[End of the World Party]] to jump back in time and save Chloe.
+* "I must prevent the diner from blowing up" -
+* "I have to get inside the diner" -
+* "I should talk to Warren" -
+* "I have to focus and go back in time" -
+* "I should speak to Mr. Jefferson" -
+* "I have to find a way to help David" -
+* "I have to leave the Dark Room and find Warren" -
+* "I have to convince Chloe not to go to the party" -
+* "I have to leave the art class" -
+* "I should speak to… Kate?" -
+* "I should go through a door" -
+* "Could I need a key here?" -
+* "I have to go through the correct door" -
+* "Did Rachel have a room here?" -
+* "I have to change my cashmere in my room" -
+* "I need to find a way out" -
+* "It’s time to go back to my room" -
+* "moorhtab eht hcaer ot deen I" (reversed) -
+* "I have to reach the lighthouse" -
+* "I have to find a number somewhere" -
+* "Should I talk to myself?" -
+* "I have to reach the lighthouse" -
+
+== Unused Objectives ==
+* "I should stop rewinding and let go" -
+
+== Gallery ==
+{{Main|Max's Journal Gallery#Objectives}}
+[[Category:Gameplay]]
+[[Category:Gameplay (Life is Strange)]]
+[[Category:Life is Strange]]

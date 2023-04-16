@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Episode Is This Script For?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "What Does Max Do When Her Alarm Clock Rings?",
+    "answer": "A",
+    "choices": {
+      "A": "She Presses Snooze",
+      "B": "She Turns It Off",
+      "C": "She Ignores It",
+      "D": "She Throws It Out The Window"
+    }
+  },
+  {
+    "question": "What Does Max Say About Being A Superhero?",
+    "answer": "C",
+    "choices": {
+      "A": "It's Easy",
+      "B": "It's Fun",
+      "C": "It's Dirty Work",
+      "D": "It's Boring"
+    }
+  },
+  {
+    "question": "Where Does Max Get The Shower Supplies From?",
+    "answer": "A",
+    "choices": {
+      "A": "Her Closet",
+      "B": "The Bathroom",
+      "C": "The Kitchen",
+      "D": "The Living Room"
+    }
+  },
+  {
+    "question": "What Does Max Do After Taking The Shower Supplies?",
+    "answer": "D",
+    "choices": {
+      "A": "She Goes Back To Bed",
+      "B": "She Takes A Shower",
+      "C": "She Goes To The Kitchen",
+      "D": "She Leaves The Dormitory"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "How Does Max Describe Victoria In Her Diary?",
+    "answer": "B",
+    "choices": {
+      "A": "As An Evil Person",
+      "B": "As A Talented And Passionate Person",
+      "C": "As A Kind And Compassionate Person",
+      "D": "As A Funny And Witty Person"
+    }
+  },
+  {
+    "question": "Why Did Max Feel Shitty About Not Warning Victoria?",
+    "answer": "D",
+    "choices": {
+      "A": "Because She Thought Victoria Would Get Hurt",
+      "B": "Because She Thought Victoria Would Betray Her",
+      "C": "Because She Thought Victoria Would Be Angry With Her",
+      "D": "Because She Thought Victoria Would Be In Danger"
+    }
+  },
+  {
+    "question": "What Is Victoria's Tendency According To Max?",
+    "answer": "C",
+    "choices": {
+      "A": "To Be Kind And Compassionate",
+      "B": "To Be Funny And Witty",
+      "C": "To Be A Cruel Dick For No Good Reason",
+      "D": "To Be Evil"
+    }
+  },
+  {
+    "question": "Why Did Max Try To See Beyond Their Petty Mean Girl Drama?",
+    "answer": "B",
+    "choices": {
+      "A": "Because She Wanted To Be Friends With Victoria",
+      "B": "Because She Thought Victoria Had A Role To Play In All Of This",
+      "C": "Because She Wanted To Be Popular Like Victoria",
+      "D": "Because She Wanted To Impress Victoria"
+    }
+  },
+  {
+    "question": "Why Did Max Hope That Victoria Would Be Safe From Nathan?",
+    "answer": "D",
+    "choices": {
+      "A": "Because Victoria Was Nathan's Friend",
+      "B": "Because Victoria Was A Good Person",
+      "C": "Because Victoria Was Strong Enough To Defend Herself",
+      "D": "Because Assholes Stick Together"
+    }
+  }
+]

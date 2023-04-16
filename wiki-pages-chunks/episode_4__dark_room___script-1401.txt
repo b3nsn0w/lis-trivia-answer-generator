@@ -1,0 +1,118 @@
+Here is a section of the wiki page for Episode 4: Dark Room - Script:
+
+## **Downstairs** 
+*Max returns to Chloe and gives her the morphine.*
+
+**Chloe: **Finally. Give me the blue pill...
+
+**Max: **I'm sorry. I'm nosy, but not precise.
+
+**Chloe: **Go ahead and plug it right in. It's so easy. And painless.
+
+**Max: **Um, okay, but get ready to yell for your folks if I screw up. ''(Max injects the morphine into Chloe's IV)''
+
+**Chloe: **Oh, trust me, I will. Of course, my pain just keeps getting worse...but you caught me on a good day. Max, I'm so grateful that I'm even able to hang out with you. See, I'm getting mushy. I'm already high.
+
+**Max: **You are so adorable. Do you want anything else?
+
+**Chloe: **Um, stop me if I'm being too emo, but can you grab one of the photo albums over there? I'd like to check out some old pictures of us when we were kids.
+
+**Max: **Please. My diary is like emo ground zero. Plus Max Caulfield does not pass up a photo op with Chloe Price. Ever.
+
+''Max takes the photo album on the chest of drawers near the window, then returns to Chloe and places the album on Chloe's lap.*
+
+**Max: **Is that okay?
+
+**Chloe: **Perfect. Oh my god, look how little we are there! We look like toys!
+
+**Max: **I remember that day by the lighthouse.
+
+**Chloe: **My dad was pissed at us. He actually tried to give us a time-out!
+
+**Max: **And you laughed at him. My dad would have banished me.
+
+*Max turns the page.''
+
+**Chloe: **Whoa, awesome picture. We look so badass in our pirate gear.
+
+**Max: **We should have taken over Arcadia Bay when we had the chance.
+
+**Chloe: **There's still time for you...
+
+*Max turns the page.*
+
+**Chloe: **Oh man, there we are making pancakes. I love that shot of us. It's hard to believe my dad took that picture only five years ago.
+
+**Max: **Literally seems like yesterday...
+
+**Chloe: **I wish it was.
+
+**Max: **Me too...
+
+**Max (thinking): **This photo... Maybe I could...
+
+**Chloe: **Listen, Max, my respiratory system is failing and...and it's only getting worse. I've heard the doctors talking about it when they thought I was zonked out. So I know I'm just putting off the inevitable, while my parents suffer along...and I will, too. This isn't how I want things to end.
+
+**Max: **What? What are you saying?
+
+**Chloe: **I'm saying that being with you again has been so special. I just wanted to feel like when we were kids running around Arcadia Bay...and everything was possible. And you made me feel that way today. I want this time with you to be my last memory... Do you understand?
+
+**Max: **Yes, I do.
+
+**Chloe: **All you have to do is crank up the IV to eleven...
+
+ACCEPT# ACCEPT**Max:** Chloe...
+
+**Chloe:** I'll just drift asleep...dreaming of us here together...forever.
+
+*Max gets up, turns up the IV, then sits down again.*
+
+**Chloe:** Thank you so much. I'm so proud of you for following your dreams. Don't forget about me.
+
+**Max:** Never.
+
+**Chloe:** I love you, Max. See you around.
+
+**Max:** Sooner than you think.
+
+''Chloe's eyes close and her muscles relax.''
+
+|-|REFUSEREFUSE**Max:** Chloe...I can't. It wrecks me to see you in any pain, but I don't have any right to do this.
+
+**Chloe:** I'm an adult. I'm giving you the right.
+
+**Max:** But Joyce...and William...
+
+**Chloe:** I already said my goodbyes to them, but they won't honor my wishes. You will...right?
+
+**Max:** I can't...kill you with an overdose.
+
+**Chloe:** Max, I'm dying from my illness, not my dosage. This accelerates the process. I'd rather go out on a wave than a rock. And I want my best friend to help me out...
+
+**Max:** I'm going to help you, but not like that. You have to believe me, Chloe.
+
+**Chloe:** Why, Max? You're just bailing on me like everybody else! Why don't you go now? You've been wanting to since you got here, right? So go and don't come back. *(Chloe turns her face away from Max)*
+
+**Max:** Chloe, I am never leaving you again.
+
+|-|I DON'T KNOW# I DON'T KNOW**Max:** Chloe...I really don't know if I can do this. I had another friend who wanted to...end it all and I did everything I could to try and save her life. How can I be responsible for ending yours? I mean, there's got to be another way.
+
+**Chloe:** Max, you were there for your friend no matter what. Now I'm asking you to help me the same way.
+
+**Max:** I want to help you, Chloe, but I think my help is hurting.
+
+**Chloe:** At least you have a choice. When you want to make a decision, you can just do it. Look at me, I'm at the mercy of...everybody. For once, I want to make my own choice...the most important one of my life. Please...help me, Max.
+
+*Max is forced to choose to ACCEPT or REFUSE*
+
+*Max focuses on the photo.*
+
+**Max: **I'm sorry, William...
+
+*After a successful focus, Max returns to her 13-year-old body.*
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

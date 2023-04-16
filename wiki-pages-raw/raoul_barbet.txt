@@ -1,0 +1,62 @@
+= Raoul Barbet =
+
+{{Stub}}
+{{Infobox Crew
+|title = Raoul Barbet
+|image = Raoul_Barbet_and_Michel_Koch_of_DONTNOD_Entertainment_(Life_Is_Strange)_at_GDC_2016_(cropped)_Wikipedia.jpg
+|profession = Game Director}}
+'''Raoul Barbet''' is a director working at [[Don't Nod|DONTNOD Entertainment]] and at DONTNOD since 2011. He is one of the two Creative/Game Directors responsible for the DONTNOD-developed ''Life is Strange'' related installments, the original ''[[Life is Strange]]'' (2015), ''[[The Awesome Adventures of Captain Spirit]]'' (2018) and ''[[Life is Strange 2]]'' (2018). He is also supervising the music department of the developers team.
+
+== Career ==
+Raoul Barbet has a background in film and audiovisuals and worked in Canada on projects that were unrelated to the video-gaming industry.
+
+From 2008 to 2010, he worked on Quantic Dream's ''Heavy Rain'' as Game Designer/Builder and Motion Capture Technician. This was like a dream come true for Barbet as one of his favorite video games was ''Fahrenheit'' by the same studio (released in the United States as ''Indigo Prophecy''). Barbet states: "When I played [Fahrenheit], I knew I wanted to be part of the games industry. It was quite cinematic, and talked about very important social issues. It was a real shock for me."<ref>[https://www.shacknews.com/article/117561/from-chaos-the-aspirational-storytelling-of-life-is-strange?fbclid=IwAR2wqFaIDaEJSVtLSTulw_Or8MADzeqH9qmLxuJDU0hpSwcewz8tMzSDP6c From Chaos: The Aspirational Storytelling of Life is Strange] (May 13, 2020).</ref>
+
+Joining Dontnod Entertainment in 2011, he worked on their first game ''Remember Me'' as Game / Cinematic / Narrative Designer.
+
+Starting from 2013, he's been working on the ''Life is Strange ''games as Writer, Co-Director and Designer.
+
+During Game Developers Conference in March 2019, Raoul Barbet and Audio Director [[Sébastien Gaillard]] held a presentation called [[GDC Talk March 2019|"'Life is Strange': Music in a Narrative Driven Game"]], presenting a case study on the use of music in narrative driven games and its functionality on a cinematographic, narrative and design point of view. In this talk, they reveal Dontnod Entertainment's creative visions and how they approached turning them into technical solutions in their games ''Life is Strange'', ''Life is Strange 2'' and ''The Awesome Adventures of Captain Spirit''.
+
+== Trivia ==
+[[File:Easter_Egg_signature.png|thumb|182px]]
+* Raoul has a background in film which heavily influenced the appearance and execution of ''Life is Strange'' Season 1.<ref>[https://www.twitch.tv/videos/24111126?t=01h44m24s Charity Live stream] that mentions Raoul's background in film at 01:44:24.</ref>
+* Raoul on interactive storytelling: "I find it a lot harder to make a game than a movie, because you have to keep that in mind: interactivity makes things difficult."<ref>[https://www.lemonde.fr/pixels/article/2018/06/25/jeu-video-l-emotion-est-plus-dure-a-amener-mais-l-interactivite-peut-la-decupler_5320686_4408996.html Jeu vidéo : « L’émotion est plus dure à amener, mais l’interactivité peut la décupler »](June 25, 2018)</ref>
+* Raoul's cute little dog signature is present on [[Maxine Caulfield|Max Caulfield]]'s pencil case that we first see in [[Episode 1: Chrysalis|Episode 1]] in [[Mark Jefferson]]'s [[Photography Lab|classroom]]. It is unknown whether he drew it on the pencil case texture himself or whether somebody on the art team drew it on his behalf.
+
+== Gallery ==
+<gallery hideaddbutton="true" widths="200" captionsize="medium" bordersize="none" captionposition="below" position="center" bordercolor="transparent" captionalign="center">
+Captainspiritinterview raoulbarbet.jpg|Raoul Barbet at the E3 2018.<ref>[http://jp.ign.com/the-awesome-adventures-of-captain-spirit/26079/news/ Japanese article] (June 19, 2018)</ref>
+August 22 2018 Gamescom.jpg|[[Jean-Luc Cano]], Raoul Barbet and [[Michel Koch]] at Gamescom 2018.<ref>[https://www.jeuxvideo-live.com/news/deecouvrez-notre-interview-des-deeveloppeurs-de-life-is-strange-2-90593 DÉCOUVREZ NOTRE INTERVIEW DES DÉVELOPPEURS DE LIFE IS STRANGE 2] (August 26, 2018)</ref>
+Raoul Barbet GDC 2019.jpg|Raoul Barbet and [[Sébastien Gaillard]] at GDC 2019.<ref>[https://www.famitsu.com/matome/sqex-ee_lis/2019_03_22.html Famitsu feature] (March 22, 2019)</ref>
+Sound team Captain Spirit.jpg|Raoul Barbet, [[Sébastien Gaillard]] and Rone, the musician behind "[[Parade]]".<ref>[https://www.famitsu.com/matome/sqex-ee_lis/2020_04_09.html Famitsu interview with the ''Life is Strange'' sound team] (April 9, 2020)</ref>
+</gallery>
+
+== Videos ==
+<gallery hideaddbutton="true" widths="200" captionsize="medium" bordersize="none" captionposition="below" position="center" bordercolor="transparent" captionalign="center">
+The Awesome Adventures of Captain Spirit - E3 2018 The Awesome Development of Captain Spirit PS4
+</gallery>
+
+== Interviews ==
+* [https://www.pcgamesn.com/life-is-strange/max-and-chloes-story-is-done-life-is-strange-devs-talk-the-future-success-and-the-importance-of-diversity "Max and Chloe's story is done": Life is Strange devs talk the future, success, and the importance of diversity] (January 22, 2016)
+* [https://waypoint.vice.com/en_us/article/5g95w8/a-completely-spoilers-filled-interview-with-the-makers-of-life-is-strange A Completely Spoilers-Filled Interview with the Makers of ‘Life Is Strange’] (January 22, 2016)
+* [https://www.theverge.com/2019/4/21/18507939/life-is-strange-2-creators-politics-games-explain Life is Strange 2 creators explain why they won’t shy away from politics in games] (April 21, 2019)
+* [https://www.hollywoodreporter.com/heat-vision/life-is-strange-2-creative-team-educational-themes-a-road-trip-adventure-game-1231443 Co-creative director Raoul Barbet and lead writer Jean-Luc Cano discuss the series' educational themes, its personal inspirations and politicians placing the blame for mass shootings on their medium: "Video games don’t make people violent, our society creates the violence."] (August 22, 2019)
+
+== External Links ==
+* [http://www.imdb.com/name/nm5358997/ IMDB Profile]
+* [https://www.linkedin.com/in/raoulbarbet/en LinkedIn]
+* [http://www.mobygames.com/developer/sheet/view/developerId,417286/ Moby Games]
+
+== References ==
+<references />[[ru:Рауль Барбет]]
+[[pt-br: Raoul Barbet]]
+[[Category:Crew]]
+[[Category:Writers]]
+[[Category:Directors]]
+[[Category:Crew (Life is Strange)]]
+[[Category:Captain Spirit]]
+[[Category:Crew (Life is Strange 2)]]
+[[Category:Don't Nod]]
+[[Category:Life is Strange]]
+[[Category:Life is Strange 2]]

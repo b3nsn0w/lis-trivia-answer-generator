@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is David Madsen's Garage Used For?",
+    "answer": "D",
+    "choices": {
+      "A": "To Store Weapons",
+      "B": "To Repair Cars",
+      "C": "As A Surveillance Center",
+      "D": "All Of The Above"
+    }
+  },
+  {
+    "question": "What Can Max Find In David's Garage In Episode One?",
+    "answer": "D",
+    "choices": {
+      "A": "David's Files",
+      "B": "A Surveillance Monitor",
+      "C": "David's Security Badge",
+      "D": "All Of The Above"
+    }
+  },
+  {
+    "question": "How Does Max Find The Password To David's Laptop In Episode Three?",
+    "answer": "C",
+    "choices": {
+      "A": "By Hacking Into It",
+      "B": "By Asking David For It",
+      "C": "By Finding A Receipt From The Two Whales Diner",
+      "D": "By Guessing It"
+    }
+  },
+  {
+    "question": "What Can Max Find In David's Locker In Episode Four?",
+    "answer": "A",
+    "choices": {
+      "A": "Information About Rachel Amber's Investigation",
+      "B": "A Crowbar",
+      "C": "A Padlock",
+      "D": "All Of The Above"
+    }
+  }
+]

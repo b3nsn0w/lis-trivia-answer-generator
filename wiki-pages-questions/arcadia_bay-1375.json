@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Was The Main Purpose Of The Developers' Visit To The Pacific Northwest?",
+    "answer": "B",
+    "choices": {
+      "A": "To Take Photographs",
+      "B": "To Convey A Nostalgic And Autumnal Feel To The Game",
+      "C": "To Research The Tillamook Bay Area",
+      "D": "To Use Google Street View"
+    }
+  },
+  {
+    "question": "Which Real-Life Town Was Directly Used As Inspiration For The Map Layout Of Arcadia Bay?",
+    "answer": "D",
+    "choices": {
+      "A": "Oceanside",
+      "B": "Bay City",
+      "C": "Newport",
+      "D": "Garibaldi"
+    }
+  },
+  {
+    "question": "What Is The ZIP Code Mentioned In A Postcard Sent To Chloe By Rachel?",
+    "answer": "A",
+    "choices": {
+      "A": "97141",
+      "B": "97103",
+      "C": "97603",
+      "D": "None Of The Above"
+    }
+  },
+  {
+    "question": "What Is The Possible Real-Life Town That Arcadia Bay Is Meant To Represent?",
+    "answer": "A",
+    "choices": {
+      "A": "Bayocean",
+      "B": "Newport",
+      "C": "Oceanside",
+      "D": "Garibaldi"
+    }
+  }
+]

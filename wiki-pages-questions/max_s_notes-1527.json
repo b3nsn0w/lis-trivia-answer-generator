@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Was David Investigating In The First Series Of Clues?",
+    "answer": "A",
+    "choices": {
+      "A": "Rachel Amber's Disappearance",
+      "B": "Nathan Prescott's Drug Dealing",
+      "C": "Jefferson's Photography Class",
+      "D": "Chloe Price's Whereabouts"
+    }
+  },
+  {
+    "question": "What Is The License Plate Number Of Nathan's Car?",
+    "answer": "A",
+    "choices": {
+      "A": "SXFTNDR",
+      "B": "TWLGHTZN",
+      "C": "TPFTHLK",
+      "D": "TWNPKS"
+    }
+  },
+  {
+    "question": "Who Else Was David Tracking Besides Nathan And Chloe?",
+    "answer": "C",
+    "choices": {
+      "A": "Rachel Amber",
+      "B": "Max Caulfield",
+      "C": "Mark Jefferson",
+      "D": "Unknown"
+    }
+  },
+  {
+    "question": "What Did Max Say About Nathan's SUV?",
+    "answer": "B",
+    "choices": {
+      "A": "It Was Stolen",
+      "B": "It Was Expensive",
+      "C": "It Was Old And Rusty",
+      "D": "It Was A Sports Car"
+    }
+  },
+  {
+    "question": "What Did Warren Do In The Parking Lot Confrontation?",
+    "answer": "C",
+    "choices": {
+      "A": "He Stole Nathan's Car",
+      "B": "He Confronted Nathan About His Drug Dealing",
+      "C": "He Got Revenge On Nathan",
+      "D": "He Tried To Kidnap Nathan"
+    }
+  }
+]

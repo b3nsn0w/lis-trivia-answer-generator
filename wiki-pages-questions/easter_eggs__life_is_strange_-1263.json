@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is Written On Max's T-Shirt When She Goes Back In Time To Save William?",
+    "answer": "B",
+    "choices": {
+      "A": "Life Is Strange",
+      "B": "No Fucks Given",
+      "C": "I Am The Storm",
+      "D": "Keep Calm And Rewind"
+    }
+  },
+  {
+    "question": "Who Makes An Appearance In \"Polarized\" And Comments On Three Pictures In The Zeitgeist Gallery?",
+    "answer": "A",
+    "choices": {
+      "A": "Michel Koch",
+      "B": "Mark Jefferson",
+      "C": "Rachel Amber",
+      "D": "Chloe Price"
+    }
+  },
+  {
+    "question": "What Does Chloe Say When Max Rewinds Time Inside The Swimming Pool Lockers In \"Chaos Theory\"?",
+    "answer": "C",
+    "choices": {
+      "A": "\"I'm Getting Dizzy\"",
+      "B": "\"This Is So Cool\"",
+      "C": "\"Dude, It's Getting Old\"",
+      "D": "\"I Can't Believe It\""
+    }
+  },
+  {
+    "question": "What Are The Sounds Max Hears While Rewinding Time?",
+    "answer": "A",
+    "choices": {
+      "A": "Reversed Future And Past Dialog Pieces",
+      "B": "Animal Noises",
+      "C": "Music From The Game's Soundtrack",
+      "D": "Random White Noise"
+    }
+  }
+]

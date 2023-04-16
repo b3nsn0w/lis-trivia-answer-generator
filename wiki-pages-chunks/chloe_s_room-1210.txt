@@ -1,0 +1,52 @@
+Here is a section of the wiki page for Chloe's Room:
+
+way..."}}
+*{{Interaction|Letter from Rachel to Frank #2.|"So what happened to Rachel after this? She dumped Frank, but I don't think he would hurt her."}}
+*{{Interaction|Photo of Rachel driving Frank's RV.|"Maybe Rachel took a road trip with Frank, but she did come back."}}
+*{{Interaction|Photo of Rachel and Frank.|"So weird how close they were. But Frank couldn't keep Rachel... or protect her."}}
+*{{Interaction|Key to Frank's account book.|"Okay, Max, remember these names and see how Nathan fits in with all this."}}
+*{{Interaction|Six pages from Frank's account book.|"Frank sure is keeping his customers satisfied. He could open a store."
+"Hmmm, two deals with Nathan on the same day... 'Party supplies' no doubt."
+"Everybody in Arcadia Bay must be high. That explains a lot."
+"I'm getting a contact high just reading this."
+"If Frank applied this kind of detail to his life... Who am I to talk?"
+"I wonder what dog name Frank would have given me."}}
+*{{Interaction|Disciplinary Warning Report.|"So busted! It's good to see the Prescotts can't cover up all their tracks..."}}
+*{{Interaction|Nathan's drawing.|"If there is a 'Dark Room,' we better find it. Good thing
+Chloe slipped all these files on her flash drive."}}
+*{{Interaction|Nathan's phone (turned off).|"Oh, there has got to be some good shit in his phone... I just need the code to unlock it."}}
+*{{Interaction|Nathan's student file.|"There’s a lot of numbers in here."}}
+*{{Interaction|Piece of paper with numbers.|"Holy shit, Nathan is seriously unhinged... but those numbers might be useful."}}
+*{{Interaction|Nathan's SIM card.|"Couldn't hurt to give this PIN code a whack..."}}
+*{{Interaction|Vortex Club party flyer.|"This is the Vortex Club party where Nathan drugged Kate."}}
+*Nathan's phone (locked).
+*Nathan's phone (unlocked).
+*{{Interaction|Five SMS chats between Nathan and Frank.|"Yes, this is all about Nathan trying to score for the Vortex Club party..."
+"Nathan was jonesing hard the night of the party... He didn’t have enough drugs?"
+"Drug-dealer drama..."
+"God, Nathan... you’re out of control."}}
+*{{Interaction|Nathan's SMS to Max.|"So it was you... Now I can officially call you a 'Psycho Stalker.'"}}
+*{{Interaction|SMS from Jefferson to Nathan.|"Is this from Nathan's father? That's brutal."}}
+*Printed SMS chats between Nathan and Frank.
+*Frank's deals with Nathan.
+*{{Interaction|Vortex Club party poster.|"So, this infamous party was the 4th..."}}
+*{{Interaction|Printed picture of the Junkyard.|"Was Frank meeting Nathan at the junkyard?"}}
+*{{Interaction|Printed picture of the beach.|"That beach is like Frank's main office."}}
+*{{Interaction|Printed picture of the forest around Arcadia Bay.|"I know Nathan wasn’t looking for Bigfoot in the forest..."}}
+*{{Interaction|Printed picture of the gas station.|"Somebody is stocking up on gas... Why?"}}
+*{{Interaction|Printed picture of the Two Whales Diner.|"If Joyce knew what Nathan did to Chloe... she would fry his ass."}}
+*{{Interaction|Printed picture of the Prescott Estate.|"Oh, that has to be the Prescott estate. Poor, rich Nathan…"}}
+*{{Interaction|Printed picture of the barn.|"Not much out there."}}
+*{{Interaction|Printed picture of Blackwell Academy.|"No doubt that Nathan stays in his dorm room... so he could be hiding clues there, too."}} ## Trivia 
+* The soda cans in Chloe's room are a brand called "Pr. Amaury", a reference to [Amaury Balandier](amaury_balandier.md), the lead environment artist for *Life is Strange*. They're also referencing the soft drink brand Dr. Pepper.
+* There is a postcard that can be found in the metalbox under Chloe's bed. Once enlarged, it appears the letter was from someone called "Amaury", probably another reference to Amaury Balandier.
+* An unused audio file in Episode 3 ("Chaos Theory") revealed that the snow doe that sits on the mantelpiece in the 2008 Price household (which Chloe keeps in her room in 2013 - both timelines) actually belonged to William. {{Headphones|file=Snow-doe-William.ogg}}
+
+soda-can.png|Amaury soda can
+Postcard.png|Postcard from Amaury
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

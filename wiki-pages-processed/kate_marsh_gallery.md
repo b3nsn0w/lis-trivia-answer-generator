@@ -1,0 +1,108 @@
+#  Kate Marsh/Gallery 
+
+This article features images of the character [Kate Marsh](kate_marsh.md).
+
+##  Concept Art 
+
+kate-concept.jpg|Concept art by [Edouard Caplain](edouard_caplain.md).
+
+##  Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+
+2016-02-21_00022.jpg|[Max's Journal](max_s_journal.md) entry of Kate
+LifeIsStrange 2016-09-03 09-37-48-726.jpg|Kate humiliated in class
+LifeIsStrange 2016-09-03 09-40-47-015.jpg|Kate talking to [Maxine Caulfield](max.md)
+Max talks to Kate in hospital.jpg
+Max talks to Kate 2.jpg|Kate sits outside on a bench near the dormitories
+kate-marsh-life-is-strange.jpg|Kate being bullied by [David Madsen](david.md)
+GamesCom_Demo-10.png|[David Madsen](david.md)'s photos of Kate
+GamesCom_Demo-13.png
+GamesCom_Demo-11.png
+vlcsnap-2016-09-03-08h35m21s738.png|Kate crying in [Kate's Room](her_room.md)
+
+##  Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+
+vlcsnap-2016-09-03-09h03m09s251.png|Kate talking to Max in the showers
+vlcsnap-2016-09-03-09h49m23s909.png|Kate hassled by [Taylor Christensen](taylor.md) and [Victoria Chase](victoria.md)
+vlcsnap-2016-09-03-09h22m31s670.png|Kate talking to Max in Kate's room
+Kate sad.jpg|Kate sad
+katesisters.jpg|Kate with her sisters
+katealyssastella.jpg|Kate with [Alyssa Anderson](alyssa.md) and [Stella Hill](stella.md)
+LifeIsStrange 2016-09-03 14-10-54-673.jpg|Kate asking [Mark Jefferson](jefferson.md) for help
+vlcsnap-2016-09-03-12h49m54s527.png|Kate on the roof (before rewind)
+vlcsnap-2016-09-03-12h52m41s276.png|Kate on the roof (after rewind)
+maxsaveskate.png|Max saving Kate
+vlcsnap-2016-09-03-13h02m52s649.png|Closeup of Kate in [Hospital](the_hospital.md)
+vlcsnap-2016-09-03-13h03m02s406.png|Kate in the hospital
+vlcsnap-2016-09-03-14h54m04s139.png|Kate jumping from the roof
+
+##  Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+
+LifeIsStrange 2016-09-04 19-39-04-722.jpg|Kate's Memorial
+vicandkate.jpg|Photo of a drugged Kate (found in [Victoria's Room](victoria_s_room.md))
+
+##  Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+
+katehappy.png|Kate happy to see Max
+Kate hugging Max.png|Kate hugging Max
+Kate drawing.jpg|Kate drawing
+
+##  Episode Five - "[Episode 5: Polarized](polarized.md)" 
+
+katenightmare-hallway.png|Kate in the hallway scene of [Max's Nightmare](max_s_nightmare.md)
+katenightmare-jump.png|Kate jumping like in Episode 2
+katenightmare-diner.png|Kate in the diner scene of Max's nightmare
+
+ Kate Marsh/Gallery =
+
+This article features images of the character [Kate Marsh](kate_marsh.md).
+
+##  Concept Art 
+
+kate-concept.jpg|Concept art by [Edouard Caplain](edouard_caplain.md).
+
+##  Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+
+2016-02-21_00022.jpg|[Max's Journal](max_s_journal.md) entry of Kate
+LifeIsStrange 2016-09-03 09-37-48-726.jpg|Kate humiliated in class
+LifeIsStrange 2016-09-03 09-40-47-015.jpg|Kate talking to [Maxine Caulfield](max.md)
+Max talks to Kate in hospital.jpg
+Max talks to Kate 2.jpg|Kate sits outside on a bench near the dormitories
+kate-marsh-life-is-strange.jpg|Kate being bullied by [David Madsen](david.md)
+GamesCom_Demo-10.png|[David Madsen](david.md)'s photos of Kate
+GamesCom_Demo-13.png
+GamesCom_Demo-11.png
+vlcsnap-2016-09-03-08h35m21s738.png|Kate crying in [Kate's Room](her_room.md)
+
+##  Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+
+vlcsnap-2016-09-03-09h03m09s251.png|Kate talking to Max in the showers
+vlcsnap-2016-09-03-09h49m23s909.png|Kate hassled by [Taylor Christensen](taylor.md) and [Victoria Chase](victoria.md)
+vlcsnap-2016-09-03-09h22m31s670.png|Kate talking to Max in Kate's room
+Kate sad.jpg|Kate sad
+katesisters.jpg|Kate with her sisters
+katealyssastella.jpg|Kate with [Alyssa Anderson](alyssa.md) and [Stella Hill](stella.md)
+LifeIsStrange 2016-09-03 14-10-54-673.jpg|Kate asking [Mark Jefferson](jefferson.md) for help
+vlcsnap-2016-09-03-12h49m54s527.png|Kate on the roof (before rewind)
+vlcsnap-2016-09-03-12h52m41s276.png|Kate on the roof (after rewind)
+maxsaveskate.png|Max saving Kate
+vlcsnap-2016-09-03-13h02m52s649.png|Closeup of Kate in [Hospital](the_hospital.md)
+vlcsnap-2016-09-03-13h03m02s406.png|Kate in the hospital
+vlcsnap-2016-09-03-14h54m04s139.png|Kate jumping from the roof
+
+##  Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+
+LifeIsStrange 2016-09-04 19-39-04-722.jpg|Kate's Memorial
+vicandkate.jpg|Photo of a drugged Kate (found in [Victoria's Room](victoria_s_room.md))
+
+##  Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+
+katehappy.png|Kate happy to see Max
+Kate hugging Max.png|Kate hugging Max
+Kate drawing.jpg|Kate drawing
+
+##  Episode Five - "[Episode 5: Polarized](polarized.md)" 
+
+katenightmare-hallway.png|Kate in the hallway scene of [Max's Nightmare](max_s_nightmare.md)
+katenightmare-jump.png|Kate jumping like in Episode 2
+katenightmare-diner.png|Kate in the diner scene of Max's nightmare
+

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Subject Does Bernadette Hoida Teach?",
+    "answer": "B",
+    "choices": {
+      "A": "Mathematics",
+      "B": "English and Literature",
+      "C": "Science",
+      "D": "History"
+    }
+  },
+  {
+    "question": "Why Is Bernadette Hoida Absent During The Events Of Life Is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "She Quit Her Job",
+      "B": "She Was Fired",
+      "C": "She Had Severe Depression",
+      "D": "She Went On A Vacation"
+    }
+  },
+  {
+    "question": "Who Had A Crude Outburst In Mrs. Hoida's Intro To Literature Class?",
+    "answer": "C",
+    "choices": {
+      "A": "Max Caulfield",
+      "B": "Chloe Price",
+      "C": "Nathan Prescott",
+      "D": "Raymond Wells"
+    }
+  },
+  {
+    "question": "In Which Episode Is Mrs. Hoida Mentioned In Life Is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "In What Year Was Bernadette Hoida Chloe Price's English Teacher?",
+    "answer": "B",
+    "choices": {
+      "A": "Grade 9 in 2009",
+      "B": "Grade 10 in 2010",
+      "C": "Grade 11 in 2011",
+      "D": "Grade 12 in 2012"
+    }
+  }
+]

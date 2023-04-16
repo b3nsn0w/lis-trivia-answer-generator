@@ -1,0 +1,522 @@
+= Life is Strange (Franchise) =
+
+{{Free Tab
+|minwidth = 30%
+|maxwidth = 32%
+|borderradius = 4
+|height = 2
+|tab1= Franchise |link1 = Life is Strange (Franchise)
+|tab2= Life is Strange |link2= Life is Strange
+|tab3= Before the Storm |link3= Life is Strange: Before the Storm
+|tab4= Captain Spirit |link4= The Awesome Adventures of Captain Spirit
+|tab5= Life is Strange 2 |link5= Life is Strange 2
+|tab6= True Colors|link6= Life is Strange: True Colors
+}}
+{{Stub}}
+{{Infobox VG
+|title = Life is Strange
+|developer = [[Don't Nod]]<br>[[Deck Nine Games]] <small>(Before the Storm, True Colors)</small>
+|image = [[File:franchise-logos.png|270px]]
+|publisher = {{Wiki|Square Enix}}
+|director = [[Michel Koch]], [[Raoul Barbet]] <small>(Life is Strange)</small><br>[[Chris Floyd]], [[Webb Pickersgill]] <small>(Before the Storm)</small><br>[[Zak Garriss]] <small>(True Colors)</small>
+|writer = [[Jean-Luc Cano]], [[Michel Koch]], [[Raoul Barbet]], [[Christian Divine]] <small>(Life is Strange)</small><br>[[Zak Garriss]]<small>(Before the Storm)</small>
+|artist = [[Edouard Caplain]] <small>(Life is Strange)</small>
+|composer = [[Jonathan Morali]] <small>(Life is Strange)</small><br>[[Daughter]] <small>(Before the Storm)</small>
+|platform = '''Mainly:''' Windows, PlayStation, Xbox
+|released = 30 Jan, 2015 to 20 Oct, 2015 <small>(Life is Strange)</small><br />Aug 31, 2017 to Mar 5, 2018 <small>(Before the Storm)</small><br />June 25, 2018 <small>(Captain Spirit)</small><br />September 27, 2018 to December 3, 2019 <small>(Life is Strange 2)</small><br />September 10, 2021 <small>(True Colors)</small>
+|genre = Interactive Storytelling, Adventure, Drama, High School, Mystery, Supernatural
+|languages = '''Original script and audio:''' English
+|ratings = Unrated and ratings ages 12 to 18 up
+}}
+
+The '''''Life is Strange''''' '''franchise''' is an award-winning franchise that is set out to revolutionize story-based choice and consequences games. While incorporating supernatural elements such as powers, the core elements of the franchise created by [[Don't Nod]] are the presentation of authentic, relatable characters and relationships as well as tackling real world social issues or complicated subjects (such as loss, grief, depression, bullying, racism, drug use and suicide), and raising awareness for these.
+
+During the Square Enix Presents event 2021, the ''Life is Strange'' franchise was described as "series of standalone adventures that explore dramatic, emotional stories about regular people, but with a stunning twist of the supernatural."
+
+== Development ==
+''In construction.''
+=== Games ===
+The original game, ''[[Life is Strange]]'', was developed by the French studio [[Don't Nod]] and published by Square Enix, released in 2015. The first episode, "[[Episode 1: Chrysalis|Chrysalis]]", was released on January 29, 2015. The final episode, "[[Episode 5: Polarized|Polarized]]", was released on October 20, 2015. The game's protagonist is [[Maxine Caulfield|Max Caulfield]], better known as Max, a shy 18-year-old photography senior who discovers she can [[Rewind|rewind time]] to change the course of events. Back in her hometown [[Arcadia Bay]], a picturesque seaside town in Oregon, Max is reunited with her old friend, [[Chloe Price]], and they start to uncover the truth behind fellow student, [[Rachel Amber]]'s mysterious disappearance, and soon they find themselves exposed to the darker side of Arcadia Bay.
+
+Development on this game actually began in April 2013 with a small team of fifteen people. This increased to a staff of forty after a year when Square Enix stepped in to support production in June 2014.<ref>(reference needed)</ref><ref>[http://dont-nod.com/en/studio/ Donntod Entertainment: Discover Our Story]</ref> On March 6, 2016, the game [[Japanese Release (Life is Strange)|released in Japan]], fully dubbed.
+
+''[[Life is Strange: Before the Storm]]'', the prequel to the events of the first game, was developed by the Denver-based studio [[Deck Nine Games]] in collaboration with Square Enix, released in 2017. The first episode, "[[Episode 1: Awake|Awake]]" was released on August 31, 2017. The prequel introduces Chloe as the playable protagonist and tells the story of [[Chloe Price (Before the Storm)|Chloe]] and [[Rachel Amber (Before the Storm)|Rachel]]'s friendship three years prior to the original game's events.
+
+''[[Life is Strange 2]]'' is the first game in the series with a new story and new characters by the same team from Dontnod Entertainment that already worked on the first game. It was announced on May 18, 2017, then primarily referred to as a "new Life is Strange game." The first episode, "[[Episode 1: Roads|Roads]]", was released on September 27, 2018. It follows the two brothers [[Sean]] and [[Daniel Diaz]], age 16 and 9, who are forced to run away from home after a tragic incident in Seattle. In fear of the police, they head to Mexico while attempting to conceal a sudden and mysterious supernatural power.
+
+A free self-contained spin-off game that functions as a prequel to the events of the [[Episode 2: Rules|second episode]] of ''Life is Strange 2'', called ''[[The Awesome Adventures of Captain Spirit]]'', was announced during the Microsoft Conference at E3 2018 on June 10, 2018, and released on June 26, 2018. It follows [[Chris Eriksen]], a 9-year-old<ref group=note name=age>The initial marketing messaging incorrectly stated his age to be 10. Square Enix's and Dontnod's [[Community Management|Community Managers]] both have confirmed that he is 9, close to 10. The Steam product description also mentions this age.</ref> boy who dreams of adventure. Chris is a character Dontnod came up with while working on ''Life is Strange 2'', but they wanted to do something more in-depth with him.<ref name=":5">[https://www.theverge.com/2018/6/15/17464832/the-awesome-adventures-of-captain-spirit-life-is-strange The Awesome Adventures of Captain Spirit will pick up three years after Life is Strange] (June 15, 2018)</ref>
+
+The announcement blog post<ref>[http://lifeisstrange-blog.tumblr.com/post/174764161880/announcing-the-awesome-adventures-of-captain Announcing the Awesome Adventures of Captain Spirit]</ref> for ''Captain Spirit'' from June 10, 2018, showed Square Enix and Dontnod Entertainment's interest in further expanding the ''Life is Strange'' universe:
+
+{{Bigquote|"For us, Life is Strange is so much more than a single set of characters, places, themes or scenarios - Life is Strange is an entire universe of storytelling founded upon relatable characters facing real world issues, but always with "a twist of the strange" and we have many more stories we want to tell.
+
+The Awesome Adventures of Captain Spirit is the first step towards showing you the true potential of Life is Strange, and the possibilities of a diverse universe filled with interesting characters and stories to tell."}}
+
+On December 20, 2018, Square Enix conducted a survey about ''Life is Strange 2'', the ''Life is Strange'' franchise in general and its direction. One of the questions asks to "imagine the future of ''Life is Strange''" implies interest to work on a third season of the franchise. The options gave insight into some of the directions that Square Enix may take ''Life is Strange'', including introducing totally different character types, and even considering an open-world setting. All options were as follows: new cast of characters; new story, setting and power; lead characters with a minority background; male protagonists; sci-fi settings; open-world setting; with a child as a lead character; with an older lead character; agame you can play with friends and family.<ref>[https://www.psu.com/news/life-is-strange-3-survey/ Life is Strange 3: Square Enix Probes Community With Revealing Survey] (December 20, 2018)</ref>
+
+=== Expanding the Universe ===
+Co-Director [[Michel Koch]] on why they decided to make an additional game set in the ''Life is Strange'' universe:
+
+{{Bigquote|"Because Life is Strange is not a single set of characters or a single town. It's not just Max and Chloe. For three years now, we've created lots of new characters working on Life is Strange 2, and Captain Spirit is one of them. When we started working on Life is Strange 2, started talking about settings and characters, it was quite a huge story. We saw potential in a lot of characters, to find a bit more about their backstory and their side stories."<ref name=":1">[https://www.eurogamer.net/articles/2018-06-10-25-minutes-with-life-is-strange-2s-brilliantly-unexpected-free-prequel 25 minutes with Life is Strange 2's brilliantly unexpected free prequel] (June 10, 2018)</ref>}}
+
+Writer Christian Divine: "We love Max and Chloe and these characters, but there are other characters, diverse characters. There’s a whole world and universe of representation we'd like to get to. What other, better way than to put it in this self-contained universe, this particular style of art and animation and performance and music?"<ref name=":0" />
+
+=== Themes ===
+
+In an interview about Dontnod's new entries to the franchise from June 2018, Dontnod explained that the studio's goal is to keep its stories grounded in reality.<ref name=":5" />
+
+In the "[[The Road to Life is Strange 2]]" developer diary video from September 2018, it was said that the "''Life is Strange'' series is about everyday relatable characters facing universal issues with a twist of the strange".<ref>[https://twitter.com/LifeIsStrange/status/1039202030223609857 Official tweet]</ref>
+
+In an interview prior to the release of the game, Writer Christian Divine said: "This is a perfect world to explore all of these [themes]—it’s like the world of the Twilight Zone. You could explore all these different social issues along with the repercussions of your decisions, and then you frame it in this really cool Stephen King supernatural framework." Divine explained that King’s stories always combine recognizable human emotions with the supernatural and that Dontnod tries to tap into something similar by using the "''Life is Strange'' vibe" as a guiding creative force.<ref name=":0">[https://venturebeat.com/2018/09/12/life-is-strange-twilight-zone/ Life Is Strange 2 is Dontnod’s chance to build gaming’s Twilight Zone] (September 12, 2018)</ref>
+
+In an interview with ''Before the Storm'' Lead Writer [[Zak Garriss]], he explained that, "it's the prerogative now of the franchise to tackle social issues, to talk about issues that are difficult to talk about, and to take a game and utilize what games have that other media don’t have to explore and open a dialogue around things like bullying or depression or domestic assault or sexual assault: what it’s like to be a teenager."<ref>[https://www.dualshockers.com/life-is-strange-before-the-storm-interview-real-story-teenage-life/ Life is Strange: Before the Storm Interview — Making a Real Story About Teenage Life] (October 4, 2017)</ref>
+
+Dontnod are very cautious about the nature of difficult topics addressed in their game and the way they are leading up to tough choices and events due to the responsibility the player experiences.<ref>Verge article</ref>
+
+The Life is Strange franchise supports diversity in the gaming industry by introducing strong female protagonists ([[Life is Strange]], [[Life is Strange: Before the Storm|Before the Storm]]) as well as LGBTQ+ themes in various ways.
+
+=== Supernatural Abilities ===
+The supernatural abilities of Dontnod Entertainment's main characters, such as Max Caulfield, Daniel Diaz, Chris Eriksen (from the players point of view) and Alex Chen are specifically designed based on the characters' personalities, struggles or goals. In ''Life is Strange'', the rewind mechanism serves
+
+Co-Director and Writer Michel Koch explained in an interview: "We knew that we wanted to use this [rewind] mechanism as a tool, as a metaphor, to tell this coming-of-age story. To tell a story about growing up, about realizing that sometimes you need to stop looking backwards and wanting to change everything."<ref name=":3">[https://www.pcgamesn.com/life-is-strange/max-and-chloes-story-is-done-life-is-strange-devs-talk-the-future-success-and-the-importance-of-diversity "Max and Chloe's story is done": Life is Strange devs talk the future, success, and the importance of diversity] (January 22, 2016)</ref>
+
+"The fact that [Max’s power] is a supernatural element is mostly used as a contrast to the human and real-life things we are dealing with. We are big fans of the books by Stephen King. He's so good at anchoring a real world scenario with believable characters and real-life issues, but then using one supernatural or horror element to bring chaos on top of that."<ref name=":3" />
+
+=== Setting ===
+Most of the ''Life is Strange'' games (except for ''True Colors'', set in Colorado) take place in the Pacific Northwest. The setting was originally researched and established for the original game ''Life is Strange'' and later adapted for the following installments.
+
+From early on, when working on the original ''Life is Strange'', the developers team wanted the game's environment to be based on a small town on the coastline of Oregon. The main reference for the town of [[Arcadia Bay]] was Astoria, a city on the hillside of Oregon, but it was way too big for the setting they were aiming for. Eventually they found Garibaldi, a much smaller town which was working well with its [[Arcadia Bay Ave|main street]] running along the coast.<ref name=":0" />
+
+Creative Director [[Jean-Maxime Moris]] said that, "the Pacific Northwest was something that we determined very early in the development process as the place we wanted to set the game in. That's because we wanted to have this very nostalgic and autumnal feel to the game, and in terms of colors ... to me it's really one of those places that brings this kind of nostalgia, and I mean this in a positive way. This sense of looking inside yourself".<ref>[http://gamerhub.tv/videos/life-is-strange-gameplay-preview-interview/2014/08/27/ Life Is Strange Gameplay Preview Interview] (August 27, 2014)</ref>
+
+The game's setting took [[References (Life is Strange)#Twin Peaks|inspiration from the 90s American mystery drama television series ''Twin Peaks'']] which also takes place in the Pacific Northwest and glimpses behind the seemingly pleasant curtain of small town America to reveal its darkest secrets.
+
+"We tried our best to make sure that the game is as close to reality as possible. We searched the Internet to see what cities in Oregon looked like to figure out (in overview) what Arcadia Bay would look like. We knew that it’s a small town on the coastline of Oregon, and we know its main points of interest are the school, the diner and Chloe’s house. The main reference for the city was Astoria, a city on the hillside, but it was way too big. After that we found Garibaldi, a much smaller town which was working well with its main street being along the coast (well… almost).
+
+Google Street View helped a whole lot since we couldn’t afford to go there. I took a ton of screenshots and based the concept art around them. If you look it up, you’ll see that it’s main street is pretty close to the one we have in-game.
+
+The other locations (the school, diner, junkyard and even the lighthouse) are taken from various locations from around the United States. There were ample photo references to base it all off of. Typical concept art work."<ref name=":0" />
+
+=== Other ===
+<ref name=":5" />
+
+== Story ==
+=== [[Life is Strange]] ===
+The first installment of the series, ''Life is Strange'' tells the story of Max, an 18-year-old girl who returns to her hometown, Arcadia Bay, to study photography at the prestigious [[Blackwell Academy]]. Max discovers she can rewind time after having a vision of an apocalyptic tornado and witnessing a gruesome accident, and reconnects with her old childhood friend, Chloe. Together they start to investigate the mysterious disappearance of Rachel Amber, Chloe's closest friend next to Max.
+
+=== [[Life is Strange: Before the Storm|Before the Storm]] ===
+The second game of the series and a prequel to ''Life is Strange'', set three years prior to the main game's events. It tells the story of 16-year-old Chloe Price and her unlikely friendship with Blackwell's star Rachel Amber, and how both try to overcome their personal problems with the help of each other.
+
+=== [[Captain Spirit]] ===
+The third game of the series and a prologue for ''Life is Strange 2''. ''The Awesome Adventures Of Captain Spirit'' tells the story of [[Chris Eriksen]], a 9-year-old kid with a very active imagination, which he uses as a form of escapism from his dysfunctional home life.
+
+=== [[Life is Strange 2]] ===
+''Life is Strange 2'' tells the story of [[Sean Diaz]] and [[Daniel Diaz]], two brothers who are on the run from the authorities after a tragic accident in their hometown of [[Seattle]]. Life on the road is hard and Sean must take care of his little brother and make difficult choices to survive, all of which will have an impact on the impressionable Daniel.
+
+A comprehensive article by [https://www.shacknews.com/ Shacknews] on the storytelling of the above games in the franchise can be found [https://www.shacknews.com/article/117561/from-chaos-the-aspirational-storytelling-of-life-is-strange?fbclid=IwAR2wqFaIDaEJSVtLSTulw_Or8MADzeqH9qmLxuJDU0hpSwcewz8tMzSDP6c here].
+
+Michel Koch and Raoul Barbet from DONTNOD believe that a story's journey matters more than its outcome. Barbet in particular appreciates the importance of people being able to invest so deeply in a story that they can conclude it the way they want to in their minds if they are faced with an official ending they didn't want.<ref>[https://www.shacknews.com/article/117561/from-chaos-the-aspirational-storytelling-of-life-is-strange?page=5#detail-view From Chaos: The Aspirational Storytelling of Life is Strange] (May 13, 2020).</ref>
+
+===[[Life is Strange: True Colors]]===
+[[Life is Strange: True Colors]] revealed at Square Enix Presents on March 18, 2021. It was also confirmed to be the second game in the franchise following Life is Strange 2 to feature a new cast of characters as well as a new power.
+
+The story follows [[Alex Chen]], a young Asian-American woman, who after eight years returns to her hometown, the midwestern town of [[Haven Springs]], Colorado, reuniting with her brother [[Gabe]] and connecting with new friends. Her fresh start at Haven is shaken by the sudden and mysterious death of her brother.
+
+== Reception ==
+The original ''Life is Strange'' received generally favourable reviews, with a Metacritic score of 85/100 on PlayStation 4 and Xbox One. While some reviewers criticised the games's lip-syncing and use of dated slang, they lauded the character development and time travel component, suggesting that there should be more games like it.
+
+The first episode was ranked fifth among the best selling PlayStation 3 and PlayStation 4 video games of February 2015. Life Is Strange reached one million sales in July 2015,
+
+=== Awards and Nominations ===
+{|class="wikitable sortable mw-collapsible"
+|- valign="bottom"
+! Date !! Award !! Category !! Recipient(s) and nominee(s) !! Result
+|- valign="center"
+| rowspan="25"|2015
+| rowspan="2"|[[Wikipedia:Develop (magazine)|Develop Industry Excellence Awards]]
+| New Games IP – PC/console
+| rowspan="5"|''Life Is Strange''
+|width=80px|Won
+|- valign="center"
+| Use of Narrative
+| Won
+|- valign="center"
+| rowspan="6"|[[Wikipedia:Golden Joystick Award|Golden Joystick Awards]]
+| Best Original Game
+| Won Silver Runner-Up
+|- valign="center"
+| Best Storytelling
+| Won Silver Runner-Up
+|- valign="center"
+| Best Audio
+| Won Silver Runner-Up
+|- valign="center"
+| Best Gaming Moment
+| Saving Kate
+| Won Bronze Third
+|- valign="center"
+| Performance of the Year
+| [[Ashly Burch]] as Chloe
+| Won
+|- valign="center"
+| Game of the Year
+| ''Life Is Strange''
+| Won Bronze Third
+|- valign="center"
+| rowspan="4"|Global Game Awards
+| Best Adventure
+| rowspan="4"|''Life Is Strange'' – Episode 1
+| Won
+|- valign="center"
+| Best Story
+| Won Silver Second
+|- valign="center"
+| Best Original Game
+| Won
+|- valign="center"
+| Game of the Year
+| Won Silver Second
+|- valign="center"
+| rowspan="3"|[[The Game Awards]]
+| Best Narrative
+| ''Life Is Strange''
+| Nominated
+|- valign="center"
+| Best Performance
+| Ashly Burch as Chloe
+| Nominated
+|- valign="center"
+| Games for Impact
+| rowspan="2"|''Life Is Strange''
+| Won
+|- valign="center"
+| rowspan="2"|''PlayStation Official Magazine''
+| Best Episodic Adventure
+| Won
+|- valign="center"
+| Best Moment
+| Episode 2 conclusion
+| Won
+|- valign="center"
+| ''[[Vice (magazine)|Vice]] Canada''
+{{'}}s Top 20 video games of 2015
+| rowspan="3"|Best Game
+| rowspan="7"|''Life Is Strange''
+| Won Bronze Fourth
+|- valign="center"
+| ''[[New York (magazine)#Digital expansion and blogs|Vulture]]'' Top 10 video games of 2015
+| Won
+|- valign="center"
+| [[Red Bull|Red Bull Games]]' Top 10 video games of 2015
+| Won Silver Second
+|- valign="center"
+| [[Polygon (website)|Polygon]]'s Games of the Year 2015
+| Game of the Year
+| Won Bronze Seventh
+|- valign="center"
+| [[Destructoid]]'s Best of 2015
+| Best Xbox One Game
+| Nominated
+|- valign="center"
+| [[Eurogamer]]'s Top 10 video games of 2015
+| rowspan="2"|Best Game
+| Won Bronze Tenth
+|- valign="center"
+| [[Ars Technica]]
+| Won
+|- valign="center"
+| [[Giant Bomb]]
+| Best Moment or Sequence
+| End of Episode 2
+| Won
+|- valign="center"
+| rowspan="35"|2016
+| ''[[New Statesman]]'' Top 10 video games of 2015
+|Best Game
+| rowspan="8"|''Life Is Strange''
+| Won
+|- valign="center"
+| ''[[Hardcore Gamer]]'' Best of 2015
+| Best Adventure Game
+| Won Silver (2nd)
+|- valign="center"
+| rowspan="4"|[[PlayStation Blog]]'s Best of 2015
+| Best PS4 Game
+| Nominated
+|- valign="center"
+| Best Story
+| Won Gold Second
+|- valign="center"
+| Best Soundtrack
+| Won Bronze Runner-Up
+|- valign="center"
+| Best Digital-Only Release
+| Won Gold Runner-Up
+|- valign="center"
+| rowspan="3"|[[Academy of Interactive Arts & Sciences|D.I.C.E. Awards]]
+| Outstanding Achievement in Game Direction
+| Nominated
+|- valign="center"
+| Adventure Game of the Year
+| Nominated
+|- valign="center"
+| Outstanding Achievement in Character
+| Max Caulfield
+| Nominated
+|- valign="center"
+| [[Game Developers Choice Awards]]
+| Audience Award
+| rowspan="9"|''Life Is Strange''
+| Won
+|- valign="center"
+| rowspan="3"|[[South by Southwest|SXSW Gaming Awards]]
+| Excellence in Narrative
+| Nominated
+|- valign="center"
+| Most Promising New Intellectual Property
+| Nominated
+|- valign="center"
+| Matthew Crump Cultural Innovation Award
+| Nominated
+|- valign="center"
+| rowspan="9"|[[National Academy of Video Game Trade Reviewers]]
+| Art Direction, Contemporary
+| Nominated
+|- valign="center"
+| Character Design
+| Won
+|- valign="center"
+| Direction in a Game Cinema
+| Nominated
+|- valign="center"
+| Game Design, New IP
+| Nominated
+|- valign="center"
+| Original Light Mix Score, New IP
+| Won
+|- valign="center"
+| Song, Original or Adapted
+| ''Life Is Strange'' – "[[To All of You]]"
+| Won
+|- valign="center"
+| Song Collection
+| rowspan="6"|''Life Is Strange''
+| Nominated
+|- valign="center"
+| Writing in a Drama
+| Nominated
+|- valign="center"
+| Game, Original Adventure
+| Nominated
+|- valign="center"
+| rowspan="5"|[[British Academy Games Awards]]
+| Best Game
+| Nominated
+|- valign="center"
+| Game Innovation
+| Nominated
+|- valign="center"
+| Original Property
+| Nominated
+|- valign="center"
+| Performer
+| Ashly Burch
+| Nominated
+|- valign="center"
+| Story
+| rowspan="9"|''Life Is Strange''
+| Won
+|- valign="center"
+| [[Peabody Award|Peabody]]-[[Facebook]] Futures of Media Awards
+| Excellence and Innovation in Digital Storytelling
+| Won
+|- valign="center"
+| rowspan="4"|[[Games for Change#The Games for Change Awards|The Games for Change Awards]]
+| Game of the Year
+| Won
+|- valign="center"
+| Most Significant Impact
+| Won
+|- valign="center"
+| Best Gameplay
+| Nominated
+|- valign="center"
+| Most Innovative
+| Nominated
+|- valign="center"
+| Japan Game Awards
+| Game Designers Award
+| Won
+|- valign="center"
+| [[Apple Inc.|Apple]]'s Best of 2016
+| Game of the Year
+| Won
+|- valign="center"
+| [[Wikipedia:Steam Awards|Steam Awards]]
+| "I'm Not Crying, There's Something In My Eye"
+| Nominated
+|}
+
+== System Requirements ==
+=== Life is Strange ===
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="width: 600px"
+|-
+! scope="col"|Minimum:
+! scope="col"|Recommended:
+|-
+|OS: Windows Vista
+|OS: Windows 7
+|-
+|Processor: Dual Core 2.0GHz or equivalent
+|Processor: Dual Core 3.0GHz or equivalent
+|-
+|Memory: 2 GB RAM
+|Memory: 2 GB RAM
+|-
+|Graphics: ATI or NVidia card w/ 512 MB RAM (not recommended for Intel HD Graphics cards)
+|Graphics: ATI or NVidia card w/ 1024 MB RAM (NVIDIA GeForce GTX 260 or ATI HD 4890)
+|-
+|DirectX: Version 9.0
+|DirectX: Version 9.0
+|-
+|Hard Drive: 3 GB available space
+|Hard Drive: 3 GB available space
+|}
+=== Before the Storm ===
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="width: 600px"
+|-
+! scope="col"|Minimum:
+! scope="col"|Recommended:
+|-
+|OS: Windows 7 or above (64-bit)
+|OS: Windows 10 (64-bit)
+|-
+|Processor: Intel Core i3-2100 (3.1 GHz) or AMD Phenom X4 945 (3.0 GHz)
+|Processor: Intel Core i3-6100 (3.7 GHz) or AMD Athlon X4 845 (3.5 GHz)
+|-
+|Memory: 3GB RAM
+|Memory: 6GB RAM
+|-
+|Graphics: AMD Radeon R7 250 (2GB) or NVIDIA GeForce GTX 650 (2GB)
+|Graphics: AMD Radeon RX 460 (4GB) or NVIDIA GeForce 1050 (4GB)
+|-
+|DirectX: Version 11
+|DirectX: Version 11
+|-
+|Hard Drive: 14 GB available space
+|Hard Drive: 14 GB available space
+|}
+'''Note:''' 32-bit operating systems will not be supported.
+
+=== Captain Spirit ===
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="width: 600px"
+|-
+! scope="col"|Minimum:
+! scope="col"|Recommended:
+|-
+|OS: Windows 7 or above (64-bit)
+|OS: Windows 10 (64-bit)
+|-
+|Processor: Intel Core i3-2100 (3.1GHz) or AMD Phenom X4 945 (3.0GHz)
+|Processor: Intel Core i5 3470, (3.20 Ghz) or AMD FX-8350, (4.00 Ghz)
+|-
+|Memory: 4GB RAM
+|Memory: 6GB RAM
+|-
+|Graphics: Nvidia GeForce GTX 650 2GB or AMD Radeon HD 7770 2GB
+|Graphics: Nvidia GeForce GTX 970 4GB or AMD Radeon R9 280X 3GB
+|-
+|DirectX: Version 11
+|DirectX: Version 11
+|-
+|Hard Drive: 5 GB available space
+|Hard Drive: 5 GB available space
+|}
+'''Note:''' 32-bit operating systems will not be supported.
+
+=== Life is Strange 2 ===
+{| border="0" cellpadding="1" cellspacing="1" class="article-table" style="width: 600px"
+|-
+! scope="col"|Minimum:
+! scope="col"|Recommended:
+|-
+|OS: Windows 7 or above (64-bit)
+|OS: Windows 10 (64-bit)
+|-
+|Processor: Intel Core i3-2100 (3.1GHz) or AMD Phenom X4 945 (3.0GHz)
+|Processor: Intel Core i5 3470, (3.20 Ghz) or AMD FX-8350, (4.00 Ghz)
+|-
+|Memory: 4GB RAM
+|Memory: 6GB RAM
+|-
+|Graphics: Nvidia GeForce GTX 650 2GB or AMD Radeon HD 7770 2GB
+|Graphics: Nvidia GeForce GTX 970 4GB or AMD Radeon R9 280X 3GB
+|-
+|DirectX: Version 11
+|DirectX: Version 11
+|-
+|Hard Drive: 14 GB available space
+|Hard Drive: 14 GB available space
+|}
+'''Note:''' 32-bit operating systems will not be supported.
+
+=== '''True Colors''' ===
+{| class="article-table" border="0" cellpadding="1" cellspacing="1" style="width: 600px; centre"
+|-
+! scope="col" |Minimum:
+! scope="col" |Recommended:
+|-
+|OS: Windows 10 64-bit
+|OS: Windows 10 64-bit
+|-
+|Processor: AMD Phenom II X4 965, 3.40 GHz or Intel Core i5-2300, 2.80 GHz
+|Processor: AMD FX-8350, 4.00 GHz or Intel Core i5-3470, 3.20 GHz
+|-
+|Memory: 6 GB RAM
+|Memory: 8 GB RAM
+|-
+|Graphics: Radeon HD 7790, 2 GB / GeForce GTX 750Ti, 2 GB
+|Graphics: Radeon RX 590, 8 GB / GeForce GTX 1060, 6 GB
+|-
+|DirectX: Version 11
+|DirectX: Version 11
+|-
+|Hard Drive: 30 GB available space
+|Hard Drive: 30 GB available space
+|}
+'''Note:''' 32-bit operating systems will not be supported.
+
+== Trivia ==
+* While DONTNOD were busy working on ''Life is Strange 2'', needing adequate time to build a new story and characters, Square Enix wanted to bring in another studio to develop a side entry in the franchise. To resolve concerns about giving a new studio some responsibility for a now-franchise that fans cared so passionately about, Square Enix gave Deck Nine Games a test to "conceptualize and execute a narrative-driven scene in line with ''Life is Strange''<nowiki/>'s aesthetics and themes." The scene Deck Nine chose as a "testbed" was the junkyard scene where Chloe smashes things in anger before arriving in front of the car her father was driving when he was killed.<ref name=":2">[https://www.shacknews.com/article/117561/from-chaos-the-aspirational-storytelling-of-life-is-strange?page=6#detail-view From Chaos: The Aspirational Storytelling of Life is Strange] (May 13, 2020).</ref>
+* Deck Nine initially thought about using Frank or Victoria as a playable character for ''Before the Storm''. Frank was the first one that came to mind. Deck Nine was drawn to Frank's compassion, vulnerability, and heart of gold, despite a criminal nature. Lead Writer Zak Garriss still thinks Frank is a really interesting character. Victoria, on the other hand, intrigued them because of her "queen bee" factor and the idea that not only is she spiteful and conniving but also artistically talented. But it was Chloe Price who stood out as a great source of drama and storytelling due to her raw emotion fueled by sarcasm, anger, and resentment. As Zak Garriss puts it: "I think the challenge of making an angry character more human and sympathetic was really interesting to us."<ref name=":2" />
+
+== Gallery ==
+=== Social Media ===
+<gallery spacing="small" captionalign="center" hideaddbutton="true" bordersize="none" bordercolor="#000000" widths="200" columns="dynamic" position="center" orientation="none">
+Happy Thanksgiving.jpg|Posted by official accounts on November 22, 2018.<ref>[https://twitter.com/LifeIsStrange/status/1065643619519000577 Twitter post]</ref>
+Happy New Year 2019.jpg|Posted by official accounts on January 1, 2019.<ref>[https://twitter.com/DONTNOD_Ent/status/1080131539248340993 Twitter post]</ref>
+</gallery>
+
+== External Links ==
+{{Main|Community Management|Official Social Media Accounts}}
+
+* [https://twitter.com/lifeisstrange Twitter]
+* [https://www.facebook.com/LifeIsStrangeGame/ Facebook]
+* [https://vk.com/lifeisstrange VK]
+* [http://instagram.com/lifeisstrangegame Instagram]
+* [http://youtube.com/lifeisstrange YouTube]
+* [http://lifeisstrange-blog.tumblr.com/ Tumblr]
+
+== Notes ==
+<references group="note"/>
+
+== References ==
+<references />[[pt-br:Life is Strange (Franquia)]]
+[[ru:Life is Strange (франшиза)]]
+[[Category:Captain Spirit]]
+[[Category:Before the Storm]]
+[[Category:Don't Nod]]
+[[Category:Square Enix]]
+[[Category:Life is Strange]]
+[[Category:Life is Strange 2]]
+[[Category:Deck Nine Games]]

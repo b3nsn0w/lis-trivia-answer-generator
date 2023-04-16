@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What Is The Name Of The Website That Max Is Addicted To?",
+    "answer": "C",
+    "choices": {
+      "A": "Camera Obscura",
+      "B": "Camera Fetish",
+      "C": "Camera Porn",
+      "D": "Camera Lust"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Book That Max Borrowed From Kate?",
+    "answer": "A",
+    "choices": {
+      "A": "The Martian Chronicles",
+      "B": "Fahrenheit 451",
+      "C": "The Illustrated Man",
+      "D": "Something Wicked This Way Comes"
+    }
+  }
+]

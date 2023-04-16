@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is \"A Moment of Calm\" in Life is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "A Special Moment in the Game",
+      "B": "A Type of Puzzle",
+      "C": "A Combat Mechanic",
+      "D": "A Multiplayer Mode"
+    }
+  },
+  {
+    "question": "What Is Usually Played in the Background During Moments of Calm?",
+    "answer": "B",
+    "choices": {
+      "A": "Intense Music",
+      "B": "Relaxing Music",
+      "C": "Dialogue",
+      "D": "Sound Effects"
+    }
+  },
+  {
+    "question": "In Which Other Games Besides Life is Strange Can You Find Moments of Calm?",
+    "answer": "D",
+    "choices": {
+      "A": "Life is Strange 2",
+      "B": "The Awesome Adventures of Captain Spirit",
+      "C": "Life is Strange: Before the Storm",
+      "D": "All of the Above"
+    }
+  },
+  {
+    "question": "Who Originally Compiled the List of Moments of Calm in Life is Strange?",
+    "answer": "D",
+    "choices": {
+      "A": "Don't Nod",
+      "B": "The Game's Directors",
+      "C": "The Official Life is Strange YouTube Channel",
+      "D": "Reddit User pilotjj1"
+    }
+  }
+]

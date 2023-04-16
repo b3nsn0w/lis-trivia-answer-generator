@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What Is The Name Of The Hip-hop Artist From England That Sean Listens To In Life Is Strange 2?",
+    "answer": "A",
+    "choices": {
+      "A": "The Streets",
+      "B": "Crosses",
+      "C": "Syd Matters",
+      "D": "PJ Harvey"
+    }
+  },
+  {
+    "question": "How Does Jean-Luc Write His Scenes In Life Is Strange 2?",
+    "answer": "B",
+    "choices": {
+      "A": "With Music",
+      "B": "Without Music",
+      "C": "With Sound Effects",
+      "D": "With Dialogue"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Song Used In The Ending Scene Of Episode 3 In Life Is Strange 2?",
+    "answer": "A",
+    "choices": {
+      "A": "D.A.N.C.E.",
+      "B": "Death with Dignity",
+      "C": "On The Flip Of A Coin",
+      "D": "Natalie"
+    }
+  }
+]

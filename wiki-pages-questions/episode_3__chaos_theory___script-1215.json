@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Does William Say He Is Going To Do After Rescuing Joyce From The Sav-Mart?",
+    "answer": "A",
+    "choices": {
+      "A": "Get A Mocha",
+      "B": "Go To Work",
+      "C": "Take A Nap",
+      "D": "Watch TV"
+    }
+  },
+  {
+    "question": "What Does Chloe Say William Owes The Swear Jar A Dollar For?",
+    "answer": "A",
+    "choices": {
+      "A": "Using A Bad Word",
+      "B": "Forgetting His Keys",
+      "C": "Eating Too Much",
+      "D": "Being Late"
+    }
+  },
+  {
+    "question": "What Does William Use To Locate His Keys?",
+    "answer": "B",
+    "choices": {
+      "A": "A GPS",
+      "B": "A Beep Sound",
+      "C": "A Map",
+      "D": "A Flashlight"
+    }
+  },
+  {
+    "question": "What Replaces William's Funeral In The Timestream Montage?",
+    "answer": "A",
+    "choices": {
+      "A": "A Carnival",
+      "B": "A Beach Party",
+      "C": "A Concert",
+      "D": "A Picnic"
+    }
+  }
+]

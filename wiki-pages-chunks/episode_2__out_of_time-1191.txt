@@ -1,0 +1,117 @@
+Here is a section of the wiki page for Episode 2: Out of Time:
+
+## Deaths 
+*[Chloe Price](chloe_price.md) **(Pre-Rewind) - **Max uses her rewind power to save Chloe twice in the Episode.
+**While playing with David's gun in the junkyard, Chloe will accidentally shoot herself if she shoots the bumper of an old car, forcing Max to rewind.
+**When Chloe's foot gets stuck in the tracks, Max must rewind when the oncoming train gets too close to prevent it from running over Chloe and buy herself more time to free her.
+*[Kate Marsh](kate_marsh.md) **(Determinant)** - Kate isn't able to take the constant humiliation anymore and tries to end her life by jumping off of the dormitory roof. It's up to Max to stop her, but it's not guaranteed to be successful.
+
+## Licensed Soundtrack 
+{{Main|Soundtrack (Life is Strange)}}
+*"[Something Good](something_good.md)" - Alt-J (Max wakes up in her room the day after "Chrysalis")
+*"Naughty" - William Davies, Edward Nutbrown, Charles Nutbrown, Tajh Abdulsamad (Dana's room)
+*"What a Day" - Barrie Gledden, Chris Bussey, Steve Dymond (Dana's room)
+*"Save the World" - Barrie Gledden, Chris Bussey, Steve Dymond (Dana's room)
+*"[Crosses](crosses.md)" - José González (bus drive to the Two Whales Diner)
+*"[Mt. Washington](mt__washington.md)" - Local Natives (Max and Warren together on the campus and the eclipse occurs, ending scene)
+
+## Reception 
+* Out of Time has the same Metascore as the previous episode [Episode 1: Chrysalis](chrysalis.md) of 77 and a User Score of 8.7.
+* IGN gave it a good 7.0 calling it a good step in the right direction after the last episode, criticizing the writing and voice-over.
+
+## Achievements 
+There are twelve [Achievements (Life is Strange)](achievements.md) the player can earn on Steam, PlayStation or Xbox.
+
+{{Achievements
+|name #  Field Of View
+|image  Field_Of_View_Achievement.png
+|description #  Take optional photo #1 in Episode 2: Out Of Time
+|type  bronze
+|score #  10
+}}
+{{Achievements
+|name  Full Exposure
+|image #  Full_Exposure_Achievement.png
+|description  Take optional photo #2 in Episode 2: Out of Time
+|type #  bronze
+|score  10
+}}
+{{Achievements
+|name #  Processor
+|image Processor_Achievement.PNG
+|description #  Take optional photo #3 in Episode 2: Out of Time
+|type  bronze
+|score #  10
+}}
+{{Achievements
+|name  Image Stabilizer
+|image # Image_Stabilizer_Achievement.PNG
+|description  Take optional photo #4 in Episode 2: Out of Time
+|type #  bronze
+|score  10
+}}
+{{Achievements
+|name #  Compressed
+|image  Compressed_Achievement.PNG
+|description #  Take optional photo #5 in Episode 2: Out of Time
+|type  bronze
+|score #  10
+}}
+{{Achievements
+|name  Pixelated
+|image #  Pixelated_Achievement.PNG
+|description  Take optional photo #6 in Episode 2: Out of Time
+|type #  bronze
+|score  10
+}}
+{{Achievements
+|name #  Dynamic Range
+|image  Dynamic_Range_Achievement.PNG
+|description #  Take optional photo #7 in Episode 2: Out of Time
+|type  bronze
+|score #  10
+}}
+{{Achievements
+|name  Colorized
+|image #  Colorized_Achievement.PNG
+|description  Take optional photo #8 in Episode 2: Out of Time
+|type #  bronze
+|score  10
+}}
+{{Achievements
+|name #  Meter Made
+|image  Meter_Made_Achievement.PNG
+|description #  Take optional photo #9 in Episode 2: Out of Time
+|type  bronze
+|score #  10
+}}
+{{Achievements
+|name  Resolution Revolution
+|image #  Resolution_Revolution_Achievement.PNG
+|description  Take optional photo #10 in Episode 2: Out of Time
+|type #  bronze
+|score  10
+}}
+{{Achievements
+|name #  Lab Master
+|image  Lab_Master_Achievement.PNG
+|description #  Take all optional photos in Episode 2: Out of Time
+|type  bronze
+|score #  45
+}}
+{{Achievements
+|name  Out of Time
+|image #  Out_Of_Time_Achievement.PNG
+|description  Finish Episode 2: Out of Time
+|type #  bronze
+|score  55
+}}
+
+## Leaked Build 
+An unfinished version of the second episode had been leaked prior to its aimed release, which contained altered and unused dialogue choices.
+
+{{Main|Out of Time (Leaked Build)}}
+
+
+
+Generate five trivia questions relevant to this section of the page.

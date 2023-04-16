@@ -1,0 +1,31 @@
+Here is a section of the wiki page for Maxine Caulfield:
+
+## Character Concept and Design
+In an [https://www.polygon.com/2015/6/24/8838761/life-is-strange-season-2-new-cast interview for Polygon] in June 2015, [Michel Koch](michel_koch.md) stated that Max is "always looking to the past. She has this old camera, she's reluctant to make decisions. [[Christian Divine](_christian_divine.md)] has been writing her [in a way that] sometimes she's using some older expressions."
+
+## Artistic Influences and Inspirations
+Max admires many artists and photographers. The following is a list of some of those mentioned. 
+*{{Wiki|Jack Kerouac}} - Max mentions his admiration of the train tracks to Chloe.
+* {{Wiki|Andy Warhol}} - She has a picture of him in her locker.
+*{{Wiki|Leonardo da Vinci}} - Max admires him, simply stating "Da Vinci was a boss".
+*{{Wiki|Ray Bradbury}} - Max has a copy of *Battle Royale*, and borrows Kate's edition of *The October Country*. Also, the book *A Sound of Thunder* is mentioned.
+*{{Wiki|Annie Leibovitz}} - Max says she has "mad respect" for her while examining the textbooks in class.
+*{{Wiki|W. Eugene Smith|Eugene Smith}} - Max says he is amazing.
+*{{Wiki|Man Ray}} - There is a poster of him in Max's room. She wonders if he would call them "selfie portraits".
+*{{Wiki|Cartier-Bresson}}, {{Wiki|Doisneau}}, and {{Wiki|David Hamilton (photographer)|Hamilton}} - Max has books from them in her room and thinks they are the greatest.
+*{{Wiki|Philip-Lorca diCorcia}} - "My man"
+*{{Wiki|Julia Cameron}} - Max loves her Victorian vibe.
+*{{Wiki|Salvador Dali}} - Max affirms that he could truly freeze time
+
+*See [Artistic References](here.md) for a full list of Artistic References throughout Life is Strange. See [References (Life is Strange)](here.md) for References in general.*
+
+## Inconsistencies
+{{Main|Inconsistencies (Life is Strange)}} 
+*In Episode 2, at the [Two Whales Diner](two_whales_diner.md), Max eats breakfast with her fork in her left hand and her knife in her right. However, in Episode 3, when Joyce makes Max some breakfast at the [Madsen Household](madsen_household.md), Max eats breakfast with her knife and fork in opposite hands. It is either an oversight by the developers or an indication that Max is actually ambidextrous.
+
+max-righthand-knife.png
+max-righthand-fork.png
+
+
+
+Generate five trivia questions relevant to this section of the page.

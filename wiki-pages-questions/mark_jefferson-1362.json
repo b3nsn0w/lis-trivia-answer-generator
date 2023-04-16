@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Mark Jefferson's Profession?",
+    "answer": "A",
+    "choices": {
+      "A": "Professional Photographer",
+      "B": "Art Collector",
+      "C": "Art Critic",
+      "D": "Art Dealer"
+    }
+  },
+  {
+    "question": "How Does Mark Jefferson Treat Kate When She Asks For Help?",
+    "answer": "B",
+    "choices": {
+      "A": "He Listens To Her Problems And Offers Support",
+      "B": "He Dismisses Her Problems As Unimportant",
+      "C": "He Tells Her To Seek Help Elsewhere",
+      "D": "He Ignores Her Completely"
+    }
+  },
+  {
+    "question": "What Is Mark Jefferson Obsessed With Capturing In Others?",
+    "answer": "C",
+    "choices": {
+      "A": "Their Intelligence",
+      "B": "Their Beauty",
+      "C": "Their Innocence",
+      "D": "Their Wealth"
+    }
+  },
+  {
+    "question": "What Is Mark Jefferson's Appearance?",
+    "answer": "B",
+    "choices": {
+      "A": "He Has Blonde Hair And Blue Eyes",
+      "B": "He Has Brown Hair And Brown Eyes",
+      "C": "He Has Black Hair And Green Eyes",
+      "D": "He Has Red Hair And Hazel Eyes"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Photography Contest That Mark Jefferson Encourages His Students To Enter?",
+    "answer": "A",
+    "choices": {
+      "A": "Everyday Heroes Photo Contest",
+      "B": "National Photography Competition",
+      "C": "Blackwell Academy Photography Contest",
+      "D": "San Francisco Photography Showcase"
+    }
+  }
+]

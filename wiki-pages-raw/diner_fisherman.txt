@@ -1,0 +1,43 @@
+= Diner Fisherman =
+
+{{Infobox Character
+|name = Diner Fisherman
+|image = Diner_fisherman_face.png
+|died = October 11, 2013 <small>(presumed, determinant)</small>
+|causeofdeath = Killed by the [[storm]] <small>(presumed, determinant)</small>
+|gender = Male
+|hair = Brown
+|eyes = Green
+|appearance = [[Episode 2: Out of Time]]<br/>[[Episode 5: Polarized]] <small>(nightmare)</small>
+|voice = [[Derek Phillips]] <small>(uncredited)</small>
+|width = 250
+}}The '''"Diner Fisherman"''' is a resident of [[Arcadia Bay]]. He is sitting at a booth in the [[Two Whales Diner]].
+
+== Episode Two - "[[Episode 2: Out of Time|Out of Time]]" ==
+[[Maxine Caulfield|Max Caulfield]] can ask him if he caught any big fish today. He responds by saying that if by "big" she means "none", then sure, "he caught a lotta big ones today". Afterwards, he says that she should let him mourn over his eggs.
+
+While Max is waiting for her breakfast, he gets up and changes the music on the jukebox.
+
+== Episode Five - "[[Episode 5: Polarized|Polarized]]" ==
+He appears in the diner sequence of [[Max's Nightmare|Max's nightmare]], looking at the fish trophy.
+If Max chooses to sacrifice Arcadia Bay, he is presumed to have died in the storm.
+
+<gallery position="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+Diner_Fisherman_nightmare.png
+</gallery>
+
+{{Character Navbox}}
+
+[[ru:Рыбак в закусочной]]
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Minor Characters (Life is Strange)]]
+[[Category:Characters (Life is Strange)]]
+[[Category:Episode 2: Out of Time Characters]]
+[[Category:Episode 5: Polarized Characters]]
+[[Category:Two Whales Diner]]
+[[Category:Fishermen]]
+[[Category:Male Characters (Life is Strange)]]
+[[Category:Minor Characters]]
+
+[[Category:Life is Strange]]

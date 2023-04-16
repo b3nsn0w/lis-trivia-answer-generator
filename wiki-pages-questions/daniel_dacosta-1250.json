@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What Is Daniel's Profession?",
+    "answer": "A",
+    "choices": {
+      "A": "High School Student",
+      "B": "Art Teacher",
+      "C": "Photographer",
+      "D": "Writer"
+    }
+  },
+  {
+    "question": "Who Does Daniel Consider To Be His Muse?",
+    "answer": "C",
+    "choices": {
+      "A": "Max Caulfield",
+      "B": "Brooke Scott",
+      "C": "Rachel Amber",
+      "D": "Kate Marsh"
+    }
+  },
+  {
+    "question": "In Which Episode Does Daniel Reveal That He Has Lost Hope With His Photography?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  }
+]

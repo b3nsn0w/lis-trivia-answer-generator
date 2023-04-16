@@ -1,0 +1,52 @@
+[
+  {
+    "question": "When Was Life is Strange announced for iOS and Android?",
+    "answer": "A",
+    "choices": {
+      "A": "December 12, 2017",
+      "B": "July 18, 2018",
+      "C": "March 29, 2018",
+      "D": "June 4, 2018"
+    }
+  },
+  {
+    "question": "What Was Included In The First Three Episodes Of Life is Strange On iOS?",
+    "answer": "C",
+    "choices": {
+      "A": "In-app Purchases",
+      "B": "Unreal Engine 4 Enhancements",
+      "C": "Exclusive iMessage Stickers",
+      "D": "Android Controller Support"
+    }
+  },
+  {
+    "question": "When Was The Android Version Of Life is Strange Released?",
+    "answer": "C",
+    "choices": {
+      "A": "December 14, 2017",
+      "B": "March 29, 2018",
+      "C": "July 18, 2018",
+      "D": "June 4, 2018"
+    }
+  },
+  {
+    "question": "What Was The Name Of The Free Trial Version Of Life is Strange On Mobile?",
+    "answer": "A",
+    "choices": {
+      "A": "Life Is Strange Lite",
+      "B": "Life Is Strange Demo",
+      "C": "Life Is Strange Free",
+      "D": "Life Is Strange Trial"
+    }
+  },
+  {
+    "question": "What Is The Key Feature Of Life is Strange That Allows The Player To Change The Course Of Events?",
+    "answer": "C",
+    "choices": {
+      "A": "Hand-painted Visuals",
+      "B": "Distinct Indie Soundtrack",
+      "C": "Rewind Time",
+      "D": "Multiple Endings"
+    }
+  }
+]

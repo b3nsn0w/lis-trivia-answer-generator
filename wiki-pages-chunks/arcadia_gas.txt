@@ -1,0 +1,42 @@
+Here is a section of the wiki page for Arcadia Gas:
+
+#  Arcadia Gas 
+
+```yaml
+Location
+
+image: Arcadiagas.jpg
+imagewidth: '300'
+imagecaption: ''
+name: Arcadia Gas
+type: Gas station
+location: '[Arcadia Bay](arcadia_bay.md)'
+coordinates: 'Latitude: 45.528334Longitude: -123.931704'
+state: Oregon
+appears: >-
+  [Episode 2: Out of Time](episode_2__out_of_time.md)[Episode 3: Chaos
+  Theory](episode_3__chaos_theory.md)[Episode 4: Dark
+  Room](episode_4__dark_room.md)
+```
+
+The **"Arcadia Gas"** gas station is located on the [Arcadia Bay Ave](arcadia_bay_ave.md), opposite of the [Two Whales Diner](two_whales_diner.md). It is frequented by both [Nathan Prescott](nathan_prescott.md) and [Mark Jefferson](mark_jefferson.md) and remains unexplorable throughout the game.
+
+##  Significance 
+While examining [Investigation Files](evidence.md) in [Episode 4: Dark Room](episode_4.md), it is revealed, with some digging, that on October 4, the night [Kate Marsh](kate_marsh.md) got drugged, both Nathan and Mr. Jefferson were seen at the gas station within minutes of each other.
+
+Gas station coordinates.png|Coordinates of Mark Jefferson and Nathan Prescott.
+Locationclues-gasstation.png|Photo from [David's Files](david_s_files.md).
+
+##  Trivia 
+* The gas station's logo could be a reference to the {{Wiki|Elf Aquitaine}}'s logo (a French oil company which used to be one of the biggest in France).
+* The prices listed for the gas station are said to be realistic for the 2013 time period.
+* The gas station's price board design (including its prices) are believed to be based on a real price board image that is used on a [https://www.fueleconomy.gov/feg/gasprices/ U.S. government source for fuel economy information] and is the second Google Images result for "gas prices".
+
+arcadia-gas-prices.png|The gas station's price board.
+gasprices.jpg|The price board believed to have inspired the gas prices in the game.
+
+{{Location Navbox}}
+
+
+
+Generate five trivia questions relevant to this section of the page.

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who is Nathan Prescott's best and closest friend in the Vortex Club?",
+    "answer": "C",
+    "choices": {
+      "A": "Hayden Jones",
+      "B": "Rachel Amber",
+      "C": "Victoria Chase",
+      "D": "Maxine Caulfield"
+    }
+  },
+  {
+    "question": "Who accused Rachel Amber of drug dealing before she disappeared?",
+    "answer": "A",
+    "choices": {
+      "A": "Nathan Prescott",
+      "B": "Mark Jefferson",
+      "C": "Hayden Jones",
+      "D": "Victoria Chase"
+    }
+  },
+  {
+    "question": "Who does Nathan look to as a mentor and father figure due to his bad relationship with his father?",
+    "answer": "C",
+    "choices": {
+      "A": "Hayden Jones",
+      "B": "Rachel Amber",
+      "C": "Mark Jefferson",
+      "D": "Victoria Chase"
+    }
+  },
+  {
+    "question": "Who is Nathan's older sister who he has a positive and caring relationship with?",
+    "answer": "A",
+    "choices": {
+      "A": "Kristine Prescott",
+      "B": "Mrs. Prescott",
+      "C": "Sean Prescott",
+      "D": "Harry Aaron Prescott"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Reason Behind David's Need For Additional Surveillance In The School?",
+    "answer": "A",
+    "choices": {
+      "A": "To Protect Future Students From Ending Up Like Rachel Amber And Kate Marsh",
+      "B": "To Catch Nathan In The Act Of Drug Dealing",
+      "C": "To Keep An Eye On Max And Chloe",
+      "D": "To Monitor The Teachers' Activities"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Hotel Where David Makes A Reservation?",
+    "answer": "A",
+    "choices": {
+      "A": "Bloch Hotel",
+      "B": "Arcadia Bay Hotel",
+      "C": "Blackwell Hotel",
+      "D": "Madsen Hotel"
+    }
+  },
+  {
+    "question": "What Does David Warn Max About After Their Conversation In His Workshop?",
+    "answer": "A",
+    "choices": {
+      "A": "The Danger Of Knowing Too Much About What Is Happening At Blackwell",
+      "B": "The Danger Of Being Suspended From School",
+      "C": "The Danger Of Being Accused Of Drug Dealing",
+      "D": "The Danger Of Being Arrested By The Police"
+    }
+  },
+  {
+    "question": "What Does David Value More Than Anything Else In His Life?",
+    "answer": "D",
+    "choices": {
+      "A": "His Job As Blackwell Head Of Security",
+      "B": "His Surveillance System Plans",
+      "C": "His Stepdaughter Chloe",
+      "D": "His Wife Joyce"
+    }
+  }
+]

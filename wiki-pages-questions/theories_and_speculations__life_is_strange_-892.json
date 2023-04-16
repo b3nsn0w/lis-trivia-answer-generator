@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Homeless Lady's Connection To Max?",
+    "answer": "A",
+    "choices": {
+      "A": "She Is Max From An Alternate Timeline",
+      "B": "She Is Max's Mother",
+      "C": "She Is Max's Spirit Animal",
+      "D": "She Is Max's Teacher"
+    }
+  },
+  {
+    "question": "What Is David Madsen's Connection To The Doe Spirit?",
+    "answer": "A",
+    "choices": {
+      "A": "He Is Hunting The Doe",
+      "B": "He Is The Doe's Protector",
+      "C": "He Is The Doe's Hunter",
+      "D": "He Is The Doe's Friend"
+    }
+  },
+  {
+    "question": "What Is The Homeless Lady's Possible Connection To Arcadia Bay?",
+    "answer": "A",
+    "choices": {
+      "A": "She Is An Oracle And/Or The Physical Embodiment Of The Town",
+      "B": "She Is A Tourist Visiting The Town",
+      "C": "She Is A Homeless Person Who Happened To End Up In The Town",
+      "D": "She Is A Former Resident Of The Town"
+    }
+  },
+  {
+    "question": "What Does Samuel Know About Max And Arcadia Bay?",
+    "answer": "D",
+    "choices": {
+      "A": "That Max Has Time Controlling Powers",
+      "B": "That Max Is Connected To Arcadia Bay Through Time And Tide",
+      "C": "That Rachel Is Dead",
+      "D": "All Of The Above"
+    }
+  },
+  {
+    "question": "What Is The Theory About The Unchanged Password To The Dark Room?",
+    "answer": "A",
+    "choices": {
+      "A": "David Madsen Tried To Break Into The Prescott Barn But Failed",
+      "B": "The Homeless Lady Is Actually Chloe From An Alternate Timeline",
+      "C": "The Password Was Never Changed Because No One Knew It Existed",
+      "D": "Samuel Is Connected To The Dark Room"
+    }
+  }
+]

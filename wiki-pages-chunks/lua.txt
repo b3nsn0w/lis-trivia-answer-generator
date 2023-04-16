@@ -1,0 +1,65 @@
+Here is a section of the wiki page for Lua:
+
+#  Lua 
+
+```yaml
+Song
+
+artist: Bright Eyes
+image: I'm_wide_awake_it's_morning_bright_eyes_cover.jpg
+album: I'm Wide Awake, It's Morning
+genre: Alternative/Indie
+release: '2005'
+appears: |-
+  [Episode 3: Chaos Theory](episode_3__chaos_theory.md)
+  [Episode 4: Dark Room](episode_4__dark_room.md) (optional)
+```
+
+**"Lua"** is a song by {{Wiki|Bright Eyes|Bright Eyes}} from their album ''I'm Wide Awake, It's Morning*. It appears in *[Life is Strange](life_is_strange.md)'' during the [Episode 3: Chaos Theory](third_episode.md), where it is played by [Chloe Price](chloe_price.md) in [Chloe's Room](her_room.md), and the [Episode 4: Dark Room](fourth_episode.md), where it can be optionally played by [Maxine Caulfield](max_caulfield.md) in Chloe's room.
+
+##  Lyrics 
+:I know that it is freezing but I think we have to walk
+:I keep waving at the taxis; they keep turning their lights off
+:But Julie knows a party at some actor's west side loft
+:Supplies are endless in the evening; by the morning they'll be gone.
+
+:When everything is lonely I can be my own best friend
+:I get a coffee and the paper; have my own conversations
+:With the sidewalk and the pigeons and my window reflection
+:The mask I polish in the evening, by the morning looks like shit.
+
+:And I know you have a heavy heart; I can feel it when we kiss
+:So many men stronger than me have thrown their backs out trying to lift it
+:But me I'm not a gamble you can count on me to split
+:The love I sell you in the evening, by the morning won't exist.
+
+:You're looking skinny like a model with your eyes all painted black
+:You just keep going to the bathroom always say you'll be right back
+:Well it takes one to know one, kid, I think you've got it bad
+:But what's so easy in the evening, by the morning is such a drag.
+
+:I've got a flask inside my pocket we can share it on the train
+:If you promise to stay conscious I will try and do the same
+:We might die from medication, but we sure killed all the pain
+:But what was normal in the evening, by the morning seems insane.
+
+:And I'm not sure what the trouble was that started all of this
+:The reasons all have run away but the feeling never did
+:It's not something I would recommend, but it is one way to live
+:Cause what is simple in the moonlight, by the morning never is
+:What's so simple in the moonlight, now is so complicated 
+:What's so simple in the moonlight, so simple in the moonlight
+
+##  Trivia 
+* The song's line "We might die from medication but we sure killed all the pain" could be foreshadowing [Chloe Price](chloe.md)'s fate in the [Alternative Timeline](alternative_timeline.md) if [Maxine Caulfield](max.md) would choose to accept Chloe's request (by granting Chloe an overdose of morphine).
+
+##  Videos 
+
+Life is Strange Soundtrack - Lua by Bright Eyes-1
+
+##  Navigation 
+{{Soundtrack}}
+
+
+
+Generate five trivia questions relevant to this section of the page.

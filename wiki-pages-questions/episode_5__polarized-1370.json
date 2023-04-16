@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What Is The Highest Rated Episode Of Life Is Strange On Metacritic?",
+    "answer": "A",
+    "choices": {
+      "A": "Polarized",
+      "B": "Chrysalis",
+      "C": "Out of Time",
+      "D": "Dark Room"
+    }
+  },
+  {
+    "question": "Which Song Is Played During Max's Nightmare In Polarized?",
+    "answer": "B",
+    "choices": {
+      "A": "The Sense of Me",
+      "B": "To All of You",
+      "C": "Spanish Sahara",
+      "D": "Obstacles"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Comic Series Based On Life Is Strange?",
+    "answer": "D",
+    "choices": {
+      "A": "Life is Strange: The Sequel",
+      "B": "Life is Strange: The Aftermath",
+      "C": "Life is Strange: The Continuation",
+      "D": "Life is Strange: The Comic Series"
+    }
+  }
+]

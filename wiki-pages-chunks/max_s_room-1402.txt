@@ -1,0 +1,60 @@
+Here is a section of the wiki page for Max's Room:
+
+## Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+*{{Interaction|She can look at her laptop.|"How did Sherlock Holmes deduce anything without the internet?"}}
+*She can use the laptop to view:
+**{{Interaction|A news article on Kate's suicide attempt.|**Kate alive: **"Glad the media doesn't waste a second exploiting Kate. Now she has another video
+of herself all over the web... and even I'm in this one. At least the news didn't mention my name...
+yet."
+**Kate dead: **"Glad the media doesn't waste a second exploiting tragedy. Now Kate's family has to 
+see their daughter's death all over the web like a cat video... and I'm even in this one. That
+makes me ill."}}
+**{{Interaction|A list of missing persons reported to Arcadia Bay police department.|"Hmmm. Besides Rachel, it's been a while since anybody vanished
+from Arcadia Bay... I shouldn't sound so disappointed."}}
+**{{Interaction|Max and Kate's social media profile pages.|**Kate (alive):**"I sure hope these people treat her better
+when she comes back to school... if she does."
+**Kate (dead): **"Yes, now everybody loves Kate Marsh.
+They bullied her and now post their feels. Hypocrites."
+**Max: **"Either I delete my page or I block everybody. Nowhere to hide these days..."}}
+**{{Interaction|A page on reinstating Mark Jefferson (if Max blamed him earlier that afternoon).|"Man, I really turned a molehill into a mountain... I feel bad for Mr. Jefferson about this..."}}
+**{{Interaction|A petition to fire David Madsen from Blackwell Academy (if Max blamed David and got him placed on temporary leave earlier that afternoon).|"Now David will get a taste of public surveillance."}}
+**{{Interaction|If Max failed to save Kate, there will also be an email from Principal Wells to Max.|"This is such a moving piece of cut and paste Blackwell bullshit.
+Nobody here had Kate's back. Too little, too late..."}}
+*{{Interaction|She can look at her plant below the window.|**Saved only Lisa: **"See Lisa, at least I kept you alive... Guess I'm better with plants than people..."
+**Saved Kate, Lisa dried out: **"Poor Lisa. I guess I'm better with people than plants..."
+**Saved Kate, Lisa drowned: **"Oh I'm sorry, Lisa... I save Kate but I drown my own plant..."
+**Saved both: **"First I save Chloe, then Kate, and now you Lisa. Not a bad record for a week."
+**Saved neither, Lisa dried out: **"Oh noes! I can't even take care of a plant, much less a person...
+What am I good for?"
+**Saved neither, Lisa drowned: **"Sorry Lisa. Too much water. I can't even keep my plant alive,
+much less Kate..."}}
+*{{Interaction|She can look outside the window.|"There's been so much going on I almost forgot about the eclipse... All this atmospheric
+action can't be a coincidence... and all roads are leading to my tornado vision..."}}
+*{{Interaction|She can look at and feed Kate's rabbit.|**Kate alive: **"Hey bunny, Kate will be back soon and until then I'll be catering to your every whim."
+**Kate dead: **"Hey bunny, don't be too bummed but from now on... I'm your new mommy."
+**Feed: **"Are you a hungry bunny? Here, nosh on this..."}}
+*She can turn on and off the standing lamp next to the couch.
+*{{Interaction|She can look at the timetable attached to the side of her wardrobe.|**Suspended: **"Let me see which classes I won't be attending this week..."
+**Not suspended: **"Pretty hard to focus on my class schedule this week... I wonder why."}}
+*{{Interaction|She can look at herself in the mirror.|**Kate alive: **"Kate's okay, Max. Take a breath, get your shit together. You have time."
+**Kate dead: **"Come on, Max. No more tears. You have to act, not react."}}
+*{{Interaction|She can look at her bed.|"Jeebus, I am so fricking tired... I sound like a moron... But crime
+does not delay... I need to stay on top of this investigation..."}}
+*{{Interaction|She can look at her Hi-Fi.|"You know you're hurting when you don't give a shit about music."}}
+*{{Interaction|She can open the chest of drawers beside her bed and look at Max's class photo in Mark Jefferson's photography class.|**Kate alive: **"It's amazing how happy Kate looks here compared to today... She was
+basically pushed up to that roof. And I will use my power to find out why. This has to end."
+**Kate dead: **"Kate - I swear that I will use all of my power to find out who really pushed you
+off that roof..."}}
+*{{Interaction|She can look at the threatening message on the photos above her bed (if Max reported Nathan on the previous day).|"No way can I clean that shit off. Time to get Samuel DaVinci to repaint..."}}
+*{{Interaction|She can look at the threatening photo in front of her Hi-Fi (if Max reported Nathan on the previous day).|"Ew, thanks for the image, Nathan... and everybody here thinks Samuel is a creeper..."}}
+*{{Interaction|She can look at the image of David harassing Kate (if Max took a photo on the previous day and didn't blame David).|"I'm such an idiot, Kate. I could have shown this to the Principal and busted David..."}}
+
+#
+
+## Episode Five - "[Episode 5: Polarized](polarized.md)" 
+*{{Interaction|Max can look at and tear apart her photo **(required)**.|**Look: **"I just have to make one simple change so I won't end up in San Francisco... Simple."
+**Tear apart: **"Sorry, San Francisco... Chloe comes first."}}
+
+
+
+Generate five trivia questions relevant to this section of the page.

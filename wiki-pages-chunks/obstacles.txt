@@ -1,0 +1,66 @@
+Here is a section of the wiki page for Obstacles:
+
+#  Obstacles 
+
+```yaml
+Song
+
+image: Syd matters someday we will foresee obstacles.png
+artist: Syd Matters
+release: '2005'
+album: Someday We Will Foresee Obstacles
+appears: |-
+  Life is Strange  Reveal Trailer
+  "[Episode 1: Chrysalis](episode_1__chrysalis.md)"
+  "[Episode 5: Polarized](episode_5__polarized.md)"
+```
+
+"**Obstacles**" is a single by [Jonathan Morali](syd_matters.md) from their album, *Someday We Will Foresee Obstacles* and is featured in the reveal trailer of *[Life is Strange](life_is_strange.md)* and at the end of Episode 1, as well as at the end of Episode 5 in the "Sacrifice Arcadia Bay" ending.
+
+##  Lyrics 
+: Let's say sunshine for everyone
+: But as far as I can remember
+: We've been migratory animals
+: Living under changing weather
+
+: Someday we will foresee obstacles
+: Through the blizzard, through the blizzard
+: Today we will sell our uniform
+: Live together, live together.
+
+: Blizzard (x3)
+
+: (Someday we will foresee obstacles
+: Through the blizzard, through the blizzard
+: Today we will sell our uniform
+: Live together, live together)
+
+: We played hide and seek in waterfalls
+: We were younger, we were younger. (x3)
+: We played hide and seek in waterfalls
+: We were younger, we were younger.
+
+: Someday we will foresee obstacles
+: Through the blizzard, through the blizzard.
+
+##  Interpretation 
+This song debuts during the beginning of the blizzard at the end of Episode 1 concluding [Maxine Caulfield](max.md) and [Chloe Price](chloe.md)'s reunion in that episode. It creates a very melancholic atmosphere, and cleverly sets the scene for the rest of the game. It makes reference to the blizzard around Max, and the ongoing challenges she will face afterwards."Someday we will foresee obstacles, through the blizzard." The song conveys the message that the worriless days of life are over and that something bigger begins to take shape. On the other hand, in contrast to the previous aspect, it expresses the will to use that time that's left in front of those challenges, the will to "live together" with Chloe right now."Today we will sell our uniform. Live together, live together." It also makes reference to the past of Max and Chloe, and their childhood together, signifying that this time, their carefree lifetime together, has long passed"We played hide and seek in waterfalls, when we were younger", and that they've gone trough a lot of changes since then."We've been migratory animals living under changing weather."
+
+This song appears again in the "Sacrifice Arcadia Bay" ending of Episode 5 where Max and Chloe leave Arcadia behind and later revisit its ruins, after it already accompanied the ending of Episode 1, which creates a frame from their first reunion to their final reunion, probably forever, and marks this scene as a new beginning.
+
+##  Trivia 
+* [Hannah Telle](hannah_telle.md), the voice actress of [Maxine Caulfield](max_caulfield.md), made a cover of this song and uploaded it to YouTube on August 21, 2015 (video below). An audio-only version was made available to buy on Google Play. It is one of her favorite songs from the *Life is Strange: Season 1* soundtrack.
+* On August 24, 2017, Hannah made a special live announcement on her newly created [https://www.twitch.tv/hannahtelle18 Twitch channel] that she had re-recorded a full cover of *Obstacles* that would be available on [https://itunes.apple.com/us/album/obstacles-single/id1275325694 iTunes] and [https://open.spotify.com/album/0komchhGBhJ6OMQFlK9OoU Spotify] later that day. She re-recorded this due to receiving feedback that the quality of her original recording was not good. This new version is, in her own words, "very high quality and fixed and nice." Due to the fact that the early version of Obstacles still existed on Google Play, this was mistakenly bought by some fans instead of the re-recorded version that was due to be uploaded. The early version of this song has now been replaced on Google Play with the [https://play.google.com/store/music/album?id# Bllzvbox3oi3xnbqamdx2iul3iu&tidsong-Txi6ibdzwgguc5s7odqryqbcxx4 re-recorded version].
+
+##  Videos 
+
+Life is Strange Soundtrack - Obstacles by Syd Matters
+Life Is Strange Episode 1 Ending Final Cutscene
+Obstacles by Syd Matters Cover
+
+##  Navigation 
+{{Soundtrack}}__NOTOC__
+
+
+
+Generate five trivia questions relevant to this section of the page.

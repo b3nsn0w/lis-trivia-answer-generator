@@ -1,0 +1,52 @@
+[
+  {
+    "question": "In which episode of Life is Strange is Dr. Bill first mentioned?",
+    "answer": "A",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "What is the title of the book written by Dr. Bill that Max finds in Dana's Room?",
+    "answer": "A",
+    "choices": {
+      "A": "How To Be A Great Baby Mama",
+      "B": "RAGE ON!",
+      "C": "SUPERDAD - Be the family hero",
+      "D": "SUPERMOM - Lead the family"
+    }
+  },
+  {
+    "question": "Who suggests contacting Dr. Bill to deal with Nathan Prescott's mental problems?",
+    "answer": "C",
+    "choices": {
+      "A": "Joyce Price",
+      "B": "William Price",
+      "C": "Sean Prescott",
+      "D": "Chloe Price"
+    }
+  },
+  {
+    "question": "What is the name of the parenting expert that Dr. Bill is a reference to?",
+    "answer": "A",
+    "choices": {
+      "A": "Dr. Phil",
+      "B": "Dr. Oz",
+      "C": "Dr. Drew",
+      "D": "Dr. Laura"
+    }
+  },
+  {
+    "question": "In which character's room can a book about rage control written by Dr. Bill be found?",
+    "answer": "C",
+    "choices": {
+      "A": "Dana Ward",
+      "B": "Joyce Price",
+      "C": "Nathan Prescott",
+      "D": "William Price"
+    }
+  }
+]

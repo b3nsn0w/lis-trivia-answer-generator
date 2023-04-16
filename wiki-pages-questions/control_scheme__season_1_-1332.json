@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What button is used to access or exit Max's journal on the Xbox 360 controller?",
+    "answer": "A",
+    "choices": {
+      "A": "Back button",
+      "B": "Start button",
+      "C": "Left analog stick",
+      "D": "Right analog stick"
+    }
+  },
+  {
+    "question": "What button is used to pause the game on both Xbox 360 and Xbox One controllers?",
+    "answer": "B",
+    "choices": {
+      "A": "Back button",
+      "B": "Start button",
+      "C": "Left analog stick",
+      "D": "Right analog stick"
+    }
+  }
+]

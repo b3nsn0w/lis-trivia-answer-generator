@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Was Included In The Limited Edition of Life is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "A Soundtrack",
+      "B": "An Artbook",
+      "C": "A Poster",
+      "D": "A Map"
+    }
+  },
+  {
+    "question": "Who Released Concept Art of Blackwell Academy, Zeitgeist Gallery, and the Hospital?",
+    "answer": "C",
+    "choices": {
+      "A": "Fred Augis",
+      "B": "Florent Auguy",
+      "C": "Gary Jamroz-Palma",
+      "D": "Edouard Caplain"
+    }
+  },
+  {
+    "question": "What Location Was Depicted in Michel Koch's Initial Character Art?",
+    "answer": "A",
+    "choices": {
+      "A": "Blackwell Academy",
+      "B": "The Madsen Household",
+      "C": "The Prescott Dormitory",
+      "D": "The American Rust Junkyard"
+    }
+  },
+  {
+    "question": "What Location Was Depicted in the Dark Room Concept Art Released by Gary Jamroz-Palma?",
+    "answer": "D",
+    "choices": {
+      "A": "Blackwell Academy",
+      "B": "The Prescott Dormitory",
+      "C": "The American Rust Junkyard",
+      "D": "The Dark Room"
+    }
+  }
+]

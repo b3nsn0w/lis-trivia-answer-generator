@@ -1,0 +1,34 @@
+#  Chloe and David 
+
+[File:Florent Auguy David and Chloe berate cake.jpg](right.md)
+This article is meant to give a deeper and more detailed look at the relationship between [Chloe Price](chloe_price.md) and [David Madsen](david_madsen.md) and its development throughout the *[Life is Strange (franchise)](life_is_strange.md)* franchise. They first met through Chloe's mother [Joyce Price](joyce_price.md), and they have a negative relationship, which put a strain on Joyce.
+
+##  Background 
+(insert here)
+
+##  [Life is Strange](life_is_strange.md) 
+(insert here)
+
+##  [Life is Strange: Before the Storm](life_is_strange__before_the_storm.md) 
+(insert here)
+
+##  [Life is Strange 2](life_is_strange_2.md) 
+(insert here)
+
+ Chloe and David =
+
+[File:Florent Auguy David and Chloe berate cake.jpg](right.md)
+This article is meant to give a deeper and more detailed look at the relationship between [Chloe Price](chloe_price.md) and [David Madsen](david_madsen.md) and its development throughout the *[Life is Strange (franchise)](life_is_strange.md)* franchise. They first met through Chloe's mother [Joyce Price](joyce_price.md), and they have a negative relationship, which put a strain on Joyce.
+
+##  Background 
+(insert here)
+
+##  [Life is Strange](life_is_strange.md) 
+(insert here)
+
+##  [Life is Strange: Before the Storm](life_is_strange__before_the_storm.md) 
+(insert here)
+
+##  [Life is Strange 2](life_is_strange_2.md) 
+(insert here)
+

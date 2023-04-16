@@ -1,0 +1,71 @@
+Here is a section of the wiki page for Daniel DaCosta:
+
+#  Daniel DaCosta 
+
+```yaml
+Character
+
+name: Daniel DaCosta
+image: DanielEp4.png
+width: 270px
+gender: Male
+hair: Dark brown
+eyes: Brown
+friends: '[Maxine Caulfield'
+Max Caulfield](maxine_caulfield__max_caulfield.md) (determinant)
+[Brooke Scott](brooke_scott.md) (determinant): *
+profession  High School student: *
+affiliation: '[Blackwell Academy](blackwell_academy.md)'
+appearance: >-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)[Episode 2: Out of
+  Time](episode_2__out_of_time.md)[Episode 4: Dark
+  Room](episode_4__dark_room.md)[Episode 5: Polarized](episode_5__polarized.md)
+  (nightmare)
+voice: '[Nik Shriner](nik_shriner.md) (uncredited)'
+died: October 11, 2013 (presumed, determinant)
+causeofdeath: Killed by the [storm](storm.md) (presumed, determinant)
+alsoknown: >-
+  GaynielOn the map of the boys' dormitory, his first name is crossed and
+  overwritten with "Gayniel".
+loveinterest: '[Brooke Scott](brooke_scott.md) (determinant)'
+```
+
+> Someday your portrait may hang in the Daniel DaCosta wing of the Louvre.
+
+**Daniel to [Maxine Caulfield**, Max](maxine_caulfield____max.md) in “[Episode 2: Out of Time, Out of Time](episode_2__out_of_time__out_of_time.md)”
+**Daniel DaCosta** is a student at [Blackwell Academy](blackwell_academy.md). He is in the same art class as [Maxine Caulfield](max_caulfield.md) and hangs around the Blackwell campus grounds.
+
+## Personality 
+Daniel is a very introverted person who keeps a lot to himself. He is often seen drawing. He is a nice guy who seems to get bullied a lot by other students, particularly members of the [Vortex Club](vortex_club.md). He may come off as creepy but only means well. He is talented but sometimes struggles to find his way.
+
+## Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+When Max is on her way to the bathroom, she sees Daniel being bullied by [Logan Robertson](logan_robertson.md) and feels sorry for him, wishing she could beat up the bullies. After she rewinds time, she hopes he doesn't remember that he is being bullied again. 
+
+Max can speak to Daniel in the school grounds on the main campus after the fire alarm. Daniel will ask whether he can draw Max's portrait or not, but warns her that he posts his work online. If Max says yes, he will gladly draw her after answering any questions she might have. She can ask about [Rachel Amber](rachel_amber.md), whom Daniel considers to be his muse. While he didn't know her well, she had asked him to draw her portrait. He thinks Rachel had a good heart and hopes she was okay after she went missing. Daniel is slightly upset if Max doesn't agree to be his portrait model. 
+
+Later in the episode, Max can check online to see if Daniel put the drawing up. When he does, she hopes people don't "hate on it" just because the drawing is of her.
+
+## Episode Two - [Episode 2: Out of Time](_out_of_time_.md) 
+Daniel makes an appearance in [Mark Jefferson](mr__jefferson.md)'s art class in the afternoon. Max can talk to him about [Dana Ward](dana_ward.md) being the center of attention at the other table; he can bring up again that Max did or didn't want to be his model in the last episode. Max will either say it was a pleasure being his muse, or that she's sorry and apologizes for her shyness.  
+
+The class is interrupted by [Kate Marsh](kate_marsh.md)'s suicide (attempt).
+
+## Episode Four - "[Episode 4: Dark Room](dark_room.md)"
+Max has the opportunity to talk to Daniel outside the [Prescott Dormitory](prescott_dormitory.md), and he reveals that he has lost hope with his photography, preferring to draw on paper instead. Max can give him some advice about looking at photography the same way he does with his sketches.  
+
+If she motivates him, she gains information about [Nathan Prescott](nathan_prescott.md) leaving the campus grounds. She can also motivate him to go to the [End of the World Party](_vortex_club_party.md).  
+
+If Max motivated him earlier in the episode, Daniel will turn up at the party. In the right scenario, he and [Brooke Scott](brooke_scott.md) end up hanging out there.
+
+## Episode Five - "[Episode 5: Polarized](polarized.md)" 
+He appears in the diner scene of [Max's Nightmare](max_s_nightmare.md), sitting on a booth near Kate and [Stella Hill](stella_hill.md). There, he tells Max that she gave him confidence, something that nobody has ever done for him.
+
+In the Sacrifice Arcadia Bay ending, he apparently dies in the storm.
+
+## Relationships 
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

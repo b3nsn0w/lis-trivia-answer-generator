@@ -1,0 +1,37 @@
+Here is a section of the wiki page for Episode 4: Dark Room - Script:
+
+## **Upstairs** # 
+Saved the birdSaved the bird*Bird flies into bathroom*
+
+**Max (thinking): ***Oh no, that poor little bird has been trapped in here!*
+
+*If Max opens the upstairs window and scares the bird twice, the bird will fly out outside. Max will think, "Fly! Be free!"*
+
+*If Max scares the bird twice but doesn't open the window, the bird will slam against it and die. Max will think, "Oh shit! Poor thing..."*
+
+|-|Let the bird die# Let the bird die*The bird will not be seen.*
+
+*Max goes downstairs.*
+
+#
+
+## **Downstairs** # 
+Sided with DavidSided with David*Max will not encounter David near the doorway.*
+
+|-|Sided with Chloe# Sided with Chloe*(Max sees David standing near the doorway holding a suitcase and looking at the pictures on the corkboard.)''
+
+**David:** You won this battle, Max. You broke up my family. I salute you.
+
+**Max:** David, I didn't try to hurt you. Ever. But I won't let anybody hurt Chloe.
+
+**David:** Too late, isn't it? You just better be damn careful with her. Don't you wander off into the dark...
+
+*(David leaves)*
+
+*Enter the garage*
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

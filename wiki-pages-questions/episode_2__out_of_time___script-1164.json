@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Ms. Grant's Opinion On Camera Surveillance?",
+    "answer": "B",
+    "choices": {
+      "A": "She Supports It",
+      "B": "She Opposes It",
+      "C": "She Is Indifferent",
+      "D": "She Is Unsure"
+    }
+  },
+  {
+    "question": "What Does Ms. Grant Say About Using Cameras For Good?",
+    "answer": "A",
+    "choices": {
+      "A": "It Is A Good Idea",
+      "B": "It Is A Bad Idea",
+      "C": "It Is Better Than Signing Petitions",
+      "D": "It Is The Same As Spying"
+    }
+  },
+  {
+    "question": "What Chemical Would Ms. Grant Add To The Experiment?",
+    "answer": "C",
+    "choices": {
+      "A": "Potassium",
+      "B": "Sodium",
+      "C": "Chlorine",
+      "D": "Oxygen"
+    }
+  },
+  {
+    "question": "What Does Ms. Grant Say About The Climate?",
+    "answer": "A",
+    "choices": {
+      "A": "It Is Moving Beyond Explanation",
+      "B": "It Is Stable",
+      "C": "It Is Getting Colder",
+      "D": "It Is Getting Warmer"
+    }
+  },
+  {
+    "question": "What Does Ms. Grant Say About Mr. Jefferson?",
+    "answer": "B",
+    "choices": {
+      "A": "He Is A Terrible Teacher",
+      "B": "He Is A Talented Artist",
+      "C": "He Is A Terrible Artist",
+      "D": "He Is A Terrible Teacher And Artist"
+    }
+  }
+]

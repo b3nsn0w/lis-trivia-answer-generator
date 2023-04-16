@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What tool can be used to activate the freecam in Life is Strange: Before the Storm?",
+    "answer": "A",
+    "choices": {
+      "A": "Cheat Engine",
+      "B": "Photoshop",
+      "C": "Unity",
+      "D": "Unreal Engine"
+    }
+  },
+  {
+    "question": "What is the name of the mod that allows for photography in Life is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "Unreal Engine Mod",
+      "B": "Camera Mod",
+      "C": "Photographer Mod",
+      "D": "Screenshot Mod"
+    }
+  }
+]

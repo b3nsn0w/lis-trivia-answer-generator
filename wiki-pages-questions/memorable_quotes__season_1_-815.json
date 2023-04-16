@@ -1,0 +1,52 @@
+[
+  {
+    "question": "In which episode does Nathan leave a voicemail for Max, apologizing for his actions?",
+    "answer": "D",
+    "choices": {
+      "A": "Chrysalis",
+      "B": "Out of Time",
+      "C": "Chaos Theory",
+      "D": "Polarized"
+    }
+  },
+  {
+    "question": "What does Nathan say he could do to the school in his quote from Episode 1?",
+    "answer": "B",
+    "choices": {
+      "A": "Burn it down",
+      "B": "Blow it up",
+      "C": "Flood it",
+      "D": "Vandalize it"
+    }
+  },
+  {
+    "question": "Who does Nathan say he didn't want to hurt in his voicemail to Max?",
+    "answer": "A",
+    "choices": {
+      "A": "Kate and Rachel",
+      "B": "Max and Chloe",
+      "C": "Mr. Jefferson and the principal",
+      "D": "Nobody"
+    }
+  },
+  {
+    "question": "In which episode does Nathan send a text message to Max saying \"Pussies cant fukin fite\"?",
+    "answer": "D",
+    "choices": {
+      "A": "Chrysalis",
+      "B": "Out of Time",
+      "C": "Chaos Theory",
+      "D": "Dark Room"
+    }
+  },
+  {
+    "question": "What does Nathan say about Max in his nightmare in the episode Polarized?",
+    "answer": "C",
+    "choices": {
+      "A": "She is his friend",
+      "B": "She is the reason for his suffering",
+      "C": "She is a cool person to hang out with",
+      "D": "She is his enemy"
+    }
+  }
+]

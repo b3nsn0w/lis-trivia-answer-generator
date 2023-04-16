@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Name Of Chloe Price's Mother?",
+    "answer": "A",
+    "choices": {
+      "A": "Joyce Price",
+      "B": "Rachel Amber",
+      "C": "Kate Marsh",
+      "D": "Victoria Chase"
+    }
+  },
+  {
+    "question": "What Is The Name Of Max Caulfield's Mother?",
+    "answer": "D",
+    "choices": {
+      "A": "Joyce Price",
+      "B": "Rachel Amber",
+      "C": "Kate Marsh",
+      "D": "Vanessa Caulfield"
+    }
+  },
+  {
+    "question": "What Is The Name Of Nathan Prescott's Father?",
+    "answer": "B",
+    "choices": {
+      "A": "Mark Jefferson",
+      "B": "Sean Prescott",
+      "C": "David Madsen",
+      "D": "Frank Bowers"
+    }
+  },
+  {
+    "question": "What Is The Name Of Kate Marsh's Father?",
+    "answer": "A",
+    "choices": {
+      "A": "Richard Marsh",
+      "B": "William Marsh",
+      "C": "David Madsen",
+      "D": "Frank Bowers"
+    }
+  },
+  {
+    "question": "What Is The Name Of Victoria Chase's Sister?",
+    "answer": "D",
+    "choices": {
+      "A": "Emily Chase",
+      "B": "Natalie Chase",
+      "C": "Kristine Chase",
+      "D": "Taylor Christensen"
+    }
+  }
+]

@@ -1,0 +1,35 @@
+Here is a section of the wiki page for Max's Diary:
+
+## Trivia 
+*Max's Diary contains a lot of foreshadowing messages, symbols, drawings and stickers, some funny, some mysterious, some cryptic, and some with obscure references. Some of Max's writings are also quite premonitory, ominous, curious, and downright bizarre.
+*Max, in a passage from her diary seems to predict the end decision, way before it's hinted to the players, (Episode 4); " ''I remember this famous episode of the original {{wiki|Star Trek}}, where Kirk has to go back in time and let the person he loves die, so the Nazis won't win the war...''[https://life-is-strange.fandom.com/wiki/Max%27s_Diary#cite_note-14 [13]] What kind of fucked up choice is that?".
+*The doe is a recurrent theme in Max's diary, it appears several times in drawings, stickers and in symbolic ways, including in the last page of said diary.
+*Max's Diary serves as an insight into Max's mind, revealing her feelings in detail, motivations, doubts, fears and even reasons behind some of her decisions.
+* On page 22 there is a sticker that reads, "Three Meters Above The Sky", which appears to be a reference to the 2004 Italian film inspired by the novel *Tre metri sopra il cielo* by Federico Moccia (literally "Three meters above the sky"). {{Wiki|Three Steps Over Heaven}}, (the English title for the film), is summarized as "A romantic drama for teenagers that tells the story of two youngsters belonging to opposite worlds. It's the chronicle of an improbable relationship that is practically impossible but just as inevitable. It will end up dragging the couple along for a voyage of discovery on which they will experience true love together for the first time. She is a well-to-do girl. He is a rebellious boy, addicted to risk and danger" During the film the boy becomes more tender, softer, the girl becomes harder, more rebellious." The descriptions of these two characters appear to match the characters of Max and Chloe rather well.
+*The phrase in page 32 of Max's diary; "And I was shittin' kittens", may be a reference to {{wiki|Lethal Weapon 4}}. Martin Riggs, the character played by Mel Gibson says the following; "That general's gonna be shittin' kittens when he sees the money is counterfeit."
+*The "Et in Arcadia ego" sticker from Max's journal may be a reference to the painting {{wiki|Et in Arcadia ego}}, a work by Nicolas Poussin a leading painter of the French Baroque style.
+*The sticker "Not all those who wander are lost" is reference to a phrase from a poem by J. R. R. Tolkien, "{{wiki|All that is gold does not glitter}}, that appears in his most famous work {{wiki|The Lord of the Rings}}. 
+*The "My hair is being pulled by the stars again" sticker may be a reference to a quote by {{wiki|Anaïs Nin}}.
+*The "With great powers comes great bullshit sticker" is a reference to the quote from the Spider-Man comics; "{{wiki|With great power comes great responsibility}}."
+
+## Patches  
+* Prior to the release of Episode 2, the character notes for [Max's Character Notes#Victoria](victoria.md) and [Max's Character Notes#Jefferson](mr__jefferson.md) as well as page 9 of the main diary referred to the "Everyday Heroes" contest as "Everyday Hero" contest. 
+* Prior to the release of Episode 5 (before 1.0.0.371598), page 1 of Max's diary had read: "But who cares because I GOT INTO BLACKWELL ACADEMY, a unique and famous private school for seniors! NO KIDS ALLOWED!" It now only reads: "But who cares because I GOT INTO BLACKWELL ACADEMY!"
+
+## Notes 
+
+ by {{Wiki|Ray Bradbury}}.*
+
+*I haven't read much by him (which caused Warren to almost revoke my geek cred before I held up my copy of {{Wiki|Battle Royale (novel)|Battle Royale}}) but he nails the autumn atmosphere of small towns. The last time I wore a Halloween costume was with Chloe... I have pictures in one of my old albums...*
+
+*I should find a real Halloween party to crash so I can experience some social mingling. It's that or a Vortex Club strokefest swimming party. Or is that backstrokefest? You so punny, Max.*
+
+*At least I'm trying to climb out of my cocoon. I shouldn't expect my life to completely change after a few weeks of Blackwell Academy. As my parents love telling me on a loop, "You have all the time in the world."*
+
+## Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

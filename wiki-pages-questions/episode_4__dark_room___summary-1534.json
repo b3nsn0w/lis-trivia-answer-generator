@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Do Max And Chloe Find In The Dark Room?",
+    "answer": "A",
+    "choices": {
+      "A": "Binders With Photos Of Drugged Girls",
+      "B": "A Treasure Map",
+      "C": "A Time Machine",
+      "D": "A Secret Weapon"
+    }
+  },
+  {
+    "question": "Who Do Max And Chloe Suspect Nathan Will Target At The End Of The World Party?",
+    "answer": "A",
+    "choices": {
+      "A": "Victoria Chase",
+      "B": "Alyssa Anderson",
+      "C": "Courtney Wagner",
+      "D": "Mr. Jefferson"
+    }
+  },
+  {
+    "question": "What Happens To Chloe At The End Of Episode 4?",
+    "answer": "B",
+    "choices": {
+      "A": "She Is Paralyzed",
+      "B": "She Dies",
+      "C": "She Gets Arrested",
+      "D": "She Wins The Everyday Heroes Photo Contest"
+    }
+  },
+  {
+    "question": "What Do Max And Chloe Find At The Burial Site In The Junkyard?",
+    "answer": "A",
+    "choices": {
+      "A": "Rachel Amber's Body",
+      "B": "A Treasure Chest",
+      "C": "A Time Capsule",
+      "D": "A Secret Message"
+    }
+  },
+  {
+    "question": "What Is Chloe's Condition Caused By?",
+    "answer": "A",
+    "choices": {
+      "A": "A Car Accident",
+      "B": "A Gunshot Wound",
+      "C": "A Disease",
+      "D": "A Fall"
+    }
+  }
+]

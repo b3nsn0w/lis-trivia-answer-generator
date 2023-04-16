@@ -1,0 +1,84 @@
+Here is a section of the wiki page for Episode 4: Dark Room - Script:
+
+## **Junkyard - Evening** 
+
+*The scene fades in on a puddle that reflects just one moon in the sky. Chloe stomps across it.*
+
+**Max:** Stop stomping around, Chloe!
+
+**Chloe:** Right. Just get ready to use your rewind fast if Nathan tries to jump us.
+
+(If Max sees the rat in Chloe's hideout)(If Max sees the rat in Chloe's hideout)
+
+**Max:** What the hell... Oh, gross!
+
+**Idle Comments**
+
+(Walking around the junkyard)# (Walking around the junkyard)
+
+**Chloe:** Rachel, I will get your revenge... I swear...
+----
+**Chloe:** Come on, come on. Nathan needs to die now...
+
+**Max:** For God’s sake, Chloe, you have to be quiet! We could die, okay?
+
+|-|(Max is not near Chloe)(Max is not near Chloe)
+
+**Chloe:** Are you looking for something back there? Catch up!
+
+*Near the spot where Rachel is buried, there is a point which triggers the following cutscene. How it starts depends on who gets to this point first.*
+
+(Chloe gets to it first)# (Chloe gets to it first)
+
+*Chloe runs toward the spot where Rachel is buried.*
+
+**Chloe:** Max, please hurry!
+
+|-|(Max gets to it first)(Max gets to it first)
+
+*Max approaches the spot where Rachel is buried. She looks at it, then beckons Chloe, who runs over.*
+
+**Max:** Chloe, come over here, quick!
+
+''They remove some of the earth covering Rachel's body.''
+
+**Chloe:** Oh God, Max, look... she's still there.
+
+*Max stands and slowly starts to back away.*
+
+**Max:** Don’t look, Chloe…
+
+*Someone appears behind Max and sticks a syringe in the back of her neck.*
+
+**Max:** Oh no…
+
+*Max falls to the ground. She unsuccessfully tries to use her rewind power.*
+
+**Max:** Chloe! Look out!
+
+*Chloe jumps up and turns around, grabbing the gun from her back pocket.*
+
+**Chloe:** What the fuck? Even though this line still appears in the subtitles in the current version of the Remastered Edition, Chloe does not say it.
+
+*Chloe is immediately shot in the head and killed. Max watches her fall to the ground in slow motion.*
+
+**Max:** Chloe…
+
+*The killer slowly walks over to Max. She looks up to see Mr. Jefferson looming over her.*
+
+**END OF EPISODE 4: DARK ROOM**
+
+#
+
+## Footnotes
+
+{{Navlinks|prev# Episode 3: Chaos Theory - Script|nextEpisode 5: Polarized - Script}}
+
+[File:Episode Scripts Info.png](right.md)
+This article is a **script** for [Episode 4: Dark Room](episode_4__dark_room.md).
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

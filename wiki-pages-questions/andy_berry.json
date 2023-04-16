@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who is Andy Berry?",
+    "answer": "B",
+    "choices": {
+      "A": "A police officer",
+      "B": "A fisherman",
+      "C": "A photographer",
+      "D": "A chef"
+    }
+  },
+  {
+    "question": "Whose son is Andy Berry?",
+    "answer": "A",
+    "choices": {
+      "A": "Anderson Berry",
+      "B": "Dick Weber",
+      "C": "Rich Conrad",
+      "D": "The wiki page doesn't say"
+    }
+  },
+  {
+    "question": "Where can a photograph of Andy Berry be found?",
+    "answer": "A",
+    "choices": {
+      "A": "At the Two Whales Diner",
+      "B": "At the Arcadia Bay Police Station",
+      "C": "At the Arcadia Bay Fishing Club",
+      "D": "At the Arcadia Bay Museum"
+    }
+  },
+  {
+    "question": "What is the name of the fishing club where Andy Berry's photograph can be found?",
+    "answer": "C",
+    "choices": {
+      "A": "Two Whales Diner",
+      "B": "Arcadia Bay Police Station",
+      "C": "Arcadia Bay Fishing Club",
+      "D": "Arcadia Bay Museum"
+    }
+  }
+]

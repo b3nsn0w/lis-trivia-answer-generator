@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Weatherman's Profession?",
+    "answer": "D",
+    "choices": {
+      "A": "Meteorologist",
+      "B": "News Anchor",
+      "C": "Talk Show Host",
+      "D": "Weatherman"
+    }
+  },
+  {
+    "question": "Who Does The Weatherman Interview About The Meteorological Anomalies?",
+    "answer": "B",
+    "choices": {
+      "A": "A Local Resident",
+      "B": "A Portland Meteorologist",
+      "C": "A Climate Change Expert",
+      "D": "A Weatherman From Another City"
+    }
+  },
+  {
+    "question": "Where Does The Weatherman Make His First Appearance In The Game?",
+    "answer": "B",
+    "choices": {
+      "A": "At The Madsen Household",
+      "B": "At The Two Whales Diner",
+      "C": "At The Prescott Estate",
+      "D": "At The Blackwell Academy"
+    }
+  },
+  {
+    "question": "What Is The Weatherman's Role In The Talk Show?",
+    "answer": "A",
+    "choices": {
+      "A": "He Moderates The Show",
+      "B": "He Calls In To The Show",
+      "C": "He Is A Guest On The Show",
+      "D": "He Produces The Show"
+    }
+  },
+  {
+    "question": "Who Is The Weatherman Based On And Modelled By?",
+    "answer": "D",
+    "choices": {
+      "A": "A Meteorologist",
+      "B": "A News Anchor",
+      "C": "A Talk Show Host",
+      "D": "Don't Nod's CEO"
+    }
+  }
+]

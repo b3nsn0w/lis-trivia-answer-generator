@@ -1,0 +1,38 @@
+#  Diner Trucker 
+
+```yaml
+Character
+
+name: Diner Trucker
+image: dinertrucker-main.png
+died: October 11, 2013 (presumed, determinant)
+causeofdeath: Killed by the [storm](storm.md) (presumed, determinant)
+gender: Male
+hair: Brown
+eyes: Blue
+friends: '[Truck Driver](truck_driver.md)'
+appearance: |-
+  [Episode 2: Out of Time](episode_2__out_of_time.md)
+  [Episode 5: Polarized](episode_5__polarized.md) (nightmare)
+voice: '[Eric Morgan Stuart](eric_morgan_stuart.md) (uncredited)'
+width: '270'
+```
+
+The **"Diner Trucker"** is a resident of [Arcadia Bay](arcadia_bay.md). He is sitting at the counter in the [Two Whales Diner](two_whales_diner.md).
+
+##  Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+When [Maxine Caulfield](max_caulfield.md) tries to speak to him, he will say that he doesn't feel like talking and has to "deliver a load of breakfast" to his stomach.
+
+If Max hesitates after [Chloe Price](chloe_price.md) asks her to go to the [American Rust Junkyard](junkyard.md), he can be heard talking with the [Truck Driver](truck_driver.md) about how much the latter eats.
+
+##  Episode Five - "[Episode 5: Polarized](polarized.md)" 
+He appears in the diner sequence of [Max's Nightmare](max_s_nightmare.md), sitting at the counter at the same place as in "Out of Time", but with his head turned to the left and a frowning face. He asks Max if she can call his mother in [Portland](portland.md) and tell her that he loves her.
+
+In the Sacrifice Arcadia Bay ending, it is possible that he may have died in the storm.
+
+##  Trivia 
+[File:truckdriver-tattoo.png](thumb.md)
+*The truck driver has tattoos on his forearms that feature several animals, a revolver, a taco, and a cannabis leaf.
+
+{{Character Navbox}}
+

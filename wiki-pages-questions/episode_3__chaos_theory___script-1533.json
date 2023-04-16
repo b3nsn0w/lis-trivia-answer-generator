@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is Dana Doing When Max Enters Her Room?",
+    "answer": "D",
+    "choices": {
+      "A": "Sleeping",
+      "B": "Crying",
+      "C": "Studying",
+      "D": "Sitting on her couch looking distressed"
+    }
+  },
+  {
+    "question": "What Does Dana Say About Max Saving Kate?",
+    "answer": "B",
+    "choices": {
+      "A": "Max was lucky",
+      "B": "Max is a superhero",
+      "C": "Max made a mistake",
+      "D": "Max should have done more"
+    }
+  },
+  {
+    "question": "Who Does Dana Suggest Might Be Involved In The Strange Events At Blackwell?",
+    "answer": "D",
+    "choices": {
+      "A": "Nathan",
+      "B": "David",
+      "C": "Jefferson",
+      "D": "All of the above"
+    }
+  },
+  {
+    "question": "What Does Max Say About The Weird Things Happening At Blackwell?",
+    "answer": "A",
+    "choices": {
+      "A": "She's not sure yet, but she's on it",
+      "B": "She doesn't care",
+      "C": "She thinks it's all a coincidence",
+      "D": "She thinks it's just a prank"
+    }
+  }
+]

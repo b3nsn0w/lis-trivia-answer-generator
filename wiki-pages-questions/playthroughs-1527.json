@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Name Of The First Episode Of Life Is Strange That YOGSCAST Kim Played?",
+    "answer": "B",
+    "choices": {
+      "A": "Out of Time",
+      "B": "Chrysalis",
+      "C": "Chaos Theory",
+      "D": "Dark Room"
+    }
+  },
+  {
+    "question": "Which Let's Play Duo Played Life Is Strange Episode 5 In One Stream?",
+    "answer": "D",
+    "choices": {
+      "A": "Jessy Cox & PressHeartToContinue",
+      "B": "YOGSCAST Kim",
+      "C": "GT Live",
+      "D": "Geek Remix"
+    }
+  },
+  {
+    "question": "What Is The Name Of ManlyBadassHero's First Video On Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Time Travel Adventure Game, Manly Let's Play Pt.1",
+      "B": "Dreams",
+      "C": "Hole To Another Universe",
+      "D": "Polarized Full Let's Play Gameplay Walkthrough Stream"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Last Episode Of Life Is Strange That GT Live Played?",
+    "answer": "B",
+    "choices": {
+      "A": "A STORM is Coming",
+      "B": "The END is HERE!",
+      "C": "Dark Room Horrors EXPOSED!",
+      "D": "We CAN'T Save Chloe"
+    }
+  },
+  {
+    "question": "What Is The Approval Ratio Of Geek Remix's Life Is Strange Let's Play?",
+    "answer": "B",
+    "choices": {
+      "A": "98.1%",
+      "B": "98.6%",
+      "C": "99.2%",
+      "D": "99.9%"
+    }
+  }
+]

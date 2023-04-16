@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who is Dr. Nick Meyer?",
+    "answer": "A",
+    "choices": {
+      "A": "A scientist and published author",
+      "B": "A time traveler",
+      "C": "A movie director",
+      "D": "A librarian"
+    }
+  },
+  {
+    "question": "What is the subject of Dr. Nick Meyer's book?",
+    "answer": "A",
+    "choices": {
+      "A": "Time travel",
+      "B": "Science fiction",
+      "C": "Romance",
+      "D": "Mystery"
+    }
+  },
+  {
+    "question": "Who recommended Dr. Nick Meyer's book to Maxine Caulfield?",
+    "answer": "A",
+    "choices": {
+      "A": "Warren Graham",
+      "B": "Chloe Price",
+      "C": "Rachel Amber",
+      "D": "Victoria Chase"
+    }
+  },
+  {
+    "question": "What can be seen on Max's desk at the beginning of Episode 2?",
+    "answer": "A",
+    "choices": {
+      "A": "Dr. Nick Meyer's book on time travel",
+      "B": "A romance novel",
+      "C": "A science fiction book",
+      "D": "A mystery novel"
+    }
+  },
+  {
+    "question": "Who is Nicholas Meyer?",
+    "answer": "A",
+    "choices": {
+      "A": "An American screenwriter and movie director",
+      "B": "A character in Life is Strange",
+      "C": "A scientist and published author",
+      "D": "A time traveler"
+    }
+  }
+]

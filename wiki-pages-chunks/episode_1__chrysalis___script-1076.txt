@@ -1,0 +1,120 @@
+Here is a section of the wiki page for Episode 1: Chrysalis - Script:
+
+## **Optional Conversation with Daniel**
+**Max:** What's up, Daniel?
+
+**Daniel:** Oh, hi Max. Could I, um, ask you a question? Would you mind letting me sketch you? I do put my sketches on Facebook, though...
+
+I'd be honored.# I'd be honored.
+
+**Max:** I'd be honored, Daniel. Makes me feel like a muse.
+
+**Daniel:** Funny you should say that. I was just thinking about my real muse, Rachel Amber...
+
+{{#tag:tabber|What happened to her?What happened to her?
+
+**Max:** So, what happened to her? There's got to be a story.
+
+**Daniel:** She just stopped coming to class. Some people say she ran away, some say she jumped off a cliff. I just hope she's okay.
+
+{{!}}-{{!}}You knew her?# You knew her?
+
+**Max:** You knew her?
+
+**Daniel:** No, but once she asked me to draw her portrait. Oh, she was a natural.
+
+{{!}}-{{!}}Hard to avoid her posters.Hard to avoid her posters.
+
+**Max:** Hard to avoid her posters all over campus.
+
+**Daniel:** Kills me to see her sweet face used as a crime photo... She had a good heart.
+
+{{!}}-{{!}}Start drawing.# Start drawing.
+
+**Max:** Okay, why don't you start drawing me, even though I must be a step down from Rachel...
+
+**Daniel:** No way! You're a...good substitute muse.
+
+*Max sits down and strikes a pose.*
+
+**Daniel:** Oh, that's a good posture. Good, good...
+
+*Daniel shows Max the portrait.*
+
+**Max:** *(smiling)* Best portrait ever.
+
+}}
+
+|-|I'd rather not.I'd rather not.
+
+**Max:** I'd rather not, Daniel. Not that I don't want you to...
+
+**Daniel:** Nevermind. I guess you would be too ashamed. Now I have to get back to my drawing...
+
+# #
+
+## **Optional Conversation with [Evan Harris](evan.md)**
+**Max:** Hey, Evan. Mind if I check out your cool portfolio?
+
+**Evan:** Let's see if you're worthy of it, Max. You'll have to answer a simple question: who photographed the famous *Falling Soldier*?
+
+Eugene Smith.# Eugene Smith.
+
+**Max:** Gotta be...Eugene Smith.
+
+**Evan:** Well, they both were famous war photographer images, but you should know the difference. Good try, wrong answer.
+
+|-|Steve McCurry.Steve McCurry.
+
+**Max:** Uh...Steve McCurry?
+
+**Evan:** Unless he could travel back in time, McCurry was born five years after *The Falling Soldier* picture. McCurry also shoots in color. In other words, no portfolio.
+
+|-|Robert Capa.# Robert Capa.
+
+**Max:** Robert Capa, of course. I love his work, despite the controversy about that photo.
+
+**Evan:** My, my. This quiet child knows things.
+
+**Max:** That's why I'm here.
+
+**Evan:** You are a kindred spirit, Max. Would you care for a perusal of my portfolio? It's not a privilege I grant to many...
+
+**Max:** I'd be honored, sir.
+
+|-|Robert Doisneau.Robert Doisneau.
+
+**Max:** Isn't it Robert Doisneau?
+
+**Evan:** Oh, my, you can't even tell the difference between street photography and photojournalism... No portfolio peek for you.
+
+# #
+
+## **Optional Conversation with Evan #2**
+**Max:** Hi, Evan.
+
+**Evan:** As you can see, Rachel Amber was my favorite model here. She knew exactly what angles worked best with my eye.
+
+You were close.# You were close.
+
+**Max:** You were close...
+
+**Evan:** Like brother and sister in arms. She understood me, never judged me. I hated her Vortex Club clique, but she never acted like she cared. Her friends were her friends.
+
+|-|What was she like?What was she like?
+
+**Max:** What was she like?
+
+**Evan:** She was, like, mercurial. You know what that means?
+
+**Max:** Of course I do, you snob. I know, I can be a little diva.
+
+**Max:** What do you think happened to her?
+
+**Evan:** Nothing good Max... Nothing good.
+
+# #
+
+
+
+Generate five trivia questions relevant to this section of the page.

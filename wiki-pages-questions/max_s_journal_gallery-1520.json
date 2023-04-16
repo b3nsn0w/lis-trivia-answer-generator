@@ -1,0 +1,42 @@
+[
+  {
+    "question": "In which episode can Max take a photo of a broken window on the campus?",
+    "answer": "C",
+    "choices": {
+      "A": "Episode 1",
+      "B": "Episode 2",
+      "C": "Episode 3",
+      "D": "Episode 4"
+    }
+  },
+  {
+    "question": "In which location can Max take a photo of a crashed car and a crashed whale in Episode 5?",
+    "answer": "D",
+    "choices": {
+      "A": "Art Gallery",
+      "B": "Dark Room",
+      "C": "Dorms Corridor",
+      "D": "Diner Park"
+    }
+  },
+  {
+    "question": "In which episode can Max take a photo of a bird on a cliff?",
+    "answer": "A",
+    "choices": {
+      "A": "Episode 1",
+      "B": "Episode 2",
+      "C": "Episode 3",
+      "D": "Episode 4"
+    }
+  },
+  {
+    "question": "In which location can Max take a photo of a skeleton in Episode 5?",
+    "answer": "B",
+    "choices": {
+      "A": "Art Class",
+      "B": "Corridor",
+      "C": "Dorms Corridor",
+      "D": "Lighthouse"
+    }
+  }
+]

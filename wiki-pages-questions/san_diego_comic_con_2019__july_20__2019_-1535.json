@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who Is The Music Supervisor Of Life Is Strange 2?",
+    "answer": "B",
+    "choices": {
+      "A": "Jonathan Morali",
+      "B": "Raoul Barbet",
+      "C": "Lucy James",
+      "D": "Jean-Luc Cano"
+    }
+  },
+  {
+    "question": "Which Folk Artist's Music Was Used In Captain Spirit?",
+    "answer": "B",
+    "choices": {
+      "A": "PJ Harvey",
+      "B": "Sufjan Stevens",
+      "C": "Parade",
+      "D": "Crosses"
+    }
+  },
+  {
+    "question": "Why Was The Power Given To Daniel In Life Is Strange 2?",
+    "answer": "C",
+    "choices": {
+      "A": "To Show The Player What Daniel Can Be If Raised Well",
+      "B": "To Show The Player What Daniel Can Be If Raised Poorly",
+      "C": "To Link The Power To The Main Theme Of Education",
+      "D": "To Link The Power To The Main Theme Of Growing Up"
+    }
+  },
+  {
+    "question": "Why Did The Team Decide To Include The Christmas Market Scene In Life Is Strange 2?",
+    "answer": "D",
+    "choices": {
+      "A": "To Show The Player The Small Town Atmosphere",
+      "B": "To Introduce The Drifters",
+      "C": "To Bring The Cops",
+      "D": "All Of The Above"
+    }
+  }
+]

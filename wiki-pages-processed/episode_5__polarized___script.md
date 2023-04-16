@@ -1,0 +1,7238 @@
+#  Episode 5: Polarized - Script 
+
+[File:Ep5.JPG](center.md)
+[File:Episode Scripts Info.png](right.md)
+
+This article is a **script** for [Episode 5: Polarized](episode_5__polarized.md).
+
+##  **Dark Room** 
+''[Maxine Caulfield](max.md) wakes up tied to a chair in the [Dark Room (Location)](dark_room.md). If Max warned [Victoria Chase](victoria.md) about the Dark Room in the [Episode 4: Dark Room](previous_episode.md), she will be lying on the floor to Max's left, unconscious.*
+
+**Max:** *(thinking)* [Chloe Price](chloe.md)...? What? Where? The Dark Room...
+
+**Max:** *(shouting)* Is anybody out there?! Please, help!
+
+**Optional Conversation with Victoria**
+
+**Max:** *[turns to Victoria, panicked]* Victoria...wake up. *(fervently)* Wake up!
+
+*Victoria groans but doesn't wake up.*
+
+*Max successfully detaches her right foot from the chair.*
+
+**Max:** *(thinking)'' Finally! I'm free! Almost...
+
+*Max uses her foot to pull the trolley in front of her. She then looks at a photo [Mark Jefferson](jefferson.md) took of her.*
+
+**Max:** *(thinking)* I hate looking at myself like that. You'll pay for this, Jefferson.
+
+*Max focuses on the photo.*
+
+**Max:** *(thinking)* I promised I would never go back in time like this again... But this is the only way...
+
+# ###  **First Focus** 
+**Jefferson:** *(during the focus)* Oh, that's great... Oh, Max...
+
+*Max wakes up lying on the ground with her hands tied, while Mr. Jefferson takes pictures of her.*
+
+**Jefferson:** This angle highlights your purity, see? The slightly unconscious model is often the most open and honest. No vanity or posing just...pure expression.
+
+''Jefferson moves Max's leg*
+
+**Mr. Jefferson:** Oh Christ... Look at that perfect face.
+
+*Max attempts to move her head, and Jefferson smacks her back into position.*
+
+**Jefferson:** *(shouting)* Hold that stare there! *(angrily)* Stay still!
+
+*Jefferson continues to take pictures. Max whimpers and tries to move.*
+
+**Jefferson:** *(shouting angrily)* Oh, Max! You fucked up my shot! *(calmly)'' But please don't worry, we have all the time in the world. For now. I knew you were special the second I saw your first..."selfie". Yes, I still hate that word. But I love the purity of your own image. Not like [Rachel Amber](rachel.md), who was always looking in the wrong places. Poor Rachel. Wait... Let me try this angle.
+
+*Jefferson steps over Max and continues to take pictures.*
+
+**Jefferson:** Don't move!
+
+''Jefferson positions Max's shoulder.''
+
+**Jefferson:** Oh, much better... Thanks, Max. If only [Nathan Prescott](nathan.md) could see this setup. He tried so hard, but you can't just throw a few subjects around and expect a cohesive style or theme. But he had an eye for shadows. And an eye for a whole lot more, as his [Prescott Family](elite_family.md) will find out...along with [Arcadia Bay](arcadia_bay.md).
+
+''Jefferson positions Max's head.*
+
+**Jefferson:** Nice... Good... Oh, those eyes...
+
+*Jefferson positions Max's shoulder again.''
+
+**Jefferson:** It's just too bad you're so goddamn nosy, Max! But, this room...is under 24/7 surveillance, so all I had to do was text you from Nathan's phone, and you fell right into my hands. You really should have focused on schoolwork, not "private detecting" with your little...friend.
+
+**Max:** Chloe...
+
+**Jefferson:** Chloe, right. Yeah, I'm sorry I killed—that Nathan killed her in self-defense. But she had a troubled history like most Arcadia Bay dropouts. Nobody will be surprised...or care. Though I promise...people will care when you die tonight, Max. I wasn't lying when I said you have a gift.
+
+*Jefferson crouches to take photos.*
+
+**Jefferson:** Okay... Now, this looks good. Maybe a few more close-ups...
+
+*Max moves her head, and Jefferson stands up again.*
+
+**Jefferson:** Max, please do not move so much. I need you posed and framed my way! Maybe a new dose will calm you down...
+
+**Max:** No, no... No...
+
+*Max whimpers and struggles as Jefferson drags the trolley over.*
+
+**Jefferson:** *[fills the syringe with drugs from a vial]* Now don't move, or this will...hurt...much.
+
+*Max kicks the trolley away and the vials of drugs fall, one breaking and spilling liquid over a folder.*
+
+**Jefferson:** *(shouting angrily)* Stupid bitch! You just don't listen, do you? *(threateningly)* In fact, you never did hear much in my class; if you had, you might have seen all this coming.
+
+*Jefferson crouches down next to Max.*
+
+**Jefferson:** *(admiringly)* Goddamn, you are a fighter, though. I've had my eye on you, and I have noticed that you've been more...fearless this week than maybe your whole life.
+
+*Max struggles and shakes her head.*
+
+**Max:** *(mumbling quietly)* No...
+
+**Jefferson:** Remember my number one rule. Always...take...the shot.
+
+*Jefferson injects the needle into Max. She struggles and cries out, then goes limp as she falls unconscious.*
+
+# ###  **After the Focus** 
+**Max:** *(thinking)* Oh, Jesus... I can't believe that happened. So sick.
+
+*If Victoria is in the Dark Room, Max glances at her as she groans and starts to stir.*
+
+**Optional Conversation with Victoria**
+
+**Max:** *[turns to Victoria]* Victoria? Hey, Victoria...it's Max. Can you hear me?
+
+**Victoria:** Max... *[panicked, on the verge of tears]* Oh, God, where—where are we? Oh, what's happening?
+
+**Max:** You've been drugged like Kate...and me. Do you remember how you got here?
+
+**Victoria:** *[panicked, on the verge of tears]* No... I don't know... Wait... You warned me. You warned me about Nathan. Then I went to Jefferson for help, and he was acting so weird... That's the last thing I remember. And I can't move my hands! *(crying, panicky)* Help me, Max! Please, I'm sorry for everything!
+
+**Max:** Listen carefully, Mark Jefferson kidnapped us. He's using Nathan as well. Jefferson is very dangerous, so we have to get out of here before he comes back.
+
+**Victoria:** *(crying)* Max... I just can't believe this is real. I don't want to die like this! I'm only 18!
+
+I have a plan.# I have a plan.
+
+**Max:** Victoria...please, listen...I have a plan.
+
+**Victoria:** Really? How? Max...I'm so scared.
+
+**Max:** So am I. But...we don't have time to be scared. We have to fight back...now.
+
+**Victoria:** *(crying)* Max...I can't even move my arms... How are we supposed to fight?
+
+|-|Ssshh!Ssshh!
+
+**Max:** Ssh, Victoria! We don't want to bring Jefferson back... Please...let me think...
+
+**Victoria:** Are you kidding?! We're fucking trapped!
+
+**Max:** I know, I know...but we have to stay focused.
+
+|-|Nobody is going to die...# Nobody is going to die...
+
+**Max:** Just hold on, Victoria. Nobody is gonna die...anymore.
+
+**Victoria:** Max, what's going on? I thought you said Nathan was dangerous, but it was actually Mark? Mr. Jefferson?
+
+**Max:** I was wrong. *[sighs]* I should have known that Nathan couldn't do all this on his own.
+
+**Victoria:** Do what? What's going to happen to us? Oh, please get us out of here!
+
+**Max:** I'm not going to let that asshole get away with this. I just... I need you to be strong. I can't do this alone. We need to act while we're clear-headed. If he doses us again, we'll forget everything.
+
+(Kate is alive)(Kate is alive)
+
+**Victoria:** I'm not strong, Max. Look at me... Look what I did to [Kate Marsh](kate_marsh.md)... Now she's in the hospital, and I'm here.
+
+{{#tag:tabber|We're both here.# We're both here.
+
+**Max:** We're both here, okay?
+
+**Victoria:** I just can't believe this is happening... That Jefferson would do this to me...to us...
+
+{{!}}-{{!}}We'll see her again.We'll see her again.
+
+**Max:** Kate wants us to get the hell out of here...and then we can both go see her again, okay?
+
+**Victoria:** I'd do anything to see Kate once more...just to tell her I'm sorry.
+
+}}
+
+|-|(Kate is dead)# (Kate is dead)
+
+**Victoria:** Then Kate Marsh was telling the truth... Even though I knew she wasn't lying... And I could've helped her Max...but I hurt her. *(crying)* Now it's—it's my turn.
+
+{{#tag:tabber|We're both here.We're both here.
+
+**Max:** We're both here, okay?
+
+**Victoria:** I just can't believe this is happening... That Jefferson would do this to me...to us...
+
+{{!}}-{{!}}That's bullshit.# That's bullshit.
+
+**Max:** That's bullshit. Nathan and Jefferson killed Kate. And she deserves justice...
+
+**Victoria:** I just can't believe Jefferson could do this... and I even blackmailed him into making me win the contest... I'm stupid, stupid, stupid!
+
+}}
+
+**Max:** Victoria, we will find a way to escape. I promise.
+
+**Victoria:** Max...I believe you.
+
+'''Max and Victoria's Comments**
+
+(Kate is alive)(Kate is alive)
+
+**Victoria:'* *(sobbing)'' Now I know what Kate had to go through...and I almost killed her...
+
+**Max:** Shh. No, you didn't. Don't think about that now.
+
+|-|(Kate is dead)# (Kate is dead)
+
+**Victoria:** *(sobbing)* Now I know what Kate had to go through...and I helped kill her.
+
+**Max:** You didn't know anything. Don't think about that now.
+
+**Victoria:** *(tearfully)* God, I was so fucking stupid...
+
+**Victoria:** *(tearfully)* Please, get us out of here!
+
+**Max:** I will... Just try to be calm...
+
+**Victoria:** *(sobbing)* Please don't hate me... Please don't let me die in here...
+
+**Max:** Victoria, nobody is dying in here. We will escape. I promise.
+
+**Victoria:** *(panicked)* You have to get us out of here... You have to!
+
+**Victoria:** *(sobbing)* Oh, Max... I'm so, so sorry... I had no clue...
+
+**Max:** Neither did I...but we do now. I'll find a way out.
+
+**Victoria:** Max... What can we do? What?
+
+**Max:** Hold on, I'm thinking...
+
+**Victoria:** Why is Mr. Jefferson doing this? Why?!
+
+**Victoria:** *(sobbing)* This can't be real... I want to wake up...
+
+**Max:** I need you to help me, okay?
+
+**Victoria:** *(sobbing)* Max... You have to help us... you have to...
+
+'''Max's Thoughts**
+
+**Max:'* *(thinking)* He drugged me for his fucked up binders...just to take photos...
+
+**Max:** *(thinking)* I could try another photo... It makes me sick just thinking about him...
+
+**Max:** *(thinking)* Jefferson was too good to be true... How could I miss the signs?
+
+**Max:** *(thinking)* Okay, I changed some things... I could use some of these new pictures...
+
+**Max:** *(thinking)* I can still get out of this and save Chloe... I have to.
+
+**Max:** *(thinking)* How long has he been hiding all this?
+
+**Max:** *(thinking)* You are not going to die in here...
+
+*Max looks at another photo of herself on the trolley.*
+
+**Max:** *(thinking)'' Whoa... I—I'm definitely more awake in this photo... I could try this one.
+
+*Max focuses on the photo.*
+
+**Max:** *(thinking)* This might work. Please work...
+
+###  **Second Focus** # 
+**Jefferson:** *(during the focus)* So wise yet so innocent...
+
+*Max is still tied up in her chair while Mr.Jefferson takes photos of her from behind a camera mounted on a tripod.*
+
+**Jefferson:** I'm getting some spectacular images here, Max. Yes, Victoria would kill to be in your place, but...she doesn't understand our...connection. You're the winner, Max. I choose you...your portrait.
+
+**Max:** Fuck you.
+
+**Jefferson:** You're trying too hard. I know you're scared... You all have the same doe-eyed look when you wake up here. Replaced by fear as you realize what's about to happen.
+
+**Max:** Mr. Jefferson, why are you doing this?
+
+*Jefferson steps away from the tripod and approaches Max.*
+
+**Jefferson:** Oh, Max... I'm so glad you asked that question. Simply put, I'm obsessed with the idea of capturing that moment innocence evolves into corruption. That shift from black, to white, to grey, and beyond... Most models are cynical. They...lose that naiveté. However, some [Blackwell Academy](blackwell.md) students carry their hope and...optimism with them like...an aura. And those lucky few become my models...my subjects.
+
+**Max:** Yes, you're a psychopath. And this is your last session.
+
+**Jefferson:** Au contraire, Max. I'm so sane, that nobody knows what's happening to you right now.
+
+(Victoria was kidnapped)(Victoria was kidnapped)
+
+**Jefferson:** As you can see, Sleeping Beauty here is too harsh for my gentle lens.
+
+**Jefferson:** And don't get me started on your late partner. I had enough of those faux-punk sluts in my Seattle days.
+
+You killed Chloe.# You killed Chloe.
+
+**Max:** *(angrily)* You killed Chloe! You murdered my best friend.
+
+**Jefferson:** She had a loaded weapon. This was clearly self-defense; but that's what happens when you play with guns...or try to fuck with me. It's better when they don't know...like pure...sweet...Kate.
+
+|-|Go to hell.Go to hell.
+
+**Max:** Go to hell. You will, for everybody you've hurt.
+
+**Jefferson:** Unlike pure, sweet Kate Marsh, I don't believe in that bullshit. She could have been my masterpiece. The world is what an artist makes it...and my muse—
+
+Blah blah blah.# Blah blah blah.
+
+**Max:** Blah, blah, blah... God, I hate your voice now.
+
+**Jefferson:** You might as well savor it, considering it's the last you'll hear. Oh... *[chuckles]* That struck a nerve. Your face changed color...beautiful.
+
+|-|Kate survived. (Kate is alive)Kate survived. (Kate is alive)
+
+**Max:** Kate believed, and she survived. You failed to break her. She's stronger than ever. And she'll outlive you.
+
+**Jefferson:** She'll certainly outlive you. *[chuckles]* Who knows? Maybe I'll pay Kate a visit soon and test her faith again...
+
+|-|Artists don't kill. (Kate is dead)# Artists don't kill. (Kate is dead)
+
+**Max:** Artists don't drive teenagers to suicide for any bullshit muse. You trained Nathan to drug Kate...to take photos of her. That's why she's dead.
+
+**Jefferson:** Which makes me sad, Max. I will miss her... Kate had such a strong spirit...it was very satisfying to break it down.
+
+**Max:** *(angrily)* You will not get away with this. I want you to know that.
+
+(Blamed Jefferson)(Blamed Jefferson)
+
+**Jefferson:** When you told the principal that I made Kate cry, I thought you almost had me. It's good our esteemed [Raymond Wells](principal_wells.md) is like most administrators...a closet drunk.
+
+|-|(Blamed David)# (Blamed David)
+
+**Jefferson:** Then why did you blame [David Madsen](david_madsen.md) for stalking Kate? Of course, he was the only person who was about to find out the truth. Irony.
+
+|-|(Blamed Nathan)(Blamed Nathan)
+
+**Jefferson:** Too bad you already made a convincing argument against Nathan in the [Principal Wells' Office](principal_s_office.md). Thank you so much for setting him up for me.
+
+**Jefferson:** I do know that the Prescotts are going to have a major scandal when the town finds out what their elite son has been doing for homework...
+
+You used Nathan.# You used Nathan.
+
+**Max:** You used Nathan.
+
+**Jefferson:** I prefer the term "manipulated." Like with an image... Nathan's was easy to twist around.
+
+|-|He's as sick as you.He's as sick as you.
+
+**Max:** He's as sick as you.
+
+**Jefferson:** Don't...judge people, Max. But that's why Nathan never should have been at Blackwell...
+
+{{#tag:tabber|You didn't care.# You didn't care.
+
+**Max:** You didn't care about him.
+
+**Jefferson:** You're wrong again. He was genuinely talented. And [Sean Prescott](his_father.md) is a serious asshole, as you might know...
+
+**Max:** I know.
+
+{{!}}-{{!}}That makes two.That makes two.
+
+**Max:** That makes two of you.
+
+**Jefferson:** I helped Nathan realize his vision... So few people get that chance...
+
+**Max:** You brainwashed him!
+
+}}
+
+**Jefferson:** I became a sort of...father figure for Nathan. It happens often in teacher/student relationships. It was kind of...touching, for a while.
+
+**Max:** Did you tell him everything about your plans at Blackwell?
+
+**Jefferson:** Don't be stupid, Max. I told him what he needed to hear. In return, I had access...to the Prescott fortune; who do you think paid for this glorious dark room and equipment? How else could I get all these hip, new drugs for my subjects?
+
+**Max:** Rachel Amber was your victim, not your "subject".
+
+**Jefferson:** *(quietly)* Oh...Rachel Amber... Hm. *(normally)* That's the real tragedy. Nathan thought he could be an artist like me...instead, the dumbass gave her an overdose.
+
+Why Rachel?# Why Rachel?
+
+**Max:** Why Rachel?
+
+**Jefferson:** I don't have time to tell you everything. But she... was special. A human chameleon... So many visual possibilities... We had a real connection.
+
+{{#tag:tabber|She let you take pictures?She let you take pictures?
+
+**Max:** Did she let you... take pictures of her?
+
+**Jefferson:** Rachel was in love with me. That's not my ego. Just look at our sessions. Not that I'll let you. Nobody loved having their picture taken more.
+
+{{!}}-{{!}}Did you know Frank?# Did you know Frank?
+
+**Max:** Did you know she also had a connection with Frank?
+
+**Jefferson:** Let's be honest, she was doing the classic "bad boy" thing. She was over Frank before it began. He just didn't know.
+
+}}
+
+|-|Chloe and Rachel.Chloe and Rachel.
+
+**Max:** Chloe and Rachel...you killed both of them!
+
+**Jefferson:** They're fucking together in heaven right now. Is that what you wanna hear?
+
+**Max:** Why? Why?!
+
+**Jefferson:** *(mockingly)* "Why? *[sniffles]* Why?" *(angrily)* Start listening to me, you dumb cunt! *(normally)* I'm sorry, Max. *[chuckles]* That was not cool.
+
+**Jefferson:** Anyway, Rachel is dead. But no tears, [Los Angeles](los_angeles.md) would've killed her anyway, so, look at this as a favor.
+
+**Max:** You're evil.
+
+(Max stopped Warren from beating Nathan)# (Max stopped Warren from beating Nathan)
+
+**Jefferson:** Oh, I see; you're "good" because you stopped [Warren Graham](your_friend.md) from beating Nathan up.
+
+|-|(Warren beat up Nathan)(Warren beat up Nathan)
+
+**Jefferson:** Oh, I see... You and your friends almost beat Nathan to death. You see, we're not so different.
+
+**Max:** Yes, yes we are.
+
+**Max:** I cared more about Nathan than you did.
+
+**Jefferson:** *(angrily)* No! You didn't. It's just too bad he fell in lust with Rachel; he actually thought he could mimic what I do with a camera and subject; like father, but not like son.
+
+**Max:** Where is Nathan now?
+
+**Jefferson:** Dead and buried. After what he did to Rachel, I knew I couldn't keep him as a protégé for much longer. Now the police will never find his body... Do you finally get it now, Max? I can't compromise my vision with amateurs.
+
+**Max:** You are an amateur. Look at the trail of death you've left behind. You can't blame all this on Nathan! I don't care what you do to me. You're gonna die, motherfucker! For Chloe, and Rachel, and everybody else!
+
+**Jefferson:** I do love your spirit, Max, but you brought yourself here, by your own choice. Anyway, I like my models to be seen and not heard...so I have to make sure...there's nothing left behind...of you.
+
+*Jefferson goes over to the camera tripod.*
+
+**Jefferson:** Okay. Now, let's see how these shots came out. I can see why your [Max's Camera](instant_camera.md) is so appealing. *[goes to the shelf and turns on stereo]* You don't need a computer to print your work out.
+
+*Jefferson goes to the back of the Dark Room to work on the photos.*
+
+'''Jefferson's Comments About the Photos**
+
+**Jefferson:** Oh, now this one... This is purity personified...
+
+**Jefferson:** Max...I wish you could see yourself now...
+
+**Jefferson:''' This one is out of focus... But that's my fault, Max.
+
+**Jefferson:** God, I wish you had been around back in my day...
+
+**Jefferson:** Your eyes are so wide... so lost... Beautiful.
+
+**Jefferson:** Man, I would love to share this with the world...
+
+**Jefferson:** Now look at this one... Total gallery bait...
+
+**Jefferson:** It's too bad I'm the only one who can frame you...
+
+**Jefferson:** Oh... now this is art...
+
+'''Max's Comments to Herself**
+
+**Max:'* *(thinking)* Sorry. This is not art...
+
+**Max:** *(thinking)'' If I talk to him... distract him... maybe he'll give up a photo.
+
+**Max:** *(thinking)* Come on, Max... Think, girl!
+
+''Max looks at [Max's Journal](her_journal.md) in the corner.*
+
+**Max:** *(thinking)* I have all those photos in my diary... This could be a way out.
+
+*Max rewinds and speaks to Jefferson as he turns to leave.*
+
+**Max:** Wait! Please, Mr. Jefferson...
+
+**Jefferson:** Max... *[turns around to face her]'' I would love to talk shop, but I really need to go over these pictures. Especially while they're fresh in my mind... I think our session...was a career high for me...
+
+Let me go.# Let me go.
+
+**Max:** Let me go and I'll help you. Let me help you, please...
+
+**Jefferson:** Don't beg! Never beg. I hate that. Anyway, let's enjoy our final moment, before I have to end our memorable session, with your death.
+
+|-|Show me the photos.Show me the photos.
+
+**Max:** Could you... Could you show me the photos?
+
+**Jefferson:** That's the first time one of my models down here has asked me that. Of course you would... But I love that the last thing you'll ever see is yourself...through my camera eye. Too perfect.
+
+|-|What are you going to do?# What are you going to do?
+
+**Max:** What... What are you going to do to me?
+
+**Jefferson:** I'm going to make you live forever in my photographs. That's all that will be left of Maxine Caulfield. They won't even find your bag...
+
+|-|My diary. (Max looked at diary or Jefferson mentioned her bag)My diary. (Max looked at diary or Jefferson mentioned her bag)
+
+**Max:** You...you still have my diary.
+
+**Jefferson:** Don't worry...nobody's going to read it. Thanks for reminding me.
+
+''Jefferson approaches Max's journal and picks it up.''
+
+**Jefferson:** There's nothing more innocent than a teenager's diary. Oh...look at your selfies. What a waste of talent.
+
+''Jefferson throws Max's journal to the floor and it opens to a page with a selfie of Max in the photography classroom.*
+
+**Jefferson:** Look at that shot, Max... You can do so much better.
+
+*Jefferson walks away, turns on the stereo, and returns to looking at his photos of Max. Max looks down at her diary and focuses on her selfie.*
+
+##  **Photography Lab** 
+**Victoria:** *(during focus)* ...hopeless faces. You feel, like, totally haunted by the eyes of those sad mothers and children.
+
+**Jefferson:** I could frame any one of you in a dark corner, and capture you in a moment of desperation. Sh, sh, sh. I believe Max has taken what you kids call a "selfie". A dumb word *(in background as Max thinks to herself)* for a wonderful photographic tradition. And Max...has a gift. Of course as you all know...
+
+**Max:** *(thinking)'' I'm back... Right back where I started this insane week... And nobody is going to hurt Chloe ever again...
+
+**Jefferson:** ...the photo portrait has been popular since the early 1800s. Your generation was not the first to use images for "selfie-expression". Sorry. I couldn't resist. The point remains that the portraiture has always been a vital aspect of art, and photography, for as long as it's been around. Now, Max, since you've captured our interest and clearly want to join the conversation, can you please tell us the name of the process that gave birth to the first self-portraits?
+
+A real visionary.# A real visionary.
+
+**Max:** The Daguerreian Process. He was a real visionary...not a hypocrite.
+
+**Jefferson:** Uh... *[chuckles awkwardly]* What do you mean by that?
+
+**Max:** I mean that he actually created something. He didn't just take pictures of models and pretend they were art.
+
+*Victoria turns in her seat to glare at Max, resting her arm on the back of her chair.*
+
+**Jefferson:** I'm not sure I get the connection, but... Uh...yes. The Daguerreian Process made portraiture hugely popular, mainly because it gave the subjects clear, defined features. You can learn more when you actually finish reading the assigned chapters. Max has...clearly read more into them than...I have.
+
+|-|Daguerreian Process.Daguerreian Process.
+
+**Max:** The Daguerreian Process.
+
+**Jefferson:** Oh. Well...that was easy, Max.
+
+**Max:** Was it? *[scoffs]* Okay.
+
+*Victoria turns in her seat to glare at Max, resting her arm on the back of her chair.*
+
+**Jefferson:** Well...uh... Okay, then. So, uh, the Daguerreian Process made portraiture hugely popular, mainly because it gave the subjects clear, defined features. You can learn more when you actually finish reading the assigned chapters. Obviously...Max has read them.
+
+|-|Not "capturing."# Not "capturing."
+
+**Max:** I'm not into "capturing" your interest. That's kind of sick, isn't it?
+
+**Jefferson:** Uh... *[chuckles awkwardly]* I guess somebody hasn't had their coffee... Do you wanna try again?
+
+**Max:** Okay, okay, the Daguerreian Process. *[scoffs]* Blah, blah, blah.
+
+*Victoria turns in her seat to glare at Max, resting her arm on the back of her chair.*
+
+**Jefferson:** Let's...let's move on, hm? Uh, anyway, so the Daguerreian Process made portraiture quite popular, mainly because it gave the subjects clear, defined features. You can learn more when you finish reading the assigned chapters.
+
+|-|Who cares?Who cares?
+
+**Max:** Who cares? This class is hella bullshit.
+
+**Jefferson:** I'll pretend you didn't say that, and let you try to answer one more...
+
+**Max:** Sorry, there's no time left. I mean, your class is almost over.
+
+*Victoria turns in her seat to glare at Max, resting her arm on the back of her chair.*
+
+**Jefferson:** Oh... Well, uh... Thanks for the warning, Max. So, the Daguerreian Process made portraiture quite popular, mainly because it gave the subjects clear, defined features. You can learn more when you finish reading the assigned chapters. Clearly, Max doesn't have the, uh...time.
+
+*The school bell rings and the students begin collecting their things and leaving the room.*
+
+**Jefferson:** And, guys, don't forget the deadline to submit a photo in the "Everyday Heroes" *(in background as Max thinks to herself)* contest. I'll fly out...
+
+**Max:** *(thinking)* Time to change time...
+
+**Jefferson:** ...with the winner to [San Francisco](san_francisco.md) where you'll be feted by the *(in background as Max thinks to herself)* art world. It's great exposure and it can kickstart a career in photography. So...
+
+**Max:** *(thinking)* First, let's make it real easy to capture Mark Jefferson.
+
+**Jefferson:** ...Stella and Alyssa, get it together. Taylor, don't hide, I'm still waiting for your entry too. And, yes, Max, I see you pretending not to see me.
+
+**Max:** *(thinking)* Bastard. I have to warn David about Jefferson and the Dark Room.
+
+*Max searches her bag and finds a pamphlet for Blackwell.*
+
+**Max:** *(thinking)* *[sighs]* I should be able to track down David's number from the school pamphlet.
+
+''Max flips through the pages until she finds David's number.*
+
+**Max:** *(thinking)* Found you!
+
+*Max takes out her phone to text David.*
+
+**Max:** *(thinking)'' For once, David...I'm praying you'll overreact to this as much as everything else...and take Jefferson down fast.
+
+**Max (SMS):** Mr. Madsen. You're after Rachel Amber. Mark Jefferson is guilty. His Dark Room is under the [Prescott Barn](prescotts__farmhouse.md). You know the location. He's sick and dangerous. Stop him.
+
+*Max deletes her message after sending it and puts her phone in her pocket.*
+
+**Max:** *(thinking)* You wanted me to enter the contest, asshole.
+
+*Max grabs her bag and gets up from her seat.*
+
+**Max:** *(thinking)* So maybe I'll be going to San Francisco. And, Jefferson...you'll be going to prison.
+
+''Max's nose starts bleeding and she wipes the blood away.*
+
+**Max:** *(thinking)* The past within the past... *[sighs]* Am I pushing myself too hard?
+
+**Optional Conversation with Kate**
+
+*Max approaches Kate and Kate looks up at her.''
+
+**Max:** Hi, Kate...
+
+**Kate:** Oh... Hey, Max.
+
+**Max:** Kate, listen to me...
+
+**Kate:** I am.
+
+**Max:** Always remember that you're not alone. I've got your back, no matter what happens. So do a lot of other people. We all care. We're all here for you. You need to know that.
+
+**Kate:** Max... That makes me feel so blessed for the first time this week... I...I don't know what to say...
+
+**Max:** That's okay, neither do I. Maybe we could both use a hug.
+
+*Kate gets up and she and Max hug.*
+
+**Kate:** Thanks. You always know the right thing to do.
+
+*Kate returns to her desk.*
+
+**Conversation with Jefferson and Victoria**
+
+**Max:** *[crosses her arms]* Mr. Jefferson? We need to talk.
+
+**Jefferson:** Uh—
+
+**Victoria:** Can you see I'm talking to Mr. Jefferson now?
+
+(Victoria was kidnapped)# (Victoria was kidnapped)
+
+**Max:** Yes, I see. But maybe you shouldn't...
+
+**Victoria:** Uh, and why not?
+
+**Jefferson:** Hold on, Victoria. Are you okay, Max?
+
+**Max:** I will be when Victoria realizes that hiding behind a screen, posting videos of people is incredibly cruel and unfair. You're smart enough to know how easy it is to hurt somebody, to destroy their life. I just want you to think about how much it would hurt if somebody did that to you. You can always make the right choice, Victoria. I know you've got a good heart. I've seen it.
+
+**Victoria:** Listen...I...I didn't...
+
+**Max:** You don't have to explain. There's no reason for you to be so insecure you can't be happy with your own talent. Wouldn't it be better to lift people up than to bring them down? You could inspire people...
+
+**Victoria:** Okay, I don't know what you're talking about now... Do I, Mr. Jefferson?
+
+**Jefferson:** I think I should stay out of this one, Victoria.
+
+**Victoria:** *[crosses her arms]* Then I guess I'm done talking.
+
+**Max:** And that's okay too.
+
+*Victoria leaves the classroom.*
+
+**Jefferson:** That was kind of random, Max. What did you mean?
+
+|-|(Victoria wasn't kidnapped)(Victoria wasn't kidnapped)
+
+**Max:** I can see you're kissing ass again. Nothing new.
+
+**Victoria:** What did you just say?!
+
+**Jefferson:** Hold on, Victoria. Are you okay, Max?
+
+**Max:** Not until Victoria knows that hiding behind a screen and posting videos of people is totally fucked up. You know how easy it is to hurt somebody, to destroy their life? Are you proud of yourself? If you have any feelings left, you should think about your actions.
+
+**Victoria:** Listen... *[scoffs]* I—I didn't...
+
+**Max:** Of course you did! You're so insecure, you can't even be happy with your own talent. You have to try and bring everybody down to your mean and ugly lev—
+
+**Victoria:** Okay, *(angrily)* I do not have to listen to this bullshit... Do I, Mr. Jefferson?
+
+**Jefferson:** Well, it looks like you already did, Victoria.
+
+**Victoria:** *[crosses her arms]* Then I guess I'm...done talking.
+
+**Max:** I sure hope so.
+
+*Victoria leaves the classroom.*
+
+**Jefferson:** *[chuckles]* I'm not going to say I didn't enjoy that, but...why?
+
+*Max takes her selfie out and hands it to Jefferson.*
+
+**Max:** Here's my photograph for the "Everyday Heroes" contest.
+
+**Jefferson:** Oh, uh... That was easy.
+
+**Max:** No... It wasn't easy at all.
+
+**Jefferson:** Well, I, uh... I—I can't pre-judge yet, but I'm very...happy you decided to enter. That means a lot to me...and Blackwell. The—the first step for any artist is to put themselves out there, in the world, without fear. To be...innocent.
+
+**Max:** Or guilty.
+
+**Jefferson:** Uh... *[chuckles awkwardly]* Well... Thanks...for the photo. Maybe both of us will be jet-setting to San Francisco this Friday.
+
+**Max:** Or maybe only one of us will be going.
+
+**Jefferson:** Don't be so modest, Max. Anything can happen in a week...
+
+**Max:** As you're going to find out, Mr. Jefferson.
+
+''A [Timestream](timestream_montage.md) shows Chloe in the bathroom with Nathan, Chloe and Max walking on the train tracks, [Diner Cop](a_cop.md) eating breakfast being replaced by several cops investigating the Dark Room, Kate crying in the hallway replaced by Kate and the principal watching Jefferson being arrested, Kate on the roof replaced by the police discovering Rachel's body, Max with Chloe after finding Rachel's body replaced by Max winning the contest, Jefferson killing Chloe replaced by Chloe helping Max pack for San Francisco, and Jefferson taking pictures of Max replaced by Max getting into a taxi to go the airport.*
+
+##  **Plane** 
+*Max wakes up on the [Plane](plane.md). Principal Wells is asleep in the aisle seat next to her.*
+
+**Max:** *(thinking)* Whoa!
+
+*Max looks out the window at the wing of the plane.*
+
+**Max:** *(thinking)'' Okay... You're okay, Max... You're safe...on a plane. I hope I did everything right this time.
+
+*Max leans forward to look at the newspaper in front of Wells. The headline says "Local Teacher Arrested!".*
+
+**Max:** *(thinking)* Good work, David.
+
+*Max takes her phone out of her pocket to check her text messages.*
+
+**Chloe (SMS):** HOLY SHIT YOU RULE MAX!!!!!
+
+**Chloe (SMS):** i am so proud of my superstar
+
+**Chloe (SMS):** this is just the start of your career
+
+**Max:** Chloe... Oh, you're alive... Oh, you're alive. I did it... I fixed everything. Wowser.
+
+*Max puts her phone away again and relaxes in the seat.*
+
+**Announcement:** Please fasten your seat and stow any electronic gear until the plane is on the ground and at the gate. Thank you. We're starting our descent in a few minutes. It's a beautiful day in San Francisco with clear skies and cool 60 degrees. We hope you enjoyed your trip, and we thank you very much for choosing PacificWest Air. Come fly with us anytime.
+
+**Principal Wells:** *(groaning)* Ah, I don't think so. I'm hoping these airline seats get smaller so I won't have to fly at all anymore.
+
+**Conversation with Principal Wells**
+
+**Max:** How did you sleep?
+
+**Principal Wells:** Hope I wasn't snoring out loud, Max...
+
+**Max:** Just a bit.
+
+**Principal Wells:** It's...been a tough week at Blackwell, so I hope you'll forgive me. Between Mr. Jefferson and the Prescotts, things have been...hectic, to say the least.
+
+**Max:** I totally get it, Principal Wells.
+
+**Principal Wells:** That's a smart way of telling me to stop whining. We are proud of you for representing Blackwell at the "Everyday Heroes" contest. I know I'm not exactly the guide you wanted in San Francisco. But we all want you to have a great experience here.
+
+**Max:** I already am, and we're not even there.
+
+''Max's nose starts bleeding and she wipes away the blood.*
+
+**Max:** *(thinking)'' Christ! Another nosebleed? Max...you're not just screwing around with time...
+
+*The screen fades out. Another timestream montage appears: Max tied to a chair in the Dark Room is replaced by Max and Wells exiting the airport and getting into a taxi.*
+
+##  **Zeitgeist Gallery** 
+###  **Ground Floor** 
+*Max walks slowly near the entrance of the [Zeitgeist Gallery](gallery.md) and stares in awe at the people and pictures. Principal Wells is talking to the woman at the front desk. Max approaches him and touches his arm to get his attention, and he turns to face her.*
+
+**Max:** San Francisco is so cool...and this gallery is huge!
+
+**Principal Wells:** So is the buffet. If an event skimps on the food, you know it's a bad event.
+
+**Max:** As long as I don't have to eat any caviar...
+
+**Principal Wells:** This is your day, Max. You can do whatever you want. I hope you take advantage of your status and talk to as many influential people here as possible. Work the room.
+
+**Max:** I don't know... I feel so weird, like I'm a little kid hanging with the adults.
+
+**Principal Wells:** Max, after this week, you are certainly not a little kid anymore. In fact, you're a noteworthy adult being honored by your peers. Now, you have to start acting like the photographer you want to be. Hell, I wanted to be in charge of a big school someday, so I started taking charge of things when I was young. *[chuckles]* Ask my poor classmates... Max, I'm gonna eat up that caviar so you don't have to. Better get in there and start schmoozing. You know, I won't always be here to take charge. But you come talk to me, whenever you want.
+
+*Principal Wells pats Max on the back, then leaves and walks toward the buffet table.*
+
+**Max:** Come on, Max... After everything that's happened, this should be the least scary thing you've ever done.
+
+**Max:** *(thinking)* Wowser, Max... You did it. Somehow... I went from the Dark Room...to this gallery. I've been through so many realities in one week. Life is...weird.
+
+**Optional Conversation with the Receptionist**
+
+**Receptionist:** Why, good morning! You must be Max Caulfield. Congratulations for your "Everyday Heroes" photo! The exhibition is quite impressive, especially with your entry.
+
+**Conversation Between Man and Woman Near Neon Art**
+
+**Man:** I heard Mark Jefferson was supposed to be here tonight.
+
+**Woman:** Not anymore.
+
+**Man:** That was so shocking. I have one of his monographs too.
+
+**Woman:** Hold onto it. His work is gonna be worth serious cash.
+
+**Optional Conversation with Man Near Neon Art**
+
+**Man:** Are you Max Caulfield? Bravo on your entry. I'm the art critic for Iris-In Magazine, and we would love to include you in a piece about future trendsetters in photography. I'll send you the details this week, if that's okay. Congratulations for your piece.
+
+**Conversation Between Family Behind Everyday Heroes Board**
+
+**Man:** Look at this print, the depth of field , the colors, look at the bokeh shape, this was definitely shot with a medium format camera, using a Leica 35mm lens. You can definitely find out those details, the story of a photo… if you know how to look at all the details of a picture.
+
+**Woman:** *(sarcastically)* Ooh, this is so interesting Matthew, I didn't think you knew about all this.
+
+**Matthew:** When I was younger I did a lot of photography studies, didn't I tell you about it Emma? I was quite good at it actually, but I decided to drop photography to do a real paying job... Anyway, it is interesting to be here, and you're lucky to be with me here, I can share all of this with you.
+
+**Girl:** Errr Dad, the label says that this is a print from a disposable camera, what are you talking about?
+
+**Matthew:** Oh, yes of course, I was meaning a Leica disposable camera… yes, yes… and don't contradict me anyway...
+
+**Girl:** *[scoffs]* Whatever...
+
+###  **Lower Floor** 
+
+**Optional Conversation with Woman**
+
+**Woman:** Aren't you from Blackwell Academy? I wanted to go there, but I didn't get in... They have such a cool program! I bet you're learning a lot.
+
+###  **Upper Floor** 
+**Optional Conversation with Principal Wells**
+
+''Max touches Wells' shoulder and he turns to face her.''
+
+**Principal Wells:** So, how are you handling your new fame as a photographer?
+
+**Max:** I don't feel like a famous photographer yet.
+
+**Principal Wells:** Every journey starts with the first step. I'm only a Blackwell bureaucrat, not an artist, but you've made us proud with the great response to your work so far.
+
+I'm lucky.# I'm lucky.
+
+**Max:** I don't know... I—I'm just lucky. There's no way I'm a real photographer yet.
+
+**Principal Wells:** Don't sell yourself short, Max.
+
+|-|It's surreal.It's surreal.
+
+**Max:** It's kinda surreal to be here after everything that happened at Blackwell...
+
+**Principal Wells:** All the more reason to celebrate your success.
+
+**Max:** Maybe I feel guilty for celebrating...
+
+**Principal Wells:** Leave that to me. I...I should've been more proactive about Kate Marsh and her awful situation. She's strong, and I'm glad she made it out of that hell. I should've put my foot down with Nathan Prescott...or put my foot in his ass.
+
+Not your fault.# Not your fault.
+
+**Max:** It's not your fault. You didn't know what really happened...
+
+**Principal Wells:** I know, but...that's not a good excuse for a principal.
+
+|-|Jefferson fooled us.Jefferson fooled us.
+
+**Max:** Mark Jefferson was good at hiding his tracks... We were all fooled by him.
+
+**Principal Wells:** Most of all, me. As you might know, I have a weakness for prestige.
+
+|-|I tried to tell you. (reported Nathan)# I tried to tell you. (reported Nathan)
+
+**Max:** I did tell you that Nathan was involved...not that I expected anyone to believe me...
+
+**Principal Wells:** I'll regret that for the rest of my life, Max. The Prescotts knew how to protect their own.
+
+|-|I should have told you. (hid the truth)I should have told you. (hid the truth)
+
+**Max:** I should've told you that Nathan brought a gun to school this week. Maybe things would've been different.
+
+**Principal Wells:** Maybe not. I probably wouldn't have believed that he did. The Prescotts have a way of getting their way...or should I say "had"?
+
+**Principal Wells:** And Jefferson had such a great reputation. Nobody expected him to be so...disturbed. I couldn't believe the police found those sick photos in his dark room. *[sighs]* Those poor girls...
+
+**Max:** At least he's in jail along with Nathan for kidnapping and murder.
+
+**Principal Wells:** And Sean Prescott is now under serious investigation for all his years of corruption. Money and power can only protect you for so long in Arcadia Bay. The irony is that, for once, Sean Prescott actually had no clue what was going on with Jefferson...and he even brought him to Blackwell.
+
+Strange weather.# Strange weather.
+
+**Max:** Now if we can just...figure out what's going on with the weather...maybe everything will be like it was before.
+
+**Principal Wells:** Environmental science is above my paygrade, Max. But it sure would be nice to get back to Blackwell Academy the way it was before.
+
+|-|Maybe it's karma.Maybe it's karma.
+
+**Max:** I—I'd like to think there's some karma involved... The Prescotts have had this coming.
+
+**Principal Wells:** I do believe that what goes around, comes around. I just hope it's all good for a change.
+
+**Max:** I'm hoping this is a fresh start, Principal Wells.
+
+**Principal Wells:** Like I said before, you're an adult now, Max. You can call me Ray now, at least for this event. Now, if you'll excuse me, I hear the buffet calling for me again...
+
+**Conversation Between Man and Woman**
+
+**Man:** I know it's kinda simple, but...I find this haunting.
+
+**Woman:** Right? The instant print makes it look timeless... nostalgic melancholy.
+
+**Man:** Who's the artist?
+
+**Woman:** A teenage girl... I think it's for some contest.
+
+**Man:** That's cool. Seems...pretty mature.
+
+**Optional Conversation with Man**
+
+**Man:** Oh, hey, you're the one who entered the self-portrait! Or, actually, do you call it a "selfie"? Anyway, I was very impressed about how you subverted it to make all of your photo subjects to focus... Huh! Very smart.
+
+**Comment From Woman in Striped Stockings**
+
+**Woman:** Like...I do not understand art.
+
+**Optional Conversation with Man in Striped Shirt**
+
+**Man:** Well, I have to say, this is the best "Everyday Heroes" show I've seen since it began. All the pictures say a lot about our times... Bravo.
+
+**Comments From Woman in Red Jacket**
+
+**Woman:** How much would you pay for that?
+
+**Woman:** I guess everybody is a photographer now...
+
+**Optional Conversation with Woman with Red Socks**
+
+**Woman:** Um, excuse me. I—I just wanted to tell you how much I loved your photograph. I've seen a lot today, but there's something...powerful and understated in yours. I can't wait to see much more of your work in the future.
+
+**Optional Conversation with Journalist**
+
+**Journalist:** Hi, e—excuse me. You're Max Caulfield, right?
+
+**Max:** Um...yeah. Yes...
+
+''He shakes Max's hand.''
+
+**Journalist:** Sorry to bother you, but my name is [Daniel Lee](danny_lee.md) and I'm with the Berkeley People's Herald. I edit their art section and I totally dig your work. Now, I know the whole "ironic selfie" thing is kind of...played out, but there's something...timeless about your images. So, I—I'd love to set up an appointment or—or interview with you when you get a chance. Uh, here's my card. *[hands Max his business card]* So great talking with you, Max.
+
+**Max:** You too, Danny.
+
+**Comment From Man with Gray Jacket**
+
+**Man:** Bad exposure...bad framing...bad picture. I could've done this so much better.
+
+**Comment From Man with Orange Vest**
+
+**Man:** This makes me feel so sad... Like I was back in high school...
+
+**Optional Conversation with Man in Orange Vest**
+
+**Man:** Usually, these kinda contests, they, uh, they put me to sleep, but I like how this show is about specific actions, you know, not just...abstractions. The Zeitgeist is doin' some unique stuff this year.
+
+**Comment From Woman in Purple Jacket**
+
+**Woman:** I always get so inspired whenever I come here.
+
+**Optional Conversation with Woman in Purple Jacket**
+
+**Woman:** Hey, I love your shot. I just wanted to say congratulations, and I hope you get a lot more attention.
+
+**Comment From Man in Dark Suit**
+
+**Man:** I wonder if I can buy these "Everyday Heroes" pictures...
+
+**Optional Conversation with Man in Dark Suit**
+
+**Man:** Sorry, I don't know your name, but I saw your picture in the gallery brochure and, uh, I just wanted to let you know how cool your entry was.
+
+**Comment From Woman in Green Jacket**
+
+**Woman:** God....I love art.
+
+**Optional Conversation with Woman in Green Jacket**
+
+**Woman:** You must be the Everyday Hero from Blackwell... My name is Lauren Francis and I run the media department at Detroit School of Visual Arts. I'd love to talk about you being a residency next spring... *[inhales]* Don't say anything to Principal Wells... *[scoffs]* Yet.
+
+**Comment From Man in Dark Blue Jacket**
+
+**Man:** How do these galleries afford to rent here?
+
+'''Conversation Between Group By Max's Photo**
+
+**Woman:** It is different... Loving the retro vibe.
+
+**Man:'* Me too. Makes me wanna go buy an instant camera. Damn, I bet that film costs a fortune.
+
+*Max looks at her photo.*
+
+**Woman:** Hey, and there she is to save the day.
+
+**Max:** Hi.
+
+**Max:** *(thinking)'' You did it, Max... You're a real artist. At least...for today...
+
+''Max's nose starts to bleed. She grasps her head in her hands as visions of the storm flash and swirl.*
+
+**Chloe:** *(faintly, echoing)* Max!
+
+*Max awakes from her vision.''
+
+**Max:** Chloe!
+
+**Woman:** Hey, are you okay? We lost you there for a second...
+
+**Man:** Uh, your nose!
+
+**Max:** I'm okay... Uh, jet lag... High altitude...
+
+*Max walks away and the group watches her with concern.*
+
+###  **Lower Floor** 
+*Max sits down on one of the benches, holding her phone.*
+
+**Max:** *[sighs]* You left the ringer off, idiot!
+
+*Max sees that she has 6 missed calls from Chloe. She dials her number and lifts the phone to her ear.*
+
+**Max:** *[sighs]* *(worriedly)* Come on... Please answer...
+
+**Chloe:** *(over phone, scared)* Max! Holy shit, man! Your vision! It's...it's true! Y—you saw the tornado, it's coming!
+
+**Max:** What?! Oh, no... Chloe, where are you?
+
+**Chloe:** *(over phone, scared)* I'm so fucking scared! I'm...I'm by the beach, I—I'm stuck in the t—ah—!
+
+''Chloe's voice cuts off and there is silence on the phone.*
+
+**Max:** *(worriedly)* Chloe! Can you hear me? Hello? Hello?!
+
+*Max puts her phone back in her jacket and gets up.*
+
+**Max:** *(thinking)* Oh, my god, *[sighs]* the tornado was real! *[sighs frustratedly]'' Oh, I didn't fix shit! Chloe will die... Arcadia Bay is gonna be destroyed... There has to be a way to stop this...for good!
+
+###  **Upper Floor** 
+*Max returns to her photo and attempts to focus on it. The longer it takes her to focus, the more people will interrupt her.*
+
+*She is interrupted by a man trying to talk to her.*
+
+**Man:** Excuse me, I'd love to ask you a few questions about your work?
+
+**Max:** Sorry, but...
+
+*Max resumes her focus. She is interrupted again, this time by a woman wearing glasses.*
+
+**Woman:** Oh, you're Max Caulfield, right? Tell me what kind of instant camera you used!
+
+**Max:** Can we talk later? Thanks...
+
+*Max attempts to focus again.*
+
+**Max:** *(thinking)* I literally do not have the time to deal with everybody...
+
+*Another man tries to talk to Max.*
+
+**Man:** Oh, hey... I totally am into your photography.
+
+**Max:** Not right now...
+
+*Max resumes focusing.*
+
+**Max:** *(thinking)* Focus, Max! Chloe needs you now!
+
+*A woman interrupts Max.*
+
+**Woman:** Oh, my gosh! *[gasps]* Can I pick your brain for an hour?
+
+**Max:** Thanks, but I—I'm busy...
+
+*Max tries to focus again.*
+
+**Max:** *(thinking)* Zen, Max, zen... *[sighs]* There's nobody here but you...nobody...
+
+##  '''Max's Room'* 
+*A camera flash goes off. Max stands in her room, in front of her [The Max Caulfield Photo Memorial Wall](wall_of_photos.md). Her nose starts bleeding again.*
+
+**Max:** Oh, shit! Oh, my head...
+
+*Max looks at her room; the walls are red and yellow blobs, shifting and moving.*
+
+**Max:** *(thinking)* What is going on now? I—It feels like reality is...breaking apart... *[shaky breath]* What am I doing to time?
+
+*Max looks at the polaroid photo she just took.*
+
+**Max:** *(thinking)'' I just have to make one simple change...so I won't end up in San Francisco. *[sighs]* Simple...
+
+*Max tears up her contest photo.*
+
+**Max:** Sorry, San Francisco... Chloe comes first.
+
+''A timestream montage is shown. Max holding up the winning contest photo is replaced with Max putting the torn photo in her diary. Max getting into a taxi is replaced with Jefferson burning Max's diary. Max entering a taxi with Wells is replaced by Max tied to a chair in the Dark Room. Max looking at her photo in the art gallery is replaced with Jefferson entering the Dark Room.*
+
+##  **Dark Room** 
+*Max wakes up in the Dark Room, tied to the chair.*
+
+**Max:** Oh, fuck! *(thinking)'' God, no... I'm back here again?! I thought I fixed everything!
+
+*Jefferson stands over Max, his arms crossed.*
+
+**Jefferson:** What did you say, Max?
+
+**Max:** *(thinking)* What?! Jefferson should be in jail, not here...
+
+**Jefferson:** Jesus. It's like you're back in my class. You're still...spacing...out. It might be cool if you took one of your patented selfies now... The transformation between the old Max and the new Max...
+
+''Max's right foot is shown to be free from the restraint. Max's fearful and confused expression turns to a scowl.*
+
+**Jefferson:** Anyway, answer my question, please.
+
+Eat shit and die.# Eat shit and die.
+
+**Max:** Eat shit and die.
+
+|-|Fuck you.Fuck you.
+
+**Max:** Fuck you.
+
+**Jefferson:** Good answer, good answer.
+
+*Max's nose begins bleeding. Jefferson leans in to inspect it and holds Max's head as she struggles, then steps back.''
+
+**Jefferson:** Hey...your nose is bleeding. Probably gave you too big a dose. Sorry about that, Max. But considering you're about to die, a nosebleed is a first-world problem.
+
+(Victoria was kidnapped)# (Victoria was kidnapped)
+
+*Max looks over to where Victoria was previously lying on the floor, only to find it empty.*
+
+**Jefferson:** Oh. I had to let Victoria Chase go.
+
+**Max:** You let her...?
+
+**Jefferson:** Don't be stupid, okay?! She's exactly where she deserves to be.
+
+**Max:** *(horrified)* No...
+
+**Jefferson:** Oh, as if you care.
+
+**Jefferson:** Your iris... That...dilation like a shutter...the pictures you're taking of me now. Too bad you pissed away your gift. You could have won the contest, but you destroyed your own beautiful photograph. What a waste. Sorry. I burned all your stuff. I got a little carried away.
+
+*Max looks over to see the burned remains of her journal in a tray on the trolley.*
+
+**Jefferson:** *(in background)* You know, I always believed in your vision.
+
+**Max:** *(thinking)* Fuck! He burned my diary! That's why I'm still here.
+
+**Jefferson:** Especially since you've developed from nerd to hero within a week. There's something...weird going on with you.
+
+*The lights in the room flicker and thunder can be heard outside. Jefferson looks at the ceiling and then back at Max.*
+
+**Jefferson:** Whoa! Did you see how crazy it is outside? Like I said...something weird... There's that fear... Oh, Max... It's an honor working with you on these final sessions. I hope these images will be appreciated for what they truly capture. The loss...of youth. *[chuckles]* At least...that's the last lecture you'll ever have to hear from me.
+
+(First time)(First time)
+**Jefferson:** And I promise you...no more nosebleeds.
+
+**Max:** *(shaky voice)* Mr. Jefferson... Please...don't do this. You don't know what's happening.
+
+**Jefferson:** Sh-sh-sh-sh-sh... Quiet...quiet, Max.
+
+*Jefferson walks away and Max struggles against her bonds, sobbing a little.*
+
+**Max:** Please! Don't do this!
+
+*Jefferson fills a syringe and walks over to Max.*
+
+**Jefferson:** I promise. This final dose won't hurt.
+
+''Jefferson tilts Max's head to expose her neck, about to inject her with the needle. Noises are heard outside the room.''
+
+**Jefferson:** What?
+
+|-|(Rewound to this point)# (Rewound to this point)
+
+**Jefferson:** And I promise you...no more nosebleeds.
+
+**Max:** Wait! Hold on! Can I...can I please ask you for one last...request?
+
+**Jefferson:** Oh, you got me, Max. How can I deny that face?
+
+{{#tag:tabber|Some water?Some water?
+
+**Max:** Uh...excuse me, but my throat is scratchy... Can I please have some water?
+
+**Jefferson:** Of course. I don't want you to be uncomfortable.
+
+*Jefferson moves the trolley closer and pours Max a glass of water, holding it to her mouth so she can drink it. He goes back, prepares the syringe, and approaches Max with it.*
+
+**Jefferson:** I promise. This final dose won't hurt. *(hears noise)* What?
+
+{{!}}-{{!}}Turn off the lights?# Turn off the lights?
+
+**Max:** And would you mind turning off the lights? They make me squint, so I won't look good for the shot.
+
+**Jefferson:** Now, you're thinking like a real photographer... *(turns off lights facing Max)* And I don't want your last memory to be bad lighting...
+
+*Jefferson approaches Max with the syringe.*
+
+**Jefferson:** I promise. This final dose won't hurt. *(hears noise)* What?
+
+{{!}}-{{!}}One last picture?One last picture?
+
+**Max:** Would you...take one last picture of me? I...I want to be your best subject.
+
+**Jefferson:** I almost don't believe that, but I think you've finally learned from me.
+
+*Jefferson picks up the camera and takes a picture of Max, then places the camera next to the couch. He then prepares the syringe and approaches Max with it.*
+
+**Jefferson:** I promise. This final dose won't hurt. *(hears noise)* What?
+
+{{!}}-{{!}}Play some music?# Play some music?
+
+**Max:** Could you please at least play some music...so I can drift away?
+
+**Jefferson:** Even at the end you're still a dreamer, Max... *(turns on music)* That's a nice trait...
+
+*Jefferson goes over to Max with the syringe, not hearing David enter because of the music. David points his gun at Jefferson.*
+
+**David:** Hold it!
+
+**Jefferson:** What?
+
+*Jefferson ducks behind Max, holding the syringe to her neck. Max is forced to rewind.*
+
+}}
+
+(First time)(First time)
+*Jefferson runs over to hide behind the entrance, putting down the needle and grabbing a tripod. David enters, holding a gun.*
+
+**Max:** *(thinking)* David!
+
+''Jefferson knocks the gun out of David's hands with the tripod. David takes a fighting stance and tries to punch Jefferson, but gets hit in the stomach with the tripod. David doubles over, holding his stomach, and Jefferson hits him in the head, knocking David unconscious.''
+
+**Max:** No, David! No!
+
+**Jefferson:** Jesus... David Madsen! He's out cold... Good. I always hated that fascist fuck. Everybody at Blackwell did, right, Max?
+
+*Jefferson drops the tripod and picks up the syringe, approaching Max again.*
+
+**Jefferson:** Okay... Let's try this one last time...
+
+''He places the tip against Max's neck. Max is forced to rewind.*
+
+|-|(Rewound to this point or before it)# (Rewound to this point or before it)
+
+{{#tag:tabber|(Warn David)(Warn David)*As Jefferson grabs the tripod, Max can warn David.*
+
+**Max:** David, watch out!
+
+{{#tag:tabber|(while Jefferson is near Max)# (while Jefferson is near Max)
+
+*Jefferson doubles back.*
+
+**Jefferson:** Time to shut the fuck up, okay?
+
+*He hits Max with the tripod. Max is forced to rewind.*
+
+{{!}}-{{!}}(while Jefferson hides behind the corner)(while Jefferson hides behind the corner)
+
+*Jefferson turns to her, surprised.*
+
+**Jefferson:** How...how did you know that?!
+
+*Jefferson knocks the gun out of David's hands with the tripod, which causes David's head to contact a column sticking out from the wall. Jefferson swings the tripod at David's head, knocking him to the floor.*
+
+{{#tag:tabber|(No action)# (No action)
+
+*David raises his head as he tries to get up, but Jefferson hits David's head again with the tripod.''
+
+**Jefferson:** Jesus... David Madsen! He's out cold... Good. I always hated that fascist fuck. Everybody at Blackwell did, right, Max?
+
+*Jefferson drops the tripod and picks up the syringe, approaching Max again.*
+
+**Jefferson:** Okay...
+
+''He places the tip against Max's neck. Max is forced to rewind.*
+
+{{!}}-{{!}}(Camera)(Camera)
+
+*Available if Max selected "One last picture?"*
+
+**Max:** Get the camera next to you!
+
+*David takes the camera and throws it at Jefferson, hitting him in the face. He stumbles as David stands up. They face each other in fighting stances.*
+
+{{!}}-{{!}}(Trolley)# (Trolley)
+
+*Available if Max selected "Some water?"*
+
+*Max pushes the trolley with her foot. Jefferson is distracted, and David punches and slaps him, knocking the tripod out of his hands. They face each other in fighting stances.''
+
+}}
+
+}}
+
+{{!}}-{{!}}(Don't warn David)(Don't warn David)
+
+''Jefferson knocks the gun out of David's hands with the tripod. David takes a fighting stance and tries to punch Jefferson, but gets hit in the stomach with the tripod. David doubles over, holding his stomach.*
+
+{{#tag:tabber|(No action)# (No action)
+
+*Jefferson hits David in the head, knocking him unconscious.''
+
+**Jefferson:** Jesus... David Madsen! He's out cold... Good. I always hated that fascist fuck. Everybody at Blackwell did, right, Max?
+
+*Jefferson drops the tripod and picks up the syringe, approaching Max again.*
+
+**Jefferson:** Okay... Let's try this one last time...
+
+''He places the tip against Max's neck. Max is forced to rewind.*
+
+{{!}}-{{!}}(Trolley)(Trolley)
+
+*Available if Max selected "Some water?"*
+
+*Max pushes the trolley with her foot. Jefferson is distracted, and David punches and slaps him, knocking the tripod out of his hands. They face each other in fighting stances.*
+
+}}
+
+}}
+
+**Jefferson:** No gun...no balls...
+
+*(Once this point is reached, Max can rewind only as far as here.)''
+
+**David:** Jefferson! It's over!
+
+**Jefferson:** You are not going to stop me!
+
+(No action/First time)# (No action/First time)
+
+*Jefferson runs over to a cabinet and David chases him, but Jefferson grabs a gun and shoots David, and he falls onto the couch behind him.*
+
+**Jefferson:** David Madsen...of course. Well, this is what you get for playing cop—a real bullet.
+
+*Max is forced to rewind.*
+
+|-|(Jefferson's gun)(Jefferson's gun)
+
+*Max can warn David about the gun.*
+
+**Max:** He's hiding a gun over there!
+
+*Jefferson and David run over to the cabinet. Just as David reaches him, Jefferson gets the gun and shoots David twice.*
+
+**Jefferson:** Sorry, Madsen. Okay... Déjà vu.
+
+*Max is forced to rewind.*|-|(Bottle)# (Bottle)
+
+*Max can tell David to use the bottle.*
+
+**Max:** Grab that bottle!
+
+*David grabs the bottle and throws it at Jefferson, but he ducks, then shoots David.*
+
+**Jefferson:** Sorry, Madsen. You should have stuck to harassing students. Okay...
+
+*Max is forced to rewind.*|-|(David's gun)(David's gun)
+
+*Max can tell David to use the gun knocked out of his hands.*
+
+**Max:** Grab your gun now!
+
+**David:** Got it...
+
+*Just before David reaches his gun on the floor, Jefferson shoots him.*
+
+**Jefferson:** Oh, Christ! David Madsen, you are one stupid son of a bitch, so don't blame me.
+
+*Max is forced to rewind.*|-|(Table)# (Table)
+
+*Max can tell David to use the table.*
+
+**Max:** David! Kick that table!
+
+**David:** Yes, sir!
+
+*David kicks the table at Jefferson, but he kicks it back, then shoots David.*
+
+**Jefferson:** David Madsen... I always hated that mustache... *(chuckles)* You hated him too, Max?
+
+*Max is forced to rewind.*|-|(Cable)(Cable)
+
+''Max uses her foot to pull the cable on one of the lights, knocking it over and distracting Jefferson. David punches Jefferson's face twice, knocking off his glasses and knocking him to the floor. He rushes over to Max and undoes her restraints.''
+
+**David:** Oh, Lord, Max...are you okay? Are you alright? Can you move?
+
+**Max:** Yes... Thank you, David...thank you...
+
+**David:** Don't thank me... You brought me here.
+
+*David notices Jefferson move his head.*
+
+**David:** Let's wrap up this son of a bitch first.
+
+*David holsters the gun on the ground, then punches Jefferson in the face again, knocking him unconscious. Max gets out of the chair.*
+
+**David:** He won't be going anywhere when he wakes up.
+
+*David turns Jefferson over and puts duct tape around his wrists.*
+
+**David:** Except you are going to prison forever. Or worse.
+
+**Max:** Mr. Jefferson? Now it's your turn to be captured in a moment... Save Chloe...
+
+*Max looks at her burned diary.*
+
+**Max:** *(thinking)* He burned everything...including all of my photos... Warren! Yes! I can use that picture he took of us!
+
+*Max tries to use her phone.*
+
+**Max:** Shit! No signal.
+
+*Max grabs the car keys on the table.*
+
+**Max:** Thanks, Mr. Jefferson, but...you won't need this anymore.
+
+*Max puts the keys in her pocket.*
+
+**Max:** *(thinking)* I better go outside and call Warren... Please answer...
+
+'''David's Comments**
+
+**David:''' Max... I'm sorry you had to be here.
+
+**David:** I had no idea he was this sick.
+
+**David:** Now... What the hell is this place?
+
+**David:** Good god...it's a studio.
+
+**David:** The Prescotts had to know about this.
+
+# ###  **Conversation with David** 
+{{#tag:tabber|(Max initiates the conversation)# (Max initiates the conversation)
+
+**Max:** David?
+
+*David gets up.*
+
+**Max:** Are you okay?
+
+**David:** Look at this place...it feels like hell.
+
+(Victoria was kidnapped)(Victoria was kidnapped)
+
+**Max:** Jefferson was...was going to kill me...like he did to Victoria Chase...
+
+**David:** Oh, no...
+
+|-|(Victoria wasn't kidnapped)# (Victoria wasn't kidnapped)
+
+**Max:** Jefferson was going to kill me... You got here just in time.
+
+**David:** I'm glad...
+
+**David:** I always suspected that son of a bitch.
+
+I never did...I never did...
+
+**Max:** I never did...until too late.
+
+**David:** You shouldn't have to suspect your teacher.
+
+**Max:** He wasn't a real teacher. He just...wanted to lecture. It was part of his sick plans.
+
+|-|You suspected everybody.# You suspected everybody.
+
+**Max:** You kind of suspected everybody...
+
+**David:** Yes, and this is what I get for wasting all those hours on the Prescotts... I set my sights too wide, lack of focus.
+
+**Max:** I know the feeling.
+
+(Blamed Nathan)(Blamed Nathan)
+
+**David:** I wasn't surprised when you accused Nathan of drugging Kate Marsh. I thought so, too.
+
+|-|(Blamed David)# (Blamed David)
+
+**David:** I guess I looked just as suspicious when you told Principal Wells that I was...harassing Kate Marsh...and I don't blame you.
+
+|-|(Blamed Jefferson)(Blamed Jefferson)
+
+**David:** Well, you still had the right idea to tell the principal that Jefferson acted shady around Kate Marsh.
+
+(Kate is alive)# (Kate is alive)
+
+**David:** And, Max...I treated Kate like shit... I know she's a good person, but I'm not. I hope I get to tell her that soon.
+
+{{#tag:tabber|Me too.Me too.
+
+**Max:** Me too. I think that would make her very happy.
+
+{{!}}-{{!}}Kate was bullied.# Kate was bullied.
+
+**Max:** Kate was bullied up to that roof...but it was still Nathan and Jefferson who put her there.
+
+}}
+
+|-|(Kate is dead)(Kate is dead)
+
+**David:** And, Max, I'll never forgive myself for what happened to Kate. I feel like I helped push her off that roof...
+
+{{#tag:tabber|Not your fault.# Not your fault.
+
+**Max:** Don't blame yourself...Nathan and Jefferson are the ones who put her up there...
+
+{{!}}-{{!}}Kate was bullied.Kate was bullied.
+
+**Max:** Kate was bullied up to that roof...but it was still Nathan and Jefferson who put her there.
+
+}}
+
+**David:** I knew Nathan Prescott was a threat. I just waited too long to neutralize him.
+
+**Max:** Jefferson already did. They had some weird father-son thing going on. But...Nathan killed Rachel, and Jefferson had to use him as a scapegoat.
+
+**David:** That pervert was pulling all this shit right under my nose, too... I could've stopped him and Nathan if only...I wasn't so stupid.
+
+(Reported Nathan)# (Reported Nathan)
+
+**Max:** No... I told Principal Wells Nathan had a gun and...almost used it. But he didn't wanna believe me. I should've been more loud.
+
+|-|(Hid the truth)(Hid the truth)
+
+**Max:** No. I should've told Principal Wells Nathan had a gun and...almost used it. I put the school in danger.
+
+**David:** We all make decisions we regret. But I have to admit, I'm impressed by you...and Chloe, and your investigation. I had all the high-tech toys, while you had each other.
+
+She learned from you.# She learned from you.
+
+**Max:** Maybe she learned from you.
+
+**David:** I think she only learned how to hate my guts.
+
+{{#tag:tabber|(David didn't hit Chloe)(David didn't hit Chloe)
+
+**Max:** You both had a tough start. I know it wasn't easy.
+
+{{!}}-{{!}}(David hit Chloe)# (David hit Chloe)
+
+**David:** I'm sure you know I... I hit her the other day.
+
+**Max:** I know you're sorry.
+
+}}
+
+|-|We're a great team.We're a great team.
+
+**Max:** We...we are a great team.
+
+**David:** That's one of my problems... *(sighs)* I'm not good at teamwork. Never was. Even in the service.
+
+**Max:** I can't even imagine what you went through...
+
+**David:** I'm not gonna make any excuses for my behavior. I tried to be a good soldier, but...I wasn't so great. I tried to be a good father, too...
+
+(Sided with Chloe)# (Sided with Chloe)
+
+**David:** But...when Joyce kicked me out...I had nothing.
+
+{{#tag:tabber|I'm sorry.I'm sorry.
+
+**Max:** I'm so sorry about that... I didn't want that to happen...
+
+**David:** I should never have set up those surveillance cams. Or kept all those files...
+
+{{!}}-{{!}}I was pissed off.# I was pissed off.
+
+**Max:** I was pissed off and wanted to rage.
+
+**David:** Yeah, I know the feeling. Too much.
+
+}}
+
+**Max:** I'm going to tell Joyce I was wrong about you. She does love you. It's pretty obvious.
+
+|-|(Sided with David)(Sided with David)
+
+**David:** But...you saw how that went.
+
+{{#tag:tabber|You tried.# You tried.
+
+**Max:** You tried. It's obvious you care, even if your methods are...
+
+**David:** Fucked up. I know.
+
+{{!}}-{{!}}Chloe is tough.Chloe is tough.
+
+**Max:** Chloe is tough...just like you.
+
+**David:** I'm glad we have something in common.
+
+}}
+
+**Max:** I'm glad I stood up for you.
+
+**David:** I try not to use my service as an excuse, but... It's hard to come home after war. Most people don't know or care what it's like...except Joyce. She gave me hope. A new life.
+
+**Max:** And you saved mine. Chloe, she...she would be proud of you.
+
+**David:** I just wanna see her safe with her mother. I promised Joyce I would go see a family counselor...and I'll start by apologizing to Chloe. I don't expect her to call me dad, but maybe she'll stop calling me "step-douche". So, where is Chloe?
+
+{{!}}-{{!}}(David initiates the conversation)# (David initiates the conversation)
+
+*Max tries to leave the Dark Room.*
+
+**David:** Hold on, Max. So, where is Chloe?
+
+}}
+TELL THE TRUTHTELL THE TRUTH
+
+**Max:** David... Chloe is...is dead...
+
+**David:** This isn't happening... It can't... No, God... *(tearfully)* Not Chloe... Max, are you sure? Are you...
+
+**Max:** *(tearfully)* Yes, I... *(sniffles)* I saw her, I...I saw Jefferson kill her in the junkyard...last night...
+
+**David:** Last night?
+
+{{#tag:tabber|(Sided with Chloe)# (Sided with Chloe)
+
+**David:** *(tearfully)* When I was feeling sorry for myself in my hotel room...?
+
+{{!}}-{{!}}(Sided with David)(Sided with David)
+
+**David:** When I was so close to finding out the truth...?
+
+}}
+
+**David:** *(tearfully)* I promised Joyce that I would protect her and Chloe... How can I face her and explain this? *(crying)* I never even told Chloe that I...I... Goddamn it! *(angrily, to Jefferson)* You killed my wife's child, you sick fucker?! You took away my stepdaughter?!
+
+*David pulls out his gun.*
+
+**Max:** David, wait!
+
+*David shoots Jefferson in the head, then reholsters his gun.*
+
+**David:** Max... I'm sorry...I'm sorry you had to see that. What a mess... What have I done? *(tearfully)* All that time I wasted with surveillance... I... Chloe...I'm sorry... Joyce...I failed you... My family...
+
+**Max:** *(putting her hand on his arm)* You didn't fail. You did your best.
+
+**David:** Max...you better get outside. You've seen enough of this room.
+
+**Max:** David...thank you, for saving me.
+
+*David sits on the floor, hanging his head down.*
+
+|-|HIDE THE TRUTH# HIDE THE TRUTH
+
+**Max:** *(sniffling)* David, um... She was pretty stressed out, so, um... She went to go, um...medicate before I ended up in here. So, she's okay.
+
+**David:** Oh, thank god. For once I'm happy Chloe's a stoner. *(laughs, relieved)*
+
+**Max:** David, I have to go outside and get some real air...and use my phone.
+
+**David:** *(putting his hand on her arm)* Of course. Go on, Max. You're a brave soldier. I'm glad Chloe has a best friend like you. Go on, now. You've seen enough of this room.
+
+''David sits down at Jefferson's desk, looking at his computer.*
+
+*'David's Comments**
+
+(Told him the truth)(Told him the truth)
+
+**David:** My god... What do I tell Joyce? What?
+
+**David:** You killed my Chloe...
+
+**David:** Right under my nose...
+
+**David:** I wish I could keep killing you, forever...
+
+**David:** I lost again...I always lose...
+
+**David:''' Why can't I just wake up? Let this be a nightmare...
+
+|-|(Hid the truth from him)# (Hid the truth from him)
+
+**David:** Okay, teacher. Let's see what kind of photo evidence you shit all over this computer.
+
+**David:** Oh, Rachel! How could anybody...
+
+**David:** Goddamn you...
+
+**David:** How could you... How?
+
+**David:** You're fucked, Jefferson.
+
+**David:** Oh, no. No...
+
+**David:** You are gonna fry for this.
+
+**David:** Jefferson, you're lucky the cops are getting you in one piece.
+
+**David:** Sick and evil...
+
+'''Max's Thoughts**
+
+(Told David the truth)(Told David the truth)
+
+**Max:'* *(thinking)'' I've seen so many people die this week...now Jefferson... I feel numb...
+
+**Max:** *(thinking)* Jesus, all these lives destroyed... Rachel... Chloe... Kate... even Nathan...
+
+**Max:** *(thinking)* Jefferson is dead now...but I can still bring Chloe back to life.
+
+|-|(Hid the truth from David)# (Hid the truth from David)
+
+**Max:** *(thinking)* You're not getting away with this, Jefferson.
+
+**Max:** *(thinking)* Jefferson will end up in jail...but Chloe is dead. Not for long...
+
+**Max:** *(thinking)* I could have told David the truth... He deserves it.
+
+##  '''Jefferson's Car'* 
+
+*Max opens the door to the barn, where Jefferson's car is. It is raining heavily outside.*
+
+**Max:** Freedom... Holy shit! The storm is real. I need to find Warren...
+
+*Max takes out her phone.*
+
+**Max:** Yes! *(dials Warren's number)* Warren! Can you hear me?
+
+**Warren:** *(staticky)'' Max?! Damn, where are you?
+
+**Max:** Nevermind... Listen, do you have that photo you took last night in the parking lot?
+
+**Warren:** Uh, yeah, but why? It wasn't that great a shot...
+
+**Max:** Yes, it is and I want it! Where are you?
+
+**Warren:** I'm at the [Two Whales Diner](two_whales_diner.md). Pretty much trapped in here with Joyce, thanks to this armageddon weather. I'm expecting the ocean to turn red...
+
+**Max:** I'm on my way.
+
+**Warren:** Come on, that's crazy! You can barely walk on the sidewalk outside... *(staticky)* Seriously, Max, stay wherever you are. I don't think this storm is getting smaller... I'm kinda scared.
+
+**Max:** That's okay, me too! But it's not over yet, Warren. So, hold on!
+
+**Warren:** *(staticky)* Wait—
+
+''Max hangs up. She gets in Jefferson's car and drives through Arcadia Bay, listening to the radio.*
+
+**Truss Limpbow:** *(on radio)'' I told you. I, Truss Limpbow, have been warning you people for years that our culture of sin and entitlement would lead to God striking us down! And I'm the one trapped in this fucking radio station. Somebody get me the hell out of here now! Now, goddamn it! What do I pay all those taxes for?
+
+''Max's phone buzzes and she checks it, setting the phone down next to her.''
+
+**Automated voice:** You have one new message. Message received yesterday at 9 PM.
+
+**Nathan:** Max, it's...it's Nathan. *(tearfully)* I...I just wanted to say...I'm sorry. I didn't wanna hurt Kate, or Rachel, or—or...didn't wanna hurt anybody. Everybody...used me! *(sobs)* Mr. Jefferson...is coming for ME now. All this shit will be over soon. Watch out, Max... He wants to hurt you next. Sorry.
+
+##  **Street** 
+*Max stops on the road and gets out of the car, as there is too much debris blocking her way. Citizens of Arcadia Bay stumble around, screaming, trying to save themselves and their loved ones.*
+
+**Man:** Look at that thing go!
+
+**Man:** Get down!
+
+**Woman:** No!
+
+**Max:** *(thinking)* Warren is at the Two Whales Diner, so hurry up!
+
+**Trucker:** I don't want to die here! Please somebody... anybody... Help me! Hey... is anybody out there?
+
+*Max walks toward the Trucker.*
+
+**Max:** *(thinking)* Hey, that guy is trapped! I have to help everybody I can.
+
+###  **Optional Conversation with Trucker** # 
+
+**Trucker:** Oh Lordy... Thanks, kid.
+
+**Max:** Are you okay?
+
+**Trucker:** Once I get the hell out of here...
+
+(Max damaged the railroad tracks)(Max damaged the railroad tracks)
+
+**Trucker:** I was trapped here because I got stuck in this shithole delivering logs after the railroad was closed down...
+
+|-|(Max didn't damage the railroad tracks)# (Max didn't damage the railroad tracks)
+
+**Trucker:** I been hauling loads for way too long in this shithole town.
+
+**Max:** You better go now.
+
+**Trucker:** And I ain’t never coming back here... You need a lift?
+
+**Max:** No, thanks. I have to find a friend.
+
+**Trucker:** You go, girl. You go.
+
+*Max continues to walk toward the Two Whales Diner.*
+
+**Evan:** Right into the eye of the storm!
+
+*Evan is taking photos of the tornado. A large piece of debris hits him and he falls to the ground.*
+
+**Max:** *(thinking)* Not Evan... I have to stop him from getting hurt.
+
+###  **Optional Conversation with Evan** # 
+
+*Max can rewind and warn Evan.*
+
+**Max:** Evan, do you see that tornado? Get the hell out of here!
+
+**Evan:** Max, there's no way I can pass up these images! Just look at it!
+
+**Max:** You can't take a picture when you're dead! Now move your ass!
+
+**Evan:** Okay, if you insist...
+
+*Evan moves away before the debris hits him.*
+
+**Evan:** Whoa, Max! You do know things! I'm such an idiot.
+
+**Max:** Only if you don't find a safe spot until this blows over, okay?
+
+**Evan:** Now I better listen to the real "Everyday Hero"... Come with me!
+
+**Max:** I have to help somebody else first.
+
+*Max continues to walk toward the Two Whales Diner.*
+
+**Alyssa:** Somebody help me!
+
+*Max walks toward Alyssa. She is stuck in the second level of [McFlinn](a_house.md).*
+
+**Max:** *(thinking)* Shit... Alyssa needs help again!
+
+**Alyssa:** Please! Help me get down!
+
+###  **Optional Conversation with Alyssa** # 
+
+**Max:** Alyssa, are you okay? Let me help you down!
+
+(Max helped Alyssa in every episode)(Max helped Alyssa in every episode)
+
+**Alyssa:** Yes, yes, please Max! I don’t want to die like this! Find something to get me down!
+
+|-|(Max didn't help Alyssa in every episode)# (Max didn't help Alyssa in every episode)
+
+**Alyssa:** Fuck that shit, Max! Whenever you show up, I have to get out of the way! So just get—
+
+*Alyssa takes a step back and falls through a hole in the floor.*
+
+**Max:** *(thinking)* No! No!!!
+
+''While Alyssa is still where Max finds her, Max can look around for something to use. She can find a plank of wood next to her, lift it up, and drop it at Alyssa's feet. Having done this, she runs across the plank and extends her hand.*
+
+**Max:** Come on, Alyssa! Take my hand!
+
+**Alyssa:** Here I come!
+
+*They safely make it to the ground.*
+
+**Alyssa:** You did it, Max!
+
+**Max:** Are you okay?
+
+**Alyssa:** Now I am! We need to get out of here!
+
+**Max:** Alyssa, you go on. I have to help other people.
+
+(Max helped Alyssa in every episode)(Max helped Alyssa in every episode)
+*A billboard behind Max begins to fall.*
+
+**Alyssa:** Watch out, Max!
+
+*Alyssa pulls Max out of the way.''
+
+**Max:** Damn... that was close. Thank you, Alyssa!
+
+**Alyssa:** Now we're even. Be careful out there!
+
+*Alyssa leaves*
+
+|-|(Max didn't help Alyssa in every episode)# (Max didn't help Alyssa in every episode)
+*Alyssa leaves.*
+
+*Max enters a building. A [R.J. MacReady](fisherman.md) is trapped on the other side of the room, his path blocked by flames.*
+
+**Max:** *(thinking)* How can I get out of here?
+
+*Max turns on the fuse box. The fire sprinklers put out the fire, but the fisherman is electrocuted.*
+
+**Max:** *(thinking)* He's dead... electrocuted...
+
+###  **Optional Conversation with Fisherman** # 
+
+*Max can walk over to the fisherman and rewind.*
+
+**Max:** Come on, you have to get out of here right now.
+
+**Fisherman:** I need to breathe… I… I need air…
+
+*Max helps him up. She then uses the fuse box to put out the fire.*
+
+**Max:** You should get out of here!
+
+**Fisherman:** *[running away]* The whole town is dying…
+
+**Max:** *(thinking)* Okay, I better hurry to the diner over there. I need Warren's photo.
+
+*Max climbs out of the building through a broken window. As she walks over to the diner, it bursts into flames and she is forced to rewind.*
+
+**Max:** *(thinking)* Come on, Max! Stop that fire!
+
+*She uses sand to prevent the fire from spreading.*
+
+**Max:** *(thinking)* Yes!
+
+*Max enters the Two Whales Diner through the side entrance.*
+
+##  **Diner** 
+
+*Max enters the storeroom of the Two Whales Diner.*
+
+**Announcer:** ...evacuation. Once again, this is not a test. This is not a test. An E6 tornado warning has been issued for Arcadia Bay and surrounding counties. The Emergency Broadcast System is now in effect...
+
+*She opens the storeroom door and walks into the diner.*
+
+**Warren:** Max!
+
+**Joyce:** Max! *[hugging her]* Oh Jesus, I am so glad to see you, sweetie! Are you okay?
+
+**Max:** Yes. What about you guys?
+
+**Joyce:** The Two Whales is barely standing now... I don't know if it’s going to make it through this tornado. Poor Officer Berry and all those people out there...
+
+**Max:** I know.
+
+**Joyce:** Okay, get your ass inside... I have to get back to this gentleman on the ground... Warren has been gathering all the first aid...
+
+**Warren:** It’s not much, Joyce. But it’s all we have.
+
+**Max:** *[turning to Warren]* You okay, Warren?
+
+**Warren:** How the hell did I ignore all those warnings, Max? The snow, the eclipse...
+
+**Max:** There’s nothing you could do about it, Warren.
+
+**Warren:** I’m so stupid... I should have seen it coming...
+
+**Max:** *(thinking)* So glad everybody is safe here, but I need that photo from Warren to help Chloe!
+
+###  **Optional Conversation with Frank** # 
+
+''If Chloe didn't kill Frank in the previous episode, he will be sitting on the floor and Joyce will be attending to his wounds.''
+
+**Joyce:** Okay, Max, excuse me while I go help this other gentleman.
+
+(Frank was unharmed by Chloe)(Frank was unharmed by Chloe)
+**Max:** Frank... I'm so glad you're here...
+
+{{#tag:tabber|(Pompidou was killed)# (Pompidou was killed)
+**Frank:** That makes two of us. Now, if only I had Pompidou back... and Rachel.
+
+{{!}}-{{!}}(Pompidou wasn't killed)(Pompidou wasn't killed)
+**Frank:** That makes two of us. Now if I only had Rachel back...
+
+}}
+
+**Frank:** Now Max, what about that info I gave you? Did you and Chloe find out what happened to her?
+
+{{#tag:tabber|Rachel is dead.# Rachel is dead.
+**Max:** Frank, I don’t know how to say this, so... I just will. Rachel is dead.
+
+**Frank:** God, no, please... Please, no... No, not Rachel... She can't fucking be! Are you... Are you sure? I mean, how do you know?
+
+**Max:** We used the names you gave us to track down a farmhouse. My professor, Mark Jefferson, has this creepy photo torture room... and we found out he was using Nathan Prescott to drug and photograph Blackwell students.
+
+**Frank:** Prescott? Fuck! Fuck, I knew it! I should never have hooked up with that sick punk! Pompidou hated him! You saw... you saw Rachel?
+
+{{#tag:tabber|Yes.Yes.
+**Max:** Yes... I wish I didn't. I'm so, so sorry, Frank. Nathan wanted to impress Jefferson, and he... he killed her.
+
+{{!}}-{{!}}No.# No.
+**Max:** No, I didn't, but... Nathan wanted to impress Jefferson and I know he... killed her.
+
+}}
+
+**Frank:** How? How did he kill her?
+
+{{#tag:tabber|Overdose.Overdose.
+
+**Max:** He used some drug... and gave her an overdose...
+
+**Frank:** An overdose? The only way Nathan could've done that is... is if I sold it to him. I killed my lioness! No... What have I done?
+
+{{!}}-{{!}}It doesn't matter.# It doesn't matter.
+**Max:** It doesn't matter... She deserves her peace now.
+
+}}
+
+**Frank:** Where is this motherfucker Jefferson?
+
+{{#tag:tabber|(David killed Jefferson)(David killed Jefferson)
+**Max:** He's dead.
+
+{{!}}-{{!}}(David didn't kill Jefferson)# (David didn't kill Jefferson)
+**Max:** He's going to jail.
+
+}}
+
+**Max:** He won't be hurting anybody anymore...
+
+**Frank:** Rachel... Oh, God. She was the one good thing in my life, Max. I know she was too young, and... I expected her to leave me, just... just not how it happened. I would never have stopped her from going after her dreams.
+
+{{#tag:tabber|I know.I know.
+**Max:** I know. She obviously cared about you, Frank...
+
+**Frank:** Rachel cared about a lot of people... especially Chloe...
+
+{{!}}-{{!}}Neither would Chloe.# Neither would Chloe.
+**Max:** I know... neither would Chloe...
+
+**Frank:** I knew Chloe and her... were close... I was jealous...
+
+}}
+
+**Frank:** But, uh... now I see why Rachel dug her... and Chloe was man enough to ask me for help after all that shit we went through.
+
+**Max:** Chloe would appreciate that...
+
+**Frank:** You know, the one time I met my dad, the bastard quoted the bible and said he wanted to "enter his house justified." In other words, to do the right thing... me too. And maybe you're helping me get there, Max. Don't get me wrong, kid. I still think you're weird... but you're cool.
+
+{{!}}-{{!}}We don't know.We don't know.
+**Max:** I'm sorry... We had no time to investigate when the storm started...
+
+**Frank:** Oh, there's still hope. Look, I need to rest now, I'm wiped out... like Arcadia Bay. I just hope Rachel is far away, laying in the sun, happy... Thanks for trying, Max. So, I guess we just wait for the Lord to lift us up... or not.
+
+}}
+
+|-|(Frank was harmed by Chloe)# (Frank was harmed by Chloe)
+
+**Max:** Frank... I'm so glad you're here... Are you okay?
+
+{{#tag:tabber|(Pompidou was killed)(Pompidou was killed)
+**Frank:** What? Besides this tornado, the hole in my leg and the fact my dog is dead...not to mention I could die on the floor of a diner and you're the last person I might see...I'm cool. Jesus.
+
+{{!}}-{{!}}(Pompidou wasn't killed)# (Pompidou wasn't killed)
+**Frank:** What? Besides this tornado, the hole in my leg, not to mention the fact that I might die on the floor of a diner and you're the last person I could see... You know what, I'm cool. Jesus.
+
+}}
+
+{{#tag:tabber|(Chloe paid Frank back)(Chloe paid Frank back)
+**Frank:** And I bet you and Chloe didn't find Rachel, right?
+
+{{!}}-{{!}}(Chloe didn't pay Frank back)# (Chloe didn't pay Frank back)
+**Frank:** And I bet that thief Chloe and you didn't find Rachel, right?
+
+}}
+
+{{#tag:tabber|Rachel is dead.Rachel is dead.
+**Max:** Frank, I don’t know how to say this, so... I just will. Rachel is dead.
+
+**Frank:** Fuck you, Max. No. No way. She left town... She's gone... How do you know, huh? How?
+
+**Max:** All of our clues led us to my professor, Mark Jefferson... He had this creepy photo torture chamber... and we found out... he was using Nathan Prescott to drug and photograph Blackwell students...
+
+**Frank:** Prescott? Fuck! Fuck, I knew it! I should never have hooked up with that sick punk! Pompidou hated him! You saw... you saw Rachel?
+
+{{#tag:tabber|Yes.# Yes.
+**Max:** Yes... I wish I didn't. I'm so, so sorry, Frank. Nathan wanted to impress Jefferson, and he... he killed her.
+
+{{!}}-{{!}}No.No.
+**Max:** No, I didn't, but... Nathan wanted to impress Jefferson and I know he... killed her.
+
+}}
+
+**Frank:** How? How did he kill her?
+
+{{#tag:tabber|Overdose.# Overdose.
+**Max:** He used some drug... and gave her an overdose...
+
+**Frank:** An overdose? The only way Nathan could've done that is... is if I sold it to him. I killed my lioness! No... What have I done?
+
+{{!}}-{{!}}It doesn't matter.It doesn't matter.
+**Max:** It doesn't matter... She deserves her peace now.
+
+}}
+
+**Frank:** Where is this motherfucker Jefferson?
+
+{{#tag:tabber|(David killed Jefferson)# (David killed Jefferson)
+**Max:** He's dead.
+
+{{!}}-{{!}}(David didn't kill Jefferson)(David didn't kill Jefferson)
+**Max:** He's going to jail.
+
+}}
+
+**Max:** He won't be hurting anybody anymore...
+
+**Frank:** Rachel... Oh, God. She was the one good thing in my life, Max. I know she was too young, and... I expected her to leave me, just... just not how it happened. I would never have stopped her from going after her dreams.
+
+{{#tag:tabber|I know.# I know.
+**Max:** I know. She obviously cared about you, Frank...
+
+**Frank:** Rachel cared about a lot of people... especially Chloe...
+
+{{!}}-{{!}}Neither would Chloe.Neither would Chloe.
+**Max:** I know... neither would Chloe...
+
+**Frank:** I knew Chloe and her... were close... I was jealous...
+
+}}
+
+**Frank:** But, uh... now I see why Rachel dug her... and Chloe was man enough to ask me for help after all that shit we went through.
+
+**Max:** Chloe would appreciate that...
+
+**Frank:** You know, the one time I met my dad, the bastard quoted the bible and said he wanted to "enter his house justified." In other words, to do the right thing... me too. And maybe you're helping me get there, Max. Don't get me wrong, kid. I still think you're weird... but you're cool.
+
+{{!}}-{{!}}We don't know.# We don't know.
+**Max:** Um, we don't... know. Things got crazy and... and, here we are... Frank, I'm sorry about this.
+
+**Frank:** Who gives a fuck now? Just stand over there so I don't have to see you before the Lord lifts me up. Please Max.
+
+}}
+
+###  **Optional Conversation with Joyce** # 
+(Frank is alive)(Frank is alive)
+**Joyce:** Come on, Max. Let's talk over here and give Frank some resting space.
+**Max:** Joyce, how are you doing?
+
+**Joyce:** Just when I think I've already been through the ringer... Where's Chloe?
+
+She's safe.# She's safe.**Max:** She's... safe, Joyce. She just sent me a text before my phone died.
+
+**Joyce:** Oh, thank God... I was torturing myself before you showed up. Oh God, if something happened to Chloe while I ended up stuck at this diner again...
+
+|-|I'll find her.I'll find her.**Max:** I... I'll find her.
+
+**Joyce:** Not in this storm you won't. And you're not going out there, Max. I just have to pray that Chloe... and David... are holed up some place safe.
+
+**Max:** I'm sorry about all this, Joyce.
+
+**Joyce:** Don't be, honey. It's not like you whipped up this tornado on your own...
+
+**Max:** Um... I mean, I’m also sorry about everything with David.
+
+**Joyce:** You don't have control over any of that. David is an adult and he has a lot more age and experience under his belt. Even if he doesn't always show it...
+
+(Max sided with Chloe)# (Max sided with Chloe)
+{{#tag:tabber|I'm sorry.I'm sorry.**Max:** I'm sorry I caused so many problems with David and Chloe...
+
+**Joyce:** You did the right thing. David overstepped his bounds. I had a suspicion he was taking his private surveillance way too seriously... But he's sorry and I wish he was here right now.
+
+{{!}}-{{!}}Perfect storm.# Perfect storm.
+**Max:** I know... I just feel like everything that's going on with us is the perfect storm for Arcadia Bay.
+}}
+
+**Max:** I just want our lives to be normal again...
+
+**Joyce:** With all the shit going on this week, I think you're right. And look at me, trying to keep my family together... again. Max... did I make a mistake kicking David out?
+
+{{#tag:tabber|David needs you.David needs you.
+**Max:** David saved my life... from the storm. I saw how much he cares about Chloe, even if he couldn't show it. David needs you more than ever, and I can see why you love him.
+
+**Joyce:** I'm so happy David was there for you. He has a lot of weight on his back from the war, but he truly wants to help people.
+
+{{#tag:tabber|(Max came out of hiding/took the blame)# (Max came out of hiding/took the blame)**Joyce:** He even agreed to take a family counseling class.
+
+{{!}}-{{!}}(Max stayed hidden/blamed Chloe)(Max stayed hidden/blamed Chloe)**Joyce:** He even agreed to take a family counseling class, after he hit Chloe.
+}}
+
+**Max:** I'm sure that was a hard thing for him to do... It shows how much he truly cares about you and Chloe.
+
+**Joyce:** Nothing would make me happier than for David and Chloe to make peace, not war. But I don't know what to do anymore... I just... I just want this storm to blow over forever. Maybe it's time we leave Arcadia Bay... if we can...
+
+**Max:** David is a real hero, Joyce. I know that all he wants to do is make you happy. I know he would do anything for you... and Chloe.
+
+**Joyce:** I know. And yes, he's not William, but that's okay. He's not supposed to be. You reminded me of when he came into my life... I was ready to give up. David's love gave me strength. He even told me I was his hero... And I can't give up loving him. I want him to come back home... I hope I get to tell him that soon.
+
+{{!}}-{{!}}That's your choice.# That's your choice.**Max:** David saved my life... from the storm. He means well, even if he doesn't know how to show it. But this has to be your choice...
+
+{{#tag:tabber|(Max came out of hiding/took the blame)(Max came out of hiding/took the blame)**Joyce:** I'm so happy David was there for you... but I don't always like his attitude either. Sometimes he scares me...
+
+**Max:** I know it's hard for you and Chloe...
+
+{{!}}-{{!}}(Max stayed hidden/blamed Chloe)# (Max stayed hidden/blamed Chloe)**Joyce:** I'm glad David was there for you... but I don't always like his attitude... And honestly, I don't think I can forgive him for hitting Chloe... If it happens once, it could happen again...
+
+**Max:** I... I understand...
+}}
+
+**Joyce:** I'm used to my life being hard... Chloe had to find out way too early. And I don't think we need David around to keep reminding us... You're right, Max. I think I'm making my choice now.
+}}
+
+|-|(Max sided with David)(Max sided with David)
+{{#tag:tabber|Not against you.# Not against you.**Max:** Well... I didn't mean to take David's side against you or Chloe...
+
+**Joyce:** I know you try to see the good side in everybody... and David needs to try that, too. But that's not important now.
+
+{{!}}-{{!}}Perfect storm.Perfect storm.
+**Max:** I know... I just feel like everything that's going on with us is the perfect storm for Arcadia Bay.
+}}
+
+**Max:** I just want our lives to be normal again...
+
+**Joyce:** With all the shit going on this week, I think you're right. And look at me, trying to keep my family together... again.
+
+**Max:** Joyce, you've gone through so much for Chloe and David. If you were my mom... I would be so proud.
+
+**Joyce:** Oh sweetie, thank you. But your parents should be prouder of you. Even David told me how tough he thinks you are... and he doesn't give out many compliments, as you know.
+
+{{#tag:tabber|David needs you.# David needs you.
+**Max:** He does about you. It’s so obvious he needs you in his life...
+
+**Joyce:** He better. Like I said, people don't always see the real David Madsen. I hope Chloe does someday...
+
+{{!}}-{{!}}David is a hero.David is a hero.
+**Max:** David is a real hero. I don't know what he's gone through in war, but I can imagine... and he even showed me how to find my own strength under extreme conditions.
+
+**Joyce:** I'm so glad to hear you say that, Max... I know he's not always an easy person to defend... Most people only see him at his worst... You've seen him at his best. And that's the man I want in my life.
+}}
+
+# ###  **Conversation with Warren** 
+
+**Warren:** I hate to say I'm glad to see you, but I'm so glad to see you.
+
+**Max:** That's okay. The important thing is that you're safe... and I know you can take care of yourself, after Nathan.
+
+**Warren:** Should have done that a long time ago. But damn, Max... I can't believe you actually drove down here in the middle of a fucking E6 tornado, just for one photograph... I mean, I know you didn't come for me.
+
+**Max:** Warren, I came for all of you. Just tell me you do have the photograph.
+
+**Warren:** I just want...
+
+**Max:** Now shut up and listen.
+
+**Warren:** Oh yeah, you’re finally going to tell me what you never did in the parking lot...
+
+**Max:** I wish I would have. So I'm just going to tell you without any explanation. Trust me, okay?
+
+**Warren:** I always do. You should probably tell me quick...
+
+**Max:** I had a vision in Jefferson's class of a tornado destroying Arcadia Bay. I went to the bathroom and saw my best friend Chloe get shot by Nathan Prescott...You with me so far?
+
+**Warren:** Where else could I be? Go on!
+
+**Max:** Then I found out that I could rewind time... And, long story short, Mark Jefferson is insane and dangerous.
+
+**Warren:** Whoa... Is that all?
+
+I started the storm.# I started the storm.**Max:** I think that this storm started... everything started... when I found out I could rewind time... There's no way this is just a coincidence, right?
+
+**Warren:** Max, not only the storm but the eclipse, the birds, the whales... everything!
+
+|-|He killed Chloe.He killed Chloe.**Max:** I have to go back in time. Jefferson already ki—killed Chloe... I can't let that happen... I have to do something, Warren!
+
+**Warren:** Max, going back in time is what caused the storm!
+
+**Max:** All because... because of me? How?
+
+**Warren:** I'm not a real scientist, even though I play one at school, but this seems like pure cause and effect, maybe Chaos Theory... Uh, what happened with Jefferson? Did... Did he hurt you?
+
+He dosed me.# He dosed me.**Max:** He used Nathan to get drugs and money for him. Jefferson tied me up and... dosed me with some drug and took sick photos of me... It was so horrible...
+
+**Warren:** Max... I'm so sorry you had to go through all that... You're the bravest person I've ever known. Now, I want to kill that son of a bitch! Where is he?
+
+{{#tag:tabber|(David killed Jefferson)(David killed Jefferson)**Max:** Dead.
+
+{{!}}-{{!}}(David didn't kill Jefferson)# (David didn't kill Jefferson)**Max:** Busted.
+}}
+
+**Max:** History. Which I need to change fast to make it right again... Is that bad?
+
+|-|Rachel was killed.Rachel was killed.**Max:** Nathan accidentally killed Rachel Amber trying to impress Jefferson...
+
+{{#tag:tabber|(David killed Jefferson)# (David killed Jefferson)**Max:** He just needed mental help... Now... they're both dead.
+
+{{!}}-{{!}}(David didn't kill Jefferson)(David didn't kill Jefferson)**Max:** Nathan just needed mental help... Now he's dead... and Jefferson is done.
+}}
+
+**Warren:** Jesus, Max! I want the whole story, but... I guess we really are out of time.
+
+**Max:** But I can still change things. What do you think will happen?
+
+**Warren:** For every action, there's... there's a reaction... Whenever you reversed or altered time, maybe you caused a chain reaction... even in the environment.
+
+You believe me?# You believe me?**Max:** You're my friend, Warren. You believe me, right? I... I haven't told anybody else except for Chloe... and... and she can't help me right now...
+
+**Warren:** I know I can be a pain in the ass... and... and you've always treated me like a person, not... not a beta nerd. I told you before that I'll always believe you...
+
+**Max:** I just wish I could trust my powers...
+
+|-|This is my fault?This is my fault?**Max:** All this destruction... is my fault?
+
+**Warren:** Give me a break. You sure the hell didn't give yourself time travel powers...
+
+|-|More time together.# More time together.**Max:** Warren, I know this all sounds insane... but you're the only other person who I can count on now... I wish we had more time together... Do you believe me?
+
+**Warren:** Max, of course I believe you. You're the most amazing person I've ever met... and I'm glad you trust me.
+
+**Max:** Always. I just wish I could trust my powers...
+
+**Max:** I guess we'll never know if it's magic or science...
+
+**Warren:** Even if it's from a wizard or a wormhole... You're part of something bigger. I don't believe in fate or destiny, but after this week, I realize I don't know shit.
+
+**Max:** That makes both of us, Warren...
+
+**Warren:** I do know you're here for a reason... and I guess it's up to you to find out why. Max... I'm sorry you got stuck in this... in this... I don't have a fucking clue what's going on. But I have total faith that you'll do the right thing when the time comes. I'm so proud of you, Max. How could there be a more important moment in history? And I'm in the middle of it with you? So thank you for trusting me.
+
+**Max:** Thanks for being here. Always.
+
+*Warren takes out the polaroid and places it in front of Max.*
+
+**Warren:** Hey... Be careful out there.
+
+LEAVELEAVE{{#tag:tabber|(Frank is alive)# (Frank is alive)**Max:** Watch out for Joyce... and Frank.
+
+{{!}}-{{!}}(Frank is dead)(Frank is dead)**Max:** Watch out for Joyce... and everybody else.
+}}
+
+**Warren:** I got this, Max. Go on.
+
+**Max:** I’m going to make the right choices from now on... I swear.
+
+**Warren:** That's why you're Super Max.
+
+|-|HUG# HUG**Max:** I could use a hug before I do this...
+
+**Warren:** Me too.
+
+*Warren hugs Max.*
+
+**Warren:** You better go before I get pathetic and tell you not to.
+
+**Max:** You’re not pathetic. You’re one of my heroes... And I’m going to make the right choices from now on... I swear.
+
+**Warren:** That's why you're Super Max.
+
+|-|KISSKISS
+*Only available if Max has a high enough romance level with Warren.*
+
+**Max:** For luck.
+
+*Max kisses Warren.*
+
+**Warren:** Just in case we don’t get out of this... I wanted to say...
+
+**Max:** I know, Warren...
+
+**Warren:** Of course you do.
+
+**Max:** I’m going to make the right choices from now on... I swear.
+
+**Warren:** That's why you're Super Max.
+
+*Max focuses on the photo and travels back in time.*
+
+##  **Blackwell Parking Lot** 
+*The camera prints the polaroid of Max and Warren. Max looks around, taking in her surroundings.*
+
+**Chloe:** We got no time for this shit. Come on, Max.
+
+**Max:** Chloe!
+
+*Max hugs Chloe.*
+
+**Chloe:** Jesus, dude... what is up with you?
+
+**Max:** I’m just glad we’re here together.
+
+**Warren:** I guess you need to talk. No worries... It’s all good.
+
+**Chloe:** I'm glad you're with me, too. What's going on, Max? We have to find Nathan right now.
+
+**Max:** Sorry, Warren…
+
+**Chloe:** He's going to fucking pay for what he did to Rachel... Let's go, now.
+
+**Max:** Chloe, wait! Listen!
+
+**Chloe:** I can walk and listen, okay?
+
+''Max grabs Chloe's arm.''
+
+**Max:** Stop and listen for once!
+
+**Chloe:** Fine, Max. I'm listening.
+
+**Max:** Chloe, you can’t go in that party. You’re gonna… you're gonna die if you do.
+
+**Chloe:** You used your powers, right? And you fucked around with time, and I died.
+
+**Max:** Not like that…
+
+**Chloe:** You’re supposed to back me up. So there’s no way that punk-ass bitch Nathan Prescott is taking me down.
+
+**Max:** You're right, he won't. Mark Jefferson killed you... and others.
+
+**Chloe:** Jefferson, the art teacher? That's bullshit! Nathan is the fucking serial killer! We saw the proof! Now, excuse me, I’m going to that party to make sure he never hurts anybody again. Are you coming?
+
+Too dangerous.# Too dangerous.
+**Max:** Chloe, you can't get revenge if you're dead!
+
+**Chloe:** It doesn't matter. I have to make Nathan pay for what he did to Rachel... and I know you've got my back.
+
+**Max:** Chloe!
+
+*Max is forced to rewind.*
+
+|-|Nathan is dead.Nathan is dead.
+**Max:** Nathan is dead... and you're in danger.
+
+**Chloe:** That fucker is already dead? How do you know that?
+
+**Max:** Because... I was there.
+
+**Chloe:** Will you please tell me exactly what happened? Please?
+
+{{#tag:tabber|Jefferson hurt me.# Jefferson hurt me.
+**Max:** Chloe... Jefferson drugged and kidnapped me. I was tied up in his bunker. You have no idea what hell I went through to get back here… but I couldn't let you die. You brought me back here, and I can't lose you again. I won't!
+
+**Chloe:** Oh... Max. I'm... I'm so sorry... I was the one who dragged you into all this shit... Nobody, especially you, should have to go through that... Now we have to stop Jefferson... with one bullet.
+
+{{!}}-{{!}}Jefferson killed him.Jefferson killed him.
+**Max:** Jefferson kidnapped Rachel and some other girls. He was also manipulating Nathan, and… he killed him.
+
+**Chloe:** Then it's Jefferson's turn to die now. I understand why you don't want to do this, and I won't blame you for not coming with me.
+
+**Max:** Chloe!
+
+*Max is forced to rewind.*
+
+{{!}}-{{!}}Jefferson is a psychopath.# Jefferson is a psychopath.
+**Max:** Mark Jefferson turned out to be a psychopath...
+
+**Chloe:** Okay, Max. Let's go in there as a team and take his ass out right now!
+
+{{#tag:tabber|Jefferson hurt me.Jefferson hurt me.
+**Max:** Chloe... Jefferson drugged and kidnapped me. I was tied up in his bunker. You have no idea what hell I went through to get back here… but I couldn't let you die. You brought me back here, and I can't lose you again. I won't!
+
+**Chloe:** Oh... Max. I'm... I'm so sorry... I was the one who dragged you into all this shit... Nobody, especially you, should have to go through that... Now we have to stop Jefferson... with one bullet.
+
+{{!}}-{{!}}Let the past go.# Let the past go.
+**Max:** Chloe, I know this isn't easy, but it's time for you... and me... to let the past go. We have to focus on our future, while we still have one.
+
+**Chloe:** That's so easy for you to say. You don't know what my life has been these past five years.
+
+**Max:** Come on, of course I... but at some point you have to move forward...
+
+**Chloe:** One thing I learned at Blackwell is the saying, "Those who don't learn from history are doomed to repeat it..." I have to do this... So I guess I'm on my own... again.
+
+**Max:** Chloe!
+
+*Max is forced to rewind.*
+
+{{!}}-{{!}}Don't leave me.Don't leave me.
+**Max:** Chloe! I should never have run away from you like I did when we left Arcadia Bay. I know I hurt you… All I ever wanted was to make it up to you. Please, don't run away from me…
+
+**Chloe:** Max, I'm not running from you! This is when I need you the most. This is how to make everything up to me. With your power and my gun... nothing in the universe can stop us now, Max!
+
+}}
+
+}}
+
+**Max:** No! Not this way! Chloe, I… I can't keep fixing everything, if all I'm gonna do is just break it, over and over again. I know how this is gonna turn out and... I'm afraid I'm fucking up all these alternate realities.
+
+**Chloe:** Wait... alternate realities? What do you mean, Max? What did you do?
+
+Terrible choice.# Terrible choice.
+**Max:** Chloe, I'm... I'm going to tell you the truth, no matter what. I changed your past and I had to make a terrible choice, and I... I...
+
+**Chloe:** Max. Please tell me... I won't be mad at you...
+
+**Max:** I was able to go back in time... to the last day William was alive. I stopped him from leaving, but... But you ended up in a car crash instead.
+
+**Chloe:** You saw my dad again?
+
+**Max:** You... you were completely paralyzed. And you were in pain. You were slowly dying, and you… you asked me to… end your life.
+
+{{#tag:tabber|(Max accepted alternate Chloe's request)(Max accepted alternate Chloe's request)
+**Max:** And I did... for you. I didn't want you to suffer in any other timeline or reality... I couldn't bear the thought of you in any more pain...
+
+{{!}}-{{!}}(Max refused alternate Chloe's request)# (Max refused alternate Chloe's request)
+**Max:** But Chloe, there was no way I could do that... I had to return to this timeline... to see you again. I had to...
+
+}}
+
+**Chloe:** God, Max... That must have been... That must have been awful for you... I'm so sorry I had to ask you that...
+
+**Max:** It was worse for you. But I had no idea what would happen, and... as usual, I messed everything up, and… I never want to hurt you, ever. You have to believe me.
+
+**Chloe:** Of course I do. Do you think I would even know how to handle that situation? Nobody would... The important thing is that we're together again.
+
+|-|I fucked up.I fucked up.
+**Max:** I fucked up, Chloe. I wanted to make things right, but everything turned out wrong.
+
+**Chloe:** Max, what the hell are you talking about?
+
+{{#tag:tabber|Back in time.# Back in time.
+**Max:** I was able to go back in time... to the last day William was alive. I stopped him from leaving, but... But you ended up in a car crash instead.
+
+**Chloe:** You saw my dad again?
+
+**Max:** You... you were completely paralyzed. And you were in pain. You were slowly dying, and you… you asked me to… end your life.
+
+{{#tag:tabber|(Max accepted alternate Chloe's request)(Max accepted alternate Chloe's request)
+**Max:** And I did... for you. I didn't want you to suffer in any other timeline or reality... I couldn't bear the thought of you in any more pain...
+
+{{!}}-{{!}}(Max refused alternate Chloe's request)# (Max refused alternate Chloe's request)
+**Max:** But Chloe, there was no way I could do that... I had to return to this timeline... to see you again. I had to...
+
+}}
+
+**Chloe:** God, Max... That must have been... That must have been awful for you... I'm so sorry I had to ask you that...
+
+**Max:** It was worse for you. But I had no idea what would happen, and... as usual, I messed everything up, and… I never want to hurt you, ever. You have to believe me.
+
+**Chloe:** Of course I do. Do you think I would even know how to handle that situation? Nobody would... The important thing is that we're together again.
+
+{{!}}-{{!}}Nothing.Nothing.
+**Max:** Uh... nothing. I mean, whenever I use my rewind, I create new timelines, new destinies...
+
+**Chloe:** Then you can't be sure of anything! That's why I'm going to take out Jefferson... and that will be our reality.
+
+**Max:** No, no... Chloe, hold on! Chloe!
+
+*Max is forced to rewind.*
+
+}}
+
+|-|Nothing...# Nothing...
+**Max:** Uh... nothing. I mean, whenever I use my rewind, I create new timelines, new destinies...
+
+**Chloe:** Then you can't be sure of anything! That's why I'm going to take out Jefferson... and that will be our reality.
+
+**Max:** No, no... Chloe, hold on! Chloe!
+
+*Max is forced to rewind.*
+
+**Max:** You're right. That's why you should come with me so we can stay together... and stay alive.
+
+**Chloe:** I hear you, Max... but do you think we should let Jefferson get away with torture and murder?
+
+**Max:** Of course not! If we tell David, he'll believe us and he can actually stop him... right?
+
+(Max sided with Chloe)(Max sided with Chloe)
+**Chloe:** I don't get it... Why do you trust him, after you totally reamed him the other day? He's not even at our house anymore.
+
+|-|(Max sided with David)# (Max sided with David)
+**Chloe:** Is that why you stuck up for him? Because you think he can help us? Really?
+
+David cares about you.David cares about you.
+**Max:** Chloe, no matter how much of a douche he's been, David truly cares about you.
+
+{{#tag:tabber|(Max came out of hiding/took the blame)# (Max came out of hiding/took the blame)
+**Chloe:** Oh, please... like he cared when he got in your face for smoking a joint?
+
+{{!}}-{{!}}(Max stayed hidden/blamed Chloe)(Max stayed hidden/blamed Chloe)
+**Chloe:** Yes, a slap across the face is a sure sign of tough love.
+
+}}
+
+{{#tag:tabber|(Max told David that Chloe was dead)# (Max told David that Chloe was dead)
+**Max:** You should have seen his reaction when I told him that Jefferson… killed you. He was crushed.
+
+{{!}}-{{!}}(Max told David that Chloe was alive)(Max told David that Chloe was alive)
+**Max:** You should have seen how relieved he was when I lied to him and told him you didn't die. It would have crushed him...
+
+}}
+
+**Chloe:** Are you serious? I can't see him showing any feeling... except towards my mom...
+
+|-|David saved me.# David saved me.
+**Max:** Chloe, David saved me from Jefferson... If he didn't track down the Dark Room... I'd be dead right now.
+
+**Chloe:** Max... I had no clue... I should have been the one to save you, but... I'm so grateful David was there.
+
+|-|David was ahead of us.David was ahead of us.
+**Max:** David was already investigating Jefferson. He was way ahead of us...
+
+**Chloe:** Except that he was actually investigating everybody, Max... including your friend Kate. Sorry, but I still don't trust him. It's up to us, Max.
+
+**Max:** No, no, listen to me... wait, Chloe! Chloe!
+
+*Max is forced to rewind.*
+
+**Chloe:** So what's your plan?
+
+**Max:** We tell him everything, including that Victoria is in danger.
+
+**Chloe:** Okay. You've been through so much... I believe you, Max. After all, I'm still your faithful companion.
+
+**Max:** Yes, you are. So, listen... In a few minutes, I won't know any of this happened... nothing. We absolutely have to stay in your room and do nothing. Then we explain everything to David, and we finally let him do his job. You'll have to tell me exactly what I did and said just now. Just explain that I traveled through time using the photo.
+
+**Chloe:** Will you believe me?
+
+**Max:** I’ll always believe you, Chloe.
+
+*(The screen fades to white and scenes in the timeline are altered)*
+
+## **Beach**
+
+*Max looks around. Chloe is standing in front of her, watching the tornado.*
+
+**Max:** Oh, Chloe!
+
+*Max runs up to Chloe and hugs her tightly.*
+
+**Chloe:** *[turning around]* I see that the real Max is back... So, how was your time trip, dude?
+
+**Max:** Shut up. Oh, you're alive! You're alive, oh... Both of us! I did so much to bring you back, Chloe... and it worked. It actually worked. You're with me again.
+
+**Chloe:** *[hugging Max]* It looks like even fate doesn't want us apart. And... you traveled through multiple realities just to... save my ungrateful ass over and over. I hope it was worth it, but... I don't blame you for wanting me out of your life, after all my drama.
+
+**Max:** Come on. I'm the official Drama King and Queen of Arcadia Bay this week. Just look at what my powers have caused in... just a short time. I mean... I'm nobody.
+
+**Chloe:** You're Max-fucking-Caulfield, Time Warrior. Even if you weren't, you're kind and caring. Nobody could have a better best friend... Nobody. You didn't ask for any of this to happen, but it did. You need to accept how awesome you are.
+
+**Max:** Maybe I willed it subconsciously, or something. I always wanted my life to be special... an adventure... but not without you. And it didn't happen until I moved back here, so... without you, my powers wouldn't even exist.
+
+**Chloe:** Then for whatever scientific, mystical reason, that we'll obviously never figure out... We were meant to be together at this exact moment in history. I have to think that Rachel was somewhere behind the scenes, fighting for justice...
+
+**Max:** I'd like to think that, too... We all owe Rachel Amber. Now tell me everything that happened. You... You remember, right?
+
+**Chloe:** Well, we... we left the party and made sure Jefferson couldn't find us. For once, I was glad I lived in an actual fortress. Then the storm got hella crazy and... and you said we would be safe at the lighthouse.
+
+**Max:** Chloe, look! The storm is getting bigger now. It's coming closer. I... I can't even believe this is real, but this is happening because of me.
+
+**Chloe:** Stop it! Stop beating yourself up, okay? We've both paid our dues already on that. Oh, God, look at that! Look at that monster! Who knows... This could be Rachel's revenge... Our revenge. The lighthouse is out of the way of the tornado. Come on!
+
+**Max:** Oh... What... Chloe... ''[Max collapses in Chloe's arms]''
+
+**Chloe:** I've got your back, Max.
+
+*(Scene fades to black)*
+
+##  **Nightmare** 
+### **-Photography Lab-**
+
+*Max sits up at her desk.*
+
+**Max:** Whoa.
+
+**Mr. Jefferson:** Alfred Hitchcock famously called film "little pieces of time”—but he could be talking about photography, as he likely was.
+
+**Max:** *(thinking)* I'm back in class... What the hell?
+
+**Mr. Jefferson:** These pieces of time can frame us in our glory and our sorrow.
+
+**Max:** *(thinking)* I have to listen to this Jefferson lecture again? This might be Hell...
+
+**Mr. Jefferson:** From light to shadow, from color to chiaroscuro... Now, can you give me an example of a photographer who perfectly captured the human condition in black and white? Anybody? Bueller?
+
+**Max:** *(thinking)* Okay, this is messed up... Am I stuck in a time loop?
+
+**Victoria:** Diane Arbus.
+
+**Max:** *(thinking)* Be calm and don't freak out... yet.
+
+**Mr. Jefferson:** There you go, Victoria. Why Arbus?
+
+**Victoria:** Because of her images of hopeless faces. You feel, like, totally haunted by the eyes of those sad mothers and children.
+
+**Mr. Jefferson:** She saw humanity as tortured, right?
+
+*Blood splatters against the windows.*
+
+**Max:** *(thinking)* Wait, what's going? Nobody even cares?
+
+**Mr. Jefferson:** And frankly, it’s bullshit. Shh, keep that to yourself. Seriously though, I could frame any one of you in a dark corner and capture you in a moment of desperation.
+
+*The bell rings. Max is alone.*
+
+**Max:** *(thinking)* Everybody's gone now... Have I totally fucked up time? This doesn't make sense...
+
+*She looks out the window.*
+
+**Max:** *(thinking)* Holy shit. Look at all these dead birds... This can't be real...
+
+*Max approaches the door of the classroom.*
+
+**Mr. Jefferson:** I see you, Max Caulfield. Don't even think about leaving here until we talk about your entry.
+
+*Max walks over to Mr. Jefferson.*
+
+**Mr. Jefferson:** I just wanted to know if... you'd like to spend the rest of your life in my Dark Room? Your purity inspires me so much... and we could be so happy together... Who needs selfies, when I can give you portraiture?
+
+**Max:** *(thinking)* There's no way I'm saying that... No way.
+
+I love you, Mr. Jefferson.# I love you, Mr. Jefferson.
+
+**Max:** I've been dreaming of the day when you would finally tell me... I love you, Mr. Jefferson.
+
+**Mr. Jefferson:** Call me Mark. We need to play catch-up on all the time we've... wasted. Especially since there's nobody left in your life... I love you too, Max.
+
+|-|Our dark room.Our dark room.
+
+**Max:** I like to think of it as... our Dark Room. It's the only place I truly feel safe and protected from the storm.
+
+**Mr. Jefferson:** Of course, Max. I can capture you over and over... You can be my model for life... and death. We are going to be so happy together in the dark. Just make sure you stay pure... I won't like it if you get dirty like Rachel or Chloe.
+
+|-|My selfies are shit.# My selfies are shit.
+
+**Max:** My selfies are shit... I need to be framed by a real artist. I'm just a poser...
+
+**Mr. Jefferson:** Yes, you will be posing... for me. There's so many angles I want to expose you with to the world... I hope you don't mind needles or duct tape...
+
+|-|Thanks for killing Chloe.Thanks for killing Chloe.
+
+**Max:** It's about time somebody finally killed Chloe... Think of how often that bitch almost got me killed... It's like you're doing both of us an awesome favor!
+
+**Mr. Jefferson:** Chloe can never appreciate you the way I will... Maxine. And yes, I insist on calling you Maxine... forever.
+
+*Mr. Jefferson disappears.*
+
+**Max:** *(thinking)* This can't be real... I don't believe it...
+
+*Max leaves the Photography Lab.*
+
+### '''-Girls' Dorm Hallway-'*
+
+*Max enters the hallway of the Girls' Dormitory. She walks up to Kate, who is crying as she lights a candle for her own vigil.''
+
+# ###  **Conversation with Kate** 
+
+**Max:** Hey, Kate.
+
+(Max saved Kate)# (Max saved Kate)
+
+**Kate:** Max, why did you stop me from jumping? What kind of friend are you? You never understood me... or what happened to me... Now my family will never leave me alone... And that means I’ll always be alone... thanks to you.
+
+**Max:** Kate, that’s not true! I’ve always been your friend...
+
+|-|(Max couldn't save Kate)(Max couldn't save Kate)
+
+**Kate:** Max, how could you let me jump off a roof? You were the only person I trusted here... But you never really listened to me... Now I’m never going to Heaven... Instead you’ve stuck me in Hell... Alone forever...
+
+**Max:** No, Kate, I was only trying to save you...
+
+''Kate opens the door to her room, 222, and jumps into the abyss. Max follows her, only to re-enter the hallway of the Girls' Dormitory.*
+
+**Max:** *(thinking)* This hall never ends... I better find something.
+
+*Max must first grab the keys on the table next to the shower room, then enter Dana Ward's room, 218.*
+
+*She will re-enter the hallway in Rachel Amber's clothes. She must enter Rachel's old room, 224.*
+
+*Max will re-enter the hallway as Victoria. She must enter Victoria's room, 221.*
+
+*Max will then re-enter the hallway as herself. She must enter her own room, 219.*
+
+### **-Hallway-**
+
+*Max enters the [http://life-is-strange.wikia.com/wiki/Blackwell_Academy_Hallway hallway].*
+
+*'Courtney and Taylor's conversation**
+
+**Taylor:''' .aremac tnaig a htiw seifles ekat ehs yhs gnikcuf os s'ehS
+
+**Courtney:** .yhs os ti syalp ehS .fi sA
+
+**Taylor:** .si ehs pih woh ees ot ydobyreve stnaw xaM esuaceB
+
+**Courtney:** ?citamatsni ykrod a dnuora yrrac ot tnaw ydobyna dluow yhW
+
+**Max:** *(thinking)* .resol latot a ekil kool t'nod I erus ekam dna ecaf ym no retaw hsalpS .moorhtab eht ni tuoemit suoires a deen I
+
+*Juliet and Zachary walk across the hallway, then stop next to the Photography Lab.*
+
+**Max:** *(thinking)* ...dlrow laer eht ot emocleW
+
+'''Juliet and Zachary's conversation in the background**
+
+**Juliet:** .ssalc gnirud erutcip laiceps a uoy dnes thgim I nehT
+
+**Zachary:** !toH
+
+**Juliet:** ?etuc tsuJ
+
+**Zachary:** .etuc kool syawla uoY .ot tuoba saw I
+
+**Juliet:''' .tey dekool I etuc woh em llet t'ndid uoY
+
+*Max puts on her headphones and [To All of You](to_all_of_you.md) starts playing in reverse. Max walks along the corridor and then enters the bathroom, preceded by an ethereal doe.*
+
+### **-Maze-**
+
+**Mr. Jefferson:** Don’t try to hide, Max... Get over here... Let me capture you...
+
+**Max:** *(thinking)* Jefferson is coming after me again... No...
+
+'''Mr. Jefferson's comments (Maze 1)**
+
+**Mr. Jefferson:** Max... you used to be so pure, so innocent... Now you have to die.
+
+**Mr. Jefferson:** Please understand, Max... The only place I can be "myselfie" is in the Dark Room...
+
+**Mr. Jefferson:'* After everything I did for you... and you accuse me of making our sweet, naive Kate Marsh cry... Art is supposed to make you cry... and you will. *(determinant)*
+
+**Mr. Jefferson:** I can’t believe you let that hillbilly murder me in cold blood... *(determinant)''
+
+**Mr. Jefferson:** What happened to your spark, Max? I thought I could be your professor... for life.
+
+**Mr. Jefferson:** I realize now you’ll never be an artist, much less a photographer... Come here, Max. Class is dismissed...
+
+**Mr. Jefferson:** I miss those days when you looked at me in class with those wide eyes... I want to be your professor again... I can teach you so much...
+
+**Mr. Jefferson:** Max, remember what John Lennon said, "Happiness is a warm gun"... I hope you're happy that I'm dead... *(determinant)*
+
+**Mr. Jefferson:** Look into the lens, Max... Turn right... now left... Show me the love... and the hate...
+
+'''Principal Wells' comments (Maze 2)**
+
+**Principal Wells:** Good evening, Blackwell. This is Principal Wells and I’m here to drop the mic on Max Caulfield.
+
+**Principal Wells:** Attention... I regret to announce that one of your fellow classmates, Maxine Caulfield, has died under tragic circumstances that I promise to investigate after I get my drink on.
+
+**Principal Wells:** Will Max Caulfield please come to the Dark Room immediately. I repeat, Max Caulfield to the Dark Room... now!
+
+**Principal Wells:''' Excuse me, can everybody hear me? If you know the whereabouts of Miss Caulfield, please tie her up and inform me or David Madsen. She's wanted for the death of Chloe Price and Rachel Amber. Thank you.
+
+'''Warren's comments (Maze 3)**
+
+**Warren:** Max... Where are you? Max... Come out to play... Come out to play...!
+
+**Warren:** Ape, Ape, Ape... Who wants to "Go Ape"? Go Ape! Go Ape! Ape! Ape!!!
+
+**Warren:''' You dig my wheels, Max? Get in the car, I'll take you for a ride... Get in the car!
+
+**Warren:** Brooke loves me, so why don’t you? Huh? What makes you so special? *(determinant)*
+
+**Warren:** Max, I know you're in here... You can run, but you can’t hide from your white knight... Give it up!
+
+**Warren:** What's up with you and that blue-haired loser? You need an alpha male, baby!
+
+**Warren:** Did that get you hot when you saw me fuck up Nathan? I did.
+
+**Warren:** Max... imagine if we were in that Dark Room together... I have...
+
+**Warren:** I said, get in the car. Now. We'll cruise to the drive-in and you'll be close to me forever... and we'll... Go Ape, Ape, Ape!!!
+
+'''Principal Wells' comments (Maze 3)**
+
+**Principal Wells:''' Miss Price can't just show up at Blackwell in a wheelchair and think we're going to accommodate her every whim...
+
+**Principal Wells:** I knew I should have given that scholarship to Victoria instead of Max...
+
+**Principal Wells:** How can I tell Max's parents that she's a nosy little bitch?
+
+**Principal Wells:** I wish I could press a button and blow this whole fucking school up...
+
+**Principal Wells:** If I found out who went through my files... I’ll sic David Madsen on their ass.
+
+**Principal Wells:** If only Kate Marsh would have jumped off that roof... I could blame Miss Caulfield and finally get her kicked out of Blackwell. She's a bad influence. *(determinant)*
+
+**Principal Wells:** Poor Kate Marsh... Max might as well have pushed her ass off that roof... Poor Samuel had to mop up blood all night... *(determinant)*
+
+**Principal Wells:** What kind of sick mind would steal money from the handicapped? Nobody will miss Max or her friend Chloe after this comes out. *(determinant)*
+
+'''Samuel's comments (Maze 3)**
+
+**Samuel:''' Come over here, young Max... You're my spirit animal...
+
+**Samuel:** The squirrels hate you... and they’re hungry.
+
+**Samuel:** Too bad you didn’t become friends with the Tobanga...
+
+**Samuel:** Samuel wants to make sure you never snoop around his room again...
+
+**Samuel:** Do you have a scarf I can borrow, Max?
+
+'''Nathan's comments (Maze 3)**
+
+**Nathan:** Admit it, Max... You’re just jealous because me and Victoria actually do the work while you do nothing and whine!
+
+**Nathan:** The only way you’ll ever get into the Vortex Club is if a tornado swallows your ass up!
+
+**Nathan:** Chloe is a loser just like you, Max. And you can’t keep saving her over and over and over...
+
+**Nathan:** Only a feminazi would try to take on a Prescott... Blackwell is my turf, you whore!
+
+**Nathan:** Oh, did you get all hot and bothered when your wimpy boyfriend gave me a beatdown? Oh, oh, oh, Max, you’re way more disturbed and dangerous than me...
+
+**Nathan:'* Snitches get stitches! *(determinant)''
+
+**Nathan:** Hey, bitch. You can get me expelled, but you can't escape. *(determinant)*
+
+**Nathan:** Holy shit, you really think Victoria is going to be your best friend forever? She will always hate you! *(determinant)*
+
+'''David's comments (Maze 3)**
+
+**David:** You can’t escape my surveillance, missy!
+
+**David:** You thought I was harassing Kate, but I was helping her! What the hell did you do for her?
+
+**David:** You’re such a hypocrite, Max. I may be a dick, but at least I’m honest. You just use your power to cheat at life... and cheat your friends out of life.
+
+**David:** Hey, Max. Pretty fucking ironic that I ended up being right about everything and you end up destroying the town.
+
+**David:** Come on, Max, just admit that you’re jealous of my service record. Admit it!
+
+**David:** Hey, Max, please come here. So I can beat you up!
+
+**David:''' Admit it, Max... you're a stoner! A pothead! A weed junkie! *(determinant)*
+
+**David:** My beautiful wife Joyce hates me because of you, Max... Are you proud? *(determinant)*
+
+'''Frank's comments (Maze 4)**
+
+**Frank:** Get your bony ass over here! I am gonna cut you open, freak!
+
+**Frank:** Those were my beans, Max... Those were my fucking beans!!!
+
+**Frank:** How can I get to Heaven when you keep putting me through Hell?
+
+**Frank:** If you took some of my drugs, maybe you’d be a lot happier.
+
+**Frank:** Now that Rachel’s dead... it’s time for you to die too, skank...
+
+**Frank:** Max, you need to get high like Rachel... Want some drugs?
+
+**Frank:''' Oh man, you shoulda heard Chloe smack-talk you. It was brutal. But, of course, I see what she's talking about, now...
+
+**Frank:** Pssst, Max! Me and Rachel are floating down here in the sewer... Come on down!
+
+**Frank:** I sure hope you don’t think we’re buddies now... *(determinant)*
+
+**Frank:** You are at the top of my shit list, now, Max. *(determinant)*
+
+'''Mr. Jefferson's comments (Maze 4)**
+
+**Mr. Jefferson:** Max... Max... I want to share my gift with you...
+
+**Mr. Jefferson:** Now that Chloe is dead, you won’t be distracted in class anymore...
+
+**Mr. Jefferson:** If only you could have seen Rachel... my blood spattered angel...
+
+**Mr. Jefferson:** You will be my greatest portrait, Max...
+
+**Mr. Jefferson:** Max... Max... I want to share my gift with you... Don’t you dare run away...
+
+**Mr. Jefferson:** Rachel, Rachel Amber... Just like her last name, I can finally see right through her skin... and feel that cold, rotting flesh...
+
+**Mr. Jefferson:** Max, Rachel not only gave great headshots... she gave great head. Especially after I dug her body up to be with her one final time. Why are you looking at me like that?
+
+**Mr. Jefferson:''' Max, come back in the Dark Room. I know you're dying for it.
+
+**Mr. Jefferson:** Since Kate isn’t around anymore, I need a volunteer for the Dark Room... Max? *(determinant)*
+
+'''Nathan's comments (Maze 4)**
+
+**Nathan:** Just because I’m mentally ill doesn’t mean I deserve to die, Max!
+
+**Nathan:** Nobody ever helped me, Max. Especially you...
+
+**Nathan:''' Hey, Max. Whatthefuckever are you going to do now that I'm dead?
+
+**Nathan:** Holy fucking shit, Max... That was hilarious when you guys dug up Rachel’s body! Ha, ha, ha! "Oh, oh no, no, no. Boo hoo. Oh, Rachel is worm food..." Comedy Gold. Genius!
+
+**Nathan:** It’s going to be so sweet when I bury your carcass next to Rachel and do an epic photo shoot...
+
+**Nathan:** Hey, Max, do you want to say hello to Rachel? She's posing for me in Hell!
+
+**Nathan:** Oh, man, Rachel looked just like a zombie model in the dirt... Just bone, meat and maggots. I would be all over that shit. You wanna take pictures?
+
+'''Max's comments about collecting bottles (Maze 4)**
+
+**First bottle:** Oh no... Bottles. This might be Hell.
+
+**Second bottle:''' Well, these ones aren't too hard to find.
+
+**Third bottle:** When did I get bad bottle karma?
+
+**Fourth bottle:** Is there one more left?
+
+**Fifth bottle:** Please let that be the last one...
+
+### '''-Chloe's House-'*
+
+*Max looks over at the plastic lighthouse next to her. The camera zooms out, and Max realizes she is stuck in the snow globe on Chloe's mantelpiece.*
+
+*'William and Chloe's Conversation**
+
+**William:''' Don't you dare question the chef.
+
+**Chloe:** Right, like you're the real cook here.
+
+**William:** I am when your mom is away.
+
+**Chloe:** I'll let her know that.
+
+*The phone rings and William answers.*
+
+'''William and Joyce's Conversation**
+
+**William:''' Hello? Hey, honey... just making a fabulous breakfast with Chloe and Max. We're all going to work at the Two Whales... What? Oh, I didn't know you had to get groceries. Of course I'll come pick you up. Now I have an excuse to get a mocha. Be there shortly. Love you...
+
+*William hangs up.*
+
+**William:** Excuse me, ladies, I have to go rescue yonder Queen at the Sav-Mart. She doth have many bags of delicious grub for us to feast upon.
+
+**Chloe:** You are ridiculous.
+
+**William:** You'll be grateful for that someday. Shit, where are my keys?
+
+*William searches around the room.*
+
+**Chloe:** That's a dollar for the swear jar!
+
+**William:** You mean your college fund...
+
+*There is a flash of light and a 13-year-old Max appears in front of the fireplace. She burns the polaroid that William took of Max and Chloe.*
+
+**William:** Keys, please... Shit, where are those keys?
+
+**Chloe:** Another dollar for the swear jar!
+
+**William:** You're bankrupting me!
+
+*William finds the keys under a hat on the coffee table.*
+
+**William:** A-ha! You can't hide from me forever!
+
+*There is another flash of light and the 13-year-old Max disappears.*
+
+**William:** Now lock up after I leave, play nice, try not to destroy too much of the house.
+
+**William (SMS):** Hey Max, would you say hi to Chloe and Joyce? Don't forget to remind them that you let me die.
+
+**William:** And no Chloe and Max wine-tasting session...
+
+**Chloe:** Dad!
+
+### **-Dark Room-**
+
+*Max looks around and realizes she is tied up in the Dark Room.*
+
+**Max:** *(thinking)* How long will this nightmare go on?
+
+'''Mr. Jefferson and Chloe's Conversation'*
+
+*Mr. Jefferson and Chloe appear. He begins to take photos of her.*
+
+**Mr. Jefferson:** I think you’d be perfect for my new photo series on retro-grunge... You have the same qualities that I loved in Rachel Amber... but not Max...
+
+**Chloe:** Max is a fucking child...
+
+**Mr. Jefferson:** Oh Christ, I know... and she never shuts up, does she?
+
+**Chloe:** I’m so over her hipster bullshit.
+
+**Mr. Jefferson:** I think everyone at Blackwell is over Max... Let’s prove it.
+
+*'Warren and Chloe's Conversation'*
+
+*Warren and Chloe appear.''
+
+(Max only kissed Chloe)# (Max only kissed Chloe)
+**Chloe:** Booyah, Warren! I thought you were all over Max’s shit...
+
+**Warren:** She's not all that... so who cares if she doesn't kiss me?
+
+**Chloe:** You should have seen her make a move on me in my room... Hella lame.
+
+**Warren:** Max should see me make a move on you... Come here...
+
+*Chloe kisses Warren.*
+
+|-|(Max only kissed Warren)(Max only kissed Warren)
+**Chloe:** Booyah, Warren! I thought you were all over Max’s shit...
+
+**Warren:** Not after she kissed me... her breath was ass and no tongue...
+
+**Chloe:** I hear that. I'm not into... nerds but you're pretty cute...
+
+**Warren:** I'm not into Max, anyway. So let's bust a move...
+
+*Chloe kisses Warren.*
+
+|-|(Max kissed neither)# (Max kissed neither)
+**Chloe:** Booyah, Warren! I thought you were all over Max’s shit...
+
+**Warren:** She's sure the hell not into me at all... who cares?
+
+**Chloe:** I guess we're "not her type"... like Max has a fucking type?
+
+**Warren:** But she does... She's into Mr. Jefferson... Now come here...
+
+*Chloe kisses Warren.*
+
+|-|(Max kissed both)(Max kissed both)
+**Chloe:** Holy shit, Warren! Max is trying to play us both!
+
+**Warren:** I guess she's not as innocent as she acts...
+
+**Chloe:** Not when she's trying to hook up with both of us...
+
+**Warren:** I only want to go ape with you, Chloe... Come here...
+
+*Chloe kisses Warren.*
+
+'''Nathan and Chloe's Conversation'*
+
+*Nathan and Chloe appear, sitting on the couch.*
+
+**Nathan:** Goddamn, you are a sexy bitch! Why hang out with Max, huh?
+
+**Chloe:** Boredom. Plus she’s like my personal puppet.
+
+**Nathan:** I hear that. Do you... want to party? I got a drugstore in my room.
+
+**Chloe:** Oh shit! Look at Max spying on us... Take a fucking picture, bitch! Or take a selfie!
+
+*'Chloe's Conversation with Max'*
+
+*Chloe stands on the couch in her underwear, dancing.*
+
+**Chloe:** See, this is how you bust a move, Max... No mosh pit for you, shaka brah!
+
+*'Victoria and Chloe's Conversation'*
+
+*Victoria and Chloe appear, sitting on the couch.''
+
+**Chloe:** Damn, Victoria... You're a real woman... not a little girl like Max...
+
+**Victoria:** I fucking love your tats, Chloe. You're so hot. I can’t believe it took us so long to hook up...
+
+*They begin to make out.*
+
+'''Alternate Chloe's Conversation with Max'*
+
+*Alternate Chloe appears in front of Max.*
+
+**Chloe:** Why did you get rewind powers? You don’t even know how to use them... Rachel’s dead and you’re still alive. Life is... so not fair.
+
+*'Chloe's Conversation with Max'*
+
+*Chloe appears in front of Max and takes photos of her.*
+
+**Chloe:** I wish you would have never come back to Arcadia Bay... You’re the real storm.
+
+### **-Two Whales Diner-**
+
+*Max stands in the bathroom of the Two Whales Diner. She looks at the keypad.*
+
+**Max:** *(thinking)'' I'll be so grateful if this is the last digicode...
+
+*Max enters 0311 into the keypad and opens the door.*
+
+**Courtney:** Don't kill us, Max.
+
+**Dana:** I guess I'll never dance again, Max...
+
+**Man:** Right when I was about to start a new life in California...
+
+**Other comments**
+
+(Chloe killed Frank)# (Chloe killed Frank)
+**Frank:** So you kill me... and now all of my customers? What’s wrong with you, Max?
+
+|-|(Chloe wounded Frank)(Chloe wounded Frank)
+**Frank:** Look, I know things were bad between us, but... that doesn’t mean I deserved to die.
+
+|-|(Chloe didn't harm Frank)# (Chloe didn't harm Frank)
+
+**Frank:** Shit, Max… and I thought we were on the same team... Now, I’ll die alone.
+
+**Brooke:** Max, I hope you do the right thing. I hope...
+
+(Max kissed Warren)(Max kissed Warren)
+**Warren:** I can’t believe I let you kiss me... Now you’re going to kill me...
+
+|-|(Max didn't kiss Warren)# (Max didn't kiss Warren)
+**Warren:** I was happy just being your friend... Why do you want all your friends to die?
+
+**Juliet:** Max, please, save us.
+
+**Zachary:** Save the bigfoots, Max. Please.
+
+**Joyce:** Honey, I always thought of you like a daughter... and now you’re going to take me away from my family... Why would you do that?
+
+**David:** Max, you’re exactly the kind of soldier I’d want by my side in a war.
+
+**Man:** Son of a bitch, this is going to hurt...
+
+**Logan:** So this is how Max gets her revenge on?
+
+(Max saved the Fisherman)(Max saved the Fisherman)
+**Fisherman:** Max, you saved my life, gave me the chance to catch one more fish...
+
+|-|(Max didn't save the Fisherman)# (Max didn't save the Fisherman)
+**Fisherman:** Like I told you before... old fishermen never die... well, until now.
+
+(Max warned the Homeless Lady)(Max warned the Homeless Lady)
+**Homeless Lady:** Thanks for that warning, Max... You treated me like a human, not like trash... I sure hope you do that for everybody in town...
+
+|-|(Max didn't warn the Homeless Lady)# (Max didn't warn the Homeless Lady)
+**Homeless Lady:** I’ve already lived forever... maybe you can help others live too...
+
+**Justin:** Killing me is soooo not cool.
+
+**Trevor:** Wow Max, right when I finally find a cool chick to date...you have to kill us off. This sucks.
+
+(Max saved the Trucker)(Max saved the Trucker)
+**Trucker:** Breaker, Breaker... Thanks for saving me and carrying the load, good buddy. That’s a big 10-4.
+
+|-|(Max didn't save the Trucker)# (Max didn't save the Trucker)
+**Trucker:** It’s okay if I’m gone... I’ve paid my dues... Time to pay yours.
+
+**Woman:** This is not how I wanted to spend my last hour on Earth...
+
+**Man:** Max, can you call my mother in Portland and tell her that I love her?
+
+**Principal Wells:** I know I haven't been the best principal to you... but you've been a great "Everyday Hero" for us.
+
+**Courtney:** Please, save us.
+
+**Woman:** I guess my husband and new baby will have to go without me...
+
+**Man:** Max, I hope you can live with yourself after this.
+
+**Samuel:** Don't let the squirrels die.
+
+**Victoria:** I wish we had been friends, Max. But please... don’t let me die like this... I’m still a teenager...
+
+**Nathan:** Max, I'm... truly... I truly am sorry for being such a bastard. You would have been cool to hang out with. I just don’t want everybody else to suffer like me.
+
+(Max saved Alyssa in every episode)(Max saved Alyssa in every episode)
+**Alyssa:** You’ve always had my back and now you’re going to let me die? Thanks Max.
+
+|-|(Max saved Alyssa's life)# (Max saved Alyssa's life)
+**Alyssa:** I thought you were one of the few people I could trust at Blackwell. I thought...
+
+|-|(Max didn't save Alyssa's life)(Max didn't save Alyssa's life)
+**Alyssa:** Even if I’m dead, how can you let all these other people get wiped out? They don’t deserve that...
+
+(Max saved Evan)# (Max saved Evan)
+**Evan:** Oh Max, what exactly was the point of saving me if you're only going to let me die?
+
+|-|(Max didn't save Evan)(Max didn't save Evan)
+**Evan:** Uh, let me get this straight: you didn't bother to save me or the Bay? How pathetic, child.
+
+**Kate:** Please, Max. Don't kill me, so we can finally have our tea session.
+
+**Daniel:** Max, I want you to know how much confidence you gave me... Nobody ever did that for me.
+
+**Stella:** I survived poverty and an abusive family... just so I can end up here to die...
+
+# ###  **Conversation with Alternate Max** 
+
+*Max walks over to an alternate version of herself.*
+
+**Max:** Who... Who are you?
+
+**Alternate Max:** Holy shit, are you cereal? I'm you, dumbass. Or I'm one of many Maxes you've left behind...
+
+**Max:** Can you get me out of here?
+
+**Alternate Max:** Oh, so you want help? Thought you could control everybody and everything, huh? Twist time around your fingers?
+
+Wasn't my choice...# Wasn't my choice...
+**Max:** It wasn't my choice. I didn't ask to rewind time!
+
+{{#tag:tabber|(David killed Mr. Jefferson)(David killed Mr. Jefferson)
+
+**Alternate Max:** Stop playing innocent. You've left a trail of death behind you. You even let that stalker Madsen kill Jefferson... That's sick! You're way more of a cold-blooded killer than him or Nathan.
+
+{{#tag:tabber|Self-defense.# Self-defense.
+**Max:** Bullshit! That was self-defense! I never set out to kill anybody.
+
+**Alternate Max:** That doesn't make you any less of a murderer.
+
+{{!}}-{{!}}I'm a survivor.I'm a survivor.
+**Max:** No. I'm a survivor. I don't have any experience in time travel or stopping psychopaths like Jefferson... I did what I had to.
+
+**Alternate Max:** Oh, the jury will love to hear about your mad time travel skills.
+
+}}
+
+**Max:** I know what I am... You're just trying to hurt me.
+
+**Alternate Max:** You're a goddamn hypocrite. Just look at the pain you've caused...
+
+{{!}}-{{!}}(David didn't kill Mr. Jefferson)# (David didn't kill Mr. Jefferson)
+
+**Alternate Max:** No, but you were happy to use it to get people to like you. As if you cared about them.
+
+{{#tag:tabber|I do care.I do care.
+**Max:** I do care! That's why I was trying to make friends...
+
+**Alternate Max:** By telling people what they want to hear? You were just looking for a shortcut, because you can't make friends on your own.
+
+**Max:** That's not true. I have great friends. And I've used my powers for good.
+
+{{!}}-{{!}}That's true.# That's true.
+**Max:** That's true... I wasted my power on trying to be friends with everybody.
+
+**Alternate Max:** About time you admitted that. But it's way too late after everything you've done...
+
+**Max:** But... I still have great friends. And my power helped some.
+
+}}
+
+**Alternate Max:** Please, stop playing innocent. You're a goddamn hypocrite. You've left a trail of death and suffering behind you.
+
+}}
+
+|-|I tried to help...I tried to help...
+**Max:** I tried to help... I only wanted to do the right thing.
+
+**Alternate Max:** No, you only wanted to be popular. And once you got these amazing powers, your big plan was to trick people into thinking you give a rat's ass.
+
+{{#tag:tabber|I do care.# I do care.
+**Max:** I do care! That's why I was trying to make friends...
+
+**Alternate Max:** By telling people what they want to hear? You were just looking for a shortcut, because you can't make friends on your own.
+
+**Max:** That's not true. I have great friends. And I've used my powers for good.
+
+{{!}}-{{!}}That's true.That's true.
+**Max:** That's true... I wasted my power on trying to be friends with everybody.
+
+**Alternate Max:** About time you admitted that. But it's way too late after everything you've done...
+
+**Max:** But... I still have great friends. And my power helped some.
+
+}}
+
+**Alternate Max:** Please, stop playing innocent. You're a goddamn hypocrite. You've left a trail of death and suffering behind you.
+
+**Max:** That was not my fault, you son of a bitch...
+
+**Alternate Max:** Don't you dare talk about our mom that way... ha!
+
+(Chloe killed Frank)# (Chloe killed Frank)
+**Alternate Max:** And what about Frank? That bullet in him wasn't your fault?
+
+|-|(Chloe didn't kill Frank)(Chloe didn't kill Frank)
+**Alternate Max:** What about the crap that was your fault?
+
+**Alternate Max:** Wait, wait, let me guess... You fucked up time and space for your precious punk Chloe. You think she's worth all that?
+
+We all are.# We all are.
+**Max:** We all are. This isn't about Chloe... or even me anymore.
+
+**Alternate Max:** Gosh, you're so selfless now, Mahatma Max. It's too bad you pissed your power away on high school drama.
+
+|-|My best friend.My best friend.
+**Max:** Of course. She's my best friend.
+
+**Alternate Max:** Oh yeah, you ignored your "best friend" for five years while she went through hell... Some friend.
+
+|-|Destiny.# Destiny.
+**Max:** This has to be my destiny to save her... I wouldn't be trapped in here if I didn't believe that...
+
+{{#tag:tabber|(Stole money from the fund)(Stole money from the fund)
+**Alternate Max:** No kidding. Chloe trapped you with her drama. Guns, drugs, Rachel... Even stealing money from the handicapped fund. She's just using you, dude.
+
+{{!}}-{{!}}(Didn't steal money from the fund)# (Didn't steal money from the fund)
+**Alternate Max:** No kidding. Chloe trapped you with her drama... guns, drugs, Rachel... She's just using you, dude.
+
+}}
+
+**Alternate Max:** Like, she even asked you to end her life and do what she couldn't do by herself.
+
+**Max:** Chloe does a better job of guilt-tripping me than you do.
+
+**Alternate Max:** Because you let her bully you. It's called "Stockholm Syndrome." But you didn't do that homework... so you'll have to learn the hard way. Like Rachel...
+
+**Max:** Just shut up. You're not scaring me anymore.
+
+**Alternate Max:** I'd be more worried about Chloe killing us than Jefferson...
+
+(Max kissed Chloe)(Max kissed Chloe)
+**Alternate Max:** Max, do you really think she has any feelings for us? You're just another puppet...
+
+|-|(Max didn't kiss Chloe)# (Max didn't kiss Chloe)
+**Alternate Max:** Max, do you really think she's our friend? That she respects us in any way?
+
+**Alternate Max:** Man, you are so stupid. I'm embarrassed to have the same name... And someday Chloe will destroy—
+
+*Chloe enters the diner.*
+
+**Alternate Max:** Oh hell, speak of the devil...
+
+*Chloe sits down in the booth and Alternate Max examines her camera.*
+
+**Chloe:** Dude, do not even fuck with her head! She knows what we went through together this week and you don't! There's no way you can break up our team! This is reality!
+
+*Alternate Max stops moving and the camera zooms out.*
+
+### **-Course of events-**
+
+*Max relives the events of the past few days.*
+
+'''Chloe's Truck**
+
+**Chloe:''' After five years you're still Max Caulfield.
+
+**Max:** I am seriously glad to see you.
+
+**Chloe:** Welcome home, Max. Fasten your seatbelt.
+
+'''William's Camera**
+
+**Chloe:''' I, uh... know it was your birthday last month... This was my real father's camera... I want you to have it.
+
+**Max:** Yes, of course it's cool! Thank you... This camera is so sweet.
+
+**Chloe:** Now that we got the mushy shit out of the way, I feel like stage diving! Let's thrash this place! Yep, yep! I'm fucking insane in the brain! Let's dance! Shake that bony white ass! Or take my picture with your new camera!
+
+**Hiding from David**
+
+**Chloe:** This song fucking rules! Can't dance, hippie? Come on! Rawk out, girl! Yo, turn it off, turn it off! You need to hide. Now! My stepdad will kill me if he finds you here!
+
+**The Cliff**
+
+**Chloe:** You were here today, Max. You saved me! I'm still tripping on that... Seeing you after all these years feels like—
+
+**Max:** Destiny?
+
+**Chloe:** If this is destiny, I hope we can find Rachel. I miss her, Max. What the hell is this?
+
+**Max:** Snowflakes... Or a storm is coming.
+
+**Chloe:** Max, start from the beginning. Tell me everything...
+
+**The Two Whales Diner**
+
+**Chloe:** Let's talk about your superpower... Epic! I pledge allegiance to Max and the power for which she stands... You can rewind time, Max. That's fucking insane. We have to play! You need a sidekick to guide you.
+
+**Max:** Okay, Girl Wonder... Show me the way to Chloe's Cave.
+
+**The Junkyard**
+
+**Chloe:** Welcome to American Rust, my home away from Hell.
+
+**Max:** Raw and rough. It suits you...
+
+**Chloe:** Max, do you know how awesome this is? I get my best friend back and she's also supersized?
+
+**Max:** I... don't... feel so super...
+
+**Chloe:** Max, here let me help you find a place to chill... You freaked me out there. Do you feel any better now?
+
+**Walking on the Railroad Tracks**
+
+**Chloe:** You saved me again. Crazy. Now we're totally bonded for life! Since you're the mysterious superhero... I'll be your faithful chauffeur and companion.
+
+**Max:** My powers might not last, Chloe.
+
+**Chloe:** That's okay—we will. Forever.
+
+'''Busting into the Principal's Office**
+
+**Max:''' I'm so glad you're my partner in crime.
+
+**Chloe:** As long as you're my partner in time. I might get on the other side of that door before you, Lupin.
+
+**Max:** The race is on. See you soon. Welcome to my domain.
+
+**Chloe:** You are magic. I have no clue how the hell you got in there, but you did it, sista.
+
+'''Looking Through the Principal's Files**
+
+**Chloe:** Max, you better come check out these files...
+
+**Max:''' It's not a drawing... look, "Rachel in the dark room... Rachel in the dark room..." Over and over. That's it. No, you are not taking the cozy chair.
+
+**Chloe:** Max, do your powers include mind-reading? Or did you just rewind because I tried to steal the chair? Shit, I'm confused.
+
+**Max:** It's the powers of best friendship. I know how you roll...
+
+**Swimming in the Blackwell Pool**
+
+**Max:** Cowabunga!
+
+**Chloe:** Why, look! An otter in my water! Your power is changing everything, Max. Especially you. I can already tell. You're not so chickenshit anymore.
+
+**Max:** Thanks, girlfriend.
+
+**Chloe:** And you make me feel like I have a reason for still being in Arcadia Bay.
+
+**Fleeing Blackwell Security**
+
+**Max:** Let's call it a draw. I'm gonna freeze my ass off when I get out...
+
+**Chloe:** You look cute with your hair soaked in chemicals.
+
+**Max and Chloe:** *[to each other]* Hide!
+
+**Chloe:** You can't go back to your dorm now, you're a Blackwell fugitive! Crash at my place tonight.
+
+'''Waking Up in Chloe's Room**
+
+**Chloe:** Photobomb!
+
+**Max:** Photo-hog! It feels like a different world from yesterday...
+
+**Chloe:** We left a skid mark on Blackwell last night.
+
+**Max:** Wish we could just hang out all morning like we used to... Maybe we should get up, I have to get back to Blackwell soon.
+
+**Chloe's Dare**
+
+**Chloe:** I double dare you. Kiss me now.
+
+(Max kissed Chloe)(Max kissed Chloe)
+**Chloe:''' Damn, you're hardcore, Max! Now I can text Warren and tell him he doesn't stand a chance... unless he's into girl-on-girl action.
+
+|-|(Max didn't kiss Chloe)# (Max didn't kiss Chloe)
+**Max:** Sorry, not that easy.
+
+**Chloe:** Oh, like I am? Just admit that you already macked on me then used your rewind! Now I can text Warren that you're saving yourself all for him...
+
+**Max:** You are such a dork.
+
+'''Frank's RV**
+
+**Chloe:''' Oh, we could totally cruise everywhere in this bad boy! Can you see us heading down the coast to Big Sur or beyond? I know. Just daydreaming. It makes me ill that Rachel posed like this for Frank... or wrote him love letters... I can't believe she was banging Frank! Rachel straight up lied to my face! Why didn't she say anything?
+
+**Max:** Because she knew how you would react.
+
+**Chloe:** Then she wasn't much of a friend, huh? Just another person who shits all over me. Why does everybody in my life let me down? My dad gets killed, you bail on me for years, my mother gloms onto step-fucker... now Rachel betrays me...
+
+**Saving William**
+
+**Chloe:** Not until I see it first! You know the rules, Dad! Dude, I am so lucky that my father is cool... Max, you are being so fucking strange. You feel okay?
+
+**Max:** Chloe, I am... awesome. We are awesome!
+
+**The Beach with Alternate Chloe**
+
+**Alternate Chloe:** It’s weird hanging out with you again.
+
+**Max:** I know... I’m glad we are, though.
+
+**Alternate Chloe:** Look, the worst thing you can do is treat me like a baby. I still want to laugh and talk shit with my best friend. Can we stop? This is seriously the best view of the sunset. What do photographers call that?
+
+**Max:** "The golden hour."
+
+'''Alternate Chloe's Room**
+
+**Alternate Chloe:** Whoa, awesome picture. We look so badass in our pirate gear.
+
+**Max:** We should have taken over Arcadia Bay when we had the chance.
+
+**Alternate Chloe:''' Listen, Max, my respiratory system is failing and... and it's only getting worse. I've heard the doctors talking about it when they thought I was zonked out. So I know I'm just putting off the inevitable, while my parents suffer along... and I will, too. This isn't how I want things to end.
+
+**Max:** What? What are you saying?
+
+**Alternate Chloe:** I'm saying that being with you again has been so special. I just wanted to feel like when we were kids running around Arcadia Bay... and everything was possible. And you made me feel that way today. I want this time with you to be my last memory... Do you understand?
+
+**Working on the Detective Board**
+
+**Max:** Chloe... you're back. I'm just... I'm just—I'm so glad you're here!
+
+**Chloe:** You sound high, but thanks for the morning grope. Since we were up all night playing "CSI: Arcadia Bay," I was still spaced out here, trying to put all this info together.
+
+**The Dark Room**
+
+**Max:** Kate wasn't the first... All those binders are filled with other victims. Victoria has to be next. Nathan must be planning to dose her tonight at the Vortex Club party.
+
+**Chloe:** Rachel... This can't be real... These are all—these are all posed shots, right? Right? The junkyard! Max, we have to find that spot, now! Then we can see what he did... There's no way she's dead. No way! She posed for those pictures, Max. I know it, please... let's go.
+
+'''Finding Rachel's Body**
+
+**Chloe:'* *(sobbing)* Rachel... Oh, Rachel... No... no... Please, not her...
+
+**Max:** Chloe...
+
+**Chloe:** Rachel... why?
+
+**Max:** *(sobbing)'' I’m sorry, Chloe. I’m so sorry...
+
+**Chloe:** I loved her so much... How can she be dead? What kind of world does this? Who does this?!
+
+**Reaching the Lighthouse**
+
+**Chloe:** Come on Max, we’re almost there! Please wake up! Max, can you hear me? Hang on, Max, we can make it! Listen to me! Max! We’re near the lighthouse! Wake up! Dammit, Max, don't let me down!
+
+*Max fights her way through the storm and catches up to reality.*
+
+**Chloe:** Max, come on now! Don't worry... we'll be okay.
+
+##  **Cliff** 
+
+*Chloe and Max fall to the ground. The lighthouse is behind them.*
+
+**Chloe:** Max? Max, can you hear me? Please, say something.
+
+**Max:** Chloe? I... I must have passed out... Sorry.
+
+**Chloe:** Oh, thank God... Don't you ever do that again, okay?
+
+**Max:** I swear... but that nightmare was so real... was so horrible...
+
+''Chloe takes Max's arm and they stand up. Max watches the tornado, horrified.''
+
+**Max:** This is my storm. I caused this... I caused all of this. I changed fate and destiny so much that... I actually did alter the course of everything. And all I really created was just death and destruction!
+
+**Chloe:** Fuck all of that, okay? You were given a power. You didn't ask for it... and you saved me. Which had to happen, all of this did... except for what happened to Rachel. But without your power, we wouldn't have found her! Okay, so you're not the goddamn Time Master, but you're Maxine Caulfield... and you're amazing. Max, this is the only way.
+
+*Chloe hands Max the photo she took of the blue butterfly.*
+
+**Max:** I feel like I took this shot a thousand years ago.
+
+**Chloe:** You... You could use that photo to change everything right back to when you took that picture... All that would take is for me to... to... *[Chloe holds her face in her hands]*
+
+**Max:** Fuck that! No... no way! You are my number one priority now. You are all that matters to me.
+
+**Chloe:** I know. You proved that over and over again... even though I don't deserve it. I'm so selfish... not like my mom... Look what she had to give up and live through... and she did. She deserves so much more than to be killed by a storm in a fucking diner. Even my step... father deserves her alive. There's so many more people in Arcadia Bay who should live... way more than me...
+
+**Max:** Don't say that... I won't trade you.
+
+**Chloe:** You're not trading me. Maybe you've just been delaying my real destiny... Look at how many times I've almost died or actually died around you. Look at what's happened in Arcadia Bay ever since you first saved me. I know I've been selfish, but for once I think I should accept my fate... our fate...
+
+**Max:** Chloe...
+
+**Chloe:** Max, you finally came back to me this week, and... you did nothing but show me your love and friendship. You made me smile and laugh, like I haven't done in years. Wherever I end up after this... in whatever reality... all those moments between us were real, and they'll always be ours. No matter what you choose, I know you'll make the right decision.
+
+**Max:** Chloe... I can't make this choice...
+
+''Chloe grabs Max's arms.''
+
+**Chloe:** No, Max... You're the only one who can.
+
+SACRIFICE CHLOESACRIFICE CHLOE
+
+**Chloe:** Max... it's time...
+
+**Max:** Chloe... I'm so, so sorry... I... I don't want to do this.
+
+*Chloe hugs Max tightly.*
+
+**Chloe:** I know, Max. But we have to. We have to save everybody, okay? And you'll make those fuckers pay for what they did to Rachel. Being together this week... it was the best farewell gift I could have hoped for. You're my hero, Max.
+
+{{#tag:tabber|(High romance score)# (High romance score)
+*They share a passionate kiss.*
+
+{{!}}-{{!}}(Low romance score)(Low romance score)
+**Max:** Oh, Chloe... I'm gonna miss you so much.
+
+*They share a long hug.*
+
+}}
+
+**Chloe:** I'll always love you... Now, get out of here, please! Do it before I freak. And Max Caulfield? Don't you forget about me...
+
+**Max:** Never.
+
+*Max focuses on the photo and travels back in time. She takes the freshly printed photo from her camera and tosses it to the floor. She looks around the stall and waits for the bathroom door to open.*
+
+**Nathan:** *[talking to himself in the mirror]* It's cool, Nathan... Don't stress, you're okay, bro, just... count to three. Don't be scared. You own this school... If I wanted, I could blow it up. You're the boss.
+
+*The blue butterfly lands on the edge of the sink near Nathan. Chloe enters the bathroom.*
+
+**Nathan:** So what do you want?
+
+**Chloe:** I hope you checked the perimeter, as my step-ass would say. *[She opens the stall doors]* Now, let's talk bidness.
+
+**Nathan:** I got nothing for you.
+
+**Chloe:** Wrong. You got hella cash.
+
+*Max sinks to the floor.*
+
+**Nathan:** You don't know who the fuck I am or who you're messing around with!
+
+**Chloe:** Where'd you get that? What are you doing? Come on, put that thing down!
+
+**Nathan:** Don't EVER tell me what to do. I'm so SICK of people trying to control me!
+
+**Chloe:** You are going to get in hella more trouble for this than drugs.
+
+**Nathan:** Nobody would ever even miss your punk ass, would they?
+
+**Chloe:** Get that gun away from me, psycho!
+
+*Nathan accidentally pulls the trigger. Max lowers her head and her tears fall to the floor. Nathan, distressed, shakes Chloe repeatedly. The song [Spanish Sahara](spanish_sahara.md) begins to play.*
+
+''A timestream montage shows Chloe hovering over Nathan in the bathroom replaced by David handcuffing him, Nathan beating up Warren in the parking lot replaced by Nathan being interrogated by a police officer, Max taking a photo of Chloe dancing replaced by Max and some other students watching Mr. Jefferson be arrested, Chloe and Max walking on the train tracks replaced by Max holding Joyce's hands, Chloe splashing Max in the Blackwell pool replaced by Max hugging a teddy bear in her dorm room, Chloe and Max taking a selfie in Chloe's room replaced by Joyce giving Max a box of Chloe's things at the Two Whales Diner, Max hugging Chloe after returning from the alternate timeline replaced by Max looking at her polaroids, and Chloe and Max on the cliff during the tornado replaced by Max wearing a black dress and looking at the sunset.*
+
+*Joyce, David, Principal Wells, Max, and some other Blackwell Academy students walk into the Arcadia Bay Cemetery and gather around Chloe's coffin. Frank and Pompidou also watch the funeral service from a distance. The blue butterfly lands on the coffin and Max smiles.''
+
+|-|SACRIFICE ARCADIA BAY# SACRIFICE ARCADIA BAY
+
+**Chloe:** Max... it's time...
+
+*The song [Obstacles](obstacles.md) begins to play.*
+
+**Max:** Not anymore.
+
+*Max tears apart the polaroid and it blows away in the storm. She watches the tornado.*
+
+**Chloe:** Max... I'll always be with you.
+
+**Max:** Forever...
+
+''Chloe holds Max's hand and they watch as the tornado hits Arcadia Bay. Max shakes her head and Chloe wraps her arm around Max.*
+
+*A series of aerial shots show the wreckage. Chloe's truck comes into view as she drives down the street. Max looks out the window, upset; Chloe looks over at Max and stops the truck, squeezing her shoulder reassuringly, and Max smiles. The two girls drive out of town, passing the "Another Great Day in Arcadia Bay" sign.''
+
+**END OF EPISODE 5: POLARIZED**
+
+{{Navlinks|prevEpisode 4: Dark Room - Script}}
+
+-{{!}}We'll see her again.# We'll see her again.
+
+**Max:** Kate wants us to get the hell out of here...and then we can both go see her again, okay?
+
+**Victoria:** I'd do anything to see Kate once more...just to tell her I'm sorry.
+
+}}
+
+|-|(Kate is dead)(Kate is dead)
+
+**Victoria:** Then Kate Marsh was telling the truth... Even though I knew she wasn't lying... And I could've helped her Max...but I hurt her. *(crying)* Now it's—it's my turn.
+
+{{#tag:tabber|We're both here.# We're both here.
+
+**Max:** We're both here, okay?
+
+**Victoria:** I just can't believe this is happening... That Jefferson would do this to me...to us...
+
+{{!}}-{{!}}That's bullshit.That's bullshit.
+
+**Max:** That's bullshit. Nathan and Jefferson killed Kate. And she deserves justice...
+
+**Victoria:** I just can't believe Jefferson could do this... and I even blackmailed him into making me win the contest... I'm stupid, stupid, stupid!
+
+}}
+
+**Max:** Victoria, we will find a way to escape. I promise.
+
+**Victoria:** Max...I believe you.
+
+'''Max and Victoria's Comments**
+
+(Kate is alive)# (Kate is alive)
+
+**Victoria:'* *(sobbing)'' Now I know what Kate had to go through...and I almost killed her...
+
+**Max:** Shh. No, you didn't. Don't think about that now.
+
+|-|(Kate is dead)(Kate is dead)
+
+**Victoria:** *(sobbing)* Now I know what Kate had to go through...and I helped kill her.
+
+**Max:** You didn't know anything. Don't think about that now.
+
+**Victoria:** *(tearfully)* God, I was so fucking stupid...
+
+**Victoria:** *(tearfully)* Please, get us out of here!
+
+**Max:** I will... Just try to be calm...
+
+**Victoria:** *(sobbing)* Please don't hate me... Please don't let me die in here...
+
+**Max:** Victoria, nobody is dying in here. We will escape. I promise.
+
+**Victoria:** *(panicked)* You have to get us out of here... You have to!
+
+**Victoria:** *(sobbing)* Oh, Max... I'm so, so sorry... I had no clue...
+
+**Max:** Neither did I...but we do now. I'll find a way out.
+
+**Victoria:** Max... What can we do? What?
+
+**Max:** Hold on, I'm thinking...
+
+**Victoria:** Why is Mr. Jefferson doing this? Why?!
+
+**Victoria:** *(sobbing)* This can't be real... I want to wake up...
+
+**Max:** I need you to help me, okay?
+
+**Victoria:** *(sobbing)* Max... You have to help us... you have to...
+
+'''Max's Thoughts**
+
+**Max:'* *(thinking)* He drugged me for his fucked up binders...just to take photos...
+
+**Max:** *(thinking)* I could try another photo... It makes me sick just thinking about him...
+
+**Max:** *(thinking)* Jefferson was too good to be true... How could I miss the signs?
+
+**Max:** *(thinking)* Okay, I changed some things... I could use some of these new pictures...
+
+**Max:** *(thinking)* I can still get out of this and save Chloe... I have to.
+
+**Max:** *(thinking)* How long has he been hiding all this?
+
+**Max:** *(thinking)* You are not going to die in here...
+
+*Max looks at another photo of herself on the trolley.*
+
+**Max:** *(thinking)'' Whoa... I—I'm definitely more awake in this photo... I could try this one.
+
+*Max focuses on the photo.*
+
+**Max:** *(thinking)* This might work. Please work...
+
+# ###  **Second Focus** 
+**Jefferson:** *(during the focus)* So wise yet so innocent...
+
+*Max is still tied up in her chair while Mr.Jefferson takes photos of her from behind a camera mounted on a tripod.*
+
+**Jefferson:** I'm getting some spectacular images here, Max. Yes, Victoria would kill to be in your place, but...she doesn't understand our...connection. You're the winner, Max. I choose you...your portrait.
+
+**Max:** Fuck you.
+
+**Jefferson:** You're trying too hard. I know you're scared... You all have the same doe-eyed look when you wake up here. Replaced by fear as you realize what's about to happen.
+
+**Max:** Mr. Jefferson, why are you doing this?
+
+*Jefferson steps away from the tripod and approaches Max.*
+
+**Jefferson:** Oh, Max... I'm so glad you asked that question. Simply put, I'm obsessed with the idea of capturing that moment innocence evolves into corruption. That shift from black, to white, to grey, and beyond... Most models are cynical. They...lose that naiveté. However, some [Blackwell Academy](blackwell.md) students carry their hope and...optimism with them like...an aura. And those lucky few become my models...my subjects.
+
+**Max:** Yes, you're a psychopath. And this is your last session.
+
+**Jefferson:** Au contraire, Max. I'm so sane, that nobody knows what's happening to you right now.
+
+(Victoria was kidnapped)# (Victoria was kidnapped)
+
+**Jefferson:** As you can see, Sleeping Beauty here is too harsh for my gentle lens.
+
+**Jefferson:** And don't get me started on your late partner. I had enough of those faux-punk sluts in my Seattle days.
+
+You killed Chloe.You killed Chloe.
+
+**Max:** *(angrily)* You killed Chloe! You murdered my best friend.
+
+**Jefferson:** She had a loaded weapon. This was clearly self-defense; but that's what happens when you play with guns...or try to fuck with me. It's better when they don't know...like pure...sweet...Kate.
+
+|-|Go to hell.# Go to hell.
+
+**Max:** Go to hell. You will, for everybody you've hurt.
+
+**Jefferson:** Unlike pure, sweet Kate Marsh, I don't believe in that bullshit. She could have been my masterpiece. The world is what an artist makes it...and my muse—
+
+Blah blah blah.Blah blah blah.
+
+**Max:** Blah, blah, blah... God, I hate your voice now.
+
+**Jefferson:** You might as well savor it, considering it's the last you'll hear. Oh... *[chuckles]* That struck a nerve. Your face changed color...beautiful.
+
+|-|Kate survived. (Kate is alive)# Kate survived. (Kate is alive)
+
+**Max:** Kate believed, and she survived. You failed to break her. She's stronger than ever. And she'll outlive you.
+
+**Jefferson:** She'll certainly outlive you. *[chuckles]* Who knows? Maybe I'll pay Kate a visit soon and test her faith again...
+
+|-|Artists don't kill. (Kate is dead)Artists don't kill. (Kate is dead)
+
+**Max:** Artists don't drive teenagers to suicide for any bullshit muse. You trained Nathan to drug Kate...to take photos of her. That's why she's dead.
+
+**Jefferson:** Which makes me sad, Max. I will miss her... Kate had such a strong spirit...it was very satisfying to break it down.
+
+**Max:** *(angrily)* You will not get away with this. I want you to know that.
+
+(Blamed Jefferson)# (Blamed Jefferson)
+
+**Jefferson:** When you told the principal that I made Kate cry, I thought you almost had me. It's good our esteemed [Raymond Wells](principal_wells.md) is like most administrators...a closet drunk.
+
+|-|(Blamed David)(Blamed David)
+
+**Jefferson:** Then why did you blame [David Madsen](david_madsen.md) for stalking Kate? Of course, he was the only person who was about to find out the truth. Irony.
+
+|-|(Blamed Nathan)# (Blamed Nathan)
+
+**Jefferson:** Too bad you already made a convincing argument against Nathan in the [Principal Wells' Office](principal_s_office.md). Thank you so much for setting him up for me.
+
+**Jefferson:** I do know that the Prescotts are going to have a major scandal when the town finds out what their elite son has been doing for homework...
+
+You used Nathan.You used Nathan.
+
+**Max:** You used Nathan.
+
+**Jefferson:** I prefer the term "manipulated." Like with an image... Nathan's was easy to twist around.
+
+|-|He's as sick as you.# He's as sick as you.
+
+**Max:** He's as sick as you.
+
+**Jefferson:** Don't...judge people, Max. But that's why Nathan never should have been at Blackwell...
+
+{{#tag:tabber|You didn't care.You didn't care.
+
+**Max:** You didn't care about him.
+
+**Jefferson:** You're wrong again. He was genuinely talented. And [Sean Prescott](his_father.md) is a serious asshole, as you might know...
+
+**Max:** I know.
+
+{{!}}-{{!}}That makes two.# That makes two.
+
+**Max:** That makes two of you.
+
+**Jefferson:** I helped Nathan realize his vision... So few people get that chance...
+
+**Max:** You brainwashed him!
+
+}}
+
+**Jefferson:** I became a sort of...father figure for Nathan. It happens often in teacher/student relationships. It was kind of...touching, for a while.
+
+**Max:** Did you tell him everything about your plans at Blackwell?
+
+**Jefferson:** Don't be stupid, Max. I told him what he needed to hear. In return, I had access...to the Prescott fortune; who do you think paid for this glorious dark room and equipment? How else could I get all these hip, new drugs for my subjects?
+
+**Max:** Rachel Amber was your victim, not your "subject".
+
+**Jefferson:** *(quietly)* Oh...Rachel Amber... Hm. *(normally)* That's the real tragedy. Nathan thought he could be an artist like me...instead, the dumbass gave her an overdose.
+
+Why Rachel?Why Rachel?
+
+**Max:** Why Rachel?
+
+**Jefferson:** I don't have time to tell you everything. But she... was special. A human chameleon... So many visual possibilities... We had a real connection.
+
+{{#tag:tabber|She let you take pictures?# She let you take pictures?
+
+**Max:** Did she let you... take pictures of her?
+
+**Jefferson:** Rachel was in love with me. That's not my ego. Just look at our sessions. Not that I'll let you. Nobody loved having their picture taken more.
+
+{{!}}-{{!}}Did you know Frank?Did you know Frank?
+
+**Max:** Did you know she also had a connection with Frank?
+
+**Jefferson:** Let's be honest, she was doing the classic "bad boy" thing. She was over Frank before it began. He just didn't know.
+
+}}
+
+|-|Chloe and Rachel.# Chloe and Rachel.
+
+**Max:** Chloe and Rachel...you killed both of them!
+
+**Jefferson:** They're fucking together in heaven right now. Is that what you wanna hear?
+
+**Max:** Why? Why?!
+
+**Jefferson:** *(mockingly)* "Why? *[sniffles]* Why?" *(angrily)* Start listening to me, you dumb cunt! *(normally)* I'm sorry, Max. *[chuckles]* That was not cool.
+
+**Jefferson:** Anyway, Rachel is dead. But no tears, [Los Angeles](los_angeles.md) would've killed her anyway, so, look at this as a favor.
+
+**Max:** You're evil.
+
+(Max stopped Warren from beating Nathan)(Max stopped Warren from beating Nathan)
+
+**Jefferson:** Oh, I see; you're "good" because you stopped [Warren Graham](your_friend.md) from beating Nathan up.
+
+|-|(Warren beat up Nathan)# (Warren beat up Nathan)
+
+**Jefferson:** Oh, I see... You and your friends almost beat Nathan to death. You see, we're not so different.
+
+**Max:** Yes, yes we are.
+
+**Max:** I cared more about Nathan than you did.
+
+**Jefferson:** *(angrily)* No! You didn't. It's just too bad he fell in lust with Rachel; he actually thought he could mimic what I do with a camera and subject; like father, but not like son.
+
+**Max:** Where is Nathan now?
+
+**Jefferson:** Dead and buried. After what he did to Rachel, I knew I couldn't keep him as a protégé for much longer. Now the police will never find his body... Do you finally get it now, Max? I can't compromise my vision with amateurs.
+
+**Max:** You are an amateur. Look at the trail of death you've left behind. You can't blame all this on Nathan! I don't care what you do to me. You're gonna die, motherfucker! For Chloe, and Rachel, and everybody else!
+
+**Jefferson:** I do love your spirit, Max, but you brought yourself here, by your own choice. Anyway, I like my models to be seen and not heard...so I have to make sure...there's nothing left behind...of you.
+
+*Jefferson goes over to the camera tripod.*
+
+**Jefferson:** Okay. Now, let's see how these shots came out. I can see why your [Max's Camera](instant_camera.md) is so appealing. *[goes to the shelf and turns on stereo]* You don't need a computer to print your work out.
+
+*Jefferson goes to the back of the Dark Room to work on the photos.*
+
+'''Jefferson's Comments About the Photos**
+
+**Jefferson:** Oh, now this one... This is purity personified...
+
+**Jefferson:** Max...I wish you could see yourself now...
+
+**Jefferson:''' This one is out of focus... But that's my fault, Max.
+
+**Jefferson:** God, I wish you had been around back in my day...
+
+**Jefferson:** Your eyes are so wide... so lost... Beautiful.
+
+**Jefferson:** Man, I would love to share this with the world...
+
+**Jefferson:** Now look at this one... Total gallery bait...
+
+**Jefferson:** It's too bad I'm the only one who can frame you...
+
+**Jefferson:** Oh... now this is art...
+
+'''Max's Comments to Herself**
+
+**Max:'* *(thinking)* Sorry. This is not art...
+
+**Max:** *(thinking)'' If I talk to him... distract him... maybe he'll give up a photo.
+
+**Max:** *(thinking)* Come on, Max... Think, girl!
+
+''Max looks at [Max's Journal](her_journal.md) in the corner.*
+
+**Max:** *(thinking)* I have all those photos in my diary... This could be a way out.
+
+*Max rewinds and speaks to Jefferson as he turns to leave.*
+
+**Max:** Wait! Please, Mr. Jefferson...
+
+**Jefferson:** Max... *[turns around to face her]'' I would love to talk shop, but I really need to go over these pictures. Especially while they're fresh in my mind... I think our session...was a career high for me...
+
+Let me go.Let me go.
+
+**Max:** Let me go and I'll help you. Let me help you, please...
+
+**Jefferson:** Don't beg! Never beg. I hate that. Anyway, let's enjoy our final moment, before I have to end our memorable session, with your death.
+
+|-|Show me the photos.# Show me the photos.
+
+**Max:** Could you... Could you show me the photos?
+
+**Jefferson:** That's the first time one of my models down here has asked me that. Of course you would... But I love that the last thing you'll ever see is yourself...through my camera eye. Too perfect.
+
+|-|What are you going to do?What are you going to do?
+
+**Max:** What... What are you going to do to me?
+
+**Jefferson:** I'm going to make you live forever in my photographs. That's all that will be left of Maxine Caulfield. They won't even find your bag...
+
+|-|My diary. (Max looked at diary or Jefferson mentioned her bag)# My diary. (Max looked at diary or Jefferson mentioned her bag)
+
+**Max:** You...you still have my diary.
+
+**Jefferson:** Don't worry...nobody's going to read it. Thanks for reminding me.
+
+''Jefferson approaches Max's journal and picks it up.''
+
+**Jefferson:** There's nothing more innocent than a teenager's diary. Oh...look at your selfies. What a waste of talent.
+
+''Jefferson throws Max's journal to the floor and it opens to a page with a selfie of Max in the photography classroom.*
+
+**Jefferson:** Look at that shot, Max... You can do so much better.
+
+*Jefferson walks away, turns on the stereo, and returns to looking at his photos of Max. Max looks down at her diary and focuses on her selfie.*
+
+##  **Photography Lab** 
+**Victoria:** *(during focus)* ...hopeless faces. You feel, like, totally haunted by the eyes of those sad mothers and children.
+
+**Jefferson:** I could frame any one of you in a dark corner, and capture you in a moment of desperation. Sh, sh, sh. I believe Max has taken what you kids call a "selfie". A dumb word *(in background as Max thinks to herself)* for a wonderful photographic tradition. And Max...has a gift. Of course as you all know...
+
+**Max:** *(thinking)'' I'm back... Right back where I started this insane week... And nobody is going to hurt Chloe ever again...
+
+**Jefferson:** ...the photo portrait has been popular since the early 1800s. Your generation was not the first to use images for "selfie-expression". Sorry. I couldn't resist. The point remains that the portraiture has always been a vital aspect of art, and photography, for as long as it's been around. Now, Max, since you've captured our interest and clearly want to join the conversation, can you please tell us the name of the process that gave birth to the first self-portraits?
+
+A real visionary.A real visionary.
+
+**Max:** The Daguerreian Process. He was a real visionary...not a hypocrite.
+
+**Jefferson:** Uh... *[chuckles awkwardly]* What do you mean by that?
+
+**Max:** I mean that he actually created something. He didn't just take pictures of models and pretend they were art.
+
+*Victoria turns in her seat to glare at Max, resting her arm on the back of her chair.*
+
+**Jefferson:** I'm not sure I get the connection, but... Uh...yes. The Daguerreian Process made portraiture hugely popular, mainly because it gave the subjects clear, defined features. You can learn more when you actually finish reading the assigned chapters. Max has...clearly read more into them than...I have.
+
+|-|Daguerreian Process.# Daguerreian Process.
+
+**Max:** The Daguerreian Process.
+
+**Jefferson:** Oh. Well...that was easy, Max.
+
+**Max:** Was it? *[scoffs]* Okay.
+
+*Victoria turns in her seat to glare at Max, resting her arm on the back of her chair.*
+
+**Jefferson:** Well...uh... Okay, then. So, uh, the Daguerreian Process made portraiture hugely popular, mainly because it gave the subjects clear, defined features. You can learn more when you actually finish reading the assigned chapters. Obviously...Max has read them.
+
+|-|Not "capturing."Not "capturing."
+
+**Max:** I'm not into "capturing" your interest. That's kind of sick, isn't it?
+
+**Jefferson:** Uh... *[chuckles awkwardly]* I guess somebody hasn't had their coffee... Do you wanna try again?
+
+**Max:** Okay, okay, the Daguerreian Process. *[scoffs]* Blah, blah, blah.
+
+*Victoria turns in her seat to glare at Max, resting her arm on the back of her chair.*
+
+**Jefferson:** Let's...let's move on, hm? Uh, anyway, so the Daguerreian Process made portraiture quite popular, mainly because it gave the subjects clear, defined features. You can learn more when you finish reading the assigned chapters.
+
+|-|Who cares?# Who cares?
+
+**Max:** Who cares? This class is hella bullshit.
+
+**Jefferson:** I'll pretend you didn't say that, and let you try to answer one more...
+
+**Max:** Sorry, there's no time left. I mean, your class is almost over.
+
+*Victoria turns in her seat to glare at Max, resting her arm on the back of her chair.*
+
+**Jefferson:** Oh... Well, uh... Thanks for the warning, Max. So, the Daguerreian Process made portraiture quite popular, mainly because it gave the subjects clear, defined features. You can learn more when you finish reading the assigned chapters. Clearly, Max doesn't have the, uh...time.
+
+*The school bell rings and the students begin collecting their things and leaving the room.*
+
+**Jefferson:** And, guys, don't forget the deadline to submit a photo in the "Everyday Heroes" *(in background as Max thinks to herself)* contest. I'll fly out...
+
+**Max:** *(thinking)* Time to change time...
+
+**Jefferson:** ...with the winner to [San Francisco](san_francisco.md) where you'll be feted by the *(in background as Max thinks to herself)* art world. It's great exposure and it can kickstart a career in photography. So...
+
+**Max:** *(thinking)* First, let's make it real easy to capture Mark Jefferson.
+
+**Jefferson:** ...Stella and Alyssa, get it together. Taylor, don't hide, I'm still waiting for your entry too. And, yes, Max, I see you pretending not to see me.
+
+**Max:** *(thinking)* Bastard. I have to warn David about Jefferson and the Dark Room.
+
+*Max searches her bag and finds a pamphlet for Blackwell.*
+
+**Max:** *(thinking)* *[sighs]* I should be able to track down David's number from the school pamphlet.
+
+''Max flips through the pages until she finds David's number.*
+
+**Max:** *(thinking)* Found you!
+
+*Max takes out her phone to text David.*
+
+**Max:** *(thinking)'' For once, David...I'm praying you'll overreact to this as much as everything else...and take Jefferson down fast.
+
+**Max (SMS):** Mr. Madsen. You're after Rachel Amber. Mark Jefferson is guilty. His Dark Room is under the [Prescott Barn](prescotts__farmhouse.md). You know the location. He's sick and dangerous. Stop him.
+
+*Max deletes her message after sending it and puts her phone in her pocket.*
+
+**Max:** *(thinking)* You wanted me to enter the contest, asshole.
+
+*Max grabs her bag and gets up from her seat.*
+
+**Max:** *(thinking)* So maybe I'll be going to San Francisco. And, Jefferson...you'll be going to prison.
+
+''Max's nose starts bleeding and she wipes the blood away.*
+
+**Max:** *(thinking)* The past within the past... *[sighs]* Am I pushing myself too hard?
+
+**Optional Conversation with Kate**
+
+*Max approaches Kate and Kate looks up at her.''
+
+**Max:** Hi, Kate...
+
+**Kate:** Oh... Hey, Max.
+
+**Max:** Kate, listen to me...
+
+**Kate:** I am.
+
+**Max:** Always remember that you're not alone. I've got your back, no matter what happens. So do a lot of other people. We all care. We're all here for you. You need to know that.
+
+**Kate:** Max... That makes me feel so blessed for the first time this week... I...I don't know what to say...
+
+**Max:** That's okay, neither do I. Maybe we could both use a hug.
+
+*Kate gets up and she and Max hug.*
+
+**Kate:** Thanks. You always know the right thing to do.
+
+*Kate returns to her desk.*
+
+**Conversation with Jefferson and Victoria**
+
+**Max:** *[crosses her arms]* Mr. Jefferson? We need to talk.
+
+**Jefferson:** Uh—
+
+**Victoria:** Can you see I'm talking to Mr. Jefferson now?
+
+(Victoria was kidnapped)(Victoria was kidnapped)
+
+**Max:** Yes, I see. But maybe you shouldn't...
+
+**Victoria:** Uh, and why not?
+
+**Jefferson:** Hold on, Victoria. Are you okay, Max?
+
+**Max:** I will be when Victoria realizes that hiding behind a screen, posting videos of people is incredibly cruel and unfair. You're smart enough to know how easy it is to hurt somebody, to destroy their life. I just want you to think about how much it would hurt if somebody did that to you. You can always make the right choice, Victoria. I know you've got a good heart. I've seen it.
+
+**Victoria:** Listen...I...I didn't...
+
+**Max:** You don't have to explain. There's no reason for you to be so insecure you can't be happy with your own talent. Wouldn't it be better to lift people up than to bring them down? You could inspire people...
+
+**Victoria:** Okay, I don't know what you're talking about now... Do I, Mr. Jefferson?
+
+**Jefferson:** I think I should stay out of this one, Victoria.
+
+**Victoria:** *[crosses her arms]* Then I guess I'm done talking.
+
+**Max:** And that's okay too.
+
+*Victoria leaves the classroom.*
+
+**Jefferson:** That was kind of random, Max. What did you mean?
+
+|-|(Victoria wasn't kidnapped)# (Victoria wasn't kidnapped)
+
+**Max:** I can see you're kissing ass again. Nothing new.
+
+**Victoria:** What did you just say?!
+
+**Jefferson:** Hold on, Victoria. Are you okay, Max?
+
+**Max:** Not until Victoria knows that hiding behind a screen and posting videos of people is totally fucked up. You know how easy it is to hurt somebody, to destroy their life? Are you proud of yourself? If you have any feelings left, you should think about your actions.
+
+**Victoria:** Listen... *[scoffs]* I—I didn't...
+
+**Max:** Of course you did! You're so insecure, you can't even be happy with your own talent. You have to try and bring everybody down to your mean and ugly lev—
+
+**Victoria:** Okay, *(angrily)* I do not have to listen to this bullshit... Do I, Mr. Jefferson?
+
+**Jefferson:** Well, it looks like you already did, Victoria.
+
+**Victoria:** *[crosses her arms]* Then I guess I'm...done talking.
+
+**Max:** I sure hope so.
+
+*Victoria leaves the classroom.*
+
+**Jefferson:** *[chuckles]* I'm not going to say I didn't enjoy that, but...why?
+
+*Max takes her selfie out and hands it to Jefferson.*
+
+**Max:** Here's my photograph for the "Everyday Heroes" contest.
+
+**Jefferson:** Oh, uh... That was easy.
+
+**Max:** No... It wasn't easy at all.
+
+**Jefferson:** Well, I, uh... I—I can't pre-judge yet, but I'm very...happy you decided to enter. That means a lot to me...and Blackwell. The—the first step for any artist is to put themselves out there, in the world, without fear. To be...innocent.
+
+**Max:** Or guilty.
+
+**Jefferson:** Uh... *[chuckles awkwardly]* Well... Thanks...for the photo. Maybe both of us will be jet-setting to San Francisco this Friday.
+
+**Max:** Or maybe only one of us will be going.
+
+**Jefferson:** Don't be so modest, Max. Anything can happen in a week...
+
+**Max:** As you're going to find out, Mr. Jefferson.
+
+''A [Timestream](timestream_montage.md) shows Chloe in the bathroom with Nathan, Chloe and Max walking on the train tracks, [Diner Cop](a_cop.md) eating breakfast being replaced by several cops investigating the Dark Room, Kate crying in the hallway replaced by Kate and the principal watching Jefferson being arrested, Kate on the roof replaced by the police discovering Rachel's body, Max with Chloe after finding Rachel's body replaced by Max winning the contest, Jefferson killing Chloe replaced by Chloe helping Max pack for San Francisco, and Jefferson taking pictures of Max replaced by Max getting into a taxi to go the airport.*
+
+##  **Plane** 
+*Max wakes up on the [Plane](plane.md). Principal Wells is asleep in the aisle seat next to her.*
+
+**Max:** *(thinking)* Whoa!
+
+*Max looks out the window at the wing of the plane.*
+
+**Max:** *(thinking)'' Okay... You're okay, Max... You're safe...on a plane. I hope I did everything right this time.
+
+*Max leans forward to look at the newspaper in front of Wells. The headline says "Local Teacher Arrested!".*
+
+**Max:** *(thinking)* Good work, David.
+
+*Max takes her phone out of her pocket to check her text messages.*
+
+**Chloe (SMS):** HOLY SHIT YOU RULE MAX!!!!!
+
+**Chloe (SMS):** i am so proud of my superstar
+
+**Chloe (SMS):** this is just the start of your career
+
+**Max:** Chloe... Oh, you're alive... Oh, you're alive. I did it... I fixed everything. Wowser.
+
+*Max puts her phone away again and relaxes in the seat.*
+
+**Announcement:** Please fasten your seat and stow any electronic gear until the plane is on the ground and at the gate. Thank you. We're starting our descent in a few minutes. It's a beautiful day in San Francisco with clear skies and cool 60 degrees. We hope you enjoyed your trip, and we thank you very much for choosing PacificWest Air. Come fly with us anytime.
+
+**Principal Wells:** *(groaning)* Ah, I don't think so. I'm hoping these airline seats get smaller so I won't have to fly at all anymore.
+
+**Conversation with Principal Wells**
+
+**Max:** How did you sleep?
+
+**Principal Wells:** Hope I wasn't snoring out loud, Max...
+
+**Max:** Just a bit.
+
+**Principal Wells:** It's...been a tough week at Blackwell, so I hope you'll forgive me. Between Mr. Jefferson and the Prescotts, things have been...hectic, to say the least.
+
+**Max:** I totally get it, Principal Wells.
+
+**Principal Wells:** That's a smart way of telling me to stop whining. We are proud of you for representing Blackwell at the "Everyday Heroes" contest. I know I'm not exactly the guide you wanted in San Francisco. But we all want you to have a great experience here.
+
+**Max:** I already am, and we're not even there.
+
+''Max's nose starts bleeding and she wipes away the blood.*
+
+**Max:** *(thinking)'' Christ! Another nosebleed? Max...you're not just screwing around with time...
+
+*The screen fades out. Another timestream montage appears: Max tied to a chair in the Dark Room is replaced by Max and Wells exiting the airport and getting into a taxi.*
+
+##  **Zeitgeist Gallery** 
+###  **Ground Floor** 
+*Max walks slowly near the entrance of the [Zeitgeist Gallery](gallery.md) and stares in awe at the people and pictures. Principal Wells is talking to the woman at the front desk. Max approaches him and touches his arm to get his attention, and he turns to face her.*
+
+**Max:** San Francisco is so cool...and this gallery is huge!
+
+**Principal Wells:** So is the buffet. If an event skimps on the food, you know it's a bad event.
+
+**Max:** As long as I don't have to eat any caviar...
+
+**Principal Wells:** This is your day, Max. You can do whatever you want. I hope you take advantage of your status and talk to as many influential people here as possible. Work the room.
+
+**Max:** I don't know... I feel so weird, like I'm a little kid hanging with the adults.
+
+**Principal Wells:** Max, after this week, you are certainly not a little kid anymore. In fact, you're a noteworthy adult being honored by your peers. Now, you have to start acting like the photographer you want to be. Hell, I wanted to be in charge of a big school someday, so I started taking charge of things when I was young. *[chuckles]* Ask my poor classmates... Max, I'm gonna eat up that caviar so you don't have to. Better get in there and start schmoozing. You know, I won't always be here to take charge. But you come talk to me, whenever you want.
+
+*Principal Wells pats Max on the back, then leaves and walks toward the buffet table.*
+
+**Max:** Come on, Max... After everything that's happened, this should be the least scary thing you've ever done.
+
+**Max:** *(thinking)* Wowser, Max... You did it. Somehow... I went from the Dark Room...to this gallery. I've been through so many realities in one week. Life is...weird.
+
+**Optional Conversation with the Receptionist**
+
+**Receptionist:** Why, good morning! You must be Max Caulfield. Congratulations for your "Everyday Heroes" photo! The exhibition is quite impressive, especially with your entry.
+
+**Conversation Between Man and Woman Near Neon Art**
+
+**Man:** I heard Mark Jefferson was supposed to be here tonight.
+
+**Woman:** Not anymore.
+
+**Man:** That was so shocking. I have one of his monographs too.
+
+**Woman:** Hold onto it. His work is gonna be worth serious cash.
+
+**Optional Conversation with Man Near Neon Art**
+
+**Man:** Are you Max Caulfield? Bravo on your entry. I'm the art critic for Iris-In Magazine, and we would love to include you in a piece about future trendsetters in photography. I'll send you the details this week, if that's okay. Congratulations for your piece.
+
+**Conversation Between Family Behind Everyday Heroes Board**
+
+**Man:** Look at this print, the depth of field , the colors, look at the bokeh shape, this was definitely shot with a medium format camera, using a Leica 35mm lens. You can definitely find out those details, the story of a photo… if you know how to look at all the details of a picture.
+
+**Woman:** *(sarcastically)* Ooh, this is so interesting Matthew, I didn't think you knew about all this.
+
+**Matthew:** When I was younger I did a lot of photography studies, didn't I tell you about it Emma? I was quite good at it actually, but I decided to drop photography to do a real paying job... Anyway, it is interesting to be here, and you're lucky to be with me here, I can share all of this with you.
+
+**Girl:** Errr Dad, the label says that this is a print from a disposable camera, what are you talking about?
+
+**Matthew:** Oh, yes of course, I was meaning a Leica disposable camera… yes, yes… and don't contradict me anyway...
+
+**Girl:** *[scoffs]* Whatever...
+
+###  **Lower Floor** 
+
+**Optional Conversation with Woman**
+
+**Woman:** Aren't you from Blackwell Academy? I wanted to go there, but I didn't get in... They have such a cool program! I bet you're learning a lot.
+
+###  **Upper Floor** 
+**Optional Conversation with Principal Wells**
+
+''Max touches Wells' shoulder and he turns to face her.''
+
+**Principal Wells:** So, how are you handling your new fame as a photographer?
+
+**Max:** I don't feel like a famous photographer yet.
+
+**Principal Wells:** Every journey starts with the first step. I'm only a Blackwell bureaucrat, not an artist, but you've made us proud with the great response to your work so far.
+
+I'm lucky.I'm lucky.
+
+**Max:** I don't know... I—I'm just lucky. There's no way I'm a real photographer yet.
+
+**Principal Wells:** Don't sell yourself short, Max.
+
+|-|It's surreal.# It's surreal.
+
+**Max:** It's kinda surreal to be here after everything that happened at Blackwell...
+
+**Principal Wells:** All the more reason to celebrate your success.
+
+**Max:** Maybe I feel guilty for celebrating...
+
+**Principal Wells:** Leave that to me. I...I should've been more proactive about Kate Marsh and her awful situation. She's strong, and I'm glad she made it out of that hell. I should've put my foot down with Nathan Prescott...or put my foot in his ass.
+
+Not your fault.Not your fault.
+
+**Max:** It's not your fault. You didn't know what really happened...
+
+**Principal Wells:** I know, but...that's not a good excuse for a principal.
+
+|-|Jefferson fooled us.# Jefferson fooled us.
+
+**Max:** Mark Jefferson was good at hiding his tracks... We were all fooled by him.
+
+**Principal Wells:** Most of all, me. As you might know, I have a weakness for prestige.
+
+|-|I tried to tell you. (reported Nathan)I tried to tell you. (reported Nathan)
+
+**Max:** I did tell you that Nathan was involved...not that I expected anyone to believe me...
+
+**Principal Wells:** I'll regret that for the rest of my life, Max. The Prescotts knew how to protect their own.
+
+|-|I should have told you. (hid the truth)# I should have told you. (hid the truth)
+
+**Max:** I should've told you that Nathan brought a gun to school this week. Maybe things would've been different.
+
+**Principal Wells:** Maybe not. I probably wouldn't have believed that he did. The Prescotts have a way of getting their way...or should I say "had"?
+
+**Principal Wells:** And Jefferson had such a great reputation. Nobody expected him to be so...disturbed. I couldn't believe the police found those sick photos in his dark room. *[sighs]* Those poor girls...
+
+**Max:** At least he's in jail along with Nathan for kidnapping and murder.
+
+**Principal Wells:** And Sean Prescott is now under serious investigation for all his years of corruption. Money and power can only protect you for so long in Arcadia Bay. The irony is that, for once, Sean Prescott actually had no clue what was going on with Jefferson...and he even brought him to Blackwell.
+
+Strange weather.Strange weather.
+
+**Max:** Now if we can just...figure out what's going on with the weather...maybe everything will be like it was before.
+
+**Principal Wells:** Environmental science is above my paygrade, Max. But it sure would be nice to get back to Blackwell Academy the way it was before.
+
+|-|Maybe it's karma.# Maybe it's karma.
+
+**Max:** I—I'd like to think there's some karma involved... The Prescotts have had this coming.
+
+**Principal Wells:** I do believe that what goes around, comes around. I just hope it's all good for a change.
+
+**Max:** I'm hoping this is a fresh start, Principal Wells.
+
+**Principal Wells:** Like I said before, you're an adult now, Max. You can call me Ray now, at least for this event. Now, if you'll excuse me, I hear the buffet calling for me again...
+
+**Conversation Between Man and Woman**
+
+**Man:** I know it's kinda simple, but...I find this haunting.
+
+**Woman:** Right? The instant print makes it look timeless... nostalgic melancholy.
+
+**Man:** Who's the artist?
+
+**Woman:** A teenage girl... I think it's for some contest.
+
+**Man:** That's cool. Seems...pretty mature.
+
+**Optional Conversation with Man**
+
+**Man:** Oh, hey, you're the one who entered the self-portrait! Or, actually, do you call it a "selfie"? Anyway, I was very impressed about how you subverted it to make all of your photo subjects to focus... Huh! Very smart.
+
+**Comment From Woman in Striped Stockings**
+
+**Woman:** Like...I do not understand art.
+
+**Optional Conversation with Man in Striped Shirt**
+
+**Man:** Well, I have to say, this is the best "Everyday Heroes" show I've seen since it began. All the pictures say a lot about our times... Bravo.
+
+**Comments From Woman in Red Jacket**
+
+**Woman:** How much would you pay for that?
+
+**Woman:** I guess everybody is a photographer now...
+
+**Optional Conversation with Woman with Red Socks**
+
+**Woman:** Um, excuse me. I—I just wanted to tell you how much I loved your photograph. I've seen a lot today, but there's something...powerful and understated in yours. I can't wait to see much more of your work in the future.
+
+**Optional Conversation with Journalist**
+
+**Journalist:** Hi, e—excuse me. You're Max Caulfield, right?
+
+**Max:** Um...yeah. Yes...
+
+''He shakes Max's hand.''
+
+**Journalist:** Sorry to bother you, but my name is [Daniel Lee](danny_lee.md) and I'm with the Berkeley People's Herald. I edit their art section and I totally dig your work. Now, I know the whole "ironic selfie" thing is kind of...played out, but there's something...timeless about your images. So, I—I'd love to set up an appointment or—or interview with you when you get a chance. Uh, here's my card. *[hands Max his business card]* So great talking with you, Max.
+
+**Max:** You too, Danny.
+
+**Comment From Man with Gray Jacket**
+
+**Man:** Bad exposure...bad framing...bad picture. I could've done this so much better.
+
+**Comment From Man with Orange Vest**
+
+**Man:** This makes me feel so sad... Like I was back in high school...
+
+**Optional Conversation with Man in Orange Vest**
+
+**Man:** Usually, these kinda contests, they, uh, they put me to sleep, but I like how this show is about specific actions, you know, not just...abstractions. The Zeitgeist is doin' some unique stuff this year.
+
+**Comment From Woman in Purple Jacket**
+
+**Woman:** I always get so inspired whenever I come here.
+
+**Optional Conversation with Woman in Purple Jacket**
+
+**Woman:** Hey, I love your shot. I just wanted to say congratulations, and I hope you get a lot more attention.
+
+**Comment From Man in Dark Suit**
+
+**Man:** I wonder if I can buy these "Everyday Heroes" pictures...
+
+**Optional Conversation with Man in Dark Suit**
+
+**Man:** Sorry, I don't know your name, but I saw your picture in the gallery brochure and, uh, I just wanted to let you know how cool your entry was.
+
+**Comment From Woman in Green Jacket**
+
+**Woman:** God....I love art.
+
+**Optional Conversation with Woman in Green Jacket**
+
+**Woman:** You must be the Everyday Hero from Blackwell... My name is Lauren Francis and I run the media department at Detroit School of Visual Arts. I'd love to talk about you being a residency next spring... *[inhales]* Don't say anything to Principal Wells... *[scoffs]* Yet.
+
+**Comment From Man in Dark Blue Jacket**
+
+**Man:** How do these galleries afford to rent here?
+
+'''Conversation Between Group By Max's Photo**
+
+**Woman:** It is different... Loving the retro vibe.
+
+**Man:'* Me too. Makes me wanna go buy an instant camera. Damn, I bet that film costs a fortune.
+
+*Max looks at her photo.*
+
+**Woman:** Hey, and there she is to save the day.
+
+**Max:** Hi.
+
+**Max:** *(thinking)'' You did it, Max... You're a real artist. At least...for today...
+
+''Max's nose starts to bleed. She grasps her head in her hands as visions of the storm flash and swirl.*
+
+**Chloe:** *(faintly, echoing)* Max!
+
+*Max awakes from her vision.''
+
+**Max:** Chloe!
+
+**Woman:** Hey, are you okay? We lost you there for a second...
+
+**Man:** Uh, your nose!
+
+**Max:** I'm okay... Uh, jet lag... High altitude...
+
+*Max walks away and the group watches her with concern.*
+
+###  **Lower Floor** 
+*Max sits down on one of the benches, holding her phone.*
+
+**Max:** *[sighs]* You left the ringer off, idiot!
+
+*Max sees that she has 6 missed calls from Chloe. She dials her number and lifts the phone to her ear.*
+
+**Max:** *[sighs]* *(worriedly)* Come on... Please answer...
+
+**Chloe:** *(over phone, scared)* Max! Holy shit, man! Your vision! It's...it's true! Y—you saw the tornado, it's coming!
+
+**Max:** What?! Oh, no... Chloe, where are you?
+
+**Chloe:** *(over phone, scared)* I'm so fucking scared! I'm...I'm by the beach, I—I'm stuck in the t—ah—!
+
+''Chloe's voice cuts off and there is silence on the phone.*
+
+**Max:** *(worriedly)* Chloe! Can you hear me? Hello? Hello?!
+
+*Max puts her phone back in her jacket and gets up.*
+
+**Max:** *(thinking)* Oh, my god, *[sighs]* the tornado was real! *[sighs frustratedly]'' Oh, I didn't fix shit! Chloe will die... Arcadia Bay is gonna be destroyed... There has to be a way to stop this...for good!
+
+###  **Upper Floor** 
+*Max returns to her photo and attempts to focus on it. The longer it takes her to focus, the more people will interrupt her.*
+
+*She is interrupted by a man trying to talk to her.*
+
+**Man:** Excuse me, I'd love to ask you a few questions about your work?
+
+**Max:** Sorry, but...
+
+*Max resumes her focus. She is interrupted again, this time by a woman wearing glasses.*
+
+**Woman:** Oh, you're Max Caulfield, right? Tell me what kind of instant camera you used!
+
+**Max:** Can we talk later? Thanks...
+
+*Max attempts to focus again.*
+
+**Max:** *(thinking)* I literally do not have the time to deal with everybody...
+
+*Another man tries to talk to Max.*
+
+**Man:** Oh, hey... I totally am into your photography.
+
+**Max:** Not right now...
+
+*Max resumes focusing.*
+
+**Max:** *(thinking)* Focus, Max! Chloe needs you now!
+
+*A woman interrupts Max.*
+
+**Woman:** Oh, my gosh! *[gasps]* Can I pick your brain for an hour?
+
+**Max:** Thanks, but I—I'm busy...
+
+*Max tries to focus again.*
+
+**Max:** *(thinking)* Zen, Max, zen... *[sighs]* There's nobody here but you...nobody...
+
+##  '''Max's Room'* 
+*A camera flash goes off. Max stands in her room, in front of her [The Max Caulfield Photo Memorial Wall](wall_of_photos.md). Her nose starts bleeding again.*
+
+**Max:** Oh, shit! Oh, my head...
+
+*Max looks at her room; the walls are red and yellow blobs, shifting and moving.*
+
+**Max:** *(thinking)* What is going on now? I—It feels like reality is...breaking apart... *[shaky breath]* What am I doing to time?
+
+*Max looks at the polaroid photo she just took.*
+
+**Max:** *(thinking)'' I just have to make one simple change...so I won't end up in San Francisco. *[sighs]* Simple...
+
+*Max tears up her contest photo.*
+
+**Max:** Sorry, San Francisco... Chloe comes first.
+
+''A timestream montage is shown. Max holding up the winning contest photo is replaced with Max putting the torn photo in her diary. Max getting into a taxi is replaced with Jefferson burning Max's diary. Max entering a taxi with Wells is replaced by Max tied to a chair in the Dark Room. Max looking at her photo in the art gallery is replaced with Jefferson entering the Dark Room.*
+
+##  **Dark Room** 
+*Max wakes up in the Dark Room, tied to the chair.*
+
+**Max:** Oh, fuck! *(thinking)'' God, no... I'm back here again?! I thought I fixed everything!
+
+*Jefferson stands over Max, his arms crossed.*
+
+**Jefferson:** What did you say, Max?
+
+**Max:** *(thinking)* What?! Jefferson should be in jail, not here...
+
+**Jefferson:** Jesus. It's like you're back in my class. You're still...spacing...out. It might be cool if you took one of your patented selfies now... The transformation between the old Max and the new Max...
+
+''Max's right foot is shown to be free from the restraint. Max's fearful and confused expression turns to a scowl.*
+
+**Jefferson:** Anyway, answer my question, please.
+
+Eat shit and die.Eat shit and die.
+
+**Max:** Eat shit and die.
+
+|-|Fuck you.# Fuck you.
+
+**Max:** Fuck you.
+
+**Jefferson:** Good answer, good answer.
+
+*Max's nose begins bleeding. Jefferson leans in to inspect it and holds Max's head as she struggles, then steps back.''
+
+**Jefferson:** Hey...your nose is bleeding. Probably gave you too big a dose. Sorry about that, Max. But considering you're about to die, a nosebleed is a first-world problem.
+
+(Victoria was kidnapped)(Victoria was kidnapped)
+
+*Max looks over to where Victoria was previously lying on the floor, only to find it empty.*
+
+**Jefferson:** Oh. I had to let Victoria Chase go.
+
+**Max:** You let her...?
+
+**Jefferson:** Don't be stupid, okay?! She's exactly where she deserves to be.
+
+**Max:** *(horrified)* No...
+
+**Jefferson:** Oh, as if you care.
+
+**Jefferson:** Your iris... That...dilation like a shutter...the pictures you're taking of me now. Too bad you pissed away your gift. You could have won the contest, but you destroyed your own beautiful photograph. What a waste. Sorry. I burned all your stuff. I got a little carried away.
+
+*Max looks over to see the burned remains of her journal in a tray on the trolley.*
+
+**Jefferson:** *(in background)* You know, I always believed in your vision.
+
+**Max:** *(thinking)* Fuck! He burned my diary! That's why I'm still here.
+
+**Jefferson:** Especially since you've developed from nerd to hero within a week. There's something...weird going on with you.
+
+*The lights in the room flicker and thunder can be heard outside. Jefferson looks at the ceiling and then back at Max.*
+
+**Jefferson:** Whoa! Did you see how crazy it is outside? Like I said...something weird... There's that fear... Oh, Max... It's an honor working with you on these final sessions. I hope these images will be appreciated for what they truly capture. The loss...of youth. *[chuckles]* At least...that's the last lecture you'll ever have to hear from me.
+
+(First time)# (First time)
+**Jefferson:** And I promise you...no more nosebleeds.
+
+**Max:** *(shaky voice)* Mr. Jefferson... Please...don't do this. You don't know what's happening.
+
+**Jefferson:** Sh-sh-sh-sh-sh... Quiet...quiet, Max.
+
+*Jefferson walks away and Max struggles against her bonds, sobbing a little.*
+
+**Max:** Please! Don't do this!
+
+*Jefferson fills a syringe and walks over to Max.*
+
+**Jefferson:** I promise. This final dose won't hurt.
+
+''Jefferson tilts Max's head to expose her neck, about to inject her with the needle. Noises are heard outside the room.''
+
+**Jefferson:** What?
+
+|-|(Rewound to this point)(Rewound to this point)
+
+**Jefferson:** And I promise you...no more nosebleeds.
+
+**Max:** Wait! Hold on! Can I...can I please ask you for one last...request?
+
+**Jefferson:** Oh, you got me, Max. How can I deny that face?
+
+{{#tag:tabber|Some water?# Some water?
+
+**Max:** Uh...excuse me, but my throat is scratchy... Can I please have some water?
+
+**Jefferson:** Of course. I don't want you to be uncomfortable.
+
+*Jefferson moves the trolley closer and pours Max a glass of water, holding it to her mouth so she can drink it. He goes back, prepares the syringe, and approaches Max with it.*
+
+**Jefferson:** I promise. This final dose won't hurt. *(hears noise)* What?
+
+{{!}}-{{!}}Turn off the lights?Turn off the lights?
+
+**Max:** And would you mind turning off the lights? They make me squint, so I won't look good for the shot.
+
+**Jefferson:** Now, you're thinking like a real photographer... *(turns off lights facing Max)* And I don't want your last memory to be bad lighting...
+
+*Jefferson approaches Max with the syringe.*
+
+**Jefferson:** I promise. This final dose won't hurt. *(hears noise)* What?
+
+{{!}}-{{!}}One last picture?# One last picture?
+
+**Max:** Would you...take one last picture of me? I...I want to be your best subject.
+
+**Jefferson:** I almost don't believe that, but I think you've finally learned from me.
+
+*Jefferson picks up the camera and takes a picture of Max, then places the camera next to the couch. He then prepares the syringe and approaches Max with it.*
+
+**Jefferson:** I promise. This final dose won't hurt. *(hears noise)* What?
+
+{{!}}-{{!}}Play some music?Play some music?
+
+**Max:** Could you please at least play some music...so I can drift away?
+
+**Jefferson:** Even at the end you're still a dreamer, Max... *(turns on music)* That's a nice trait...
+
+*Jefferson goes over to Max with the syringe, not hearing David enter because of the music. David points his gun at Jefferson.*
+
+**David:** Hold it!
+
+**Jefferson:** What?
+
+*Jefferson ducks behind Max, holding the syringe to her neck. Max is forced to rewind.*
+
+}}
+
+(First time)# (First time)
+*Jefferson runs over to hide behind the entrance, putting down the needle and grabbing a tripod. David enters, holding a gun.*
+
+**Max:** *(thinking)* David!
+
+''Jefferson knocks the gun out of David's hands with the tripod. David takes a fighting stance and tries to punch Jefferson, but gets hit in the stomach with the tripod. David doubles over, holding his stomach, and Jefferson hits him in the head, knocking David unconscious.''
+
+**Max:** No, David! No!
+
+**Jefferson:** Jesus... David Madsen! He's out cold... Good. I always hated that fascist fuck. Everybody at Blackwell did, right, Max?
+
+*Jefferson drops the tripod and picks up the syringe, approaching Max again.*
+
+**Jefferson:** Okay... Let's try this one last time...
+
+''He places the tip against Max's neck. Max is forced to rewind.*
+
+|-|(Rewound to this point or before it)(Rewound to this point or before it)
+
+{{#tag:tabber|(Warn David)# (Warn David)*As Jefferson grabs the tripod, Max can warn David.*
+
+**Max:** David, watch out!
+
+{{#tag:tabber|(while Jefferson is near Max)(while Jefferson is near Max)
+
+*Jefferson doubles back.*
+
+**Jefferson:** Time to shut the fuck up, okay?
+
+*He hits Max with the tripod. Max is forced to rewind.*
+
+{{!}}-{{!}}(while Jefferson hides behind the corner)# (while Jefferson hides behind the corner)
+
+*Jefferson turns to her, surprised.*
+
+**Jefferson:** How...how did you know that?!
+
+*Jefferson knocks the gun out of David's hands with the tripod, which causes David's head to contact a column sticking out from the wall. Jefferson swings the tripod at David's head, knocking him to the floor.*
+
+{{#tag:tabber|(No action)(No action)
+
+*David raises his head as he tries to get up, but Jefferson hits David's head again with the tripod.''
+
+**Jefferson:** Jesus... David Madsen! He's out cold... Good. I always hated that fascist fuck. Everybody at Blackwell did, right, Max?
+
+*Jefferson drops the tripod and picks up the syringe, approaching Max again.*
+
+**Jefferson:** Okay...
+
+''He places the tip against Max's neck. Max is forced to rewind.*
+
+{{!}}-{{!}}(Camera)# (Camera)
+
+*Available if Max selected "One last picture?"*
+
+**Max:** Get the camera next to you!
+
+*David takes the camera and throws it at Jefferson, hitting him in the face. He stumbles as David stands up. They face each other in fighting stances.*
+
+{{!}}-{{!}}(Trolley)(Trolley)
+
+*Available if Max selected "Some water?"*
+
+*Max pushes the trolley with her foot. Jefferson is distracted, and David punches and slaps him, knocking the tripod out of his hands. They face each other in fighting stances.''
+
+}}
+
+}}
+
+{{!}}-{{!}}(Don't warn David)# (Don't warn David)
+
+''Jefferson knocks the gun out of David's hands with the tripod. David takes a fighting stance and tries to punch Jefferson, but gets hit in the stomach with the tripod. David doubles over, holding his stomach.*
+
+{{#tag:tabber|(No action)(No action)
+
+*Jefferson hits David in the head, knocking him unconscious.''
+
+**Jefferson:** Jesus... David Madsen! He's out cold... Good. I always hated that fascist fuck. Everybody at Blackwell did, right, Max?
+
+*Jefferson drops the tripod and picks up the syringe, approaching Max again.*
+
+**Jefferson:** Okay... Let's try this one last time...
+
+''He places the tip against Max's neck. Max is forced to rewind.*
+
+{{!}}-{{!}}(Trolley)# (Trolley)
+
+*Available if Max selected "Some water?"*
+
+*Max pushes the trolley with her foot. Jefferson is distracted, and David punches and slaps him, knocking the tripod out of his hands. They face each other in fighting stances.*
+
+}}
+
+}}
+
+**Jefferson:** No gun...no balls...
+
+*(Once this point is reached, Max can rewind only as far as here.)''
+
+**David:** Jefferson! It's over!
+
+**Jefferson:** You are not going to stop me!
+
+(No action/First time)(No action/First time)
+
+*Jefferson runs over to a cabinet and David chases him, but Jefferson grabs a gun and shoots David, and he falls onto the couch behind him.*
+
+**Jefferson:** David Madsen...of course. Well, this is what you get for playing cop—a real bullet.
+
+*Max is forced to rewind.*
+
+|-|(Jefferson's gun)# (Jefferson's gun)
+
+*Max can warn David about the gun.*
+
+**Max:** He's hiding a gun over there!
+
+*Jefferson and David run over to the cabinet. Just as David reaches him, Jefferson gets the gun and shoots David twice.*
+
+**Jefferson:** Sorry, Madsen. Okay... Déjà vu.
+
+*Max is forced to rewind.*|-|(Bottle)(Bottle)
+
+*Max can tell David to use the bottle.*
+
+**Max:** Grab that bottle!
+
+*David grabs the bottle and throws it at Jefferson, but he ducks, then shoots David.*
+
+**Jefferson:** Sorry, Madsen. You should have stuck to harassing students. Okay...
+
+*Max is forced to rewind.*|-|(David's gun)# (David's gun)
+
+*Max can tell David to use the gun knocked out of his hands.*
+
+**Max:** Grab your gun now!
+
+**David:** Got it...
+
+*Just before David reaches his gun on the floor, Jefferson shoots him.*
+
+**Jefferson:** Oh, Christ! David Madsen, you are one stupid son of a bitch, so don't blame me.
+
+*Max is forced to rewind.*|-|(Table)(Table)
+
+*Max can tell David to use the table.*
+
+**Max:** David! Kick that table!
+
+**David:** Yes, sir!
+
+*David kicks the table at Jefferson, but he kicks it back, then shoots David.*
+
+**Jefferson:** David Madsen... I always hated that mustache... *(chuckles)* You hated him too, Max?
+
+*Max is forced to rewind.*|-|(Cable)# (Cable)
+
+''Max uses her foot to pull the cable on one of the lights, knocking it over and distracting Jefferson. David punches Jefferson's face twice, knocking off his glasses and knocking him to the floor. He rushes over to Max and undoes her restraints.''
+
+**David:** Oh, Lord, Max...are you okay? Are you alright? Can you move?
+
+**Max:** Yes... Thank you, David...thank you...
+
+**David:** Don't thank me... You brought me here.
+
+*David notices Jefferson move his head.*
+
+**David:** Let's wrap up this son of a bitch first.
+
+*David holsters the gun on the ground, then punches Jefferson in the face again, knocking him unconscious. Max gets out of the chair.*
+
+**David:** He won't be going anywhere when he wakes up.
+
+*David turns Jefferson over and puts duct tape around his wrists.*
+
+**David:** Except you are going to prison forever. Or worse.
+
+**Max:** Mr. Jefferson? Now it's your turn to be captured in a moment... Save Chloe...
+
+*Max looks at her burned diary.*
+
+**Max:** *(thinking)* He burned everything...including all of my photos... Warren! Yes! I can use that picture he took of us!
+
+*Max tries to use her phone.*
+
+**Max:** Shit! No signal.
+
+*Max grabs the car keys on the table.*
+
+**Max:** Thanks, Mr. Jefferson, but...you won't need this anymore.
+
+*Max puts the keys in her pocket.*
+
+**Max:** *(thinking)* I better go outside and call Warren... Please answer...
+
+'''David's Comments**
+
+**David:''' Max... I'm sorry you had to be here.
+
+**David:** I had no idea he was this sick.
+
+**David:** Now... What the hell is this place?
+
+**David:** Good god...it's a studio.
+
+**David:** The Prescotts had to know about this.
+
+###  **Conversation with David** # 
+{{#tag:tabber|(Max initiates the conversation)(Max initiates the conversation)
+
+**Max:** David?
+
+*David gets up.*
+
+**Max:** Are you okay?
+
+**David:** Look at this place...it feels like hell.
+
+(Victoria was kidnapped)# (Victoria was kidnapped)
+
+**Max:** Jefferson was...was going to kill me...like he did to Victoria Chase...
+
+**David:** Oh, no...
+
+|-|(Victoria wasn't kidnapped)(Victoria wasn't kidnapped)
+
+**Max:** Jefferson was going to kill me... You got here just in time.
+
+**David:** I'm glad...
+
+**David:** I always suspected that son of a bitch.
+
+I never did...# I never did...
+
+**Max:** I never did...until too late.
+
+**David:** You shouldn't have to suspect your teacher.
+
+**Max:** He wasn't a real teacher. He just...wanted to lecture. It was part of his sick plans.
+
+|-|You suspected everybody.You suspected everybody.
+
+**Max:** You kind of suspected everybody...
+
+**David:** Yes, and this is what I get for wasting all those hours on the Prescotts... I set my sights too wide, lack of focus.
+
+**Max:** I know the feeling.
+
+(Blamed Nathan)# (Blamed Nathan)
+
+**David:** I wasn't surprised when you accused Nathan of drugging Kate Marsh. I thought so, too.
+
+|-|(Blamed David)(Blamed David)
+
+**David:** I guess I looked just as suspicious when you told Principal Wells that I was...harassing Kate Marsh...and I don't blame you.
+
+|-|(Blamed Jefferson)# (Blamed Jefferson)
+
+**David:** Well, you still had the right idea to tell the principal that Jefferson acted shady around Kate Marsh.
+
+(Kate is alive)(Kate is alive)
+
+**David:** And, Max...I treated Kate like shit... I know she's a good person, but I'm not. I hope I get to tell her that soon.
+
+{{#tag:tabber|Me too.# Me too.
+
+**Max:** Me too. I think that would make her very happy.
+
+{{!}}-{{!}}Kate was bullied.Kate was bullied.
+
+**Max:** Kate was bullied up to that roof...but it was still Nathan and Jefferson who put her there.
+
+}}
+
+|-|(Kate is dead)# (Kate is dead)
+
+**David:** And, Max, I'll never forgive myself for what happened to Kate. I feel like I helped push her off that roof...
+
+{{#tag:tabber|Not your fault.Not your fault.
+
+**Max:** Don't blame yourself...Nathan and Jefferson are the ones who put her up there...
+
+{{!}}-{{!}}Kate was bullied.# Kate was bullied.
+
+**Max:** Kate was bullied up to that roof...but it was still Nathan and Jefferson who put her there.
+
+}}
+
+**David:** I knew Nathan Prescott was a threat. I just waited too long to neutralize him.
+
+**Max:** Jefferson already did. They had some weird father-son thing going on. But...Nathan killed Rachel, and Jefferson had to use him as a scapegoat.
+
+**David:** That pervert was pulling all this shit right under my nose, too... I could've stopped him and Nathan if only...I wasn't so stupid.
+
+(Reported Nathan)(Reported Nathan)
+
+**Max:** No... I told Principal Wells Nathan had a gun and...almost used it. But he didn't wanna believe me. I should've been more loud.
+
+|-|(Hid the truth)# (Hid the truth)
+
+**Max:** No. I should've told Principal Wells Nathan had a gun and...almost used it. I put the school in danger.
+
+**David:** We all make decisions we regret. But I have to admit, I'm impressed by you...and Chloe, and your investigation. I had all the high-tech toys, while you had each other.
+
+She learned from you.She learned from you.
+
+**Max:** Maybe she learned from you.
+
+**David:** I think she only learned how to hate my guts.
+
+{{#tag:tabber|(David didn't hit Chloe)# (David didn't hit Chloe)
+
+**Max:** You both had a tough start. I know it wasn't easy.
+
+{{!}}-{{!}}(David hit Chloe)(David hit Chloe)
+
+**David:** I'm sure you know I... I hit her the other day.
+
+**Max:** I know you're sorry.
+
+}}
+
+|-|We're a great team.# We're a great team.
+
+**Max:** We...we are a great team.
+
+**David:** That's one of my problems... *(sighs)* I'm not good at teamwork. Never was. Even in the service.
+
+**Max:** I can't even imagine what you went through...
+
+**David:** I'm not gonna make any excuses for my behavior. I tried to be a good soldier, but...I wasn't so great. I tried to be a good father, too...
+
+(Sided with Chloe)(Sided with Chloe)
+
+**David:** But...when Joyce kicked me out...I had nothing.
+
+{{#tag:tabber|I'm sorry.# I'm sorry.
+
+**Max:** I'm so sorry about that... I didn't want that to happen...
+
+**David:** I should never have set up those surveillance cams. Or kept all those files...
+
+{{!}}-{{!}}I was pissed off.I was pissed off.
+
+**Max:** I was pissed off and wanted to rage.
+
+**David:** Yeah, I know the feeling. Too much.
+
+}}
+
+**Max:** I'm going to tell Joyce I was wrong about you. She does love you. It's pretty obvious.
+
+|-|(Sided with David)# (Sided with David)
+
+**David:** But...you saw how that went.
+
+{{#tag:tabber|You tried.You tried.
+
+**Max:** You tried. It's obvious you care, even if your methods are...
+
+**David:** Fucked up. I know.
+
+{{!}}-{{!}}Chloe is tough.# Chloe is tough.
+
+**Max:** Chloe is tough...just like you.
+
+**David:** I'm glad we have something in common.
+
+}}
+
+**Max:** I'm glad I stood up for you.
+
+**David:** I try not to use my service as an excuse, but... It's hard to come home after war. Most people don't know or care what it's like...except Joyce. She gave me hope. A new life.
+
+**Max:** And you saved mine. Chloe, she...she would be proud of you.
+
+**David:** I just wanna see her safe with her mother. I promised Joyce I would go see a family counselor...and I'll start by apologizing to Chloe. I don't expect her to call me dad, but maybe she'll stop calling me "step-douche". So, where is Chloe?
+
+{{!}}-{{!}}(David initiates the conversation)(David initiates the conversation)
+
+*Max tries to leave the Dark Room.*
+
+**David:** Hold on, Max. So, where is Chloe?
+
+}}
+TELL THE TRUTH# TELL THE TRUTH
+
+**Max:** David... Chloe is...is dead...
+
+**David:** This isn't happening... It can't... No, God... *(tearfully)* Not Chloe... Max, are you sure? Are you...
+
+**Max:** *(tearfully)* Yes, I... *(sniffles)* I saw her, I...I saw Jefferson kill her in the junkyard...last night...
+
+**David:** Last night?
+
+{{#tag:tabber|(Sided with Chloe)(Sided with Chloe)
+
+**David:** *(tearfully)* When I was feeling sorry for myself in my hotel room...?
+
+{{!}}-{{!}}(Sided with David)# (Sided with David)
+
+**David:** When I was so close to finding out the truth...?
+
+}}
+
+**David:** *(tearfully)* I promised Joyce that I would protect her and Chloe... How can I face her and explain this? *(crying)* I never even told Chloe that I...I... Goddamn it! *(angrily, to Jefferson)* You killed my wife's child, you sick fucker?! You took away my stepdaughter?!
+
+*David pulls out his gun.*
+
+**Max:** David, wait!
+
+*David shoots Jefferson in the head, then reholsters his gun.*
+
+**David:** Max... I'm sorry...I'm sorry you had to see that. What a mess... What have I done? *(tearfully)* All that time I wasted with surveillance... I... Chloe...I'm sorry... Joyce...I failed you... My family...
+
+**Max:** *(putting her hand on his arm)* You didn't fail. You did your best.
+
+**David:** Max...you better get outside. You've seen enough of this room.
+
+**Max:** David...thank you, for saving me.
+
+*David sits on the floor, hanging his head down.*
+
+|-|HIDE THE TRUTHHIDE THE TRUTH
+
+**Max:** *(sniffling)* David, um... She was pretty stressed out, so, um... She went to go, um...medicate before I ended up in here. So, she's okay.
+
+**David:** Oh, thank god. For once I'm happy Chloe's a stoner. *(laughs, relieved)*
+
+**Max:** David, I have to go outside and get some real air...and use my phone.
+
+**David:** *(putting his hand on her arm)* Of course. Go on, Max. You're a brave soldier. I'm glad Chloe has a best friend like you. Go on, now. You've seen enough of this room.
+
+''David sits down at Jefferson's desk, looking at his computer.*
+
+*'David's Comments**
+
+(Told him the truth)# (Told him the truth)
+
+**David:** My god... What do I tell Joyce? What?
+
+**David:** You killed my Chloe...
+
+**David:** Right under my nose...
+
+**David:** I wish I could keep killing you, forever...
+
+**David:** I lost again...I always lose...
+
+**David:''' Why can't I just wake up? Let this be a nightmare...
+
+|-|(Hid the truth from him)(Hid the truth from him)
+
+**David:** Okay, teacher. Let's see what kind of photo evidence you shit all over this computer.
+
+**David:** Oh, Rachel! How could anybody...
+
+**David:** Goddamn you...
+
+**David:** How could you... How?
+
+**David:** You're fucked, Jefferson.
+
+**David:** Oh, no. No...
+
+**David:** You are gonna fry for this.
+
+**David:** Jefferson, you're lucky the cops are getting you in one piece.
+
+**David:** Sick and evil...
+
+'''Max's Thoughts**
+
+(Told David the truth)# (Told David the truth)
+
+**Max:'* *(thinking)'' I've seen so many people die this week...now Jefferson... I feel numb...
+
+**Max:** *(thinking)* Jesus, all these lives destroyed... Rachel... Chloe... Kate... even Nathan...
+
+**Max:** *(thinking)* Jefferson is dead now...but I can still bring Chloe back to life.
+
+|-|(Hid the truth from David)(Hid the truth from David)
+
+**Max:** *(thinking)* You're not getting away with this, Jefferson.
+
+**Max:** *(thinking)* Jefferson will end up in jail...but Chloe is dead. Not for long...
+
+**Max:** *(thinking)* I could have told David the truth... He deserves it.
+
+##  '''Jefferson's Car'* 
+
+*Max opens the door to the barn, where Jefferson's car is. It is raining heavily outside.*
+
+**Max:** Freedom... Holy shit! The storm is real. I need to find Warren...
+
+*Max takes out her phone.*
+
+**Max:** Yes! *(dials Warren's number)* Warren! Can you hear me?
+
+**Warren:** *(staticky)'' Max?! Damn, where are you?
+
+**Max:** Nevermind... Listen, do you have that photo you took last night in the parking lot?
+
+**Warren:** Uh, yeah, but why? It wasn't that great a shot...
+
+**Max:** Yes, it is and I want it! Where are you?
+
+**Warren:** I'm at the [Two Whales Diner](two_whales_diner.md). Pretty much trapped in here with Joyce, thanks to this armageddon weather. I'm expecting the ocean to turn red...
+
+**Max:** I'm on my way.
+
+**Warren:** Come on, that's crazy! You can barely walk on the sidewalk outside... *(staticky)* Seriously, Max, stay wherever you are. I don't think this storm is getting smaller... I'm kinda scared.
+
+**Max:** That's okay, me too! But it's not over yet, Warren. So, hold on!
+
+**Warren:** *(staticky)* Wait—
+
+''Max hangs up. She gets in Jefferson's car and drives through Arcadia Bay, listening to the radio.*
+
+**Truss Limpbow:** *(on radio)'' I told you. I, Truss Limpbow, have been warning you people for years that our culture of sin and entitlement would lead to God striking us down! And I'm the one trapped in this fucking radio station. Somebody get me the hell out of here now! Now, goddamn it! What do I pay all those taxes for?
+
+''Max's phone buzzes and she checks it, setting the phone down next to her.''
+
+**Automated voice:** You have one new message. Message received yesterday at 9 PM.
+
+**Nathan:** Max, it's...it's Nathan. *(tearfully)* I...I just wanted to say...I'm sorry. I didn't wanna hurt Kate, or Rachel, or—or...didn't wanna hurt anybody. Everybody...used me! *(sobs)* Mr. Jefferson...is coming for ME now. All this shit will be over soon. Watch out, Max... He wants to hurt you next. Sorry.
+
+##  **Street** 
+*Max stops on the road and gets out of the car, as there is too much debris blocking her way. Citizens of Arcadia Bay stumble around, screaming, trying to save themselves and their loved ones.*
+
+**Man:** Look at that thing go!
+
+**Man:** Get down!
+
+**Woman:** No!
+
+**Max:** *(thinking)* Warren is at the Two Whales Diner, so hurry up!
+
+**Trucker:** I don't want to die here! Please somebody... anybody... Help me! Hey... is anybody out there?
+
+*Max walks toward the Trucker.*
+
+**Max:** *(thinking)* Hey, that guy is trapped! I have to help everybody I can.
+
+# ###  **Optional Conversation with Trucker** 
+
+**Trucker:** Oh Lordy... Thanks, kid.
+
+**Max:** Are you okay?
+
+**Trucker:** Once I get the hell out of here...
+
+(Max damaged the railroad tracks)# (Max damaged the railroad tracks)
+
+**Trucker:** I was trapped here because I got stuck in this shithole delivering logs after the railroad was closed down...
+
+|-|(Max didn't damage the railroad tracks)(Max didn't damage the railroad tracks)
+
+**Trucker:** I been hauling loads for way too long in this shithole town.
+
+**Max:** You better go now.
+
+**Trucker:** And I ain’t never coming back here... You need a lift?
+
+**Max:** No, thanks. I have to find a friend.
+
+**Trucker:** You go, girl. You go.
+
+*Max continues to walk toward the Two Whales Diner.*
+
+**Evan:** Right into the eye of the storm!
+
+*Evan is taking photos of the tornado. A large piece of debris hits him and he falls to the ground.*
+
+**Max:** *(thinking)* Not Evan... I have to stop him from getting hurt.
+
+# ###  **Optional Conversation with Evan** 
+
+*Max can rewind and warn Evan.*
+
+**Max:** Evan, do you see that tornado? Get the hell out of here!
+
+**Evan:** Max, there's no way I can pass up these images! Just look at it!
+
+**Max:** You can't take a picture when you're dead! Now move your ass!
+
+**Evan:** Okay, if you insist...
+
+*Evan moves away before the debris hits him.*
+
+**Evan:** Whoa, Max! You do know things! I'm such an idiot.
+
+**Max:** Only if you don't find a safe spot until this blows over, okay?
+
+**Evan:** Now I better listen to the real "Everyday Hero"... Come with me!
+
+**Max:** I have to help somebody else first.
+
+*Max continues to walk toward the Two Whales Diner.*
+
+**Alyssa:** Somebody help me!
+
+*Max walks toward Alyssa. She is stuck in the second level of [McFlinn](a_house.md).*
+
+**Max:** *(thinking)* Shit... Alyssa needs help again!
+
+**Alyssa:** Please! Help me get down!
+
+# ###  **Optional Conversation with Alyssa** 
+
+**Max:** Alyssa, are you okay? Let me help you down!
+
+(Max helped Alyssa in every episode)# (Max helped Alyssa in every episode)
+
+**Alyssa:** Yes, yes, please Max! I don’t want to die like this! Find something to get me down!
+
+|-|(Max didn't help Alyssa in every episode)(Max didn't help Alyssa in every episode)
+
+**Alyssa:** Fuck that shit, Max! Whenever you show up, I have to get out of the way! So just get—
+
+*Alyssa takes a step back and falls through a hole in the floor.*
+
+**Max:** *(thinking)* No! No!!!
+
+''While Alyssa is still where Max finds her, Max can look around for something to use. She can find a plank of wood next to her, lift it up, and drop it at Alyssa's feet. Having done this, she runs across the plank and extends her hand.*
+
+**Max:** Come on, Alyssa! Take my hand!
+
+**Alyssa:** Here I come!
+
+*They safely make it to the ground.*
+
+**Alyssa:** You did it, Max!
+
+**Max:** Are you okay?
+
+**Alyssa:** Now I am! We need to get out of here!
+
+**Max:** Alyssa, you go on. I have to help other people.
+
+(Max helped Alyssa in every episode)# (Max helped Alyssa in every episode)
+*A billboard behind Max begins to fall.*
+
+**Alyssa:** Watch out, Max!
+
+*Alyssa pulls Max out of the way.''
+
+**Max:** Damn... that was close. Thank you, Alyssa!
+
+**Alyssa:** Now we're even. Be careful out there!
+
+*Alyssa leaves*
+
+|-|(Max didn't help Alyssa in every episode)(Max didn't help Alyssa in every episode)
+*Alyssa leaves.*
+
+*Max enters a building. A [R.J. MacReady](fisherman.md) is trapped on the other side of the room, his path blocked by flames.*
+
+**Max:** *(thinking)* How can I get out of here?
+
+*Max turns on the fuse box. The fire sprinklers put out the fire, but the fisherman is electrocuted.*
+
+**Max:** *(thinking)* He's dead... electrocuted...
+
+# ###  **Optional Conversation with Fisherman** 
+
+*Max can walk over to the fisherman and rewind.*
+
+**Max:** Come on, you have to get out of here right now.
+
+**Fisherman:** I need to breathe… I… I need air…
+
+*Max helps him up. She then uses the fuse box to put out the fire.*
+
+**Max:** You should get out of here!
+
+**Fisherman:** *[running away]* The whole town is dying…
+
+**Max:** *(thinking)* Okay, I better hurry to the diner over there. I need Warren's photo.
+
+*Max climbs out of the building through a broken window. As she walks over to the diner, it bursts into flames and she is forced to rewind.*
+
+**Max:** *(thinking)* Come on, Max! Stop that fire!
+
+*She uses sand to prevent the fire from spreading.*
+
+**Max:** *(thinking)* Yes!
+
+*Max enters the Two Whales Diner through the side entrance.*
+
+##  **Diner** 
+
+*Max enters the storeroom of the Two Whales Diner.*
+
+**Announcer:** ...evacuation. Once again, this is not a test. This is not a test. An E6 tornado warning has been issued for Arcadia Bay and surrounding counties. The Emergency Broadcast System is now in effect...
+
+*She opens the storeroom door and walks into the diner.*
+
+**Warren:** Max!
+
+**Joyce:** Max! *[hugging her]* Oh Jesus, I am so glad to see you, sweetie! Are you okay?
+
+**Max:** Yes. What about you guys?
+
+**Joyce:** The Two Whales is barely standing now... I don't know if it’s going to make it through this tornado. Poor Officer Berry and all those people out there...
+
+**Max:** I know.
+
+**Joyce:** Okay, get your ass inside... I have to get back to this gentleman on the ground... Warren has been gathering all the first aid...
+
+**Warren:** It’s not much, Joyce. But it’s all we have.
+
+**Max:** *[turning to Warren]* You okay, Warren?
+
+**Warren:** How the hell did I ignore all those warnings, Max? The snow, the eclipse...
+
+**Max:** There’s nothing you could do about it, Warren.
+
+**Warren:** I’m so stupid... I should have seen it coming...
+
+**Max:** *(thinking)* So glad everybody is safe here, but I need that photo from Warren to help Chloe!
+
+# ###  **Optional Conversation with Frank** 
+
+''If Chloe didn't kill Frank in the previous episode, he will be sitting on the floor and Joyce will be attending to his wounds.''
+
+**Joyce:** Okay, Max, excuse me while I go help this other gentleman.
+
+(Frank was unharmed by Chloe)# (Frank was unharmed by Chloe)
+**Max:** Frank... I'm so glad you're here...
+
+{{#tag:tabber|(Pompidou was killed)(Pompidou was killed)
+**Frank:** That makes two of us. Now, if only I had Pompidou back... and Rachel.
+
+{{!}}-{{!}}(Pompidou wasn't killed)# (Pompidou wasn't killed)
+**Frank:** That makes two of us. Now if I only had Rachel back...
+
+}}
+
+**Frank:** Now Max, what about that info I gave you? Did you and Chloe find out what happened to her?
+
+{{#tag:tabber|Rachel is dead.Rachel is dead.
+**Max:** Frank, I don’t know how to say this, so... I just will. Rachel is dead.
+
+**Frank:** God, no, please... Please, no... No, not Rachel... She can't fucking be! Are you... Are you sure? I mean, how do you know?
+
+**Max:** We used the names you gave us to track down a farmhouse. My professor, Mark Jefferson, has this creepy photo torture room... and we found out he was using Nathan Prescott to drug and photograph Blackwell students.
+
+**Frank:** Prescott? Fuck! Fuck, I knew it! I should never have hooked up with that sick punk! Pompidou hated him! You saw... you saw Rachel?
+
+{{#tag:tabber|Yes.# Yes.
+**Max:** Yes... I wish I didn't. I'm so, so sorry, Frank. Nathan wanted to impress Jefferson, and he... he killed her.
+
+{{!}}-{{!}}No.No.
+**Max:** No, I didn't, but... Nathan wanted to impress Jefferson and I know he... killed her.
+
+}}
+
+**Frank:** How? How did he kill her?
+
+{{#tag:tabber|Overdose.# Overdose.
+
+**Max:** He used some drug... and gave her an overdose...
+
+**Frank:** An overdose? The only way Nathan could've done that is... is if I sold it to him. I killed my lioness! No... What have I done?
+
+{{!}}-{{!}}It doesn't matter.It doesn't matter.
+**Max:** It doesn't matter... She deserves her peace now.
+
+}}
+
+**Frank:** Where is this motherfucker Jefferson?
+
+{{#tag:tabber|(David killed Jefferson)# (David killed Jefferson)
+**Max:** He's dead.
+
+{{!}}-{{!}}(David didn't kill Jefferson)(David didn't kill Jefferson)
+**Max:** He's going to jail.
+
+}}
+
+**Max:** He won't be hurting anybody anymore...
+
+**Frank:** Rachel... Oh, God. She was the one good thing in my life, Max. I know she was too young, and... I expected her to leave me, just... just not how it happened. I would never have stopped her from going after her dreams.
+
+{{#tag:tabber|I know.# I know.
+**Max:** I know. She obviously cared about you, Frank...
+
+**Frank:** Rachel cared about a lot of people... especially Chloe...
+
+{{!}}-{{!}}Neither would Chloe.Neither would Chloe.
+**Max:** I know... neither would Chloe...
+
+**Frank:** I knew Chloe and her... were close... I was jealous...
+
+}}
+
+**Frank:** But, uh... now I see why Rachel dug her... and Chloe was man enough to ask me for help after all that shit we went through.
+
+**Max:** Chloe would appreciate that...
+
+**Frank:** You know, the one time I met my dad, the bastard quoted the bible and said he wanted to "enter his house justified." In other words, to do the right thing... me too. And maybe you're helping me get there, Max. Don't get me wrong, kid. I still think you're weird... but you're cool.
+
+{{!}}-{{!}}We don't know.# We don't know.
+**Max:** I'm sorry... We had no time to investigate when the storm started...
+
+**Frank:** Oh, there's still hope. Look, I need to rest now, I'm wiped out... like Arcadia Bay. I just hope Rachel is far away, laying in the sun, happy... Thanks for trying, Max. So, I guess we just wait for the Lord to lift us up... or not.
+
+}}
+
+|-|(Frank was harmed by Chloe)(Frank was harmed by Chloe)
+
+**Max:** Frank... I'm so glad you're here... Are you okay?
+
+{{#tag:tabber|(Pompidou was killed)# (Pompidou was killed)
+**Frank:** What? Besides this tornado, the hole in my leg and the fact my dog is dead...not to mention I could die on the floor of a diner and you're the last person I might see...I'm cool. Jesus.
+
+{{!}}-{{!}}(Pompidou wasn't killed)(Pompidou wasn't killed)
+**Frank:** What? Besides this tornado, the hole in my leg, not to mention the fact that I might die on the floor of a diner and you're the last person I could see... You know what, I'm cool. Jesus.
+
+}}
+
+{{#tag:tabber|(Chloe paid Frank back)# (Chloe paid Frank back)
+**Frank:** And I bet you and Chloe didn't find Rachel, right?
+
+{{!}}-{{!}}(Chloe didn't pay Frank back)(Chloe didn't pay Frank back)
+**Frank:** And I bet that thief Chloe and you didn't find Rachel, right?
+
+}}
+
+{{#tag:tabber|Rachel is dead.# Rachel is dead.
+**Max:** Frank, I don’t know how to say this, so... I just will. Rachel is dead.
+
+**Frank:** Fuck you, Max. No. No way. She left town... She's gone... How do you know, huh? How?
+
+**Max:** All of our clues led us to my professor, Mark Jefferson... He had this creepy photo torture chamber... and we found out... he was using Nathan Prescott to drug and photograph Blackwell students...
+
+**Frank:** Prescott? Fuck! Fuck, I knew it! I should never have hooked up with that sick punk! Pompidou hated him! You saw... you saw Rachel?
+
+{{#tag:tabber|Yes.Yes.
+**Max:** Yes... I wish I didn't. I'm so, so sorry, Frank. Nathan wanted to impress Jefferson, and he... he killed her.
+
+{{!}}-{{!}}No.# No.
+**Max:** No, I didn't, but... Nathan wanted to impress Jefferson and I know he... killed her.
+
+}}
+
+**Frank:** How? How did he kill her?
+
+{{#tag:tabber|Overdose.Overdose.
+**Max:** He used some drug... and gave her an overdose...
+
+**Frank:** An overdose? The only way Nathan could've done that is... is if I sold it to him. I killed my lioness! No... What have I done?
+
+{{!}}-{{!}}It doesn't matter.# It doesn't matter.
+**Max:** It doesn't matter... She deserves her peace now.
+
+}}
+
+**Frank:** Where is this motherfucker Jefferson?
+
+{{#tag:tabber|(David killed Jefferson)(David killed Jefferson)
+**Max:** He's dead.
+
+{{!}}-{{!}}(David didn't kill Jefferson)# (David didn't kill Jefferson)
+**Max:** He's going to jail.
+
+}}
+
+**Max:** He won't be hurting anybody anymore...
+
+**Frank:** Rachel... Oh, God. She was the one good thing in my life, Max. I know she was too young, and... I expected her to leave me, just... just not how it happened. I would never have stopped her from going after her dreams.
+
+{{#tag:tabber|I know.I know.
+**Max:** I know. She obviously cared about you, Frank...
+
+**Frank:** Rachel cared about a lot of people... especially Chloe...
+
+{{!}}-{{!}}Neither would Chloe.# Neither would Chloe.
+**Max:** I know... neither would Chloe...
+
+**Frank:** I knew Chloe and her... were close... I was jealous...
+
+}}
+
+**Frank:** But, uh... now I see why Rachel dug her... and Chloe was man enough to ask me for help after all that shit we went through.
+
+**Max:** Chloe would appreciate that...
+
+**Frank:** You know, the one time I met my dad, the bastard quoted the bible and said he wanted to "enter his house justified." In other words, to do the right thing... me too. And maybe you're helping me get there, Max. Don't get me wrong, kid. I still think you're weird... but you're cool.
+
+{{!}}-{{!}}We don't know.We don't know.
+**Max:** Um, we don't... know. Things got crazy and... and, here we are... Frank, I'm sorry about this.
+
+**Frank:** Who gives a fuck now? Just stand over there so I don't have to see you before the Lord lifts me up. Please Max.
+
+}}
+
+# ###  **Optional Conversation with Joyce** 
+(Frank is alive)# (Frank is alive)
+**Joyce:** Come on, Max. Let's talk over here and give Frank some resting space.
+**Max:** Joyce, how are you doing?
+
+**Joyce:** Just when I think I've already been through the ringer... Where's Chloe?
+
+She's safe.She's safe.**Max:** She's... safe, Joyce. She just sent me a text before my phone died.
+
+**Joyce:** Oh, thank God... I was torturing myself before you showed up. Oh God, if something happened to Chloe while I ended up stuck at this diner again...
+
+|-|I'll find her.# I'll find her.**Max:** I... I'll find her.
+
+**Joyce:** Not in this storm you won't. And you're not going out there, Max. I just have to pray that Chloe... and David... are holed up some place safe.
+
+**Max:** I'm sorry about all this, Joyce.
+
+**Joyce:** Don't be, honey. It's not like you whipped up this tornado on your own...
+
+**Max:** Um... I mean, I’m also sorry about everything with David.
+
+**Joyce:** You don't have control over any of that. David is an adult and he has a lot more age and experience under his belt. Even if he doesn't always show it...
+
+(Max sided with Chloe)(Max sided with Chloe)
+{{#tag:tabber|I'm sorry.# I'm sorry.**Max:** I'm sorry I caused so many problems with David and Chloe...
+
+**Joyce:** You did the right thing. David overstepped his bounds. I had a suspicion he was taking his private surveillance way too seriously... But he's sorry and I wish he was here right now.
+
+{{!}}-{{!}}Perfect storm.Perfect storm.
+**Max:** I know... I just feel like everything that's going on with us is the perfect storm for Arcadia Bay.
+}}
+
+**Max:** I just want our lives to be normal again...
+
+**Joyce:** With all the shit going on this week, I think you're right. And look at me, trying to keep my family together... again. Max... did I make a mistake kicking David out?
+
+{{#tag:tabber|David needs you.# David needs you.
+**Max:** David saved my life... from the storm. I saw how much he cares about Chloe, even if he couldn't show it. David needs you more than ever, and I can see why you love him.
+
+**Joyce:** I'm so happy David was there for you. He has a lot of weight on his back from the war, but he truly wants to help people.
+
+{{#tag:tabber|(Max came out of hiding/took the blame)(Max came out of hiding/took the blame)**Joyce:** He even agreed to take a family counseling class.
+
+{{!}}-{{!}}(Max stayed hidden/blamed Chloe)# (Max stayed hidden/blamed Chloe)**Joyce:** He even agreed to take a family counseling class, after he hit Chloe.
+}}
+
+**Max:** I'm sure that was a hard thing for him to do... It shows how much he truly cares about you and Chloe.
+
+**Joyce:** Nothing would make me happier than for David and Chloe to make peace, not war. But I don't know what to do anymore... I just... I just want this storm to blow over forever. Maybe it's time we leave Arcadia Bay... if we can...
+
+**Max:** David is a real hero, Joyce. I know that all he wants to do is make you happy. I know he would do anything for you... and Chloe.
+
+**Joyce:** I know. And yes, he's not William, but that's okay. He's not supposed to be. You reminded me of when he came into my life... I was ready to give up. David's love gave me strength. He even told me I was his hero... And I can't give up loving him. I want him to come back home... I hope I get to tell him that soon.
+
+{{!}}-{{!}}That's your choice.That's your choice.**Max:** David saved my life... from the storm. He means well, even if he doesn't know how to show it. But this has to be your choice...
+
+{{#tag:tabber|(Max came out of hiding/took the blame)# (Max came out of hiding/took the blame)**Joyce:** I'm so happy David was there for you... but I don't always like his attitude either. Sometimes he scares me...
+
+**Max:** I know it's hard for you and Chloe...
+
+{{!}}-{{!}}(Max stayed hidden/blamed Chloe)(Max stayed hidden/blamed Chloe)**Joyce:** I'm glad David was there for you... but I don't always like his attitude... And honestly, I don't think I can forgive him for hitting Chloe... If it happens once, it could happen again...
+
+**Max:** I... I understand...
+}}
+
+**Joyce:** I'm used to my life being hard... Chloe had to find out way too early. And I don't think we need David around to keep reminding us... You're right, Max. I think I'm making my choice now.
+}}
+
+|-|(Max sided with David)# (Max sided with David)
+{{#tag:tabber|Not against you.Not against you.**Max:** Well... I didn't mean to take David's side against you or Chloe...
+
+**Joyce:** I know you try to see the good side in everybody... and David needs to try that, too. But that's not important now.
+
+{{!}}-{{!}}Perfect storm.# Perfect storm.
+**Max:** I know... I just feel like everything that's going on with us is the perfect storm for Arcadia Bay.
+}}
+
+**Max:** I just want our lives to be normal again...
+
+**Joyce:** With all the shit going on this week, I think you're right. And look at me, trying to keep my family together... again.
+
+**Max:** Joyce, you've gone through so much for Chloe and David. If you were my mom... I would be so proud.
+
+**Joyce:** Oh sweetie, thank you. But your parents should be prouder of you. Even David told me how tough he thinks you are... and he doesn't give out many compliments, as you know.
+
+{{#tag:tabber|David needs you.David needs you.
+**Max:** He does about you. It’s so obvious he needs you in his life...
+
+**Joyce:** He better. Like I said, people don't always see the real David Madsen. I hope Chloe does someday...
+
+{{!}}-{{!}}David is a hero.# David is a hero.
+**Max:** David is a real hero. I don't know what he's gone through in war, but I can imagine... and he even showed me how to find my own strength under extreme conditions.
+
+**Joyce:** I'm so glad to hear you say that, Max... I know he's not always an easy person to defend... Most people only see him at his worst... You've seen him at his best. And that's the man I want in my life.
+}}
+
+###  **Conversation with Warren** # 
+
+**Warren:** I hate to say I'm glad to see you, but I'm so glad to see you.
+
+**Max:** That's okay. The important thing is that you're safe... and I know you can take care of yourself, after Nathan.
+
+**Warren:** Should have done that a long time ago. But damn, Max... I can't believe you actually drove down here in the middle of a fucking E6 tornado, just for one photograph... I mean, I know you didn't come for me.
+
+**Max:** Warren, I came for all of you. Just tell me you do have the photograph.
+
+**Warren:** I just want...
+
+**Max:** Now shut up and listen.
+
+**Warren:** Oh yeah, you’re finally going to tell me what you never did in the parking lot...
+
+**Max:** I wish I would have. So I'm just going to tell you without any explanation. Trust me, okay?
+
+**Warren:** I always do. You should probably tell me quick...
+
+**Max:** I had a vision in Jefferson's class of a tornado destroying Arcadia Bay. I went to the bathroom and saw my best friend Chloe get shot by Nathan Prescott...You with me so far?
+
+**Warren:** Where else could I be? Go on!
+
+**Max:** Then I found out that I could rewind time... And, long story short, Mark Jefferson is insane and dangerous.
+
+**Warren:** Whoa... Is that all?
+
+I started the storm.I started the storm.**Max:** I think that this storm started... everything started... when I found out I could rewind time... There's no way this is just a coincidence, right?
+
+**Warren:** Max, not only the storm but the eclipse, the birds, the whales... everything!
+
+|-|He killed Chloe.# He killed Chloe.**Max:** I have to go back in time. Jefferson already ki—killed Chloe... I can't let that happen... I have to do something, Warren!
+
+**Warren:** Max, going back in time is what caused the storm!
+
+**Max:** All because... because of me? How?
+
+**Warren:** I'm not a real scientist, even though I play one at school, but this seems like pure cause and effect, maybe Chaos Theory... Uh, what happened with Jefferson? Did... Did he hurt you?
+
+He dosed me.He dosed me.**Max:** He used Nathan to get drugs and money for him. Jefferson tied me up and... dosed me with some drug and took sick photos of me... It was so horrible...
+
+**Warren:** Max... I'm so sorry you had to go through all that... You're the bravest person I've ever known. Now, I want to kill that son of a bitch! Where is he?
+
+{{#tag:tabber|(David killed Jefferson)# (David killed Jefferson)**Max:** Dead.
+
+{{!}}-{{!}}(David didn't kill Jefferson)(David didn't kill Jefferson)**Max:** Busted.
+}}
+
+**Max:** History. Which I need to change fast to make it right again... Is that bad?
+
+|-|Rachel was killed.# Rachel was killed.**Max:** Nathan accidentally killed Rachel Amber trying to impress Jefferson...
+
+{{#tag:tabber|(David killed Jefferson)(David killed Jefferson)**Max:** He just needed mental help... Now... they're both dead.
+
+{{!}}-{{!}}(David didn't kill Jefferson)# (David didn't kill Jefferson)**Max:** Nathan just needed mental help... Now he's dead... and Jefferson is done.
+}}
+
+**Warren:** Jesus, Max! I want the whole story, but... I guess we really are out of time.
+
+**Max:** But I can still change things. What do you think will happen?
+
+**Warren:** For every action, there's... there's a reaction... Whenever you reversed or altered time, maybe you caused a chain reaction... even in the environment.
+
+You believe me?You believe me?**Max:** You're my friend, Warren. You believe me, right? I... I haven't told anybody else except for Chloe... and... and she can't help me right now...
+
+**Warren:** I know I can be a pain in the ass... and... and you've always treated me like a person, not... not a beta nerd. I told you before that I'll always believe you...
+
+**Max:** I just wish I could trust my powers...
+
+|-|This is my fault?# This is my fault?**Max:** All this destruction... is my fault?
+
+**Warren:** Give me a break. You sure the hell didn't give yourself time travel powers...
+
+|-|More time together.More time together.**Max:** Warren, I know this all sounds insane... but you're the only other person who I can count on now... I wish we had more time together... Do you believe me?
+
+**Warren:** Max, of course I believe you. You're the most amazing person I've ever met... and I'm glad you trust me.
+
+**Max:** Always. I just wish I could trust my powers...
+
+**Max:** I guess we'll never know if it's magic or science...
+
+**Warren:** Even if it's from a wizard or a wormhole... You're part of something bigger. I don't believe in fate or destiny, but after this week, I realize I don't know shit.
+
+**Max:** That makes both of us, Warren...
+
+**Warren:** I do know you're here for a reason... and I guess it's up to you to find out why. Max... I'm sorry you got stuck in this... in this... I don't have a fucking clue what's going on. But I have total faith that you'll do the right thing when the time comes. I'm so proud of you, Max. How could there be a more important moment in history? And I'm in the middle of it with you? So thank you for trusting me.
+
+**Max:** Thanks for being here. Always.
+
+*Warren takes out the polaroid and places it in front of Max.*
+
+**Warren:** Hey... Be careful out there.
+
+LEAVE# LEAVE{{#tag:tabber|(Frank is alive)(Frank is alive)**Max:** Watch out for Joyce... and Frank.
+
+{{!}}-{{!}}(Frank is dead)# (Frank is dead)**Max:** Watch out for Joyce... and everybody else.
+}}
+
+**Warren:** I got this, Max. Go on.
+
+**Max:** I’m going to make the right choices from now on... I swear.
+
+**Warren:** That's why you're Super Max.
+
+|-|HUGHUG**Max:** I could use a hug before I do this...
+
+**Warren:** Me too.
+
+*Warren hugs Max.*
+
+**Warren:** You better go before I get pathetic and tell you not to.
+
+**Max:** You’re not pathetic. You’re one of my heroes... And I’m going to make the right choices from now on... I swear.
+
+**Warren:** That's why you're Super Max.
+
+|-|KISS# KISS
+*Only available if Max has a high enough romance level with Warren.*
+
+**Max:** For luck.
+
+*Max kisses Warren.*
+
+**Warren:** Just in case we don’t get out of this... I wanted to say...
+
+**Max:** I know, Warren...
+
+**Warren:** Of course you do.
+
+**Max:** I’m going to make the right choices from now on... I swear.
+
+**Warren:** That's why you're Super Max.
+
+*Max focuses on the photo and travels back in time.*
+
+##  **Blackwell Parking Lot** 
+*The camera prints the polaroid of Max and Warren. Max looks around, taking in her surroundings.*
+
+**Chloe:** We got no time for this shit. Come on, Max.
+
+**Max:** Chloe!
+
+*Max hugs Chloe.*
+
+**Chloe:** Jesus, dude... what is up with you?
+
+**Max:** I’m just glad we’re here together.
+
+**Warren:** I guess you need to talk. No worries... It’s all good.
+
+**Chloe:** I'm glad you're with me, too. What's going on, Max? We have to find Nathan right now.
+
+**Max:** Sorry, Warren…
+
+**Chloe:** He's going to fucking pay for what he did to Rachel... Let's go, now.
+
+**Max:** Chloe, wait! Listen!
+
+**Chloe:** I can walk and listen, okay?
+
+''Max grabs Chloe's arm.''
+
+**Max:** Stop and listen for once!
+
+**Chloe:** Fine, Max. I'm listening.
+
+**Max:** Chloe, you can’t go in that party. You’re gonna… you're gonna die if you do.
+
+**Chloe:** You used your powers, right? And you fucked around with time, and I died.
+
+**Max:** Not like that…
+
+**Chloe:** You’re supposed to back me up. So there’s no way that punk-ass bitch Nathan Prescott is taking me down.
+
+**Max:** You're right, he won't. Mark Jefferson killed you... and others.
+
+**Chloe:** Jefferson, the art teacher? That's bullshit! Nathan is the fucking serial killer! We saw the proof! Now, excuse me, I’m going to that party to make sure he never hurts anybody again. Are you coming?
+
+Too dangerous.Too dangerous.
+**Max:** Chloe, you can't get revenge if you're dead!
+
+**Chloe:** It doesn't matter. I have to make Nathan pay for what he did to Rachel... and I know you've got my back.
+
+**Max:** Chloe!
+
+*Max is forced to rewind.*
+
+|-|Nathan is dead.# Nathan is dead.
+**Max:** Nathan is dead... and you're in danger.
+
+**Chloe:** That fucker is already dead? How do you know that?
+
+**Max:** Because... I was there.
+
+**Chloe:** Will you please tell me exactly what happened? Please?
+
+{{#tag:tabber|Jefferson hurt me.Jefferson hurt me.
+**Max:** Chloe... Jefferson drugged and kidnapped me. I was tied up in his bunker. You have no idea what hell I went through to get back here… but I couldn't let you die. You brought me back here, and I can't lose you again. I won't!
+
+**Chloe:** Oh... Max. I'm... I'm so sorry... I was the one who dragged you into all this shit... Nobody, especially you, should have to go through that... Now we have to stop Jefferson... with one bullet.
+
+{{!}}-{{!}}Jefferson killed him.# Jefferson killed him.
+**Max:** Jefferson kidnapped Rachel and some other girls. He was also manipulating Nathan, and… he killed him.
+
+**Chloe:** Then it's Jefferson's turn to die now. I understand why you don't want to do this, and I won't blame you for not coming with me.
+
+**Max:** Chloe!
+
+*Max is forced to rewind.*
+
+{{!}}-{{!}}Jefferson is a psychopath.Jefferson is a psychopath.
+**Max:** Mark Jefferson turned out to be a psychopath...
+
+**Chloe:** Okay, Max. Let's go in there as a team and take his ass out right now!
+
+{{#tag:tabber|Jefferson hurt me.# Jefferson hurt me.
+**Max:** Chloe... Jefferson drugged and kidnapped me. I was tied up in his bunker. You have no idea what hell I went through to get back here… but I couldn't let you die. You brought me back here, and I can't lose you again. I won't!
+
+**Chloe:** Oh... Max. I'm... I'm so sorry... I was the one who dragged you into all this shit... Nobody, especially you, should have to go through that... Now we have to stop Jefferson... with one bullet.
+
+{{!}}-{{!}}Let the past go.Let the past go.
+**Max:** Chloe, I know this isn't easy, but it's time for you... and me... to let the past go. We have to focus on our future, while we still have one.
+
+**Chloe:** That's so easy for you to say. You don't know what my life has been these past five years.
+
+**Max:** Come on, of course I... but at some point you have to move forward...
+
+**Chloe:** One thing I learned at Blackwell is the saying, "Those who don't learn from history are doomed to repeat it..." I have to do this... So I guess I'm on my own... again.
+
+**Max:** Chloe!
+
+*Max is forced to rewind.*
+
+{{!}}-{{!}}Don't leave me.# Don't leave me.
+**Max:** Chloe! I should never have run away from you like I did when we left Arcadia Bay. I know I hurt you… All I ever wanted was to make it up to you. Please, don't run away from me…
+
+**Chloe:** Max, I'm not running from you! This is when I need you the most. This is how to make everything up to me. With your power and my gun... nothing in the universe can stop us now, Max!
+
+}}
+
+}}
+
+**Max:** No! Not this way! Chloe, I… I can't keep fixing everything, if all I'm gonna do is just break it, over and over again. I know how this is gonna turn out and... I'm afraid I'm fucking up all these alternate realities.
+
+**Chloe:** Wait... alternate realities? What do you mean, Max? What did you do?
+
+Terrible choice.Terrible choice.
+**Max:** Chloe, I'm... I'm going to tell you the truth, no matter what. I changed your past and I had to make a terrible choice, and I... I...
+
+**Chloe:** Max. Please tell me... I won't be mad at you...
+
+**Max:** I was able to go back in time... to the last day William was alive. I stopped him from leaving, but... But you ended up in a car crash instead.
+
+**Chloe:** You saw my dad again?
+
+**Max:** You... you were completely paralyzed. And you were in pain. You were slowly dying, and you… you asked me to… end your life.
+
+{{#tag:tabber|(Max accepted alternate Chloe's request)# (Max accepted alternate Chloe's request)
+**Max:** And I did... for you. I didn't want you to suffer in any other timeline or reality... I couldn't bear the thought of you in any more pain...
+
+{{!}}-{{!}}(Max refused alternate Chloe's request)(Max refused alternate Chloe's request)
+**Max:** But Chloe, there was no way I could do that... I had to return to this timeline... to see you again. I had to...
+
+}}
+
+**Chloe:** God, Max... That must have been... That must have been awful for you... I'm so sorry I had to ask you that...
+
+**Max:** It was worse for you. But I had no idea what would happen, and... as usual, I messed everything up, and… I never want to hurt you, ever. You have to believe me.
+
+**Chloe:** Of course I do. Do you think I would even know how to handle that situation? Nobody would... The important thing is that we're together again.
+
+|-|I fucked up.# I fucked up.
+**Max:** I fucked up, Chloe. I wanted to make things right, but everything turned out wrong.
+
+**Chloe:** Max, what the hell are you talking about?
+
+{{#tag:tabber|Back in time.Back in time.
+**Max:** I was able to go back in time... to the last day William was alive. I stopped him from leaving, but... But you ended up in a car crash instead.
+
+**Chloe:** You saw my dad again?
+
+**Max:** You... you were completely paralyzed. And you were in pain. You were slowly dying, and you… you asked me to… end your life.
+
+{{#tag:tabber|(Max accepted alternate Chloe's request)# (Max accepted alternate Chloe's request)
+**Max:** And I did... for you. I didn't want you to suffer in any other timeline or reality... I couldn't bear the thought of you in any more pain...
+
+{{!}}-{{!}}(Max refused alternate Chloe's request)(Max refused alternate Chloe's request)
+**Max:** But Chloe, there was no way I could do that... I had to return to this timeline... to see you again. I had to...
+
+}}
+
+**Chloe:** God, Max... That must have been... That must have been awful for you... I'm so sorry I had to ask you that...
+
+**Max:** It was worse for you. But I had no idea what would happen, and... as usual, I messed everything up, and… I never want to hurt you, ever. You have to believe me.
+
+**Chloe:** Of course I do. Do you think I would even know how to handle that situation? Nobody would... The important thing is that we're together again.
+
+{{!}}-{{!}}Nothing.# Nothing.
+**Max:** Uh... nothing. I mean, whenever I use my rewind, I create new timelines, new destinies...
+
+**Chloe:** Then you can't be sure of anything! That's why I'm going to take out Jefferson... and that will be our reality.
+
+**Max:** No, no... Chloe, hold on! Chloe!
+
+*Max is forced to rewind.*
+
+}}
+
+|-|Nothing...Nothing...
+**Max:** Uh... nothing. I mean, whenever I use my rewind, I create new timelines, new destinies...
+
+**Chloe:** Then you can't be sure of anything! That's why I'm going to take out Jefferson... and that will be our reality.
+
+**Max:** No, no... Chloe, hold on! Chloe!
+
+*Max is forced to rewind.*
+
+**Max:** You're right. That's why you should come with me so we can stay together... and stay alive.
+
+**Chloe:** I hear you, Max... but do you think we should let Jefferson get away with torture and murder?
+
+**Max:** Of course not! If we tell David, he'll believe us and he can actually stop him... right?
+
+(Max sided with Chloe)# (Max sided with Chloe)
+**Chloe:** I don't get it... Why do you trust him, after you totally reamed him the other day? He's not even at our house anymore.
+
+|-|(Max sided with David)(Max sided with David)
+**Chloe:** Is that why you stuck up for him? Because you think he can help us? Really?
+
+David cares about you.# David cares about you.
+**Max:** Chloe, no matter how much of a douche he's been, David truly cares about you.
+
+{{#tag:tabber|(Max came out of hiding/took the blame)(Max came out of hiding/took the blame)
+**Chloe:** Oh, please... like he cared when he got in your face for smoking a joint?
+
+{{!}}-{{!}}(Max stayed hidden/blamed Chloe)# (Max stayed hidden/blamed Chloe)
+**Chloe:** Yes, a slap across the face is a sure sign of tough love.
+
+}}
+
+{{#tag:tabber|(Max told David that Chloe was dead)(Max told David that Chloe was dead)
+**Max:** You should have seen his reaction when I told him that Jefferson… killed you. He was crushed.
+
+{{!}}-{{!}}(Max told David that Chloe was alive)# (Max told David that Chloe was alive)
+**Max:** You should have seen how relieved he was when I lied to him and told him you didn't die. It would have crushed him...
+
+}}
+
+**Chloe:** Are you serious? I can't see him showing any feeling... except towards my mom...
+
+|-|David saved me.David saved me.
+**Max:** Chloe, David saved me from Jefferson... If he didn't track down the Dark Room... I'd be dead right now.
+
+**Chloe:** Max... I had no clue... I should have been the one to save you, but... I'm so grateful David was there.
+
+|-|David was ahead of us.# David was ahead of us.
+**Max:** David was already investigating Jefferson. He was way ahead of us...
+
+**Chloe:** Except that he was actually investigating everybody, Max... including your friend Kate. Sorry, but I still don't trust him. It's up to us, Max.
+
+**Max:** No, no, listen to me... wait, Chloe! Chloe!
+
+*Max is forced to rewind.*
+
+**Chloe:** So what's your plan?
+
+**Max:** We tell him everything, including that Victoria is in danger.
+
+**Chloe:** Okay. You've been through so much... I believe you, Max. After all, I'm still your faithful companion.
+
+**Max:** Yes, you are. So, listen... In a few minutes, I won't know any of this happened... nothing. We absolutely have to stay in your room and do nothing. Then we explain everything to David, and we finally let him do his job. You'll have to tell me exactly what I did and said just now. Just explain that I traveled through time using the photo.
+
+**Chloe:** Will you believe me?
+
+**Max:** I’ll always believe you, Chloe.
+
+*(The screen fades to white and scenes in the timeline are altered)*
+
+## **Beach**
+
+*Max looks around. Chloe is standing in front of her, watching the tornado.*
+
+**Max:** Oh, Chloe!
+
+*Max runs up to Chloe and hugs her tightly.*
+
+**Chloe:** *[turning around]* I see that the real Max is back... So, how was your time trip, dude?
+
+**Max:** Shut up. Oh, you're alive! You're alive, oh... Both of us! I did so much to bring you back, Chloe... and it worked. It actually worked. You're with me again.
+
+**Chloe:** *[hugging Max]* It looks like even fate doesn't want us apart. And... you traveled through multiple realities just to... save my ungrateful ass over and over. I hope it was worth it, but... I don't blame you for wanting me out of your life, after all my drama.
+
+**Max:** Come on. I'm the official Drama King and Queen of Arcadia Bay this week. Just look at what my powers have caused in... just a short time. I mean... I'm nobody.
+
+**Chloe:** You're Max-fucking-Caulfield, Time Warrior. Even if you weren't, you're kind and caring. Nobody could have a better best friend... Nobody. You didn't ask for any of this to happen, but it did. You need to accept how awesome you are.
+
+**Max:** Maybe I willed it subconsciously, or something. I always wanted my life to be special... an adventure... but not without you. And it didn't happen until I moved back here, so... without you, my powers wouldn't even exist.
+
+**Chloe:** Then for whatever scientific, mystical reason, that we'll obviously never figure out... We were meant to be together at this exact moment in history. I have to think that Rachel was somewhere behind the scenes, fighting for justice...
+
+**Max:** I'd like to think that, too... We all owe Rachel Amber. Now tell me everything that happened. You... You remember, right?
+
+**Chloe:** Well, we... we left the party and made sure Jefferson couldn't find us. For once, I was glad I lived in an actual fortress. Then the storm got hella crazy and... and you said we would be safe at the lighthouse.
+
+**Max:** Chloe, look! The storm is getting bigger now. It's coming closer. I... I can't even believe this is real, but this is happening because of me.
+
+**Chloe:** Stop it! Stop beating yourself up, okay? We've both paid our dues already on that. Oh, God, look at that! Look at that monster! Who knows... This could be Rachel's revenge... Our revenge. The lighthouse is out of the way of the tornado. Come on!
+
+**Max:** Oh... What... Chloe... ''[Max collapses in Chloe's arms]''
+
+**Chloe:** I've got your back, Max.
+
+*(Scene fades to black)*
+
+##  **Nightmare** 
+### **-Photography Lab-**
+
+*Max sits up at her desk.*
+
+**Max:** Whoa.
+
+**Mr. Jefferson:** Alfred Hitchcock famously called film "little pieces of time”—but he could be talking about photography, as he likely was.
+
+**Max:** *(thinking)* I'm back in class... What the hell?
+
+**Mr. Jefferson:** These pieces of time can frame us in our glory and our sorrow.
+
+**Max:** *(thinking)* I have to listen to this Jefferson lecture again? This might be Hell...
+
+**Mr. Jefferson:** From light to shadow, from color to chiaroscuro... Now, can you give me an example of a photographer who perfectly captured the human condition in black and white? Anybody? Bueller?
+
+**Max:** *(thinking)* Okay, this is messed up... Am I stuck in a time loop?
+
+**Victoria:** Diane Arbus.
+
+**Max:** *(thinking)* Be calm and don't freak out... yet.
+
+**Mr. Jefferson:** There you go, Victoria. Why Arbus?
+
+**Victoria:** Because of her images of hopeless faces. You feel, like, totally haunted by the eyes of those sad mothers and children.
+
+**Mr. Jefferson:** She saw humanity as tortured, right?
+
+*Blood splatters against the windows.*
+
+**Max:** *(thinking)* Wait, what's going? Nobody even cares?
+
+**Mr. Jefferson:** And frankly, it’s bullshit. Shh, keep that to yourself. Seriously though, I could frame any one of you in a dark corner and capture you in a moment of desperation.
+
+*The bell rings. Max is alone.*
+
+**Max:** *(thinking)* Everybody's gone now... Have I totally fucked up time? This doesn't make sense...
+
+*She looks out the window.*
+
+**Max:** *(thinking)* Holy shit. Look at all these dead birds... This can't be real...
+
+*Max approaches the door of the classroom.*
+
+**Mr. Jefferson:** I see you, Max Caulfield. Don't even think about leaving here until we talk about your entry.
+
+*Max walks over to Mr. Jefferson.*
+
+**Mr. Jefferson:** I just wanted to know if... you'd like to spend the rest of your life in my Dark Room? Your purity inspires me so much... and we could be so happy together... Who needs selfies, when I can give you portraiture?
+
+**Max:** *(thinking)* There's no way I'm saying that... No way.
+
+I love you, Mr. Jefferson.I love you, Mr. Jefferson.
+
+**Max:** I've been dreaming of the day when you would finally tell me... I love you, Mr. Jefferson.
+
+**Mr. Jefferson:** Call me Mark. We need to play catch-up on all the time we've... wasted. Especially since there's nobody left in your life... I love you too, Max.
+
+|-|Our dark room.# Our dark room.
+
+**Max:** I like to think of it as... our Dark Room. It's the only place I truly feel safe and protected from the storm.
+
+**Mr. Jefferson:** Of course, Max. I can capture you over and over... You can be my model for life... and death. We are going to be so happy together in the dark. Just make sure you stay pure... I won't like it if you get dirty like Rachel or Chloe.
+
+|-|My selfies are shit.My selfies are shit.
+
+**Max:** My selfies are shit... I need to be framed by a real artist. I'm just a poser...
+
+**Mr. Jefferson:** Yes, you will be posing... for me. There's so many angles I want to expose you with to the world... I hope you don't mind needles or duct tape...
+
+|-|Thanks for killing Chloe.# Thanks for killing Chloe.
+
+**Max:** It's about time somebody finally killed Chloe... Think of how often that bitch almost got me killed... It's like you're doing both of us an awesome favor!
+
+**Mr. Jefferson:** Chloe can never appreciate you the way I will... Maxine. And yes, I insist on calling you Maxine... forever.
+
+*Mr. Jefferson disappears.*
+
+**Max:** *(thinking)* This can't be real... I don't believe it...
+
+*Max leaves the Photography Lab.*
+
+### '''-Girls' Dorm Hallway-'*
+
+*Max enters the hallway of the Girls' Dormitory. She walks up to Kate, who is crying as she lights a candle for her own vigil.''
+
+###  **Conversation with Kate** # 
+
+**Max:** Hey, Kate.
+
+(Max saved Kate)(Max saved Kate)
+
+**Kate:** Max, why did you stop me from jumping? What kind of friend are you? You never understood me... or what happened to me... Now my family will never leave me alone... And that means I’ll always be alone... thanks to you.
+
+**Max:** Kate, that’s not true! I’ve always been your friend...
+
+|-|(Max couldn't save Kate)# (Max couldn't save Kate)
+
+**Kate:** Max, how could you let me jump off a roof? You were the only person I trusted here... But you never really listened to me... Now I’m never going to Heaven... Instead you’ve stuck me in Hell... Alone forever...
+
+**Max:** No, Kate, I was only trying to save you...
+
+''Kate opens the door to her room, 222, and jumps into the abyss. Max follows her, only to re-enter the hallway of the Girls' Dormitory.*
+
+**Max:** *(thinking)* This hall never ends... I better find something.
+
+*Max must first grab the keys on the table next to the shower room, then enter Dana Ward's room, 218.*
+
+*She will re-enter the hallway in Rachel Amber's clothes. She must enter Rachel's old room, 224.*
+
+*Max will re-enter the hallway as Victoria. She must enter Victoria's room, 221.*
+
+*Max will then re-enter the hallway as herself. She must enter her own room, 219.*
+
+### **-Hallway-**
+
+*Max enters the [http://life-is-strange.wikia.com/wiki/Blackwell_Academy_Hallway hallway].*
+
+*'Courtney and Taylor's conversation**
+
+**Taylor:''' .aremac tnaig a htiw seifles ekat ehs yhs gnikcuf os s'ehS
+
+**Courtney:** .yhs os ti syalp ehS .fi sA
+
+**Taylor:** .si ehs pih woh ees ot ydobyreve stnaw xaM esuaceB
+
+**Courtney:** ?citamatsni ykrod a dnuora yrrac ot tnaw ydobyna dluow yhW
+
+**Max:** *(thinking)* .resol latot a ekil kool t'nod I erus ekam dna ecaf ym no retaw hsalpS .moorhtab eht ni tuoemit suoires a deen I
+
+*Juliet and Zachary walk across the hallway, then stop next to the Photography Lab.*
+
+**Max:** *(thinking)* ...dlrow laer eht ot emocleW
+
+'''Juliet and Zachary's conversation in the background**
+
+**Juliet:** .ssalc gnirud erutcip laiceps a uoy dnes thgim I nehT
+
+**Zachary:** !toH
+
+**Juliet:** ?etuc tsuJ
+
+**Zachary:** .etuc kool syawla uoY .ot tuoba saw I
+
+**Juliet:''' .tey dekool I etuc woh em llet t'ndid uoY
+
+*Max puts on her headphones and [To All of You](to_all_of_you.md) starts playing in reverse. Max walks along the corridor and then enters the bathroom, preceded by an ethereal doe.*
+
+### **-Maze-**
+
+**Mr. Jefferson:** Don’t try to hide, Max... Get over here... Let me capture you...
+
+**Max:** *(thinking)* Jefferson is coming after me again... No...
+
+'''Mr. Jefferson's comments (Maze 1)**
+
+**Mr. Jefferson:** Max... you used to be so pure, so innocent... Now you have to die.
+
+**Mr. Jefferson:** Please understand, Max... The only place I can be "myselfie" is in the Dark Room...
+
+**Mr. Jefferson:'* After everything I did for you... and you accuse me of making our sweet, naive Kate Marsh cry... Art is supposed to make you cry... and you will. *(determinant)*
+
+**Mr. Jefferson:** I can’t believe you let that hillbilly murder me in cold blood... *(determinant)''
+
+**Mr. Jefferson:** What happened to your spark, Max? I thought I could be your professor... for life.
+
+**Mr. Jefferson:** I realize now you’ll never be an artist, much less a photographer... Come here, Max. Class is dismissed...
+
+**Mr. Jefferson:** I miss those days when you looked at me in class with those wide eyes... I want to be your professor again... I can teach you so much...
+
+**Mr. Jefferson:** Max, remember what John Lennon said, "Happiness is a warm gun"... I hope you're happy that I'm dead... *(determinant)*
+
+**Mr. Jefferson:** Look into the lens, Max... Turn right... now left... Show me the love... and the hate...
+
+'''Principal Wells' comments (Maze 2)**
+
+**Principal Wells:** Good evening, Blackwell. This is Principal Wells and I’m here to drop the mic on Max Caulfield.
+
+**Principal Wells:** Attention... I regret to announce that one of your fellow classmates, Maxine Caulfield, has died under tragic circumstances that I promise to investigate after I get my drink on.
+
+**Principal Wells:** Will Max Caulfield please come to the Dark Room immediately. I repeat, Max Caulfield to the Dark Room... now!
+
+**Principal Wells:''' Excuse me, can everybody hear me? If you know the whereabouts of Miss Caulfield, please tie her up and inform me or David Madsen. She's wanted for the death of Chloe Price and Rachel Amber. Thank you.
+
+'''Warren's comments (Maze 3)**
+
+**Warren:** Max... Where are you? Max... Come out to play... Come out to play...!
+
+**Warren:** Ape, Ape, Ape... Who wants to "Go Ape"? Go Ape! Go Ape! Ape! Ape!!!
+
+**Warren:''' You dig my wheels, Max? Get in the car, I'll take you for a ride... Get in the car!
+
+**Warren:** Brooke loves me, so why don’t you? Huh? What makes you so special? *(determinant)*
+
+**Warren:** Max, I know you're in here... You can run, but you can’t hide from your white knight... Give it up!
+
+**Warren:** What's up with you and that blue-haired loser? You need an alpha male, baby!
+
+**Warren:** Did that get you hot when you saw me fuck up Nathan? I did.
+
+**Warren:** Max... imagine if we were in that Dark Room together... I have...
+
+**Warren:** I said, get in the car. Now. We'll cruise to the drive-in and you'll be close to me forever... and we'll... Go Ape, Ape, Ape!!!
+
+'''Principal Wells' comments (Maze 3)**
+
+**Principal Wells:''' Miss Price can't just show up at Blackwell in a wheelchair and think we're going to accommodate her every whim...
+
+**Principal Wells:** I knew I should have given that scholarship to Victoria instead of Max...
+
+**Principal Wells:** How can I tell Max's parents that she's a nosy little bitch?
+
+**Principal Wells:** I wish I could press a button and blow this whole fucking school up...
+
+**Principal Wells:** If I found out who went through my files... I’ll sic David Madsen on their ass.
+
+**Principal Wells:** If only Kate Marsh would have jumped off that roof... I could blame Miss Caulfield and finally get her kicked out of Blackwell. She's a bad influence. *(determinant)*
+
+**Principal Wells:** Poor Kate Marsh... Max might as well have pushed her ass off that roof... Poor Samuel had to mop up blood all night... *(determinant)*
+
+**Principal Wells:** What kind of sick mind would steal money from the handicapped? Nobody will miss Max or her friend Chloe after this comes out. *(determinant)*
+
+'''Samuel's comments (Maze 3)**
+
+**Samuel:''' Come over here, young Max... You're my spirit animal...
+
+**Samuel:** The squirrels hate you... and they’re hungry.
+
+**Samuel:** Too bad you didn’t become friends with the Tobanga...
+
+**Samuel:** Samuel wants to make sure you never snoop around his room again...
+
+**Samuel:** Do you have a scarf I can borrow, Max?
+
+'''Nathan's comments (Maze 3)**
+
+**Nathan:** Admit it, Max... You’re just jealous because me and Victoria actually do the work while you do nothing and whine!
+
+**Nathan:** The only way you’ll ever get into the Vortex Club is if a tornado swallows your ass up!
+
+**Nathan:** Chloe is a loser just like you, Max. And you can’t keep saving her over and over and over...
+
+**Nathan:** Only a feminazi would try to take on a Prescott... Blackwell is my turf, you whore!
+
+**Nathan:** Oh, did you get all hot and bothered when your wimpy boyfriend gave me a beatdown? Oh, oh, oh, Max, you’re way more disturbed and dangerous than me...
+
+**Nathan:'* Snitches get stitches! *(determinant)''
+
+**Nathan:** Hey, bitch. You can get me expelled, but you can't escape. *(determinant)*
+
+**Nathan:** Holy shit, you really think Victoria is going to be your best friend forever? She will always hate you! *(determinant)*
+
+'''David's comments (Maze 3)**
+
+**David:** You can’t escape my surveillance, missy!
+
+**David:** You thought I was harassing Kate, but I was helping her! What the hell did you do for her?
+
+**David:** You’re such a hypocrite, Max. I may be a dick, but at least I’m honest. You just use your power to cheat at life... and cheat your friends out of life.
+
+**David:** Hey, Max. Pretty fucking ironic that I ended up being right about everything and you end up destroying the town.
+
+**David:** Come on, Max, just admit that you’re jealous of my service record. Admit it!
+
+**David:** Hey, Max, please come here. So I can beat you up!
+
+**David:''' Admit it, Max... you're a stoner! A pothead! A weed junkie! *(determinant)*
+
+**David:** My beautiful wife Joyce hates me because of you, Max... Are you proud? *(determinant)*
+
+'''Frank's comments (Maze 4)**
+
+**Frank:** Get your bony ass over here! I am gonna cut you open, freak!
+
+**Frank:** Those were my beans, Max... Those were my fucking beans!!!
+
+**Frank:** How can I get to Heaven when you keep putting me through Hell?
+
+**Frank:** If you took some of my drugs, maybe you’d be a lot happier.
+
+**Frank:** Now that Rachel’s dead... it’s time for you to die too, skank...
+
+**Frank:** Max, you need to get high like Rachel... Want some drugs?
+
+**Frank:''' Oh man, you shoulda heard Chloe smack-talk you. It was brutal. But, of course, I see what she's talking about, now...
+
+**Frank:** Pssst, Max! Me and Rachel are floating down here in the sewer... Come on down!
+
+**Frank:** I sure hope you don’t think we’re buddies now... *(determinant)*
+
+**Frank:** You are at the top of my shit list, now, Max. *(determinant)*
+
+'''Mr. Jefferson's comments (Maze 4)**
+
+**Mr. Jefferson:** Max... Max... I want to share my gift with you...
+
+**Mr. Jefferson:** Now that Chloe is dead, you won’t be distracted in class anymore...
+
+**Mr. Jefferson:** If only you could have seen Rachel... my blood spattered angel...
+
+**Mr. Jefferson:** You will be my greatest portrait, Max...
+
+**Mr. Jefferson:** Max... Max... I want to share my gift with you... Don’t you dare run away...
+
+**Mr. Jefferson:** Rachel, Rachel Amber... Just like her last name, I can finally see right through her skin... and feel that cold, rotting flesh...
+
+**Mr. Jefferson:** Max, Rachel not only gave great headshots... she gave great head. Especially after I dug her body up to be with her one final time. Why are you looking at me like that?
+
+**Mr. Jefferson:''' Max, come back in the Dark Room. I know you're dying for it.
+
+**Mr. Jefferson:** Since Kate isn’t around anymore, I need a volunteer for the Dark Room... Max? *(determinant)*
+
+'''Nathan's comments (Maze 4)**
+
+**Nathan:** Just because I’m mentally ill doesn’t mean I deserve to die, Max!
+
+**Nathan:** Nobody ever helped me, Max. Especially you...
+
+**Nathan:''' Hey, Max. Whatthefuckever are you going to do now that I'm dead?
+
+**Nathan:** Holy fucking shit, Max... That was hilarious when you guys dug up Rachel’s body! Ha, ha, ha! "Oh, oh no, no, no. Boo hoo. Oh, Rachel is worm food..." Comedy Gold. Genius!
+
+**Nathan:** It’s going to be so sweet when I bury your carcass next to Rachel and do an epic photo shoot...
+
+**Nathan:** Hey, Max, do you want to say hello to Rachel? She's posing for me in Hell!
+
+**Nathan:** Oh, man, Rachel looked just like a zombie model in the dirt... Just bone, meat and maggots. I would be all over that shit. You wanna take pictures?
+
+'''Max's comments about collecting bottles (Maze 4)**
+
+**First bottle:** Oh no... Bottles. This might be Hell.
+
+**Second bottle:''' Well, these ones aren't too hard to find.
+
+**Third bottle:** When did I get bad bottle karma?
+
+**Fourth bottle:** Is there one more left?
+
+**Fifth bottle:** Please let that be the last one...
+
+### '''-Chloe's House-'*
+
+*Max looks over at the plastic lighthouse next to her. The camera zooms out, and Max realizes she is stuck in the snow globe on Chloe's mantelpiece.*
+
+*'William and Chloe's Conversation**
+
+**William:''' Don't you dare question the chef.
+
+**Chloe:** Right, like you're the real cook here.
+
+**William:** I am when your mom is away.
+
+**Chloe:** I'll let her know that.
+
+*The phone rings and William answers.*
+
+'''William and Joyce's Conversation**
+
+**William:''' Hello? Hey, honey... just making a fabulous breakfast with Chloe and Max. We're all going to work at the Two Whales... What? Oh, I didn't know you had to get groceries. Of course I'll come pick you up. Now I have an excuse to get a mocha. Be there shortly. Love you...
+
+*William hangs up.*
+
+**William:** Excuse me, ladies, I have to go rescue yonder Queen at the Sav-Mart. She doth have many bags of delicious grub for us to feast upon.
+
+**Chloe:** You are ridiculous.
+
+**William:** You'll be grateful for that someday. Shit, where are my keys?
+
+*William searches around the room.*
+
+**Chloe:** That's a dollar for the swear jar!
+
+**William:** You mean your college fund...
+
+*There is a flash of light and a 13-year-old Max appears in front of the fireplace. She burns the polaroid that William took of Max and Chloe.*
+
+**William:** Keys, please... Shit, where are those keys?
+
+**Chloe:** Another dollar for the swear jar!
+
+**William:** You're bankrupting me!
+
+*William finds the keys under a hat on the coffee table.*
+
+**William:** A-ha! You can't hide from me forever!
+
+*There is another flash of light and the 13-year-old Max disappears.*
+
+**William:** Now lock up after I leave, play nice, try not to destroy too much of the house.
+
+**William (SMS):** Hey Max, would you say hi to Chloe and Joyce? Don't forget to remind them that you let me die.
+
+**William:** And no Chloe and Max wine-tasting session...
+
+**Chloe:** Dad!
+
+### **-Dark Room-**
+
+*Max looks around and realizes she is tied up in the Dark Room.*
+
+**Max:** *(thinking)* How long will this nightmare go on?
+
+'''Mr. Jefferson and Chloe's Conversation'*
+
+*Mr. Jefferson and Chloe appear. He begins to take photos of her.*
+
+**Mr. Jefferson:** I think you’d be perfect for my new photo series on retro-grunge... You have the same qualities that I loved in Rachel Amber... but not Max...
+
+**Chloe:** Max is a fucking child...
+
+**Mr. Jefferson:** Oh Christ, I know... and she never shuts up, does she?
+
+**Chloe:** I’m so over her hipster bullshit.
+
+**Mr. Jefferson:** I think everyone at Blackwell is over Max... Let’s prove it.
+
+*'Warren and Chloe's Conversation'*
+
+*Warren and Chloe appear.''
+
+(Max only kissed Chloe)(Max only kissed Chloe)
+**Chloe:** Booyah, Warren! I thought you were all over Max’s shit...
+
+**Warren:** She's not all that... so who cares if she doesn't kiss me?
+
+**Chloe:** You should have seen her make a move on me in my room... Hella lame.
+
+**Warren:** Max should see me make a move on you... Come here...
+
+*Chloe kisses Warren.*
+
+|-|(Max only kissed Warren)# (Max only kissed Warren)
+**Chloe:** Booyah, Warren! I thought you were all over Max’s shit...
+
+**Warren:** Not after she kissed me... her breath was ass and no tongue...
+
+**Chloe:** I hear that. I'm not into... nerds but you're pretty cute...
+
+**Warren:** I'm not into Max, anyway. So let's bust a move...
+
+*Chloe kisses Warren.*
+
+|-|(Max kissed neither)(Max kissed neither)
+**Chloe:** Booyah, Warren! I thought you were all over Max’s shit...
+
+**Warren:** She's sure the hell not into me at all... who cares?
+
+**Chloe:** I guess we're "not her type"... like Max has a fucking type?
+
+**Warren:** But she does... She's into Mr. Jefferson... Now come here...
+
+*Chloe kisses Warren.*
+
+|-|(Max kissed both)# (Max kissed both)
+**Chloe:** Holy shit, Warren! Max is trying to play us both!
+
+**Warren:** I guess she's not as innocent as she acts...
+
+**Chloe:** Not when she's trying to hook up with both of us...
+
+**Warren:** I only want to go ape with you, Chloe... Come here...
+
+*Chloe kisses Warren.*
+
+'''Nathan and Chloe's Conversation'*
+
+*Nathan and Chloe appear, sitting on the couch.*
+
+**Nathan:** Goddamn, you are a sexy bitch! Why hang out with Max, huh?
+
+**Chloe:** Boredom. Plus she’s like my personal puppet.
+
+**Nathan:** I hear that. Do you... want to party? I got a drugstore in my room.
+
+**Chloe:** Oh shit! Look at Max spying on us... Take a fucking picture, bitch! Or take a selfie!
+
+*'Chloe's Conversation with Max'*
+
+*Chloe stands on the couch in her underwear, dancing.*
+
+**Chloe:** See, this is how you bust a move, Max... No mosh pit for you, shaka brah!
+
+*'Victoria and Chloe's Conversation'*
+
+*Victoria and Chloe appear, sitting on the couch.''
+
+**Chloe:** Damn, Victoria... You're a real woman... not a little girl like Max...
+
+**Victoria:** I fucking love your tats, Chloe. You're so hot. I can’t believe it took us so long to hook up...
+
+*They begin to make out.*
+
+'''Alternate Chloe's Conversation with Max'*
+
+*Alternate Chloe appears in front of Max.*
+
+**Chloe:** Why did you get rewind powers? You don’t even know how to use them... Rachel’s dead and you’re still alive. Life is... so not fair.
+
+*'Chloe's Conversation with Max'*
+
+*Chloe appears in front of Max and takes photos of her.*
+
+**Chloe:** I wish you would have never come back to Arcadia Bay... You’re the real storm.
+
+### **-Two Whales Diner-**
+
+*Max stands in the bathroom of the Two Whales Diner. She looks at the keypad.*
+
+**Max:** *(thinking)'' I'll be so grateful if this is the last digicode...
+
+*Max enters 0311 into the keypad and opens the door.*
+
+**Courtney:** Don't kill us, Max.
+
+**Dana:** I guess I'll never dance again, Max...
+
+**Man:** Right when I was about to start a new life in California...
+
+**Other comments**
+
+(Chloe killed Frank)(Chloe killed Frank)
+**Frank:** So you kill me... and now all of my customers? What’s wrong with you, Max?
+
+|-|(Chloe wounded Frank)# (Chloe wounded Frank)
+**Frank:** Look, I know things were bad between us, but... that doesn’t mean I deserved to die.
+
+|-|(Chloe didn't harm Frank)(Chloe didn't harm Frank)
+
+**Frank:** Shit, Max… and I thought we were on the same team... Now, I’ll die alone.
+
+**Brooke:** Max, I hope you do the right thing. I hope...
+
+(Max kissed Warren)# (Max kissed Warren)
+**Warren:** I can’t believe I let you kiss me... Now you’re going to kill me...
+
+|-|(Max didn't kiss Warren)(Max didn't kiss Warren)
+**Warren:** I was happy just being your friend... Why do you want all your friends to die?
+
+**Juliet:** Max, please, save us.
+
+**Zachary:** Save the bigfoots, Max. Please.
+
+**Joyce:** Honey, I always thought of you like a daughter... and now you’re going to take me away from my family... Why would you do that?
+
+**David:** Max, you’re exactly the kind of soldier I’d want by my side in a war.
+
+**Man:** Son of a bitch, this is going to hurt...
+
+**Logan:** So this is how Max gets her revenge on?
+
+(Max saved the Fisherman)# (Max saved the Fisherman)
+**Fisherman:** Max, you saved my life, gave me the chance to catch one more fish...
+
+|-|(Max didn't save the Fisherman)(Max didn't save the Fisherman)
+**Fisherman:** Like I told you before... old fishermen never die... well, until now.
+
+(Max warned the Homeless Lady)# (Max warned the Homeless Lady)
+**Homeless Lady:** Thanks for that warning, Max... You treated me like a human, not like trash... I sure hope you do that for everybody in town...
+
+|-|(Max didn't warn the Homeless Lady)(Max didn't warn the Homeless Lady)
+**Homeless Lady:** I’ve already lived forever... maybe you can help others live too...
+
+**Justin:** Killing me is soooo not cool.
+
+**Trevor:** Wow Max, right when I finally find a cool chick to date...you have to kill us off. This sucks.
+
+(Max saved the Trucker)# (Max saved the Trucker)
+**Trucker:** Breaker, Breaker... Thanks for saving me and carrying the load, good buddy. That’s a big 10-4.
+
+|-|(Max didn't save the Trucker)(Max didn't save the Trucker)
+**Trucker:** It’s okay if I’m gone... I’ve paid my dues... Time to pay yours.
+
+**Woman:** This is not how I wanted to spend my last hour on Earth...
+
+**Man:** Max, can you call my mother in Portland and tell her that I love her?
+
+**Principal Wells:** I know I haven't been the best principal to you... but you've been a great "Everyday Hero" for us.
+
+**Courtney:** Please, save us.
+
+**Woman:** I guess my husband and new baby will have to go without me...
+
+**Man:** Max, I hope you can live with yourself after this.
+
+**Samuel:** Don't let the squirrels die.
+
+**Victoria:** I wish we had been friends, Max. But please... don’t let me die like this... I’m still a teenager...
+
+**Nathan:** Max, I'm... truly... I truly am sorry for being such a bastard. You would have been cool to hang out with. I just don’t want everybody else to suffer like me.
+
+(Max saved Alyssa in every episode)# (Max saved Alyssa in every episode)
+**Alyssa:** You’ve always had my back and now you’re going to let me die? Thanks Max.
+
+|-|(Max saved Alyssa's life)(Max saved Alyssa's life)
+**Alyssa:** I thought you were one of the few people I could trust at Blackwell. I thought...
+
+|-|(Max didn't save Alyssa's life)# (Max didn't save Alyssa's life)
+**Alyssa:** Even if I’m dead, how can you let all these other people get wiped out? They don’t deserve that...
+
+(Max saved Evan)(Max saved Evan)
+**Evan:** Oh Max, what exactly was the point of saving me if you're only going to let me die?
+
+|-|(Max didn't save Evan)# (Max didn't save Evan)
+**Evan:** Uh, let me get this straight: you didn't bother to save me or the Bay? How pathetic, child.
+
+**Kate:** Please, Max. Don't kill me, so we can finally have our tea session.
+
+**Daniel:** Max, I want you to know how much confidence you gave me... Nobody ever did that for me.
+
+**Stella:** I survived poverty and an abusive family... just so I can end up here to die...
+
+###  **Conversation with Alternate Max** # 
+
+*Max walks over to an alternate version of herself.*
+
+**Max:** Who... Who are you?
+
+**Alternate Max:** Holy shit, are you cereal? I'm you, dumbass. Or I'm one of many Maxes you've left behind...
+
+**Max:** Can you get me out of here?
+
+**Alternate Max:** Oh, so you want help? Thought you could control everybody and everything, huh? Twist time around your fingers?
+
+Wasn't my choice...Wasn't my choice...
+**Max:** It wasn't my choice. I didn't ask to rewind time!
+
+{{#tag:tabber|(David killed Mr. Jefferson)# (David killed Mr. Jefferson)
+
+**Alternate Max:** Stop playing innocent. You've left a trail of death behind you. You even let that stalker Madsen kill Jefferson... That's sick! You're way more of a cold-blooded killer than him or Nathan.
+
+{{#tag:tabber|Self-defense.Self-defense.
+**Max:** Bullshit! That was self-defense! I never set out to kill anybody.
+
+**Alternate Max:** That doesn't make you any less of a murderer.
+
+{{!}}-{{!}}I'm a survivor.# I'm a survivor.
+**Max:** No. I'm a survivor. I don't have any experience in time travel or stopping psychopaths like Jefferson... I did what I had to.
+
+**Alternate Max:** Oh, the jury will love to hear about your mad time travel skills.
+
+}}
+
+**Max:** I know what I am... You're just trying to hurt me.
+
+**Alternate Max:** You're a goddamn hypocrite. Just look at the pain you've caused...
+
+{{!}}-{{!}}(David didn't kill Mr. Jefferson)(David didn't kill Mr. Jefferson)
+
+**Alternate Max:** No, but you were happy to use it to get people to like you. As if you cared about them.
+
+{{#tag:tabber|I do care.# I do care.
+**Max:** I do care! That's why I was trying to make friends...
+
+**Alternate Max:** By telling people what they want to hear? You were just looking for a shortcut, because you can't make friends on your own.
+
+**Max:** That's not true. I have great friends. And I've used my powers for good.
+
+{{!}}-{{!}}That's true.That's true.
+**Max:** That's true... I wasted my power on trying to be friends with everybody.
+
+**Alternate Max:** About time you admitted that. But it's way too late after everything you've done...
+
+**Max:** But... I still have great friends. And my power helped some.
+
+}}
+
+**Alternate Max:** Please, stop playing innocent. You're a goddamn hypocrite. You've left a trail of death and suffering behind you.
+
+}}
+
+|-|I tried to help...# I tried to help...
+**Max:** I tried to help... I only wanted to do the right thing.
+
+**Alternate Max:** No, you only wanted to be popular. And once you got these amazing powers, your big plan was to trick people into thinking you give a rat's ass.
+
+{{#tag:tabber|I do care.I do care.
+**Max:** I do care! That's why I was trying to make friends...
+
+**Alternate Max:** By telling people what they want to hear? You were just looking for a shortcut, because you can't make friends on your own.
+
+**Max:** That's not true. I have great friends. And I've used my powers for good.
+
+{{!}}-{{!}}That's true.# That's true.
+**Max:** That's true... I wasted my power on trying to be friends with everybody.
+
+**Alternate Max:** About time you admitted that. But it's way too late after everything you've done...
+
+**Max:** But... I still have great friends. And my power helped some.
+
+}}
+
+**Alternate Max:** Please, stop playing innocent. You're a goddamn hypocrite. You've left a trail of death and suffering behind you.
+
+**Max:** That was not my fault, you son of a bitch...
+
+**Alternate Max:** Don't you dare talk about our mom that way... ha!
+
+(Chloe killed Frank)(Chloe killed Frank)
+**Alternate Max:** And what about Frank? That bullet in him wasn't your fault?
+
+|-|(Chloe didn't kill Frank)# (Chloe didn't kill Frank)
+**Alternate Max:** What about the crap that was your fault?
+
+**Alternate Max:** Wait, wait, let me guess... You fucked up time and space for your precious punk Chloe. You think she's worth all that?
+
+We all are.We all are.
+**Max:** We all are. This isn't about Chloe... or even me anymore.
+
+**Alternate Max:** Gosh, you're so selfless now, Mahatma Max. It's too bad you pissed your power away on high school drama.
+
+|-|My best friend.# My best friend.
+**Max:** Of course. She's my best friend.
+
+**Alternate Max:** Oh yeah, you ignored your "best friend" for five years while she went through hell... Some friend.
+
+|-|Destiny.Destiny.
+**Max:** This has to be my destiny to save her... I wouldn't be trapped in here if I didn't believe that...
+
+{{#tag:tabber|(Stole money from the fund)# (Stole money from the fund)
+**Alternate Max:** No kidding. Chloe trapped you with her drama. Guns, drugs, Rachel... Even stealing money from the handicapped fund. She's just using you, dude.
+
+{{!}}-{{!}}(Didn't steal money from the fund)(Didn't steal money from the fund)
+**Alternate Max:** No kidding. Chloe trapped you with her drama... guns, drugs, Rachel... She's just using you, dude.
+
+}}
+
+**Alternate Max:** Like, she even asked you to end her life and do what she couldn't do by herself.
+
+**Max:** Chloe does a better job of guilt-tripping me than you do.
+
+**Alternate Max:** Because you let her bully you. It's called "Stockholm Syndrome." But you didn't do that homework... so you'll have to learn the hard way. Like Rachel...
+
+**Max:** Just shut up. You're not scaring me anymore.
+
+**Alternate Max:** I'd be more worried about Chloe killing us than Jefferson...
+
+(Max kissed Chloe)# (Max kissed Chloe)
+**Alternate Max:** Max, do you really think she has any feelings for us? You're just another puppet...
+
+|-|(Max didn't kiss Chloe)(Max didn't kiss Chloe)
+**Alternate Max:** Max, do you really think she's our friend? That she respects us in any way?
+
+**Alternate Max:** Man, you are so stupid. I'm embarrassed to have the same name... And someday Chloe will destroy—
+
+*Chloe enters the diner.*
+
+**Alternate Max:** Oh hell, speak of the devil...
+
+*Chloe sits down in the booth and Alternate Max examines her camera.*
+
+**Chloe:** Dude, do not even fuck with her head! She knows what we went through together this week and you don't! There's no way you can break up our team! This is reality!
+
+*Alternate Max stops moving and the camera zooms out.*
+
+### **-Course of events-**
+
+*Max relives the events of the past few days.*
+
+'''Chloe's Truck**
+
+**Chloe:''' After five years you're still Max Caulfield.
+
+**Max:** I am seriously glad to see you.
+
+**Chloe:** Welcome home, Max. Fasten your seatbelt.
+
+'''William's Camera**
+
+**Chloe:''' I, uh... know it was your birthday last month... This was my real father's camera... I want you to have it.
+
+**Max:** Yes, of course it's cool! Thank you... This camera is so sweet.
+
+**Chloe:** Now that we got the mushy shit out of the way, I feel like stage diving! Let's thrash this place! Yep, yep! I'm fucking insane in the brain! Let's dance! Shake that bony white ass! Or take my picture with your new camera!
+
+**Hiding from David**
+
+**Chloe:** This song fucking rules! Can't dance, hippie? Come on! Rawk out, girl! Yo, turn it off, turn it off! You need to hide. Now! My stepdad will kill me if he finds you here!
+
+**The Cliff**
+
+**Chloe:** You were here today, Max. You saved me! I'm still tripping on that... Seeing you after all these years feels like—
+
+**Max:** Destiny?
+
+**Chloe:** If this is destiny, I hope we can find Rachel. I miss her, Max. What the hell is this?
+
+**Max:** Snowflakes... Or a storm is coming.
+
+**Chloe:** Max, start from the beginning. Tell me everything...
+
+**The Two Whales Diner**
+
+**Chloe:** Let's talk about your superpower... Epic! I pledge allegiance to Max and the power for which she stands... You can rewind time, Max. That's fucking insane. We have to play! You need a sidekick to guide you.
+
+**Max:** Okay, Girl Wonder... Show me the way to Chloe's Cave.
+
+**The Junkyard**
+
+**Chloe:** Welcome to American Rust, my home away from Hell.
+
+**Max:** Raw and rough. It suits you...
+
+**Chloe:** Max, do you know how awesome this is? I get my best friend back and she's also supersized?
+
+**Max:** I... don't... feel so super...
+
+**Chloe:** Max, here let me help you find a place to chill... You freaked me out there. Do you feel any better now?
+
+**Walking on the Railroad Tracks**
+
+**Chloe:** You saved me again. Crazy. Now we're totally bonded for life! Since you're the mysterious superhero... I'll be your faithful chauffeur and companion.
+
+**Max:** My powers might not last, Chloe.
+
+**Chloe:** That's okay—we will. Forever.
+
+'''Busting into the Principal's Office**
+
+**Max:''' I'm so glad you're my partner in crime.
+
+**Chloe:** As long as you're my partner in time. I might get on the other side of that door before you, Lupin.
+
+**Max:** The race is on. See you soon. Welcome to my domain.
+
+**Chloe:** You are magic. I have no clue how the hell you got in there, but you did it, sista.
+
+'''Looking Through the Principal's Files**
+
+**Chloe:** Max, you better come check out these files...
+
+**Max:''' It's not a drawing... look, "Rachel in the dark room... Rachel in the dark room..." Over and over. That's it. No, you are not taking the cozy chair.
+
+**Chloe:** Max, do your powers include mind-reading? Or did you just rewind because I tried to steal the chair? Shit, I'm confused.
+
+**Max:** It's the powers of best friendship. I know how you roll...
+
+**Swimming in the Blackwell Pool**
+
+**Max:** Cowabunga!
+
+**Chloe:** Why, look! An otter in my water! Your power is changing everything, Max. Especially you. I can already tell. You're not so chickenshit anymore.
+
+**Max:** Thanks, girlfriend.
+
+**Chloe:** And you make me feel like I have a reason for still being in Arcadia Bay.
+
+**Fleeing Blackwell Security**
+
+**Max:** Let's call it a draw. I'm gonna freeze my ass off when I get out...
+
+**Chloe:** You look cute with your hair soaked in chemicals.
+
+**Max and Chloe:** *[to each other]* Hide!
+
+**Chloe:** You can't go back to your dorm now, you're a Blackwell fugitive! Crash at my place tonight.
+
+'''Waking Up in Chloe's Room**
+
+**Chloe:** Photobomb!
+
+**Max:** Photo-hog! It feels like a different world from yesterday...
+
+**Chloe:** We left a skid mark on Blackwell last night.
+
+**Max:** Wish we could just hang out all morning like we used to... Maybe we should get up, I have to get back to Blackwell soon.
+
+**Chloe's Dare**
+
+**Chloe:** I double dare you. Kiss me now.
+
+(Max kissed Chloe)# (Max kissed Chloe)
+**Chloe:''' Damn, you're hardcore, Max! Now I can text Warren and tell him he doesn't stand a chance... unless he's into girl-on-girl action.
+
+|-|(Max didn't kiss Chloe)(Max didn't kiss Chloe)
+**Max:** Sorry, not that easy.
+
+**Chloe:** Oh, like I am? Just admit that you already macked on me then used your rewind! Now I can text Warren that you're saving yourself all for him...
+
+**Max:** You are such a dork.
+
+'''Frank's RV**
+
+**Chloe:''' Oh, we could totally cruise everywhere in this bad boy! Can you see us heading down the coast to Big Sur or beyond? I know. Just daydreaming. It makes me ill that Rachel posed like this for Frank... or wrote him love letters... I can't believe she was banging Frank! Rachel straight up lied to my face! Why didn't she say anything?
+
+**Max:** Because she knew how you would react.
+
+**Chloe:** Then she wasn't much of a friend, huh? Just another person who shits all over me. Why does everybody in my life let me down? My dad gets killed, you bail on me for years, my mother gloms onto step-fucker... now Rachel betrays me...
+
+**Saving William**
+
+**Chloe:** Not until I see it first! You know the rules, Dad! Dude, I am so lucky that my father is cool... Max, you are being so fucking strange. You feel okay?
+
+**Max:** Chloe, I am... awesome. We are awesome!
+
+**The Beach with Alternate Chloe**
+
+**Alternate Chloe:** It’s weird hanging out with you again.
+
+**Max:** I know... I’m glad we are, though.
+
+**Alternate Chloe:** Look, the worst thing you can do is treat me like a baby. I still want to laugh and talk shit with my best friend. Can we stop? This is seriously the best view of the sunset. What do photographers call that?
+
+**Max:** "The golden hour."
+
+'''Alternate Chloe's Room**
+
+**Alternate Chloe:** Whoa, awesome picture. We look so badass in our pirate gear.
+
+**Max:** We should have taken over Arcadia Bay when we had the chance.
+
+**Alternate Chloe:''' Listen, Max, my respiratory system is failing and... and it's only getting worse. I've heard the doctors talking about it when they thought I was zonked out. So I know I'm just putting off the inevitable, while my parents suffer along... and I will, too. This isn't how I want things to end.
+
+**Max:** What? What are you saying?
+
+**Alternate Chloe:** I'm saying that being with you again has been so special. I just wanted to feel like when we were kids running around Arcadia Bay... and everything was possible. And you made me feel that way today. I want this time with you to be my last memory... Do you understand?
+
+**Working on the Detective Board**
+
+**Max:** Chloe... you're back. I'm just... I'm just—I'm so glad you're here!
+
+**Chloe:** You sound high, but thanks for the morning grope. Since we were up all night playing "CSI: Arcadia Bay," I was still spaced out here, trying to put all this info together.
+
+**The Dark Room**
+
+**Max:** Kate wasn't the first... All those binders are filled with other victims. Victoria has to be next. Nathan must be planning to dose her tonight at the Vortex Club party.
+
+**Chloe:** Rachel... This can't be real... These are all—these are all posed shots, right? Right? The junkyard! Max, we have to find that spot, now! Then we can see what he did... There's no way she's dead. No way! She posed for those pictures, Max. I know it, please... let's go.
+
+'''Finding Rachel's Body**
+
+**Chloe:'* *(sobbing)* Rachel... Oh, Rachel... No... no... Please, not her...
+
+**Max:** Chloe...
+
+**Chloe:** Rachel... why?
+
+**Max:** *(sobbing)'' I’m sorry, Chloe. I’m so sorry...
+
+**Chloe:** I loved her so much... How can she be dead? What kind of world does this? Who does this?!
+
+**Reaching the Lighthouse**
+
+**Chloe:** Come on Max, we’re almost there! Please wake up! Max, can you hear me? Hang on, Max, we can make it! Listen to me! Max! We’re near the lighthouse! Wake up! Dammit, Max, don't let me down!
+
+*Max fights her way through the storm and catches up to reality.*
+
+**Chloe:** Max, come on now! Don't worry... we'll be okay.
+
+##  **Cliff** 
+
+*Chloe and Max fall to the ground. The lighthouse is behind them.*
+
+**Chloe:** Max? Max, can you hear me? Please, say something.
+
+**Max:** Chloe? I... I must have passed out... Sorry.
+
+**Chloe:** Oh, thank God... Don't you ever do that again, okay?
+
+**Max:** I swear... but that nightmare was so real... was so horrible...
+
+''Chloe takes Max's arm and they stand up. Max watches the tornado, horrified.''
+
+**Max:** This is my storm. I caused this... I caused all of this. I changed fate and destiny so much that... I actually did alter the course of everything. And all I really created was just death and destruction!
+
+**Chloe:** Fuck all of that, okay? You were given a power. You didn't ask for it... and you saved me. Which had to happen, all of this did... except for what happened to Rachel. But without your power, we wouldn't have found her! Okay, so you're not the goddamn Time Master, but you're Maxine Caulfield... and you're amazing. Max, this is the only way.
+
+*Chloe hands Max the photo she took of the blue butterfly.*
+
+**Max:** I feel like I took this shot a thousand years ago.
+
+**Chloe:** You... You could use that photo to change everything right back to when you took that picture... All that would take is for me to... to... *[Chloe holds her face in her hands]*
+
+**Max:** Fuck that! No... no way! You are my number one priority now. You are all that matters to me.
+
+**Chloe:** I know. You proved that over and over again... even though I don't deserve it. I'm so selfish... not like my mom... Look what she had to give up and live through... and she did. She deserves so much more than to be killed by a storm in a fucking diner. Even my step... father deserves her alive. There's so many more people in Arcadia Bay who should live... way more than me...
+
+**Max:** Don't say that... I won't trade you.
+
+**Chloe:** You're not trading me. Maybe you've just been delaying my real destiny... Look at how many times I've almost died or actually died around you. Look at what's happened in Arcadia Bay ever since you first saved me. I know I've been selfish, but for once I think I should accept my fate... our fate...
+
+**Max:** Chloe...
+
+**Chloe:** Max, you finally came back to me this week, and... you did nothing but show me your love and friendship. You made me smile and laugh, like I haven't done in years. Wherever I end up after this... in whatever reality... all those moments between us were real, and they'll always be ours. No matter what you choose, I know you'll make the right decision.
+
+**Max:** Chloe... I can't make this choice...
+
+''Chloe grabs Max's arms.''
+
+**Chloe:** No, Max... You're the only one who can.
+
+SACRIFICE CHLOE# SACRIFICE CHLOE
+
+**Chloe:** Max... it's time...
+
+**Max:** Chloe... I'm so, so sorry... I... I don't want to do this.
+
+*Chloe hugs Max tightly.*
+
+**Chloe:** I know, Max. But we have to. We have to save everybody, okay? And you'll make those fuckers pay for what they did to Rachel. Being together this week... it was the best farewell gift I could have hoped for. You're my hero, Max.
+
+{{#tag:tabber|(High romance score)(High romance score)
+*They share a passionate kiss.*
+
+{{!}}-{{!}}(Low romance score)# (Low romance score)
+**Max:** Oh, Chloe... I'm gonna miss you so much.
+
+*They share a long hug.*
+
+}}
+
+**Chloe:** I'll always love you... Now, get out of here, please! Do it before I freak. And Max Caulfield? Don't you forget about me...
+
+**Max:** Never.
+
+*Max focuses on the photo and travels back in time. She takes the freshly printed photo from her camera and tosses it to the floor. She looks around the stall and waits for the bathroom door to open.*
+
+**Nathan:** *[talking to himself in the mirror]* It's cool, Nathan... Don't stress, you're okay, bro, just... count to three. Don't be scared. You own this school... If I wanted, I could blow it up. You're the boss.
+
+*The blue butterfly lands on the edge of the sink near Nathan. Chloe enters the bathroom.*
+
+**Nathan:** So what do you want?
+
+**Chloe:** I hope you checked the perimeter, as my step-ass would say. *[She opens the stall doors]* Now, let's talk bidness.
+
+**Nathan:** I got nothing for you.
+
+**Chloe:** Wrong. You got hella cash.
+
+*Max sinks to the floor.*
+
+**Nathan:** You don't know who the fuck I am or who you're messing around with!
+
+**Chloe:** Where'd you get that? What are you doing? Come on, put that thing down!
+
+**Nathan:** Don't EVER tell me what to do. I'm so SICK of people trying to control me!
+
+**Chloe:** You are going to get in hella more trouble for this than drugs.
+
+**Nathan:** Nobody would ever even miss your punk ass, would they?
+
+**Chloe:** Get that gun away from me, psycho!
+
+*Nathan accidentally pulls the trigger. Max lowers her head and her tears fall to the floor. Nathan, distressed, shakes Chloe repeatedly. The song [Spanish Sahara](spanish_sahara.md) begins to play.*
+
+''A timestream montage shows Chloe hovering over Nathan in the bathroom replaced by David handcuffing him, Nathan beating up Warren in the parking lot replaced by Nathan being interrogated by a police officer, Max taking a photo of Chloe dancing replaced by Max and some other students watching Mr. Jefferson be arrested, Chloe and Max walking on the train tracks replaced by Max holding Joyce's hands, Chloe splashing Max in the Blackwell pool replaced by Max hugging a teddy bear in her dorm room, Chloe and Max taking a selfie in Chloe's room replaced by Joyce giving Max a box of Chloe's things at the Two Whales Diner, Max hugging Chloe after returning from the alternate timeline replaced by Max looking at her polaroids, and Chloe and Max on the cliff during the tornado replaced by Max wearing a black dress and looking at the sunset.*
+
+*Joyce, David, Principal Wells, Max, and some other Blackwell Academy students walk into the Arcadia Bay Cemetery and gather around Chloe's coffin. Frank and Pompidou also watch the funeral service from a distance. The blue butterfly lands on the coffin and Max smiles.''
+
+|-|SACRIFICE ARCADIA BAYSACRIFICE ARCADIA BAY
+
+**Chloe:** Max... it's time...
+
+*The song [Obstacles](obstacles.md) begins to play.*
+
+**Max:** Not anymore.
+
+*Max tears apart the polaroid and it blows away in the storm. She watches the tornado.*
+
+**Chloe:** Max... I'll always be with you.
+
+**Max:** Forever...
+
+''Chloe holds Max's hand and they watch as the tornado hits Arcadia Bay. Max shakes her head and Chloe wraps her arm around Max.*
+
+*A series of aerial shots show the wreckage. Chloe's truck comes into view as she drives down the street. Max looks out the window, upset; Chloe looks over at Max and stops the truck, squeezing her shoulder reassuringly, and Max smiles. The two girls drive out of town, passing the "Another Great Day in Arcadia Bay" sign.''
+
+**END OF EPISODE 5: POLARIZED**
+
+{{Navlinks|prev=Episode 4: Dark Room - Script}}
+

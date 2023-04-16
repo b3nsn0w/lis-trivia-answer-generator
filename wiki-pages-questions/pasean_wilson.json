@@ -1,0 +1,52 @@
+[
+  {
+    "question": "In which video game did PaSean Wilson voice Professor Michelle Grant?",
+    "answer": "A",
+    "choices": {
+      "A": "Life is Strange",
+      "B": "The Last of Us",
+      "C": "Assassin's Creed",
+      "D": "Grand Theft Auto"
+    }
+  },
+  {
+    "question": "What is the name of the character PaSean Wilson voiced in Life is Strange?",
+    "answer": "D",
+    "choices": {
+      "A": "Max Caulfield",
+      "B": "Chloe Price",
+      "C": "Rachel Amber",
+      "D": "Michelle Grant"
+    }
+  },
+  {
+    "question": "Where was PaSean Wilson born?",
+    "answer": "B",
+    "choices": {
+      "A": "Los Angeles, California",
+      "B": "Brooklyn, New York",
+      "C": "Miami, Florida",
+      "D": "Houston, Texas"
+    }
+  },
+  {
+    "question": "Which of the following is true about PaSean Wilson?",
+    "answer": "C",
+    "choices": {
+      "A": "She is a video game developer",
+      "B": "She is a professional athlete",
+      "C": "She is a voice actress",
+      "D": "She is a politician"
+    }
+  },
+  {
+    "question": "Which of the following characters did PaSean Wilson NOT voice in Life is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Max Caulfield",
+      "B": "Chloe Price",
+      "C": "Rachel Amber",
+      "D": "Michelle Grant"
+    }
+  }
+]

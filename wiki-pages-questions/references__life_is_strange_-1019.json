@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who is Rachel Amber likely based on?",
+    "answer": "A",
+    "choices": {
+      "A": "Laura Palmer",
+      "B": "Audrey Horne",
+      "C": "Donna Hayward",
+      "D": "Shelly Johnson"
+    }
+  },
+  {
+    "question": "Which police officer in Life is Strange is similar to Dale Cooper from Twin Peaks?",
+    "answer": "A",
+    "choices": {
+      "A": "Officer Anderson Berry",
+      "B": "Officer Frank",
+      "C": "Officer Corn",
+      "D": "Officer Dick"
+    }
+  },
+  {
+    "question": "What is the possible inspiration for the beginning of \"Chrysalis\" in Life is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "The beginning of The Walking Dead",
+      "B": "The beginning of Donnie Darko",
+      "C": "The beginning of Stranger Things",
+      "D": "The beginning of The X-Files"
+    }
+  },
+  {
+    "question": "What is framed on one of the walls in the Dark Room in Life is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "A signed Ero guro illustration",
+      "B": "A photograph of Rachel Amber",
+      "C": "A painting of a lighthouse",
+      "D": "A poster for the Everyday Heroes Photo Contest"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+Here is a section of the wiki page for Memorable Quotes (Season 1):
+
+## [Nathan Prescott](nathan_prescott.md) 
+{{Quote|It's cool, Nathan... Don't stress... You're okay, bro. Just count to three... Don't be scared... You own this school... If I wanted, I could blow it up... You're the boss...|Nathan in "[Episode 1: Chrysalis](chrysalis.md)"}}
+{{Quote|You don't know who the fuck I am or who you're messing around with!" - "Where'd you get that? What are you doing? Come on, put that thing down!" - "Don't EVER tell me what to do. I'm so SICK of people trying to control me!|Nathan and Chloe in "Chrysalis"}}
+{{Quote|Nobody... nobody lectures me. Everybody tries though... They try...|Nathan in "Chrysalis"}}
+{{Quote|Do not analyze me! I pay people for that. Worry about yourself, Max Caulfield.|Nathan in "Chrysalis"}}
+{{Quote|Nobody tells me what to do. Not my parents, not the Principal, or that whore in the bathroom!|Nathan in "Chrysalis"}}
+{{Quote|Here comes the mysterious Max. Disguised as a pixie hipster.|Nathan in "[Episode 2: Out of Time](out_of_time.md)" (determinant)}}
+{{Quote|Meow. Bring out the claws. I love seeing chicks fight.|Nathan in "Out of Time"}}
+{{Quote|Hey, that's total slander! I could sue you and this school so fast!... I already have a personal lawyer.|Nathan after Max blames him in "Out of Time"}}
+{{Quote|You don't know shit about my father, or me. Nobody here does!" - "Then tell me what I should know." - "Why? So you can pretend to care, hm? Spoiler alert, he's an asshole.|Nathan and Max in "[Episode 3: Chaos Theory](chaos_theory.md)"}}
+{{Quote|Bullshit. My dad doesn't hire, he owns. And these pigs know better than to narc on me.|Nathan in "Chaos Theory"}}
+{{Quote|Pussies cant fukin fite|Nathan's SMS to Max in "[Episode 4: Dark Room](dark_room.md)"}}
+{{Quote|Plus, my dad is on his way! You're all fucked! He owns you!|Nathan in "Dark Room" (determinant)}}
+{{Quote|Everybody hates me... everybody...|Nathan in "Dark Room" (determinant)}}
+{{Quote|Max... it's Nathan. I just wanted to say... I'm sorry. I didn't want to hurt Kate, or Rachel, or... I didn't want to hurt anybody. Everybody... used me! Mr. Jefferson is coming for me now. All this shit will be over soon. Watch out, Max... He wants to hurt you next. Sorry.|Nathan's voicemail in "[Episode 5: Polarized](polarized.md)"}}
+{{Quote|Just because I’m mentally ill doesn’t mean I deserve to die, Max!|Nathan in [Max's Nightmare](max_s_nightmare.md) in "Polarized"}}
+{{Quote|Nobody ever helped me, Max. Especially you...|Nathan in Max's Nightmare in "Polarized"}}
+{{Quote|Max, I'm... truly... I truly am sorry for being such a bastard. You would have been cool to hang out with. I just don’t want everybody else to suffer like me.|Nathan in Max's Nightmare in "Polarized"}}
+
+
+
+Generate five trivia questions relevant to this section of the page.

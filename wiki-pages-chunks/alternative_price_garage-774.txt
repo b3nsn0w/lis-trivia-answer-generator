@@ -1,0 +1,31 @@
+Here is a section of the wiki page for Alternative Price Garage:
+
+#  Alternative Price Garage 
+
+```yaml
+Location
+
+image: altpricegarage-main.png
+type: Garage
+location: '[Alternative Price Household'
+Price Household](alternative_price_household__price_household.md), [Arcadia Bay](arcadia_bay.md): ''
+appears: '[Episode 4: Dark Room](episode_4__dark_room.md)'
+```
+
+> This is a pretty high-tech lair." - "Feels like a high-tech cell. But I am lucky my parents bust their ass to take care of me. I know it's hard for them...
+
+**Max and Alternative Chloe in "[Episode 4: Dark Room**, Dark Room](episode_4__dark_room____dark_room.md)"
+
+The **Alternative Price Garage** is the [Alternative Timeline](alternative_timeline.md) version of [David Madsen](david_madsen.md)'s [David's Garage](garage.md) in *[Life is Strange](life_is_strange.md)*. It is an explorable location in [Episode 4: Dark Room](episode_4__dark_room.md).
+
+## Appearance 
+In the alternative timeline, the garage has been replaced by a high-tech medical room for [Chloe Price](chloe_price.md). Her bed stands in the middle, facing the doorway. Near it, a cabinet is present, with tissue boxes and medicine on top. Various medical equipment stands around the room. In one corner of the room, there is a [Chloe's Computer#Alternative Timeline](desktop_computer.md) with a mouth-controlled joystick. The HDTV has been moved from from the living room to the garage. Below it, a cabinet with a DVD player can be seen. On the top of the cabinet, there are several fluffy animals and snow domes. Chloe's parents also added a downstairs bathroom for their daughter. An additional window has been added in order to give Chloe a good view of the outside world.
+
+## Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+After spending some time together on the [Alternative Beach](beach.md), [Maxine Caulfield](max_caulfield.md) and Chloe return to [Alternative Price Household](chloe_s_house.md) and enter her room in the garage. They talk about how the accident has influenced Chloe and her family. Then Chloe asks Max to bring her some water. Max can also wipe sandy tears from Chloe's face, after which Chloe will thank Max and quote a Chinese proverb."A spark can start a fire that burns the entire prairie." Chloe remarks that this is the most she has talked that year. She then suggests watching *Blade Runner* together. Max puts the DVD into the player and the girls fall asleep while watching the movie.
+
+The following morning, they have a short conversation about last night's events. Chloe gets head pains and asks Max to bring her the morphine injector from the upstairs bedroom. Sometime later, Max returns with the morphine and inserts it into the drip. Chloe asks Max to bring her a photo album from a cabinet nearby. Looking through the photos together with Chloe, Max notices the same photo that she used to travel to 2008 and save William. Moments later, Chloe tells Max about her worsening condition and asks Max to end her life. Max can accept or refuse the request. Regardless of the choice, Max then focuses on the photo from 2008 and lets events unfold as originally planned (William dying in a car accident), and returns to the [Timeline](original_timeline.md).
+
+
+
+Generate five trivia questions relevant to this section of the page.

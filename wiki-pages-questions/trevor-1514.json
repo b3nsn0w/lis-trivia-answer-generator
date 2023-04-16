@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Trevor's Relationship Status?",
+    "answer": "C",
+    "choices": {
+      "A": "Single",
+      "B": "Married",
+      "C": "In A Relationship With Dana Ward",
+      "D": "In A Relationship With Max Caulfield"
+    }
+  },
+  {
+    "question": "What Is Trevor's Hobby?",
+    "answer": "A",
+    "choices": {
+      "A": "Skateboarding",
+      "B": "Painting",
+      "C": "Playing Video Games",
+      "D": "Reading Books"
+    }
+  },
+  {
+    "question": "What Is Trevor's Surname According To DONTNOD's Original Files?",
+    "answer": "A",
+    "choices": {
+      "A": "Johnson",
+      "B": "Smith",
+      "C": "Brown",
+      "D": "Davis"
+    }
+  },
+  {
+    "question": "What Is Trevor's Reaction When Max Takes A Photo Of Him After He Falls?",
+    "answer": "B",
+    "choices": {
+      "A": "He Gets Angry",
+      "B": "He Laughs It Off",
+      "C": "He Ignores It",
+      "D": "He Cries"
+    }
+  },
+  {
+    "question": "What Is Trevor's Role In The \"End Of The World Party\"?",
+    "answer": "C",
+    "choices": {
+      "A": "He Is The DJ",
+      "B": "He Is The Host",
+      "C": "He Is Dancing With Dana",
+      "D": "He Is Serving Drinks"
+    }
+  }
+]

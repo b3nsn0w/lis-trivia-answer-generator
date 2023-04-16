@@ -1,0 +1,114 @@
+Here is a section of the wiki page for Episode 2: Out of Time - Script:
+
+It's over. Just another Blackwell mini-drama...
+
+**Zachary:** You mean stupid shit. Man, I just don't get Victoria. What does she want?
+
+**Max:** Probably for all of us to talk about her. Like now...
+
+**Zachary:** Then let's not. You're pretty smart, Max. See you at the game Friday.
+
+|-|I won't.# I won't.**Max:** I won't. That's what Victoria wanted.
+
+**Zachary:** Yeah. I notice she kinda set up her own drama. Even if it fucks her over. Weird.
+
+**Max:** She doesn't have to, though.
+
+**Zachary:** That's what I don't get at all. She's hot, rich, and talented... What more does she need? Anyway, see you at the game Friday, Max.
+
+*If Max tries to talk to Zachary again*
+
+**Zachary:** Hey bro, later.
+
+**Conversation with David**
+
+Talked to DavidTalked to David**Max:** Excuse me, Mr. Madsen?
+
+|-|Tried to go through the doors# Tried to go through the doors**David:** Max, can we talk?
+
+Stayed hidden/Blamed ChloeStayed hidden/Blamed Chloe**David:** Do you mind if we talk about what happened yesterday with Chloe?
+
+{{#tag:tabber|You hit Chloe.# You hit Chloe.**Max:** You hit Chloe.
+
+{{!}}-{{!}}I don't think so.I don't think so.**Max:** I don't think so. And you hit Chloe.
+
+}}
+
+{{#tag:tabber|(Stayed hidden)# (Stayed hidden)**David:** I'm sure she told you why. Did she mention...she probably stole one of my guns?
+{{!}}-{{!}}(Didn't hide)(Didn't hide)**David:** She got in my face and called me a "pig." And I was still wrong. I'll make it up to Chloe. And I'm sorry.
+
+}}
+
+|-|Took the blame for Chloe/came out of hiding to intervene# Took the blame for Chloe/came out of hiding to intervene**David:** I know things got a little heated yesterday in Chloe's room... Was that really your reefer?
+
+{{#tag:tabber|Yes.Yes.**Max:** Yes, it was. You know that marijuana is almost legal in Oregon. I can get it at Blackwell.
+
+{{!}}-{{!}}No.# No.**Max:** No, it belonged to a friend of mine.
+
+}}
+
+**Max:** Are you going to bust me now, Mr. Madsen?
+
+**David:** Even I'm not that much of an asshole... And I am sorry about yesterday. I was wrong, but upset. Cannabis is not a big deal to you, but it has been to Chloe.
+
+**Max:** You're a combat veteran. She's no threat to you.
+
+**David:** If I didn't care about her, I wouldn't care at all. When I was her age, I was out raising a lot more hell. She's better than that. All you kids are. So is Kate Marsh.
+
+Took a photoTook a photo
+
+{{#tag:tabber|You treat Kate bad.# You treat Kate bad.**Max:** But you treat Kate pretty bad...
+
+{{!}}-{{!}}What about Kate?What about Kate?**Max:** What about Kate?
+
+}}
+
+**David:** I shouldn't have said anything... You know about that video going around.
+
+**Max:** Is that why you hassled Kate yesterday? I took a photo of that moment for surveillance sake.
+
+**David:** Soldier, you don't have the facts. You think I'm a hypocrite because I want cameras around here for the safety of the students?
+
+|-|Intervened# Intervened
+
+{{#tag:tabber|You treat Kate bad.You treat Kate bad.**Max:** But you treat Kate pretty bad...
+
+{{!}}-{{!}}What about Kate?# What about Kate?**Max:** What about Kate?
+
+}}
+
+**David:** You stepped between us at a pretty bad time. She's another matter entirely.
+
+**Max:** Kate hasn't done anything wrong.
+
+**David:** Max, this isn't just about Kate Marsh. My concern is for the safety of all Blackwell students. Including you.
+
+**Max:** That'll take more than surveillance cameras.
+
+**David:** It will take more than Ms. Grant and her petition to find missing students.
+
+**Max:** Isn't that your responsibility as head of security? Unless you know something about Rachel Amber that nobody else does...
+
+**David:** I don't want to fight with you anymore. I don't want to fight with anyone anymore... That's all, Max.
+
+*If Max tries to talk to David again*
+
+**David:** You best not bother chatting me up now.
+
+*After entering the hallway leading to the science lab and art class, Max gets a text from Warren. After seeing it…*
+
+**Max (thinking):** *I still have time...I could go see Warren playing mad scientist in the lab.*
+
+'''Logan and Juliet's Conversation**
+
+**Juliet:** I saw Victoria and her friends shopping for the party.
+
+**Logan:** That reminds me, I have to score some weed from Nathan...
+
+**Optional Conversation with Evan**
+
+**Evan:** Yo, Maxwell Smart. Talk later, cool?
+
+# 
+
+Generate five trivia questions relevant to this section of the page.

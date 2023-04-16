@@ -1,0 +1,52 @@
+[
+  {
+    "question": "In the Alternative Timeline, what event does Max prevent from happening?",
+    "answer": "A",
+    "choices": {
+      "A": "William Price's death",
+      "B": "Chloe Price's kidnapping",
+      "C": "Rachel Amber's murder",
+      "D": "Nathan Prescott's expulsion"
+    }
+  },
+  {
+    "question": "What does Max focus on to escape from the Dark Room?",
+    "answer": "B",
+    "choices": {
+      "A": "A colorful photo",
+      "B": "A monochrome photo",
+      "C": "A painting",
+      "D": "A mirror"
+    }
+  },
+  {
+    "question": "What does Max do to Jefferson's photos in the Dark Room Timeline?",
+    "answer": "C",
+    "choices": {
+      "A": "She burns them",
+      "B": "She steals them",
+      "C": "She damages them",
+      "D": "She hides them"
+    }
+  },
+  {
+    "question": "What is the name of Chloe's mother in the Alternative Timeline?",
+    "answer": "B",
+    "choices": {
+      "A": "Rachel Price",
+      "B": "Joyce Price",
+      "C": "Victoria Price",
+      "D": "Kate Price"
+    }
+  },
+  {
+    "question": "What does Chloe receive as a gift on her 16th birthday in the Alternative Timeline?",
+    "answer": "D",
+    "choices": {
+      "A": "A hoodie",
+      "B": "A phone",
+      "C": "Cookies",
+      "D": "A car"
+    }
+  }
+]

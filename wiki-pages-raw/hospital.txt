@@ -1,0 +1,76 @@
+= Hospital =
+
+{{Free Tab
+|minwidth = 47%
+|maxwidth = 100%
+|borderradius = 2
+|height = 2
+|tab1=Life is Strange |link1=Hospital
+|tab2=Before the Storm |link2=Hospital (Before the Storm)
+}}
+{{Introquote|Hospitals always freak me out." - "I hear you. But imagine how Kate feels... I'm so glad I get to see her again.|[[Chloe Price|Chloe]] and [[Maxine Caulfield|Max]] in "[[Episode 4: Dark Room|Dark Room]]"}}
+{{Infobox Location
+|name = Hospital
+|type = Hospital
+|location = [[Arcadia Bay]]
+|state = Oregon
+|appears = [[Episode 2: Out of Time]] <small>(cutscene, determinant)</small><br \>[[Episode 4: Dark Room]] <small>(determinant)</small>
+|image = Hospital.jpg}}
+
+The '''Hospital''' is located in [[Arcadia Bay]] and, depending on [[Maxine Caulfield|Max Caulfield]]'s [[Choices and Consequences|choices]], can first be seen in "[[Episode 2: Out of Time|Out of Time]]." There is another determinant chance to visit the hospital again in "[[Episode 4: Dark Room|Dark Room]]."
+
+== Episode Two - "[[Episode 2: Out of Time|Out of Time]]" ==
+If Max manages to stop [[Kate Marsh]] from committing suicide, the hospital can first be seen in this episode's ending cutscene where Kate is seen lying in a bed with several balloons tied to it.
+
+== Episode Four - "[[Episode 4: Dark Room|Dark Room]]" ==
+If Max managed to save Kate in "Out of Time," she visits the hospital and talks to Kate in this episode.
+
+== Interactions ==
+=== Episode Four - "Dark Room" ===
+:<span style="display:none">'''PC users: '''</span>''Hover over the text to see Max's comments. [[Interactions|See here]] for all interactions in the game.''
+*{{Interaction|Max can look at a photo of Kate with her sisters.|"Thank you, sisters. You really saved Kate."}}
+*{{Interaction|She can look at the book {{Wiki|The October Country}}.|"Good to see that Kate is still working on her book report."}}
+*{{Interaction|She can look at Kate's drawing.|"Aww, I love Kate’s happy rainbow flock."}}
+*{{Interaction|She can look at Kate's bed.|'''Accepted Alternate Chloe's wish: '''"This reminds me of Chloe's bed... except I didn't have to put Kate to sleep."<br>'''Refused Alternate Chloe's wish: '''"This reminds me of Chloe's bed... There's no way I could put her to sleep."}}<ref>In older versions of the game.</ref>
+*{{Interaction|She can look and speak with Kate.|"That is so good to know that Kate is drawing again."}}<ref>In the latest version (1.0.0.397609) of the game.</ref>
+*{{Interaction|She can look at the flowers near Kate's bed.|"Those are nice flowers... and from [[Taylor Christensen|Taylor]]? Wow, props to her."}}
+*{{Interaction|She can look at an icon.|"If this gets Kate through the night, so be it."}}
+*{{Interaction|She can look at the balloons tied to Kate's bed.|"I don't think 'Get Well' is quite apropos."}}
+*{{Interaction|She can look at a postcard from the [[Blackwell Academy|Blackwell]] [[:Category:Blackwell Academy Students|students]].|"That is so sweet... even [[Victoria Chase|Victoria]] signed. But not [[Nathan Prescott|Nathan]]..."}}
+*{{Interaction|She can look at a letter from [[Raymond Wells|Principal Wells]].|"Principal Wells knows how to step it up when he wants to..."}}
+
+== Trivia ==
+{{Main|Hospital Ending}}
+*There was an [[Hospital Ending|alternate ending]] planned in the early stages of development in which [[Chloe Price]] would have ended up in a coma. As evident from a [[Media:Hospital Room Concept Art by Gary Jamroz-Palma.jpg|piece of concept art]], Max would have visited Chloe at the hospital.
+*The hospital location was originally designed for the above-mentioned alternate ending, and the scene with Kate after she survived her suicide attempt was only added later on because the fans liked Kate so much.
+*It is unknown what the outside of the hospital looks like.
+
+== Gallery ==
+=== Screenshots ===
+<gallery widths="200px" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+hospital-katesroom.png|Kate's room.
+hospital-flowers.png|Flowers from [[Taylor Christensen]].
+hospital-balloons.png|"Get Well" balloons.
+</gallery>
+
+=== Concept Art ===
+<gallery widths="200px" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+Hospital Room Concept Art by Gary Jamroz-Palma.jpg |Concept art by [[Gary Jamroz-Palma]].
+</gallery>
+
+== Notes ==
+<references/>
+{{Location Navbox}}
+
+[[Category:Locations]]
+[[Category:Episode 2: Out of Time Locations]]
+[[Category:Episode 4: Dark Room Locations]]
+[[Category:Locations in Arcadia Bay]]
+[[Category:Explorable Locations]]
+[[Category:Explorable Locations (Life is Strange)]]
+[[Category:Locations (Life is Strange)]]
+[[Category:Life is Strange]]
+
+[[de:Krankenhaus]]
+[[pt-br:Hospital]]
+[[ru:Больница]]

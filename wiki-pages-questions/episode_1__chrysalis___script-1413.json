@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Mr. Jefferson Say About Max's Selfie Output?",
+    "answer": "A",
+    "choices": {
+      "A": "She Has Too Many Pictures",
+      "B": "She Needs To Take More Pictures",
+      "C": "She Needs To Delete Some Pictures",
+      "D": "She Needs To Find A Good Picture"
+    }
+  },
+  {
+    "question": "What Does Max Say To Mr. Jefferson To Impress Him?",
+    "answer": "A",
+    "choices": {
+      "A": "She Quotes John Lennon",
+      "B": "She Compliments His Teaching",
+      "C": "She Offers To Help Him",
+      "D": "She Shows Him Her Portfolio"
+    }
+  },
+  {
+    "question": "What Do Courtney And Taylor Say About Max's Camera?",
+    "answer": "A",
+    "choices": {
+      "A": "It Is Dorky",
+      "B": "It Is Hip",
+      "C": "It Is Shy",
+      "D": "It Is Giant"
+    }
+  },
+  {
+    "question": "What Does Justin Offer To Dana?",
+    "answer": "A",
+    "choices": {
+      "A": "A Smoke Break",
+      "B": "A Ride Home",
+      "C": "A Cup Of Coffee",
+      "D": "A Homework Assignment"
+    }
+  },
+  {
+    "question": "What Does Samuel Say About The Girl Who Vanished?",
+    "answer": "A",
+    "choices": {
+      "A": "Nobody Should Disappear Like That",
+      "B": "She Deserved To Disappear",
+      "C": "She Was Never Really There",
+      "D": "She Will Come Back Soon"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What happens to Victoria if Max warns her about the Dark Room at the Vortex Club Party?",
+    "answer": "A",
+    "choices": {
+      "A": "She goes to Mr. Jefferson for help and ends up in the Dark Room",
+      "B": "She avoids Mr. Jefferson and survives",
+      "C": "She is killed by Nathan",
+      "D": "She is arrested by the police"
+    }
+  },
+  {
+    "question": "What happens to David if he gets a scar during his fight with Mr. Jefferson?",
+    "answer": "A",
+    "choices": {
+      "A": "He will have the scar until Max time jumps with Warren's photo",
+      "B": "He will not have the scar in his face",
+      "C": "He will be killed by Mr. Jefferson",
+      "D": "He will leave Arcadia Bay"
+    }
+  },
+  {
+    "question": "What is the consequence of not warning Alyssa in any episode?",
+    "answer": "A",
+    "choices": {
+      "A": "She will not save Max from a falling billboard",
+      "B": "She will mention it in the nightmare at the Two Whales",
+      "C": "She will be stuck in a house",
+      "D": "She will be killed by Mr. Jefferson"
+    }
+  },
+  {
+    "question": "What is the consequence of not telling Frank the truth about Rachel Amber?",
+    "answer": "A",
+    "choices": {
+      "A": "Frank will not be visibly distressed about what happened to Rachel",
+      "B": "Frank will blame himself if Max tells him that Rachel died from an overdose",
+      "C": "Frank will be killed by Mr. Jefferson",
+      "D": "Frank will leave Arcadia Bay"
+    }
+  },
+  {
+    "question": "What is the consequence of not saving the fisherman?",
+    "answer": "A",
+    "choices": {
+      "A": "The fisherman will mention it in the nightmare at the Two Whales",
+      "B": "The fisherman will not mention it in the nightmare at the Two Whales",
+      "C": "The fisherman will be killed by Mr. Jefferson",
+      "D": "The fisherman will leave Arcadia Bay"
+    }
+  }
+]

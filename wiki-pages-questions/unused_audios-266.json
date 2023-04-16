@@ -1,0 +1,32 @@
+[
+  {
+    "question": "In which location does the audio of Rachel Amber's plea for help play?",
+    "answer": "C",
+    "choices": {
+      "A": "Garage",
+      "B": "CampusB",
+      "C": "Dark Room",
+      "D": "Samuel's Office"
+    }
+  },
+  {
+    "question": "According to Grant's unused audio, what is happening to everyone?",
+    "answer": "A",
+    "choices": {
+      "A": "They are being watched",
+      "B": "They are being followed",
+      "C": "They are being threatened",
+      "D": "They are being ignored"
+    }
+  },
+  {
+    "question": "What does Samuel say he is glad his petitions stopped in his unused audio?",
+    "answer": "A",
+    "choices": {
+      "A": "The surveillance of Mr. Madson",
+      "B": "The surveillance of the students",
+      "C": "The surveillance of the police",
+      "D": "The surveillance of the town"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Was The Name Of The Comic Strip That Max And Chloe Drew Together?",
+    "answer": "A",
+    "choices": {
+      "A": "The Adventures of Super Max and Dr. Chloenstein",
+      "B": "The Power Girls",
+      "C": "The Adventures of Max and Chloe",
+      "D": "The Superhero Duo"
+    }
+  },
+  {
+    "question": "What Was The Name Of The Band That Max And Chloe Went To See In Their First Unsupervised Concert?",
+    "answer": "A",
+    "choices": {
+      "A": "Mimi and the Screamers",
+      "B": "The Land Before Time",
+      "C": "The Power Girls",
+      "D": "The Lion, the Witch, and the Wardrobe"
+    }
+  },
+  {
+    "question": "What Was The Name Of The Enemy That Max And Chloe Faced During Their Pirate Phase?",
+    "answer": "A",
+    "choices": {
+      "A": "Evil Commander Shelley",
+      "B": "Captain Bluebeard",
+      "C": "Long Max Silver",
+      "D": "Bloody Bill"
+    }
+  },
+  {
+    "question": "What Was The Name Of Chloe's Box Of Magic Tricks?",
+    "answer": "A",
+    "choices": {
+      "A": "Miss Madalyn's Managerie of Magic",
+      "B": "The Magic Collection",
+      "C": "The Magic Box",
+      "D": "The Magic Kit"
+    }
+  }
+]

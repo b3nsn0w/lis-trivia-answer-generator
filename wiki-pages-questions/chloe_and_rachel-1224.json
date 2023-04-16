@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Was The Name Of The Mixtape CD That Chloe Made For Rachel?",
+    "answer": "D",
+    "choices": {
+      "A": "Rachel's Mix",
+      "B": "Angel Songs",
+      "C": "Chloe's Playlist",
+      "D": "Rachel Songs"
+    }
+  },
+  {
+    "question": "What Was The Date Of The Vortex Club Block Party Flyer Found In Chloe And Rachel's Hideout?",
+    "answer": "A",
+    "choices": {
+      "A": "March 28, 2013",
+      "B": "October 2013",
+      "C": "September 2013",
+      "D": "November 2013"
+    }
+  },
+  {
+    "question": "Who Did Chloe Describe Rachel As To Max?",
+    "answer": "A",
+    "choices": {
+      "A": "Her Angel",
+      "B": "Her Savior",
+      "C": "Her Best Friend",
+      "D": "Her Crush"
+    }
+  },
+  {
+    "question": "What Did Rachel Want To Be When She Moved To Los Angeles With Chloe?",
+    "answer": "C",
+    "choices": {
+      "A": "A Singer",
+      "B": "A Dancer",
+      "C": "An Actress",
+      "D": "A Model"
+    }
+  },
+  {
+    "question": "What Did Chloe Say When Max Suggested That She Had A Crush On Rachel?",
+    "answer": "C",
+    "choices": {
+      "A": "\"You're Wrong\"",
+      "B": "\"It's Complicated\"",
+      "C": "\"You Would Have Too\"",
+      "D": "\"I Don't Want To Talk About It\""
+    }
+  }
+]

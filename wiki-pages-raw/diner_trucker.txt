@@ -1,0 +1,50 @@
+= Diner Trucker =
+
+{{Infobox Character
+|name =  Diner Trucker
+|image = dinertrucker-main.png
+|died = October 11, 2013 <small>(presumed, determinant)</small> 
+|causeofdeath = Killed by the [[storm]] <small>(presumed, determinant)</small>
+|gender = Male
+|hair = Brown
+|eyes = Blue
+|friends = [[Truck Driver]]
+|appearance = [[Episode 2: Out of Time]]<br/>[[Episode 5: Polarized]] <small>(nightmare)</small>
+|voice = [[Eric Morgan Stuart]] <small>(uncredited)</small>
+|width = 270
+}}The '''"Diner Trucker"''' is a resident of [[Arcadia Bay]]. He is sitting at the counter in the [[Two Whales Diner]].
+
+== Episode Two - "[[Episode 2: Out of Time|Out of Time]]" ==
+When [[Maxine Caulfield|Max Caulfield]] tries to speak to him, he will say that he doesn't feel like talking and has to "deliver a load of breakfast" to his stomach.
+
+If Max hesitates after [[Chloe Price]] asks her to go to the [[American Rust Junkyard|junkyard]], he can be heard talking with the [[Truck Driver|truck driver]] about how much the latter eats.
+
+== Episode Five - "[[Episode 5: Polarized|Polarized]]" ==
+He appears in the diner sequence of [[Max's Nightmare|Max's nightmare]], sitting at the counter at the same place as in "Out of Time", but with his head turned to the left and a frowning face. He asks Max if she can call his mother in [[Portland]] and tell her that he loves her.
+
+In the Sacrifice Arcadia Bay ending, it is possible that he may have died in the storm.
+
+== Gallery ==
+<gallery widths="200px" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+truckers.jpg|Two truckers in Episode 2
+trucker2-nightmare.jpg|Diner Trucker in Max's nightmare
+</gallery>
+
+== Trivia ==
+[[File:truckdriver-tattoo.png|thumb|100px|Model skin from the game files.]]
+*The truck driver has tattoos on his forearms that feature several animals, a revolver, a taco, and a cannabis leaf.
+
+{{Character Navbox}}
+
+[[ru:Дальнобойщик в закусочной]]
+[[Category:Male Characters]]
+[[Category:Minor Characters (Life is Strange)]]
+[[Category:Characters (Life is Strange)]]
+[[Category:Episode 2: Out of Time Characters]]
+[[Category:Episode 5: Polarized Characters]]
+[[Category:Two Whales Diner]]
+[[Category:Male Characters (Life is Strange)]]
+[[Category:Characters]]
+[[Category:Minor Characters]]
+
+[[Category:Life is Strange]]

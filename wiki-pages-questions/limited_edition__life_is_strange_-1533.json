@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Included In The Limited Edition Of Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Artbook, Soundtrack, Director's Commentary",
+      "B": "Artbook, Soundtrack, Original Score",
+      "C": "Artbook, Soundtrack, Concept Art",
+      "D": "Artbook, Soundtrack, Deleted Scenes"
+    }
+  },
+  {
+    "question": "Who Composed The Original Score For Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Jonathan Morali",
+      "B": "José González",
+      "C": "Local Natives",
+      "D": "Mogwai"
+    }
+  },
+  {
+    "question": "What Languages Are Included In The Subtitles For The Limited Edition?",
+    "answer": "A",
+    "choices": {
+      "A": "English, French, German, Italian, Spanish (Castilian) / Spanish (Mexican), Brazilian Portuguese",
+      "B": "English, French, German, Italian, Spanish (Castilian), Brazilian Portuguese",
+      "C": "English, French, German, Spanish (Castilian) / Spanish (Mexican), Brazilian Portuguese",
+      "D": "English, French, German, Spanish (Castilian), Brazilian Portuguese"
+    }
+  },
+  {
+    "question": "What Is Included In The Director's Commentary For The Limited Edition?",
+    "answer": "A",
+    "choices": {
+      "A": "9 parts with Michel Koch and Raoul Barbet",
+      "B": "5 parts with Michel Koch and Raoul Barbet",
+      "C": "9 parts with Michel Koch and Luc Baghadoust",
+      "D": "5 parts with Michel Koch and Luc Baghadoust"
+    }
+  },
+  {
+    "question": "What Improvements Were Made In The Limited Edition Patch?",
+    "answer": "A",
+    "choices": {
+      "A": "Lip syncing and dialog changes",
+      "B": "Graphics and sound effects",
+      "C": "Gameplay mechanics and controls",
+      "D": "Storyline and character development"
+    }
+  }
+]

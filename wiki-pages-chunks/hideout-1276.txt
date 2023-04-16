@@ -1,0 +1,55 @@
+Here is a section of the wiki page for Hideout:
+
+#  Hideout 
+
+```yaml
+Location
+
+image: hideout-external.png
+type: Brick building
+location: >-
+  [American Rust Junkyard](american_rust_junkyard.md), [Arcadia
+  Bay](arcadia_bay.md)
+state: Oregon
+appears: |-
+  [Episode 2: Out of Time](episode_2__out_of_time.md)
+  [Episode 4: Dark Room](episode_4__dark_room.md)
+```
+
+> This looks like a graffiti museum for Chloe and Rachel... I bet I can find out more about Rachel here...
+
+**[Maxine Caulfield**, Max Caulfield](maxine_caulfield____max_caulfield.md)'s monologue in "[Episode 2: Out of Time, Out of Time](episode_2__out_of_time__out_of_time.md)"
+
+The **Hideout** is a brick building in the [American Rust Junkyard](american_rust_junkyard.md). [Chloe Price](chloe_price.md) and [Rachel Amber](rachel_amber.md) used to hang out in there a lot, and there are now several mementos and photos from their time together. It's an explorable location in *[Life is Strange](life_is_strange.md)*, and is featured again in the prequel *[Life is Strange: Before the Storm](before_the_storm.md)*. [Maxine Caulfield](max_caulfield.md) may enter it when she visits the junkyard in Episodes 2 and 4.
+
+## Overview 
+[File:full interior view.jpg](300px.md)
+The hideout is half-built, missing a door and using slate and wooden planks for a roof. One of the windows looks to the train tracks. The walls are covered with graffiti and posters, showcasing Chloe and Rachel's dream of going to [Los Angeles](los_angeles.md) one day. Empty pizza boxes and beer bottles are scattered around. Other items include several car number plates, a dartboard and a [Vortex Club](vortex_club.md) party flyer. There is also a spool table with makeup, which was likely used more by Rachel than Chloe. A big yellow carpet with an image of an elephant between two palm trees hangs in front of the spool table.
+
+After Rachel's disappearance, Chloe has added a graffiti saying "Fuck you, yes you", as well as wrote "I WANT TO DIE" on a sheet of paper. She also defaced the "Welcome to L.A" poster, replacing "L.A" with "HELL".  The yellow carpet has been pierced with bullets, although it is unknown whether this was done before or after Rachel went missing.
+
+## Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+Max comes across the hideout while searching for 5 beer bottles to bring to Chloe. Upon entering, she calls it a "graffiti museum" and thinks she can find out more about Rachel there. The beer bottle stands on a chair. Max can add her name to the graffiti on the wall to indicate she was here along with Chloe and Rachel.
+
+## Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+[File:Hideout graffiti.jpg](thumb.md) When the girls return to the junkyard at night, Max can enter the hideout instead of following Chloe. A rat will briefly run across the floor, which disgusts Max. If she decided to add her name to the graffiti earlier, both Max and Chloe's names will be circled and have the words "YOU'RE ALL GONNA DIE" written in red. The "was" in "Rachel was here" will also be replaced with a red "is".
+
+## Interactions 
+:**PC users: **''Hover over the text to see Max's comments. [Interactions](see_here.md) for all interactions in the game.''
+*{{Interaction|Max can look at and add her name to the graffiti on the hideout wall.|**Look: **"I don't want to intrude, but... I was here."
+**Write: **"Now we're officially a trio... we just have to find Rachel."}}
+*{{Interaction|She can look at a [Vortex Club](vortex_club.md) party leaflet.|"So Rachel did go to a Vortex Club party... This flyer is dated right before she disappeared..."}}
+*{{Interaction|She can look at a sheet of paper with "I WANT TO DIE" written on it.|"'I want to die.' Jeez. Who wrote this?"}}
+*{{Interaction|She can look at another graffiti.|"Ouch."}}
+*{{Interaction|She can look at a CD titled "Rachel Songs".|"'Rachel songs.' I wonder if Chloe would ever make me a mixtape."}}
+*{{Interaction|She can look at a makeup case.|"I can't see Chloe playing with makeup..."}}
+*{{Interaction|She can look at three photos of Chloe and Rachel.|"They really were besties. That could have been me instead of Rachel..."}}
+*{{Interaction|She can look at a handmade bracelet.|"That kinda hurts..."}}
+*{{Interaction|She can look at a rave flyer.|"They would have gone all the way to Los Angeles for a rave. Looks fun."}}
+*{{Interaction|She can look at a letter from Rachel to Chloe.|"Now what's up with this weird secret relationship? Sounds like Rachel was confused 
+about it, maybe even ashamed... I wish she named names. I better not show this to Chloe 
+or she will be seriously hurt."}}
+
+
+
+Generate five trivia questions relevant to this section of the page.

@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What Is The Control Scheme For Rewinding On PC?",
+    "answer": "D",
+    "choices": {
+      "A": "Press Right Mouse Button And Hold",
+      "B": "Press Right Mouse Button And Hold Shift",
+      "C": "Press Control",
+      "D": "All Of The Above"
+    }
+  },
+  {
+    "question": "What Is The Purpose Of The Swirl In The Top Left-Hand Corner Of The Screen?",
+    "answer": "D",
+    "choices": {
+      "A": "To Indicate The Rewind Position",
+      "B": "To Dictate Any Notable Events Which Have Taken Place",
+      "C": "To Show Recent Conversations As Dots",
+      "D": "All Of The Above"
+    }
+  }
+]

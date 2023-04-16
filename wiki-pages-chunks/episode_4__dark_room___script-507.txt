@@ -1,0 +1,51 @@
+Here is a section of the wiki page for Episode 4: Dark Room - Script:
+
+## **Optional Conversation with Dana**
+
+**Dana:** Yay, Max! I can't believe you showed up! Why didn't you tell me? We could have dressed up together!
+
+**Max:** As you can tell by my outfit, I was in a hurry... Dana, have you seen Nathan around?
+
+**Dana:** Hell no, I've been dancing with Trevor. Come on and dance with us! Look at Trevor trying to bust a move!
+
+Trevor.# Trevor.
+
+**Max:** You guys look really happy together...
+
+**Dana:** I think we are. He's so different than Logan. We actually talk about life... And he knows how to be safe.
+
+|-|End Of The World.End Of The World.
+
+**Max:** How is the "End Of The World" going?
+
+**Dana:** Great! This has been the worst fucking week of my life, so I needed to act like a carefree student tonight...For Kate...
+
+**Max:** I hear you, Dana. But I want you to avoid Nathan if you see him, okay?
+
+**Dana:** I will if I want to have fun... I still feel sorry for him. He needs help, but not from his family...
+
+Sean Prescott.# Sean Prescott.
+
+**Max:** What do you know about his dad, Sean Prescott?
+
+**Dana:** Uh, rich. And rich. And a dickhead, according to Nathan. The Prescotts can't buy a happy family... or a happy club.
+
+|-|Vortex Club.Vortex Club.
+
+**Max:** The Vortex Club is also enabling him.
+
+**Dana:** I know... Juliet wrote a story describing it like a cult and I'm starting to think she was right... It's not fun anymore.
+
+**Max:** Sounds like you're ready for a change.
+
+**Dana:** I don't need any club to be cool or have friends. Look at you...Plus I like hanging with Trevor and his skater friends. No drama!
+
+**Max:** That sounds like a plan, Dana. I'm glad Trevor is with you tonight.
+
+**Dana:** Thanks. The boy cannot dance, though... look at that!
+
+# #
+
+
+
+Generate five trivia questions relevant to this section of the page.

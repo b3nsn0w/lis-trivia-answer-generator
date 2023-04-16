@@ -1,0 +1,31 @@
+#  Dr. Hedorah 
+
+```yaml
+Character
+
+image: DrHedorah.png
+gender: Female
+hair: Brown
+profession: Meteorologist
+appearance: '[Episode 3: Chaos Theory](episode_3__chaos_theory.md)'
+voice: '[Dani Knights](dani_knights.md) (uncredited)'
+```
+
+**Dr. Hedorah** is a meteorologist expert from [Portland](portland.md) who gets interviewed by [Weatherman](the_weatherman.md) on KBAY 7 News about the recent [Meteorological Anomalies](meteorological_anomalies.md) in Episode 3, "[Episode 3: Chaos Theory](chaos_theory.md)". She hypothesizes that climate change is a partial cause for the unseasonal weather. She further says that they frankly don't know the cause yet. Her team is conducting tests to research the anomalies.
+
+{{Bigquote
+|...but that doesn't explain the recent extreme weather patterns. No, but we have to start with the hypothesis that climate change is a partial cause for the unseasonal weather. That doesn't explain everything of course. Frankly, we don't know yet.
+
+(DR. HEDORAHPortland Meteorologist Expert)
+
+Dr. Hedorah, will your team know more after their latest tests?
+
+I hope we see more patterns, which gives us an atmospheric template...
+
+Many local residents of Arcadia Bay have been questioning what has been going on with this crazy weather. We had an eclipse yesterday, a snowstorm two days ago -- which as most of you know is not common this time of year! It's unprecedented, to be honest with you. The last time that we had a snowstorm of this caliber was over a hundred years ago. All of us are questioning, what is happening in Arcadia Bay?! Please feel free to call in and let me know what your experience has been. What you think this might be. Is this Global Warming? What is causing all of this crazy weather?
+
+(LET'S TALK WEATHER - CALL NOW
+555-288-KBY7)
+}}
+{{Character Navbox}}
+

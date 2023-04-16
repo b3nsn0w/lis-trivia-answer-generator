@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Where Is The \"In the Zeitgeist: A Pictorial History\" Book Located?",
+    "answer": "A",
+    "choices": {
+      "A": "Near The Receptionist In The Zeitgeist Gallery",
+      "B": "To The Left Of The Gallery Entrance",
+      "C": "Near The Stairs To The Lower Floor",
+      "D": "In Front Of Max In The Plane"
+    }
+  },
+  {
+    "question": "What Does Max Want To Do After Seeing The \"Mission Murals\" Book?",
+    "answer": "B",
+    "choices": {
+      "A": "Buy The Book",
+      "B": "Go See The Murals",
+      "C": "Take A Picture Of The Book",
+      "D": "Leave The Gallery"
+    }
+  },
+  {
+    "question": "What Is Written On The Gallery Donation Box?",
+    "answer": "D",
+    "choices": {
+      "A": "\"Donate Here\"",
+      "B": "\"Support Local Art\"",
+      "C": "\"Give Generously\"",
+      "D": "\"Drop Some Serious Cash In Here\""
+    }
+  },
+  {
+    "question": "What Is The Name Of The Newspaper Mentioned In Max's Notes?",
+    "answer": "B",
+    "choices": {
+      "A": "The San Francisco Chronicle",
+      "B": "The Golden Gate Reporter",
+      "C": "The Bay Area Times",
+      "D": "The Frisco Daily"
+    }
+  }
+]

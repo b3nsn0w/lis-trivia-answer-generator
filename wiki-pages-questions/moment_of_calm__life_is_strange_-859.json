@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Play On Her Guitar In Episode Two?",
+    "answer": "A",
+    "choices": {
+      "A": "Something Good",
+      "B": "American Rust",
+      "C": "Chaos Theory",
+      "D": "Moment of Calm"
+    }
+  },
+  {
+    "question": "Where Does Max Feel Like She And Chloe Are Kids Again?",
+    "answer": "A",
+    "choices": {
+      "A": "The American Rust Junkyard",
+      "B": "Blackwell Swimming Pool",
+      "C": "Chloe's House",
+      "D": "The Dormitory Building"
+    }
+  },
+  {
+    "question": "What Does Max Feel Like The Forest Is Doing In The Junkyard?",
+    "answer": "B",
+    "choices": {
+      "A": "Singing To Her",
+      "B": "Whispering To Her",
+      "C": "Screaming At Her",
+      "D": "Ignoring Her"
+    }
+  },
+  {
+    "question": "What Does Max Admit To Chloe About Taking Over The Blackwell Gym?",
+    "answer": "A",
+    "choices": {
+      "A": "It Was Pretty Cool",
+      "B": "It Was Boring",
+      "C": "It Was Scary",
+      "D": "It Was Dangerous"
+    }
+  },
+  {
+    "question": "What Does Max Say About Using Her Power?",
+    "answer": "B",
+    "choices": {
+      "A": "She Wants To Get Stuck In Time",
+      "B": "She Wants To Use It Carefully",
+      "C": "She Wants To Use It Recklessly",
+      "D": "She Wants To Stop Using It"
+    }
+  }
+]

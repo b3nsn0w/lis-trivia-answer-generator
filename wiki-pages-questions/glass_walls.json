@@ -1,0 +1,22 @@
+[
+  {
+    "question": "In which trailers was \"Glass Walls\" used?",
+    "answer": "C",
+    "choices": {
+      "A": "Episode 1: Chrysalis launch trailer",
+      "B": "Limited Edition (Life is Strange) trailer",
+      "C": "Both A and B",
+      "D": "None of the above"
+    }
+  },
+  {
+    "question": "What is the line that follows \"Kingdoms can rise and fall\" in the lyrics of \"Glass Walls\"?",
+    "answer": "B",
+    "choices": {
+      "A": "I won't lose the key",
+      "B": "If you find the door",
+      "C": "Can't stop your light",
+      "D": "From reaching my eyes"
+    }
+  }
+]

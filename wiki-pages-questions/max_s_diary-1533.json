@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Did Max Discover About Principal Wells When She Tried To Leave The School?",
+    "answer": "B",
+    "choices": {
+      "A": "He Was Sleeping",
+      "B": "He Was Drunk",
+      "C": "He Was Angry",
+      "D": "He Was Sad"
+    }
+  },
+  {
+    "question": "Who Did Victoria Try To Blackmail In Order To Win The \"Everyday Heroes\" Contest?",
+    "answer": "A",
+    "choices": {
+      "A": "Mr. Jefferson",
+      "B": "Kate Marsh",
+      "C": "Max Caulfield",
+      "D": "Warren Graham"
+    }
+  },
+  {
+    "question": "What Did Max Find In Nathan's File In The Principal's Office?",
+    "answer": "A",
+    "choices": {
+      "A": "A Picture Of Rachel Amber",
+      "B": "A Drawing Of A Butterfly",
+      "C": "A Note About Kate Marsh",
+      "D": "A Map Of The School"
+    }
+  },
+  {
+    "question": "What Did Chloe Want To Do With The Money From The Handicapped Fund?",
+    "answer": "B",
+    "choices": {
+      "A": "Donate It To Charity",
+      "B": "Use It To Pay Off Frank",
+      "C": "Buy A New Car",
+      "D": "Go On A Vacation"
+    }
+  },
+  {
+    "question": "What Did Max And Chloe Decide To Do After Breaking Into The Principal's Office?",
+    "answer": "A",
+    "choices": {
+      "A": "Take A Night Swim",
+      "B": "Go To Sleep",
+      "C": "Watch A Movie",
+      "D": "Play Video Games"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Where is the \"End of the World\" party flyer located?",
+    "answer": "A",
+    "choices": {
+      "A": "Blackwell Academy hallway",
+      "B": "Science Lab",
+      "C": "Photography Lab",
+      "D": "None of the above"
+    }
+  },
+  {
+    "question": "What does Max say about carrying a gun to class?",
+    "answer": "A",
+    "choices": {
+      "A": "It's cool",
+      "B": "It's dangerous",
+      "C": "It's illegal",
+      "D": "It's unnecessary"
+    }
+  },
+  {
+    "question": "What does Max say about Mr. Jefferson's book?",
+    "answer": "B",
+    "choices": {
+      "A": "It's boring",
+      "B": "It's helpful",
+      "C": "It's confusing",
+      "D": "It's irrelevant"
+    }
+  },
+  {
+    "question": "What does Max say about the \"Front to the Future\" poster?",
+    "answer": "A",
+    "choices": {
+      "A": "She wishes she could bring a mini Warren to her Science exams",
+      "B": "She wishes she could travel back in time",
+      "C": "She wishes she could meet Leonardo DaVinci",
+      "D": "She wishes she could be in a movie like Back to the Future"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the name of the fishing club that gives out awards to fishermen at Two Whales Diner?",
+    "answer": "A",
+    "choices": {
+      "A": "Arcadia Bay Fishing Club",
+      "B": "Two Whales Fishing Club",
+      "C": "Bay Area Fishing Association",
+      "D": "Coastal Fishermen's Guild"
+    }
+  },
+  {
+    "question": "What is the price of Bacon and Eggs at Two Whales Diner?",
+    "answer": "A",
+    "choices": {
+      "A": "$5.45",
+      "B": "$4.99",
+      "C": "$6.50",
+      "D": "$7.25"
+    }
+  },
+  {
+    "question": "What is the name of the fisherman who caught a Steelhead trout on the Fishing Wall of Fame?",
+    "answer": "B",
+    "choices": {
+      "A": "Dick Weber",
+      "B": "Andy Berry",
+      "C": "Rich Conrad",
+      "D": "None of the above"
+    }
+  },
+  {
+    "question": "Who is the homeless woman that Max can speak to outside of Two Whales Diner?",
+    "answer": "D",
+    "choices": {
+      "A": "Joyce",
+      "B": "Rachel",
+      "C": "Chloe",
+      "D": "Homeless Lady"
+    }
+  }
+]

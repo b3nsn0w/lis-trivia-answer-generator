@@ -1,0 +1,197 @@
+#  Max and Warren 
+
+```yaml
+relationship
+
+title1: Max and Warren
+image1: Max and Warren - Chrysalis (6).jpg
+'participants:': '[Maxine Caulfield'
+Max Caulfield](maxine_caulfield__max_caulfield.md) and [Warren Graham](warren_graham.md): ''
+'type_of_relationship:': >-
+  Good Friends
+
+  Warren has a crush on Max; Max can return those feelings depending on player
+  choice
+'status:': Blackwell Academy Schoolmates; Warren is dead (determinant)
+'started:': 'Before [Episode 1: Chrysalis](episode_1__chrysalis.md)'
+'ended:': '[Episode 5: Polarized](episode_5__polarized.md) (determinant)'
+```
+
+{{Quote|You're not pathetic. You're one of my heroes.|Max to Warren.}}
+This article is meant to give a deeper and more detailed look at the relationship between [Maxine Caulfield](max_caulfield.md) and [Warren Graham](warren_graham.md) and its development throughout *[Life is Strange](life_is_strange.md)*. Warren is one of two love interests for Max. Within the fandom, their relationship is known as **Grahamfield** and **Marren**.
+
+Warren has been one of Max's earliest friends after she moved back to [Arcadia Bay](arcadia_bay.md) from Seattle. Prior to reconnecting with [Chloe Price](chloe_price.md), Warren has been one of Max's closest friends. Warren has feelings for Max, which Max initially seems somewhat oblivious of. She is seen to react shyly and awkwardly whenever others bring up the subject of his attentions towards her, and she often second-guesses whether her actions will lead him on in any way. Depending on Max's choices, she can consider him romantically. 
+
+##  Background 
+[File:maxandwarren-developedphoto.png](thumb.md)
+Max gets to know Warren as a classmate in science class at [Blackwell Academy](blackwell_academy.md). They first talked about photography, and given that he mentioned a few names Max herself didn't know, it seems to be a shared interest. Afterwards, they traded numbers. Max first describes him as a serious geek who is dark and witty and a good study partner or possibly good friend, which she states she needs due to the "clique action" at Blackwell. Max seems to appreciate his extensive science knowledge. It is implied that he helps her keep up with science class. Warren values the book *{{wiki|The October Country}}*, and Max describes in her [Max's Journal](journal.md) that he almost revokes her "geek cred card" after learning she hasn't read it, although she feels she redeemed herself by holding up a copy of *{{wiki|Battle Royale}}*. She also thinks that Warren definitely lets her know where he stands and doesn't think he would ever lie to her. Max describes in her journal that it feels good to have at least one strong ally the same age at Blackwell and that he makes her smile. She states he loves science but really understands art and appreciates photography. Warren says he loves her pictures but Max can't tell if he is being genuinely honest or nice to her. She thinks he would blow her phone up for "science" if she ever gave it to him.
+
+He frequently texts her and later acknowledges that texting "like time, my texts are infinite." Warren develops various nicknames for Max.
+
+##  Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+[File:Maxgivesdrive.png](thumb.md)
+The first time Max mentions Warren in the game is in her inner monologue about Brooke and her thinking "I've seen Brooke hanging out with Warren. She seems like his type." If Max interacts with Brooke's slate, she will say: "Warren should be all over Brooke, they would be perfect for each other"
+
+When Max visits her own dorm room she sees a note from Warren where he asks Max for his [Warren's Flash Drive](flash_drive.md) and tells her to meet him at the [Blackwell Parking Lot](parking_lot.md). When she goes to [Dana Ward](dana_ward.md)'s room to get the flash drive, Dana talks about seeing a folder on there that Warren has specially named 'MAX' and implies that Warren has a crush on her. Max will comment on this in her journal with, "Ew." When Max finally arrives at Parking Lot, Warren immediately tries to hug Max to which she either unknowingly or consciously manages to avoid by handing the flash drive to him at the same time. Warren awkwardly withdraws as though to pretend he hadn't just tried to hug her. Max says in her journal that she could only talk about her rewind powers with the person whom she hadn't seen over five years, although she considers Warren as well since he's good at science. As she is about to tell him about her rewind powers their conversation is suddenly interrupted by [Nathan Prescott](nathan_prescott.md), who attacks Max for seeing him in the girls' bathroom with a gun earlier, and depending on her choice, he will also call her out for telling [Raymond Wells](principal_wells.md) about it. [File:Vlcsnap-2016-09-21-12h50m52s347.png](thumb.md) Warren steps in to defend Max and Nathan headbutts him to the ground. As Nathan grabs Max by her throat, it is at this moment that Max's [Chloe Price](best_friend.md) from 5 years ago blasts up in her truck and saves Max. Max escapes with her best friend, leaving Warren with Nathan. However, as Max is driven away, [David Madsen](david_madsen.md) is seen running up to stop the fight.
+
+##  Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+[File:Warren_window.jpg](thumb.md)
+Warren can be first seen peeking at [Max's Room](max_s_dorm.md) from around the corner of the dormitory grounds only if Max walks immediately over to a window within seconds of waking. 
+
+If Max saves Alyssa from a toilet paper they will talk a little. Alyssa will say "You and Warren do know your sci-fi. Be careful, you might make Brooke jealous..." and Max will reply to it as "I'll just pretend I have no idea what you mean."
+[File:maxandwarren-ep2dormtalk.png](thumb.md)
+Soon afterwards, they encounter each other around the corner of the building, where he still waits for her. He wants to ask Max about defending her from Nathan the day before and asks who the girl is who showed up in her truck "like a rock star". Max doesn't disclose too much about the situation with Nathan, neither does she discuss her powers with him. Warren suggests to Max that they should go to the [Drive-In](drive_in_theater.md) for the 70's "Planet of the Apes" marathon. Max can say 'yes' or 'no' to his suggestion before leaving to get the bus to meet Chloe at the [Two Whales Diner](two_whales_diner.md).
+
+Accept Warren's invitation# Accept Warren's invitationIf Max agrees to go to the drive-in with Warren he will say that it was easier than he thought, and will also reveal his intention to text Brooke about it. Max will write a further journal entry to say she has agreed. However, she will also write: ''"Hope he doesn't make a lame move on me... (Not that he would, egomaniac.) Warren and I do have a lot in common, but he's like a supercool geek brother."''
+|-|Decline Warren's invitationDecline Warren's invitationIf Max declines Warren's suggestion to go to the drive-in together Warren will get disappointed and will say: "I have to see if Brooke wants to go to the drive-in." Max will write that he tried to get her to go and she refused. She also writes that she's *"not really in the mood this week"* and that she also ''doesn't want to lead him on.''
+
+Max writes in her journal afterwards that she "felt like a dick" because she hadn't contacted Warren to see if he was okay after his run-in with Nathan on the parking lot. At this time, Max feels that the less Warren knows, the better for him. She admits that she would love to tell him about her ability to rewind time and space, but doesn't think the moment is right. She also jokes in her journal that he would want to marry her immediately if he found out, just so he could have his own human time machine, or capture her for scientific experiments... Or make her go to the drive-in with him.
+
+[File:Vlcsnap-2016-09-21-12h42m04s091.png](thumb.md)
+Later, he texts Max if she wants to check out his science experiment. If Max does, he asks her what what ingredient he needs for his experiment. Using her powers, Max can rewind and ask [Michelle Grant](miss_grant.md) what ingredient is needed with the information she has from Warren. If his experiment succeeds, Max remarks to herself that it was fun helping him and he is "pretty cute when he is in full-on geek mode". If Max gives him a random answer, Warren will fail at his science experiment, and the mixture will blow up. Max remarks that she "shouldn't laugh but he looks so ridiculous."
+
+Shortly before Max's class starts, Warren enters her [Photography Lab](art_class.md) to tell her that [Kate Marsh](kate_marsh.md)'s eyes were puffy from crying. He tells Max that he didn't know what to say to her and she didn't tell him anything. [Mark Jefferson](mr__jefferson.md) then enters the classroom and tells everyone who is not in his class to leave, which includes Warren.
+
+[File:LifeIsStrange 2016-09-21 11-59-42-436.jpg](thumb.md)
+[Zachary Riggins](zachary_riggins.md) shouts into the classroom that "some crazy shit is going down at the girls' dorm" and everybody rushes out of the class, including Max. She sees Warren comforting [Alyssa Anderson](alyssa_anderson.md) as they both watch Kate standing up on the roof.
+
+If Max didn't answer Kate's call earlier, during Kate's suicide attempt, one of Max's excuses for not answering the phone will be, "I thought it was Warren! He's been blowing up my phone ever since I gave him my number..." and thinking that she was going to get a brand new phone.
+
+After Kate's (attempted) suicide, he comforts Max at the campus, and she tells him about her experience with Kate and that she is still worried about Kate (if she survived). Max tells him that she thinks something ominous is going on at Blackwell and that she is working on proof that Kate Marsh is somehow connected to [Rachel Amber](rachel_amber.md) along with Nathan and Mr. Madsen. He says "he is not a big conspiracy guy but wouldn't doubt it". Warren asks Max what she thinks is really happening, but their conversation is interrupted by the sight of an unexpected solar eclipse. [File:LifeIsStrange 2015-05-25 09-15-49-42.png](thumb.md) Max comments that "the weather confirms this weird day" and she feels the "chill." He points out to her that there was no eclipse scheduled today since he would have known about it. Max hugs her body from the cold, which causes Warren to move closer to her and lay an arm around her, drawing her close. To his comment about the eclipse, she replies: "I believe you, Warren... I'll believe anything this week..."
+
+##  Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+Max and Chloe decide to start their investigation by breaking into the [Raymond Wells](principal.md)'s [Principal Wells' Office](office.md) to look for answers. However, they soon discover that the key to the Principal's office is not included in the set. Chloe attempts to pick the lock, but after failed attempts to open the door, Max contacts Warren to ask him how to build a pipe bomb. Depending on Max's choice to accept or decline Warren's invitation, she will either tell him that she's not in mood this week or that she is all-in for going to the drive-in with him. She then goes to the Science and Art labs to retrieve the necessary ingredients. In the science lab she has an option to interact with Warren's grade and convert the "minus" to a "plus". Max will remark that Warren deserves way more than this for helping her out with Nathan. She then returns to Chloe and blows the lock, creating a way in but accidentally triggering an alarm. Max says in her journal that "Warren tries so hard to help... maybe too much, but what's wrong with that these days? I'm so grateful he's on my team."
+
+If Max visits the boys' locker room and interacts with Warren's locker she will see a photo of herself and Warren. Max will assume that the photo has been developed by Warren in Jefferson's class, and wonders why he did that in the first place.
+
+During the pool scene, Chloe will say: "I'm sure you have Blackwell bros all over you—like Warren..." One of the possible answers from Max is "Warren is nice...", which Chloe views as Max putting Warren in the friendzone. Max will emphasize on how cool Warren is for standing up to Nathan and remarks that she still hasn't told him about her rewind power. Other responses include dismissing his attraction to her as "gross" or simply deflecting the question of male love interests back to Chloe.
+
+##  Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+It is revealed from Warren's messages to Max that Chloe actually texted him about the kiss dare. This makes Max embarrassed and she gets shocked by the fact that Chloe texted him.
+
+If Max managed to save Kate's life, she will visit Kate at the hospital. After talking for a while, Kate will compliment Warren as being good-hearted and will suggest bringing him along to their tea-date. If Max asks about Kate's opinion of Warren, Kate will say "He's a cutie-pie. You know he likes you..." Based on Max's previous decision, she will either tell Kate that she turned his invite down, or mention the date and say she'll see even though it seems weird in current circumstances.
+
+After arriving to Blackwell, Max can ask Brooke about Nathan. Depending on if she accepted going to the movies with Warren or not, Brooke may seem less or more angry. If Max accepted Warren's invitation, Brooke will say that she was supposed to "compare notes and theories" with Warren on the weekend. Max will encourage this and say that two brains are better than one.
+
+While in the boys' dormitories, Max can write a cute message "Are you made of copper and tellurium? Because your CuTe." Max was referencing [https://imgur.com/gallery/CxUOPFt this meme]. on Warren's dorm room slate. Based on Max's earlier decision to accept or decline Warren's invitation, Max will either comment that "sometimes you have to take a chance and see what happens" or regrets that she "blew off his drive-in offer". She will also comment on it as, "I hope Warren doesn't think it's too dorky... I mean, not like he isn't. He will laugh at it right?" or "I hope he doesn't take it in wrong way. But he's my friend. Hmm. Decisions..." If she decides to write the message, Warren will later thank Max for that and say that he will never erase it. Max will say that he better not and that it's permanent.
+
+[File:maxandwarren-warrenvsnathan.png](thumb.md)
+After Max finishes searching Nathan's room for clues and is about to leave the dorms, Nathan comes in and confronts the girls. Warren steps in and headbutts Nathan. Max can either stop him or let him continue. After some time, they exit the dormitories, and Warren tells asks Max and Chloe if he should stick with them in case they need help. Chloe refuses this request and says that they will figure it out on their own. Max thanks Warren and says she'll call him later, and Warren replies: "You better. I'm feeling pretty alpha now" before leaving the duo. Chloe remarks that Warren is "so fucking in love" with Max. Max facepalms herself and says "I know", and also notes that it was a little scary to watch Warren beat Nathan.
+
+[File:maxandwarren-ep4parking.png](thumb.md)
+After fining out the truth about Rachel, Max and Chloe arrive at the [End of the World Party](end_of_the_world_party.md) and come across a drunk Warren. Warren will however comment that he drank only half a beer. If Max stopped him from beating up Nathan, Warren will thank Max for that and says that Nathan is dangerous. Warren will then insist on taking a picture with Max, much to Chloe's displeasure. Warren will apologize and say that he just wanted to feel like a normal student after this week's ultraviolence. Max says that they still need his expert help and look out for Nathan. Warren replies that Nathan won't see him as he knows how to invisible here but she replies “Not to me, Warren.” Max will later state in her journal that "we had to get rid of poor Warren fast, who wanted to bask in his alpha glory and hang out with Chloe and me. I can't put another one of my friends in danger", which shows that she feels sad,and cares about him.
+
+##  Episode Five - "[Episode 5: Polarized](polarized.md)" 
+In the alternative reality where Max wins the [Everyday Heroes Contest](everyday_heroes_contest.md) and David is informed about the [Dark Room (Location)](dark_room.md), Warren congratulates Max for winning the contest and asks if they can make an appointment, which she accepts.
+
+After Max is rescued by David from the Dark Room, she tries to think of ways to save Chloe, since Jefferson has burnt her journal. Max remembers the photo surviving in the timeline that Warren had taken of them at the [End of the World Party](end_of_the_world_party.md). She takes the keys to Jefferson's car and calls Warren who says he is holed up in the Two Whales Diner and tries to warn her not to drive to him as the storm is too dangerous.
+
+[File:maxandwarren-ep5dinertalk.png](thumb.md)
+Determined to save Chloe, Max ignores his warning and makes her way to the diner in Jefferson's car. When Max nears the diner, she needs to prevent a burning trail of fuel from reaching the diner using sand. Max makes her way into the diner from a side door. Inside the diner, she finds Joyce Price tending to an injured Frank, and Warren is at the counter. Warren is relieved to see Max, and says "I hate to say I'm glad to see you, but I'm so glad to see you." Max replies the important thing is that they are safe and that she knew he can take care of himself after what he did to Nathan. Warren is also shocked by the fact that Max came there during the storm and says he can't believe she drove here to get one picture and that he knows she didn't come for him. Max says she came for all of the people there, and he tells her that he has the photograph. Warren starts to say something, and she cuts him off and says he should listen. Warren asks about her secret and Max tells him about her rewind power and the events of the week. Warren immediately believes her and doesn't question things that much. He sees that moment as an important moment in history and thanks Max for trusting him; he has a total faith that she'll do the right thing when the time comes and that he is so proud of Max. [File:maxandwarren-ep5maxleaves.png](thumb.md) Max thanks him for always being there for her.
+
+Warren leaves the picture. Before letting Max focus on the photo, Warren says, "Hey... Be careful out there," and Max has the option to leave, hug, or kiss Warren.
+
+Kissed Only Chloe# Kissed Only ChloeIf Max kissed Chloe in Episode 3 and doesn't kiss Warren, she will write the following entry in her journal: 
+''"I'm glad Warren is such a good friend. Considering how insane my life has been this week, kissing Chloe instead of him didn't seem that strange. It felt like Chloe and I were flipping off the cruel universe... and if I was going to die, I wanted one kiss from my best friend."''
+|-|Kissed Only WarrenKissed Only WarrenIf Max didn't kiss Chloe in Episode 3 and kisses Warren, she will write the following entry in her journal: ''"Considering how insane my life has been this week, kissing Warren in the middle of a deadly storm didn't seem to be that strange. It felt like we were flipping off the cruel universe... and if I was going to die, I wanted one kiss from a boy I cared about."*
+|-|Kissed Both# Kissed BothIf Max kissed Chloe in Episode 3 and kisses Warren, she will write the following entry in her journal: *"Considering how insane my life has been this week, kissing Chloe, then Warren, didn't seem to be that strange. Both times it felt like we were flipping off the cruel universe... and if I was going to die, I wanted one kiss from two people I truly cared about."''
+|-|Kissed NeitherKissed NeitherIf Max didn't kiss Chloe in Episode 3 and doesn't kiss Warren, she will write the following entry in her journal: ''"Considering how insane my life has been this week, kissing Chloe or Warren in the middle of all this time warping would be too strange. I can't even think about my love life... or lack of one. But if I was going to die, maybe I should have kissed one of them for posterity..."''
+
+If Max kisses Warren, he will tell Max he's wanted to tell her something, but Max cuts him off and tells him she knows. She will also comment to herself, "At least I kissed Warren once to let him know how I feel...". If she hugs Warren, she will comment to herself saying that she hopes Warren will know just how much his friendship means to her.
+
+[File:Maxandwarren-ep5warrenleaves.png](thumb.md)
+Max focuses on the picture and finds herself in parking lot of Blackwell Academy. When Chloe starts to talk, Max immediately runs towards Chloe and leaps into her arms. Warren, however, heartbroken after this action, excuses himself to leave them to it. Max feels sorry for Warren, and goes after Chloe.
+
+ 
+
+In [Max's Nightmare](max_s_nightmare_sequence.md), where her perspective of feelings is internalized and her fears and insecurities are depicted, Warren appears in the locker maze with other people. If Max listens to nightmare Warren's dialogues, his actions and behavior is more exaggerated; he acts more pushy about going ape, has a darker personality, makes fun of Max and Chloe's relationship, calls Chloe a loser and tells Max that she needs an "alpha male" and asks if she got hot when she saw him beat up Nathan. [File:Warren's_nightmare_locker.jpg](thumb.md)[File:Dialogue compilation.jpg](thumb.md)
+
+She will see Warren's locker filled with pictures of Max in various swimwear. Max may take an optional photo of the interior of the locker, and she will comment on it as "Oh shit Warren. That is too weird, and fucking scary. Just in case I need evidence..."
+
+Warren will also show up in the Dark Room sequence of the nightmare, as one of people flirting with Chloe. Depending on Max's actions earlier, he will insult her in different ways. He also shows up at the diner, and he'll be one of the people who plead for Max to save them.
+
+During the final scene of the game, Max can check her text messages and see Warren's past messages, repeatedly asking for her well-being. There were also undelivered messages to Warren, where Max was warning him about the storm and that he should tell everyone to take shelter as soon as possible.
+
+[File:Vlcsnap-2016-09-10-16h32m59s376.png](thumb.md)
+Warren also can be seen in the Sacrifice Chloe ending along with Kate Marsh and other students as they attend Chloe's funeral with Max. Considering that Max was questioning her feelings for Chloe (and Chloe's feelings for her) at the [Easily Missed Details (Life is Strange)#Max.27s_Last_Journal_Entries](end_of_her_journal.md), it can be assumed that they remain as friends.
+
+He is presumed to be dead in the Sacrifice Arcadia Bay ending.
+
+##  Alternative Timeline 
+[File:Warren and Stella.jpg](thumb.md)
+Warren first appears in the [Alternative Timeline](alternative_timeline.md) when Max finds herself sitting on the main campus lawn at Blackwell Academy and discovers that she is a member of the Vortex Club and that Victoria is now her friend. She spies Warren nearby, who now appears to be dating [Stella Hill](stella_hill.md).
+
+When they are at Chloe's house, Chloe asks Max if she is dating anyone at Blackwell. Max can either say that "Not really, no. There are some cute boys there, but you know me... I'm too damn shy" or that she's busy with school and photography. Chloe replies that this is stupid because there are surely a lot of boys at Blackwell crushing on Max. Max then mentions Warren and the fact that she was originally supposed to go out with him, but he's not into her anymore or that he is with someone else. Chloe says that it's "his loss" and jokes that there is still "plenty of fish left in the bay".
+
+##  Memorable Quotes 
+{{Quote|For every action, there's... there's a reaction...|Warren to Max in [Episode 5: Polarized](polarized.md)}}
+{{Quote|I hate to say I'm glad to see you, but I'm so glad to see you.|Warren to Max in [Episode 5: Polarized](polarized.md)}}
+
+##  Trivia 
+*At the beginning of the game, Max says she considers Warren to be her Supercool Geek Brother.
+* The "line" Warren tries to use on Max in the parking lot; "Art is Science, Science is Art" is actually a motto or a quote by {{Wiki|Leonardo da Vinci}}.
+*Warren is Max's best friend amongst Blackwell students.
+*Warren, who self-proclaims to be Max's "White Knight", certainly tries to deserve the title. He saves Max from two confrontations with Nathan and ultimately saves Chloe's life indirectly by providing Max the last surviving photo of a timeline when Chloe is alive and well, after Mark Jefferson burned Max's diary that contained all of Max's photos.
+*In spite of Max referring to Warren as having the same age as her, Warren is actually two years younger than Max.
+*At a given point in the game, depending on what Max answers, Chloe will jokingly say that Warren is "friendzoned" by Max. 
+*Warren seems to be a "lightweight" when it comes to alcohol consumption. Max and Chloe find Warren at the entrance of the [ End of the World Party](_end_of_the_world_party.md), visibly drunk after drinking just half a beer. Due to the "drug environment" that surrounds Vortex Club parties there is also the possibility that someone spiked his beer.
+*Warren, like Max, seems to be a fan of World of Warcraft.
+*Warren, in spite of being nothing but supportive of Max, and always kind and friendly, seems to have a darker side. He goes out of control when he beats up Nathan, which both Max and Chloe seem to notice and disapprove in private. 
+*He also waits for Max in the courtyard in the beginning of [Episode 2: Out of Time](episode_2.md) and even develops a photo that he and Max took together, which he puts up in his locker.
+*The above reasons might be an explanation to Warren's behavior during [Max's Nightmare](max_s_nightmare.md). While in the nightmare, Warren's speech will be more aggressive—almost violent—and he will have a locker full of crudely altered photos of Max.
+*Max may not be that oblivious about Warren's romantic feelings for her. After a reply from Alyssa warning Max to be careful, because she might make Brooke jealous, Max quickly replies, "I'll just pretend I have no idea what you mean." Also, after Warren's movie invitation, she will express concern in her diary about him making a move on her if the invitation was accepted. If Max declined, she will write in her diary that one of the reasons is that she doesn't want to lead him on.
+*Even if Max shows no inclination towards Warren whatsoever, Chloe will always consider Warren her rival in the dispute for Max affection. Chloe will ask about Warren in the pool scene and if Max kisses her, Chloe will jokingly say she will be texting Warren about him being out of the loop, and she actually follows through with the deed.
+*Max considers Warren to be one of the smartest students at Blackwell. In [Episode 3: Chaos Theory](episode_3.md), when Max and Chloe gain access to student files, her opinion is confirmed by Warren's 4.0 GPA scoring. His report states he is "considered an exemplary student and represents a long tradition of excellence in science at Blackwell."
+
+###  Episode One: Chrysalis 
+
+Max and Warren - Chrysalis (1).jpg
+Max and Warren - Chrysalis (2).jpg
+Max and Warren - Chrysalis (3).jpg
+Max and Warren - Chrysalis (4).jpg
+Max and Warren - Chrysalis (5).jpg
+Max and Warren - Chrysalis (6).jpg 
+Max and Warren - Chrysalis (7).jpg
+
+###  Episode Two: Out of Time
+
+Max and Warren - Out of Time (8).jpg
+Max and Warren - Out of Time (9).jpg
+Max and Warren - Out of Time (10).jpg
+Max and Warren - Out of Time (11).jpg
+Max and Warren - Out of Time (12).jpg
+Max and Warren - Out of Time (13).jpg
+Max and Warren - Out of Time (14).jpg
+Max and Warren - Out of Time (15).jpg
+Max and Warren - Out of Time (16).jpg
+Max and Warren - Out of Time (17).jpg
+Max and Warren - Out of Time (18).jpg
+
+### Episode Three: Chaos Theory
+
+Max and Warren - Chaos Theory (19).jpg|Photo found in Warren's pool locker.
+
+### Episode Four: Dark Room
+
+Max and Warren - Dark Room (20).jpg|Max writes a message on Warren's personal dorm whiteboard.
+Max and Warren - Dark Room (21).jpg
+Max and Warren - Dark Room (22).jpg
+Max and Warren - Dark Room (23).jpg
+Max and Warren - Dark Room (24).jpg
+Max and Warren - Dark Room (25).jpg
+Max and Warren - Dark Room (26).jpg
+Max and Warren - Dark Room (27).jpg
+Max and Warren - Dark Room (28).jpg
+Max and Warren - Dark Room (29).jpg 
+Max and Warren - Dark Room (30).jpg
+Max and Warren - Dark Room (31).jpg 
+
+### Episode Five: Polarized
+
+Max and Warren - Polarized (35).jpg
+Max and Warren - Polarized (40).jpg
+Maxandwarren-ep5hug.png|Hug Warren option.
+Max and Warren - Polarized (41).jpg|Kiss Warren option.
+Max and Warren - Polarized (44).jpg|Photo taken from E4: Dark Room.
+Max and Warren - Polarized (45).jpg|Sacrifice Chloe ending - Warren lives.
+

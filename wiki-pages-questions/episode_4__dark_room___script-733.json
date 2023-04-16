@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Does Max Use To Unlock Nathan's Phone?",
+    "answer": "B",
+    "choices": {
+      "A": "SIM Card",
+      "B": "PUK Code",
+      "C": "Nathan's Student File",
+      "D": "Four-Digit Codes"
+    }
+  },
+  {
+    "question": "What Clues Does Max Use To Find The Location Of The Barn?",
+    "answer": "B",
+    "choices": {
+      "A": "Nathan's Student File And The Photo Of The Barn",
+      "B": "Screenshot Of Nathan's Text Messages To Frank And The Record Of Their Transaction",
+      "C": "The SIM Card And The Piece Of Paper With Four-Digit Codes",
+      "D": "Nathan's Phone And The PUK Code"
+    }
+  },
+  {
+    "question": "Why Does Chloe Refuse To Call The Police?",
+    "answer": "A",
+    "choices": {
+      "A": "Because The Police Are Like Nathan's Private Security",
+      "B": "Because The Police Are Incompetent",
+      "C": "Because The Police Are Corrupt",
+      "D": "Because The Police Are Unreliable"
+    }
+  },
+  {
+    "question": "What Does Chloe Say About The Town?",
+    "answer": "D",
+    "choices": {
+      "A": "The Town Is Peaceful",
+      "B": "The Town Is Beautiful",
+      "C": "The Town Is Friendly",
+      "D": "The Town Is Messed Up"
+    }
+  }
+]

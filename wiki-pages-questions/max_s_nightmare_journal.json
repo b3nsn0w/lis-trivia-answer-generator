@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Name Of The Nightmare Sequence In Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Max's Nightmare",
+      "B": "Chloe's Nightmare",
+      "C": "Rachel's Nightmare",
+      "D": "Jefferson's Nightmare"
+    }
+  },
+  {
+    "question": "What Is Written At The Bottom Of The Right Page Of Max's Nightmare Journal?",
+    "answer": "C",
+    "choices": {
+      "A": "\"There's No Hope\"",
+      "B": "\"There's No Way Out\"",
+      "C": "\"There's No Escape\"",
+      "D": "\"There's No Future\""
+    }
+  },
+  {
+    "question": "Whose Head Is On A Butterfly With A Ripped Wing In Max's Nightmare Journal?",
+    "answer": "B",
+    "choices": {
+      "A": "Joyce Price",
+      "B": "Rachel Amber",
+      "C": "Victoria Chase",
+      "D": "Kate Marsh"
+    }
+  },
+  {
+    "question": "What Is Written Repeatedly On The Left Page Of Max's Nightmare Journal?",
+    "answer": "D",
+    "choices": {
+      "A": "\"Chloe\"",
+      "B": "\"Rachel\"",
+      "C": "\"The Doe Is A Lie\"",
+      "D": "\"Max In The Dark Room\""
+    }
+  },
+  {
+    "question": "What Is Depicted In One Of The Pictures In Max's Nightmare Journal?",
+    "answer": "C",
+    "choices": {
+      "A": "A Skull With A Deer Skull",
+      "B": "A Butterfly With A Ripped Wing",
+      "C": "An Instant Camera Shooting Out Blood",
+      "D": "Multiple Eyes"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Where is the Pan Estates flyer located?",
+    "answer": "C",
+    "choices": {
+      "A": "On Nathan's computer",
+      "B": "In David's clues in the investigation puzzle",
+      "C": "On a garbage bin at the beach",
+      "D": "In Kate's video"
+    }
+  },
+  {
+    "question": "What is the name of the drug mentioned in one of Nathan's emails?",
+    "answer": "A",
+    "choices": {
+      "A": "Dexomine",
+      "B": "Methamphetamine",
+      "C": "Cocaine",
+      "D": "Heroin"
+    }
+  },
+  {
+    "question": "What is the subject of the email from Wells to Nathan?",
+    "answer": "B",
+    "choices": {
+      "A": "Nathan's grades",
+      "B": "Nathan's behavior",
+      "C": "Nathan's extracurricular activities",
+      "D": "Nathan's family background"
+    }
+  },
+  {
+    "question": "What is the content of the photos of car license plates in David's clues?",
+    "answer": "D",
+    "choices": {
+      "A": "Photos of Nathan's car",
+      "B": "Photos of Kate's car",
+      "C": "Photos of Max's car",
+      "D": "Photos of several vehicles' license plates"
+    }
+  }
+]

@@ -1,0 +1,114 @@
+Here is a section of the wiki page for Choices and Consequences:
+
+## Kate Marsh's phone call
+Major choice:
+
+AnsweredAnswered
+***Episode 2**
+**Max is glad Kate is comforted and appreciative of Max. At the same time, Max will also regret this action leading to Chloe and her mother Joyce Price getting into an argument due to Chloe having to wait for Max to finish speaking with Kate.
+**Chloe will be upset with Max. 
+**Counts towards Chloe retaining her original mobile phone background (2 of 4, up to 2 required).
+**Kate will send Max SMS messages later to thank Max for answering her phone call.
+**It will be easier to save Kate - Max will be given two options to say to Kate during the conversation with Kate on the rooftop.
+***There are two options: "You're my friend" and "I'm here for you". Either option will not upset Kate and will enable Max to get closer to save Kate.
+**Mark Jefferson will bring up Max answering this phone call if Max blames him for Kate's suicide attempt.
+***Episode 4**
+**If Kate is alive in the hospital, Chloe will be relieved that Max answered Kate's phone call earlier.
+|-|Didn't answer# Didn't answer
+***Episode 2**
+**Chloe will be pleased with Max. At the same time, Max will also regret not being available to talk to Kate.
+**Chloe will be pleased with Max. 
+**Counts towards Chloe changing her mobile phone background to a picture of Max (2 of 4, up to 3 required).
+**Kate will send Max SMS messages later to express disappointment in Max for not answering her phone call.
+**It will be harder to save Kate - Max will be given four options to say to Kate during the conversation with Kate on the rooftop.
+***There are four options: "It was in silent mode", "My phone died", "I was with Chloe" and "Thought it was Warren". Only the option "It was in silent mode" will enable Max to get closer to save Kate. Any other option will upset Kate and cause her to take a few steps closer to the edge of  the roof or to jump off the roof if she had already moved to the edge.
+**Mark Jefferson will bring up Max not answering this phone call if Max blames him for Kate's suicide attempt.
+***Episode 4**
+**If Kate is alive in the hospital, Chloe will express her regret and apologize to Max that she almost indirectly caused Max to lose a good friend forever.
+
+#
+
+## The [American Rust Junkyard](american_rust_junkyard.md)
+Minor choice:
+
+Write a messageWrite a message
+***Episode 4**
+**Max and Chloe's names will be circled on the wall of the [Hideout](hideout.md) and have the words "YOU'RE ALL GOING TO DIE" written in red.
+**The "was" in "Rachel was here" will be replaced with a red "is".
+|-|Leave it# Leave it
+***Episode 4**
+**Chloe's name will remain unchanged on the wall of the [Hideout](hideout.md) .
+**The "was" in "Rachel was here" will be replaced with a red "is".
+
+#
+
+## [Frank Bowers](frank_bowers.md) and the gun
+Major choice:
+
+Tried to shootTried to shoot
+***Episode 2**
+**Frank is both angry and amused that Max tried to shoot him with an empty gun.
+**Chloe will be glad that she still has the gun.
+**Chloe will send Max SMS messages to jokingly ask Max to marry her and express appreciation to Max later on. This will contribute to Chloe changing her mobile phone background to a picture of Max (3 of 4, up to 3 required).
+***Episode 3**
+**The gun will be visible in Chloe's room.
+**Frank will remind Max that she almost shot him when she tries to talk to him in the diner.
+**The gun will not be around in Frank's RV.
+***Episode 4**
+**It will be harder to convince Frank to give his cipher code peacefully and turn him to an ally.
+***Frank will question Max's intentions by reminding her that she tried to shoot him earlier.
+****There will be four possible options to say to Frank.
+****Only the option "You scared me" will not anger him. Any other option will cause Frank to get angry, unless you give him the money Chloe owes him.
+***Episode 5**
+**Contributes to Max and Chloe sharing a passionate kiss in the "Sacrifice Chloe" ending.
+|-|Didn't try to shoot# Didn't try to shoot
+***Episode 2**
+**Frank will only be amused at Max's inexperience and snatch Chloe's gun.
+**Chloe will express her disappointment at Max for helping her lose the gun to Frank and have Frank use the gun as additional collateral for Chloe's debt.
+**Chloe will send Max SMS messages to ask Max to rewind and shoot Frank later on. This will contribute to Chloe retaining her original mobile phone background (3 of 4, up to 2 required).
+***Episode 3**
+**The gun will not be around in Chloe's room.
+**Frank will threaten to break Max's camera at the diner if Max tries to take a picture of him.
+**The gun will be around in Frank's RV.
+***Max may decide to take the gun.
+***Taking the gun will affect the meeting with Frank later in the following episode.
+***Episode 4**
+**It will be easier to convince Frank to give his cipher code peacefully and turn him to an ally.
+***Max will say that she isn't there to fight.
+****Frank will not question Max's actions at the junkyard earlier.
+***Episode 5**
+**Contributes to Max and Chloe sharing a long hug in the "Sacrifice Chloe" ending.
+
+#
+
+## The [Train Tracks](train_tracks.md)
+Minor choice:
+
+DamagedDamaged
+***Episode 3**
+**The [Truck Driver](truck_driver.md) will mention that he is stuck in town due to the train tracks being broken.
+|-|Didn't damage# Didn't damage
+***Episode 3**
+**The [Truck Driver](truck_driver.md) will mention that work in town has dried up.
+
+#
+
+## The [End of the World Party](vortex_club_party.md) VIP Entry
+Minor choice:
+
+Gained entryGained entry
+***Episode 3**
+**Max cannot add her name to the Vortex Club Party list.
+***Episode 4**
+**Courtney will greet Max as "our guest star" and help Max enter the VIP section easily.
+|-|Didn't gain entry# Didn't gain entry
+***Episode 3**
+**Max may add her name to the Vortex Club Party list at the Blackwell [Swimming Pool](swimming_pool.md) area.
+***Episode 4**
+**Max will have to enter the VIP section secretly through the side of the swimming pool, regardless of whether Max added her name to the Vortex Club party list earlier.
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

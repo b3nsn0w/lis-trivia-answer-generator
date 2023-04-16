@@ -1,0 +1,84 @@
+Here is a section of the wiki page for Max's Notes:
+
+vertical-align:top"|Look[File:note4-nathanroom-partyemail.png](220px.md)
+|-|Read# [File:note4-nathanroom-partyemail2.png](220px.md)
+|-
+|'''Page with Kate's video.'''
+Location: Nathan's computer in his room.
+Max's comments: Bastard. Now I remember why I hate you... and why Kate will get justice.
+|style"height:186px; vertical-align:top"|Look# [File:note4-nathanroom-katevid.png](220px.md)
+|-|Read[File:note4-nathanroom-katevid2.png](220px.md)
+|-
+|**Email from [Sean Prescott](sean.md) to Nathan.**
+Location: Nathan's computer in his room.
+Max's comments: Oh man, Sean Prescott might be Nathan’s real problem...
+|style# "height:186px; vertical-align:top"|Look[File:note4-nathanroom-seanmail.png](220px.md)
+|-|Read# [File:note4-nathanroom-seanmail2.png](220px.md)
+|-
+|**Email from [Kristine Prescott](kristine.md) to Nathan.**
+Location: Nathan's computer in his room.
+Max's comments: Too bad Nathan isn't more like his sister. She sounds awesome... and far away.
+|style"height:186px; vertical-align:top"|Look# [File:note4-nathanroom-kristinemail.png](220px.md)
+|-|Read[File:note4-nathanroom-kristinemail2.png](220px.md)
+|-
+|**Online drugstore page with Dexomine pills.**
+Location: Nathan's computer in his room.
+Max's comments: Yes, Nathan sure needs diet pills. This is strong stuff...
+|style# "height:186px; vertical-align:top"|Look[File:note4-nathanroom-dexomine.png](220px.md)
+|-|Read# [File:note4-nathanroom-dexomine2.png](220px.md)
+|-
+|**Email from Wells to Nathan.**
+Location: Nathan's computer in his room.
+Max's comments: Wow... Kiss ass much, Principal Wells?
+Notes: Appears only if Max reported Nathan in Episode 1.
+|style"height:186px; vertical-align:top"|Look# [File:note4-nathanroom-wellsmail.png](220px.md)
+|-|Read[File:note4-nathanroom-wellsmail2.png](220px.md)
+|-
+|**Pan Estates flyer.**
+Location: On a garbage bin at the beach.
+Max's comments: There might not be any Pan Estates by Saturday...
+|style# "height:186px; vertical-align:top"|Look[File:note4-beach-panestates.png](220px.md)
+|-|Read# [File:note4-beach-panestates2.png](220px.md)
+|-
+|**Map of Blackwell with camera placement.**
+Location: First series of David's clues in the investigation puzzle.
+Max's comments: You need to get rid of these damn cameras, David.
+|style"height:186px; vertical-align:top"|Look# [File:note4-invD1-cameramap.png](220px.md)
+|-|Read[File:note4-invD1-cameramap2.png](220px.md)
+|-
+|**Coordinates of several vehicles**
+Location: First series of David's clues in the investigation puzzle.
+Max's comments: I hope in this case that David has good tracking skills.
+|style# "height:186px; vertical-align:top"|Look[File:note4-invD1-coords.png](220px.md)
+|-|Read# [File:note4-invD1-coords2.png](220px.md)
+|-
+|**Photos of Kate.**
+Location: First series of David's clues in the investigation puzzle.
+Max's comments: David should have done way more than take photos of Kate.
+|style"height:186px; vertical-align:top"|Look# [File:note4-invD1-katephotos.png](220px.md)
+|-|Read[File:note4-invD1-katephotos2.png](220px.md)
+|-
+|'''David's profile on Kate.'''
+Location: First series of David's clues in the investigation puzzle.
+Max's comments: Hmmm, maybe he was trying to help Kate in his own messed up way.
+|style# "height:186px; vertical-align:top"|Look[File:note4-invD1-kateprofile.png](220px.md)
+|-|Read# [File:note4-invD1-kateprofile2.png](220px.md)
+|-
+|**Photos of car license plates.**
+Location: First series of David's clues in the investigation puzzle.
+Max's comments: Look at all these license plates. I hope he was tailing Nathan.
+|style"height:186px; vertical-align:top"|Look# [File:note4-invD1-licenseplates.png](220px.md)
+|-|ReadNone
+|-
+|**Photos of Max.**
+Location: First series of David's clues in the investigation puzzle.
+Max's comments: Of course, I’m a suspect. Proving David sucks as a detective. Sorry.
+|style# "height:186px; vertical-align:top"|Look[File:note4-invD1-maxphotos.png](220px.md)
+|-|Read# None
+|-
+|**Photos of Nathan.**
+Location: First series of David's clues in the investigation puzzle.
+Max's comments: At least David was finally going after the right suspect.
+|style"height:186px; vertical-align:top"|Look# 
+
+Generate five trivia questions relevant to this section of the page.

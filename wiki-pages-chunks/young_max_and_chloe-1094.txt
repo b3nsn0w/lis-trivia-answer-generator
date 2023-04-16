@@ -1,0 +1,48 @@
+Here is a section of the wiki page for Young Max and Chloe:
+
+## Memories 
+In Episode 1, Max thinks back to the following childhood memory when she sits on the old swing that William made for her and Chloe in Chloe's backyard:
+:**Max:** "What do you truly want to do when you grow up?"
+:**Chloe:** "Max, I'm already grown up. What about you?"
+:**Max:** "Travel. That would be awesome. Explore the world. Go far from here..."
+:**Chloe:** "Far from me? Thanks a lot, dude."
+:**Max:** "Dude, you would totally come with me! I need a bodyguard for our adventures!"
+:**Chloe:** "I would be like [Wikipedia:Lara Croft](lara_croft.md), except real. That would be majorly cool."
+:**Max:** "Totally! We'd have cars and boats and planes all over for instant escape! And no adults could tell us what to do!"
+:**Chloe:** "Count me in. What would you do while I was bodyguarding you?"
+:**Max:** "Maybe take pictures of our adventures. I would love to be a photographer. As if I ever could be..."
+:**Chloe:** "What are you talking about? Max, you are a photographer. Your pictures could be in a museum. Someday they will. I believe in you..."
+
+Max recalls another memory on the swing in Episode 3:
+:**Max:** "I remember when Chloe and me would take turns in the swing... We would push each other hard so we would fly way up in the air... Chloe always wanted to swing all the way around... I always got scared and would jump off before I flew off... And Chloe is still trying to get high..."
+
+In Episode 1, Max thinks back to the following childhood memory when she sits on the old couch in Chloe's house:
+:**Chloe:** "Come on, open it chicken!"
+:**Max:** "Hold on. And I'm not chicken!"
+:**Chloe:** "Prove it! You drink first, Max!"
+:**Max:** "No way! It was your idea, Chloe!"
+:**Chloe:** "Whateva. Give me that bottle."
+:**Max:** "Well?"
+:**Chloe:** "Tasty. Very tasty."
+:**Max:** "Here, I want a sip!"
+:**Chloe:** "Sorry, this is not for kids."
+:**Max:** "Don't be greedy! Gimme some!"
+:**Chloe:** "Oh shit, the carpet!"
+:**Max:** "There's wine all over! What do we do now?"
+:**Chloe:** "My parents are coming! Cover it up..."
+
+When Max jumps back in time to 2008 in Episode 3, echoes of a conversation she had with William and Chloe are heard. According to the game files, the dialogue order for the full conversation goes as follows:
+: **William:** *"Yes girls, time for a picture!"* {{Headphones|fileCue_E3_8A_Kitchen_FocusPicture_William_010.ogg}}
+: **Chloe: ***"Max needs more flour on her face!"* {{Headphones|file# Cue_E3_8A_Kitchen_FocusPicture_Chloe_020.ogg}} 
+: **Max (laughing):** ''"I can't even see!"* {{Headphones|fileCue_E3_8A_Kitchen_FocusPicture_Max_030.ogg}}
+: **William:** *"You look like a ghost!"* {{Headphones|file# Cue_E3_8A_Kitchen_FocusPicture_William_040.ogg}} 
+: **Chloe (laughing):** *"Get a close-up of Max!"* {{Headphones|fileCue_E3_8A_Kitchen_FocusPicture_Chloe_050.ogg}} 
+: **Max: ***"Knock it off, Chloe!"* {{Headphones|file# Cue_E3_8A_Kitchen_FocusPicture_Max_060.ogg}} 
+: **Chloe:** *"Make me! You look hilarious!"* {{Headphones|fileCue_E3_8A_Kitchen_FocusPicture_Chloe_070.ogg}}
+: **William: ***"Come on now, say 'Pancake!'"* {{Headphones|file# Cue_E3_8A_Kitchen_FocusPicture_William_080.ogg}} 
+: **Chloe:** *"Cheesecake!"* {{Headphones|fileCue_E3_8A_Kitchen_FocusPicture_Chloe_090.ogg}} 
+: **Max:** *"I hate pictures of myself!"* {{Headphones|file# Cue_E3_8A_Kitchen_FocusPicture_Max_100.ogg}}
+
+
+
+Generate five trivia questions relevant to this section of the page.

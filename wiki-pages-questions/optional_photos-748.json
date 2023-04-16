@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Achievement Do You Earn By Taking A Picture Of Warren's Chemistry Experiment?",
+    "answer": "D",
+    "choices": {
+      "A": "Compressed",
+      "B": "Pixelated",
+      "C": "Dynamic Range",
+      "D": "Meter Made"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Achievement You Earn By Taking A Picture Of Alyssa In Jefferson's Classroom?",
+    "answer": "D",
+    "choices": {
+      "A": "Compressed",
+      "B": "Pixelated",
+      "C": "Dynamic Range",
+      "D": "Resolution Revolution"
+    }
+  },
+  {
+    "question": "What Is The Reason Max Doesn't Take Any Pictures In The Alternative Timeline?",
+    "answer": "A",
+    "choices": {
+      "A": "She Loses Her Camera",
+      "B": "She Forgets To Take Pictures",
+      "C": "She Is Too Busy",
+      "D": "She Doesn't Want To Remember That Timeline"
+    }
+  },
+  {
+    "question": "What Happens To The Bottles In \"Collectible Mode\" After You Take A Picture Of Them?",
+    "answer": "C",
+    "choices": {
+      "A": "They Disappear",
+      "B": "They Remain In The Same Place",
+      "C": "They Break And Cannot Be Collected Again",
+      "D": "They Move To A Different Location"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Achievement You Earn By Taking A Picture Of The Doe In The Junkyard?",
+    "answer": "C",
+    "choices": {
+      "A": "Compressed",
+      "B": "Pixelated",
+      "C": "Dynamic Range",
+      "D": "Colorized"
+    }
+  }
+]

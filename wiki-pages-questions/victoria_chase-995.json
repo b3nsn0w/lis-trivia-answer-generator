@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Happens To Victoria If Max Warns Her About Jefferson's True Nature?",
+    "answer": "A",
+    "choices": {
+      "A": "She Is Drugged And Tied Up In The Dark Room",
+      "B": "She Escapes From The Dark Room",
+      "C": "She Is Rescued By Max",
+      "D": "She Is Murdered By Jefferson"
+    }
+  },
+  {
+    "question": "What Does Victoria Write In Her Notebook About Mark Jefferson?",
+    "answer": "B",
+    "choices": {
+      "A": "He Is A Terrible Teacher",
+      "B": "He Is A Great Photographer",
+      "C": "He Is A Murderer",
+      "D": "He Is Her Boyfriend"
+    }
+  },
+  {
+    "question": "In Max's Nightmare, What Form Do Max's Insecurities Take When It Comes To Victoria?",
+    "answer": "B",
+    "choices": {
+      "A": "Watching Her Flirt With Nathan",
+      "B": "Watching Her Kiss Chloe",
+      "C": "Watching Her Win The Everyday Heroes Contest",
+      "D": "Watching Her Get Drunk At A Party"
+    }
+  },
+  {
+    "question": "What Is Victoria's Fate If Max Chooses To Sacrifice Arcadia Bay?",
+    "answer": "A",
+    "choices": {
+      "A": "She Survives The Storm",
+      "B": "She Dies In The Storm",
+      "C": "She Attends Chloe's Funeral",
+      "D": "She Leaves Arcadia Bay Before The Storm Hits"
+    }
+  }
+]

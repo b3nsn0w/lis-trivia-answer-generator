@@ -1,0 +1,52 @@
+[
+  {
+    "question": "In which episode is the beach first seen?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "What is the name of the beach in Life is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Arcadia Bay Beach",
+      "B": "Blackwell Beach",
+      "C": "Jefferson Beach",
+      "D": "Just Beach"
+    }
+  },
+  {
+    "question": "What do Max and Chloe go to the beach for in Episode 4?",
+    "answer": "B",
+    "choices": {
+      "A": "To watch the eclipse",
+      "B": "To find Rachel Amber",
+      "C": "To confront Nathan Prescott",
+      "D": "To go swimming"
+    }
+  },
+  {
+    "question": "What happens to Max after waking up at the beach in Episode 5?",
+    "answer": "B",
+    "choices": {
+      "A": "She falls asleep again",
+      "B": "She enters a nightmare",
+      "C": "She goes to the End of the World Party",
+      "D": "She goes back to her dorm room"
+    }
+  },
+  {
+    "question": "What can Max do at the beach in terms of interactions?",
+    "answer": "D",
+    "choices": {
+      "A": "Look at a sign about the wildlife",
+      "B": "Look at and take an optional photo of the beached whales",
+      "C": "Look at Frank's garbage bag",
+      "D": "All of the above"
+    }
+  }
+]

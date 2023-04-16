@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is Written On The Stump Near The End Of The Lighthouse Pathway?",
+    "answer": "A",
+    "choices": {
+      "A": "A Poem",
+      "B": "A Warning Sign",
+      "C": "A Map",
+      "D": "A Love Letter"
+    }
+  },
+  {
+    "question": "What Happens To The Lighthouse In Max's Storm-Filled Vision?",
+    "answer": "A",
+    "choices": {
+      "A": "It Is Destroyed By A Fishing Boat",
+      "B": "It Is Burned Down By A Wildfire",
+      "C": "It Is Demolished By The City",
+      "D": "It Is Abandoned And Left To Decay"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Novel That The Glyphs On The Maintenance Shed Are Related To?",
+    "answer": "A",
+    "choices": {
+      "A": "The WindWalkers",
+      "B": "The Lighthouse Keeper",
+      "C": "The Haiku Poet",
+      "D": "The Storm Chaser"
+    }
+  },
+  {
+    "question": "What Is The Purpose Of The Sign On The Trail Leading To The Lighthouse?",
+    "answer": "A",
+    "choices": {
+      "A": "To Encourage Visitors To Leave The Wildlife Alone",
+      "B": "To Warn Visitors Of Dangerous Cliffs",
+      "C": "To Provide Directions To The Lighthouse",
+      "D": "To Promote Environmental Conservation"
+    }
+  }
+]

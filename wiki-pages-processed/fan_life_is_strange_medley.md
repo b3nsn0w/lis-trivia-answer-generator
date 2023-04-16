@@ -1,0 +1,75 @@
+#  Fan:Life is Strange Medley 
+
+**"Life is Strange Original Song Medley"** is a *[Life is Strange](life_is_strange.md)*-inspired song performed by [Fan:Fan Music#Campusanis](campusanis.md). It was released on February 4, 2018.
+
+##  Lyrics 
+[Song 1: Left Alone]
+:I wish that they had listened
+:I wish that they had cared
+:Your life is in my hands now
+:How could it come to this?
+:It seems like things could be so simple
+:Such an easy fix
+
+[Song 2: The Place To Be]
+:In my head, there's pictures that are never fading
+:Long after you've turn dark
+:Little things remind me of the world inside you
+:But there's no need for us to mourn
+:'Cause you are never really gone
+
+:These colors seem never as warm, I feel a
+:Stiff breeze as we weather the storm and yet I
+:Let it all wash right over me
+:I close my eyes and I see
+:This is the place to
+:This is the place to
+
+[Song 3: Heartbeat]
+:Wanna see me let go?
+:You wanna hear the silence?
+:Tell me I should care
+:If you could see my face now
+:You wouldn't take that shot, well
+:I won't be the same
+:You can't tell me to feel
+:Watch me
+
+:I won't tell you how to live
+:Any day now you could give me a smile
+:And you'd say, "Let's be stupid together"
+:The truth is really simple
+:We'd be right back in a heartbeat
+
+[Song 4: Blinding Darkness]
+:Every little memory seems to haunt me
+:How am I the only one to really care?
+:I believe there's nothing left to save me
+:I'm on my own along this journey now
+:Bring me all the way to the light of day
+:You blind me now you're gone
+:And fire's leading dawn
+
+[Song 5: Borrowed Time]
+:There is no need to be cynical
+:Some things are not what they seem
+:And if you don't believe me
+:I'll show you what I mean
+
+:And he can't touch me now
+:This is our world
+:For all that we've been through
+:And there is no way out
+:There ain't no point in wondering
+:Forever I'll be here with you
+:And this will be our time
+:(This will be our time)
+:This will be our time
+:(This will be our time)
+:This will be our time
+##  Videos 
+ 
+Life is Strange Original Song Medley
+
+{{Music Navbox}}
+

@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What Did Vanessa Caulfield Send Max For Her Birthday?",
+    "answer": "A",
+    "choices": {
+      "A": "A Box Of Chocolate Coconut Bites",
+      "B": "A Teddy Bear",
+      "C": "A Hi-Fi Stereo",
+      "D": "A Tourist Poster Of The Space Needle"
+    }
+  },
+  {
+    "question": "What Is The Name Of Max's Best Friend From Five Years Ago?",
+    "answer": "B",
+    "choices": {
+      "A": "Chloe Price",
+      "B": "Kristen",
+      "C": "Fernando",
+      "D": "Ryan Caulfield"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Hockey Team Whose Pennant Is Hanging In Max's Room?",
+    "answer": "A",
+    "choices": {
+      "A": "Thunderbirds",
+      "B": "Sharks",
+      "C": "Penguins",
+      "D": "Bruins"
+    }
+  }
+]

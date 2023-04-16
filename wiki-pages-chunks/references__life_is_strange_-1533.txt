@@ -1,0 +1,57 @@
+Here is a section of the wiki page for References (Life is Strange):
+
+## Stephen King 
+During a CNC conference about realism in video games that was held in June 2015, Cano confirmed that {{Wiki|Stephen King}}'s work was a source of inspiration in the creation of the game's plot and its universe.[https://www.lesnumeriques.com/jeux-video/reel-dans-jeu-video-representation-experience-a2225.html Le réel dans le jeu vidéo : représentation et expérience] (June27, 2015) Several references to Stephen Kinng's novels can be found in the game.
+* In the parking lot Max spots [Frank Bowers](frank_bowers.md)'s sleeping dog and calls it "{{Wiki|Cujo}}". Cujo is a rabid canine and central character in the same-titled novel written by Stephen King.
+* If Max talks to Justin at the Vortex Club party he'll refer to Max as "Maximum Overdrive", a reference to the same-titled Stephen King film.
+* In Max's nightmare when sneaking behind Frank Bowers with a flashlight, he says, "Me and Rachel are floating down here in the sewer... Come on down!", which is a reference to Stephen King's *IT*.
+* When entering the girls dorm for the first time, the first room on the right got "REDRUM" written on the whiteboard and that room has the number 217 (Stella Hill's room). Both number and the writing refer to the book *{{wiki|The Shining (novel)|The Shining}}* by Stephen King.
+
+#
+
+## Gone Home 
+* Creative director Jean-Maxime Moris and game and art director [Michel Koch](michel_koch.md) said they are fans of games like *Gone Home*, and Koch himself was even in contact with *The Fullbright Company* after the latter's game launched in 2013.[https://www.polygon.com/2014/8/14/6003109/remember-me-creators-next-game-looks-like-gone-home-with-time-travel Remember Me creator's next game looks like Gone Home with time travel] (August 14, 2014)
+* Both games feature coming-of-age stories set in Oregon, U.S., that also rely heavily on environmental storytelling. The story revolves around the relationship between two teenagers, not unreminiscent of the relationship between Max and Chloe.
+*A possible direct reference to *Gone Home* could be Arcadia Bay's location: in a postcard found in Chloe's room, we learn that Arcadia Bay's ZIP code is 97141. *Gone Home* takes place in Boon County, OR, which happens to have the same ZIP code. In real life, this ZIP code belongs to Tillamook, the area which directly inspired Arcadia Bay. It also confirms that *Life is Strange* and *Gone Home* aren't set in the same universe.
+
+Chloesroom-rachelpostcardback.png|Postcard from *Life is Strange*.
+Gonehome.png|Postcard from *Gone Home*.
+
+#
+
+## Buffy the Vampire Slayer 
+* The big football event that is set to take place on the final day of the game (Friday, October 11th) is between the [Bigfoots](blackwell_bigfoots.md) and the Sunnydale Razorbacks (as seen on a flyer that lists the scheduled games with full team names). Sunnydale is a fictional Californian town on the TV series *{{Wiki|Buffy the Vampire Slayer}}*.
+*According to an [https://youtu.be/7DGgxSbRWio?t14m5s interview with Gamespot], Co-game Director Michel Koch states that his second-favorite TV show of all time is *Buffy the Vampire Slayer*. (His first is *Twin Peaks*.)
+* A couple of the characters in *Life is Strange* were inspired by characters from *Buffy the Vampire Slayer*. (See the *Characters* section below.)
+* In Episode 1, a vehicle license plate of "BFFVMPRSLR" references the show in the Blackwell parking lot.
+
+Sunnydale_reference.png|Game schedule flyer with the *Sunnydale* reference.
+
+#
+
+## Soundtrack Inspiration
+* The music in *Life is Strange* appears to be heavily influenced by {{Wiki|Friday_Night_Lights_(TV_series)|Friday Night Lights}}. Not only is much of the music in a very similar mood and sound, but they actually closely share many of the same artists. Both feature music by {{Wiki|José_González_(singer)|José González}}, {{Wiki|Bright_Eyes_(band)|Bright Eyes}}, {{Wiki|Mogwai|Mogwai}}, and {{Wiki|Sparklehorse}}.
+
+## Scientific References 
+[File:Max_Theories_about_Time_and_Time_Travel.jpg](thumb.md)One of the things *[Life is Strange](life_is_strange.md)* is full of, is scientific references, focused of course, around scientifically controversial issues about time travel, its paradoxes and "what", "why" and "how" does Max Caulfield a seemingly "normal" teenager, can bend time and space. There are a lot of references to modern science and possible explanations for [Maxine Caulfield](max_caulfield.md)'s rewinding power.
+
+#
+
+## Butterfly Effect 
+The {{Wiki|Butterfly Effect}} itself is "branch" of chaos theory, that theorizes about the sensitive dependence on initial conditions in which a small change in one state of a deterministic nonlinear system can result in large differences in a later state. The Butterfly Effect is a recurring theme in *Life is Strange*. Besides the blue butterfly which symbolizes the butterfly effect amongst other things, this theory is referred several times by several characters including Max, Chloe and Warren.
+
+#
+
+## Chaos Theory 
+{{wiki|Chaos Theory}} is a branch of mathematics focusing on the behavior of dynamical systems that are highly sensitive to initial conditions. "Chaos" is an interdisciplinary theory stating that within the apparent randomness of chaotic complex systems, there are underlying patterns, constant feedback loops, repetition, self-similarity, fractals, self-organization, and reliance on programming at the initial point known as sensitive dependence on initial conditions. Besides the namesake episode there are several characters that refer to the Chaos Theory directly or indirectly.
+
+#
+
+## Grandfather Paradox 
+In contrary to general popular belief, the {{Wiki|Grandfather paradox}} doesn't refer only the old riddle "If I go back in time and kill my grandfather when he was a kid, I can never born, so how did I went back in time and killed my grandfather?". This is just the most intriguing question proposed, the paradox itself revolves around the fact that any action that alters the past, since there is a contradiction whenever the past becomes different from the way it was. Therefore, the Grandfather paradox is present throughout the game.
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

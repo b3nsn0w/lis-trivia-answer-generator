@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who is the groundskeeper of Blackwell Academy?",
+    "answer": "A",
+    "choices": {
+      "A": "Samuel Taylor",
+      "B": "Frank Bowers",
+      "C": "Justin Williams",
+      "D": "Daniel DaCosta"
+    }
+  },
+  {
+    "question": "What does the homeless lady tell Max about in the back alley behind the Two Whales Diner?",
+    "answer": "D",
+    "choices": {
+      "A": "The Prescott family",
+      "B": "The Price household",
+      "C": "Frank Bowers",
+      "D": "All of the above"
+    }
+  },
+  {
+    "question": "Who is Max's father?",
+    "answer": "A",
+    "choices": {
+      "A": "Ryan Caulfield",
+      "B": "Mark Jefferson",
+      "C": "Nathan Prescott",
+      "D": "William Price"
+    }
+  },
+  {
+    "question": "What does Vanessa Caulfield send to Max?",
+    "answer": "B",
+    "choices": {
+      "A": "Text messages",
+      "B": "Cookies",
+      "C": "Hoodies",
+      "D": "Phone"
+    }
+  },
+  {
+    "question": "How does Max impress Justin Williams?",
+    "answer": "A",
+    "choices": {
+      "A": "By showing off her skating moves",
+      "B": "By taking pictures of him and his skater friends",
+      "C": "By talking about photography",
+      "D": "By bringing him food from the Two Whales Diner"
+    }
+  }
+]

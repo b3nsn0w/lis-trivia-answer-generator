@@ -1,0 +1,42 @@
+[
+  {
+    "question": "On what date did Chloe receive a warning from the Oregon State Police?",
+    "answer": "A",
+    "choices": {
+      "A": "Friday, June 28th",
+      "B": "Sunday, July 07th",
+      "C": "Thursday, September 12th",
+      "D": "Saturday, September 28th"
+    }
+  },
+  {
+    "question": "When did Max find out she was accepted into Blackwell Academy?",
+    "answer": "A",
+    "choices": {
+      "A": "Wednesday, July 10th",
+      "B": "Sunday, August 18th",
+      "C": "Monday, September 2nd",
+      "D": "Tuesday, October 1st"
+    }
+  },
+  {
+    "question": "What event takes place on Friday, October 4th?",
+    "answer": "D",
+    "choices": {
+      "A": "Otter Swim Team Try-Outs",
+      "B": "Blackwell Poetry Jam Tryouts",
+      "C": "Homemade Bakery Sale Fundraiser",
+      "D": "Vortex Club Party"
+    }
+  },
+  {
+    "question": "What happens to Kate Marsh on Friday, October 4th?",
+    "answer": "B",
+    "choices": {
+      "A": "She is kidnapped by Jefferson and Nathan",
+      "B": "She is drugged and filmed while kissing several strangers",
+      "C": "She is pushed into a locker by Zachary Riggins",
+      "D": "Her backpack with her schoolbooks and tablet is taken from the Blackwell cafeteria"
+    }
+  }
+]

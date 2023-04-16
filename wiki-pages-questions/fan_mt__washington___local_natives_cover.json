@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who performed the cover of \"Mt. Washington\"?",
+    "answer": "B",
+    "choices": {
+      "A": "Local Natives",
+      "B": "Riley Hawke",
+      "C": "Life Is Strange Fans",
+      "D": "The lyrics do not mention the performer"
+    }
+  },
+  {
+    "question": "When was the cover of \"Mt. Washington\" released?",
+    "answer": "A",
+    "choices": {
+      "A": "August 23, 2016",
+      "B": "August 23, 2015",
+      "C": "August 23, 2017",
+      "D": "The lyrics do not mention the release date"
+    }
+  },
+  {
+    "question": "Who wrote the original song \"Mt. Washington\"?",
+    "answer": "C",
+    "choices": {
+      "A": "Riley Hawke",
+      "B": "Life Is Strange Fans",
+      "C": "Local Natives",
+      "D": "The lyrics do not mention the original songwriter"
+    }
+  },
+  {
+    "question": "For what purpose was the cover of \"Mt. Washington\" created?",
+    "answer": "C",
+    "choices": {
+      "A": "To promote the Life is Strange game",
+      "B": "To raise money for charity",
+      "C": "To compete in a song contest",
+      "D": "The lyrics do not mention the purpose of the cover"
+    }
+  },
+  {
+    "question": "What is the name of the organization that organized the Life is Strange song contest?",
+    "answer": "C",
+    "choices": {
+      "A": "Local Natives",
+      "B": "Riley Hawke",
+      "C": "Life Is Strange Fans",
+      "D": "The lyrics do not mention the name of the organization"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Where Is The Letter From Rachel To Frank Found?",
+    "answer": "A",
+    "choices": {
+      "A": "Inside A Vent In Frank's RV",
+      "B": "On The Fridge In Chloe's House",
+      "C": "In A Notebook Near The Telephone",
+      "D": "On The Wall Inside The Kitchen Of Chloe's House"
+    }
+  },
+  {
+    "question": "What Is Max's Comment About The \"Tween Life\" Magazine?",
+    "answer": "A",
+    "choices": {
+      "A": "\"I Remember Chloe Reading This... But Not After Today\"",
+      "B": "\"Chloe Was So Into Manga... Nice Hair!\"",
+      "C": "\"My Family Never Took Fun, Goofy Photos Like This...\"",
+      "D": "\"I'm Learning More About Rachel Than I Want To Know...\""
+    }
+  },
+  {
+    "question": "Where Is The Notebook With Phone Numbers Found?",
+    "answer": "A",
+    "choices": {
+      "A": "Near The Telephone In Chloe's House",
+      "B": "Inside A Vent In Frank's RV",
+      "C": "On The Fridge In Chloe's House",
+      "D": "Corner Of The Living Room Of Chloe's House"
+    }
+  },
+  {
+    "question": "What Is Max's Comment About The Photo Of The Price Family?",
+    "answer": "A",
+    "choices": {
+      "A": "\"I Know I've Seen Those Pictures Before...\"",
+      "B": "\"None\"",
+      "C": "\"Joyce Loves William So Much\"",
+      "D": "\"Back To The Lighthouse...\""
+    }
+  },
+  {
+    "question": "What Is Max Glad About In The Photo Of Rachel Driving Frank's RV?",
+    "answer": "A",
+    "choices": {
+      "A": "Rachel Got To Drive The Beast",
+      "B": "Rachel Escaped From The Dark Room",
+      "C": "Rachel Was Rescued By Max",
+      "D": "Rachel Was Found Dead"
+    }
+  }
+]

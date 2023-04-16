@@ -1,0 +1,63 @@
+Here is a section of the wiki page for Homeless Lady:
+
+#  Homeless Lady 
+
+```yaml
+Character
+
+name: Homeless Lady
+image: Homeless Lady.png
+died: October 11, 2013 (determinant)
+causeofdeath: Killed by the [storm](storm.md) (determinant)
+gender: Female
+hair: Brown
+eyes: Blue
+friends: '[Joyce Price](joyce_price.md), [Maxine Caulfield'
+Max Caulfield](maxine_caulfield__max_caulfield.md) (determinant): ''
+appearance: >-
+  [Episode 2: Out of Time](episode_2__out_of_time.md)  [Episode 3: Chaos
+  Theory](episode_3__chaos_theory.md)  [Episode 5:
+  Polarized](episode_5__polarized.md)
+voice: '[Cissy Jones](cissy_jones.md) (uncredited)'
+width: '270'
+```
+
+> What happened to you?" - "What didn't happen to me? Sometimes you start out in life turned around the wrong way... I married dumb, made mistakes, got cheated out of my savings, lost my home, and now I hang out here...
+
+**[Maxine Caulfield**, Max](maxine_caulfield____max.md) and the Homeless Lady in "[Episode 2: Out of Time, Out of Time](episode_2__out_of_time__out_of_time.md)"
+
+The **Homeless Lady** resides at the back of the [Two Whales Diner](two_whales_diner.md). [Maxine Caulfield](max_caulfield.md) can speak with her regarding the residents of [Arcadia Bay](arcadia_bay.md).
+
+## Personality 
+She seems to be kind and mindful of her surroundings. She knows many things about Arcadia Bay and its inhabitants, and is happy to confide in Max. Max feels like she is trustworthy as well.
+
+## Background 
+The Homeless Lady is a curious character, who seems to act as an oracle and an all-seeing resident of the town. She says she has lived in Arcadia Bay for "a thousand years". Considering the game involves time travel, it is a popular fan theory that she is not exaggerating. However, she has lived in Arcadia Bay for a long time. According to her own words, she was married once. At one point she was cheated out of her savings which forced her to leave her house and live on the street.
+
+## Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+Behind the Diner, Max can choose to talk to this character, but it is not a fixed event in the game. If she does speak with her, the Homeless Lady is friendly to Max, and tells her that she appreciates [Joyce Price](joyce_price.md) for feeding her more than her own family has over the years. This implies she has relatives elsewhere, away from the Bay. She also comments on Chloe's behavior, wishing that Joyce would have an easier time of it with her daughter.
+
+## Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+Max has the opportunity to talk to her again. If Max managed to save Kate and tells the homeless woman about it, she praises Max and says that if she had a bottle she would divide it with her. Max can talk to her about [Nathan Prescott](nathan_prescott.md), [Frank Bowers](frank_bowers.md) and [Rachel Amber](rachel_amber.md) and has the chance to warn her about the upcoming storm. If Max decides to keep silent, it still seems like the woman knows something is going to happen.
+
+## Episode Five - "[Episode 5: Polarized](polarized.md)" 
+Told her about the storm# Told her about the storm
+If you chose to warn her about the [storm](storm.md), Max will see an empty mat where she usually sat behind the diner. Max hopes that she had found a shelter before the storm approaches if she looks at the empty mat.
+
+In [Max's Nightmare](max_s_nightmare.md), she will say to Max, "Thanks for that warning, Max. You treated me like a human, not like trash. I sure hope you do that for everybody in town." 
+|-|Did not tell about the stormDid not tell about the storm
+If you chose not to warn her or just did not talk to her entirely, Max can discover her dead body behind the diner as a result of the storm.
+
+In Max's nightmare, she will say to Max, "I've already lived forever... maybe you can help others live too..."
+
+## Trivia 
+* [File:Melissa Lee Grayson Missing.png](thumb.md) It's theorized that the homeless lady might be one of the women featured on the [Arcadia Bay Police Department](abpd.md)'s missing person list. There was a woman who went missing in 1973 and is only known as "Sunshine Ray". Another woman, Melissa Lee Grayson, went missing in 1997, and the image provided on the website is said to look similar to the homeless woman.
+
+## Theories 
+* A theory exists that the homeless lady is actually Max from the future.[https://www.youtube.com/watch?v=4vY5-VcUmo0 Fan Theory: 1000 Years by Geek Remix] Discussions:
+ [https://steamcommunity.com/app/319630/discussions/0/618463738388787242/] [https://www.reddit.com/r/lifeisstrange/comments/36hxym/ep3_spoilers_homeless_lady/] [https://www.gamefaqs.com/boards/827469-life-is-strange/71878321] It has been denied by Michel and Luc during the [https://www.twitch.tv/videos/204774474 Blackwell Podcast Extra Life livestream].
+* An even more far-fetched theory is that the woman is actually Chloe, or an alternative version if she hadn't reconnected with Max. As far-fetched as it seems, there are a number of facts that support this claim. The blue butterfly shirt she wears underneath her dark jacket, the fact that she eats the same cereal as Chloe and Max, as stated above, the fact that Max, by her own admission, feels she can trust her as much as she can trust Chloe, and the fact that she knows Max's name without Max ever introducing herself and even her physical resemblance, (eyes and mouth in particular), with an old battered version of Chloe.
+
+
+
+Generate five trivia questions relevant to this section of the page.

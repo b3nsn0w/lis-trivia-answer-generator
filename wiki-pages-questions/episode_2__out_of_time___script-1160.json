@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the name of the photography technique that Jefferson is teaching in class?",
+    "answer": "A",
+    "choices": {
+      "A": "Chiaroscuro",
+      "B": "Monochrome",
+      "C": "Shadowplay",
+      "D": "Contrast"
+    }
+  },
+  {
+    "question": "What is the reason for Kate Marsh's absence from class?",
+    "answer": "A",
+    "choices": {
+      "A": "She is feeling sick",
+      "B": "She is on vacation",
+      "C": "She is attending a funeral",
+      "D": "She is suspended"
+    }
+  },
+  {
+    "question": "What does Zachary do that angers Jefferson in class?",
+    "answer": "B",
+    "choices": {
+      "A": "He talks loudly on his phone",
+      "B": "He bursts into the classroom",
+      "C": "He falls asleep at his desk",
+      "D": "He throws a paper airplane"
+    }
+  },
+  {
+    "question": "What is the topic of the photo contest that Max has yet to enter?",
+    "answer": "A",
+    "choices": {
+      "A": "Black and white images",
+      "B": "Nature photography",
+      "C": "Portraits",
+      "D": "Landscapes"
+    }
+  },
+  {
+    "question": "What happens to Max when she tries to rewind time to save Kate?",
+    "answer": "B",
+    "choices": {
+      "A": "She successfully saves Kate",
+      "B": "She gets an intense headache and nosebleed",
+      "C": "She is transported to an alternate timeline",
+      "D": "She loses her time rewind power"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Say About Chloe's Punctuality When She Gets Off The Bus?",
+    "answer": "B",
+    "choices": {
+      "A": "Chloe Will Be There Early",
+      "B": "Chloe Will Be Late As Usual",
+      "C": "Chloe Will Be On Time",
+      "D": "Chloe Will Be Waiting For Max"
+    }
+  },
+  {
+    "question": "What Does Max Say About The Diner Graffiti?",
+    "answer": "A",
+    "choices": {
+      "A": "No Comment",
+      "B": "It's Artistic",
+      "C": "It's Offensive",
+      "D": "It's Funny"
+    }
+  },
+  {
+    "question": "What Does The Homeless Lady Say To Max When She Says Goodbye?",
+    "answer": "B",
+    "choices": {
+      "A": "\"See You Later\"",
+      "B": "\"Goodbye, Sweetie\"",
+      "C": "\"Take Care\"",
+      "D": "\"Maybe Next Time\""
+    }
+  },
+  {
+    "question": "What Does The Fisherman Say About The Recent Conditions In Arcadia Bay?",
+    "answer": "C",
+    "choices": {
+      "A": "The Fishing Industry Is Thriving",
+      "B": "The Snow Was A Good Omen",
+      "C": "The Fishing Industry Is Struggling",
+      "D": "The Tuna Is Melt-In-Your-Mouth Delicious"
+    }
+  },
+  {
+    "question": "What Does Max Say About The Postcards In The Diner?",
+    "answer": "A",
+    "choices": {
+      "A": "Nobody Sends Postcards From Here",
+      "B": "The Postcards Are Beautiful",
+      "C": "The Postcards Are Expensive",
+      "D": "The Postcards Are Sent By Tourists"
+    }
+  }
+]

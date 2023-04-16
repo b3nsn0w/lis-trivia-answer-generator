@@ -1,0 +1,91 @@
+Here is a section of the wiki page for Episode 4: Dark Room - Script:
+
+Okay, but this is like poet karaoke, so don't cringe: "I shall be telling this with a sigh. Somewhere ages and ages hence: Two roads diverged in a wood, and I... I took the one less traveled by. And that has made all the difference."
+
+**Max:** That was beautiful, Alyssa. And it's exactly what I needed to hear.
+
+**Alyssa:** Thanks for not cringing. And thanks for watching my back. Blackwell would be so much cooler if we all did that for everybody else... but you're a great start, Max.
+
+*Max automatically leaves the conversation.*
+
+{{!}}-{{!}}Tell me later.# Tell me later.
+
+**Max:** I wish I had time to hear it... Promise you'll tell me if... next time we meet.
+
+**Alyssa:** That sounded ominous. But I promise. Be careful out there, Max.
+
+*Max automatically leaves the conversation.*
+
+}}
+
+|-|Leave.Leave.
+
+**Max:** No doubt, but I actually have to go now. Talk to you later, Alyssa.
+
+# # ## **Optional Conversation with Justin**
+
+**Justin: **Yo, "Maximum Overdrive." About time you got here to save this lame rave... Wanna get ripped?
+
+**Max:** You look pretty ripped already, Justin. And not happy. Why did you even come tonight?
+
+**Justin:** Where else could I go in Arcadia Bay on a Thursday night? Besides, Dana is here... just not with me. So yes, this party sucks.
+
+Rachel.# Rachel.
+
+**Max:** Rachel Amber won't be coming either.
+
+**Justin:** Damn, I was thinking about Rachel and Chloe tonight... If they showed up together right now, shit would end. Rachel could always shut Victoria down.
+
+**Max:** Good for Rachel. I wish I could have seen that...
+
+|-|Nathan.Nathan.
+
+**Max:** Speaking of... have you seen Nathan?
+
+**Justin:** Oh, he should be freaking out in the VIP lounge with that Whore-tex Club. Fucking hate those snobby douchebags... especially Nathan. That dude is gonna go on a rampage soon.
+
+**Max:** You might be right. So stay away from him tonight, okay? Spread the word.
+
+|-|Dana.# Dana.
+
+**Max:** You're obviously not cool with Trevor dating Dana.
+
+**Justin:** I tried to front like I was, but when I saw them together, I came over to cry like a little bitch.
+
+**Max:** No, it's more like somebody who's in pain. I'm sorry, Justin. But you're a cool, considerate guy and you're going to find somebody just as cool, minus the drama.
+
+**Justin:** Max, I know I'm twisted, but your face looks so fucking intense. And your voice sounds... different. You okay? How about a quick dab?
+
+**Max:** Uh, no. I—I'm cool, Justin. And I have to get going. Maybe you should go chill somewhere else.
+
+**Justin:** Fucking A, Maximus! You're right. I'm only torturing myself here. Plus I'm too loaded... It's time to get my board and grind.
+
+#
+
+## **Conversation with Sarah**# 
+
+**Max:** Excuse me, but I’m going in.
+
+**Sarah:** Sorry, but this is the VIP section. Members only. Mmm-kay?
+
+(Max's name is on the list)(Max's name is on the list)
+
+**Max:** Sorry, but I’m on the list. Mmm-kay?
+
+**Sarah:** I know that Max Caulfield is not on any list for the Vortex Club. Nice try.
+
+|-|(Max's name isn't on the list)# (Max's name isn't on the list)
+
+**Max:** I don’t give a shit about being a member. I just want to talk to Nathan…
+
+**Sarah:** Victoria specifically told me not to let you in. Nice try. Too bad you're not a member.
+
+**Max:** Listen…
+
+**Sarah:** No, you listen. Courtney is supposed to be the VIP gatekeeper, not me. So please go.
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

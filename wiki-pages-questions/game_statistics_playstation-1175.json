@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What Is The Only Major Choice In Episode Five Of Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "To save Chloe or sacrifice Arcadia Bay",
+      "B": "To report Nathan or hide the truth",
+      "C": "To make fun of Victoria or comfort her",
+      "D": "To take the blame for Chloe or blame her"
+    }
+  },
+  {
+    "question": "What Happens To David In The Polarized Timeline Of Life Is Strange?",
+    "answer": "D",
+    "choices": {
+      "A": "He gets a scar during a fight",
+      "B": "He kills Mark Jefferson",
+      "C": "He finds his code",
+      "D": "His fate is not mentioned"
+    }
+  }
+]

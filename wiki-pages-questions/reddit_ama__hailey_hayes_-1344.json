@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Game Is Hailey Currently Playing?",
+    "answer": "A",
+    "choices": {
+      "A": "South Park: The Fractured But Whole, Heavy Rain, and Inside",
+      "B": "Batman: Arkham Series, Detroit: Become Human, and the Tomb Raider Series",
+      "C": "The Awesome Adventures of Captain Spirit",
+      "D": "Life is Strange: Infinity War"
+    }
+  },
+  {
+    "question": "What Would Hailey Tell Herself Before Getting The Role Of Samantha?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Keep pushing forward, all your hard work's about to pay off.\"",
+      "B": "\"You're going to be famous.\"",
+      "C": "\"You're going to be rich.\"",
+      "D": "\"You're going to be a superstar.\""
+    }
+  },
+  {
+    "question": "What Is Hailey's Favorite Line In All Of BtS?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Life needs a little mystery.\"",
+      "B": "\"You shut the fuck up.\"",
+      "C": "\"You should be ashamed.\"",
+      "D": "\"Keep pushing forward, all your hard work's about to pay off.\""
+    }
+  },
+  {
+    "question": "What Would Hailey Like To See In Life Is Strange 2?",
+    "answer": "A",
+    "choices": {
+      "A": "Following the adult protagonist of Captain Spirit",
+      "B": "A direct sequel to Life is Strange",
+      "C": "A direct sequel to Before the Storm",
+      "D": "A new setting with new characters"
+    }
+  }
+]

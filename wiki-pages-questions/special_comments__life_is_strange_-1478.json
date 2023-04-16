@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Say When She Sees Something Surprising?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Wowser!\"",
+      "B": "\"Tick tock, tick tock, tick tock…\"",
+      "C": "\"That’s all she wrote, folks.\"",
+      "D": "\"It’s great to watch the world pass you by...\""
+    }
+  },
+  {
+    "question": "What Does Max Say When She Is Bored?",
+    "answer": "B",
+    "choices": {
+      "A": "\"Tick tock, tick tock, tick tock…\"",
+      "B": "\"Yep, I'm bored now\"",
+      "C": "\"La dee da, la dee da\"",
+      "D": "\"I’m just chilling like a villain\""
+    }
+  },
+  {
+    "question": "What Does Max Say When She Sees The Potential To Rewind?",
+    "answer": "C",
+    "choices": {
+      "A": "\"I should rewind.\"",
+      "B": "\"I better rewind.\"",
+      "C": "\"Damn, I better rewind.\"",
+      "D": "\"I don't need to rewind.\""
+    }
+  },
+  {
+    "question": "What Does Max Say When She Is Disappointed?",
+    "answer": "B",
+    "choices": {
+      "A": "\"Wowser!\"",
+      "B": "\"This blows.\"",
+      "C": "\"Tick tock, tick tock, tick tock…\"",
+      "D": "\"It’s great to watch the world pass you by...\""
+    }
+  },
+  {
+    "question": "What Does Max Say When She Is Angry?",
+    "answer": "B",
+    "choices": {
+      "A": "\"Wowser!\"",
+      "B": "\"No way!\"",
+      "C": "\"Tick tock, tick tock, tick tock…\"",
+      "D": "\"It’s great to watch the world pass you by...\""
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "question": "In which episode of Life is Strange: Before the Storm was \"Crazy Suzie\" featured?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode 1: Awake",
+      "B": "Episode 2: Brave New World",
+      "C": "Episode 3: Hell Is Empty",
+      "D": "Episode 4: Farewell"
+    }
+  },
+  {
+    "question": "What did Crazy Suzie say to the protagonist when she followed him home?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Don't you want to be alone?\"",
+      "B": "\"Do you have a girlfriend?\"",
+      "C": "\"Can I come in?\"",
+      "D": "\"What's your name?\""
+    }
+  },
+  {
+    "question": "Who did the protagonist bump into late at night?",
+    "answer": "D",
+    "choices": {
+      "A": "A stranger",
+      "B": "A friend",
+      "C": "A family member",
+      "D": "A former love interest"
+    }
+  }
+]

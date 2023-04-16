@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Central Theme Of The Game?",
+    "answer": "B",
+    "choices": {
+      "A": "The Positive Side Of Being Alone",
+      "B": "The Power Of Imagination",
+      "C": "The Difficulties Of Family Life",
+      "D": "The Escape From Reality"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Comic Book In The Game?",
+    "answer": "A",
+    "choices": {
+      "A": "Hawt Dawg Man: Mustard Party 2",
+      "B": "Moon and Moon",
+      "C": "Parade",
+      "D": "Death with Dignity"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Book In Chris' Room?",
+    "answer": "A",
+    "choices": {
+      "A": "Where the Wild Things Are",
+      "B": "Parade",
+      "C": "Moon and Moon",
+      "D": "Death with Dignity"
+    }
+  },
+  {
+    "question": "What Is The Purpose Of The Quest System In The Game?",
+    "answer": "A",
+    "choices": {
+      "A": "To Undertake Optional Objectives",
+      "B": "To Improve The Feeling Of Answering Someone",
+      "C": "To Escape The Difficult Reality",
+      "D": "To Explore The World Through The Eyes Of A 10-Year-Old"
+    }
+  }
+]

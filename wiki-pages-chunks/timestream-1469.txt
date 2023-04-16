@@ -1,0 +1,61 @@
+Here is a section of the wiki page for Timestream:
+
+## Storm Timeline 
+Max travels back in time using the photo [Warren Graham](warren_graham.md) took of them together. Max convinces Chloe not to search for [Nathan Prescott](nathan_prescott.md) and instead to tell David about Jefferson and the Dark Room. A timestream montage shows Max and Chloe warning David, Jefferson being arrested by David and several other policemen, and Max and Chloe facing the storm together.
+{| class# "article-table" style"text-align:center; width:620px; margin: 0 auto;"
+|-
+! style# "text-align:center; width:50%; font-size:100%" |Original Events
+! style"text-align:center; width:50%; font-size:100%" |Alternative Events
+|-
+|valign# "top"|[File:timestream-sf-jeffkillschloe.png](300px.md)Jefferson after killing Chloe.
+|valign"top"|[File:timestream-storm-chloewarnsdavid.png](300px.md)Max and Chloe warning David.
+|-
+|valign# "top"|[File:timestream-storm-jeffdavidfight.png](300px.md)David and Jefferson fighting.
+|valign"top"|[File:timestream-storm-jeffarrested.png](300px.md)Police officers arresting Jefferson.
+|-
+|valign# "top"|[File:timestream-storm-maxatdiner.png](300px.md)Max on her way to the diner.
+|valign"top"|[File:Timestream EP5 Storm 32 Florent Auguy.jpg](300px.md)Max and Chloe facing the storm.
+|}
+
+## Sacrifice Chloe Timeline 
+At the end of the game, Max is faced with her biggest decision so far - save Chloe and let the tornado destroy Arcadia Bay, or sacrifice Chloe in order to save everyone. If the player chooses the latter, Max focuses on the photo of the [Blue Butterfly](blue_butterfly.md) and travels to the beginning of the game; this time, she doesn't intervene and allows Nathan to shoot Chloe in the stomach. A timestream montage shows David handcuffing Nathan, Nathan interrogated by the police, Jefferson being arrested by the police, Max talking to [Joyce Price](joyce_price.md) and David, Max hugging her teddy bear, Joyce giving Max a box with Chloe's belongings, Max looking at polaroids and Max standing near the [lighthouse](lighthouse.md) on the cliff. If Max doesn't pick this choice, then these changes will not happen.
+ 
+{| class# "article-table" style"text-align:center; width:620px; margin: 0 auto;"
+|-
+! style# "text-align:center; width:50%; font-size:100%" |Original Events
+! style"text-align:center; width:50%; font-size:100%" |Alternative Events
+|-
+|valign# "top"|[File:Timestream EP5 1 Florent Auguy.jpg](300px.md)Chloe and Nathan in the bathroom.
+|valign"top"|[File:Timestream EP5 SacChloe 9 Florent Auguy.jpg](300px.md)David handcuffing Nathan.
+|-
+|valign# "top"|[File:Timestream EP5 SacChloe 2 Florent Auguy.jpg](300px.md)Nathan headbutting Warren.
+|valign"top"|[File:Florent-auguy-e5-9a-b2.jpg](300px.md)Nathan interrogated by the police.
+|-
+|valign# "top"|[File:03 1920.jpg](300px.md)Chloe dancing on her bed.
+|valign"top"|[File:09 1920.jpg](300px.md)Police officers arresting Jefferson.
+|-
+|valign# "top"|[File:Timestream EP5 13 Florent Auguy.jpg](300px.md)Max and Chloe walking on the [Train Tracks](train_tracks.md).
+|valign"top"|[File:Florent-auguy-e5-9a-d2.jpg](300px.md)Max talking to Joyce and David.
+|-
+|valign# "top"|[File:06 1920.jpg](300px.md)Max and Chloe in the [Blackwell Swimming Pool](blackwell_swimming_pool.md).
+|valign"top"|[File:Florent-auguy-e5-9a-e2.jpg](300px.md)Max hugging her teddy bear.
+|-
+|valign# "top"|[File:Florent-auguy-e5-9a-f1.jpg](300px.md)Max and Chloe taking a selfie.
+|valign"top"|[File:Florent-auguy-e5-9a-f2.jpg](300px.md)Joyce giving Chloe's belongings to Max.
+|-
+|valign# "top"|[File:10 1920.jpg](300px.md)Max hugging Chloe.
+|valign"top"|[File:Florent-auguy-e5-9a-g2.jpg](300px.md)Max looking at polaroids.
+|-
+|valign# "top"|[File:Florent-auguy-e5-9a-h1.jpg](300px.md)Max hugging Chloe.
+|valign"top"|[File:04 1920.jpg](300px.md)Max standing near the lighthouse.
+|}
+
+ Timestream # 
+
+: ''For information on Max's rewind ability, see [Rewind](rewind.md).''
+[File:Max's_Journey.jpg](thumb.md)]
+**Timestream montages** appear whenever [Maxine Caulfield](max_caulfield.md) uses her Focus ability on a photo to go back in time and alters a past events and the present event which causes the [timeline](timeline.md) to be Altered. These timestream sequences consist of moments that happened in the earlier timeline burning and merging into moments of the new timeline. The timestream images were illustrated by French concept artist [Florent Auguy](florent_auguy.md).
+
+
+
+Generate five trivia questions relevant to this section of the page.

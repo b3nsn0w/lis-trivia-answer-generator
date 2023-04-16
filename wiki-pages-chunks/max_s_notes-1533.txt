@@ -1,0 +1,89 @@
+Here is a section of the wiki page for Max's Notes:
+
+[File:note3-chloeroom-rachelphoto.png](220px.md)
+|-|ReadNone
+|-
+|**Miscellaneous stuff.**
+Location: Pocket of Chloe's coat.
+Max's comments: None
+|style# "height:186px; vertical-align:top"|Look[File:note3-chloeroom-miscstuff.png](220px.md)
+|-|Read# None
+|-
+|**Photo of young Chloe and Max.**
+Location: Picture box inside Chloe's room.
+Max's comments: Wowser... That was my 10th birthday. I didn't know Chloe kept this stuff...
+|style"height:186px; vertical-align:top"|Look# [File:note3-chloeroom-max10pic.png](220px.md)
+|-|ReadNone
+|-
+|**[Arcadia Bay Police Department](arcadia_bay_police_department.md) website.**
+Location: Chloe's laptop.
+Max's comments: At least we haven't been identified... yet.
+|style# "height:186px; vertical-align:top"|Look[File:note3-chloeroom-abpdsite.png](220px.md)
+|-|Read# [File:note3-chloeroom-abpdsite2.png](220px.md)
+|-
+|'''Email about Kate's condition.'''
+Location: Chloe's laptop.
+Max's comments: I have to go. Especially since Kate's parents aren't going to bury her here...
+Notes: This appears if Kate is dead.
+|style"height:186px; vertical-align:top"|Look# [File:note3-chloeroom-katemail-dead.png](220px.md)
+|-|Read[File:note3-chloeroom-katemail-dead2.png](220px.md)
+|-
+|'''Email about Kate's condition (alternate).'''
+Location: Chloe's laptop.
+Max's comments: Thank God she's okay. I wonder when I can visit her...
+Notes: This appears if Kate is alive.
+|style# "height:186px; vertical-align:top"|Look[File:note3-chloeroom-katemail-alive.png](220px.md)
+|-|Read# [File:note3-chloeroom-katemail-alive2.png](220px.md)
+|-
+|**Book about strange weather.**
+Location: On a desk inside Chloe's room.
+Max's comments: Chloe is so damn cute—she's really trying to suss out what my vision means...
+|style"height:186px; vertical-align:top"|Look# [File:note3-chloeroom-weatherbook.png](220px.md)
+|-|Read[File:note3-chloeroom-weatherbook2.png](220px.md)
+|-
+|'''Homescreen of Chloe's phone with a picture of Rachel.'''
+Location: Nightstand near Chloe's bed.
+Max's comments: I thought Chloe might put up a pic of me instead... Can't compete with Rachel.
+|style# "height:186px; vertical-align:top"|Look[File:note3-chloeroom-chloephone-rachel.png](220px.md)
+|-|Read# None
+|-
+|'''Homescreen of Chloe's phone with a picture of Max.'''
+Location: Nightstand near Chloe's bed.
+Max's comments: Nice, Chloe put my pic on her phone... I must have proved I was worthy again...
+|style"height:186px; vertical-align:top"|Look# [File:note3-chloeroom-chloephone-max.png](220px.md)
+|-|ReadNone
+|-
+|**Chat between Chloe and Frank.**
+Location: Screen of Chloe's phone.
+Max's comments: Holy shitballs. Frank is scary. I should have let Chloe take that money...
+Notes: This appears if Chloe didn't steal the money from the office.
+|style# "height:186px; vertical-align:top"|Look[File:note3-chloeroom-chloesms-nomoney.png](220px.md)
+|-|Read# [File:note3-chloeroom-chloesms-nomoney2.png](220px.md)
+|-
+|**Chat between Chloe and Frank (alternate).**
+Location: Screen of Chloe's phone.
+Max's comments: Jesus, now I am glad Chloe took that money. This guy is serious. And scary.
+Notes: This appears if Chloe stole the money from the office.
+|style"height:186px; vertical-align:top"|Look# [File:note3-chloeroom-chloesms-money.png](220px.md)
+|-|Read[File:note3-chloeroom-chloesms-money2.png](220px.md)
+|-
+|'''Chloe's hair dye.'''
+Location: Cabinet inside the bathroom of [Madsen Household](chloe_s_house.md).
+Max's comments: You know, I haven't gone through a "dyeing my hair blue" phase yet... maybe it's time.
+|style# "height:186px; vertical-align:top"|Look[File:note3-bathroom-bluedye.png](220px.md)
+|-|Read# None
+|-
+|**"The Independent" newspaper.**
+Location: On a table inside the living room of the Madsen Household.
+Max's comments: Oh man, I don't want to be famous for this...
+Notes: This appears if Kate is alive.
+|style"height:186px; vertical-align:top"|Look# [File:note3-madsenhouse-independent-alive.png](220px.md)
+|-|Read[File:note3-madsenhouse-independent-alive2.png](220px.md)
+|-
+|**"The Independent" newspaper (alternate).**
+Location: On a table inside the living room of the Madsen Household.
+Max's comments: Kate's life was sure worth a nice exploitive headline.
+Notes: This appears if Kate is dead.
+|style# 
+
+Generate five trivia questions relevant to this section of the page.

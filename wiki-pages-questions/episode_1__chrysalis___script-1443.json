@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Max's Favorite Photography Teacher's Name?",
+    "answer": "A",
+    "choices": {
+      "A": "Mark Jefferson",
+      "B": "Nathan Prescott",
+      "C": "Warren Graham",
+      "D": "Rachel Amber"
+    }
+  },
+  {
+    "question": "What Happened To Max's Camera?",
+    "answer": "B",
+    "choices": {
+      "A": "It Was Stolen",
+      "B": "It Was Smashed",
+      "C": "It Was Lost",
+      "D": "It Ran Out Of Battery"
+    }
+  },
+  {
+    "question": "What Does Chloe Call Her Stepfather?",
+    "answer": "A",
+    "choices": {
+      "A": "A Tool",
+      "B": "A Douche",
+      "C": "A Führer",
+      "D": "A Jerk"
+    }
+  },
+  {
+    "question": "What Does Chloe Do While Max Puts On Music?",
+    "answer": "C",
+    "choices": {
+      "A": "She Eats A Snack",
+      "B": "She Takes A Nap",
+      "C": "She Smokes",
+      "D": "She Watches TV"
+    }
+  },
+  {
+    "question": "How Long Has Max Been At Blackwell Without Contacting Chloe?",
+    "answer": "A",
+    "choices": {
+      "A": "A Month",
+      "B": "A Year",
+      "C": "Five Years",
+      "D": "Ten Years"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Was Bongo's Cause Of Death?",
+    "answer": "B",
+    "choices": {
+      "A": "Old Age",
+      "B": "Hit By A Car",
+      "C": "Illness",
+      "D": "Drowned"
+    }
+  },
+  {
+    "question": "Who Were Bongo's Owners?",
+    "answer": "C",
+    "choices": {
+      "A": "Max and William",
+      "B": "Joyce and Max",
+      "C": "William and Joyce",
+      "D": "Chloe and Max"
+    }
+  },
+  {
+    "question": "In Which Episode Of Life Is Strange Can Bongo Be Seen In Photos?",
+    "answer": "A",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "In Which Episode Of Before The Storm Can Bongo Be Mentioned During The Two Truths and a Lie Game?",
+    "answer": "A",
+    "choices": {
+      "A": "Episode 1: Awake",
+      "B": "Episode 2: Brave New World",
+      "C": "Episode 3: Hell Is Empty",
+      "D": "Episode 4: Farewell"
+    }
+  },
+  {
+    "question": "What Was One Of Bongo's Nicknames?",
+    "answer": "A",
+    "choices": {
+      "A": "Super Kitty",
+      "B": "Mighty Cat",
+      "C": "Captain Feline",
+      "D": "Heroic Kitten"
+    }
+  }
+]

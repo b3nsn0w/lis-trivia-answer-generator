@@ -1,0 +1,54 @@
+Here is a section of the wiki page for Two Whales Diner:
+
+## Outside
+*{{Interaction|Max can look at the fisherman's flyers.|"Look at all these flyers. It's so sad that nobody will read them..."}}
+*She can speak to the fisherman.
+*She can speak to Alyssa after warning her about a passing car.
+*{{Interaction|She can look at several dead birds.|"What is going on here?"
+"This is so creepy..."
+"Tornadoes, snowfall, eclipses... now dying animals. Holy shit."}}
+*{{Interaction|She can look at Chloe.|**Without key: **"I hope she finds a nice T-bone to keep the doggie busy..."
+**With key: **"Nice Scooby snack, Chloe."}}
+*{{Interaction|She can look at and try to open the RV door.|** Look: **"Careful, Max. Cujo ahead..."
+**Open: **"Locked."}}
+*{{Interaction|She can look at the window of Frank's RV.|"Déjà vu. There's dust on the dust now."}}
+*{{Interaction|She can look at and speak to the Truck Driver.|"That would be cool to be a trucker for a while... Always on the road..."}}
+*{{Interaction|She can look at the truck in the distance.|**Photo unavailable: **"I'd love to do a whole 'Big Rig' photo series..."
+**Photo available: **"I made the trucker happy and I get to photograph this bitchin' 1977 Needham.
+That's a big 10-4, Max."}}
+*{{Interaction|She can read an issue of The Independent from the kiosk.|**Kate alive: **"Oh God, that is so embarrassing. I'm gonna get trolled hard."
+**Kate dead: **"Yes, another great day in Arcadia Bay."}}
+*{{Interaction|She can look at and take an optional photo of a dead bird surrounded by ants.|**Look: **"Look at that... so sad, disturbing, and beautiful at once... what an amazing shot."
+**Photo: **"So ominous..."}}
+*{{Interaction|She can look at and speak to the Homeless Lady.|"I hate seeing old women on the street like that... nice world."}}
+
+# #
+
+## Inside
+*{{Interaction|Max can look at a poster of the drive-in.|**Accepted invitation: **"That will be fun to take a road trip to the drive-in with Warren...
+Max needs more fun."
+**Refused invitation: **"It does look like fun... I'm just not in 'fun mode' right now... Poor Warren."}}
+*{{Interaction|She can look at the jukebox.|"Can't drop any tunes right now. Keys."}}
+*{{Interaction|She can look at the food counter.|"Looks tasty, but my need for keys comes first."}}
+*{{Interaction|She can look at "the 7th sign" graffiti in the bathroom.|"Shit, what are the other signs then?"}}
+*She can look at more graffiti in the bathroom:
+**{{Interaction|If Kate is alive, it will read "Kate should have jumped".|"You should have jumped, asswipe."}}
+**{{Interaction|If Kate is dead, it will read "You killed Kate".|"Maybe we all did..."}}
+*{{Interaction|She can look at and speak to Nathan Prescott.|"Nathan and Frank together? That's a bad combo."
+**Nathan expelled: **"Nathan has time to get drugs from Frank because he was expelled..."}}
+*{{Interaction|She can look at and speak to [Anderson Berry](officer_berry.md).|"Never mind me, Officer... I'm just here to steal a drug dealer's keys."}}
+*{{Interaction|She can look at and speak to [Frank Bowers](frank.md) **(required)**.|**Without key: **"Turn up the brain to 11, Max. How can you snag Frank's keys?"
+**With key: **"Oh, he's gonna tweak out when he can't find his keys!"}}
+*{{Interaction|She can look at and spill Frank's beer.|"I could chug this beer, or dump it on Frank. Beer is gross, so..."}}
+*{{Interaction|She can look at and spill Frank's beans.|"Frank Bowers stars in 'A Faceful of Beans'..."}}
+*{{Interaction|She can look at and take Frank's keys **(required)**.|"The magic keys to Frank's RV kingdom!"}}
+*She can look at the TV.
+
+#
+
+## Episode Five - "Polarized"
+# #
+
+
+
+Generate five trivia questions relevant to this section of the page.

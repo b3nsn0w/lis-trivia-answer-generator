@@ -1,0 +1,32 @@
+[
+  {
+    "question": "How did Nathan kill Rachel?",
+    "answer": "C",
+    "choices": {
+      "A": "He shot her",
+      "B": "He strangled her",
+      "C": "He gave her an overdose of drugs",
+      "D": "He pushed her off a cliff"
+    }
+  },
+  {
+    "question": "What did Frank say about Chloe asking him for help?",
+    "answer": "D",
+    "choices": {
+      "A": "She was too proud to ask for help",
+      "B": "She never asked for help",
+      "C": "She was too weak to ask for help",
+      "D": "She was man enough to ask for help"
+    }
+  },
+  {
+    "question": "What did Frank say about Max helping him?",
+    "answer": "B",
+    "choices": {
+      "A": "She was weird",
+      "B": "She was cool",
+      "C": "She was annoying",
+      "D": "She was boring"
+    }
+  }
+]

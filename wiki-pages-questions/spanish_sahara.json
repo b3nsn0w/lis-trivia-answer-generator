@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Name Of The English Indie Rock Band That Composed And Performed \"Spanish Sahara\"?",
+    "answer": "C",
+    "choices": {
+      "A": "Arctic Monkeys",
+      "B": "The 1975",
+      "C": "Foals",
+      "D": "Radiohead"
+    }
+  },
+  {
+    "question": "In Which Episode Of Life Is Strange Is \"Spanish Sahara\" Featured?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 4: Dark Room",
+      "D": "Episode 5: Polarized"
+    }
+  },
+  {
+    "question": "What Is The Meaning Of The Song \"Spanish Sahara\" According To Singer Yannis Philippakis?",
+    "answer": "B",
+    "choices": {
+      "A": "It's About A Real Place In Spain",
+      "B": "It's About A Desolate Landscape In Greece",
+      "C": "It's About A Traumatic Experience",
+      "D": "It's About A Mythical Creature"
+    }
+  },
+  {
+    "question": "What Greek Myth Is Referenced In The Song \"Spanish Sahara\"?",
+    "answer": "C",
+    "choices": {
+      "A": "The Odyssey",
+      "B": "The Iliad",
+      "C": "The Furies",
+      "D": "The Titans"
+    }
+  }
+]

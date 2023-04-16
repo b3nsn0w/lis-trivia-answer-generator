@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Hope Chloe Can Handle?",
+    "answer": "A",
+    "choices": {
+      "A": "The End Of The World Party",
+      "B": "The Death Of Rachel Amber",
+      "C": "The Fact That Nathan Is Getting Away With Murder",
+      "D": "The Evil Atmosphere At Blackwell"
+    }
+  },
+  {
+    "question": "Who Does Max Want To Stop From Hurting Anyone Else At The Party?",
+    "answer": "C",
+    "choices": {
+      "A": "Chloe",
+      "B": "Rachel Amber",
+      "C": "Nathan",
+      "D": "Principal Wells"
+    }
+  },
+  {
+    "question": "What Does Max Say Blackwell Looks Like To Her Now?",
+    "answer": "B",
+    "choices": {
+      "A": "A Dream Nightmare",
+      "B": "A Place Of Evil",
+      "C": "A Party Venue",
+      "D": "A Persian Rug"
+    }
+  },
+  {
+    "question": "What Does Max Say About The Tastelessness And Insensitivity Of The Party?",
+    "answer": "A",
+    "choices": {
+      "A": "It's Extra Crispy Special",
+      "B": "It's Owned By The Prescotts",
+      "C": "It's A Real Leather Couch",
+      "D": "It's What Rachel Hated"
+    }
+  },
+  {
+    "question": "What Does Max Call The Prescotts' Guests?",
+    "answer": "A",
+    "choices": {
+      "A": "Monkeys",
+      "B": "Insensitive",
+      "C": "Tasteless",
+      "D": "Crispy"
+    }
+  }
+]

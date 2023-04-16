@@ -1,0 +1,47 @@
+#  Sarah 
+
+```yaml
+Character
+
+name: Sarah
+image: Sarah portrait.png
+alsoknown: Zuul The Gatekeeper (by [Maxine Caulfield
+Max](maxine_caulfield_max.md)): ''
+died: October 11, 2013 (presumed, determinant)
+causeofdeath: 'Killed by the [storm](storm.md) (presumed, determinant '
+gender: Female
+hair: Orange (dyed)
+eyes: Brown
+profession: Student
+affiliation: |-
+  [Blackwell Academy](blackwell_academy.md)
+  [Vortex Club](vortex_club.md) (determinant, formerly)
+appearance: '[Episode 4: Dark Room](episode_4__dark_room.md)'
+voice: '[Ashly Burch](ashly_burch.md) (ENG) (uncredited)'
+```
+
+> Sorry, but this is the VIP section. Members only. Mmm-kay?
+
+**Sarah to [Maxine Caulfield**, Max](maxine_caulfield____max.md) in "[Episode 4: Dark Room, Dark Room](episode_4__dark_room__dark_room.md)"
+**Sarah** is a minor character who appears in "[Episode 4: Dark Room](dark_room.md)" as a [Vortex Club](vortex_club.md) member guarding the entrance to the VIP section of the [End of the World Party](end_of_the_world_party.md) at the [Blackwell Swimming Pool](blackwell_swimming_pool.md).
+
+##  Personality 
+Judging from her treatment towards [Maxine Caulfield](max_caulfield.md), Sarah appears to have a snobbish attitude towards non-Vortex Club members.
+
+According to [Courtney Wagner](courtney_wagner.md), Sarah thinks of herself as important as she "thinks she's [Victoria Chase](victoria.md)".
+
+##  Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+When Max approaches the curtains leading to the VIP section of the End of the World Party reserved for Vortex Club members, Sarah refuses to admit her even if Max is on the list, not believing Max has special guest access. She claims she is just a stand in for Courtney, and that it's not her responsibility to let people in.
+
+On the Guest List# On the Guest List If Max got herself on the guest list in "[Episode 2: Out of Time](out_of_time.md)", when Max mentions to Courtney that her "minion" wouldn't let her into the VIP section, Courtney crosses her arms and claims that Sarah is out of the Vortex Club for her arrogance. Courtney then proceeds to confront Sarah with Max. Courtney tells Sarah that she herself had given Max special guest access to the VIP Vortex Club section and that Sarah was out of the Vortex Club. After her expulsion from the Vortex Club by Courtney, Sarah gives off a saddened look as Max is granted entry to VIP section.
+
+|-|Not on the Guest ListNot on the Guest List If Max was not actually on the guest list, or alters the list to put her own name on, nothing in particular happens to Sarah, as Courtney knows Max was not on the list, making a comment about how surprising it is that Max was even at the party. Max must find a different way to enter the VIP area.
+
+## Trivia
+*Sarah and [Trevor](trevor.md) are the only known [Blackwell Academy](blackwell_academy.md) students whose last name is not mentioned in *Life is Strange*.
+**With Trevor's last name later being revealed as "Johnson" in the original files by [Don't Nod](dontnod.md), Sarah is the only known [Blackwell Academy](blackwell_academy.md) student whose last name is not mentioned in the *Life is Strange* franchise.
+*Sarah, [Dana Ward](dana_ward.md), and [Juliet Watson](juliet_watson.md) are the only Vortex Club members that do not appear in the [Alternative Timeline (Life is Strange)](alternative_timeline.md).
+*After failing to convince Sarah to let her in the VIP section, Max goes to Courtney for help and tells her that "Zuul the Gatekeeper won't let her pass". Zuul is a character from the film *{{Wiki|Ghostbusters}}*.
+
+{{Character Navbox}}
+

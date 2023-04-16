@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who is Dick Weber?",
+    "answer": "A",
+    "choices": {
+      "A": "A fisherman and resident of Arcadia Bay",
+      "B": "A famous bowler",
+      "C": "A chef at Two Whales Diner",
+      "D": "A tourist visiting Arcadia Bay"
+    }
+  },
+  {
+    "question": "Where can a picture of Dick Weber be found?",
+    "answer": "B",
+    "choices": {
+      "A": "In his house",
+      "B": "At the Two Whales Diner",
+      "C": "At the Arcadia Bay pier",
+      "D": "In the local newspaper"
+    }
+  },
+  {
+    "question": "What is the Fishing Wall of Fame?",
+    "answer": "B",
+    "choices": {
+      "A": "A wall where fishermen hang their fishing gear",
+      "B": "A wall where fishermen display their catch",
+      "C": "A wall where fishermen write their names",
+      "D": "A wall where fishermen sell their catch"
+    }
+  },
+  {
+    "question": "Who else is featured on the Fishing Wall of Fame alongside Dick Weber?",
+    "answer": "A",
+    "choices": {
+      "A": "Andy Berry and Rich Conrad",
+      "B": "Max Caulfield and Chloe Price",
+      "C": "Rachel Amber and Nathan Prescott",
+      "D": "Victoria Chase and Kate Marsh"
+    }
+  },
+  {
+    "question": "Who is Richard Anthony Weber?",
+    "answer": "A",
+    "choices": {
+      "A": "A famous bowler",
+      "B": "A fisherman from Arcadia Bay",
+      "C": "A chef at Two Whales Diner",
+      "D": "A tourist visiting Arcadia Bay"
+    }
+  }
+]

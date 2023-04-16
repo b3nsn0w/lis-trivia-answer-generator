@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Can Max Do With The Camera Next To The Red-Headed Woman?",
+    "answer": "B",
+    "choices": {
+      "A": "Take A Selfie",
+      "B": "Take An Optional Photo",
+      "C": "Take A Group Photo",
+      "D": "Take A Panoramic Photo"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Newspaper Max Can Read In The Gallery?",
+    "answer": "A",
+    "choices": {
+      "A": "The Golden Gate Reporter",
+      "B": "The Independent",
+      "C": "The San Francisco Times",
+      "D": "The Bay Area News"
+    }
+  },
+  {
+    "question": "Who Can Max Have A Conversation With In The Gallery?",
+    "answer": "D",
+    "choices": {
+      "A": "The Gallery Receptionist",
+      "B": "Principal Wells",
+      "C": "A Red-Headed Woman",
+      "D": "Daniel Lee"
+    }
+  },
+  {
+    "question": "What Can Max Do On The Couch In The Upper Floor Of The Gallery?",
+    "answer": "B",
+    "choices": {
+      "A": "Take A Nap",
+      "B": "Have A Moment Of Calm",
+      "C": "Read A Book",
+      "D": "Watch A Movie"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Leaflet Designed For Chloe?",
+    "answer": "C",
+    "choices": {
+      "A": "Stop The Startups",
+      "B": "Learn The Craft And History Of The Shambhala",
+      "C": "Skull&Bones",
+      "D": "Nigel's Samhain Druid Festival"
+    }
+  }
+]

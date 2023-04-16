@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who Wrote \"All Eyes on Me\"?",
+    "answer": "A",
+    "choices": {
+      "A": "William Davies, Edward Nutbrown, and Charles Nutbrown",
+      "B": "Max Caulfield and Chloe Price",
+      "C": "Victoria Chase and Nathan Prescott",
+      "D": "Rachel Amber and Frank Bowers"
+    }
+  },
+  {
+    "question": "In Which Episodes of Life is Strange Does \"All Eyes on Me\" Appear?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode 1 and Episode 3",
+      "B": "Episode 2 and Episode 4",
+      "C": "Episode 3 and Episode 5",
+      "D": "Episode 4 and Episode 5"
+    }
+  },
+  {
+    "question": "Where Can The Music of \"All Eyes on Me\" Be Heard in Episode 2?",
+    "answer": "A",
+    "choices": {
+      "A": "Outside Victoria's Room",
+      "B": "At the End of the World Party",
+      "C": "In the Dark Room",
+      "D": "In the Principal's Office"
+    }
+  },
+  {
+    "question": "What Is The Chorus of \"All Eyes on Me\"?",
+    "answer": "A",
+    "choices": {
+      "A": "\"One for the money, two for the show, three of us girls, and four, let's go\"",
+      "B": "\"Are you ready? Go! Are you ready?\"",
+      "C": "\"Got my swag on, kill 'em, lames, don't feel 'em\"",
+      "D": "\"All eyes on me, up in here, center of attention, but I keeps to the rear\""
+    }
+  },
+  {
+    "question": "What Is The Tone of The Lyrics of \"All Eyes on Me\"?",
+    "answer": "C",
+    "choices": {
+      "A": "Romantic",
+      "B": "Depressing",
+      "C": "Empowering",
+      "D": "Humorous"
+    }
+  }
+]

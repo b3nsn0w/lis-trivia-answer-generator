@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Did Max And Chloe Plan To Do To A Neighbor's House But Ended Up Chickening Out?",
+    "answer": "B",
+    "choices": {
+      "A": "Egg It",
+      "B": "TP It",
+      "C": "Graffiti It",
+      "D": "Ding Dong Ditch It"
+    }
+  },
+  {
+    "question": "What Did Max And Chloe Get Caught Doing During Their Secret Wine-Tasting Sessions?",
+    "answer": "C",
+    "choices": {
+      "A": "Smoking Cigarettes",
+      "B": "Playing Video Games",
+      "C": "Drinking Alcohol",
+      "D": "Watching TV"
+    }
+  },
+  {
+    "question": "What Did Max And Chloe Enjoy Doing During Their Baking Sessions?",
+    "answer": "A",
+    "choices": {
+      "A": "Making Pancakes",
+      "B": "Making Cookies",
+      "C": "Making Cakes",
+      "D": "Making Pies"
+    }
+  },
+  {
+    "question": "What Did Max Write About In Her Childhood Journal Entries?",
+    "answer": "D",
+    "choices": {
+      "A": "Her Dreams Of Being A Famous Photographer",
+      "B": "Her Favorite Anime Characters",
+      "C": "Her Plans For The Future With Chloe",
+      "D": "All Of The Above"
+    }
+  },
+  {
+    "question": "What Did Chloe Enjoy Reading?",
+    "answer": "C",
+    "choices": {
+      "A": "Novels",
+      "B": "Comics",
+      "C": "Manga",
+      "D": "Biographies"
+    }
+  }
+]

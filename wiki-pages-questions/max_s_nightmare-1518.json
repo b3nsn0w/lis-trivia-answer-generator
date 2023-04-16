@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Max's Nightmare A Reflection Of?",
+    "answer": "A",
+    "choices": {
+      "A": "Her Decisions And Feelings",
+      "B": "Her Memories Of The Week",
+      "C": "Her Fear Of The Future",
+      "D": "Her Desire To Be An Artist"
+    }
+  },
+  {
+    "question": "What Happens If Max Takes Too Long To Find The Key In The Girls Dormitories?",
+    "answer": "A",
+    "choices": {
+      "A": "She Will Ask For Chloe's Help",
+      "B": "She Will Be Trapped In The Nightmare Forever",
+      "C": "She Will Wake Up From The Nightmare",
+      "D": "She Will Rewind Time To Try Again"
+    }
+  },
+  {
+    "question": "What Is The Significance Of The Dead Whales In Max's Nightmare?",
+    "answer": "B",
+    "choices": {
+      "A": "They Represent Max's Guilt",
+      "B": "They Symbolize The End Of The World",
+      "C": "They Are A Warning Of Impending Danger",
+      "D": "They Are A Reflection Of The Real World"
+    }
+  },
+  {
+    "question": "What Is The Meaning Of The Code \"0311\" In Max's Nightmare?",
+    "answer": "A",
+    "choices": {
+      "A": "It Is Chloe's Birthday",
+      "B": "It Is The Date Of A Catastrophic Event",
+      "C": "It Is The Code To Escape The Room",
+      "D": "It Is A Reference To Max's Art"
+    }
+  },
+  {
+    "question": "What Was The Original Placement Of Max's Nightmare In The Game?",
+    "answer": "C",
+    "choices": {
+      "A": "Episode 1",
+      "B": "Episode 2",
+      "C": "Episode 3",
+      "D": "Episode 4"
+    }
+  }
+]

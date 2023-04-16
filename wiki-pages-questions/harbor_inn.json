@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Where Is Harbor Inn Located?",
+    "answer": "C",
+    "choices": {
+      "A": "Portland",
+      "B": "Seattle",
+      "C": "Arcadia Bay",
+      "D": "San Francisco"
+    }
+  },
+  {
+    "question": "What Is The Harbor Inn Close To?",
+    "answer": "B",
+    "choices": {
+      "A": "A Lighthouse",
+      "B": "A Beach",
+      "C": "A Park",
+      "D": "A Forest"
+    }
+  },
+  {
+    "question": "What Is The State Where Harbor Inn Is Located?",
+    "answer": "B",
+    "choices": {
+      "A": "California",
+      "B": "Oregon",
+      "C": "Washington",
+      "D": "Nevada"
+    }
+  }
+]

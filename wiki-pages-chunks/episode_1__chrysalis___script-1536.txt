@@ -1,0 +1,139 @@
+Here is a section of the wiki page for Episode 1: Chrysalis - Script:
+
+Missy, you sure do like to pop up and start trouble. Like this afternoon. You don't have anything smart to say now? Do you? Huh?
+
+**Chloe:** Get the hell away from her, man! Stop harassing my friends!
+
+**David:** You don't have any friends.
+
+**Chloe:** Like you know. You're not even a real cop, you're a fucking security guard!
+
+**David:** I was a soldier, Chloe. And Max, if I see you here again... You'll learn all about real trouble.
+
+}}
+
+*David leaves the room and Chloe flips the bird with both hands.*
+
+**Chloe:** Thanks for taking the heat. We totally smacked his punk ass down, Max. He's no match for you and me now...That was an epic win. Anyway. Let's sneak out the window...there is one cool place we can hang in this hickhole.
+
+**Max:** *(thinking)* Man, that did not go well for me. If I want to keep my Blackwell scholarship I shouldn't lie for anybody, even Chloe. I have to think about my own future...
+
+*Max leaves through the window with Chloe.*
+
+}}
+}}
+
+|-|(Max hides in the closet)(Max hides in the closet)
+
+**David:** What's going on in here?
+
+**Chloe:** Jesus, I'm just trying on clothes. You're so friggin' paranoid.
+
+**David:** Yeah, combat will do that to you.
+
+{{#tag:tabber|(Max left evidence that she went through David's files)# (Max left evidence that she went through David's files)
+
+**David:** I ordered you never to go through my files. You obviously have.
+
+**Chloe:** I didn’t touch your files, David. I could care less about your files.
+
+**David:** You care about starting shit, Chloe. And it’s getting old.
+
+}}
+
+**David:** One of my guns is missing. Did you take it?
+
+**Chloe:** Oh, God, I didn't take your stupid gun. You do know I believe in gun control?
+
+**David:** Wait! Is that grass? You've been toking up again in here?
+
+**Chloe:** Oh, yeah, guns, weed... You're trippin' balls.
+
+**David:** I'm sick of your disrespect! Tell me the truth, that's an order! Whose is it?
+
+{{MajorTabber|text
+{{#tag:tabber|STAY HIDDEN# STAY HIDDEN
+
+**Chloe:** Stop treating me and mom like we're your family platoon.
+
+**David:** Hey, leave Joyce out of this.
+
+**Chloe:** I wish you'd leave Joyce. Like now.
+
+*David slaps Chloe.*
+
+**David:** Chloe, I'm sorry. I care about your mother and... You just keep pushing me.
+
+{{#tag:tabber|(Took photo of David harassing Kate)(Took photo of David harassing Kate)
+
+**Chloe:** By the way, I have proof you got all up in Kate Marsh's face today. Surveillance proof.
+
+**David:** What? You best stay out of my work.
+
+**Chloe:** Then stay out of my life.
+
+{{!}}-{{!}}(Intervened to help Kate)# (Intervened to help Kate)
+
+**Chloe:** Don't touch me again, asshole. That's the last time. Or I'll bring the cops in here so fast...
+
+**David:** You're not that dumb.
+
+**Chloe:** I would be smart to have you busted.
+
+}}
+
+**David:** Chloe... Someday you'll grow up.
+
+*David leaves. Max emerges from the closet.*
+
+**Max:** Hey, you okay?
+
+**Chloe:** Welcome to "The Real Step-Douches of Arcadia Bay"...
+
+**Max:** I'm sorry...
+
+**Chloe:** For what? He would've been a bigger dick if he caught you in here.
+
+**Max:** That's hard to believe.
+
+**Chloe:** Anyway, let's sneak out the window...there is one cool place we can hang in this hickhole...
+
+**Max:** *(thinking)* David was such a mean bastard to Chloe... What if I had stepped up to help?
+
+*Max leaves through the window with Chloe.*
+
+{{!}}-{{!}}STEP INSTEP IN
+
+**Max:** I'm sorry... That was my joint.
+
+**David:** Well, well. I don't like strangers in my home. Especially dopers. So you're bringing drugs into my home. How about if I call the police? That would screw up your spotless Blackwell record... You do seem to get around..."Max". I'm sick of you losers dragging Chloe down.
+
+{{#tag:tabber|(Took photo of David harassing Kate)# (Took photo of David harassing Kate)
+
+**David:** You're on a roll today. Between the fire alarm and now this... You don't have anything smart to say now? Do you? Huh?
+
+**Chloe:** Get the hell away from her! I have proof you hassled Kate Marsh today!
+
+**David:** What? What are you talking about?
+
+**Chloe:** I have surveillance proof. Now please leave us alone.
+
+**David:** Okay, Chloe. You know everything. And Max, if I find you here again... It will be the last time.
+
+{{!}}-{{!}}(Intervened to help Kate)(Intervened to help Kate)
+
+**David:** Missy, you sure do like to pop up and start trouble. Like this afternoon. You don't have anything smart to say now? Do you? Huh?
+
+**Chloe:** Get the hell away from her, man! Stop harassing my friends!
+
+**David:** You don't have any friends.
+
+**Chloe:** Like you would know. You're not even a real cop, you're a fucking security guard!
+
+**David:** I was a soldier, Chloe. And Max, if I see you here again... You'll learn all about real trouble.
+
+}}
+
+*David leaves the room and 
+
+Generate five trivia questions relevant to this section of the page.

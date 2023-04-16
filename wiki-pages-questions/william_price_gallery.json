@@ -1,0 +1,42 @@
+[
+  {
+    "question": "In Which Episodes Does William Price Appear In Life Is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "Episodes 1 and 2",
+      "B": "Episodes 2 and 3",
+      "C": "Episodes 3 and 4",
+      "D": "Episodes 4 and 5"
+    }
+  },
+  {
+    "question": "Which Episode Of Life Is Strange Features The Most Images Of William Price In The Gallery Section?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1",
+      "B": "Episode 2",
+      "C": "Episode 3",
+      "D": "Episode 4"
+    }
+  },
+  {
+    "question": "Which Episode Of Life Is Strange Features The Fewest Images Of William Price In The Gallery Section?",
+    "answer": "A",
+    "choices": {
+      "A": "Episode 1",
+      "B": "Episode 2",
+      "C": "Episode 3",
+      "D": "Episode 4"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Episode In Which William Price Appears The Most In The Gallery Section?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who is Mrs. Prescott's husband?",
+    "answer": "A",
+    "choices": {
+      "A": "Sean Prescott",
+      "B": "Nathan Prescott",
+      "C": "Dr. Jacoby",
+      "D": "Max Caulfield"
+    }
+  },
+  {
+    "question": "What is the name of Mrs. Prescott's daughter?",
+    "answer": "B",
+    "choices": {
+      "A": "Caroline Prescott",
+      "B": "Kristine Prescott",
+      "C": "Rachel Amber",
+      "D": "Chloe Price"
+    }
+  },
+  {
+    "question": "In which episode of Life is Strange is Mrs. Prescott's first name revealed?",
+    "answer": "A",
+    "choices": {
+      "A": "Episode 1: Awake",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "How is Mrs. Prescott's appearance and personality described in the game?",
+    "answer": "A",
+    "choices": {
+      "A": "Unknown",
+      "B": "Beautiful and kind",
+      "C": "Ugly and cruel",
+      "D": "Mysterious and intelligent"
+    }
+  },
+  {
+    "question": "In what way did Mrs. Prescott contribute to the school play, The Tempest?",
+    "answer": "C",
+    "choices": {
+      "A": "She played a lead role in the play",
+      "B": "She directed the play",
+      "C": "She provided financial support for the play",
+      "D": "She wrote the script for the play"
+    }
+  }
+]

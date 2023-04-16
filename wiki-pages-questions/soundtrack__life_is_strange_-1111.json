@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What Is The Cover Art Of The Official Soundtrack A Reference To?",
+    "answer": "A",
+    "choices": {
+      "A": "A Pirate CD",
+      "B": "A Vinyl Record",
+      "C": "A Cassette Tape",
+      "D": "A Mixtape"
+    }
+  },
+  {
+    "question": "Which Song Is Played When Max Heads To The Bathroom After Class In Episode One?",
+    "answer": "A",
+    "choices": {
+      "A": "To All of You by Syd Matters",
+      "B": "Crosses by José González",
+      "C": "Santa Monica Dream by Angus & Julia Stone",
+      "D": "Piano Fire by Sparklehorse"
+    }
+  }
+]

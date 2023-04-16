@@ -1,0 +1,288 @@
+#  Chloe's Room 
+
+```yaml
+Location
+
+image: ChloeRoom_EP3.jpg
+name: Chloe's Bedroom
+type: Bedroom
+location: Madsen Household, Arcadia Bay
+state: Oregon
+appears: |-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)
+  [Episode 3: Chaos Theory](episode_3__chaos_theory.md)
+  [Episode 4: Dark Room](episode_4__dark_room.md)
+```
+
+> My room looks a bit different than the last time you saw it.
+
+**[Chloe Price](chloe_price.md) to [Maxine Caulfield**, Max Caulfield](maxine_caulfield____max_caulfield.md) in "[Episode 1: Chrysalis, Chrysalis](episode_1__chrysalis__chrysalis.md)"
+
+'''Chloe's bedroom'* is located upstairs above the garage in the [Madsen Household](madsen_household.md). It is an explorable location in both *[Life is Strange](life_is_strange.md)* and its prequel *[Life is Strange: Before the Storm](before_the_storm.md)*.
+
+##  Overview 
+The room is as rundown and chaotic as Chloe herself and reflects the complete change in her lifestyle over the five years since she last saw Max. It reveals a lot about her personality and mental state. The walls are adorned with posters and graffiti; trash, old junk, and discarded clothing litters the floor. There are many empty beer bottles scattered around, as well as empty pizza boxes that have been left in various nooks and crannies. The two trash cans in the room seem rarely used. There are also a lot of mementos of Max, [William Price](william_price.md) and [Rachel Amber](rachel_amber.md).
+
+###  Notable Items 
+* **CD Player** - See below for more.
+* **Laptop** - Used in the investigation in [Episode 4: Dark Room](episode_4.md) *(See [Chloe's Computer](here.md) for more).''
+* **TV** - Max notes that this used to be in the living room.
+* **Snow Globe** - Max can break this in [Episode 1: Chrysalis](episode_1.md) by checking the box on the top shelf by the closet.
+* **Grade Papers** - Max can also sneak a peek at Chloe's grades if she's broken the snow globe.
+* **Drawers** - Max can examine Chloe's new punk-rock clothing range by opening these.
+* **Closet** - Max is able to hide here in Episode 1 by moving the lamp out of place after rewinding.
+* **Desk** - Max can use the tiny tools she collects here in order to attempt fixing her camera.
+* **The Lock Box** - Under Chloe's bed, this contains items relating to Rachel Amber.
+* **The Cabinet Drawers** - In here are cute mementos from Chloe and Max's childhood, such as drawings and their old cellphones.
+* **Old Suitcase** - Chloe is messy, and leaves an old suitcase filled with beer bottles in the corner by her bed.
+
+###  The Walls 
+Chloe's room is particularly visual in the game, mainly attributed to the craziness of the walls she has plastered with items over the years. There are many hidden extras to be found among the posters.
+
+Chloe kept a **height chart** as a child, which she filled out with her father, William. After his death, Chloe tarnished the record, scratching out the heights with sayings such as, "Dad's Gone", showcasing her anger and frustration at the loss of her father.   
+[File:Millennium poster chloe's room.png](thumb.md)
+**The Eye of Providence** features on the wall of Chloe's room next to the window. Within the game, this is a sign of Max gaining insight into something she would never have seen if not for her saving Chloe at the beginning of the game. If Chloe had died she would never have seen the bedroom with Chloe in it, and never experienced the time spent within the room.
+
+This **poster of two faces** is a possible reference to the American film adaption of the *{{Wiki|The Girl with the Dragon Tattoo (2011 film)|Girl with the Dragon Tattoo}}*; high likelihood considering Chloe's similarities to the lead female protagonist, Lisbeth.
+
+###  Music 
+The CD Player is a key item in the room, which Max can activate at certain points while in the bedroom. Initially, the first song played is "[Santa Monica Dream](santa_monica_dream.md)" by Angus & Julia Stone. "[Piano Fire](piano_fire.md)" by Sparklehorse is also featured in Episode 1, while in Episode 4: "Dark Room", "[In My Mind](in_my_mind.md)" by Amanda Palmer features as Max and Chloe reunite after the events of the [Alternative Timeline (Life is Strange)](alternative_timeline.md).
+
+###  Alternative Timeline 
+In the alternative timeline, Chloe's room is empty and primarily used for the storage of her old belongings, as she can no longer climb the stairs to get to her old bedroom. Her mattress lies propped up against the walls, and there is no sign of the rebellious graffiti or posters which previously adorned the room. A notable item in the room is a picture of a blue butterfly which freaks Max out and emphasizes her choice as part of the Butterfly Effect.
+
+##  Interactions 
+:**PC users: **''Hover over the text to see Max's comments. [Interactions](see_here.md) for all interactions in the game.''
+
+###  Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+*{{Interaction|She can look at Chloe's auto repair bill.|"Damn, Chloe does need a lot of money to get out of Arcadia..."}}
+*{{Interaction|She can look at and search a box with photos.|**Look: **"I wonder what Chloe keeps in here..."
+**Search: **"Look at that... Chloe and her dad were so close."}}
+*{{Interaction|She can look at and turn on the power strip **(required)**.|**Off: **"There's the power strip."
+**On: **"Now I have the power."}}
+*{{Interaction|She can look at a poster.|"I'm not into them. Too pretentious."}}
+*{{Interaction|She can look at the TV.|"Hey, that TV used to be in the living room."}}
+*{{Interaction|She can look at and insert the CD into Chloe's HiFi **(required)**.|**Power off: **"It won't play without any power."
+**Without CD: **"Houston, we have the power. But we need to find a disc to play…"
+**With CD: **"Now let's see what kind of music Chloe is into these days."
+**Playing: **"I didn't expect anything this wistful from Chloe... Maybe it reminds her of Rachel?"}}
+*{{Interaction|She can look at and use [Chloe's Computer](chloe_s_laptop.md).|"Too bad I can't stream any music from Chloe's laptop. But I love how funky and outdated
+it is... She even covered it in punk stickers because Chloe doesn't give a shit."
+**Picture 1: **"She looks super happy."
+**Picture 2: **"She looks super sad."
+**Picture 3: **"She looks super stoned."}}
+*{{Interaction|She can look at and search Chloe's desk.|**Look: **"Is this a desk or a storage space?"
+**Search: **"I think this junk swallowed her discs."}}
+*{{Interaction|She can look at [Media:Rachelamber.png](rachel_amber_missing_person_posters.md).|"So it was Chloe who printed all those flyers..."}}
+*{{Interaction|She can look at and search inside Chloe's trash can.|**Look: **"Chloe's trash overfloweth."
+**Search: **"Whoda thunk Chloe wouldn't pay her parking tickets? She does love trouble."}}
+*{{Interaction|She can look at and search a metal box under Chloe's bed **(required)**.|**Before opening: **"Okay Chloe, a metal box under the bed equals secret."
+**After opening: **"Now it's not a secret metal box anymore."}}
+*{{Interaction|She can look at the window.|"We used to dare each other to climb down, but never did."}}
+*{{Interaction|She can look at Chloe's suitcase.|"Nothing but junk in this suitcase."}}
+*{{Interaction|She can look at and search a drawer.|**Look: **"Chloe's dad built this dresser."
+**Search: **"Chloe totally changed her style. I barely recognized her."}}
+*{{Interaction|She can look at the height chart.|"Chloe was always taller than me. We made her dad keep track of our height."}}
+*{{Interaction|She can look at the closet.|"Oh, this is a flashback to youth. Our 'Super Secret Closet Lair'!"}}
+*{{Interaction|She can look at and search the cardboard boxes on the top shelf.|"Old cardboard boxes..."}}
+
+**{{Interaction|Max will be able to look at Chloe's Blackwell record if she touches the boxes.|"Damn, Chloe was kicked out of Blackwell two years ago.
+She used to be a great student... when she cared."}}
+**{{Interaction|She will be able to look at Chloe's snow globe.|**Immediately after: **"Smooth move, Max. I could fix it with a quick rewind..."
+**Later: **"Shit, too late for me to rewind and fix that now."}}
+*{{Interaction|She can look at and search the laundry bag.|**Look: **"This looks like a laundry bag."
+**Search: **"And it reeks like dirty laundry. Gross!"}}
+*{{Interaction|She can look at and search the blue drawer.|**Look: **"Man, I remember this furniture. We spent all day painting it blue. Chloe loved that blue."
+**Search: **"We had such a blast drawing these together."}}
+*{{Interaction|She can look at a postcard.|"This postcard is from Rachel Amber..."}}
+*{{Interaction|She can look at and speak to Chloe.|"Hard to believe Chloe was my BFF just five years ago."}}
+
+When forced to hide:
+*{{Interaction|She can look at the window.|"This is going nowhere fast. I better look someplace else."}}
+*{{Interaction|She can try to hide under the bed.|"I'm not a kid anymore, I can't hide under the bed! Where else?"}}
+*{{Interaction|She can look at and move the floor lamp to hide in the closet.|"This lamp is wonky. It might fall if I touch it..."}}
+*{{Interaction|She can look at Chloe's joint if she rewinds after the confrontation with David.|"You can hide a joint, but not the smell... forget it."}}
+
+###  Episode Three – "[Episode 3: Chaos Theory](chaos_theory.md)" 
+*{{Interaction|Max can open the drawer near the closet.|"I don't think I'll be moshing today."}}
+*{{Interaction|She can look at the closet.|**Hid, came out, suspended: **"If I stayed hidden, no way would I have been suspended..."
+'''Didn't hide, suspended: **"Maybe I should have hid in the closet, no way would I have been
+suspended..."
+**Stayed hidden: **"I still feel guilty for not busting out of here to stop David from hitting Chloe..."
+**Hid, came out, not suspended: '''"Man, if I had stayed hidden, David wouldn't be targeting me."
+'''Didn't hide, not suspended: '''"I could have hid in the closet and then David wouldn't be on my case."}}
+*{{Interaction|She can open the blue drawer.|"Wow... I remember this old phone! We decorated it together."}}
+*{{Interaction|She can try to open the door.|"Put some clothes on first, hillbilly."}}
+*{{Interaction|She can examine Chloe's wallet in her coat.|"The fact that she put the photo next to Rachel is so touching..."}}
+*{{Interaction|She can examine the photo box.|"Wowser... That was my 10th birthday. I didn't know Chloe kept this stuff..."}}
+*{{Interaction|She can look at and play the HiFi.|**Music on: **"I love this song."
+**Music off: **"Hey, can you play that again?"}}
+*{{Interaction|She can look at and use Chloe's laptop.|"Can I check out the news on this old laptop?"}}
+*{{Interaction|She can look at a book on the desk.|"Chloe is so damn cute—she's really trying to suss out what my vision means..."}}
+*{{Interaction|She can look at Chloe's joint.|**Blamed Chloe: **"I should have sparked up that joint in front of David so he wouldn't have hit Chloe..."
+**Took blame, suspended: **"I might as well start blazing if I was dumb enough to get
+suspended for weed..."
+**Took blame, not suspended: **"I'm lucky David didn't bust me for acting like it was my pot."
+**Stayed hidden: **"I was such a wuss to cower in the closet while David hit her..."}}
+*{{Interaction|Max can try to put on her clothes.|"Time to put on your daily armor, Max!"}}
+*{{Interaction|She can look at Chloe's mobile phone.|**Picture of Max: **"Nice, Chloe put my pic on her phone... I must have proved I was worthy again..."
+**Picture of Rachel: **"I thought Chloe might put up a pic of me instead... Can't compete with Rachel."}}
+*{{Interaction|She can look at David's gun (determinant).|"Frank might think twice about messing with Chloe now, but if David finds out... shitstorm."}}
+*{{Interaction|She can look at the stolen money (determinant).|"Yes, I might go to hell for this, but if it saves Chloe... We'll pay it back—somehow."}}
+*{{Interaction|She can look at and speak to Chloe.|**Stole money: **"Chloe seems more relaxed now that she has that money...
+from the handicapped fund..."
+**Left money: **"Chloe doesn't seem too upset she didn't take that money
+from the handicapped fund..."}}
+*{{Interaction|She can look at and put on Rachel's clothes **(required)**.|"I think Rachel's style is a little more subtle... like me."}}
+
+###  Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+# ### **Alternative Timeline**
+*{{Interaction|She can look at a letter from [Dorothy](aunt_dorothy.md).|"Too bad Joyce and William can’t get any help from the Prescott Foundation..."}}
+*{{Interaction|She can look at Chloe's crutches.|"They bought crutches for Chloe, hoping she might walk again."}}
+*{{Interaction|She can look at a box labeled "Toys".|"I kinda want to open this and see what's in here."}}
+*{{Interaction|She can look at a box labeled "Shoes".|"Chloe always did love stomping around in her boots."}}
+*{{Interaction|She can look at a letter from [Aaron Price](aaron_price.md) to William.|"I never heard much about William's brother."}}
+*{{Interaction|She can look at the height chart.|"I guess we stopped growing up together."}}
+*{{Interaction|She can look at the closet.|"At least we never had to hide from step-douche."}}
+*{{Interaction|She can look at a butterfly poster.|"A blue butterfly? I'm sure this is a total coincidence..."}}
+*She can have a [Moment of Calm (Life is Strange)](moment_of_calm.md) by sitting on a stool.
+
+# ### Original Timeline
+*{{Interaction|She can read an issue of "[The Great Northwest](the_great_northwest.md)" lying on Chloe's bed.|"Damn, this is a serious exposé on the Prescotts... Finally!"}}
+*{{Interaction|She can read a magazine on the suitcase.|"That's my Chloe."}}
+*{{Interaction|She can look at the papers in the trash can.|"Even Holmes and Watson didn't use every piece of information."}}
+*{{Interaction|She can look at a cup of coffee.|"Staying up all night is the best excuse to drink lotsa coffee."}}
+*{{Interaction|She can look at Chloe's ashtray.|"Yes, Chloe Price was here."}}
+*{{Interaction|She can examine the picture box.|"I'm so sorry, William... It's not fair you had to die twice."}}
+*{{Interaction|She can look at the snow doe.|**Broke: **"The snow doe is still broken apart, like William from Chloe..."
+'''Didn't break: '''"That snow doe always makes me think of William and Chloe."}}
+*{{Interaction|She can examine Chloe's wallet.|"This butterfly photo seems like a million years ago... How much time have I altered since?"}}
+*{{Interaction|She can look at an email from [Anderson Berry](officer_berry.md) (determinant).|**Erased message: **"I should have known just erasing that phone message wouldn't
+stop the police..."
+'''Didn't erase message: '''"Oh great, Chloe is busted again. I was her partner in crime,
+but... not this time..."}}
+*{{Interaction|She can look at and examine the board.|"Amazing how innocent our drawings were, compared to what we're doing now."}}
+*{{Interaction|She can look at, speak to and take an optional photo of Chloe.|"I wish I could tell Chloe how much William cared about her..."}}
+*She can leave the room **(required)**.
+*She can have a Moment of Calm on the bed.
+
+Later in the episode:
+*{{Interaction|She can look at the gun.|**Shot Frank: **"Did our plan have to include shooting Frank in the leg?"
+**Killed Frank: **"Sorry, Frank... I should bury this goddamn thing."
+**No one hurt: **"Sorry, we got Frank on our side without using you."}}
+*{{Interaction|She can look at Chloe's laptop.|"We've printed everything we need, now it’s time to focus on the big board..."}}
+*She can play a song on the HiFi.
+*{{Interaction|She can look at and speak to Chloe.|**Frank alive: **"Chloe is on a roll to find more clues about Rachel, now that we're so close."
+**Frank dead: **"Oh, Chloe, I'm so sorry you have to go through this."}}
+
+She can examine the clues on the board:
+*{{Interaction|Map of Blackwell with camera placement.|"You need to get rid of these damn cameras, David."}}
+*{{Interaction|Coordinates of several vehicles.|"I hope in this case that David has good tracking skills."}}
+*{{Interaction|Photos of Kate.|"David should have done way more than take photos of Kate."}}
+*{{Interaction|David's profile on Kate.|"Hmmm, maybe he was trying to help Kate in his own messed up way."}}
+*{{Interaction|Photos of car license plates.|"Look at all these license plates. I hope he was tailing Nathan."}}
+*{{Interaction|Photos of Max.|"Of course, I’m a suspect. Proving David sucks as a detective. Sorry."}}
+*{{Interaction|Photos of Nathan.|"At least David was finally going after the right suspect."}}
+*{{Interaction|Excerpt from Principal Wells' notes.|"David really has been on Rachel's ass for a while. She should have been upset."}}
+*{{Interaction|David's profile on Rachel.|"Does David know what’s going on with Rachel or is he just paranoid about everybody?"}}
+*{{Interaction|Photo of Nathan in his car.|"Of course, Nathan drives an SUV. Overcompensating as usual."}}
+*{{Interaction|Photo of Nathan dealing drugs.|"There’s Nathan dealing to the kids right out in the open."}}
+*Coordinates of Nathan's car.
+*{{Interaction|Photo of Nathan's car license plate.|"Hmmm, who does this car belong to?"}}
+*{{Interaction|Coordinates of Jefferson's car.|"Hmmm, who else was David tracking here?"}}
+*{{Interaction|Photo of Jefferson's car license plate.|"Wowser, this looks like an expensive machine."}}
+*{{Interaction|Coordinates of an unknown car (TWLGHTZN).|"Why the hell are you following these people? And to where?"}}
+*{{Interaction|Photo of an unknown car license plate (TWLGHTZN).|"Interesting... is this Nathan's car?"}}
+*{{Interaction|Coordinates of Chloe's car.|"Yep. Another car David was tracking."}}
+*{{Interaction|Photo of Chloe's car license plate.|"That's definitely Chloe's car."}}
+*{{Interaction|Photo of the parking lot confrontation.|**Warren beat up Nathan** "I'm glad Warren got his revenge." 
+ **Stop Warren from beating Nathan** "Maybe I should have let Warren beat Nathan's ass down... just this once."}}
+*{{Interaction|Key for Frank's account book.|"'Rott' must stand for Rottweiler. That does fit Nathan... rotten."}}
+*{{Interaction|Frank's account book.|"Frank’s account book. But the client names are encrypted."}}
+*{{Interaction|Excerpt from Principal Wells' notes.|"Frank is for sure the 'local dealer,' but I doubt Rachel was carrying drugs for him... right?"}}
+*{{Interaction|Letter from Rachel to Frank.|"There’s no doubt she loved him in some way..."}}
+*{{Interaction|Letter from Rachel to Frank #2.|"So what happened to Rachel after this? She dumped Frank, but I don't think he would hurt her."}}
+*{{Interaction|Photo of Rachel driving Frank's RV.|"Maybe Rachel took a road trip with Frank, but she did come back."}}
+*{{Interaction|Photo of Rachel and Frank.|"So weird how close they were. But Frank couldn't keep Rachel... or protect her."}}
+*{{Interaction|Key to Frank's account book.|"Okay, Max, remember these names and see how Nathan fits in with all this."}}
+*{{Interaction|Six pages from Frank's account book.|"Frank sure is keeping his customers satisfied. He could open a store."
+"Hmmm, two deals with Nathan on the same day... 'Party supplies' no doubt."
+"Everybody in Arcadia Bay must be high. That explains a lot."
+"I'm getting a contact high just reading this."
+"If Frank applied this kind of detail to his life... Who am I to talk?"
+"I wonder what dog name Frank would have given me."}}
+*{{Interaction|Disciplinary Warning Report.|"So busted! It's good to see the Prescotts can't cover up all their tracks..."}}
+*{{Interaction|Nathan's drawing.|"If there is a 'Dark Room,' we better find it. Good thing
+Chloe slipped all these files on her flash drive."}}
+*{{Interaction|Nathan's phone (turned off).|"Oh, there has got to be some good shit in his phone... I just need the code to unlock it."}}
+*{{Interaction|Nathan's student file.|"There’s a lot of numbers in here."}}
+*{{Interaction|Piece of paper with numbers.|"Holy shit, Nathan is seriously unhinged... but those numbers might be useful."}}
+*{{Interaction|Nathan's SIM card.|"Couldn't hurt to give this PIN code a whack..."}}
+*{{Interaction|Vortex Club party flyer.|"This is the Vortex Club party where Nathan drugged Kate."}}
+*Nathan's phone (locked).
+*Nathan's phone (unlocked).
+*{{Interaction|Five SMS chats between Nathan and Frank.|"Yes, this is all about Nathan trying to score for the Vortex Club party..."
+"Nathan was jonesing hard the night of the party... He didn’t have enough drugs?"
+"Drug-dealer drama..."
+"God, Nathan... you’re out of control."}}
+*{{Interaction|Nathan's SMS to Max.|"So it was you... Now I can officially call you a 'Psycho Stalker.'"}}
+*{{Interaction|SMS from Jefferson to Nathan.|"Is this from Nathan's father? That's brutal."}}
+*Printed SMS chats between Nathan and Frank.
+*Frank's deals with Nathan.
+*{{Interaction|Vortex Club party poster.|"So, this infamous party was the 4th..."}}
+*{{Interaction|Printed picture of the Junkyard.|"Was Frank meeting Nathan at the junkyard?"}}
+*{{Interaction|Printed picture of the beach.|"That beach is like Frank's main office."}}
+*{{Interaction|Printed picture of the forest around Arcadia Bay.|"I know Nathan wasn’t looking for Bigfoot in the forest..."}}
+*{{Interaction|Printed picture of the gas station.|"Somebody is stocking up on gas... Why?"}}
+*{{Interaction|Printed picture of the Two Whales Diner.|"If Joyce knew what Nathan did to Chloe... she would fry his ass."}}
+*{{Interaction|Printed picture of the Prescott Estate.|"Oh, that has to be the Prescott estate. Poor, rich Nathan…"}}
+*{{Interaction|Printed picture of the barn.|"Not much out there."}}
+*{{Interaction|Printed picture of Blackwell Academy.|"No doubt that Nathan stays in his dorm room... so he could be hiding clues there, too."}}
+
+##  Trivia 
+* The soda cans in Chloe's room are a brand called "Pr. Amaury", a reference to [Amaury Balandier](amaury_balandier.md), the lead environment artist for *Life is Strange*. They're also referencing the soft drink brand Dr. Pepper.
+* There is a postcard that can be found in the metalbox under Chloe's bed. Once enlarged, it appears the letter was from someone called "Amaury", probably another reference to Amaury Balandier.
+* An unused audio file in Episode 3 ("Chaos Theory") revealed that the snow doe that sits on the mantelpiece in the 2008 Price household (which Chloe keeps in her room in 2013 - both timelines) actually belonged to William. {{Headphones|file=Snow-doe-William.ogg}}
+
+soda-can.png|Amaury soda can
+Postcard.png|Postcard from Amaury
+
+###  Original Timeline 
+
+Chloe_Room_view_from_bed.png|View from the bed.
+Chloe_Room_view_door.png|Front view.
+Chloe Room height meter.png|Height chart.
+Chloe Room furniture blue painted.png|Chloe's blue dresser.
+Chloe Room laundry bag.png|Laundry bag.
+Chloe Room suitcase with junk.png|Chloe's suitcase.
+Chloe Room cloth.png|Dresser with punk clothes.
+Chloe_Room_dresser.png|Dresser with punk clothes (closed).
+Chloe_Room_desk.png|The desk.
+Chloe_Room_window.png|The window.
+Ep4-Investigation board.png|Investigation board.
+
+Chloe car repairs.png|Chloe's car repair invoice.
+Ep1-ChloeRoom-ReportCard.png|Chloe's report card.
+Chloe William Photo.png|Photo of Chloe and William.
+Chloe and William Photo2.png|Photo of Chloe and William #2.
+Childdrawing1.png|Drawing by Max and Chloe.
+Childdrawing2.png|Drawing by Max and Chloe #2.
+chloesroom-rachelpostcardfront.png|Postcard from Rachel to Chloe (front)
+chloesroom-rachelpostcardback.png|Postcard from Rachel to Chloe (back)
+chloesroom-ep1trash.png|Parking tickets in the trash can.
+Chloe's room - toy.png|Chloe's old phone.
+Max 10th birthday.jpg|Chloe and Max on Max's tenth birthday.
+chloesroom-badgirls.png|"Bad Grrls Guide to Guns" magazine.
+
+###  Alternative Timeline 
+
+altchloeroom-boxes.png|Boxes with various things
+altchloeroom-heightchart.png|Chloe's height chart
+altchloeroom-mattress.png|Mattress propped up against a wall
+
+###  Concept Art 
+
+Edouard-caplain-chloesroom-hd.jpg|Concept art by Edouard Caplain.
+
+{{Location Navbox}}
+

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Happens When Max Tries To Rewind Time On The Dormitory Roof?",
+    "answer": "B",
+    "choices": {
+      "A": "She Succeeds",
+      "B": "She Fails",
+      "C": "She Gets A Headache",
+      "D": "She Passes Out"
+    }
+  },
+  {
+    "question": "Why Does Kate Want To Jump Off The Roof?",
+    "answer": "C",
+    "choices": {
+      "A": "She Is Being Bullied",
+      "B": "She Is Being Harassed By David",
+      "C": "She Is Depressed",
+      "D": "She Is Being Threatened By Nathan"
+    }
+  },
+  {
+    "question": "What Does Kate Accuse Max Of Doing When She Arrives On The Roof?",
+    "answer": "A",
+    "choices": {
+      "A": "Taking Another Picture Of Her",
+      "B": "Bullying Her",
+      "C": "Ignoring Her",
+      "D": "Laughing At Her"
+    }
+  },
+  {
+    "question": "What Does Max Say To Kate To Try And Convince Her Not To Jump?",
+    "answer": "B",
+    "choices": {
+      "A": "\"You're Not Alone\"",
+      "B": "\"Things Will Get Better\"",
+      "C": "\"I'll Help You\"",
+      "D": "\"You're Stronger Than This\""
+    }
+  },
+  {
+    "question": "What Does Kate Say In Response To Max's Attempt To Convince Her Not To Jump?",
+    "answer": "B",
+    "choices": {
+      "A": "\"I Don't Believe You\"",
+      "B": "\"It's Too Late\"",
+      "C": "\"You're Just Saying That\"",
+      "D": "\"You Can't Help Me\""
+    }
+  }
+]

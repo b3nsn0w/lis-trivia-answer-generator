@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Sticker Above The Concept Art Of Two Beached Whales?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Hello\"",
+      "B": "\"Enjoy The Journey\"",
+      "C": "\"Might Bite\"",
+      "D": "\"Will Bite\""
+    }
+  },
+  {
+    "question": "What Is The Background Doodle In The Concept Art Of A Bird's-Eye View Of Arcadia Bay?",
+    "answer": "A",
+    "choices": {
+      "A": "A Hill",
+      "B": "A Lighthouse",
+      "C": "A Train",
+      "D": "A Beach"
+    }
+  },
+  {
+    "question": "What Is The Sticker Collection That Includes The Graffiti Of Bigfoot Next To The Lighthouse?",
+    "answer": "B",
+    "choices": {
+      "A": "\"Peek A Boo\"",
+      "B": "\"Arcadia Bigfoots\"",
+      "C": "\"WTF: What The Fluff\"",
+      "D": "\"Hellau Sunshine\""
+    }
+  },
+  {
+    "question": "Who Is Credited As The Art Director On The Last Page?",
+    "answer": "D",
+    "choices": {
+      "A": "Eduard Caplain",
+      "B": "Gary Jamroz-Palma",
+      "C": "Frédéric Augis",
+      "D": "Michel Koch"
+    }
+  }
+]

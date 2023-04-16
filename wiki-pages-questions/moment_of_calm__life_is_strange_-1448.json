@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Want To Do When She Grows Up?",
+    "answer": "B",
+    "choices": {
+      "A": "Be A Bodyguard",
+      "B": "Travel And Explore The World",
+      "C": "Be A Photographer",
+      "D": "Be A Museum Curator"
+    }
+  },
+  {
+    "question": "Where Does Max Play \"Something Good\"?",
+    "answer": "C",
+    "choices": {
+      "A": "In Chloe's House",
+      "B": "In The Prescott Dormitory",
+      "C": "In The American Rust Junkyard",
+      "D": "In Blackwell Campus"
+    }
+  },
+  {
+    "question": "What Happens To The Wine During Max And Chloe's \"Wine Tasting Session\"?",
+    "answer": "B",
+    "choices": {
+      "A": "They Drink It All",
+      "B": "They Spill It On The Carpet",
+      "C": "They Hide It From Chloe's Parents",
+      "D": "They Give It To Max's Parents"
+    }
+  },
+  {
+    "question": "What Does Max Believe The Forest Is Doing?",
+    "answer": "A",
+    "choices": {
+      "A": "Whispering To Her",
+      "B": "Trying To Scare Her",
+      "C": "Trying To Hide Something From Her",
+      "D": "Trying To Warn Her"
+    }
+  },
+  {
+    "question": "What Does Max Do After Staying Up All Night?",
+    "answer": "D",
+    "choices": {
+      "A": "Uses Her Rewind Power To Catch A Few More Z's",
+      "B": "Goes For A Walk",
+      "C": "Plays Her Guitar",
+      "D": "Saves Her Strength"
+    }
+  }
+]

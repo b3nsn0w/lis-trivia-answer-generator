@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Name Of The Anti-Bullying Poster That Reminds Max Of Kate?",
+    "answer": "A",
+    "choices": {
+      "A": "No Bullying",
+      "B": "Stop Bullying Now",
+      "C": "Anti-Bullying Campaign",
+      "D": "Bullying Is Not Cool"
+    }
+  },
+  {
+    "question": "Whose Dorm Room Door Has Been Vandalized With A Portrait?",
+    "answer": "B",
+    "choices": {
+      "A": "Max's",
+      "B": "Warren's",
+      "C": "Nathan's",
+      "D": "Chloe's"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Book That Max Finds In Nathan's Room?",
+    "answer": "D",
+    "choices": {
+      "A": "The Prescotts: A Family History",
+      "B": "The Art of Manipulation",
+      "C": "How to Get Away with Murder",
+      "D": "Dr. Bill's Guide to Success"
+    }
+  },
+  {
+    "question": "What Item Does Max Find Under Nathan's Bed In His Room?",
+    "answer": "A",
+    "choices": {
+      "A": "A Gun",
+      "B": "A Knife",
+      "C": "A Baseball Bat",
+      "D": "A Crowbar"
+    }
+  }
+]

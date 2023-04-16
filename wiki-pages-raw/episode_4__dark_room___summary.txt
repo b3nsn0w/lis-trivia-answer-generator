@@ -1,0 +1,58 @@
+= Episode 4: Dark Room - Summary =
+
+{{Free Tab
+|minwidth = 17%
+|maxwidth = 30%
+|borderradius = 4
+|height = 2
+|tab1=Overview|link1=Episode 4: Dark Room
+|tab2=Summary|link2=Episode 4: Dark Room - Summary
+|tab3=Choices|link3=Episode 4: Dark Room - Choices
+|tab4=Image Gallery|link4=Episode 4: Dark Room - Image Gallery
+|tab5=Script|link5=Episode 4: Dark Room - Script
+}}
+{{Scaleimage|file=Life-Is-Strange-Episode-4.png|size=large}}
+
+'''Max realizes that changing the past can lead to painful consequences and that time is not a great healer. Her investigation into the disappearance of Rachel Amber begins to reach a thrilling conclusion as she finds the Dark Room. Will the answers lie within? Or will there just be trouble?'''
+----
+
+The now paralyzed and wheelchair-bound [[Chloe Price|Chloe]] is taken by [[Maxine Caulfield|Max]] to the [[Alternative Beach|beach]] (which is now full of dead whales) where they talk; Chloe reveals that her condition was caused by a car accident and that she had never met [[Rachel Amber]]. Max apologizes for not being there for her when she had had her accident. Chloe accepts her apology and is happy to be around her. Later, in [[Alternative Price Household|her house]], Max helps Chloe with a few favors: fetching her a cup of water, wiping her face, playing a movie, retrieving her morphine injector, and searching for her photo album. Max can also speak to [[William Price|William]] and [[Joyce Price|Joyce]] and will learn that they have been taking multiple jobs to pay for Chloe's medical bills and are facing bankruptcy. Afterward, Chloe wants Max to overdose her with morphine so that she can die because her condition is getting worse and she wants to die in her own way.
+
+<tabber>Max accepts=<h5 style="display:none">Max accepts</h5>Max turns the dial on Chloe's morphine drip to its highest setting. Chloe slowly and peacefully nods off for the last time.
+|-|Max refuses=<h5 style="display:none">Max refuses</h5>Chloe is upset with Max and wants her to leave.</tabber>
+Max then focuses on the photo of her and Chloe in the photo album, bringing her back to the day of William's death. Unlike the last time, Max doesn't do anything. William finds his keys as usual and leaves. Max is visibly distraught during the search. Immediately after William leaves, Max burns the photo and tries to comfort Chloe about abandonment. It has no effect and the previous [[timeline]] is restored.
+
+After the focus, Max finds herself in [[Chloe's Room|Chloe's room]]. She's very happy to have the normal Chloe back (although Chloe is confused by her behavior) and decides not to mention anything of the [[Alternative Timeline|altered timeline]] to Chloe. It turns out she and Max have made up for Chloe's outburst and are investigating Rachel's disappearance. Max searches [[David Madsen|David]]'s locker for clues (in which she must figure out the combination or break into it using a crowbar). She can also speak to David, who is either working in the garage or getting ready to leave for a hotel. If Max saved the [[Blue Jay|blue jay]] from [[Episode 1: Chrysalis - Summary|Episode 1]], she can find it sitting on a high shelf and Joyce asks Max to get rid of it. She must open the window near the dining table and then shoo it towards the window to get it out of the house.
+
+If [[Kate Marsh|Kate]] is still alive, they go to the [[hospital]] to visit Kate. Chloe remains outside when Max enters the room. Kate and Max have a pleasant discussion. They talk about her recovery, how grateful she was that Max came to the rooftop to help her, the pictures she is drawing for her picture book, and a not so subtle request that Kate's picture book will have photography artwork and that she wants no one other than Max to do it. Later, Max shares that she and Chloe are going to investigate [[Nathan Prescott|Nathan]]'s [[Nathan's Room|room]] for clues. Kate will then promise to find out Nathan's room number and to text Max later. Max will then return to Chloe in the hallway. If Max had chosen to answer Kate's call at the [[Two Whales Diner]], Chloe will bring it up and apologize failing to see the gravity of the situation and that Chloe can sometimes be very selfish for attention.
+
+Next, they go back to the [[Blackwell Academy|Blackwell]] campus to examine Nathan's dorm. Along the way, they have a conversation with [[Mark Jefferson|Mr. Jefferson]]. Max can also speak to [[Brooke Scott|Brooke]], [[Daniel DaCosta|Daniel]], [[Michelle Grant|Ms. Grant]], and [[Samuel Taylor|Samuel]] while Chloe can be found talking to [[Justin Williams|Justin]]. After checking that Nathan is gone, Max breaks open his locked door with a fire extinguisher and searches for clues in his room, finding a phone hidden behind his couch. While exiting the boy's dorm, Nathan comes back and threatens Max, but [[Warren Graham|Warren]] beats him up. Max can either stop Warren or not do anything. If Max decides not to do anything, Warren beats him up until Nathan lies on the floor, hurt drastically. If this happens, Chloe will take the gun off Nathan but if you decide to stop Warren from beating up Nathan, Nathan will run away with the gun, threatening to tell his [[Sean Prescott|father]]. [[File:2015-07-28 00007.jpg|thumb|228x228px|Nathan lying on the ground in agony after Warren has beaten him up.]]
+Max and Chloe decide to visit [[Frank Bowers|Frank]] next to get the list of the code names in Frank's book they have found in [[Frank's RV|his RV]]. There are three possible endings:
+# Frank (and [[Pompidou]] if still alive) are killed by Chloe.
+# Frank is wounded by Chloe.
+# Frank remains calm during the conversation and becomes an ally.
+All three cases end with the pair getting Frank's client list. There are several other bad endings that must be rewound. The bad endings involve losing a gun or knife fight or if Pompidou overwhelms Chloe.
+
+Frank will have David's gun if he had taken it earlier, otherwise, he will have his knife. It is possible for Chloe to be armed with Nathan's gun, David's gun, or unarmed. There are altered conversation options to attempt to smooth over relations if the first attempt ends less than peacefully and Max chooses to rewind. Using the stolen money from the [[Raymond Wells|Principal]]'s [[Principal Wells' Office|office]] makes Frank less likely to become angry. Having attempted to shoot Frank earlier will make him more likely to get angry.
+
+After retrieving the list, they head back to Chloe's house and start to evaluate the clues they have found. The clues lead them to an [[Barn|abandoned barn]] owned by the [[Prescott Family|Prescott family]]. They enter through a side opening and examine it closer, finding hidden stairs. After breaking the padlock to the floor covering the stairs using some rope and an old motor, they move downstairs and find a massive door with a keypad. Max manages to get the correct combination and they enter an [[Dark Room (Location)|underground bunker]] full of photo equipment. They find binders with photos of drugged girls, including Kate and Rachel. There is also an empty binder for [[Victoria Chase|Victoria]]. One of the photos is of Rachel appearing to be dead in the [[American Rust Junkyard|junkyard]]. Chloe is very upset by this and convinces herself that she is just posing for the camera. She recognizes the spot and rushes back to the truck, leaving Max to rush after her.
+
+The pair drive quickly to the junkyard. After arriving, Chloe rushes to the spot and begins to dig. Max helps as well. Max quickly comes upon a decomposing body in the ground. After Chloe looks at it, she confirms that it is definitely Rachel. Extremely distraught, she wanders off a few steps and collapses onto the ground and begins to cry. Max hugs her as Chloe mourns the loss of a dear friend while the ghostly doe watches from a distance. Chloe then swears to get revenge on Nathan.
+
+In the evening, they arrive at the [[Vortex Club]]'s "[[End of the World Party|End of the World]]" party in search of Nathan, assuming that he plans to target Victoria. The pair bump into a very drunk Warren outside, who notes that this truly the end of the world because of the crazy weather and wants to take a picture with Max for prosperity. He uses [[Max's Camera|Max's camera]] to take a selfie of the pair and keeps the picture. Max then notices two moons in the sky. Getting extremely impatient at the delay, Chloe splits up from Max and storms off into the party first. Max follows after.
+
+At the party, Max can talk with various students and can use her rewind power to help [[Alyssa Anderson|Alyssa]] avoid getting knocked into the [[Blackwell Swimming Pool|pool]]. Max is denied access to the VIP area, but if she signed up for the Vortex Club, [[Courtney Wagner|Courtney]] will help Max get in otherwise, she will have to sneak in another way. She then tries to warn Victoria of the danger she is in. If Max was nice to Victoria before and does not choose to be enemies, she will believe Max; otherwise, she will not listen to Max at all. Regardless of what Max chooses, she will tell Max that Nathan isn't at the party.
+
+Chloe will re-enter the room after you talk to Victoria, saying she has found out that Nathan isn't anywhere else in the building. Mr. Jefferson appears and shares his disappointment with Max that she did not enter a photo into the [[Everyday Heroes Photo Contest|Everyday Heroes contest]].
+
+He later briefly interrupts the party to announce the winner to be Victoria who comes up on stage. Victoria is invited to speak and will share her gratitude to her fellow classmates and will remark that Kate is the real Everyday Hero of Blackwell. After the announcement, the two leave the building. Just after they have left the building, Chloe gets a message from Nathan saying that there will be no evidence of Rachel Amber once he is done.
+
+Max and Chloe hurry to the junkyard where Rachel's body is left at. Chloe rushes ahead again and is several steps ahead of Max. She arrives at Rachel's burial site first and is relieved to find it intact. While approaching the site, Max is suddenly injected with a sedative from behind. Quickly losing consciousness and unable to rewind, Max tries extremely hard to shout a warning to Chloe. Chloe realizes there is a threat and attempts to attack but is shot in the head first, killing her. Witnessing this, Max attempts to rewind but fails. Mark Jefferson's face becomes visible as Max loses consciousness.
+
+{{Navlinks|prev=Episode 3: Chaos Theory - Summary|next=Episode 5: Polarized - Summary}}
+
+[[pt-br:Episódio 4: Dark Room - Resumo]]
+[[ru:Эпизод 4: Проявочная/Сюжет]]
+[[Category:Episode 4: Dark Room]]
+[[Category:Episode Summaries]]
+[[Category:Life is Strange]]

@@ -1,0 +1,135 @@
+Here is a section of the wiki page for Episode 4: Dark Room - Script:
+
+famous.
+
+}}
+
+{{#tag:tabber|(Comforted Victoria)(Comforted Victoria)
+
+**Victoria:** On point, Max... Thanks for admitting again that I have some talent. Not that I think I always do.
+
+**Max:** I don't either, but that's the choice you make.
+
+{{!}}-{{!}}(Made fun of Victoria)# (Made fun of Victoria)
+
+**Victoria:** Yeah, Mr. Jefferson probably won't be choosing my photo. I'm not as talented as I thought.
+
+**Max:** Yes, you are. But we shouldn't have to choose between talent and kindness. I hope.
+
+}}
+
+**Victoria:** Hard to believe, but I don't always make the best choices. Do you think it's, like, fate we're not supposed to be friends?
+
+|-|Jefferson.Jefferson.
+
+**Max:** Is that what you were trying to tell Mr. Jefferson last night?
+
+**Victoria:** You saw me talking to him?
+
+**Max:** Saw... and heard.
+
+**Victoria:** We were just talking about how excited he is for the "Everyday Heroes" contest. That doesn't mean I'm going to win or anything.
+
+**Max:** I hope you win fair.
+
+**Victoria:** We'll see...And Max, I know you don't like me either, so it's not like we have to be friends or anything.
+
+|-|You suck.# You suck.
+
+**Max:** Your photographs suck, Victoria. You make fun of my selfies, but most of your photos are basically headshots. I don't think Richard Avedon has anything to worry about.
+
+**Victoria:** Oh, you did not just say that. I can't wait to see you choke when Mr. Jefferson selects my incredible photo for the "Everyday Heroes" contest.
+
+**Max:** Uh, yeah, I saw you try to blackmail Mr. Jefferson last night because you're so incredible. That was so pathetic, Victoria.
+
+{{#tag:tabber|(Blamed Jefferson)(Blamed Jefferson)
+
+**Victoria:** Uh... no, creeper. We were talking about the contest. And you're just jealous again because you got Mr. Jefferson kicked out of going to San Francisco. Like he cares about you.
+
+{{!}}-{{!}}(Didn't blame Jefferson)# (Didn't blame Jefferson)
+
+**Victoria:** Uh... no, creeper. We were talking about the contest. You didn't even enter a picture, so stop acting like you care.
+
+}}
+
+**Max:** Like Mr. Jefferson gives a shit about you either. I mean, have you ever even watched his body language when you try to cuddle up to him? Sad face.
+
+**Victoria:** Ha ha.
+
+**Victoria:** By the way, nobody says we have to be friends, Max.
+
+Not enemies.Not enemies.
+
+**Max:** Maybe, but who says we have to be enemies?
+
+**Victoria:** Whoever makes that decision.
+
+**Max:** That would be us, Victoria.
+
+**Victoria:** Well, Max Caulfield, I could always choose to let you in the Vortex Club...
+
+**Max:** I don't think that's gonna happen... but not for the reasons you think.
+
+**Victoria:** Oh, you look so serious...
+
+|-|Why not? (Determinant)# Why not? (Determinant)
+
+*Only available if Max has been very friendly to Victoria.*
+
+**Max:** Why the hell not? We're both into art and photography, both kind of weird and pretentious. If we hung out without attitude, we'd get along fine.
+
+**Victoria:** I almost asked you to hang out. You said my photos were "Avedon-esque." Then I remembered who I was...
+
+**Max:** You should have asked me. It would have been cool to compare photo notes.
+
+**Victoria:** Maybe we're too much alike...
+
+**Max:** You might be right.
+
+**Victoria:** Well, Max Caulfield, there's still time for you to get in the Vortex Club...
+
+**Max:** I actually hope so, Victoria.
+
+**Victoria:** Why do you say it like that?
+
+|-|No need.No need.
+
+**Max:** Good. I have real friends, I wouldn't want a fake one.
+
+{{#tag:tabber|(Comforted Victoria)# (Comforted Victoria)
+
+**Victoria:** Oh, right. You're the faker, acting like you cared when I was covered in that paint.
+
+**Max:** Who do you think set up the paint can to fall? It wasn't Samuel, dumbass.
+
+{{!}}-{{!}}(Made fun of Victoria)(Made fun of Victoria)
+
+**Victoria:** You try to act like all shy and humble... You took a picture of me covered in paint!
+
+**Max:** Who do you think set up the paint can to fall? It wasn't Samuel, dumbass. And you trashed my room after, so stop whining.
+
+}}
+
+**Victoria:** You did that? You bitch. You could have killed me with that fucking can. I almost got that freak, Samuel, fired!
+
+**Max:** And that would have been bad. You're right, Victoria... for once.
+
+**Victoria:** You actually think you're better than me. No fucking way.
+
+**Max:** Guess I'll never be a member of the Vortex Club...
+
+**Victoria:** No, bitch. You won't.
+
+THE DARK ROOM# THE DARK ROOM
+
+{{#tag:tabber|(Victoria believes Max)(Victoria believes Max)
+
+''Victoria will believe Max's warning if she comforted her in episode 1 and the "No need" dialogue option above was not selected.''
+
+**Max:** Victoria, listen to me... your life is in serious danger. I know Nathan is your friend, but he is truly unstable and dangerous. He did drug Kate at that party so he could take her some place... dark.
+
+**Victoria:** What? Nice try, Max. But I don’t believe you. And why would he do that?
+
+**Max:** That I don't know yet. But 
+
+Generate five trivia questions relevant to this section of the page.

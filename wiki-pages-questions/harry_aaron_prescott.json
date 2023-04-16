@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is Harry Aaron Prescott's Occupation?",
+    "answer": "A",
+    "choices": {
+      "A": "Businessman",
+      "B": "Politician",
+      "C": "Doctor",
+      "D": "Teacher"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Location Where Devious Acts Were Committed Against Female Victims?",
+    "answer": "B",
+    "choices": {
+      "A": "The Prescott Bunker",
+      "B": "The Dark Room",
+      "C": "The Old Barn",
+      "D": "Arcadia Bay"
+    }
+  },
+  {
+    "question": "What Is The Relationship Between Harry Aaron Prescott And Nathan Prescott?",
+    "answer": "B",
+    "choices": {
+      "A": "Father and Son",
+      "B": "Grandfather and Grandson",
+      "C": "Brothers",
+      "D": "Cousins"
+    }
+  },
+  {
+    "question": "What Did The Prescott Family Donate To Create In Arcadia Bay?",
+    "answer": "C",
+    "choices": {
+      "A": "A New Hospital",
+      "B": "A New School",
+      "C": "A New Library",
+      "D": "A New Park"
+    }
+  }
+]

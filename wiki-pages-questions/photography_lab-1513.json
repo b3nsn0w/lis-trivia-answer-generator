@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Think Of Victoria's Tablet?",
+    "answer": "A",
+    "choices": {
+      "A": "It's The Bestest, Newest, Most Expensive Everything",
+      "B": "It's Old And Outdated",
+      "C": "It's Broken And Needs To Be Replaced",
+      "D": "She Doesn't Mention It"
+    }
+  },
+  {
+    "question": "What Does Max Think Of Mr. Jefferson's Camera?",
+    "answer": "B",
+    "choices": {
+      "A": "It's Old And Outdated",
+      "B": "It's A Monster And Probably Cost $20,000",
+      "C": "It's Small And Inconspicuous",
+      "D": "She Doesn't Mention It"
+    }
+  },
+  {
+    "question": "What Does Max Think Of Hayden Jones?",
+    "answer": "B",
+    "choices": {
+      "A": "She Likes Him Because He's Artistic",
+      "B": "She Dislikes Him Because He Doesn't Care About Anything",
+      "C": "She Doesn't Mention Him",
+      "D": "She Thinks He's Annoying"
+    }
+  },
+  {
+    "question": "What Can Max Do With The Printer In The Photography Lab?",
+    "answer": "A",
+    "choices": {
+      "A": "She Can Print Out A Whole Gallery Show",
+      "B": "She Can Only Print Out Black And White Photos",
+      "C": "She Can't Use The Printer",
+      "D": "She Can Only Print Out Small Photos"
+    }
+  },
+  {
+    "question": "What Does Max Think Of Nathan's Work In The Everyday Heroes Contest?",
+    "answer": "B",
+    "choices": {
+      "A": "She Thinks It's Gross",
+      "B": "She Thinks It's Stylish",
+      "C": "She Thinks It's Mediocre",
+      "D": "She Doesn't Mention It"
+    }
+  }
+]

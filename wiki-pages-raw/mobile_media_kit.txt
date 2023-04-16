@@ -1,0 +1,54 @@
+= Mobile Media Kit =
+
+[[File:Media Kit.png|centre|500px]]
+<br />The '''Mobile Media Kit''' was released by Square Enix on January 12, 2016.<ref>[https://www.reddit.com/r/lifeisstrange/comments/40nedl/the_official_life_is_strange_mobile_media_kit_is/ The Official Life is Strange Mobile Media Kit is here!] (January 14, 2016)</ref>
+
+: ''[https://www.reddit.com/r/lifeisstrange/comments/40nedl/the_official_life_is_strange_mobile_media_kit_is/ Download it here.] ''
+
+== Contents ==
+
+=== Wallpapers for Android, iOS and Windows ===
+(resolutions ranging from 540x960 to 1600x2560)
+*"Welcome to [[Arcadia Bay]]" sign.
+*[[Blackwell Academy]] [[Blackwell Parking Lot|Parking Lot]].
+*Class photo by [[Mr. Jefferson]] (Android only)
+*Jeferson giving a lecture.
+*[[Chloe's Room]].
+*Chloe using [[Chloe's Computer|her computer]].
+*Various doodles (Windows only).
+*[[Maxine Caulfield|Max]] and [[Chloe Price|Chloe]] in the [[American Rust Junkyard|junkyard]].
+*Max and Chloe in Chloe's room.
+*The [[Lighthouse]] at night.
+*Max in the [[Zeitgeist Gallery]].
+*Max looking at the sunset.
+*Max on the swing in Chloe's backyard.
+*Max signing a statement in [[Principal Wells]]' [[Principal Wells' Office|office]].
+*Max and Chloe looking at [[The Storm|the storm]].
+*Max and Chloe on the train tracks.
+*Outside the [[Two Whales Diner]].
+
+*Notification sounds ([[Max's Messages|Max's SMS]] and [[Choices and Consequences|Consequences]])
+
+=== Popular Quotes ===
+{{Quote|Wowser|Max}}
+
+{{Quote|Are you cereal?|Max}}
+
+{{Quote|Release the kra-can!|Max ("[[Episode 3: Chaos Theory|Chaos Theory]]")}}
+
+{{Quote|Ready for the mosh pit, shaka brah?|Max ("Chaos Theory")}}
+
+{{Quote|I believe Max has taken what you kids call a selfie... A dumb word for a wonderful photographic tradition. And Max... has a gift.|Mark Jefferson ("[[Episode 1: Chrysalis|Chrysalis]]")}}
+
+{{Quote|Another dollar for the swear-jar!|Young Chloe ("Chaos Theory")}}
+
+{{Quote|I was eating those beans – are you fucking insane? I WAS EATING THOSE BEANS!|Frank Bowers ("Chaos Theory")}}
+
+{{Quote|Ape, Ape, Ape... Who wants to "Go Ape"? Go Ape! Go Ape! Ape! Ape!!!|Warren ("[[Episode 5: Polarized|Polarized]]")}}
+
+== References ==
+<references />
+
+[[Category:Kits and Rewards]]
+[[Category:Behind the Scenes]]
+[[Category:Life is Strange]]

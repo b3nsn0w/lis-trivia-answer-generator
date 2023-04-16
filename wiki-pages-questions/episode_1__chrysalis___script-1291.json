@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Chloe Reveal About Nathan's Character?",
+    "answer": "A",
+    "choices": {
+      "A": "He Is A Drug Dealer",
+      "B": "He Is A Hacker",
+      "C": "He Is A Stalker",
+      "D": "He Is A Thief"
+    }
+  },
+  {
+    "question": "What Happened To Chloe After Nathan Dosed Her Drink?",
+    "answer": "D",
+    "choices": {
+      "A": "She Passed Out",
+      "B": "She Fought Nathan",
+      "C": "She Escaped From The Room",
+      "D": "All Of The Above"
+    }
+  },
+  {
+    "question": "What Did Chloe Plan To Do After Nathan Dosed Her Drink?",
+    "answer": "B",
+    "choices": {
+      "A": "Report Him To The Police",
+      "B": "Blackmail Him",
+      "C": "Confront Him With A Gun",
+      "D": "Warn Other Students About Him"
+    }
+  },
+  {
+    "question": "What Does Max Suggest They Do About Nathan?",
+    "answer": "A",
+    "choices": {
+      "A": "Call The Police",
+      "B": "Confront Him With A Gun",
+      "C": "Report Him To The Principal",
+      "D": "Ignore Him"
+    }
+  },
+  {
+    "question": "What Does Chloe Want To Do To Arcadia Bay?",
+    "answer": "C",
+    "choices": {
+      "A": "Turn It Into A Forest",
+      "B": "Turn It Into A Desert",
+      "C": "Turn It Into A Glass",
+      "D": "Turn It Into A Lake"
+    }
+  }
+]

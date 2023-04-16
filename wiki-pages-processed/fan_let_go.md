@@ -1,0 +1,74 @@
+#  Fan:Let Go 
+
+```yaml
+Song
+
+image: Let Go.jpg
+```
+
+**"Let Go"** is a *[Life is Strange](life_is_strange.md)*-inspired indie song written and performed by [Fan:Music#Eduard Frolov EFG](eduard_frolov_efg.md) featuring vocals of Robyn Ardery. It was released on September 4, 2016.
+
+##  Videos 
+[File:Eduard Frolov EFG - Let Go (Rachel Tribute "Life Is Strange") ft. Robyn Ardery](thumb.md)
+
+##  Lyrics 
+:Feathers of blue
+:Reminds me of you
+:And how I used to
+:Be with you
+
+:What's the price of amber eyes?
+:When all you did was leave
+:I can't let go
+:No o oh - it hella hurts
+
+:What's the price of amber eyes?
+:When all I do is grieve
+:I can't let go
+:No o oh - it hella hurts
+
+:found in the dust
+:American rust
+
+:Angel of mine
+:You ran out of time
+:Victim of crime
+:Drenched in grime
+
+:What's the price of amber eyes?
+:When all you did was leave
+:I can't let go
+:No o oh - it hella hurts
+
+:What's the price of amber eyes?
+:When all I do is grieve
+:I can't let go
+:No o oh - it hella hurts
+
+:You are my angel in the dusk
+:I miss you Rachel, ohhh
+
+:What's the price of amber eyes?
+:When all I do is grieve
+:I can't let go
+:No o oh - it hella hurts
+
+:I'll never, ever
+:Let it go
+:I'll never, ever
+:Let you go
+:I'll never, ever
+:Let it go
+:Wont let go
+
+:I'll never, ever
+:Let it go
+:I'll never, ever
+:Let you go
+:I'll never, ever
+:Let it go
+:Never go!
+
+##  Navigation 
+{{Music Navbox}}
+

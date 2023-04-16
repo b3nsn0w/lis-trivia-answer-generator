@@ -1,0 +1,22 @@
+[
+  {
+    "question": "In which episode's launch trailer was \"Aftermath\" used?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1",
+      "B": "Episode 2",
+      "C": "Episode 3",
+      "D": "Episode 4"
+    }
+  },
+  {
+    "question": "Which version of \"Aftermath\" was used in the launch trailer for Episode 4?",
+    "answer": "B",
+    "choices": {
+      "A": "The original version",
+      "B": "The remixed version",
+      "C": "Both versions were used",
+      "D": "Neither version was used"
+    }
+  }
+]

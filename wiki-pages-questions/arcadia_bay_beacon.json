@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What Is The Name Of The National Reality Show That Takes Interest In Rachel Amber's Disappearance?",
+    "answer": "A",
+    "choices": {
+      "A": "Where Did They Go?",
+      "B": "America's Most Wanted",
+      "C": "Unsolved Mysteries",
+      "D": "The Missing"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Article Written By Juliet Watson In The Polarized Timeline?",
+    "answer": "D",
+    "choices": {
+      "A": "ECO-APOCALYPSE NOW?",
+      "B": "Search For Popular Teen Continues",
+      "C": "Beached Angels: Looking For The Whales",
+      "D": "Bullying In Blackwell Academy"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Eco-Mystery Surrounding The Beached Whales?",
+    "answer": "D",
+    "choices": {
+      "A": "The Arcadia Bay Eco-Mystery",
+      "B": "The Prescott Eco-Mystery",
+      "C": "The Grey Whale Eco-Mystery",
+      "D": "The Beached Angels Eco-Mystery"
+    }
+  }
+]

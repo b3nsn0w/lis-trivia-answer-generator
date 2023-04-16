@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is William Doing When Max First Talks To Him?",
+    "answer": "B",
+    "choices": {
+      "A": "Watching TV",
+      "B": "Going Through Bills",
+      "C": "Cooking Dinner",
+      "D": "Sleeping"
+    }
+  },
+  {
+    "question": "What Does Max Apologize To William For?",
+    "answer": "A",
+    "choices": {
+      "A": "Not Visiting Chloe Enough",
+      "B": "Breaking Something In The House",
+      "C": "Forgetting William's Birthday",
+      "D": "Not Calling William Back"
+    }
+  },
+  {
+    "question": "What Does William Say About Chloe's Condition?",
+    "answer": "B",
+    "choices": {
+      "A": "She Is Recovering Quickly",
+      "B": "She Is In A Coma",
+      "C": "She Is Paralyzed",
+      "D": "She Is Dying"
+    }
+  },
+  {
+    "question": "What Does William Joke About When Talking About The Family's Financial Situation?",
+    "answer": "D",
+    "choices": {
+      "A": "Winning The Lottery",
+      "B": "Selling Their House",
+      "C": "Borrowing Money From Friends",
+      "D": "The Price Is Right"
+    }
+  },
+  {
+    "question": "What Does William Think About The Prescott Family?",
+    "answer": "C",
+    "choices": {
+      "A": "They Are Good People",
+      "B": "They Are Neutral",
+      "C": "They Are Bad News",
+      "D": "He Doesn't Know Them"
+    }
+  }
+]

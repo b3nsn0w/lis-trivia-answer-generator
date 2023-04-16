@@ -1,0 +1,83 @@
+= Madsen Household Bedroom =
+
+{{Free Tab
+|minwidth = 47%
+|maxwidth = 100
+|borderradius = 4
+|height = 2
+|tab1=Life is Strange|link1=Madsen Household Bedroom
+|tab2=Before the Storm|link2=Price Household Bedroom (Before the Storm)
+}}
+{{Infobox Location
+|image = Joyce_and_David's_Room.png
+|name = Joyce and David's Room
+|type = Bedroom
+|location = [[Madsen Household]], [[Arcadia Bay]]
+|state = Oregon
+|appears = [[Episode 1: Chrysalis]] <small>(explorable)</small><br \>[[Episode 3: Chaos Theory]]<br \>[[Episode 4: Dark Room]] <small>(only explorable in the [[Alternative Timeline|alternative timeline]])</small>}}
+
+'''Joyce and David's Room''' is located upstairs above the kitchen in the [[Madsen Household]]. It was the bedroom of [[Joyce Price]] and [[William Price]], before she started living with [[David Madsen]]. The room is equipped with a double bed, a nightstand, a cabinet and a wall closet. The window is located at the opposite side of the door.
+
+== Episode One - "[[Episode 1: Chrysalis|Chrysalis]]" ==
+When [[Maxine Caulfield|Max Caulfield]] enters the room, she has the chance to save the [[Blue Jay]] from death by the window using her [[rewind]] ability. It will then end up on top of the closet and will make additional appearances at the path leading to the [[lighthouse]] and in later episodes.
+
+== Episode Three - "[[Episode 3: Chaos Theory|Chaos Theory]]" ==
+Max may only look at the door into the room from outside as she is not sure if David is inside and she doesn't want to disturb David.
+
+== Episode Four - "[[Episode 4: Dark Room|Dark Room]]" ==
+Max may only look at the door into the room from outside.
+
+== Alternative Timeline ==
+In the [[Alternative Timeline|alternative timeline]], Max can talk to Joyce about Chloe, William and Joyce herself, who is sitting on the bed and reading a book.
+
+== Interactions ==
+:<span style="display:none">'''PC users: '''</span>''Hover over the text to see Max's comments. [[Interactions|See here]] for all interactions in the game.''
+=== Episode One - "Chrysalis" ===
+*{{Interaction|Max can look at the bills of the Madsen family.|"Uh oh. The 'Prices' are late on their bills."}}
+*{{Interaction|She can look at a photo of David, Joyce and Chloe.|"Joyce looks happy. Chloe's stepdad might not be a douchebag after all."}}
+*She can switch on and off a desk lamp.
+*{{Interaction|She can open the closet.|"Joyce still works at the diner and Chloe's new dad is a security guard... Uh oh."}}
+*{{Interaction|She can look at a handmade necklace.|"Oh my... Chloe made this for Joyce on Mother's Day, years ago. I see why she would keep it."}}
+*She can open and close the window.
+*{{Interaction|She can look at the Blue Jay.|'''Dead: '''"Oh shit! Poor thing! I bet I could I do something to save it..."<br>'''Alive: '''"You've been resurrected, birdie. Fly, be free."}}
+*{{Interaction|She can open the nightstand drawers.|"Dog tags, sweet. 'David Madsen.'"}}
+*{{Interaction|She can look at a survival guide.|"'Act, React Or Die: A 21st Century Survival Guide.' Whoa. Apocalypse self-help."}}
+*{{Interaction|She can look at a magazine on the nightstand.|"Joyce always loved her mail-order catalogs of useless crap."}}
+*{{Interaction|She can look at a photo of Joyce and William in one of the drawers.|"Aw, Joyce has a little shrine to William. Her new husband may not be such a douche..."}}
+
+=== Episode Four - "Dark Room" (alternative timeline) ===
+*{{Interaction|Max can look at a letter from the Arcadia Bay Spinal Center.|"Oh no... I didn't realize how bad Chloe's injury really was..."}}
+*{{Interaction|She can look at a photo of Joyce and William, which is now in a frame.|"Look at them... They have no idea what's in their future."}}
+*{{Interaction|She can look at a photo of young Chloe.|"That is such a sweet shot of Chloe. I wonder who took the picture."}}
+*{{Interaction|She can look at two books by [[Dr. Bill]].|"William is trying so hard. He's still awesome."<br>"Joyce is already a supermom."}}
+*{{Interaction|She can look at Joyce's ashtray.|"Hmmm, Joyce used to hate smokers in the diner."}}
+*She can speak to Joyce.
+
+== Gallery ==
+<gallery widths="200px" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+Household_Bills.png|Bills past due
+Household_Photo.png|Family photo
+joyceroom-ep1necklace.png|Handmade necklace
+Madsen_Household_Joyce_and_David_Room_Alternate_Timeline.png|Joyce and William's room in the alternative timeline
+Chloe_injury_letter_alternative_timeline.png|Letter to Chloe's parents regarding her health status in the alternative timeline
+</gallery>
+
+{{Location Navbox}}
+
+[[Category:Locations]]
+[[Category:Locations (Life is Strange)]]
+[[Category:Bedrooms]]
+[[Category:Episode 1: Chrysalis Locations]]
+[[Category:Episode 3: Chaos Theory Locations]]
+[[Category:Episode 4: Dark Room Locations]]
+[[Category:Alternative Timeline Locations]]
+[[Category:Madsen Household]]
+[[Category:Explorable Locations]]
+[[Category:Explorable Locations (Life is Strange)]]
+[[Category:Locations in Arcadia Bay]]
+[[Category:Madsen Family]]
+
+[[Category:Life is Strange]]
+
+[[pt-br:Quarto da Joyce e David]]
+[[ru:Комната Джойс и Дэвида]]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Anderson Berry's Profession?",
+    "answer": "B",
+    "choices": {
+      "A": "Teacher",
+      "B": "Police Officer",
+      "C": "Doctor",
+      "D": "Lawyer"
+    }
+  },
+  {
+    "question": "Who Does Anderson Keep An Eye On As A Favor To Sean Prescott?",
+    "answer": "C",
+    "choices": {
+      "A": "Max Caulfield",
+      "B": "Mark Jefferson",
+      "C": "Nathan Prescott",
+      "D": "David Madsen"
+    }
+  },
+  {
+    "question": "In Which Episode Does Max Meet Anderson In The Two Whales Diner?",
+    "answer": "C",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "What Is The Incident Involving Rachel Amber That Anderson Reported?",
+    "answer": "B",
+    "choices": {
+      "A": "She Was Arrested For Shoplifting",
+      "B": "She Was Picked Up For Possession Of A Controlled Substance",
+      "C": "She Was Involved In A Car Accident",
+      "D": "She Was Caught Vandalizing A Building"
+    }
+  },
+  {
+    "question": "In Which Episode Can Anderson's Body Be Seen Outside Near The Alleyway?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 5: Polarized"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+#  Hold on Hope 
+
+```yaml
+Song
+
+artist: Dan Gautreau & Wolfgang Black
+release: '2013'
+appears: '"[Episode 2: Out of Time'
+Out of Time](episode_2__out_of_time__out_of_time.md)" launch trailer: ''
+```
+
+**"Hold on Hope"** is a song by Dan Gautreau & Wolfgang Black that was used in the launch trailer for Episode 2, "[Episode 2: Out of Time](out_of_time.md)".
+
+##  Lyrics 
+: If morning has spoken, you know it won't be our last
+: As the light wakes the city we'll stand tall and raise our glass
+: We won't let go of hope
+: Or let go of our dreams
+
+: When all is forgotten the defeat won't give us the past
+: Now just show me the memory
+: For god sake lets make this last
+
+: Please don't let go of hope
+: Or let go of your dreams, no
+
+: Hold on hope
+: And if the world lets go
+: I say hold on hope
+: I will carry you home
+
+: These words we have spoken I swear they won't be the last
+: Together escaping the shackles of our past
+: We won't give up on hope
+: Won't give up on our dreams
+
+: Please don't let go of hope
+: Or let go of your dreams, no
+
+: Hold on hope
+: And if the world lets go
+: I say hold on hope
+: I will carry you home﻿
+
+##  Videos 
+
+Life is Strange Episode 2 - Out of Time Trailer
+Life Is Strange Soundtrack - Hold On Hope by Dan Gautreau & Wolfgang Black
+
+##  Navigation 
+{{Soundtrack}}
+

@@ -1,0 +1,367 @@
+= Director's Commentary - Script =
+
+{{Stub}}This article contains a full script on the [[Director's Commentary]] for ''[[Life is Strange]]'' that was released with the [[Limited Edition (Life is Strange)|Limited Edition]] on January 19, 2016.
+
+== 01 - Two Directors ==
+''[[Obstacles]] by Syd Matters starts to play. [[Blackwell Academy Hallway]] from "[[Episode 1: Chrysalis|Chrysalis]]", ending scene of "[[Episode 2: Out of Time|Out of Time]]" and the [[American Rust Junkyard]] are shown. Camera cuts to the [[Don't Nod|DONTNOD]] office. Preview art of [[Episode 3: Chaos Theory|Chaos Theory]] is featured along with several awards for Life Is Strange. Camera cuts to the game's cover art, then to [[Raoul Barbet]] and [[Michel Koch]] talking.''
+
+'''Raoul Barbet: '''It was really great to see so many pieces of fan art, so many letters, so much fan fiction.
+
+'''Michel Koch: '''Cosplays.
+
+'''Raoul Barbet: '''Cosplays.
+
+'''[[Luc Baghadoust]]: '''The reactions were fantastic, way beyond our craziest expectations.
+
+'''Raoul Barbet: '''It was impossible to expect a huge community like this with such passionate fans, it's crazy.
+
+'''Michel Koch (pointing at the camera): '''Thank you.
+
+'''Raoul Barbet: '''You. Yeah! (''Laughs.'')
+
+''Camera cuts to another section of the office, showing several crew members working on the game.''
+
+'''Michel Koch: '''We started the project by making the game we wanted to make for ourselves, but at the end, it's really making a game for the players because that's what's important.
+
+''Directors' Commentary title flashes.''
+
+'''Raoul Barbet: '''So welcome to the Dev commentary of ''Life Is Strange''.
+
+''A scene with [[Maxine Caulfield|Max]] exiting [[Blackwell Academy|Blackwell]] and several shots of the academy building are shown.''
+
+'''Raoul Barbet: '''We're really happy to be here to talk about the game. Thank you for watching. I'm Raoul Barbet, one of the Co-Game Directors of the game.
+
+'''Michel Koch: '''And I'm Michel Koch, the other Co-Game Director of the game.
+
+'''Raoul Barbet: '''We are two Game Directors working on one project; it's really interesting to work that way.
+
+'''Michel Koch: '''It can be hard sometimes, but I think it's a really interesting creative process because we can challenge each other on a lot of aspects and always find a better solution for what is best for the game.
+
+'''Luc Baghadoust: '''If only Michel or Raoul were directing the game, the game would have been really different. They both know how to make a game. They're not stuck in their field of expertise. They know a lot of things about each department and they have this direct contact with the teams.
+
+'''Raoul Barbet: '''I'm more from the audio-visual and movie scenes, so I was in charge of all the cameras with the camera team. I worked a lot with the sound-design team also, with the music.
+
+'''Michel Koch: '''And myself, since I'm from an illustration background, my specialties were more on the art-direction, and later, for this game I started to work way more with the narrative team and the voice-recording sessions.
+
+'''[[Edouard Caplain]]: '''It was cool because they have a similar vision for the game. So we didn't have a "yes" from one and a "no" from the other.
+
+'''Baptiste Moisan: '''Actually, Michel and Raoul are in the game when you think about it. So, they're two game directors, so we have a contraction which is Michaoul, but if you put it the other way round, it's Raoul and Michel, so it's [[Rachel Amber|Rachel]]. And I'm pretty sure they did it on purpose.
+
+''The scene of Max's first [[Rewind|rewind]] is shown.''
+
+'''Raoul Barbet: '''The idea behind the game was to - both of us worked on ''Remember Me'' and there were some sequences in this game called the Memory Remixes and one of the founders, Herve Bonin, asked a small, core team to think about a game with this kind of mechanism. (''Max is shown rewinding in front of [[Chloe Price|Chloe]].'') Very quickly we came up with an episodic adventure game, because we really wanted to do something like that.
+
+'''Michel Koch: '''There are really a lot of good ways, new ways, interactive ways to tell stories.
+
+''Variations of the [[Arcadia_Bay#Menu_Screens|Main Menu]] are shown.''
+
+'''Raoul Barbet: '''On an episodic format, you really have to make a lot of choices for Episode 1, because you won't be able to change it after. A lot of assets have to be there in Episode 1. So the menu is one of those assets.
+
+'''Michel Koch: '''It was interesting because there were a lot of variations, we did a lot of tries of what we wanted to show in this menu. The idea was to basically show the most important locations of the game. So we can see the Blackwell Academy on the top-right, we can see the lighthouse, we can see the town of Arcadia Bay. We are really trying to give a sense of location and just showing the game world with the menu.
+
+'''Raoul Barbet: '''We really wanted to make the player feel that all the areas are connected and the menu is a great way to do that.
+
+''Camera cuts to Raoul and Michel.''
+
+'''Michel Koch: '''One of the main important things for us, for the game, was to have a peaceful game, with this sense that you can take your time and we wanted to reflect that from the menu. So we worked on those small wind-effects and the leaves that are going around and the nice and soft music. It was just, when you start the game, you should feel quite at peace and comfortable. And even when the menu evolves in each episode, there are some small details that are changing like in the menu for Episode 4, you have the beached whales. These kind of details we wanted to add with the variations of the menu. The game takes place in Oregon, in the Pacific Northwest in the United States. (''The scene of Max arriving at the diner in Episode 2 is shown.'') When I went back there on vacation, I have seen a lot of places that really looks like what we did in the game. it was a really big job of references to be sure that everything was correct, but it's also something that is really exciting about making a game, (''The scene of Max and Chloe driving to the [[Prescott Barn|barn]] is shown.'') that you have to look at everything to reproduce reality, and with of course our own lens and stylizations, but we really wanted this to feel like being in Oregon. Sometimes people ask us if we chose to have the game in the United States for marketing, for selling the game. (''Shakes his head.'') We knew that we were fans of TV shows like ''Twin Peaks'' or ''X-Files''. They have those trees and the Pacific Northwest feeling.
+
+'''Raoul Barbet: '''I think they are a great example of a small community, thinking that everybody knows each other and everybody is happy, but when you put something inside this community, (''The scene of Max's first vision is shown.'') it could be something supernatural, you discover a lot more.
+
+'''Michel Koch: '''And it's really a way to shift things around and to bring chaos and interesting variations on the characters. In the end, ''Life Is Strange'' is really a game and a story about the characters, about their lives. It;'s not a story about Sci-Fi elements. The Sci-Fi elements are just here to make things interesting.
+
+'''''End of the chapter.'''''
+
+== 02 - Let's play Life Is Strange ==
+''The scene of Max's first vision is shown. Raoul and Michel are talking in the background, discussing it.''
+
+'''Michel Koch: '''Okay, so let's play the game.
+
+'''Raoul Barbet: '''Yeah! Let's play ''Life Is Strange''. So this is the very beginning of the game. I think this is one of the most difficult sequences at the beginning of the production because this is the first time the player will see what the game looks like and will be inside the story. So, there were a lot of discussions about this scene and a lot of discussions about the shots; how we were going to present the Max character, it's important as this is a videogame for the player to know where they have to go and the objective of each scene. This scene is a link to the end of the game of course and it's also to close the loop and begin with this scene and when you know in the end of the game, it was something we really wanted to have, so we can see all the effects and we've got one effects artist who is very talented, Thomas, here you can see a lot of his work.
+
+'''Michel Koch: '''I love the tornado.
+
+'''Raoul Barbet: '''All the particles, the tornado.
+
+''The Storm is shown on a computer monitor.''
+
+'''Michel Koch: '''We took a lot of time to work on this tornado because, when you're working on an episoic game, it's important to still hook the player from Episode 1. So that's the kind of discussions we had about rhythm, when should we put something that has a bit more impact and that feels like something that shows the player something bigger, so this introduction was a bit like that.
+
+''Camera cuts to Raoul and Michel.''
+
+'''Michel Koch: '''We wanted in ''Life Is Strange'' for the player to always know what Max is knowing and to just be with her.
+
+''Max is shown looking at the storm.''
+
+'''Michel Koch: '''At this moment, Max doesn't know where she is and the player doesn't know it either.
+
+''A boat hits the upper portion of the lighthouse, it falls on Max and she awakens in the [[Photography Lab]].''
+
+'''Michel Koch: '''We're back to the high school, which is one of the most important settings in the game, of course the high school setting and the Blackwell Academy. High school is something where the player will feel comfortable because they know it, but the transition from the cliff to there is the twist of having something really different. And that should, we hope, make the player say "oh". It's not just a teen story, there's more to it. And then of course, we can go beyond that and change it and twist it and change the characters, but it was an interesting starting point creatively. This kind of introduction is really important because in one sequence, with only a few shots, you have to discover all the different characters, the main ones and we will of course see [[Mark Jefferson|Jefferson]], [[Kate Marsh|Kate]], and [[Victoria Chase|Victoria]]. It was quite hard to decide between not showing too much, to not break the idea of the game, to not be too big compared to what the game would be after. There are a lot of themes, a lot of big ideas in the game and of course photography is one of them, because photogrpaphy is still a way to look back to the past. It's linked to the theme of rewind and time-manipulation and nostalgia and that's one of the reasons Max came back to Arcadia Bay, to attend this photography class.
+
+'''Raoul Barbet: '''I think for the player to be, like Max, back in this town, when she doesn't know everyone but you've got to respect the schedule, it's really, as a player, something great to discover. Also, the lighting was really important in this scene, to break the cliff ambiance and this sunny atmosphere and all this light coming from the windows.
+
+'''Michel Koch: '''Maybe we decided to have a private High School, rather than just a regular High School, of course for the photography course, but it was also to have less students, because we wanted the story to be a bit more intimate; we didn't want it to be this huge High School, with so many students. Based on what the player is doing, you can really learn more about them and see that they're actually not just a stereotype and the archetypes you would think they are. And this is still a perfect example of how episodic is hard, because if you look closely at [[Media:Note EverydayHeroesContest2.jpg|this poster]], there is a mistake on it. It says that the exhibition takes place in the DeYoung Museum of Art, when actually, it's not that in Episode 5, it's the [[Zeitgeist Gallery]]. We have a really great community. (''Laughs.'') Thank you guys. And people found out this mistake, and yes, it is a mistake, when we found out in Episode 5 that it couldn't be a museum, so it had to be an art gallery, so we changed the name and yes there is a mistake like this in Episode 1.
+
+''Max exits the Photography Lab. People are shown walking down the Blackwell Hallway.''
+
+'''Raoul Barbet: '''We really wanted this feeling of being part of a whole High School, so it means a lot of people. It means bullying, it means difficulties when you're a teenager in this kind of world.
+
+'''Michel Koch: '''And showing the different cliques and different kinds of teenagers.
+
+'''Raoul Barbet: '''I think a lot of players love this introduction, the use of music here is really important as Max feels insecure in this atmosphere. We wanted her to be isolated; music is a great way of isolating yourself, when you just want to be on your own.
+
+''Max puts on her earphones. "Obstacles" by Syd Matters starts to play.''
+
+'''Raoul Barbet: '''So since the beginning of the game we were working with licensed tracks - licensed music. When we were testing on prototypes of scenes, we put some licensed tracks from some artists we love - Syd Matters was one of them. And when we asked Johnathan Morali who is the lead of Syd Matters, if it is possible to use his music - he's a gamer, so he was really happy to have this new experience and for us it was just incredible to work with him and this type of editing is really, really difficult to do because you have to choose the important moment in a song and choose the right images.
+
+'''Sébastien Gaillard: '''Because our writer [[Jean-Luc Cano|Jean Luc]] has written many scenes built around music, the edit is based on the music, it's not the other way round.
+
+''The scene of Max playing "Crosses" is shown.''
+
+'''Raoul Barbet: '''The music is really important in the game, it explains a lot about the characters because the choice of the music, the choice of the artist, it means a lot. For example, Chloe won't listen to the same artists as Max. For this guitar part, we asked the lead-singer of Syd Matters to play on top of a Jose Gonzalez song in a clumsy way to be sure that it would be like Max playing guitar.
+
+'''''End of the chapter.'''''
+
+== 03 - Intentions ==
+''Raoul Barbet and Michel Koch are discussing the bathroom scene from "Chrysalis". The camera shows them, then changes to the view of Max entering the bathroom.''
+
+'''Raoul Barbet: '''OK, so the objective of this scene was to go into the bathroom. I think you can hear the great song "walk". Sebastien the Audio Lead has worked a lot on these kind of effects when you take out your earplugs, you can hear more of the ambience. This kind of art is done by our main Concept Artist. We've got three or four [[Concept Art (Life is Strange)|concept artists]] working on the game. With Edouard, we've made a lot of art work, he was the main concept artist.
+
+'''Edouard Caplain: '''So basically, in the beginning, we do a lot of documentation, we do a lot of research. From all those pictures we can find on the internet, every room, every character needs to tell you a story: who they are, what they do.
+
+'''Michel Koch: '''And just for, following the scene even for the mood, when it's still the rhythm of the game so we wanted this scene in the bathroom to have a really cold and harsh more contrasty lighting to be different to the soft and warm lighting from the art class before.
+
+'''Raoul Barbet: '''I think in this scene here is one of the mistakes we've made with the game. For example, when Max is tearing apart the polaroid. In fact, I don't know if you have tried to tear apart a polaroid, but it's quite impossible.
+
+'''Michel Koch: '''Yeah, you can't. We tried it, but it's to strong, it's plastic and it's impossible to tear it actually.
+
+'''Raoul Barbet: '''But of course, there is a lot of symbolism behind this, so we decided to keep it, even if it's non-realistic - maybe it's a bad polaroid quality so we can do it. You can see the [[Blue Butterfly|butterfly]] coming in from the window, there's a lot of symbolism behind this: A butterfly of course with all the butterfly effect theme. The fact that Chloe has got -
+
+'''Michel Koch: '''Some butterflies on her tattoo, and the color of her hair is based on the color of the butterfly.
+
+'''Raoul Barbet: '''Yeah, this is something we really wanted to do. Here the blue butterfly is really, really important and of course at the end of the game, it's much more important.
+
+''Nathan and Chloe enter the bathroom.''
+
+'''Michel Koch: '''One of the fans' favorites and of course a character we really love, Chloe. She's one of the most important characters because, at the end the choice is about her. It was really important to create this character the best way possible so the player would learn to care more and more about her, but we really wanted her to be not that nice at the beginning, so when she's evolving during the different episodes and she's getting nicer to Max, (''The scene of Chloe examining Max's photos is shown.'') people would care even more about her, because she has changed and she likes the fact that she's changed. If she were the nicest person from the beginning, it wouldn't be, I don't think, as effective with her going forward and changing towards Max.
+
+''The scene of Max and Chloe in the pool is shown.''
+
+'''Raoul Barbet: '''Sometimes, some players hated Chloe from the first episode and I think it's not a bad thing because you can dislike a lot of things about her personality and after in Episode 3 and of course in the beginning of Episode 4, there was really something more to this character. I think it's like having a friend in real life, there are always some things that you don't like. The relationship between Max and Chloe lets us talk about that and I think it's really interesting to see how the player will learn more and more to like Chloe.
+
+''The scene of Chloe hugging Max after she tried to shoot [[Frank Bowers|Frank]] is shown.''
+
+'''Michel Koch: '''I think it was one of the biggest challenges of the writing process because we have five episodes, we have a limited amount of time and we need to find the good beats and the good pacing to make those characters evolve.
+
+''Camera cuts briefly to [[Ashly Burch]], then to the scene of [[David Madsen|David]] entering [[Chloe's Room|Chloe's room]] in "Chrysalis".''
+
+'''Ashly Burch: '''It's a really intimate story and it's mostly just centered on emotional moments. All of the major choices that you make in the game are emotional. The heart of it is the relationship between Max and Chloe. It gets really dark; things get really hard for Chloe and really emotional.
+
+'''Michel Koch: '''In the game, one of our goals was also to be able to talk about real-life issues, about some social themes and difficult themes that can be experienced in real life. I mean, it's different to other games where there are bigger issues like situations of life or death or war, or stuff like that and in this game we wanted to focus on more human issues on a smaller level.
+
+'''Laurent Cahour: '''The mood of the game and the themes of the game, it's the themes that we tackle in the game are not something that you see often in other games. We tried to be mature about it, we tried not to force it onto players and we tried not to be too brutal about it.
+
+''The scene of Chloe crying after discovering Rachel's body is shown.''
+
+'''Michel Koch: '''We have issues like domestic violence, family issues. We talk about drugs and alcoholism. Unemployment. Depression.
+
+'''Raoul Barbet: '''It's part of reality and it was really important for us to not avoid that and I think that video games are a great media to talk about that because, as a player, you will be involved maybe more than just looking at a movie or reading a book, you will really be a part of and an actor in this experience.
+
+'''Luc Baghadoust: '''We were not sure that Square Enix, the publisher, would approve all the themes, the intense scenes we have and how we deal with them. really early in the discussions, we were relieved to see that they didn't want to change anything, they just wanted to make sure that we dealt properly with those scenes and themes and this is exactly what our intentions were.
+
+''The scene of Nathan entering the bathroom is shown.''
+
+'''Raoul Barbet: '''This is again a key-scene for Episode 1; it's the first time you see Nathan and Chloe. The first scene with a character is really, really important. You've got a lot of information to give to the player.
+
+'''Michel Koch: '''And we needed to show that Nathan was quite a troubled child. A teenager I mean. So this is him talking to himself at the beginning. We had to fine tune it, to find the good words to use. Then we see Chloe for the first time, we have to show what her character is like. She's direct and a bit pushy to Nathan. We still need to understand what is happening, so they are talking about money, about drugs. We had to find the right hints to give, to explain things so as not to lose the player.
+
+'''''End of the chapter. '''''
+
+== 04 - A matter of choice ==
+''The scene of Chloe and Nathan arguing in the bathroom is shown. Raoul Barbet and Michel Koch are talking in the background, discussing it.''
+
+'''Michel Koch: '''This scene, this is the starting point of Max discovering that she has this weird power because basically this adrenaline rush and slowing, looking at Chloe getting shot. So that's how she can trigger that for the first time. She doesn't really know why, but that's the seriousness of the situation and then you'll go back into the art class. So we really tried in this scene to show the déjà vu feeling, so the editing and the shots were there to give this weird feeling to the player that "OK, I'm living that again and again", looking at the different moments that the player saw the first time in this scene.
+
+'''Raoul Barbet: '''So for the editing in this sequence, we wanted to keep the same elements, but not necessarily the same shots, you can see that the first three shots are the same I think and after we begin to change the point of view a little. So you understand that they are the same events going on, just seen from a different point of view.
+
+'''Michel Koch: '''I think to be perfectly honest, we don't have a good explanation for why she's going back to the art class because we needed it for...
+
+'''Raoul Barbet: '''I've got one but I'll never tell you.
+
+'''Michel Koch: '''I don't thunk it's a mistake because we also need to explain to the player so the player can learn how things are working and it's quite hard to do. So we took this freedom to have Max go back to the art class, which, even if it's a bit contradictory with how her power works after that. We are using this to explore more of Max's personality and her character because that is the way we created the character. Max has, we've seen that with what she's thinking, she has a lot of insecurity, she has issues with moving forward in her life, to make decisions. Now she has this ability to not go forward, but to go backward. So, it's an interesting storytelling device to question with her character and with the player of course to question [[Choices and Consequences|choice and consequences]], to question fate, to question really interesting issues.
+
+''The decision screens for several major choices are shown. They are: Reporting or not reporting Nathan to the principal, choosing who to blame in the principal's office, and stopping or not stopping Warren from beating up Nathan. Later, the decision screens for siding with David or Chloe, throwing the dog bone towards the road or in the parking lot, and warning or not warning Victoria about the Dark Room are shown as well.''
+
+'''Raoul Barbet: '''I think Max would never have changed as much as here in our story without this power and without the sci-fi elements. It puts the player in a very interesting position because they will ask themselves while they're doing some of the [[Interactions|interactions]], they can undo the interaction and try something else, but also Max, by doing this, will ask herself: "Am I making the right decision? Is it a good choice or not?" So, we deconstructed the mechanism of classic adventure games just by adding this power and the fact that you can undo things ans try other things.
+
+'''Michel Koch: '''Of course in most games, you can do it with quick save, quick load, but like you said, it's only the player who does that and that's one of the main themes of the game: If I have the power to rewind and to change things, should I do it? Because sometimes, it can be really seen as lying. If I say a lot of things that you don't like and I go back in time and don't say them so you're not angry at me, it's a bit of a trick. So we are really asking those questions and in the beginning of the game, we are letting the player and Max do it a lot, she's getting to make a lot of friends with this rewind, but later in the game and especially in Episode 5, we are really questioning this to see maybe it wasn't the right thing, maybe what you did, to try to lie to people with your power, was it really good? And that is something that can be interesting for the story but also to ask the player at that moment.
+
+'''Raoul Barbet: '''I think this is also what we wanted to do with this game to show that it's difficult to make those choices and it's even more difficult to live with it, but you have to learn to do that.
+
+''The scene of Max rewinding for the first time in class is shown.''
+
+'''Michel Koch: '''But you still have to. Even if you could hesitate a lot, there is no perfect way to do things. And so this is basically the first time that the player will actively rewind, so we have Max thinking that "OK I just got back in time, I'm in the art class". And so that's why we made her break her camera because we needed to have an element that the player will see, that we will rewind so we can really explain how to rewind. So Max broke her camera and so she's thinking: "OK if I go back in time, maybe I can try to do it again and reverse that". So that's the first real rewind that the player is actively doing. It was ok, we don't really want players to use the rewind all the time, but it's important in the beginning of the game to really show the players the tools they have and it was important for us to have this in this scene, to have a lot of use of the rewind, so the player can say "OK I know how it is now and now I decide if I use it or not.
+
+''The scene of Max rushing to the bathroom after the first rewind is shown. Later, Max is seen noticing the [[Doe|doe]] in the junkyard.''
+
+'''Michel Koch: '''Since we are really playing the game from the point of view of Max, for her, not everything is clear, so it shouldn't be clear for the player, but there are really a lot of hints that should really guide the players to understand what's happening. We have a lot of symbolism with totem spirit animals. We have the doe and you can clearly see in Episode 4, that the Doe is clearly linked to Rachel and it's basically somehow a presence of Rachel that's guiding Max at moments. I'm not sure that many players noticed, but in Episode 2 actually, when you see the doe in the junkyard, it's precisely where Rachel is buried. There is this mystic feeling around the town and since we didn't want to clearly explain everything, it's part of what makes Arcadia Bay a bit different and a bit special.
+
+'''''End of the chapter.'''''
+
+== 05 - A lively world ==
+''The junkyard scene from Episode 2 is shown. Raoul Barbet and Michel Koch are discussing it in the background.''
+
+'''Raoul Barbet: '''So here we're going to play a bit of the junkyard scene. We love the junkyard scene because of a lot of different elements, but the first one I think is the environment. I think the environment artists have made something incredible here.
+
+'''Michel Koch: '''For life is Strange we really wanted to have a stylized rendering. We didn't want it to be realistic, so every texture has been hand-painted to give this impressionistic feeling and I think in the junkyard it's really interesting because there are so many details that this is where this kind of simpler textures are working well because if this scene was overly detailed with cracks in the rust and everything, it would become really noisy to look at. We did a lot of work on the lighting effect and the atmosphere so it was really important for us to capture this morning feeling with the very, very cold colors in the fog but a slightly warm sun that just brings some soft and warm feelings to the scene.
+
+'''Raoul Barbet: '''This scene is also a good example of what we want to do in terms of environmental storytelling. We've got a lot of different objects there, with their own story.
+
+''The scene where Chloe asks Max to find the bottles is shown.''
+
+'''Raoul Barbet: '''This is one of the best puzzles in the game ''(laughs)''.
+
+'''Michel Koch: '''Yep. I think it is. I think it was mostly the final bottle that was really hard to find and we made a mistake on it because maybe it was too well hidden. Our goal for this was to push the player to visit the place while looking for those bottles because there are a lot of interesting things to discover. Basically, the junkyard is where Chloe brought Max to try her power, but it's also where Chloe and Rachel were hanging out together before Rachel disappeared. So this place here was a small hideout for Chloe and Rachel. A lot of what we did in the whole game with environmental storytelling can be seen here because there is a lot of everything we like to include to tell a story with the environment. It's a good way of course to show more to the player.
+
+'''Raoul Barbet: '''And it's also to give rewards to the players who want to know more about the characters - for those who are curious. You can do this whole scene without looking at all the details.
+
+'''Michel Koch: '''There are some hidden things; this one is harder to find. I think that not a lot of players found it. This is a big letter that Rachel wanted to write to Chloe and maybe didn't. She never gave it to her. In ''Life is Strange'', we really tried to put a lot of attention to the details, so we have a lot of various levels of things and if you look around, you can find some really, really small details that are useless to the main story, but are interesting.
+
+'''Amaury Balandier: '''Actually we started to play with that. Putting more and more things in corners, in dark areas, to see if players can spot them or not and usually they did.
+
+'''Laurent Cahour: '''They noticed things that we thought they could not notice, like on a shirt, we have letters that when you put in the right order, it says "No Fucks Given" and they noticed.
+
+''The scene of Chloe giving the gun to Max in the junkyard is shown.''
+
+'''Michel Koch:''' ''Life is Strange'' is really a game about choice and consequence, so we have a lot of choices you can make in the game, which will have consequences later on in the same episode or in the other episodes and there's one big choice in this scene that will happen.
+
+'''Raoul Barbet: '''The idea for each choice is really to have not an easy choice to take, even if it's not a life or death choice like you could have in another game, it's more everyday life choices. The importance is to make your own and to decide to live with it. So that's why with Max's power it's of course more difficult because you can try a choice, you're not sure, you're going to try the other one, but the importance is, if you want to continue and to move on, you have to stick with one and live with the consequences.
+
+''The choice screen of Max shooting or not shooting Frank is shown.''
+
+'''Raoul Barbet: '''So, in this choice in particular.
+
+'''Michel Koch:'''This is quite interesting.
+
+'''Raoul Barbet: '''What do you want to do Michel for the first one?
+
+'''Michel Koch:'''I don't think I would shoot a guy, I would say "no".
+
+'''Raoul Barbet: '''So we won't shoot. So you can see directly the consequence. It means that you don't have the gun anymore because Frank is going to take it. Chloe will be pissed off.
+
+'''Michel Koch:'''You can of course rewind and try the other one, but something that's really interesting because it was a lot of work at the beginning because we were thinking that; if you have the rewind, does it not completely destroy the fact that you are making choices and actually we have seen that players are really, really hesitating. We've watched some Let's Play videos and we've seen some players just even if they knew that they could go back, they were hesitating so much when they were making a choice. I think it's interesting.
+
+'''''End of the chapter.'''''
+
+== 06 - Capturing the moment ==
+''The overview of the Blackwell campus from "Chrysalis" is shown.''
+
+'''Raoul Barbet: '''Here is the outside of the campus, the first time for the player. So this is the first time the player will be able to use their power when they want. They can do before, but there are not so many interactions and puzzles, here we really wanted to have a lot of different things to do; talk to people, use the power, just do fun stuff.
+
+'''Michel Koch: '''But we use this kind of environment for the players who like to take their time just to talk to characters and to look around. It really gives a sense of presence to Max and to the world.
+
+'''Raoul Barbet: '''The important aspect of the game is really to give some rewards to the player who wants to take their time. So with these kind of sequences for example, we give what we call a reward but in fact it's just a new element of the game. For example here, you will have a new layer of music, you can hear a new layer of the music. You will have all those camera angles that you can't have within the classic walkthrough - the classic gameplay in third person. So these kind of beautiful shots you will have only because you have chosen to take your time and to sit on the fountain. So the music, the shots and of course the voice-over of Max at the beginning, we hear what Max is thinking, so these kind of rewards will push, we think, the player to do that again and again. This is really something we wanted to have.
+
+'''Michel Koch: '''In this game it's always feeling like what Max is feeling. We really wanted to focus on those moments, it was really capturing the moment when you can really take time to reflect on yourself and that's what Max is doing in those scenes. That's something that not a lot of games are doing to let the player take their time because in a lot of games you just need to go forward, you need to go to this checkpoint, you need to do this and this.
+
+'''Raoul Barbet: '''Since the beginning we wanted the rewind to be a tool that the player can use when they want, where they want; it won't be scripted. A rewind sequence for example, from a technical point of view you have to record all the different things that happen in the scene.
+
+'''Baptiste Moisan: '''Since you can rewind time, you can basically be in any part of the scene at any moment you like. Designing puzzles with the rewind was very, very hard. When you think it's done, you think you've seen everything about it, you think the situation is in place and is going to be working well, there's always this tiny little thing that's fucking it up.
+
+'''Nicolas Seroart: ''' Those elements are not really deterministic, so when you rewind, you're not sure that you will be able to restore the particle system in the same state.
+
+''Max is shown leaving her dorm and walking around the corridors at the start of "Out of Time".''
+
+'''Michel Koch: '''This is the dormitory and this is also something that was interesting for us, to talk about dorm-life. We wanted to use this setting because we can really talk about social issues like the girls have their rooms, do you really like the people that live next to you, how the relationships are working inside the dormitory. Like right now what is interesting is you have different music that can come from the different rooms. It's a really interesting setting to setup a lot of different characters easily.
+
+'''Raoul Barbet: '''Here the idea is to, again, have this believable universe of the students. We had to focus on what we wanted to tell and what we wanted to develop.
+
+'''Michel Koch: '''In each episode, Alyssa is getting hit or is in danger from something and you can decide or not to use your rewind power to warn her and to actually get her out of trouble.
+
+'''Raoul Barbet: '''Again I think it links to the Kate story and all this kind of stuff, it's not just there to have fun, it's also to talk about those difficulties you can have when you could be someone like Alyssa, having this kind of problems.
+
+'''Michel Koch: '''It's always a way to find these little details and little elements that will bring more to the characters and how we are defining them without sometimes telling too much.
+
+''The scene of Dana dancing on her bed in Episode 2 is shown.''
+
+'''Raoul Barbet: '''So, this is the same actress as Chloe. The two main actresses who are playing Max and Chloe also played the other students. There is some of Chloe inside each one of them.
+
+''The scene of Max and Chloe talking in Chloe's room in "Chrysalis" is shown.''
+
+'''Raoul Barbet: '''You can see Max and Chloe here, the body animation is done in motion-capture on this project. We've done a lot of shooting, motion-capture with French companies. Max and Chloe, like the voice actors are always played by the same actresses Serena and Gabrielle. So all the body-language and body-animation you see in the game is done by them. So in each scene, we discuss the scene with them and they add some things. Both of them, they have given something to their character, even for Max because Serena was a bit shy at the beginning of the project and at the end of the project she was different and we can see the evolution of Max inside her acting.
+
+''Max and Chloe are talking about Chloe and Nathan's bathroom confrontation.''
+
+'''Raoul Barbet: '''This is the first time we will really see Max's universe by discovering her room. Let's go inside.
+
+''Max is shown walking around her dorm room.''
+
+'''Michel Koch: '''It was a really important scene for us because you're playing as Max in the game, so you already start to know something of her with what happened before in Episode 1, but when you enter her room it's really her universe, everything in this room should describe her, who she is and why she is like this and speak a bit more about her past.
+
+'''Raoul Barbet: '''There is quite a lot in this room, in fact, compared to the - because we tried, I think, episode after episode also to focus on different things and we can't put too many objects in a room.
+
+'''Michel Koch: '''If you want to play a character for five episodes you need to invest in this character and all those kind of details were really important to make a connection between the player and Max, to learn a bit more about what she experienced before, maybe also why she is like she is right now. Something that we really wanted to have with Max's room is also to have a great contrast between Max and Chloe, so it was really important to have those two characters, Max and Chloe are really different, they are quite the opposite at the beginning of the story so we wanted her personality and also her universe, and her room to reflect that, and we took for Max softer colors, we have the pink I think on her bed cover, it is really really soft, the small cushion with flowers, the teddy bear.
+
+''An overview of Chloe's room from the first episode is shown.''
+
+'''Raoul Barbet: '''We've got a lot of different environments in the game, but we wanted really to be able to revisit the environments and to have other things taking place in the environments, but telling different stories, telling different sequences so for example in this room, when you go back here in the house in the alternative reality, we will find an empty room, Chloe's empty room, you have been here so many times before Episode 4 with Chloe, having fun with Chloe, listening to music. Going back here without anything, you will directly see what you've lost and what this other reality means for Chloe and for you.
+
+''Max and Chloe are shown talking at the Blackwell swimming pool in Episode 3.''
+
+'''Raoul Barbet: '''We've done the same for the swimming pool for example, we've got a great scene in the swimming pool between Max and Chloe when they are alone during the night, and after you've got this huge Vortex party which is really different atmosphere.
+
+'''Michel Koch: '''On the Production point of view, it is basically a new environment, but it is still in the same place and with a lot of similarities, so it's really important to show, it was important for us to show the changes that Max can create with her power and the changes to the characters and to the world.
+
+== 07 - Social issues ==
+''The dialogue between Chloe and David in Chloe's room is shown, with Max hidden in the closet. David slaps Chloe.''
+
+'''Raoul Barbet: '''Seeing this kind of family violence. It is something you can have encountered as a player, I think we all know some people that got some difficulties and you can have yourself also. Here the choice you are going to take will have consequences on the relation of Max and Chloe, but also with her father.
+
+''Max comes out of the closet.''
+
+'''Raoul Barbet: '''David could seem very archetypal.
+
+'''Michel Koch: '''Yes, one dimension at the beginning.
+
+'''Raoul Barbet: '''Episode after episode you can see that maybe he's got his own reasons.
+
+'''Michel Koch: '''I think that not at any moment we are justifying the fact that he could beat Chloe or be how it is. But it's just showing a perspective that not everything is black or white, so we did a lot of research to be sure that we were dealing with those themes in a good way. Too much gameyfing this we could really maybe hurt some people and if we are talking about issues those people have had and not making it right it could be worse and it could be the opposite of what we wanted to do at first.
+
+''Kate is shown brushing her teeth in the bathroom in Episode 2.''
+
+'''Michel Koch: '''So here is Kate character who you have met in the first episode but not until Episode 2 is really focused on Kate's story and Kate's difficulties. So in this scene it is a good way again in how we tried to advance the story about Kate but also show more of the other characters, Victoria and Taylor, so we are continuing about what is shown of Victoria in Episode 1, like in of course that she is really a mean person, that she is harassing Kate because she makes fun of her and so this kind of scene, we are really trying to advance the story, bring out more of the characters and of course great 
+cameras.
+
+'''Raoul Barbet: '''We wanted to talk about all the cyber bullying, the fact that it's quite difficult for teenagers nowadays to be connected as everyone is now. I think everyone has got a phone and is connected always.
+
+'''Michel Koch: '''And can send a text message a lot and we are making fun with that while we are thinking about both sides of the social media.
+
+''The scene of people looking at Kate standing on the roof is shown.''
+
+'''Raoul Barbet: '''On the other hand you've got this dark aspect of the internet that can be really, really difficult to leave I think. A lot of players could recognize some of themselves inside Kate and we've received a lot of letters from players who say that, that helped us also to realize what they've been through. We wanted to have this scene since the beginning, we are quite happy that we managed to keep it, working with Square Enix was great for that, we managed to keep a lot of difficult scenes like this one. It is not only talking about the scenes, it is also to be sure it is anchored inside our story, and here of course this experience and the Kate story will push Max to think about her power, to think about the consequences, to think about the relation with other characters.
+
+'''Michel Koch: '''That's actually the one time in the game where Max's power fails her, so when you arrive on the roof, you are really by yourself. You have to talk Kate out of jumping and this was also the second part of what we wanted to do with the scene was to show that is YOU care about the people you like, you can help them and that is basically what Max has to do in this moment. To care about Kate, to show her that she knows her as a friend and to talk her out of jumping. I think that something that was interesting in writing all these scenes is, even in Episode 1, Kate was written as a kind of archetype, she was a bit religious, she is for abstinence and she has this, basically pro-life idea. So, maybe some of the players could think she is a boring character, but the way we evolved her and write her in the other episodes, we really wanted to show that even if you go past the first appearance of someone, that something you might feel not interesting or different to you, you can find really good things and interesting things in each person and I was really happy in the way that the community reacted to Kate as a character.
+
+'''Raoul Barbet: '''We didn't want to gameyfy this kind of scene. We still have to have rules, even if they'e really in the background and the payer doesn't see those rules, but in the end we still need to create the scene with the scripting and a way to make it work. It was really hard to find a good balance to make it feel as transparent as possible for the player and create the feeling that it's just a dialog between Max and Kate. It was a really hard one to write, there area lot of branches, a lot of variations and I think even in the voice recording, it took a lot of time; it was one full full session, just for Hannah and Dayeanne - who plays Kate. It was really important to keep this going after in the other episodes, so it's not just that we have done this scene and then we go onto the next part of the game.
+
+''Kate and Max are shown talking in the hospital. After a few seconds, it gets replaced by the scene of Alternative Chloe asking Max to end her life.''
+
+'''Michel Koch: '''We wanted to talk about this theme of euthanasia but to find a way to talk about it that would be respectful for any sort of position because it was really important to try not to say: this is right, this is wrong and allow the player to really see how they would like to play the scene at this moment based on what they felt for the situation, for Chloe, for her parents and everything. That was not easy to find that balance when doing that.
+
+'''Raoul Barbet: '''And again, it;s because it's interactive and it's a videogame that this scene is so strong I think. You can just see a scene and think "OK, this is the director's point of view and that's it, I can accept it or not", but here it will be your choice, you really have to think about it before making your choice.
+
+'''Michel Koch: '''And we've seen all kinds of reactions, we've seen players who immediately say "No I can't do it". Or other players might immediately accept what's going on in those scenes. Of course it's Chloe that I'm accepting and a lot of others were hesitating for 5 or 10 minutes or so and I think that I like that we did that, but we've been a bit mean to the player because we give them a choice and maybe they can not make any choices on this, but you have to still make a choice. I think it was stronger, because what we wanted to do with that is to show that you have to take responsibility for your actions and you have to decide something, you can not get an easy way out.
+
+'''''End of the chapter.'''''
+
+== 08 - Getting things right ==
+N/A
+
+== 09 - Voices of Arcadia Bay ==
+N/A
+[[Category:Scripts]]
+[[Category:Behind the Scenes]]
+[[Category:Behind the Scenes (Life is Strange)]]
+[[Category:Special Content]]
+[[Category:Special Content (Life is Strange)]]
+[[Category:Life is Strange]]

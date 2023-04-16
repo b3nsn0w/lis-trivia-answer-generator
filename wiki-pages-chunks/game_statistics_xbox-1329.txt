@@ -1,0 +1,126 @@
+Here is a section of the wiki page for Game Statistics/Xbox:
+
+#  Game Statistics/Xbox 
+
+[File:This action will have consequences-0.png](centre.md)
+The following are the **game statistics** on Xbox.
+
+{{Main|Game Statistics|Steam Game Statistics}}
+
+:*The page was last updated on **{{#time: F j, Y|{{REVISIONTIMESTAMP}}}}.***
+
+## Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+#
+
+## **Major Choices** 
+{| width# "100%" align"center"
+| valign# "top" |
+**Principal Wells**
+* You reported Nathan. - **65%**
+* You hid the truth. - 35%
+|style"padding-right:100px"|[File:TX_MajorChoice_Nathan.png](right.md)
+|-
+| valign# "top" |
+'''Victoria's Outfit**
+* You made fun of Victoria. - 35%
+* You comforted Victoria. - **65%**
+|[File:TX MajorChoice Victoria.png](thumb.md)
+|-
+| valign"top" |
+**David and Kate**
+* You took a photo of David harassing Kate. - 18%
+* You intervened to help out Kate. - **82%**
+|style# "padding-right:100px"|[File:TX_MajorChoice_Kate.png](thumb.md)
+|-
+| valign"top" |
+**Chloe's Pot**
+*You took the blame for Chloe. - **36%**
+* You blamed Chloe. - 2%
+* You stayed hidden. - 28%
+* You came out of hiding to intervene. - 34%
+|[File:TX MajorChoice David.png](thumb.md)
+|}
+
+#
+
+## **Minor Choices**
+{| width# "100%" align"center"
+| valign# "top" |
+**Daniel**
+* You let Daniel draw your portrait. - 30%
+* You didn’t let Daniel draw your portrait. - **70%**
+|style"padding-right:100px"|[File:TX MinorChoice Daniel.png](thumb.md)
+|-
+| valign# "top" |
+**Ms. Grant**
+* You signed Ms. Grant’s petition. - 32%
+* You didn’t sign Ms. Grant’s petition. - **68%**
+|[File:TX MinorChoise MsGrant.png](thumb.md)
+|-
+| valign"top" |
+**Alyssa**
+* You helped Alyssa. - **71%**
+* You didn’t help Alyssa. - 29%
+|style# "padding-right:100px"|[File:TX MinorChoice Alyssa.png](thumb.md)
+|-
+| valign"top" |
+**Kate's Slate'''
+* You erased the insults on Kate's slate. - 48%
+* You didn't erase Kate's slate. - **52%**
+|[File:TXMinorChoiceKate2.png](thumb.md)
+|-
+| valign# "top" |
+**Lisa the Plant**
+* You watered your plant. - **64%**
+* You didn’t water your plant. - 36%
+|style"padding-right:100px"|[File:TX MinorChoice Lisa.png](thumb.md)
+|-
+| valign# "top" |
+'''Dana's Pregnancy Test**
+* You touched Dana’s pregnancy test. - 2%
+* You didn’t touch Dana’s pregnancy test. **98%**
+|[File:TX MinorChoice Dana-0.png](thumb.md)
+|-
+| valign"top" |
+**Victoria's Photos**
+* You "reorganized" Victoria’s photos. - 24%
+* You didn’t touch Victoria’s photos. - **76%**
+|style# "padding-right:100px"|[File:TX MinorChoiceVictoria2.png](thumb.md)
+|-
+| valign"top" |
+**Dirty RV'''
+* You wrote on a [Frank's RV](dirty_rv.md). - 17%
+* You didn’t write on a dirty RV. -** 83%**
+|[File:TX MinorChoice Frank.png](thumb.md)
+|-
+| valign# "top" |
+**The Bird**
+* You saved [Blue Jay](the_bird.md). - 36%
+* You let the bird die. - **64%**
+|style"padding-right:100px"|[File:TX MinorChoice Bird.png](thumb.md)
+|-
+| valign# "top" |
+'''Chloe's Snow Globe**
+* You broke Chloe’s snow globe. - 16%
+* You didn’t break Chloe’s snow globe. **84%**
+|[File:TX MinorChoice SnowGlobe.png](thumb.md)
+|-
+| valign"top" |
+**Snooping Evidence**
+* You left evidence while searching through David’s stuff. - 24%
+* You didn’t leave any evidence. - **76%**
+|style# "padding-right:100px"|[File:TX MinorChoice David3.png](thumb.md)
+|-
+| valign"top" |
+**David's Files**
+* You read David’s files. - **57%**
+* You didn’t read David’s files. - 43%
+|[File:TX MinorChoice David2.png](thumb.md)
+|}
+
+## Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is the Name of the Film Max Wants to Watch on Victoria's Plasma TV?",
+    "answer": "A",
+    "choices": {
+      "A": "Final Fantasy: Spirits Within",
+      "B": "The Matrix",
+      "C": "Inception",
+      "D": "Blade Runner"
+    }
+  },
+  {
+    "question": "What Does Jefferson Say After Shooting David Multiple Times in Episode 5?",
+    "answer": "D",
+    "choices": {
+      "A": "\"You Should Have Listened to Max\"",
+      "B": "\"I Am the Ultimate Artist\"",
+      "C": "\"I Am the Hero of This Story\"",
+      "D": "\"Okay... Déjà vu...\""
+    }
+  },
+  {
+    "question": "What Is the Name of the Character Featured on a Poster in Kate's Hospital Room?",
+    "answer": "B",
+    "choices": {
+      "A": "Max Caulfield",
+      "B": "Hawt Dawg Man",
+      "C": "Chloe Price",
+      "D": "Nathan Prescott"
+    }
+  },
+  {
+    "question": "What Is the Easter Egg Found on the Showers Sign in the Bathroom?",
+    "answer": "A",
+    "choices": {
+      "A": "A Picture of Max",
+      "B": "A Hidden Camera",
+      "C": "A Message from Nathan",
+      "D": "A Reference to Another Game"
+    }
+  }
+]

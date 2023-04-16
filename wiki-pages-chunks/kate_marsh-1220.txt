@@ -1,0 +1,47 @@
+Here is a section of the wiki page for Kate Marsh:
+
+## Spirit Animal 
+It's most likely that Kate's spirit animal is the rabbit, which is the animal connected to her the most as she has a [Alice the Rabbit](pet_rabbit.md). The rabbit is a symbol of vulnerability, comfort, abundance - it's associated with sentiment, desire and procreation. People with this totem are usually unpredictable, spontaneous, gentle, nurturing, observational, alert, clever, quick-witted, successful and good advisers. This totem is furthermore a symbol of fertility, warmth, sexuality and luck. This may not completely describe Kate, however. Also, she had posters about advising on abstinence.
+
+## Memorable Quotes 
+{{Quote|It sucks to be dragged into the spotlight.|said to Max in Mr. Jefferson's art class in "[Episode 1: Chrysalis](chrysalis.md)"}}
+{{Quote|I'm already on the internet forever. No wonder they call it a "web" — nothing can ever get out.|said to Max in "[Episode 2: Out of Time](out_of_time.md)"}}
+{{Quote|I don't expect you to get in trouble for me. I just feel like nobody cares...|said to Max in "[Episode 2: Out of Time](out_of_time.md)"}}
+{{Quote|I don't get wasted. Ever.|said to Max in "[Episode 2: Out of Time](out_of_time.md)"}}
+{{Quote|Nobody cares about me. Nobody...|said to Mr. Jefferson in the corridor in "[Episode 2: Out of Time](out_of_time.md)"}}
+
+## Kate's Binder 
+In the Dark Room, Kate's binder is one of the three viewable [Dark Room Victims#Binders](binders.md) other than Rachel Amber's binder and Victoria's empty one. In the binder, you can find several photographs of a drugged Kate, taken by Mark Jefferson.
+
+{{Hidegallery
+|num# 1
+|descriptionThis gallery contains disturbing images.
+|img1# K4.PNG
+|cap1
+|img2# K2.PNG
+|cap2
+|img3# K1.PNG
+|cap3
+}}
+
+## Theories 
+{{Main|Theories and Speculations (Life is Strange)}}
+The name "Katie" appears in [Frank Bowers](frank_bowers.md)'s client list (codenamed as "Chihuahua"). It was speculated that Kate may have bought drugs from Frank in her depressed state, as Chihuahua would be a fitting dog type for Kate and "Katie" bought a sleeping drug called green dream and a drug that causes death (both uses would be fitting for Kate in her sleepless and suicidal circumstances). It's more unlikely that Kate would use weed and acid (the other drugs under Katie's name in the book), and none of the transactions took place in Blackwell itself where she spends most of her time - Kate can't even say a swear word let alone become involved with Frank. However, it has been confirmed by the developers that the Katie on Frank's list is not Kate Marsh.
+
+It's very likely that Kate survived the storm in the Sacrifice Arcadia Bay ending, since the hospital is a solid brick building that could have been able to withstand the storm as opposed to the destroyed wooden buildings that are shown in this ending. Also, hospitals do usually have underground storm shelters, and Arcadia Bay is known to have a lot of bomb shelters.According to a document from the [Prescott Barn](prescott_barn.md), the Prescotts had brought "a bomb shelter boom" over the town.
+
+Additionally, Kate could have been released by the hospital after a 48 hour hold period, by which time her family would have visited (as she mentions they would during Max's visit). The storm would have been on its way by then, and Kate and her family would most likely have fled the town.
+
+## Inconsistencies 
+{{Main|Inconsistencies (Life is Strange)}}
+[Max's Journal](max_s_journal.md) page for Kate will change in Episode 3, depending on whether Max manages to save her life or not. A new decal will appear on the page to cover the 'LiFE' graphic that was visible in the previous two episodes. However, there is currently an inconsistency with how these new graphics appear, due to the files being misnamed in the Unreal Engine packages (*TX_Character_E3_Kate_SF, TX_Character_E4_Kate_SF, and TX_Character_E5_Kate_SF*).
+
+The journal sticker graphic that implies Kate is alive has been labeled *Kate_scrapbook_dead*, and the sticker graphic that implies that Kate is dead has been labeled *Kate_scrapbook_alive*. If Kate dies, the sticker graphic that appears after this consequence implies she is still alive ("*Get Well Soon*"). If Kate lives, the sticker graphic that appears implies that she has died ("*Love is how you stay alive, even after you are gone*").DONTNOD were made aware of this inconsistency on 29th March 2017. It is unknown if a patch will be released that fixes this issue.
+
+Kate Life.png|Sticker graphic visible on Kate's page up until Episode 3.
+Kate scrapbook dead.png|Sticker graphic that appears on Kate's journal in error if she dies, due to a mislabeling of the game file (Kate_scrapbook_dead).
+Kate scrapbook alive.png|Sticker graphic that appears on Kate's journal in error if she lives, due to a mislabeling of the game file (Kate_scrapbook_alive).
+
+
+
+Generate five trivia questions relevant to this section of the page.

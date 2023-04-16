@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Nathan Suspected Of Involvement In?",
+    "answer": "C",
+    "choices": {
+      "A": "Kate's Disappearance",
+      "B": "Chloe's Shooting",
+      "C": "Rachel's Death",
+      "D": "Max's Time Travel"
+    }
+  },
+  {
+    "question": "What Is Nathan's Mental Condition?",
+    "answer": "A",
+    "choices": {
+      "A": "Schizophrenia",
+      "B": "Bipolar Disorder",
+      "C": "Depression",
+      "D": "Obsessive-Compulsive Disorder"
+    }
+  },
+  {
+    "question": "What Is Nathan's Father's Name?",
+    "answer": "C",
+    "choices": {
+      "A": "Mark Jefferson",
+      "B": "Anderson Berry",
+      "C": "Sean Prescott",
+      "D": "David Madsen"
+    }
+  },
+  {
+    "question": "What Is The Purpose Of The Dark Room?",
+    "answer": "A",
+    "choices": {
+      "A": "A Photography Studio",
+      "B": "A Secret Clubhouse",
+      "C": "A Storm Shelter",
+      "D": "A Drug Den"
+    }
+  },
+  {
+    "question": "What Is The Theory About Nathan's Knowledge Of The Storm?",
+    "answer": "A",
+    "choices": {
+      "A": "He Experienced Visions Of The Tornado",
+      "B": "He Was Told By Mark Jefferson",
+      "C": "He Read About It In A Book",
+      "D": "He Had No Knowledge Of The Storm"
+    }
+  }
+]

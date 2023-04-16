@@ -1,0 +1,32 @@
+[
+  {
+    "question": "In which episode of Life is Strange does the Zeitgeist Gallery appear?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 3: Chaos Theory",
+      "C": "Episode 4: Dark Room",
+      "D": "Episode 5: Polarized"
+    }
+  },
+  {
+    "question": "What does Principal Wells urge Max to do at the Zeitgeist Gallery?",
+    "answer": "A",
+    "choices": {
+      "A": "Talk to the influential people there",
+      "B": "Leave the gallery immediately",
+      "C": "Take more photos of the artwork",
+      "D": "Donate money to the gallery"
+    }
+  },
+  {
+    "question": "What does Max see after looking at her photo in the Zeitgeist Gallery?",
+    "answer": "A",
+    "choices": {
+      "A": "A vision of the storm",
+      "B": "A vision of her missing friend",
+      "C": "A vision of her future self",
+      "D": "A vision of the gallery's history"
+    }
+  }
+]

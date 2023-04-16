@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Purpose Of The \"Characters\" Category On The Life Is Strange Wiki?",
+    "answer": "A",
+    "choices": {
+      "A": "To List All The Characters In The Franchise",
+      "B": "To Provide Pictorial Overviews Of The Characters",
+      "C": "To List All The Voice Actors In The Franchise",
+      "D": "To Provide Information About The Characters' Backstories"
+    }
+  },
+  {
+    "question": "Which Category On The Life Is Strange Wiki Provides Pictorial Overviews Of The Characters?",
+    "answer": "A",
+    "choices": {
+      "A": "Characters (Life is Strange)",
+      "B": "Characters (Prequel)",
+      "C": "Characters (Captain Spirit)",
+      "D": "Characters (Season 2)"
+    }
+  },
+  {
+    "question": "Which Franchise Does The \"Characters\" Category On The Life Is Strange Wiki Refer To?",
+    "answer": "A",
+    "choices": {
+      "A": "Life is Strange (Franchise)",
+      "B": "Captain Spirit (Franchise)",
+      "C": "Season 2 (Franchise)",
+      "D": "Prequel (Franchise)"
+    }
+  },
+  {
+    "question": "Which Category On The Life Is Strange Wiki Lists The Characters In The Prequel?",
+    "answer": "B",
+    "choices": {
+      "A": "Characters (Life is Strange)",
+      "B": "Characters (Prequel)",
+      "C": "Characters (Captain Spirit)",
+      "D": "Characters (Season 2)"
+    }
+  }
+]

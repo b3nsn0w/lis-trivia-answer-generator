@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Chloe Discover About Rachel In Episode 5?",
+    "answer": "A",
+    "choices": {
+      "A": "Rachel Was Banging Frank",
+      "B": "Rachel Was A Spy",
+      "C": "Rachel Was A Time Traveler",
+      "D": "Rachel Was A Vampire"
+    }
+  },
+  {
+    "question": "What Does Alternate Chloe Reveal To Max In Her Room?",
+    "answer": "B",
+    "choices": {
+      "A": "She Is A Time Traveler",
+      "B": "She Is Dying",
+      "C": "She Is Moving Away",
+      "D": "She Is Pregnant"
+    }
+  },
+  {
+    "question": "What Does Max Discover In The Dark Room?",
+    "answer": "B",
+    "choices": {
+      "A": "Kate Was The Only Victim",
+      "B": "Victoria Is The Next Target",
+      "C": "Nathan Is Not Involved",
+      "D": "Rachel Is Still Alive"
+    }
+  },
+  {
+    "question": "What Is Chloe Trying To Do When Max Wakes Up Near The Lighthouse?",
+    "answer": "C",
+    "choices": {
+      "A": "Find Rachel's Body",
+      "B": "Escape From The Storm",
+      "C": "Stop The Tornado",
+      "D": "Time Travel To The Past"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Game Chloe And Max Played All Night?",
+    "answer": "A",
+    "choices": {
+      "A": "CSI: Arcadia Bay",
+      "B": "Pirates of Arcadia Bay",
+      "C": "Time Travelers' Adventure",
+      "D": "The Dark Room Mystery"
+    }
+  }
+]

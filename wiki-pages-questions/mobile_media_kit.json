@@ -1,0 +1,42 @@
+[
+  {
+    "question": "When Was The Mobile Media Kit Released?",
+    "answer": "B",
+    "choices": {
+      "A": "January 12, 2016",
+      "B": "January 14, 2016",
+      "C": "January 16, 2016",
+      "D": "January 18, 2016"
+    }
+  },
+  {
+    "question": "What Are Some Of The Wallpapers Included In The Mobile Media Kit?",
+    "answer": "D",
+    "choices": {
+      "A": "Arcadia Bay sign, Blackwell Academy parking lot, and Chloe's room",
+      "B": "Max and Chloe in the American Rust Junkyard and the Lighthouse at night",
+      "C": "Max in the Zeitgeist Gallery and on the swing in Chloe's backyard",
+      "D": "All of the above"
+    }
+  },
+  {
+    "question": "What Are Some Of The Popular Quotes Included In The Mobile Media Kit?",
+    "answer": "D",
+    "choices": {
+      "A": "\"Wowser\" and \"Are you cereal?\"",
+      "B": "\"Release the kra-can!\" and \"Ready for the mosh pit, shaka brah?\"",
+      "C": "\"I believe Max has taken what you kids call a selfie...\" and \"Another dollar for the swear-jar!\"",
+      "D": "All of the above"
+    }
+  },
+  {
+    "question": "What Notification Sounds Are Included In The Mobile Media Kit?",
+    "answer": "A",
+    "choices": {
+      "A": "Max's Messages and Choices and Consequences",
+      "B": "Max's Messages and Release the kra-can!",
+      "C": "Choices and Consequences and Another dollar for the swear-jar!",
+      "D": "Max's Messages and I was eating those beans – are you fucking insane?"
+    }
+  }
+]

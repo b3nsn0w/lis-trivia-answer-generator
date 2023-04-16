@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Was The Original Purpose Of The Vortex Club?",
+    "answer": "A",
+    "choices": {
+      "A": "To Act As A Safe Haven From Peer Pressure",
+      "B": "To Promote Recreational Drug Use",
+      "C": "To Bully Unpopular Students",
+      "D": "To Shield Football Players From Criticism"
+    }
+  },
+  {
+    "question": "Who Are Considered The Two Most Prominent Members Of The Vortex Club?",
+    "answer": "B",
+    "choices": {
+      "A": "Taylor Christensen and Logan Robertson",
+      "B": "Victoria Chase and Nathan Prescott",
+      "C": "Hayden Jones and Juliet Watson",
+      "D": "Zachary Riggins and Courtney Wagner"
+    }
+  },
+  {
+    "question": "Who Funds The Vortex Club?",
+    "answer": "B",
+    "choices": {
+      "A": "Victoria Chase's Father",
+      "B": "Nathan Prescott's Father",
+      "C": "The Blackwell Academy Administration",
+      "D": "The Club Members Themselves"
+    }
+  },
+  {
+    "question": "What Does Samuel Taylor Warn Max About The Vortex Club?",
+    "answer": "C",
+    "choices": {
+      "A": "That It Is A Cult",
+      "B": "That It Is A Safe Haven",
+      "C": "That Rachel Amber Saw Through It",
+      "D": "That It Is A Place To Make Friends"
+    }
+  },
+  {
+    "question": "In Before The Storm, What Does Victoria Chase Plan To Do With The Vortex Club?",
+    "answer": "A",
+    "choices": {
+      "A": "Turn It Into A Social Club For Blackwell's Elite",
+      "B": "Disband It Altogether",
+      "C": "Use It To Promote Anti-Bullying",
+      "D": "Use It To Promote Drug Use"
+    }
+  }
+]

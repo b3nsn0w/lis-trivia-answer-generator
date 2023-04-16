@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is the color of Joyce's hair clip and what is it symbolic of?",
+    "answer": "B",
+    "choices": {
+      "A": "Red, passion",
+      "B": "Blue, hope and vulnerability",
+      "C": "Green, growth and renewal",
+      "D": "Yellow, happiness and optimism"
+    }
+  },
+  {
+    "question": "Who is Joyce trapped inside the diner with during the storm in Episode Five?",
+    "answer": "B",
+    "choices": {
+      "A": "Max and Warren",
+      "B": "Frank and the Old Guy",
+      "C": "David and Chloe",
+      "D": "Nathan and Victoria"
+    }
+  },
+  {
+    "question": "What is the spirit animal associated with Joyce and what is it symbolic of?",
+    "answer": "C",
+    "choices": {
+      "A": "Butterfly, transformation and change",
+      "B": "Wolf, loyalty and family",
+      "C": "Whale, wisdom and emotional healing",
+      "D": "Eagle, freedom and courage"
+    }
+  }
+]

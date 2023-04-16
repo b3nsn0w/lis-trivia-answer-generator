@@ -1,0 +1,52 @@
+Here is a section of the wiki page for Frank Bowers:
+
+## Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+In this episode, Max and Chloe visit Frank in his RV to gather more clues about Rachel. They need the key to his account book to work out when Nathan received drugs from Frank in order to dose Kate.
+
+Their confrontation is complicated and can diverge in a number of ways. If Max attempted to shoot Frank in Episode 2, he will be armed with a knife. If she did not attempt to shoot him, he will be armed with David's gun. Chloe may or may not be armed during this sequence. If Max attempted to shoot Frank before, Chloe will be armed with David's gun. If she didn't stop Warren from beating up Nathan, Chloe will be armed with Nathan's gun. If Max has done neither of the above, Chloe will not be armed. Chloe may also not be armed if Max tells her to get rid of her gun prior to the confrontation. Frank will also be easier to deal with if Max chose to allow Chloe to steal the $5,000 from Principal Wells' office and pay off Frank with it.
+
+**There are three possible permanent outcomes of this event:**
+# Frank and Pompidou both die after being shot, and killed, by Chloe. Max and Chloe steal his account book key from his dead body.
+# Frank is wounded after being either stabbed or shot in the leg by Chloe. He begrudgingly agrees to give Max and Chloe the account book key.
+# The situation is handled well and no one gets hurt. Frank agrees to give you the account book key and becomes an ally in the cause to find Rachel.
+In order to get option 1, Pompidou has to attack after feeling like Frank is being threatened and Chloe has to be armed. Max has to say something to upset Frank, which escalates the situation and causes Pompidou to attack (if he has not been previously injured).
+
+Option 2 occurs if Max says something to anger Frank and escalates the situation, but only after she asks Frank to close the door to his RV, preventing Pompidou from attacking. Option 2 will always occur if Max allowed for Pompidou to be hit by a truck in Episode 3 as he will not be around to come out. This means that Frank cannot be killed, but the situation still can be negotiated peacefully (even without giving him the money).
+
+Getting Option 3 requires Max not to say anything that could possibly anger Frank (Max is allowed one mistake if Frank was paid off). She cannot insult him nor can she implicate herself when it comes to breaking into his RV through mentioning things such as Pompidou's name or Rachel's letter. This may require a bit of trial and error by Max.
+
+If Max tells Frank that she also loves dogs, he will mention that Pompidou's former owner was a very bad person, but that he's dead now implying that he killed him.
+
+If Pompidou had been killed in Episode 3, Frank will also mention that he beat the driver of the truck hitting his dog and that he's lucky to be alive.
+
+: Click *[https://www.youtube.com/watch?v# SwFgFuRWnTA here]* to see all possible outcomes.
+
+Option 3Option 3 Frank will send Max a friendly text message later in the game to motivate her.
+|-|Options 1 & 2 =Options 1 & 2  Frank will not text Max.
+
+## Episode Five - "[Episode 5: Polarized](polarized.md)" 
+If Frank is not killed during Episode 4, he can be found injured in the Two Whales Diner, with Joyce tending to him. It is possible for Max to talk to Frank and tell him the truth about what happened to Rachel Amber. Frank appears visibly distraught over her death, and even more so if he is told that Rachel was overdosed, meaning that Frank indirectly sold to Nathan the drugs that ultimately killed Rachel. Frank will also remark that his dog Pompidou always hated Nathan. He also appears in the maze area of [Max's Nightmare](max_s_nightmare.md), searching for Max.
+
+If Chloe is sacrificed, he can be found watching Chloe's funeral from a distance with Pompidou.
+
+If Arcadia Bay is sacrificed and he wasn't killed by Chloe earlier, he is likely to have died in the diner due to a gas explosion caused by his RV, although the diner itself is shown to be still standing after the storm subsides, leading to the possibility that he may have survived. However, *Life is Strange 2 *reveals that Joyce died in the storm and since Frank was with her, it is highly presumed that he too had died.
+
+## Associated Deaths 
+* [Rachel Amber](rachel_amber.md) (**Indirectly Caused**) - Frank provided the drugs that Nathan and Jefferson used to overdose Rachel.
+* [Kate Marsh](kate_marsh.md) (**Indirectly Caused, Determinant**) - Frank provided the drugs that Nathan and Jefferson used to drug Kate, which lead to her being filmed and the following humiliation which caused her to attempt suicide.
+* Other [Dark Room Victims](dark_room_victims.md) (**Indirectly Caused**) - Being the local drug dealer in Arcadia Bay, he probably also supplied the drugs for other victims of the [:Category:Dark Room Conspiracy](dark_room_conspiracy.md).
+
+## Relationships 
+
+#
+
+## Friends 
+* [Pompidou](pompidou.md) - Pompidou is Frank's closest and only friend in Arcadia Bay. Frank saved him from his former owner who trained him for dog fight matches. He has a caring and loving connection to his dog, and values him a lot. Pompidou has a great impact on Frank's life, helping him to become more at peace with himself and to become more "humane". 
+* [Chloe Price](chloe_price.md) (**Determinant**) - Frank was originally Chloe's enemy as she borrowed money from him, presumably to fix her pickup to be able to drive away from Arcadia. He becomes aggressive when she is late returning the cash. If Max and Chloe carefully placate him in "Dark Room" they are able to become friends with him due to a shared belief that Rachel is alive.
+* [Maxine Caulfield](max_caulfield.md) (**Determinant**) - Max was originally one of Frank's enemies, as she pulled a gun on him to prevent his aggressive behavior towards Chloe. If Max shoots, he becomes enraged at her, creating tension between them. If Max and Chloe carefully placate him in "Dark Room" they are able to become friends with him due to a shared belief that Rachel is alive.
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

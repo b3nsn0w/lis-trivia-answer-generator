@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Feel When She Reaches The Lighthouse?",
+    "answer": "B",
+    "choices": {
+      "A": "Excited",
+      "B": "Nostalgic",
+      "C": "Scared",
+      "D": "Angry"
+    }
+  },
+  {
+    "question": "What Does Chloe Think Of David?",
+    "answer": "B",
+    "choices": {
+      "A": "She Trusts Him",
+      "B": "She Thinks He's A Bully",
+      "C": "She Thinks He's Funny",
+      "D": "She Doesn't Know Him Well"
+    }
+  },
+  {
+    "question": "What Does Max Find In David's Secret Files?",
+    "answer": "B",
+    "choices": {
+      "A": "Snuff Videos",
+      "B": "Creepy Photos Of Kate Marsh",
+      "C": "Blackwell Students' Grades",
+      "D": "David's Personal Diary"
+    }
+  },
+  {
+    "question": "What Does Chloe Think David Is Doing With His Secret Files?",
+    "answer": "A",
+    "choices": {
+      "A": "He's Gathering Enemy Intelligence",
+      "B": "He's Selling Them To The Highest Bidder",
+      "C": "He's Using Them To Blackmail People",
+      "D": "He's Keeping Them As A Hobby"
+    }
+  },
+  {
+    "question": "What Does Max Say When Chloe Asks If She's Pissed At Her?",
+    "answer": "A",
+    "choices": {
+      "A": "\"I Just Wanted Some Back-Up\"",
+      "B": "\"I'm Sorry I Wussed Out\"",
+      "C": "\"No Worries\"",
+      "D": "\"I'm Not As Brave As You\""
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Was The Title Of The Talk Presented By Christian Divine At GDC Europe 2016?",
+    "answer": "C",
+    "choices": {
+      "A": "The Red Age of Storytelling",
+      "B": "The Green Age of Storytelling",
+      "C": "The Blue Age of Storytelling",
+      "D": "The Yellow Age of Storytelling"
+    }
+  },
+  {
+    "question": "What Is The Topic Of Christian Divine's Talk At GDC Europe 2016?",
+    "answer": "B",
+    "choices": {
+      "A": "The Development Of Life Is Strange",
+      "B": "The Future Of Narrative Games",
+      "C": "The History Of Game Development Conferences",
+      "D": "The Importance Of Graphics In Video Games"
+    }
+  },
+  {
+    "question": "Where Did GDC Europe 2016 Take Place?",
+    "answer": "C",
+    "choices": {
+      "A": "Paris",
+      "B": "Berlin",
+      "C": "Cologne",
+      "D": "London"
+    }
+  },
+  {
+    "question": "Who Presented The Talk \"The Blue Age of Storytelling\" At GDC Europe 2016?",
+    "answer": "C",
+    "choices": {
+      "A": "Max Caulfield",
+      "B": "Chloe Price",
+      "C": "Christian Divine",
+      "D": "Warren Graham"
+    }
+  }
+]

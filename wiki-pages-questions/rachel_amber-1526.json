@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Slogan Written On The Bathroom Wall About Rachel Amber?",
+    "answer": "B",
+    "choices": {
+      "A": "\"Rachel Amber Is A Liar\"",
+      "B": "\"Rachel Amber Is A Whore\"",
+      "C": "\"Rachel Amber Is A Thief\"",
+      "D": "\"Rachel Amber Is A Bully\""
+    }
+  },
+  {
+    "question": "Where Do Max And Chloe Find Rachel's Body?",
+    "answer": "C",
+    "choices": {
+      "A": "In The Prescott Barn",
+      "B": "In The Blackwell Swimming Pool",
+      "C": "In The American Rust Junkyard",
+      "D": "In The Two Whales Diner"
+    }
+  },
+  {
+    "question": "Who Mistakes Max For Rachel In The Two Whales Diner?",
+    "answer": "C",
+    "choices": {
+      "A": "David Madsen",
+      "B": "Frank Bowers",
+      "C": "Nathan Prescott",
+      "D": "Raymond Wells"
+    }
+  },
+  {
+    "question": "What Do Max And Chloe Discover In The Dark Room?",
+    "answer": "A",
+    "choices": {
+      "A": "Incriminating Sexual Pictures Of Rachel",
+      "B": "A Secret Passage To The Prescott Barn",
+      "C": "A Map Of Arcadia Bay",
+      "D": "A Hidden Safe With Money"
+    }
+  },
+  {
+    "question": "Who Reveals That Rachel Was In Love With Him?",
+    "answer": "D",
+    "choices": {
+      "A": "Frank Bowers",
+      "B": "David Madsen",
+      "C": "Nathan Prescott",
+      "D": "Mark Jefferson"
+    }
+  }
+]

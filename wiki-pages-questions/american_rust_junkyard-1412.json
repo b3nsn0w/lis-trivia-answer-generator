@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Name Of The Junkyard In Episode 2?",
+    "answer": "A",
+    "choices": {
+      "A": "American Rust Junkyard",
+      "B": "Arcadia Bay Junkyard",
+      "C": "Pacific Steve's Junkyard",
+      "D": "Bigfoots' Junkyard"
+    }
+  },
+  {
+    "question": "What Is Written On The Sheet Of Paper That Max Finds In The Junkyard?",
+    "answer": "B",
+    "choices": {
+      "A": "I Want To Live",
+      "B": "I Want To Die",
+      "C": "I Want To Leave",
+      "D": "I Want To Stay"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Club That Rachel Went To Before She Disappeared?",
+    "answer": "A",
+    "choices": {
+      "A": "Vortex Club",
+      "B": "Rachel Club",
+      "C": "Los Angeles Club",
+      "D": "Secret Club"
+    }
+  },
+  {
+    "question": "What Does Max Add To The Graffiti On The Hideout Wall?",
+    "answer": "A",
+    "choices": {
+      "A": "Her Name",
+      "B": "A Message To Rachel",
+      "C": "A Message To Chloe",
+      "D": "A Message To Max"
+    }
+  }
+]

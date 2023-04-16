@@ -1,0 +1,42 @@
+[
+  {
+    "question": "In Max's nightmare, what does Samuel accuse her of wanting?",
+    "answer": "A",
+    "choices": {
+      "A": "To kill all the squirrels",
+      "B": "To destroy Arcadia Bay",
+      "C": "To steal his fashion items",
+      "D": "To harm Rachel Amber"
+    }
+  },
+  {
+    "question": "What is one of the strange theories about Samuel?",
+    "answer": "C",
+    "choices": {
+      "A": "He is a fashion photographer",
+      "B": "He is a time traveler",
+      "C": "He is a transvestite",
+      "D": "He is a vampire"
+    }
+  },
+  {
+    "question": "What does Samuel say about Rachel in Episode 1?",
+    "answer": "A",
+    "choices": {
+      "A": "She was like a battery",
+      "B": "She was popular",
+      "C": "She cast shadows",
+      "D": "She was a prism"
+    }
+  },
+  {
+    "question": "What does Samuel say about the eclipse in Episode 4?",
+    "answer": "C",
+    "choices": {
+      "A": "Science has no explanation",
+      "B": "It's a sign about Max's destiny",
+      "C": "Something bigger is coming to Arcadia Bay",
+      "D": "He can sense danger approaching"
+    }
+  }
+]

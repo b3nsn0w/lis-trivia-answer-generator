@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is Max Stuck In When She First Arrives At Chloe's House?",
+    "answer": "A",
+    "choices": {
+      "A": "A Snow Globe",
+      "B": "A Picture Frame",
+      "C": "A Jewelry Box",
+      "D": "A Music Box"
+    }
+  },
+  {
+    "question": "What Does William Have To Do After Receiving A Phone Call?",
+    "answer": "A",
+    "choices": {
+      "A": "Pick Up Groceries",
+      "B": "Go To Work",
+      "C": "Rescue Someone",
+      "D": "Take A Nap"
+    }
+  },
+  {
+    "question": "What Does William Find The Keys Under?",
+    "answer": "A",
+    "choices": {
+      "A": "A Hat",
+      "B": "A Book",
+      "C": "A Pillow",
+      "D": "A Magazine"
+    }
+  },
+  {
+    "question": "What Does William Ask Max To Do In His Text Message?",
+    "answer": "A",
+    "choices": {
+      "A": "Say Hi To Chloe And Joyce",
+      "B": "Remind Them That He Let Him Die",
+      "C": "Attend A Wine-Tasting Session",
+      "D": "None Of The Above"
+    }
+  }
+]

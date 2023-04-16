@@ -1,0 +1,89 @@
+Here is a section of the wiki page for Max's Notes:
+
+the Range."
+|style# "height:186px; vertical-align:top"|Look[File:note4-barn-barnphoto.png](220px.md)
+|-|Read# None
+|-
+|**Letter from Harry Aaron Prescott to Mr. Lyndon.**
+Location: Crate inside the barn.
+Max's comments: I guess the Prescotts were just born bastards...
+|style"height:186px; vertical-align:top"|Look# [File:note4-barn-hapletter.png](220px.md)
+|-|Read[File:note4-barn-hapletter2.png](220px.md)
+|-
+|**Letter from [Dr. Jacoby](dr__jacoby.md) to [Sean Prescott](sean_prescott.md).**
+Location: The storage room section of the [Dark Room (Location)](dark_room.md).
+Max's comments: Whoa, this says it all about Nathan... He needs help.
+|style# "height:186px; vertical-align:top"|Look[File:note4-darkroom-jacobyletter.png](220px.md)
+|-|Read# [File:note4-darkroom-jacobyletter2.png](220px.md)
+|-
+|'''The Dark Room's construction note.'''
+Location: Inside the lounge of the Dark Room.
+Max's comments: That son of a bitch...
+|style"height:186px; vertical-align:top"|Look# [File:note4-darkroom-constructionnote.png](220px.md)
+|-|Read[File:note4-darkroom-constructionnote2.png](220px.md)
+|-
+|**Note from Jefferson to Nathan.**
+Location: Plastered on the computer's monitor in the Dark Room.
+Max's comments:
+|style# "height:186px; vertical-align:top"|Look[File:note4-darkroom-jeffnote.png](220px.md)
+|-|Read# [File:note4-darkroom-jeffnote2.png](220px.md)
+|-
+|**Letter from Sean to Nathan.**
+Location: Inside the Dark Room.
+Max's comments: Oh yeah, school suspension is a deal-breaker in the Prescott family.
+Notes: Appears only if Nathan was suspended in Episode 2.
+|style"height:186px; vertical-align:top"|Look# [File:sean-nathan-suspension.png](220px.md)
+|-|Read[File:sean-nathan-suspension-read.png](220px.md)
+|-
+|**Monochrome photo of a drugged Kate.**
+The name of the editing software in Episode 1 displays as NEONVAU. In Episode 4 and during [Max's Nightmare](max_s_nightmare.md), it displays as NEONVAULT. This is perhaps an inconsistency during game development.
+Location: Screen of the computer in the Dark Room.
+Max's comments: Let's see what's in here... Oh my God... no...
+|style# "height:186px; vertical-align:top"|Look[File:note4-darkroom-jeffcomp.png](220px.md)
+|-|Read# None
+|-
+|**Issue of the [Arcadia Bay Beacon](arcadia_bay_beacon.md) newspaper.**
+Location: Table in the Dark Room.
+Max's comments: These newspapers are all about Rachel and Kate...
+|style"height:186px; vertical-align:top"|Look# [File:note4-darkroom-rachelmissing.png](220px.md)
+|-|Read[File:note4-darkroom-rachelmissing2.png](220px.md)
+|-
+|**Issue of the [Blackwell Totem](blackwell_totem.md) newspaper.**
+Location: Table in the Dark Room.
+Max's comments: None
+|style# "height:186px; vertical-align:top"|Look[File:note4-darkroom-blackwelltotem.png](220px.md)
+|-|Read# [File:note4-darkroom-blackwelltotem2.png](220px.md)
+|-
+|**Article in the "Arcadia Bay Beacon".**
+Location: Table in the Dark Room.
+Max's comments: None
+Notes: Appears if Max managed to save Kate in Episode 2.
+|style"height:186px; vertical-align:top"|Look# [File:note4-darkroom-katealive.png](220px.md)
+|-|Read[File:note4-darkroom-katealive2.png](220px.md)
+|-
+|**Article in the "Arcadia Bay Beacon" (alternate).**
+Location: Table in the Dark Room.
+Max's comments: None
+Notes: Appears if Max failed to save Kate.
+|style# "height:186px; vertical-align:top"|Look[File:note4-darkroom-katedead.png](220px.md)
+|-|Read# [File:note4-darkroom-katedead2.png](220px.md)
+|-
+|**Monochrome photo of a drugged [Rachel Amber](rachel.md).**
+Location: Rachel's binder in the Dark Room.
+Max's comments: This picture is framed different. Rachel is awake and fucking furious.
+|style"height:186px; vertical-align:top"|Look# [File:note4-darkroom-rachelone.png](220px.md)
+|-|ReadNone
+|-
+|**Monochrome photo of a drugged Rachel #2.**
+Location: Rachel's binder in the Dark Room.
+Max's comments: Rachel has passed out and she has something in her mouth. What happened to her?
+|style# "height:186px; vertical-align:top"|Look[File:note4-darkroom-racheltwo.png](220px.md)
+|-|Read# None
+|-
+|**Monochrome photo of drugged Rachel and Nathan in the junkyard. **
+Location: Rachel's binder in the Dark Room.
+Max's comments: This shot is so staged, I can't believe it's real... I can't...
+Notes: Chloe uses this photo to determine Rachel's burial spot.
+|style"height:186px; 
+
+Generate five trivia questions relevant to this section of the page.

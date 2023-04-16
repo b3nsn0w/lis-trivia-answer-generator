@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who is responsible for drugging Max, Victoria, Kate, and Rachel in the Dark Room Conspiracy?",
+    "answer": "B",
+    "choices": {
+      "A": "Nathan Prescott",
+      "B": "Mark Jefferson",
+      "C": "Raymond Wells",
+      "D": "Frank Bowers"
+    }
+  },
+  {
+    "question": "Who is one of Max's adversaries who constantly belittles and makes fun of her?",
+    "answer": "B",
+    "choices": {
+      "A": "Taylor Christensen",
+      "B": "Victoria Chase",
+      "C": "Courtney Wagner",
+      "D": "Alyssa Anderson"
+    }
+  },
+  {
+    "question": "Who becomes enemies with Max after she takes the blame for Chloe's weed?",
+    "answer": "A",
+    "choices": {
+      "A": "David Madsen",
+      "B": "Frank Bowers",
+      "C": "Nathan Prescott",
+      "D": "Raymond Wells"
+    }
+  },
+  {
+    "question": "Who threatens Chloe and becomes enemies with Max after the incident in the junkyard in Episode 2?",
+    "answer": "C",
+    "choices": {
+      "A": "Nathan Prescott",
+      "B": "Mark Jefferson",
+      "C": "Frank Bowers",
+      "D": "Raymond Wells"
+    }
+  },
+  {
+    "question": "What happens to Alyssa Anderson if Max does not assist her in every episode?",
+    "answer": "A",
+    "choices": {
+      "A": "She becomes disappointed with Max for not helping her out",
+      "B": "She becomes Max's friend",
+      "C": "She saves Max from danger",
+      "D": "She becomes unable to start any conversation with Max"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Did Young Max And Chloe Spend All Day Painting?",
+    "answer": "B",
+    "choices": {
+      "A": "A Mural",
+      "B": "A Piece Of Furniture",
+      "C": "A Flip Phone",
+      "D": "A Movie Poster"
+    }
+  },
+  {
+    "question": "What Was One Of Max And Chloe's Favorite Video Games To Play Together?",
+    "answer": "C",
+    "choices": {
+      "A": "Call of Duty",
+      "B": "Minecraft",
+      "C": "Hawt Dawg Man",
+      "D": "Fortnite"
+    }
+  },
+  {
+    "question": "What Was The Name Of Chloe's Pet Cat?",
+    "answer": "A",
+    "choices": {
+      "A": "Bongo",
+      "B": "Whiskers",
+      "C": "Mittens",
+      "D": "Fluffy"
+    }
+  },
+  {
+    "question": "What Was The Theme Of The Town's Annual Halloween Parade?",
+    "answer": "A",
+    "choices": {
+      "A": "Pirates",
+      "B": "Superheroes",
+      "C": "Monsters",
+      "D": "Princesses"
+    }
+  },
+  {
+    "question": "What Did Max And Chloe Dress Up As When They Played Pirates?",
+    "answer": "D",
+    "choices": {
+      "A": "Ninjas",
+      "B": "Cowboys",
+      "C": "Knights",
+      "D": "Pirates"
+    }
+  }
+]

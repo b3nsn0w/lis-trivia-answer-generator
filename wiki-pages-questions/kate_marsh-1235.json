@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What Does Kate Play Every Morning?",
+    "answer": "D",
+    "choices": {
+      "A": "Guitar",
+      "B": "Drums",
+      "C": "Piano",
+      "D": "Violin"
+    }
+  },
+  {
+    "question": "What Did Nathan Prescott Do To Kate At The Vortex Club Party?",
+    "answer": "A",
+    "choices": {
+      "A": "He Drugged Her",
+      "B": "He Gave Her Alcohol",
+      "C": "He Took Her To The Hospital",
+      "D": "He Ignored Her"
+    }
+  },
+  {
+    "question": "Who Teased Kate About Her \"Porn Video\" In Jefferson's Classroom?",
+    "answer": "B",
+    "choices": {
+      "A": "Victoria Chase",
+      "B": "Taylor Christensen",
+      "C": "Alyssa Anderson",
+      "D": "Stella Hill"
+    }
+  }
+]

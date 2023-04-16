@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who originally wrote the song \"To All of You\"?",
+    "answer": "B",
+    "choices": {
+      "A": "Fan:Fan Music#Campusanis",
+      "B": "Syd Matters",
+      "C": "American girls",
+      "D": "The mountains"
+    }
+  },
+  {
+    "question": "Who performed the cover of \"To All of You\"?",
+    "answer": "C",
+    "choices": {
+      "A": "American girls",
+      "B": "Syd Matters",
+      "C": "Fan:Fan Music#Campusanis",
+      "D": "Plastic bodies"
+    }
+  },
+  {
+    "question": "When was the cover of \"To All of You\" released?",
+    "answer": "A",
+    "choices": {
+      "A": "October 15, 2017",
+      "B": "October 15, 2018",
+      "C": "October 15, 2019",
+      "D": "October 15, 2020"
+    }
+  },
+  {
+    "question": "What is the song \"To All of You\" inspired by?",
+    "answer": "C",
+    "choices": {
+      "A": "A movie",
+      "B": "A book",
+      "C": "A video game",
+      "D": "A TV show"
+    }
+  },
+  {
+    "question": "What does the singer wish for in the second verse of the song?",
+    "answer": "B",
+    "choices": {
+      "A": "To be part of the world around American girls",
+      "B": "To have an American girlfriend",
+      "C": "To drive a car by the seaside",
+      "D": "To watch the world from the bright side"
+    }
+  }
+]

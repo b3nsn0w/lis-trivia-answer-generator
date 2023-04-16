@@ -1,0 +1,42 @@
+[
+  {
+    "question": "How Does Max Escape The Dark Room?",
+    "answer": "A",
+    "choices": {
+      "A": "By Rewinding Time",
+      "B": "By Breaking The Chair",
+      "C": "By Calling For Help",
+      "D": "By Picking The Lock"
+    }
+  },
+  {
+    "question": "What Is Mr. Jefferson Obsessed With?",
+    "answer": "A",
+    "choices": {
+      "A": "The Idea Of Innocence",
+      "B": "The Color Blue",
+      "C": "The Concept Of Time",
+      "D": "The Beauty Of Nature"
+    }
+  },
+  {
+    "question": "What Is Mr. Jefferson's Plan To Cover Up His Actions?",
+    "answer": "A",
+    "choices": {
+      "A": "Blame Nathan",
+      "B": "Blame Victoria",
+      "C": "Blame David Madsen",
+      "D": "Blame Max"
+    }
+  },
+  {
+    "question": "What Happens To Nathan At The End Of The Episode?",
+    "answer": "C",
+    "choices": {
+      "A": "He Is Arrested",
+      "B": "He Escapes",
+      "C": "He Commits Suicide",
+      "D": "He Is Kidnapped By Mr. Jefferson"
+    }
+  }
+]

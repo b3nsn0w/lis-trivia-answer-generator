@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Happens If Max Tells Mr. Jefferson About David's Confrontation With Kate?",
+    "answer": "A",
+    "choices": {
+      "A": "Wells Will Defend Max",
+      "B": "Wells Will Defend David",
+      "C": "Wells Will Suspend Max",
+      "D": "Wells Will Suspend David"
+    }
+  },
+  {
+    "question": "What Happens If Max Saves Kate's Life?",
+    "answer": "A",
+    "choices": {
+      "A": "Principal Wells Calls Max A Hero",
+      "B": "Officer Berry Is Present In Wells' Office",
+      "C": "Max And Warren's Conversation Is Gloomy",
+      "D": "Kate's Door Is Covered In Crime Scene Tape"
+    }
+  },
+  {
+    "question": "What Happens If Kate Commits Suicide?",
+    "answer": "A",
+    "choices": {
+      "A": "A Memorial Is Shown In The Final Cutscene",
+      "B": "Officer Berry Is Not Present In Wells' Office",
+      "C": "Max And Warren's Conversation Is Upbeat",
+      "D": "Messages Of Support Are Written On The Mirror"
+    }
+  },
+  {
+    "question": "What Happens In Max's Nightmare In The Classroom Scene If Kate Commits Suicide?",
+    "answer": "A",
+    "choices": {
+      "A": "Kate's Place Is Spattered With Blood",
+      "B": "Kate Accuses Max Of Letting Her Die",
+      "C": "Kate Asks Max Not To Kill Her",
+      "D": "Kate Asks Max To Save Her"
+    }
+  },
+  {
+    "question": "What Happens In Max's Nightmare In The Girls' Dormitories Scene If Kate Commits Suicide?",
+    "answer": "A",
+    "choices": {
+      "A": "Kate Accuses Max Of Making Sure She Would Never Be Alone Again",
+      "B": "Kate Asks Max Not To Let Her Die",
+      "C": "Kate Asks Max To Save Her",
+      "D": "Kate Asks Max To Have A Tea Session"
+    }
+  }
+]

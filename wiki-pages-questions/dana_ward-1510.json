@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Dana's Relationship Status In Episode One?",
+    "answer": "B",
+    "choices": {
+      "A": "Single",
+      "B": "Dating Logan",
+      "C": "Dating Trevor",
+      "D": "It Is Not Mentioned"
+    }
+  },
+  {
+    "question": "What Does Dana Borrow From Warren In Episode One?",
+    "answer": "C",
+    "choices": {
+      "A": "His Phone",
+      "B": "His Car",
+      "C": "His Flash Drive",
+      "D": "His Jacket"
+    }
+  },
+  {
+    "question": "Who Accuses Dana Of Sexting Juliet's Boyfriend?",
+    "answer": "A",
+    "choices": {
+      "A": "Victoria Chase",
+      "B": "Zachary Riggins",
+      "C": "Justin Williams",
+      "D": "Mark Jefferson"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Doctor Mentioned In Dana's Clinic Note?",
+    "answer": "A",
+    "choices": {
+      "A": "Dr. Bill",
+      "B": "Dr. Smith",
+      "C": "Dr. Johnson",
+      "D": "Dr. Brown"
+    }
+  },
+  {
+    "question": "What Is The Date Of Dana's Doctor's Appointment?",
+    "answer": "B",
+    "choices": {
+      "A": "October 1st",
+      "B": "October 2nd",
+      "C": "October 3rd",
+      "D": "October 4th"
+    }
+  }
+]

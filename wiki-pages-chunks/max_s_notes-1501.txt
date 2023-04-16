@@ -1,0 +1,84 @@
+Here is a section of the wiki page for Max's Notes:
+
+**Kate alive: **It's amazing how happy Kate looks here compared to today... She was basically pushed up to that roof. And I will use my power to find out why. This has to end.**Kate dead: **Kate—I swear that I will use all of my power to find out who really pushed you off that roof...
+|style# "height:186px; vertical-align:top"|Look[File:note3-maxroom-classphoto.png](220px.md)
+|-|Read# None
+|-
+|'''Black and white photo with Max's face.'''
+Location: On Max's bed in her room.
+Max's comments: Ew, thanks for the image, Nathan... and everybody here thinks Samuel is a creeper...
+Notes: Appears only if Max reported Nathan in Episode 1.
+|style"height:186px; vertical-align:top"|Look# [File:note2-maxroom-blackphoto.png](220px.md)
+|-|ReadNone
+|-
+|**Photo of David harassing Kate.**
+Location: On a drawer inside Max's room.
+Max's comments: I'm such an idiot, Kate. I could have shown this to the Principal and busted David... I could have...
+Notes: Appears only if Max took the photo in Episode 1.
+|style# "height:186px; vertical-align:top"|Look[File:David-harassing-kate.png](220px.md)
+|-|Read# None
+|-
+|**End of the World Party poster.**
+Location: Notice board in the dormitory hallway.
+Max's comments: The end of the world might be coming before your party...
+|style"height:186px; vertical-align:top"|Look# [File:note3-dorms-partyposter.png](220px.md)
+|-|ReadNone
+|-
+|**Vortex Club poster.**
+Location: Near the bathroom door in the dormitory hallway.
+Max's comments: I bet you'll party like it's 1999, assholes.
+|style# "height:186px; vertical-align:top"|Look[File:note3-dorms-vortexposter.png](220px.md)
+|-|Read# None
+|-
+|'''Logan's letter to Dana.'''
+Location: Inside the trash can in Dana's room.
+Max's comments: This is both sad, and pathetic.
+|style"height:186px; vertical-align:top"|Look# [File:note3-danaroom-loganpaper.png](220px.md)
+|-|Read[File:note3-danaroom-loganpaper2.png](220px.md)
+|-
+|**Email from Trevor to Dana**
+Location: Dana's computer in her room.
+Max's comments: Awww, Trevor is a sweetie. Good for Dana.
+Notes: This appears if Max failed to save Kate.
+|style# "height:186px; vertical-align:top"|Look[File:note3-danaroom-trevormail-dead.png](220px.md)
+|-|Read# [File:note3-danaroom-trevormail-dead2.png](220px.md)
+|-
+|**Email from Trevor to Dana**
+Location: Dana's computer in her room.
+Max's comments: Awww, Trevor is a sweetie. Good for Dana.
+Notes: This appears if Max saved Kate.
+|style"height:186px; vertical-align:top"|Look# [File:note3-danaroom-trevormail-alive.png](220px.md)
+|-|Read[File:note3-danaroom-trevormail-alive2.png](220px.md)
+|-
+|**Email from Juliet to Dana.**
+Location: Dana's computer in her room.
+Max's comments: If Dana talks to Juliet about this... She's going to wish she didn't.
+Notes: This appears if Max failed to save Kate.
+|style# "height:186px; vertical-align:top"|Look[File:note3-danaroom-julietmail-dead.png](220px.md)
+|-|Read# [File:note3-danaroom-julietmail-dead2.png](220px.md)
+|-
+|**Email from Juliet to Dana.**
+Location: Dana's computer in her room.
+Max's comments: If Dana talks to Juliet about this... She's going to wish she didn't.
+Notes: This appears if Max saved Kate.
+|style"height:186px; vertical-align:top"|Look# [File:note3-danaroom-julietmail-alive.png](220px.md)
+|-|Read[File:note3-danaroom-julietmail-alive2.png](220px.md)
+|-
+|**Abstinence poster.**
+Location: Shower room inside the the dormitories.
+Max's comments: **Kate alive: **Kate probably won't want to look at these posters when she comes back...**Kate dead: **Nobody can blame this poster for Kate's death...
+|style# "height:186px; vertical-align:top"|Look[File:note3-shower-abstinence-dead.png](220px.md)
+|-|Read# [File:note3-shower-abstinenece-dead2.png](220px.md)
+|-
+|'''Victoria's essay.'''
+Location: Inside Victoria's bag in her room.
+Max's comments: A "unique point of view" is right. Thanks to Courtney Wagner ghostwriting this paper.
+|style"height:186px; vertical-align:top"|Look# [File:note3-vicroom-essay.png](220px.md)
+|-|Read[File:note3-vicroom-essay2.png](220px.md)
+|-
+|**Photo of Victoria and Nathan.**
+Location: Inside a drawer in Victoria's room.
+Max's comments: Here they are getting loaded with Satan...
+|style# "height:186px; 
+
+Generate five trivia questions relevant to this section of the page.

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Name Of Chloe's Plush Toy That She Buried In Her Backyard With Max?",
+    "answer": "B",
+    "choices": {
+      "A": "Mr. Sharkie",
+      "B": "Billy The Squid",
+      "C": "Griffin",
+      "D": "Calico Jack"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Choose Your Own Adventure Book That Max And Chloe Created?",
+    "answer": "B",
+    "choices": {
+      "A": "Max And Chloe's Treasure Hunt",
+      "B": "Max And Chloe's Sewer Adventure",
+      "C": "Max And Chloe's Pirate Quest",
+      "D": "Max And Chloe's Time Travel Adventure"
+    }
+  },
+  {
+    "question": "What Was Chloe's Reason For Keeping Her Old School Supplies And Textbooks?",
+    "answer": "B",
+    "choices": {
+      "A": "She Was A Nerd",
+      "B": "She Was Sentimental",
+      "C": "She Wanted To Impress Max",
+      "D": "She Wanted To Sell Them Later"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Girl That Chloe Was Not Getting Along With At Blackwell Academy?",
+    "answer": "D",
+    "choices": {
+      "A": "Rachel Amber",
+      "B": "Victoria Chase",
+      "C": "Kate Marsh",
+      "D": "Marisa Rogers"
+    }
+  },
+  {
+    "question": "What Is The Name Of Chloe's Beloved Childhood Plush Toy?",
+    "answer": "B",
+    "choices": {
+      "A": "Billy The Squid",
+      "B": "Mr. Sharkie",
+      "C": "Bongo",
+      "D": "Griffin"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Does Chloe Accuse Max Of Being?",
+    "answer": "A",
+    "choices": {
+      "A": "A Wallflower",
+      "B": "A Party Animal",
+      "C": "A Photographer",
+      "D": "A Confused Adult"
+    }
+  },
+  {
+    "question": "How Does Max Describe Her Relationship With The World?",
+    "answer": "B",
+    "choices": {
+      "A": "She Likes To Participate In It",
+      "B": "She Observes It More Than Participates",
+      "C": "She Hates It",
+      "D": "She Is Scared Of It"
+    }
+  },
+  {
+    "question": "What Does Chloe Say She Would Do To Ravers At A Club?",
+    "answer": "C",
+    "choices": {
+      "A": "Take Their Photos",
+      "B": "Dance With Them",
+      "C": "Dose Them With Drugs",
+      "D": "Ignore Them"
+    }
+  },
+  {
+    "question": "What Does Max Say Makes Her Happiest?",
+    "answer": "B",
+    "choices": {
+      "A": "Being Alone",
+      "B": "Having A Great Image In Her Lens",
+      "C": "Going To Parties",
+      "D": "Being With Friends"
+    }
+  }
+]

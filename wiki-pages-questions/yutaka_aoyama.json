@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who is Yutaka Aoyama?",
+    "answer": "A",
+    "choices": {
+      "A": "A Japanese voice actor",
+      "B": "A character in Life is Strange",
+      "C": "A game developer",
+      "D": "A musician"
+    }
+  },
+  {
+    "question": "Which character did Yutaka Aoyama voice in the Japanese release of Life is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "Max Caulfield",
+      "B": "Chloe Price",
+      "C": "Samuel Taylor",
+      "D": "Nathan Prescott"
+    }
+  },
+  {
+    "question": "What is the Japanese name for Samuel Taylor in Life is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "Max Caulfield",
+      "B": "Chloe Price",
+      "C": "Samuel Taylor",
+      "D": "Nathan Prescott"
+    }
+  },
+  {
+    "question": "Which version of Life is Strange did Yutaka Aoyama provide his voice for?",
+    "answer": "C",
+    "choices": {
+      "A": "The English release",
+      "B": "The French release",
+      "C": "The Japanese release",
+      "D": "The German release"
+    }
+  }
+]

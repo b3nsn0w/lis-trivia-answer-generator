@@ -1,0 +1,107 @@
+Here is a section of the wiki page for Game Statistics (Life is Strange):
+
+## **Minor Choices** 
+{|style"width:100%; background-color:transparent" class# "article-table"
+| valign"top" |
+**David**
+* David got a scar during the fight. - **96%**
+* David didn't get a scar during the fight. - 4%
+|[File:minorchoice-e5-davidscar.png](thumb.md)
+|-
+| valign# "top" |
+**Mark Jefferson**
+* David killed Jefferson. - 45%
+* David didn't kill Jefferson. - **55%**
+|style"padding-right:100px"|[File:minorchoice-e5-jefferson.png](thumb.md)
+|-
+| valign# "top" |
+**The Trucker**
+* You saved the trucker. - **60%**
+* You didn't save the trucker. - 40%
+|[File:minorchoice-e5-trucker.png](thumb.md)
+|-
+| valign"top" |
+**Evan**
+* You saved Evan. - **63%**
+* You didn't save Evan. - 37%
+|style# "padding-right:100px"|[File:minorchoice-e5-evan.png](thumb.md)
+|-
+| valign"top" |
+**Alyssa**
+* You saved Alyssa. - **64%**
+* You didn't save Alyssa. - 36%
+|[File:minorchoice-e5-alyssa.png](thumb.md)
+|-
+| valign# "top" |
+**The Fisherman**
+* You saved the fisherman. - **72%**
+* You didn't save the fisherman. - 28%
+|style"padding-right:100px"|[File:minorchoice-e5-fisherman.png](thumb.md)
+|-
+| valign# "top" |
+**Joyce**
+* You helped Joyce believe in David again. - 34%
+* You didn't change Joyce's mind about David. - **66%**
+|[File:minorchoice-e5-joyce.png](thumb.md)
+|-
+| valign"top" |
+**Frank**
+* You told the truth about Rachel to Frank. - **64%**
+* You didn't tell the truth about Rachel to Frank. - 36%
+|style# "padding-right:100px"|[File:minorchoice-e5-franktruth.png](thumb.md)
+|-
+| valign"top" |
+**Warren**
+* You kissed Warren. - **67%**
+* You didn't show Warren any affection. - 5%
+* You hugged Warren. - 28%
+|[File:minorchoice-e5-warren.png](thumb.md)
+|}
+
+ Game Statistics (Life is Strange) # 
+
+[File:This action will have consequences-0.png](centre.md)
+
+The **game statistics** are the combined percentages of choices made by all PC/Steam players and are displayed after completing an episode. They can be filtered globally or by friends.
+
+: *Click [Game Statistics/Playstation](here.md) for the PlayStation game statistics and click [Game Statistics/Xbox](here.md) for the Xbox game statistics.*
+
+: *The stats were last updated on **May 2, 2021.***
+
+## Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+#
+
+## **Major Choices** 
+{|style"width:100%; background-color:transparent" class# "article-table"
+| valign"top" |
+**Principal Wells**
+* You reported Nathan. - **62%**
+* You hid the truth. - 38%
+|style# "padding-right:100px"|[File:TX_MajorChoice_Nathan.png](right.md)
+|-
+| valign"top" |
+'''Victoria's Outfit**
+* You made fun of Victoria. - 26%
+* You comforted Victoria. - **74%**
+|[File:TX MajorChoice Victoria.png](thumb.md)
+|-
+| valign# "top" |
+**David and Kate**
+* You took a photo of David harassing Kate. - 16%
+* You intervened to help out Kate. - **84%**
+|style"padding-right:100px"|[File:TX_MajorChoice_Kate.png](thumb.md)
+|-
+| valign# "top" |
+**Chloe's Pot**
+*You took the blame for Chloe. - 29%
+* You blamed Chloe. - 1%
+* You stayed hidden. - **36%**
+* You came out of hiding to intervene. - 34%
+|[File:TX MajorChoice David.png](thumb.md)
+|}
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

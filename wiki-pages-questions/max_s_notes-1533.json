@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Where Was The Photo Of Young Chloe And Max Found?",
+    "answer": "A",
+    "choices": {
+      "A": "Picture Box Inside Chloe's Room",
+      "B": "Pocket Of Chloe's Coat",
+      "C": "Nightstand Near Chloe's Bed",
+      "D": "Desk Inside Chloe's Room"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Newspaper Mentioned In Max's Notes?",
+    "answer": "B",
+    "choices": {
+      "A": "The Daily Bugle",
+      "B": "The Independent",
+      "C": "The Times",
+      "D": "The Post"
+    }
+  },
+  {
+    "question": "Where Was Chloe's Hair Dye Found?",
+    "answer": "A",
+    "choices": {
+      "A": "Cabinet Inside The Bathroom Of Madsen Household",
+      "B": "Nightstand Near Chloe's Bed",
+      "C": "Picture Box Inside Chloe's Room",
+      "D": "Desk Inside Chloe's Room"
+    }
+  }
+]

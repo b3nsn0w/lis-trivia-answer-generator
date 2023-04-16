@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who is Nathan Prescott and what is Max's opinion of him?",
+    "answer": "B",
+    "choices": {
+      "A": "A student at Blackwell Academy who Max feels sorry for",
+      "B": "A student at Blackwell Academy who Max thinks is an asshole",
+      "C": "A teacher at Blackwell Academy who Max is suspicious of",
+      "D": "A security guard at Blackwell Academy who Max thinks is the biggest ass"
+    }
+  },
+  {
+    "question": "What does Max think of Principal Wells and why is she nervous around him?",
+    "answer": "B",
+    "choices": {
+      "A": "She thinks he is nice and wants to become a great photographer like her",
+      "B": "She thinks he is suspicious of her and has power over her scholarship",
+      "C": "She thinks he is stressed out and smells like alcohol",
+      "D": "She thinks he is a good friend and shares her interests"
+    }
+  },
+  {
+    "question": "Who is Warren and what does he share with Max?",
+    "answer": "C",
+    "choices": {
+      "A": "A security guard at Blackwell Academy who Max thinks is the biggest ass",
+      "B": "A student at Blackwell Academy who Max thinks is an asshole",
+      "C": "A friend who loves science and appreciates great photography",
+      "D": "A rebel with blue hair and punk clothes who is mixed up with Nathan Prescott's shit"
+    }
+  },
+  {
+    "question": "Who is Chloe Price and what is Max's relationship with her?",
+    "answer": "A",
+    "choices": {
+      "A": "Max's best friend who she saved in a bathroom and hasn't stayed in touch with",
+      "B": "Max's teacher who she is suspicious of",
+      "C": "Max's mother who she bantered with at Two Whales Diner",
+      "D": "Max's enemy who she is trying to avoid at Blackwell Academy"
+    }
+  },
+  {
+    "question": "What is Max's opinion of David, the security guard at Blackwell Academy?",
+    "answer": "D",
+    "choices": {
+      "A": "She thinks he treats everybody like they've committed a crime or they're about to commit one",
+      "B": "She thinks he is a good portrait of authority",
+      "C": "She feels sorry for his family for having to live with him",
+      "D": "All of the above"
+    }
+  }
+]

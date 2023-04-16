@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Where is Sav-Mart located?",
+    "answer": "A",
+    "choices": {
+      "A": "In Arcadia Bay",
+      "B": "In Seattle",
+      "C": "In Portland",
+      "D": "In San Francisco"
+    }
+  },
+  {
+    "question": "Who died in a car crash on his way to pick up his wife from Sav-Mart?",
+    "answer": "B",
+    "choices": {
+      "A": "Joyce Price",
+      "B": "William Price",
+      "C": "Chloe Price",
+      "D": "Max Caulfield"
+    }
+  },
+  {
+    "question": "What kind of store is Sav-Mart?",
+    "answer": "A",
+    "choices": {
+      "A": "A local supermarket",
+      "B": "A clothing store",
+      "C": "A hardware store",
+      "D": "A bookstore"
+    }
+  },
+  {
+    "question": "When did William Price die on his way to Sav-Mart?",
+    "answer": "A",
+    "choices": {
+      "A": "In 2008",
+      "B": "In 2010",
+      "C": "In 2012",
+      "D": "In 2014"
+    }
+  },
+  {
+    "question": "Who was William Price going to pick up from Sav-Mart?",
+    "answer": "C",
+    "choices": {
+      "A": "His daughter",
+      "B": "His son",
+      "C": "His wife",
+      "D": "His friend"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "In Which Episodes Of Life Is Strange Does The Truck Driver Appear?",
+    "answer": "B",
+    "choices": {
+      "A": "Episodes 1 and 4",
+      "B": "Episodes 2 and 3",
+      "C": "Episodes 2 and 5",
+      "D": "Episodes 3 and 5"
+    }
+  },
+  {
+    "question": "What Does The Truck Driver Complain About When Chloe Chooses Music On The Jukebox?",
+    "answer": "C",
+    "choices": {
+      "A": "Lack Of Beer Being Served",
+      "B": "Lack Of Food Options",
+      "C": "Lack Of Good Music",
+      "D": "Lack Of Cleanliness"
+    }
+  },
+  {
+    "question": "What Does The Truck Driver Reveal To Max About Rachel Amber?",
+    "answer": "B",
+    "choices": {
+      "A": "She Stole His Truck",
+      "B": "She Asked Him For A Ride Out Of The City",
+      "C": "She Was His Cousin",
+      "D": "She Was His Boss"
+    }
+  },
+  {
+    "question": "What Happens To The Truck Driver In The Sacrifice Arcadia Bay Ending?",
+    "answer": "B",
+    "choices": {
+      "A": "He Survives",
+      "B": "He Dies",
+      "C": "It Is Not Specified",
+      "D": "He Leaves Town"
+    }
+  }
+]

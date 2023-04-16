@@ -1,0 +1,91 @@
+= Concept Art (Life is Strange) =
+
+{{Free Tab
+|minwidth = 29%
+|maxwidth = 100%
+|borderradius = 2
+|height = 2
+|tab1 = Life is Strange |link1=Concept Art (Life is Strange)
+|tab2 = Before the Storm |link2=Concept Art (Before the Storm)
+|tab4 = Life is Strange 2 |link4=Concept Art (Life is Strange 2)
+}}
+
+
+This page contains '''concept artwork''' of the original ''[[Life is Strange]]'' developed by [[Don't Nod]]. The game's [[Limited Edition (Life is Strange)|Limited Edition (Life is Strange)|Limited Edition]] contained an artbook featuring various concepts.
+
+''[[Limited Edition (Life is Strange)|Limited Edition#Gallery|Click here to view the Limited Edition artbook]].''
+
+== Concept Artists ==
+*[[Fred Augis]] released concept art of some [[:Category:Major Characters|major characters]], [[Fred Augis#Concept Art|''click here to view it'']].
+*[[Florent Auguy]] released concept art of the [[Timestream|timestream]] montages, [[Florent Auguy#Illustrations|''click here to view it'']].
+*[[Gary Jamroz-Palma]] released concept art of [[Blackwell Academy]], [[Zeitgeist Gallery]] and the [[Hospital]], [[Gary_Jamroz-Palma#Concept Art|''click here to view it'']].
+*[[Edouard Caplain]] released concept art of the [[Madsen Household]], [[Blackwell Academy]] (outside only) and other locations in [[Arcadia Bay]], [[Edouard Caplain#Concept Art|''click here to view it'']].
+*[[Michel Koch]] provided some initial character art, [[Michel_Koch#Concept_Art|''click here to view it'']].
+
+== Characters ==
+TBC
+
+== Locations ==
+TBC
+
+== Objects ==
+TBC
+
+== Concept Art Released by Feral Interactive ==
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="200" captionalign="center" position="center">
+Blackewll_Academy_Corridor_concept.jpg|[[Blackwell Academy]] corridor.
+Blackwell Academy campus concept.jpg|Blackwell Academy campus.
+Blackwell_Academys_Hall_of_Fame_concept.jpg|Blackwell Academy's Hall of Fame.
+Blackwell_Academy_Classroom2.jpg|Blackwell Academy classroom concept.
+Blackwell_Academy_Classroom_concept.jpg|Blackwell Academy classroom.
+Edouard-caplain-football-bigfoots.jpg|Blackwell playing field.
+Dorm Concept Art.png|[[Prescott Dormitory|Blackwell dorm]].
+Dorm_room_with_bunk_beds_concept.jpg|Dorm room with bunk beds.
+Dorm_room_concept.jpg|Dorm room.
+Victoria_bedroom_concept_art.jpg|[[Victoria's Room|Victoria's dorm room]].
+Dorm_corridor_concept.jpg|Dorm corridor.
+Max_bedroom_concept-1.jpg|[[Max's Room|Max's dorm room]] #1.
+Max%27s_Room_Concept_Art.jpg|Max's dorm room #2.
+Chloes_house-landing-concept.jpg|[[Madsen Household|Chloe's house:]] landing.
+Edouard-caplain-chloesroom-hd.jpg|Chloe's house: [[Chloe's Room|room]].
+Chloes_house-garage-concept.jpg|Chloe's house: [[David's Garage|garage]].
+Chloe's_garage_concept.jpg|[[Alternative Price Garage|Chloe's garage room]] (Alternative Timeline).
+28_-_oQsEtI0.jpg|[[Farmhouse]].
+Edouard-caplain-junkyard5.jpg|Chloe and Max in the [[American Rust Junkyard|junkyard]].
+Train_Tracks-concept.jpg|Chloe and Max on the [[Train Tracks|train tracks]].
+Cliff beach.png|[[Beach|The beach]].
+Edouard-caplain-cliff-hd.jpg|Max's vision in "[[Episode 1: Chrysalis|Chrysalis]]".
+Cliff_Footpath-concept.jpg|Cliff footpath.
+Lighthouse-concept.jpg|The [[Lighthouse|lighthouse]].
+Edouard-caplain-cliff-top-hd.jpg|Cliff at the lighthouse.
+Edouard-caplain-tornado14-hd.jpg|[[Storm|The storm]] in "[[Episode 5: Polarized|Polarized]]".
+Dark_Room_Door-concept.jpg|[[Dark Room (Location)|Dark Room]] concept.
+Garyjamrozpalma-conceptart-darkroomblack.jpg|Dark Room concept.
+</gallery>
+
+== Trivia ==
+*When [[Maxine Caulfield|Max Caulfield]] attempts to fix her broken camera in [[Chloe's Room|Chloe's room]] in Episode 1, "[[Episode 1: Chrysalis|Chrysalis]]", there are a number of polaroids visible on the desk. One of these looks very similar to the box/cover art of ''Life is Strange''. It is not obvious in the game itself, as Max's broken camera slightly obscures this particular photo, but the game files reveal the full image.
+<gallery hideaddbutton="true" widths="200" captionalign="center" bordersize="none" position="center">
+cover-art-polaroid.PNG|Texture and the ingame appearance
+Max concept art.jpg|Cover art
+</gallery>
+* In early concept art for Max's room that was uploaded to the Feral Interactive [https://www.feralinteractive.com/en/games/lifeisstrange/ website], Max appeared to have an environmentally conscious roommate. A poster that appears in Victoria's room in the game can be seen under the bunk (a bird with paint drips), but concept art for Victoria's room also exists, so this roommate may not have been Victoria, or it could have been an early idea for her.
+<gallery widths="280" hideaddbutton="true" bordercolor="transparent" position="center">
+LiS1-Max_room-Feralconceptart1.png
+LiS1-Max_room-Feralconceptart1a.png
+</gallery>
+*Early concept art for Chloe Price shows her with a different tattoo sleeve design and a rainbow on her vest.
+<gallery hideaddbutton="true" widths="200" captionalign="center" bordersize="none" position="center">
+Chloe_Rainbow_Tee.png|Early tattoo and vest design (concept art by Michel Koch).
+Chloe_Rainbow_Tee_cropped.png|Close up of the early tattoo and vest design (concept art by Michel Koch).
+</gallery>
+
+== Resources ==
+*{{Wiki|Feral Interactive}} released several pieces of concept art around the time of the Mac and Linux port release in June 2016.<ref>[https://www.feralinteractive.com/en/games/lifeisstrange/extras/ Feral Interactive Life is Strange development page]</ref><ref>[https://imgur.com/a/NIehB Imgur album]</ref>
+
+== References ==
+<references/>
+
+[[Category:Behind the Scenes]]
+[[Category:Concept Artists]]
+[[Category:Life is Strange]]

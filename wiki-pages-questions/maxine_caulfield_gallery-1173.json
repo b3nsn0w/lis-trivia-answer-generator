@@ -1,0 +1,52 @@
+[
+  {
+    "question": "In Which Episode Does Max Meet Chloe?",
+    "answer": "C",
+    "choices": {
+      "A": "Episode One",
+      "B": "Episode Two",
+      "C": "Episode Three",
+      "D": "Episode Four"
+    }
+  },
+  {
+    "question": "What Is Max Doing When She Enters The Polarized Timeline?",
+    "answer": "B",
+    "choices": {
+      "A": "Sleeping",
+      "B": "Taking A Photo",
+      "C": "Talking To Principal Wells",
+      "D": "Investigating David's Laptop"
+    }
+  },
+  {
+    "question": "In Which Episode Does Max Investigate David's Laptop?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode Two",
+      "B": "Episode Three",
+      "C": "Episode Four",
+      "D": "Episode Five"
+    }
+  },
+  {
+    "question": "What Is Max Doing When She Takes The Morning Selfie With Chloe?",
+    "answer": "A",
+    "choices": {
+      "A": "Eating Breakfast",
+      "B": "Waiting For Breakfast",
+      "C": "Talking With Joyce",
+      "D": "On The Swing"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Diner Max And Chloe Visit?",
+    "answer": "A",
+    "choices": {
+      "A": "Two Whales",
+      "B": "Three Bears",
+      "C": "Four Lions",
+      "D": "Five Monkeys"
+    }
+  }
+]

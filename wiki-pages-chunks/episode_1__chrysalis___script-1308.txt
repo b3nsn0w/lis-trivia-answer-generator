@@ -1,0 +1,122 @@
+Here is a section of the wiki page for Episode 1: Chrysalis - Script:
+
+## **Optional Conversation with [Michelle Grant](ms__grant.md)**
+
+**Max:** Hi, Ms. Grant.
+
+**Ms. Grant:** Excuse me, Max? I know everybody loves being asked to sign a petition, but would you do Ms. Grant a favor and hear me out?
+
+Sure.# Sure.
+
+**Max:** Sure, I always have time for you. What's the petition?
+
+**Ms. Grant:** David Madsen, our chief of security, wants to put surveillance cameras all around the campus. Halls, classrooms, gym, dorm rooms, et cetera. Blackwell Academy should be a high school, not a high security penitentiary.
+
+{{#tag:tabber|David Madsen.David Madsen.
+
+**Max:** David Madsen doesn't need another excuse to harass students here...
+
+**Ms. Grant:** Max, this isn't about personalities. This is about protecting civil rights and our school's legacy of freedom.
+
+{{!}}-{{!}}That's crazy.# That's crazy.
+
+**Max:** That's crazy. I get why schools should be on high alert these days, but cameras in the dorm rooms?
+
+**Ms. Grant:** It's a slippery slope. And it's up to you and your classmates to stand up here.
+
+{{!}}-{{!}}It could have helped Rachel.It could have helped Rachel.
+
+**Max:** I guess cameras could have helped Rachel. I can see both sides.
+
+**Ms. Grant:** You're fair-minded, Max. And we all pray Rachel is found safe and sound, bless her soul. But this petition isn't about her.
+
+}}
+
+**Ms. Grant:** Blackwell Academy has a noble heritage, from the Native Americans who founded this land, to the pioneers who shared it in peace, not fear and violence.
+
+{{#tag:tabber|The Native Americans?# The Native Americans?
+
+**Max:** The Native Americans?
+
+**Ms. Grant:** The tribes who were here first, who welcomed the settlers. Both cultures found a mutual symbiosis and thrived.
+
+{{!}}-{{!}}Blackwell is that old?Blackwell is that old?
+
+**Max:** Blackwell is that old? That's incredible.
+
+**Ms. Grant:** You should learn a little history about your alma mater. You'll find some fascinating facts. There's a lot of power in this region. I think it helps the creative juices flow around here...
+
+{{!}}-{{!}}You know a lot.# You know a lot.
+
+**Max:** You know a lot about Blackwell for being the science teacher.
+
+**Ms. Grant:** Science is history, Max. And I have a secret wish to teach local lore and legends. There's a lot of unique facts about this place you might really enjoy discovering.
+
+}}
+
+**Ms. Grant:** Now before I assign you homework with this lecture, will you please sign the petition to keep our campus from going back to 1984?
+
+{{#tag:tabber|Sign.Sign.
+
+**Max:** Absolutely. I don't mind security, but not...pure surveillance.
+
+**Ms. Grant:** I knew you were my favorite new student at Blackwell for a good reason.
+
+{{!}}-{{!}}Don't Sign.# Don't Sign.
+
+**Max:** Ms. Grant, I totally respect your passion and knowledge, but some security cameras make me feel a little safer.
+
+**Ms. Grant:** I'm not against security, Max. We should all be concerned when private space becomes public. Your generation has been tricked to think everything should be recorded.
+
+}}
+
+|-|No.No.
+
+**Max:** Well, I'm kind of in a rush now, I don't really have the time...
+
+**Ms. Grant:** Too bad. Serious things are taking place at Blackwell and they affect you most of all. Come back and see me when you do have time, promise?
+
+# #
+
+## **Optional Conversation with Brooke**
+**Max:** Hi, Brooke.
+
+**Brooke:** Let me guess... You want to fly my drone?
+
+I'd love to.# I'd love to.
+
+**Max:** I'd love to! I love planes and balloons and—
+
+**Brooke:** This is neither. Do you know what a drone really is?
+
+**Max:** A weapon, right?
+
+**Brooke:** Uh, you read too many conspiracy sites. This might be too complicated for you. Funny, [Warren Graham](warren.md) said you were smart. Please, step back.
+
+|-|Is this legal?Is this legal?
+
+**Max:** Is that really yours? Is that even legal?
+
+**Brooke:** Of course. Nobody knows about it yet.
+
+**Max:** Isn't it considered a weapon of war?
+
+**Brooke:** Uh, you read too many conspiracy sites. This might be too complicated for you. Funny, [Warren Graham](warren.md) said you were smart. Please, step back.
+
+|-|That's a HiFly drone. (after rewind)# That's a HiFly drone. (after rewind)
+
+**Max:** That looks like a HiFly drone, model...B400 EVO? Now that's a nice piece of tech.
+
+**Brooke:** You're full of surprises. Why would you know that?
+
+**Max:** I love aerial photography. Drones are perfect for that, especially those with great range. It's a new era of images.
+
+**Brooke:** Most impressive, Max. [Warren Graham](warren.md) said you were multi-faceted. Here, give the drone a whirl around campus.
+
+*Max flies the drone around for a while before returning the controller to Brooke.*
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

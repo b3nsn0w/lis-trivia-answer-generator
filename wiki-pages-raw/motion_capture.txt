@@ -1,0 +1,43 @@
+= Motion Capture =
+
+{{Free Tab
+|minwidth = 47%
+|maxwidth = 100%
+|borderradius = 2
+|height = 2
+|tab1=Life is Strange |link1=Motion Capture
+|tab2=Before the Storm |link2=Motion Capture (Before the Storm)
+}}
+{{Stub}}
+'''Motion Capture''' technology was actively used in ''[[Life is Strange]]''.
+
+== Overview ==
+The motion capture for ''Life is Strange'' was realized by a French company called [http://www.mocaplab.com/projects/dont-nod-life-is-strange/ Mocaplab]. The whole process took only four days, equivalent of a feature film shoot.
+
+The motion capture was used to help in animating the two main characters [[Maxine Caulfield|Max Caulfield]] and [[Chloe Price]], and a few others like [[Nathan Prescott]] or [[Warren Graham]].
+
+Max's motion capture actress was [http://www.imdb.com/name/nm6002849/ Serena de Mouroux] while the actress playing Chloe was [http://www.imdb.com/name/nm4787948/ Gabrielle Hersh].
+
+== Gallery ==
+<gallery widths="200" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+File:Motion.jpg|Max and Chloe's actresses
+File:Motion team.jpg|Dontnod's team with the motion capture actresses
+File:Motion Capture Actors LiS.jpg
+File:Car motion.jpg|The scene when Max drives Jefferson's car
+File:Comparison mocap.jpg|Comparison between the dorms scene in-game and the motion capture session
+</gallery>
+
+== Videos ==
+<gallery widths="300" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+File:Motion capture session 1
+File:Motion capture session 2
+</gallery>
+
+== Trivia ==
+* Due to [[Deck Nine Games]] already owning a motion capture studio, Mocaplab is not part of ''[[Life is Strange: Before the Storm]]'' (the actresses/actors being also different). It is yet unknown if Mocaplab will be involved with the [[Season 2|sequel]] to ''Life is Strange''.
+
+[[Category:Behind the Scenes]]
+[[Category:Behind the Scenes (Life is Strange)]]
+[[Category:Life is Strange]]
+
+[[pt-br:Captura de Movimentos]]

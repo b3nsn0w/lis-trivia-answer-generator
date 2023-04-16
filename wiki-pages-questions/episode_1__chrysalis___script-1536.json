@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Chloe Say To David After He Harasses Max?",
+    "answer": "B",
+    "choices": {
+      "A": "\"Thanks for taking the heat.\"",
+      "B": "\"You're not even a real cop, you're a fucking security guard!\"",
+      "C": "\"Let's sneak out the window.\"",
+      "D": "\"He's no match for you and me now.\""
+    }
+  },
+  {
+    "question": "What Does Max Think About After Standing Up To David?",
+    "answer": "A",
+    "choices": {
+      "A": "\"I should have kept my Blackwell scholarship.\"",
+      "B": "\"David was such a mean bastard to Chloe.\"",
+      "C": "\"I need to find a new place to hang out.\"",
+      "D": "\"I wonder if Chloe will get in trouble for this.\""
+    }
+  },
+  {
+    "question": "What Does David Accuse Chloe Of Doing When He Finds Grass In The Room?",
+    "answer": "D",
+    "choices": {
+      "A": "Stealing His Gun",
+      "B": "Going Through His Files",
+      "C": "Harassing Kate Marsh",
+      "D": "Toking Up"
+    }
+  },
+  {
+    "question": "What Does Chloe Show David To Get Him To Leave Them Alone?",
+    "answer": "A",
+    "choices": {
+      "A": "A Surveillance Video",
+      "B": "A Gun",
+      "C": "A Joint",
+      "D": "A Photo Of David Harassing Kate"
+    }
+  },
+  {
+    "question": "What Does David Say Will Happen If Max Is Caught In His Home Again?",
+    "answer": "C",
+    "choices": {
+      "A": "She Will Be Arrested",
+      "B": "She Will Be Expelled From Blackwell",
+      "C": "She Will Learn About Real Trouble",
+      "D": "She Will Be Banned From Arcadia Bay"
+    }
+  }
+]

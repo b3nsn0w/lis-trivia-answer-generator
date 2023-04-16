@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is Nathan's excuse for hurting someone in an unused audio?",
+    "answer": "A",
+    "choices": {
+      "A": "He was pushed",
+      "B": "He was angry",
+      "C": "He was high",
+      "D": "He was jealous"
+    }
+  },
+  {
+    "question": "What does Luke say in an unused audio?",
+    "answer": "A",
+    "choices": {
+      "A": "\"I knew this school would kill me one way or another.\"",
+      "B": "\"I can't believe this is happening.\"",
+      "C": "\"I wish I could turn back time.\"",
+      "D": "\"I hope I can make a difference.\""
+    }
+  },
+  {
+    "question": "What does Max say about Chloe's pills when looking at them in the bathroom of the Madsen Household?",
+    "answer": "A",
+    "choices": {
+      "A": "\"I hope Chloe isn't taking these pills.\"",
+      "B": "\"I wonder if these pills are for her anxiety.\"",
+      "C": "\"I hope these pills are helping her.\"",
+      "D": "\"I wonder if these pills are addictive.\""
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "question": "In Which Episode Does Max Save Kate From Jumping Off The Roof?",
+    "answer": "A",
+    "choices": {
+      "A": "Episode 2: Out of Time",
+      "B": "Episode 3: Chaos Theory",
+      "C": "Episode 4: Dark Room",
+      "D": "Episode 5: Polarized"
+    }
+  },
+  {
+    "question": "What Is The Name Of Kate's Friend Who Appears In A Photo With Her In \"Episode 2: Out of Time\"?",
+    "answer": "A",
+    "choices": {
+      "A": "Alyssa Anderson",
+      "B": "Stella Hill",
+      "C": "Taylor Christensen",
+      "D": "Victoria Chase"
+    }
+  },
+  {
+    "question": "In Which Episode Does Kate Appear In Max's Nightmare?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 2: Out of Time",
+      "B": "Episode 3: Chaos Theory",
+      "C": "Episode 4: Dark Room",
+      "D": "Episode 5: Polarized"
+    }
+  }
+]

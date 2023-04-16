@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Max's Supernatural Ability?",
+    "answer": "B",
+    "choices": {
+      "A": "Telekinesis",
+      "B": "Time Manipulation",
+      "C": "Invisibility",
+      "D": "Flight"
+    }
+  },
+  {
+    "question": "What Is Max's Profession?",
+    "answer": "A",
+    "choices": {
+      "A": "Photographer",
+      "B": "Writer",
+      "C": "Musician",
+      "D": "Athlete"
+    }
+  },
+  {
+    "question": "Who Did Max Save From Being Killed In The Bathroom?",
+    "answer": "D",
+    "choices": {
+      "A": "Nathan Prescott",
+      "B": "Rachel Amber",
+      "C": "Victoria Chase",
+      "D": "Chloe Price"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Bonus Episode Featuring Max As The Playable Protagonist?",
+    "answer": "A",
+    "choices": {
+      "A": "Farewell",
+      "B": "Before the Storm",
+      "C": "The Awesome Adventures of Captain Spirit",
+      "D": "True Colors"
+    }
+  },
+  {
+    "question": "Where Did Max Grow Up?",
+    "answer": "A",
+    "choices": {
+      "A": "Seattle",
+      "B": "Portland",
+      "C": "San Francisco",
+      "D": "Los Angeles"
+    }
+  }
+]

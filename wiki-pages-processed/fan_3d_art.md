@@ -1,0 +1,76 @@
+#  Fan:3D Art 
+
+This article is meant as a selection of and guide to **3D Fan Art and Animations** related to *[Life is Strange](life_is_strange.md)*.
+
+[File:DigitalArtIcon.png](thumb.md)
+##  3D Art 
+* [https://imgur.com/a/70Dej 3D renders by Bertsz] [https://www.reddit.com/r/lifeisstrange/comments/7e1f15/no_spoilers_my_take_on_a_more_realistic_chloe/ 3D render of Chloe from BtS]
+* [https://youngechosugar.deviantart.com/gallery/ Animated game models by Youngechosugar]
+* [https://www.artstation.com/artwork/3BVE2 Chloe's room fan art by Corey Hill]
+* [https://www.artstation.com/artwork/K0OAr Max Caulfield by Carl-Christian Gehl]
+* [https://blues-man.deviantart.com/gallery/57722513/Sad-Life-Is-Strange-Fanart Sad 3D art by blues-man] [https://blues-man.deviantart.com/gallery/57397995/Happy-Life-Is-Strange-Fanart Happy 3D art]
+* [https://mary-o-o.deviantart.com/gallery/53214642/Life-is-Strange 3D art by Mary-O-o]
+* [https://sschar.deviantart.com/gallery/ Creatively posed game models by SSchar]
+* [https://forrester961.deviantart.com/gallery/ 3D art by forrester961]
+* [https://james--c.deviantart.com/gallery/53302462/Life-is-strange 3D art by James--C]
+* [https://constsandvars.deviantart.com/art/I-double-dare-you-kiss-me-now-639884884 Impressive rendering of Max and Chloe kissing by ConstsAndVars]
+* [https://mrjimjamjamie.deviantart.com/gallery/53738748/Life-is-strange 3D renders by Mrjimjamjamie]
+* [https://ezekh.deviantart.com/gallery/60469607/Life-Is-Strange 3D renders by Ezekh]
+* [https://denetii.deviantart.com/art/LiS-Freshly-Baked-666407328 3D render of Max and Chloe eating cookies by denetii]
+* [https://www.artstation.com/artwork/V09WN Max Caulfield, WIP 3D render, by Jean-Pascal Berthiaume]
+* [https://www.artstation.com/artwork/WBr82 Chloe's room fan concept art by Lukas Esch]
+* [https://www.deviantart.com/thearcadian0125/gallery/ 3D renders in Daz Studio by TheArcadian0125 (a.k.a. Arcadian Art)]
+
+##  Animations 
+* [https://gfycat.com/BriskPassionateArizonaalligatorlizard "Hey Chloe, wanna watch Spirits Within again??" by /u/youngechosugar]
+* [https://gfycat.com/SparseEquatorialHare "Long day" by /u/youngechosugar]
+* [http://gfycat.com/RecklessInbornAlligator "Sunday morning" by /u/youngechosugar]
+* [http://gfycat.com/TeemingMilkyFugu "Seattle at night" by /u/youngechosugar]
+* [https://gfycat.com/UntidyEmbarrassedAnchovy "BOO-YA" by /u/youngechosugar]
+* [https://gfycat.com/ConstantAlienatedDotterel "Hey, Chloe! Say cheese..." by /u/youngechosugar]
+* [https://gfycat.com/DefiniteFrenchGodwit "Pricefield calling" by /u/youngechosugar]
+* [https://gfycat.com/LeadingShabbyCanadagoose "Road to Seattle" by /u/youngechosugar]
+* [https://www.youtube.com/watch?v# gKUZ8o4TME8 "With You" by /u/pwnagekitten (a.k.a. Artkitt-Creations)]
+
+##  Resources 
+*[https://www.reddit.com/r/lifeisstrange/comments/6fgo4o/a_guide_on_modding_life_is_strange_sfm_blender_etc/ Guide on modding Life is Strange (SFM, Blender, etc.) by /u/X_Joshi_X]
+*[https://www.reddit.com/r/lifeisstrange/comments/3xlt6p/photorealistic_chloe_followup/ Bertsz describing the creation of his 3D art]
+
+ Fan:3D Art 
+
+This article is meant as a selection of and guide to **3D Fan Art and Animations** related to *[Life is Strange](life_is_strange.md)*.
+
+[File:DigitalArtIcon.png](thumb.md)
+##  3D Art 
+* [https://imgur.com/a/70Dej 3D renders by Bertsz] [https://www.reddit.com/r/lifeisstrange/comments/7e1f15/no_spoilers_my_take_on_a_more_realistic_chloe/ 3D render of Chloe from BtS]
+* [https://youngechosugar.deviantart.com/gallery/ Animated game models by Youngechosugar]
+* [https://www.artstation.com/artwork/3BVE2 Chloe's room fan art by Corey Hill]
+* [https://www.artstation.com/artwork/K0OAr Max Caulfield by Carl-Christian Gehl]
+* [https://blues-man.deviantart.com/gallery/57722513/Sad-Life-Is-Strange-Fanart Sad 3D art by blues-man] [https://blues-man.deviantart.com/gallery/57397995/Happy-Life-Is-Strange-Fanart Happy 3D art]
+* [https://mary-o-o.deviantart.com/gallery/53214642/Life-is-Strange 3D art by Mary-O-o]
+* [https://sschar.deviantart.com/gallery/ Creatively posed game models by SSchar]
+* [https://forrester961.deviantart.com/gallery/ 3D art by forrester961]
+* [https://james--c.deviantart.com/gallery/53302462/Life-is-strange 3D art by James--C]
+* [https://constsandvars.deviantart.com/art/I-double-dare-you-kiss-me-now-639884884 Impressive rendering of Max and Chloe kissing by ConstsAndVars]
+* [https://mrjimjamjamie.deviantart.com/gallery/53738748/Life-is-strange 3D renders by Mrjimjamjamie]
+* [https://ezekh.deviantart.com/gallery/60469607/Life-Is-Strange 3D renders by Ezekh]
+* [https://denetii.deviantart.com/art/LiS-Freshly-Baked-666407328 3D render of Max and Chloe eating cookies by denetii]
+* [https://www.artstation.com/artwork/V09WN Max Caulfield, WIP 3D render, by Jean-Pascal Berthiaume]
+* [https://www.artstation.com/artwork/WBr82 Chloe's room fan concept art by Lukas Esch]
+* [https://www.deviantart.com/thearcadian0125/gallery/ 3D renders in Daz Studio by TheArcadian0125 (a.k.a. Arcadian Art)]
+
+##  Animations 
+* [https://gfycat.com/BriskPassionateArizonaalligatorlizard "Hey Chloe, wanna watch Spirits Within again??" by /u/youngechosugar]
+* [https://gfycat.com/SparseEquatorialHare "Long day" by /u/youngechosugar]
+* [http://gfycat.com/RecklessInbornAlligator "Sunday morning" by /u/youngechosugar]
+* [http://gfycat.com/TeemingMilkyFugu "Seattle at night" by /u/youngechosugar]
+* [https://gfycat.com/UntidyEmbarrassedAnchovy "BOO-YA" by /u/youngechosugar]
+* [https://gfycat.com/ConstantAlienatedDotterel "Hey, Chloe! Say cheese..." by /u/youngechosugar]
+* [https://gfycat.com/DefiniteFrenchGodwit "Pricefield calling" by /u/youngechosugar]
+* [https://gfycat.com/LeadingShabbyCanadagoose "Road to Seattle" by /u/youngechosugar]
+* [https://www.youtube.com/watch?v=gKUZ8o4TME8 "With You" by /u/pwnagekitten (a.k.a. Artkitt-Creations)]
+
+##  Resources 
+*[https://www.reddit.com/r/lifeisstrange/comments/6fgo4o/a_guide_on_modding_life_is_strange_sfm_blender_etc/ Guide on modding Life is Strange (SFM, Blender, etc.) by /u/X_Joshi_X]
+*[https://www.reddit.com/r/lifeisstrange/comments/3xlt6p/photorealistic_chloe_followup/ Bertsz describing the creation of his 3D art]
+

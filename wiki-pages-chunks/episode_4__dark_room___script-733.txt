@@ -1,0 +1,62 @@
+Here is a section of the wiki page for Episode 4: Dark Room - Script:
+
+(Nathan's clues)
+'*Max *(thinking)*:*' I have to analyze Nathan’s messages. What could help me unlock this phone?
+
+''Max takes the phone, the SIM card, Nathan's student file, and the piece of paper with several four-digit codes.*
+
+*'Max *(thinking)*:'* Okay, Max, let’s blow this code up and go home.
+
+*Max investigates the new clues on the board.*
+
+*'Max *(thinking)*:''' Let's start hacking!
+
+''Max unlocks Nathan's phone with either the PIN code or the PUK code.*
+
+*'Max *(thinking)*:''' Booyah! Let's find out what Nathan Prescott has been trying to hide...
+
+|-|(Final set of clues)(Final set of clues)
+
+'*Max *(thinking)*:*' Take a breath, Max...Go through all this data and you can find out where Nathan took Kate after the party!
+
+''Max takes the screenshot of Nathan's text messages to Frank, the record of their transaction on October 4th, and the photo of the barn.*
+
+*Max deduces the remaining clues and brings a photo of a barn to Chloe.*
+
+**Max:** Chloe, this is definitely the place.
+
+**Chloe:** Let me dig up some more clues here.
+
+*Chloe tries looking up info about the barn. ''
+
+**Chloe:** Nope... Nothing, Max. There's nothing here. Just some shitty old barn...
+
+**Max:** Let's keep searching and find out who owns this haunted barn.
+
+**Chloe:** I'm on this, hold on.
+
+*Chloe searches the barn.*
+
+**Chloe:** Somebody named—"Harry Aaron Prescott."
+
+**Max:** I'm shocked. Should we call the police?
+
+**Chloe:** Fuck that. You know the police here are like Nathan's private security, right?
+
+**Max:** That's so messed up...
+
+**Chloe:** As you've noticed, this whole town is messed up. We can't trust anybody... Except each other. So we have to go out to that farmhouse by ourselves.
+
+**Max:** I was afraid you'd say that. We could call Warren, since he kicked Nathan's ass...
+
+**Chloe:** It's just the two of us. Nobody else. And I'm not scared at all. You have the power. I feel like we're this close to finding Rachel... We have to find her, Max.
+
+**Max:** We will. But remember, my power isn't infinite. We still have to be careful. Do you hear, Chloe?
+
+**Chloe:** Yes, sir.
+
+''Max and Chloe leave Chloe's room to find the barn. Chloe's computer remains on, showing a map and the coordinates of the barn.*
+
+# 
+
+Generate five trivia questions relevant to this section of the page.

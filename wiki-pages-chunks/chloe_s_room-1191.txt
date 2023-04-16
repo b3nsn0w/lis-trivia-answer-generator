@@ -1,0 +1,55 @@
+Here is a section of the wiki page for Chloe's Room:
+
+## Episode Three – "[Episode 3: Chaos Theory](chaos_theory.md)" 
+*{{Interaction|Max can open the drawer near the closet.|"I don't think I'll be moshing today."}}
+*{{Interaction|She can look at the closet.|**Hid, came out, suspended: **"If I stayed hidden, no way would I have been suspended..."
+'''Didn't hide, suspended: **"Maybe I should have hid in the closet, no way would I have been
+suspended..."
+**Stayed hidden: **"I still feel guilty for not busting out of here to stop David from hitting Chloe..."
+**Hid, came out, not suspended: '''"Man, if I had stayed hidden, David wouldn't be targeting me."
+'''Didn't hide, not suspended: '''"I could have hid in the closet and then David wouldn't be on my case."}}
+*{{Interaction|She can open the blue drawer.|"Wow... I remember this old phone! We decorated it together."}}
+*{{Interaction|She can try to open the door.|"Put some clothes on first, hillbilly."}}
+*{{Interaction|She can examine Chloe's wallet in her coat.|"The fact that she put the photo next to Rachel is so touching..."}}
+*{{Interaction|She can examine the photo box.|"Wowser... That was my 10th birthday. I didn't know Chloe kept this stuff..."}}
+*{{Interaction|She can look at and play the HiFi.|**Music on: **"I love this song."
+**Music off: **"Hey, can you play that again?"}}
+*{{Interaction|She can look at and use Chloe's laptop.|"Can I check out the news on this old laptop?"}}
+*{{Interaction|She can look at a book on the desk.|"Chloe is so damn cute—she's really trying to suss out what my vision means..."}}
+*{{Interaction|She can look at Chloe's joint.|**Blamed Chloe: **"I should have sparked up that joint in front of David so he wouldn't have hit Chloe..."
+**Took blame, suspended: **"I might as well start blazing if I was dumb enough to get
+suspended for weed..."
+**Took blame, not suspended: **"I'm lucky David didn't bust me for acting like it was my pot."
+**Stayed hidden: **"I was such a wuss to cower in the closet while David hit her..."}}
+*{{Interaction|Max can try to put on her clothes.|"Time to put on your daily armor, Max!"}}
+*{{Interaction|She can look at Chloe's mobile phone.|**Picture of Max: **"Nice, Chloe put my pic on her phone... I must have proved I was worthy again..."
+**Picture of Rachel: **"I thought Chloe might put up a pic of me instead... Can't compete with Rachel."}}
+*{{Interaction|She can look at David's gun (determinant).|"Frank might think twice about messing with Chloe now, but if David finds out... shitstorm."}}
+*{{Interaction|She can look at the stolen money (determinant).|"Yes, I might go to hell for this, but if it saves Chloe... We'll pay it back—somehow."}}
+*{{Interaction|She can look at and speak to Chloe.|**Stole money: **"Chloe seems more relaxed now that she has that money...
+from the handicapped fund..."
+**Left money: **"Chloe doesn't seem too upset she didn't take that money
+from the handicapped fund..."}}
+*{{Interaction|She can look at and put on Rachel's clothes **(required)**.|"I think Rachel's style is a little more subtle... like me."}}
+
+#
+
+## Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+# #
+
+## **Alternative Timeline**
+*{{Interaction|She can look at a letter from [Dorothy](aunt_dorothy.md).|"Too bad Joyce and William can’t get any help from the Prescott Foundation..."}}
+*{{Interaction|She can look at Chloe's crutches.|"They bought crutches for Chloe, hoping she might walk again."}}
+*{{Interaction|She can look at a box labeled "Toys".|"I kinda want to open this and see what's in here."}}
+*{{Interaction|She can look at a box labeled "Shoes".|"Chloe always did love stomping around in her boots."}}
+*{{Interaction|She can look at a letter from [Aaron Price](aaron_price.md) to William.|"I never heard much about William's brother."}}
+*{{Interaction|She can look at the height chart.|"I guess we stopped growing up together."}}
+*{{Interaction|She can look at the closet.|"At least we never had to hide from step-douche."}}
+*{{Interaction|She can look at a butterfly poster.|"A blue butterfly? I'm sure this is a total coincidence..."}}
+*She can have a [Moment of Calm (Life is Strange)](moment_of_calm.md) by sitting on a stool.
+
+# #
+
+
+
+Generate five trivia questions relevant to this section of the page.

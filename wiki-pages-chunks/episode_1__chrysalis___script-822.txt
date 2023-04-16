@@ -1,0 +1,76 @@
+Here is a section of the wiki page for Episode 1: Chrysalis - Script:
+
+Chloe flips the bird with both hands.*
+
+**Chloe:** Because you are such a badass, Max... Let me show you my new toy... I'm Price, Chloe Price! Bang!
+
+*Chloe pulls out a gun and points it at Max. Max moves the gun away from her.*
+
+**Max:** Jesus, put that thing down!
+
+**Chloe:** Chillax, sista. It's not even loaded...yet.
+
+**Max:** I thought you believed in gun control.
+
+**Chloe:** Yes, I believe I should control the gun. It's the men who need to be checked. You trust Nathan or David? Thanks for taking the heat. We totally smacked his punk ass down, Max. He's no match for you and me now... That was an epic win. Anyway. Let's sneak out the window...there is one cool place we can hang in this hickhole.
+
+**Max:** *(thinking)* Man, that did not go well for me. If I want to keep my Blackwell scholarship I shouldn't lie for anybody, even Chloe. I have to think about my own future...
+
+*If Max speaks to Chloe again:*
+
+**Chloe:** You’re giving me a look I haven’t seen for awhile. What’s the problem?
+
+{{#tag:tabber|Why steal the gun?# Why steal the gun?
+
+**Max:** Why steal a gun from your stepdad? You know you’re going to get busted.
+
+**Chloe:** Or somebody like Nathan will bust me with a cap. Screw that. I need to cover my own back.
+
+**Max:** Your stepdad won’t let you off the hook that easy.
+
+**Chloe:** What the hell does he need another gun for? To mow down Bigfoot cheerleaders?
+
+{{!}}-{{!}}Put it back.Put it back.
+
+**Max:** You should put the gun back. Too dangerous…
+
+**Chloe:** Only if somebody gets in my way again.
+
+**Max:** Please don’t talk that way…
+
+**Chloe:** You think I want to? I’d rather be in LA with Rachel than hiding a gun…
+
+}}
+
+**Max:** This is all just so scary.
+
+**Chloe:** I know, Max. But I do feel safer having a nine millimeter in my pants.
+
+{{#tag:tabber|Can you use it?# Can you use it?
+
+**Max:** Can you actually use it?
+
+**Chloe:** After about a hundred online videos, hell yeah.
+
+**Max:** Just don’t keep it in your pants, okay?
+
+{{!}}-{{!}}I don’t.I don’t.
+
+**Max:** Well, I don’t. Guns make me nervous. You should be playing guitar, not playing with a gun.
+
+**Chloe:** When assholes stop threatening me with guns, then I’ll stop playing with mine.
+
+**Max:** Your gun can’t stop a bullet in your back.
+
+}}
+
+**Chloe:** Max, I’m not looking for trouble. I just want protection. If anybody in this country should have guns, it should be women…
+
+*Max leaves through the window with Chloe.*
+
+}}
+}}
+
+# 
+
+Generate five trivia questions relevant to this section of the page.

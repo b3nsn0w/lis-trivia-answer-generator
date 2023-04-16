@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Say About The Door To The Dark Room Corridor?",
+    "answer": "A",
+    "choices": {
+      "A": "It's A Serious Door",
+      "B": "It's A Magical Door",
+      "C": "It's A Locked Door",
+      "D": "It's A Hidden Door"
+    }
+  },
+  {
+    "question": "What Does Max Say About The Reason To Build A Secret Bunker Under An Abandoned Farm?",
+    "answer": "D",
+    "choices": {
+      "A": "To Store Valuable Items",
+      "B": "To Conduct Experiments",
+      "C": "To Hide From The Government",
+      "D": "To Do Bad Shit"
+    }
+  },
+  {
+    "question": "What Does Max Say About The Bright White Room Kate Told Her About?",
+    "answer": "B",
+    "choices": {
+      "A": "It's A Photo Studio",
+      "B": "It's A Torture Room",
+      "C": "It's A Storage Room",
+      "D": "It's A Secret Room"
+    }
+  },
+  {
+    "question": "What Does Max Say About Finding Serious Dirt In The Dark Room?",
+    "answer": "B",
+    "choices": {
+      "A": "She Knows They Will Find Nothing",
+      "B": "She Knows They Will Find Serious Dirt",
+      "C": "She Is Unsure If They Will Find Anything",
+      "D": "She Thinks They Will Find Something Minor"
+    }
+  },
+  {
+    "question": "What Does Max Say About Going Back To Chloe After Finding The Binders?",
+    "answer": "A",
+    "choices": {
+      "A": "She Needs To Get Back To Chloe Soon",
+      "B": "She Wants To Stay And Search For More Clues",
+      "C": "She Is Scared To Leave The Dark Room",
+      "D": "She Wants To Call The Police Before Leaving"
+    }
+  }
+]

@@ -1,0 +1,35 @@
+Here is a section of the wiki page for Unused Audios:
+
+00098.ogg}}
+** [context missing] KBay7Host: "Many local residents of Arcadia Bay have been questioning: What has been going on with this crazy weather?  We have an eclipse yesterday, er... snow storm two days ago. Which, as most of you know, is not common this time of the year. It's unprecedented, to be honest with you. The last time that we have a snow storm, this caliber was over a hundred years ago. All of us are questioning, what is happening in Arcadia Bay? Please feel free to call in and let me know what your experience has been. What do you think this might be? Is this global warming? What is causing all of this crazy weather?"{{Headphones|file# VO_E3_5B.STM 00104.ogg}}
+** [context missing] KBay7Host: "Many local residents of Arcadia Bay have been questioning: What has been going on with this crazy weather?"{{Headphones|fileVO_E3_5B.STM 00041.ogg}}
+** [context missing] KBay7Host: "We have an eclipse yesterday, er... snow storm two days ago. Which, as most of you know, is not common this time of the year."{{Headphones|file# VO_E3_5B.STM 00026.ogg}}
+** [context missing] KBay7Host: " It's unprecedented, to be honest with you. The last time that we have a snow storm, this caliber was over a hundred years ago."{{Headphones|fileVO_E3_5B.STM 00076.ogg}}
+** [context missing] KBay7Host: "All of us are questioning, what is happening in Arcadia Bay?"{{Headphones|file# VO_E3_5B.STM 00067.ogg}}
+** [context missing] KBay7Host: "Please feel free to call in and let me know what your experience has been. What do you think this might be? Is this global warming? What is causing all of this crazy weather?"{{Headphones|fileVO_E3_5B.STM 00254.ogg}}
+* [context missing] In Garage, Max: "Oh, no. Big brother is watching me."{{Headphones|file# VO_E3_5B.STM 00271.ogg}}
+** [context missing] Max: "Oh, man. There's David's lonely uniform. Now I feel bad."{{Headphones|fileVO_E3_5B.STM 00100.ogg}}
+** [context missing] Max: "So, David has been dragging his dead head around since November 28, 2001. That looks like it could be a pass number."{{Headphones|file# VO_E3_5B.STM 00047.ogg}}
+** [context missing] Max: "David's dog tag from Iraq."{{Headphones|fileVO_E3_5B.STM 00272.ogg}}
+** [context missing] Max: "Maybe David actually cares about Chloe."{{Headphones|file# VO_E3_5B.STM 00020.ogg}}
+** [context missing] Max: "I'll plug this one in."{{Headphones|fileVO_E3_5B.STM 00177.ogg}}
+** [context missing] Max: "What did you do to Kate, David?"{{Headphones|file# VO_E3_5B.STM 00273.ogg}}
+** [context missing] Max: "Locked."{{Headphones|fileVO_E3_5B.STM 00214.ogg}}
+** [context missing] Max: "Could be a pass number."{{Headphones|file# VO_E3_5B.STM 00251.ogg}}
+* [context missing] In Garden, Max: "A lot of critter footprints around here. If I see a big footprint, I'm running."{{Headphones|fileVO_E3_5B.STM 00260.ogg}}
+* [context missing] In LivingRoom, Max: "No way, that's the blue bird I saved Monday in Joyce's room."{{Headphones|file# VO_E3_5B.STM 00280.ogg}}
+** [context missing] Max: "Of course, Chloe will be pissed at me for defending David."{{Headphones|fileVO_E3_5B.STM 00238.ogg}}
+** [context missing] Max: "I only defended David because I actually feel sorry for him."{{Headphones|file# VO_E3_5B.STM 00127.ogg}}
+** [context missing] Max: "Sorry you were kicked out of the army and now Blackwell. Not."{{Headphones|fileVO_E3_5B.STM 00103.ogg}}
+** [context missing] Max: "I understand why David isn't smiling any more."{{Headphones|file# VO_E3_5B.STM 00009.ogg}}
+** [context missing] Max: "I wonder what everybody saw when they saw that eclipse... if anything."{{Headphones|fileVO_E3_5B.STM 00017.ogg}}
+** [context missing] Max: "Fruit VS bacon. Who will win?"{{Headphones|file# VO_E3_5B.STM 00282.ogg}}
+** [context missing] Max: "I want to erase this, but... I better not."{{Headphones|fileVO_E3_5B.STM 00093.ogg}}
+** [context missing] Max: "Wonder if there's any news about Kate."{{Headphones|file# VO_E3_5B.STM 00159.ogg}}
+** [context missing] Max: "Hmm....It feels great to see Joyce happy again."{{Headphones|fileVO_E3_5B.STM 00227.ogg}}
+** [context missing] Max: "Okay. There must be clues about David's password around here."{{Headphones|file# VO_E3_5B.STM 00033.ogg}}
+* [context missing] In Diner, Max: "Hmm....I should find out what Nathan has to say about that."{{Headphones|fileVO_E3_6B.STM 00115.ogg}}
+** [context missing] Max: "Now I can't wait to see Nathan's response."{{Headphones|file# VO_E3_6B.STM 00131.ogg}}
+** [context missing] Max: "Frank is a very interesting guy. Time to start 
+
+Generate five trivia questions relevant to this section of the page.

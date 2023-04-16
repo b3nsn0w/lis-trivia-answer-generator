@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Victoria's Last Name?",
+    "answer": "B",
+    "choices": {
+      "A": "Maribeth",
+      "B": "Chase",
+      "C": "Prescott",
+      "D": "Wagner"
+    }
+  },
+  {
+    "question": "Who Are Victoria's Best Friends?",
+    "answer": "C",
+    "choices": {
+      "A": "Max and Chloe",
+      "B": "Rachel and Nathan",
+      "C": "Taylor and Courtney",
+      "D": "Warren and Kate"
+    }
+  },
+  {
+    "question": "What Does Victoria Have In Her Bedroom That Reveals Her Secret Nerdy Side?",
+    "answer": "A",
+    "choices": {
+      "A": "A Collectible Figurine",
+      "B": "A Gaming Console",
+      "C": "A Comic Book Collection",
+      "D": "A Poster Of A Superhero"
+    }
+  },
+  {
+    "question": "What Is Victoria's Ambition?",
+    "answer": "C",
+    "choices": {
+      "A": "To Become A President",
+      "B": "To Be A Fashion Designer",
+      "C": "To Be A Photographer",
+      "D": "To Be A Scientist"
+    }
+  },
+  {
+    "question": "What Disorder Does Victoria's Behavior Imply She May Suffer From?",
+    "answer": "C",
+    "choices": {
+      "A": "Bipolar Disorder",
+      "B": "Obsessive-Compulsive Disorder",
+      "C": "Histrionic Personality Disorder",
+      "D": "Schizophrenia"
+    }
+  }
+]

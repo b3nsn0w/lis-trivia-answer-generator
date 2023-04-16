@@ -1,0 +1,79 @@
+= Logan Robertson =
+
+{{Free Tab
+|minwidth = 47%
+|maxwidth = 100%
+|borderradius = 2
+|height = 2
+|tab1=Life is Strange |link1=Logan Robertson
+|tab2=Before the Storm |link2=Logan Robertson (Before the Storm)
+}}
+{{Stub}}
+{{Introquote|Bro, you are giving me the full body tackle... I already feel like an ass for flaking on Dana. How can I be an un-dick now?|Logan to [[Maxine Caulfield|Max]] in "[[Episode 4: Dark Room|Dark Room]]"}}
+{{Infobox Character
+|name = Logan Robertson
+|image = LoganVortexClub.png
+|width = 270px
+|alsoknown = Labrador <small>(by [[Frank Bowers]])</small>
+|gender = Male
+|hair = Brown
+|eyes = Brown
+|friends= [[Zachary Riggins]]<br>[[Nathan Prescott]]<br>[[:Category:Vortex Club Members|other Vortex Club members]]
+|profession=  High school student
+|affiliation = [[Blackwell Academy]]<br>[[Vortex Club]]<br>[[Bigfoots]]
+|appearance = [[Episode 1: Chrysalis]]<br />[[Episode 4: Dark Room]]
+|voice = [[Don McManus]] <small>(uncredited)</small>
+|died = October 11, 2013 <small>(presumed, determinant)</small>
+|causeofdeath = Killed by the [[storm]] <small>(presumed, determinant)</small>
+|loveinterest = [[Dana Ward]] <small>(girlfriend, former)</small>
+}}
+
+'''Logan Robertson''' is a student at [[Blackwell Academy]]. He is a member of the [[Vortex Club]], and is a player on the [[Bigfoots|Blackwell Bigfoots]] Football Team.
+
+== Personality ==
+[[Maxine Caulfield|Max Caulfield]] doesn't interact much with Logan. He is generally rude and dismissive towards her. He seems absent-minded most of the time, and is a bully on campus. In his letter to Dana he admits that he would only act like a "tough jock" around everybody else, but that he was able to show his true self around her. He didn't take responsibility for his child because he was scared of this responsibility which probably led to their break-up, admitting it himself in his letter, only offering financial support to Dana later.
+
+== Episode One - "[[Episode 1: Chrysalis|Chrysalis]]" ==
+When Max is going to the bathroom, she sees Logan bullying [[Daniel DaCosta]] and wishes she could beat Logan up in revenge. Max rewinds time and as she goes to the bathroom again to save [[Chloe Price]] from being shot by [[Nathan Prescott]], she doesn't consider that Logan could help her. 
+Later, Max can spot Logan playing football with [[Zachary Riggins]] outside the [[Prescott Dormitory]]. He will tell Max to wait until Friday's sports game to take photos of him, and continues to play with Zach.
+
+In [[Dana's Room|Dana's room]], Max can find a crumpled up letter from Logan regarding their previous relationship and his desire to reconnect and help her with her pregnancy. It is assumed that he is the father of her aborted child, as [[Dana Ward]] confirms that the father is a football player, but not Zach. The text of the letter is as follows:
+
+{{Bigquote
+|''Dana I suck at writing but I thought I should write this so you might not hate my dumb ass forever.''
+''I know I act like a tough jock around everybody but I never had to act around you, I'm not the kind of man you deserve. You saw how I pussed out.''
+
+''if you need any money, let me know.''<br>
+''XO Logan''
+}}
+
+== Episode Four - "[[Episode 4: Dark Room|Dark Room]]" ==
+Logan makes an appearance at the [[Vortex Club]]'s [[End of the World Party|End of the World party]], in the VIP section. He tries to flirt with Max. Max can confront him about his attitude towards others and his treatment of Dana. If she asks him about Dana, he will say he feels bad for "flaking on her". If spoken to about Nathan, he will tell Max he hasn't seen him tonight, comment about the [[Prescott Family|Prescotts]]' wealth and advises Max to speak to Victoria because "she always knows where Nathan is".
+
+== Relationships ==
+
+=== Friends ===
+* [[Zachary Riggins]] - Logan and Zachary know each other due to both being on the football team.
+
+=== Romantic ===
+* [[Dana Ward]] - Logan and Dana were romantically involved before the game's events. Logan seems to feel remorseful for "flaking on Dana" when she became pregnant, and offers her money and an apology in a letter. Dana is still angry at him, referring to him as a "Deadbeat Dad" and crumpling up and throwing away his letter.
+
+{{Character Navbox}}
+
+[[de:Logan Robertson]]
+[[es:Logan Robertson]]
+[[pt-br:Logan Robertson]]
+[[ru:Логан Робертсон]]
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Blackwell Academy Students]]
+[[Category:Vortex Club Members]]
+[[Category:Characters (Life is Strange)]]
+[[Category:Episode 1: Chrysalis Characters]]
+[[Category:Episode 4: Dark Room Characters]]
+[[Category:Bigfoots]]
+[[Category:Alternative Timeline Characters]]
+[[Category:Male Characters (Life is Strange)]]
+[[Category:Minor Characters]]
+[[Category:Minor Characters (Life is Strange)]]
+[[Category:Life is Strange]]

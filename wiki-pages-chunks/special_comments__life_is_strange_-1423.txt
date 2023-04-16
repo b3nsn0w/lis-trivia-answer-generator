@@ -1,0 +1,46 @@
+Here is a section of the wiki page for Special Comments (Life is Strange):
+
+## Blackwell Campus # 
+On the [Blackwell Campus](campus.md) after having saved Chloe:
+* *"I like this school energy near the primordial forest." {{Headphones|fileVo_e1_3a.stm_32-act_e1_3a_campusa_voiceover03_max_040.ogg‎}}*
+* *"Blackwell Academy is like... a High School College." {{Headphones|file# ‎Vo_e1_3a.stm_119-act_e1_3a_campusa_voiceover03_max_030.ogg}}*
+* *"This is so weird: these visions, this power." {{Headphones|fileVo_e1_3a.stm_51-act_e1_3a_campusa_voiceover02_max_020.ogg‎}}*
+* *"Nathan Prescott is dangerous. Why didn't I tell the principal?" {{Headphones|file# ‎Vo_e1_3a.stm_57-act_e1_3a_campusa_voiceover02_max_050.ogg}} *(choice-dependent)
+* *"Arcadia Bay feels exactly the same but... different." {{Headphones|file‎Vo_e1_3a.stm_141-act_e1_3a_campusa_voiceover03_max_020.ogg}}*
+* *"I used to own this town as a kid. And now I don't know anybody." {{Headphones|file# Vo_e1_3a.stm_160-act_e1_3a_campusa_voiceover03_max_050.ogg‎}}*
+* *"This is what it's like to be alone and feel lonely at once." {{Headphones|file‎Vo_e1_3a.stm_148-act_e1_3a_campusa_voiceover03_max_060.ogg}}*
+* *"I can't believe I saw that girl get shot." {{Headphones|file# ‎Vo_e1_3a.stm_169-act_e1_3a_campusa_voiceover02_max_030.ogg}}*
+* *"What is going on today?" {{Headphones|file‎Vo_e1_3a.stm_178-act_e1_3a_campusa_voiceover02_max_010.ogg}}*
+* *"Okay, I better get to my dorm and grab that flash drive." {{Headphones|file# ‎Vo_e1_3a.stm_186-act_e1_3a_campusa_voiceover01_max_010.ogg}}*
+* *"Warren really wants that flash drive. I better grab it." {{Headphones|file‎Vo_e1_3a.stm_217-act_e1_3a_campusa_voiceover01_max_020.ogg}}*
+* *"Time to go grab Warren's flash drive." {{Headphones|file# Vo_e1_3a.stm_239-act_e1_3a_campusa_voiceover01_max_030.ogg‎}}*
+* *"That Nathan Prescott is... scary. I'm glad I busted him." {{Headphones|fileVo_e1_3a.stm_253-act_e1_3a_campusa_voiceover02_max_040.ogg‎}} *(choice-dependent)
+* *"I can't believe I actually reversed time." {{Headphones|file# ‎Vo_e1_3a.stm_286-act_e1_3a_campusa_voiceover02_max_070.ogg}}*
+* *"So weird to be back here after five years." {{Headphones|fileVo_e1_3a.stm_289-act_e1_3a_campusa_voiceover03_max_010.ogg‎}}*
+
+# #
+
+## Lighthouse - Present 
+* *"If only Chloe and I were kids here again." *{{Headphones|file# VO_E1_6A.STM_8~Act_E1_6A_CliffNow_Voiceover01_Max_040.ogg‎}}
+* *"This is way more peaceful than my nightmare." *{{Headphones|file‎VO_E1_6A.STM_18~Act_E1_6A_CliffNow_Voiceover01_Max_030.ogg}}
+* *"Chloe's step-douche better not cause me trouble." *{{Headphones|file# ‎VO_E1_6A.STM_30~Act_E1_6A_CliffNow_VoiceOver02_Max_040.ogg}} *(choice-dependent)*
+* *"Man, I should have helped Chloe, I feel so bad." *{{Headphones|fileVO_E1_6A.STM_41~Act_E1_6A_CliffNow_VoiceOver02_Max_010.ogg‎}} *(choice-dependent)*
+* *"I love this October vibe." *{{Headphones|file# VO_E1_6A.STM_53~Act_E1_6A_CliffNow_Voiceover01_Max_020.ogg‎}}
+* *"Wowsers. Been ages since I was here." *{{Headphones|file‎VO_E1_6A.STM_63~Act_E1_6A_CliffNow_Voiceover01_Max_010.ogg}}
+* *"I love how all the weeds and plants just grow wherever they want." ''{{Headphones|file# ‎VO_E1_6A.STM_128~Act_E1_6A_CliffNow_Bush01_Look01_Max_010.ogg‎}}
+
+#
+
+## Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+
+#
+
+## Alternative Chloe's Room (Upstairs) # 
+* *"Chloe’s room was a disaster area, but it was alive... Now look at it."*{{Headphones|file‎}}
+* *"All that’s left of Chloe’s old life is cardboard boxes... stuck in time."* {{Headphones|file# ‎}}
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

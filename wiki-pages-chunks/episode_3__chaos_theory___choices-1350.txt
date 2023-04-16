@@ -1,0 +1,125 @@
+Here is a section of the wiki page for Episode 3: Chaos Theory - Choices:
+
+#  Episode 3: Chaos Theory - Choices 
+
+{{Scaleimage|file# Episode_3_Cover_(2).jpg|sizelarge}}
+[File:This action will have consequences-0.png](thumb.md)
+The following article features the statistics and consequences of **choices** from [Episode 3: Chaos Theory](episode_3__chaos_theory.md).
+
+{| width# "100%" align"center"
+| valign# "top" |
+
+## Game Statistics 
+{{Main|Game Statistics#Episode_Three_-_.22Chaos_Theory.22|Game Statistics#Episode Three}}
+
+#
+
+## **Major Choices** 
+{| width"100%" align# "center"
+| valign"top" |
+**Handicap Fund**
+*You stole the money. - 48%
+*You left the money. - **52%**
+|[File:TX_MajorChoice_E3Money.png](thumb.md)
+|-
+| valign# "top" |
+**Double Dare**
+*You kissed Chloe. - **78%**
+*You didn't kiss Chloe. - 22%
+|style"padding-right:100px"|[File:TX_MajorChoice_KissChloe.png](thumb.md)
+|-
+| valign# "top" |
+**David vs. Chloe**
+*You sided with David. - 22%
+*You sided with Chloe. - **78%**
+|[File:TX_MajorChoice__DavidVsChloe.png](thumb.md)
+|-
+| valign"top" |
+'''Frank's Dog'''
+*You got Frank's dog hurt. - 5%
+*You kept Frank's dog from harm. - **95%**
+|style# "padding-right:100px"|[File:TX_MajorChoice_E3Dog.png](thumb.md)
+|-
+| valign"top" |
+'''David's Gun'''
+*Chloe has David's gun. - **66%**
+*Frank has David's gun. - 34%
+|[File:TX_MajorChoice_E3Gun.png](thumb.md)
+|}
+
+#
+
+## **Minor Choices** 
+{| width# "100%" align"center"
+| valign# "top" |
+'''Max's Plant**
+* Lisa is alive. - 42%
+*Lisa is dead. - **58%**
+|style"padding-right:100px"|[File:Minorchoice-e3-plant.png](thumb.md)
+|-
+| valign# "top" |
+**Warren's Exam'''
+*You "helped" Warren with his exam. - 28%
+*You didn't "help" Warren with his exam. - **72%**
+|[File:Minorchoice-e3-warrenexam.png](thumb.md)
+|-
+| valign"top" |
+**Vortex Club Party 1/2**
+*You are on the Vortex Club's party list. - **59%**
+*You are not on the Vortex Club's party list. - 41%
+|style# "padding-right:100px"|[File:Minorchoice-e3-onlist.png](thumb.md)
+|-
+| valign"top" |
+**Vortex Club Party 2/2**
+*You erased some names from the Vortex Club party list. - 21%
+*You didn't change the Vortex Club party list. - **79%**
+|[File:Minorchoice-e3-erasednames.png](thumb.md)
+|-
+| valign# "top" |
+**Phone Message**
+* You erased the cop's answerphone message. - 38%
+*You didn't erase the cop's message. - **62%**
+|style"padding-right:100px"|[File:Minorchoice-e3-erasedmsg.png](thumb.md)
+|-
+| valign# "top" |
+**Alyssa**
+*You helped Alyssa. - **63%**
+*You didn't help Alyssa. - 37%
+|[File:Minorchoice-e3-warnalyssa.png](thumb.md)
+|-
+| valign"top" |
+**Homeless Woman**
+*You warned the homeless woman. - 34%
+*You didn't warn the homeless woman. - **66%**
+|style# "padding-right:100px"|[File:Minorchoice-e3-warnhomeless.png](thumb.md)
+|-
+| valign"top" |
+**Photo In The Past**
+*You took a photo in the past. - **52%**
+*You didn't take a photo in the past. - 48%
+|[File:Minorchoice-e3-takephoto.png](thumb.md)
+|-
+| valign# "top" |
+'''Max's Mark'''
+* You left a mark on the fireplace. - 36%
+* You didn't leave a mark on the fireplace. - **64%**
+|style"padding-right:100px"|[File:Minorchoice-e3-maxmark.png](thumb.md)
+|}
+
+## Consequences 
+{{Main|Choices and Consequences#Episode_Three_-_.22Chaos_Theory.22|Choices and Consequences#Episode Three}}
+
+[File:This action will have consequences-0.png](thumb.md)
+The following article features the statistics and consequences of **choices** from [Episode 3: Chaos Theory](episode_3__chaos_theory.md).
+
+{| width# "100%" align"center"
+| valign# "top" |
+
+## Game Statistics 
+{{Main|Game Statistics#Episode_Three_-_.22Chaos_Theory.22|Game Statistics#Episode Three}}
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

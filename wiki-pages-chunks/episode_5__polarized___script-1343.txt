@@ -1,0 +1,130 @@
+Here is a section of the wiki page for Episode 5: Polarized - Script:
+
+I could have told David the truth... He deserves it. ## '''Jefferson's Car'* 
+
+*Max opens the door to the barn, where Jefferson's car is. It is raining heavily outside.*
+
+**Max:** Freedom... Holy shit! The storm is real. I need to find Warren...
+
+*Max takes out her phone.*
+
+**Max:** Yes! *(dials Warren's number)* Warren! Can you hear me?
+
+**Warren:** *(staticky)'' Max?! Damn, where are you?
+
+**Max:** Nevermind... Listen, do you have that photo you took last night in the parking lot?
+
+**Warren:** Uh, yeah, but why? It wasn't that great a shot...
+
+**Max:** Yes, it is and I want it! Where are you?
+
+**Warren:** I'm at the [Two Whales Diner](two_whales_diner.md). Pretty much trapped in here with Joyce, thanks to this armageddon weather. I'm expecting the ocean to turn red...
+
+**Max:** I'm on my way.
+
+**Warren:** Come on, that's crazy! You can barely walk on the sidewalk outside... *(staticky)* Seriously, Max, stay wherever you are. I don't think this storm is getting smaller... I'm kinda scared.
+
+**Max:** That's okay, me too! But it's not over yet, Warren. So, hold on!
+
+**Warren:** *(staticky)* Wait—
+
+''Max hangs up. She gets in Jefferson's car and drives through Arcadia Bay, listening to the radio.*
+
+**Truss Limpbow:** *(on radio)'' I told you. I, Truss Limpbow, have been warning you people for years that our culture of sin and entitlement would lead to God striking us down! And I'm the one trapped in this fucking radio station. Somebody get me the hell out of here now! Now, goddamn it! What do I pay all those taxes for?
+
+''Max's phone buzzes and she checks it, setting the phone down next to her.''
+
+**Automated voice:** You have one new message. Message received yesterday at 9 PM.
+
+**Nathan:** Max, it's...it's Nathan. *(tearfully)* I...I just wanted to say...I'm sorry. I didn't wanna hurt Kate, or Rachel, or—or...didn't wanna hurt anybody. Everybody...used me! *(sobs)* Mr. Jefferson...is coming for ME now. All this shit will be over soon. Watch out, Max... He wants to hurt you next. Sorry.
+
+## **Street** 
+*Max stops on the road and gets out of the car, as there is too much debris blocking her way. Citizens of Arcadia Bay stumble around, screaming, trying to save themselves and their loved ones.*
+
+**Man:** Look at that thing go!
+
+**Man:** Get down!
+
+**Woman:** No!
+
+**Max:** *(thinking)* Warren is at the Two Whales Diner, so hurry up!
+
+**Trucker:** I don't want to die here! Please somebody... anybody... Help me! Hey... is anybody out there?
+
+*Max walks toward the Trucker.*
+
+**Max:** *(thinking)* Hey, that guy is trapped! I have to help everybody I can.
+
+#
+
+## **Optional Conversation with Trucker** # 
+
+**Trucker:** Oh Lordy... Thanks, kid.
+
+**Max:** Are you okay?
+
+**Trucker:** Once I get the hell out of here...
+
+(Max damaged the railroad tracks)(Max damaged the railroad tracks)
+
+**Trucker:** I was trapped here because I got stuck in this shithole delivering logs after the railroad was closed down...
+
+|-|(Max didn't damage the railroad tracks)# (Max didn't damage the railroad tracks)
+
+**Trucker:** I been hauling loads for way too long in this shithole town.
+
+**Max:** You better go now.
+
+**Trucker:** And I ain’t never coming back here... You need a lift?
+
+**Max:** No, thanks. I have to find a friend.
+
+**Trucker:** You go, girl. You go.
+
+*Max continues to walk toward the Two Whales Diner.*
+
+**Evan:** Right into the eye of the storm!
+
+*Evan is taking photos of the tornado. A large piece of debris hits him and he falls to the ground.*
+
+**Max:** *(thinking)* Not Evan... I have to stop him from getting hurt.
+
+#
+
+## **Optional Conversation with Evan** # 
+
+*Max can rewind and warn Evan.*
+
+**Max:** Evan, do you see that tornado? Get the hell out of here!
+
+**Evan:** Max, there's no way I can pass up these images! Just look at it!
+
+**Max:** You can't take a picture when you're dead! Now move your ass!
+
+**Evan:** Okay, if you insist...
+
+*Evan moves away before the debris hits him.*
+
+**Evan:** Whoa, Max! You do know things! I'm such an idiot.
+
+**Max:** Only if you don't find a safe spot until this blows over, okay?
+
+**Evan:** Now I better listen to the real "Everyday Hero"... Come with me!
+
+**Max:** I have to help somebody else first.
+
+*Max continues to walk toward the Two Whales Diner.*
+
+**Alyssa:** Somebody help me!
+
+*Max walks toward Alyssa. She is stuck in the second level of [McFlinn](a_house.md).*
+
+**Max:** *(thinking)* Shit... Alyssa needs help again!
+
+**Alyssa:** Please! Help me get down!
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

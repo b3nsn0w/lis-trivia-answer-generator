@@ -1,0 +1,18 @@
+#  Eric Morgan Stuart 
+
+[File:Eric_Morgan_Stuart.png](280px.md)
+**Eric Morgan Stuart** (born **Eric Parham** in Pittsburgh, Pennsylvania, USA) is the voice actor for [Ray Wells](principal_ray_wells.md) and [Cast (Life is Strange)#Eric Morgan Stuart](three_unnamed_minor_characters.md) in *[Life is Strange](life_is_strange.md)*.
+
+##  Biography 
+Now working as an acting coach and director, Eric is well known for his work on {{Wiki|Ben Stiller}}'s 1994 movie *{{Wiki|Reality Bites}}* and the 1999 TV series, *{{Wiki|Another World}}*.
+
+This is not his first appearance in a video game, as he provided additional voices for *{{Wiki|Prototype 2}}*.
+
+He and his wife Kimberly Montgomery have two children.
+
+'s 1994 movie *{{Wiki|Reality Bites}}* and the 1999 TV series, *{{Wiki|Another World}}*.
+
+This is not his first appearance in a video game, as he provided additional voices for *{{Wiki|Prototype 2}}*.
+
+He and his wife Kimberly Montgomery have two children.
+

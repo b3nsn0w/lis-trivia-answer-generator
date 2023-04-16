@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Name Of The Photography Contest Max Wins?",
+    "answer": "A",
+    "choices": {
+      "A": "Everyday Heroes",
+      "B": "Life Through A Lens",
+      "C": "Capturing Memories",
+      "D": "The Art Of Photography"
+    }
+  },
+  {
+    "question": "What Is The Name Of The School Max Attends?",
+    "answer": "A",
+    "choices": {
+      "A": "Blackwell Academy",
+      "B": "Arcadia High School",
+      "C": "Jefferson High School",
+      "D": "Prescott Academy"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Teacher Max Has A Crush On?",
+    "answer": "A",
+    "choices": {
+      "A": "Mr. Jefferson",
+      "B": "Mr. Madsen",
+      "C": "Mr. Wells",
+      "D": "Mr. Taylor"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Song Max Plays On Her Guitar?",
+    "answer": "B",
+    "choices": {
+      "A": "\"Crosses\" by José González",
+      "B": "\"Lua\" by Bright Eyes",
+      "C": "\"To All Of You\" by Syd Matters",
+      "D": "\"Obstacles\" by Syd Matters"
+    }
+  }
+]

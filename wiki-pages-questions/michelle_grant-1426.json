@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What Subject Does Michelle Grant Teach At Blackwell Academy?",
+    "answer": "A",
+    "choices": {
+      "A": "Mathematics and Science",
+      "B": "Art and Photography",
+      "C": "English and Literature",
+      "D": "History and Social Studies"
+    }
+  },
+  {
+    "question": "What Does Michelle Grant Say About The Recent Events In Episode 4?",
+    "answer": "A",
+    "choices": {
+      "A": "Nothing Is Beyond Science",
+      "B": "It Is A Prophecy",
+      "C": "It Is A Mystic Event",
+      "D": "It Is Beyond Human Understanding"
+    }
+  },
+  {
+    "question": "In Which Episode Does Michelle Grant Appear In Max's Nightmare?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 4: Dark Room",
+      "D": "Episode 5: Polarized"
+    }
+  }
+]

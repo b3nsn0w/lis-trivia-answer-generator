@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Purpose Of Max's Nightmare Journal In Episode 5?",
+    "answer": "A",
+    "choices": {
+      "A": "To Help Her Escape From Mark Jefferson",
+      "B": "To Record Her Dreams",
+      "C": "To Document Her Fears",
+      "D": "To Keep Track Of Her Memories"
+    }
+  },
+  {
+    "question": "What Happens To Max's Journal In The Alternative Situation In Episode 5?",
+    "answer": "A",
+    "choices": {
+      "A": "It Is Burnt",
+      "B": "It Is Stolen",
+      "C": "It Is Lost",
+      "D": "It Is Given To Chloe"
+    }
+  },
+  {
+    "question": "What Happens To Max's Journal Entries In Her Nightmare Scenes?",
+    "answer": "C",
+    "choices": {
+      "A": "They Become More Positive",
+      "B": "They Are Deleted",
+      "C": "They Are Replaced With Jefferson Quotes",
+      "D": "They Are Translated Into French"
+    }
+  },
+  {
+    "question": "What Is Missing From The \"Sugarcoat Everything\" Flyer In Max's Journal?",
+    "answer": "A",
+    "choices": {
+      "A": "The Date",
+      "B": "The Location",
+      "C": "The Price",
+      "D": "The Name Of The Event"
+    }
+  },
+  {
+    "question": "What Is The Missing Phrase On The Cat Sticker In Max's Journal?",
+    "answer": "D",
+    "choices": {
+      "A": "\"Meow At Me\"",
+      "B": "\"Purrfect Day\"",
+      "C": "\"Feline Fine\"",
+      "D": "\"Go Meow Yourself\""
+    }
+  }
+]

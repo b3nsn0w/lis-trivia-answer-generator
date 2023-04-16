@@ -1,0 +1,74 @@
+Here is a section of the wiki page for Episode 3: Chaos Theory - Script:
+
+attack. Talk to you later...
+
+{{!}}-{{!}}(Max wasn't friendly to Taylor)# (Max wasn't friendly to Taylor)**Taylor:** I hope I can believe you, Max...
+
+**Max:** I'm my own person, too. See you later.
+
+}}
+
+{{!}}-{{!}}Where did she go?Where did she go?**Max:** Where did she go?
+
+{{#tag:tabber|(Max was friendly to Taylor)# (Max was friendly to Taylor)**Taylor:** I know I can trust you since you were so nice asking about my mom in the hospital, but Victoria will, like, make my life hell if I blab, okay?
+
+**Max:** No doubt. I do hope your mother gets better. Let me know if you need anything.
+
+**Taylor:** Thanks... You're, like, weird but pretty cool, Max. Especially after watching you go up on that roof. Victoria is wrong about you. Now I have to be alone for my nightly anxiety attack. Talk to you later...
+
+{{!}}-{{!}}(Max wasn't friendly to Taylor)(Max wasn't friendly to Taylor)**Taylor:** My lips are like, sealed. Or Victoria will seal them for me.
+
+**Max:** No doubt. See you later.
+
+}}
+
+}}
+
+{{!}}-{{!}}Victoria sneaking out. (after rewind)# Victoria sneaking out. (after rewind)**Max:** I know... Victoria must be upset since I saw her sneaking out of the dorm past curfew...
+
+**Taylor:** Oh, man, like, you saw her? She was so, like, nervous when she left the dorm. She wouldn't even tell me where she was going.
+
+**Max:** Probably to hell. Well, I have to go crash. *(chuckles)* It's been a rough day, as you know.
+
+**Taylor:** Thanks, Max. And I hope you're okay too. You were the only one who tried to save Kate. Victoria was wrong about you. Now I have to be alone for my nightly anxiety attack. Talk to you later.
+
+{{!}}-{{!}}Blame Taylor.Blame Taylor.**Max:** You should believe it! She jumped because you and everybody here bullied her!
+
+**Taylor:** *(shocked)* What? You're, like, blaming me?
+
+**Max:** As a matter of fact, yes.
+
+**Taylor:** Then just get out of here! Like, stop fucking with me!
+
+{{#tag:tabber|(Max was friendly with Taylor)# (Max was friendly with Taylor)**Taylor:** I already told you that my mom is in the hospital.
+
+{{!}}-{{!}}(Max wasn't friendly with Taylor)(Max wasn't friendly with Taylor)**Taylor:** I've got my own family shit to deal with.
+
+}}
+
+**Taylor:** I'm done for the day.
+
+}}
+
+*Max leaves the bathrooms.*
+
+**Max:** *(thinking)* *[sighs]* Victoria isn't here... Maybe I'll just wait and bide my time...going through her shit.
+
+''Max enters Victoria's room.*
+
+# # ## *'Victoria's Room'* 
+*Max opens the door to Victoria's room and goes inside. The lights in the room are all turned off, so Max uses the flashlight on her phone.*
+
+**Max:** *(thinking)'' Since I've crossed the line from snoop to detective, I might as well search for clues about what really happened to Kate at the Vortex Club party.
+
+''Max searches Victoria's room. After finding nothing of importance, she leaves the room.*
+
+**Max:** *(thinking)* *[sighs]'' Nothing to see here... I guess I shouldn't be so bummed. Not that Victoria couldn't hide her shit... Man, *(chuckles)* I'm getting paranoid.
+
+''Max enters Dana's room.*
+
+# #
+
+
+
+Generate five trivia questions relevant to this section of the page.

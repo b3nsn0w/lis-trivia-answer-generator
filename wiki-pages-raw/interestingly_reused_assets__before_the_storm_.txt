@@ -1,0 +1,81 @@
+= Interestingly Reused Assets (Before the Storm) =
+
+
+Many of the '''game assets''' from ''[[Life is Strange]]'' by [[Don't Nod]] were reused in ''[[Life is Strange: Before the Storm]]'' by [[Deck Nine Games]]. This article lists some interestingly reused game assets.
+
+== Episode One - "[[Episode 1: Awake|Awake]]" ==
+
+=== License Plate ===
+The '''978 AM''' license plate was originally seen in [[David Madsen]]'s [[David's Garage|garage]] in ''Life is Strange''<nowiki>'s</nowiki> [[Episode 2: Out of Time|second episode]]. In ''Before the Storm'', the same plate appears in the [[Old Mill]] behind the bar area.<ref group="note">A dirtier version of the plate could also be found in the [[Hideout|hideout]] at the [[American Rust Junkyard|junkyard]] in the original game. The 978 AM plate was one of the few plates in ''Life is Strange'' which did not appear to be [[References (Life is Strange)|referencing]] a famous TV show. As this particular plate is being reused at this location, this may be causing a minor inconsistency between ''Before the Storm'' and ''Life is Strange''.</ref>
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="200" captionalign="center" position="center">
+Oregon_plate-BtS-Clean.png|The reused plate from David's garage in the original game.
+</gallery>
+
+=== Victoria's Shoes ===
+An original game asset called ''TX_Fab_VictoriaShoes02_D'' was reused and placed on [[Chloe Price (Before the Storm)|Chloe Price]]'s shelving in her [[Chloe's Room (Before the Storm)|bedroom]]. This game asset was originally found on the floor of [[Victoria Chase]]'s [[Victoria's Room|dorm room]] in ''Life is Strange''.
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="300" captionalign="center" position="center">
+vics-shoes-chloes-room.png|Victoria's shoes in Chloe's room.
+</gallery>
+
+=== Jefferson's Car ===
+The car across the street at the [[Price Household (Before the Storm)|Price household]] is the same one Jefferson drives and also has the same number plate.<ref>[https://www.reddit.com/r/lifeisstrange/comments/6y90w4/bts_e1_the_car_parked_across_the_street_from/ Reddit post by /u/magicarrot]</ref>
+[[File:Jefferson's_car_BtS.jpg|center|thumb|400px]]
+
+
+=== Chloe's Neighbor's Bicycle ===
+A bicycle can be seen lying on the floor on the sidewalk, next to Chloe's house in ''Before the Storm''. The exact same bicycle can be seen leaning against a bench in Blackwell Academy's campus in ''Life is Strange''.
+[[File:Bicycle.jpg|center|thumb|400px]]
+
+=== Victoria's Lioness Plushie ===
+During Chloe's dreams, a lioness plushie can be seen on the back seat of William's car. The same plushie could be found in Victoria's room in ''Life is Strange''.
+<gallery hideaddbutton="true" widths="300" position="center" bordersize="none" bordercolor="transparent" captionalign="center">
+lionessplushie-bts.png|''Before the Storm''
+lionessplushie-lis.png|''Life is Strange''
+</gallery>
+
+=== William's Car ===
+TBA
+
+[insert images]
+
+=== Max's Guitar ===
+In the backstage area of the [[Drama Lab]], a guitar completely identical to the one used by [[Maxine Caulfield|Max Caulfield]] in ''Life is Strange'' can be seen.
+<gallery hideaddbutton="true" widths="400" position="center" bordersize="none" bordercolor="transparent">
+guitar1.jpg
+</gallery>
+
+== Episode Two - "[[Episode 2: Brave New World|Brave New World]]" ==
+
+=== Two Whales Dinner Placemat ===
+In the junkyard, Chloe can come across an old placemat from the Two Whales diner. This placemat can be seen on the floor of the hideout in ''Life is Strange''.
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="300" captionalign="center" position="center">
+placemat-bts-junkyard.png|''Before the Storm''
+Diner-placemat-screen.png|''Life is Strange''
+</gallery>
+
+=== Glow-in-the-Dark Action Figure ===
+During the second episode of ''Before the Storm'', an action figure can be seen on a display shelf in Eliot's room. Towards the beginning of the third episode of ''Life is Strange'', the same figure can be seen in Victoria's room. <gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="300" captionalign="center" position="center">
+vicfigure-bts.png|''Before the Storm''
+vicfigure-lis.png|''Life is Strange''
+</gallery>
+
+== Episode Three - "[[Hell Is Empty]]" ==
+=== Victoria's Shoes Again ===
+Victoria's shoes appear again in [[Rachel Amber (Before the Storm)|Rachel Amber]]'s [[Rachel's Room|bedroom]]. As mentioned earlier on this article, these shoes first appeared on the floor of Victoria's dorm room in ''Life is Strange''.
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="300" captionalign="center" position="center">
+vics-shoes-rachels-room2.png|Victoria's shoes in Rachel's room.
+</gallery>
+
+=== Hospital Room ===
+The [[Hospital (Before the Storm)|hospital]] room in ''Before the Storm'', where Rachel is in looks similar to Kate's [[hospital]] room in ''Life is Strange''.<ref>[https://www.reddit.com/r/lifeisstrange/comments/7lnbfo/all_reused_room_even_the_clock_is_the_same_time/ Reddit post by /u/MattFerrell]</ref>
+
+== Notes ==
+<references group="note"/>
+
+== References ==
+<references />
+[[Category:Before the Storm]]
+[[Category:Special Content]]
+[[Category:Special Content (Before the Storm)]]
+
+[[Category:Life is Strange]]

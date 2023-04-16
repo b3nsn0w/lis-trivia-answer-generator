@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Did the Developers Want Mark Jefferson to Appear as?",
+    "answer": "A",
+    "choices": {
+      "A": "A Cool Teacher",
+      "B": "A Strict Teacher",
+      "C": "A Boring Teacher",
+      "D": "A Funny Teacher"
+    }
+  },
+  {
+    "question": "When Did Mark Jefferson's True Evil Colors Appear?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1",
+      "B": "Episode 2",
+      "C": "Episode 3",
+      "D": "Episode 5"
+    }
+  },
+  {
+    "question": "Who Was In Love With Mark Jefferson Before Her Death?",
+    "answer": "D",
+    "choices": {
+      "A": "Chloe Price",
+      "B": "Max Caulfield",
+      "C": "Victoria Chase",
+      "D": "Rachel Amber"
+    }
+  },
+  {
+    "question": "What Did Mark Jefferson Use as His Cover?",
+    "answer": "C",
+    "choices": {
+      "A": "A Police Officer",
+      "B": "A Security Guard",
+      "C": "A Teacher",
+      "D": "A Janitor"
+    }
+  },
+  {
+    "question": "What Did the Concept Artist Want Mark Jefferson to Look Like?",
+    "answer": "A",
+    "choices": {
+      "A": "A Veteran of the Art World",
+      "B": "A Young Artist",
+      "C": "A Businessman",
+      "D": "A Scientist"
+    }
+  }
+]

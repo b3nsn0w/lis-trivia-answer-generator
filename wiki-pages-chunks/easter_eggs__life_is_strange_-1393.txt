@@ -1,0 +1,67 @@
+Here is a section of the wiki page for Easter Eggs (Life is Strange):
+
+## Christian Divine 
+One of the writers of *Life is Strange*, [Christian Divine](christian_divine.md), appears as "Xtian DaVin" on a flyer inside the [Zeitgeist Gallery](zeitgeist_gallery.md). The use of the letter X to replace "Christ" is a Christogram that originates from the Greek letter "Chi." This is similar in form to the modern-day X and is the first letter in *Χριστός*, which means "Christ" in English. It is quite fitting that Christian makes an appearance on a flyer about a clip show and lecture on genre films as he likes to talk about this subject and give presentations.Christian Divine speaks about his genre lectures from 00:56:40 in [http://www.gdcvault.com/play/1023848/-Life-is-Strange-The this video] from the 2016 Game Developers Conference (GDC) in Europe.
+
+In late 2020, DONTNOD's [Edouard Caplain](edouard_caplain.md) was revisiting some of his past work on *Life is Strange* and had an interesting story to share about his illustration of Christian on the flyer. Christian's shirt displays the *Goldorak**Goldorak* is the name of the French adaptation of *{{wiki|Grendizer|UFO Robot Grendizer}}*, a Japanese anime series and manga from 1975. cup he had wanted to "fake steal" from Johan Foissy's (Main Environment Artist) desk. Because of Christian's love for the cup, Edouard decided to draw it on his shirt with the words, "it could be mine."
+
+LiS_ArtGallery-Xtian_DaVin.png
+
+## Bigfoot 
+Bigfoot is a large and mysterious humanoid creature purported to inhabit the wild and forested areas of Oregon and the West Coast of North America.For more information on the Bigfoot legend, see [https://oregonencyclopedia.org/articles/bigfoot_sasquatch_legend/ here]. It's a recurring theme in *Life is Strange* since the game's story is set in the same area where the Bigfoot folklore originated from.
+
+[to be continued]
+
+*The [Bigfoots](bigfoots.md), Blackwell Academy's football team.
+*The fifth optional photo in Episode 4.
+
+## Box Art Polaroid 
+When Max attempts to fix her broken camera in [Chloe's Room](chloe_s_room.md) in Episode 1, there are a number of polaroids visible on the desk. One of these looks very similar to the box/cover art of *Life is Strange*. It is not obvious in the game itself, as Max's broken camera slightly obscures this particular photo, but the game files reveal the full image.
+
+cover-art-polaroid.PNG|Texture and the ingame appearance
+Max concept art.jpg|Cover art
+
+## Breaking the Fourth Wall 
+In the [Two Whales Diner](diner.md) sequence of Max's nightmare in Episode 5, "[Episode 5: Polarized](polarized.md)", Max has to enter a code to exit the diner bathroom. If you enter the incorrect code **50 times**, the door will open and Max will say,
+
+''"I'm going to make the designers pay for all these bullshit code puzzles!"*
+
+[File:Max breaks the fourth wall.jpg](centre.md)
+
+## Bottle Hunt 
+During Episode 2, "[Episode 2: Out of Time](out_of_time.md)", Max is given the arduous task of finding five bottles for Chloe in the [American Rust Junkyard](american_rust_junkyard.md). It is clear from a statement she later makes in the VIP section of the [End of the World Party](_end_of_the_world_party_.md) in Episode 4, "[Episode 4: Dark Room](dark_room.md)", that the bottle-collecting task was not something she particularly enjoyed:
+
+*"No. More. Bottles."*
+
+During Episode 5, "[Episode 5: Polarized](polarized.md)", Max has the opportunity to once again put herself through the task of finding five bottles for a [Optional Photos](photo_op.md) in the nightmare maze section that resembles the junkyard. She will make several disgruntled comments about this:
+
+*"Looks like there are still bottles to find... Oh, joy."*
+
+*"Chloe, I blame you for this... You will pay."*
+
+*"Oh no... Bottles. This might be Hell."*
+
+*"When did I get bad bottle karma?"*
+
+Once she takes a photograph of all collected bottles, she says:
+
+*"I need proof that bottles were out to get me, just in case..."''
+
+## Cat Pics 
+Throughout the game, on several occasions it's mentioned that someone lost his tablet with cat pics on it. It became a running gag since there are several funny hints to the owner's desperate attempts to get it back, and even the thief has their say.
+* At the beginning of the first episode, Max spots a paper calling for help in finding the missing tablet and advertising a finder's reward. It states that the tablet contains a lot of personal pics of the owner's late cats (RIP). It also says that everyone would know who and where the owner is.
+* At the entrance to the [End of the World Party](end_of_the_world_party.md), you can hear [Stella](stella.md) talking to someone explaining that she hasn't seen any tablet with cat pics.
+* In Episode 5, in the street leading to the diner, Max can find a note from the actual thief saying that he regrets what he did and that he only was jealous that the owner "had all those cool cats in his life".
+* In [Max's Nightmare](max_s_nightmare.md) in Episode 5, one of the lines written in [Max's Nightmare Journal](her_journal.md) says,*"Find my cat pix. Please. My heart is broken."*
+(To Be Continued)
+
+2016-01-30_00022.jpg|Episode 5
+Reward bitch and hiv pposters prescott dorms.png|Episode 1
+Stolen Cat Pics Ad Swimming Pool.png|Episode 2
+
+## Coordinates 
+TBA
+
+
+
+Generate five trivia questions relevant to this section of the page.

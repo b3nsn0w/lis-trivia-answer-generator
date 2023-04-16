@@ -1,0 +1,51 @@
+Here is a section of the wiki page for David's Garage:
+
+#  David's Garage 
+
+```yaml
+Location
+
+image: Davidgarage-ep1.jpg
+name: David's Garage
+type: Garage
+location: '[Madsen Household](madsen_household.md), [Arcadia Bay](arcadia_bay.md)'
+state: Oregon
+appears: >-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)[Episode 3: Chaos
+  Theory](episode_3__chaos_theory.md)[Episode 4: Dark
+  Room](episode_4__dark_room.md)
+```
+
+'''David's Garage''' is the garage in of the [Madsen Household](madsen_household.md), located besides the corridor on the ground floor. [David Madsen](david_madsen.md) uses it to store his weapons in a rack, repair a car and as a surveillance center. He has a monitor in a closet that is connected to security cameras around the house. His [David's Files](surveillance_files.md) are also hidden on top of a closet.
+
+## Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+[Maxine Caulfield](max_caulfield.md) can find David's files and read them, but due to her clumsiness they get dirty and she can [Rewind](rewind.md) so David doesn't notice that someone touched his files. She can also find the surveillance monitor and notice the security cameras installed in the house. By examining the chest of drawers to the left of the entrance, Max can find David's security badge, gun license and a photo of him in the military camouflage.
+
+## Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+[Chloe Price](chloe_price.md) distracts [Joyce Price](joyce_price.md), so that Max can sneak inside David's garage to gather clues. Max needs to find the password for David's laptop and can examine several objects while searching. The password is the date of David and Joyce meeting in the [Two Whales Diner](two_whales_diner.md), where they likely fall in love with each other. They met on November 27, 2008. This can be observed from a receipt of the diner with a note from Joyce on the back, which is hidden under the sun visor of David's car. The data on David's laptop reveals that Rachel had a close relationship with Frank and that he is tracking Kate and Max. Max can also see the code of the padlock laying on the table, which David will use in episode 4 to lock his locker.
+
+Note from Joyce on the back of the receipt:
+
+"It was an honor having you in the diner.
+
+Nice to know that gentlemen still exist.
+Love to talk again with you soon.
+
+BTW, the name is Joyce if you forgot :)"
+
+## Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+Depending on Joyce throwing David out of the house, David can either be in his garage working or on the way to a hotel room. Max needs to open David's locker, which contains information about his investigation on [Rachel Amber](rachel_amber.md). She can do so by either inputting the correct combination for the padlock (7171) or using a crowbar. The car, which prevented Max from reaching the locker earlier, is no longer present, hinting at the fact that David has finished the repairs.
+
+Near the entrance to the garage is located a bird's nest. Max can move the board (and move it back after, if you do not want to disturb the nest) to take an [Optional Photos](optional_photo.md).
+
+## Alternative Timeline 
+{{Main|Alternative Price Garage}}
+In the [Alternative Timeline](alternative_timeline.md) the garage has been replaced by a high-tech medical room for Chloe. Her bed stands in the middle, facing the doorway. An additional window has been added in order to give Chloe a good view of the outside world. Another bathroom has also been attached to the room for Chloe's convenience.
+
+## Interactions 
+:**PC users: **''Hover over the text to see Max's comments. [Interactions](see_here.md) for all interactions in the game.''
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "In which game is Seattle a story-relevant location?",
+    "answer": "C",
+    "choices": {
+      "A": "Life is Strange",
+      "B": "Life is Strange 2",
+      "C": "Both A and B",
+      "D": "None of the above"
+    }
+  },
+  {
+    "question": "Who is Max's best friend that she left behind in Arcadia Bay to move to Seattle?",
+    "answer": "D",
+    "choices": {
+      "A": "Rachel Amber",
+      "B": "Kate Marsh",
+      "C": "Victoria Chase",
+      "D": "Chloe Price"
+    }
+  },
+  {
+    "question": "Who are the residents that live next door to the Diaz household in Life is Strange 2?",
+    "answer": "A",
+    "choices": {
+      "A": "Brett and Scott Foster",
+      "B": "Ryan and Vanessa Caulfield",
+      "C": "Kristen and Fernando",
+      "D": "Lyla and Yu-jin Park"
+    }
+  },
+  {
+    "question": "In which game did Max move to Seattle with her family in 2008?",
+    "answer": "A",
+    "choices": {
+      "A": "Life is Strange",
+      "B": "Life is Strange 2",
+      "C": "Both A and B",
+      "D": "None of the above"
+    }
+  }
+]

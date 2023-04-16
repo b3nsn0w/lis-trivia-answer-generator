@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who Is The Main Protagonist Of Life Is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "Chloe Price",
+      "B": "Rachel Amber",
+      "C": "Max Caulfield",
+      "D": "Victoria Chase"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Town Where Life Is Strange Takes Place?",
+    "answer": "C",
+    "choices": {
+      "A": "Seattle",
+      "B": "Portland",
+      "C": "Arcadia Bay",
+      "D": "San Francisco"
+    }
+  },
+  {
+    "question": "Who Is The Developer Of Life Is Strange?",
+    "answer": "D",
+    "choices": {
+      "A": "Square Enix",
+      "B": "Ubisoft",
+      "C": "Naughty Dog",
+      "D": "Dontnod Entertainment"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Prequel To Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Before The Storm",
+      "B": "After The Storm",
+      "C": "During The Storm",
+      "D": "Beyond The Storm"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Sequel To Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Life Is Strange 2",
+      "B": "Life Is Strange: Before The Storm 2",
+      "C": "Life Is Strange: The Next Chapter",
+      "D": "Life Is Strange: The Aftermath"
+    }
+  }
+]

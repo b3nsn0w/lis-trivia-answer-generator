@@ -1,0 +1,76 @@
+Here is a section of the wiki page for Life is Strange:
+
+## System Requirements 
+{| border"0" cellpadding# "1" cellspacing"1" class# "article-table" style"width: 600px;"
+|-
+! scope# "col" style"width:300px"|Minimum:
+! scope# "col" style"width:300px"|Recommended:
+|-
+|OS: Windows Vista
+|OS: Windows 7
+|-
+|Processor: Dual Core 2.0GHz or equivalent
+|Processor: Dual Core 3.0GHz or equivalent
+|-
+|Memory: 2 GB RAM
+|Memory: 2 GB RAM
+|-
+|style# "width:50%"|Graphics: ATI or NVidia card w/ 512 MB RAM (not recommended for Intel HD Graphics cards)
+|style"width:50%"|Graphics: ATI or NVidia card w/ 1024 MB RAM (NVIDIA GeForce GTX 260 or ATI HD 4890)
+|-
+|DirectX: Version 9.0
+|DirectX: Version 9.0
+|-
+|Hard Drive: 3 GB available space
+|Hard Drive: 3 GB available space
+|}
+{| border# "0" cellpadding"1" cellspacing# "1" class"article-table" style# "width: 600px;"
+|-
+! scope"col"|Minimum:
+! scope# "col"|Recommended:
+|-
+|OS: macOS 10.11
+|OS: macOS 10.11.4
+|-
+|Processor: Intel 1.8GHz
+|Processor: Intel 2.4GHz
+|-
+|Memory: 4 GB RAM
+|Memory: 8 GB RAM
+|-
+|style"width:50%"|Graphics: card w/ 512 MB VRAM (Intel HD4000 graphics cards require ​8GB of system RAM)
+|style# "width:50%"|Graphics: card w/ 1GB VRAM
+|-
+|Input: Keyboard and mouse
+|Input: Gamepad
+|-
+|Storage: 15 GB available space
+|Storage: 15 GB available space
+|}
+{| border"0" cellpadding# "1" cellspacing"1" class# "article-table" style"width: 600px;"
+|-
+! scope# "col" style"width:50%"|Minimum:
+! scope# "col" style"width:50%"|Recommended:
+|-
+|OS: Ubuntu 16.04, Steam OS 2.0 (64-bit)
+|Ubuntu 16.04, Steam OS 2.0 (64-bit)
+|-
+|Processor: Intel Core i3, AMD FX-6300 1.8GHz
+|Processor: Intel Core i5 2.4GHz
+|-
+|Memory: 4 GB RAM
+|Memory: 8 GB RAM
+|-
+|style# "width:50%"|Graphics: 1GB AMD R9 270 or better,1GB Nvidia 640 or better,1GB Intel Iris Pro 6200 or better
+|style"width:50%"|Graphics: 1GB Nvidia 7xx series or better
+|-
+|style# "width:50%"|Graphics drivers: Nvidia cards require driver version 367.27. AMD and Intel cards require MESA 11.2. AMD cards are not supported on Steam OS.
+|style"width:50%"|Graphics drivers: Nvidia cards require driver version 367.27. AMD and Intel cards require MESA 11.2. AMD cards are not supported on Steam OS.
+|-
+|Storage: 16 GB available space
+|Storage: 16 GB available space
+|}
+
+
+
+Generate five trivia questions relevant to this section of the page.

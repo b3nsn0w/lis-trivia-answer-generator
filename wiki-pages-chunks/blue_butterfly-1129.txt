@@ -1,0 +1,32 @@
+Here is a section of the wiki page for Blue Butterfly:
+
+## The Butterfly Effect 
+The {{Wiki|butterfly effect|Butterfly Effect}} is addressed throughout *Life Is Strange*, because even when Max uses her powers to alter what she sees as the smallest of things, this can have serious consequences later on. The butterfly effect comes under a branch of mathematics called {{wiki|Chaos Theory}} which deals with the unpredictability of events, and the term itself originates from a scientific paper written in 1972 by a meteorologist called Edward Lorenz entitled ''Predictability: Does the Flap of a Butterfly's Wings in Brazil set off a Tornado in Texas?*.
+
+It is interesting that the events of *Life is Strange'' begin with the appearance of a butterfly at the beginning and end with a [Storm](tornado.md), perfectly mirroring Lorenz's theory. Max also sees the tornado as a culmination of all the changes she has made to the timeline: *"This is my storm. I caused this... I caused all of this. I changed fate and destiny so much that... I actually did alter the course of everything. And all I really created was just death and destruction!"*
+
+The notion of a small change causing significant damage in the future is also addressed in a work of fiction by Ray Bradbury called *{{Wiki|A Sound of Thunder}}*. In this story, time travel is possible, and the wealthy can pay to travel back in time to hunt extinct species. A hunter, a guide, and an assistant travel back to the Late Cretaceous period to hunt and kill a Tyrannosaurus rex. The hunter, Eckels, is warned in advance to stick to the designated path, but he panics upon seeing the T-Rex and deviates. When they return to the future, it has changed, and Eckels examines his boots to discover a crushed butterfly from the past. It is the premature death of such a small thing that is thought to have brought greater consequences on the future.Ray Bradbury's novel *The October Country* is also mentioned in the second episode of the game.
+
+[File:This action will have consequences-0.png](thumb.md)
+After a choice is made in *Life is Strange*, an animated sketch of a butterfly appears with a warning in the top left corner of the screen to remind the player that "This action will have consequences." This serves to remind the player that this action creates a butterfly effect and the results will be seen later on.
+
+## Trivia 
+* The blue butterfly resembles a neotropical butterfly from the genus *{{Wiki|Morpho}}* - more specifically, the species *{{Wiki|Morpho didius}}*. These can be found in South America, Mexico, and Central America. It is also similar to (but less so) a Ulysses Butterfly (*{{Wiki|Papilio ulysses}}*) which is commonly found in Australia, Indonesia, Papua New Guinea and the Solomon Islands.
+* The first episode's title, "[Episode 1: Chrysalis](chrysalis.md)", is the name of the pupa life stage of butterflies, and so refers to a metamorphosis undergone by butterflies. Figuratively, it refers to the beginning of Max's journey and coming-of-age story.
+** On page 8 or Max's diary, in reference to the butterfly analogy, she writes: ''"At least I'm trying to climb out of my cocoon. I shouldn't expect my life to completely change after a few weeks of Blackwell Academy."''
+* The blue butterfly is believed to be Chloe's spirit. This idea is reinforced by [media:Maxnightmarejournal.png](a_drawing.md) in Max's journal during her [Max's Nightmare](nightmare.md). The drawing is a butterfly with Chloe's head, and the texture file for this drawing in the game files is named *Spirit_animal_Chloe*.
+* The cover art for Breton's album "War Room Stories" - from which the song "[Got Well Soon](got_well_soon.md)" is featured at the [End of the World Party](end_of_the_world_party.md) - displays a blue butterfly.
+
+## Notes 
+
+*, tells of two butterflies that rose from a grave after a woman threw herself into it to be with her deceased lover. This tale is famous in East Asia where butterflies are thought of as a symbol of immortality, long life, and romanticism.[https://www.thesbeauty.com/chinese-cultural-symbol-butterfly-ezp-42 Chinese Cultural Symbol: Butterfly] Butterflies can be seen as a sign of comfort at funerals or as a guide for those having difficulties with life decisions.
+
+In Ancient Greece, the butterfly was associated with the word *psyche*, which meant *soul*. Many other ancient cultures also thought of butterflies as representing human souls - souls of the dead.[https://www.baylor.edu/lakewaco_wetlands/index.php?id34628 Butterfly Lore]. They carry many meanings to many different cultures around the world[https://blog.shoplc.com/butterfly-symbolism/ Butterfly Symbolism and Meaning in World Culture], but the themes mentioned above seem to be the most common.
+
+Butterflies are also a universal symbol of beauty.
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

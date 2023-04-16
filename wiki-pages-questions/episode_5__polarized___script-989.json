@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Max's Reaction To The Gallery?",
+    "answer": "B",
+    "choices": {
+      "A": "She Is Unimpressed",
+      "B": "She Is Awestruck",
+      "C": "She Is Anxious",
+      "D": "She Is Bored"
+    }
+  },
+  {
+    "question": "What Does Principal Wells Advise Max To Do At The Gallery?",
+    "answer": "B",
+    "choices": {
+      "A": "Eat As Much As Possible",
+      "B": "Talk To As Many Influential People As Possible",
+      "C": "Take As Many Photos As Possible",
+      "D": "Leave As Soon As Possible"
+    }
+  },
+  {
+    "question": "What Does Max Say About Her Status At The Gallery?",
+    "answer": "A",
+    "choices": {
+      "A": "She Feels Like A Kid Among Adults",
+      "B": "She Feels Like An Adult Among Kids",
+      "C": "She Feels Like A Celebrity",
+      "D": "She Feels Like An Outsider"
+    }
+  },
+  {
+    "question": "Who Approaches Max To Discuss Her Photography?",
+    "answer": "B",
+    "choices": {
+      "A": "The Receptionist",
+      "B": "The Man Near The Neon Art",
+      "C": "The Woman Who Wanted To Attend Blackwell Academy",
+      "D": "The Family Behind The Everyday Heroes Board"
+    }
+  },
+  {
+    "question": "What Does Matthew Claim About The Camera Used For A Photo?",
+    "answer": "C",
+    "choices": {
+      "A": "It Was A Medium Format Camera",
+      "B": "It Was A Leica 35mm Lens",
+      "C": "It Was A Disposable Camera",
+      "D": "It Was A Polaroid Camera"
+    }
+  }
+]

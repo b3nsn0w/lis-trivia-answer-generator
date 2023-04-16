@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Main Source Of Commerce In Arcadia Bay?",
+    "answer": "A",
+    "choices": {
+      "A": "Fishing",
+      "B": "Agriculture",
+      "C": "Tourism",
+      "D": "Manufacturing"
+    }
+  },
+  {
+    "question": "What Is The Connection Between The Meteorological Anomalies And Max's Abilities?",
+    "answer": "C",
+    "choices": {
+      "A": "They Are Completely Unrelated",
+      "B": "Max's Abilities Cause The Anomalies",
+      "C": "The Anomalies Trigger Max's Abilities",
+      "D": "The Anomalies And Max's Abilities Are Both Caused By The Prescott Family"
+    }
+  },
+  {
+    "question": "In Which Episode Of Life Is Strange Does An Unexpected Eclipse Occur?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "In Before The Storm, What Causes The Forest Fire?",
+    "answer": "B",
+    "choices": {
+      "A": "A Lightning Strike",
+      "B": "A Cigarette Butt",
+      "C": "A Gas Leak",
+      "D": "A Wild Animal"
+    }
+  },
+  {
+    "question": "What Is The Status Of Arcadia Bay In The Comic Series?",
+    "answer": "C",
+    "choices": {
+      "A": "It Is Thriving",
+      "B": "It Has Been Abandoned",
+      "C": "It Has Been Destroyed",
+      "D": "It Has Been Moved To Another Location"
+    }
+  }
+]

@@ -1,0 +1,73 @@
+Here is a section of the wiki page for Cinematic Screenshots:
+
+Strange\LifeIsStrangeGame\Config\LifeIsStrangeEngine.ini" to your liking.
+
+MaxProcBuildingLODColorTextureSize4096
+MaxProcBuildingLODLightingTextureSize# 4096
+ImageReflectionTextureSize4096
+TerrainMaterialMaxTextureCount# 32
+FilteredDistortionTrue
+AllowSubsurfaceScattering# true
+AllowImageReflectionstrue
+AllowImageReflectionShadowing# true
+MaxMultiSamples0
+bAllowD3D9MSAA# False
+MinShadowResolution128
+MinPreShadowResolution# 16
+MaxShadowResolution8192
+MaxWholeSceneDominantShadowResolution# 8192
+ShadowFadeResolution512
+bEnableVSMShadows# true
+bDNEAllowChromaticAberrationFalse
+ResX# 2560
+ResY1440
+
+Activating the freecam in-game with player controls:
+*Have [https://cheatengine.org/downloads.php Cheat Engine] opened (use the portable version which doesn't include an {{Wiki|adware}}-packed installer), select the process and load the linked [http://steamcommunity.com/sharedfiles/filedetails/?id# 656832219 Cheat Engine table].
+*Load the area you would like to explore in [Collectible Mode](collectible_mode.md).
+*Press **G** or execute "Ghost" to activate Ghost, **F2** to activate the Cheat Engine script, **PageDown** or execute "CycleCamera -1" to activate the freecam and **H** to hide Max.
+*Tweak all settings to your liking using the UE3 commands and cheat engine table.
+
+Controls:
+***WASD**: move the camera like the player.
+***Q and E**: change the camera height.
+***Mouse**: Aim
+
+[Control description below written by davidcsimon]
+***T** or "Talk": Opens up the console, remove the word "say" before entering a command.
+***P** or "PlayersOnly": Pause all characters and cutscene cameras except for Max. Environmetal animations will play as usual
+***G** or "Ghost": Ghost mode – Max can now fly and pass through objects and people. You can move around as normal, but she won’t fall, and you can go places that are normally unreachable. Cutscenes will not trigger in this mode. Max’s animation state will freeze. This state cannot be reset without reloading the last checkpoint.
+***O** or "Teleport": Teleport to the first collidable surface in sight. Imagine a crosshair in the center of your screen, this command will teleport Max to whatever is under that crosshair, including invisible walls and ceilings. Use with Ghost Mode to change the camera height.
+***PageUp** or "CycleCamera -1": Lock the camera in place. You can still move Max as normal (great for taking shots of Max, or moving her out of frame). Press again to cycle through preset cameras.
+***PageDown** or "CycleCamera 1": Cycles the camera back.
+***Home** or "CycleCamera 0": Unlock the camera, moving it back to the standard over-the-shoulder position
+***NumPad 1-9** or "FOV [5/10/15/20/25/30/50/55/60/70/80/90/120/130/0]": Adjust the Field of View. Combine with Alt to adjust by increments.
+***Alt + NumPad 9**: Reset to the default FoV
+***F6-F8** or "Slomo [0.001/0.2/0.6]": Slow motion. Max can still be controlled, albeit slowly.
+***F9** or "Slomo 1": Reset to normal speed.
+***F10-F11** or "Slomo [2/3]": Fast Forward (Useful for rushing through cutscenes)
+
+Additional mentionable commands ([https://docs.unrealengine.com/udk/Three/EditorConsoleCommands.html All UE3 commands]):
+***ShowDebug**: Prints debug text in the upper left corner of the screen. (run again to turn off)
+Location: X Y Z" is Max's location in the map and "CameraStyle" is the current camera mode (which you can toggle through with the PageUp and PageDown keys). Some modes are "Adrift_Walk" which allows you to rotate the camera relative to Max (the default mode) and "FreeCamera" which locks the camera in place, allowing you to move Max off-screen.
+***ToggleUI**: Toggle UI visibility (not recommended, use the CE table).
+***ChangeSize [0]**: Changes Max's character size.
+***BugItGo [0 0 0 0 0 0]**: Teleports the player to the given coordinates.
+
+[Instructions below written by Ness199X]
+Moving during cutscenes:
+During cutscenes the player object doesn't exist, so you cannot just switch into ghost to fly around. The following instructions will allow you to move around during cutscenes (be aware that this can cause you to crash if these commands are executed out of order)
+
+*Execute "PlayersOnly" or press **P**.
+*Execute "CycleCamera -1" and/or "CycleCamera 1" or press **PageUp** and/or **PageDown** until you can rotate the camera.
+*Execute the command "DebugCreatePlayer 0". Your screen should split in two, with a floating Max in the bottom screen.
+*Execute "SSSwapControllers 0"
+*Execute "DebugRemovePlayer 0". Your screen should return to a single frame, with the floating Max in it.
+*Execute "Ghost" or press **G**. You should now be able to move the new Max around freely. Note that your camera controls may be a bit broken, as the camera control is relative to the 'real' Max object in the cutscene. Experiment with BugItGo and **PageUp**/**PageDown** to get it under control.
+
+[Credits to [https://www.youtube.com/watch?vx7SRMmcH0ho denetii]]
+*Execute the following command before a branching dialog sequence to exit it: "KillAll WhatIfDialogActor"
+
+# # 
+
+Generate five trivia questions relevant to this section of the page.

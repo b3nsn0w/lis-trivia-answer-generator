@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Where is the Water Tower located?",
+    "answer": "B",
+    "choices": {
+      "A": "Near the Beach",
+      "B": "In the American Rust Junkyard",
+      "C": "In the City Center",
+      "D": "In the Forest"
+    }
+  },
+  {
+    "question": "What is written on the side of the Water Tank?",
+    "answer": "B",
+    "choices": {
+      "A": "City of Arcadia Bay",
+      "B": "Not a single fuck was given that day",
+      "C": "Drink Me",
+      "D": "Keep Out"
+    }
+  },
+  {
+    "question": "What episode of Life is Strange features the Water Tower?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "What is the appearance of the Water Tower?",
+    "answer": "B",
+    "choices": {
+      "A": "A small, shiny structure with no graffiti",
+      "B": "A tall, heavily rusted structure with graffiti on the side",
+      "C": "A modern, glass structure with no graffiti",
+      "D": "A wooden structure with no graffiti"
+    }
+  }
+]

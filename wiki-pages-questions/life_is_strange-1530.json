@@ -1,0 +1,22 @@
+[
+  {
+    "question": "In which category did Life is Strange win the Emotional Games Awards in 2016?",
+    "answer": "C",
+    "choices": {
+      "A": "Best Emotional Game Design",
+      "B": "Best Emotional Music Game",
+      "C": "Best Emotional Game",
+      "D": "None of the above"
+    }
+  },
+  {
+    "question": "In which category did Life is Strange win the Audience Award at the Game Developers Choice Awards?",
+    "answer": "D",
+    "choices": {
+      "A": "Adventure Game of the Year",
+      "B": "Outstanding Achievement in Game Direction",
+      "C": "Outstanding Achievement in Character",
+      "D": "Audience Award"
+    }
+  }
+]

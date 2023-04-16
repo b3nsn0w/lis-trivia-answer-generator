@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Daniel Say About Max's Portrait Hanging In The Louvre?",
+    "answer": "B",
+    "choices": {
+      "A": "It Will Hang In The Max Caulfield Wing",
+      "B": "It Will Hang In The Daniel DaCosta Wing",
+      "C": "It Will Hang In The Victoria Chase Wing",
+      "D": "It Will Hang In The Nathan Prescott Wing"
+    }
+  },
+  {
+    "question": "What Is Nathan Doing When Max Enters The Classroom?",
+    "answer": "A",
+    "choices": {
+      "A": "Taking Photos Of Kate",
+      "B": "Sitting At Max's Desk",
+      "C": "Talking To Victoria",
+      "D": "Drawing In His Notebook"
+    }
+  },
+  {
+    "question": "What Does Warren Say About Kate's Eyes?",
+    "answer": "A",
+    "choices": {
+      "A": "They Are Puffy From Crying",
+      "B": "They Are Red From Allergies",
+      "C": "They Are Blue Like The Sky",
+      "D": "They Are Green Like Grass"
+    }
+  },
+  {
+    "question": "What Does Victoria Say About Max Sitting At Her Desk?",
+    "answer": "A",
+    "choices": {
+      "A": "She Tells Max To Take A Selfie",
+      "B": "She Tells Max To Leave",
+      "C": "She Tells Max To Stay",
+      "D": "She Tells Max To Mind Her Own Business"
+    }
+  },
+  {
+    "question": "What Is Max Thinking When She Sees David Taking Photos Of Kate?",
+    "answer": "B",
+    "choices": {
+      "A": "\"This Is So Cool\"",
+      "B": "\"This Is So Wrong And Weird\"",
+      "C": "\"I Should Take Photos Too\"",
+      "D": "\"I Wonder If Kate Knows\""
+    }
+  }
+]

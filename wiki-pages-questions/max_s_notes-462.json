@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Where Is The Framed Photo Of Young Joyce And William Located?",
+    "answer": "B",
+    "choices": {
+      "A": "On A Dresser In Max's Room",
+      "B": "On A Dresser In Joyce And William's Room",
+      "C": "Near The Bed In Joyce And William's Room",
+      "D": "On A Bookshelf In The Living Room"
+    }
+  },
+  {
+    "question": "What Does Max Say About Chloe In The Photo In Joyce And William's Room?",
+    "answer": "B",
+    "choices": {
+      "A": "She Looks Sad",
+      "B": "She Looks Happy",
+      "C": "She Looks Angry",
+      "D": "She Looks Confused"
+    }
+  },
+  {
+    "question": "What Is The Title Of The Book By Dr. Bill Found In William's Nightstand?",
+    "answer": "A",
+    "choices": {
+      "A": "Superdad",
+      "B": "Supermom",
+      "C": "Parenting Tips",
+      "D": "Raising Children"
+    }
+  },
+  {
+    "question": "Where Is The \"Supermom\" Book By Dr. Bill Located?",
+    "answer": "B",
+    "choices": {
+      "A": "On A Dresser In Max's Room",
+      "B": "On A Dresser In Joyce And William's Room",
+      "C": "Near The Bed In Joyce And William's Room",
+      "D": "On A Bookshelf In The Living Room"
+    }
+  },
+  {
+    "question": "What Does Max Say About Joyce In The \"Supermom\" Book By Dr. Bill?",
+    "answer": "C",
+    "choices": {
+      "A": "She Is Trying Hard",
+      "B": "She Is A Terrible Mother",
+      "C": "She Is A Perfect Mother",
+      "D": "She Needs To Improve Her Parenting Skills"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who commissioned the artworks mentioned in this section?",
+    "answer": "A",
+    "choices": {
+      "A": "Square Enix",
+      "B": "Emma Vieceli",
+      "C": "Elisa Romboli",
+      "D": "Jan-Wah Li"
+    }
+  },
+  {
+    "question": "What was the name of the series of commissioned artworks launched by Square Enix on June 3, 2015?",
+    "answer": "B",
+    "choices": {
+      "A": "The One",
+      "B": "Friends For Life",
+      "C": "The Hideout",
+      "D": "Some Things Never Change"
+    }
+  },
+  {
+    "question": "Who was the artist behind the \"The One\" series of commissioned artworks?",
+    "answer": "C",
+    "choices": {
+      "A": "Emma Vieceli",
+      "B": "Jan-Wah Li",
+      "C": "Elisa Romboli",
+      "D": "Afterlaughs"
+    }
+  },
+  {
+    "question": "What was the theme of the \"The One\" series of commissioned artworks?",
+    "answer": "C",
+    "choices": {
+      "A": "Holidays and special occasions",
+      "B": "Characters' birthdays",
+      "C": "Someone who changed your life in a meaningful way",
+      "D": "Fan art"
+    }
+  }
+]

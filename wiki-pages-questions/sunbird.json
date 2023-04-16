@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who are the artists behind the song \"Sunbird\"?",
+    "answer": "A",
+    "choices": {
+      "A": "William Henries & Michael Holborn",
+      "B": "Michael Jackson & William Henries",
+      "C": "Michael Holborn & Justin Timberlake",
+      "D": "William Henries & Justin Bieber"
+    }
+  },
+  {
+    "question": "In which trailer was \"Sunbird\" featured?",
+    "answer": "A",
+    "choices": {
+      "A": "Episode 1: Chrysalis Free trailer",
+      "B": "Episode 2: Out of Time trailer",
+      "C": "Episode 3: Chaos Theory trailer",
+      "D": "Episode 4: Dark Room trailer"
+    }
+  },
+  {
+    "question": "What is the significance of the line \"And hold a sunbird in your hands\" in the song?",
+    "answer": "A",
+    "choices": {
+      "A": "It is a metaphor for happiness",
+      "B": "It is a reference to a character in the game",
+      "C": "It is a call to action for players",
+      "D": "It is a warning about the fleeting nature of happiness"
+    }
+  },
+  {
+    "question": "What is the interpretation of the song \"Sunbird\" in relation to the game?",
+    "answer": "C",
+    "choices": {
+      "A": "It encourages players to focus on their problems",
+      "B": "It suggests that the game is too short",
+      "C": "It advises players to appreciate happy moments in life",
+      "D": "It warns players about the dangers of losing themselves in a fictional world"
+    }
+  },
+  {
+    "question": "What is the purpose of the \"Chrysalis\" going free trailer?",
+    "answer": "C",
+    "choices": {
+      "A": "To promote the game's soundtrack",
+      "B": "To introduce a new character",
+      "C": "To make the game available to more players",
+      "D": "To announce the release of a new episode"
+    }
+  }
+]

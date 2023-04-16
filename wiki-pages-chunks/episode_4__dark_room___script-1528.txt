@@ -1,0 +1,121 @@
+Here is a section of the wiki page for Episode 4: Dark Room - Script:
+
+Kate.
+
+{{#tag:tabber|The Prescotts.# The Prescotts.**Max:** Do the Prescotts have anything to do with the Vortex Club? They don't get all their money from car washes.
+
+**Ms. Grant:** No, they don't. But membership has its privileges...especially when your father is Blackwell's biggest sponsor. This elitist nonsense has no place here.
+
+{{!}}-{{!}}Principal Wells.Principal Wells.**Max:** So, why doesn't Principal Wells stop the party? To be honest, he doesn't seem to care about what's going on here.
+
+**Ms. Grant:** Raymond Wells has saved this school from financial disaster and he cares more than you know. You're wise, but don't be so quick to judge everybody.
+
+}}
+
+**Max:** You're right. I just wish that this could be the school I dreamed about before I came here.
+
+**Ms. Grant:** I hear you, Max. I love seeing you, and Warren, and all my students at your best here. You're all too young to be so cynical... But you truly give me hope.
+
+|-|Leave.# Leave.**Max:** I'm sorry, Ms. Grant, I have to get going. I'll see you later.
+
+**Ms. Grant:** It's always good talking to you, Max.
+
+*If Max talks to Ms. Grant again:*
+
+**Max:** Hi again, Ms. Grant.
+
+**Ms. Grant:** Welcome back to the lab, Max.
+
+*If Max talks to Ms. Grant again after exhausting all dialogue options:*
+
+**Ms. Grant:** Let's talk again soon, Max.
+
+**Conversation with Samuel**
+
+**Samuel:** How are you doing, Max? Been a tough week, I know.
+
+**Max:** Yes, it has, Samuel. How are you?
+
+**Samuel:** Sad and confused, like everybody else in Arcadia Bay. You look like you have a lot of questions, too...
+
+People.People.**Max:** More questions than answers...
+
+**Samuel:** Samuel is always here to talk.
+
+{{#tag:tabber|Kate.# Kate.
+
+{{#tag:tabber|(Saved Kate)(Saved Kate)**Max:** I actually just talked to Kate Marsh in the hospital. She's doing so much better.
+
+**Samuel:** Because of you, Max. That was quite a rescue.
+
+{{!}}-{{!}}(Couldn't save Kate)# (Couldn't save Kate)**Max:** Blackwell is so sad and quiet since Kate...isn't here anymore.
+
+**Samuel:** Yes, you can tell that the campus is different now. And you reached out to her when everybody turned away.
+
+}}
+
+{{#tag:tabber|Kate bullied.Kate bullied.**Max:** Samuel, you're the eyes of Blackwell. Did you know Kate was being bullied?
+
+**Samuel:** Most everyone makes fun of me...but Samuel warned them about Kate. I hate bullies, Max.
+
+{{!}}-{{!}}Destiny?# Destiny?**Max:** It could've gone either way... Samuel, do you think that we each have a destiny?
+
+**Samuel:** Yes, I do, Max. In many different lifetimes; of course, Kate Marsh believed in something different, so...that's her destiny.
+
+}}
+
+**Max:** I believe you.
+
+**Samuel:** Kate just needed some more helpful spirits like her friend Max. I hope she finds them now...
+
+{{!}}-{{!}}Nathan.Nathan.**Max:** Have you seen Nathan Prescott around?
+
+{{#tag:tabber|(Nathan is suspended)# (Nathan is suspended)**Samuel:** That would be hard, since he was suspended.
+
+{{#tag:tabber|You don't sound sad.You don't sound sad.**Max:** You don't sound sad, Samuel.
+
+**Samuel:** Nathan hurts people. The end.
+
+{{!}}-{{!}}He deserved it.# He deserved it.**Max:** He deserved it. And more.
+
+**Samuel:** Samuel tries not to judge people, but Nathan shouldn't be here. Maybe he's supposed to be here, though.
+
+}}
+
+**Max:** What do you really know about him?
+
+**Samuel:** Not enough to help you, Max. I truly wish I could... I see what you're doing...
+
+{{!}}-{{!}}(Nathan isn't suspended)(Nathan isn't suspended)**Samuel:** I try not to.
+
+{{#tag:tabber|You don't like Nathan.# You don't like Nathan.**Max:** Whoa, you really don't like Nathan. How come?
+
+**Samuel:** Samuel likes everybody...until they give him a reason not to. He did.
+
+{{!}}-{{!}}What do you know?What do you know?**Max:** So what do you know about Nathan?
+
+**Samuel:** I know enough to not want to know any more.
+
+}}
+
+**Max:** Well, okay. 'Nuff said. You know a lot of Blackwell secrets, so I thought you could help me.
+
+**Samuel:** Max, I'm a custodian, not a psychic. I can only help by warning you to be careful.
+
+}}
+
+{{!}}-{{!}}David.# David.**Max:** Do you ever talk with David Madsen?
+
+{{#tag:tabber|(David is on leave)(David is on leave)**Samuel:** Not since he was suspended. But then I wouldn't talk to him. Only listen.
+
+{{!}}-{{!}}(David isn't on leave)# (David isn't on leave)**Samuel:** He talks to me. I listen.
+
+}}
+
+**Max:** That's how David operates...
+
+**Samuel:** He sees things, not people. But I...I think he sees you, Max...
+
+{{#tag:tabber|Why?Why?**Max:** Why do you say 
+
+Generate five trivia questions relevant to this section of the page.

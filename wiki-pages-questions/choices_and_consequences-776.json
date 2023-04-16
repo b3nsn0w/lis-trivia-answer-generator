@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Happens If Max Doesn't Write On Frank's RV?",
+    "answer": "A",
+    "choices": {
+      "A": "Frank's RV Remains The Same Without Any Message Written On It",
+      "B": "Max Cannot Take An Optional Photo",
+      "C": "Frank's RV Disappears",
+      "D": "Max Gets A Message From Frank"
+    }
+  },
+  {
+    "question": "What Is The Consequence Of Breaking Chloe's Snow Globe?",
+    "answer": "A",
+    "choices": {
+      "A": "Chloe Will Be Upset With Max",
+      "B": "Max Cannot Take An Optional Photo",
+      "C": "Max Can Read Chloe's Report Card",
+      "D": "Max Gets A Message From William"
+    }
+  },
+  {
+    "question": "What Happens If Max Saves The Blue Jay?",
+    "answer": "A",
+    "choices": {
+      "A": "The Bird Will Appear In The Bathroom Upstairs In Madsen Household",
+      "B": "Max Cannot Take An Optional Photo",
+      "C": "The Bird Will Not Appear In Chloe's House",
+      "D": "The Bird Will Die"
+    }
+  },
+  {
+    "question": "What Is The Consequence Of Looking Through David's Files?",
+    "answer": "B",
+    "choices": {
+      "A": "Max Will Bring This Up To Chloe At The Lighthouse",
+      "B": "Chloe Will Bring Up David's Files If Max Sides With David During The Argument",
+      "C": "David Will Not Confront Chloe About His Files Being Looked Through",
+      "D": "Chloe Will Wish That Max Had Read David's Files"
+    }
+  },
+  {
+    "question": "What Happens If Max Leaves Evidence Of Going Through David's Files?",
+    "answer": "A",
+    "choices": {
+      "A": "David Will Bring This Up During His Confrontation With Chloe",
+      "B": "Max Cannot Take An Optional Photo",
+      "C": "Max Can Read Chloe's Report Card",
+      "D": "Max Gets A Message From David"
+    }
+  }
+]

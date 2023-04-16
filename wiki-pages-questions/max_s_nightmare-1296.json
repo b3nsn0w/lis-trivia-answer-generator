@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Does Max Witness In The Snow Globe Nightmare?",
+    "answer": "B",
+    "choices": {
+      "A": "William Leaving The House",
+      "B": "Chloe Tearing Up A Photograph",
+      "C": "Rachel's Disappearance",
+      "D": "Jefferson's Arrest"
+    }
+  },
+  {
+    "question": "What Is The Optional Photo Opportunity In The Nightmare Version Of The American Rust Junkyard?",
+    "answer": "A",
+    "choices": {
+      "A": "Collecting Five Bottles",
+      "B": "Taking A Picture Of The Hideout",
+      "C": "Sitting On The Bench Beside The Lighthouse",
+      "D": "None Of The Above"
+    }
+  },
+  {
+    "question": "What Is The Main Focus Of The Nightmare Section In The Dark Room?",
+    "answer": "D",
+    "choices": {
+      "A": "Nathan Prescott",
+      "B": "Rachel Amber",
+      "C": "Victoria Chase",
+      "D": "Chloe Price"
+    }
+  },
+  {
+    "question": "Who Defends Max For The First Time During The Nightmare In The Two Whales Diner?",
+    "answer": "D",
+    "choices": {
+      "A": "Warren Graham",
+      "B": "Raymond Wells",
+      "C": "Samuel Taylor",
+      "D": "Chloe Price"
+    }
+  }
+]

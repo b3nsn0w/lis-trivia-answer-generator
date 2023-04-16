@@ -1,0 +1,52 @@
+[
+  {
+    "question": "In which episode of Life is Strange is \"Something Good\" featured?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "Which album does \"Something Good\" belong to?",
+    "answer": "C",
+    "choices": {
+      "A": "This Is All Yours",
+      "B": "Relaxer",
+      "C": "An Awesome Wave",
+      "D": "A Fever Dream"
+    }
+  },
+  {
+    "question": "What is the name of the band that performs \"Something Good\"?",
+    "answer": "B",
+    "choices": {
+      "A": "Radiohead",
+      "B": "Alt-J",
+      "C": "Arcade Fire",
+      "D": "The National"
+    }
+  },
+  {
+    "question": "What is the significance of the lyrics \"Matador, estocada, you're my blood sport\"?",
+    "answer": "A",
+    "choices": {
+      "A": "They reference a bullfighting move",
+      "B": "They describe a violent encounter between two people",
+      "C": "They symbolize the end of a relationship",
+      "D": "They represent a drug-induced hallucination"
+    }
+  },
+  {
+    "question": "What is the main theme of \"Something Good\"?",
+    "answer": "B",
+    "choices": {
+      "A": "Love and heartbreak",
+      "B": "Memories and nostalgia",
+      "C": "Drug addiction and recovery",
+      "D": "Triumph and victory"
+    }
+  }
+]

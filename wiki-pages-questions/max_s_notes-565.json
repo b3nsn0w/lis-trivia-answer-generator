@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Say About DaVinci In Her Science Lab Notes?",
+    "answer": "B",
+    "choices": {
+      "A": "He Was A Genius",
+      "B": "He Was A Boss",
+      "C": "He Was A Failure",
+      "D": "He Was A Villain"
+    }
+  },
+  {
+    "question": "Where Is The \"Front to the Future\" Poster Located?",
+    "answer": "B",
+    "choices": {
+      "A": "In The Photography Lab",
+      "B": "In The Science Lab",
+      "C": "In Mr. Jefferson's Classroom",
+      "D": "In Max's Dorm Room"
+    }
+  },
+  {
+    "question": "Whose Sketch Of Dana Is On Display In The Photography Lab?",
+    "answer": "C",
+    "choices": {
+      "A": "Max's",
+      "B": "Mr. Jefferson's",
+      "C": "Daniel's",
+      "D": "Dana's"
+    }
+  },
+  {
+    "question": "What Is Cool About Mr. Jefferson's Book Of Photo Tips?",
+    "answer": "D",
+    "choices": {
+      "A": "It Has Beautiful Pictures",
+      "B": "It Is A Bestseller",
+      "C": "It Is Free For Students",
+      "D": "He Published It Himself"
+    }
+  },
+  {
+    "question": "What Is On Max's Desk During Mr. Jefferson's Class?",
+    "answer": "D",
+    "choices": {
+      "A": "A Sketch Of Dana",
+      "B": "A Book Of Photo Tips",
+      "C": "Max's Own Drawing",
+      "D": "All Of The Above"
+    }
+  }
+]

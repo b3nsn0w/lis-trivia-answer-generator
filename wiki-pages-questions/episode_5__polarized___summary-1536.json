@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Find In The Corridor Outside The Girls' Dormitory?",
+    "answer": "D",
+    "choices": {
+      "A": "A Key To Room 218",
+      "B": "Missing Person Posters",
+      "C": "Graffiti Referencing Victoria",
+      "D": "Small Polaroid Pictures"
+    }
+  },
+  {
+    "question": "What Does Max See When She Enters Room 218?",
+    "answer": "A",
+    "choices": {
+      "A": "References To Rachel Amber",
+      "B": "Missing Person Posters",
+      "C": "Small Polaroid Pictures",
+      "D": "Graffiti Referencing Victoria"
+    }
+  },
+  {
+    "question": "What Does Max Encounter In The Nightmarish Maze?",
+    "answer": "A",
+    "choices": {
+      "A": "A Rotating Spotlight",
+      "B": "A Ghostly Doe",
+      "C": "Missing Person Posters",
+      "D": "Small Polaroid Pictures"
+    }
+  },
+  {
+    "question": "What Do The Art Boards In The Maze Display?",
+    "answer": "A",
+    "choices": {
+      "A": "Pictures Of Dark Room Victims",
+      "B": "Missing Person Posters",
+      "C": "Graffiti Referencing Victoria",
+      "D": "Small Polaroid Pictures"
+    }
+  },
+  {
+    "question": "Where Is Max Trapped At The End Of The Section?",
+    "answer": "A",
+    "choices": {
+      "A": "Inside A Snow Globe",
+      "B": "Inside The Dark Room",
+      "C": "Inside The American Rust Junkyard",
+      "D": "Inside The Girls' Dormitory"
+    }
+  }
+]

@@ -1,0 +1,79 @@
+Here is a section of the wiki page for Maxine Caulfield:
+
+#  Maxine Caulfield 
+
+```yaml
+Character
+
+image: max_.png
+alsoknown: \n\nMax Power, Heisenberg of Blackwell, Maxwell Silver Hammer, Doctor Max, Doctor Caulfield, Dr. Maxstein, Unabomber (by [Warren Graham": *
+"Warren](warren_graham______warren.md))\n\nMax Cockfield, Max Crackfield, Max Amber, The Mysterious Max, Pixie Hipster (by [Nathan Prescott": *
+"Nathan](nathan_prescott______nathan.md))
+\nGodmother (by [Frank Bowers": *
+"Frank](frank_bowers______frank.md))\n\nMaximus, Maxster, Maximum Overdrive (by [Justin Williams": *
+"Justin](justin_williams______justin.md))
+\nHippie, Max Selfie, Sad face (by [Victoria Chase": *
+"Victoria](victoria_chase______victoria.md))
+\nThe Blackwell Ninja (by [Juliet Watson": *
+"Juliet](juliet_watson______juliet.md))
+ \nMax Factor (by [Courtney Wagner": *
+"Courtney](courtney_wagner______courtney.md))
+\nMaxoxo (pun made by Max in a text to her father)
+\n\nMaxwell Smart (by [Evan Harris": *
+"Evan](evan_harris______evan.md))
+ \nMahatma Max (by \"Max Ghost\")The version of Max that we meet in the Two Whales Diner in Episode 5 is referred to as \"MaxGhost\" in the game's text files.
+\nMystic Max (by [Alyssa Anderson": *
+"Alyssa](alyssa_anderson______alyssa.md))
+\nRoad Warrior (by [William Price": *
+"William](william_price______william.md))
+\nSuper Maxine (by [Anderson Berry": *
+"Officer Berry](anderson_berry______officer_berry.md))
+ \nMax Hitchlock (seen on one of the [Media:Childdrawing2.png": *
+drawings](media_childdrawing2_png_____drawings.md) Max and Chloe made as kids): ''
+age: '18'
+born: |-
+  September 21, 1995 
+  [Arcadia Bay](arcadia_bay.md), Oregon
+gender: Female
+hair: Auburn Brown
+eyes: Blue
+loveinterest: >-
+  [Chloe Price](chloe_price.md) (determinant) [Warren Graham](warren_graham.md)
+  (determinant)
+relatives: >-
+  [Ryan Caulfield](ryan_caulfield.md) (father)[Vanessa
+  Caulfield](vanessa_caulfield.md) (mother)
+friends: >-
+  [Chloe Price](chloe_price.md)[Warren Graham](warren_graham.md)[Kate
+  Marsh](kate_marsh.md) (determinant)[Alyssa Anderson](alyssa_anderson.md)
+  (determinant)[Dana Ward](dana_ward.md) (determinant)[Nathan
+  Prescott](nathan_prescott.md) ([Alternative Timeline (Life is Strange)
+alternative timeline](alternative_timeline__life_is_strange__alternative_timeline.md))[Victoria Chase](victoria_chase.md) (alternative timeline, determinant) [Taylor Christensen](taylor_christensen.md) (alternative timeline, determinant) [Brooke Scott](brooke_scott.md)  (determinant) [Kristen](kristen.md)[Fernando](fernando.md): ''
+profession: High school student
+affiliation: '[Blackwell Academy](blackwell_academy.md)'
+appearance: >-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)[Episode 2: Out of
+  Time](episode_2__out_of_time.md)[Episode 3: Chaos
+  Theory](episode_3__chaos_theory.md)[Episode 4: Dark
+  Room](episode_4__dark_room.md)[Episode 5: Polarized](episode_5__polarized.md)
+voice: '[Hannah Telle](hannah_telle.md) (ENG)[Kumi Tanaka](kumi_tanaka.md) (JPN)'
+height: >-
+  5'5" (1.65m)This was confirmed by the developers on
+  [https://mobile.twitter.com/luc_baghadoust/status/602240021224136707 Twitter].
+fullname: Maxine Caulfield
+weight: *
+name: Max Caulfield
+Supernatural Ability: Time Manipulation
+```
+
+> I take photos. Of me, the world, everything. It may sound sad, but I have a blast.
+
+**Max in "[Episode 1: Chrysalis**, Chrysalis](episode_1__chrysalis____chrysalis.md)"
+
+**Maxine Caulfield**, better known as **Max** (born September 21, 1995), is the main protagonist of *[Life is Strange](life_is_strange.md)''. She is an 18-year-old aspiring photographer and senior at [Blackwell Academy](blackwell_academy.md). She left her [Vanessa Caulfield](mom.md) and [Ryan Caulfield](dad.md) in [Seattle](seattle.md) for the seaside town of [Arcadia Bay](arcadia_bay.md), Oregon, where she grew up.
+
+After saving her childhood friend [Chloe Price](chloe_price.md) from being killed by [Nathan Prescott](nathan_prescott.md) in one of Blackwell Academy's bathrooms, she discovers she has the ability to rewind time and even stop it in its tracks. On the search for clues to solve the mysterious disappearance of [Rachel Amber](rachel_amber.md), Max must also discover how to use her powers to help Chloe find her missing friend.
+
+Max features again in the [Life is Strange (Franchise)](franchise.md) as the playable protagonist in *[Farewell](farewell.md)* (a bonus episode for the prequel game, *[Life is Strange: Before the 
+
+Generate five trivia questions relevant to this section of the page.

@@ -1,0 +1,42 @@
+Here is a section of the wiki page for ACFC Drive-Thru:
+
+#  ACFC Drive-Thru 
+
+```yaml
+Location
+
+image: Acfc-main.png
+type: Restaurant
+location: |-
+  Arcadia Bay Ave,
+  [Arcadia Bay](arcadia_bay.md)
+appears: |-
+  [Episode 2: Out of Time](episode_2__out_of_time.md)
+  [Episode 3: Chaos Theory](episode_3__chaos_theory.md)
+  [Episode 5: Polarized](episode_5__polarized.md)
+```
+
+The **ACFC Drive-Thru** is a chain of fast food restaurants in the *Life is Strange* universe. It originally appears in [Arcadia Bay](arcadia_bay.md), the setting of the [Life is Strange](first_game.md) and briefly reappears in [Life is Strange 2](the_second_season.md).
+
+##  Life is Strange 
+Two restaurant buildings can be spotted throughout the game, but neither is explorable. One of the restaurants is located on the [Arcadia Bay Ave](arcadia_bay_ave.md) that runs parallel to the bay's coastline, across from the [Two Whales Diner](two_whales_diner.md) and next to [Tony's Liquor Store](tony_s_liquor_store.md). The other building is visible during Max's bus ride in [Episode 2: Out of Time](episode_2.md).
+
+###  Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+On the way to the [Two Whales Diner](two_whales_diner.md), a restaurant can be briefly seen through the window of the [Blackwell Academy](blackwell_academy.md) school bus. It has a menu plastered to the glass, and three newspaper kiosks nearby.
+
+Another restaurant building can be seen near the diner itself, across the street. If the player tries to reach it by foot, [Maxine Caulfield](max.md) will stop and say that she doesn't want to go there.
+
+###  Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+The player can once again see both restaurant buildings; the second one is visible during a cutscene in [Chloe Price](chloe.md)'s [Chloe's Truck](truck.md).
+
+###  Episode Five - "[Episode 5: Polarized](polarized.md)" 
+Both buildings have been wrecked by [The Storm](the_tornado.md) hitting Arcadia Bay. The logo of one has been blown off and is lying on the road.
+
+##  Trivia 
+* The sign of the drive-thru is an old asset that relates to the original name Dontnod were using for Arcadia Bay, "Aurora Creek" (Aurora Creek Fried Chicken).[https://twitter.com/edouardcaplain/status/1204703458164723712 Confirmation from Concept Artist, Edouard Caplain]. [Christian Divine](christian_divine.md) suggested the name "Arcadia Bay" because "it just sounded more peaceful and mystic, and the word ‘Arcadia’ has all these connotations that would be fun to play with and contrast with the darkness that’s actually going on in the town. It has all these different representations and metaphors that you can look in to and work with."[http://onlysp.com/dungeons-dragons-life-strange-discussion-writer-christian-divine/ From ‘Dungeons & Dragons’ to ‘Life Is Strange’ – A Discussion with Writer Christian Divine]
+* The sign's texture artist, [Edouard Caplain](edouard_caplain.md), says he "kept the same pattern KFC has" (*{{Wiki|KFC|Kentucky Fried Chicken (KFC)}}*) when designing the name on the sign. The ACFC Drive-Thru's logo appears to resemble a turkey.
+*The two restaurant buildings in Arcadia Bay are in fact near each other; this can be inferred from comparing screenshots of the diner street in Episode 3 and Episode 5.
+
+
+
+Generate five trivia questions relevant to this section of the page.

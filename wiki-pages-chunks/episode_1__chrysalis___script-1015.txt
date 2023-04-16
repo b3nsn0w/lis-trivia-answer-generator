@@ -1,0 +1,104 @@
+Here is a section of the wiki page for Episode 1: Chrysalis - Script:
+
+## **Optional Conversation with [Hayden Jones](hayden.md)**# 
+**Max:** Hey, Hayden.
+
+**Hayden:** There she is, the retro-selfie master.
+
+**Max:** That's me, alright. You look relaxed as usual, Hayden.
+
+**Hayden:** It's a skill one cultivates at Blackwell. Especially when one represents the Vortex Club. Not to boast.
+
+Vortex Club.Vortex Club.
+
+**Max:** What the hell is the Vortex Club anyway? Seems so elitist...
+
+**Hayden:** Only if you're not cool enough to get in. And it doesn't hurt your resume.
+
+**Max:** If you say so...
+
+**Hayden:** I do. But you should actually come hang with us one night. Then you wouldn't be so inclined to gossip.
+
+{{#tag:tabber|Hang with Vortex Club?# Hang with Vortex Club?
+
+**Max:** You mean hang with the Vortex Club? That sounds like a set-up to a horrible prank...
+
+**Hayden:** Chillax, paranoia girl. We're not that desperate for fun. We know how to do that on our own.
+
+{{!}}-{{!}}I don't think so.I don't think so.
+
+**Max: **I don't think so. I'm not Ms. Party.
+
+**Hayden:** That's because you haven't partied with us. Or even Victoria. Who's pretty funny when she's baked.
+
+}}
+
+**Max:** It seems weird to think about partying with all those Rachel Amber posters up...
+
+**Hayden:** You're high. Rachel used to hang out with us too. She was a blast. Smart, not bitchy like...you know.
+
+|-|Rachel. (after "Vortex Club")# Rachel. (after "Vortex Club")
+
+**Max:** So you knew Rachel Amber?
+
+**Hayden:** I knew she liked to party. Hah, fun to be around. Oh yeah, and she was hot.
+
+{{#tag:tabber|What happened to her?What happened to her?
+
+**Max:** What do you think happened to her?
+
+**Hayden:** Oh, whatever happens to people who disappear without a trace.
+
+{{!}}-{{!}}Did Victoria like Rachel?# Did Victoria like Rachel?
+
+**Max:** Did Victoria like Rachel? She seems like the jealous type.
+
+**Hayden:** Don't think you know Victoria so well. She respected Rachel, even if she didn't act like it.
+
+{{!}}-{{!}}Rachel was in the Vortex Club?Rachel was in the Vortex Club?
+
+**Max:** Rachel was actually a member of the Vortex Club?
+
+**Hayden:** No. Rachel was like her own club. She was actually too cool for us. And I'll deny I ever said that.
+
+{{!}}-{{!}}I'm more confused, let's talk later.# I'm more confused, let's talk later.
+
+**Max:** I'm more confused than before... It's such a mystery. Let's talk later, Hayden.
+
+**Hayden:** That it is, Max. Now I have to get my chemical on and study. We should get you and Dana out one night...
+
+}}
+
+|-|Nathan Prescott.Nathan Prescott.
+
+**Max:** Do you really want Nathan Prescott to "represent"?
+
+**Hayden:** Oh, please. Nathan is like everybody's voodoo doll. "Kill the rich kid!" He's alright, and a fun guy to hang with. Fuck the haters.
+
+{{#tag:tabber|He seems unstable.# He seems unstable.
+
+**Max:** He seems genuinely unstable to me.
+
+**Hayden:** Nate has his extreme moments, but...don't we all?
+
+**Max:** I don't know yet, Hayden.
+
+{{!}}-{{!}}Fair enough.Fair enough.
+
+**Max:** Fair enough, but I'm still not going to party with him.
+
+**Hayden:** Your loss. Bro is fucking hilarious when he's blazed. And he does always have the best shit.
+
+}}
+
+|-|Let's talk later.# Let's talk later.
+
+**Max:** Let's talk later, Hayden.
+
+**Hayden:** Bye, Max. Now, I have to get my chemical on and study. We should get you and Dana out one night...
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

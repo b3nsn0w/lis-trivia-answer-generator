@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What Is Written On The Bathroom Mirror In Two Whales Diner?",
+    "answer": "A",
+    "choices": {
+      "A": "\"FIRE WALK WITH ME\"",
+      "B": "\"SAVE OUR BAY\"",
+      "C": "\"HAVE A NICE DAY\"",
+      "D": "\"GO GET 'EM, JULIET\""
+    }
+  },
+  {
+    "question": "Who Is Trapped Outside Two Whales Diner?",
+    "answer": "C",
+    "choices": {
+      "A": "Alyssa",
+      "B": "The Fisherman",
+      "C": "The Truck Driver",
+      "D": "Evan Harris"
+    }
+  },
+  {
+    "question": "What Is Written On The \"Save Our Bay\" Flyer In Two Whales Diner?",
+    "answer": "C",
+    "choices": {
+      "A": "\"Mystery Solved... But Nobody Gets A Reward...\"",
+      "B": "\"The Monsters Are Actually The People Here...\"",
+      "C": "\"Trust Me, I'm Trying To Figure Out How... I Swear.\"",
+      "D": "\"Aw... This Makes Me So Sad.\""
+    }
+  }
+]

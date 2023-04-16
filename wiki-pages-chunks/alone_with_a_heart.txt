@@ -1,0 +1,53 @@
+Here is a section of the wiki page for Alone With A Heart:
+
+#  Alone With A Heart 
+
+```yaml
+Song
+
+image: Jacqui Dankworth.jpg
+artist: Jacqui Dankworth
+release: '2006'
+album: N/A
+appears: '[Episode 5: Polarized](episode_5__polarized.md) (Dark Room)'
+```
+
+**"Alone With A Heart"** is sung by British jazz singer {{wiki|Jacqui Dankworth}} and is featured in the beginning of [Episode 5: Polarized](episode_5__polarized.md) of *[Life is Strange](life_is_strange.md)* when [Maxine Caulfield](max_caulfield.md) is in the [Dark Room (Location)](dark_room.md). The song is available from [https://www.audionetwork.com/browse/m/track/alone-with-a-heart_11582 Audio Network] - a music website that [Don't Nod](don_t_nod.md) used to find further music for *Life is Strange*.
+
+##  Lyrics 
+: Alone with a heart, a battered old heart
+: A heart that needs tender care
+: It knows you won't be there
+: To share a company, it ain't easy to be
+
+: Alone with a dream, a silly old dream
+: A dream that faded away
+: How I'll get through today?
+: I just don't know
+
+: Oh what a fool just to imagine
+: That things could work out if we try
+: Now I realize it's over
+: You might understand if I cry
+
+: I try to adjust
+: I know that I must
+: I've got to face a new day
+: Take it on the chin as they say and make a new start
+: But now I'm sitting alone with a heart
+
+##  Interpretation 
+This song plays near the beginning of the episode after Max goes back in time through one of [Mark Jefferson](mr__jefferson.md)'s photographs where she appears to be more conscious. Jefferson plays the song through his music entertainment system as he examines the new photographs he has taken of Max. The song seems to speak of loneliness upon losing somebody's company after thinking their company would last into the future. Its appearance in the game comes upon Max waking after having seen Chloe shot dead by Mr. Jefferson at the end of [Episode 4: Dark Room](episode_4__dark_room.md). Max is now suddenly all alone without her "faithful companion."
+
+##  Videos 
+
+Jacqui Dankworth - Alone with a heart
+
+__NOTOC__
+
+##  Navigation 
+{{Soundtrack}}
+
+
+
+Generate five trivia questions relevant to this section of the page.

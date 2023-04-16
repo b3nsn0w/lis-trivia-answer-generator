@@ -1,0 +1,63 @@
+Here is a section of the wiki page for Special Comments (Life is Strange):
+
+## Paused Rewind
+If Max pauses when rewinding, she may make one of the following comments:
+**"No way I can stop here." *{{Headphones|filespecialcomms-pauserw-nowaycantstop.ogg}}
+**"Should I rewind or stop?" *{{Headphones|file# specialcomms-pauserw-shouldrworstop.ogg}}
+**"I can't be in two places at once." *{{Headphones|filespecialcomms-pauserw-cantbeintwoplaces.ogg}}
+**"Either I rewind or I cancel." *{{Headphones|file# specialcomms-pauserw-eitherrworcancel.ogg}}
+**"I definitely can't stop here." *{{Headphones|filespecialcomms-pauserw-defcantstop.ogg}}
+**"I need to rewind or stop." *{{Headphones|file# specialcomms-pauserw-rworstop.ogg}}
+**"No can do, Max." *{{Headphones|filespecialcomms-pauserw-nocando.ogg}}
+**"I need to hit this rewind or cancel." *{{Headphones|file# specialcomms-pauserw-hitrworcancel.ogg}}
+
+#
+
+## Rewind to the End
+When Max reaches the limitation of her rewind ability, she may make one of the following comments:
+**"I can't go back further, I need to let go!" *{{Headphones|filespecialcomms-rwlimit-needtoletgo.ogg}}
+**"Urgh, that's as far as I can go back." *{{Headphones|file# specialcomms-rwlimit-asfarasicango.ogg}}
+**"I can't take it! I have to stop!" *{{Headphones|filespecialcomms-rwlimit-canttakehavetostop.ogg}}
+**"Ungh... ngh... Enough, Max! You can't go back any further!" *{{Headphones|file# specialcomms-rwlimit-enoughmax.ogg}}
+**"That's all you can do, stop before you hurt yourself." *{{Headphones|filespecialcomms-rwlimit-stopbeforehurt.ogg}}
+**"I'm getting dizzy... I can't rewind any more…" *{{Headphones|file# specialcomms-rwlimit-imgettingdizzy.ogg}}
+**"I can only go so far back in time." *{{Headphones|filespecialcomms-rwlimit-canonlygosofar.ogg}}
+**"Whoa, I'm getting sick. I can't rewind any further." *{{Headphones|file# specialcomms-rwlimit-whoagettingsick.ogg}}
+**"Shit, this is as far back as I can rewind." *{{Headphones|filespecialcomms-rwlimit-asfarbackascanrw.ogg}}
+**"I can't continue, it hurts too much!" *{{Headphones|file# specialcomms-rwlimit-cantcontinue.ogg}}
+**"I can't rewind anymore." *{{Headphones|filespecialcomms-rwlimit-cantrwanymore.ogg}}
+**"I have to stop before I pass out." *{{Headphones|file# specialcomms-rwlimit-havetostopbeforepassout.ogg}}
+**"Urgh… I can't stretch time any more." *{{Headphones|filespecialcomms-rwlimit-canstretch.ogg}}
+
+#
+
+## Forced Rewind
+When Max finds herself or a friend nearby in a life-threatening situation, she may make one of the following comments:
+**"I need to figure this out." *{{Headphones|file# specialcomms-forcedrw-needtofigureout.ogg}}
+**"I wonder how I'll get around this?" *{{Headphones|filespecialcomms-forcedrw-wonderhowwillgetaround.ogg}}
+**"There's only one way around this." *{{Headphones|file# specialcomms-forcedrw-onlyonewayaround.ogg}}
+**"Damn, I missed something, I better rewind!" *{{Headphones|filespecialcomms-forcedrw-damnimissed.ogg}}
+**"I must have missed something, I should rewind..." *{{Headphones|file# specialcomms-forcedrw-musthavemissed.ogg}}
+**"I better rewind right now!" *{{Headphones|filespecialcomms-forcedrw-betterrwrightnow.ogg}}
+**"Max, don't fuck around! Rewind!" *{{Headphones|file# specialcomms-forcedrw-maxdontfkaround.ogg}}
+**"Think Max, rewind and find something." *{{Headphones|filespecialcomms-forcedrw-thinkmaxrwandfind.ogg}}
+**"Shit! I need to rewind and do something fast!" *{{Headphones|file# specialcomms-forcedrw-shitineedtorw.ogg}}
+**"I have to rewind now!" *{{Headphones|filespecialcomms-forcedrw-havetorwnow.ogg}}
+**"Max, rewind... Now!" *{{Headphones|file# specialcomms-forcedrw-maxrwnow.ogg}}
+**"No way, Jefferson!"* (helping David fight Jefferson in Episode 5)
+
+#
+
+## Photo Rewind
+(To Be Confirmed if these comments are made when Max rewinds after taking a photo that is not related to the [Optional Photos](optional_photos.md). These are possibly unused content.)
+**"Aw shit, my photo vanished!"*
+**"Man, there goes another Pulitzer!"*
+**"Damn, I wanted to keep that picture!"*
+*"*Are you kidding me? I wanted that shot!"*
+**"I totally lost that picture forever."*
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

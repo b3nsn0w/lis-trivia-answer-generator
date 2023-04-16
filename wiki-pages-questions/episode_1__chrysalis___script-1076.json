@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who does Daniel compare Max to when he asks to sketch her?",
+    "answer": "C",
+    "choices": {
+      "A": "His art teacher",
+      "B": "His mother",
+      "C": "His real muse, Rachel Amber",
+      "D": "A famous artist"
+    }
+  },
+  {
+    "question": "What happened to Rachel Amber, according to Daniel?",
+    "answer": "A",
+    "choices": {
+      "A": "She stopped coming to class",
+      "B": "She moved away",
+      "C": "She was expelled",
+      "D": "She was kidnapped"
+    }
+  },
+  {
+    "question": "What does Evan ask Max in order to grant her access to his portfolio?",
+    "answer": "A",
+    "choices": {
+      "A": "Who photographed the famous \"Falling Soldier\"?",
+      "B": "Who painted the Mona Lisa?",
+      "C": "Who wrote The Great Gatsby?",
+      "D": "Who directed Citizen Kane?"
+    }
+  },
+  {
+    "question": "How does Evan describe Rachel Amber?",
+    "answer": "A",
+    "choices": {
+      "A": "As mercurial",
+      "B": "As kind-hearted",
+      "C": "As a snob",
+      "D": "As a diva"
+    }
+  }
+]

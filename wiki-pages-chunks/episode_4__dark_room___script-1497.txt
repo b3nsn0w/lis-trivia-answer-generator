@@ -1,0 +1,107 @@
+Here is a section of the wiki page for Episode 4: Dark Room - Script:
+
+it was enough to make Kate want to die... And I think you're next.
+
+**Victoria:** Max, that is crazy. Nathan is like one of my best friends. Yes, he takes serious meds, but that's not his fault. His family treats him like a total freak, just because he has little meltdowns.
+
+**Max:** They’re not little anymore. They’re deadly. I don’t care if you hate me or not, but you have to believe me.
+
+**Victoria:** You could have been a major bitch to me when I got hit with that paint... and I deserved it.
+
+**Victoria:** Max, I don't hate you... I actually think you're one of the coolest people at Blackwell... Weird, but cool. You just don't know it yet. Maybe I'm jealous because you don't give a shit what anybody thinks. And I do.
+
+**Victoria:** To be honest, Nathan has been freaking me out lately... He’s not here and I haven’t seen him.
+
+**Max:** Just make sure you stay away from him and stick close to your friends tonight, okay?
+
+**Victoria:** I'll let you boss me around this one time. And I have other people I can go to for protection. Thanks for telling me this, Max. If what you said is true... then you be careful, too.
+
+**Max:** I’ve got my own protection.
+
+**Victoria:** Um, text me if you need anything...
+
+**Max:** I will. Thanks, Victoria.
+
+**Victoria:** Au revoir.
+
+{{!}}-{{!}}(Victoria doesn't believe Max)# (Victoria doesn't believe Max)
+
+''Victoria will not believe Max's warning if she made fun of her in episode 1, or if she comforted her and the "No need" dialogue option above was selected.''
+
+**Max:** Victoria, enough of this high school bullshit. We're adults now. So listen to me, your life is in serious danger. I know you're close to Nathan... but he is truly unstable and dangerous. He did drug Kate at that party so he could take her some place... dark.
+
+**Victoria:** Oh my God... and I'm the drama queen?
+
+**Max:** Touché. But I am not fucking around here.
+
+**Victoria:** Sorry, but no, no way. Nathan is like one of my best friends. Yes, he takes serious meds but that's not his fault. His family treats him like a total freak, just because he has little meltdowns.
+
+**Max:** They’re not little anymore. They’re deadly. I don’t care if you hate me or not, but you have to believe me.
+
+**Victoria:** I don't believe anything you say. You're full of shit. "Oh, hi, I'm Max Caulfield and I'm so sensitive that butterflies make me cry."
+
+**Max:** Now will you listen?
+
+**Victoria:** No, I won’t.
+
+**Victoria:** You're just pissed because you didn't enter a photo in the contest, and that Mr. Jefferson is going to pick me. A real artist would have busted ass to win... but you just want to take your little retro-selfies. That is so fucking lame and lazy, Max. Just go find a community college.
+
+**Max:** Oh, Victoria, please don't do this. Especially after what happened with Kate... Can't you see I'm serious?
+
+**Victoria:** That's your problem, Max. This is a party. And it's the "end of the world," so I am going to get so wasted even you won't bother me anymore. I'll let Nathan know if he finally shows up. Adios.
+
+**Max:** Au revoir…
+
+}}
+
+|-|DON'T WARN HERDON'T WARN HER
+
+{{#tag:tabber|(Victoria is friendly)# (Victoria is friendly)
+
+**Max:** Oh, um... no reason. I'm glad we finally had a talk, Victoria. I see where you're coming from now.
+
+**Victoria:** I don't blame you for not caring. I totally know I'm a mean bitch... Too much residue from my other school cliques. We are supposed to be adults, right?
+
+**Max:** That's what they tell us... Speaking of, have you seen Nathan?
+
+**Victoria:** Nathan Prescott? Why do you want to know that?
+
+**Max:** Oh, Principal Wells wanted to see us Monday. No big deal.
+
+**Victoria:** I hope he doesn't give you any shit. Actually, I haven't seen Nathan tonight. I swear.
+
+**Max:** Au revoir…
+
+{{!}}-{{!}}(Victoria is hostile)(Victoria is hostile)
+
+**Max:** Never mind. It was good talking to you, Victoria. As usual.
+
+**Victoria:** Eat a dick, Max. You're just jealous of me because I actually do the things you can't. I put my photographs out there, while you hide behind your lame retro-selfies.
+
+**Max:** At least tell me where Nathan is.
+
+**Victoria:** Uh, why do you want to know?
+
+**Max:** Principal Wells wanted to see us Monday. It's no big deal.
+
+**Victoria:** Then why ask me? I haven’t even seen him tonight. Adios.
+
+**Max:** Au revoir…
+
+}}
+
+(Max didn't warn Victoria)# (Max didn't warn Victoria)
+
+'*Max *(thinking)*:*' Should I have warned Victoria about Nathan? She might be evil, but...
+
+|-|(Victoria didn't believe Max)(Victoria didn't believe Max)
+
+'*Max *(thinking)*:*' Okay, I tried... She's not gonna believe me over her Vortex Club partner…
+
+|-|(Victoria believed Max)# (Victoria believed Max)
+
+'*Max *(thinking)*:*' Maybe there's hope yet for Victoria and me... I'm glad I warned her. I hope she's okay.
+
+# 
+
+Generate five trivia questions relevant to this section of the page.

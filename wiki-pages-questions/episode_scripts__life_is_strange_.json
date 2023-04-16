@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What Is The Category Name For The List Of Scripts For All Episodes Of Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Episode Scripts (Life is Strange)",
+      "B": "Life is Strange Scripts",
+      "C": "Script List for Life is Strange",
+      "D": "Life is Strange Episode Scripts"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Video Game That The Scripts Are For?",
+    "answer": "A",
+    "choices": {
+      "A": "Life is Strange",
+      "B": "Life is Strange: Before the Storm",
+      "C": "Life is Strange 2",
+      "D": "All of the Above"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Comment Does Max Make When She Pauses While Rewinding And Can't Stop?",
+    "answer": "A",
+    "choices": {
+      "A": "\"No way I can stop here.\"",
+      "B": "\"I can't be in two places at once.\"",
+      "C": "\"Either I rewind or I cancel.\"",
+      "D": "\"I need to hit this rewind or cancel.\""
+    }
+  },
+  {
+    "question": "What Comment Does Max Make When She Reaches The Limitation Of Her Rewind Ability?",
+    "answer": "A",
+    "choices": {
+      "A": "\"I can't go back further, I need to let go!\"",
+      "B": "\"That's all you can do, stop before you hurt yourself.\"",
+      "C": "\"I can only go so far back in time.\"",
+      "D": "\"I have to stop before I pass out.\""
+    }
+  },
+  {
+    "question": "What Comment Does Max Make When She Finds Herself Or A Friend In A Life-Threatening Situation?",
+    "answer": "D",
+    "choices": {
+      "A": "\"I need to figure this out.\"",
+      "B": "\"There's only one way around this.\"",
+      "C": "\"Max, don't fuck around! Rewind!\"",
+      "D": "\"I have to rewind now!\""
+    }
+  },
+  {
+    "question": "What Comment Does Max Make When She Misses Something And Needs To Rewind?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Damn, I missed something, I better rewind!\"",
+      "B": "\"I wonder how I'll get around this?\"",
+      "C": "\"There's only one way around this.\"",
+      "D": "\"Think Max, rewind and find something.\""
+    }
+  }
+]

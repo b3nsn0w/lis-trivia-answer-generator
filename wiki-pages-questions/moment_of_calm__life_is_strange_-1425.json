@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Where Does Max Sit During The Maze Sequence Of Her Nightmare?",
+    "answer": "B",
+    "choices": {
+      "A": "On A Couch",
+      "B": "On A Chair",
+      "C": "On A Stool",
+      "D": "On A Bench"
+    }
+  },
+  {
+    "question": "What Is Max's Opinion Of The Vortex Club During The End Of The World Party?",
+    "answer": "B",
+    "choices": {
+      "A": "She Admires Them",
+      "B": "She Dislikes Them",
+      "C": "She Is Indifferent To Them",
+      "D": "She Is Afraid Of Them"
+    }
+  },
+  {
+    "question": "Where Does Max Have A Moment Of Calm And Reflect On Her Use Of Time Travel?",
+    "answer": "A",
+    "choices": {
+      "A": "At The Two Whales Diner",
+      "B": "In The Zeitgeist Gallery",
+      "C": "In The Hospital Room With Kate",
+      "D": "In The Maze Sequence Of Her Nightmare"
+    }
+  },
+  {
+    "question": "What Is Max's Opinion Of Her Power After The Events Of Episode Four?",
+    "answer": "B",
+    "choices": {
+      "A": "She Thinks It Is A Gift",
+      "B": "She Thinks It Is A Curse",
+      "C": "She Is Indifferent To It",
+      "D": "She Is Confused By It"
+    }
+  }
+]

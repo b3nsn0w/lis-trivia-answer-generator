@@ -1,0 +1,40 @@
+= Diner Man =
+
+{{Infobox Character
+|name = Diner Man
+|image = Newspaper-man.jpg
+|died = October 11, 2013 <small>(presumed, determinant)</small> 
+|causeofdeath = Killed by the [[storm]] <small>(presumed, determinant)</small>
+|gender = Male
+|hair = Brown
+|eyes = Brown
+|appearance = [[Episode 2: Out of Time]]<br/>[[Episode 5: Polarized]] <small>(nightmare)</small>
+|voice = [[Don McManus]] <small>(uncredited)</small>
+|width = 250
+}}The '''"Diner Man"''' is a resident of [[Arcadia Bay]]. He is reading a newspaper near the [[Two Whales Diner]] in Episode 2.
+
+== Episode Two - "[[Episode 2: Out of Time|Out of Time]]" ==
+This man is standing near the kiosk with a newspaper called "NETWORK" in his hands. When [[Maxine Caulfield|Max]] tries to talk to him, it turns out that he is heavily displeased with the latest headline being "Snow", and sarcastically refers to the next week's big story as "Clouds". He thinks that a snowfall amid a warm sunny day is nothing unusual and attributes it to global warming. He also thinks that Arcadia Bay is going to become a ghost town in a few years. When the conversation shifts to [[Rachel Amber]], the man says she ran away because she was bored. Max can also tell him that the town is a mystery to her, but he merely responds that she'll eventually grow out of it.
+
+== Episode Five - "[[Episode 5: Polarized|Polarized]]" ==
+He appears in the diner scene of [[Max's Nightmare|Max's nightmare]], standing just near the entrance to the bathroom. When Max approaches him, he says that he was about to start a new life in California, something which wouldn't be possible if Max decided to sacrifice Arcadia Bay.
+In the Sacrifice Arcadia Bay ending, he is presumed to have died in the storm.
+
+<gallery position="center" widths="250" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+newspaperman-nightmare.jpg
+</gallery>
+
+{{Character Navbox}}
+
+[[ru:Человек в закусочной]]
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Minor Characters (Life is Strange)]]
+[[Category:Characters (Life is Strange)]]
+[[Category:Episode 2: Out of Time Characters]]
+[[Category:Episode 5: Polarized Characters]]
+[[Category:Two Whales Diner]]
+[[Category:Male Characters (Life is Strange)]]
+[[Category:Minor Characters]]
+
+[[Category:Life is Strange]]

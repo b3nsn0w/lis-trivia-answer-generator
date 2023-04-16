@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Happens To Lisa If Max Doesn't Water Her?",
+    "answer": "D",
+    "choices": {
+      "A": "She Looks Wilted",
+      "B": "She Looks Healthy",
+      "C": "She Drowns",
+      "D": "She Dries Out"
+    }
+  },
+  {
+    "question": "What Happens To Alyssa If Max Ignores Her?",
+    "answer": "A",
+    "choices": {
+      "A": "Alyssa Will Thank Max For Helping Her",
+      "B": "Alyssa Will Call Max Her Guardian Angel",
+      "C": "Alyssa Will Read A Robert Frost Quote To Max",
+      "D": "Alyssa Will Save Max From A Falling Sign"
+    }
+  },
+  {
+    "question": "What Happens To Kate's Whiteboard If Max Ignores The Insults?",
+    "answer": "A",
+    "choices": {
+      "A": "It Retains The Original Vandalism",
+      "B": "It Will Be Vandalized Again",
+      "C": "It Will Be Erased",
+      "D": "It Will Be Reorganized"
+    }
+  },
+  {
+    "question": "What Happens To Dana If Max Touches Her Pregnancy Test?",
+    "answer": "B",
+    "choices": {
+      "A": "Dana Is Pissed At Max For Invading Her Privacy",
+      "B": "Dana Confides In Max And Respects Her Intuition",
+      "C": "Dana Will Invite Max To The Party Without Much Preamble",
+      "D": "Dana Will Talk To Max About Trevor Knowing How To \"Be Safe\""
+    }
+  },
+  {
+    "question": "What Happens To The Photo Of Kate And David If Max Intervenes?",
+    "answer": "D",
+    "choices": {
+      "A": "Chloe Will Declare The Photo To Be Evidence Against David",
+      "B": "Chloe Will Bring Up The Photo In Her Fight With David",
+      "C": "Max Can Comment On The Photo Upon Examination",
+      "D": "The Photo Will Not Be In Max's Room"
+    }
+  }
+]

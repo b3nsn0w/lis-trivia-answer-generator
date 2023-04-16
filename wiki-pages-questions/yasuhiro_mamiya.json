@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who is Yasuhiro Mamiya?",
+    "answer": "A",
+    "choices": {
+      "A": "A Japanese voice actor",
+      "B": "A character in Life is Strange",
+      "C": "A developer of Life is Strange",
+      "D": "A writer of Life is Strange"
+    }
+  },
+  {
+    "question": "Which character did Yasuhiro Mamiya voice in the Japanese release of Life is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "Max Caulfield",
+      "B": "Chloe Price",
+      "C": "Nathan Prescott",
+      "D": "Rachel Amber"
+    }
+  },
+  {
+    "question": "What is the name of the Japanese release of Life is Strange?",
+    "answer": "D",
+    "choices": {
+      "A": "Life is Strange: Before the Storm",
+      "B": "Life is Strange: True Colors",
+      "C": "Life is Strange: Remastered Collection",
+      "D": "Not mentioned in the excerpt"
+    }
+  },
+  {
+    "question": "What is the Japanese name for Nathan Prescott?",
+    "answer": "D",
+    "choices": {
+      "A": "Max Caulfield",
+      "B": "Chloe Price",
+      "C": "Rachel Amber",
+      "D": "ネイサン・プレスコット"
+    }
+  }
+]

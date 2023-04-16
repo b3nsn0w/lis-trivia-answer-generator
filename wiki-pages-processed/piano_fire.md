@@ -1,0 +1,43 @@
+#  Piano Fire 
+
+```yaml
+Song
+
+image: sparklehorse its a wonderful life.png
+artist: Sparklehorse
+album: It's A Wonderful Life
+release: '2001'
+appears: |-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)
+  [Episode 4: Dark Room](episode_4__dark_room.md)
+```
+
+**"Piano Fire"** is a single by Sparklehorse from their album ''It's A Wonderful Life* and is featured in Episode 1 of *[Life is Strange](life_is_strange.md)'', when [Chloe Price](chloe.md) switches her HiFi-system, and is an optional track in Episode 4 when [Maxine Caulfield](max.md) is back in [Chloe's Room](chloe_s_room.md).
+##  Lyrics 
+
+: I got sunburnt waiting for the jets to land
+: Circus people with hairy little hands
+: Come on boys strike up the army band
+: I got sunburnt waiting for the jets
+
+: How do you feel?
+: How do you feel?
+: I can't seem to see through solid marble eyes
+
+: Fiery pianos wash up on a foggy coast
+: Squeaky old organs have given up the ghost
+: Fire them up and kill the pianos
+: There's creaky old organs burning on the coast
+
+: How do you feel?
+: How do you feel?
+: I can't seem to breathe with a rusted metal heart
+: I can't seem to see through solid marble eyes
+
+##  Videos 
+
+File:Life is Strange Soundtrack - Piano Fire by Sparklehorse
+
+##  Navigation 
+{{Soundtrack Navbox}}
+

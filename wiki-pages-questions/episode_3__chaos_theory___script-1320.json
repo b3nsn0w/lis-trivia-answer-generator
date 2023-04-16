@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Find On David's Laptop?",
+    "answer": "A",
+    "choices": {
+      "A": "Pictures Of Rachel And Frank Being More Than Friends",
+      "B": "Pictures Of Chloe And Frank Being More Than Friends",
+      "C": "Pictures Of Rachel And Nathan Being More Than Friends",
+      "D": "Pictures Of Max And Warren Being More Than Friends"
+    }
+  },
+  {
+    "question": "What Does Max Receive From Her Father Via Text Message?",
+    "answer": "B",
+    "choices": {
+      "A": "A Message About Her Suspension",
+      "B": "A Message Praising Her For Saving Kate",
+      "C": "A Message About Climate Change",
+      "D": "A Message About Max's Relationship With Warren"
+    }
+  },
+  {
+    "question": "What Does Chloe Plan To Do To Distract Frank?",
+    "answer": "A",
+    "choices": {
+      "A": "Tell Him She Has His Money",
+      "B": "Tell Him She Has His RV Key",
+      "C": "Tell Him She Has His Dog",
+      "D": "Tell Him She Has His Phone"
+    }
+  },
+  {
+    "question": "What Does The Fisherman Say Is Happening To The Fish In Arcadia Bay?",
+    "answer": "B",
+    "choices": {
+      "A": "They Are Migrating To Other Areas",
+      "B": "They Are Dying And Disappearing",
+      "C": "They Are Growing In Size",
+      "D": "They Are Becoming More Abundant"
+    }
+  },
+  {
+    "question": "What Does The Fisherman Say About Nathan Prescott?",
+    "answer": "A",
+    "choices": {
+      "A": "He Is Always Having A Fit",
+      "B": "He Is A Good Fisherman",
+      "C": "He Is A Climate Change Denier",
+      "D": "He Is A Scientist"
+    }
+  }
+]

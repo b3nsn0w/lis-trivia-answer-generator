@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who is Naoya Nosaka?",
+    "answer": "A",
+    "choices": {
+      "A": "A Japanese voice actor",
+      "B": "A character in Life is Strange",
+      "C": "A game developer",
+      "D": "A musician"
+    }
+  },
+  {
+    "question": "Which character did Naoya Nosaka voice in the Japanese release of Life is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "Max Caulfield",
+      "B": "Chloe Price",
+      "C": "David Madsen",
+      "D": "Rachel Amber"
+    }
+  },
+  {
+    "question": "What is the name of the Japanese localization of Life is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Life is Strange: Japanese Edition",
+      "B": "Life is Strange: Tokyo Nights",
+      "C": "Life is Strange: Land of the Rising Sun",
+      "D": "Life is Strange: True Colors"
+    }
+  },
+  {
+    "question": "What type of media is Life is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "A book",
+      "B": "A movie",
+      "C": "A video game",
+      "D": "A TV show"
+    }
+  },
+  {
+    "question": "What is the full name of the character voiced by Naoya Nosaka?",
+    "answer": "A",
+    "choices": {
+      "A": "David Madsen",
+      "B": "Max Caulfield",
+      "C": "Chloe Price",
+      "D": "Rachel Amber"
+    }
+  }
+]

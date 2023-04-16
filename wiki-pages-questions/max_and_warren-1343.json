@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Does Alyssa Say About Max And Warren's Knowledge Of Sci-Fi?",
+    "answer": "A",
+    "choices": {
+      "A": "They Should Be Careful Not To Make Brooke Jealous",
+      "B": "They Should Start A Sci-Fi Club",
+      "C": "They Should Write A Sci-Fi Novel Together",
+      "D": "They Should Attend A Sci-Fi Convention"
+    }
+  },
+  {
+    "question": "What Does Max Write In Her Journal About Warren After Declining His Invitation To The Drive-In?",
+    "answer": "A",
+    "choices": {
+      "A": "She Feels Bad For Not Checking On Him After His Run-In With Nathan",
+      "B": "She Thinks He's An Egomaniac",
+      "C": "She Wants To Tell Him About Her Time Rewind Power",
+      "D": "She Thinks He's Too Nerdy For Her"
+    }
+  },
+  {
+    "question": "What Does Warren Ask Max To Help Him With?",
+    "answer": "A",
+    "choices": {
+      "A": "A Science Experiment",
+      "B": "A Photography Project",
+      "C": "A History Essay",
+      "D": "A Math Problem"
+    }
+  },
+  {
+    "question": "What Does Warren Do When He Sees Kate Crying?",
+    "answer": "A",
+    "choices": {
+      "A": "He Comforts Her",
+      "B": "He Ignores Her",
+      "C": "He Laughs At Her",
+      "D": "He Tells Max To Stay Away From Her"
+    }
+  }
+]

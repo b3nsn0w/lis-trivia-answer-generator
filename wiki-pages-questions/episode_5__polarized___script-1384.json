@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Name Of The Location Where Max Wakes Up Tied To A Chair?",
+    "answer": "A",
+    "choices": {
+      "A": "The Dark Room",
+      "B": "The Red Room",
+      "C": "The Black Room",
+      "D": "The Secret Room"
+    }
+  },
+  {
+    "question": "What Happens To Victoria If Max Warned Her About The Dark Room In The Previous Episode?",
+    "answer": "C",
+    "choices": {
+      "A": "She Is Found Dead",
+      "B": "She Is Rescued By Max",
+      "C": "She Is Tied Up Next To Max",
+      "D": "She Escapes From The Dark Room"
+    }
+  },
+  {
+    "question": "What Does Max Use To Detach Her Foot From The Chair?",
+    "answer": "D",
+    "choices": {
+      "A": "A Knife",
+      "B": "Her Time Rewind Power",
+      "C": "Her Teeth",
+      "D": "Her Foot"
+    }
+  },
+  {
+    "question": "What Does Jefferson Say About Max's \"Selfie\"?",
+    "answer": "A",
+    "choices": {
+      "A": "He Hates The Word",
+      "B": "He Loves The Word",
+      "C": "He Doesn't Care About The Word",
+      "D": "He Thinks It's A Stupid Word"
+    }
+  },
+  {
+    "question": "What Is Jefferson's Number One Rule?",
+    "answer": "A",
+    "choices": {
+      "A": "Always Take The Shot",
+      "B": "Always Be Fearless",
+      "C": "Always Be Honest",
+      "D": "Always Be Punctual"
+    }
+  }
+]

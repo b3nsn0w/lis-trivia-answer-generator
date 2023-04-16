@@ -1,0 +1,155 @@
+Here is a section of the wiki page for Episode 1: Chrysalis - Choices:
+
+## Dirty RV
+
+|-|Wrote# Wrote
+*Episode 1
+**Lets Max take optional photo #8.
+*Episode 2, 3, 4
+**Frank's RV will bear Max's writing.
+|-|Didn't WriteDidn't Write
+*Episode 1
+**Max cannot take optional photo #8 (unless she rewinds after drawing on the RV).
+*Episode 2, 3, 4
+**Frank's RV remains dirty, minus Max's "I'm so dirty" embellishment.
+
+# #
+
+## Chloe's Snow Globe
+
+|-|Broke# Broke
+*Episode 1
+**Chloe gets upset with Max for breaking the snow globe.
+**Max can read Chloe's report card.
+*Episode 3
+**The broken snow globe can be seen in Chloe's room.
+*Episode 4
+**Max can comment on it in the living room remembering that it originally belonged to William.
+|-|Didn't BreakDidn't Break
+*Episode 1
+**Chloe does not get upset with Max before the fight with David.
+**Max can't read Chloe's report card (unless she broke the snow globe and rewound).
+*Episode 3
+**Max can see the snow globe intact in Chloe's room.
+*Episode 4
+**Max can comment on it in the living room.
+
+# #
+
+## Bird #1
+
+|-|Saved# Saved
+*Episode 1
+**Max can take optional photo #9 at the lighthouse.
+*Episode 3
+**The bird appears in Chloe's house.
+*Episode 4
+**Max can save the bird in Chloe's house.
+|-|DiedDied
+*Episode 1
+**Max cannot take optional photo #9 at the lighthouse.
+*Episode 3
+**The bird does not appear in Chloe's house.
+*Episode 4
+**Max cannot save the bird.
+
+# #
+
+## David's Files #1
+
+|-|Looked Through# Looked Through
+*Episode 1
+**Max brings this up to Chloe at the lighthouse.
+*Episode 3
+**Chloe brings up David's files if Max sides with him during the argument.
+|-|Didn't Look ThroughDidn't Look Through
+*Episode 1
+**Chloe wishes Max had read David's files.
+*Episode 3
+**Chloe does not bring up David's files if Max sides with him during the argument.
+
+# #
+
+## Evidence in the Garage
+
+|-|Left Evidence# Left Evidence
+*Episode 1
+**David brings this up during his confrontation with Chloe.
+|-|Covered up the EvidenceCovered up the Evidence
+*Episode 1
+**David doesn't know if anyone went through his files.
+
+# #
+
+## Chloe's Weed
+
+|-|Blame Chloe# Blame Chloe
+*Episode 1
+**Chloe is very upset with Max.
+**Chloe does not show Max the gun.
+**Chloe is upset at the lighthouse.
+*Episode 2
+**Joyce will bring up the incident as evidence that Chloe isn't responsible and needs the influence of Max.
+**Max cannot be suspended in the principal's office.
+*Episode 3
+**Chloe brings up Max blaming her for the weed when they break into Blackwell together.
+**Counts against Chloe changing her phone background (background will not change if another point is lost).
+**Joyce brings up the weed after the argument with David, provided Max sides with Chloe.
+|-|Take the BlameTake the Blame
+*Episode 1
+**Chloe feels like she won a victory against David.
+**Chloe shows Max the gun.
+***Max can talk to Chloe on her theft of the gun before going to the lighthouse.
+**Chloe is happy when she goes to the lighthouse with Max.
+*Episode 2
+**Joyce will bring up the incident as evidence that Max isn't a good influence on Chloe.
+**Max can be suspended in the principal's office if:
+***She blames David, did not take a photograph of him confronting Kate, and reported Nathan's gun usage.
+***She blames Nathan and did not report his gun usage.
+*Episode 3
+**Chloe jokes about the weed belonging to Max when she breaks into Blackwell with Max.
+**Contributes to Chloe changing her phone background in Episode 3 (1a of 4).
+**Joyce brings up the weed after the argument with David, provided Max sides with Chloe.
+*Episode 5
+**In the maze sequence of Max's nightmare, David will call her "pot head" and "weed junkie".
+|-|Stay Hidden# Stay Hidden
+*Episode 1
+**Chloe is somewhat upset with Max after the fight.
+**Chloe does not show Max the gun.
+**Chloe is upset at the lighthouse.
+*Episode 2
+**Joyce will bring up the incident as evidence that Chloe isn't responsible and needs the influence of Max.
+**Max cannot be suspended in the principal's office.
+*Episode 3
+**Chloe brings up Max allowing David to catch her with the weed when they break into Blackwell together.
+**Counts against Chloe changing her phone background (background will not change if another point is lost).
+**Joyce brings up the weed after the argument with David, provided Max sides with Chloe.
+|-|Step InStep In
+*Episode 1
+**Chloe is very happy with Max.
+**Chloe shows Max the gun.
+***Max can talk to Chloe on her theft of the gun before going to the lighthouse.
+**Chloe is happy when she goes to the lighthouse.
+*Episode 2
+**Joyce will bring up the incident as evidence that Max isn't a good influence on Chloe.
+**Max can be suspended in the principal's office if:
+***She blames David, did not take a photograph of him confronting Kate, and reported Nathan's gun usage.
+***She blames Nathan and did not report his gun usage.
+*Episode 3
+**Chloe jokes about the weed belonging to Max when they break into Blackwell together.
+**Contributes to Chloe changing her phone background (1b of 4).
+
+[File:This action will have consequences-0.png](thumb.md)
+The following article features the statistics and consequences of **choices** from [Episode 1: Chrysalis](episode_1__chrysalis.md).
+
+{| width# "100%" align"center"
+| valign# "top" |
+
+## Game Statistics 
+{{Main|Game Statistics (Life is Strange)#Episode_One_-_.22Chrysalis.22|Game Statistics#Episode One}}
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

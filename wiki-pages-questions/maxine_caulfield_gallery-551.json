@@ -1,0 +1,52 @@
+[
+  {
+    "question": "In which location is Max seen on a swing in her room?",
+    "answer": "C",
+    "choices": {
+      "A": "On the bed",
+      "B": "On the floor",
+      "C": "On the balcony",
+      "D": "On the chair"
+    }
+  },
+  {
+    "question": "Who is Max taking a picture of in one of the gallery images?",
+    "answer": "D",
+    "choices": {
+      "A": "Rachel Amber",
+      "B": "Victoria Chase",
+      "C": "Kate Marsh",
+      "D": "Chloe Price"
+    }
+  },
+  {
+    "question": "In which location is Max seen dancing with Chloe?",
+    "answer": "B",
+    "choices": {
+      "A": "In Chloe's house",
+      "B": "At the Two Whales Diner",
+      "C": "At the Vortex Club party",
+      "D": "At the lighthouse"
+    }
+  },
+  {
+    "question": "What is Max trying to persuade Chloe to do in one of the gallery images?",
+    "answer": "C",
+    "choices": {
+      "A": "To leave Arcadia Bay",
+      "B": "To go back in time",
+      "C": "To trust her about her powers",
+      "D": "To stop Nathan Prescott"
+    }
+  },
+  {
+    "question": "What is the name of Max's camera?",
+    "answer": "D",
+    "choices": {
+      "A": "Polaroid",
+      "B": "Kodak",
+      "C": "Fujifilm",
+      "D": "Max's Camera"
+    }
+  }
+]

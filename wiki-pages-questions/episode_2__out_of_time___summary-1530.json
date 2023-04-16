@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Kate's Request To Max When They Meet In The Dorm Shower Room?",
+    "answer": "A",
+    "choices": {
+      "A": "To Return A Book",
+      "B": "To Help Her With Homework",
+      "C": "To Take Her To The Hospital",
+      "D": "To Delete The Viral Video"
+    }
+  },
+  {
+    "question": "What Do Victoria And Taylor Tease Kate About In The Dorm Shower Room?",
+    "answer": "D",
+    "choices": {
+      "A": "Her Clothes",
+      "B": "Her Hair",
+      "C": "Her Makeup",
+      "D": "A Viral Video"
+    }
+  },
+  {
+    "question": "What Does Victoria Leave On The Bathroom Mirror?",
+    "answer": "B",
+    "choices": {
+      "A": "A Threatening Message",
+      "B": "A Link To Kate's Viral Video",
+      "C": "A Love Letter To Nathan",
+      "D": "A Warning About Max"
+    }
+  },
+  {
+    "question": "What Happens To Max's Room If She Told On Nathan Or Made Fun Of Victoria In Episode 1?",
+    "answer": "A",
+    "choices": {
+      "A": "It Is Trashed By Nathan",
+      "B": "It Is Trashed By Victoria",
+      "C": "It Is Left Untouched",
+      "D": "It Is Locked By The Dorm Manager"
+    }
+  },
+  {
+    "question": "What Is Kate's Condition When Max Visits Her Room To Return The Book?",
+    "answer": "B",
+    "choices": {
+      "A": "Happy And Cheerful",
+      "B": "Depressed And Untidy",
+      "C": "Sick And Dizzy",
+      "D": "Angry And Frustrated"
+    }
+  }
+]

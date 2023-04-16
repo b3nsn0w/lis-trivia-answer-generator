@@ -1,0 +1,108 @@
+Here is a section of the wiki page for Episode 3: Chaos Theory - Script:
+
+## *'Dana's Room'* 
+*Max enters Dana's room through the open door. Dana has the lights on and is sitting on her couch, looking distressed.*
+
+**Optional Conversation with Dana**
+
+**Max:** *(sympathetically)* Hey, Dana... How are you doing?
+
+(Saved Kate)# (Saved Kate)**Dana:** *(sadly)'' Better than Kate... I just can't believe she would even attempt suicide...
+
+{{#tag:tabber|We're all responsible.We're all responsible.**Max:** I think we're all responsible for what happened...
+
+**Dana:** True...but you're the only one who went up to that roof with Kate.
+
+{{#tag:tabber|I was lucky.# I was lucky.**Max:** I was lucky, that's all.
+
+**Dana:** No girl, that was not luck. You made a choice to save her—like a superhero!
+
+**Max:** Then maybe it's time to catch the bad guys...
+
+**Dana:** So what exactly are you saying, Max?
+
+{{#tag:tabber|(Nathan is suspended)(Nathan is suspended)**Dana:** You think this has something to do with Nathan being expelled?
+
+{{!}}-{{!}}(David is suspended)# (David is suspended)**Dana:** Do you think David Madsen is involved? He finally got his ass busted too.
+
+{{!}}-{{!}}(Jefferson is suspended from contest)(Jefferson is suspended from contest)**Dana:** I know Jefferson got reamed by the Principal... Do you think they're involved?
+
+{{!}}-{{!}}(Max is suspended)# (Max is suspended)**Dana:** Does this have something to do with why you got suspended yesterday? Tell me the truth.
+
+}}
+
+{{#tag:tabber|I'm not sure yet.I'm not sure yet.**Max:** I'm not sure yet, but I'm on it. Weird shit is going down at Blackwell, and I'm going to find out why.
+
+**Dana:** I'm getting scared now... But people here are still sneaking out tonight...
+
+**Max:** What? Like who?
+
+**Dana:** Victoria bounced out of here earlier and now you, Sherlock?
+
+**Max:** Not me. I need a break from today... Get some sleep too, Dana. I'll see you later.
+
+{{!}}-{{!}}It's complicated.# It's complicated.**Max:** It's complicated... I don't want to drag you into this, okay? Not yet, anyway.
+
+**Dana:** I'm getting scared now... But people here are still sneaking out tonight...
+
+**Max:** What? Like who?
+
+**Dana:** Victoria bounced out of here earlier and now you, Sherlock?
+
+**Max:** Not me. I need a break from today... Get some sleep too, Dana. I'll see you later.
+
+}}
+
+{{!}}-{{!}}Where was everybody?Where was everybody?**Max:** That was bullshit. Where was everybody else?
+
+**Dana:** *(guiltily)* I know... You're a better person than any of us here... *(normally)* Hey, Max, I think I need to crash now. I'm just over everything today...
+
+{{!}}-{{!}}Why was she on the roof?# Why was she on the roof?**Max:** So why do you think she was on the roof in the first place?
+
+**Dana:** Maybe Kate was so ashamed she got wasted on that video... I don't blame her, but it was pretty gross.
+
+**Max:** Come on! You really believe that Kate Marsh wanted to get drunk at a Vortex Club party?
+
+**Dana:** So what exactly are you saying, Max?
+
+{{#tag:tabber|(Nathan is suspended)(Nathan is suspended)**Dana:** You think this has something to do with Nathan being expelled?
+
+{{!}}-{{!}}(David is suspended)# (David is suspended)**Dana:** Do you think David Madsen is involved? He finally got his ass busted too.
+
+{{!}}-{{!}}(Jefferson is suspended from contest)(Jefferson is suspended from contest)**Dana:** I know Jefferson got reamed by the Principal... Do you think they're involved?
+
+{{!}}-{{!}}(Max is suspended)# (Max is suspended)**Dana:** Does this have something to do with why you got suspended yesterday? Tell me the truth.
+
+}}
+
+{{#tag:tabber|I'm not sure yet.I'm not sure yet.**Max:** I'm not sure yet, but I'm on it. Weird shit is going down at Blackwell, and I'm going to find out why.
+
+**Dana:** I'm getting scared now... But people here are still sneaking out tonight...
+
+**Max:** What? Like who?
+
+**Dana:** Victoria bounced out of here earlier and now you, Sherlock?
+
+**Max:** Not me. I need a break from today... Get some sleep too, Dana. I'll see you later.
+
+{{!}}-{{!}}It's complicated.# It's complicated.**Max:** It's complicated... I don't want to drag you into this, okay? Not yet, anyway.
+
+**Dana:** I'm getting scared now... But people here are still sneaking out tonight...
+
+**Max:** What? Like who?
+
+**Dana:** Victoria bounced out of here earlier and now you, Sherlock?
+
+**Max:** Not me. I need a break from today... Get some sleep too, Dana. I'll see you later.
+
+}}
+
+}}
+
+{{!}}-{{!}}She was depressed.She was depressed.**Max:** I knew she was depressed, but...I had no idea how bad...
+
+**Dana:** Must be serious to throw yourself off the roof...
+
+{{#tag:tabber|Kate was serious.# Kate was serious.**Max:** Kate was serious. But it's not all about that 
+
+Generate five trivia questions relevant to this section of the page.

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who is the artist of the song \"On My Side\"?",
+    "answer": "A",
+    "choices": {
+      "A": "Andy Huckvale",
+      "B": "Life is Strange",
+      "C": "Out of Time",
+      "D": "The protagonist"
+    }
+  },
+  {
+    "question": "In which episode of Life is Strange is the song \"On My Side\" featured?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "What is the context in which the song \"On My Side\" is used in Life is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "It is played during a romantic scene between Max and Chloe",
+      "B": "It is played during a sad scene where a character dies",
+      "C": "It is not used in the game itself, only in the launch trailer",
+      "D": "It is played during the end credits of the game"
+    }
+  },
+  {
+    "question": "According to the lyrics of \"On My Side\", what happens when the protagonist is crying?",
+    "answer": "A",
+    "choices": {
+      "A": "It starts raining",
+      "B": "The sun comes out",
+      "C": "The world weeps",
+      "D": "The fire keeps on burning"
+    }
+  }
+]

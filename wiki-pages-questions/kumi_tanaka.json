@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who is Kumi Tanaka?",
+    "answer": "A",
+    "choices": {
+      "A": "A Japanese voice actress",
+      "B": "A video game developer",
+      "C": "A character in Life is Strange",
+      "D": "A musician"
+    }
+  },
+  {
+    "question": "Which character did Kumi Tanaka voice in the Japanese release of Life is Strange?",
+    "answer": "D",
+    "choices": {
+      "A": "Chloe Price",
+      "B": "Rachel Amber",
+      "C": "Victoria Chase",
+      "D": "Maxine Caulfield"
+    }
+  },
+  {
+    "question": "What is the name of the Japanese release of Life is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Life is Strange: Japan Edition",
+      "B": "Life is Strange: Tokyo Nights",
+      "C": "Life is Strange: The Japanese Version",
+      "D": "Life is Strange: True Colors"
+    }
+  },
+  {
+    "question": "Which game in the Life is Strange series did Kumi Tanaka also voice Maxine Caulfield in?",
+    "answer": "B",
+    "choices": {
+      "A": "Life is Strange 2",
+      "B": "Life is Strange: Before the Storm",
+      "C": "Life is Strange: True Colors",
+      "D": "Life is Strange: The Adventures of Max and Chloe"
+    }
+  },
+  {
+    "question": "When was Kumi Tanaka born?",
+    "answer": "A",
+    "choices": {
+      "A": "March 21, 1981",
+      "B": "April 21, 1981",
+      "C": "March 21, 1982",
+      "D": "April 21, 1982"
+    }
+  }
+]

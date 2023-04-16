@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Where Is The \"Lost Goggles\" Notice Located?",
+    "answer": "C",
+    "choices": {
+      "A": "Near The Trash Can In The Girls' Showers",
+      "B": "On Wall Inside The Girls' Changing Room",
+      "C": "Notice Board Near Inside The Swimming Pool Building",
+      "D": "Drawer Inside The Lifeguard Room Of The Pool"
+    }
+  },
+  {
+    "question": "What Is Written On The \"Rachel Amber Missing\" Poster?",
+    "answer": "D",
+    "choices": {
+      "A": "Have You Seen This Girl?",
+      "B": "Missing Person Alert",
+      "C": "Help Find Rachel",
+      "D": "Rachel Amber Is Missing"
+    }
+  },
+  {
+    "question": "Where Is The Otters Poster Located?",
+    "answer": "D",
+    "choices": {
+      "A": "Near The Trash Can In The Girls' Showers",
+      "B": "On Wall Inside The Girls' Changing Room",
+      "C": "Notice Board Near Inside The Swimming Pool Building",
+      "D": "Drawer Inside The Lifeguard Room Of The Pool"
+    }
+  },
+  {
+    "question": "Whose Locker Is The Note From Logan To Dana Found In?",
+    "answer": "D",
+    "choices": {
+      "A": "Zachary",
+      "B": "Nathan",
+      "C": "Warren",
+      "D": "Logan"
+    }
+  }
+]

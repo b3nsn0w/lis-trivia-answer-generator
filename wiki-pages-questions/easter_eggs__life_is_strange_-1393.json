@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is the name of the football team at Blackwell Academy?",
+    "answer": "B",
+    "choices": {
+      "A": "The Sasquatches",
+      "B": "The Bigfoots",
+      "C": "The Yetis",
+      "D": "The Abominable Snowmen"
+    }
+  },
+  {
+    "question": "In which episode of Life is Strange does Max have to find five bottles for Chloe?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode 1",
+      "B": "Episode 2",
+      "C": "Episode 4",
+      "D": "Episode 5"
+    }
+  },
+  {
+    "question": "What does Max say when she takes a photograph of all the collected bottles in the junkyard?",
+    "answer": "A",
+    "choices": {
+      "A": "\"I need proof that bottles were out to get me, just in case...\"",
+      "B": "\"I'm never doing this again.\"",
+      "C": "\"I'm glad that's over.\"",
+      "D": "\"I can't believe I did that.\""
+    }
+  }
+]

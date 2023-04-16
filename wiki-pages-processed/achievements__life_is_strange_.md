@@ -1,0 +1,1123 @@
+#  Achievements (Life is Strange) 
+
+There are 60 **achievements**[http://steamcommunity.com/stats/319630/achievements Steam achievements list (Life is Strange)] (61 trophies)[https://psnprofiles.com/trophies/3313-life-is-strange PS4 trophies list (Life is Strange)] that can be earned in *[Life is Strange](life_is_strange.md)*, all of which involve taking [Optional Photos](optional_photos.md) and finishing an [:Category:Episodes](episode.md). There is one platinum trophy in all three games that is exclusive to PlayStation consoles.
+
+In *Life is Strange*, there are hints on where each optional photo may be located by looking at the sketch drawings in [Maxine Caulfield](max_caulfield.md)'s optional photos section in [Max's Journal](her_journal.md) and by replaying a particular scene in an episode. All achievements that are awarded for taking optional photos refer to photography terms.
+
+##  Life is Strange 
+{{Achievements
+|image #  What_If_Achievement.png
+|name  What if?
+|description #  Unlock all other trophies from Life Is Strange™
+|type  platinum
+|rarityps4 #  8.1
+}}
+
+###  Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+{{Achievements
+|image  Macro_Eyes_Achievement.png
+|name #  Macro Eyes
+|description  Take optional photo #1 in Episode 1: Chrysalis
+|type #  bronze
+|score  10
+|rarityps4 #  73.5
+|raritysteam  69.6
+}}
+{{Achievements
+|name #  Wide Angles
+|image  Wide_Angles_Achievement.png
+|description #  Take optional photo #2 in Episode 1: Chrysalis
+|type  bronze
+|score #  10
+|rarityps4  17.2
+|raritysteam #  14.8
+}}
+{{Achievements
+|name  Telephotogenic
+|image #  Telephotogenic_Achievement.png
+|description  Take optional photo #3 in Episode 1: Chrysalis
+|type #  bronze
+|score  10
+|rarityps4 #  25.1
+|raritysteam  23.1
+}}
+{{Achievements
+|name #  Close-Ups
+|image  Close-Ups_Achievement.png
+|description #  Take optional photo #4 in Episode 1: Chrysalis
+|type  bronze
+|score #  10
+|rarityps4  15.9
+|raritysteam #  14.6
+}}
+{{Achievements
+|name  Red Eye
+|image #  Red_Eye_Achievement.png
+|description  Take optional photo #5 in Episode 1: Chrysalis
+|type #  bronze
+|score  10
+|rarityps4 #  45.4
+|raritysteam  43
+}}
+{{Achievements
+|image #  Focused Achievement.png
+|name  Focused
+|description #  Take optional photo #6 in Episode 1: Chrysalis
+|type  bronze
+|score #  10
+|rarityps4  22.4
+|raritysteam #  17.4
+}}
+{{Achievements
+|name  Zoomed In
+|image #  Zoomed_In_Achievement.png
+|description  Take optional photo #7 in Episode 1: Chrysalis
+|type #  bronze
+|score  10
+|rarityps4 #  17
+|raritysteam  15.4
+}}
+{{Achievements
+|name #  Focal Pointed
+|image  Focal_Pointed_Achievement.png
+|description #  Take optional photo #8 in Episode 1: Chrysalis
+|type  bronze
+|score #  10
+|rarityps4  17.1
+|raritysteam #  15.1
+}}
+{{Achievements
+|name  Maximum Aperture
+|image #  Maximum_Aperture_Achievement.png
+|description  Take optional photo #9 in Episode 1: Chrysalis
+|type #  bronze
+|score  10
+|rarityps4 #  15.6
+|raritysteam  13.8
+}}
+{{Achievements
+|name #  Light Leak
+|image  Light_Leak_Achievement.png
+|description #  Take optional photo #10 in Episode 1: Chrysalis
+|type  bronze
+|score #  10
+|rarityps4  23.2
+|raritysteam #  23
+}}
+{{Achievements
+|name  Visionary
+|image #  Visionary_Achivement.png
+|description  Take all optional photos in Episode 1: Chrysalis
+|type #  bronze
+|score  45
+|rarityps4 #  11.1
+|raritysteam  8.1
+}}
+{{Achievements
+|name #  Chrysalis
+|image  Chrysalis_Achievement.png
+|description #  Finish Episode 1: Chrysalis
+|type  bronze
+|score #  55
+|rarityps4  54.6
+|raritysteam #  52
+}}
+
+###  Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+{{Achievements
+|name  Field Of View
+|image #  Field_Of_View_Achievement.png
+|description  Take optional photo #1 in Episode 2: Out Of Time
+|type #  bronze
+|score  10
+|rarityps4 #  32.2
+|raritysteam  29.8
+}}
+{{Achievements
+|name #  Full Exposure
+|image  Full_Exposure_Achievement.png
+|description #  Take optional photo #2 in Episode 2: Out of Time
+|type  bronze
+|score #  10
+|rarityps4  18.2
+|raritysteam #  16.2
+}}
+{{Achievements
+|name  Processor
+|image #  Processor_Achievement.PNG
+|description  Take optional photo #3 in Episode 2: Out of Time
+|type #  bronze
+|score  10
+|rarityps4 #  14.2
+|raritysteam  11.8
+}}
+{{Achievements
+|name #  Image Stabilizer
+|image Image_Stabilizer_Achievement.PNG
+|description #  Take optional photo #4 in Episode 2: Out of Time
+|type  bronze
+|score #  10
+|rarityps4  17.5
+|raritysteam #  15.7
+}}
+{{Achievements
+|name  Compressed
+|image #  Compressed_Achievement.PNG
+|description  Take optional photo #5 in Episode 2: Out of Time
+|type #  bronze
+|score  10
+|rarityps4 #  25.2
+|raritysteam  22.9 
+}}
+{{Achievements
+|name #  Pixelated
+|image  Pixelated_Achievement.PNG
+|description #  Take optional photo #6 in Episode 2: Out of Time
+|type  bronze
+|score #  10
+|rarityps4  18
+|raritysteam #  15.4
+}}
+{{Achievements
+|name  Dynamic Range
+|image #  Dynamic_Range_Achievement.PNG
+|description  Take optional photo #7 in Episode 2: Out of Time
+|type #  bronze
+|score  10
+|rarityps4 #  37.5
+|raritysteam  32.7
+}}
+{{Achievements
+|name #  Colorized
+|image  Colorized_Achievement.PNG
+|description #  Take optional photo #8 in Episode 2: Out of Time
+|type  bronze
+|score #  10
+|rarityps4  20.7
+|raritysteam #  20.4
+}}
+{{Achievements
+|name  Meter Made
+|image #  Meter_Made_Achievement.PNG
+|description  Take optional photo #9 in Episode 2: Out of Time
+|type #  bronze
+|score  10
+|rarityps4 #  19.5
+|raritysteam  16.9
+}}
+{{Achievements
+|name #  Resolution Revolution
+|image  Resolution_Revolution_Achievement.PNG
+|description #  Take optional photo #10 in Episode 2: Out of Time
+|type  bronze
+|score #  10
+|rarityps4  28.3
+|raritysteam #  26.5
+}}
+{{Achievements
+|name  Lab Master
+|image #  Lab_Master_Achievement.PNG
+|description  Take all optional photos in Episode 2: Out of Time
+|type #  bronze
+|score  45
+|rarityps4 #  10.4
+|raritysteam  7.5
+}}
+{{Achievements
+|name #  Out of Time
+|image  Out_Of_Time_Achievement.PNG
+|description #  Finish Episode 2: Out of Time
+|type  bronze
+|score #  55
+|rarityps4  37.7
+|raritysteam #  33.3
+}}
+
+###  Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+{{Achievements
+|name  Parallax View
+|image #  Parallax_View_Achievement.png
+|description  Take optional photo #1 in Episode 3: Chaos Theory
+|type #  bronze
+|score  10
+|rarityps4 #  10.2
+|raritysteam  7.3
+}}
+{{Achievements
+|name #  Lenscrafted
+|image  Lenscrafted_Achievement.png
+|description #  Take optional photo #2 in Episode 3: Chaos Theory
+|type  bronze
+|score #  10
+|rarityps4  11.9
+|raritysteam #  9.8
+}}
+{{Achievements
+|name  The Reflex
+|image #  The_Reflex_Achievement.png
+|description  Take optional photo #3 in Episode 3: Chaos Theory
+|type #  bronze
+|score  10
+|rarityps4 #  26.9
+|raritysteam  23
+}}
+{{Achievements
+|name #  Histogrammar
+|image  Histogrammar_Achievement.png
+|description #  Take optional photo #4 in Episode 3: Chaos Theory
+|type  bronze
+|score #  10
+|rarityps4  26.3
+|raritysteam #  22.8
+}}
+{{Achievements
+|name  Bokeh
+|image #  Bokeh_Achievement.png
+|description  Take optional photo #5 in Episode 3: Chaos Theory
+|type #  bronze
+|score  10
+|rarityps4 #  12.1
+|raritysteam  10.7
+}}
+{{Achievements
+|name #  Pinholed
+|image  Pinholed_Achievement.png
+|description #  Take optional photo #6 in Episode 3: Chaos Theory
+|type  bronze
+|score #  10
+|rarityps4  22
+|raritysteam #  20.3
+}}
+{{Achievements
+|name  RAW Strength
+|image #  RAWStrengthAchievement.png
+|description  Take optional photo #7 in Episode 3: Chaos Theory
+|type #  bronze
+|score  10
+|rarityps4 #  11.1
+|raritysteam  8.7
+}}
+{{Achievements
+|name #  Viewfinder
+|image  Viewfinder_Achievement.png
+|description #  Take optional photo #8 in Episode 3: Chaos Theory
+|type  bronze
+|score #  10
+|rarityps4  13.5
+|raritysteam #  11.6
+}}
+{{Achievements
+|name  Optican
+|image #  Optican_Achievement.png
+|description  Take optional photo #9 in Episode 3: Chaos Theory
+|type #  bronze
+|score  10
+|rarityps4 #  15.2
+|raritysteam  13.4
+}}
+{{Achievements
+|name #  Flash!
+|image  Flash!_Achievement.png
+|description #  Take optional photo #10 in Episode 3: Chaos Theory
+|type  bronze
+|score #  10
+|rarityps4  25.6
+|raritysteam #  22
+}}
+{{Achievements
+|name  Camera Eye
+|image #  Camera_Eye_Achievement.png
+|description  Take all optional photos in Episode 3: Chaos Theory
+|type #  bronze
+|score  45
+|rarityps4 #  9.1
+|raritysteam  6.1
+}}
+{{Achievements
+|name #  Chaos Theory
+|image  Chaos_Theory_Achievement.png
+|description #  Finish Episode 3: Chaos Theory
+|type  bronze
+|score #  55
+|rarityps4  33.3
+|raritysteam #  29.7
+}}
+
+###  Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+{{Achievements
+|image  Ambient_Achievement.png
+|name #  Ambient
+|description  Take optional photo #1 in Episode 4: Dark Room
+|type #  bronze
+|score  10
+|rarityps4 #  19.6
+|raritysteam  17.5
+}}
+{{Achievements
+|name #  Time-Lapsed
+|image  Time-Lapsed_Achievement.png
+|description #  Take optional photo #2 in Episode 4: Dark Room
+|type  bronze
+|score #  10
+|rarityps4  20
+|raritysteam #  16.8
+}}
+{{Achievements
+|name  Balance
+|image #  Balance_Achievement.png
+|description  Take optional photo #3 in Episode 4: Dark Room
+|type #  bronze
+|score  10
+|rarityps4 #  13.3
+|raritysteam  11.4
+}}
+{{Achievements
+|name #  Rangefinder
+|image  Rangefinder_Achievement.png
+|description #  Take optional photo #4 in Episode 4: Dark Room
+|type  bronze
+|score #  10
+|rarityps4  15.2
+|raritysteam #  13.6
+}}
+{{Achievements
+|name  Gamma Value
+|image #  Gamma_Value_Achievement.png
+|description  Take optional photo #5 in Episode 4: Dark Room
+|type #  bronze
+|score  10
+|rarityps4 #  10.5
+|raritysteam  8.2
+}}
+{{Achievements
+|name #  Dioptric Power
+|image  Dioptric_Power_Achievement.png
+|description #  Take optional photo #6 in Episode 4: Dark Room
+|type  bronze
+|score #  10
+|rarityps4  16.2
+|raritysteam #  15
+}}
+{{Achievements
+|name  Fisheye
+|image #  Fisheye_Achievement.png
+|description  Take optional photo #7 in Episode 4: Dark Room
+|type #  bronze
+|score  10
+|rarityps4 #  14.2
+|raritysteam  13
+}}
+{{Achievements
+|name #  Manually Exposed
+|image  Manually_Exposed_Achievement.png
+|description #  Take optional photo #8 in Episode 4: Dark Room
+|type  bronze
+|score #  10
+|rarityps4  27.9
+|raritysteam #  24.8
+}}
+{{Achievements
+|name  Slideshow
+|image #  Slideshow_Achievement.png
+|description  Take optional photo #9 in Episode 4: Dark Room
+|type #  bronze
+|score  10
+|rarityps4 #  12.2
+|raritysteam  9.8
+}}
+{{Achievements
+|name #  Tripod
+|image   Tripod_Achievement.png
+|description #  Take optional photo #10 in Episode 4: Dark Room
+|type  bronze
+|score #  10
+|rarityps4  9.1
+|raritysteam #  6
+}}
+{{Achievements
+|name  Shutterbug
+|image #  Shutterbug_Achievement.png
+|description  Take all optional photos in Episode 4: Dark Room
+|type #  bronze
+|score  45
+|rarityps4 #  8.6
+|raritysteam  5.5
+}}
+{{Achievements
+|name #  Dark Room
+|image  Dark_Room_Achievement.png
+|description #  Finish Episode 4: Dark Room
+|type  bronze
+|score #  55
+|rarityps4  29.7
+|raritysteam #  27
+}}
+
+###  Episode Five - "[Episode 5: Polarized](polarized.md)" 
+{{Achievements
+|name  Incandescent
+|image #  Incandescent_Achievement.png
+|description  Take optional photo #1 in Episode 5: Polarized
+|type #  bronze
+|score  10
+|rarityps4 #  11.3
+|raritysteam  8.8
+}}
+{{Achievements
+|name #  Night Vision
+|image  Night_Vision_Achievement.png
+|description #  Take optional photo #2 in Episode 5: Polarized
+|type  bronze
+|score #  10
+|rarityps4  13.7
+|raritysteam #  11.1
+}}
+{{Achievements
+|name  Framed 
+|image #  Framed_Achievement_64x64px.png
+|description  Take optional photo #3 in Episode 5: Polarized
+|type #  bronze
+|score  10
+|rarityps4 #  24.7
+|raritysteam  22.3
+}}
+{{Achievements
+|name #  Camera Obscura
+|image  Camera_Obscura_Achievement.png
+|description #  Take optional photo #4 in Episode 5: Polarized
+|type  bronze
+|score #  10
+|rarityps4  10.3
+|raritysteam #  7.8
+}}
+{{Achievements
+|name  Blowup
+|image #  Blowup_Achievement.png
+|description  Take optional photo #5 in Episode 5: Polarized
+|type #  bronze
+|score  10
+|rarityps4 #  11.1
+|raritysteam  9.1
+}}
+{{Achievements
+|name #  Iris
+|image  Iris_Achievement.png
+|description #  Take optional photo #6 in Episode 5: Polarized
+|type  bronze
+|score #  10
+|rarityps4  10.4
+|raritysteam #  7.7
+}}
+{{Achievements
+|name  Sensor
+|image #  Sensor_Achievement.png
+|description  Take optional photo #7 in Episode 5: Polarized
+|type #  bronze
+|score  10
+|rarityps4 #  14.3
+|raritysteam  12.6
+}}
+{{Achievements
+|name #  On Display
+|image  On_Display_Achievement.png
+|description #  Take optional photo #8 in Episode 5: Polarized
+|type  bronze
+|score #  10
+|rarityps4  9
+|raritysteam #  5.8
+}}
+{{Achievements
+|name  Light Meter
+|image #  Light_Meter_Achievement.png
+|description  Take optional photo #9 in Episode 5: Polarized
+|type #  bronze
+|score  10
+|rarityps4 #  8.7
+|raritysteam  5.6
+}}
+{{Achievements
+|name #  Silhouettes
+|image  Silhouettes_Achievement.png
+|description #  Take optional photo #10 in Episode 5: Polarized
+|type  bronze
+|score #  10
+|rarityps4  13.3
+|raritysteam #  11.5
+}}
+{{Achievements
+|name  Selfie Awareness
+|image #  Selfie_Awareness_Achievement.png
+|description  Take all optional photos in Episode 5: Polarized
+|type #  bronze
+|score  45
+|rarityps4 #  8.2
+|raritysteam  4.9
+}}
+{{Achievements
+|name #  Polarized
+|image  Polarized Achievement.png
+|description #  Finish Episode 5: Polarized
+|type  gold
+|score #  55
+|rarityps4  27.5
+|raritysteam #  25.6
+}}
+
+##  Trivia 
+* The achievement "What If?" is a reference to the game's codename, which had originally been considered as its title. 
+* There are [https://imgur.com/a/IW16D achievement images] created for the Xbox One version of the game.[https://www.reddit.com/r/lifeisstrange/comments/8kpwx2/s1_e5_achievement_photos_wallpapers_with_journal/ Reddit post by /u/IgelRM]
+
+###  Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+{{Achievements
+|image  Macro_Eyes_Achievement.png
+|name #  Macro Eyes
+|description  Take optional photo #1 in Episode 1: Chrysalis
+|type #  bronze
+|score  10
+|rarityps4 #  73.5
+|raritysteam  69.6
+}}
+{{Achievements
+|name #  Wide Angles
+|image  Wide_Angles_Achievement.png
+|description #  Take optional photo #2 in Episode 1: Chrysalis
+|type  bronze
+|score #  10
+|rarityps4  17.2
+|raritysteam #  14.8
+}}
+{{Achievements
+|name  Telephotogenic
+|image #  Telephotogenic_Achievement.png
+|description  Take optional photo #3 in Episode 1: Chrysalis
+|type #  bronze
+|score  10
+|rarityps4 #  25.1
+|raritysteam  23.1
+}}
+{{Achievements
+|name #  Close-Ups
+|image  Close-Ups_Achievement.png
+|description #  Take optional photo #4 in Episode 1: Chrysalis
+|type  bronze
+|score #  10
+|rarityps4  15.9
+|raritysteam #  14.6
+}}
+{{Achievements
+|name  Red Eye
+|image #  Red_Eye_Achievement.png
+|description  Take optional photo #5 in Episode 1: Chrysalis
+|type #  bronze
+|score  10
+|rarityps4 #  45.4
+|raritysteam  43
+}}
+{{Achievements
+|image #  Focused Achievement.png
+|name  Focused
+|description #  Take optional photo #6 in Episode 1: Chrysalis
+|type  bronze
+|score #  10
+|rarityps4  22.4
+|raritysteam #  17.4
+}}
+{{Achievements
+|name  Zoomed In
+|image #  Zoomed_In_Achievement.png
+|description  Take optional photo #7 in Episode 1: Chrysalis
+|type #  bronze
+|score  10
+|rarityps4 #  17
+|raritysteam  15.4
+}}
+{{Achievements
+|name #  Focal Pointed
+|image  Focal_Pointed_Achievement.png
+|description #  Take optional photo #8 in Episode 1: Chrysalis
+|type  bronze
+|score #  10
+|rarityps4  17.1
+|raritysteam #  15.1
+}}
+{{Achievements
+|name  Maximum Aperture
+|image #  Maximum_Aperture_Achievement.png
+|description  Take optional photo #9 in Episode 1: Chrysalis
+|type #  bronze
+|score  10
+|rarityps4 #  15.6
+|raritysteam  13.8
+}}
+{{Achievements
+|name #  Light Leak
+|image  Light_Leak_Achievement.png
+|description #  Take optional photo #10 in Episode 1: Chrysalis
+|type  bronze
+|score #  10
+|rarityps4  23.2
+|raritysteam #  23
+}}
+{{Achievements
+|name  Visionary
+|image #  Visionary_Achivement.png
+|description  Take all optional photos in Episode 1: Chrysalis
+|type #  bronze
+|score  45
+|rarityps4 #  11.1
+|raritysteam  8.1
+}}
+{{Achievements
+|name #  Chrysalis
+|image  Chrysalis_Achievement.png
+|description #  Finish Episode 1: Chrysalis
+|type  bronze
+|score #  55
+|rarityps4  54.6
+|raritysteam #  52
+}}
+
+###  Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+{{Achievements
+|name  Field Of View
+|image #  Field_Of_View_Achievement.png
+|description  Take optional photo #1 in Episode 2: Out Of Time
+|type #  bronze
+|score  10
+|rarityps4 #  32.2
+|raritysteam  29.8
+}}
+{{Achievements
+|name #  Full Exposure
+|image  Full_Exposure_Achievement.png
+|description #  Take optional photo #2 in Episode 2: Out of Time
+|type  bronze
+|score #  10
+|rarityps4  18.2
+|raritysteam #  16.2
+}}
+{{Achievements
+|name  Processor
+|image #  Processor_Achievement.PNG
+|description  Take optional photo #3 in Episode 2: Out of Time
+|type #  bronze
+|score  10
+|rarityps4 #  14.2
+|raritysteam  11.8
+}}
+{{Achievements
+|name #  Image Stabilizer
+|image Image_Stabilizer_Achievement.PNG
+|description #  Take optional photo #4 in Episode 2: Out of Time
+|type  bronze
+|score #  10
+|rarityps4  17.5
+|raritysteam #  15.7
+}}
+{{Achievements
+|name  Compressed
+|image #  Compressed_Achievement.PNG
+|description  Take optional photo #5 in Episode 2: Out of Time
+|type #  bronze
+|score  10
+|rarityps4 #  25.2
+|raritysteam  22.9 
+}}
+{{Achievements
+|name #  Pixelated
+|image  Pixelated_Achievement.PNG
+|description #  Take optional photo #6 in Episode 2: Out of Time
+|type  bronze
+|score #  10
+|rarityps4  18
+|raritysteam #  15.4
+}}
+{{Achievements
+|name  Dynamic Range
+|image #  Dynamic_Range_Achievement.PNG
+|description  Take optional photo #7 in Episode 2: Out of Time
+|type #  bronze
+|score  10
+|rarityps4 #  37.5
+|raritysteam  32.7
+}}
+{{Achievements
+|name #  Colorized
+|image  Colorized_Achievement.PNG
+|description #  Take optional photo #8 in Episode 2: Out of Time
+|type  bronze
+|score #  10
+|rarityps4  20.7
+|raritysteam #  20.4
+}}
+{{Achievements
+|name  Meter Made
+|image #  Meter_Made_Achievement.PNG
+|description  Take optional photo #9 in Episode 2: Out of Time
+|type #  bronze
+|score  10
+|rarityps4 #  19.5
+|raritysteam  16.9
+}}
+{{Achievements
+|name #  Resolution Revolution
+|image  Resolution_Revolution_Achievement.PNG
+|description #  Take optional photo #10 in Episode 2: Out of Time
+|type  bronze
+|score #  10
+|rarityps4  28.3
+|raritysteam #  26.5
+}}
+{{Achievements
+|name  Lab Master
+|image #  Lab_Master_Achievement.PNG
+|description  Take all optional photos in Episode 2: Out of Time
+|type #  bronze
+|score  45
+|rarityps4 #  10.4
+|raritysteam  7.5
+}}
+{{Achievements
+|name #  Out of Time
+|image  Out_Of_Time_Achievement.PNG
+|description #  Finish Episode 2: Out of Time
+|type  bronze
+|score #  55
+|rarityps4  37.7
+|raritysteam #  33.3
+}}
+
+###  Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+{{Achievements
+|name  Parallax View
+|image #  Parallax_View_Achievement.png
+|description  Take optional photo #1 in Episode 3: Chaos Theory
+|type #  bronze
+|score  10
+|rarityps4 #  10.2
+|raritysteam  7.3
+}}
+{{Achievements
+|name #  Lenscrafted
+|image  Lenscrafted_Achievement.png
+|description #  Take optional photo #2 in Episode 3: Chaos Theory
+|type  bronze
+|score #  10
+|rarityps4  11.9
+|raritysteam #  9.8
+}}
+{{Achievements
+|name  The Reflex
+|image #  The_Reflex_Achievement.png
+|description  Take optional photo #3 in Episode 3: Chaos Theory
+|type #  bronze
+|score  10
+|rarityps4 #  26.9
+|raritysteam  23
+}}
+{{Achievements
+|name #  Histogrammar
+|image  Histogrammar_Achievement.png
+|description #  Take optional photo #4 in Episode 3: Chaos Theory
+|type  bronze
+|score #  10
+|rarityps4  26.3
+|raritysteam #  22.8
+}}
+{{Achievements
+|name  Bokeh
+|image #  Bokeh_Achievement.png
+|description  Take optional photo #5 in Episode 3: Chaos Theory
+|type #  bronze
+|score  10
+|rarityps4 #  12.1
+|raritysteam  10.7
+}}
+{{Achievements
+|name #  Pinholed
+|image  Pinholed_Achievement.png
+|description #  Take optional photo #6 in Episode 3: Chaos Theory
+|type  bronze
+|score #  10
+|rarityps4  22
+|raritysteam #  20.3
+}}
+{{Achievements
+|name  RAW Strength
+|image #  RAWStrengthAchievement.png
+|description  Take optional photo #7 in Episode 3: Chaos Theory
+|type #  bronze
+|score  10
+|rarityps4 #  11.1
+|raritysteam  8.7
+}}
+{{Achievements
+|name #  Viewfinder
+|image  Viewfinder_Achievement.png
+|description #  Take optional photo #8 in Episode 3: Chaos Theory
+|type  bronze
+|score #  10
+|rarityps4  13.5
+|raritysteam #  11.6
+}}
+{{Achievements
+|name  Optican
+|image #  Optican_Achievement.png
+|description  Take optional photo #9 in Episode 3: Chaos Theory
+|type #  bronze
+|score  10
+|rarityps4 #  15.2
+|raritysteam  13.4
+}}
+{{Achievements
+|name #  Flash!
+|image  Flash!_Achievement.png
+|description #  Take optional photo #10 in Episode 3: Chaos Theory
+|type  bronze
+|score #  10
+|rarityps4  25.6
+|raritysteam #  22
+}}
+{{Achievements
+|name  Camera Eye
+|image #  Camera_Eye_Achievement.png
+|description  Take all optional photos in Episode 3: Chaos Theory
+|type #  bronze
+|score  45
+|rarityps4 #  9.1
+|raritysteam  6.1
+}}
+{{Achievements
+|name #  Chaos Theory
+|image  Chaos_Theory_Achievement.png
+|description #  Finish Episode 3: Chaos Theory
+|type  bronze
+|score #  55
+|rarityps4  33.3
+|raritysteam #  29.7
+}}
+
+###  Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+{{Achievements
+|image  Ambient_Achievement.png
+|name #  Ambient
+|description  Take optional photo #1 in Episode 4: Dark Room
+|type #  bronze
+|score  10
+|rarityps4 #  19.6
+|raritysteam  17.5
+}}
+{{Achievements
+|name #  Time-Lapsed
+|image  Time-Lapsed_Achievement.png
+|description #  Take optional photo #2 in Episode 4: Dark Room
+|type  bronze
+|score #  10
+|rarityps4  20
+|raritysteam #  16.8
+}}
+{{Achievements
+|name  Balance
+|image #  Balance_Achievement.png
+|description  Take optional photo #3 in Episode 4: Dark Room
+|type #  bronze
+|score  10
+|rarityps4 #  13.3
+|raritysteam  11.4
+}}
+{{Achievements
+|name #  Rangefinder
+|image  Rangefinder_Achievement.png
+|description #  Take optional photo #4 in Episode 4: Dark Room
+|type  bronze
+|score #  10
+|rarityps4  15.2
+|raritysteam #  13.6
+}}
+{{Achievements
+|name  Gamma Value
+|image #  Gamma_Value_Achievement.png
+|description  Take optional photo #5 in Episode 4: Dark Room
+|type #  bronze
+|score  10
+|rarityps4 #  10.5
+|raritysteam  8.2
+}}
+{{Achievements
+|name #  Dioptric Power
+|image  Dioptric_Power_Achievement.png
+|description #  Take optional photo #6 in Episode 4: Dark Room
+|type  bronze
+|score #  10
+|rarityps4  16.2
+|raritysteam #  15
+}}
+{{Achievements
+|name  Fisheye
+|image #  Fisheye_Achievement.png
+|description  Take optional photo #7 in Episode 4: Dark Room
+|type #  bronze
+|score  10
+|rarityps4 #  14.2
+|raritysteam  13
+}}
+{{Achievements
+|name #  Manually Exposed
+|image  Manually_Exposed_Achievement.png
+|description #  Take optional photo #8 in Episode 4: Dark Room
+|type  bronze
+|score #  10
+|rarityps4  27.9
+|raritysteam #  24.8
+}}
+{{Achievements
+|name  Slideshow
+|image #  Slideshow_Achievement.png
+|description  Take optional photo #9 in Episode 4: Dark Room
+|type #  bronze
+|score  10
+|rarityps4 #  12.2
+|raritysteam  9.8
+}}
+{{Achievements
+|name #  Tripod
+|image   Tripod_Achievement.png
+|description #  Take optional photo #10 in Episode 4: Dark Room
+|type  bronze
+|score #  10
+|rarityps4  9.1
+|raritysteam #  6
+}}
+{{Achievements
+|name  Shutterbug
+|image #  Shutterbug_Achievement.png
+|description  Take all optional photos in Episode 4: Dark Room
+|type #  bronze
+|score  45
+|rarityps4 #  8.6
+|raritysteam  5.5
+}}
+{{Achievements
+|name #  Dark Room
+|image  Dark_Room_Achievement.png
+|description #  Finish Episode 4: Dark Room
+|type  bronze
+|score #  55
+|rarityps4  29.7
+|raritysteam #  27
+}}
+
+###  Episode Five - "[Episode 5: Polarized](polarized.md)" 
+{{Achievements
+|name  Incandescent
+|image #  Incandescent_Achievement.png
+|description  Take optional photo #1 in Episode 5: Polarized
+|type #  bronze
+|score  10
+|rarityps4 #  11.3
+|raritysteam  8.8
+}}
+{{Achievements
+|name #  Night Vision
+|image  Night_Vision_Achievement.png
+|description #  Take optional photo #2 in Episode 5: Polarized
+|type  bronze
+|score #  10
+|rarityps4  13.7
+|raritysteam #  11.1
+}}
+{{Achievements
+|name  Framed 
+|image #  Framed_Achievement_64x64px.png
+|description  Take optional photo #3 in Episode 5: Polarized
+|type #  bronze
+|score  10
+|rarityps4 #  24.7
+|raritysteam  22.3
+}}
+{{Achievements
+|name #  Camera Obscura
+|image  Camera_Obscura_Achievement.png
+|description #  Take optional photo #4 in Episode 5: Polarized
+|type  bronze
+|score #  10
+|rarityps4  10.3
+|raritysteam #  7.8
+}}
+{{Achievements
+|name  Blowup
+|image #  Blowup_Achievement.png
+|description  Take optional photo #5 in Episode 5: Polarized
+|type #  bronze
+|score  10
+|rarityps4 #  11.1
+|raritysteam  9.1
+}}
+{{Achievements
+|name #  Iris
+|image  Iris_Achievement.png
+|description #  Take optional photo #6 in Episode 5: Polarized
+|type  bronze
+|score #  10
+|rarityps4  10.4
+|raritysteam #  7.7
+}}
+{{Achievements
+|name  Sensor
+|image #  Sensor_Achievement.png
+|description  Take optional photo #7 in Episode 5: Polarized
+|type #  bronze
+|score  10
+|rarityps4 #  14.3
+|raritysteam  12.6
+}}
+{{Achievements
+|name #  On Display
+|image  On_Display_Achievement.png
+|description #  Take optional photo #8 in Episode 5: Polarized
+|type  bronze
+|score #  10
+|rarityps4  9
+|raritysteam #  5.8
+}}
+{{Achievements
+|name  Light Meter
+|image #  Light_Meter_Achievement.png
+|description  Take optional photo #9 in Episode 5: Polarized
+|type #  bronze
+|score  10
+|rarityps4 #  8.7
+|raritysteam  5.6
+}}
+{{Achievements
+|name #  Silhouettes
+|image  Silhouettes_Achievement.png
+|description #  Take optional photo #10 in Episode 5: Polarized
+|type  bronze
+|score #  10
+|rarityps4  13.3
+|raritysteam #  11.5
+}}
+{{Achievements
+|name  Selfie Awareness
+|image #  Selfie_Awareness_Achievement.png
+|description  Take all optional photos in Episode 5: Polarized
+|type #  bronze
+|score  45
+|rarityps4 #  8.2
+|raritysteam  4.9
+}}
+{{Achievements
+|name #  Polarized
+|image  Polarized Achievement.png
+|description #  Finish Episode 5: Polarized
+|type  gold
+|score #  55
+|rarityps4  27.5
+|raritysteam = 25.6
+}}
+
+##  Trivia 
+* The achievement "What If?" is a reference to the game's codename, which had originally been considered as its title. 
+* There are [https://imgur.com/a/IW16D achievement images] created for the Xbox One version of the game.[https://www.reddit.com/r/lifeisstrange/comments/8kpwx2/s1_e5_achievement_photos_wallpapers_with_journal/ Reddit post by /u/IgelRM]
+

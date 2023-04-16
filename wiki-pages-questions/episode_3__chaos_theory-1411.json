@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Title Of Episode 3 Of Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Chaos Theory",
+      "B": "Out of Time",
+      "C": "Dark Room",
+      "D": "Life is Strange"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Blackwell Student Who Has Gone Missing?",
+    "answer": "B",
+    "choices": {
+      "A": "Kate Marsh",
+      "B": "Rachel Amber",
+      "C": "Victoria Chase",
+      "D": "Maxine Caulfield"
+    }
+  },
+  {
+    "question": "Who Is Lisa In The Game?",
+    "answer": "A",
+    "choices": {
+      "A": "A Plant",
+      "B": "A Student",
+      "C": "A Teacher",
+      "D": "A Police Officer"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Fisherman Who Appears In Episode 3?",
+    "answer": "B",
+    "choices": {
+      "A": "Evan Harris",
+      "B": "R.J. MacReady",
+      "C": "Frank Bowers",
+      "D": "Nathan Prescott"
+    }
+  }
+]

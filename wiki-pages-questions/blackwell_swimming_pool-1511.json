@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who can Max speak to at the Blackwell Swimming Pool?",
+    "answer": "A",
+    "choices": {
+      "A": "Brooke Scott",
+      "B": "Victoria Chase",
+      "C": "Hayden Jones",
+      "D": "Zachary Riggins"
+    }
+  },
+  {
+    "question": "What optional photo can Max take at the pool?",
+    "answer": "D",
+    "choices": {
+      "A": "A photo of the bouncer",
+      "B": "A photo of the wasted girl",
+      "C": "A photo of the energy drinks",
+      "D": "A photo of the double moon"
+    }
+  },
+  {
+    "question": "Who does Max persuade to attend the party at the pool?",
+    "answer": "D",
+    "choices": {
+      "A": "Brooke Scott",
+      "B": "Victoria Chase",
+      "C": "Hayden Jones",
+      "D": "Daniel DaCosta"
+    }
+  },
+  {
+    "question": "What does Max say about the oxygen kit at the VIP section?",
+    "answer": "A",
+    "choices": {
+      "A": "\"That oxygen kit might come in handy if somebody binges.\"",
+      "B": "\"Chips and crackers... spare no expense, Vortex Club.\"",
+      "C": "\"So the Vortex VIPs get real alcohol at their underage bar... again.\"",
+      "D": "\"Oh, that makes me want to pull a 'Carrie' on the Vortex Club...\""
+    }
+  }
+]

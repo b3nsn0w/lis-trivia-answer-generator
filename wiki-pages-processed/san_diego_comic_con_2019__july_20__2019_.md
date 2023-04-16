@@ -1,0 +1,280 @@
+#  San Diego Comic Con 2019 (July 20, 2019) 
+
+On July 20, 2019, [Raoul Barbet](raoul_barbet.md) and [Jean-Luc Cano](jean_luc_cano.md) from [Don't Nod](dontnod.md) took part in a **panel** at **San Diego Comic Con 2019** called "Creating A Believable World in [Life is Strange 2](life_is_strange_2.md).", hosted by Lucy Hale from [Square Enix](square_enix.md). They discuss the game's themes and mechanics and some content of the [Life is Strange](original_game.md). A video of the panel was released on August 6, 2019, on the official *Life is Strange* YouTube channel. You can find a script of the interview below.
+
+The panel took place from 12:30pm - 1:30pm.
+
+##  Video 
+
+SDCC 2019 Panel - Life is Strange 2
+
+**Description:** The creators of Life Is Strange hosted an exclusive panel discussion at this year’s San Diego Comic Con 2019 called 'Creating A Believable World’.
+
+##  Transcript 
+**Note:** Some of the dialogue was grammatically modified and repetitions and interjections were removed from the script. 
+
+The uploaded video footage of the panel has been edited/spliced by Square Enix, so some sentences were edited together. The reasons for this are not known and these instances have been marked in significant places.
+
+**Presenter Lucy Hale:** Hello! San Diego Comic Con, how are we doing today? We good?
+
+[Audience applause]
+
+**Lucy:** I was expecting to have to do the whole, "Come on, we can do better than that," but that was pretty good. Well done. Thank you very much for attending our panel today on 'Creating a Believable World' in Life is Strange 2. Are we all Life is Strange fans?
+
+[Audience applause]
+
+**Lucy:** Yes! Love it. You guys all know that Life is Strange is a series that truly encapsulates and excels at telling some amazing stories; they're emotive, they're immersive, and they're quite heart-wrenching. And, today, we are going to discuss with two of the DONTNOD team just how they do that. So... my name is Lucy. I will be your host today. I've flown in from the UK, as you can probably tell by my accent. I make the community videos on the official *Life is Strange* YouTube channel, going into deep-dives, Easter Eggs, and things you might not know. So, do make sure you're subscribed over there. I'm sure you all are. I'm sure... [looks around the audience with her finger pointing]... Yeah? You're all subscribed? Yeah? Okay. [Laughs] Without further ado, we are gonna crack on with the panel, so please join me in welcoming two very special guests from the DONTNOD team. We have got the Lead Writer, [Jean-Luc Cano](jean_luc_cano.md), and the Co-Creative Director, [Raoul Barbet](raoul_barbet.md). Give them a great round of applause.
+[Audience applause and laughter as the two guests walk into view dressed in [Hawt Dawg Man](hawt_dawg_man.md) costumes]
+
+**Lucy:** In some very special CosPlay. Welcome, welcome, guys.
+
+**Raoul:** Thank you, Lucy.
+
+**Lucy:** They worked very hard on their Hotdog Man[sic] costumes today.
+
+**Jean-Luc:** Transformation. [Wriggles his arms free from the sides of the costume]
+
+**Lucy:** Looking great, guys. Looking great.
+
+**Raoul:** Thank you. We stay like this.
+
+**Lucy:** San Diego Comic Con!
+
+**Raoul:** Welcome, everyone.
+
+**Lucy:** Hooray! How... how has it been so far for you guys?
+
+**Raoul:** Great.
+
+**Jean-Luc:** Perfect.
+
+**Raoul:** Yeah.
+
+**Lucy:** Let's talk about some Life is Strange 2, shall we?
+
+'**Raoul:** Sure.
+
+**Lucy:** So, we're currently just over half-way in the story. We are three episodes in with [Episode 4: Faith](episode_4.md) just around the corner. But, let's go back to the start and talk about the story so far. So, what has happened so far? Starting with [Episode 1: Roads](episode_1.md), of course. Oh, by the way, guys, there *will* be spoilers. Obviously.
+
+**Jean-Luc:** [laughs]
+
+**Raoul:** After the first Life is Strange, we met with Jean-Luc - he was a writer of Life is Strange 1 - and with also [Michel Koch](michel.md) - the other Creative Director with me. And we decided to tell a new story with new characters in the same universe as the first Life is Strange. And we wanted, very quickly, to talk about an important subject: Education. And we finished with this story of two brothers [who] want to flee from their home town of [Seattle](seattle.md), and we decided also, very quickly, to have the power on the other character - not on the main one; not on the avatar of the player - because, I would say the subject of education... [looking for the right words] it sends with the fact that, if you educate someone in a good or bad way, it could have a lot of consequences, and it was interesting for us to talk about that. And, of course, if your little brother has got a huge power, and can destroy your house, those consequences are much more interesting. [Figure out the heavily-accented English from 03:02 to 03:06 - Possible guess is: So, Z [Zed], he was to be able to not have directed the power] but have very important consequences of your choices and every action like [the other?] choices, interaction, [extra?].
+
+**Lucy:** Of course.
+
+**Raoul:** So, it was the very beginning of the game.
+
+[Looks up at a screen off-camera]
+
+**Raoul:** Here, you can see a screenshot from Episode 1. So, the first part of Episode 1 in Seattle was... Really, we wanted to recreate a bit of the mood you had in the first season like having a little cocoon for [Sean Diaz](sean.md) with his friends, where he just wants to party, have fun, etc. And after, like, 20 minutes or 30 minutes, we wanted to break that, and you see this terrible incident with their [Esteban Diaz](father.md) in order to really launch the real Life is Strange 2 and the game on the road. So it was the idea, even with the music, with the mood, with the light to have the feeling of the first Life is Strange in Seattle and to break that to be able to begin the journey.
+
+[A quick trailer for Episode 1 moments is played]
+
+**Lucy:** It's quite unique in that we did *The Awesome Adventures of Captain Spirit*, which was sort of a free playable demo that really brought people into the world of Life is Strange 2. So, how does that tie into the story of Life is Strange 2 and the brothers?
+
+**Jean-Luc:** [Unintelligible few words] The fan community of the first Life is Strange community was really in love with [Maxine Caulfield](max.md) and [Chloe Price](chloe.md), and we wanted to introduce the new character of Life is Strange 2 with a small adventure which is *The Awesome Adventures of Captain Spirit*. And in the end of Captain Spirit, we had the presentation of Sean and Daniel, but we haven't said, at this time, they will be the two main characters. So Captain Spirit was meant to be a standalone but also a spin-off of Life is Strange 2.
+
+**Lucy:** How have you reacted to the community's reaction to [Chris Eriksen](chris.md), 'cause a lot of people love him?
+
+**Raoul:** Yeah, it was like Jean-Luc was saying... I think it was quite stressful for us to create new characters and to show that you won't have Max and Chloe anymore in this story, so having a new character and seeing players loving him and wanted to be part of his life was something very important for us, because we knew that [we've shown them?] that we have to do the same again.
+
+**Lucy:** Yeah.
+
+**Raoul:** And, yeah, [unintelligible few words] also, when we designed it with Jean-Luc, it was talking about a childhood... imaginary power of a child... a 9-year-old child at home and, of course, it will resonate with the story of Life is Strange 2 where [Daniel Diaz](daniel.md) has the same age and has a real power so it was, of course, this parallel was interesting for us.
+
+**Lucy:** Of course. And then, going into [Episode 2: Rules](episode_2.md) of Life is Strange... Just quickly, what was the recap in that episode?
+
+**Raoul:** It was to ask this question of what is really your home, and what is your roots. So that's why we bring them back to the grandparents, and you see, again, Chris to close his storyline and know a bit more about [Charles Eriksen](his_father.md) and himself, so... Yeah those scenes where Daniel and Chris are together were really, really cool to write and to shoot. The fact that, of course, Sean knows about the power but not the other one, so it's quite interesting, even to be the player, to be here in those scenes, so...
+
+**Lucy:** And then Episode 3 was quite different. We had the inclusion of the drifters. Jean-Luc, do you want to talk about Episode 3, real quick?
+
+**Jean-Luc:** Yeah. Episode 3 took place a few months after the end of Episode 2, and you see Sean and Daniel, they've found like a new family with a drifter [unintelligible word], a lot of colorful people and a lot of different characters. So, they're working in a cannabis field to gather a lot of drugs, and this episode is really about the rebellion of Daniel, because you know when you are raising a child [jump in video footage where some was cut], there are moments when he wants to take his independence and wants to be free. He feels like an adult, so his rebellion begins to all authorities, and the authority in this case is Sean. So Daniel is acting a bit like a rebellious child, a rebellious teenager in [unintelligible due to video footage playing over last few words]. And at the end of this episode, something really bad happened.
+
+[Panel chuckles]
+
+**Jean-Luc:** And in Episode 4, so the story... [laughs]
+
+**Lucy:** No, no, no, no, no. No spoilers. No spoilers. So, the Life is Strange games have always been set in the real world with a twist of the supernatural, but the brothers' story is completely different from the first game and the campus mystery that formed. In what way are the characters of Sean and Daniel sort of a reaction to Max and Chloe from life is Strange 1?
+
+**Raoul:** When we begin to work on the Life is Strange 2 project, we ask ourselves what is the DNA of Life is Strange and what are also the story and the themes we want to explore. And having those... I think the keyword is really education. We really wanted to talk about that. What is it to care of someone else? What is it to educate someone? And so very quickly comes this sisters or brothers setting, and I think we also wanted to move on and to create a new story, so we choose all those different settings. We wanted this road trip format since the beginning to be able to really talk about meeting a lot of different people living in the [wide ___ ?]. So, very quickly, those characters came out, and it's a lot of back and forth between Jean-Luc, Michel and I, and the team; we discuss about some things they want or not or extra and, in the end, we really have this brotherhood. So it's really different from Max, for sure, as we want also something realistic as what it is to be a teenager in USA nowadays. You can find a lot of links between Max, Sean, or other characters, like in the drifters. Of course, we know a lot of people love the drifters. But we tried to create just realistic characters with their own feelings, their own way of living, so...
+
+**Lucy:** So, you mentioned that you took a road trip, and you decided to go down the path of the brothers going on the road trip as well, rather than just being in kind of one central location. What made you just decide to take that route? What made you decide to go with that journey kind of aspect?
+
+**Jean-Luc:** Umm, you know, the first season of Life is Strange took place in one area, [Arcadia Bay](arcadia_bay.md), and for the second season, we wanted to challenge ourselves to explore a new way of writing, a new way of directing a scene, new characters to meet... So the [unintelligible few words] the road trip came for us, because it allowed us to travel through America and meet different people, see different locations, and also [by this?] talk about the different things we want to explore.
+
+**Lucy:** Obviously, the two lead characters are young Mexican Americans, so what new story avenues opened up for you guys when you decided to make them Mexican-American?
+
+**Raoul:** It links, really, to the story. At the beginning, we wanted to talk about some - for us - important society subjects. You know, of course, we've got some issues, also, in Europe and a lot of parts of the world with those kind of subjects, and it was interesting for us to talk about gun violence, racism, et cetera. I think it's part of the world, and I think it's interesting to talk about it and to put the player in a situation. The idea is not to say this is good or this is bad or make a political statement, but I think a video game is really strong to put players in a situation where they can think about this situation and choose their own way and their own story. So, this is what we tried to do with Jean-Luc, and it was the same for Life is Strange 1: What is it really to be a teenager? What is it really to have problems with social harassment with friends you don't really know, or to deal with friends sometimes that you don't really know? Or who you are going to be as an adult, et cetera. So, it was the same idea. We wanted a realistic setting. Here, the fact that Sean and Daniel are half Mexican has some consequences on this road trip, of course.
+**Lucy:** When you took your own personal road trip through America, how did that influence the game, and do you have any cool stories from the road that you can tell us? Keeping it PG, though. Nothing too crazy.
+
+**Jean-Luc:** I had a road trip with Michel Koch, the second game director of Life is Strange. We went from Seattle to Los Angeles. We traveled a lot. I think [at? half?] the locations we shot with our camera, and I remember that moment we were on the car, and I was fiddling with my iPhone, and the streets [unintelligible few words], and there was this guy in the gas station with a chainsaw...
+
+**Lucy:** [laughs] Great way to start a story.
+
+**Jean-Luc:** And he was carving some wood to make some little trolls, you know... Okay, that's really nice. And that why, in the first episode of Life is Strange 2, in the gas station, you've got all these [unintelligible as presenter says "creepy bears" over his words] in the wood. It was something we saw during our road trip.          
+Lucy: That's awesome. So, you guys are obviously French.
+
+**Raoul** and **Jean-Luc**: Yeah.
+
+**Lucy:** Obviously.
+
+[Audience and panel laugh]
+
+**Raoul:** Sorry for the accent.
+
+**Jean-Luc:** [unintelligible as presenter talks]
+
+**Lucy:** I'm going somewhere with this. I'm going somewhere. But, of course, the Life is Strange games are set in America, so what process do you go through to make sure that you get the details right, because the culture difference is quite significant? I remember in the [Director's Commentary](director_s_commentary.md) for the first Life is Strange, there was a moment where Max and Warren meet, and you were gonna have them air kiss, 'cause you do in France, and then you had an American writer saying, "No, don't do that. Americans don't do that." So how did you do that for Life is Strange 2?
+**Raoul:** Yes, I think this is a difficulty. We don't want to be like the French guys doing some cliche stuff about America, et cetera, because we see... we know a bit about America, but with movies or TV series, all this kind of stuff, but sometimes you can reproduce some cliche, also. So it's really important for us. That's why we travel a lot here to be sure to do interviews, take photos, take also sound ambient sounds to be sure it's accurate for environment artists, for characters, even for textures on the walls... this kind of stuff. So, I think we have to be careful with the dialogues, to be sure, as it's teenagers; it's quite difficult sometimes, even with French teenagers, sometimes we don't understand. So we have to be careful to write it the right way, and that's why we have a lot of American writers who help us on that, and we work with the voice actors, also, a lot to be sure it's accurate.
+
+**Lucy:** Let's discuss choice and consequence which is a key mechanic within the game. So, it was vital in Life is Strange 1, and it's expanded even more in Life is Strange 2. How intricate is that mechanic, and how exactly does it work?
+
+**Jean-Luc:** You know, in the first Life is Strange, when you took a decision with Max, you saw basically the immediate consequences of the decision and, of course, it was easy to rewind. But in life is Strange 2, when you are [unintelligible] the behavior of Daniel with your action, with the choices of dialogues, with everything. So, you don't have immediate consequence of something, but Daniel will evolve [unintelligible words]. It won't be good or bad with having one decision, only by a lot of different choices we are going to make. So this is basically the main difference between the two games, [video cuts to join sentence] because at the end of the joining of Sean and Daniel, you could have really different behavior of your little brother according to your decisions.
+
+**Raoul:** I think on a design point of view, it's important to have-- We really to tell a story, and when Jean-Luc is writing the main story, you've got, like, the beginning, the ends... the endings. And we've got a lot of branches, but we don't know yet, or-- we will be able to have different scenes or different sequences. So, I think it's important to give to the players the feeling that this is his own story but also to stick to the story we want to tell ourselves. For example, you can do what you want in Life is Strange. You have some choices, and we tried to have as much as possible - choices - but to have believable characters. So, for example, for Daniel or Sean, Daniel would be quite different but also will work into our story. So, it's to find the right balance between freedom and also, I would say, have a believable story in general.
+
+**Lucy:** Whilst we're on the topic of choices and consequences, I'm gonna give you a bit of a hard question now. So, some of the players out there did mention that they felt a little bit forced into some aspects of the game. So, for example, in Episode 2, going to the [Christmas Market](christmas_market.md), or in Episode 3, going along with the heist. How do you respond to that sort of question?
+
+**Raoul:** Yeah, I think it's like all things: to find the right balance. And you've got also production aspect to take into account. It cost a lot to have a [wolf?] scene created, and maybe half of the players see it or not, so... for example, you're examples are great. For the Christmas market, we ask... we discuss a lot with the team to say, okay, maybe you can't go, but how are you going to bring the cops, et cetera? But as we wanted the player to have this feeling of this small town, to meet the drifters, et cetera, we decided to go to the market in every [video cuts to splice sentence together. Unintelligible couple of words]. And we had some discussion before the market to explain why Sean maybe doesn't want to go, but we'll go anyway, because of unintelligible few words], et cetera, so it's to find this balance to... I know players sometimes want to say, "I don't want to do that, and I don't have the option I want," et cetera, but it's also the way you write narrative games sometimes. We come to a full, open world... We would love to have something maybe with more freedom, but sometimes you-- I would say I prefer to stick to some choices to be sure that those ones are accurate with our characters, so... Of course, you have some frustration; I always have when I play a game and I can't do the thing I'm thinking about, but, yeah, it's the way we tried to design it.
+**Lucy:** Of course. Let's discuss Daniel, because, this time, unlike Life is Strange 1, you are not playing as the person with the power. Your younger brother has the power. So, why did you take that sort of route, and what kind of influences do you have over your brother as well? Because you have the little wolves in the bottom corner. Whenever you do something, it either affects Sean or Daniel or both. So, how does that work?
+
+**Jean-Luc:** In Life is Strange, the power - the supernatural effect - is always linked to the story, you know? In the first season, Max was afraid of growing up. She doesn't want to grow up and become an adult. That's why the power of rewinding time was linked to maybe her weakness, you know? In the second season, the main theme is not becoming of age; the main theme of Life is Strange 2 is about education. That's why we gave the power to Daniel, because we wanted for the player to experience what Daniel can be if you act too good with him, if you are teaching-- if you are raising him well. Or, on the other side, if you are showing him the bad example, what Daniel can [video clip cuts off his sentence completely].
+
+**Lucy:** Music is obviously a massive part of the Life is Strange games. I know the first game people absolutely loved the soundtrack. How does it differ? Because, obviously, it changes with the character's tastes, so Max, for example, isn't gonna have the same music tastes as Sean. But how did you decide to kind of construct the Life is Strange 2 soundtrack?
+
+**Raoul:** Music is really, really important for us. I'm the Music Supervisor of the project, so I wanted to continue to work with [Jonathan Morali](jonathan_morali.md), from {{wiki|Syd Matters}}, in Life is Strange 2. I really love his work, and I think players also love the soundtrack of the first season.
+
+**Lucy:** Absolutely. Definitely.
+
+**Raoul:** So we have continued with him, but we wanted also to explore new themes, and as it's a road trip structure, maybe have the score changing a lot more than in the first season. So, for each episode, you've got like maybe two or three themes composed by Jonathan linked to the characters you meet, linked to the seasons, linked to the environments. It was really important to change a bit with-- And I think Captain Spirit is a good example of what we tried to do. So, in Captain Spirit, you've got the music from [Death with Dignity](sufjan_stevens.md), a folk artist, in the beginning, and in the very end when you see the power and the end of Captain Spirit, you got this electronic music from French artist [Parade](rone.md). And it was this evolution we wanted to show coming from the first season [which was] more folk, and with season 2 with electronic sound in it. So it was the idea for Captain Spirit to create a link between the two seasons, and we wanted also to continue to have licensed tracks in this season 2. So, like you said, all the tracks we pick are linked to the characters. We want to tell something about the characters with the tracks we choose. So Max was listening to Syd Matters or [Crosses](jos__gonz_lez.md) songs - so very neo-folk music - when Sean is listening to [On The Flip Of A Coin](the_streets.md) - a hip-hop artist from England. So I think it tells us something about the characters. Like Chloe was listening to PJ Harvey... artists like that. In the first season, the music you listen to is really telling something about you, so it's interesting to use it this way and also to have licensed tracks on top of things, like in cinema or in movies. So, having this cinematographic feeling, I think, a song - existing song - can add a lot of emotion to a moment, to a scene. So, it was the idea to continue like this.
+
+**Lucy:** How does the process work? So, is it more skewed towards-- Raoul, do you really want a song to be in a scene, and then, Jean-Luc, do you have to write around that song? Or, Jean-Luc, do you write the section and then, Raoul, you pick the track to go along with that?
+**Jean-Luc:** When I'm writing, most of the time, I'm writing without music to [not] be disturbed, to be really into a scene. But, sometimes, when I'm listening to a tune, I'm telling to Raoul, "Listen to this, what do you think about this? I've written this scene while I was listening to this." And I remember, on the other end, sometimes, Raoul comes to me, and says, "Okay, on what scene are you working?" I'm working on, for example, for the end of Episode 3. "Okay, this will be the song we will add in the game." So I put on my headphones, and I'm writing all the scene, all the ending scene of Episode 3 with the music, so I think it helped me a lot to see the images I want [to] put on the paper.
+
+**Raoul:** Sometimes, we manage to pick a song very quickly.
+
+**Lucy:** Yeah.
+
+**Raoul:** And sometimes, because, of course, I'm not the only one - even though I'm taking the final decision - I talk a lot with the audio team, with Jean-Luc, with Michel to be sure that this song is accurate and is a good one. So it takes a lot of time, and sometimes you don't have, for example, the rights, or it's too expensive, or the artists say, "No." So it depends, but, yeah, when it works and when we can have it earlier, I think the process is quite good. For Episode 3, the ending, and the *[D.A.N.C.E.](justice.md)* scene, I knew since the beginning what other song I wanted.
+
+**Lucy:** That's cool.
+
+**Raoul:** So very quickly, we can work with the camera artists. [Dontnod staff member name needed] has made this scene with the *Justice* song and the one with *[Natalie](milk_and_bone.md)* at the end of Episode 3. And I think those scenes are working well, also, because we had the music before, and we can really shape the camera, so editing with the music in head.
+
+**Lucy:** I would love to discuss music more with you guys, but, unfortunately, time is not on our side, so we might have to go straight to the Q and A. So, if anyone has any burning questions for Raoul and Jean-Luc and would love to ask them, please, come up to the microphone right in the middle, and fire away. We've got about ten minutes or so for Q and A so, please, feel free.
+
+##  Q & A session 
+**Q:** So, my question is, there's a lot of different routes these games can be taken, because the consequences mattered. In your minds, is there a canonical or preferential way that a character will act or the way a story goes? Like, first Life is Strange, you can have Max make some pretty drastic decision that ends the lives of a few different friends, or have a [unintelligible few words] and save almost everybody.
+
+**Jean-Luc:** Ummm... okay. [Laughs]
+
+**Raoul:** Good question.
+
+**Jean-Luc:** There is no canon ending or no canon path in Life is Strange, because what we want to do with these games is to let the player have his own experience. But... erm... [looks at Raoul] yeah, we'll say something you've never seen before: There is one canon ending in the first Life is Strange, and this is when you choose to [rubs microphone to create interfere and pretends to carry on speaking].
+
+[Panel and audience laughs.]
+
+**Jean-Luc:** [Unintelligible first couple of words] the canon ending.
+
+**Lucy:** What a troll. What a troll.
+
+**Q:** Your protagonists are usually under-represented characters in media, so when you take these characters - and I'm Latino, so when I see Daniel and Sean, I see myself, I see my cousins, I see people that I grew up with - do you feel an added pressure knowing that you're representing characters that maybe we don't see very often? And, if that's the case, how do you prepare to, you know, write stories that don't get seen very often?
+
+**Raoul:** Thank you for this great question. Yeah, like you say, it's pressure. It's always pressure, in fact. Even, like we were describing before, as French to create something taking place in America is a pressure, and I think when you write a woman, for example, as we are men, we really have to be careful, and I think it's work, only. It's researches, talking with people, trying to understand the reality behind those choices and those stories, and just trying to do it in a respectful way. I hope we manage to do it. I don't think we do it just for the sake of doing it, you know? It's also because we want to talk about some subjects, so we create some characters and the stories that will allow us to put the player in those situations, because we really think a video game is the best media to do that to ask yourself some questions. I think a scene, even if I love cinema and doing animated feature or so, but when you are on the controlling end, and you have to make choices depending on those difficult situations. I think it's really, really strong, and I think it's why we all love video games to be part of those stories and to have this interactivity.
+**Jean-Luc:** As Raoul said, we are making a lot of research, and every time I write a scene, I give it to Michel, Raoul, and the team, and we have a lot of people [unintelligible words] as accurate as possible, respectful, because we knew as creators we need to be the best as possible. So, yeah, it's important to us for-- Today, video games are-- You can do and can play whatever you want, and it's important for us to talk about minorities or to create a character to show people that there are different people in the world. So, yeah, it's important for us, and we try to do it the best we can.
+
+**Lucy:** Episode 4 is right around the corner - August the 22nd - so keep your eyes for that. Thank you, Raoul and Jean-Luc for being here. It's been fantastic.
+
+[Audience applauds]
+
+**Lucy:** And also, guys, there will be a signing in about half an hour's time at the Titan Entertainment booth 5537, so if you wanna catch up with the guys, meet them a bit more close, in person, get something signed, do head over there. It's been an absolute pleasure hosting for you today, and enjoy the rest of San Diego Comic Con. Thank you.
+
+[Raoul and Jean-Luc say goodbye]
+
+##  Slides Shown 
+
+LiS2-SanDiegoCC2019-panel-01.PNG
+LiS2-SanDiegoCC2019-panel-02.PNG
+LiS2-SanDiegoCC2019-panel-03.PNG
+LiS2-SanDiegoCC2019-panel-04.PNG
+LiS2-SanDiegoCC2019-panel-05.PNG
+LiS2-SanDiegoCC2019-panel-06.PNG
+LiS2-SanDiegoCC2019-panel-07.PNG
+LiS2-SanDiegoCC2019-panel-08.PNG
+LiS2-SanDiegoCC2019-panel-09.PNG
+LiS2-SanDiegoCC2019-panel-10.PNG
+LiS2-SanDiegoCC2019-panel-11.PNG
+LiS2-SanDiegoCC2019-panel-12.PNG
+LiS2-SanDiegoCC2019-panel-13.PNG
+LiS2-SanDiegoCC2019-panel-14.PNG
+LiS2-SanDiegoCC2019-panel-15.PNG
+LiS2-SanDiegoCC2019-panel-16.PNG
+
+, in Life is Strange 2. I really love his work, and I think players also love the soundtrack of the first season.
+
+**Lucy:** Absolutely. Definitely.
+
+**Raoul:** So we have continued with him, but we wanted also to explore new themes, and as it's a road trip structure, maybe have the score changing a lot more than in the first season. So, for each episode, you've got like maybe two or three themes composed by Jonathan linked to the characters you meet, linked to the seasons, linked to the environments. It was really important to change a bit with-- And I think Captain Spirit is a good example of what we tried to do. So, in Captain Spirit, you've got the music from [Death with Dignity](sufjan_stevens.md), a folk artist, in the beginning, and in the very end when you see the power and the end of Captain Spirit, you got this electronic music from French artist [Parade](rone.md). And it was this evolution we wanted to show coming from the first season [which was] more folk, and with season 2 with electronic sound in it. So it was the idea for Captain Spirit to create a link between the two seasons, and we wanted also to continue to have licensed tracks in this season 2. So, like you said, all the tracks we pick are linked to the characters. We want to tell something about the characters with the tracks we choose. So Max was listening to Syd Matters or [Crosses](jos__gonz_lez.md) songs - so very neo-folk music - when Sean is listening to [On The Flip Of A Coin](the_streets.md) - a hip-hop artist from England. So I think it tells us something about the characters. Like Chloe was listening to PJ Harvey... artists like that. In the first season, the music you listen to is really telling something about you, so it's interesting to use it this way and also to have licensed tracks on top of things, like in cinema or in movies. So, having this cinematographic feeling, I think, a song - existing song - can add a lot of emotion to a moment, to a scene. So, it was the idea to continue like this.
+
+**Lucy:** How does the process work? So, is it more skewed towards-- Raoul, do you really want a song to be in a scene, and then, Jean-Luc, do you have to write around that song? Or, Jean-Luc, do you write the section and then, Raoul, you pick the track to go along with that?
+**Jean-Luc:** When I'm writing, most of the time, I'm writing without music to [not] be disturbed, to be really into a scene. But, sometimes, when I'm listening to a tune, I'm telling to Raoul, "Listen to this, what do you think about this? I've written this scene while I was listening to this." And I remember, on the other end, sometimes, Raoul comes to me, and says, "Okay, on what scene are you working?" I'm working on, for example, for the end of Episode 3. "Okay, this will be the song we will add in the game." So I put on my headphones, and I'm writing all the scene, all the ending scene of Episode 3 with the music, so I think it helped me a lot to see the images I want [to] put on the paper.
+
+**Raoul:** Sometimes, we manage to pick a song very quickly.
+
+**Lucy:** Yeah.
+
+**Raoul:** And sometimes, because, of course, I'm not the only one - even though I'm taking the final decision - I talk a lot with the audio team, with Jean-Luc, with Michel to be sure that this song is accurate and is a good one. So it takes a lot of time, and sometimes you don't have, for example, the rights, or it's too expensive, or the artists say, "No." So it depends, but, yeah, when it works and when we can have it earlier, I think the process is quite good. For Episode 3, the ending, and the *[D.A.N.C.E.](justice.md)* scene, I knew since the beginning what other song I wanted.
+
+**Lucy:** That's cool.
+
+**Raoul:** So very quickly, we can work with the camera artists. [Dontnod staff member name needed] has made this scene with the *Justice* song and the one with *[Natalie](milk_and_bone.md)* at the end of Episode 3. And I think those scenes are working well, also, because we had the music before, and we can really shape the camera, so editing with the music in head.
+
+**Lucy:** I would love to discuss music more with you guys, but, unfortunately, time is not on our side, so we might have to go straight to the Q and A. So, if anyone has any burning questions for Raoul and Jean-Luc and would love to ask them, please, come up to the microphone right in the middle, and fire away. We've got about ten minutes or so for Q and A so, please, feel free.
+
+##  Q & A session 
+**Q:** So, my question is, there's a lot of different routes these games can be taken, because the consequences mattered. In your minds, is there a canonical or preferential way that a character will act or the way a story goes? Like, first Life is Strange, you can have Max make some pretty drastic decision that ends the lives of a few different friends, or have a [unintelligible few words] and save almost everybody.
+
+**Jean-Luc:** Ummm... okay. [Laughs]
+
+**Raoul:** Good question.
+
+**Jean-Luc:** There is no canon ending or no canon path in Life is Strange, because what we want to do with these games is to let the player have his own experience. But... erm... [looks at Raoul] yeah, we'll say something you've never seen before: There is one canon ending in the first Life is Strange, and this is when you choose to [rubs microphone to create interfere and pretends to carry on speaking].
+
+[Panel and audience laughs.]
+
+**Jean-Luc:** [Unintelligible first couple of words] the canon ending.
+
+**Lucy:** What a troll. What a troll.
+
+**Q:** Your protagonists are usually under-represented characters in media, so when you take these characters - and I'm Latino, so when I see Daniel and Sean, I see myself, I see my cousins, I see people that I grew up with - do you feel an added pressure knowing that you're representing characters that maybe we don't see very often? And, if that's the case, how do you prepare to, you know, write stories that don't get seen very often?
+
+**Raoul:** Thank you for this great question. Yeah, like you say, it's pressure. It's always pressure, in fact. Even, like we were describing before, as French to create something taking place in America is a pressure, and I think when you write a woman, for example, as we are men, we really have to be careful, and I think it's work, only. It's researches, talking with people, trying to understand the reality behind those choices and those stories, and just trying to do it in a respectful way. I hope we manage to do it. I don't think we do it just for the sake of doing it, you know? It's also because we want to talk about some subjects, so we create some characters and the stories that will allow us to put the player in those situations, because we really think a video game is the best media to do that to ask yourself some questions. I think a scene, even if I love cinema and doing animated feature or so, but when you are on the controlling end, and you have to make choices depending on those difficult situations. I think it's really, really strong, and I think it's why we all love video games to be part of those stories and to have this interactivity.
+**Jean-Luc:** As Raoul said, we are making a lot of research, and every time I write a scene, I give it to Michel, Raoul, and the team, and we have a lot of people [unintelligible words] as accurate as possible, respectful, because we knew as creators we need to be the best as possible. So, yeah, it's important to us for-- Today, video games are-- You can do and can play whatever you want, and it's important for us to talk about minorities or to create a character to show people that there are different people in the world. So, yeah, it's important for us, and we try to do it the best we can.
+
+**Lucy:** Episode 4 is right around the corner - August the 22nd - so keep your eyes for that. Thank you, Raoul and Jean-Luc for being here. It's been fantastic.
+
+[Audience applauds]
+
+**Lucy:** And also, guys, there will be a signing in about half an hour's time at the Titan Entertainment booth 5537, so if you wanna catch up with the guys, meet them a bit more close, in person, get something signed, do head over there. It's been an absolute pleasure hosting for you today, and enjoy the rest of San Diego Comic Con. Thank you.
+
+[Raoul and Jean-Luc say goodbye]
+
+##  Slides Shown 
+
+LiS2-SanDiegoCC2019-panel-01.PNG
+LiS2-SanDiegoCC2019-panel-02.PNG
+LiS2-SanDiegoCC2019-panel-03.PNG
+LiS2-SanDiegoCC2019-panel-04.PNG
+LiS2-SanDiegoCC2019-panel-05.PNG
+LiS2-SanDiegoCC2019-panel-06.PNG
+LiS2-SanDiegoCC2019-panel-07.PNG
+LiS2-SanDiegoCC2019-panel-08.PNG
+LiS2-SanDiegoCC2019-panel-09.PNG
+LiS2-SanDiegoCC2019-panel-10.PNG
+LiS2-SanDiegoCC2019-panel-11.PNG
+LiS2-SanDiegoCC2019-panel-12.PNG
+LiS2-SanDiegoCC2019-panel-13.PNG
+LiS2-SanDiegoCC2019-panel-14.PNG
+LiS2-SanDiegoCC2019-panel-15.PNG
+LiS2-SanDiegoCC2019-panel-16.PNG
+

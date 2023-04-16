@@ -1,0 +1,60 @@
+Here is a section of the wiki page for American Rust Junkyard:
+
+## Interactions 
+There are many objects which Max can examine throughout the junkyard in Episode 2:
+
+:**PC users: **''Hover over the text to see Max's comments. [Interactions](see_here.md) for all interactions in the game.''
+*{{Interaction|She can look at, speak to and take an [Optional Photos](optional_photo.md) of Chloe Price.|**Look #1: **"That's my Chloe..."
+**Look #2: **"Look at her. Chloe can even chill out playing with a gun..."
+**Look #3: **"Chloe is waiting to go for a walk. We both need a time-out from here..."}}
+*{{Interaction|She can look at and pick up five bottles at different locations in the junkyard **(required)**.|**On the refrigerator:** "Look who we have here... a cute little bottle for the taking..."
+**At the party pit:** "Oh yes, we can use this one for a target."
+**On the boat (from the ground)**: "I bet I could get on that boat from a higher location."
+**On the boat (from the boat)**: "Cool! At least not everything is broken around here."
+**On a junk car**: "Coming this fall... *Max Caulfield, Bottle Hunter*."
+**In the hideout**: "Oh, there you are, li'l bottle... trying to play hide and seek?"}}
+*{{Interaction|She can look at three different wrecked cars.|"Every car has its own tale and history..."
+"All this rusted metal makes me feel serene... Am I morbid or just goth?"
+"I wonder if Chloe thinks about her father when she looks at all these smashed up cars..."}}
+*{{Interaction|She can look at a "Pacific Steve's Famous Crab" sign.|"No way... I totally remember going there when I was a kid. 
+I loved the hushpuppies. Now the sign is just Arcadia Bay junk..."}}
+*{{Interaction|She can look at and take an optional photo of the school bus.|"It's hard to believe that was once on the road, filled with dozens of students..."}}
+*{{Interaction|She can look at a grounded boat.|"So sad to look at a grounded boat... I wonder who owned that and where they are now..."}}
+*{{Interaction|She can look at a broken camera.|"Beyond repair. Rest in peace..."}}
+*{{Interaction|She can look at a washing machine.|"I wonder how many generations of fashion went through that washing machine..."}}
+*{{Interaction|She can look at an old doll.|"Aw, poor thing. They left you here all alone..."}}
+*{{Interaction|She can look at and take an optional photo of the Doe.|"Wowser, that looks exactly like the same doe from my tornado vision..."
+"That doe is the perfect photo op..."
+"She's staring at me as if we have a connection..."}}
+*{{Interaction|She can look at a torn punk shirt.|"This was an old-school punk shirt..."}}
+*{{Interaction|She can look at another shirt near Chloe and Rachel's hideout.|"This is the scariest thing here..."}}
+*{{Interaction|She can look at and add her name to the graffiti on the hideout wall.|**Look: **"I don't want to intrude, but... I was here."
+**Write: **"Now we're officially a trio... we just have to find Rachel."}}
+*{{Interaction|She can look at a [Vortex Club](vortex_club.md) party leaflet.|"So Rachel did go to a Vortex Club party... This flyer is dated right before she disappeared..."}}
+*{{Interaction|She can look at a sheet of paper with "I WANT TO DIE" written on it.|"'I want to die.' Jeez. Who wrote this?"}}
+*{{Interaction|She can look at a graffiti inside the hideout.|"Ouch."}}
+*{{Interaction|She can look at a CD titled "Rachel Songs".|"'Rachel songs.' I wonder if Chloe would ever make me a mixtape."}}
+*{{Interaction|She can look at a makeup case inside the hideout.|"I can't see Chloe playing with makeup..."}}
+*{{Interaction|She can look at three photos of Chloe and Rachel.|"They really were besties. That could have been me instead of Rachel..."}}
+*{{Interaction|She can look at a handmade bracelet inside the hideout.|"That kinda hurts..."}}
+*{{Interaction|She can look at a rave flyer inside the hideout.|"They would have gone all the way to Los Angeles for a rave. Looks fun."}}
+*{{Interaction|She can look at a letter from Rachel to Chloe inside the hideout.|"Now what's up with this weird secret relationship? Sounds like Rachel was confused 
+about it, maybe even ashamed... I wish she named names. I better not show this to Chloe 
+or she will be seriously hurt."}}
+*{{Interaction|She can look at an "Eat shit and live" graffiti outside the hideout.|"Thanks for the tip."}}
+*{{Interaction|She can look at and move a wooden plank.|**Look: **"Hmmm... I could use this board as a bridge. Doesn't look too heavy..."
+**Move: **"Way heavier than I thought... Oof!"}}
+*{{Interaction|She can look at several gun shells.|"Those shells look fresh..."}}
+*{{Interaction|She can look at several old syringes.|"Oh gross! So disturbing to see old syringes on the ground..."}}
+*{{Interaction|She can look at a deflated football.|"The Bigfoots were here..."}}
+*{{Interaction|She can look at a campfire in the "party pit".|"I'm sure this is a popular party pit."}}
+*She can sit on a chair on the grounded boat to have a [Moment of Calm (Life is Strange)](moment_of_calm.md).
+*She can have another Moment of Calm by sitting near a stump in the far end of the junkyard.
+
+## Optional Photos 
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

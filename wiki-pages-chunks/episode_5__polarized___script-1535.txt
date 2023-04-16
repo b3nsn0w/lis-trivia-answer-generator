@@ -1,0 +1,104 @@
+Here is a section of the wiki page for Episode 5: Polarized - Script:
+
+What did you do?
+
+Terrible choice.Terrible choice.
+**Max:** Chloe, I'm... I'm going to tell you the truth, no matter what. I changed your past and I had to make a terrible choice, and I... I...
+
+**Chloe:** Max. Please tell me... I won't be mad at you...
+
+**Max:** I was able to go back in time... to the last day William was alive. I stopped him from leaving, but... But you ended up in a car crash instead.
+
+**Chloe:** You saw my dad again?
+
+**Max:** You... you were completely paralyzed. And you were in pain. You were slowly dying, and you… you asked me to… end your life.
+
+{{#tag:tabber|(Max accepted alternate Chloe's request)# (Max accepted alternate Chloe's request)
+**Max:** And I did... for you. I didn't want you to suffer in any other timeline or reality... I couldn't bear the thought of you in any more pain...
+
+{{!}}-{{!}}(Max refused alternate Chloe's request)(Max refused alternate Chloe's request)
+**Max:** But Chloe, there was no way I could do that... I had to return to this timeline... to see you again. I had to...
+
+}}
+
+**Chloe:** God, Max... That must have been... That must have been awful for you... I'm so sorry I had to ask you that...
+
+**Max:** It was worse for you. But I had no idea what would happen, and... as usual, I messed everything up, and… I never want to hurt you, ever. You have to believe me.
+
+**Chloe:** Of course I do. Do you think I would even know how to handle that situation? Nobody would... The important thing is that we're together again.
+
+|-|I fucked up.# I fucked up.
+**Max:** I fucked up, Chloe. I wanted to make things right, but everything turned out wrong.
+
+**Chloe:** Max, what the hell are you talking about?
+
+{{#tag:tabber|Back in time.Back in time.
+**Max:** I was able to go back in time... to the last day William was alive. I stopped him from leaving, but... But you ended up in a car crash instead.
+
+**Chloe:** You saw my dad again?
+
+**Max:** You... you were completely paralyzed. And you were in pain. You were slowly dying, and you… you asked me to… end your life.
+
+{{#tag:tabber|(Max accepted alternate Chloe's request)# (Max accepted alternate Chloe's request)
+**Max:** And I did... for you. I didn't want you to suffer in any other timeline or reality... I couldn't bear the thought of you in any more pain...
+
+{{!}}-{{!}}(Max refused alternate Chloe's request)(Max refused alternate Chloe's request)
+**Max:** But Chloe, there was no way I could do that... I had to return to this timeline... to see you again. I had to...
+
+}}
+
+**Chloe:** God, Max... That must have been... That must have been awful for you... I'm so sorry I had to ask you that...
+
+**Max:** It was worse for you. But I had no idea what would happen, and... as usual, I messed everything up, and… I never want to hurt you, ever. You have to believe me.
+
+**Chloe:** Of course I do. Do you think I would even know how to handle that situation? Nobody would... The important thing is that we're together again.
+
+{{!}}-{{!}}Nothing.# Nothing.
+**Max:** Uh... nothing. I mean, whenever I use my rewind, I create new timelines, new destinies...
+
+**Chloe:** Then you can't be sure of anything! That's why I'm going to take out Jefferson... and that will be our reality.
+
+**Max:** No, no... Chloe, hold on! Chloe!
+
+*Max is forced to rewind.*
+
+}}
+
+|-|Nothing...Nothing...
+**Max:** Uh... nothing. I mean, whenever I use my rewind, I create new timelines, new destinies...
+
+**Chloe:** Then you can't be sure of anything! That's why I'm going to take out Jefferson... and that will be our reality.
+
+**Max:** No, no... Chloe, hold on! Chloe!
+
+*Max is forced to rewind.*
+
+**Max:** You're right. That's why you should come with me so we can stay together... and stay alive.
+
+**Chloe:** I hear you, Max... but do you think we should let Jefferson get away with torture and murder?
+
+**Max:** Of course not! If we tell David, he'll believe us and he can actually stop him... right?
+
+(Max sided with Chloe)# (Max sided with Chloe)
+**Chloe:** I don't get it... Why do you trust him, after you totally reamed him the other day? He's not even at our house anymore.
+
+|-|(Max sided with David)(Max sided with David)
+**Chloe:** Is that why you stuck up for him? Because you think he can help us? Really?
+
+David cares about you.# David cares about you.
+**Max:** Chloe, no matter how much of a douche he's been, David truly cares about you.
+
+{{#tag:tabber|(Max came out of hiding/took the blame)(Max came out of hiding/took the blame)
+**Chloe:** Oh, please... like he cared when he got in your face for smoking a joint?
+
+{{!}}-{{!}}(Max stayed hidden/blamed Chloe)# (Max stayed hidden/blamed Chloe)
+**Chloe:** Yes, a slap across the face is a sure sign of tough love.
+
+}}
+
+{{#tag:tabber|(Max told David that Chloe was dead)(Max told David that Chloe was dead)
+**Max:** You should have seen his reaction when I told him that Jefferson… killed you. He was crushed.
+
+{{!}}-{{!}}(Max told David that 
+
+Generate five trivia questions relevant to this section of the page.

@@ -1,0 +1,73 @@
+= Weatherman =
+
+{{Infobox Character
+|image = Weatherman.png
+|name = Weatherman
+|hair = Blonde <small>(greying)</small>
+|eyes = Blue
+|gender = Male
+|appearance = [[Episode 2: Out of Time]] <small>(on the TV in the [[Two Whales Diner]])</small><br>[[Episode 3: Chaos Theory]] <small>(on the TV in the [[Two Whales Diner]])</small><br>[[Episode 4: Dark Room]] <small>(on the TV in the kitchen of the [[Madsen Household]])</small>
+|profession = Weatherman
+|affiliation = KBAY7 News
+|voice = [[Don McManus]] <small>([[Episode 2: Out of Time]], uncredited)</small><br>[[Derek Phillips]] <small>([[Episode 3: Chaos Theory]], uncredited)</small>
+}}The '''Weatherman''' is the local newsman for KBAY7 News reporting about the strange [[Meteorological Anomalies|weather anomalies]] occurring in [[Arcadia Bay]]. He interviews [[Dr. Hedorah]], a meteorologist expert from [[Portland]].
+
+== Appearances ==
+The Weatherman moderates a talk show together with a woman about the extreme weather, e.g. the unseasonable snow or the unscheduled eclipse. Global Warming is considered as a possible reason. Arcadia Bay residents can call in and describe their experiences.
+
+=== Two Whales Diner ===
+The weatherman has an appearance on a TV at the [[Two Whales Diner]].
+
+{{Bigquote
+|Coming up at noon, KBAY 7 News will explore the mystery of yesterdays's unusual snowfall on a warm and sunny late afternoon that confused and delighted Arcadia Bay residents. We'll be talking with Portland meteorologists in the area and look at some of your fun video reactions to the odd snow flurry. Who knows, maybe Mother Nature was pranking us all? So stay tuned to KBAY 7 News for the real story...
+
+(UNEXPECTED SNOWFALL)
+}}
+{{Bigquote
+|... but that doesn't explain the recent extreme weather patterns. No, but we have to start with the hypothesis that climate change is a partial cause for the unseasonal weather. That doesn't explain everything of course. Frankly, we don't know yet.
+
+(DR. HEDORAH<br />Portland Meteorologist Expert)
+
+Dr. Hedorah, will your team know more after their latest tests?
+
+I hope we see more patterns, which gives us an atmospheric template...
+
+Many local residents of Arcadia Bay have been questioning what has been going on with this crazy weather. We had an eclipse yesterday, a snowstorm two days ago -- which as most of you know is not common this time of year! It's unprecedented, to be honest with you. The last time that we had a snowstorm of this caliber was over a hundred years ago. All of us are questioning, what is happening in Arcadia Bay?! Please feel free to call in and let me know what your experience has been. What you think this might be. Is this Global Warming? What is causing all of this crazy weather?
+
+(LET'S TALK WEATHER - CALL NOW
+
+555-288-KBY7)
+}}
+
+=== Chloe's House ===
+The weatherman makes another appearance on a TV at [[Madsen Household|Chloe's house]].
+
+Max comments, "Those poor whales are like beached angles. What is going on here?".
+
+== Trivia ==
+* The Weatherman is based off on and modelled by [[Don't Nod|DONTNOD Entertainment]]'s CEO [[Oskar Guilbert]], as confirmed on ''Life is Strange''<nowiki>'</nowiki>s official Twitter.
+<gallery position="center" hideaddbutton="true" bordercolor="transparent">
+Weatherman Guilbert Oskar.jpg|Posted by the [https://twitter.com/LifeIsStrange/status/717758674417098752 official Life is Strange Twitter account] on April 6, 2016.
+</gallery>
+
+== Gallery ==
+<gallery widths="200px" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+KB7 News.png|TV in the [[Two Whales Diner]] in "[[Episode 2: Out of Time|Out of Time]]"
+KBAY7_News_EP3.png|TV in the [[Two Whales Diner]] in "[[Episode 3: Chaos Theory|Chaos Theory]]"
+KBAY7_News_EP4.png|TV in the [[Madsen Household]] in "[[Episode 4: Dark Room|Dark Room]]"
+</gallery>
+
+{{Character Navbox}}
+
+[[ru:Метеоролог]]
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Minor Characters (Life is Strange)]]
+[[Category:Characters (Life is Strange)]]
+[[Category:Episode 2: Out of Time Characters]]
+[[Category:Episode 3: Chaos Theory Characters]]
+[[Category:Episode 4: Dark Room Characters]]
+[[Category:Male Characters (Life is Strange)]]
+[[Category:Minor Characters]]
+
+[[Category:Life is Strange]]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Primary Function Of The Journal Menu Button On Mobile?",
+    "answer": "A",
+    "choices": {
+      "A": "To Access Or Exit Max's Journal",
+      "B": "To Rewind Time",
+      "C": "To Move Max",
+      "D": "To Look Around"
+    }
+  },
+  {
+    "question": "How Can Players Control The Direction Of The Camera On PS3?",
+    "answer": "B",
+    "choices": {
+      "A": "By Using The Left Analog Stick",
+      "B": "By Using The Right Analog Stick",
+      "C": "By Pressing The Triangle Button",
+      "D": "By Pressing The Square Button"
+    }
+  },
+  {
+    "question": "How Can Players Step Back In Time To Their Last Important Action On PS3?",
+    "answer": "A",
+    "choices": {
+      "A": "By Pressing The L1 Button",
+      "B": "By Pressing The R1 Button",
+      "C": "By Holding Down The L2 Button",
+      "D": "By Holding Down The R2 Button"
+    }
+  },
+  {
+    "question": "What Is The Function Of The Focus Button On PS3?",
+    "answer": "C",
+    "choices": {
+      "A": "To Rewind Time",
+      "B": "To Move Max",
+      "C": "To Focus On Photos",
+      "D": "To Access Max's Journal"
+    }
+  },
+  {
+    "question": "How Can Players Choose An Option Provided On The Dialog Tree On PS3?",
+    "answer": "B",
+    "choices": {
+      "A": "By Pressing The Triangle Button",
+      "B": "By Pressing The Square Button",
+      "C": "By Pressing The X/Cross Button",
+      "D": "By Pressing The Circle Button"
+    }
+  }
+]

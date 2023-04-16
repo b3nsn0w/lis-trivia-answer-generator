@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What Does Officer Berry Say About David Madsen?",
+    "answer": "B",
+    "choices": {
+      "A": "He Represents Blackwell Academy",
+      "B": "He Is A Loose Cannon",
+      "C": "He Is Too Eager",
+      "D": "He Is A Good Person"
+    }
+  },
+  {
+    "question": "What Does Officer Berry Say About The Prescotts?",
+    "answer": "A",
+    "choices": {
+      "A": "They Are Working On New Big Land Deals",
+      "B": "They Are Helping Officer Berry's Family",
+      "C": "They Are Trying To Take Over Arcadia Bay",
+      "D": "They Are Not Involved In Any Deals"
+    }
+  }
+]

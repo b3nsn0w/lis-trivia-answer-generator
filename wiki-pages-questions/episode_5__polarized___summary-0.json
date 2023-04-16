@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who Kidnapped Max And Chloe?",
+    "answer": "B",
+    "choices": {
+      "A": "Nathan Prescott",
+      "B": "Jefferson",
+      "C": "Frank Bowers",
+      "D": "David Madsen"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Song That Plays During The Ending Credits?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Spanish Sahara\" by Foals",
+      "B": "\"Obstacles\" by Syd Matters",
+      "C": "\"Lua\" by Bright Eyes",
+      "D": "\"The Sense of Me\" by Mud Flow"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Storm That Hits Arcadia Bay?",
+    "answer": "D",
+    "choices": {
+      "A": "Hurricane Chloe",
+      "B": "Tornado Max",
+      "C": "Typhoon Rachel",
+      "D": "Tempest"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Character That Max Encounters In The Dark Room?",
+    "answer": "C",
+    "choices": {
+      "A": "Victoria Chase",
+      "B": "Kate Marsh",
+      "C": "Rachel Amber",
+      "D": "Chloe Price"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Character That Max Can Choose To Sacrifice In The End?",
+    "answer": "A",
+    "choices": {
+      "A": "Chloe Price",
+      "B": "Rachel Amber",
+      "C": "Warren Graham",
+      "D": "Nathan Prescott"
+    }
+  }
+]

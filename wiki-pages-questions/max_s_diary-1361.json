@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Did Max Do To David When She Found Out About His Surveillance?",
+    "answer": "B",
+    "choices": {
+      "A": "She Rewound Time",
+      "B": "She Blew Up At Him",
+      "C": "She Ignored Him",
+      "D": "She Reported Him To The Police"
+    }
+  },
+  {
+    "question": "What Did Max And Chloe Do To Get The Keys To Frank's RV?",
+    "answer": "D",
+    "choices": {
+      "A": "They Bribed Frank With Money",
+      "B": "They Stole The Keys From Nathan",
+      "C": "They Convinced Officer Berry To Give Them The Keys",
+      "D": "They Used Max's Time Rewind Power To Get The Keys"
+    }
+  },
+  {
+    "question": "What Did Max And Chloe Find In Frank's RV?",
+    "answer": "C",
+    "choices": {
+      "A": "A Stolen Car",
+      "B": "A Gun",
+      "C": "Pictures Of Rachel",
+      "D": "A Bag Of Money"
+    }
+  },
+  {
+    "question": "Why Did Max Decide Not To Return Chloe's Gun?",
+    "answer": "C",
+    "choices": {
+      "A": "She Wanted To Keep It For Herself",
+      "B": "She Didn't Trust Chloe With It",
+      "C": "She Was Worried Frank Would Come After Chloe",
+      "D": "She Wanted To Teach Chloe A Lesson"
+    }
+  },
+  {
+    "question": "What Did Max Receive As A Birthday Gift From Vic And Nathan?",
+    "answer": "A",
+    "choices": {
+      "A": "A Hat",
+      "B": "A Camera",
+      "C": "A Necklace",
+      "D": "A Book"
+    }
+  }
+]

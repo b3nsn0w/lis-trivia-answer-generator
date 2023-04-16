@@ -1,0 +1,124 @@
+= Japanese Release (Life is Strange) =
+
+{{Free Tab
+|minwidth = 25%
+|borderradius = 2
+|height = 2
+|tab1=Life is Strange |link1=Japanese Release (Life is Strange)
+|tab2=Before the Storm |link2=Japanese Release (Before the Storm)
+|tab3=Life is Strange 2 |link3=Japanese Release (Life is Strange 2)
+|link4=Japanese Release (True Colors)|tab4=True Colors}}{{Stub}}
+{{Scaleimage|file=Lis_logo_jp.png|size = 100%}}
+[[File:Life-is-strange-japanese-ps4-cover.jpg|thumb|Japanese PS4 cover<ref>[https://www.gamekult.com/actualite/life-is-strange-verra-le-japon-156907.html Life is Strange verra le Japon - Gamekult.com (December 9, 2015) (article in French)]</ref>]]
+The '''Japanese version''' of ''[[Life is Strange]]'' ('''ライフ イズ ストレンジ''') was released on March 3, 2016, for the PlayStation 3, PlayStation 4 and PC/Steam. According to the official listing on Square Enix's website, the game is priced at ¥4,800 (about $43) in Japan.<ref>[http://www.hardcoregamer.com/2015/12/10/life-is-stranges-japanese-version-receives-a-release-date/181870/ Life Is Strange’s Japanese Version Receives a Release Date - Hardcore Gamer (December 10, 2015)]</ref> The release was announced by Square Enix on September 7, 2015. A Japanese [https://twitter.com/lis_jpn Twitter account], a Japanese [https://www.instagram.com/lis_jpn/ Instagram account], and a new [http://www.jp.square-enix.com/lis/ Japanese website] have been set up by Square Enix Japan.
+[[File:ライフ イズ ストレンジ： シネマティックトレーラー|thumb|300px]]
+The Japanese version sold 11.5k copies on PS4 in its first week according to [[Wikipedia:Famitsu|Famitsu]]<ref>[http://www.gamekult.com/actu/chart-japon-gundam-breaker-casse-la-baraque-A160557.html Chart Japon : Gundam Breaker casse la baraque - Gamekult.com, Nicolas Verlet (March 9, 2016) (article in French)]</ref> (Japanese video game magazine).
+
+== Voice Actors ==
+* '''[[Kumi Tanaka]]''' as [[Maxine Caulfield|Max Caulfield]] ('''マックス・コールフィールド''')
+* '''[[Lynn]]''' as [[Chloe Price]] ('''クロエ・プライス''')
+* '''[[Yasuhiro Mamiya]]''' as [[Nathan Prescott]] ('''ネイサン・プレスコット''')
+* '''[[Akari Higuchi]]''' as [[Victoria Chase]] ('''ビクトリア・チェイス''')
+* '''[[Hana Takeda]]''' as [[Kate Marsh]] ('''ケイト・マーシュ''')
+* '''[[Makoto Naruse]]''' as [[Warren Graham]] ('''ウォーレン・グラハム''')
+* '''[[Masahiro Yamanaka]]''' as [[Mark Jefferson]] ('''マーク・ジェファソン''')
+* '''[[Naoya Nosaka]]''' as [[David Madsen]] ('''デイビッド・マドセン''')
+* '''[[Ryota Takeuchi]] '''as [[Frank Bowers]] ('''フランク・バワーズ''')
+* '''[[Mitsuaki Kanuka]]''' as [[Ray Wells]] ('''レイ・ウェルズ''')
+* '''[[Yamaka Kiriki]]''' as [[Joyce Price]] ('''ジョイス・プライス''')
+* '''[[Shinobu Matsumoto]]''' as [[William Price]]''' ('''ウィリアム・プライス''')
+* '''[[Akari Higuchi]]''' as [[Alyssa Anderson]]''' ('''アリッサ・アンダーソン''')
+* '''[[Yutaka Aoyama]]''' as [[Samuel Taylor]] ('''サミュエル・テイラー''')
+
+== Trivia ==
+* During the [[Figaro Gaming House Panel (February 2, 2016)]] interview, it was said that the Japanese voices are good.
+* Although the DLC language pack is only listed on the Steam Store accessed from Japan, you can still manually "register" it to download and use outside of Japan by executing the Steam protocol link "steam://install/425570", and the DLC will be added to your ''Life is Strange'' DLC list.
+* Some content of in-game objects (graffiti, paintings, etc.) were changed to avoid corresponding to prohibited expressions, that could lead to the straying of Japanese youngsters with more impressionable minds. (Google translated from Japanese)<ref>[http://support.jp.square-enix.com/news.php?id=13182&la=0&n=2&drt=1449633600&tag=dd0fa2ca2354fc7c2f99544640ebd869364d6250 海外版との仕様の違いについて (About the difference of specification with overseas version)]</ref>
+
+== Gallery ==
+<gallery hideaddbutton="true" bordersize="none" widths="200" position="center">
+ss+(2016-03-21+at+10.46.49).jpg
+Lynn as Chloe Price.jpg
+Kumi Tanaka as Max Caulfield.jpg
+</gallery>
+
+== Videos ==
+<gallery hideaddbutton="true" bordersize="none" widths="200" position="center" bordercolor="transparent">
+ライフ イズ ストレンジ： 日本語吹き替え版ゲームプレイ動画1
+LIFE IS STRANGE episode 1 ライフ イズ ストレンジ： 日本語吹き替え版
+LIFE IS STRANGE episode 2 ライフ イズ ストレンジ： 日本語吹き替え版
+LIFE IS STRANGE episode 3 ライフ イズ ストレンジ： 日本語吹き替え版
+LIFE IS STRANGE episode 4 ライフ イズ ストレンジ： 日本語吹き替え版
+LIFE IS STRANGE episode 5 ライフ イズ ストレンジ： 日本語吹き替え版
+</gallery>
+
+== Fan Kit - ファンキット ==
+=== Mobile Wallpaper - モバイル壁紙 (1080 x 1920) ===
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="200" captionalign="center" position="center">
+ChloeWorking_1080x1920.jpg
+Classroom_1080x1920.jpg
+Doodles_1080x1920.jpg
+EverydayHeroesEntry_1080x1920.jpg
+HawtDawgMan_1080x1920.jpg
+JustGottaLetGo_1080x1920.jpg
+Lighthouse_1080x1920.jpg
+Sunset_1080x1920.jpg
+TrainTracks_1080x1920.jpg
+TwoWhalesDiner_1080x1920.jpg
+</gallery>
+
+=== Tablet Wallpaper - タブレット壁紙 (2048 x 1536) ===
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="200" captionalign="center" position="center">
+ChloeWorking_2048x1536.jpg
+Classroom_2048x1536.jpg
+Doodles_2048x1536.jpg
+EverydayHeroesEntry_2048x1536.jpg
+HawtDawgMan_2048x1536.jpg
+JustGottaLetGo_2048x1536.jpg
+Lighthouse_2048x1536.jpg
+Sunset_2048x1536.jpg
+TrainTracks_2048x1536.jpg
+TwoWhalesDiner_2048x1536.jpg
+</gallery>
+
+=== Screenshot - スクリーンショット ===
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="200" captionalign="center" position="center">
+LIS_SS_01.jpg
+LIS_SS_02.jpg
+LIS_SS_03.jpg
+LIS_SS_04.jpg
+LIS_SS_05.jpg
+LIS_SS_06.jpg
+LIS_SS_07.jpg
+LIS_SS_08.jpg
+LIS_SS_09.jpg
+LIS_SS_10.jpg
+</gallery>
+
+=== Cosplay Reference Image - コスプレ参考画像 ===
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="200" captionalign="center" position="center">
+Chloe_Shirt_MisfitSkull.png
+Chloe_Sketch.jpg
+Chloe_Tatoo.jpg
+HawtDawgMan_Sketch.jpg
+Max_Sketch.jpg
+Max_TShirt_JaneDoe.png
+</gallery>
+
+== External Links ==
+* [http://www.jp.square-enix.com/lis/ Japanese website]
+* [https://store.steampowered.com/app/425570/Life_is_Strange__Japanese_Language_Pack/ Life is Strange™ - Japanese Language Pack] (can only be accessed from Japan)
+* [https://twitter.com/lis_jpn Twitter]
+* [https://www.instagram.com/lis_jpn/ Instagram]
+* [https://ja.wikipedia.org/wiki/ライフ_イズ_ストレンジ Japanese Wikipedia article]
+
+== References ==
+<references />
+
+[[pt-br:Versão Japonesa]]
+[[ru:Японский релиз]]
+[[Category:Behind the Scenes]]
+[[Category:Behind the Scenes (Life is Strange)]]
+[[Category:Square Enix]]
+[[Category:Don't Nod]]
+[[Category:Life is Strange]]

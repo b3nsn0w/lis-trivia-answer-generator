@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What does the Diner Woman reveal about her personal life in Max's Nightmare?",
+    "answer": "A",
+    "choices": {
+      "A": "She has a husband and a newborn baby elsewhere",
+      "B": "She is a millionaire",
+      "C": "She is a single mother",
+      "D": "She is homeless"
+    }
+  },
+  {
+    "question": "What is the Diner Woman's reaction when Max wishes her good luck for her job interview?",
+    "answer": "B",
+    "choices": {
+      "A": "She ignores Max",
+      "B": "She thanks Max",
+      "C": "She insults Max",
+      "D": "She asks Max for money"
+    }
+  }
+]

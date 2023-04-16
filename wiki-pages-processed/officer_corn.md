@@ -1,0 +1,8 @@
+#  Officer Corn 
+
+**Officer Corn** is an officer of the local police force, the [Arcadia Bay Police Department](arcadia_bay_police_department.md).
+
+During "[Episode 3: Chaos Theory](chaos_theory.md)", Officer Corn leaves a message on the answering machine in the [Madsen Household](madsen_household.md) to inform [David Madsen](david_madsen.md) or [Joyce Price](joyce_price.md) that [Chloe Price](chloe_price.md)'s [Chloe's Truck](pickup_truck.md) was spotted in the vicinity of [Blackwell Academy](blackwell_academy.md) near the time of the break-in.
+
+{{Character Navbox}}
+

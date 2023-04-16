@@ -1,0 +1,152 @@
+= Raymond Wells =
+
+{{Free Tab
+|minwidth = 47%
+|maxwidth = 100%
+|borderradius = 2
+|height = 2
+|tab1=Life is Strange |link1=Raymond Wells
+|tab2=Before the Storm |link2=Raymond Wells (Before the Storm)
+}}
+{{Introquote|As principal of Blackwell Academy, I take my duties seriously. I take the well-being of every student more seriously. What happened today should never happen in a hall of wisdom and knowledge.
+|Principal Wells in "[[Episode 2: Out of Time|Out of Time]]"}}
+{{Infobox Character
+|name = Raymond Wells
+|image = Ray Wells.png
+|alsoknown = Ray <small>(by himself)</small>
+|died = October 11, 2013 <small>(presumed, determinant)</small>
+|causeofdeath = Killed by the [[storm]] <small>(presumed, determinant)</small>
+|gender = Male
+|hair = Bald
+|eyes = Brown
+|friends = [[Mark Jefferson]]
+|profession = Principal
+|affiliation = [[Blackwell Academy]]
+|appearance = [[Episode 1: Chrysalis]]<br/>[[Episode 2: Out of Time]]<br/>[[Episode 3: Chaos Theory]]<br/>[[Episode 4: Dark Room]] <small>(cutscene)</small><br/>[[Episode 5: Polarized]]
+|voice = [[Eric Morgan Stuart]]
+}}
+'''Raymond<ref>His full name is mentioned in several places throughout the game, for example in a conversation between Max and Ms. Grant, or inside [[Media:Note4-garage-grantwin.png|an email]] from Wells to David in Episode 4.</ref> "Ray" Wells''' is the principal of [[Blackwell Academy]]. He doesn't leave his [[Principal Wells' Office|office]] much and often looks distracted. His office is in the main building of the campus. [[Maxine Caulfield|Max Caulfield]] has seen him being nicer to other students, so she feels like he dislikes her.
+
+Principal Wells reappears in ''[[Life is Strange: Before the Storm]]'', the prequel to the events of the original ''[[Life is Strange]]''. He also is mentioned in ''[[The Awesome Adventures of Captain Spirit]]''.<ref>[[Media:CapSpirit-wells-to-emily-letter.png|Screenshot]] of a letter.</ref>
+
+== Biography ==
+The following is what [[Maxine Caulfield|Max Caulfield]] wrote about Ray in her journal:
+
+''I can't figure out where Principal Wells is coming from. For some reason, he seems to be suspicious of me at all times. Who knew I was that much trouble? He wanted to know why I was zoning out in the halls. I stuttered like a fool. He has so much power over my scholarship I get uber-nervous around him. I've seen him laughing with other teachers and students, so I know he must have a problem with me.''
+
+''He also seems a little stressed out. I would be too if I had to oversee Blackwell and all its drama. I thought I smelled alcohol on his breath but that could have been his cologne. Right? But I remember my first meeting in his office and he was so nice and made me feel like I was becoming part of a special world.''
+
+''He said he hoped I would become a great photographer and someday return the favor to Blackwell. I thought that was a bit of wishful thinking, but it made me feel good. I just need to lay low around him. Until I can somehow gain his trust.''
+
+== Personality ==
+Wells is a stern authority figure. He keeps mostly to himself, staying in his office most of the time.
+
+== Background ==
+Easily threatened by the [[Prescott Family|Prescott family]], Wells must strike a balance between caring for the Blackwell community and its students and keeping the vast sums of funding the Prescott family provide.
+
+He is apparently under a lot of pressure in his responsibility as a principal and therefore has developed a drinking problem.
+
+== Episode One - "[[Episode 1: Chrysalis|Chrysalis]]" ==
+Max initially comments that she hasn't seen much of Wells, as he stays in his office most of the time. She doesn't go to the principal on her way to help [[Chloe Price]] because she didn't want to stall. After Max sets off the fire alarm to save Chloe from being shot by [[Nathan Prescott]], Principal Wells can say he doesn't want her wandering around indoors, and to go outside. However, before she can leave, he asks Max to come back. If she goes to him before leaving, he asks if she is okay.
+
+Max can either report Nathan or hide the truth. If she tells the truth, Principal Wells says he will look into the matter personally, but thinks that it is uncharacteristic of Nathan to have a gun because of his reputation. He says they will continue the discussion later, but for now she has to go outside. When Max goes outside, the principal says over the school loudspeakers that he wants to see Nathan.
+
+If she hides the truth, she can say she felt dizzy and that's why she is wandering around. She avoids telling him what happened and ends up offending him with her attitude. He emails [[Vanessa Caulfield|Max's mom]] about the incident, and adds he is concerned that Max is not fitting in well and is hiding in her dorm room. The Principal will not say anything on the loudspeaker for obvious reasons.
+
+Later, Max can tell [[Luke Parker]] that she told Principal Wells about Nathan having a gun, which pleases Luke to hear because he dislikes Nathan.
+
+== Episode Two - "[[Episode 2: Out of Time|Out of Time]]" ==
+The principal is able to be spoken to after Max returns to school following Chloe's train incident. Ray Wells is standing outside his office door, in a distressed manner, and can be spoken to. If Max had spoken to the principal about Nathan's gun incident the previous day, the principal dismisses her accusations and tells Max to focus on her school work. He then mentions that Blackwell is ushering in a new era of surveillance security. When Max attempts to question him about this or [[David Madsen]]'s actions with [[Kate Marsh]], the principal further dismisses her by claiming she is on a spree of false accusations. Before Max can say anything else, he claims he has a meeting to attend to and shoos her away.
+
+Later, following Kate's suicide attempt, he will convene a meeting in his office with [[Mark Jefferson]], David Madsen, Nathan Prescott, and Max to discuss what happened on the rooftop. Whether Max was successful in saving Kate or not, the principal will want to know from Max every detail about what happened. Depending on who Max blames for causing Kate's suicide attempt, Wells will proceed to punish the accused with varying levels of degree depending on Max's proof. If Max blames Mr. Jefferson, Wells will not let him continue to represent the "Everyday Heroes" contest but will allow him to remain on campus no matter what previous choices Max made. On the other hand, if Max blames David or Nathan, there is a chance that Wells may decide to suspend Max instead if she accused either one without respective evidence and took the blame for Chloe's weed in the last episode, and Wells will see her as untrustworthy. However, if Max had reported Nathan's gun incident in Episode 1, regardless of whether David believes Max to be a "stoner", Nathan will receive a suspension; an action Wells will privately contact Nathan for to apologize and remain on good terms with the Prescotts. As for David, if Max took the picture of David and Kate's argument, Wells will deem it right to not allow him to return to campus for a few days to maintain a good image, which will greatly anger David.
+
+In the ending scenes, he is seen arguing with Mr. Jefferson in his car slightly out of campus grounds. Jefferson will eventually speed off and leave Wells behind on the road.
+
+== Episode Three - "[[Episode 3: Chaos Theory|Chaos Theory]]" ==
+On her way to meet Chloe in front of Blackwell Academy, Max sees Principal Wells, obviously drunk, struggling to open a door of the Prescott Dormitory. Max must sneak around him or he will question what she is doing roaming the grounds at night. Max can mention concerns over Kate Marsh, to which Principal Wells alludes that this is why he is drunk at the time. Ending the conversation, Principal Wells will tell Max to return to her room.
+
+Chloe and Max have the chance to enter and explore Wells' office in the episode.
+
+Aside from finding records of students scattered around the office, they also find some helpful clues leading towards the disappearance of [[Rachel Amber]]; most notably a drawing done by Nathan with the words "Rachel in the Dark Room" written repeatedly.
+
+Max can also observe a bottle of whiskey in the corner of Wells' office; implying that he uses alcohol to cope with the stress of his job.
+
+== Episode Four - "[[Episode 4: Dark Room|Dark Room]]" ==
+Despite the fact that Wells is not featured in the following episode, Wells is seen speaking to [[Mark Jefferson]] in the [[Prescott Dormitory]] grounds before Chloe and Max enter, which is when he leaves the dormitory.
+
+== Episode Five - "[[Episode 5: Polarized|Polarized]]" ==
+After Max created an alternative timeline where she won the Everyday Heroes contest by turning in her photo to Jefferson and captured him with David's help, Principal Wells took Jefferson's place as the person who would travel with Max to [[San Francisco]]. Wells is sitting on Max's right in the [[Plane|airplane]]. He is initially sleeping but wakes up when it's time to land and asks Max if he was snoring loudly. They have a short conversation and reminisce the week's events.
+
+After arriving at the [[Zeitgeist Gallery]], Max remarks that the gallery is huge, and Wells says the same is true about the buffet. He tells Max that she's no longer a kid and has to act like the photographer she wants to be, using his own past as an example. Before going upstairs to the buffet, Wells says that Max can always come to him for advice.
+
+Max has the opportunity to speak to him on the second floor of the gallery. She tells him that she doesn't feel like a famous photographer, to which Wells replies that every journey starts with the first step and Max has made everyone at Blackwell proud with the response to her work. He admits that he should have been more proactive about Kate's situation and that he probably wouldn't believe Max about Nathan carrying a gun. The conversation then shifts to Mark Jefferson. Wells tells Max that Jefferson had a reputation good enough for nobody to suspect him, and also mentions the fact that he was brought to Blackwell by [[Sean Prescott]]. He tells her that he was fouled by Jefferson because of his weakness for prestige. In the end, Wells just hopes that everything will become normal. He tells Max that she is an adult now and can call him Ray for the event.
+
+Principal Wells is featured in the maze section of [[Max's Nightmare|Max's nightmare]]. He makes comments about his alcoholism over the loudspeakers, and is alerting the school about Max being on the run; he blames her for the deaths of both Rachel and Chloe. He also appears as one of the searchers in the maze scene, wishing he had given Max's scholarship to Victoria, etc. In the diner scene of the nightmare, he says that he hasn't been the best principal, but Max has indeed been the best Everyday Hero.
+
+<tabber>Sacrifice Arcadia Bay=<h5 style="display:none">Sacrifice Arcadia Bay</h5>It is unknown what happens to him in the Sacrifice Arcadia Bay ending. Unless he stays at Blackwell Academy, which is a solid brick building, he is unlikely to survive the storm.
+|-|Sacrifice Chloe=<h5 style="display:none">Sacrifice Chloe</h5>Principal Wells is one of the people attending Chloe's funeral.
+</tabber>
+
+== Symbolism ==
+
+=== Color Symbolism ===
+Ray is associated with the color red; the color of his shirt. It is indicative of power, money and tragic circumstances, as well as aggression. It is highly probable that in his situation, money and power are the two most likely associations, as he deals with the funding situation and the Prescott family on a regular basis, as well as being a powerful figure at Blackwell as the Principal. We know that he drinks in order to deal with the stress of his profession, providing the possibility that he becomes enraged when drunk.
+
+=== Spirit Animal ===
+The statue of the bronze Hawk on Ray's desk could indicate that his spirit animal is a hawk. This would be symbolic of a strong, opportunistic figure; fitting for the principal.
+
+== Memorable Quotes ==
+{{Quote|Don't think I don't know what goes on around here. You've only been here for three weeks and you're already causing conflict.|Principal Raymond Wells to Max in "[[Episode 1: Chrysalis|Chrysalis]]" (determinant)}}
+{{Quote|Please don't say that. There's nothing to be scared of at Blackwell Academy. Our head of security is overseeing a new era of campus safety.|Principal Raymond Wells to Max in "[[Episode 2: Out of Time|Out of Time]]"}}
+{{Quote|Max, after this week, you are certainly not a little kid anymore. In fact, you're a noteworthy adult being honored by your peers. Now, you have to start acting like the photographer you want to be.|Principal Raymond Wells to Max in "San Francisco Timeline" in "[[Episode 5: Polarized|Polarized]]"}}
+
+== Discussed Theories ==
+'''''Note: These are theories developed prior to the release of Episode 5: Polarized.'''''
+
+The possibility of a link between Ray and Jefferson, as well as the Prescotts, was discussed. Obviously, the Prescotts nearly own Blackwell and that Wells must keep them happy in order to facilitate their continued funding of the Academy. Nathan and Wells share meaningful looks in the office after Kate's incident, a possible indication that Wells could be in some way involved and must take Nathan's side in the situation. However, in some scenarios he does suspend Nathan, which could indicate that he is actually uninvolved with the mysterious disappearances and that he is simply a principal attempting to keep his school afloat.
+
+However, the bottle of whiskey in the Prescott Bunker was considered a possible link to him - we know he is an alcoholic due to the stressful nature of his occupation. So perhaps he was in some way involved with the Prescotts, further than just keeping them happy enough to retain funding for Blackwell. Keeping them happy could have entailed keeping quiet about their involvement in the disappearances, or possibly assisting in the kidnapping of victims.
+
+== Trivia ==
+[[File:Edouard-caplain-principal-hd.jpg|306x306px|right]]
+* A concept art by [[Edouard Caplain]] implies that in an early stage of development, Principal Wells' ethnicity/skin color was not decided yet. Designs for both a white and black skinned Wells exist. He is the only character which concept art versions of different ethnicities exist for.
+* A letter from Wells addressed to [[Emily Eriksen]] can be found by [[Chris Eriksen|Chris]] in ''[[The Awesome Adventures of Captain Spirit]]''. In the letter, Wells thanks Emily for her support of Blackwell's art program.
+*''Life is Strange''<nowiki/>'s heavy basis on the concept on time travel suggest that Principal Wells' surname could be a reference to H.G. Wells. H.G. Wells was a prolific author who developed and popularised the concept of time travel with his many sci-works, including ''The Time Machine.''
+
+== Gallery ==
+<gallery widths="200px" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+wells-ep1.png|Principal Wells in Episode 1
+wells-ep1end.png|Principal Wells at the end of Episode 1
+wells-ep2.png|Principal Wells in Episode 2
+wells-ep4.png|Wells talking to Jefferson in Episode 4
+wells-zeitgeist.png|Wells with Max at the Zeitgeist Gallery
+wells-nightmarediner.png|Wells in [[Max's Nightmare|Max's nightmare]]
+</gallery>
+
+== References ==
+<references/>
+{{Character Navbox}}
+{{Characters CS}}
+
+[[de:Ray Wells]]
+[[es:Raymond Wells]]
+[[pl:Ray Wells]]
+[[pt-br:Raymond Wells]]
+[[ru:Рэй Уэллс]]
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Characters (Life is Strange)]]
+[[Category:Blackwell Academy Staff]]
+[[Category:Episode 1: Chrysalis Characters]]
+[[Category:Episode 2: Out of Time Characters]]
+[[Category:Episode 3: Chaos Theory Characters]]
+[[Category:Episode 4: Dark Room Characters]]
+[[Category:Episode 5: Polarized Characters]]
+[[Category:Blackwell Academy Staff (Life is Strange)]]
+[[Category:Major Characters (Life is Strange)]]
+[[Category:Antagonists]]
+[[Category:Male Characters (Life is Strange)]]
+[[Category:Major Characters]]
+[[Category:Alternative Timeline Characters]]
+[[Category:Life is Strange]]
+[[Category:Mentioned Characters (Captain Spirit)]]

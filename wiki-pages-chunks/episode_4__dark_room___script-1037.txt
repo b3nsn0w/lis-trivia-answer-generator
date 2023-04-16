@@ -1,0 +1,76 @@
+Here is a section of the wiki page for Episode 4: Dark Room - Script:
+
+## **Downstairs** # 
+**Optional Conversation with William**
+
+**Max: **Hey, William. Am I bothering you?
+
+**William: **Why, yes, Max, I love going through bills. Kidding. How can you bother me? I haven't seen you in forever.
+
+**Max: **I know. You look exactly the same. It's so cool.
+
+**William: **Good, or I'd be ascared if I didn't look like me... Of course, you seem more adult now. So what's on your mind?
+
+Chloe.Chloe.**Max:** I don't know how to say this, but I am truly sorry about what happened to Chloe.
+
+**William:** Me too. All it takes is a few minutes to change a girl's whole life. But she's alive. And she's been a trooper.
+
+{{#tag:tabber|Is she mad at me?# Is she mad at me?**Max:** Is she mad at me for not staying in touch? She should be, I have no excuse.
+
+**William:** She was disappointed, but she knows you care. And I know how hard it is to process all this. It's taken us years.
+
+{{!}}-{{!}}Glad you're here.Glad you're here.**Max:** She is so amazing. I'm so glad you're here to help her...and be her father.
+
+**William:** I'm so glad Joyce is here to help us both. Max, I just hate to think of what would happen to Chloe if I wasn't here...
+}}
+
+**Max:** William, I just want you to know that whatever happens, I'll always be here for Chloe. Always.
+
+**William:** I know you will, Max.
+
+|-|Care room.# Care room.**Max:** I was impressed by Chloe's room and all the high-tech equipment.
+
+**William:** You should be. We could buy a few mansions for what it all costs. The insurance helps, but...I don't know, Max.
+
+**Max:** I know it must be hard on you guys, financially.
+
+**William:** These bills are more like crushing. We have to mortgage our home and that's pretty scary...but we'll get through it. The Price is always right. Get it? No?
+
+|-|Joyce.Joyce.**Max:** Being around you and Joyce again is so nostalgic.
+
+**William:** Very old school, as they say. I think it's great for Chloe to see you. It makes Joyce happy, too. So it's not all bad news in Arcadia Bay. Or is it?
+
+{{#tag:tabber|Rachel Amber.# Rachel Amber.**Max:** I was reading about that missing girl...Rachel Amber?
+
+**William:** Oh yes, she went to Blackwell, right? Poor thing. That's a real nightmare for a family... I get scared thinking about Chloe and that we might...lose her someday.
+
+{{!}}-{{!}}Crazy weather.Crazy weather.**Max:** What do you think is going on with all of this crazy weather and animals dying?
+
+**William:** Nobody knows, right? It's Nostradamus type shit, pardon my French. But all I actually care about now is Chloe and Joyce. My family.
+
+{{!}}-{{!}}Prescott family.# Prescott family.**Max:** The Prescott family might be bad news. What do you think about them?
+
+**William:** Evil. Next question?
+
+**Max:** Sounds like you know them well.
+
+**William:** More than I want to. But Joyce has to work for those greedy bastards at Pan Estates. I don't even like to think about it.
+}}
+
+|-|Paris trip. (If Max saw the Eiffel Tower replica)Paris trip. (only available after looking at Eiffel Tower replica)**Max:** So you finally made it to Paris?
+
+**William:** "Oui," as they say. Not me, because I can't speak French. But it was a great experience, especially for Chloe.
+
+**Max:** I can see her loving it there. You guys rock for going on a family adventure like that.
+
+**William:** She talked about going to school there...but that's not practical anymore. It's not fair, Max...
+
+|-|Leave.# Leave.**Max:** I have to go see if Chloe needs anything. It was so great talking with you again.
+
+**William:** You act like it's the last time. And please, keep me from this bills whenever you want.
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

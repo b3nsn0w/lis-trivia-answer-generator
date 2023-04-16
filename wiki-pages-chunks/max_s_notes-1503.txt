@@ -1,0 +1,85 @@
+Here is a section of the wiki page for Max's Notes:
+
+"minus." Thanks for being there for me, Warren...
+Notes: One of the four possible outcomes.
+|style# "height:186px; vertical-align:top"|Look[File:note3-sciclass-warrenexam-aplus.png](220px.md)
+|-|Read# [File:note3-sciclass-warrenexam-aplus2.png](220px.md)
+|-
+|'''Warren's chemistry test (A-)'''
+Location: Inside the Science Lab.
+Max's comments: An "A-"? All right, all right, so Dr. Max did help Warren this morning!
+Notes: One of the four possible outcomes.
+|style"height:186px; vertical-align:top"|Look# [File:note3-sciclass-warrenexam-aminus.png](220px.md)
+|-|Read[File:note3-sciclass-warrenexam-aminus2.png](220px.md)
+|-
+|'''Warren's chemistry test (B+)'''
+Location: Inside the Science Lab.
+Max's comments: Yes, I like this "plus" better then that "minus." Thanks for being there for me, Warren...
+Notes: One of the four possible outcomes.
+|style# "height:186px; vertical-align:top"|Look[File:note3-sciclass-warrenexam-bplus.png](220px.md)
+|-|Read# [File:note3-sciclass-warrenexam-bplus2.png](220px.md)
+|-
+|'''Warren's chemistry test (B-)'''
+Location: Inside the Science Lab.
+Max's comments: Only a "B-"? Warren has shattered my faith. Of course, I'm barely passing science.
+Notes: One of the four possible outcomes.
+|style"height:186px; vertical-align:top"|Look# [File:note3-sciclass-warrenexam-bminus.png](220px.md)
+|-|Read[File:note3-sciclass-warrenexam-bminus2.png](220px.md)
+|-
+|'''Daniel DaCosta's entry for the Everyday Heroes Contest.'''
+Location: Jefferson's table in the Photography Lab.
+Max's comments: Daniel's a better illustrator than photographer, said Max the art critic.
+|style# "height:186px; vertical-align:top"|Look[File:note3-artclass-danielentry.png](220px.md)
+|-|Read# None
+|-
+|'''Victoria Chase's entry for the contest.'''
+Location: Jefferson's table in the Photography Lab.
+Max's comments: Victoria... that is pretty fucking sweet. How can I hate somebody that shoots like that?
+|style"height:186px; vertical-align:top"|Look# [File:note3-artclass-vicentry.png](220px.md)
+|-|ReadNone
+|-
+|'''Kate Marsh's entry for the contest.'''
+Location: Jefferson's table in the Photography Lab.
+Max's comments: Oh Kate... even when you were sad you tried to see the good in the world... Shit.
+|style# "height:186px; vertical-align:top"|Look[File:note3-artclass-kateentry.png](220px.md)
+|-|Read# None
+|-
+|'''Nathan Prescott's entry for the contest.'''
+Location: Jefferson's table in the Photography Lab.
+Max's comments: I feel gross even looking at Nathan's work, but he does have some style...
+|style"height:186px; vertical-align:top"|Look# [File:note3-artclass-nathanentry.png](220px.md)
+|-|ReadNone
+|-
+|**Email from Principal Wells to Jefferson.**
+Location: Jefferson's table in the Photography Lab.
+Max's comments: I say one stupid thing and Mr. Jefferson gets screwed... Nice going, Max.
+Notes: Appears only if Max blamed Jefferson.
+|style# "height:186px; vertical-align:top"|Look[File:note3-jefferson-wellsletter.png](220px.md)
+|-|Read# [File:note3-jefferson-wellsletter2.png](220px.md)
+|-
+|'''Chloe's Student File.'''
+Location: Metal cabinet inside [Principal Wells' Office](principal_wells__office.md).
+Max's comments: Man, I don't blame the Principal for expelling Chloe... Bad Chloe!
+|style"height:186px; vertical-align:top"|Look# [File:note3-office-chloefile.png](220px.md)
+|-|Read[File:note3-office-chloefile2.png](220px.md)
+|-
+|'''Rachel's Student File.'''
+Location: Metal cabinet inside Principal Wells' office.
+Max's comments: Rachel doesn't seem so "troubled" based on all this... but there's not much here about the police investigation...
+|style# "height:186px; vertical-align:top"|Look[File:note3-office-rachelfile.png](220px.md)
+|-|Read# [File:note3-office-rachelfile2.png](220px.md)
+|-
+|'''Max's Student File.'''
+Location: Bookcase inside Principal Wells' office.
+Max's comments: Like I'm not going to read my own personal file...
+Note: This appears if Kate is alive.
+|style"height:186px; vertical-align:top"|Look# [File:note3-office-maxfile-alive.png](220px.md)
+|-|Read[File:note3-office-maxfile-alive2.png](220px.md)
+|-
+|'''Max's Student File (alternate).'''
+Location: Bookcase inside Principal Wells' office.
+Max's comments: Like I'm not going to read my own personal file...
+Note: This appears if Kate is dead.
+|style# "height:186px; 
+
+Generate five trivia questions relevant to this section of the page.

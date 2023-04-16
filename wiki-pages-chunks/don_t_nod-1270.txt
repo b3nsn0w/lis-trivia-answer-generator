@@ -1,0 +1,55 @@
+Here is a section of the wiki page for Don't Nod:
+
+## Trivia 
+* The word "dontnod" is a palindrome, meaning it is spelled the same backwards as it is forwards.
+* The laterally or vertically inverted letter "N" in DONTNOD Entertainment's oroginal company logo appears in the Cyrillic alphabet and is equivalent to the letter "I" in the English/Latin alphabet.
+* On January 27, 2015, a [Reddit AMA (Life is Strange)](reddit_ama.md) for *Life is Strange* was held. 
+* The [Weatherman](weatherman.md), a character in *Life is Strange*, is based on and modeled by CEO Guilbert Oskar, as confirmed on *Life is Strange*'s official Twitter.[https://twitter.com/LifeIsStrange/status/717758674417098752 Twitter post]
+* There are [glyphs](glyphs.md) on a shack near the lighthouse in *Life is Strange* of a symbol that represents the characters in a French novel by Alain Damasio, one of the co-founders of Dontnod Entertainment, named *La Horde du Contrevent*. Wind is a recurring theme in the novel, and upon looking at the graffiti, Max says, "Weird, those glyphs remind me of... the wind."
+* There are several references to the lead environment artist Amaury Balandier hidden in *Life is Strange*. A member of the [Media:Yearbook Flyer.png](2013_yearbook_committee.md) at Blackwell Academy is called Amaury; the soda cans in [Chloe's Room](chloe_s_room.md) are a brand called "[Media:Soda-can.png](pr__amaury.md)"; [Media:Tablet textures.png](victoria_s_tablet.md) is fabricated by the brand "Amaury"; and [Media:Amauryphoto.png](one_of_jefferson_s_photographs.md) that is displayed on the Blackwell campus shows the name "Amaury" in the background.
+* In the ending credits for "[Episode 1: Chrysalis](chrysalis.md)," DONTNOD staff were referred to as "DONTNODDERS".[Media:LiS1-Dontnodders.png](episode_1___chrysalis__credits.md)
+* Dontnod games are made using the {{wiki|Unreal Engine}} which they customize.
+* Dontnod refers to their staff members as "Dontnodians". Ref needed.
+
+## Attended Events 
+* Gamescom 2014
+* NYCC 2014
+* BAFTA Showcase 2015
+* PAX East 2015
+* Game Developer Conference 2016
+* Paris Games Week 2018
+* Gamescom 2018
+* TBC
+
+#
+
+## Team 
+
+Dontnod_Team_2016.jpg|2016.
+Dontnod_Team_2020.jpg|2020.
+
+#
+
+## Dontnod Office Paris 
+
+Dontnod Entertainment Office.jpg|Dontnod's office.Shared by official accounts on [date].
+Harikaw_&_Faithcael_with_Dontnod_(Michel_Koch,_Luc_Baghadoust_and_Raoul_Barbet).jpg|Dontnod and Anne Chanteau together with Harikaw & Faithcael Cosplay at the Dontnod office (July, 2016).
+BehindtheStrange Dontnod Office.jpg|Office area of the *Life is Strange* team.[https://twitter.com/DONTNOD_Ent/status/1110579666463526912?s19 Shared by official accounts on Twitter] on March 26, 2019.
+BehindtheStrange Dontnod Office 2.jpg|Desk, presumably [Michel Koch](michel_koch.md)'s.[https://twitter.com/DONTNOD_Ent/status/1113106570290847745 Shared by official accounts on Twitter] on April 2, 2019.
+BehindtheStrange Dontnod Office 3.jpg|Dontnod office.[https://twitter.com/DONTNOD_Ent/status/1115637995447705600 Shared by official accounts on Twitter] on April 9, 2019.
+BehindtheStrange Dontnod Office 4 Sébastien Gaillard.jpg|Audio Director Sébastien Gaillard working on *Life is Strange 2*.[[https://twitter.com/DONTNOD_Ent/status/1120711581434822657?s# 19 Shared by official accounts on Twitter] on April 23, 2019.
+Dontnod Audio Room.jpg|Audio room exterior.[https://twitter.com/luc_baghadoust/status/1022608052380467201 Shared by Luc Baghadoust on Twitter] on July 27, 2018.
+Dontnod Audio Room 2.jpg|Audio room interior.
+Dontnod Audio Equipment.jpg|Audio equipment.[https://twitter.com/gaillard_seb/status/1025452807233699841 Shared by Audio Director Sébastian Gaillard on Twitter] on August 3, 2018.
+Sound team Captain Spirit.jpg|Raoul Barbet, [Sébastien Gaillard](s_bastien_gaillard.md) and Rone, the musician behind "[Parade](parade.md)".[https://www.famitsu.com/matome/sqex-ee_lis/2020_04_09.html Famitsu interview with the *Life is Strange* sound team] (April 9, 2020)
+
+#
+
+## Dontnod Office Montréal 
+N/A
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

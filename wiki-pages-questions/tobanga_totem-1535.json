@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Tobanga Totem?",
+    "answer": "A",
+    "choices": {
+      "A": "A Mysterious Native American Totem",
+      "B": "A Sacred Object Of The Prescott Family",
+      "C": "A Statue Of Blackwell Academy's Mascot",
+      "D": "A Symbol Of The Blue Butterfly"
+    }
+  },
+  {
+    "question": "Who Is The Only Person With Information About The Tobanga Totem's Origins?",
+    "answer": "C",
+    "choices": {
+      "A": "Nathan Prescott",
+      "B": "Samuel Taylor",
+      "C": "Michelle Grant",
+      "D": "Maxine Caulfield"
+    }
+  },
+  {
+    "question": "What Are The Four Animals Represented By The Tobanga Totem?",
+    "answer": "A",
+    "choices": {
+      "A": "Otter, Squirrel, Whale, Bird",
+      "B": "Bear, Deer, Wolf, Fox",
+      "C": "Lion, Tiger, Elephant, Giraffe",
+      "D": "Monkey, Snake, Crocodile, Lizard"
+    }
+  },
+  {
+    "question": "What Is The Speculation About The Tobanga Totem's Connection To Max's Time Travel Powers?",
+    "answer": "A",
+    "choices": {
+      "A": "It Is A Magical Native American Relic",
+      "B": "It Is A Symbol Of The Blue Butterfly",
+      "C": "It Is A Spirit Being Of The Prescott Family",
+      "D": "It Is A Mascot Of Blackwell Academy"
+    }
+  },
+  {
+    "question": "What Is The Meaning Of The Native American Word \"Topanga\"?",
+    "answer": "A",
+    "choices": {
+      "A": "Where The Mountain Meets The Sea",
+      "B": "Sacred Object Of A Tribe",
+      "C": "Emblem Of A Group Of People",
+      "D": "Spirit Animal Of A Family"
+    }
+  }
+]

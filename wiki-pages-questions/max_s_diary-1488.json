@@ -1,0 +1,52 @@
+[
+  {
+    "question": "When Does Max Start Writing In Her Diary?",
+    "answer": "A",
+    "choices": {
+      "A": "July 10, 2013",
+      "B": "August 18, 2013",
+      "C": "August 25, 2013",
+      "D": "September 2, 2013"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Photography Teacher At Blackwell Academy?",
+    "answer": "A",
+    "choices": {
+      "A": "Mark Jefferson",
+      "B": "Chloe Price",
+      "C": "Ryan Caulfield",
+      "D": "Vanessa Caulfield"
+    }
+  },
+  {
+    "question": "What Is Max's Plan For Decorating Her Dorm Room?",
+    "answer": "A",
+    "choices": {
+      "A": "A Whole Wall Of Photos",
+      "B": "A Wall Of Posters",
+      "C": "A Wall Of Paintings",
+      "D": "A Wall Of Mirrors"
+    }
+  },
+  {
+    "question": "What Is The Name Of Max's Best Friend In Seattle?",
+    "answer": "A",
+    "choices": {
+      "A": "Chloe Price",
+      "B": "Mark Jefferson",
+      "C": "Ryan Caulfield",
+      "D": "Vanessa Caulfield"
+    }
+  },
+  {
+    "question": "What Is The Reason Max Chooses To Attend Blackwell Academy?",
+    "answer": "A",
+    "choices": {
+      "A": "To Study Photography",
+      "B": "To Be Closer To Home",
+      "C": "To Be With Her Friends",
+      "D": "To Escape Her Hometown"
+    }
+  }
+]

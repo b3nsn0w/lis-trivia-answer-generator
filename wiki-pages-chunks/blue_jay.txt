@@ -1,0 +1,53 @@
+Here is a section of the wiki page for Blue Jay:
+
+#  Blue Jay 
+
+```yaml
+Character
+
+name: Blue Jay
+image: Blue_jay.png
+died: |-
+  October 7, 2013 (determinant)
+  October 11, 2013 (presumed, determinant)
+causeofdeath: |-
+  Killed by a window (determinant)
+  Killed by the [storm](storm.md) (presumed, determinant)
+gender: >-
+  Male (as referred to by Max)Evident from Max's comment in episode 3 while at
+  Chloe's house: "*Oh, look at the poor bird... He seems kind of freaked
+  out...*".
+hair: Blue and white
+appearance: >-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md) ([Joyce and David's
+  Room](joyce_and_david_s_room.md))
+
+  [Episode 3: Chaos Theory](episode_3__chaos_theory.md) (Madsen's Bathroom)
+
+  [Episode 4: Dark Room](episode_4__dark_room.md) (Madsen's upper corridor)
+```
+
+The **blue jay** is a bird that appears around the [Madsen Household](madsen_household.md).
+
+A blue jay also appears in *[Life is Strange: Before the Storm](life_is_strange__before_the_storm.md)*.
+
+##  Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+The bird tries to fly into [Joyce and David's Room](joyce_and_david_s_bedroom.md) through a window and hits a closed window pane where it dies. [Maxine Caulfield](max_caulfield.md) can [rewind](rewind.md) to save it by opening the window where the bird will fly inside and perch on top of a wardrobe.
+
+If Max saves the bird from killing itself, Max will later encounter the bird along the path leading to the [lighthouse](lighthouse.md) where Max may take an [Optional Photos](optional_photo.md).
+
+##  Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+The bird is seen on a perch in the bathroom. Max can look at the bird.
+
+##  Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+When Max comes back to the original timeline, she will be given the option to leave Chloe's bedroom and head back to the garage. Instead, stay on the upper level and open the window. Go to the bathroom and scare the bird atop the shower. It will fly into the hallway and onto a bookshelf. Scare the bird one more time and it will fly out the window.
+
+##  Before the Storm 
+In *[Life is Strange: Before the Storm](before_the_storm.md)*, a similar looking bird is seen in the [Blackwell Parking Lot (Before the Storm)](parking_lot.md). It flies away when Chloe looks at it and she comments: "Okay, yeah, bye. Elitist Blackwell bird...".
+
+##  Symbolism 
+It was speculated that blue jay is [Rachel Amber](rachel_amber.md)'s [:Category:Spirit Animals](spirit_animal.md). However, in the [Director's Commentary - Script##04_-_A_matter_of_choice](director_s_commentary.md), it was said that "the [Doe](doe.md) is clearly linked to Rachel".
+
+
+
+Generate five trivia questions relevant to this section of the page.

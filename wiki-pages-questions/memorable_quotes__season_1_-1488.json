@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who is the head of security at Blackwell Academy?",
+    "answer": "A",
+    "choices": {
+      "A": "Principal Wells",
+      "B": "Mr. Jefferson",
+      "C": "Alyssa Anderson",
+      "D": "Chloe Price"
+    }
+  },
+  {
+    "question": "What is Max's response to Chloe's \"Awesomesauce\" quote?",
+    "answer": "D",
+    "choices": {
+      "A": "\"Hella yeah!\"",
+      "B": "\"That's so cool!\"",
+      "C": "\"I know, right?\"",
+      "D": "\"Stop saying that.\""
+    }
+  },
+  {
+    "question": "What does Chloe say when Max rewinds time to fix something?",
+    "answer": "B",
+    "choices": {
+      "A": "\"Boom, you did it!\"",
+      "B": "\"You're a superhero!\"",
+      "C": "\"That's so cool!\"",
+      "D": "\"Do it again!\""
+    }
+  },
+  {
+    "question": "What does Alyssa say after Max saves her from a projectile weapon for the second time?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Are you my guardian angel?\"",
+      "B": "\"Thanks for saving me again.\"",
+      "C": "\"I owe you one.\"",
+      "D": "\"You're amazing.\""
+    }
+  },
+  {
+    "question": "What does Max say when she sees a blue butterfly in the first episode?",
+    "answer": "D",
+    "choices": {
+      "A": "\"That's so pretty.\"",
+      "B": "\"I should take a picture of it.\"",
+      "C": "\"What a weird coincidence.\"",
+      "D": "\"When a door closes, a window opens.\""
+    }
+  }
+]

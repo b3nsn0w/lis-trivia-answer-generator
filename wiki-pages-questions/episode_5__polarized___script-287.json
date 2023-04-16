@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Joyce Say About Max's Toughness?",
+    "answer": "A",
+    "choices": {
+      "A": "She Is Impressed By It",
+      "B": "She Is Disappointed By It",
+      "C": "She Is Surprised By It",
+      "D": "She Is Indifferent To It"
+    }
+  },
+  {
+    "question": "What Does David Tell Joyce About Max?",
+    "answer": "B",
+    "choices": {
+      "A": "That She Is Weak",
+      "B": "That She Is Brave",
+      "C": "That She Is Smart",
+      "D": "That She Is Lazy"
+    }
+  },
+  {
+    "question": "What Does Max Say About David Needing Someone In His Life?",
+    "answer": "D",
+    "choices": {
+      "A": "He Needs A Friend",
+      "B": "He Needs A Partner",
+      "C": "He Needs A Mentor",
+      "D": "He Needs A Family"
+    }
+  },
+  {
+    "question": "What Does Joyce Say About David's Reputation?",
+    "answer": "B",
+    "choices": {
+      "A": "Most People See Him At His Best",
+      "B": "Most People See Him At His Worst",
+      "C": "Most People Are Indifferent To Him",
+      "D": "Most People Are Impressed By Him"
+    }
+  },
+  {
+    "question": "What Does Joyce Want In Her Life?",
+    "answer": "D",
+    "choices": {
+      "A": "A Rich Husband",
+      "B": "A Successful Career",
+      "C": "A Peaceful Life",
+      "D": "David Madsen"
+    }
+  }
+]

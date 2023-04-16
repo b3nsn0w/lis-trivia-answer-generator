@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who did Hailey Hayes record her dialogue with for Life is Strange: Before the Storm?",
+    "answer": "D",
+    "choices": {
+      "A": "The Original Cast",
+      "B": "The Developers",
+      "C": "Other Voice Actors",
+      "D": "Alone"
+    }
+  },
+  {
+    "question": "Who is Phil in relation to Life is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "A Developer",
+      "B": "A Voice Actor",
+      "C": "A Voice Director",
+      "D": "A Fan"
+    }
+  },
+  {
+    "question": "What was Hailey Hayes' favorite moment when voicing Samantha?",
+    "answer": "A",
+    "choices": {
+      "A": "\"You shut the fuck up\" line",
+      "B": "\"You should be ashamed\" line",
+      "C": "Meeting the original cast",
+      "D": "Recording alone"
+    }
+  },
+  {
+    "question": "What game was Hailey Hayes playing at the time of the AMA?",
+    "answer": "D",
+    "choices": {
+      "A": "South Park: The Fractured But Whole",
+      "B": "Heavy Rain",
+      "C": "Inside",
+      "D": "All of the above"
+    }
+  },
+  {
+    "question": "What character would Hailey Hayes like to see in the new season of Life is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "Max Caulfield",
+      "B": "Chloe Price",
+      "C": "Captain Spirit",
+      "D": "Rachel Amber"
+    }
+  }
+]

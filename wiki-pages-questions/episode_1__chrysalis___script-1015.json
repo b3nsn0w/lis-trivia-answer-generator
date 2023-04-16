@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Club Does Hayden Represent?",
+    "answer": "C",
+    "choices": {
+      "A": "Photography Club",
+      "B": "Science Club",
+      "C": "Vortex Club",
+      "D": "Chess Club"
+    }
+  },
+  {
+    "question": "What Does Hayden Say About The Vortex Club's Reputation?",
+    "answer": "B",
+    "choices": {
+      "A": "It's A Secret Society",
+      "B": "It's A Group Of Elitists",
+      "C": "It's A Group Of Partiers",
+      "D": "It's A Group Of Nerds"
+    }
+  },
+  {
+    "question": "What Does Hayden Say About Rachel Amber?",
+    "answer": "B",
+    "choices": {
+      "A": "She Was A Member Of The Vortex Club",
+      "B": "She Was Too Cool For The Vortex Club",
+      "C": "She Was The Leader Of The Vortex Club",
+      "D": "She Was Never Mentioned In The Vortex Club"
+    }
+  },
+  {
+    "question": "What Does Hayden Say About Nathan Prescott?",
+    "answer": "A",
+    "choices": {
+      "A": "He Is A Fun Guy To Hang With",
+      "B": "He Is A Rich Kid",
+      "C": "He Is Unstable",
+      "D": "He Is Hated By Everyone"
+    }
+  },
+  {
+    "question": "What Does Max Say About Hanging Out With The Vortex Club?",
+    "answer": "C",
+    "choices": {
+      "A": "She Is Interested In Hanging Out With Them",
+      "B": "She Thinks It's A Set-Up For A Prank",
+      "C": "She Is Not Interested In Hanging Out With Them",
+      "D": "She Is Scared To Hang Out With Them"
+    }
+  }
+]

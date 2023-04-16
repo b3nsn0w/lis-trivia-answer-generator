@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Name Of The Achievement Awarded For Taking The First Optional Photo In Kate's Room?",
+    "answer": "A",
+    "choices": {
+      "A": "Field of View",
+      "B": "Full Exposure",
+      "C": "Processor",
+      "D": "Image Stabilizer"
+    }
+  },
+  {
+    "question": "Where Is The Location Of The Two Whales Diner Photo?",
+    "answer": "B",
+    "choices": {
+      "A": "In Kate's Room",
+      "B": "At The Far Side Of The Dormitory Grounds",
+      "C": "In The American Rust Junkyard",
+      "D": "In Jefferson's Classroom"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Achievement Awarded For Taking The Photo Of Warren's Chemistry Experiment?",
+    "answer": "B",
+    "choices": {
+      "A": "Field of View",
+      "B": "Meter Made",
+      "C": "Processor",
+      "D": "Dynamic Range"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Achievement Awarded For Taking All The Photographs In Episode Two?",
+    "answer": "C",
+    "choices": {
+      "A": "Field of View",
+      "B": "Full Exposure",
+      "C": "Lab Master",
+      "D": "Resolution Revolution"
+    }
+  }
+]

@@ -1,0 +1,54 @@
+Here is a section of the wiki page for Mrs. Marsh:
+
+#  Mrs. Marsh 
+
+```yaml
+Character
+
+hair: Blonde
+gender: Female
+relatives: >-
+  [Kate Marsh](kate_marsh.md) (daughter), [Lynn Marsh](lynn_marsh.md)
+  (daughter), Unnamed daughter, [Auntie Marsh](auntie_marsh.md) (sister-in-law)
+loveinterest: '[Richard Marsh](richard_marsh.md) (husband)'
+image: Mrs. Marsh.jpg
+appearance: '[Episode 2: Out of Time](episode_2__out_of_time.md)'
+```
+
+> We hope you haven't brought shame on you or our family.
+
+**Mrs. Marsh to [Kate Marsh**, Kate](kate_marsh____kate.md) via email in "[Episode 2: Out of Time, Out of Time](episode_2__out_of_time__out_of_time.md)"
+
+**Mrs. Marsh** is the mother of [Kate Marsh](kate_marsh.md) and [Lynn Marsh](lynn_marsh.md) and the wife of [Richard Marsh](richard_marsh.md), a church preacher. The Marshes are a very devoted and Christian conservative family.
+
+##  Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+Sometime in the new school year of 2013, Kate decided to attend a [Vortex Club](vortex_club.md) party against her better judgement and became intoxicated. She was completely unaware of her actions that night until a video was uploaded to the Internet which quickly went viral, especially around the students of [Blackwell Academy](blackwell_academy.md), causing [Ray Wells](principal_wells.md) to make Kate's parents aware of the matter.
+
+In response to this, Kate received the following email from her mother:
+
+{{Bigquote
+|Re: Call us.
+
+Kate, Your father and I just received a rather disturbing call from Principal Wells about you and some party video. Our concerns about sending you to Blackwell seem justified.
+
+Please call us after your classes this evening so we can fully discuss this matter. We hope you haven't brought shame on you or our family.
+
+We'll pray for you and expect you to pray for forgiveness.
+
+Your mother.
+}}
+
+On October 8th, when [Maxine Caulfield](max_caulfield.md) enters Kate's dorm room to return a book to her, she sees the email from Kate's mother and comes to the conclusion that Kate is dealing with her problems alone and lacks parental support.
+
+Later, in complete shame and desperation, Kate jumps from the roof of the [Prescott Dormitory](dormitory.md) in a suicide attempt. Max is able to use her [Rewind](rewind_power.md) so that she can rush to the rooftop and try to save Kate. If Max mentions to Kate that her mother doesn't care about a video and would be destroyed, this backfires, as Kate responds to Max with, ''"You don't know my mother. At all. She already thinks Satan has me on the fast-track to Hell."'' Kate will then jump off the roof before Max can do anything to stop her.
+
+Kate's father is the only adult in her family who she thinks truly cares about her and believes in her.
+
+##  Trivia 
+* Mentioning Kate's mother on the roof of the dormitory will contribute toward Kate's suicide, but mentioning Kate's sisters or her father can contribute towards saving her.
+
+{{Character Navbox}}
+
+
+
+Generate five trivia questions relevant to this section of the page.

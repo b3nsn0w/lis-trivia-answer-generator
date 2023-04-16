@@ -1,0 +1,78 @@
+= Sean Prescott =
+
+{{Free Tab
+|minwidth = 47%
+|maxwidth = 100%
+|borderradius = 2
+|height = 2
+|tab1=Life is Strange |link1=Sean Prescott
+|tab2=Before the Storm |link2=Sean Prescott (Before the Storm)
+}}
+{{Introquote|Oh man, Sean Prescott might be Nathan's real problem...|[[Maxine Caulfield|Max]]'s comment in "[[Episode 4: Dark Room|Dark Room]]"}}
+{{Infobox Character
+|name = Sean Prescott
+|image = Sean-Prescott.png
+|gender = Male
+|hair = Brown <small>(graying)</small>
+|relatives = [[Nathan Prescott]] <small>(son)</small>, [[Kristine Prescott]] <small>(daughter)</small>, [[Mrs. Prescott]] <small>(wife)</small>, [[Harry Aaron Prescott]] <small>(relative)</small>
+|appearance = [[Episode 3: Chaos Theory]] <small>(mentioned)</small><br>[[Episode 4: Dark Room]]
+|died=October 11, 2013 <small>(presumed, determinant)</small>|causeofdeath=Killed by the [[storm]] <small>(presumed, determinant)</small>}}
+
+'''Sean Prescott''' is a powerful businessman in [[Arcadia Bay]] and the father of [[Nathan Prescott]] and [[Kristine Prescott]]. Although he is married, [[Mrs. Prescott|his wife]] is never mentioned by her first name in [[Life is Strange]].<ref group="note">Mrs. Prescott's first name, Caroline, is revealed in [[Episode 1: Awake|Episode 1]] of ''[[Life is Strange: Before the Storm]]'' on a computer in the [[Drama Lab]]. She has contributed in some way (most likely monetarily) to the school play ''[[The Tempest]]''.</ref>
+
+== Overview ==
+He is the owner of the [[Prescott Foundation]], which makes many donations to various funds around [[Arcadia Bay]]. He is also the co-owner of [[Blackwell Academy]] and donated money in order to own the [[Prescott Dormitory]] on campus.
+
+== Episode Three - "[[Episode 3: Chaos Theory|Chaos Theory]]" ==
+A scan of a letter from Sean Prescott to Principal Wells along with a reply can be seen on [[Principal Wells' Computer|the principal's computer]]. On the table, there is a letter inquiring why Principal Wells removed the [[Prescott Family|Prescott family]] crest from Blackwell. If Nathan was suspended in Episode 2, this letter will be replaced by a different one, in which Sean Prescott threatens to cancel financial aid to Blackwell Academy unless Nathan's suspension is lifted.
+
+== Episode Four - "[[Episode 4: Dark Room|Dark Room]]" ==
+A thank-you note from Sean to [[David Madsen]] can be found in [[David's Garage|David's garage]], thanking him for his help with Nathan. If Max sided with David in Episode 3, she can ask David for more information regarding this note, to which David will reply that he "gave Sean Prescott an estimate."
+
+The photo of a young Nathan with his father can be seen in Nathan's [[Nathan's Room|dorm room]]. There is also an email from Sean to Nathan visible on [[Nathan's Computer|Nathan's computer]] and a "Best Son Diploma" hanging in the corner.
+
+Max can ask several people at the [[End of the World Party]] about what they think of Sean Prescott. [[Luke Parker]] says that he once met Sean on a [[Bigfoots]] game. He speaks of Sean as being a "mean fucking bastard" and adds that he "explains Nathan."
+
+== Episode Five - "[[Episode 5: Polarized|Polarized]]" ==
+In the [[Timelines (Life is Strange)#San Francisco Timeline|San Francisco timeline]], an article in [[The Independent]] states that the police acted on a series of tips from David Madsen which led to them discovering the [[Dark Room (Location)|Dark Room]], which causes Sean to be under investigation for owning the [[barn]].
+
+In the Sacrifice Arcadia Bay ending, it is possible that he may have died in the storm like most of the Arcadia Bay residents.
+
+== Relationships ==
+=== Family ===
+*[[Nathan Prescott]] - Sean seems to have a very strained relationship with his son, sending him discouraging messages and emails. Sean obviously sees his son's emotional problems as an unnecessary burden and is incapable of dealing with them. He suggests contacting [[Dr. Bill]] in order to fix Nathan's problems. He and his wife do not seem to care about the advice of Nathan's long-term [[Dr. Jacoby|therapist]].
+*[[Kristine Prescott]] - Sean and his daughter Kristine also have a strained relationship; Kristine calls her father "a bully who inherited power not wisdom" and encourages Nathan to either ignore or fight against him. She also says that the reason for her moving so far away was her father.
+
+=== Friends ===
+*[[Mark Jefferson]] -
+
+=== Enemies ===
+*[[Maxine Caulfield|Max Caulfield]] '''(Determinant)''' - If Max reports Nathan to Principal Wells, Sean will send a threatening message to her saying that she should "keep her mouth shut".
+*Other Arcadia Bay citizens - The citizens of Arcadia Bay are well aware of Sean's greedy nature and shady acts. He has put a lot of people out of work, including the [[Homeless Lady]] and the [[R.J. MacReady|fisherman]].
+
+== Theories ==
+* It is possible that Sean does not know about the true purpose of the Dark Room. However, this is unlikely. The vast amount of money he spent creating the bunker gives the impression that it has a higher purpose. The notion that the [[:Category:Prescott Family|Prescott family]] knew about the oncoming weather-related trauma is possible. If they knew, it would make sense that they would begin a "Storm shelter Boom", and have the bunker ready for the upcoming emergency situation.
+* One theory was that Sean is actually an alias of Mr. Jefferson. However, this has been disproved by [[Luke Parker]]'s comments about him meeting Sean in person: ''"I met him once at a Bigfoots game...mean fucking bastard. Oh, man, he explains Nathan."'' Due to Luke knowing both him and Jefferson, it becomes clear that they are two different people.
+
+== Notes ==
+<references group="note"/>
+{{Character Navbox}}
+
+[[de:Sean Prescott]]
+[[es:Sean Prescott]]
+[[pl:Sean Prescott]]
+[[pt-br:Sean Prescott]]
+[[ru:Шон Прескотт]]
+[[Category:Characters]]
+[[Category:Characters (Life is Strange)]]
+[[Category:Male Characters]]
+[[Category:Prescott Family]]
+[[Category:Episode 3: Chaos Theory Characters]]
+[[Category:Episode 4: Dark Room Characters]]
+[[Category:Dark Room Conspiracy]]
+[[Category:Antagonists]]
+[[Category:Minor Characters (Life is Strange)]]
+[[Category:Male Characters (Life is Strange)]]
+[[Category:Minor Characters]]
+[[Category:Mentioned Characters]]
+[[Category:Life is Strange]]

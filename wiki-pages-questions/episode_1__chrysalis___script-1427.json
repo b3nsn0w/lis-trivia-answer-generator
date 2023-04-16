@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Follow To The Top Of The Hill During Her Nightmare?",
+    "answer": "A",
+    "choices": {
+      "A": "A Ghost Doe",
+      "B": "A Shadow Figure",
+      "C": "A Mysterious Light",
+      "D": "A Strange Sound"
+    }
+  },
+  {
+    "question": "What Does Max Discover About The Town In Her Vision?",
+    "answer": "B",
+    "choices": {
+      "A": "It Will Be Hit By A Hurricane",
+      "B": "It Will Be Hit By A Tornado",
+      "C": "It Will Be Hit By An Earthquake",
+      "D": "It Will Be Hit By A Tsunami"
+    }
+  },
+  {
+    "question": "What Does Chloe Suggest Max Do To Calm Down?",
+    "answer": "C",
+    "choices": {
+      "A": "Take A Walk",
+      "B": "Take A Nap",
+      "C": "Get High",
+      "D": "Call A Friend"
+    }
+  },
+  {
+    "question": "What Does Victoria Do With Rachel's Missing Poster?",
+    "answer": "A",
+    "choices": {
+      "A": "She Rips It Off The Display Board",
+      "B": "She Takes It Down And Keeps It",
+      "C": "She Adds Her Own Message To It",
+      "D": "She Ignores It Completely"
+    }
+  },
+  {
+    "question": "What Is David Doing When He Notices The Falling Snow?",
+    "answer": "A",
+    "choices": {
+      "A": "Fixing A Surveillance Camera",
+      "B": "Cooking Dinner",
+      "C": "Watching TV",
+      "D": "Sleeping"
+    }
+  }
+]

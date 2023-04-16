@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What Is Justin's Opinion Of Nathan?",
+    "answer": "B",
+    "choices": {
+      "A": "He Thinks Nathan Is Cool",
+      "B": "He Thinks Nathan Is Going To Go On A Rampage",
+      "C": "He Thinks Nathan Is A Snobby Douchebag",
+      "D": "He Thinks Nathan Is A VIP Gatekeeper"
+    }
+  },
+  {
+    "question": "Who Is The VIP Gatekeeper For The Vortex Club?",
+    "answer": "B",
+    "choices": {
+      "A": "Sarah",
+      "B": "Courtney",
+      "C": "Victoria",
+      "D": "Nathan"
+    }
+  },
+  {
+    "question": "Why Does Sarah Refuse To Let Max Into The VIP Section?",
+    "answer": "C",
+    "choices": {
+      "A": "Max Is Not A Member Of The Vortex Club",
+      "B": "Max Is Too Intoxicated",
+      "C": "Victoria Specifically Told Her Not To Let Max In",
+      "D": "Max Insults Her"
+    }
+  }
+]

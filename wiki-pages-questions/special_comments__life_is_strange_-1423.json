@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Want To Retrieve From Her Dorm Room?",
+    "answer": "A",
+    "choices": {
+      "A": "A Flash Drive",
+      "B": "A Book",
+      "C": "A Camera",
+      "D": "A Phone"
+    }
+  },
+  {
+    "question": "What Does Max Say About Nathan Prescott After Busting Him?",
+    "answer": "A",
+    "choices": {
+      "A": "He Is Scary",
+      "B": "He Is Harmless",
+      "C": "He Is Misunderstood",
+      "D": "He Is A Victim"
+    }
+  },
+  {
+    "question": "What Does Max Say About The Energy On Blackwell Campus?",
+    "answer": "D",
+    "choices": {
+      "A": "It Is Calming",
+      "B": "It Is Chaotic",
+      "C": "It Is Energetic",
+      "D": "It Is Primordial"
+    }
+  },
+  {
+    "question": "What Does Max Say About Chloe's Room In The Alternative Timeline?",
+    "answer": "D",
+    "choices": {
+      "A": "It Is A Disaster Area",
+      "B": "It Is Clean And Tidy",
+      "C": "It Is Full Of Life",
+      "D": "It Is Stuck In Time"
+    }
+  },
+  {
+    "question": "What Does Max Say About The Weeds And Plants In The Lighthouse Area?",
+    "answer": "D",
+    "choices": {
+      "A": "They Are Controlled",
+      "B": "They Are Beautiful",
+      "C": "They Are Annoying",
+      "D": "They Are Wild"
+    }
+  }
+]

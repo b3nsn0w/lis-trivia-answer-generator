@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is Feral Interactive's Mission Statement?",
+    "answer": "A",
+    "choices": {
+      "A": "To Bring Great Games To The Mac",
+      "B": "To Develop Video Games",
+      "C": "To Create Gaming Consoles",
+      "D": "To Produce Gaming Accessories"
+    }
+  },
+  {
+    "question": "What Is Feral Interactive Known For?",
+    "answer": "C",
+    "choices": {
+      "A": "Developing Video Games",
+      "B": "Creating Gaming Consoles",
+      "C": "Porting PC and Console Games to Other Platforms",
+      "D": "Producing Gaming Accessories"
+    }
+  },
+  {
+    "question": "Which Life is Strange Game Is Currently Listed As \"Coming Soon\" On Feral Interactive's Website?",
+    "answer": "C",
+    "choices": {
+      "A": "Life is Strange",
+      "B": "Life is Strange: Before the Storm",
+      "C": "Life is Strange 2",
+      "D": "Life is Strange: True Colors"
+    }
+  },
+  {
+    "question": "Who Are The Key People Listed On Wikipedia For Feral Interactive?",
+    "answer": "A",
+    "choices": {
+      "A": "David Stephen, Ian Bullock, Edwin Smith, Andrew Wood",
+      "B": "John Smith, Jane Doe, Bob Johnson, Sarah Lee",
+      "C": "Michael Brown, Emily Davis, James Wilson, Samantha Green",
+      "D": "Tom Jones, Lisa Thompson, Richard Parker, Emma White"
+    }
+  }
+]

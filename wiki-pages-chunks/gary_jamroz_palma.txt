@@ -1,0 +1,54 @@
+Here is a section of the wiki page for Gary Jamroz-Palma:
+
+#  Gary Jamroz-Palma 
+
+```yaml
+Crew
+
+title: Gary Jamroz-Palma
+profession: Concept Artist
+age: '33'
+born: January 28, 1984
+image: Gary Jamroz-Palma.jpg
+active: '2008'
+companies: '[DONTNOD](dontnod.md) (since 2009)'
+```
+
+**Gary Jamroz-Palma** (born January 28, 1984) is a French senior freelance concept artist and illustrator active since 2008, working at [Don't Nod](dontnod_entertainment.md) since 2009.
+
+He has created concept arts for all video game projects DONTNOD has worked on including *Remember Me* (2009), *[Life is Strange](life_is_strange.md)* (2013) and was Senior Concept Artist along with [Florent Auguy](florent_auguy.md) for *Vampyr* (2015). He is currently working on the [Season 2](second_season.md) of *Life is Strange*.
+
+##  Concept Art 
+###  Life is Strange 
+
+Blackwell Academy Concept Art by Gary Jamroz Palma.jpg|"Avendell High School" - early concept of [Blackwell Academy](blackwell_academy.md) from January 2013.
+Blackwell Academy Concept Art 2 by Gary Jamroz-Palma.jpg|Blackwell Academy Hall from January, 2014.
+Blackwell Academy Concept Art 3 by Gary Jamroz-Palma.jpg|Blackwell Academy Corridor from January, 2014.
+Science Classroom Concept Art by Gary Jamroz-Palma.jpg|[Science Lab](science_lab.md)
+Blackwell Academy Pool Entrance Concept Art by Gary Jamroz-Palma.jpg|[Blackwell Swimming Pool](blackwell_swimming_pool.md) Entrance
+Blackwell Academy Pool Corridor Concept Art by Gary Jamroz-Palma.jpg|Blackwell Swimming Pool Corridor in "[Episode 3: Chaos Theory](chaos_theory.md)"
+Blackwell Pool Lockers Room Concept Art by Gary Jamroz-Palma.jpg|Blackwell Swimming Pool Lockers Room in "Chaos Theory"
+Blackwell Pool Showers Concept Art by Gary Jamroz-Palma.jpg|Blackwell Swimming Pool Showers in "Chaos Theory"
+Blackwell Pool Office Concept Art by Gary Jamroz-Palma.jpg|Blackwell Swimming Pool Office in "Chaos Theory"
+Blackwell Pool Concept Art by Gary Jamroz-Palma.jpg|Blackwell Swimming Pool at Night in "Chaos Theory"
+Blackwell Pool Unlit Concept Art by Gary Jamroz-Palma.jpg|Blackwell Swimming Pool Unlit in "Chaos Theory"
+Blackwell Pool Vortex Club Party Concept Art by Gary Jamroz-Palma.jpg|[End of the World Party](vortex_club_party.md) at the Swimming Pool in "[Episode 4: Dark Room](dark_room.md)"
+garyjamrozpalma-conceptart-darkroomentrance.jpg|[Dark Room (Location)](dark_room.md) entrance
+garyjamrozpalma-conceptart-darkroomblack.jpg|Dark Room (variant 1)
+garyjamrozpalma-conceptart-darkroomwhite.jpg|Dark Room (variant 2)
+garyjamrozpalma-conceptart-darkroomloungeclosed.jpg|Dark Room lounge (variant 1)
+garyjamrozpalma-conceptart-darkroomloungeopen.jpg|Dark room lounge (variant 2)
+Zeitgeist Gallery Concept Art by Gary Jamroz-Palma.jpg|[Zeitgeist Gallery](zeitgeist_gallery.md) in "[Episode 5: Polarized](polarized.md)"
+Hospital Room Concept Art by Gary Jamroz-Palma.jpg|[Hospital](hospital.md) Room (Unused [Hospital Ending](hospital_ending.md))
+
+# ## Trivia 
+[File:Daniel2.png](thumb.md)
+* [Daniel DaCosta](daniel_dacosta.md)'s entry for the [Everyday Heroes Photo Contest](everyday_heroes_photo_contest.md) in *Life is Strange* is actually of Gary Jamroz-Palma working at a desk inside DONTNOD's studio. This finding was [https://twitter.com/cuddlecuffs/status/1099165180418842625 confirmed] by Writer [Michel Koch](michel_koch.md) on Twitter.
+
+##  Interviews 
+* [https://www.youtube.com/watch?vLVpKbYOPHzI Masterclass Photoshop avec Gary Jamroz-Palma : Concept Art | Adobe France] (September 16, 2016)
+* [http://www.iamag.co/features/interview-with-senior-concept-artist-gary-jamroz-palma/ Interview with Senior Concept Artist, Gary Jamroz-Palma]
+
+
+
+Generate five trivia questions relevant to this section of the page.

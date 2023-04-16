@@ -1,0 +1,97 @@
+Here is a section of the wiki page for Episode 3: Chaos Theory - Script:
+
+phone)
+
+''If Max rewinds and unplugs the home phone, William's cell phone rings.''
+
+**William:** Hey, honey! I have no idea why the home phone didn't ring just now. I'm just making a fabulous breakfast with Chloe and Max. We're all going to work at the Two Whales... What? Oh, I didn't know you had to get groceries. Of course I'll come pick you up. Now I'll have an excuse to get a mocha. Be there shortly. Love you.
+
+*William hangs up.*
+
+**Max:** *(thinking, first time only)* I have to stop William from taking his car today.
+
+**William:** Excuse me, ladies, I have to go rescue yonder queen at the Sav-Mart. She doth have many bags of delicious grub for us to feast upon.
+
+**Chloe:** You are ridiculous.
+
+**William:** *(laughs)* You'll be grateful for that someday. Shit, where are my keys?
+
+*William searches around the room.*
+
+**Chloe:** That's a dollar for the swear jar!
+
+**William:** You mean your college fund! Keys, please...
+
+(Max has not taken the keys)(Max has not taken the keys)
+
+*William finds the keys under a hat on the coffee table.*
+
+**William:** Aha! You can't hide from me forever! Now lock up after I leave, play nice, try not to destroy too much of the house.
+
+{{S1 E3 William Leaves}}
+
+|-|(Max took the keys)# (Max took the keys)
+
+*Max takes the keys from under the hat.*
+
+**Max:** *(thinking)* Score!
+
+*She can now hide them in several different places as William continues the search.*
+
+**William:** Shit, where are those keys?
+
+**Chloe:** Another dollar for the swear jar!
+
+**William:** You're bankrupting me!
+
+*William pulls out a beeper to locate his keys.*
+
+{{#tag:tabber|(Max doesn't hide them)(Max doesn't hide them)*If Max has not hidden the keys by the time William activates the beeper, the beeper will reveal that Max has the keys.*
+
+**William:** Max, this is not the best time for a prank. Keys, please.
+
+**Max:** Uh, I was just—um, are you sure Joyce is ready? Uh, let's just—let's just wait... I, um... Sorry. Here...
+
+*Max hands the keys to William.*
+
+**William:** I'll get you back someday.
+
+{{S1 E3 William Leaves}}
+
+{{!}}-{{!}}(Max hides them unsuccessfully)# (Max hides them unsuccessfully)''If Max hides them anywhere but out the window, in the sink, or out the back door, the beeper will sound, revealing to William the keys' location.*
+
+**William:** *(holding keys in his hand)* I knew this thing would come in handy... How did my keys get in here?
+
+{{S1 E3 William Leaves}}
+
+{{!}}-{{!}}(Max hides them successfully)(Max hides them successfully)*If Max hides them out the window, in the kitchen sink, or out the back door, the following cutscene will play immediately.*
+
+*William takes the beeper out of his pocket and clicks the button on his beeper in several different directions. The tag on the keys doesn't respond to any of those clicks.*
+
+**William:** I know I had those keys right here... I know it... Forgot all about you, little buddy... Release the keys! Of course. Last time I order from [SpyGuy](spyguy.md) Electronics...
+
+*Max approaches him.''
+
+**Max:** You can take the bus, right? The stop is right down the street!
+
+**William:** This I can do. Good call, Max.
+
+**Max:** Oh, yeah, the bus is great! It comes every 15 minutes and there'll be plenty of room for you and Joyce and groceries and it'll save the environment...
+
+*Chloe walks out of the kitchen.*
+
+**William:** You sold me already. I'm off to yonder bus stop. Joyce will love this.
+
+*William waves goodbye and leaves the house.*
+
+**Chloe:** Max, you are being so fucking strange. You feel okay?
+
+''Max holds Chloe's hands and jumps up and down.*
+
+**Max:** Chloe, I am...awesome! We are awesome!
+
+*A timestream montage occurs. William's funeral is replaced with the Prices at a carnival. Chloe wearing a backpack is replaced by Chloe and William taking a selfie. David and Joyce's wedding is replaced with William and Joyce celebrating their anniversary. Chloe arguing with David on her birthday is replaced by Chloe receiving a car on her birthday.*
+
+}} 
+
+Generate five trivia questions relevant to this section of the page.

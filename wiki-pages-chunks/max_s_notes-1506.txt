@@ -1,0 +1,83 @@
+Here is a section of the wiki page for Max's Notes:
+
+vertical-align:top"|Look[File:note4-invF2-clientpagefive.png](220px.md)
+|-|Read# [File:note4-invF2-clientpagefive2.png](220px.md)
+|-
+|'''Page #6 from Frank's account book.'''
+Location: Second series of Frank's clues in the investigation puzzle.
+Max's comments: I wonder what dog name Frank would have given me.
+|style"height:186px; vertical-align:top"|Look# [File:note4-invF2-clientpagesix.png](220px.md)
+|-|Read[File:note4-invF2-clientpagesix2.png](220px.md)
+|-
+|**Disciplinary Warning Report.**
+Location: First series of Nathan's clues in the investigation puzzle.
+Max's comments: So busted! It's good to see the Prescotts can't cover up all their tracks…
+|style# "height:186px; vertical-align:top"|Look[File:note4-invN1-disciplinaryreport.png](220px.md)
+|-|Read# [File:note4-invN1-disciplinaryreport2.png](220px.md)
+|-
+|'''Nathan's drawing.'''
+Location: First series of Nathan's clues in the investigation puzzle.
+Max's comments: If there is a "Dark Room," we better find it. Good thing Chloe slipped all these files on her flash drive.
+|style"height:186px; vertical-align:top"|Look# [File:note4-invN1-drawing.png](220px.md)
+|-|Read[File:note4-invN1-drawing2.png](220px.md)
+|-
+|'''Nathan's phone with screen off.'''
+Location: First series of Nathan's clues in the investigation puzzle.
+Max's comments: Oh, there has got to be some good shit in his phone... I just need the code to unlock it.
+|style# "height:186px; vertical-align:top"|Look[File:note4-invN1-nathanphoneoff.png](220px.md)
+|-|Read# None
+|-
+|'''Nathan's student file.'''
+Location: First series of Nathan's clues in the investigation puzzle.
+Max's comments: There’s a lot of numbers in here.
+|style"height:186px; vertical-align:top"|Look# [File:note4-invN1-nathanstudentfile.png](220px.md)
+|-|Read[File:note4-invN1-nathanstudentfile2.png](220px.md)
+|-
+|**Piece of paper with numbers.**
+Location: First series of Nathan's clues in the investigation puzzle.
+Max's comments:
+|style# "height:186px; vertical-align:top"|Look[File:note4-invN1-numbers.png](220px.md)
+|-|Read# [File:note4-invN1-numbers2.png](220px.md)
+|-
+|'''Nathan's SIM card.'''
+Location: First series of Nathan's clues in the investigation puzzle.
+Max's comments: Couldn't hurt to give this PIN code a whack...
+|style"height:186px; vertical-align:top"|Look# [File:note4-invN1-simplastic.png](220px.md)
+|-|Read[File:note4-invN1-simplastic2.png](220px.md)
+|-
+|**Vortex Club party flyer.**
+Location: First series of Nathan's clues in the investigation puzzle.
+Max's comments: This is the Vortex Club party where Nathan drugged Kate. Did he do the same thing to Rachel at another party?
+|style# "height:186px; vertical-align:top"|Look[File:note4-invN1-vortexpartyflyer.png](220px.md)
+|-|Read# [File:note4-invN1-vortexpartyflyer2.png](220px.md)
+|-
+|'''Nathan's phone with locked screen.'''
+Location: Second series of Nathan's clues in the investigation puzzle.
+Max's comments: None
+|style"height:186px; vertical-align:top"|Look# [File:note4-invN2-nathanphonelocked.png](220px.md)
+|-|ReadNone
+|-
+|'''Nathan's phone with unlocked screen.'''
+Location: Second series of Nathan's clues in the investigation puzzle.
+Max's comments: None
+|style# "height:186px; vertical-align:top"|Look[File:note4-invN2-nathanphoneunlocked.png](220px.md)
+|-|Read# None
+|-
+|**SMS chat between Nathan and Frank.**
+Location: Second series of Nathan's clues in the investigation puzzle.
+Max's comments: None
+|style"height:186px; vertical-align:top"|Look# [File:note4-invN2-nathansmsone.png](220px.md)
+|-|Read[File:note4-invN2-nathansmsone2.png](220px.md)
+|-
+|**SMS chat between Nathan and Frank #2.**
+Location: Second series of Nathan's clues in the investigation puzzle.
+Max's comments: Yes, this is all about Nathan trying to score for the Vortex Club party…
+|style# "height:186px; vertical-align:top"|Look[File:note4-invN2-nathansmstwo.png](220px.md)
+|-|Read# [File:note4-invN2-nathansmstwo2.png](220px.md)
+|-
+|**SMS chat between Nathan and Frank #3.**
+Location: Second series of Nathan's clues in the investigation puzzle.
+Max's comments: Nathan was jonesing hard the night of the party... He didn’t have enough drugs?
+|style"height:186px; vertical-align:top"|Look# 
+
+Generate five trivia questions relevant to this section of the page.

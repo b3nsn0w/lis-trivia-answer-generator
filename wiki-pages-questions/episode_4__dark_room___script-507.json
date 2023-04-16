@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What does Dana think of the Vortex Club?",
+    "answer": "B",
+    "choices": {
+      "A": "She thinks it's a fun group to be a part of",
+      "B": "She thinks it's a cult",
+      "C": "She thinks it's a great way to make friends",
+      "D": "She thinks it's a waste of time"
+    }
+  },
+  {
+    "question": "What does Max ask Dana about Nathan?",
+    "answer": "A",
+    "choices": {
+      "A": "If she's seen him around",
+      "B": "If she wants to date him",
+      "C": "If she knows where he lives",
+      "D": "If she wants to join the Vortex Club with him"
+    }
+  },
+  {
+    "question": "Who does Dana prefer to hang out with instead of the Vortex Club?",
+    "answer": "B",
+    "choices": {
+      "A": "Max and her friends",
+      "B": "Trevor and his skater friends",
+      "C": "Nathan and his family",
+      "D": "Logan and his friends"
+    }
+  },
+  {
+    "question": "What does Dana think of Sean Prescott?",
+    "answer": "D",
+    "choices": {
+      "A": "She thinks he's a great father",
+      "B": "She thinks he's poor",
+      "C": "She thinks he's a nice guy",
+      "D": "She thinks he's a dickhead"
+    }
+  }
+]

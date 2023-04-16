@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the name of the lead environment artist at DONTNOD referenced throughout Life is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "Johan Foissy",
+      "B": "Christian Divine",
+      "C": "Amaury Balandier",
+      "D": "Edouard Caplain"
+    }
+  },
+  {
+    "question": "What is the name of the football team at Blackwell Academy?",
+    "answer": "A",
+    "choices": {
+      "A": "Bigfoots",
+      "B": "Sasquatches",
+      "C": "Yetis",
+      "D": "Abominable Snowmen"
+    }
+  },
+  {
+    "question": "In which episode of Life is Strange does Max have to find five bottles for Chloe?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode 1",
+      "B": "Episode 2",
+      "C": "Episode 3",
+      "D": "Episode 4"
+    }
+  },
+  {
+    "question": "What does Max say after finding all the bottles in the nightmare maze section in Episode 5?",
+    "answer": "B",
+    "choices": {
+      "A": "\"I need a drink after all that.\"",
+      "B": "\"I need proof that bottles were out to get me, just in case...\"",
+      "C": "\"I never want to see another bottle again.\"",
+      "D": "\"I can't believe I did that again.\""
+    }
+  }
+]

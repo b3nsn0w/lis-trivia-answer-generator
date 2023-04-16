@@ -1,0 +1,111 @@
+Here is a section of the wiki page for Episode 2: Out of Time - Script:
+
+security officer?
+
+{{#tag:tabber|Took photoTook photo**Max:** Except I have proof.
+
+*Max puts the photo on the desk.*
+
+**Max:** Here's a photo I took of David and Kate yesterday.
+
+**David:** That's not—not proof.
+
+**Principal Wells:** Hold on, this isn't a courtroom. But I feel it would be in the best interest of Blackwell and this situation to put you on temporary leave... We will continue this conversation later.
+
+{{#tag:tabber|Saved Kate# Saved Kate**Principal Wells:** Hopefully with Miss Marsh when she's out of the hospital.
+
+{{!}}-{{!}}Couldn't save KateCouldn't save Kate**Principal Wells:** When the police finish their own investigation.
+
+}}
+
+**David:** Are you fucking kidding me? This is major bullshit! I led troops into battle and you're letting this punk lead you?
+
+**Principal Wells:** No. I am sorry, David...
+
+{{!}}-{{!}}Intervened# Intervened**Max:** And he should take the word of somebody who harasses students?
+
+**Principal Wells:** Max, I'm afraid this won't be solved here without proof and a thorough investigation. Now, if you have anything else to say...
+
+}}
+
+{{!}}-{{!}}Took the blame/Came out to interveneTook the blame/Came out to intervene**David:** Are you going to take this junkie's word over your security officer? I know she smokes and deals... marijuana.
+
+**Max:** What? That has nothing to do with Kate!
+
+{{#tag:tabber|Took photo# Took photo*Max puts the photo on the desk.*
+
+**Max:** Here's a photo I took of David and Kate yesterday.
+
+**David:** That's not—not proof.
+
+**Principal Wells:** Hold on, this isn't a courtroom. But I feel it would be in the best interest of Blackwell and this situation to put you on temporary leave... We will continue this conversation later.
+
+{{#tag:tabber|Saved KateSaved Kate**Principal Wells:** Hopefully with Miss Marsh when she's out of the hospital.
+
+{{!}}-{{!}}Couldn't save Kate# Couldn't save Kate**Principal Wells:** When the police finish their own investigation.
+
+}}
+
+**David:** Are you fucking kidding me? This is major bullshit! I led troops into battle and you're letting this punk lead you?
+
+**Principal Wells:** No. I am sorry, David...
+
+{{!}}-{{!}}IntervenedIntervened
+{{#tag:tabber|Reported Nathan# Reported Nathan**Principal Wells:** Max, falsely accusing other people seems to be a habit with you... I trust my security officer. I'll have to investigate to see if this accusation is true. Therefore Max, I'm obliged to contact your parents and suspend you for a few days.
+
+{{!}}-{{!}}Hid the truthHid the truth**Principal Wells:** Max, I'm afraid this won't be solved here without proof and a thorough investigation. Now, if you have anything else to say...
+}}
+
+}}
+
+}}
+
+**Jefferson:** Excuse me, I think Max and Nathan need a break before we grill them further.
+
+{{#tag:tabber|Saved Kate# Saved Kate**Jefferson:** A friend and student just tried to kill herself... They don't need this forum right now.
+
+{{!}}-{{!}}Couldn't save KateCouldn't save Kate**Jefferson:** A friend and fellow student is dead... They don't need this forum right now.
+
+}}
+
+**Nathan:** Yes, I'm kinda devastated right now. I'd like to be with my family.
+
+|-|JEFFERSON MADE HER CRY# JEFFERSON MADE HER CRY**Max:** I saw Mr. Jefferson talking to Kate right before our class... then she ran off crying...
+
+**Principal Wells:** Mark, I do know that Miss Marsh has assisted you on class events.
+
+**Jefferson:** Kate... Miss Marsh... has been very withdrawn lately. And I assume this awful video was the cause. I hated seeing the students laugh at her.
+
+{{#tag:tabber|Answered Kate's phone callAnswered Kate's phone call**Jefferson:** She told me Max was the only one who believed her, would take her calls and actually listen to her.
+
+{{!}}-{{!}}Ignored Kate's phone call# Ignored Kate's phone call**Jefferson:** She was upset Miss Caulfield didn't return her calls. She felt rejected by the school...
+
+}}
+
+**Nathan:** She shouldn't have asked to be on video macking with some dudes...
+
+**Max:** You ass. She didn't ask for any of this...
+
+**Jefferson:** No, on the contrary. Max was right to bring this up. Now, I wanted to help, but I guess I was too late...
+
+**Principal Wells:** Well now, this is problematic. The publicity is rising and perhaps... you shouldn't represent Blackwell at the "Everyday Heroes" contest in San Francisco...
+
+**Jefferson:** Are you serious?
+
+**Principal Wells:** I am. We don't need any negative press about that event. And we need to involve the Academy in possible disciplinarian measures for you.
+
+**Jefferson:** I understand. There are bigger things at stake than me. The life of a young girl for one...
+
+{{#tag:tabber|Told Jefferson about DavidTold Jefferson about David*David scoffs.*
+
+**Jefferson:** Maybe you should investigate other staff members? Max told me she knew things about Mr. Madsen...
+
+**Principal Wells:** Let Max speak for herself. Everything we talked about here will be looked into.
+
+}}
+
+*Principal Wells slides a document toward Max.*
+
+**Principal Wells:** All right, Miss Caulfield, please sign here to confirm what you've told us. I'll continue 
+
+Generate five trivia questions relevant to this section of the page.

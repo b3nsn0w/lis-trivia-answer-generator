@@ -1,0 +1,52 @@
+[
+  {
+    "question": "In which episode of Life is Strange does \"Crosses\" by José González appear?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "Who is the artist that recorded the audio for Max's guitar playing in \"Crosses\"?",
+    "answer": "B",
+    "choices": {
+      "A": "José González",
+      "B": "Syd Matters",
+      "C": "To All of You",
+      "D": "Obstacles"
+    }
+  },
+  {
+    "question": "Which album does \"Crosses\" by José González appear on?",
+    "answer": "A",
+    "choices": {
+      "A": "Veneer",
+      "B": "In Our Nature",
+      "C": "Vestiges & Claws",
+      "D": "Stay Alive"
+    }
+  },
+  {
+    "question": "What is the name of the diner that Max goes to in \"Out of Time\" where \"Crosses\" plays?",
+    "answer": "A",
+    "choices": {
+      "A": "Two Whales Diner",
+      "B": "Blackwell Diner",
+      "C": "Arcadia Bay Diner",
+      "D": "Blue Moon Diner"
+    }
+  },
+  {
+    "question": "What is the name of the episode in which \"Crosses\" is an optional track on Max's HiFi-system?",
+    "answer": "A",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  }
+]

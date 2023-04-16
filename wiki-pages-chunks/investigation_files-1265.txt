@@ -1,0 +1,88 @@
+Here is a section of the wiki page for Investigation Files:
+
+## Frank's Logbook 
+The 4th page and the 6th clue indicate Frank's drug delivery to Nathan.
+
+frankclues-logbookcover.png|Cover of Frank's logbook.
+frankclues-decoder.png|Code of Frank's logbook.
+frankclues-page1.png|Page #1 from Frank's logbook.
+frankclues-page2.png|Page #2 from Frank's logbook.
+frankclues-page3.png|Page #3 from Frank's logbook.
+frankclues-page4.png|Page #4 from Frank's logbook.
+frankclues-page5.png|Page #5 from Frank's logbook.
+frankclues-page6.png|Page #6 from Frank's logbook.
+frankclues-piece1.png|Piece #1 from Frank's logbook.
+frankclues-piece2.png|Piece #2 from Frank's logbook.
+frankclues-piece3.png|Piece #3 from Frank's logbook.
+frankclues-piece4.png|Piece #4 from Frank's logbook.
+frankclues-piece5.png|Piece #5 from Frank's logbook.
+frankclues-piece6.png|Piece #6 from Frank's logbook.
+frankclues-wellsnote.png|Note from Principal Wells' computer.
+rachel-frankrvfiles3.png|Photo of Rachel and Frank.
+rachel-frankrvfiles4.png|Photo of Rachel posing.
+Rachel-lettertofrank.png|Letter from Rachel to Frank #1.
+Rachel-leoletter.png|Letter from Rachel to Frank #2.
+
+# #
+
+## Locations 
+
+locationclues-barn.png|Prescott Barn
+locationclues-beach.png|Beach
+locationclues-blackwell.png|Blackwell Academy
+locationclues-diner.png|Two Whales Diner
+locationclues-forest.png|Forest around Arcadia Bay
+locationclues-gasstation.png|Gas Station
+locationclues-junkyard.png|American Rust Junkyard
+locationclues-prescottestate.png|Prescott Estate
+
+## Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+When Max and Chloe investigate [Frank's RV](frank_s_rv.md), Max find a binder with photos and letters of Rachel behind a ventilation grid. She confronts Chloe with it causing her emotion breakdown.
+
+## Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+Max investigates David's laptop and locker. They reveal that David has been behind Rachel for some time. David has a map for locations of security cameras for [Blackwell Academy](blackwell_academy.md) and [Pan Estates](pan_estates.md). With the help of David's investigation, Frank's logbook and Nathan's phone, Max is able to track down the [Prescott Barn](prescott_barn.md), leading her and Chloe to the [Dark Room (Location)](dark_room.md) and find out about the [Dark Room Victims](dark_room_victims.md).
+
+## Coordinates 
+[[File:Arcadia_Bay_map.jpg|thumb|A map of Arcadia Bay with the GPS coordinates[http://imgur.com/iP9ULwg Map] by Reddit user [https://www.reddit.com/user/libbysthing /u/libbysthing]]]
+[https://www.google.com/maps/d/edit?mid# z7HdYJu51sZU.kXX4S7UlwXTs The coordinates as a custom Google Maps overlay].
+[https://www.reddit.com/r/lifeisstrange/comments/3eyxe5/ep4_spoilers_real_life_location_of_arcadia_bay/ Reddit post by /u/RCDuke]
+
+Put together, the clues for all the vehicles enable to find the coordinates for the Two Whales Diner, the junkyard, the beach, Blackwell Academy, the old barn, the gas station and Chloe's house. Some of them also require [Chronological Sequence of Events (Life is Strange)](creating_a_list_of_chronological_events.md). All coordinates from the investigation correspond to the middle of {{Wiki|Tillamook Bay}}, Oregon.
+
+{| class"wikitable"
+! Location name
+! Latitude
+! Longitude
+|-
+| [Blackwell Academy](blackwell_academy.md)
+| 45.535068
+| -123.906641
+|-
+| [Two Whales Diner](two_whales_diner.md)
+| 45.542283
+| -123.929815
+|-
+| [American Rust Junkyard](american_rust_junkyard.md)
+| 45.552381
+| 123.925695
+|-
+| [Prescott Barn](prescott_barn.md)
+| 45.496698
+| -123.894625
+|-
+| [Beach](beach.md)
+|  45.547693
+| -123.935308
+|-
+| [Prescott Estate](prescott_estate.md)
+| 45.531822
+| -123.921232
+|-
+| [Gas Station](gas_station.md)
+| 45.528334
+| -123.931704
+|}
+
+
+
+Generate five trivia questions relevant to this section of the page.

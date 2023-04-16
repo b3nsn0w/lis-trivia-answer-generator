@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Will Max Find On Her Computer If She Blames David For Kate's Suicide Attempt?",
+    "answer": "A",
+    "choices": {
+      "A": "A Webpage To Report David's Suspension",
+      "B": "A Webpage To Support Mark Jefferson",
+      "C": "No Relevant Webpage",
+      "D": "An E-Mail From Nathan About The Vortex Club Party"
+    }
+  },
+  {
+    "question": "What Will Dana Ward Ask About If Max Blames David For Kate's Suicide Attempt?",
+    "answer": "A",
+    "choices": {
+      "A": "David's Role Or Involvement In Kate's Suicide Attempt",
+      "B": "Nathan's Role Or Involvement In Kate's Suicide Attempt",
+      "C": "Mark Jefferson's Role Or Involvement In Kate's Suicide Attempt",
+      "D": "Victoria's Role Or Involvement In Kate's Suicide Attempt"
+    }
+  },
+  {
+    "question": "What Will Nathan Say To Max If She Blames Him For Kate's Suicide Attempt?",
+    "answer": "B",
+    "choices": {
+      "A": "Max Is The One Trying To Fake It Until She Makes It",
+      "B": "Max Blaming The Only Person About To Find Out The Truth",
+      "C": "Glad That Max \"Kept Her Big Mouth Shut\" In The Principal's Office",
+      "D": "Feminazis Will Be Exterminated"
+    }
+  },
+  {
+    "question": "What Will Max Find On Her Computer If She Blames Mark Jefferson For Kate's Suicide Attempt?",
+    "answer": "A",
+    "choices": {
+      "A": "A Webpage To Support Mark Jefferson",
+      "B": "A Webpage To Report David's Suspension",
+      "C": "No Relevant Webpage",
+      "D": "An E-Mail From Nathan About The Vortex Club Party"
+    }
+  },
+  {
+    "question": "What Will Mark Jefferson Mention To Max If She Blames Him For Kate's Suicide Attempt?",
+    "answer": "A",
+    "choices": {
+      "A": "He's No Longer Eligible To Travel To San Francisco Together With The Everyday Heroes Contest Winner",
+      "B": "He's Been Removed From The Everyday Heroes Photo Contest",
+      "C": "He's Been Investigated By Principal Wells",
+      "D": "Victoria Has Sent Angry SMS Messages"
+    }
+  }
+]

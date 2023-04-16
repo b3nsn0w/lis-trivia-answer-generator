@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What does Max remember about Warren's photo at the End of the World Party?",
+    "answer": "C",
+    "choices": {
+      "A": "It was blurry",
+      "B": "It was taken by Nathan",
+      "C": "It survived in the polarized timeline",
+      "D": "It was deleted by Jefferson"
+    }
+  },
+  {
+    "question": "What does Warren say to Max when she arrives at the Two Whales Diner during the storm?",
+    "answer": "A",
+    "choices": {
+      "A": "\"I hate to say I'm glad to see you, but I'm so glad to see you.\"",
+      "B": "\"What took you so long?\"",
+      "C": "\"I knew you would come.\"",
+      "D": "\"You shouldn't have come here.\""
+    }
+  },
+  {
+    "question": "In Max's nightmare sequence, what does Warren's locker contain?",
+    "answer": "A",
+    "choices": {
+      "A": "Pictures of Max in various swimwear",
+      "B": "Pictures of Warren and Nathan",
+      "C": "Pictures of Warren and Chloe",
+      "D": "Pictures of Warren and Victoria"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Which modification tool was created by /u/DanielWe and continued by Ladosha2 and IgelRM?",
+    "answer": "C",
+    "choices": {
+      "A": "SweetFX presets",
+      "B": "Life is Strange - Gangsta Subtitles",
+      "C": "LiS-BtS-Savegame-viewer",
+      "D": "PCGamingWiki"
+    }
+  },
+  {
+    "question": "Which fan translation includes subtitles for all episodes and audio for episodes 1-4 in Russian?",
+    "answer": "D",
+    "choices": {
+      "A": "Indonesian Fan Translation",
+      "B": "Chinese fan localization",
+      "C": "Beta version of Russian text localisation",
+      "D": "Russian fan localisation of subtitles and audio"
+    }
+  }
+]

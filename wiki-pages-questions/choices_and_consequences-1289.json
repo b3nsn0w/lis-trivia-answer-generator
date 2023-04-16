@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Happens If Max Reports Nathan To Principal Wells?",
+    "answer": "A",
+    "choices": {
+      "A": "Nathan Will Be Suspended",
+      "B": "Nathan Will Be Expelled",
+      "C": "Nathan Will Be Arrested",
+      "D": "Nothing Happens To Nathan"
+    }
+  },
+  {
+    "question": "What Does Nathan Do If Max Doesn't Report Him?",
+    "answer": "D",
+    "choices": {
+      "A": "He Vandalizes Max's Room",
+      "B": "He Steals Max's Selfie",
+      "C": "He Sends Max Threatening Messages",
+      "D": "He Confronts Max In The Parking Lot"
+    }
+  },
+  {
+    "question": "What Happens To Daniel's Portrait If Max Declines To Sit For It?",
+    "answer": "B",
+    "choices": {
+      "A": "Daniel Will Not Paint Anything",
+      "B": "Daniel Will Paint A Different Subject",
+      "C": "Daniel Will Paint A Self-Portrait",
+      "D": "Daniel Will Paint Max From Memory"
+    }
+  },
+  {
+    "question": "What Happens To Daniel In Episode 4 If Max Accepts His Portrait?",
+    "answer": "C",
+    "choices": {
+      "A": "He Refuses To Attend The End Of The World Party",
+      "B": "He Is Already Planning To Attend The Party",
+      "C": "He Needs To Be Convinced To Attend The Party",
+      "D": "He Is Not Invited To The Party"
+    }
+  },
+  {
+    "question": "What Does Max Regret Not Doing In Episode 5 If She Declines Daniel's Portrait?",
+    "answer": "A",
+    "choices": {
+      "A": "Reporting Nathan To Principal Wells",
+      "B": "Sitting For The Portrait",
+      "C": "Attending The End Of The World Party",
+      "D": "Telling David About Nathan's Gun"
+    }
+  }
+]

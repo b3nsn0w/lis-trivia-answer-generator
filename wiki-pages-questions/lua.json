@@ -1,0 +1,32 @@
+[
+  {
+    "question": "In which episodes of Life is Strange does the song \"Lua\" appear?",
+    "answer": "C",
+    "choices": {
+      "A": "Episode 1 and Episode 2",
+      "B": "Episode 2 and Episode 3",
+      "C": "Episode 3 and Episode 4",
+      "D": "Episode 4 and Episode 5"
+    }
+  },
+  {
+    "question": "Who plays \"Lua\" in Chloe's room during Episode 3?",
+    "answer": "D",
+    "choices": {
+      "A": "Maxine Caulfield",
+      "B": "Rachel Amber",
+      "C": "Kate Marsh",
+      "D": "Chloe Price"
+    }
+  },
+  {
+    "question": "What is the name of the album that \"Lua\" is from?",
+    "answer": "A",
+    "choices": {
+      "A": "I'm Wide Awake, It's Morning",
+      "B": "Digital Ash in a Digital Urn",
+      "C": "Lifted or The Story Is in the Soil, Keep Your Ear to the Ground",
+      "D": "Fevers and Mirrors"
+    }
+  }
+]

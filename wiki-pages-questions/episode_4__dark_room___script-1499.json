@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What does Brooke say she is more into than art?",
+    "answer": "B",
+    "choices": {
+      "A": "Music",
+      "B": "Science",
+      "C": "Literature",
+      "D": "History"
+    }
+  },
+  {
+    "question": "What does Luke say he dreams of happening to Nathan?",
+    "answer": "C",
+    "choices": {
+      "A": "Nathan getting arrested",
+      "B": "Nathan getting expelled",
+      "C": "Nathan getting beat up",
+      "D": "Nathan apologizing to Kate"
+    }
+  },
+  {
+    "question": "What does Luke call the Vortex Club?",
+    "answer": "A",
+    "choices": {
+      "A": "The Vortex Cult",
+      "B": "The Elite Club",
+      "C": "The VIP Club",
+      "D": "The Exclusive Society"
+    }
+  },
+  {
+    "question": "What does Max say she needs to do before leaving the conversation with Luke?",
+    "answer": "A",
+    "choices": {
+      "A": "Find Warren",
+      "B": "Talk to Nathan",
+      "C": "Get a drink",
+      "D": "Leave the party"
+    }
+  }
+]

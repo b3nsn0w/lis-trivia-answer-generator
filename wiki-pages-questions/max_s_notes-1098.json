@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Max Trying To Figure Out In The Storeroom?",
+    "answer": "A",
+    "choices": {
+      "A": "How To Escape",
+      "B": "How To Save Chloe",
+      "C": "How To Rewind Time",
+      "D": "How To Find Rachel"
+    }
+  },
+  {
+    "question": "What Happened To The Eyes In The Class Photo In The Nightmare Sequence?",
+    "answer": "A",
+    "choices": {
+      "A": "They Were Scratched Out",
+      "B": "They Were Glowing Red",
+      "C": "They Were Covered With Black Paint",
+      "D": "They Were Missing"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Contest On The Everyday Heroes Poster In The Nightmare Sequence?",
+    "answer": "B",
+    "choices": {
+      "A": "Everyday Heroes",
+      "B": "Everyday Zeroes",
+      "C": "Everyday Winners",
+      "D": "Everyday Champions"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Editing Software On The Computer Screen In The Nightmare Sequence?",
+    "answer": "B",
+    "choices": {
+      "A": "Photoshop",
+      "B": "NEONVAULT",
+      "C": "Final Cut Pro",
+      "D": "Premiere Pro"
+    }
+  },
+  {
+    "question": "What Is Depicted In The Forest Photo In The Nightmare Sequence?",
+    "answer": "B",
+    "choices": {
+      "A": "Max And Warren Digging For Rachel's Body",
+      "B": "Chloe And Max Digging For Rachel's Body",
+      "C": "Rachel And Max Digging For Chloe's Body",
+      "D": "Max And Kate Digging For Rachel's Body"
+    }
+  }
+]

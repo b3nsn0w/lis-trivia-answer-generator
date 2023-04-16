@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is Up All Nite Donuts?",
+    "answer": "A",
+    "choices": {
+      "A": "A 24-hour food establishment",
+      "B": "A clothing store",
+      "C": "A music venue",
+      "D": "A movie theater"
+    }
+  },
+  {
+    "question": "Where Is Up All Nite Donuts Located?",
+    "answer": "A",
+    "choices": {
+      "A": "On Peckinpah Road",
+      "B": "In Blackwell Academy",
+      "C": "In Arcadia Bay Police Department",
+      "D": "In Blackwell Swimming Pool"
+    }
+  },
+  {
+    "question": "What Was The Reason For The Police Incident Reported At Up All Nite Donuts?",
+    "answer": "C",
+    "choices": {
+      "A": "A Robbery",
+      "B": "A Murder",
+      "C": "A Drug Bust",
+      "D": "A Car Accident"
+    }
+  },
+  {
+    "question": "What Was The Charge Against The Nude Man Arrested At Up All Nite Donuts?",
+    "answer": "C",
+    "choices": {
+      "A": "Car Theft",
+      "B": "Assault",
+      "C": "Drug Possession",
+      "D": "Jaywalking"
+    }
+  }
+]

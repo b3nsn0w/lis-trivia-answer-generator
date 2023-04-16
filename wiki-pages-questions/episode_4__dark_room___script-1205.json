@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Taylor Say About Nathan's Behavior?",
+    "answer": "B",
+    "choices": {
+      "A": "He Is Fun But Cares About Nobody",
+      "B": "He Is Scary And Bug-Like",
+      "C": "He Is A Creeper But Victoria Doesn't Mind",
+      "D": "He Is Kind And Caring"
+    }
+  },
+  {
+    "question": "Why Does Taylor Want To Be In The Vortex Club?",
+    "answer": "B",
+    "choices": {
+      "A": "To Learn Things And Make Friends",
+      "B": "To Party And Have Fun",
+      "C": "To Impress Nathan",
+      "D": "To Pay Membership Dues"
+    }
+  },
+  {
+    "question": "What Happened To Taylor When Kate Was On The Roof?",
+    "answer": "A",
+    "choices": {
+      "A": "She Realized She Had Gone Too Far",
+      "B": "She Got Dosed By Nathan",
+      "C": "She Had A Weird Vibe About The Party",
+      "D": "She Became Hostile Towards Max"
+    }
+  },
+  {
+    "question": "What Does Taylor Say About Nathan Being A \"Pharmacy Simulator\"?",
+    "answer": "A",
+    "choices": {
+      "A": "He Is A Drug Dealer",
+      "B": "He Is A Medical Student",
+      "C": "He Is A Pharmacist",
+      "D": "He Is A Simulation Expert"
+    }
+  },
+  {
+    "question": "Who Does Logan Suggest Max Should Talk To About Nathan?",
+    "answer": "C",
+    "choices": {
+      "A": "Victoria",
+      "B": "Taylor",
+      "C": "Nathan's Dad",
+      "D": "The Losers In The Cheap Seats"
+    }
+  }
+]

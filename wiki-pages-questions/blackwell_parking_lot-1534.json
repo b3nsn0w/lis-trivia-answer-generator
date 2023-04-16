@@ -1,0 +1,42 @@
+[
+  {
+    "question": "In which episode does Max first explore the Blackwell Parking Lot?",
+    "answer": "A",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "Who headbutts Warren in the Blackwell Parking Lot?",
+    "answer": "A",
+    "choices": {
+      "A": "Nathan Prescott",
+      "B": "Mark Jefferson",
+      "C": "David Madsen",
+      "D": "Ray Wells"
+    }
+  },
+  {
+    "question": "What is the name of the diner advertised on a sign in the Blackwell Parking Lot?",
+    "answer": "A",
+    "choices": {
+      "A": "Two Whales Diner",
+      "B": "Blackwell Diner",
+      "C": "Arcadia Bay Diner",
+      "D": "Blue Moon Diner"
+    }
+  },
+  {
+    "question": "In which episode does Max take a picture of Frank's RV window in the Blackwell Parking Lot?",
+    "answer": "A",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  }
+]

@@ -1,0 +1,19 @@
+Here is a section of the wiki page for Dr. Bill:
+
+#  Dr. Bill 
+
+**Dr. Bill** is a syndicated radio host and a book author in *[Life is Strange](life_is_strange.md)* and his books can be discovered throughout the game. He is first mentioned in "[Episode 1: Chrysalis](chrysalis.md)" when [Maxine Caulfield](max_caulfield.md) finds a maternity book written by him in [Dana Ward](dana_ward.md)'s [Dana's Room](room.md). In the [Alternative Timeline](alternative_timeline.md), there are books about being a good father and mother, found in [Joyce Price](joyce_price.md)'s and [William Price](william_price.md)'s [Joyce and David's Room#Alternate_Timeline](bedroom.md). [Chloe Price](chloe_price.md) also compares Max to Dr. Bill when Max asks her how her parents are doing. [Sean Prescott](sean_prescott.md) suggests contacting Dr. Bill in order to deal with his son [Nathan Prescott](nathan.md)'s mental problems. A book about rage control can be found in [Nathan's Room](nathan_s_room.md).
+
+##  Books 
+
+bill-babymama.png|"How To Be A Great Baby Mama"
+Nathanroom-drbillbook.png|"RAGE ON!"
+SuperDad.jpg|"SUPERDAD - Be the family hero"
+SuperMom.jpg|"SUPERMOM - Lead the family"
+
+##  Trivia 
+* His name is a [References (Life is Strange)](reference.md) to Dr. Phil (McGraw); both are hosts of shows and are parenting experts from the US. {{Wiki|Phil McGraw|Wikipedia Phil McGraw}}
+
+
+
+Generate five trivia questions relevant to this section of the page.

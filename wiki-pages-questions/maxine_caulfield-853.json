@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Do Max And Chloe Discover In Principal Wells' Office?",
+    "answer": "D",
+    "choices": {
+      "A": "Files Of Many Students",
+      "B": "Emails From Sean Prescott To The Blackwell Principal",
+      "C": "Creepy Drawings From Nathan",
+      "D": "All Of The Above"
+    }
+  },
+  {
+    "question": "How Do Max And Chloe Enter Principal Wells' Office?",
+    "answer": "C",
+    "choices": {
+      "A": "They Find The Spare Key",
+      "B": "Chloe Picks The Lock",
+      "C": "Max Blows The Door Open With A Pipe Bomb",
+      "D": "They Enter Through The Window"
+    }
+  },
+  {
+    "question": "What Do Max And Chloe Find In Frank's RV?",
+    "answer": "D",
+    "choices": {
+      "A": "Frank's Coded Logbook",
+      "B": "Evidence Of Rachel's Relationship With Frank",
+      "C": "A Food Item To Distract Frank's Dog",
+      "D": "All Of The Above"
+    }
+  },
+  {
+    "question": "What Happens To Chloe In The Altered Timeline?",
+    "answer": "D",
+    "choices": {
+      "A": "She Is Blonde-Haired",
+      "B": "She Is Wheelchair-Bound",
+      "C": "She Is Heavily Reliant On Her Parents",
+      "D": "All Of The Above"
+    }
+  },
+  {
+    "question": "What Does Max Do To Alter Time?",
+    "answer": "A",
+    "choices": {
+      "A": "She Prevents William From Picking Up Joyce",
+      "B": "She Blows Up The School",
+      "C": "She Rewinds Time To The Beginning Of The Day",
+      "D": "She Warns Alyssa About The Lumber Truck"
+    }
+  }
+]

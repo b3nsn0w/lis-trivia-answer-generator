@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who is the Senior Global Brand Manager for the Life is Strange franchise at Square Enix?",
+    "answer": "A",
+    "choices": {
+      "A": "Roxane Domalain",
+      "B": "Anne Chantreau",
+      "C": "Corentin Naud",
+      "D": "Toby Palm"
+    }
+  },
+  {
+    "question": "What is the name of the video game studio co-founded by Roxane Domalain?",
+    "answer": "B",
+    "choices": {
+      "A": "Square Enix",
+      "B": "Moonycat Entertainment",
+      "C": "Dontnod Entertainment",
+      "D": "Deck Nine Games"
+    }
+  },
+  {
+    "question": "Who manages correspondence and news across all of Dontnod's social media platforms?",
+    "answer": "B",
+    "choices": {
+      "A": "Roxane Domalain",
+      "B": "Anne Chantreau",
+      "C": "Corentin Naud",
+      "D": "Corwin Cantin"
+    }
+  },
+  {
+    "question": "Who was appointed as the main community manager for Life is Strange in December 2015?",
+    "answer": "D",
+    "choices": {
+      "A": "Roxane Domalain",
+      "B": "Anne Chantreau",
+      "C": "Corentin Naud",
+      "D": "Toby Palm"
+    }
+  }
+]

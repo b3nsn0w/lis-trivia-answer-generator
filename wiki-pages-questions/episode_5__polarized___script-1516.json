@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Name Of The Newspaper That Lee Works For?",
+    "answer": "B",
+    "choices": {
+      "A": "The Berkeley Times",
+      "B": "The Berkeley People's Herald",
+      "C": "The Berkeley Daily News",
+      "D": "The Berkeley Chronicle"
+    }
+  },
+  {
+    "question": "What Does The Man In The Gray Jacket Criticize About Max's Photo?",
+    "answer": "A",
+    "choices": {
+      "A": "The Exposure",
+      "B": "The Framing",
+      "C": "The Subject",
+      "D": "The Lighting"
+    }
+  },
+  {
+    "question": "What Happens To Max When She Looks At Her Photo?",
+    "answer": "A",
+    "choices": {
+      "A": "She Gets A Nosebleed",
+      "B": "She Faints",
+      "C": "She Hears Voices",
+      "D": "She Sees A Vision Of The Future"
+    }
+  },
+  {
+    "question": "What Does Max Think About While Trying To Focus On Her Photo?",
+    "answer": "B",
+    "choices": {
+      "A": "The People Around Her",
+      "B": "The Tornado",
+      "C": "Her Phone Calls From Chloe",
+      "D": "Her Jet Lag"
+    }
+  }
+]

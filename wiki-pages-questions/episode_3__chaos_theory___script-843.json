@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Tell The Homeless Lady About Her Vision?",
+    "answer": "A",
+    "choices": {
+      "A": "She Had A Vision Of A Tornado Destroying Arcadia Bay",
+      "B": "She Had A Vision Of A Hurricane Destroying Arcadia Bay",
+      "C": "She Had A Vision Of An Earthquake Destroying Arcadia Bay",
+      "D": "She Had A Vision Of A Tsunami Destroying Arcadia Bay"
+    }
+  },
+  {
+    "question": "How Does Frank React When Max Spills His Can Of Soda?",
+    "answer": "B",
+    "choices": {
+      "A": "He Laughs It Off",
+      "B": "He Gets Angry And Lunges At Max",
+      "C": "He Ignores It",
+      "D": "He Thanks Max For The Prank"
+    }
+  },
+  {
+    "question": "What Does Max Do To Frank's Plate Of Beans?",
+    "answer": "C",
+    "choices": {
+      "A": "She Eats Them",
+      "B": "She Throws Them Out The Window",
+      "C": "She Spills Them On The Floor",
+      "D": "She Gives Them To The Homeless Lady"
+    }
+  },
+  {
+    "question": "What Does The Homeless Lady Say About Max's Vision?",
+    "answer": "C",
+    "choices": {
+      "A": "She Thinks Max Is Crazy",
+      "B": "She Doesn't Believe Max",
+      "C": "She Agrees That Bad Mojo Is In The Air",
+      "D": "She Tells Max To Keep Her Vision To Herself"
+    }
+  },
+  {
+    "question": "What Does Frank Say About Max Dressing Up Like Rachel?",
+    "answer": "B",
+    "choices": {
+      "A": "It Makes Her Look Beautiful",
+      "B": "It Makes Her Look Like Ass",
+      "C": "It Makes Her Look Cool And Tough",
+      "D": "It Makes Her Look Like A Creep"
+    }
+  }
+]

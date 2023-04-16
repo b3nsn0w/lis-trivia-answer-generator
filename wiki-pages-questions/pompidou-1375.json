@@ -1,0 +1,52 @@
+[
+  {
+    "question": "How Did Frank Bowers Come To Own Pompidou?",
+    "answer": "D",
+    "choices": {
+      "A": "He Bought Him From A Pet Store",
+      "B": "He Rescued Him From A Shelter",
+      "C": "He Won Him In A Bet",
+      "D": "He Rescued Him From Dogfights"
+    }
+  },
+  {
+    "question": "Who Is Pompidou Fond Of, According To Photos And Drawings Found In The Junkyard?",
+    "answer": "C",
+    "choices": {
+      "A": "Max Caulfield",
+      "B": "Chloe Price",
+      "C": "Rachel Amber",
+      "D": "Officer Berry"
+    }
+  },
+  {
+    "question": "What Does Officer Berry Call Pompidou?",
+    "answer": "A",
+    "choices": {
+      "A": "Frank's Personal Drooling Bodyguard",
+      "B": "Frank's Loyal Companion",
+      "C": "Frank's Attack Dog",
+      "D": "Frank's Best Friend"
+    }
+  },
+  {
+    "question": "What Does Chloe Do To Distract Pompidou In Episode 3?",
+    "answer": "C",
+    "choices": {
+      "A": "She Throws A Ball",
+      "B": "She Throws A Stick",
+      "C": "She Digs Up A Bone",
+      "D": "She Offers Him Treats"
+    }
+  },
+  {
+    "question": "What Happens To Pompidou If Max Throws The Bone Into The Road In Episode 3?",
+    "answer": "B",
+    "choices": {
+      "A": "He Chases After The Bone And Returns Safely",
+      "B": "He Gets Hit By Oncoming Traffic",
+      "C": "He Ignores The Bone And Stays With Frank",
+      "D": "He Barks Loudly After Chloe's Truck"
+    }
+  }
+]

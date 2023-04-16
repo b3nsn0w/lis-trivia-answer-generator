@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Did Max Find In Frank's RV That Caused Chloe To Break Down Emotionally?",
+    "answer": "A",
+    "choices": {
+      "A": "A Binder With Photos And Letters Of Rachel",
+      "B": "A Map Of Security Cameras",
+      "C": "A Logbook With Drug Deliveries",
+      "D": "A Letter From Nathan To Frank"
+    }
+  },
+  {
+    "question": "What Did Max Use To Track Down The Prescott Barn In Episode Four?",
+    "answer": "C",
+    "choices": {
+      "A": "David's Laptop And Locker",
+      "B": "Nathan's Phone",
+      "C": "Frank's Logbook",
+      "D": "A Map Of Arcadia Bay"
+    }
+  },
+  {
+    "question": "What Did David Investigate Before Max And Chloe Did In Episode Four?",
+    "answer": "A",
+    "choices": {
+      "A": "The Prescott Estate",
+      "B": "The Two Whales Diner",
+      "C": "Blackwell Academy",
+      "D": "The American Rust Junkyard"
+    }
+  },
+  {
+    "question": "What Is The Location Of The Two Whales Diner?",
+    "answer": "A",
+    "choices": {
+      "A": "45.542283, -123.929815",
+      "B": "45.535068, -123.906641",
+      "C": "45.547693, -123.935308",
+      "D": "45.528334, -123.931704"
+    }
+  },
+  {
+    "question": "What Is The Location Of The American Rust Junkyard?",
+    "answer": "A",
+    "choices": {
+      "A": "45.552381, -123.925695",
+      "B": "45.535068, -123.906641",
+      "C": "45.547693, -123.935308",
+      "D": "45.528334, -123.931704"
+    }
+  }
+]

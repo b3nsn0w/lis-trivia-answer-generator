@@ -1,0 +1,67 @@
+Here is a section of the wiki page for Two Whales Diner:
+
+## Outside
+*{{Interaction|Max can look at and help the trucker.|"Hey, that guy is trapped! I have to help everybody I can."}}
+*{{Interaction|She can look at a dead body.|"Death is everywhere... following me…"}}
+*{{Interaction|She can look at and help [Evan Harris](evan.md).|**Alive: **"Evan, are you crazy? Get the hell out of here!"
+**Dead: **"Oh no! No, Evan... Why didn't I grab you?"}}
+*{{Interaction|She can look at and help Alyssa.|"Alyssa is stuck in that house... I have to get her out fast."}}
+
+**{{Interaction|She can look at and use a wooden plank to get to Alyssa.|"Come on, find some way to help Alyssa…"}}
+*{{Interaction|She can look at another dead body.|"Oh, I can't stand seeing these bodies…"}}
+*{{Interaction|She can look at a child's drawing.|"I... I can't think about all those children out there…"}}
+*{{Interaction|She can look at a note about the stolen tablet.|"Mystery solved... but nobody gets a reward..."}}
+
+Inside a [Tony's Liquor Store](ruined_building.md):
+*{{Interaction|Max can read an issue of [The Great Northwest](the_great_northwest.md).|"If we can make it out of this, Chloe..."}}
+*{{Interaction|She can look at and use the fuse box **(required)**.|"Don't fail me, fuse box..."}}
+*{{Interaction|She can look at an "Arcadia Bay Softball League" flyer.|"Aw... This makes me so sad."}}
+*{{Interaction|She can look at the sprinkler.|"Okay. I just need to switch on the electricity to activate the sprinkler."}}
+*{{Interaction|She can look at and help the fisherman.|**Alive: **"I want to help that fisherman, but... he's in shock and he might not hear me."
+**Dead: **"Oh no..."}}
+*{{Interaction|She can look at and use the sand near the diner **(required)**.|**Look: **"Please let this sand put out the fire…"
+**Use: **"Yes!"}}
+
+After putting out the fire:
+*{{Interaction|Max can look at the menu board.|"I wish life was back to simple eggs and bacon…"}}
+*{{Interaction|She can look at and take an optional photo of a whale.|"Look at that... This tornado might be the end of the world... but not if I can change it."}}
+*{{Interaction|She can look at a derailed train.|"Shit, that train could have derailed into the diner…"}}
+*{{Interaction|She can look at Warren's car.|"Warren's car is about the only thing left alone... Good."}}
+*{{Interaction|She can look at the Two Whales sign.|"I never thought I'd see the Two Whales look like that…"}}
+*{{Interaction|She can look at a Pan Estates flyer.|"Not anymore…"}}
+*{{Interaction|She can read an issue of [The Bay Bud Weekly](the_bay_bud_weekly.md).|"The monsters are actually the people here…"}}
+*{{Interaction|She can look at the window of Frank's RV (determinant).|"'Have A Nice Day'... Sure. But somebody has to save the world."}}
+*She can take an optional photo of a car on a building.
+*{{Interaction|She can look at the homeless woman (determinant).|"Oh no... not her... I should have warned her! I never even asked her name... so selfish."}}
+*{{Interaction|She can look at the homeless woman's empty place (determinant).|"Whoa, she's not here... I hope she's in a shelter... I never even asked her name..."}}
+
+# #
+
+## Inside
+*{{Interaction|Max can look at the food supplies.|"At least nobody is going to starve in here..."}}
+*{{Interaction|She can read an issue of the [Arcadia Bay Beacon](arcadia_bay_beacon.md).|"Go get 'em, Juliet…"}}
+*{{Interaction|She can look at a "Save Our Bay" flyer.|"Trust me, I'm trying to figure out how... I swear."}}
+*{{Interaction|She can look at the first-aid kit.|"Good job, Warren. I hope those supplies are enough."}}
+*{{Interaction|She can look at and speak to Warren.|"Look at Warren... always trying to help."}}
+*{{Interaction|She can look at and speak to Joyce.|**Frank alive: **"Joyce has got everybody's back... even Frank's."
+**Frank dead: **"Joyce has got everybody's back..."}}
+*{{Interaction|She can look at and speak to Frank (determinant).|**No one hurt: **"It's good to have Frank on our team."
+**Hurt Frank: **"I wish Frank was on our team... He's not a bad guy."}}
+*{{Interaction|She can look at Pompidou (determinant).|"At least Frank still has Pompidou at his side."}}
+*She can focus on Warren's photo **(required)**.
+*{{Interaction|She can look at and speak to Warren again after attempting to focus on the photo **(required)**.|**Hug: **"I hope Warren knows how much his friendship means to me."
+**Leave: **"I like how Warren just does his thing no matter what."
+**Kiss: **"At least I kissed Warren once to let him know how I feel..."}}
+
+## Optional Photos 
+During Episode 2, Max can shoot three [Optional Photos](optional_photos.md) in and around the diner, including the Two Whales sign and Frank's dog through a fence behind the diner. She can shoot an optional photo in the bathroom. "*FIRE WALK WITH ME*" is scrawled across the mirror in large letters.
+
+In Episode 3, Max can take another photo of a dead bird surrounded by insects in a circle, just around the side of the diner.  
+
+There is another photo across the road of a truck, which you can obtain by speaking to the truck driver and rewinding to comment on his Needham and mention [Rachel Amber](rachel_amber.md).
+
+In the final episode, there are two opportunities to take an optional photo near the diner: one is of a car blown on top of a building, and another is of a whale on the road.
+
+
+
+Generate five trivia questions relevant to this section of the page.

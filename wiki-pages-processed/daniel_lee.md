@@ -1,0 +1,44 @@
+#  Daniel Lee 
+
+```yaml
+Character
+
+name: Daniel Lee
+image: dannylee.jpg
+alsoknown: Danny Lee
+hair: Brown
+eyes: Brown
+gender: Male
+affiliation: Berkeley People's Herald
+profession: Journalist
+appearance: '[Episode 5: Polarized](episode_5__polarized.md)'
+voice: '[Derek Phillips](derek_phillips.md) (uncredited)'
+```
+
+**Daniel Lee** is a journalist [Maxine Caulfield](max_caulfield.md) meets in the [Zeitgeist Gallery](zeitgeist_gallery.md) in the timeline where she wins the [Everyday Heroes Photo Contest](everyday_heroes_photo_contest.md) in "[Episode 5: Polarized](polarized.md)." He is an admirer of Max's work.
+
+##  Overview 
+If approached and spoken to, he will reveal that he is currently editing the art section of the "Berkeley People's Herald." He also says he likes Max's work and calls her images timeless. Then he gives Max his card and says he'd like to set an appointment to do an interview with her sometime in the future. On the first floor of the gallery, Max can find a newspaper titled "[The Golden Gate Reporter](the_golden_gate_reporter.md)" which includes an article written by him:
+
+{{Bigquote
+
+|**"I Left My Art In San Francisco"**
+
+by Daniel Lee
+
+Yes, I was born on a BART train. Literally. It's a long, amazing story that I won't repeat here (drinks are required for that one; here's to Mom!). That might explain my obsessive love for the Bay Area and its outpost of artists and dissidents.
+
+Despite the rampant gentrification, artists and creators thrive regardless of socio-economic pressures - because that's what they do.
+
+Galleries such as The Zeitgeist and Milkovich Fashion have engaged with the diverse community and practiced what some patrons only preach.
+
+CONTINUED ON NEXT PAGE
+
+}}
+
+[File:Goldengaterep.jpg](thumb.md)
+
+##  Trivia 
+* His phrase about the "Berkeley People's Herald" might be a [References (Life is Strange)](reference.md) to the film *[Wikipedia:Big Trouble in Little China](big_trouble_in_little_china.md)*. (See [http://www.subzin.com/quotes/M973191e3/Big+Trouble+in+Little+China/I%27m+Margo+Litzenberger.+I%27m+with+the+Berkeley+People%27s+Herald. here] for the quote).
+* His name could refer to a New Zealand golfer who often takes selfies. In one article he is even referred to as the "No. 1 golfer in the world (when it comes to selfies)."Said Danny Lee article: http://www.golfdigest.com/story/danny-lee-is-the-no-1-golfer-in-the-world-when-it-comes-to-taking-selfies
+

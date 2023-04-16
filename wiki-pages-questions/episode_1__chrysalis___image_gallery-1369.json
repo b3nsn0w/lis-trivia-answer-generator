@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Name Of The First Episode Of Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Chrysalis",
+      "B": "Butterfly",
+      "C": "Metamorphosis",
+      "D": "Evolution"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Two Main Characters In Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Max and Chloe",
+      "B": "Rachel and Kate",
+      "C": "Victoria and Nathan",
+      "D": "Warren and David"
+    }
+  },
+  {
+    "question": "In Which Image Do Max and Chloe Look Into The Sunset?",
+    "answer": "A",
+    "choices": {
+      "A": "LifeIsStrange 2015-05-23 13-34-18-64.jpg",
+      "B": "LifeIsStrange 2015-05-23 13-38-20-85.jpg",
+      "C": "LifeIsStrange 2015-05-23 13-38-53-42.jpg",
+      "D": "LifeIsStrange 2015-05-23 13-39-19-75.jpg"
+    }
+  },
+  {
+    "question": "What Is The Name Of The File With The Scaleimage Template?",
+    "answer": "A",
+    "choices": {
+      "A": "1908440_888207817867800_545726511779941891_n.jpg",
+      "B": "LifeIsStrange 2015-05-23 11-03-29-00.jpg",
+      "C": "LifeIsStrange 2015-05-23 11-08-29-91.jpg",
+      "D": "LifeIsStrange 2015-05-23 11-36-44-95.jpg"
+    }
+  }
+]

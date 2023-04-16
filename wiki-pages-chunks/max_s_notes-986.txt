@@ -1,0 +1,62 @@
+Here is a section of the wiki page for Max's Notes:
+
+asshole from Blackwell? You’ve got to be shitting me.
+|style"height:186px; vertical-align:top"|Look# [File:note-chloeshouse-davidbadge.png](220px.md)
+|-|Read[File:note-chloeshouse-davidbadge2.png](220px.md)
+|-
+|**Photo of Kate.**
+Location: [David's Files](david_s_files.md) inside the garage.
+Max's comments: Kate Marsh? Why the hell would he have pictures of her? Okay, this is getting totally weird.
+|style# "height:186px; vertical-align:top"|Look[File:note-chloeshouse-davidfilesone.png](220px.md)
+|-|Read# [File:note-chloeshouse-davidfilesone2.png](220px.md)
+|-
+|**Photo of Kate.**
+Location: David's files inside the garage.
+Max's comments: None
+|style"height:186px; vertical-align:top"|Look# [File:note-chloeshouse-davidfilestwo.png](220px.md)
+|-|ReadNone
+|-
+|**Photo of Kate.**
+Location: David's files inside the garage.
+Max's comments: None
+|style# "height:186px; vertical-align:top"|Look[File:note-chloeshouse-davidfilesthree.png](220px.md)
+|-|Read# None
+|-
+|**Photo of Kate.**
+Location: David's files inside the garage.
+Max's comments: None
+|style"height:186px; vertical-align:top"|Look# [File:note-chloeshouse-davidfilesfour.png](220px.md)
+|-|Read[File:note-chloeshouse-davidfilesfour2.png](220px.md)
+|-
+|'''David's laptop screen.'''
+Location: David's garage in the Madsen Household.
+Max's comments: No password. Like it would help me find tools anyway.
+|style# "height:186px; vertical-align:top"|Look[File:note-chloeshouse-davidpcscreen.png](220px.md)
+|-|Read# [File:note-chloeshouse-davidpcscreen2.png](220px.md)
+|-
+|**Photo of David in Blackwell security uniform.**
+Location: Drawer inside David's garage.
+Max's comments: Chloe's stepdad is head of security at Blackwell! He wants to put surveillance cameras all over the school? How paranoid can you get?
+|style"height:186px; vertical-align:top"|Look# [File:note-chloeshouse-davidsecurity.png](220px.md)
+|-|ReadNone
+|-
+|**Photo of David in military camouflage.**
+Location: Drawer inside David's garage.
+Max's comments: None
+|style# "height:186px; vertical-align:top"|Look[File:note-chloeshouse-davidmilitary.png](220px.md)
+|-|Read# None
+|-
+|**Wildlife sign.**
+Location: Board on the way to the [Lighthouse](lighthouse.md).
+Max's comments: They haven't updated this sign since the 1980's...
+|style"height:186px; vertical-align:top"|Look# [File:note-lighthouse-wildlife.png](220px.md)
+|-|Read[File:note-lighthouse-wildlife2.png](220px.md)
+|-
+|**Map of Arcadia Bay with a mark.**
+Location: Near the lighthouse.
+Max's comments: Wowser, Chloe drew that to mark our treefort... So we'd always be able to find each other in case of emergency... Oh...
+|style# "height:186px; vertical-align:top"|Look[File:note-lighthouse-map.png](220px.md)
+|-|Read# None
+|} 
+
+Generate five trivia questions relevant to this section of the page.

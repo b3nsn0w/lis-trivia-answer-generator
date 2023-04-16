@@ -1,0 +1,31 @@
+= Water Tower =
+
+{{Infobox Location
+|image = American_Rust_Junkyard_-_Water_Tower.png
+|type = Water tower
+|location = [[American Rust Junkyard]], [[Arcadia Bay]]
+|state = Oregon
+|appears = [[Episode 2: Out of Time]]
+}}The '''Water Tower''' is a non-explorable location in [[Arcadia Bay]]. It is located near the [[Train Tracks|train tracks]] in the [[American Rust Junkyard]].
+
+== Appearance ==
+The water tower is a tall, heavily rusted structure with the words "City of Arcadia Bay" printed in fading letters across its water tank. Blue graffiti is written on the water tank's side, reading "Not a single fuck was given that day".
+
+== Episode Two - "[[Episode 2: Out of Time|Out of Time]]" ==
+As [[Maxine Caulfield|Max Caulfield]] and [[Chloe Price]] traverse down the train tracks at the junkyard, the water tower can be seen overlooking the rails.
+
+== Gallery ==
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="200" captionalign="center" position="center">
+American_Rust_Junkyard_-_Water_Tower_Gallery_01.png|
+American_Rust_Junkyard_-_Water_Tower_Gallery_02.png|
+American_Rust_Junkyard_-_Water_Tower_Gallery_03.png|
+</gallery>
+
+{{Location Navbox}}
+[[ru:Водонапорная башня]]
+[[Category:Locations (Life is Strange)]]
+[[Category:Locations in Arcadia Bay]]
+[[Category:Episode 2: Out of Time Locations]]
+[[Category:Non-Explorable Locations]]
+[[Category:Locations]]
+[[Category:Life is Strange]]

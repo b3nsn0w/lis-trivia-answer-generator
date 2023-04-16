@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the name of the dormitory Max is staying in?",
+    "answer": "B",
+    "choices": {
+      "A": "Blackwell Dormitory",
+      "B": "Prescott Dormitory",
+      "C": "Jefferson Dormitory",
+      "D": "Warren Dormitory"
+    }
+  },
+  {
+    "question": "What is the name of the totem pole that Warren told Max about?",
+    "answer": "A",
+    "choices": {
+      "A": "Tobanga Totem",
+      "B": "Blackwell Totem",
+      "C": "Prescott Totem",
+      "D": "Jefferson Totem"
+    }
+  },
+  {
+    "question": "Who does Max refer to as \"All American Asshole\"?",
+    "answer": "A",
+    "choices": {
+      "A": "Logan Robertson",
+      "B": "Zachary Riggins",
+      "C": "Samuel Taylor",
+      "D": "Nathan Prescott"
+    }
+  },
+  {
+    "question": "What does Max tamper with to get Victoria out of the way?",
+    "answer": "A",
+    "choices": {
+      "A": "A paint bucket",
+      "B": "A sprinkler valve",
+      "C": "A ladder",
+      "D": "A recycle bin"
+    }
+  },
+  {
+    "question": "Who does Max think she should be better friends with?",
+    "answer": "C",
+    "choices": {
+      "A": "Victoria Chase",
+      "B": "Kate Marsh",
+      "C": "Alyssa Anderson",
+      "D": "Samuel Taylor"
+    }
+  }
+]

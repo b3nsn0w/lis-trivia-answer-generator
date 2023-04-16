@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Did Max Make For Chloe When They Were Twelve?",
+    "answer": "A",
+    "choices": {
+      "A": "A Mix",
+      "B": "A Painting",
+      "C": "A Necklace",
+      "D": "A Bracelet"
+    }
+  },
+  {
+    "question": "What Did Chloe Steal From Principal Wells?",
+    "answer": "B",
+    "choices": {
+      "A": "His Car",
+      "B": "His Money",
+      "C": "His Phone",
+      "D": "His Keys"
+    }
+  },
+  {
+    "question": "Where Was Max's Selfie Located?",
+    "answer": "A",
+    "choices": {
+      "A": "Chloe's Message Board",
+      "B": "Drawer Under The HDTV",
+      "C": "Screen Of Chloe's Computer",
+      "D": "None Of The Above"
+    }
+  },
+  {
+    "question": "What Did Max Comment About Chloe's Academic Performance?",
+    "answer": "A",
+    "choices": {
+      "A": "She Was A Straight-A Student",
+      "B": "She Was A Straight-B Student",
+      "C": "She Was A Straight-C Student",
+      "D": "She Was A Straight-D Student"
+    }
+  },
+  {
+    "question": "What Did Max Comment About Chloe's Love For Skating?",
+    "answer": "C",
+    "choices": {
+      "A": "She Hated Skating",
+      "B": "She Was Indifferent To Skating",
+      "C": "She Loved Skating",
+      "D": "She Was Scared Of Skating"
+    }
+  }
+]

@@ -1,0 +1,12 @@
+#  Yasuhiro Mamiya 
+
+[File:Yasuhiro_Mamiya.png](thumb.md)
+
+**Yasuhiro Mamiya** (**マミヤ ヤスヒロ**) / (**間宮 康弘**) is the Japanese voice actor of [Nathan Prescott](nathan_prescott.md) (**ネイサン・プレスコット**) for the [Japanese Release (Life is Strange)](japanese_localization.md) of *[Life is Strange](life_is_strange.md) *and *[Life is Strange: Before the Storm](life_is_strange__before_the_storm.md)*.
+
+ Yasuhiro Mamiya =
+
+[File:Yasuhiro_Mamiya.png](thumb.md)
+
+**Yasuhiro Mamiya** (**マミヤ ヤスヒロ**) / (**間宮 康弘**) is the Japanese voice actor of [Nathan Prescott](nathan_prescott.md) (**ネイサン・プレスコット**) for the [Japanese Release (Life is Strange)](japanese_localization.md) of *[Life is Strange](life_is_strange.md) *and *[Life is Strange: Before the Storm](life_is_strange__before_the_storm.md)*.
+

@@ -1,0 +1,23 @@
+Here is a section of the wiki page for Unused Audios:
+
+you? He always does."{{Headphones|file# VO_E3_6B.STM 00270.ogg}}
+** [context missing] Nathan: "Oh, you'll find out, when you least expect it. Seriously, that's it. We're done talking, camera girl."{{Headphones|fileVO_E3_6B.STM 00320.ogg}}
+** [context missing] Frank: "Yeah, so did your friend Chloe... and Rachel."{{Headphones|file# VO_E3_6B.STM 00331.ogg}}
+** [context missing] Frank: "Sorry Law and Order. No warrant, no questions. Now get back to your goddamn desk."{{Headphones|fileVO_E3_6B.STM 00385.ogg}}
+* [context missing] In LivingRoom, Max: "Listen, don't let your dad take his car now. I know it sounds weird, but please believe me. Something terrible is going to happen. You have to stop him! Right now."{{Headphones|file# VO_E3_8A.STM 00097.ogg}}
+** [context missing] Max: "Whoa. What is this?"{{Headphones|fileVO_E3_8A.STM 00155.ogg}}
+** [context missing] Chloe: "Dude, I'm so lucky that my father is cool."{{Headphones|file# VO_E3_8A.STM 00151.ogg}}
+** [context missing] Chloe: "Max, you're being so fucking strange. Like you'll never gonna see us again."{{Headphones|fileVO_E3_8A.STM 00125.ogg}}
+** [context missing] Chloe: "I don't know exactly what you are talking about, but... come on. You have made things different. Like, my whole life. You are my best friend. I've got you and a great family. What's it to be sorry for? We'll be best friends for ever. And when we grow up, we're taking over the world."{{Headphones|file# VO_E3_8A.STM 00093.ogg}}
+** [context missing] Max: "Chloe, I'm so sorry. I tried to make things different for you. I... I did try. I'm sorry."{{Headphones|fileVO_E3_8A.STM 00058.ogg}}
+** [context missing] Max: "Listen! Whatever happens, I want you to be strong. Even if you feel like I wasn't there for you. Because I'll never abandon you Chloe. I'll always have your back. Always."{{Headphones|file# VO_E3_8A.STM 00114.ogg}}
+** [context missing] Max: "I will."{{Headphones|fileVO_E3_8A.STM 00083.ogg}}
+** [context missing] William: "I knew this thing will come in handy. How did my keys get out here?"{{Headphones|file# VO_E3_8A.STM 00146.ogg}}
+** [context missing] Max: "I know Chloe will."{{Headphones|fileVO_E3_8A.STM 00077.ogg}}
+** [context missing] Max: "Mr. Price? Errr... I don't think you should go just yet. There's bad traffic out there and it could be dangerous."{{Headphones|file# VO_E3_8A.STM 00092.ogg}}
+** [context missing] Chloe: "Another dollar for the swear jar."{{Headphones|fileVO_E3_8A.STM 00005.ogg}}
+** [context missing] William: "Okay, where did you last put those keys? Think, think! Ah, screw that."{{Headphones|file# VO_E3_8A.STM 00059.ogg}}
+** [context missing] William: "You won't escape me now, haha."{{Headphones|fileVO_E3_8A.STM 00008.ogg}}
+** [context missing] Chloe: "Dude, I'm so lucky that my father is cool."{{Headphones|file# VO_E3_8A.STM 00130.ogg}} 
+
+Generate five trivia questions relevant to this section of the page.

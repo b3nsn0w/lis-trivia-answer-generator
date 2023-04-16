@@ -1,0 +1,127 @@
+Here is a section of the wiki page for Episode 4: Dark Room - Script:
+
+## **Conversation with Victoria**
+
+**Victoria:** Sorry, Max. Vortex Club members only.
+
+**Max:** Sorry, I’m on the guest list.
+
+**Victoria:** I’m taking you off.
+
+**Max:** Go fuck your selfie, Victoria. I don't have time for this bullshit.
+
+(Max comforted Victoria)# (Max comforted Victoria)
+
+**Victoria:** Real cute, Max. And after I apologized to you the other day...
+
+|-|(Max made fun of Victoria)(Max made fun of Victoria)
+
+**Victoria:** Real cute, Max. You still pissed about me taking your picture?
+
+**Max:** Do you even have a clue what's going on at Blackwell?
+
+(Kate died)# (Kate died)
+
+**Max:** Kate Marsh killed herself in front of you and me... everybody here!
+
+|-|(Kate lived)(Kate lived)
+
+**Max:** Kate Marsh tried to kill herself in front of you and me... everybody here!
+
+**Victoria:** That's not my fault, Max. Don't you even try to blame me!
+
+Blame.# Blame.
+
+**Max:** Oh, I will. You didn't help Kate at that party. You knew she was totally wasted. Then you sent the video to everybody, just to twist the knife.
+
+**Victoria:** Wow. Are you kidding me? I didn't make her drink that wine! Nobody pushed her tongue into everybody's mouth. I watched her, Max.
+
+**Max:** Then shame on you. And you know Kate was dosed, no matter how much you deny it. That's why she ended up on that roof... and you made sure to take one last video of her, right?
+
+{{#tag:tabber|(Kate died)(Kate died)
+
+**Victoria:** I deleted that video from my phone, Max. I didn't know what to do, okay? Sorry.
+
+{{!}}-{{!}}(Kate lived)# (Kate lived)
+
+**Victoria:** I deleted that video from my phone, Max.
+
+}}
+
+**Max:** I bet that comforts Kate's family... I don't even know how you sleep at night.
+
+**Victoria:** I'm not perfect, okay? I'm a teenager at an art school. I'm only here to become a photographer and get famous.
+
+|-|Nathan.Nathan.
+
+**Max:** I blame Nathan for dosing Kate, but nobody at that party even cared that she was so wasted.
+
+**Victoria:** It's a fucking party, everybody is wasted! What do you want from me?
+
+**Max:** Some humanity, Victoria.
+
+{{#tag:tabber|(Nathan was suspended)# (Nathan was suspended)
+
+**Victoria:** Well, you got Nathan busted out of Blackwell, so you should be happy. And I'm the only person here who cares what Nathan is going through.
+
+{{!}}-{{!}}(Max was suspended)(Max was suspended)
+
+**Victoria:** You're the one who got suspended, Max. And I'm the only person here who cares what Nathan is going through! So I'm not the only problem child here.
+
+{{!}}-{{!}}(No one was suspended)# (No one was suspended)
+
+**Victoria:** I'm the only person here who cares what Nathan is going through...I'm not the only problem child at Blackwell.
+
+}}
+
+**Max:** This is bigger than a problem child.
+
+**Victoria:** I'm not perfect, okay? I'm a teenager at an art school. I'm only here to become a photographer and get famous.
+
+|-|Don't blame.Don't blame.
+
+**Max:** I don't blame you, Victoria, but you know Kate had a church group and that she didn't party. So why did you send out that video?
+
+**Victoria:** Oh God... I swear we weren't even going to do it. Then we had some wine and got stupid.
+
+**Max:** More than stupid. It's mean... hateful. Kate never did anything to you. And that didn't stop you from taking one last video of her on the roof.
+
+{{#tag:tabber|(Kate died)# (Kate died)
+
+**Victoria:** I deleted that from my phone. Max, I saw Kate Marsh die... I swear it didn't feel real to me. I kept thinking, "Did I cause this? Did I?" I've felt like shit ever since.
+
+**Max:** I believe you, Victoria. But I don't understand you...
+
+{{!}}-{{!}}(Kate lived)(Kate lived)
+
+**Victoria:** I deleted that from my phone. Maybe I'm not her friend, but I didn't get off on Kate attempting suicide. I'm not evil, Max.
+
+{{#tag:tabber|(Max saw the postcard)# (Max saw the postcard)
+
+**Max:** I believe you, Victoria. I saw the nice postcard you sent to Kate. But I don't understand you.
+
+{{!}}-{{!}}(Max didn't see the postcard)(Max didn't see the postcard)
+
+**Max:** I believe you, Victoria. But I don't understand you...
+
+}}
+
+}}
+
+**Victoria:** That makes both of us, Max. I always feel like I have to overcompensate. For what, I have no clue. I'm only here to become a photographer, not president.
+
+You have talent.# You have talent.
+
+**Max:** You have talent, Victoria. You don't have to push people out of your way.
+
+**Victoria:** You don't understand. My parents own a gallery. I know how this art game has to be played... it's brutal.
+
+{{#tag:tabber|(Blamed Jefferson)(Blamed Jefferson)
+
+**Max:** No, it's art. You don't have to play their way. Look at me, I got the judge of the contest suspended.
+
+{{!}}-{{!}}(Didn't blame Jefferson)# (Didn't blame Jefferson)
+
+**Max:** No, it's art. You don't have to play their way. Mr. Jefferson doesn't talk that way and he's 
+
+Generate five trivia questions relevant to this section of the page.

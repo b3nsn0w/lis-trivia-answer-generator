@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Can Max Do With Her Hi-Fi?",
+    "answer": "A",
+    "choices": {
+      "A": "Turn It Off And Replay It",
+      "B": "Connect It To Her Phone",
+      "C": "Use It As A Speakerphone",
+      "D": "Play Video Games On It"
+    }
+  },
+  {
+    "question": "What Is Written On The Sticky Notes Attached To The Wall In Front Of Max's Desk?",
+    "answer": "B",
+    "choices": {
+      "A": "A To-Do List",
+      "B": "A Scientific Formula",
+      "C": "A Phone Number",
+      "D": "A Grocery List"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Website Max Visits That Is About Science?",
+    "answer": "A",
+    "choices": {
+      "A": "Ilive4science",
+      "B": "WORMHOLE!",
+      "C": "I-Sign Petition",
+      "D": "Science4Life"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Teacher Who Is Out Sick?",
+    "answer": "A",
+    "choices": {
+      "A": "Mrs. Hoida",
+      "B": "Mr. Jefferson",
+      "C": "Ms. Grant",
+      "D": "Principal Wells"
+    }
+  },
+  {
+    "question": "What Can Max Do With Her Shower Supplies?",
+    "answer": "B",
+    "choices": {
+      "A": "Look At Them",
+      "B": "Take Them",
+      "C": "Throw Them Away",
+      "D": "Hide Them"
+    }
+  }
+]

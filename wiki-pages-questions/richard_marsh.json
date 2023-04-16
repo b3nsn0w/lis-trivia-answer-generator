@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Richard Marsh's Relationship To Kate And Lynn Marsh?",
+    "answer": "B",
+    "choices": {
+      "A": "Uncle",
+      "B": "Father",
+      "C": "Grandfather",
+      "D": "Cousin"
+    }
+  },
+  {
+    "question": "What Does Richard Marsh Send To Kate After The Vortex Club Party Video Is Released?",
+    "answer": "B",
+    "choices": {
+      "A": "A Bible",
+      "B": "A Postcard",
+      "C": "A Phone",
+      "D": "A Teddy Bear"
+    }
+  },
+  {
+    "question": "What Bible Verse Is Quoted On The Postcard Richard Marsh Sends To Kate?",
+    "answer": "C",
+    "choices": {
+      "A": "John 3:16",
+      "B": "Matthew 5:16",
+      "C": "John 1:5",
+      "D": "Psalm 23:4"
+    }
+  },
+  {
+    "question": "What Does Richard Marsh Invite Max To After Kate's Death?",
+    "answer": "B",
+    "choices": {
+      "A": "A Family Dinner",
+      "B": "A Private Service",
+      "C": "A Church Service",
+      "D": "A Memorial Concert"
+    }
+  },
+  {
+    "question": "What Does Richard Marsh Thank Max For In His Text Message After Kate's Death?",
+    "answer": "D",
+    "choices": {
+      "A": "Saving Kate's Life",
+      "B": "Caring For Kate",
+      "C": "Being Brave",
+      "D": "All Of The Above"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who was responsible for dosing Kate Marsh at the Vortex Club party?",
+    "answer": "B",
+    "choices": {
+      "A": "Mark Jefferson",
+      "B": "Nathan Prescott",
+      "C": "Rachel Amber",
+      "D": "David Madsen"
+    }
+  },
+  {
+    "question": "What was the reason for Kate's suicide attempt?",
+    "answer": "A",
+    "choices": {
+      "A": "Being bullied after a party video went viral",
+      "B": "Being kidnapped by Mark Jefferson",
+      "C": "Being drugged at a party",
+      "D": "Being gaslighted by Mark Jefferson"
+    }
+  },
+  {
+    "question": "Who did Mark Jefferson shoot in the head?",
+    "answer": "D",
+    "choices": {
+      "A": "Nathan Prescott",
+      "B": "Victoria Chase",
+      "C": "David Madsen",
+      "D": "Chloe Price"
+    }
+  },
+  {
+    "question": "What was Mark Jefferson's relationship with Nathan Prescott?",
+    "answer": "A",
+    "choices": {
+      "A": "Father figure and mentor",
+      "B": "Friend and confidant",
+      "C": "Business partners",
+      "D": "Enemies"
+    }
+  },
+  {
+    "question": "Who gave Mark Jefferson a position at Blackwell?",
+    "answer": "D",
+    "choices": {
+      "A": "Nathan Prescott",
+      "B": "Principal Wells",
+      "C": "Rachel Amber",
+      "D": "Sean Prescott"
+    }
+  }
+]

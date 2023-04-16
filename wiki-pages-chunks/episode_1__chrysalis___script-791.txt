@@ -1,0 +1,107 @@
+Here is a section of the wiki page for Episode 1: Chrysalis - Script:
+
+## **Optional Conversation with [Luke Parker](luke.md)**
+**Max:** Uh, hello?
+
+**Luke:** Max, I don't feel like talking...
+
+What's wrong...?# What's wrong...?
+
+**Max:** What's wrong?
+
+**Luke:** Nathan Prescott, little rich bitch kid. He thinks he can own people like his parents own Blackwell... Like he owns the Vortex Club.
+
+**Max:** Yes, he's a nasty piece of work.
+
+{{#tag:tabber|(Reported Nathan)(Reported Nathan)
+
+**Luke:** You...you know him?
+
+{{#tag:tabber|I busted him.# I busted him.
+
+**Max:** I busted him today, with a gun.
+
+**Luke:** What? Seriously?
+
+**Max:** I saw him wave a gun around today and I went to the Principal... We'll see what happens next...
+
+**Luke:** You are my new hero. Finally, karma comes to Blackwell!
+
+{{!}}-{{!}}Not really.Not really.
+
+**Max:** Not really... I've seen him around.
+
+**Luke:** Sounds like you know way more than that. Max, tell me.
+
+{{#tag:tabber|I busted him.# I busted him.
+
+**Max:** I busted him today, with a gun.
+
+**Luke:** What? Seriously?
+
+**Max:** I saw him wave a gun around today and I went to the Principal... We'll see what happens next...
+
+**Luke:** You are my new hero. Finally, karma comes to Blackwell!
+
+{{!}}-{{!}}Nope, he's just a dick.Nope, he's just a dick.
+
+**Max:** Nope, he's just an entitled dick with a lot of money. Not my type.
+
+**Luke:** Somebody needs to take that prick down...
+
+{{#tag:tabber|It will happen.# It will happen.
+
+**Max:** It'll happen... Karma doesn't play favorites.
+
+{{!}}-{{!}}He'll take himself down.He'll take himself down.
+
+**Max:** He'll take himself down.
+
+}}
+
+**Luke:** Yeah, history always proves that, right? Just wait for justice, you sheeple...
+
+}}
+
+}}
+
+{{!}}-{{!}}(Hid the truth)# (Hid the truth)
+
+**Luke:** Somebody needs to take that prick down...
+
+{{#tag:tabber|It will happen.It will happen.
+
+**Max:** It'll happen... Karma doesn't play favorites.
+
+{{!}}-{{!}}He'll take himself down.# He'll take himself down.
+
+**Max:** He'll take himself down.
+
+}}
+
+**Luke:** Yeah, history always proves that, right? Just wait for justice, you sheeple...
+
+}}
+
+|-|Oh sorry...Oh sorry...
+
+**Max:** Oh, sorry... I won't bother you.
+
+#
+
+## **Dormitories** 
+**Max:** *(thinking)* I need to go to my room and return Warren's flash drive.
+
+**Conversation with Logan**
+
+**Logan:** No, bro, you can't take a picture. You gotta wait 'til Friday's game.
+
+**Conversation with Zachary**
+
+**Zachary:** Football, Max. Bigfootball. Step away.
+
+# #
+
+
+
+Generate five trivia questions relevant to this section of the page.

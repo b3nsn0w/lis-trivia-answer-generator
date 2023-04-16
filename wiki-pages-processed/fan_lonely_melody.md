@@ -1,0 +1,23 @@
+#  Fan:Lonely Melody 
+
+```yaml
+Song
+
+image: Chloe (Ekaterina Broflovskaya).jpg
+artist: '[Fan:Music#Eduard Frolov EFG'
+Eduard Frolov EFG](fan_music_eduard_frolov_efg__eduard_frolov_efg.md): *
+album: Price-Less Time
+genre: Rock
+release: January 18, 2016
+```
+
+**"Lonely Melody"** is a *[Life is Strange](life_is_strange.md)''-inspired instrumental piece written and performed by [Fan:Music#Eduard Frolov EFG](eduard_frolov_efg.md). It was released on January 18, 2016. A remastered version was uploaded on May 3, 2016.
+
+##  Videos 
+
+Eduard Frolov EFG - Lonely Melody (Chloe Tribute "Life Is Strange")
+Lonely Melody -Remastered- (Chloe Tribute "Life Is Strange") 1000 subscribers special
+
+##  Navigation 
+{{Music Navbox}}
+

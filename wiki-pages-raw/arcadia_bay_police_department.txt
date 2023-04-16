@@ -1,0 +1,73 @@
+= Arcadia Bay Police Department =
+
+{{Stub}}
+{{Infobox Location
+|image = ABPD.png
+|location = [[Arcadia Bay]]
+|state = Oregon
+|appears = [[Episode 2: Out of Time]] <small>(mentioned)</small><br>[[Episode 3: Chaos Theory]] <small>(mentioned)</small><br>[[Episode 4: Dark Room]] <small>(mentioned)</small>
+}}
+The '''Arcadia Bay Police Department''', also referred to as '''ABPD''', is the local police force in [[Arcadia Bay]].
+
+== Episode One - "[[Episode 1: Chrysalis|Chrysalis]]" ==
+...
+
+== Known Staff ==
+* [[Officer Berry]]
+* [[Officer Corn]]
+* Lt. Chris Rossi<ref>He is mentioned in Rachel Amber's [[Media:Rachel-studentfile.png|student file]].</ref>
+* [[Diner Cop|Unnamed Cop]]<ref>Seen sitting at the counter in the [[Two Whales Diner]] in Episode 2.</ref>
+
+== Operations ==
+
+=== "Deals" ===
+The Arcadia Bay Police Department is a corrupt organization, working for the [[Prescott Family|Prescott family]] on the side. Officer Berry made a deal with [[Sean Prescott]], however doesn't disclose what exactly this deal is.<ref>However, he does mention "land deals" made by the Prescotts. These aren't confirmed to be the same deal(s). The police department does appear to be involved in the "land deals".</ref> He expresses how he wishes to go back on said deal. [[Nathan Prescott]] himself brags about having cops not "narc" on him, due to his father's power over them. He doesn't hire cops, he "owns" them, according to Nathan. This may be the reason his record is squeaky-clean.
+
+=== Relationships ===
+
+==== The Price Family ====
+* [[Joyce Price]], notably, is very close to the officers. They frequent the [[Two Whales Diner]], evident by not only three different officers being there on two separate occasions, but the [[Diner Cop|cop]] in "[[Episode 2: Out of Time|Out of Time]]" states this himself. He also refers to Joyce as being a motherly figure to him and the rest of his fellow officers.
+* Virtually everyone employed at the station is aware of [[Chloe Price]] and how much stress she puts on her mother, Joyce, by frequently getting in trouble.
+* The officers also poke fun at [[David Madsen]] occasionally, expressing how they're glad he isn't an officer himself. This implies they've talked about him before behind his back. They seem to have a neutral relationship despite this.
+
+==== Other Arcadia Bay Citizens ====
+'''''Note: This section contains mentions of suicide. [[#Missing Persons|Click here to skip it]].'''''
+* [[Maxine Caulfield|Max Caulfield]] has her reputation put before her. If Max prevents [[Kate Marsh]] from committing suicide, every officer takes to calling her "Super Maxine". They have a semi-mutually positive relationship.
+* Officers don't mention Kate outside of the previous mentions, however they were legally obligated to conduct an investigation on her suicide attempt. Their relationship is unknown.
+* The unnamed officer states that he believes [[Frank Bowers]] is "sketchy" and his [[Frank's RV|RV]] is as well. It can be speculated that because of their relationship with the Prescotts and by extension Nathan, they may be aware of Frank's operations, this is unconfirmed. They have a negative relationship.
+
+== Missing Persons ==
+Missing Persons List from the Arcadia Bay Police Department website.
+* [[Rachel Amber]] since 04/22/2013
+* Elton Kesey since 11/10/2001
+* Melissa Lee Grayson since 03/22/1997
+* Winston Smith since 06/08/1984
+* "Sunshine Ray" since 12/14/1973
+
+== Gallery ==
+<gallery widths="200px" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+Missing Persons.png|APBD website page showing missing persons.
+Chloecomp-police.png|APBD website page showing recent incidents.
+Rachelprofile.jpg|Rachel's profile from [[David's Files|David's files]].
+OfficerBerry-email.png|Email from Officer Berry to Chloe.
+Arcadia_Bay_police_car.png|Police car belonging to Officer Berry in Episode 3.
+</gallery>
+
+== Trivia ==
+* Some of the people on the Missing Persons list on Max's laptop are [[References (Life is Strange)|references]] to famous authors:
+** There is an entry for "Winston Smith" who went missing in 1984. This is a reference to George Orwell's ''1984'', where Winston Smith is the main character. At the end of this novel, he also is presumed to go missing. The missing since date is the same as the date the novel was published, July 8.
+** There is an entry for "Elton Kesey" who went missing on November 10, 2001. This is a reference to Kenneth Elton "Ken" Kesey, an American author, best known for his novel One Flew Over the Cuckoo's Nest. The missing since date is the same as the date the author died.
+* Both the sheriff's number that can be found on Rachel Amber's missing person poster (555-388-6020) as well as the department's non-emergency number that can be found on the official website viewable on Max's computer (555-ASK-ABPD) contain the prefix 555. That does not have anything to do with Arcadia Bay, however. The prefix 555 is widely used for fictitious telephone numbers in North American television shows, films, video games and other media in order to prevent curious callers from bothering real people and organisations by telephoning numbers they see in works of fiction.<ref>To read more about the prefix 555- used for fictitious telephone numbers see '''{{Wiki|555 (telephone number)|here}}'''.</ref>
+== References ==
+<references />
+{{Location Navbox}}
+
+[[es:Departamento de policía de Arcadia Bay]]
+[[ru:Полицейский департамент Аркадии Бэй]]
+[[Category:Locations]]
+[[Category:Locations (Life is Strange)]]
+[[Category:Locations in Arcadia Bay]]
+[[Category:Mentioned Locations]]
+[[Category:Non-Explorable Locations]]
+
+[[Category:Life is Strange]]

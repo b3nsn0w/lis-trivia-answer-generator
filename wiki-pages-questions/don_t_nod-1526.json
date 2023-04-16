@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Was DONTNOD's First AAA Release?",
+    "answer": "B",
+    "choices": {
+      "A": "Life is Strange",
+      "B": "Remember Me",
+      "C": "Adrift",
+      "D": "Chrysalis"
+    }
+  },
+  {
+    "question": "Why Was Remember Me Cancelled By Sony?",
+    "answer": "B",
+    "choices": {
+      "A": "Due To Poor Critical Reception",
+      "B": "Due To Budget Constraints",
+      "C": "Due To Legal Issues",
+      "D": "Due To Technical Difficulties"
+    }
+  },
+  {
+    "question": "Which Publisher Supported Life is Strange With No Intention To Change It?",
+    "answer": "D",
+    "choices": {
+      "A": "Ubisoft",
+      "B": "Electronic Arts",
+      "C": "Capcom",
+      "D": "Square Enix"
+    }
+  },
+  {
+    "question": "What Was The Original Codename For Life is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "What If",
+      "B": "Chrysalis",
+      "C": "Adrift",
+      "D": "Remember Me"
+    }
+  },
+  {
+    "question": "Why Was The Episodic Format Adapted For Life is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "Due To Creative Reasons",
+      "B": "Due To Financial Reasons",
+      "C": "Due To Technical Difficulties",
+      "D": "Due To Legal Issues"
+    }
+  }
+]

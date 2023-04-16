@@ -1,0 +1,66 @@
+#  Fred Augis 
+
+```yaml
+Crew
+
+title: Fred Augis
+profession: Concept Artist, Illustrator
+image: Fred_Augis.jpg
+born: ''
+facebook: https://facebook.com/fredaugis/
+tumblr: http://fredaugis.tumblr.com/
+```
+
+**Frédéric Augis**, better known as** Fred Augis**,** **is a French freelance concept artist and illustrator from Rennes, France, who worked on [Don't Nod](dontnod_entertainment.md)'s *[Life is Strange](life_is_strange.md)* as a senior concept artist.
+
+##  Life and Career 
+Fred Augis is considered a "renowned artist."[http://www.momenta.online/2016/08/fred-augis-on-what-makes-a-good-character-design/ Fred Augis on What Makes a Good Character Design] (August 28, 2016)
+
+Augis worked for Eugen Systems on the game *RUSE*, published by Ubisoft, and for Wizarbox as art director on *Gray Matter*, the point-and-click adventure game created by Jane Jensen. Prior to his involvement in *Life is Strange*'s development, he already worked on Dontnod's first game, *Remember Me* (released in 2013). He later worked on *Prey*, a video game developed by Arkane Studios, and, most recently, in 2017, on *Beyond Good and Evil 2 *by Ubisoft.
+
+As a freelance illustrator, he has worked on numerous sci-fi book covers and licenses of Applibot games.
+
+Augis was interested in digital art when he was a student at a visual communication school where he used Photoshop to learn traditional and digital techniques. There was a time in the 90s when tablets were not widely available or supported with creative software, so the first time he used a graphics tablet to make illustrations and concept art was after he graduated. An old friend had given him a Wacom Intuos A6 tablet which encouraged him to take a more digital approach with his art.Interview for *2dartist* magazine, Issue 97, Jan 2014. He liked the idea because he saw some great artists doing amazing work by painting it digitally. He has worked in visual design for more than 10 years.[https://magazine.artstation.com/2014/07/concept-artist-fred-augis/ Concept artist Fred Augis] (July 3, 2014)
+
+Augis does a lot of personal art when he wants to take a break from commercial work. Like only a few artists out there, Augis combines digital art with traditional art techniques.
+
+###  **Life is Strange** 
+Augis originally was working on a prototype for Dontnod's *Remember Me* when Art Director [Michel Koch](michel_koch.md) approached him and offered him to work on character designs and props for *Life is Strange*, together with Main Concept Artist [Edouard Caplain](edouard_caplain.md).
+
+Among other characters, Augis designed [Mr. Jefferson](mr__jefferson.md).
+
+{{Bigquote|"Doing Mr. Jefferson’s design was really cool. Michel gave me clear instructions. Jefferson was supposed to look like a veteran of the art world, but he was also meant to be charming and easy to talk to. We wanted him to look like someone who loves it when people are paying attention to what he’s saying, or looking at his works at an art exhibition. That’s what I was focusing on when I was designing him."}}
+
+##  Trivia 
+* "I really like everything in the sci-fi genre. It doesn’t matter what medium it is, all of it inspires me. I feel that this has had a massive impact on my personal style too."
+
+##  Concept Art 
+
+###  Characters 
+
+Life is Strange Concept Art Brooke Scott by Fred Augis.jpg
+Life is Strange Concept Art Hayden Jones by Fred Augis.jpg
+Life is Strange Concept Art Evan Harris by Fred Augis.jpg
+Life is Strange Concept Art William Price by Fred Augis.jpg
+Life is Strange Concept Art Mark Jefferson by Fred Augis.jpg
+Life is Strange Concept Art Luke Parker by Fred Augis.jpg
+Life is Strange Concept Art Nathan Prescott by Fred Augis.jpg
+Life is Strange Concept Art Mark Jefferson 2 by Fred Augis.jpg
+Life is Strange Concept Art Evan Harris 2 by Fred Augis.jpg
+
+###  Others 
+
+tumblr_o1nqynZWw81s9v32ho1_1280.jpg|Max and Chloe's drawing #1
+tumblr_o1nqynZWw81s9v32ho2_1280.jpg|Max and Chloe's drawing #2
+tumblr_o1nqynZWw81s9v32ho3_1280.jpg|Drawing from Chloe's backyard
+tumblr_o1nr93p4nH1s9v32ho1_r1_1280.jpg|Chloe's tatoo
+tumblr_o1nrg1Ir5Y1s9v32ho1_1280.jpg|Needham 1977
+Life_Is_Strange_Concept_Art_FA_car.jpg|Jefferson's car
+tumblr_o1nwyyviAf1s9v32ho1_1280.jpg|Chloe's Misfit Skull vest
+tumblr_o1nwyyviAf1s9v32ho2_1280.jpg|Chloe's cow skull vest
+tumblr_o1nwyyviAf1s9v32ho3_1280.jpg|Max's shirt - Episode 3, morning
+
+##  Interviews 
+* [http://www.momenta.online/2016/08/fred-augis-on-what-makes-a-good-character-design/ Fred Augis on What Makes a Good Character Design] (August 28, 2016)
+* [https://magazine.artstation.com/2014/07/concept-artist-fred-augis/ Concept artist Fred Augis] (July 3, 2014)
+

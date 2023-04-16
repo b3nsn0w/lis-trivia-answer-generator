@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Inconsistency In Warren's Age?",
+    "answer": "B",
+    "choices": {
+      "A": "He Is Too Young To Attend Blackwell",
+      "B": "He Is Too Old To Attend Blackwell",
+      "C": "His Age Is Not Mentioned In The Game",
+      "D": "He Is The Same Age As Max"
+    }
+  },
+  {
+    "question": "Who Inspired The Character Of Warren?",
+    "answer": "B",
+    "choices": {
+      "A": "A Character From The Walking Dead",
+      "B": "A Character From Buffy The Vampire Slayer",
+      "C": "A Character From Game Of Thrones",
+      "D": "A Character From Breaking Bad"
+    }
+  },
+  {
+    "question": "What Is The Significance Of Warren's Beating Up Nathan?",
+    "answer": "A",
+    "choices": {
+      "A": "It Shows Warren's Violent And Dark Side",
+      "B": "It Shows Warren's Compassionate Side",
+      "C": "It Shows Warren's Love For Max",
+      "D": "It Shows Warren's Scientific Abilities"
+    }
+  },
+  {
+    "question": "What Does Warren Say To Max After She Helps Him With His Science Experiment?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Don't Be So Modest, Doctor Caulfield\"",
+      "B": "\"You're Such A Nerd, Max\"",
+      "C": "\"Thanks For Nothing, Max\"",
+      "D": "\"I Don't Need Your Help, Max\""
+    }
+  }
+]

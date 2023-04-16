@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Warn Warren About Before Leaving?",
+    "answer": "A",
+    "choices": {
+      "A": "To Watch Out For Joyce",
+      "B": "To Watch Out For Nathan",
+      "C": "To Watch Out For David",
+      "D": "To Watch Out For Victoria"
+    }
+  },
+  {
+    "question": "What Does Warren Call Max?",
+    "answer": "A",
+    "choices": {
+      "A": "Super Max",
+      "B": "Time Traveler",
+      "C": "Photo Queen",
+      "D": "Heroine"
+    }
+  },
+  {
+    "question": "What Does Max Say She Will Do From Now On?",
+    "answer": "B",
+    "choices": {
+      "A": "Make The Wrong Choices",
+      "B": "Make The Right Choices",
+      "C": "Stop Time Traveling",
+      "D": "Leave Arcadia Bay"
+    }
+  },
+  {
+    "question": "What Happens After Max Kisses Warren?",
+    "answer": "D",
+    "choices": {
+      "A": "They Get Trapped In The Dark Room",
+      "B": "Warren Tells Max He Loves Her",
+      "C": "Max Loses Her Time Rewind Power",
+      "D": "Max Travels Back In Time"
+    }
+  },
+  {
+    "question": "What Does Warren Say To Max Before She Travels Back In Time?",
+    "answer": "D",
+    "choices": {
+      "A": "\"I'll Miss You\"",
+      "B": "\"Good Luck\"",
+      "C": "\"Be Careful\"",
+      "D": "\"I Believe In You\""
+    }
+  }
+]

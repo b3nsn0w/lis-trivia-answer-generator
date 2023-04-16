@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Objectives Of Max In Episode 1 Regarding Warren's Flash Drive?",
+    "answer": "B",
+    "choices": {
+      "A": "To Keep It Safe",
+      "B": "To Return It To Warren",
+      "C": "To Check Its Contents",
+      "D": "To Borrow It Again"
+    }
+  },
+  {
+    "question": "Who Borrowed Warren's Flash Drive Before Max?",
+    "answer": "A",
+    "choices": {
+      "A": "Dana Ward",
+      "B": "Chloe Price",
+      "C": "Juliet Watson",
+      "D": "Victoria Chase"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Film Library On Warren's Flash Drive?",
+    "answer": "A",
+    "choices": {
+      "A": "Warren G.'s Incredible Film Library",
+      "B": "Greatest TV Shows Ever",
+      "C": "Muzak",
+      "D": "Randomz'"
+    }
+  },
+  {
+    "question": "In Which Episode Does The Investigation In Chloe's Room Take Place?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+Here is a section of the wiki page for References (Life is Strange):
+
+## Parking Lot 
+*In the [Blackwell Parking Lot](parking_lot.md) of [Blackwell Academy](blackwell_academy.md), there are references to several television series on the license plates:
+
+Licence_Plates-10.jpg|#1 "QNT MLP" - *[w:c:quantumleap](quantum_leap.md)* (Red Car near entrance)
+Licence_Plates-11.jpg|#2 "BRDCHRCH" - *[w:c:broadchurch](broadchurch.md)* (Gray Car)
+Licence_Plates-01.jpg|#3 "TWN PKS" - *[w:c:twinpeaks](twin_peaks.md)* ([Chloe's Truck](chloe_s_truck.md))
+Licence_Plates-08.jpg|#4 "B R K B D" - *[w:c:breakingbad](breaking_bad.md)* ([Frank's RV](frank_s_rv.md))
+Licence_Plates-09.jpg|#5 "SXFTNDR" - *[w:c:sixfeetunder](six_feet_under.md)* (Nathan's Truck)
+Licence_Plates-06.jpg|#6 "THPRCTC" - *[w:c:thewire:The Practice](the_practice.md)* (Blue Truck)
+Licence_Plates-05.jpg|#7 "PRK SN RC" - *[w:c:parksandrecreation](parks_and_recreation.md)* (Brown Car)
+Licence_Plates-04.jpg|#8 "TH WR" - *[w:c:thewire](the_wire.md)* (Red Car)
+Licence_Plates-12.jpg|#9 "CRNVL" - *[w:c:carnivale](carniv_le.md)* (Brown Truck)
+Licence_Plates-07.jpg|#10 "THSPRNS" - *[w:c:sopranos](the_sopranos.md)* (Blue Car)
+Licence_Plates-03.jpg|#11 "TWLGHTZN" - *[w:c:twilightzone](the_twilight_zone.md)* (Red Truck #2)
+Licence_Plates-02.jpg|#12 "THXFLS" - *[w:c:xfiles](the_x_files.md)* (Warren's Car)
+Licence_Plates-13.jpg|#13 "BFFVMPRSLR" - *[w:c:buffy](buffy_the_vampire_slayer.md)* (Gray Truck next to Warren's car)
+
+* Chloe's license plate "TWN PKS" is a reference to the 1990 drama *Twin Peaks,* an American television serial drama, which also takes place in Pacific Northwest and is centered around the mysterious disappearance of a well liked teenage girl prior to the series start. There are also two hills in San Francisco (the city where Chloe's parents took a photo together when Joyce was expecting Chloe) with the same name. It is a very prominent tourist attraction.
+*Also in the parking lot Max spots [Frank Bowers](frank_bowers.md)'s sleeping dog and calls it "{{Wiki|Cujo}}". Cujo is a rabid canine and central character in the same-titled novel written by Stephen King.
+*There's a reference to the [w:c:meme:LOL Guy](lol_guy_meme.md) in Chloe's truck.
+*When looking at Warren's new car on the parking lot, Max calls it his "{{Wiki|WABAC machine|Wayback Machine}}", a reference to the time machine from the 1960/70s American animated television series *{{Wiki|The Rocky and Bullwinkle Show}}*, which was used to visit and alter famous events in human history.
+*Warren suggests Max could've started a {{Wiki|Kickstarter}} fund with a photograph of Victoria covered in paint if the player chooses to comfort Victoria instead of making fun of her.
+
+#
+
+## Chloe's Truck 
+*On the dashboard of [Chloe's Truck](chloe_s_truck.md) stands a bobble head which appears to be based on the "Wacky Wobbler '68 Special" bobble head of {{Wiki|Elvis Presley}} by the Funko company.
+
+Chloestruck-ep1-puppetsinger.png
+ElvisPresleyPop.png
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

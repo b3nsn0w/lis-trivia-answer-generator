@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Victoria Ask Courtney To Do When Max Leaves Her Room?",
+    "answer": "A",
+    "choices": {
+      "A": "Finish Her Paper",
+      "B": "Clean Her Room",
+      "C": "Buy Her Food",
+      "D": "Do Her Laundry"
+    }
+  },
+  {
+    "question": "What Does Victoria Write On The Bathroom Mirror About Kate?",
+    "answer": "A",
+    "choices": {
+      "A": "A Link To Her Viral Video",
+      "B": "A Compliment",
+      "C": "A Joke",
+      "D": "A Threat"
+    }
+  },
+  {
+    "question": "What Happens To Victoria's Room If Max Made Fun Of Her And Posted The Picture Online?",
+    "answer": "A",
+    "choices": {
+      "A": "It Is Trashed And Insulting Messages Are Written On The Mirror",
+      "B": "It Is Clean And Tidy",
+      "C": "It Is Decorated With Flowers And Balloons",
+      "D": "It Is Locked And Cannot Be Entered"
+    }
+  },
+  {
+    "question": "What Does Nathan Say To Victoria When Max Approaches Their Desk In Jefferson's Classroom?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Here Comes The Mysterious Max\"",
+      "B": "\"I Love Your Outfit Today\"",
+      "C": "\"Let's Be Friends\"",
+      "D": "\"I'm Sorry For What I Did To Kate\""
+    }
+  },
+  {
+    "question": "Why Is Victoria Crying At The End Of The Episode?",
+    "answer": "A",
+    "choices": {
+      "A": "She Feels Guilty About Posting The Viral Video Of Kate",
+      "B": "She Got A Bad Grade On Her Paper",
+      "C": "She Broke Up With Nathan",
+      "D": "She Lost Her Phone"
+    }
+  }
+]

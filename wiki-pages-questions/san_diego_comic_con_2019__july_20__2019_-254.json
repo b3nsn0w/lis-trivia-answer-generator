@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who from Don't Nod participated in the panel at San Diego Comic Con 2019?",
+    "answer": "A",
+    "choices": {
+      "A": "Raoul Barbet and Jean-Luc Cano",
+      "B": "Lucy Hale and Raoul Barbet",
+      "C": "Jean-Luc Cano and Lucy Hale",
+      "D": "Raoul Barbet, Jean-Luc Cano, and Lucy Hale"
+    }
+  },
+  {
+    "question": "Who hosted the panel at San Diego Comic Con 2019?",
+    "answer": "C",
+    "choices": {
+      "A": "Raoul Barbet",
+      "B": "Jean-Luc Cano",
+      "C": "Lucy Hale",
+      "D": "Square Enix"
+    }
+  },
+  {
+    "question": "When did the panel take place at San Diego Comic Con 2019?",
+    "answer": "B",
+    "choices": {
+      "A": "July 19, 2019",
+      "B": "July 20, 2019",
+      "C": "July 21, 2019",
+      "D": "July 22, 2019"
+    }
+  },
+  {
+    "question": "Where was the video of the panel released?",
+    "answer": "D",
+    "choices": {
+      "A": "On the official San Diego Comic Con website",
+      "B": "On the official Don't Nod website",
+      "C": "On the official Square Enix website",
+      "D": "On the official Life is Strange YouTube channel"
+    }
+  }
+]

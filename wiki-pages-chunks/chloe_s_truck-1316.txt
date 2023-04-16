@@ -1,0 +1,54 @@
+Here is a section of the wiki page for Chloe's Truck:
+
+#  Chloe's Truck 
+
+```yaml
+Location
+
+*: *
+image: chloestruck-main.jpg
+name: Chloe's Truck
+type: Pickup truck
+location: '[Arcadia Bay](arcadia_bay.md)'
+state: Oregon
+appears: |-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)
+  [Episode 2: Out of Time](episode_2__out_of_time.md)
+  [Episode 3: Chaos Theory](episode_3__chaos_theory.md)
+  [Episode 4: Dark Room](episode_4__dark_room.md)
+  [Episode 5: Polarized](episode_5__polarized.md) ([Max's Nightmare
+nightmare](max_s_nightmare_nightmare.md))
+: ''
+```
+
+> Now this really pisses me off. So entitled. 'Sorry, handicapped folks, my truck needs these two spots more than you do.' Bastard.
+
+**[Maxine Caulfield**, Max](maxine_caulfield____max.md)'s comment in "[Episode 1: Chrysalis, Chrysalis](episode_1__chrysalis__chrysalis.md)"
+
+'''Chloe's Truck'* is a non-explorable object/location in *[Life is Strange](life_is_strange.md)''. The truck belongs to [Chloe Price](chloe_price.md) and is used by her throughout the game to drive around [Arcadia Bay](arcadia_bay.md) and transport [Maxine Caulfield](max_caulfield.md) with her. Chloe's truck makes an appearance in *[Life is Strange: Before the Storm](before_the_storm.md)*, the prequel to the main game's events.
+
+: ''For the image gallery, click [Chloe's Truck/Gallery](here.md).''
+
+## Overview 
+On the outside, the truck has a beige paint and several stains of dirt. The cab doors are a darker shade of brown with traces of a white and blue decal (possibly vinyl). A number of small stickers can be seen near the door handles and on the back of the truck.
+
+The inside is heavily populated with graffiti and stickers — the most notable ones being the  and the phrases "This is much bigger than you" and "You're about to die", which can be interpreted as foreshadowing. On the dashboard, there is a "Wacky Wobbler '68 Special" bobble head of {{Wiki|Elvis Presley}} holding a microphone, several used tissues and soda cans, sunglasses, a pen and a pencil, several sheets of paper and two wrenches. Also, present on the dashboard is a white cup that bears the same logo as cups that are stacked behind the counter at the [Two Whales Diner](two_whales_diner.md). A white skull, a five-pointed star and a light and dark brown feather hang from the rear view mirror.
+
+## Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+Chloe's truck can be seen in the [Blackwell Parking Lot](blackwell_parking_lot.md), parked on two spots for the handicapped. Max comments that this circumstance "pisses her off" and calls the owner of the truck a bastard. She can also see a box full of [Rachel Amber](rachel_amber.md) Missing Person posters in the cargo bed. Sometime later, Chloe breaks up the confrontation between Max, [Nathan Prescott](nathan_prescott.md) and [Warren Graham](warren_graham.md) by driving very close to them in her truck. Max enters Chloe's truck, and they head to [Madsen Household](chloe_s_house.md). On the way there, they chat about Max's lack of communication with Chloe and her time in [Seattle](seattle.md).
+
+Chloe parks her truck in front of the house and the two girls go to [Chloe's Room](chloe_s_room.md). Inside, Max can find an invoice from an auto repair shop, which lists the parts of Chloe's truck that need replacing. Later, when Max is tasked with going to [David Madsen](david_madsen.md)'s [David's Garage](garage.md) to search for precision tools, she can partially see the truck through the garage door.
+
+## Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+Chloe drives in her truck to the [Two Whales Diner](two_whales_diner.md) to meet up with Max. After Max convinces Chloe of her [Rewind](rewind_ability.md), they drive off to the [American Rust Junkyard](american_rust_junkyard.md) in the truck.
+
+Chloe later brings Max from the junkyard back to [Blackwell Academy](blackwell_academy.md) using her truck and drives off in it afterwards.
+
+## Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+Chloe uses the truck to get to Blackwell Academy to meet Max at night. After Max and Chloe swum in [Blackwell Swimming Pool](blackwell_s_swimming_pool.md), security guards search the pool, and they run towards the truck and escape with it. While escaping, the number plate of the truck gets spotted by one of the guards leading Chloe as the truck owner, to be involved in a [Arcadia Bay Police Department](police.md) investigation about the break-in to Blackwell.
+
+Later, Max and Chloe drive to [Frank's RV](frank_s_rv.md) in the truck, where they find information about [Rachel Amber](rachel_amber.md)'s relationship with [Frank Bowers](frank_bowers.md). Afterwards, they drive away in it and Chloe silently drops Max off at Blackwell Academy.
+
+
+
+Generate five trivia questions relevant to this section of the page.

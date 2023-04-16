@@ -1,0 +1,37 @@
+= Arcadia Bay Cemetery =
+
+{{Infobox Location
+|image = arcadiabaycemetry.png
+|type = Cemetery
+|location = [[Arcadia Bay]]
+|state = Oregon
+|appears = '''Life is Strange:'''<br>[[Episode 5: Polarized]] <small>(determinant, cutscene)</small><br>'''Before the Storm:'''<br>[[Farewell]] <small>(cutscene)</small>}}The '''Arcadia Bay Cemetery''' is a local graveyard in [[Arcadia Bay]].
+
+== Life is Strange ==
+The cemetery appears in the last cutscene of the game if [[Maxine Caulfield|Max Caulfield]] chooses to sacrifice [[Chloe Price]]. The location is not explorable.
+
+Chloe's funeral takes place here, and is well-attended by Max, [[Joyce Price]], [[David Madsen]], [[Principal Wells]], [[Frank Bowers]] and his dog [[Pompidou]] and various Blackwell students including [[Warren Graham]], [[Kate Marsh]], [[Victoria Chase]], [[Justin Williams]], [[Trevor]] and [[Dana Ward]]. Chloe's grave is located next to that of her father [[William Price|William]].
+
+The [[Blue Butterfly|blue butterfly]] appears in the last moments of the game on Chloe's coffin.
+
+== Before the Storm ==
+In the ending of the bonus episode "[[Farewell]]", [[Chloe Price (Before the Storm)|Chloe]] and [[Joyce Price (Before the Storm)|Joyce]] are seen attending [[William Price (Before the Storm)|William Price]]'s funeral. They are accompanied by [[Maxine Caulfield (Before the Storm)|Max]] for a short time, before the latter leaves with her parents for [[Seattle]].
+
+== Occupants ==
+* [[William Price]]
+* [[Chloe Price]] ('''Determinant''')
+
+{{Location Navbox}}
+
+[[fr:Cimetière d'Arcadia Bay]]
+[[ru:Кладбище Аркадии Бэй]]
+[[pt-br: Cemitério de Arcadia Bay]]
+[[Category:Locations]]
+[[Category:Locations (Life is Strange)]]
+[[Category:Episode 5: Polarized Locations]]
+[[Category:Locations in Arcadia Bay]]
+[[Category:Farewell Locations]]
+[[Category:Non-Explorable Locations]]
+[[Category:Before the Storm]]
+[[Category:Life is Strange]]
+[[Category:Farewell]]

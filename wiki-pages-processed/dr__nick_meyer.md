@@ -1,0 +1,14 @@
+#  Dr. Nick Meyer 
+
+[File:Nick Meyer Book.png](thumb.md)
+**Dr. Nick Meyer** is a scientist and published author. He has published a book on [Time Travel](time_travel.md), borrowed from the library by [Maxine Caulfield](max_caulfield.md) at the recommendation of [Warren Graham](warren_graham.md) when she is researching the subject. The book can be seen on Max's desk at the beginning of [Episode 2: Out of Time](episode_2.md).
+
+## Trivia 
+* The name Nick Meyer is probably a [References (Life is Strange)](reference.md) to {{Wiki|Nicholas Meyer|Nicholas "Nick" Meyer}}, an American screenwriter and movie director. He is mainly known for having directed the 1979 time travel movie* {{Wiki|Time_After_Time_(1979_film)|Time After Time}}*.
+
+{{Character Navbox}}
+
+, an American screenwriter and movie director. He is mainly known for having directed the 1979 time travel movie* {{Wiki|Time_After_Time_(1979_film)|Time After Time}}*.
+
+{{Character Navbox}}
+

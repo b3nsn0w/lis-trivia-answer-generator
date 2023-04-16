@@ -1,0 +1,121 @@
+Here is a section of the wiki page for Episode 2: Out of Time - Script:
+
+right...
+
+**Optional Conversation with Justin**
+
+**Max:** What's up, Justin?
+
+**Justin:** Getting my coffee on before I cut class and destroy some rails. Shouldn't you be taking photos?
+
+I am.# I am.**Max:** I am always taking photos. I am a camera.
+
+**Justin:** You crack me up, Maxter. Of course, I'm baked, so I'll laugh at anything.
+
+**Max:** You should be studying, bad boy.
+
+|-|Not yet.Not yet.**Max:** Not yet. I need to... get my coffee on too.
+
+**Justin:** Throw in a little green bud and you have the perfect hippie cocktail.
+
+**Max:** You are so not a hippie.
+
+**Justin:** So where's all your homework, schoolgirl?
+
+**Max:** School. Speaking of buds, I saw your bro Trevor sneaking out of Dana's room.
+
+**Justin:** Trevor finally told me about him and Dana hooking up. He got there first, so I snooze and I lose... See ya later, Max.
+
+**Optional Conversation with Trevor**
+
+**Max:** Hey, Trevor.
+
+**Trevor:** Holla, Max. By the way, I know you saw me in the dorm.
+
+Dana's room.# Dana's room.**Max:** Yeah, I saw you coming out of Dana's room.
+
+**Trevor:** Yeah, and I finally had to tell Justin, because, well, he was into her too.
+
+|-|No.No.**Max:** No, I actually didn't.
+
+**Trevor:** Thought you were staring right at my face. I guess you know now... and so does Justin.
+
+**Max:** How did Justin react?
+
+**Trevor:** I got him blazed. He was cool. Nobody has secrets in Blackwell anyway... See you in class, Max.
+
+*Max sits down at the booth. Joyce walks over, holding a pot of coffee.*
+
+**Joyce:** And there she is--a lovely young woman. How are you doing, Max?
+
+*Joyce pours coffee into the mug in front of Max.*
+
+**Max:** Hi, Joyce, it's nice to see you again. You look the same.
+
+**Joyce:** Like I'm still a waitress at Two Whales after all these years?
+
+**Max:** No, like you still look pretty.
+
+**Joyce:** Nice save, kid. You're still smart.
+
+Stayed hidden/Blamed Chloe# Stayed hidden/Blamed Chloe**Joyce:** But I wish you had been here to help save Chloe. She got busted yesterday smoking out. Again.
+
+**Max:** I know.
+
+{{#tag:tabber|Stayed hiddenStayed hidden
+
+**Max:** Chloe told me that her stepfather hit her...
+
+{{!}}-{{!}}Blamed Chloe# Blamed Chloe
+
+**Max:** Her stepfather hit her...
+
+}}
+
+**Joyce:** I am sorry that was your introduction to David. I hope you get to know him on your terms, not Chloe's. He's a good man... He just--
+
+**Max:** Yeah, I'm sure he is, since you married him, but...don't be so harsh on Chloe.
+
+**Joyce:** It's good you're here.
+
+|-|Took the blame for Chloe/Came out of hidingTook the blame for Chloe/Came out of hiding**Joyce:** But not that smart... Now you get busted for smoking pot. I heard the whole sordid story from David. I'm sorry this was how you had to meet him. He's a good man...no matter what Chloe says.
+
+**Max:** Yeah, I'm sure. I don't even smoke...like, ever. It was almost an accident. Very stupid. I'm sorry.
+
+**Joyce:** It surprised me fierce.
+
+**Joyce:** I was hoping you could be a good influence in her life now...
+
+**Max:** I will be. Promise. I know things were hard for you and Chloe. I feel bad I didn't call. Now my folks are in Seattle and I'm all alone at Blackwell. It's my karma.
+
+**Joyce:** You did the right thing. You moved forward with your life. I did, after William passed on. Chloe...Chloe chose to stay angry... Anyway, I hope we see more of you. Chloe needs an old friend again.
+
+**Max:** Joyce, I am so sorry about William. I have great memories of him.
+
+**Joyce:** I'm glad, Max. That was his gift to us...wonderful memories. Even if Chloe doesn't understand yet.
+
+Chloe understands.# Chloe understands.**Max:** Chloe understands, she just needs...time. I know that sucks for you.
+
+|-|Chloe has changed.Chloe has changed.**Max:** Chloe must have changed a lot during that time...
+
+**Joyce:** Oh, she hit all the phases...expulsion, running away, drugs, bad boys, tattoos, piercings, blue hair... Now she's gotta rebel against her stepfather.
+
+**Max:** I see why... I mean--
+
+Stayed hidden# Stayed hidden**Joyce:** Why? What did Chloe tell you?
+
+{{#tag:tabber|David hit her.David hit her.**Max:** Well, Chloe texted me that David slapped her yesterday...
+
+**Joyce:** He feels awful... And he will be punished.
+
+{{!}}-{{!}}Nothing.# Nothing.**Max:** Chloe doesn't have to tell me anything. I just know how David is at Blackwell.
+
+**Joyce:** You know what happened. David slapped Chloe. He fucked up.
+
+}}
+
+|-|Blamed ChloeBlamed Chloe**Joyce:** Didn't you rebel against your best friend by letting her twist in the wind with that joint?
+
+{{#tag:tabber|David hit Chloe.# David hit Chloe.**Max:** Joyce, he slapped Chloe 
+
+Generate five trivia questions relevant to this section of the page.

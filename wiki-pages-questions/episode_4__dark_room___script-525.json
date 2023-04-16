@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Did Warren Do To Nathan Prescott?",
+    "answer": "B",
+    "choices": {
+      "A": "Headbutted Him",
+      "B": "Beat Him Up",
+      "C": "Called The Police",
+      "D": "Ignored Him"
+    }
+  },
+  {
+    "question": "Why Did Max Ask Warren To Find Information About Nathan's Father?",
+    "answer": "B",
+    "choices": {
+      "A": "To Get Nathan In Trouble",
+      "B": "To Help With Their Investigation",
+      "C": "To Get Revenge On Nathan",
+      "D": "To Warn Nathan's Father"
+    }
+  },
+  {
+    "question": "What Does Chloe Say About Frank's Response Time?",
+    "answer": "A",
+    "choices": {
+      "A": "He Always Answers When He Wants Money",
+      "B": "He Never Answers His Phone",
+      "C": "He Only Answers On Weekends",
+      "D": "He Takes A Long Time To Respond"
+    }
+  },
+  {
+    "question": "What Does Chloe Do After Texting Frank?",
+    "answer": "B",
+    "choices": {
+      "A": "She Goes To Sleep",
+      "B": "She Goes To Meet Frank",
+      "C": "She Ignores Frank's Reply",
+      "D": "She Calls The Police"
+    }
+  },
+  {
+    "question": "What Is Warren's Reaction When Max Thanks Him?",
+    "answer": "C",
+    "choices": {
+      "A": "He Gets Angry",
+      "B": "He Leaves Immediately",
+      "C": "He Feels Alpha",
+      "D": "He Cries"
+    }
+  }
+]

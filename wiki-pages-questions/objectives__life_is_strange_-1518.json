@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Does Warren Text Max To Help Her Get Into The Principal's Office?",
+    "answer": "A",
+    "choices": {
+      "A": "The Ingredients For A Pipe Bomb",
+      "B": "A Key",
+      "C": "A Crowbar",
+      "D": "A Hacking Device"
+    }
+  },
+  {
+    "question": "What Does Max Ask Warren For To Jump Back In Time And Save Chloe?",
+    "answer": "A",
+    "choices": {
+      "A": "A Photo",
+      "B": "A Time Machine",
+      "C": "A Portal",
+      "D": "A Magic Spell"
+    }
+  },
+  {
+    "question": "What Does Max Tear Up To Prevent Altering The Timeline?",
+    "answer": "A",
+    "choices": {
+      "A": "Her Selfie",
+      "B": "Her Journal",
+      "C": "Her Photo Album",
+      "D": "Her Winning Contest Entry"
+    }
+  },
+  {
+    "question": "What Does Max Ask Warren For To Prevent The Diner From Blowing Up?",
+    "answer": "A",
+    "choices": {
+      "A": "A Photo",
+      "B": "A Bomb Defusal Kit",
+      "C": "A Fire Extinguisher",
+      "D": "A Gun"
+    }
+  }
+]

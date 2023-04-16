@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Think About The Polaroid Camera?",
+    "answer": "A",
+    "choices": {
+      "A": "She Thinks It Makes Every Photo Look Nostalgic",
+      "B": "She Thinks It Is Outdated And Useless",
+      "C": "She Thinks It Is Too Heavy To Carry Around",
+      "D": "She Thinks It Is Too Expensive To Buy"
+    }
+  },
+  {
+    "question": "What Is Max Afraid Of In Chloe's Attic?",
+    "answer": "A",
+    "choices": {
+      "A": "Mice And Spiders",
+      "B": "Ghosts And Goblins",
+      "C": "Snakes And Lizards",
+      "D": "Bats And Rats"
+    }
+  },
+  {
+    "question": "What Does Chloe's Mom Buy For Max?",
+    "answer": "A",
+    "choices": {
+      "A": "A Toothbrush",
+      "B": "A Hairbrush",
+      "C": "A Makeup Kit",
+      "D": "A Camera"
+    }
+  },
+  {
+    "question": "What Does Max Think About Makeup?",
+    "answer": "A",
+    "choices": {
+      "A": "She Only Uses It For Acting Or Halloween Costumes",
+      "B": "She Thinks It Is Essential For Everyday Life",
+      "C": "She Thinks It Is A Waste Of Money",
+      "D": "She Thinks It Is Too Complicated To Use"
+    }
+  },
+  {
+    "question": "What Makes Max Squeamish?",
+    "answer": "A",
+    "choices": {
+      "A": "The Sight Of Fake Blood",
+      "B": "The Sight Of Real Blood",
+      "C": "The Sight Of Spiders",
+      "D": "The Sight Of Heights"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Why do telephone numbers in Life is Strange have the prefix 555?",
+    "answer": "A",
+    "choices": {
+      "A": "To indicate that they are fictitious numbers",
+      "B": "To indicate that they are emergency numbers",
+      "C": "To indicate that they are local numbers",
+      "D": "To indicate that they are international numbers"
+    }
+  },
+  {
+    "question": "What is the name of the lead environment artist at DONTNOD referenced in Life is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Amaury Balandier",
+      "B": "Marianna Taylor",
+      "C": "Lisa Avena",
+      "D": "David Madsen"
+    }
+  },
+  {
+    "question": "What is the name of the soda brand found in Chloe's room in Life is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Pr. Amaury",
+      "B": "Coca-Cola",
+      "C": "Pepsi",
+      "D": "Dr. Pepper"
+    }
+  },
+  {
+    "question": "Whose tablet in Life is Strange is from the brand \"Amaury\"?",
+    "answer": "A",
+    "choices": {
+      "A": "Victoria Chase",
+      "B": "Max Caulfield",
+      "C": "Chloe Price",
+      "D": "Nathan Prescott"
+    }
+  }
+]

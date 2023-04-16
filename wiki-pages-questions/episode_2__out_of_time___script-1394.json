@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Does Zachary Think About Victoria?",
+    "answer": "A",
+    "choices": {
+      "A": "He Doesn't Understand Her",
+      "B": "He Thinks She's Talented",
+      "C": "He Thinks She's Annoying",
+      "D": "He Thinks She's Ugly"
+    }
+  },
+  {
+    "question": "What Does David Accuse Chloe Of Stealing?",
+    "answer": "C",
+    "choices": {
+      "A": "His Wallet",
+      "B": "His Car",
+      "C": "His Gun",
+      "D": "His Phone"
+    }
+  },
+  {
+    "question": "What Does Max Take A Photo Of For Surveillance Sake?",
+    "answer": "B",
+    "choices": {
+      "A": "David's Car",
+      "B": "David Hassling Kate",
+      "C": "Victoria's Shopping Trip",
+      "D": "Evan's Art Project"
+    }
+  },
+  {
+    "question": "What Is Evan's Nickname For Max?",
+    "answer": "B",
+    "choices": {
+      "A": "Maxie",
+      "B": "Maxwell Smart",
+      "C": "Smarty Pants",
+      "D": "Maxine"
+    }
+  }
+]

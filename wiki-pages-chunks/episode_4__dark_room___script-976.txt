@@ -1,0 +1,87 @@
+Here is a section of the wiki page for Episode 4: Dark Room - Script:
+
+## **Conversation with Stella**
+(If Max initiates the conversation)# (Max initiates the conversation)**Max:** Hi, Stella.
+**Stella: **Hey, Max, welcome to the "End of the World." Do you want me to check anything in?
+
+**Max: **No, thanks, Stella. Have you seen Nathan yet?
+
+**Stella: **No, thank God. That boy creeps me out... Wait, some girl just asked about Nathan before you came in.
+
+Nathan's creepy?Nathan's creepy?**Max:** Why does Nathan creep you out? He should. I just want your reasons.
+
+**Stella:** He's a bully for one thing and he hit Warren for another... But have you ever looked at his eyes? Glazed and raging. Me no like.
+
+|-|What girl?# What girl?**Max:** What girl?
+
+**Stella:** She had blue hair, dressed like a punk... I've seen her putting up those Rachel Amber posters. I'm stuck here, so I'm sorry I can't help you.
+
+**Max: **So why are you working at a Vortex Club party? I didn't think you wanted to be a member.
+
+**Stella: **Screw that. I'm here for the job.
+
+Who hired you?Who hired you?**Max:** Who hired you?
+
+**Stella:** Mr. Jefferson asked me because he knows I don't have a lot of money, even with my job and scholarship. I'm not cool enough for this school.
+
+|-|Anything unusual?# Anything unusual?**Max:** Do you notice anything unusual about the Vortex Club tonight?
+
+**Stella:** Yeah, I notice they don't give a shit about Kate Marsh. I'm glad for the job, but I think Principal Wells should have canceled the party. Guess I'm not cool enough.
+
+**Max: **Yes, you are, Stella. You're smart, honest, and you bust your ass for Blackwell. I hope everything turns out your way in the end.
+
+**Stella: **Awww, thank you, Max. I really appreciate that. Hey, your face looks so intense... are you okay?
+
+**Max: **Um, no, I'm actually not okay. I... I just need to find Nathan. And don't get too close if you see him.
+
+**Stella: **Hell no. This is homework, not a party. I'll text you if I spy him. Good luck.
+
+*Max walks through the curtains and enters the party.*
+
+'*Max* (thinking)*:*' *We need to find Nathan and take him down.*
+
+#
+
+## **Optional Conversation with Daniel**# 
+
+*Only available if Max convinced Daniel to attend the party.*
+
+**Max:** Hi, Daniel.
+
+**Daniel:** Yes! Max makes an entrance! I only came to the party because of you!
+
+**Max:** I'm glad to see you out and about. By the way, have you seen Nathan Prescott tonight?
+
+**Daniel:** No, I've been hanging with Brooke since I got here. Max, are you okay? Your face looks so... serious.
+
+I know.I know.
+
+**Max:** I know. I'm not in party mode tonight.
+
+**Daniel:** You look like you're on a secret mission...
+
+|-|It's nothing.# It's nothing.
+
+**Max:** It's nothing. Just residue from all the Blackwell drama...
+
+**Daniel:** It seems like it never ends, huh?
+
+**Max:** This is where it's going to end... for Rachel's sake.
+
+(Max has a date with Warren)(Max has a date with Warren)
+
+**Daniel:** Oh, Max. You need a Blackwell break. I'm taking Brooke to a Miyazaki show in Portland if you want to come along... the more the merrier!
+
+|-|(Brooke has a date with Warren)# (Brooke has a date with Warren)
+
+**Daniel:** Well, if you want to hang out with Brooke and me, we're here for you.
+
+**Max:** Thanks, Daniel. I have to stay on my mission now. I hope you stay on yours and become a great artist.
+
+**Daniel:** Well, I'll be celebrating someday in a museum, Max. Adios.
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

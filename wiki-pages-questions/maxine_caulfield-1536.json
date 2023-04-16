@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the reference behind Max's surname, Caulfield?",
+    "answer": "A",
+    "choices": {
+      "A": "A character from The Catcher in the Rye",
+      "B": "A famous painter",
+      "C": "A character from The Great Gatsby",
+      "D": "A famous musician"
+    }
+  },
+  {
+    "question": "What is Max's opinion on Final Fantasy: The Spirits Within?",
+    "answer": "B",
+    "choices": {
+      "A": "She thinks it's a terrible movie",
+      "B": "She thinks it's one of the best science-fiction movies ever made",
+      "C": "She has never seen it",
+      "D": "She thinks it's an overrated movie"
+    }
+  },
+  {
+    "question": "What does Nathan mock Max for?",
+    "answer": "B",
+    "choices": {
+      "A": "Her shyness",
+      "B": "Her virginity",
+      "C": "Her intelligence",
+      "D": "Her artistic skills"
+    }
+  },
+  {
+    "question": "What is the font used in Max's Journal?",
+    "answer": "C",
+    "choices": {
+      "A": "Times New Roman",
+      "B": "Arial",
+      "C": "Dudu Calligraphy",
+      "D": "Comic Sans"
+    }
+  },
+  {
+    "question": "What is the reference behind Joyce calling Max \"Nancy Drew\"?",
+    "answer": "A",
+    "choices": {
+      "A": "A famous detective character from a mystery fiction series",
+      "B": "A famous journalist",
+      "C": "A famous lawyer",
+      "D": "A famous chef"
+    }
+  }
+]

@@ -1,0 +1,58 @@
+Here is a section of the wiki page for Chloe's Room:
+
+## Original Timeline
+*{{Interaction|She can read an issue of "[The Great Northwest](the_great_northwest.md)" lying on Chloe's bed.|"Damn, this is a serious exposé on the Prescotts... Finally!"}}
+*{{Interaction|She can read a magazine on the suitcase.|"That's my Chloe."}}
+*{{Interaction|She can look at the papers in the trash can.|"Even Holmes and Watson didn't use every piece of information."}}
+*{{Interaction|She can look at a cup of coffee.|"Staying up all night is the best excuse to drink lotsa coffee."}}
+*{{Interaction|She can look at Chloe's ashtray.|"Yes, Chloe Price was here."}}
+*{{Interaction|She can examine the picture box.|"I'm so sorry, William... It's not fair you had to die twice."}}
+*{{Interaction|She can look at the snow doe.|**Broke: **"The snow doe is still broken apart, like William from Chloe..."
+'''Didn't break: '''"That snow doe always makes me think of William and Chloe."}}
+*{{Interaction|She can examine Chloe's wallet.|"This butterfly photo seems like a million years ago... How much time have I altered since?"}}
+*{{Interaction|She can look at an email from [Anderson Berry](officer_berry.md) (determinant).|**Erased message: **"I should have known just erasing that phone message wouldn't
+stop the police..."
+'''Didn't erase message: '''"Oh great, Chloe is busted again. I was her partner in crime,
+but... not this time..."}}
+*{{Interaction|She can look at and examine the board.|"Amazing how innocent our drawings were, compared to what we're doing now."}}
+*{{Interaction|She can look at, speak to and take an optional photo of Chloe.|"I wish I could tell Chloe how much William cared about her..."}}
+*She can leave the room **(required)**.
+*She can have a Moment of Calm on the bed.
+
+Later in the episode:
+*{{Interaction|She can look at the gun.|**Shot Frank: **"Did our plan have to include shooting Frank in the leg?"
+**Killed Frank: **"Sorry, Frank... I should bury this goddamn thing."
+**No one hurt: **"Sorry, we got Frank on our side without using you."}}
+*{{Interaction|She can look at Chloe's laptop.|"We've printed everything we need, now it’s time to focus on the big board..."}}
+*She can play a song on the HiFi.
+*{{Interaction|She can look at and speak to Chloe.|**Frank alive: **"Chloe is on a roll to find more clues about Rachel, now that we're so close."
+**Frank dead: **"Oh, Chloe, I'm so sorry you have to go through this."}}
+
+She can examine the clues on the board:
+*{{Interaction|Map of Blackwell with camera placement.|"You need to get rid of these damn cameras, David."}}
+*{{Interaction|Coordinates of several vehicles.|"I hope in this case that David has good tracking skills."}}
+*{{Interaction|Photos of Kate.|"David should have done way more than take photos of Kate."}}
+*{{Interaction|David's profile on Kate.|"Hmmm, maybe he was trying to help Kate in his own messed up way."}}
+*{{Interaction|Photos of car license plates.|"Look at all these license plates. I hope he was tailing Nathan."}}
+*{{Interaction|Photos of Max.|"Of course, I’m a suspect. Proving David sucks as a detective. Sorry."}}
+*{{Interaction|Photos of Nathan.|"At least David was finally going after the right suspect."}}
+*{{Interaction|Excerpt from Principal Wells' notes.|"David really has been on Rachel's ass for a while. She should have been upset."}}
+*{{Interaction|David's profile on Rachel.|"Does David know what’s going on with Rachel or is he just paranoid about everybody?"}}
+*{{Interaction|Photo of Nathan in his car.|"Of course, Nathan drives an SUV. Overcompensating as usual."}}
+*{{Interaction|Photo of Nathan dealing drugs.|"There’s Nathan dealing to the kids right out in the open."}}
+*Coordinates of Nathan's car.
+*{{Interaction|Photo of Nathan's car license plate.|"Hmmm, who does this car belong to?"}}
+*{{Interaction|Coordinates of Jefferson's car.|"Hmmm, who else was David tracking here?"}}
+*{{Interaction|Photo of Jefferson's car license plate.|"Wowser, this looks like an expensive machine."}}
+*{{Interaction|Coordinates of an unknown car (TWLGHTZN).|"Why the hell are you following these people? And to where?"}}
+*{{Interaction|Photo of an unknown car license plate (TWLGHTZN).|"Interesting... is this Nathan's car?"}}
+*{{Interaction|Coordinates of Chloe's car.|"Yep. Another car David was tracking."}}
+*{{Interaction|Photo of Chloe's car license plate.|"That's definitely Chloe's car."}}
+*{{Interaction|Photo of the parking lot confrontation.|**Warren beat up Nathan** "I'm glad Warren got his revenge." 
+ **Stop Warren from beating Nathan** "Maybe I should have let Warren beat Nathan's ass down... just this once."}}
+*{{Interaction|Key for Frank's account book.|"'Rott' must stand for Rottweiler. That does fit Nathan... rotten."}}
+*{{Interaction|Frank's account book.|"Frank’s account book. But the client names are encrypted."}}
+*{{Interaction|Excerpt from Principal Wells' notes.|"Frank is for sure the 'local dealer,' but I doubt Rachel was carrying drugs for him... right?"}}
+*{{Interaction|Letter from Rachel to Frank.|"There’s no doubt she loved him in some 
+
+Generate five trivia questions relevant to this section of the page.

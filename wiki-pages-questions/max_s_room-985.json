@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Book Is Visible On Top Of Max's Desk In Episode Two?",
+    "answer": "A",
+    "choices": {
+      "A": "A Moron's Guide to Time Travel by Dr. Nick Meyer",
+      "B": "A Brief History of Time by Stephen Hawking",
+      "C": "The Time Traveler's Wife by Audrey Niffenegger",
+      "D": "Time and Again by Jack Finney"
+    }
+  },
+  {
+    "question": "What Will Be In One Corner Of Max's Room In Episode Three?",
+    "answer": "B",
+    "choices": {
+      "A": "A Floor Lamp",
+      "B": "A Set Of Mystic: Enchantment Cards",
+      "C": "A Set Of Sticky Notes",
+      "D": "A Box Of Chocolate Coconut Bites"
+    }
+  },
+  {
+    "question": "What Will Be Visible On Top Of The Book And Music Shelf Next To Max's Desk In Episode Two?",
+    "answer": "A",
+    "choices": {
+      "A": "A Photo Of Victoria Covered In Paint",
+      "B": "A Set Of Sticky Notes",
+      "C": "A Set Of Books On Time",
+      "D": "A Wristwatch"
+    }
+  },
+  {
+    "question": "What Will Max Tear After Returning To Her Room In Episode Five?",
+    "answer": "A",
+    "choices": {
+      "A": "Her Winning Selfie",
+      "B": "Her Journal",
+      "C": "Her Camera",
+      "D": "Her Laptop"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Was William Going To Get From Bean City?",
+    "answer": "A",
+    "choices": {
+      "A": "Mocha",
+      "B": "Hot Chocolate",
+      "C": "Latte",
+      "D": "Cappuccino"
+    }
+  },
+  {
+    "question": "What Was Nathan's Reaction After Fighting With Warren?",
+    "answer": "C",
+    "choices": {
+      "A": "He Laughed Hysterically",
+      "B": "He Cried",
+      "C": "He Screamed About The Storm",
+      "D": "He Apologized"
+    }
+  },
+  {
+    "question": "What Was Chloe's Reaction After Killing Frank?",
+    "answer": "B",
+    "choices": {
+      "A": "She Was Proud Of Herself",
+      "B": "She Was Remorseful",
+      "C": "She Was Angry At Max",
+      "D": "She Was Scared Of Going To Jail"
+    }
+  },
+  {
+    "question": "What Was Max's Inner Thought While On The Beach?",
+    "answer": "B",
+    "choices": {
+      "A": "She Was Excited To Find Rachel Amber",
+      "B": "She Was Worried About The Storm",
+      "C": "She Was Thinking About Jefferson",
+      "D": "She Was Thinking About Leaving Arcadia Bay"
+    }
+  },
+  {
+    "question": "What Did Warren Say While Playing Video Games On The Toilet?",
+    "answer": "D",
+    "choices": {
+      "A": "\"I'm The Best At This Game\"",
+      "B": "\"I'm Going To Be Late For Class\"",
+      "C": "\"I Need To Go To The Bathroom\"",
+      "D": "\"Level Up, Bitch!\""
+    }
+  }
+]

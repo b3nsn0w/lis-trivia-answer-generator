@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Where Is The Letter From Harry Aaron Prescott To Mr. Lyndon Found?",
+    "answer": "B",
+    "choices": {
+      "A": "Inside The Dark Room",
+      "B": "Inside The Barn",
+      "C": "Inside The Storage Room",
+      "D": "Inside The Lounge"
+    }
+  },
+  {
+    "question": "What Does Max Say About The Prescotts After Reading Harry Aaron Prescott's Letter?",
+    "answer": "C",
+    "choices": {
+      "A": "They Are Kind People",
+      "B": "They Are Generous Donors",
+      "C": "They Are Just Born Bastards",
+      "D": "They Are Misunderstood"
+    }
+  },
+  {
+    "question": "Where Is The Note From Jefferson To Nathan Found?",
+    "answer": "B",
+    "choices": {
+      "A": "Inside The Barn",
+      "B": "Inside The Dark Room",
+      "C": "Inside The Storage Room",
+      "D": "Inside The Lounge"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Editing Software Displayed In The Monochrome Photo Of A Drugged Kate?",
+    "answer": "A",
+    "choices": {
+      "A": "NEONVAULT",
+      "B": "NEONVAU",
+      "C": "NEONEDIT",
+      "D": "NEONPHOTO"
+    }
+  },
+  {
+    "question": "What Does Chloe Use The Monochrome Photo Of Drugged Rachel And Nathan For?",
+    "answer": "A",
+    "choices": {
+      "A": "To Determine Rachel's Burial Spot",
+      "B": "To Prove Nathan's Guilt",
+      "C": "To Identify The Dark Room's Location",
+      "D": "To Find Evidence Against Jefferson"
+    }
+  }
+]

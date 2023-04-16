@@ -1,0 +1,920 @@
+#  Game Statistics (Life is Strange) 
+
+[File:This action will have consequences-0.png](centre.md)
+
+The **game statistics** are the combined percentages of choices made by all PC/Steam players and are displayed after completing an episode. They can be filtered globally or by friends.
+
+: *Click [Game Statistics/Playstation](here.md) for the PlayStation game statistics and click [Game Statistics/Xbox](here.md) for the Xbox game statistics.*
+
+: *The stats were last updated on **May 2, 2021.***
+
+##  Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+###  **Major Choices** 
+{|style# "width:100%; background-color:transparent" class"article-table"
+| valign# "top" |
+**Principal Wells**
+* You reported Nathan. - **62%**
+* You hid the truth. - 38%
+|style"padding-right:100px"|[File:TX_MajorChoice_Nathan.png](right.md)
+|-
+| valign# "top" |
+'''Victoria's Outfit**
+* You made fun of Victoria. - 26%
+* You comforted Victoria. - **74%**
+|[File:TX MajorChoice Victoria.png](thumb.md)
+|-
+| valign"top" |
+**David and Kate**
+* You took a photo of David harassing Kate. - 16%
+* You intervened to help out Kate. - **84%**
+|style# "padding-right:100px"|[File:TX_MajorChoice_Kate.png](thumb.md)
+|-
+| valign"top" |
+**Chloe's Pot**
+*You took the blame for Chloe. - 29%
+* You blamed Chloe. - 1%
+* You stayed hidden. - **36%**
+* You came out of hiding to intervene. - 34%
+|[File:TX MajorChoice David.png](thumb.md)
+|}
+
+### **Minor Choices**
+{|style# "width:100%; background-color:transparent" class"article-table"
+| valign# "top" |
+**Daniel**
+* You let Daniel draw your portrait. - 41%
+* You didn’t let Daniel draw your portrait. - **59%**
+|style"padding-right:100px"|[File:TX MinorChoice Daniel.png](thumb.md)
+|-
+| valign# "top" |
+**Ms. Grant**
+* You signed Ms. Grant’s petition. - 42%
+* You didn’t sign Ms. Grant’s petition. - **58%**
+|[File:TX MinorChoise MsGrant.png](thumb.md)
+|-
+| valign"top" |
+**Alyssa**
+* You helped Alyssa. - **78%**
+* You didn’t help Alyssa. - 22%
+|style# "padding-right:100px"|[File:TX MinorChoice Alyssa.png](thumb.md)
+|-
+| valign"top" |
+**Kate's Slate'''
+* You erased the insults on Kate's slate. - 43%
+* You didn't erase Kate's slate. - **57%**
+|[File:TXMinorChoiceKate2.png](thumb.md)
+|-
+| valign# "top" |
+**Lisa the Plant**
+* You watered your plant. - **68%**
+* You didn’t water your plant. - 32%
+|style"padding-right:100px"|[File:TX MinorChoice Lisa.png](thumb.md)
+|-
+| valign# "top" |
+'''Dana's Pregnancy Test**
+* You touched Dana’s pregnancy test. - 2%
+* You didn’t touch Dana’s pregnancy test. **98%**
+|[File:TX MinorChoice Dana-0.png](thumb.md)
+|-
+| valign"top" |
+**Victoria's Photos**
+* You "reorganized" Victoria’s photos. - 21%
+* You didn’t touch Victoria’s photos. - **79%**
+|style# "padding-right:100px"|[File:TX MinorChoiceVictoria2.png](thumb.md)
+|-
+| valign"top" |
+**Dirty RV'''
+* You wrote on a [Frank's RV](dirty_rv.md). - 20%
+* You didn’t write on a dirty RV. -** 80%**
+|[File:TX MinorChoice Frank.png](thumb.md)
+|-
+| valign# "top" |
+**The Bird**
+* You saved [Blue Jay](the_bird.md). - 42%
+* You let the bird die. - **58%**
+|style"padding-right:100px"|[File:TX MinorChoice Bird.png](thumb.md)
+|-
+| valign# "top" |
+'''Chloe's Snow Globe**
+* You broke Chloe’s snow globe. - 12%
+* You didn’t break Chloe’s snow globe. **88%**
+|[File:TX MinorChoice SnowGlobe.png](thumb.md)
+|-
+| valign"top" |
+**Snooping Evidence**
+* You left evidence while searching through David’s stuff. - 19%
+* You didn’t leave any evidence. - **81%**
+|style# "padding-right:100px"|[File:TX MinorChoice David3.png](thumb.md)
+|-
+| valign"top" |
+**David's Files**
+* You read David’s files. - **62%**
+* You didn’t read David’s files. - 38%
+|[File:TX MinorChoice David2.png](thumb.md)
+|}
+
+##  Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+### **Major Choices**
+{|style# "width:100%; background-color:transparent" class"article-table"
+| valign# "top" |
+**Kate's Question**
+* You told Kate to go to the police. - 34%
+* You told Kate to wait for more proof. - **66%**
+|style"padding-right:100px"|[File:TX MajorChoice Kate Ep2.png](thumb.md)
+|-
+| valign# "top" |
+**Kate's Phone Call'''
+* You answered Kate's call. - **81%**
+* You didn't answer Kate's call. - 19%
+|[File:TX MajorChoice PhoneCall.png](thumb.md)
+|-
+| valign"top" |
+**Max and Frank**
+* You tried to shoot Frank. - **52%**
+* You didn't try to shoot Frank. - 48%
+|style# "padding-right:100px"|[File:TX MajorChoice Frank.png](thumb.md)
+|-
+| valign"top" |
+'''Kate's Fate'''
+* You couldn't save Kate. - 37%
+* You saved Kate's life. - **63%**
+|[File:TX_MajorChoice_KateFate.png](thumb.md)
+|-
+| valign# "top" |
+**Blame**
+* You blamed David. - 12%
+* You blamed Nathan. - **71%**
+* You blamed Mr. Jefferson. - 17%
+|style"padding-right:100px"|[File:TX_MajorChoice_Blame.png](thumb.md)
+|}
+
+### **Minor Choices**
+{|style# "width:100%; background-color:transparent" class"article-table"
+| valign# "top" |
+'''Max's Plant**
+* You watered your plant. - **71%'''
+* You didn't water your plant. - 29%
+|[File:minorchoice-e2-plant.png](thumb.md)
+|-
+| valign"top" |
+**Alyssa**
+* You helped Alyssa. - **60%**
+* You didn't help Alyssa. - 40%
+|style# "padding-right:100px"|[File:minorchoice-e2-alyssa.png](thumb.md)
+|-
+| valign"top" |
+**Video Link**
+* You erased the link to Kate's video. - **94%**
+* You left the link to Kate's video. - 6%
+|[File:minorchoice-e2-katelink.png](thumb.md)
+|-
+| valign# "top" |
+**Taylor**
+* You were friendly with Taylor. - 46%
+* You weren't friendly with Taylor. - **54%**
+|style"padding-right:100px"|[File:minorchoice-e2-taylor.png](thumb.md)
+|-
+| valign# "top" |
+**Warren & The Movies**
+* You accepted Warren's invitation. - **76%**
+* You rejected Warren's invitation. - 24%
+|[File:minorchoice-e2-warreninvite.png](thumb.md)
+|-
+| valign"top" |
+**Wall Message**
+* You wrote a message. - **55%**
+* You didn't write a message. - 45%
+|style# "padding-right:100px"|[File:minorchoice-e2-maxwashere.png](thumb.md)
+|-
+| valign"top" |
+**Railtracks**
+* You tampered with the railtracks. - 32%
+* You didn't tamper with the railtracks. - **68%**
+|[File:minorchoice-e2-railtracks.png](thumb.md)
+|-
+| valign# "top" |
+**Vortex Club Party**
+* You gained entry to the Vortex Club party. - 49%
+* You didn't gain entry to the Vortex Club party. - **51%**
+|style"padding-right:100px"|[File:minorchoice-e2-courtney.png](thumb.md)
+|-
+| valign# "top" |
+'''Warren's Experiment'''
+* You helped Warren. - 43%
+* You didn't help Warren. - **57%**
+|[File:minorchoice-e2-warrenexperiment.png](thumb.md)
+|-
+| valign"top" |
+**David and Jefferson**
+* You told on David to Mr. Jefferson. - **76%**
+* You didn't tell on David to Mr. Jefferson. - 24%
+|style# "padding-right:100px"|[File:minorchoice-e2-jefferson.png](thumb.md)
+|}
+
+##  Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+
+###  **Major Choices** 
+{|style"width:100%; background-color:transparent" class# "article-table"
+| valign"top" |
+**Handicap Fund**
+*You stole the money. - 48%
+*You left the money. - **52%**
+|[File:TX_MajorChoice_E3Money.png](thumb.md)
+|-
+| valign# "top" |
+**Double Dare**
+*You kissed Chloe. - **78%**
+*You didn't kiss Chloe. - 22%
+|style"padding-right:100px"|[File:TX_MajorChoice_KissChloe.png](thumb.md)
+|-
+| valign# "top" |
+**David vs. Chloe**
+*You sided with David. - 22%
+*You sided with Chloe. - **78%**
+|[File:TX_MajorChoice__DavidVsChloe.png](thumb.md)
+|-
+| valign"top" |
+'''Frank's Dog'''
+*You got Frank's dog hurt. - 5%
+*You kept Frank's dog from harm. - **95%**
+|style# "padding-right:100px"|[File:TX_MajorChoice_E3Dog.png](thumb.md)
+|-
+| valign"top" |
+'''David's Gun'''
+*Chloe has David's gun. - **66%**
+*Frank has David's gun. - 34%
+|[File:TX_MajorChoice_E3Gun.png](thumb.md)
+|}
+
+###  **Minor Choices** 
+{|style# "width:100%; background-color:transparent" class"article-table"
+| valign# "top" |
+'''Max's Plant**
+* Lisa is alive. - 42%
+*Lisa is dead. - **58%**
+|style"padding-right:100px"|[File:Minorchoice-e3-plant.png](thumb.md)
+|-
+| valign# "top" |
+**Warren's Exam'''
+*You "helped" Warren with his exam. - 28%
+*You didn't "help" Warren with his exam. - **72%**
+|[File:Minorchoice-e3-warrenexam.png](thumb.md)
+|-
+| valign"top" |
+**Vortex Club Party 1/2**
+*You are on the Vortex Club's party list. - **59%**
+*You are not on the Vortex Club's party list. - 41%
+|style# "padding-right:100px"|[File:Minorchoice-e3-onlist.png](thumb.md)
+|-
+| valign"top" |
+**Vortex Club Party 2/2**
+*You erased some names from the Vortex Club party list. - 21%
+*You didn't change the Vortex Club party list. - **79%**
+|[File:Minorchoice-e3-erasednames.png](thumb.md)
+|-
+| valign# "top" |
+**Phone Message**
+* You erased the cop's answerphone message. - 38%
+*You didn't erase the cop's message. - **62%**
+|style"padding-right:100px"|[File:Minorchoice-e3-erasedmsg.png](thumb.md)
+|-
+| valign# "top" |
+**Alyssa**
+*You helped Alyssa. - **63%**
+*You didn't help Alyssa. - 37%
+|[File:Minorchoice-e3-warnalyssa.png](thumb.md)
+|-
+| valign"top" |
+**Homeless Woman**
+*You warned the homeless woman. - 34%
+*You didn't warn the homeless woman. - **66%**
+|style# "padding-right:100px"|[File:Minorchoice-e3-warnhomeless.png](thumb.md)
+|-
+| valign"top" |
+**Photo In The Past**
+*You took a photo in the past. - **52%**
+*You didn't take a photo in the past. - 48%
+|[File:Minorchoice-e3-takephoto.png](thumb.md)
+|-
+| valign# "top" |
+'''Max's Mark'''
+* You left a mark on the fireplace. - 36%
+* You didn't leave a mark on the fireplace. - **64%**
+|style"padding-right:100px"|[File:Minorchoice-e3-maxmark.png](thumb.md)
+|}
+
+##  Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+
+###  **Major Choices** 
+{|style# "width:100%; background-color:transparent" class"article-table"
+| valign# "top" |
+'''Chloe's Request'''
+* You accepted Chloe's request. - **56%**
+* You refused Chloe's request. - 44%
+|[File:TX_MajorChoice_ChloeRequest.png](thumb.md)
+|-
+| valign"top" |
+**Nathan**
+* You let Warren beat up Nathan. - 40%
+* You stopped Warren from beating up Nathan. - **60%**
+|style# "padding-right:100px"|[File:TX_MajorChoice_WarrenBeatNathan.png](thumb.md)
+|-
+| valign"top" |
+**Frank**
+* Chloe killed Frank. - 6%
+* Chloe wounded Frank. - 22%
+* No one got hurt. - **72%**
+|[File:TX_MajorChoice_KillFrank.png](thumb.md)
+|-
+| valign# "top" |
+**Victoria**
+* Victoria believed your warning. - **72%**
+* Victoria didn't believe your warning. - 19%
+* You didn't warn Victoria. - 9%
+|style"padding-right:100px"|[File:TX_MajorChoice_WarnVictoria.png](thumb.md)
+|}
+
+###  **Minor Choices** 
+{|style# "width:100%; background-color:transparent" class"article-table"
+| valign# "top" |
+**Blue Jay**
+* You saved the blue jay. - 44%
+* You let the blue jay die. - **56%**
+|[File:minorchoice-e4-bluejay.png](thumb.md)
+|-
+| valign"top" |
+'''Bird's Nest'''
+* You disturbed the bird's nest. - 7%
+* You didn't disturb the bird's nest. - **93%**
+|style# "padding-right:100px"|[File:minorchoice-e4-birdnest.png](thumb.md)
+|-
+| valign"top" |
+'''David's Locker'''
+* You found David's code. - 46%
+* You got David's files in another way. - **54%**
+|[File:minorchoice-e4-davidlocker.png](thumb.md)
+|-
+| valign# "top" |
+**Kate**
+* Kate helped you find Nathan's room. - **60%**
+* Kate didn't help you. - 40%
+|style"padding-right:100px"|[File:minorchoice-e4-katesms.png](thumb.md)
+|-
+| valign# "top" |
+**Daniel**
+* You motivated Daniel to attend the Vortex Club party. - 31%
+* You didn't motivate Daniel to attend the Vortex Club party. - **69%**
+|[File:minorchoice-e4-daniel.png](thumb.md)
+|-
+| valign"top" |
+'''Warren's Slate'''
+* You left a message on Warren's slate. - 20%
+* You didn't leave a message on Warren's slate. - **80%**
+|style# "padding-right:100px"|[File:minorchoice-e4-warrenslate.png](thumb.md)
+|-
+| valign"top" |
+'''Nathan's PIN Code'''
+* You figured out Nathan's PIN code. - 37%
+* You didn't figure out Nathan's PIN code. - **63%**
+|[File:minorchoice-e4-nathanpin.png](thumb.md)
+|-
+| valign# "top" |
+**Alyssa**
+* You helped Alyssa. - **75%**
+* You didn't help Alyssa. - 25%
+|style"padding-right:100px"|[File:minorchoice-e4-alyssa.png](thumb.md)
+|}
+
+##  Episode Five - "[Episode 5: Polarized](polarized.md)" 
+
+###  **Major Choices** 
+In "Polarized", the only major choice to do is to make a final sacrifice between saving Chloe and allowing Arcadia Bay to be destroyed, presumably along with your friends and all its residents being killed, or saving Arcadia Bay and sacrificing Chloe by allowing her to die in the bathroom in order to prevent the tornado from occurring and thus sparing the town. Note, these are also the choices which cannot be rewound except focusing on the photo before the time Chloe died.
+{| width# "100%" align"center"
+|
+**Sacrifice Arcadia Bay**
+* You decided to sacrifice Arcadia Bay. — 48%
+
+**Sacrifice Chloe**
+* You decided to sacrifice Chloe. — **52%**
+|style# "padding-right:50px"|[File:TX_MajChoice_E5_7A_SaveChloe.png](thumb.md)
+|[File:TX_MajChoice_E5_7A_SaveTown.png](thumb.md)
+|}
+
+###  **Minor Choices** 
+{|style"width:100%; background-color:transparent" class# "article-table"
+| valign"top" |
+**David**
+* David got a scar during the fight. - **96%**
+* David didn't get a scar during the fight. - 4%
+|[File:minorchoice-e5-davidscar.png](thumb.md)
+|-
+| valign# "top" |
+**Mark Jefferson**
+* David killed Jefferson. - 45%
+* David didn't kill Jefferson. - **55%**
+|style"padding-right:100px"|[File:minorchoice-e5-jefferson.png](thumb.md)
+|-
+| valign# "top" |
+**The Trucker**
+* You saved the trucker. - **60%**
+* You didn't save the trucker. - 40%
+|[File:minorchoice-e5-trucker.png](thumb.md)
+|-
+| valign"top" |
+**Evan**
+* You saved Evan. - **63%**
+* You didn't save Evan. - 37%
+|style# "padding-right:100px"|[File:minorchoice-e5-evan.png](thumb.md)
+|-
+| valign"top" |
+**Alyssa**
+* You saved Alyssa. - **64%**
+* You didn't save Alyssa. - 36%
+|[File:minorchoice-e5-alyssa.png](thumb.md)
+|-
+| valign# "top" |
+**The Fisherman**
+* You saved the fisherman. - **72%**
+* You didn't save the fisherman. - 28%
+|style"padding-right:100px"|[File:minorchoice-e5-fisherman.png](thumb.md)
+|-
+| valign# "top" |
+**Joyce**
+* You helped Joyce believe in David again. - 34%
+* You didn't change Joyce's mind about David. - **66%**
+|[File:minorchoice-e5-joyce.png](thumb.md)
+|-
+| valign"top" |
+**Frank**
+* You told the truth about Rachel to Frank. - **64%**
+* You didn't tell the truth about Rachel to Frank. - 36%
+|style# "padding-right:100px"|[File:minorchoice-e5-franktruth.png](thumb.md)
+|-
+| valign"top" |
+**Warren**
+* You kissed Warren. - **67%**
+* You didn't show Warren any affection. - 5%
+* You hugged Warren. - 28%
+|[File:minorchoice-e5-warren.png](thumb.md)
+|}
+
+ Game Statistics (Life is Strange) # 
+
+[File:This action will have consequences-0.png](centre.md)
+
+The **game statistics** are the combined percentages of choices made by all PC/Steam players and are displayed after completing an episode. They can be filtered globally or by friends.
+
+: *Click [Game Statistics/Playstation](here.md) for the PlayStation game statistics and click [Game Statistics/Xbox](here.md) for the Xbox game statistics.*
+
+: *The stats were last updated on **May 2, 2021.***
+
+##  Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+###  **Major Choices** 
+{|style"width:100%; background-color:transparent" class# "article-table"
+| valign"top" |
+**Principal Wells**
+* You reported Nathan. - **62%**
+* You hid the truth. - 38%
+|style# "padding-right:100px"|[File:TX_MajorChoice_Nathan.png](right.md)
+|-
+| valign"top" |
+'''Victoria's Outfit**
+* You made fun of Victoria. - 26%
+* You comforted Victoria. - **74%**
+|[File:TX MajorChoice Victoria.png](thumb.md)
+|-
+| valign# "top" |
+**David and Kate**
+* You took a photo of David harassing Kate. - 16%
+* You intervened to help out Kate. - **84%**
+|style"padding-right:100px"|[File:TX_MajorChoice_Kate.png](thumb.md)
+|-
+| valign# "top" |
+**Chloe's Pot**
+*You took the blame for Chloe. - 29%
+* You blamed Chloe. - 1%
+* You stayed hidden. - **36%**
+* You came out of hiding to intervene. - 34%
+|[File:TX MajorChoice David.png](thumb.md)
+|}
+
+### **Minor Choices**
+{|style"width:100%; background-color:transparent" class# "article-table"
+| valign"top" |
+**Daniel**
+* You let Daniel draw your portrait. - 41%
+* You didn’t let Daniel draw your portrait. - **59%**
+|style# "padding-right:100px"|[File:TX MinorChoice Daniel.png](thumb.md)
+|-
+| valign"top" |
+**Ms. Grant**
+* You signed Ms. Grant’s petition. - 42%
+* You didn’t sign Ms. Grant’s petition. - **58%**
+|[File:TX MinorChoise MsGrant.png](thumb.md)
+|-
+| valign# "top" |
+**Alyssa**
+* You helped Alyssa. - **78%**
+* You didn’t help Alyssa. - 22%
+|style"padding-right:100px"|[File:TX MinorChoice Alyssa.png](thumb.md)
+|-
+| valign# "top" |
+**Kate's Slate'''
+* You erased the insults on Kate's slate. - 43%
+* You didn't erase Kate's slate. - **57%**
+|[File:TXMinorChoiceKate2.png](thumb.md)
+|-
+| valign"top" |
+**Lisa the Plant**
+* You watered your plant. - **68%**
+* You didn’t water your plant. - 32%
+|style# "padding-right:100px"|[File:TX MinorChoice Lisa.png](thumb.md)
+|-
+| valign"top" |
+'''Dana's Pregnancy Test**
+* You touched Dana’s pregnancy test. - 2%
+* You didn’t touch Dana’s pregnancy test. **98%**
+|[File:TX MinorChoice Dana-0.png](thumb.md)
+|-
+| valign# "top" |
+**Victoria's Photos**
+* You "reorganized" Victoria’s photos. - 21%
+* You didn’t touch Victoria’s photos. - **79%**
+|style"padding-right:100px"|[File:TX MinorChoiceVictoria2.png](thumb.md)
+|-
+| valign# "top" |
+**Dirty RV'''
+* You wrote on a [Frank's RV](dirty_rv.md). - 20%
+* You didn’t write on a dirty RV. -** 80%**
+|[File:TX MinorChoice Frank.png](thumb.md)
+|-
+| valign"top" |
+**The Bird**
+* You saved [Blue Jay](the_bird.md). - 42%
+* You let the bird die. - **58%**
+|style# "padding-right:100px"|[File:TX MinorChoice Bird.png](thumb.md)
+|-
+| valign"top" |
+'''Chloe's Snow Globe**
+* You broke Chloe’s snow globe. - 12%
+* You didn’t break Chloe’s snow globe. **88%**
+|[File:TX MinorChoice SnowGlobe.png](thumb.md)
+|-
+| valign# "top" |
+**Snooping Evidence**
+* You left evidence while searching through David’s stuff. - 19%
+* You didn’t leave any evidence. - **81%**
+|style"padding-right:100px"|[File:TX MinorChoice David3.png](thumb.md)
+|-
+| valign# "top" |
+**David's Files**
+* You read David’s files. - **62%**
+* You didn’t read David’s files. - 38%
+|[File:TX MinorChoice David2.png](thumb.md)
+|}
+
+##  Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+### **Major Choices**
+{|style"width:100%; background-color:transparent" class# "article-table"
+| valign"top" |
+**Kate's Question**
+* You told Kate to go to the police. - 34%
+* You told Kate to wait for more proof. - **66%**
+|style# "padding-right:100px"|[File:TX MajorChoice Kate Ep2.png](thumb.md)
+|-
+| valign"top" |
+**Kate's Phone Call'''
+* You answered Kate's call. - **81%**
+* You didn't answer Kate's call. - 19%
+|[File:TX MajorChoice PhoneCall.png](thumb.md)
+|-
+| valign# "top" |
+**Max and Frank**
+* You tried to shoot Frank. - **52%**
+* You didn't try to shoot Frank. - 48%
+|style"padding-right:100px"|[File:TX MajorChoice Frank.png](thumb.md)
+|-
+| valign# "top" |
+'''Kate's Fate'''
+* You couldn't save Kate. - 37%
+* You saved Kate's life. - **63%**
+|[File:TX_MajorChoice_KateFate.png](thumb.md)
+|-
+| valign"top" |
+**Blame**
+* You blamed David. - 12%
+* You blamed Nathan. - **71%**
+* You blamed Mr. Jefferson. - 17%
+|style# "padding-right:100px"|[File:TX_MajorChoice_Blame.png](thumb.md)
+|}
+
+### **Minor Choices**
+{|style"width:100%; background-color:transparent" class# "article-table"
+| valign"top" |
+'''Max's Plant**
+* You watered your plant. - **71%'''
+* You didn't water your plant. - 29%
+|[File:minorchoice-e2-plant.png](thumb.md)
+|-
+| valign# "top" |
+**Alyssa**
+* You helped Alyssa. - **60%**
+* You didn't help Alyssa. - 40%
+|style"padding-right:100px"|[File:minorchoice-e2-alyssa.png](thumb.md)
+|-
+| valign# "top" |
+**Video Link**
+* You erased the link to Kate's video. - **94%**
+* You left the link to Kate's video. - 6%
+|[File:minorchoice-e2-katelink.png](thumb.md)
+|-
+| valign"top" |
+**Taylor**
+* You were friendly with Taylor. - 46%
+* You weren't friendly with Taylor. - **54%**
+|style# "padding-right:100px"|[File:minorchoice-e2-taylor.png](thumb.md)
+|-
+| valign"top" |
+**Warren & The Movies**
+* You accepted Warren's invitation. - **76%**
+* You rejected Warren's invitation. - 24%
+|[File:minorchoice-e2-warreninvite.png](thumb.md)
+|-
+| valign# "top" |
+**Wall Message**
+* You wrote a message. - **55%**
+* You didn't write a message. - 45%
+|style"padding-right:100px"|[File:minorchoice-e2-maxwashere.png](thumb.md)
+|-
+| valign# "top" |
+**Railtracks**
+* You tampered with the railtracks. - 32%
+* You didn't tamper with the railtracks. - **68%**
+|[File:minorchoice-e2-railtracks.png](thumb.md)
+|-
+| valign"top" |
+**Vortex Club Party**
+* You gained entry to the Vortex Club party. - 49%
+* You didn't gain entry to the Vortex Club party. - **51%**
+|style# "padding-right:100px"|[File:minorchoice-e2-courtney.png](thumb.md)
+|-
+| valign"top" |
+'''Warren's Experiment'''
+* You helped Warren. - 43%
+* You didn't help Warren. - **57%**
+|[File:minorchoice-e2-warrenexperiment.png](thumb.md)
+|-
+| valign# "top" |
+**David and Jefferson**
+* You told on David to Mr. Jefferson. - **76%**
+* You didn't tell on David to Mr. Jefferson. - 24%
+|style"padding-right:100px"|[File:minorchoice-e2-jefferson.png](thumb.md)
+|}
+
+##  Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+
+###  **Major Choices** 
+{|style# "width:100%; background-color:transparent" class"article-table"
+| valign# "top" |
+**Handicap Fund**
+*You stole the money. - 48%
+*You left the money. - **52%**
+|[File:TX_MajorChoice_E3Money.png](thumb.md)
+|-
+| valign"top" |
+**Double Dare**
+*You kissed Chloe. - **78%**
+*You didn't kiss Chloe. - 22%
+|style# "padding-right:100px"|[File:TX_MajorChoice_KissChloe.png](thumb.md)
+|-
+| valign"top" |
+**David vs. Chloe**
+*You sided with David. - 22%
+*You sided with Chloe. - **78%**
+|[File:TX_MajorChoice__DavidVsChloe.png](thumb.md)
+|-
+| valign# "top" |
+'''Frank's Dog'''
+*You got Frank's dog hurt. - 5%
+*You kept Frank's dog from harm. - **95%**
+|style"padding-right:100px"|[File:TX_MajorChoice_E3Dog.png](thumb.md)
+|-
+| valign# "top" |
+'''David's Gun'''
+*Chloe has David's gun. - **66%**
+*Frank has David's gun. - 34%
+|[File:TX_MajorChoice_E3Gun.png](thumb.md)
+|}
+
+###  **Minor Choices** 
+{|style"width:100%; background-color:transparent" class# "article-table"
+| valign"top" |
+'''Max's Plant**
+* Lisa is alive. - 42%
+*Lisa is dead. - **58%**
+|style# "padding-right:100px"|[File:Minorchoice-e3-plant.png](thumb.md)
+|-
+| valign"top" |
+**Warren's Exam'''
+*You "helped" Warren with his exam. - 28%
+*You didn't "help" Warren with his exam. - **72%**
+|[File:Minorchoice-e3-warrenexam.png](thumb.md)
+|-
+| valign# "top" |
+**Vortex Club Party 1/2**
+*You are on the Vortex Club's party list. - **59%**
+*You are not on the Vortex Club's party list. - 41%
+|style"padding-right:100px"|[File:Minorchoice-e3-onlist.png](thumb.md)
+|-
+| valign# "top" |
+**Vortex Club Party 2/2**
+*You erased some names from the Vortex Club party list. - 21%
+*You didn't change the Vortex Club party list. - **79%**
+|[File:Minorchoice-e3-erasednames.png](thumb.md)
+|-
+| valign"top" |
+**Phone Message**
+* You erased the cop's answerphone message. - 38%
+*You didn't erase the cop's message. - **62%**
+|style# "padding-right:100px"|[File:Minorchoice-e3-erasedmsg.png](thumb.md)
+|-
+| valign"top" |
+**Alyssa**
+*You helped Alyssa. - **63%**
+*You didn't help Alyssa. - 37%
+|[File:Minorchoice-e3-warnalyssa.png](thumb.md)
+|-
+| valign# "top" |
+**Homeless Woman**
+*You warned the homeless woman. - 34%
+*You didn't warn the homeless woman. - **66%**
+|style"padding-right:100px"|[File:Minorchoice-e3-warnhomeless.png](thumb.md)
+|-
+| valign# "top" |
+**Photo In The Past**
+*You took a photo in the past. - **52%**
+*You didn't take a photo in the past. - 48%
+|[File:Minorchoice-e3-takephoto.png](thumb.md)
+|-
+| valign"top" |
+'''Max's Mark'''
+* You left a mark on the fireplace. - 36%
+* You didn't leave a mark on the fireplace. - **64%**
+|style# "padding-right:100px"|[File:Minorchoice-e3-maxmark.png](thumb.md)
+|}
+
+##  Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+
+###  **Major Choices** 
+{|style"width:100%; background-color:transparent" class# "article-table"
+| valign"top" |
+'''Chloe's Request'''
+* You accepted Chloe's request. - **56%**
+* You refused Chloe's request. - 44%
+|[File:TX_MajorChoice_ChloeRequest.png](thumb.md)
+|-
+| valign# "top" |
+**Nathan**
+* You let Warren beat up Nathan. - 40%
+* You stopped Warren from beating up Nathan. - **60%**
+|style"padding-right:100px"|[File:TX_MajorChoice_WarrenBeatNathan.png](thumb.md)
+|-
+| valign# "top" |
+**Frank**
+* Chloe killed Frank. - 6%
+* Chloe wounded Frank. - 22%
+* No one got hurt. - **72%**
+|[File:TX_MajorChoice_KillFrank.png](thumb.md)
+|-
+| valign"top" |
+**Victoria**
+* Victoria believed your warning. - **72%**
+* Victoria didn't believe your warning. - 19%
+* You didn't warn Victoria. - 9%
+|style# "padding-right:100px"|[File:TX_MajorChoice_WarnVictoria.png](thumb.md)
+|}
+
+###  **Minor Choices** 
+{|style"width:100%; background-color:transparent" class# "article-table"
+| valign"top" |
+**Blue Jay**
+* You saved the blue jay. - 44%
+* You let the blue jay die. - **56%**
+|[File:minorchoice-e4-bluejay.png](thumb.md)
+|-
+| valign# "top" |
+'''Bird's Nest'''
+* You disturbed the bird's nest. - 7%
+* You didn't disturb the bird's nest. - **93%**
+|style"padding-right:100px"|[File:minorchoice-e4-birdnest.png](thumb.md)
+|-
+| valign# "top" |
+'''David's Locker'''
+* You found David's code. - 46%
+* You got David's files in another way. - **54%**
+|[File:minorchoice-e4-davidlocker.png](thumb.md)
+|-
+| valign"top" |
+**Kate**
+* Kate helped you find Nathan's room. - **60%**
+* Kate didn't help you. - 40%
+|style# "padding-right:100px"|[File:minorchoice-e4-katesms.png](thumb.md)
+|-
+| valign"top" |
+**Daniel**
+* You motivated Daniel to attend the Vortex Club party. - 31%
+* You didn't motivate Daniel to attend the Vortex Club party. - **69%**
+|[File:minorchoice-e4-daniel.png](thumb.md)
+|-
+| valign# "top" |
+'''Warren's Slate'''
+* You left a message on Warren's slate. - 20%
+* You didn't leave a message on Warren's slate. - **80%**
+|style"padding-right:100px"|[File:minorchoice-e4-warrenslate.png](thumb.md)
+|-
+| valign# "top" |
+'''Nathan's PIN Code'''
+* You figured out Nathan's PIN code. - 37%
+* You didn't figure out Nathan's PIN code. - **63%**
+|[File:minorchoice-e4-nathanpin.png](thumb.md)
+|-
+| valign"top" |
+**Alyssa**
+* You helped Alyssa. - **75%**
+* You didn't help Alyssa. - 25%
+|style# "padding-right:100px"|[File:minorchoice-e4-alyssa.png](thumb.md)
+|}
+
+##  Episode Five - "[Episode 5: Polarized](polarized.md)" 
+
+###  **Major Choices** 
+In "Polarized", the only major choice to do is to make a final sacrifice between saving Chloe and allowing Arcadia Bay to be destroyed, presumably along with your friends and all its residents being killed, or saving Arcadia Bay and sacrificing Chloe by allowing her to die in the bathroom in order to prevent the tornado from occurring and thus sparing the town. Note, these are also the choices which cannot be rewound except focusing on the photo before the time Chloe died.
+{| width"100%" align# "center"
+|
+**Sacrifice Arcadia Bay**
+* You decided to sacrifice Arcadia Bay. — 48%
+
+**Sacrifice Chloe**
+* You decided to sacrifice Chloe. — **52%**
+|style"padding-right:50px"|[File:TX_MajChoice_E5_7A_SaveChloe.png](thumb.md)
+|[File:TX_MajChoice_E5_7A_SaveTown.png](thumb.md)
+|}
+
+###  **Minor Choices** 
+{|style# "width:100%; background-color:transparent" class"article-table"
+| valign# "top" |
+**David**
+* David got a scar during the fight. - **96%**
+* David didn't get a scar during the fight. - 4%
+|[File:minorchoice-e5-davidscar.png](thumb.md)
+|-
+| valign"top" |
+**Mark Jefferson**
+* David killed Jefferson. - 45%
+* David didn't kill Jefferson. - **55%**
+|style# "padding-right:100px"|[File:minorchoice-e5-jefferson.png](thumb.md)
+|-
+| valign"top" |
+**The Trucker**
+* You saved the trucker. - **60%**
+* You didn't save the trucker. - 40%
+|[File:minorchoice-e5-trucker.png](thumb.md)
+|-
+| valign# "top" |
+**Evan**
+* You saved Evan. - **63%**
+* You didn't save Evan. - 37%
+|style"padding-right:100px"|[File:minorchoice-e5-evan.png](thumb.md)
+|-
+| valign# "top" |
+**Alyssa**
+* You saved Alyssa. - **64%**
+* You didn't save Alyssa. - 36%
+|[File:minorchoice-e5-alyssa.png](thumb.md)
+|-
+| valign"top" |
+**The Fisherman**
+* You saved the fisherman. - **72%**
+* You didn't save the fisherman. - 28%
+|style# "padding-right:100px"|[File:minorchoice-e5-fisherman.png](thumb.md)
+|-
+| valign"top" |
+**Joyce**
+* You helped Joyce believe in David again. - 34%
+* You didn't change Joyce's mind about David. - **66%**
+|[File:minorchoice-e5-joyce.png](thumb.md)
+|-
+| valign# "top" |
+**Frank**
+* You told the truth about Rachel to Frank. - **64%**
+* You didn't tell the truth about Rachel to Frank. - 36%
+|style"padding-right:100px"|[File:minorchoice-e5-franktruth.png](thumb.md)
+|-
+| valign="top" |
+**Warren**
+* You kissed Warren. - **67%**
+* You didn't show Warren any affection. - 5%
+* You hugged Warren. - 28%
+|[File:minorchoice-e5-warren.png](thumb.md)
+|}
+

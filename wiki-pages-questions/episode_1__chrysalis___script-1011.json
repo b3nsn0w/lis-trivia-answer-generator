@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Name Of The French Painter Who Invented The Daguerreian Process?",
+    "answer": "A",
+    "choices": {
+      "A": "Louis Daguerre",
+      "B": "Vincent van Gogh",
+      "C": "Claude Monet",
+      "D": "Pablo Picasso"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Photography Contest Mentioned By Mr. Jefferson?",
+    "answer": "A",
+    "choices": {
+      "A": "Everyday Heroes",
+      "B": "Blackwell Academy Photography Contest",
+      "C": "San Francisco Photography Contest",
+      "D": "Art World Photography Contest"
+    }
+  },
+  {
+    "question": "What Is The Prize For The Winner Of The \"Everyday Heroes\" Contest?",
+    "answer": "C",
+    "choices": {
+      "A": "A Trip To Paris",
+      "B": "A Scholarship To Blackwell Academy",
+      "C": "A Trip To San Francisco",
+      "D": "A Camera"
+    }
+  },
+  {
+    "question": "What Does Victoria Want To Represent In The \"Everyday Heroes\" Contest?",
+    "answer": "B",
+    "choices": {
+      "A": "Herself",
+      "B": "Blackwell Academy",
+      "C": "The Photographic World",
+      "D": "The Art World"
+    }
+  }
+]

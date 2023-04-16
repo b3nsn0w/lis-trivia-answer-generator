@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Name Of The Magazine That Max Can Read On Chloe's Suitcase?",
+    "answer": "A",
+    "choices": {
+      "A": "The Great Northwest",
+      "B": "The Arcadia Bay Times",
+      "C": "The Blackwell Beacon",
+      "D": "The Daily Bugle"
+    }
+  },
+  {
+    "question": "What Does Max Find In Chloe's Wallet?",
+    "answer": "A",
+    "choices": {
+      "A": "A Butterfly Photo",
+      "B": "A Picture Of Rachel",
+      "C": "A Key To The Dark Room",
+      "D": "A Map Of Arcadia Bay"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Car That David Is Tracking With The License Plate TWLGHTZN?",
+    "answer": "A",
+    "choices": {
+      "A": "Nathan's Car",
+      "B": "Chloe's Car",
+      "C": "Jefferson's Car",
+      "D": "Rachel's Car"
+    }
+  },
+  {
+    "question": "What Does Max Say About David's Detective Skills When She Sees Photos Of Herself On The Board?",
+    "answer": "C",
+    "choices": {
+      "A": "\"David Should Have Done Way More Than Take Photos Of Kate.\"",
+      "B": "\"At Least David Was Finally Going After The Right Suspect.\"",
+      "C": "\"Proving David Sucks As A Detective. Sorry.\"",
+      "D": "\"David Really Has Been On Rachel's Ass For A While. She Should Have Been Upset.\""
+    }
+  }
+]

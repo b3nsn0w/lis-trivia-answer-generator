@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the name of the composer who created the Original Score for Life is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "Syd Matters",
+      "B": "Jonathan Morali",
+      "C": "José González",
+      "D": "Amanda Palmer"
+    }
+  },
+  {
+    "question": "Where can you find the cover art for the Soundtrack CD in Life is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "In a drawer in Alternative Chloe's room in \"Episode 4: Dark Room\"",
+      "B": "In Max's room in \"Episode 1: Chrysalis\"",
+      "C": "In the principal's office in \"Episode 2: Out of Time\"",
+      "D": "In the Vortex Club party in \"Episode 4: Dark Room\""
+    }
+  }
+]

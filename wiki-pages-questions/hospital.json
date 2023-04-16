@@ -1,0 +1,42 @@
+[
+  {
+    "question": "In which episode can the hospital be first seen?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "What can Max look at in Kate's room in the hospital?",
+    "answer": "D",
+    "choices": {
+      "A": "A photo of Kate with her sisters",
+      "B": "A book called The October Country",
+      "C": "Kate's drawing of a happy rainbow flock",
+      "D": "All of the above"
+    }
+  },
+  {
+    "question": "What was the original purpose of the hospital location in the game?",
+    "answer": "B",
+    "choices": {
+      "A": "To show Kate's suicide attempt",
+      "B": "To feature an alternate ending where Chloe ends up in a coma",
+      "C": "To introduce a new character",
+      "D": "To showcase Max's time rewind power"
+    }
+  },
+  {
+    "question": "What is the name of the artist who created the concept art for the hospital room?",
+    "answer": "A",
+    "choices": {
+      "A": "Gary Jamroz-Palma",
+      "B": "Taylor Christensen",
+      "C": "Raymond Wells",
+      "D": "Nathan Prescott"
+    }
+  }
+]

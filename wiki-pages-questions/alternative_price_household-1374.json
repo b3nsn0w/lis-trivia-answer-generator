@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What Is The Most Notable Difference In The Alternative Price Household's Exterior?",
+    "answer": "D",
+    "choices": {
+      "A": "The Addition Of A Handrail And Ramp Beside The Doorway",
+      "B": "The Removal Of The Swing From The Garden",
+      "C": "The Absence Of Chloe's Truck In The Driveway",
+      "D": "The Completion Of The Blue Paint Job On The Exterior"
+    }
+  },
+  {
+    "question": "What Item Can Lead To A Conversation With William In The Alternative Price Household?",
+    "answer": "A",
+    "choices": {
+      "A": "A Photograph Of The Eiffel Tower",
+      "B": "A Blue Butterfly Poster",
+      "C": "A Letter From Chloe's Uncle",
+      "D": "A Flier For A Yard Sale"
+    }
+  },
+  {
+    "question": "What Is The Reason For The Yard Sale Held By The Price Family In The Alternative Price Household?",
+    "answer": "C",
+    "choices": {
+      "A": "To Raise Money For A Trip To Paris",
+      "B": "To Get Rid Of Clutter In The House",
+      "C": "To Pay For Chloe's Medical Bills",
+      "D": "To Fund Chloe's Dream Of Becoming A Rockstar"
+    }
+  }
+]

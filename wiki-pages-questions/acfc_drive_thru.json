@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Original Name Of The Fast Food Chain In Arcadia Bay?",
+    "answer": "A",
+    "choices": {
+      "A": "Aurora Creek Fried Chicken",
+      "B": "Arcadia Bay Fried Chicken",
+      "C": "Bayview Fried Chicken",
+      "D": "Blackwell Fried Chicken"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Liquor Store Next To The ACFC Drive-Thru?",
+    "answer": "A",
+    "choices": {
+      "A": "Tony's Liquor Store",
+      "B": "Frank's Liquor Store",
+      "C": "David's Liquor Store",
+      "D": "Nathan's Liquor Store"
+    }
+  },
+  {
+    "question": "In Which Episode Can The Second Restaurant Building Be Seen During A Cutscene In Chloe's Truck?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode 2: Out of Time",
+      "B": "Episode 3: Chaos Theory",
+      "C": "Episode 4: Dark Room",
+      "D": "Episode 5: Polarized"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Texture Artist Who Designed The Sign Of The ACFC Drive-Thru?",
+    "answer": "B",
+    "choices": {
+      "A": "Christian Divine",
+      "B": "Edouard Caplain",
+      "C": "Maxine Caulfield",
+      "D": "Chloe Price"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Street Where The ACFC Drive-Thru Is Located?",
+    "answer": "C",
+    "choices": {
+      "A": "Arcadia Bay Blvd",
+      "B": "Bayview Ave",
+      "C": "Aurora Creek Ave",
+      "D": "Blackwell St"
+    }
+  }
+]

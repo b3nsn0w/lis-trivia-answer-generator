@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Where Is The End Of The World Party Poster Located?",
+    "answer": "B",
+    "choices": {
+      "A": "In Max's Room",
+      "B": "In The Dormitory Hallway",
+      "C": "In The Shower Room",
+      "D": "In Victoria's Room"
+    }
+  },
+  {
+    "question": "What Is Written On The Abstinence Poster In The Shower Room?",
+    "answer": "D",
+    "choices": {
+      "A": "\"Don't Do Drugs\"",
+      "B": "\"Stay Safe\"",
+      "C": "\"Practice Safe Sex\"",
+      "D": "\"Stay Abstinent\""
+    }
+  },
+  {
+    "question": "Where Is Victoria's Essay Located?",
+    "answer": "D",
+    "choices": {
+      "A": "In Max's Room",
+      "B": "In The Dormitory Hallway",
+      "C": "In The Shower Room",
+      "D": "In Victoria's Room"
+    }
+  },
+  {
+    "question": "What Is Written On Logan's Letter To Dana?",
+    "answer": "B",
+    "choices": {
+      "A": "A Love Poem",
+      "B": "An Apology",
+      "C": "A Breakup Letter",
+      "D": "A Threat"
+    }
+  },
+  {
+    "question": "What Happens If Max Failed To Save Kate?",
+    "answer": "A",
+    "choices": {
+      "A": "The Email From Trevor To Dana Appears",
+      "B": "The End Of The World Party Poster Appears",
+      "C": "The Abstinence Poster Appears",
+      "D": "The Email From Juliet To Dana Appears"
+    }
+  }
+]

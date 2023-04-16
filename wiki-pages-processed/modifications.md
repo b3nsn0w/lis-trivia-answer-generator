@@ -1,0 +1,127 @@
+#  Modifications 
+
+{{Stub|Currently No True Colors Modifications, and not much mods.}}
+The following article lists **modifications** created for *[Life is Strange](life_is_strange.md)* games. These include mods, fan made translations and even editing tools.
+##  [Life is Strange](life_is_strange.md) 
+###  Mods 
+* [http://sfx.thelazy.net/games/game/856/ SweetFX presets]
+* [http://www.nexusmods.com/lifeistrange/mods/17/? Happy Ending Mod by eezonaut]
+* [http://www.nexusmods.com/lifeistrange/mods/10/? Life is Strange - Gangsta Subtitles (AKA Life is Gizoogle) by TheNathanNS]
+
+* [https://pcgamingwiki.com/wiki/Life_Is_Strange PCGamingWiki]
+* [https://steamcommunity.com/app/319630/guides/?searchText# &browsefiltertrend&browsesort# creationorder&requiredtags%5B%5DModding+or+Configuration&requiredtags%5B%5D# -1 Browse Steam's "Modding Or Configuration" section]
+* [http://www.nexusmods.com/lifeistrange/mods/searchresults/? Browse nexusmods]
+
+###  Cinematic Screenshots 
+{{Main|Cinematic Screenshots}}
+* [http://steamcommunity.com/sharedfiles/filedetails/?id656832219 Life is Strange: Photographer Mod by IDK31]
+* [https://web.archive.org/web/20151026153249/http://davidcsimon.com:80/LiS/about/camera-modding-instructions/ Camera Modding using Unreal Engine commands by davidcsimon]
+* [https://forums.geforce.com/default/topic/808518/pc-games/life-is-strange-camera-mods-useful-for-screenshots/ Unreal Engine camera control commands by notN1P]
+* [https://steamcommunity.com/sharedfiles/filedetails/?id# 544446117 Activating the Dev Console / Advanced Screenshot Guide by Ness199X]
+* [https://www.reddit.com/r/lifeisstrange/comments/3quja0/ep3_spoilers_complete_guide_to_life_is_strange/ Reddit post by /u/Illyndrei]
+
+###  Fan Translations 
+* [https://steamcommunity.com/sharedfiles/filedetails/?id734296289 Russian fan localisation of subtitles (all episodes) and audio (episodes 1-4)].
+* [https://steamcommunity.com/sharedfiles/filedetails/?id# 957365442 Beta version of Russian text localisation]
+* [http://steamcommunity.com/sharedfiles/filedetails/?id855999976 Chinese fan localization]
+* [http://igtcid.blogspot.com/2017/11/life-is-strange-indonesia-version-patch.html Indonesian Fan Translation]
+*[https://www.nexusmods.com/lifeistrange/mods/26 Memes Subtitles and English localization (all episodes)]
+
+###  Tools 
+* [https://www.reddit.com/r/lifeisstrange/comments/3iw6iu/lis_save_editor/ LiS Save Editor by /u/let_the_sun_shine] [https://github.com/VakhtinAndrey/lis-save-editor Source code on GitHub]
+
+##  Videos 
+
+(Spoilers) Life Is Strange - Scene Swapping
+LowSpecGamer Life is Strange on lowest graphics
+Better On VR? - Episode 1 Life is Strange & A Thank You to Subscribers
+
+##  Before the Storm 
+###  Mods 
+* [http://ratchet302.gitlab.io/games/l/life-is-strange-before-the-storm/tweaks/index.html Skip Intro, No Depth of Field, No Chromatic Aberration tweaks by ratchet302]
+* [https://www.reddit.com/r/lifeisstrange/comments/78bcgj/no_spoilers_enabling_freecam_in_debug_mode_in/ Enabling freecam in debug mode in Episode 3 for screenshots by /u/IgelRM]
+* [http://sfx.thelazy.net/games/game/1881/ SweetFX presets]; [http://sfx.thelazy.net/games/game/1785/ More]
+* [http://steamcommunity.com/sharedfiles/filedetails/?id# 682947327 Camera modding cheat engine table with a hide UI feature by IDK31]
+* [https://rd.nexusmods.com/lifeisstrangebeforethestorm/mods/5 Play as 19-year-old Chloe (beanie + jacket) by /u/magicarrot]; [https://www.reddit.com/r/lifeisstrange/comments/7bhksc/allmod_play_as_19yearold_chloe_beanie_jacket_in First reddit post]; [https://www.reddit.com/r/lifeisstrange/comments/6z4n1i/allmod_play_as_19yearold_chloe_in_before_the/ Original Reddit post]
+* [https://rd.nexusmods.com/lifeisstrangebeforethestorm/mods/6 Play as 19-year-old Chloe (beanie and tank top) by /u/magicarrot]; [https://www.reddit.com/r/lifeisstrange/comments/7cvuwy/allmod_play_as_19yearold_chloe_beanie_and_tank/dpsz6m0/ First Reddit post]; [https://www.reddit.com/r/lifeisstrange/comments/7cvuwy/allmod_play_as_19yearold_chloe_beanie_and_tank/ Original Reddit post]
+* [https://pcgamingwiki.com/wiki/Life_Is_Strange:_Before_the_Storm PCGamingWiki]
+###  Fan Translations 
+* [http://tolma4team.ru/life-is-strange-before-the-storm/ Russian language modification by Tolma4]
+**[http://lifeisstrange-blog.tumblr.com/post/167590318980/russian-localisation-mod-available-now-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4 Official Tumblr post]
+**[https://vk.com/tolma4team?wwall-68605211_85249 Tolma4 team announces "information support" by Square Enix for their Russian translation]
+*[http://www.igtcid.blogspot.co.id/2019/04/life-is-strange-before-storm-patch.html Indonesia's language modification by IGTC Team]
+###  Tools 
+* [https://github.com/IgelRM/LiS-BtS-Savegame-viewer Savegame editor by /u/DanielWe and continued by Ladosha2 and IgelRM]
+### Fan Translations
+*[https://igtcid.blogspot.com/2021/08/life-is-strange-2-patch-mod-bahasa.html Indonesian Fan Translation]
+
+###  Tools 
+* [https://github.com/ladosha/lis2-save-editor Savegame editor by Ladosha2]
+
+## True Colors 
+### Fan Translations
+*[http://igtcid.blogspot.com/2021/09/life-is-strange-true-colors-patch-mod.html Indonesian Fan Translation]
+{{Community Content Navbox}}
+
+The following article lists **modifications** created for *[Life is Strange](life_is_strange.md)* games. These include mods, fan made translations and even editing tools.
+##  [Life is Strange](life_is_strange.md) 
+###  Mods 
+* [http://sfx.thelazy.net/games/game/856/ SweetFX presets]
+* [http://www.nexusmods.com/lifeistrange/mods/17/? Happy Ending Mod by eezonaut]
+* [http://www.nexusmods.com/lifeistrange/mods/10/? Life is Strange - Gangsta Subtitles (AKA Life is Gizoogle) by TheNathanNS]
+
+* [https://pcgamingwiki.com/wiki/Life_Is_Strange PCGamingWiki]
+* [https://steamcommunity.com/app/319630/guides/?searchText# &browsefiltertrend&browsesort# creationorder&requiredtags%5B%5DModding+or+Configuration&requiredtags%5B%5D# -1 Browse Steam's "Modding Or Configuration" section]
+* [http://www.nexusmods.com/lifeistrange/mods/searchresults/? Browse nexusmods]
+
+###  Cinematic Screenshots 
+{{Main|Cinematic Screenshots}}
+* [http://steamcommunity.com/sharedfiles/filedetails/?id656832219 Life is Strange: Photographer Mod by IDK31]
+* [https://web.archive.org/web/20151026153249/http://davidcsimon.com:80/LiS/about/camera-modding-instructions/ Camera Modding using Unreal Engine commands by davidcsimon]
+* [https://forums.geforce.com/default/topic/808518/pc-games/life-is-strange-camera-mods-useful-for-screenshots/ Unreal Engine camera control commands by notN1P]
+* [https://steamcommunity.com/sharedfiles/filedetails/?id# 544446117 Activating the Dev Console / Advanced Screenshot Guide by Ness199X]
+* [https://www.reddit.com/r/lifeisstrange/comments/3quja0/ep3_spoilers_complete_guide_to_life_is_strange/ Reddit post by /u/Illyndrei]
+
+###  Fan Translations 
+* [https://steamcommunity.com/sharedfiles/filedetails/?id734296289 Russian fan localisation of subtitles (all episodes) and audio (episodes 1-4)].
+* [https://steamcommunity.com/sharedfiles/filedetails/?id# 957365442 Beta version of Russian text localisation]
+* [http://steamcommunity.com/sharedfiles/filedetails/?id855999976 Chinese fan localization]
+* [http://igtcid.blogspot.com/2017/11/life-is-strange-indonesia-version-patch.html Indonesian Fan Translation]
+*[https://www.nexusmods.com/lifeistrange/mods/26 Memes Subtitles and English localization (all episodes)]
+
+###  Tools 
+* [https://www.reddit.com/r/lifeisstrange/comments/3iw6iu/lis_save_editor/ LiS Save Editor by /u/let_the_sun_shine] [https://github.com/VakhtinAndrey/lis-save-editor Source code on GitHub]
+
+##  Videos 
+
+(Spoilers) Life Is Strange - Scene Swapping
+LowSpecGamer Life is Strange on lowest graphics
+Better On VR? - Episode 1 Life is Strange & A Thank You to Subscribers
+
+##  Before the Storm 
+###  Mods 
+* [http://ratchet302.gitlab.io/games/l/life-is-strange-before-the-storm/tweaks/index.html Skip Intro, No Depth of Field, No Chromatic Aberration tweaks by ratchet302]
+* [https://www.reddit.com/r/lifeisstrange/comments/78bcgj/no_spoilers_enabling_freecam_in_debug_mode_in/ Enabling freecam in debug mode in Episode 3 for screenshots by /u/IgelRM]
+* [http://sfx.thelazy.net/games/game/1881/ SweetFX presets]; [http://sfx.thelazy.net/games/game/1785/ More]
+* [http://steamcommunity.com/sharedfiles/filedetails/?id# 682947327 Camera modding cheat engine table with a hide UI feature by IDK31]
+* [https://rd.nexusmods.com/lifeisstrangebeforethestorm/mods/5 Play as 19-year-old Chloe (beanie + jacket) by /u/magicarrot]; [https://www.reddit.com/r/lifeisstrange/comments/7bhksc/allmod_play_as_19yearold_chloe_beanie_jacket_in First reddit post]; [https://www.reddit.com/r/lifeisstrange/comments/6z4n1i/allmod_play_as_19yearold_chloe_in_before_the/ Original Reddit post]
+* [https://rd.nexusmods.com/lifeisstrangebeforethestorm/mods/6 Play as 19-year-old Chloe (beanie and tank top) by /u/magicarrot]; [https://www.reddit.com/r/lifeisstrange/comments/7cvuwy/allmod_play_as_19yearold_chloe_beanie_and_tank/dpsz6m0/ First Reddit post]; [https://www.reddit.com/r/lifeisstrange/comments/7cvuwy/allmod_play_as_19yearold_chloe_beanie_and_tank/ Original Reddit post]
+* [https://pcgamingwiki.com/wiki/Life_Is_Strange:_Before_the_Storm PCGamingWiki]
+###  Fan Translations 
+* [http://tolma4team.ru/life-is-strange-before-the-storm/ Russian language modification by Tolma4]
+**[http://lifeisstrange-blog.tumblr.com/post/167590318980/russian-localisation-mod-available-now-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4 Official Tumblr post]
+**[https://vk.com/tolma4team?wwall-68605211_85249 Tolma4 team announces "information support" by Square Enix for their Russian translation]
+*[http://www.igtcid.blogspot.co.id/2019/04/life-is-strange-before-storm-patch.html Indonesia's language modification by IGTC Team]
+###  Tools 
+* [https://github.com/IgelRM/LiS-BtS-Savegame-viewer Savegame editor by /u/DanielWe and continued by Ladosha2 and IgelRM]
+### Fan Translations
+*[https://igtcid.blogspot.com/2021/08/life-is-strange-2-patch-mod-bahasa.html Indonesian Fan Translation]
+
+###  Tools 
+* [https://github.com/ladosha/lis2-save-editor Savegame editor by Ladosha2]
+
+## True Colors 
+### Fan Translations
+*[http://igtcid.blogspot.com/2021/09/life-is-strange-true-colors-patch-mod.html Indonesian Fan Translation]
+{{Community Content Navbox}}
+

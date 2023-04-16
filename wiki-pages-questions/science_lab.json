@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Who teaches science to Blackwell's students in the Science Lab?",
+    "answer": "C",
+    "choices": {
+      "A": "Warren Graham",
+      "B": "Chloe Price",
+      "C": "Michelle Grant",
+      "D": "Brooke"
+    }
+  },
+  {
+    "question": "What is the name of the optional photo opportunity in the Science Lab during Episode 2?",
+    "answer": "D",
+    "choices": {
+      "A": "Art is Science",
+      "B": "Front to the Future",
+      "C": "Creepy Sea Critters",
+      "D": "Mister Wizard"
+    }
+  },
+  {
+    "question": "What does Max need to take from the top of the cupboard in the Science Lab during Episode 3?",
+    "answer": "B",
+    "choices": {
+      "A": "Sugar",
+      "B": "Sodium Chlorate",
+      "C": "Potassium",
+      "D": "Chlorine"
+    }
+  }
+]

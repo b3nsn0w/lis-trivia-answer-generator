@@ -1,0 +1,10 @@
+#  Shinobu Matsumoto 
+
+[File:Shinobu Matsumoto.jpg](thumb.md)
+**Shinobu Matsumoto** (**まつもと しのぶ**) / (**松本 忍**) is the Japanese voice actor of William Price (**ウィリアム・プライス**) for the [Japanese Release (Life is Strange)](japanese_localization.md) of *[Life is Strange](life_is_strange.md)* and* [Life is Strange: Before the Storm](life_is_strange__before_the_storm.md)*.
+
+ Shinobu Matsumoto =
+
+[File:Shinobu Matsumoto.jpg](thumb.md)
+**Shinobu Matsumoto** (**まつもと しのぶ**) / (**松本 忍**) is the Japanese voice actor of William Price (**ウィリアム・プライス**) for the [Japanese Release (Life is Strange)](japanese_localization.md) of *[Life is Strange](life_is_strange.md)* and* [Life is Strange: Before the Storm](life_is_strange__before_the_storm.md)*.
+

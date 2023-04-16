@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Name Of The Song That Plays On The CD Player In Chloe's Room?",
+    "answer": "A",
+    "choices": {
+      "A": "Santa Monica Dream",
+      "B": "Piano Fire",
+      "C": "In My Mind",
+      "D": "The Eye of Providence"
+    }
+  },
+  {
+    "question": "What Is The Significance Of The Eye of Providence On The Wall Of Chloe's Room?",
+    "answer": "B",
+    "choices": {
+      "A": "It Represents Chloe's Anger And Frustration",
+      "B": "It Is A Sign Of Max Gaining Insight",
+      "C": "It Is A Reference To The Girl With The Dragon Tattoo",
+      "D": "It Is A Symbol Of Chloe's Rebellion"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Song That Plays When Max And Chloe Reunite In Chloe's Room In Episode 4?",
+    "answer": "C",
+    "choices": {
+      "A": "Santa Monica Dream",
+      "B": "Piano Fire",
+      "C": "In My Mind",
+      "D": "The Eye of Providence"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Film That The Two Faces Poster In Chloe's Room Is Possibly A Reference To?",
+    "answer": "A",
+    "choices": {
+      "A": "The Girl With The Dragon Tattoo",
+      "B": "Millennium",
+      "C": "The Eye of Providence",
+      "D": "Piano Fire"
+    }
+  }
+]

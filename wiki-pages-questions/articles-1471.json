@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who Directed Life Is Strange Before The Storm?",
+    "answer": "B",
+    "choices": {
+      "A": "Ashly Burch",
+      "B": "Chris Floyd",
+      "C": "Hailey Hayes",
+      "D": "Deck Nine Games"
+    }
+  },
+  {
+    "question": "What Was The Title Of The First Episode Of Life Is Strange Before The Storm?",
+    "answer": "B",
+    "choices": {
+      "A": "Polarized",
+      "B": "Awake",
+      "C": "Chaos Theory",
+      "D": "Dark Room"
+    }
+  },
+  {
+    "question": "Which Article Talks About The Emotional Journey Of The Life Is Strange Series?",
+    "answer": "B",
+    "choices": {
+      "A": "Life Is Strange Before The Storm - Season 2 update from Deck Nine Games will delight fans",
+      "B": "Life Is Strange Dev And Lead Actress Say Why The Series Was An Emotional Journey At Its Conclusion",
+      "C": "Hailey Hayes: Life Is Strange is ‘Incomparable to Anything Else I’ve Done’",
+      "D": "Deck Nine Talks Deleted Scenes And Queer Characters In Life Is Strange Prequel"
+    }
+  },
+  {
+    "question": "Who Played The Role Of Chloe In Life Is Strange Before The Storm?",
+    "answer": "A",
+    "choices": {
+      "A": "Ashly Burch",
+      "B": "Hailey Hayes",
+      "C": "Chris Floyd",
+      "D": "Deck Nine Games"
+    }
+  }
+]

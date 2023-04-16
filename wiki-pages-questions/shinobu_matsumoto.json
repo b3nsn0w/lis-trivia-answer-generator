@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who Did Shinobu Matsumoto Voice in the Japanese Release of Life is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "Max Caulfield",
+      "B": "Chloe Price",
+      "C": "William Price",
+      "D": "Rachel Amber"
+    }
+  },
+  {
+    "question": "What is Shinobu Matsumoto's Profession?",
+    "answer": "A",
+    "choices": {
+      "A": "Voice Actor",
+      "B": "Writer",
+      "C": "Director",
+      "D": "Producer"
+    }
+  },
+  {
+    "question": "Which Game Did Shinobu Matsumoto Voice Act in?",
+    "answer": "C",
+    "choices": {
+      "A": "Life is Strange",
+      "B": "Life is Strange: Before the Storm",
+      "C": "Both A and B",
+      "D": "None of the Above"
+    }
+  },
+  {
+    "question": "What is the Name of the Character Voiced by Shinobu Matsumoto?",
+    "answer": "C",
+    "choices": {
+      "A": "Max Caulfield",
+      "B": "Chloe Price",
+      "C": "William Price",
+      "D": "Rachel Amber"
+    }
+  },
+  {
+    "question": "In Which Language Did Shinobu Matsumoto Voice Act?",
+    "answer": "B",
+    "choices": {
+      "A": "English",
+      "B": "Japanese",
+      "C": "Spanish",
+      "D": "French"
+    }
+  }
+]

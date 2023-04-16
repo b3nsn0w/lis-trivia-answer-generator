@@ -1,0 +1,8 @@
+#  Character Gallery 
+
+This category features a list of **galleries** for [:Category:Major Characters](major_characters.md) in the *[Life is Strange (Franchise)](life_is_strange.md)* franchise.
+
+ Character Gallery =
+
+This category features a list of **galleries** for [:Category:Major Characters](major_characters.md) in the *[Life is Strange (Franchise)](life_is_strange.md)* franchise.
+

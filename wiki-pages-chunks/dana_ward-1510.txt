@@ -1,0 +1,77 @@
+Here is a section of the wiki page for Dana Ward:
+
+#  Dana Ward 
+
+```yaml
+Character
+
+name: Dana Ward
+image: PSN_Dana_Avatar.jpg
+age: '18'
+born: July 11, 1995
+died: October 11, 2013 (presumed, determinant)
+causeofdeath: Killed by the [Storm
+storm](storm_storm.md) (presumed, determinant): *
+gender: Female
+hair: Auburn
+eyes: Blue
+loveinterest: |-
+  [Logan Robertson](logan_robertson.md) (boyfriend, former)
+  [Trevor Yard](trevor_yard.md) (boyfriend)
+friends: |-
+  [Juliet Watson](juliet_watson.md)
+  [Kate Marsh](kate_marsh.md)
+  [Maxine Caulfield
+Max Caulfield](maxine_caulfield_max_caulfield.md): *
+profession: High school student
+affiliation: |-
+  [Blackwell Academy](blackwell_academy.md)
+  [Vortex Club](vortex_club.md)
+appearance: >-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)  [Episode 2: Out of
+  Time](episode_2__out_of_time.md)  [Episode 3: Chaos
+  Theory](episode_3__chaos_theory.md)  [Episode 4: Dark
+  Room](episode_4__dark_room.md)  [Episode 5:
+  Polarized](episode_5__polarized.md)
+voice: '[Dani Knights](dani_knights.md) (ENG) (uncredited)Yuka Adachi (JAP)'
+width: 270px
+```
+
+> I don't need any club to be cool or have friends.
+
+**Dana to [Maxine Caulfield**, Max](maxine_caulfield____max.md) in "[Episode 4: Dark Room, Dark Room](episode_4__dark_room__dark_room.md)"
+
+**Dana Ward** (born July 11, 1995) is a student at [Blackwell Academy](blackwell_academy.md). She is a cheerleader who lives in the [Prescott Dormitory](prescott_dormitory.md). Dana is nice to [Maxine Caulfield](max_caulfield.md), supporting her relationship with [Warren Graham](warren_graham.md). She is best friends with [Juliet Watson](juliet_watson.md) and currently [Trevor](trevor.md)'s girlfriend.
+
+Dana reappears in *[Life is Strange: Before the Storm](before_the_storm.md)*, the prequel to the events of *Life is Strange*.
+
+## Personality 
+Despite her popularity and [Vortex Club](vortex_club.md) membership, Dana is a nice and empathic person who cares for others disregarding their social status. She criticizes the Vortex Club and sometimes wishes she would be a loner like Max. She also seems to be a good and supportive friend. She also is a dedicated cheerleader evident by the posters and decorations in her room.
+
+## Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+Max sees Dana in the hallway outside the [Science Lab](science_lab.md) talking to [Justin Williams](justin_williams.md) as Max makes her way to the bathroom after [Mark Jefferson](mr__jefferson.md)'s class and comments on her popularity. On her way back to the bathroom to save [Chloe Price](chloe_price.md) from [Nathan Prescott](nathan_prescott.md), Max sees Dana again and wishes she could tell someone what was going on.
+
+Later, in the [Prescott Dormitory](prescott_dormitory.md), Max goes to get Warren's [Warren's Flash Drive](flash_drive.md), but sees a sticky note saying that Dana borrowed it to watch movies while she studied.
+
+Just as Max heads towards Dana’s room, [Juliet Watson](juliet_watson.md) emerges and locks Dana inside, demanding that Dana “tells the truth”. Dana listens through the door as Juliet tells Max about [Victoria Chase](victoria_chase.md)'s claims that Dana sexted Juliet's boyfriend, [Zachary Riggins](zachary_riggins.md). When Juliet finishes, Dana talks to Max through her door, saying she's innocent, and to look for proof in [Victoria's Room](victoria_s_room.md).
+
+Once Max proves to Juliet that Dana is innocent, Juliet lets her out and Dana forgives her friend, also saying Juliet has to do her laundry. Inside her room, Dana thanks Max for helping out, expressing her disbelief at Juliet’s actions. She then explains that not everyone in the [Vortex Club](vortex_club.md) gets along, saying that Victoria creeps her out and that she wouldn't let Zachary touch her. Dana says it’s a good thing Max is a loner, but comments on how Warren obviously likes her.
+
+If Max finds Dana's pregnancy test, and then rewinds so Dana doesn't catch her, she and Max talk about a ‘rumor’ Max heard. Dana confesses that she was pregnant. She may say that it was a mistake and implies that she either had an abortion or miscarried. This seems to be verified by the clinic note on her table. Dana then hints at the identity of the “deadbeat dad”. After the conversation, Dana compliments Max’s spirit, then playfully teases her about the flash drive so Warren has an excuse to bug her.
+
+There is a letter from [Logan Robertson](logan_robertson.md) in Dana's room that says he would help Dana out financially, implying he was the father. (Max later confirms this, hoping this jackass will use protection next time.) The text of the letter is as follows:
+
+{{Bigquote
+|*Dana I suck at writing but I thought I should write this so you might not hate my dumb ass forever.*
+''I know I act like a tough jock around everybody but I never had to act around you, I'm not the kind of man you deserve. You saw how I pussed out.*
+
+*if you need any money, let me know.*
+
+*XO Logan''
+}}
+
+There is also a best-selling maternity book by [Dr. Bill](dr__bill.md), a syndicated radio host, along with a clinic note. Dana had a doctor's appointment on October 2nd at the Center for Women's Health that was related to "Fertility, Pregnancy & Childbirth".
+
+
+
+Generate five trivia questions relevant to this section of the page.

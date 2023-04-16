@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Happens To Lisa The Plant Depending On Max's Choices?",
+    "answer": "D",
+    "choices": {
+      "A": "Lisa Is Saved Only",
+      "B": "Lisa Dries Out If Kate Is Saved",
+      "C": "Lisa Drowns If Kate Is Saved",
+      "D": "All Of The Above"
+    }
+  },
+  {
+    "question": "What Does Max Say About The Eclipse Outside Her Window?",
+    "answer": "A",
+    "choices": {
+      "A": "It Can't Be A Coincidence",
+      "B": "It's Just A Normal Eclipse",
+      "C": "It's A Sign Of Good Luck",
+      "D": "It's A Sign Of Bad Luck"
+    }
+  },
+  {
+    "question": "What Can Max Do With Kate's Rabbit?",
+    "answer": "C",
+    "choices": {
+      "A": "Look At It",
+      "B": "Feed It",
+      "C": "Both A And B",
+      "D": "None Of The Above"
+    }
+  },
+  {
+    "question": "What Does Max Do With Her Photo In Episode Five?",
+    "answer": "B",
+    "choices": {
+      "A": "She Looks At It",
+      "B": "She Tears It Apart",
+      "C": "She Burns It",
+      "D": "She Frames It"
+    }
+  }
+]

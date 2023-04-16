@@ -1,0 +1,42 @@
+[
+  {
+    "question": "How Did Max Keep In Touch With Chloe In The Alternative Timeline?",
+    "answer": "B",
+    "choices": {
+      "A": "Through Text Messages",
+      "B": "Through Letters On Parchment Paper",
+      "C": "Through Phone Calls",
+      "D": "Through Social Media"
+    }
+  },
+  {
+    "question": "How Long Did It Take Alternate Max To Respond To Chloe's Letter?",
+    "answer": "A",
+    "choices": {
+      "A": "5 Months",
+      "B": "5 Days",
+      "C": "5 Hours",
+      "D": "5 Minutes"
+    }
+  },
+  {
+    "question": "How Did Chloe React To Max's Visit In The Alternative Timeline?",
+    "answer": "C",
+    "choices": {
+      "A": "She Was Accusatory About Max Abandoning Her",
+      "B": "She Was Indifferent To Max's Visit",
+      "C": "She Was Extremely Happy To See Max",
+      "D": "She Was Angry At Max For Not Visiting Earlier"
+    }
+  },
+  {
+    "question": "Why Was Chloe Unable To Attend Blackwell Academy In The Alternative Timeline?",
+    "answer": "C",
+    "choices": {
+      "A": "She Was Expelled",
+      "B": "She Was Arrested",
+      "C": "She Became Disabled",
+      "D": "She Moved Away"
+    }
+  }
+]

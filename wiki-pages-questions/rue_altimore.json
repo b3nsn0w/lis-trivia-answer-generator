@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Type Of Restaurant Is Rue Altimore?",
+    "answer": "A",
+    "choices": {
+      "A": "Italian",
+      "B": "French",
+      "C": "American",
+      "D": "Chinese"
+    }
+  },
+  {
+    "question": "According To Max, What Is Rue Altimore Known For?",
+    "answer": "B",
+    "choices": {
+      "A": "Being The Most Affordable Restaurant In Town",
+      "B": "Being The Most Expensive Restaurant In Town",
+      "C": "Having The Best Pizza In Town",
+      "D": "Having The Best Burgers In Town"
+    }
+  },
+  {
+    "question": "How Much Was The Bill For The Couple's Dinner At Rue Altimore?",
+    "answer": "A",
+    "choices": {
+      "A": "Over $200",
+      "B": "Over $300",
+      "C": "Over $400",
+      "D": "Over $500"
+    }
+  },
+  {
+    "question": "Where Was The Bill For Rue Altimore Found?",
+    "answer": "B",
+    "choices": {
+      "A": "In The Restaurant",
+      "B": "In The Madsen Household",
+      "C": "In The Cinema",
+      "D": "In The Entryway Of The Price Household"
+    }
+  },
+  {
+    "question": "What Was The Main Order Listed On The Bill From Rue Altimore?",
+    "answer": "A",
+    "choices": {
+      "A": "Six-Course Couple's Dinner w/ Endless Wine",
+      "B": "Pizza and Beer",
+      "C": "Burger and Fries",
+      "D": "Salad and Water"
+    }
+  }
+]

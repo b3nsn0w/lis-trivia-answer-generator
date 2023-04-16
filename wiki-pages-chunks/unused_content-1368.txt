@@ -1,0 +1,75 @@
+Here is a section of the wiki page for Unused Content:
+
+#  Unused Content 
+
+Some **Unused Content** exists that wasn't present in *[Life is Strange](life_is_strange.md)*, which can be documented through examining the game files and early concept art. The content can reveal information about characters, locations, or possible alternate sequences and endings planned pre- or during development by [Don't Nod](don_t_nod.md).
+
+## Unused Audio 
+A lot of unused sound files exist that can be found in the extracted game files.
+{{Main|Unused Audios|Unused Audio}} [File:SoundIcon.png](20px.md)
+
+## Unused Text 
+{{Main|Unused Text}} [File:TextIcon.png](20px.md)
+
+## Unused Character Info 
+
+#
+
+## Names 
+*At some point in the game's development, [Rachel Amber](rachel_amber.md) was going to be called Jessie. The file name for the photo of Chloe and Rachel found under Chloe's bed in Chrysalis is *"TX_Papers_PictureChloeJessie01_D"*. The postcard from Rachel is named in a similar fashion: *"TX_Papers_PostcardJessie01_D"*.
+* In an early stage of the game's development, [Brooke Scott](brooke_scott.md) was going to be called Hayley. References to this name can still be found in the game files; an animation sequence of Brooke flying her drone in "[Episode 1: Chrysalis](chrysalis.md)" is named "*AS_E1_3A_CampusA_Hayley*".
+*Although Trevor's surname was never mentioned in the game, a surname of "Johnson" exists for him in [DONTNOD](dontnod.md)'s original files, as confirmed by Square Enix's *Life is Strange* [Community Management](community_manager.md), Toby Palm.
+
+#
+
+## Design 
+*[File:Edouard-caplain-principal-hd.jpg](306x306px.md) A concept art by [Edouard Caplain](edouard_caplain.md) implies that in an early stage of development, Principal Wells' ethnicity/skin color was not decided yet. Designs for both a white and black skinned Wells exist. He is the one of two characters which concept art versions of different ethnicities exist for. The other being [Evan Harris](evan_harris.md).
+
+* At some point in the game's development, Alyssa was going to have blue hair. In one of the photos of [Kate Marsh](kate_marsh.md) taken by [David Madsen](david_madsen.md), Alyssa can be seen with blue hair. Concept art from the [Limited Edition (Life is Strange)](limited_edition.md) also displays her that way.
+
+David investigation Kate3.png
+alyssa-blueconcept.png
+
+* Early concept art for Chloe Price shows her with a different tattoo sleeve design and a rainbow on her vest.
+
+Chloe_Rainbow_Tee.png|Early tattoo and vest design (concept art by Michel Koch).
+Chloe_Rainbow_Tee_cropped.png|Close up of the early tattoo and vest design (concept art by Michel Koch).
+
+* There is a seemly unused character concept art by [Fred Augis](fred_augis.md).
+
+LiS_seemingly_unused_concept.jpg
+
+## Unused Graphics 
+The following files can or could be found in the game files but weren't used in the final version of the game:
+
+lis3-rachelindarkroom-printed.png|Nathan's drawing printed on paper (meant to be in [Chloe's Room](chloe_s_room.md) in "[Episode 3: Chaos Theory](chaos_theory.md)")
+444px-LiS5-NathanMessage.png|Unused message from [Nathan Prescott](nathan_prescott.md) to [Mark Jefferson](mark_jefferson.md) intended for Episode 5.
+Joyce Pola.png|Unused polaroid intended for [Joyce Price](joyce_price.md)'s character page in [Max's Journal](max_s_journal.md), most likely as an early concept design.
+Franck.png|Unused polaroid intended for Frank's character page in Max's journal, most likely as an early concept design.
+Rachel_Pola.png|Unused [Rachel Amber](rachel_amber.md) polaroid found in [Frank Bowers](frank_bowers.md)'s journal page files, likely intended as an early concept design of her character page in [Max's Journal](max_s_journal.md).
+Franck_balles.png|Unused drawing of Frank's bullets, intended for Frank's character page in [Max's Journal](max_s_journal.md).
+Franck_Dessin.png|Unused drawing of Frank, intended for Frank's character page in Max's journal.
+Rachel_Camera.png|Unused camera drawing, intended for Rachel's character page in Max's journal.
+
+## Unused Locations 
+Some locations were cut from the game but references to them can still be found in the game files.[https://tcrf.net/Life_is_Strange/Early_Locations The Cutting Room Floor - Locations]
+{|
+|-
+| **Episode**
+| **Locations**
+|-
+| [Episode 3: Chaos Theory](episode_3__chaos_theory.md)
+| Episode3Sub7# "E3_4A Nightmare"
+|-
+| [Episode 4: Dark Room](episode_4__dark_room.md)
+| Episode4Sub13"Jefferson's Car"
+|-
+| [Episode 5: Polarized](episode_5__polarized.md)
+| Episode5Sub7# "[Chloe's Truck](chloe_s_truck.md) - In The Storm"Episode5Sub13"High School Toilets - Focus"Episode5Sub15# "[Hospital Ending](hospital___ending.md)"
+|}
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Which characters did Dayeanne Hutton voice in Life is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Kate Marsh, Alyssa Anderson, and Juliet Watson",
+      "B": "Max Caulfield, Chloe Price, and Rachel Amber",
+      "C": "Victoria Chase, Dana Ward, and Taylor Christensen",
+      "D": "Warren Graham, Nathan Prescott, and David Madsen"
+    }
+  },
+  {
+    "question": "What is the name of Dayeanne Hutton's fashion blog?",
+    "answer": "A",
+    "choices": {
+      "A": "Potpurrri",
+      "B": "Eclectic Lifestyle",
+      "C": "Cat's Meow",
+      "D": "Llama Love"
+    }
+  },
+  {
+    "question": "What is Dayeanne Hutton's Hogwarts house?",
+    "answer": "C",
+    "choices": {
+      "A": "Gryffindor",
+      "B": "Slytherin",
+      "C": "Ravenclaw",
+      "D": "Hufflepuff"
+    }
+  },
+  {
+    "question": "What are some of Dayeanne Hutton's long term goals according to her official website?",
+    "answer": "A",
+    "choices": {
+      "A": "Owning a llama, learning banjo, and becoming a wizard.",
+      "B": "Owning a cat, learning guitar, and becoming a chef.",
+      "C": "Owning a dog, learning piano, and becoming a doctor.",
+      "D": "Owning a bird, learning drums, and becoming a teacher."
+    }
+  }
+]

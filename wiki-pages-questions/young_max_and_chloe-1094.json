@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Did Max Want To Be When She Grew Up?",
+    "answer": "B",
+    "choices": {
+      "A": "A Bodyguard",
+      "B": "A Photographer",
+      "C": "A Pilot",
+      "D": "A Chef"
+    }
+  },
+  {
+    "question": "What Happened When Max And Chloe Tried Wine In Chloe's House?",
+    "answer": "A",
+    "choices": {
+      "A": "They Spilled It On The Carpet",
+      "B": "They Got Drunk And Passed Out",
+      "C": "They Hid The Bottle From Chloe's Parents",
+      "D": "They Got Caught By Chloe's Parents"
+    }
+  },
+  {
+    "question": "What Did Chloe Want To Be When She Grew Up?",
+    "answer": "B",
+    "choices": {
+      "A": "A Photographer",
+      "B": "A Bodyguard",
+      "C": "A Chef",
+      "D": "A Pilot"
+    }
+  },
+  {
+    "question": "What Did William Want The Girls To Say When He Took Their Picture?",
+    "answer": "B",
+    "choices": {
+      "A": "\"Cheesecake!\"",
+      "B": "\"Pancake!\"",
+      "C": "\"Smile!\"",
+      "D": "\"Say Cheese!\""
+    }
+  },
+  {
+    "question": "What Did Chloe Want Max To Do When William Took Their Picture?",
+    "answer": "B",
+    "choices": {
+      "A": "Smile",
+      "B": "Make A Funny Face",
+      "C": "Close Her Eyes",
+      "D": "Look Away"
+    }
+  }
+]

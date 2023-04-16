@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Where is the \"Safety First\" poster located?",
+    "answer": "C",
+    "choices": {
+      "A": "Inside Kate's room in the hospital",
+      "B": "Inside David's garage",
+      "C": "Hallway of the Prescott Dormitory",
+      "D": "Inside Kate's locker"
+    }
+  },
+  {
+    "question": "What is written on the \"Cat pics notice\" in the dormitory hallway?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Who would steal cat pics?\"",
+      "B": "\"Missing: Cat Pics\"",
+      "C": "\"Reward for Cat Pics\"",
+      "D": "\"Cat Pics for Sale\""
+    }
+  },
+  {
+    "question": "What is the comment Max makes about the \"Gamer Guyz\" poster in the dormitory hallway?",
+    "answer": "A",
+    "choices": {
+      "A": "\"They have one more meeting left...\"",
+      "B": "\"I wish I could join them\"",
+      "C": "\"I hate that poster\"",
+      "D": "\"I don't understand the appeal\""
+    }
+  },
+  {
+    "question": "Where is the \"Framed photo of Kate with her sisters\" located?",
+    "answer": "A",
+    "choices": {
+      "A": "Inside Kate's room in the hospital",
+      "B": "Inside David's garage",
+      "C": "Hallway of the Prescott Dormitory",
+      "D": "Inside Kate's locker"
+    }
+  }
+]

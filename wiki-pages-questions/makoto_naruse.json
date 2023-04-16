@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Who is Makoto Naruse?",
+    "answer": "C",
+    "choices": {
+      "A": "The Japanese voice actor of Max Caulfield",
+      "B": "The Japanese voice actor of Chloe Price",
+      "C": "The Japanese voice actor of Warren Graham",
+      "D": "The Japanese voice actor of Nathan Prescott"
+    }
+  },
+  {
+    "question": "Which character did Makoto Naruse voice in the Japanese release of Life is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "Max Caulfield",
+      "B": "Chloe Price",
+      "C": "Warren Graham",
+      "D": "Nathan Prescott"
+    }
+  },
+  {
+    "question": "Which language version of Life is Strange did Makoto Naruse provide his voice for?",
+    "answer": "C",
+    "choices": {
+      "A": "English",
+      "B": "French",
+      "C": "Japanese",
+      "D": "German"
+    }
+  }
+]

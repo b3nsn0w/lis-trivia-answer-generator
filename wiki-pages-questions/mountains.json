@@ -1,0 +1,42 @@
+[
+  {
+    "question": "In which episode of Life is Strange is \"Mountains\" featured?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "Who performs \"Mountains\"?",
+    "answer": "A",
+    "choices": {
+      "A": "Message To Bears",
+      "B": "Daughter",
+      "C": "Angus & Julia Stone",
+      "D": "The Paper Kites"
+    }
+  },
+  {
+    "question": "What is the general setup of the music video for \"Mountains\"?",
+    "answer": "A",
+    "choices": {
+      "A": "A woman unearths a box full of the belongings of a loved one",
+      "B": "A man goes on a road trip through the mountains",
+      "C": "A group of friends have a bonfire on the beach",
+      "D": "A couple dances in the rain"
+    }
+  },
+  {
+    "question": "What is the significance of \"Mountains\" being featured in the junkyard sequence of Life is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "The song is about running away from problems",
+      "B": "The song is about finding closure after a loss",
+      "C": "The song is about exploring new places",
+      "D": "The song is about falling in love"
+    }
+  }
+]

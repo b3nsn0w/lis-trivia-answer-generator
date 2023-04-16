@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the name of the national contest that the Zeitgeist Gallery participated in?",
+    "answer": "A",
+    "choices": {
+      "A": "Everyday Heroes",
+      "B": "Future Stars of Photography",
+      "C": "Heartfelt Awareness",
+      "D": "Imaginative Skill"
+    }
+  },
+  {
+    "question": "Who is one of the winners of the Everyday Heroes contest?",
+    "answer": "A",
+    "choices": {
+      "A": "Max Caulfield",
+      "B": "Warren Graham",
+      "C": "Chloe Price",
+      "D": "Victoria Chase"
+    }
+  },
+  {
+    "question": "What is the theme of the Everyday Heroes contest?",
+    "answer": "A",
+    "choices": {
+      "A": "Casual Heroism",
+      "B": "Breaking News",
+      "C": "Reality Shows",
+      "D": "Celebrity Gossip"
+    }
+  },
+  {
+    "question": "When does the Everyday Heroes exhibition run at the Zeitgeist Gallery?",
+    "answer": "A",
+    "choices": {
+      "A": "From 10/11/2013 to 12/06/2013",
+      "B": "From 12/06/2013 to 10/11/2013",
+      "C": "From 10/06/2013 to 12/11/2013",
+      "D": "From 12/11/2013 to 10/06/2013"
+    }
+  },
+  {
+    "question": "What does the graffiti or sign across the street from the gallery say?",
+    "answer": "C",
+    "choices": {
+      "A": "\"THiS iS ART\"",
+      "B": "\"THiS iS LIFE\"",
+      "C": "\"THiS iS WATER\"",
+      "D": "\"THiS iS HOPE\""
+    }
+  }
+]

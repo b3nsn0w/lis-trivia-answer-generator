@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Song Is Max Listening To When She Meets Mark Jefferson For The First Time?",
+    "answer": "A",
+    "choices": {
+      "A": "To All of You by Syd Matters",
+      "B": "Something Good by Alt-J",
+      "C": "Obstacles by Syd Matters",
+      "D": "Lua by Bright Eyes"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Diner That Max Visits With Joyce?",
+    "answer": "A",
+    "choices": {
+      "A": "Two Whales Diner",
+      "B": "Blackwell Diner",
+      "C": "Arcadia Bay Diner",
+      "D": "Blue Moon Diner"
+    }
+  },
+  {
+    "question": "What Object Does Frank Have That Links Him To Rachel Amber?",
+    "answer": "A",
+    "choices": {
+      "A": "A Bracelet",
+      "B": "A Necklace",
+      "C": "A Ring",
+      "D": "A Watch"
+    }
+  },
+  {
+    "question": "What Does Max Use To Threaten Frank?",
+    "answer": "A",
+    "choices": {
+      "A": "A Gun",
+      "B": "A Knife",
+      "C": "A Taser",
+      "D": "Pepper Spray"
+    }
+  },
+  {
+    "question": "What Happens To Kate Marsh's Character Notes Depending On Her Fate?",
+    "answer": "A",
+    "choices": {
+      "A": "A Smiling Sun Sticker Is Added If She Lives, A Frowning Moon Sticker Is Added If She Dies",
+      "B": "A Frowning Moon Sticker Is Added If She Lives, A Smiling Sun Sticker Is Added If She Dies",
+      "C": "A Smiling Sun Sticker Is Added If She Lives, A Smiling Moon Sticker Is Added If She Dies",
+      "D": "A Frowning Moon Sticker Is Added If She Lives, A Frowning Sun Sticker Is Added If She Dies"
+    }
+  }
+]

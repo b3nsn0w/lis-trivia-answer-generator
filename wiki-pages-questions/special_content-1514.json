@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Purpose Of The Easily Missed Details Pages?",
+    "answer": "B",
+    "choices": {
+      "A": "To List Easter Eggs",
+      "B": "To List Interesting Observations",
+      "C": "To List Inconsistencies",
+      "D": "To List Memorable Quotes"
+    }
+  },
+  {
+    "question": "Which Pages List The Easter Eggs Found In The Life Is Strange Games?",
+    "answer": "D",
+    "choices": {
+      "A": "Timelines",
+      "B": "Chronological Sequence of Events",
+      "C": "Interactions",
+      "D": "Easter Eggs"
+    }
+  },
+  {
+    "question": "Which Pages Contain Written Transcripts Of The Episodes Of Life Is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "Timelines",
+      "B": "Chronological Sequence of Events",
+      "C": "Episode Scripts",
+      "D": "Memorable Quotes"
+    }
+  },
+  {
+    "question": "What Do The Inconsistencies Pages List?",
+    "answer": "C",
+    "choices": {
+      "A": "Easter Eggs",
+      "B": "Interactions",
+      "C": "Inconsistencies Throughout The Games",
+      "D": "Memorable Quotes"
+    }
+  },
+  {
+    "question": "What Do The Interactions Pages List?",
+    "answer": "B",
+    "choices": {
+      "A": "Easter Eggs",
+      "B": "Interactions",
+      "C": "Inconsistencies",
+      "D": "Memorable Quotes"
+    }
+  }
+]

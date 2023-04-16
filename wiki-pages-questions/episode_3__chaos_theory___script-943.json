@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Taylor Reveal About Victoria After Max Sees Her Sneaking Out Of The Dorm?",
+    "answer": "D",
+    "choices": {
+      "A": "Victoria Was Upset",
+      "B": "Victoria Was Going To The Hospital",
+      "C": "Victoria Was Going To The Police",
+      "D": "Victoria Was Going To A Party"
+    }
+  },
+  {
+    "question": "What Does Max Plan To Do In Victoria's Room?",
+    "answer": "B",
+    "choices": {
+      "A": "Wait For Victoria To Return",
+      "B": "Search For Clues About Kate's Disappearance",
+      "C": "Confront Victoria About Her Actions",
+      "D": "Steal Victoria's Belongings"
+    }
+  },
+  {
+    "question": "What Does Taylor Say About Max After She Tries To Blame Her For Kate's Suicide?",
+    "answer": "B",
+    "choices": {
+      "A": "Max Is A Good Person",
+      "B": "Max Is A Bully",
+      "C": "Max Is Paranoid",
+      "D": "Max Is Weird"
+    }
+  },
+  {
+    "question": "What Does Taylor Reveal About Her Personal Life?",
+    "answer": "A",
+    "choices": {
+      "A": "Her Mother Is In The Hospital",
+      "B": "She Is Having An Anxiety Attack",
+      "C": "She Is Being Bullied By Victoria",
+      "D": "She Is Going To A Party"
+    }
+  },
+  {
+    "question": "What Does Max Use To Search Victoria's Room?",
+    "answer": "A",
+    "choices": {
+      "A": "A Flashlight",
+      "B": "A Magnifying Glass",
+      "C": "A Camera",
+      "D": "A Key"
+    }
+  }
+]

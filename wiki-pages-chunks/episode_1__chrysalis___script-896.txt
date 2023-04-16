@@ -1,0 +1,78 @@
+Here is a section of the wiki page for Episode 1: Chrysalis - Script:
+
+## **Conversation with Principal Wells** 
+(if Max tries to leave)# (if Max tries to leave)
+
+*Max tries to leave the building, but Wells stops her.*
+
+**Principal Wells:** Hold on, Max. Come back here.
+
+**Principal Wells:** You look a little stressed out. Are you okay?
+
+**Max:** I'm...I'm just a little worried about my...future.
+
+**Principal Wells:** You're sweating pinballs. Is that all you're thinking about? You can always be upfront with me, Max. Or have you done something wrong... Is that it? Well, Max? Talk to me.
+
+{{MajorTabber|text
+REPORT NATHAN# REPORT NATHAN
+
+**Max:** I just saw Nathan Prescott waving a gun around...in the girls' room.
+
+**Principal Wells:** Nathan Prescott. You sure?
+
+**Max:** Yes. He was in the bathroom talking to himself with a gun. I saw everything! He was babbling like crazy—
+
+**Principal Wells:** Okay, slow down, slow down. So now you saw this... Without him seeing you?
+
+**Max:** I was hiding behind a stall. I have the right to be there. It's the girls' room—
+
+**Principal Wells:** I know, I know. I just want to be completely clear what happened. Mr. Prescott happens to be from the town's most distinguished family. And one of Blackwell's most honored students. So it's hard for me to see him brandishing a weapon in the girls' bathroom. So what happened next?
+
+**Max:** Then...then he left. I ran out here wondering what to do. Are you going to bust him?
+
+**Principal Wells:** This is a serious charge. I'll look into the matter personally. Thank you for bringing it to my attention.
+
+**Max:** That's it? After what I told you—
+
+**Principal Wells:** We'll continue this discussion, later, in my office. Please go outside with the rest of your class now, Miss Caulfield.
+
+**Max:** *(thinking)* Of course this academic drone won't do anything since the Prescott family owns Blackwell now. Should I rewind and change my story?
+
+|-|HIDE THE TRUTHHIDE THE TRUTH
+
+**Max:** I just got sick in class... Um, female trouble—
+
+**Principal Wells:** Except you're wandering around like a zombie. And do you think it's the first time a student has used that line on me?
+
+**Max:** It's the truth. I felt dizzy in Mr. Jefferson's class—
+
+**Principal Wells:** Just tell me what you're hiding. You can trust me.
+
+**Max:** There's nothing to hide. I got sick. It happens, you know—
+
+**Principal Wells:** There's that teen 'tude again. You know, I've heard enough. Don't think I don't know what goes on around here. You've only been here for three weeks and you're already causing conflict. I don't think your parents will approve when they find out. Now get outside with the class. Please.
+
+**Max:** *(thinking)* No, he does not buy that at all. I may have just flushed my scholarship down the toilet... Yes, I could rewind and actually tell him the truth...
+
+}}
+
+*Max leaves the building.*
+
+#
+
+## **Main Campus **
+(Reported Nathan)# (Reported Nathan)
+
+**Principal Wells:** *(through speakers)* Would Nathan Prescott please come to the front office? Thank you.
+
+(Max didn't look at missing posters)(Max didn't look at missing posters)
+
+*Max notices missing person posters lying on the ground and kneels down to look at one of them.*
+
+**Max:** *(thinking)* [Rachel Amber](rachel_amber.md)... She looks so hopeful and pretty... I wonder what happened to her...
+
+# #
+
+
+
+Generate five trivia questions relevant to this section of the page.

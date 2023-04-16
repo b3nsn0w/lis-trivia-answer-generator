@@ -1,0 +1,49 @@
+Here is a section of the wiki page for Seattle:
+
+#  Seattle 
+
+```yaml
+Location
+
+image: Seattle Life is Strange 2.jpg
+type: Seaside town
+location: United States
+state: Washington
+appears: |-
+  **Life is Strange 2:**
+  [Episode 1: Roads](episode_1__roads.md)
+```
+
+> So, I guess Seattle sucked hard?"
+"No, it felt like a real city for artists. Big and bright. Great for taking pictures.
+
+**[Chloe Price**, Chloe](chloe_price____chloe.md) and [Maxine Caulfield, Max](maxine_caulfield__max.md) in "[Episode 1: Chrysalis, Chrysalis](episode_1__chrysalis__chrysalis.md)" (determinant)
+
+**Seattle** is a seaport city located in Washington. It is a story-relevant location in *[Life is Strange](life_is_strange.md)* and *[Life is Strange 2](life_is_strange_2.md)*.
+
+Five years prior to the events of *[Life is Strange](life_is_strange.md)*, in 2008, protagonist [Maxine Caulfield](max_caulfield.md) left her home town [Arcadia Bay](arcadia_bay.md) to move to Seattle with her family, leaving her best friend, [Chloe Price](chloe_price.md), behind. In Seattle, Max went to a new school and befriended two locals, [Kristen](kristen.md) and [Fernando](fernando.md).
+
+In *[Life is Strange 2](life_is_strange_2.md)*, it is home to [Sean Diaz](sean.md), [Daniel Diaz](daniel.md), and [Esteban Diaz](esteban_diaz.md); [Brett](brett.md) and [Scott Foster](scott_foster.md); and [Lyla](lyla.md) and Yu-jin Park.
+
+## Locations 
+*[Diaz Household](diaz_household.md)
+*[Peacock High School](peacock_high_school.md)
+
+## Known Residents 
+*[Ryan Caulfield](ryan_caulfield.md) (Life is Strange) - Moved with his family from Arcadia Bay to pursue a new job in 2008.
+* [Vanessa Caulfield](vanessa_caulfield.md) (Life is Strange) - Moved with her family from Arcadia Bay in 2008.
+* [Dex (Comic Series)](dex.md) (Comic Series) - Member of [The High Seas (Comic Series)](the_high_seas.md).
+* [Dwight (Comic Series)](dwight.md) (Comic Series) - Member of [The High Seas (Comic Series)](the_high_seas.md).
+* [Lyla Park](lyla_park.md) (Life is Strange 2) - Lives within walking distance of the Diaz household.
+* Yu-jin Park (Life is Strange 2) - Lives with her daughter within walking distance of the Diaz household.
+* [Pixie (Comic Series)](pixie.md) (Comic Series) - Member of [The High Seas (Comic Series)](the_high_seas.md).
+* [Brett Foster](brett_foster.md) (Life is Strange 2) - Lives next door to the Diaz household.
+* [Scott Foster](scott_foster.md) (Life is Strange 2) - Lives next door to the Diaz household.
+* [Tammi (Comic Series)](tammi.md) (Comic Series) - Member of [The High Seas (Comic Series)](the_high_seas.md).
+* [Victoria Chase (Life is Strange 2)](victoria_chase_.md)(Season 2, determinant) - Moved back to Seattle to look after her parents' art gallery after being rescued from the Dark Room by [David Madsen](david_madsen.md).
+*[Izzie](izzie.md) (True Colors) - Lives in Seattle
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

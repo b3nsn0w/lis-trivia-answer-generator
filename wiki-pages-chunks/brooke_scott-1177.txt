@@ -1,0 +1,58 @@
+Here is a section of the wiki page for Brooke Scott:
+
+#  Brooke Scott 
+
+```yaml
+Character
+
+name: Brooke Scott
+image: PSN_Brooke_Avatar.jpg
+died: October 11, 2013 (presumed, determinant)
+causeofdeath: Killed by the [storm](storm.md) (presumed, determinant)
+gender: Female
+hair: Black (partially dyed)
+eyes: Brown
+loveinterest: '[Warren Graham](warren_graham.md) (determinant)'
+friends: |-
+  [Warren Graham](warren_graham.md)
+  [Maxine Caulfield
+Max Caulfield](maxine_caulfield_max_caulfield.md) (determinant): ''
+profession: Student
+affiliation: '[Blackwell Academy](blackwell_academy.md)'
+appearance: >-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)  [Episode 2: Out of
+  Time](episode_2__out_of_time.md)  [Episode 3: Chaos
+  Theory](episode_3__chaos_theory.md) ([Alternative Timeline (Life is Strange)
+'alternative timeline](alternative_timeline__life_is_strange___alternative_timeline.md))  [Episode 4: Dark Room](episode_4__dark_room.md)  [Episode 5: Polarized](episode_5__polarized.md) ([Max''s Nightmare': *
+nightmare](max__s_nightmare_____nightmare.md)): *
+voice: |-
+  [Dani Knights](dani_knights.md) (ENG) (uncredited)
+  Miho Wataya (JPN)
+width: 270px
+```
+
+> I'm all about robotics, not chemistry. Give me a drone over a beaker.
+
+**Brooke to [Maxine Caulfield**, Max](maxine_caulfield____max.md) in "[Episode 2: Out of Time, Out of Time](episode_2__out_of_time__out_of_time.md)"
+
+**Brooke Scott** is a student at [Blackwell Academy](blackwell_academy.md). She has black hair with blue and red highlights, light skin, and she wears glasses. [Maxine Caulfield](max_caulfield.md) has seen Brooke hang out with [Warren Graham](warren_graham.md) and thinks Brooke seems like his type. 
+
+Brooke reappears in *[Life is Strange: Before the Storm](before_the_storm.md)*, the prequel to the events of *[Life is Strange](life_is_strange.md)*.
+
+## Personality 
+Similar to [Alyssa Anderson](alyssa_anderson.md), Brooke seems to be more of a loner type who likes to keep to herself; however, she does appear to appreciate the company of those she considers smart. Her areas of study are science and mathematics.
+
+Brooke is a science nerd who likes gaming and reading. She also likes Warren as they share similar interests. She is outspoken and sarcastic, though she comes across as slightly rude, smart-alecky and patronizing. She also tends to become jealous and projects her frustration on other people. This jealous side seems known by Alyssa who will tell Max to be careful that she doesn't make Brooke jealous over her closeness with Warren. Brooke can be very brusque towards Max whenever Warren's name comes up, or if she discovers that Warren has chosen Max over her in some way. Brooke's behavior towards Max would suggest that she is indeed harboring a degree of jealousy over Max's closeness with Warren. This can only be because Brooke has feelings for Warren.
+
+Brooke may later admit to Max that she has been selfish and will apologize for her behavior.
+
+## Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+At the beginning of the episode, Brooke is seen playing on her mobile phone in the [Blackwell Academy Hallway](blackwell_corridor.md). As Max makes her way to the girls bathroom to save the [Chloe Price](blue_haired_girl.md) from being shot by [Nathan Prescott](nathan_prescott.md), she can look at Brooke in the corridor again, although she doesn't regard her as someone who can help.
+
+A little later, when Max heads outside the main building onto [Blackwell Campus](campus.md) grounds, Brooke is piloting her drone. Max can approach her, and Brooke will assume it's only because Max wants to have a go at piloting her drone. If Max tries to speak to Brooke about the drone, Brooke patronizes her and implies that she thinks Max is unintelligent, which contrasts with what she had heard about Max from Warren. Afterwards, Max can search Brooke's bag behind her back and find out the name of the drone. She can then [Rewind](rewind_time.md) and use the information to impress Brooke, allowing her to fly the drone.
+
+Max can notice a handy visual for remembering the value of "pi" (π) written on Brooke's room slate inside the [Prescott Dormitory](prescott_dormitory.md). When Max looks at this, she will say, "Warren should be all over Brooke. They're perfect for each other."
+
+
+
+Generate five trivia questions relevant to this section of the page.

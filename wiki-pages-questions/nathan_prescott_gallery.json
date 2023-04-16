@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who Created The Concept Art For Nathan Prescott?",
+    "answer": "A",
+    "choices": {
+      "A": "Fred Augis",
+      "B": "Sean Prescott",
+      "C": "Victoria Chase",
+      "D": "Raymond Wells"
+    }
+  },
+  {
+    "question": "In Which Episode Does Nathan Threaten Maxine Caulfield In The Blackwell Parking Lot?",
+    "answer": "A",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "In Which Episode Is Nathan Frozen In Time?",
+    "answer": "A",
+    "choices": {
+      "A": "Episode 2: Out of Time",
+      "B": "Episode 3: Chaos Theory",
+      "C": "Episode 4: Dark Room",
+      "D": "Episode 5: Polarized"
+    }
+  },
+  {
+    "question": "Who Is Nathan Beaten By In Episode 4: Dark Room?",
+    "answer": "A",
+    "choices": {
+      "A": "Warren Graham",
+      "B": "David Madsen",
+      "C": "Mark Jefferson",
+      "D": "Samuel Taylor"
+    }
+  },
+  {
+    "question": "In Which Episode Does Nathan Appear In Max's Nightmare?",
+    "answer": "A",
+    "choices": {
+      "A": "Episode 5: Polarized",
+      "B": "Life is Strange 2: Episode 5 - \"Wolves\"",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  }
+]

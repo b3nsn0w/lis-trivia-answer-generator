@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Purpose Of Rewinding In Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "To Undo Max's Actions",
+      "B": "To Fast Forward Time",
+      "C": "To Teleport Max To Different Locations",
+      "D": "To Make Max Invincible"
+    }
+  },
+  {
+    "question": "How Does The Player Know When Max Has Made An Influencing Decision?",
+    "answer": "A",
+    "choices": {
+      "A": "A Butterfly Icon Appears On The Screen",
+      "B": "The Screen Turns Black And White",
+      "C": "The Swirl In The Top Left-Hand Corner Disappears",
+      "D": "A Sound Effect Is Played"
+    }
+  },
+  {
+    "question": "What Is The Purpose Of The Swirl In The Top Left-Hand Corner Of The Screen?",
+    "answer": "A",
+    "choices": {
+      "A": "To Indicate The Rewind Position",
+      "B": "To Show The Current Objective",
+      "C": "To Display The Time Of Day",
+      "D": "To Show The Health Of Max"
+    }
+  },
+  {
+    "question": "What Is The Purpose Of Taking Optional Photos In Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "To Unlock Achievements",
+      "B": "To Progress Through The Story",
+      "C": "To Increase Max's Abilities",
+      "D": "To Document Max's Journey"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Did 68% of Players Do Regarding Lisa the Plant?",
+    "answer": "A",
+    "choices": {
+      "A": "Watered the plant",
+      "B": "Didn't water the plant",
+      "C": "Moved the plant",
+      "D": "Threw away the plant"
+    }
+  },
+  {
+    "question": "What Did 84% of Players Do Regarding David and Kate?",
+    "answer": "B",
+    "choices": {
+      "A": "Took a photo of David harassing Kate",
+      "B": "Intervened to help out Kate",
+      "C": "Ignored the situation",
+      "D": "Reported David to the principal"
+    }
+  },
+  {
+    "question": "What Did 21% of Players Do Regarding Victoria's Photos?",
+    "answer": "A",
+    "choices": {
+      "A": "Reorganized the photos",
+      "B": "Deleted the photos",
+      "C": "Framed the photos",
+      "D": "Ignored the photos"
+    }
+  },
+  {
+    "question": "What Did 58% of Players Do Regarding the Blue Jay?",
+    "answer": "B",
+    "choices": {
+      "A": "Saved the bird",
+      "B": "Let the bird die",
+      "C": "Ignored the bird",
+      "D": "Scared away the bird"
+    }
+  }
+]

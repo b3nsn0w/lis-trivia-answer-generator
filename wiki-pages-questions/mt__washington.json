@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the name of the album that \"Mt. Washington\" is featured on?",
+    "answer": "B",
+    "choices": {
+      "A": "Gorilla Manor",
+      "B": "Hummingbird",
+      "C": "Sunlit Youth",
+      "D": "Violet Street"
+    }
+  },
+  {
+    "question": "Which episode of Life is Strange features \"Mt. Washington\" in its closing scene?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "What is the name of the band that performs \"Mt. Washington\"?",
+    "answer": "C",
+    "choices": {
+      "A": "The National",
+      "B": "Arcade Fire",
+      "C": "Local Natives",
+      "D": "Vampire Weekend"
+    }
+  },
+  {
+    "question": "What is the repeated line in the chorus of \"Mt. Washington\"?",
+    "answer": "C",
+    "choices": {
+      "A": "\"I don't want to see you right now\"",
+      "B": "\"I don't need to see you right now\"",
+      "C": "\"I don't have to see you right now\"",
+      "D": "\"I don't like to see you right now\""
+    }
+  },
+  {
+    "question": "What is the name of the goddess mentioned in the lyrics of \"Mt. Washington\"?",
+    "answer": "C",
+    "choices": {
+      "A": "Winter goddess",
+      "B": "Spring goddess",
+      "C": "Summer goddess",
+      "D": "Autumn goddess"
+    }
+  }
+]

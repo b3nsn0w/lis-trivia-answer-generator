@@ -1,0 +1,42 @@
+[
+  {
+    "question": "How Did Max Save Chloe's Life?",
+    "answer": "A",
+    "choices": {
+      "A": "By Rewinding Time",
+      "B": "By Telling David About The Dark Room",
+      "C": "By Hiding In Chloe's Room",
+      "D": "By Fighting Jefferson"
+    }
+  },
+  {
+    "question": "What Does Chloe Say About Max's Time Traveling?",
+    "answer": "C",
+    "choices": {
+      "A": "\"It Was A Waste Of Time\"",
+      "B": "\"It Was Dangerous\"",
+      "C": "\"It Was Awesome\"",
+      "D": "\"It Was Pointless\""
+    }
+  },
+  {
+    "question": "What Does Chloe Say About Fate?",
+    "answer": "C",
+    "choices": {
+      "A": "It Doesn't Exist",
+      "B": "It Wants Them Apart",
+      "C": "It Brought Them Together",
+      "D": "It's A Mystery"
+    }
+  },
+  {
+    "question": "What Happens To Max In The Nightmare Sequence?",
+    "answer": "A",
+    "choices": {
+      "A": "She Collapses In Chloe's Arms",
+      "B": "She Defeats The Tornado",
+      "C": "She Rewinds Time",
+      "D": "She Escapes The Dark Room"
+    }
+  }
+]

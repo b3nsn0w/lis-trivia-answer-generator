@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Was Michelle Barenchi's Role At Blackwell Academy?",
+    "answer": "A",
+    "choices": {
+      "A": "Physical Education Teacher",
+      "B": "School Nurse",
+      "C": "Principal",
+      "D": "Librarian"
+    }
+  },
+  {
+    "question": "What Was The Name Of The Sports Team That Michelle Barenchi Coached?",
+    "answer": "A",
+    "choices": {
+      "A": "The Otters",
+      "B": "The Sharks",
+      "C": "The Dolphins",
+      "D": "The Whales"
+    }
+  },
+  {
+    "question": "Where Can A Flyer Advertising Michelle Barenchi's Services Be Seen In Blackwell Academy?",
+    "answer": "A",
+    "choices": {
+      "A": "The Hallway",
+      "B": "The Gym",
+      "C": "The Library",
+      "D": "The Cafeteria"
+    }
+  },
+  {
+    "question": "What Is The Contact Email Address Listed On Michelle Barenchi's Flyer?",
+    "answer": "A",
+    "choices": {
+      "A": "WaterLogged@ArcadiaBayGym.wet",
+      "B": "SwimLikeAnOtter@Blackwell.edu",
+      "C": "OtterChampion@AquaticTraining.com",
+      "D": "GlideThroughWater@MichelleBarenchi.com"
+    }
+  }
+]

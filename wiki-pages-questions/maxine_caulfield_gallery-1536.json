@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the name of the girl Max talks to in the hospital?",
+    "answer": "C",
+    "choices": {
+      "A": "Victoria Chase",
+      "B": "Alyssa Anderson",
+      "C": "Kate Marsh",
+      "D": "Dana Ward"
+    }
+  },
+  {
+    "question": "What is the name of the skater boy Max talks to at Blackwell Academy?",
+    "answer": "A",
+    "choices": {
+      "A": "Trevor Yard",
+      "B": "Warren Graham",
+      "C": "Daniel DaCosta",
+      "D": "Hayden Jones"
+    }
+  },
+  {
+    "question": "What is the name of the girl Max defends from getting hit by a football?",
+    "answer": "B",
+    "choices": {
+      "A": "Victoria Chase",
+      "B": "Alyssa Anderson",
+      "C": "Kate Marsh",
+      "D": "Dana Ward"
+    }
+  },
+  {
+    "question": "Who does Max search for tools with in the Madsen household?",
+    "answer": "A",
+    "choices": {
+      "A": "Chloe Price",
+      "B": "Victoria Chase",
+      "C": "Kate Marsh",
+      "D": "Rachel Amber"
+    }
+  }
+]

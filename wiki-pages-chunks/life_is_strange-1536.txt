@@ -1,0 +1,82 @@
+Here is a section of the wiki page for Life is Strange:
+
+## Awards and Nominations 
+
+{|class"wikitable" style# "border:none; margin:0; width:100%;"
+|- valign"bottom"
+! Date !! Ceremony !! Category !! Recipient(s) !! Result
+|- valign# "center"
+| rowspan"23"|2015
+| rowspan# "2"|{{Wiki|Develop_(magazine)|Develop Industry Excellence Awards}}
+| New Games IP – PC/console
+| rowspan"5"|*Life is Strange*
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(153,255,153); width:70px"|Won
+|- valign"top"
+| Use of Narrative
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(153,255,153);"|Won
+|- valign"center"
+| rowspan# "6"|{{Wiki|Golden_Joystick_Award|Golden Joystick Award}}
+| Best Original Game
+| style"padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(176,176,176);"|Runner-Up
+|- valign# "top"
+| Best Storytelling
+| style"padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(176,176,176);"|Runner-Up
+|- valign# "top"
+| Best Audio
+| style"padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(176,176,176);"|Runner-Up
+|- valign# "top"
+| Best Gaming Moment
+| Saving [Kate Marsh](kate.md)
+| style"padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(205,133,0);"|Third
+|- valign# "top"
+| Performance of the Year
+| [Ashly Burch](ashly_burch.md) as [Chloe Price](chloe.md)
+| style"padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(153,255,153);"|Won
+|- valign# "top"
+| Game of the Year
+| *Life is Strange*
+| style"padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(205,133,0);"|Third
+|- valign# "center"
+| rowspan"4"|Global Game Awards
+| Best Adventure
+| rowspan# "4"|*Life is Strange* – Episode 1
+| style"padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(153,255,153);"|Won
+|- valign# "center"
+| Best Story
+| style"padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(176,176,176);"|Second
+|- valign# "center"
+| Best Original Game
+| style"padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(153,255,153);"|Won
+|- valign# "center"
+| Game of the Year
+| style"padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(176,176,176);"|Second
+|- valign# "center"
+| rowspan"3"|{{Wiki|The_Game_Awards|The Game Awards}}
+| Best Narrative
+| *Life is Strange*
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(255,221,221);"|Nominated
+|- valign"top"
+| Best Performance
+| [Ashly Burch](ashly_burch.md) as [Chloe Price](chloe.md)
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(255,221,221);"|Nominated
+|- valign"top"
+| Games For Change
+| rowspan# "2"| *Life is Strange*
+| style"padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(153,255,153);"|Won
+|- valign# "center"
+| rowspan"2"|{{Wiki|PlayStation Official Magazine}}
+| Best Episodic Adventure
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(153,255,153);"|Won
+|- valign"center"
+| Best Moment
+| Episode 2 conclusion
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(153,255,153);"|Won
+|- valign"center"
+| {{Wiki|Vice (magazine)|Vice}} Canada's Top 20 video games of 2015
+| rowspan# "3"|Best Game
+| rowspan"18"|*Life is Strange*
+| style# "padding-right:0.4em;padding-left:0.4em;vertical-align:middle;text-align:center;background:rgb(205,133,0);"|Fourth
+|- valign"center"
+| {{Wiki|New_York_(magazine)#Digital_expansion_and_blogs|Vulture}}'s Top 
+
+Generate five trivia questions relevant to this section of the page.

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who does Max see in her nightmare that she believes is not acting like themselves?",
+    "answer": "A",
+    "choices": {
+      "A": "Chloe",
+      "B": "Mr. Jefferson",
+      "C": "David Madsen",
+      "D": "Nathan"
+    }
+  },
+  {
+    "question": "What does Warren accuse Max of doing to him?",
+    "answer": "C",
+    "choices": {
+      "A": "Stealing his camera",
+      "B": "Punching him",
+      "C": "Dumping him in the friend-zone",
+      "D": "Cheating on him"
+    }
+  },
+  {
+    "question": "Who does Chloe say Max should trust in her nightmare?",
+    "answer": "B",
+    "choices": {
+      "A": "Warren",
+      "B": "Herself",
+      "C": "Mr. Jefferson",
+      "D": "Rachel Amber"
+    }
+  },
+  {
+    "question": "What does Nathan accuse Max of wanting to do to him?",
+    "answer": "D",
+    "choices": {
+      "A": "Take pictures of him",
+      "B": "Beat him up",
+      "C": "Drug him",
+      "D": "Kill him"
+    }
+  }
+]

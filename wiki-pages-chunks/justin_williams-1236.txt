@@ -1,0 +1,68 @@
+Here is a section of the wiki page for Justin Williams:
+
+#  Justin Williams 
+
+```yaml
+Character
+
+name: Justin Williams
+image: Justin.png
+width: 270px
+alsoknown: Beagle (by [Frank Bowers](frank_bowers.md))
+gender: Male
+hair: Blond
+eyes: Blue
+loveinterest: |-
+  [Dana Ward](dana_ward.md) (crush)
+  [Chloe Price](chloe_price.md) (crush)
+friends: |-
+  [Trevor](trevor.md)
+  [Chloe Price](chloe_price.md)
+  [Rachel Amber](rachel_amber.md)  (deceased) 
+  [Maxine Caulfield
+Max Caulfield](maxine_caulfield_max_caulfield.md) (determinant): ''
+profession: High school student
+affiliation: '[Blackwell Academy](blackwell_academy.md)'
+appearance: >-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)[Episode 2: Out of
+  Time](episode_2__out_of_time.md)[Episode 4: Dark
+  Room](episode_4__dark_room.md)[Episode 5: Polarized](episode_5__polarized.md)
+voice: '[Carlos Luna](carlos_luna.md) (uncredited)'
+died: October 11, 2013 (presumed, determinant)
+causeofdeath: Killed by the [storm](storm.md) (presumed, determinant)
+```
+
+> If you can't even name a simple noseslide or a tre flip, you should walk on.
+
+**Justin to [Maxine Caulfield**, Max](maxine_caulfield____max.md) in "[Episode 1: Chrysalis, Chrysalis](episode_1__chrysalis__chrysalis.md)"
+
+**Justin Williams** is a student at [Blackwell Academy](blackwell_academy.md). He skateboards and [Maxine Caulfield](max_caulfield.md) thinks he and his group look cute doing their tricks. He is friends with [Trevor](trevor.md), despite the two of them competing for [Dana Ward](dana_ward.md)'s affections.
+
+## Personality 
+Justin is a typical skater dude. A friendly and sensitive guy, he has a laid back attitude and seems to enjoy Max's company, particularly if she doesn't come off as a poser. He likes hanging out with his friends in [Arcadia Bay](arcadia_bay.md) and gets high often.
+
+## Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+When Max is going to the bathroom the first time, she notices Justin talking to Dana.
+
+Later, outside the main building, Justin is skating with his friends. If Max talks to him, she leaves Justin unimpressed that she can't name any skate moves like the nose-slide or a tre-flip. She can rewind time to use these buzzwords. When she does this, Justin is not as negative about her - pleased that she isn't a poser. He can have Trevor show Max the skate moves she named, and he can tell Max he used to spend time with Rachel and Chloe, though he can't seem to remember Chloe's name, describing her as Rachel's "punk friend." This memory lapse may suggest he was closer to Rachel, especially as he tells Max, "if anybody hurt her we'll get a skate posse and take 'em out with our boards."
+
+He is happy to let Max take photos of him and his friends, and watch them skate.
+
+## Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+Justin can be seen with Trevor in the [Two Whales Diner](two_whales_diner.md), having breakfast. High, he seems conflicted in his feelings. He is both pleased for Trevor and Dana hooking up, and annoyed; he had a crush on her too. He seems to accept the situation. However, he and Trevor argue later in the morning, and get broken up by Joyce.
+
+## Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+Justin makes an appearance in the [Prescott Dormitory](prescott_dormitory.md) grounds in this episode. He and Chloe talk and catch up with each other. Justin clearly enjoys talking with her again, and she suggests hanging around with him and his friends at the park sometime. He also asks about Rachel, and Chloe tells him she's onto it. They fist bump, and Max comments that she can tell Justin is interested in Chloe. She also comments that Chloe seems to fit in with Justin and his crew.
+
+He later appears in the boys' bathroom in the [Blackwell Swimming Pool](blackwell_swimming_pool.md) during the "[End of the World Party](end_of_the_world.md)" [Vortex Club](vortex_club.md) party. He stands by the sink, and Max can take an optional photo of his legs as skeleton graffiti. Upon talking to him, Max discovers that Justin is high, like most others at the party. He seems affectionate towards her, and asks why they don't hang out more. He confirms that he hasn't seen Nathan at the party.
+
+## Episode Five -  "Polarized"
+In the Sacrifice Chloe ending, he is among the people who are attending Chloe's funeral. In the Sacrifice Arcadia Bay ending, he presumably dies in the storm.
+
+## Relationships 
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

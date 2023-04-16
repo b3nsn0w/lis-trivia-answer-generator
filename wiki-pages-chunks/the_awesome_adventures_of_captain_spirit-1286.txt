@@ -1,0 +1,46 @@
+Here is a section of the wiki page for The Awesome Adventures of Captain Spirit:
+
+#  The Awesome Adventures of Captain Spirit 
+
+```yaml
+VG
+
+title: The Awesome Adventures of Captain Spirit
+image: '[File:Captain Spirit Poster.png'
+270px](file_captain_spirit_poster_png__270px.md): ''
+developer: '[Don''t Nod](don_t_nod.md)'
+publisher: ''
+director: '[Michel Koch](michel_koch.md)[Raoul Barbet](raoul_barbet.md)'
+writer: '[Christian Divine](christian_divine.md)[Jean-Luc Cano](jean_luc_cano.md)'
+artist: '[Edouard Caplain](edouard_caplain.md)'
+platform: PC (Steam), PS4, Xbox One
+released: June 25, 2018 (NA, EU)June 26, 2018 (AU)Feb 6, 2020 (JPN): *
+genre: Interactive Storytelling
+languages: >-
+  **Audio:** English, Japanese**Subtitles:** English, French, Italian, German,
+  Spanish, Portuguese-Brazil, Russian, Simplified Chinese, Japanese
+ratings: ESRB-M, PEGI-16
+```
+
+**The Awesome Adventures of Captain Spirit**, also referred to as **Captain Spirit**, is a free standalone game inside the [Life is Strange (franchise)](_life_is_strange___universe.md), developed by [Don't Nod](don_t_nod.md) and published by Square Enix. It was announced June 10, 2018, and was released on June 26th for free on Xbox One, PlayStation 4 and PC (Steam).
+
+It takes place over the course of a single Saturday morning in December and follows [Chris Eriksen](chris_eriksen.md), a 9-year-oldThe initial marketing messaging incorrectly stated his age to be 10. Square Enix's and Dontnod's [Community Management](community_managers.md) both have confirmed that he is 9, close to 10. The Steam product description also mentions this age. boy who dreams of adventure, and carries on the theme of childhood nostalgia that was a central element of the original *[Life is Strange](life_is_strange.md)*. Likewise, the game tackles challenging social issues, such as grief, neglect and alcoholism.[https://www.rockpapershotgun.com/2018/06/19/captain-spirit-looks-heroic-but-sometimes-tragic-too/ Captain Spirit looks heroic, but sometimes tragic too] (June 19, 2018) The story is predominantly about imagination and how it helps us cope with reality.[https://arstechnica.com/gaming/2018/06/the-awesome-adventures-of-captain-spirit-world-premiere-life-is-strange-but-not/ Awesome Adventures of Captain Spirit world premiere: Life Is Strange, but not] (June 15, 2018) The game takes place in [Beaver Creek](beaver_creek.md), Oregon, during winter time, 3 years after the events of the original *Life is Strange*.[http://www.denofgeek.com/us/games/life-is-strange/274143/the-awesome-adventures-of-captain-spirit-life-is-strange-prequel-revealed-at-e3-2018 The Awesome Adventures of Captain Spirit: Life is Strange Prequel Revealed at E3 2018] (June 11, 2018)
+
+The game serves as a precursor to *[Life is Strange 2](life_is_strange_2.md)* that gives "a glimpse into *Life is Strange 2*'s brand-new story... but only if you’re clever enough to piece the clues together!". Dontnod calls it a "perfect introduction" to the upcoming sequel. Dontnod confirmed that "some choices in Captain Spirit will carry over and have consequences in *Life is Strange 2.*"[https://pcgamesn.com/the-awesome-adventures-of-captain-spirit/captain-spirit-life-is-strange-2 Choices you make in Captain Spirit will carry over to Life is Strange 2] (June 11, 2018) It is now confirmed that *Captain Spirit* is a set-up for Episode 2 of *Life is Strange 2*.[https://www.polygon.com/2018/12/19/18148389/life-is-strange-2-episode-2-release-date-captain-spirit Life is Strange 2 reveals its connection to Captain Spirit in January] (December 19, 2018)
+
+Dontnod stated pre-release that the game will be between 1 and 2 hours long. It is more open-ended than the original *Life is Strange*'s episodes as Chris can complete an optional [My Awesome Things to Do](list_of_quests.md). Also after passing the ending and being returned to the menu, players can continue following the quests at any time by pressing "Continue".
+
+"The Awesome Adventures of Captain Spirit is not *Life is Strange 2*, but it does connect to it in multiple ways. This is the first step into the diverse world of *Life is Strange* beyond [Arcadia Bay](arcadia_bay.md) where you will find secrets and hints as to what to expect in *Life is Strange 2*. In addition to this, choices & actions you make in Captain Spirit will carry over to *Life is Strange 2*.", as stated on the official website.
+
+**Official features:**
+* An original narrative experience set in the Life is Strange universe
+* Play as Chris and his super-hero alter-ego, Captain Spirit
+* Complete a series of missions as Captain Spirit and discover secret content
+* Some choices and actions will link to your Life is Strange 2 experience
+
+## Story 
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

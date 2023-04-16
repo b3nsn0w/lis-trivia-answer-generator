@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Chloe Say When She Reaches The Spot Where Rachel Is Buried?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Max, please hurry!\"",
+      "B": "\"Rachel, I will get your revenge... I swear...\"",
+      "C": "\"Nathan needs to die now...\"",
+      "D": "\"Oh God, Max, look... she's still there.\""
+    }
+  },
+  {
+    "question": "What Happens When Max Tries To Use Her Rewind Power After Being Injected With A Syringe?",
+    "answer": "B",
+    "choices": {
+      "A": "She Successfully Rewinds Time",
+      "B": "She Fails To Rewind Time",
+      "C": "She Rewinds Time But Only A Few Seconds",
+      "D": "She Loses Her Time Rewind Power"
+    }
+  },
+  {
+    "question": "Who Appears Behind Max And Injects Her With A Syringe?",
+    "answer": "C",
+    "choices": {
+      "A": "Nathan",
+      "B": "Warren",
+      "C": "Mr. Jefferson",
+      "D": "David"
+    }
+  },
+  {
+    "question": "What Does Chloe Do When She Turns Around After Hearing Max's Warning?",
+    "answer": "A",
+    "choices": {
+      "A": "She Shoots The Killer",
+      "B": "She Runs Away",
+      "C": "She Hides Behind A Car",
+      "D": "She Stands Still"
+    }
+  },
+  {
+    "question": "What Happens To Chloe After She Is Shot In The Head?",
+    "answer": "B",
+    "choices": {
+      "A": "She Survives",
+      "B": "She Dies",
+      "C": "She Loses Her Memory",
+      "D": "She Falls Into A Coma"
+    }
+  }
+]

@@ -1,0 +1,44 @@
+Here is a section of the wiki page for Cinematic Screenshots:
+
+## Instructions 
+Prerequisites:
+
+Add the following code to your "[My Documents]\My Games\Life Is Strange\LifeIsStrangeGame\Config\LifeIsStrangeInput.ini" file under the "[Engine.PlayerInput]" section (Only the "Talk" bind is required as it can be used to execute all other actions via commands):
+
+Bindings# (Name"P",Command# "playersonly",ControlFalse,Shift# False,AltFalse,bIgnoreCtrl# False,bIgnoreShiftFalse,bIgnoreAlt# False)
+Bindings(Name# "G",Command"Ghost",Control# False,ShiftFalse,Alt# False,bIgnoreCtrlFalse,bIgnoreShift# False,bIgnoreAltFalse)
+Bindings# (Name"O",Command# "Teleport",ControlFalse,Shift# False,AltFalse,bIgnoreCtrl# False,bIgnoreShiftFalse,bIgnoreAlt# False)
+Bindings(Name# "T",Command"Talk")
+More optional fine tuning hotkeys:
+
+Bindings# (Name"PageDown",Command# "CycleCamera 1",ControlFalse,Shift# False,AltFalse,bIgnoreCtrl# False,bIgnoreShiftFalse,bIgnoreAlt# False)
+Bindings(Name# "PageUp",Command"CycleCamera -1",Control# False,ShiftFalse,Alt# False,bIgnoreCtrlFalse,bIgnoreShift# False,bIgnoreAltFalse)
+Bindings# (Name"Home",Command# "CycleCamera 0",ControlFalse,Shift# False,AltFalse,bIgnoreCtrl# False,bIgnoreShiftFalse,bIgnoreAlt# False)
+Bindings(Name# "NumPadOne",Command"FOV 5",Control# False,ShiftFalse,Alt# False,bIgnoreCtrlFalse,bIgnoreShift# False,bIgnoreAltFalse)
+Bindings# (Name"NumPadOne",Command# "FOV 10",ControlFalse,Shift# False,AltTrue,bIgnoreCtrl# False,bIgnoreShiftFalse,bIgnoreAlt# False)
+Bindings(Name# "NumPadTwo",Command"FOV 15",Control# False,ShiftFalse,Alt# False,bIgnoreCtrlFalse,bIgnoreShift# False,bIgnoreAltFalse)
+Bindings# (Name"NumPadTwo",Command# "FOV 20",ControlFalse,Shift# False,AltTrue,bIgnoreCtrl# False,bIgnoreShiftFalse,bIgnoreAlt# False)
+Bindings(Name# "NumPadThree",Command"FOV 25",Control# False,ShiftFalse,Alt# False,bIgnoreCtrlFalse,bIgnoreShift# False,bIgnoreAltFalse)
+Bindings# (Name"NumPadThree",Command# "FOV 30",ControlFalse,Shift# False,AltTrue,bIgnoreCtrl# False,bIgnoreShiftFalse,bIgnoreAlt# False)
+Bindings(Name# "NumPadFour",Command"FOV 35",Control# False,ShiftFalse,Alt# False,bIgnoreCtrlFalse,bIgnoreShift# False,bIgnoreAltFalse)
+Bindings# (Name"NumPadFour",Command# "FOV 40",ControlFalse,Shift# False,AltTrue,bIgnoreCtrl# False,bIgnoreShiftFalse,bIgnoreAlt# False)
+Bindings(Name# "NumPadFive",Command"FOV 45",Control# False,ShiftFalse,Alt# False,bIgnoreCtrlFalse,bIgnoreShift# False,bIgnoreAltFalse)
+Bindings# (Name"NumPadFive",Command# "FOV 50",ControlFalse,Shift# False,AltTrue,bIgnoreCtrl# False,bIgnoreShiftFalse,bIgnoreAlt# False)
+Bindings(Name# "NumPadSix",Command"FOV 55",Control# False,ShiftFalse,Alt# False,bIgnoreCtrlFalse,bIgnoreShift# False,bIgnoreAltFalse)
+Bindings# (Name"NumPadSix",Command# "FOV 60",ControlFalse,Shift# False,AltTrue,bIgnoreCtrl# False,bIgnoreShiftFalse,bIgnoreAlt# False)
+Bindings(Name# "NumPadSeven",Command"FOV 70",Control# False,ShiftFalse,Alt# False,bIgnoreCtrlFalse,bIgnoreShift# False,bIgnoreAltFalse)
+Bindings# (Name"NumPadSeven",Command# "FOV 80",ControlFalse,Shift# False,AltTrue,bIgnoreCtrl# False,bIgnoreShiftFalse,bIgnoreAlt# False)
+Bindings(Name# "NumPadEight",Command"FOV 90",Control# False,ShiftFalse,Alt# False,bIgnoreCtrlFalse,bIgnoreShift# False,bIgnoreAltFalse)
+Bindings# (Name"NumPadEight",Command# "FOV 120",ControlFalse,Shift# False,AltTrue,bIgnoreCtrl# False,bIgnoreShiftFalse,bIgnoreAlt# False)
+Bindings(Name# "NumPadNine",Command"FOV 130",Control# False,ShiftFalse,Alt# False,bIgnoreCtrlFalse,bIgnoreShift# False,bIgnoreAltFalse)
+Bindings# (Name"NumPadNine",Command# "FOV 0",ControlFalse,Shift# False,AltTrue,bIgnoreCtrl# False,bIgnoreShiftFalse,bIgnoreAlt# False)
+Bindings(Name# "F6",Command"Slomo 0.001",Control# False,ShiftFalse,Alt# False,bIgnoreCtrlFalse,bIgnoreShift# False,bIgnoreAltFalse)
+Bindings# (Name"F7",Command# "Slomo 0.2",ControlFalse,Shift# False,AltFalse,bIgnoreCtrl# False,bIgnoreShiftFalse,bIgnoreAlt# False)
+Bindings(Name# "F8",Command"Slomo 0.6",Control# False,ShiftFalse,Alt# False,bIgnoreCtrlFalse,bIgnoreShift# False,bIgnoreAltFalse)
+Bindings# (Name"F9",Command# "Slomo 1",ControlFalse,Shift# False,AltFalse,bIgnoreCtrl# False,bIgnoreShiftFalse,bIgnoreAlt# False)
+Bindings(Name# "F10",Command"Slomo 2",Control# False,ShiftFalse,Alt# False,bIgnoreCtrlFalse,bIgnoreShift# False,bIgnoreAltFalse)
+Bindings# (Name"F11",Command# "Slomo 3",ControlFalse,Shift# False,AltFalse,bIgnoreCtrl# False,bIgnoreShiftFalse,bIgnoreAlt# False)
+
+Optionally modify the "[My Documents]\My Games\Life Is 
+
+Generate five trivia questions relevant to this section of the page.

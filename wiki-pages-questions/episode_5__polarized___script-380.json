@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Alternate Max Accuse Max Of Suffering From?",
+    "answer": "A",
+    "choices": {
+      "A": "Stockholm Syndrome",
+      "B": "Bipolar Disorder",
+      "C": "Schizophrenia",
+      "D": "Depression"
+    }
+  },
+  {
+    "question": "Who Does Alternate Max Say Max Should Be More Worried About Killing Them Than Jefferson?",
+    "answer": "D",
+    "choices": {
+      "A": "Rachel",
+      "B": "Nathan",
+      "C": "Victoria",
+      "D": "Chloe"
+    }
+  },
+  {
+    "question": "What Does Chloe Say About Breaking Up Their Team?",
+    "answer": "C",
+    "choices": {
+      "A": "\"It's Not Possible\"",
+      "B": "\"You Can Try, But You'll Fail\"",
+      "C": "\"You're Not Even Going To Try\"",
+      "D": "\"We're Stronger Than That\""
+    }
+  },
+  {
+    "question": "What Does Alternate Max Do When Chloe Enters The Diner?",
+    "answer": "D",
+    "choices": {
+      "A": "She Hides Under The Table",
+      "B": "She Runs Away",
+      "C": "She Attacks Chloe",
+      "D": "She Examines Chloe's Camera"
+    }
+  },
+  {
+    "question": "What Does Alternate Max Say About Chloe's Feelings Towards Max?",
+    "answer": "C",
+    "choices": {
+      "A": "\"She Loves You\"",
+      "B": "\"She Hates You\"",
+      "C": "\"She's Using You\"",
+      "D": "\"She Respects You\""
+    }
+  }
+]

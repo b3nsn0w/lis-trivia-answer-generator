@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Happened To Kate In This Section Of The Page?",
+    "answer": "A",
+    "choices": {
+      "A": "She Killed Herself",
+      "B": "She Was Bullied By Victoria",
+      "C": "She Was Rescued By Max",
+      "D": "She Was Expelled From Blackwell"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Club That Is Hosting The Party?",
+    "answer": "B",
+    "choices": {
+      "A": "Blackwell Club",
+      "B": "Vortex Club",
+      "C": "New York Club",
+      "D": "VIP Club"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Person Max Is Trying To Find?",
+    "answer": "B",
+    "choices": {
+      "A": "Warren",
+      "B": "Nathan",
+      "C": "Victoria",
+      "D": "Rachel"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Poet Alyssa Quotes?",
+    "answer": "A",
+    "choices": {
+      "A": "Robert Frost",
+      "B": "William Shakespeare",
+      "C": "Emily Dickinson",
+      "D": "Langston Hughes"
+    }
+  }
+]

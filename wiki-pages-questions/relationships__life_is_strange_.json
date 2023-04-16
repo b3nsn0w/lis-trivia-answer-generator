@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which Category Of The Life Is Strange Wiki Page Features Major Relationships?",
+    "answer": "A",
+    "choices": {
+      "A": "Characters",
+      "B": "Locations",
+      "C": "Episodes",
+      "D": "Gameplay"
+    }
+  },
+  {
+    "question": "What Is The Title Of The Game That The Relationships Category Is About?",
+    "answer": "C",
+    "choices": {
+      "A": "Life is Beautiful",
+      "B": "Life is Complicated",
+      "C": "Life is Strange",
+      "D": "Life is Unpredictable"
+    }
+  },
+  {
+    "question": "Which Of The Following Is Not A Major Relationship In Life Is Strange?",
+    "answer": "D",
+    "choices": {
+      "A": "Max and Chloe",
+      "B": "Rachel and Frank",
+      "C": "Victoria and Nathan",
+      "D": "Kate and Warren"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Category That Features Minor Relationships In Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Relationships (Minor)",
+      "B": "Relationships (Secondary)",
+      "C": "Relationships (Supporting)",
+      "D": "Relationships (Background)"
+    }
+  },
+  {
+    "question": "Which Of The Following Is Not A Major Relationship In Life Is Strange: Before The Storm?",
+    "answer": "D",
+    "choices": {
+      "A": "Chloe and Rachel",
+      "B": "Joyce and David",
+      "C": "Nathan and Samantha",
+      "D": "Eliot and Victoria"
+    }
+  }
+]

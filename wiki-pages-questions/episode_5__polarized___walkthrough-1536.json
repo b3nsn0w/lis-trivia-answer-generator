@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What Is The Name Of The Blackwell Student Whose Room Max Enters Using The Key She Finds?",
+    "answer": "C",
+    "choices": {
+      "A": "Kate Marsh",
+      "B": "Victoria Chase",
+      "C": "Dana Ward",
+      "D": "Rachel Amber"
+    }
+  },
+  {
+    "question": "What Is The Objective Of The Maze That Max Finds Herself In After Entering The Bathroom?",
+    "answer": "A",
+    "choices": {
+      "A": "To Collect Five Bottles",
+      "B": "To Find A Way Out",
+      "C": "To Avoid Being Caught By Jefferson",
+      "D": "To Solve A Puzzle"
+    }
+  }
+]

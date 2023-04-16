@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Does Max Find That Helps Her And Chloe Get Into The Barn?",
+    "answer": "B",
+    "choices": {
+      "A": "A Key",
+      "B": "A Metal Sheet",
+      "C": "A Rope",
+      "D": "A Crowbar"
+    }
+  },
+  {
+    "question": "What Is Written On The Clippings Max And Chloe Find In The Chest?",
+    "answer": "C",
+    "choices": {
+      "A": "\"Prescott Industries Goes Bankrupt\"",
+      "B": "\"Prescott Family Wins Lottery\"",
+      "C": "\"Prescott Industries Celebrate Grand Opening\"",
+      "D": "\"Prescott Family Moves Out Of Arcadia Bay\""
+    }
+  },
+  {
+    "question": "How Does Max Get The Padlock Off The Hatch?",
+    "answer": "C",
+    "choices": {
+      "A": "She Picks The Lock",
+      "B": "She Cuts It With Bolt Cutters",
+      "C": "She Uses A Hook To Pull It Off",
+      "D": "She Blows It Up With Dynamite"
+    }
+  },
+  {
+    "question": "What Do Max And Chloe Find In The Cupboard In The Bunker?",
+    "answer": "A",
+    "choices": {
+      "A": "Rows Of Red Binders",
+      "B": "Weapons And Ammunition",
+      "C": "Food And Water Supplies",
+      "D": "A Map Of Arcadia Bay"
+    }
+  }
+]

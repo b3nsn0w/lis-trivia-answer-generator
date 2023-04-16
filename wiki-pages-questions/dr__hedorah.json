@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Dr. Hedorah's Profession?",
+    "answer": "A",
+    "choices": {
+      "A": "Meteorologist",
+      "B": "Geologist",
+      "C": "Biologist",
+      "D": "Chemist"
+    }
+  },
+  {
+    "question": "What Does Dr. Hedorah Hypothesize As A Partial Cause For The Unseasonal Weather?",
+    "answer": "A",
+    "choices": {
+      "A": "Climate Change",
+      "B": "Global Warming",
+      "C": "Pollution",
+      "D": "Deforestation"
+    }
+  },
+  {
+    "question": "What Is The Name Of The News Channel Where Dr. Hedorah Gets Interviewed?",
+    "answer": "A",
+    "choices": {
+      "A": "KBAY 7 News",
+      "B": "KABC News",
+      "C": "KTLA News",
+      "D": "KPIX News"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Host Who Interviews Dr. Hedorah?",
+    "answer": "A",
+    "choices": {
+      "A": "Weatherman",
+      "B": "Meteorologist",
+      "C": "Climate Expert",
+      "D": "Environmentalist"
+    }
+  },
+  {
+    "question": "What Is Dr. Hedorah's Opinion On The Recent Weather Patterns In Arcadia Bay?",
+    "answer": "A",
+    "choices": {
+      "A": "They Are Unprecedented",
+      "B": "They Are Normal",
+      "C": "They Are Caused By Global Warming",
+      "D": "They Are Caused By Pollution"
+    }
+  }
+]

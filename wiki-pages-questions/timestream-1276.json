@@ -1,0 +1,42 @@
+[
+  {
+    "question": "How Does Max Create An Alternative Timeline?",
+    "answer": "A",
+    "choices": {
+      "A": "By Preventing William Price From Driving His Car",
+      "B": "By Rewinding Time To The Beginning Of The Week",
+      "C": "By Using Her Focus Ability On A Photo Of Chloe",
+      "D": "By Asking Chloe To Make A Serious Request"
+    }
+  },
+  {
+    "question": "What Happens To The Events In The Alternative Timeline When Max Returns To The Original Timeline?",
+    "answer": "D",
+    "choices": {
+      "A": "They Continue To Exist As A Separate Timeline",
+      "B": "They Merge With The Original Timeline",
+      "C": "They Are Erased From Existence",
+      "D": "They Are Reversed Back To The Original Events"
+    }
+  },
+  {
+    "question": "What Does Max Do To Escape From The Dark Room?",
+    "answer": "A",
+    "choices": {
+      "A": "She Focuses On A Monochrome Photo",
+      "B": "She Rewinds Time To Before She Was Captured",
+      "C": "She Calls For Help On Her Phone",
+      "D": "She Breaks The Door Down With A Chair"
+    }
+  },
+  {
+    "question": "What Happens To Mark Jefferson's Photos In The Dark Room Timeline?",
+    "answer": "C",
+    "choices": {
+      "A": "Max Steals Them And Escapes",
+      "B": "Max Burns Them With A Lighter",
+      "C": "Max Damages Them By Kicking A Trolley",
+      "D": "Max Rewinds Time To Prevent Them From Being Taken"
+    }
+  }
+]

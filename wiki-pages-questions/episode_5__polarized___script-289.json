@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Say About David Needing Joyce In His Life?",
+    "answer": "A",
+    "choices": {
+      "A": "It's Obvious",
+      "B": "It's Unclear",
+      "C": "It's Unnecessary",
+      "D": "It's Untrue"
+    }
+  },
+  {
+    "question": "What Does Joyce Hope Chloe Will See In David Someday?",
+    "answer": "A",
+    "choices": {
+      "A": "His Strength",
+      "B": "His Weakness",
+      "C": "His Kindness",
+      "D": "His Intelligence"
+    }
+  },
+  {
+    "question": "According To Max, What Did David Show Her How To Find?",
+    "answer": "A",
+    "choices": {
+      "A": "Her Own Strength",
+      "B": "Her Own Weakness",
+      "C": "Her Own Intelligence",
+      "D": "Her Own Kindness"
+    }
+  },
+  {
+    "question": "What Does Joyce Say About Most People's Perception Of David?",
+    "answer": "B",
+    "choices": {
+      "A": "They Only See Him At His Best",
+      "B": "They Only See Him At His Worst",
+      "C": "They See Him Clearly",
+      "D": "They Don't See Him At All"
+    }
+  },
+  {
+    "question": "What Does Max Say About David's Compliments?",
+    "answer": "C",
+    "choices": {
+      "A": "He Gives Them Out Easily",
+      "B": "He Gives Them Out Frequently",
+      "C": "He Doesn't Give Them Out Often",
+      "D": "He Doesn't Give Them Out At All"
+    }
+  }
+]

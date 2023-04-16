@@ -1,0 +1,64 @@
+Here is a section of the wiki page for Lighthouse:
+
+#  Lighthouse 
+
+```yaml
+Location
+
+image: Lighthouse.jpg
+type: Lighthouse
+location: Outskirts of [Arcadia Bay](arcadia_bay.md)
+state: Oregon
+appears: >-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)[Episode 2: Out of
+  Time](episode_2__out_of_time.md) (cutscene)[Episode 5:
+  Polarized](episode_5__polarized.md)
+```
+
+> You can never escape the lighthouse here...
+
+**[Maxine Caulfield**, Max Caulfield](maxine_caulfield____max_caulfield.md) in "[Episode 1: Chrysalis, Chrysalis](episode_1__chrysalis__chrysalis.md)"
+
+The **Lighthouse** is located in the forested outskirts of [Arcadia Bay](arcadia_bay.md). For locals who wish to go to the lighthouse, they must follow an uphill pathway in the forest which ends up at the ocean cliff. The lighthouse is a 15-minute walk from the beach, as mentioned on a wooden signpost. The lighthouse is the first featured location in Season 1 of *[Life is Strange](life_is_strange.md)*, and serves as a recurring motif throughout the game.
+
+## Background 
+[Maxine Caulfield](max_caulfield.md) mentions that she and [Chloe Price](chloe_price.md) used to spend a lot of time there when they were young. They would run up to the top of the lighthouse, implying that in previous years it was open to the public. It could also only have been open to the public at specific days/hours. 
+
+Visitors and guests at the lighthouse are encouraged to leave the [wildlife](wildlife.md) in the area alone, as per the sign on the trail. Max confirms it has been there a long time.
+
+## Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+The lighthouse is the first location Max gets to know, as her [storm](storm.md)-filled vision shows us the tornado heading straight for Arcadia Bay. The lighthouse itself is destroyed as a fishing boat rams into the middle of it, splitting it in two.
+
+After Max wakes from this vision in [Mr. Jefferson](mr__jefferson.md)'s [Photography Lab](classroom.md) and is able to walk around the classroom, there is an option to look at a photo of the lighthouse, to which Max responds "*You can never escape the lighthouse here*."
+
+We revisit the lighthouse at the end of the episode. Max can take an [Optional Photos](optional_photo.md) if she turns back on the pathway, as well as a photo of Chloe as she sits on a bench next to the lighthouse.
+
+The lighthouse is clearly a popular spot for young people to hang out, due to the copious amounts of litter, vandalism, and alcoholic beverage bottles surrounding the campfire pit at the top of the cliff. It seems that Chloe still hangs around there, due to the presence of graffiti similar to that in her room on the rocks by the campfire.
+[File:Lighthouse.png](thumb.md)
+
+Behind one of the maintenance sheds, there are "[Glyphs](wind_glyphs.md)" written on the side of the wall. Max comments that they remind her of the wind. They are related to {{Wiki|Alain Damasio}} who is the co-founder of [Don't Nod](dontnod.md). His novel, *La Horde du Contrevent *(or *The WindWalkers*) has characters represented by these symbols.
+
+There is a haiku written on a stump near the end of the lighthouse pathway, which reads:
+
+Turn this way now orFace the lonely autumn treeAnd never look back
+
+This could be a foreshadowing of events to come in the game.
+
+LiS1-Ep1-lighthouse-11.png|Glyphs found on the small outbuilding next to the lighthouse.
+LiS1-Ep1-lighthouse-10.png|Haiku carving found near to the lighthouse.
+
+## Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+During the cutscene at the end of Episode 2, Chloe appears by the lighthouse, sitting on the same bench as in Episode 1.
+
+## Episode Five - "[Episode 5: Polarized](polarized.md)" 
+During the [Max's Nightmare](nightmare_sequence.md), the photo of the lighthouse in Jefferson's class can be viewed, but there are changes to this photograph as the top half of the lighthouse is torn off, presumably by the storm.
+
+Later in the episode, after Max is through the Nightmare sequence, Max and Chloe are at the lighthouse and a safe distance away from the storm. Max and Chloe share a conversation on the cliff before Chloe makes Max decide whether to save Arcadia Bay or save her.
+
+If Max decides to sacrifice Arcadia Bay for Chloe, she and Chloe will stand atop the cliff and hold hands as they look on at the storm destroying Arcadia Bay. Max will be unable to watch the destruction inflicted upon the town and will turn away to rest her head on Chloe's shoulder to cry.
+
+If Max chooses to save Arcadia Bay, rewinds, and this time lets Chloe die in the [Blackwell Academy](blackwell.md) girls bathroom, she will later stand in front of the lighthouse before she heads to the [Arcadia Bay Cemetery](cemetery.md) to attend Chloe's funeral.
+
+
+
+Generate five trivia questions relevant to this section of the page.

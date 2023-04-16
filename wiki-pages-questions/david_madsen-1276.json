@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is David Madsen's Profession?",
+    "answer": "B",
+    "choices": {
+      "A": "Head Chef",
+      "B": "Head of Security at Blackwell Academy",
+      "C": "Head of Security at Arcadia Bay",
+      "D": "Head of Security at Blackwell High School"
+    }
+  },
+  {
+    "question": "What Is David Madsen's Relationship With Chloe Price?",
+    "answer": "C",
+    "choices": {
+      "A": "Father",
+      "B": "Uncle",
+      "C": "Stepfather",
+      "D": "Grandfather"
+    }
+  },
+  {
+    "question": "What Is David Madsen's Attitude Towards Blackwell Students?",
+    "answer": "C",
+    "choices": {
+      "A": "Caring",
+      "B": "Indifferent",
+      "C": "Hostile",
+      "D": "Fearful"
+    }
+  },
+  {
+    "question": "What Is The Reason Behind David Madsen's Abrasive Behavior?",
+    "answer": "A",
+    "choices": {
+      "A": "He Suffers From PTSD",
+      "B": "He Is A Strict Person",
+      "C": "He Hates Blackwell Students",
+      "D": "He Is A Racist"
+    }
+  },
+  {
+    "question": "What Is The Name Of David Madsen's Wife?",
+    "answer": "A",
+    "choices": {
+      "A": "Joyce Madsen",
+      "B": "Rachel Amber",
+      "C": "Kate Marsh",
+      "D": "Victoria Chase"
+    }
+  }
+]

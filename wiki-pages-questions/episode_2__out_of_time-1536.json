@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Real Link Behind The Website That Victoria Chase Writes On The Bathroom Mirror?",
+    "answer": "B",
+    "choices": {
+      "A": "A Blog About Kate's Suicide Attempt",
+      "B": "A Video Of Kate At The Vortex Club",
+      "C": "A Website About Roller Derby",
+      "D": "A Website About Time Travel"
+    }
+  },
+  {
+    "question": "What Was The Original Title Of Episode 2?",
+    "answer": "A",
+    "choices": {
+      "A": "Time Out",
+      "B": "Out of Time",
+      "C": "Time Traveler",
+      "D": "Time Warp"
+    }
+  },
+  {
+    "question": "What Is The Coming Of Age Film That Chloe And Max Re-Enact A Scene From?",
+    "answer": "C",
+    "choices": {
+      "A": "The Breakfast Club",
+      "B": "Ferris Bueller's Day Off",
+      "C": "Stand by Me",
+      "D": "The Goonies"
+    }
+  },
+  {
+    "question": "What Is The Quote By Mr. Jefferson Referring To When He Says \"Maybe She Doth Protest Too Much\"?",
+    "answer": "A",
+    "choices": {
+      "A": "A Quote From A Play By William Shakespeare",
+      "B": "A Quote From A Novel By Jack Kerouac",
+      "C": "A Quote From A Poem By Robert Frost",
+      "D": "A Quote From A Song By Bob Dylan"
+    }
+  }
+]

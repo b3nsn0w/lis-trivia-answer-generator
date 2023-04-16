@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Item Does Max Find In The Blue Drawer In Chloe's Room?",
+    "answer": "A",
+    "choices": {
+      "A": "A Phone",
+      "B": "A Wallet",
+      "C": "A Joint",
+      "D": "A Photo Box"
+    }
+  },
+  {
+    "question": "What Does Max Find In Chloe's Coat Pocket?",
+    "answer": "D",
+    "choices": {
+      "A": "A Phone",
+      "B": "A Wallet",
+      "C": "A Joint",
+      "D": "A Photo"
+    }
+  },
+  {
+    "question": "What Does Max Find In The Box Labeled \"Toys\" In The Alternative Timeline?",
+    "answer": "C",
+    "choices": {
+      "A": "Dolls",
+      "B": "Board Games",
+      "C": "Action Figures",
+      "D": "Stuffed Animals"
+    }
+  },
+  {
+    "question": "What Does Max Find In The Box Labeled \"Shoes\" In The Alternative Timeline?",
+    "answer": "D",
+    "choices": {
+      "A": "High Heels",
+      "B": "Sneakers",
+      "C": "Sandals",
+      "D": "Boots"
+    }
+  },
+  {
+    "question": "What Does Max Say About Rachel's Style When She Puts On Her Clothes?",
+    "answer": "A",
+    "choices": {
+      "A": "\"I Think Rachel's Style Is A Little More Subtle... Like Me.\"",
+      "B": "\"I Think Rachel's Style Is A Little More Bold... Like Me.\"",
+      "C": "\"I Think Rachel's Style Is A Little More Casual... Like Me.\"",
+      "D": "\"I Think Rachel's Style Is A Little More Formal... Like Me.\""
+    }
+  }
+]

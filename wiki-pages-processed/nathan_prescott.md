@@ -1,0 +1,337 @@
+#  Nathan Prescott 
+
+```yaml
+Character
+
+name: Nathan Prescott
+image: nathan_.png
+alsoknown: >-
+  Rott (by [Frank Bowers](frank_bowers.md))
+
+  Nate (by [Hayden Jones](hayden_jones.md), [Sean Prescott](sean_prescott.md),
+  and [Kristine Prescott](kristine_prescott.md))
+
+  Dickbagtheasshole (by [Maxine Caulfield
+Max](maxine_caulfield_max.md))Little Brother (by [Kristine Prescott](kristine_prescott.md))
+Dumbass (by [Mark Jefferson](mark_jefferson.md)) Fucker, little rich kid (by [Chloe Price](chloe_price.md)): ''
+age: >-
+  18 (student record)19 ([Max's Journal](max_s_journal.md), see [Nathan
+  Prescott#Inconsistencies
+inconsistencies section](nathan___prescott_inconsistencies_inconsistencies_section.md)): ''
+born: |-
+  August 29, 1995,
+  Fort Lauderdale, Florida
+died: October 10, 2013 (determinant)
+causeofdeath: Killed by [Mark Jefferson](mark_jefferson.md)
+gender: Male
+hair: Light brown
+eyes: Blue
+loveinterest: '[Rachel Amber](rachel_amber.md) (presumed/unconfirmed)'
+relatives: >-
+  [Martin Lewis Prescott](martin_lewis_prescott.md) (great-great-grandfather,
+  presumed)
+
+  [Harry Aaron Prescott](harry_aaron_prescott.md) (grandfather, presumed)
+
+  [Sean Prescott](sean_prescott.md) (father)
+
+  [Mrs. Prescott](mrs__prescott.md) (mother)
+
+  [Kristine Prescott](kristine_prescott.md) (older sister)
+friends: |-
+  [Victoria Chase](victoria_chase.md)
+  [Hayden Jones](hayden_jones.md)
+  [Maxine Caulfield
+Max Caulfield](maxine_caulfield_max_caulfield.md) (alternative timeline)
+Other [Vortex Club#Known_Members: *
+Vortex Club members](vortex_club_known_members____vortex_club_members.md): *
+profession: High school student
+affiliation: |-
+  [Blackwell Academy](blackwell_academy.md)
+  [Vortex Club](vortex_club.md)
+appearance: >-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)[Episode 2: Out of
+  Time](episode_2__out_of_time.md)[Episode 3: Chaos
+  Theory](episode_3__chaos_theory.md) [Episode 4: Dark
+  Room](episode_4__dark_room.md)[Episode 5: Polarized](episode_5__polarized.md)
+  ([Nightmare
+nightmare](nightmare_nightmare.md)): ''
+voice: |-
+  [Nik Shriner](nik_shriner.md) (ENG)
+  [Yasuhiro Mamiya](yasuhiro_mamiya.md) (JPN)
+fullname: Nathan Joshua Prescott
+```
+
+> Don't EVER tell me what to do! I'm so SICK of people trying to control me!
+
+**Nathan in "[Episode 1: Chrysalis**, Chrysalis](episode_1__chrysalis____chrysalis.md)"
+
+**Nathan Joshua Prescott** (born August 29, 1995) is a student at [Blackwell Academy](blackwell_academy.md) and is the secondary antagonist throughout *[Life is Strange](life_is_strange.md)*. He is associated with selling drugs at Blackwell, and it is consistently implied that he is mentally ill and is in therapy.
+
+Nathan reappears in *[Life is Strange: Before the Storm](before_the_storm.md)*, the prequel to the events of *Life is Strange* and is also mentioned in *[Life is Strange 2](life_is_strange_2.md).
+
+:*For the image gallery, click [Nathan Prescott/Gallery](here.md). For Nathan's room click [Nathan's Room](here.md).''
+
+##  Personality 
+Nathan is outwardly aggressive, spoiled, rich, and acts in the manner of an archetypal brat. [Maxine Caulfield](max_caulfield.md) describes him as "[Victoria Chase](victoria_chase.md)'s male clone, with way more money and attitude." He often uses his family's influence to escape any responsibility for his actions, believing himself to be above the law. He appears to lack empathy for others and shows no regard for the suffering of those he deems a threat to his authority.
+
+Nathan is inwardly mentally unstable, has been in psychiatric treatment for years and takes various medications, as implied by the pills found in his dorm room in "[Episode 4: Dark Room](dark_room.md)" and in his locker in the [Blackwell Swimming Pool](blackwell_swimming_pool.md) in "[Episode 3: Chaos Theory](chaos_theory.md)". It is Nathan's own father who has been telling him to take medication, evident from notes found in Nathan's dorm room in Episode 4. These medications include Risperidone - an antipsychotic medication used in treatment for schizophrenia and bipolar disorder.
+
+It is suggested that Nathan may suffer from anxiety, paranoia and muscle spasms due to the bathroom scene in "[Episode 1: Chrysalis](chrysalis.md)". It is also heavily implied that he suffers from psychosis, judging from the drawings found in Episode 3 and Episode 4. Furthermore, one of his psychiatrists explained in a letter to his father that Nathan is "disconnected from reality" and considers him a threat to himself and the people around him. His medications suggest a diagnosis with schizophrenia and bipolar disorder, the side effects of which (Restless Legs Syndrome) are visible throughout the game.
+
+Nathan appears to be traumatized and bullied by many adults forcing him to act out throughout the game. He is under a lot of pressure, especially from his father. He is convinced that nobody likes him and that his life is hell.If Max lets Warren beat up Nathan, he can later be seen lying on the ground, crying and saying, "Everybody hates me... everybody…" His excessive partying and taking drugs, as well as his outward egocentricity and lack of empathy might be his way of trying to cover up or redirect his emotional pain.
+
+Nathan is cultured and has a collection of art, film, and photography in his bedroom. He has an affinity for a dark expressionist style. His photography collection leads Max to believe he enjoys "tortured subjects" when she explores his room. He has a photographic penchant for dead animals and his admiration of graveyards. When Max examines his dorm room, she finds pictures of [Media:Nathan-deadbirds.png](dead_birds.md) and a [Media:Pompidou-nathanphoto.png](dead_pompidou.md) if he has been killed earlier. For the [Everyday Heroes Photo Contest](everyday_heroes_contest.md), Nathan entered a [Media:Nathan2.png](photograph.md) of a janitor working at a graveyard.
+
+##  Biography 
+The following is what Max wrote about Nathan in [Max's Journal](her_journal.md): 
+
+''Homework is kicking my ass. I bet the teachers grade harder just to stop you from feeling special. But Victoria Chase and her snob minions still front like they're honored guests of Blackwell. The bros here aren't that different. Nathan is Victoria's male clone, with way more money and attitude, if that's possible.*
+
+*His family is the oldest in Arcadia Bay and I heard stories about them when I was a kid. The Prescotts give a shitload of bank to Blackwell, so Nathan acts like he literally owns the school. Yesterday during class, he put his feet on the desk, started texting and the teacher didn't say jack!*
+
+*I'd get suspended. But him and Victoria are part of this silly elite "[Vortex Club](vortex_club.md)" that puts on popular parties and so they get their way. Its good to be the king and queen.*
+
+*Just when I thought Victoria Chase would be the worst of my social problems, now I have to deal with Dickbagtheasshole. But I guess he was the one who triggered my crazy rewind power by shooting that girl in the bathroom. He's 19 and already a scary fucking prick.*
+
+*I guess I have a little advantage on Nathan by being able to manipulate time, but if he shoots me I may not be able to reverse anything. I have to be careful around him, especially since he's obviously got friends in high places as his family last name is practically branded on every building here at Blackwell. His money against mine...*
+
+*On one hand, I do kinda feel bad for Nathan because he doesn't seem to be in control, like he's doped up or over medicated. On the other, he's an asshole who nobody has called out. And he almost killed (/did kill?) a girl on campus. Should I go straight to the police? What do I say about my rewind power? Like I'd say anything. I just have to watch my own back from now on. Oh, school days!''
+
+##  Background 
+[File:Nathanroom-photowithdad.png](thumb.md)
+
+The [Prescott Family](prescott_family.md) is known to be the oldest and most influential family of [Arcadia Bay](arcadia_bay.md). The Prescotts are wealthy and supply substantial funding to Blackwell Academy, going as far as donating a new [Prescott Dormitory](dormitory.md) for the school's use. Nathan's father, [Sean Prescott](sean_prescott.md), has a lot of influence on [Raymond Wells](principal_wells.md) which, in turn, affects his son's treatment at the academy. There is a wide rumor around town that even the [Arcadia Bay Police Department](local_police.md) are under the thumb of the Prescotts. The Prescotts are also responsible for a new development called "[Pan Estates](pan_estates.md)" that is scheduled to be built in Arcadia Bay.This can be seen on a [Media:Pan Estates poster.png](flyer.md) inside the Two Whales Diner.
+
+Despite owning most of Arcadia Bay, the Prescotts may be from Florida instead of Arcadia Bay considering Nathan was born in Fort Lauderdale and there are many instances where both Nathan and his father call Arcadia Bay a "shithole"."This shithole town is going to get an enema along with a fresh brand." - excerpt from an [Media:Note4-nathanroom-seanmail2.png](email.md) from Sean Prescott to Nathan, visible in Episode 4. It's possible that Nathan's family lived in Florida for a while, but considering their ancestors already ruled over the town, they later returned to continue the family's legacy.
+
+Nathan is presumed to be the youngest son in the Prescott family and has a record of being violent and acting out, which is implied to be due to the pressures placed upon him by his parents (specifically his father) in order to keep the Prescott reputation intact.An [Media:Note4-nathanroom-seanmail2.png](email.md) from Sean Prescott to Nathan, visible in Episode 4. According to Blackwell school records, Nathan, at least once, referred to himself as "Nathan Prescott the third" evidencing a condescending attitude among many Prescott family members rooting from the family's abundant wealth."Nathan Prescott the Third." Oooh, he's so money. And you know the Prescotts dropped major bank to bury Nathan's real file... Look, it reads like a rap sheet—bad grades, teacher complaints, secret probation... But I was expelled?" Chloe, while reading Nathan's school records in Episode 3.
+
+Nathan has been in psychiatric treatment for at least five years, which is evident by a letter from one of his psychiatrists and can be found in the [Episode 4: Dark Room](dark_room.md) in Episode 4.[Media:Dr. Jacoby's Letter to Nathan's Father.jpg](letter.md) from his psychiatrist.
+
+Letters can be found sent from Nathan's father regarding Nathan's unruly behavior in school. However, Nathan's father seems to be willingly disconnected from his son and his son's mental health and instead pacifies Nathan's outbursts with threats to the school and its financial support supplied by the Prescotts.
+
+While searching through [Nathan's Computer](nathan_s_computer.md) during "Dark Room", Max can find a caring email sent to Nathan from his supportive older sister, [Kristine Prescott](kristine.md), who states she is in Brazil, leaving Nathan on his own to deal with his father. Despite this, she tries to encourage Nathan to stand up to their father.An [Media:Note4-nathanroom-kristinemail2.png](email.md) from Kristine Prescott to Nathan visible on his computer in Episode 4.
+
+At Blackwell, Nathan retains the position as one of the main Vortex Club representatives and, by most Blackwell students, a recreational drug dealer. Nathan is evidenced to cut his drugs with powerful laxatives bought online after buying them from local drug dealer [Frank Bowers](frank_bowers.md).
+
+Nathan is also a known partier and drinker and usually supplies the drugs and alcohol at the parties he attends. Nathan's family influence affords the Vortex Club with prestigious benefits, such as note-worthy DJs and the lack of surveillance by the authorities--a fact indicated by Nathan while referencing [The End of the World Party](the_end_of_the_world_party.md).
+
+##  Life is Strange 
+
+###  Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+In his first appearance, Nathan walks into the girls bathroom and begins talking to himself, visibly stressed. He fails to realize is that he is not alone in the bathroom, as Max had entered a few moments before and is hiding behind the row of stalls.    
+[File:Nathan-shooting-Chloe.png](thumb.md)
+After staring into the mirror and giving himself a prep-talk, a [Chloe Price](blue_haired_girl.md) enters and begins to demand money from him. Nathan is quick to respond that it's his family that's very wealthy, not him. The blue-haired girl, unconvinced by Nathan's reply, threatens to expose his drug dealing to his family and his mental instability to "everybody". This prompts Nathan to pull out a gun, startling the girl, which leads Nathan to push her into the wall while he holds the gun at waist level. Nathan then rants about how he is "so sick of people trying to control [him]". It is then that she pushes Nathan. He accidentally triggers the gun, and when she dies, he says, ''"No, please... god, no... I-I didn't mean to. You just kept pushing me. Everybody is always pushing me. Sorry... I'm so, so sorry... My life is hell. And I'm so busted."''
+
+However, Max reverses time to the point before the girl is shot. As the situation is replayed, Max is able to save the girl by setting off the fire alarm which in turn gives the girl a chance to escape before the gunshot. If Max fails to set the fire alarm off, Nathan can be seen kneeling down, cursing and shaking the girl, regretful of his decision.
+
+After Max successfully saves the girl, Nathan slips on Max's torn photo while trying to stand up before grabbing his gun and exiting the girls bathroom. When Max leaves the bathroom, she is interrupted by the security guard, [David Madsen](david_madsen.md), and then [Raymond Wells](principal_wells.md), who she can then tell about Nathan with the gun or hide the truth.
+
+Regardless of Max's choice, Nathan will confront Max in the parking lot, demanding to know what she told the Principal and/or what she saw in the bathroom depending on the decision made with Wells. However, his tone is much friendlier and respectful if Max hid the truth during the conversation with Principle Wells. Similarly, depending on the dialogue chosen, Nathan will say different things. Ultimately, no matter what choice and dialogue is chosen, Nathan will become offended and say, *"Do not analyze me! I pay people for that,"* implying that he is in therapy.
+
+[Warren Graham](warren_graham.md) intervenes in the confrontation and Nathan headbutts him to the ground. Max reaches to pull Nathan away from Warren which only results in Nathan grabbing Max by her throat and exclaiming, *"Nobody tells me what to do. Not my parents, not the Principal, or that whore in the bathroom."*
+
+The girl Max saved in the bathroom suddenly pulls up in a [Chloe's Truck](truck.md) and Max instantly recognizes her as her former best friend, Chloe Price. Warren then pushes Nathan to the ground to stop him from attacking Max and Chloe and is beaten for it. Nathan can briefly be seen punching Warren in the face repeatedly before Max jumps into Chloe's truck just as Nathan kicks the door closed, letting the two escape. David Madsen then runs up to Nathan and Warren to stop the fight.
+
+Chloe reveals that Nathan is dealing drugs in Blackwell, but that he uses laxatives to cut the product down. As the conversation continues, Chloe declares that she was drugged by Nathan. On a night out, she attempted to get him drunk in order to steal his money. However, after returning to his dorm, he apparently slipped something in her drink without her noticing, leading her to pass out. When she awoke, she saw him "crawling" towards her with a camera. This motivated Chloe to kick at him and causing her to accidentally break his lamp, which startled Nathan enough to give her a chance to escape.
+
+Nathan is absent for the rest of the episode until the final montage, where he is sitting alone with a camera, not paying any attention to the falling snow as the episode ends.
+
+###  Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+If Max reported Nathan, he will vandalize [Max's Room](max_s_room.md) in the morning while she is in the shower, writing "Nobody messes with me, bitch" on Max's photo wall, and leaving a disturbing picture on Max's bed. If Max hid the truth, then the room remains untouched and it's assumed that Nathan never broke into Max's room.
+
+Later, in [Mark Jefferson](mr__jefferson.md)'s classroom, he and Victoria are sitting on Max's desk and talking about her. When approached by Max, the conversation that occurs is dependent on Max's interactions with both Victoria and Nathan. Afterwards, the two let Max sit in her seat and continue their conversation in the corner of the room before Nathan is forced to leave the classroom as Mr. Jefferson begins class.
+
+When [Kate Marsh](kate_marsh.md) is on the roof and Max freezes time in front of the Dormitories in order to save her, Nathan can be seen looking up with a strange expression on his face.
+
+After Kate's suicide (or suicide attempt), Nathan is sitting beside Max in [Raymond Wells](principal_wells_.md) office due to his responsibility as the organizer of Vortex Club parties and his appearance in Kate's infamous video. If Max blames Nathan for dosing Kate, he will either be suspended from Blackwell Academy or still in school with Max being suspended, depending on earlier choices. If not blamed at all, he will try to muddy Kate's reputation by stating that she shouldn't have asked to be "on a video macking on dudes".
+
+At the end of the episode, he walks into [Victoria's Room](victoria_s_room.md) and sees her crying. He seems to be smiling and lets himself in so he can comfort her.
+
+###  Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+When Max leaves her dorm room later that evening, she has the chance to search Victoria's room where she finds several photos depicting Nathan and Victoria confirming their close relationship.
+
+If Nathan got suspended following the meeting that took place in Principal Wells' office, he will send an email to Victoria in which he completely vents anger at Max over his suspension as a result of her accusations over his involvement in drugging Kate. Also in the email, Nathan makes a disgruntled comment about his parents threatening him with a job in his father's office, which he claims they are "dumb" for wanting him to represent. Victoria emails back, also venting about Max and telling Nathan that she will talk to him later via text.
+
+While Max and Chloe search Principal Wells' office for clues, they discover e-mails from Nathan's father to the Blackwell principal, threatening to cut off funding if his son is not treated appropriately with a spotless record. They also discover several creepy drawings from Nathan, proclaiming "Rachel in the Dark Room" hinting to him being connected to her disappearance.
+
+Other files reveal that Nathan and David Madsen had accused [Rachel Amber](rachel_amber.md) of drug dealing prior to her disappearance, and Nathan had behaved inappropriately at school for months. An Incident Report wrote that he had several crude outbursts, including throwing a desk in class, cursing at his English teacher [Bernadette Hoida](bernadette_hoida.md), lighting firecrackers in the bathroom, stealing school supplies, threatening the school custodian, [Samuel Taylor](samuel_taylor.md), and the attempted theft of the school's [Tobanga](tobanga.md) Totem. A self-written file by Nathan says, "David M. always asks what's going on in my head. David always helps me follow those he follows", implicating a deeper involvement with both of them.
+
+Max can also look through Nathan's gym locker after breaking into the [Blackwell Swimming Pool](blackwell_swimming_pool.md), and will find the prescription drugs Diazepam and Risperidone.[http://www.drugs.com/diazepam.html Diazepam], [http://www.drugs.com/risperidone.html Risperidone]. These drugs, as mentioned before, are used to treat anxiety, alcohol withdrawal, schizophrenia and bipolar disorder.
+
+The next morning, Nathan will be in the [Two Whales Diner](two_whales_diner.md) sitting alone with a camera. When Max approaches him in Rachel Amber's old clothes (provided by Chloe earlier), he initially mistakes her as Rachel by exclaiming Rachel's name in excitement as he looks up at Max, implying that he and Rachel were friendly. However, the conversation soon turns aggressive on Nathan's side, the intensity of which depends on Max's previous decisions.
+
+If asked about where to get drugs, Nathan will tell Max to go and ask Frank for "higher education", implying that this is some kind of code phrase to hook her up. If asked about his father, he will dismiss Max, calling his father "an asshole".[https://youtu.be/WHIexL9caus?t# 2h2m29s YouTube video] showcasing the conversation shared between Max and Nathan about Nathan's father. If asked about Rachel and Frank, he will say that she partied more than him and she was a "fiend on her own". He accidentally lets it slip that Frank made a "blood oath" with Rachel but tells her not let anyone know he said anything. If Max rewinds, she can use the information about the blood oath against Nathan, throwing him off-guard. Panicked, Nathan reveals that Frank believed Rachel was in love with him, when Nathan believed all she wanted was his drugs and used Frank, allowing him to take pictures of her to facilitate her drug habit. Nathan claims that even Rachel thought Frank was a liar and loser, like most people in Arcadia Bay apparently thought. If asked about Kate, he will say that Max has no idea what is going on.
+
+###  Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+While investigating the Madsen garage, Max can discover a note to David from Sean Prescott, thanking him for his help with Nathan. What this means is unconfirmed. There is also an anonymous email present if David has been suspended from Blackwell, which is possibly from Nathan, regarding feelings of unease and fear at Blackwell without David there to protect the students.
+
+Chloe and Max decide that Nathan is a crucial piece of the puzzle regarding Rachel Amber and decide to go to Blackwell to search his room. Max asks bystanders about Nathan's whereabouts to make sure he is away from the campus before safely searching his room for evidence while Chloe watches for his approach.
+
+Nathan's room is locked before Max breaks it with a nearby fire extinguisher. Max finds the room "dark, creepy and overly tidy" and observes Nathan's characteristic black and white photos of tortured subjects on his walls. There are photos on his bed that include a dead bird, Pompidou (if he got injured in the road in Episode 3), and a black and white slideshow on the wall that plays from a projector above the bed.The images in the slideshow could be references to the German Expressionism style of photography and film, as large dense shapes and points are used. The backgrounds are highly reminiscent of *{{Wiki|The_Cabinet_of_Dr._Caligari|The Cabinet of Dr. Caligari}}*. It tells the story of an insane hypnotist who uses a somnambulist to commit murders. This can be seen as an allegory for Nathan's entanglement in Jefferson's Dark Room deeds as a manipulated victim out of their own control. In a drawer, Max can find a threatening note to Nathan from Chloe regarding him drugging her, and a picture of Chloe curled up on his floor. Nathan is seen to have very expensive camera equipment as well as an apparent bondage fetish, as thought by Max as she observes a few posted pictures of women tied in bondage ropes, however, this could be a foreshadowing of the Dark Room.
+[File:Nathan best son diploma.png](thumb.md)
+When Max comes across Nathan's computer, she will find tabs open for strong laxatives, emails directed to him by his father and his sister, the video of Kate "macking on dudes", and an email from him to Victoria about The End of the World Party (the email may also talk about Max depending on the decisions made previously). Max can also find a Best Son In The World Diploma from 2006 hanging on Nathan's wall, signed by his father. 
+When Max is finished investigating, she pulls back the couch to reveal a clear plastic bag containing a disposable phone.
+
+After Max leaves Nathan's room to talk to Chloe about what she found, Nathan enters the dormitory. Furious, Nathan demands to know why they're in his dorm and calls Max a "nosy bitch" as he stalks towards her. He is stopped by Chloe and then pushed away by Warren, who intervenes by headbutting him to the ground. Once on the ground, Nathan pulls out a gun. However, Warren kicks the gun out of his hand and proceeds to kick Nathan in the stomach. Max can then choose whether or not to let Warren continue.
+
+ Max stays out of it  Max stays out of it  [File:2015-07-28 00007.jpg](thumb.md) Warren will beat Nathan repeatedly until he is crying and apologizing on the floor. Before leaving, Chloe will grab Nathan's gun and taunt him as they leave. Max can stay after Warren and Chloe leave and see Nathan curled into himself and holding his head as he lies on the ground. Nathan will say the statements, "Shit man this really hurts...", "I think my face is broken...", "sorry", and "Everybody hates me... Everybody".
+|-|Max stops Warren # Max stops Warren  Nathan will stand, grab the gun, and wave it briefly at Chloe, Warren and Max, before limping away, holding his stomach while shouting, "My dad is on the way! You're all fucked! He owns you!".
+
+Depending on previous actions, Max can get a message from Nathan as she is evaluating clues in Chloe's room, saying that they should prepare to die.
+The two girls discover that Nathan scored drugs from Frank on the night of the Vortex Party--the night Kate was drugged. After combining the coordinates from David's investigation, along with photos of Nathan's license plate, Max works out where Nathan took Kate during the party: an old barn owned by [Harry Aaron Prescott](harry_aaron_prescott.md).
+
+Inside the barn, they discover a survival bunker (the "[Dark Room (Location)](dark_room.md)") equipped with survivalist supplies and state of the art photography equipment, similar to that of Jefferson's. Red files with the names of girls written on the spines reside in one of the cabinets. Max can read a letter addressed to Nathan, telling him to behave more appropriately during phone calls in public. Max assumes this to be from his father, Sean Prescott. However, it is most likely to be from Mr. Jefferson. If Max got Nathan suspended in Out of Time, Nathan's jacket can be found on the couch in the room.
+
+Upon examining the folders, Max and Chloe discover provocative and tortured images of Kate and Rachel bound by duct tape. Nathan is seen in a photograph of him and Rachel lying on the ground of the [American Rust Junkyard](american_rust_junkyard.md), looking "spaced out". It is uncertain whether Nathan was drugged during the shoot with Rachel.
+
+Max and Chloe return to Blackwell to look for Nathan after discovering Rachel's body in the junkyard. While talking to students attending the End of the World Party, Max may warn them to stay away from Nathan or alert her if they see him. Max may then choose to warn Victoria about him, who will comment that Nathan is her friend and is not what everyone believes him to be. Victoria may mention that Nathan has been "freaking her out" lately, regardless of their friendship status. Most students among the likes of Alyssa, Stella, Brooke etc. will call Nathan "creepy" and report his unstable mental state and rudeness if asked about him while Vortex Club members being more forgiving.
+
+When Max and Chloe leave the End of the World Party, Chloe gets a message from Nathan, saying that there "won't be any evidence left" after he's done. This text prompts them to rush back to the junkyard out of fear that he is going to dispose of Rachel's body. The text is grammatically correct and fully spelled out, unlike Nathan's usual style of misspellings and text language, making it obvious that the text was not sent by Nathan, but by Mr. Jefferson in order to lure the girls to American Rust, as it is Jefferson who awaits the arrival of the girls in the junkyard. Nathan is nowhere to be seen.
+
+###  Episode Five - "[Episode 5: Polarized](polarized.md)" 
+After Chloe gets shot at the junkyard and Max gets kidnapped by Jefferson, he reveals to her that Nathan was killed by him the evening before and that he only wanted Nathan as a scapegoat. He was taking full advantage of Nathan's mental health issues and his bad relationship with his father, and soon became a new father figure to this struggling boy. He manipulated Nathan so that he could lure girls to the Dark Room and drug them for Jefferson's twisted photoshoots. Jefferson also *claims* that Nathan accidentally killed Rachel Amber with a drug overdose while trying to imitate him.
+
+Jefferson also reveals that he got rid of Nathan and buried him somewhere "where no one will ever find him". Max can discover a ticket to Los Angeles with Nathan’s name on it, likely bought in order to hide the fact that Nathan is dead, with people assuming he has gone to look for Rachel as she was assumed by some (including Chloe) to be in Los Angeles. When Max is freed from the Dark Room by David Madsen, she discovers a [https://www.youtube.com/watch?v-Z5loua0-Kc voicemail] by Nathan on her phone that was sent only shortly before his death, in which he is tearful and apologizes for everything he has done and tries to tell Max about his fate and warn her that Jefferson is coming for her next.
+
+''"Max... it's Nathan. I just wanted to say... I'm sorry. I didn't want to hurt Kate, or Rachel, or... I didn't want to hurt anybody. Everybody... used me! Mr. Jefferson is coming for me now. All this shit will be over soon. Watch out, Max... He wants to hurt you next. Sorry."''
+
+It is not revealed how he knew or how he is killed, and why he chose to warn Max instead of calling the police.
+
+Nathan appears again in the maze area of [Max's Nightmare](max_s_nightmare.md), threatening and blaming her for not helping him or letting him get beaten up by Warren, but also saying disgusting lines like, *"It’s going to be so sweet when I bury your carcass next to Rachel and do an epic photo shoot"*, ''"Do you want to say hello to Rachel? She's posing for me in hell"*, or *"Holy fucking shit, Max… That was hilarious when you guys dug up Rachel’s body! Ha, ha, ha!"*
+
+In the Two Whales Diner scene, he says, *"Max, I'm… truly… I truly am sorry for being such a bastard. You would have been cool to hang out with. I just don’t want everybody else to suffer like me." ''
+
+Sacrifice Chloe# Sacrifice Chloe
+If Max chooses to sacrifice Chloe, then she will focus on the photo of the butterfly she took in the bathroom at the beginning of the week, but unlike that time, she won't do anything. Nathan will kill Chloe by accident, leading to his arrest and imprisonment. He eventually informs the police of Mr. Jefferson's deeds, which leads to Mr. Jefferson being arrested and Rachel's body being discovered. 
+|-|Sacrifice Arcadia BaySacrifice Arcadia Bay
+If Max chooses to sacrifice Arcadia Bay, Nathan's fate isn't altered and he has been murdered by Mr. Jefferson.
+
+##  Life Is Strange 2 
+###  Episode Five - "[Episode 5: Wolves](wolves.md)" 
+Nathan is mentioned by and can be seen in a mugshot kept by [David Madsen (Life is Strange 2)](david_madsen.md) if the former killed Chloe. He was booked on the day after the murder. [Sean Diaz](sean_diaz.md) can inspect the mugshot and finds David's possession of it creepy. During a phone call to Joyce, David can say that he hopes "they never let him out".
+
+##  Alternative Timeline 
+When Max enters the Alternative Timeline, Nathan can be seen talking to Zachary on the Blackwell Campus lawn. Max is a member of the Vortex Club and sits in the same group on the lawn. Nathan and Max seem to be friends since he texts her about hanging out, and according to Victoria's texts, he is worried about Max after she ran off suddenly (to Chloe's house).
+
+##  Associated Deaths 
+* [Chloe Price](chloe_price.md) (**Caused, Direct, Determinant**) - Nathan accidentally shoots her in the Blackwell Girls Bathroom in the original timeline. This is rewound by Max in Episode 1. However, at the end of the story, if Max chooses to save Arcadia Bay, Chloe's death is inevitable as in the original timeline.
+* [Kate Marsh](kate_marsh.md) (**Involved, Indirectly Caused, Determinant**) - It is implied that Nathan dosed Kate, as she tells Max that he had been the one to offer to take her to the hospital and did not. This dosing led to her viral video which is the main contribution to her suicide/suicide attempt.
+* [Rachel Amber](rachel_amber.md) (**Caused, Accidental**) - It is revealed by Mark Jefferson that Nathan had a lust for Rachel, and kidnapped her to follow in Mark Jefferson's footsteps by photographing her while she was drugged, but he accidentally overdosed her.
+
+##  Relationships 
+###  Friends 
+*[Victoria Chase](victoria_chase.md) - As both popular members of the Vortex Club they've spent a lot of time together and became pretty close; she's seemingly the best and closest friend he has. A photo of both of them fooling around and several party shots as well as a lot of exchanged emails, which can be found in Victoria's room, prove their familiarity. Victoria seems to know Nathan better than anyone as she states he wouldn't be what everyone believes him to be, and that nobody really knows what he's actually going through. She evidently knows about his mental problems and how his family treats him, and from that, it's evident that Nathan trusted in Victoria and confided his struggles to her, since she clearly was someone who listened to him and tried to support him through his hard time. Nathan, for his part, also really seems to care for Victoria. When Victoria cries after Kate's suicide (attempt) he visits her in her room and comforts her. He's also seen to defend her if Max took the picture of Victoria covered in paint. Despite this, she mentions that he has been "freaking her out" lately, regardless of their friendship status, which proves that his mental state had become more unstable and although Victoria had tried to support him, she was unable to cope with his behavior.
+*[Hayden Jones](hayden_jones.md) - He's one of the very few people at Blackwell who defend Nathan and who doesn't care what others talk about him. He thinks that Nathan is just like a "voodoo doll" who everybody prejudges and tries to cast the blame on due to his wealthy family background. Hayden describes Nathan as alright and a fun guy to hang out with who's also really hilarious when he's high. 
+*[Rachel Amber](rachel_amber.md) - They hung out together frequently in the Vortex Club. It's suggested that they had a rather close relationship since Nathan seems to be happy to see her when he mistakes Max for Rachel, and he knows a lot about her relationship to Frank Bowers. On the other hand, he accused her of drug dealing before she disappeared, and, according to Mark Jefferson in Episode 5, Nathan was apparently obsessed with Rachel and in lust with her; he drugged her to follow Jefferson's footsteps, but accidentally killed her by giving her an overdose. After her death, he is apparently traumatized and feels deeply sorry for what happened to her, since he "never wanted to hurt Rachel, or anybody". However it can be assumed Jefferson could've been lying.
+*Other [Vortex Club](vortex_club_members.md)
+*[Maxine Caulfield](max_caulfield.md) - He and Max seem to be friends in the alternative timeline since he texts her about hanging out and according to Victoria's texts, is worried about her since she ran off.
+
+###  Family 
+* [Sean Prescott](sean_prescott.md) (father) - Nathan is put under a lot of pressure by his father regarding his role as a Prescott family member, and his father doesn't really seem to care about Nathan's mental health issues, since he doesn't support Nathan's therapist's advice and just urges his son to take various medications. Moreover, he always avoids actual confrontations with his son and just tries to solve his problems with his influence and money, instead of actually talking with Nathan and trying to help him. Nathan himself expresses a lot of hatred against his father, even calling him an "asshole" in Episode 3. His Best Son in the World Diploma from 2006, which still hangs on his room's wall, and several photos showing his father or both of them when he was still a child, indicate that their relationship hasn't always been that bad and that Nathan still wishes it to be better. It shows that Nathan values the respect and admiration of his father, and is desperately trying to redeem himself and win back the love he once had as a child, which drove him into looking for a substitutive father figure.
+* [Mrs. Prescott](mrs__prescott.md) (mother) - According to the letter from Kristine, Nathan's mother has been worried about him and is aware and doesn't approve of Sean's treatment of Nathan.
+*[Kristine Prescott](kristine_prescott.md) (older sister) - He has a positive and caring relationship with his sister, unlike the rest of his family. She cares a lot about her little brother and they text regularly.
+*[Harry Aaron Prescott](harry_aaron_prescott.md) (probably grandfather)
+*[Martin Lewis Prescott](martin_lewis_prescott.md) (probably a great-great grandfather)
+*[Mark Jefferson](mark_jefferson.md) (father figure) - Due to Nathan and Sean having a bad relationship, Nathan looks to Mark Jefferson as a mentor and father figure, and Mark uses this to his advantage. *(See [Nathan and Jefferson](here.md) for more information on their relationship.)*
+
+###  Enemies 
+*[Maxine Caulfield](max_caulfield.md) - The intensity of his hostility toward Max can be determined on whenever or not she has made choices that could harm Nathan in any way. Despite his apparent dislike for her, his behavior towards Max is less aggressive if she has chosen not to tell Principal Wells about him carrying a gun in the girls bathroom, to make fun of Victoria for getting paint on herself or to blame him for Kate's attempt to commit suicide. Nevertheless, Nathan confronts Max at the parking lot in Episode 1 and when he catches her and Chloe breaking into his dormitory room and stealing his mobile phone in Episode 4. Also, in the same episode, she's not reluctant in helping Chloe to get her revenge against him for killing Rachel. However, regardless of Max's choices, in Episode 5, Nathan will leave Max a voicemail, apologizing for everything and warning her about Mark Jefferson.
+*[Chloe Price](chloe_price.md) - Chloe and Nathan despise each other. Chloe met Nathan at a bar when he was wasted, and tried to use his drunken state to con him out of money she could use to pay back Frank. But Nathan spiked her drink and took photos of her in her vulnerable state before she could escape his dormitory room. Deducing that Nathan deals drugs at Blackwell, she planned to blackmail him for money. Nathan grows angry at Chloe and threatens her to stay away, and even accidentally shoots her without Max's intervention. After it becomes clear that Nathan is partially responsible for the drugging, photographing and death of Rachel Amber, Chloe is on the warpath with him and resolves to get revenge for her friend.
+*[Luke Parker](luke_parker.md) - Like many students at Blackwell, Luke despises Nathan. Max can talk to Luke about Nathan getting attacked by Warren, resulting in Luke being satisfied.
+*[Warren Graham](warren_graham.md) - When Nathan attacks Max in the parking lot, Warren tries to intervene, resulting in a fight between the two that gets Warren a black eye. Later on, when Nathan is about to attack Max in the male dormitory, Warren again puts himself between them. Warren head-butts Nathan to the floor, causing Nathan to pull out a gun and levy a death threat against Warren, Max, and Chloe. Warren kicks the gun out of Nathan's hand, and, if Max chooses not to intervene, Nathan receives a brutal beating from him.
+*[Kate Marsh](kate_marsh.md) - Nathan drugged Kate on a Vortex Club Party, which led to her being filmed while kissing strangers and ending up in Mr. Jefferson's Dark Room, which she doesn't recognize, but she knows he's done something terrible to her. She wants him to pay for what he's done to her and even thinks that there's something evil about the Prescotts that connects them with death.
+*[Mark Jefferson](mark_jefferson.md) - Jefferson is responsible for taking advantage of Nathan's mental condition and bad relationship with his father in order to use him as a scapegoat and tool to further his twisted agenda. Nathan looks to Mark Jefferson as a mentor and father figure, and Mark uses this to his advantage. He also murders Nathan to cover up his own crimes.
+*[Samuel Taylor](samuel_taylor.md) - Most Vortex Club members view Samuel as a "freak," it seems Nathan is no exception, he even threatened him for unknown reasons.
+
+###  Romantic 
+* [Rachel Amber](rachel_amber.md) - According to Jefferson, Nathan was in lust with Rachel. They were likely engaging in intimate behavior before Rachel's disappearance, as Rachel was known to have hooked up with many Vortex Club members. It is also worth noting that Nathan wrote, "69 REASONS TO BANG RACHEL" in the boys' locker room. According to Jefferson, his obsession went so far that he chose her as a model by following Jefferson's footsteps to impress him and drugged her, but accidentally killed her by giving her an overdose. After her death, he was traumatized and feels deeply sorry for what happened to her, since he "never wanted to hurt Rachel or anybody". However, Jefferson could be lying, especially seeing the photos of Nathan, spaced out and lying under Rachel as well as the fact that he seems oblivious to Rachel's death (he assumes disappearance) in the diner scene when Max enters wearing Rachel's clothes.
+* [Victoria Chase](victoria_chase.md) - There are a few implications of Nathan having romantic feelings for Victoria, such as starting many emails with "Hey gorgeous." When Max asks the people at the End of the World Party for Nathan's whereabouts, everybody says that it's Victoria who usually knows where he is. As Taylor Christensen said, "Vic is close with Nathan. They're more like brother-sister. Or something... She really cares about him." According to Dontnod, Victoria and Nathan have a relationship that is not quite clear.Life Is Strange [Director's Commentary](director_s_commentary.md): ''"Like Victoria here, we can see her crying when clearly this is not the way her character would behave before, and having Nathan coming into her room, we don't know what is happening between the two of them, but it's still bringing a bit of mystery and interest for the characters and for the player."'' Many believed that their relationship was just one-sided, but it was already proven that Nathan also cares about Victoria.
+
+##  Symbolism 
+
+###  Color Symbolism 
+Nathan is associated with the color red (his jacket and his car), which can symbolize a number of things including danger, rage, wrath and stress as well as passion, longing, lust, sensitivity and action. Nathan is most obviously characterized by his blatant aggression and stress and paranoid behavior, as signified by red. The circumstances of the pressure placed on him by his family name and several other people can also be presumed to be reflected by the color. He also strives to emulate Mark Jefferson's photography. The color red also represents lust which Nathan has for Rachel. His coat can also symbolize the fact that he is a "red herring", for Mr. Jefferson.
+
+Red is considered a particularly "emotionally intense" color that "increases respiration rate" and "raises blood pressure".[https://resources.oncourse.iu.edu/access/content/user/rreagan/Filemanager_Public_Files/meaningofcolors.htm Resource site] listing the symbolism of several colors, including red. This is a testament to Nathan's anxiety and quick-to-anger attitude, as well as the previously mentioned danger in relation to his personality.
+
+###  Spirit Animal 
+It's discussed whether the whale could be Nathan's spirit animal. This is due to the fact that Nathan listens to whale songs, and also, the deaths of the whales in Arcadia Bay could have been foreshadowing to the death of the Prescott heir. Check out these articles for more information on the Spirit Animal Whale: http://www.spiritanimal.info/whale-spirit-animal, http://www.spirit-animals.com/whale/
+
+##  Memorable Quotes 
+{{Quote|Whatthefuckever.|Nathan to [Maxine Caulfield](max.md) in "[Episode 1: Chrysalis](chryslais.md)"}}
+{{Quote|You don't know who the fuck I am or who you're messing around with!|Nathan in "Chrysalis"}}
+{{Quote|Don't EVER tell me what to do. I'm so SICK of people trying to control me!|Nathan in "Chrysalis"}}
+{{Quote|Nobody, nobody lectures me. Everybody tries though... They try...|Nathan in "Chrysalis"}}
+{{Quote|Meow. Bring out the claws. I love seeing chicks fight.|Nathan in "[Episode 2: Out of Time](out_of_time.md)"}}
+{{Quote|Hey, that's total slander! I could sue you and this school so fast!... I already have a personal lawyer.|Nathan after Max blames him in "Out of Time"}}
+{{Quote|You don't know shit about my father, or me. Nobody here does!|Nathan if Max asks him about his [Sean Prescott](father.md) in "[Episode 3: Chaos Theory](chaos_theory.md)"}}
+{{Quote|Pussies cant fukin fite|Nathan's SMS to Max in "[Episode 4: Dark Room](dark_room.md)"}}
+{{Quote|Everybody hates me... everybody...|Nathan in "Dark Room"}}
+{{Quote|Max... it's Nathan. I just wanted to say... I'm sorry. I didn't want to hurt Kate, or Rachel, or... I didn't want to hurt anybody. Everybody... used me! Mr. Jefferson is coming for me now. All this shit will be over soon. Watch out, Max... He wants to hurt you next. Sorry.|Nathan's voicemail in "[Episode 5: Polarized](polarized.md)"}}
+{{Quote|Just because I’m mentally ill doesn’t mean I deserve to die, Max!|Nathan in [Max's Nightmare](max_s_nightmare.md)}}
+
+##  Theories 
+
+###  Discussed Theories 
+**Note: The following theories were developed prior to the release of Episode 5.**
+
+It was **speculated** that Nathan could be partially responsible for Rachel Amber's death, as well as her being drugged and photographed against her will, although it was currently unclear to what extent Nathan was involved in the situation.
+
+Nathan's jacket's (determinant) presence in the bunker may confirm that he was there some time after seeing the girls at the dormitory. We know that his father was on the way to the dormitory before the girls left. It was speculated that perhaps his father was there with him in the bunker and could be connected to the events; considering there are survival supplies in the bunker, and that there are receipts for the construction of the place in Sean's name, it seemed possible that he would know about the activities there.
+
+Nathan might not have been aware of Rachel's death, as he seemed surprised and happy to think she had returned when Max approached him wearing her clothes in the Two Whales Diner. It was considered possible that Jefferson is responsible, and that Nathan is oblivious. However, Nathan is also described by a psychiatrist as having mental disorders. This could also be escalated by his drug use and could cause him to be detached from reality. He may have been in too much shock to process her death even if he did witness it. Alternatively, he may have thought he only sedated Rachel when Mark knew Rachel was already dead from Nathan's overdose and Mark hid the truth from Nathan to keep him around longer and keep him from turning himself in to the police.
+
+It was considered rather certain that Nathan drugged both Kate and Chloe, which is evident by their memories and the photo taken of Chloe found in Nathan's room, but that he probably would not be responsible for what happened to them eventually. It was speculated that Nathan was used by Mr. Jefferson to drug girls for his purposes.
+
+It was also speculated that Nathan was drugged for the photo taken of him and Rachel in American Rust, and, after realizing the danger of the situation that he is in, requested for safety from his parents which may explain both the thank-you letter from Nathan's father to David Madsen and his surveillance of Nathan (and maybe also Kate), and the fact that [Anderson Berry](officer_berry.md) has stated, while talking to Max in the diner, that he watches over Nathan while he is at Blackwell under the Prescott's orders.
+
+Another theory was that Nathan even knew Rachel pretty well. The fact that Nathan became involved as a sort of protégée of Mr. Jefferson and knew about Rachel's posing for him could be why Jefferson also drugged Nathan and took photos of Nathan with Rachel and later killed her (she planned to leave the town anyway and Nathan is too important, killing him far too risky). The "Rachel in the Dark Room" drawing and his entire over-stressed, aggressive and unstable behavior could be a hint to him being traumatized by having experienced something horrible linked to Rachel and now having PTSD. Maybe he even tried to save Rachel and since then had been forced by Jefferson to help him by drugging girls. However, it was presumed that his unstable condition, including making those drawings, behaving uncontrollably in lessons and visiting a therapist is all caused by those horrible experiences. That also was considered an explanation for him owning a gun and being under surveillance, regarding what kind of danger he was. Given the principal would really be connected to the Dark Room events, then it could be that was also put under pressure by Jefferson or/and Nathan's father to hide all traces of Nathan's strange behavior, as Jefferson is as well an influential person at Arcadia Bay and especially Blackwell.
+
+It's also speculated that the twitch-causing side-effects of the Risperidone Nathan is on caused him to shoot Chloe by accident. It is shown after Nathan shoots Chloe, he immediately regrets it, saying, "Oh... Shit! No, no, no, no...", while he bends down and shakes Chloe. In Episode 5, if Max has chosen to sacrifice Chloe in order to fix the timeline, Nathan is seen repeatedly bending down to shake Chloe before he is later shown being arrested and confessing his actions to the police.
+
+It was also speculated that Jefferson stole Nathan's phone to text the girls in order to lure them to American Rust after killing Nathan to blame the past and following deaths on him, explaining why Nathan didn't even show up anywhere or even at the Vortex Club Party after encountering Max, Chloe and Warren in the boys' dormitories. This also would explain why the informal language Nathan generally uses in his texts is not present in the text Chloe shares with Max.
+
+###  Current Theories 
+It's speculated that Nathan wasn't involved with Rachel's death and that Jefferson just tried to blame his fault on Nathan like he claimed Nathan would have shot Chloe earlier (which we know is not true). However, an [Media:444px-LiS5-NathanMessage.png](unused_letter.md) that was intended for Episode 5 shows Nathan admitting to Jefferson (who has been angry and avoiding him for a few months), "Yes, I know I fucked up with R." If this letter had been included in the game, this would have been strong evidence towards disproving the fan theory of Nathan not being the cause of Rachel's death.
+
+Another theory, that is supported by [Unused Audios](unused_audio_files.md), is that Nathan knew about the coming storm. But how he could've known about the storm is unclear. It is possible that he experienced visions of the tornado as Max did. However, his mental instability and vocal proclamations that everyone is "gonna die" would likely lead to people passing off these visions as psychotic episodes.
+One of the game directors later confirmed in an interview that it was thought to be in Episode 5, but was scrapped pre-release because it didn't make enough sense story-wise and there weren't enough hints to this before the final episode.[https://www.youtube.com/watch?v=xhxh3Iy_3Ic Life Is Strange Spoilercast - Kinda Funny Gamescast Special]
+
+There are differences between the original and alternative timeline strongly related to color symbolism. Nathan appears to be more relaxed in the alternative timeline; he no longer wears the color red, disassociating him from the rage and stress in the original timeline. This might imply that he isn't involved in Mr. Jefferson's deeds in this timeline and the relationship to his father is much better compared to the original timeline. It is unknown why Chloe's father surviving leads to this outcome for Nathan, however.
+
+##  Inconsistencies 
+{{Main|Inconsistencies (Life is Strange)}}
+* Despite the fact that Max mentions Nathan is 19 in her journal entry about him, his school file states that he was born on August 29, 1995, making him 18 years old. This could be explained by Max simply being misinformed, as she did not know Nathan well beforehand.
+* Although we know that Nathan's father is named "Sean" on his Blackwell Academy report, other names seem to be listed. Sean Prescott's signature on Nathan's Best Son Certificate doesn't equal that on his school report.
+*If Max gets Nathan suspended by reporting him for having a gun in the girls' bathroom and blaming him for Kate's suicide/suicide attempt in the Principal's office, Principal Wells will tell Nathan that he is suspended. However, from there onwards, several of the characters who talk about Nathan's suspension will use the word expelled instead of suspended, and Max does not question this.
+*In Episode 1 and in [Investigation Files](david_s_files.md), Nathan's vehicle is a red 4x4 truck with a license plate of SXFTNDR. In Episode 4, before Max and Chloe attend the End of the World Party, a truck bearing the same license plate is parked on the parking lot, but it is green in color. It is also the same model.
+
+nathan-green-truck.png
+
+##  Trivia 
+* Nathan's dorm number is 111.
+* Nathan has the same zodiac sign as [Maxine Caulfield](max.md), Virgo.
+* According to the school file Max finds in the principal's office, his GPA is 3.7. Notably, this school file has been modified as per Sean Prescott's command to ignore any of his son's mishaps and instead portray Nathan in a positive light.
+* He calls Max a variety of offensive names including Feminazi, Dyke, Max Cockfield, Max Crackfield, Max Amber (in mocking her borrowed clothes).
+* In Episode 4, his room door slate originally stated "THE PRESCOTTS RULE THIS TOWN!!!". On the Limited Edition version that was released on January 19, 2016, it was replaced with "LEAVE ME ALONE".
+* On his room's wall hangs a Best Son in the World Diploma from June 6, 2006, and signed by his father. 666 is considered the "Number of the Beast" in the Book of Revelations.
+* He has stolen one of Max's selfies and it's now hanging in his dorm, it's unknown why he did this. (This is determinant on whether Max reported Nathan in the first episode.)
+* Documents from [Principal Wells' Computer](principal_wells__computer.md) reveal that at some point, for unknown reasons, Nathan attempted to steal the [Tobanga](tobanga.md) from school grounds. He had also been threatening the school janitor, Samuel, which could be connected to his attempted theft.
+* Nathan's gun is a gift from an unknown source, presumably his father or Mr. Jefferson.
+* Nathan's camera likely is a Sony NEX 7 (as seen in the diner in "Chaos Theory").
+* Nathan's mobile phone code is 0829 (his date of birth, the 29th of August).
+* He listens to whale songs, probably to calm himself.
+* He took photos both of the dying birds and the dying whales, which could be a hint for him being involved with the events. It's possible that there's even a connection to the Whale Song CD in his room, making the whale connected to his character.
+* He loves taking morbid and dark pictures from dead animals or depressing environments, but these still have an artistic style which Max is impressed by.
+* If Max warned Victoria successfully in Episode 4, and she got kidnapped by Jefferson, Max will find Victoria's bracelet on a shelf in the Dark Room after David saved her. Max comments on it, "I bet Jefferson was going to use that to frame Nathan..."
+* He seems to be traumatized by violence. If Max doesn't stop Warren from beating up Nathan, he starts crying on the floor, begs for Warren to stop and apologizes. This could have to do with the fact he's traumatized by Rachel's death.
+* Nathan has access to the Dark Room with or without Jefferson, as demonstrated by the key code he has written down on a [Media:Note4-invN1-numbers.png](scrap_of_paper.md) in underlined red pen - a scrap Max later finds when she breaks into his dorm room.
+
+###  Nathan's Photography 
+
+nathanroom-photo1.png|Photo from Nathan's bed.
+nathanroom-photo2.png|Photo #2 from Nathan's bed.
+nathanroom-pompidou.png|Picture of Pompidou (determinant).
+

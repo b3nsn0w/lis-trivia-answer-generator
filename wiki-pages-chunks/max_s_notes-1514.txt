@@ -1,0 +1,84 @@
+Here is a section of the wiki page for Max's Notes:
+
+[File:note3-madsengarage-notetodavid2.png](220px.md)
+|-
+|'''David's padlock.'''
+Location: David's garage.
+Max's comments: Naturally David would buy a heavy duty military padlock...
+|style"height:186px; vertical-align:top"|Look# [File:note3-madsengarage-padlock.png](220px.md)
+|-|ReadNone
+|-
+|'''David's padlock combination.'''
+Location: David's garage.
+Max's comments: I can even see the combination... That might be a useful password...
+|style# "height:186px; vertical-align:top"|Look[File:note3-madsengarage-padlockcombo.png](220px.md)
+|-|Read# [File:note3-madsengarage-padlockcombo2.png](220px.md)
+|-
+|**Two Whales Diner receipt (back).**
+Location: Sun visor of David's car.
+Max's comments: Joyce might as well have wrote, "Let's get married"...
+|style"height:186px; vertical-align:top"|Look# [File:note3-madsengarage-receiptback.png](220px.md)
+|-|Read[File:note3-madsengarage-receiptback2.png](220px.md)
+|-
+|**Two Whales Diner receipt (front).**
+Location: Sun visor of David's car.
+Max's comments: That might be a useful password...
+|style# "height:186px; vertical-align:top"|Look[File:note3-madsengarage-receiptfront.png](220px.md)
+|-|Read# [File:note3-madsengarage-receiptfront2.png](220px.md)
+|-
+|'''Rachel's profile.'''
+Location: Screen of David's laptop.
+Max's comments: Whoa, spoiler alert! Rachel definitely hooked up with Frank... But why does David care?
+|style"height:186px; vertical-align:top"|Look# [File:note3-madsengarage-rachelprofile.png](220px.md)
+|-|Read[File:note3-madsengarage-rachelprofile2.png](220px.md)
+|-
+|'''Kate's profile.'''
+Location: Screen of David's laptop.
+Max's comments: Instead of stalking Kate, David could have helped her....
+|style# "height:186px; vertical-align:top"|Look[File:note3-madsengarage-kateprofile.png](220px.md)
+|-|Read# [File:note3-madsengarage-kateprofile2.png](220px.md)
+|-
+|'''Max's profile.'''
+Location: Screen of David's laptop.
+Max's comments: This is so wrong... Creepy bastard.
+|style"height:186px; vertical-align:top"|Look# [File:note3-madsengarage-maxprofile.png](220px.md)
+|-|Read[File:note3-madsengarage-maxprofile2.png](220px.md)
+|-
+|**Issue of "[The Independent](the_independent.md)".**
+Location: Kiosk outside the [Two Whales Diner](two_whales_diner.md).
+Max's comments: Oh God, that is so embarrassing. I'm gonna get trolled hard.
+Notes: Appears if Kate is alive.
+|style# "height:186px; vertical-align:top"|Look[File:note3-diner-independent-alive.png](220px.md)
+|-|Read# [File:note3-diner-independent-alive2.png](220px.md)
+|-
+|**Issue of "The Independent" (alternate).**
+Location: Kiosk outside the Two Whales Diner.
+Max's comments: Yes, another great day in Arcadia Bay.
+Notes: Appears if Kate is dead.
+|style"height:186px; vertical-align:top"|Look# [File:note3-diner-independent-dead.png](220px.md)
+|-|Read[File:note3-diner-independent-dead2.png](220px.md)
+|-
+|**"Go Ape" flyer.**
+Location: Near the entrance of the Two Whales.
+Max's comments: **Accepted invitation: **"That will be fun to take a road trip to the drive-in with Warren... Max needs more fun."**Refused invitation: **"It does look like fun... I'm just not in "fun mode" right now... Poor Warren."
+|style# "height:186px; vertical-align:top"|Look[File:note3-diner-goape.png](220px.md)
+|-|Read# [File:note3-diner-goape2.png](220px.md)
+|-
+|**Fishing Wall of Fame.**
+Location: Inside the diner.
+Max's comments: Forgot about the Fishing Wall O' Fame...
+|style"height:186px; vertical-align:top"|Look# [File:note3-diner-fishingwall.png](220px.md)
+|-|Read[File:note3-diner-fishingwall2.png](220px.md)
+|-
+|**Book about web business.**
+Location: On Frank's bed inside [frank's RV](his_rv.md).
+Max's comments: Is Frank going to deal online now?
+|style# "height:186px; vertical-align:top"|Look[File:note3-frankrv-frankbook.png](220px.md)
+|-|Read# [File:note3-frankrv-frankbook2.png](220px.md)
+|-
+|**Photo of [Rachel Amber](rachel.md) and [Pompidou](pompidou.md).**
+Location: Inside a vent in Frank's RV.
+Max's comments: Oh man, Rachel and Frank's dog...
+|style"height:186px; vertical-align:top"|Look# 
+
+Generate five trivia questions relevant to this section of the page.

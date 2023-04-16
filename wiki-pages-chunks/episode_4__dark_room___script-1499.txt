@@ -1,0 +1,145 @@
+Here is a section of the wiki page for Episode 4: Dark Room - Script:
+
+## **Optional Conversation with Brooke**# 
+
+**Max:** Hello, Brooke.
+
+**Brooke:** Max, I didn't expect to see you at a Vortex Club party.
+
+**Max:** I didn't expect that either, but I really need to find Nathan. Have you...
+
+**Brooke:** No, I haven't seen him. And I'm not looking for him, so I most likely won't tonight. I just hate that scrub... and his club.
+
+Not the only one.Not the only one.
+
+**Max:** You're not the only one. Maybe this party will be the "End Of The Vortex Club"...
+
+**Brooke:** Then I don't have to pretend like I care anymore.
+
+|-|Why are you here?# Why are you here?
+
+**Max:** So why are you here tonight?
+
+**Brooke:** No homework. Boredom. Waiting.
+
+**Max:** Have you seen Warren tonight?
+
+(Max has a date with Warren)(Max has a date with Warren)
+
+{{#tag:tabber|(Daniel attended the party)# (Daniel attended the party)
+
+**Brooke:** No, I was talking to Daniel... he asked me to go with him to the Portland Art Museum this weekend...
+
+**Max:** Oh, that is so sweet. I bet Daniel will be a great museum guide...
+
+**Brooke:** I'm more into science than art, but what kind of a selfish fangirl would miss a Miyazaki exhibition?
+
+{{!}}-{{!}}(Daniel didn't attend the party)(Daniel didn't attend the party)
+
+**Brooke:** Why? You're the one going out with him.
+
+**Max:** Brooke, enough. I'm sorry Warren asked me to the movies, but you don't need to give me an attitude. I'd like to think I'm your friend.
+
+**Brooke:** I know... I get salty when things don't go my way. I'm selfish, while you go on a roof to help save your friend.
+
+}}
+
+|-|(Brooke has a date with Warren)# (Brooke has a date with Warren)
+
+{{#tag:tabber|(Daniel attended the party)(Daniel attended the party)
+
+**Brooke:** No, but we're going to map out our drive-in date later. I was just talking to Daniel about a road trip next week to the Portland Art Museum.
+
+**Max:** Oh, that is so cool. He needs a friend. I bet Daniel will be a great museum guide...
+
+**Brooke:** I'm more into science than art, but what kind of a selfish fangirl would miss a Miyazaki exhibition?
+
+{{!}}-{{!}}(Daniel didn't attend the party)# (Daniel didn't attend the party)
+
+**Brooke:** I will. He left already, but we're going to map out our drive-in date later. Warren wants to go to dinner first, so that'll be fun. Is that cool with you, Max?
+
+**Max:** Yes, it's great. Brooke, I'm happy for you. And Warren. I'd like to see you happy instead of waiting.
+
+**Brooke:** Thanks, Max. Though I feel selfish talking about a boy, considering Kate and the Arcadia Bay eco-meltdown...
+
+}}
+
+**Max:** You're not selfish, Brooke. You're just trying to live your life without all this bullshit. Like all of us here...
+
+**Brooke:** You seem so wise and... kind of invincible this week. I think that snow and eclipse gave you superpowers. Check to see if you can fly.
+
+Double moon.Double moon.
+
+**Max:** Only with your drone. By the way, did you see that crazy double moon out there earlier?
+
+**Brooke:** Max, if I saw a double moon out there, I would assume it really was the end of the world.
+
+|-|Superpowers.# Superpowers.
+
+**Max:** I don't think having superpowers would make my life easier... with great power comes great bullshit.
+
+**Brooke:** I don't know. It would be pretty kick-ass to battle supervillains over Arcadia Bay...
+
+**Max:** Well, the night is still young, Brooke.
+
+**Brooke:** And so are we, Max. So let's plan a drone date next week.
+
+#
+
+## **Optional Conversation with Luke**# 
+
+**Max:** Luke, I almost didn't see you.
+
+**Luke:** Max, you're the only person I don't mind seeing right now.
+
+**Max:** I was looking for Nathan...
+
+**Luke:** I've avoided almost everybody here tonight. Uh, why are you looking for Nathan?
+
+No big deal.No big deal.
+
+**Max:** No big deal.
+
+**Luke:** Really? You look pretty fucking intense. Is Nathan bothering you?
+
+|-|Dangerous.# Dangerous.
+
+**Max:** I wanted to make sure he's not going to... do anything tonight.
+
+**Luke:** Like what happened to Kate...
+
+(Warren beat up Nathan)(Warren beat up Nathan)
+
+**Luke:** Oh wait, I did see Nathan today, nursing a busted face. I had dreams that somebody finally kicked his ass...
+
+**Max:** Luke, sometimes dreams come true. Warren gave him an epic beatdown.
+
+|-|(Warren didn't beat up Nathan)# (Warren didn't beat up Nathan)
+
+**Luke:** I have dreams that somebody finally kicks his ass one day.
+
+**Max:** Luke, sometimes dreams come true. Today I saw Warren give Nathan an epic headbutt.
+
+**Luke:** Yes! Give it up for brother Warren! Now all we have to do is drive all these goddamn Prescott vampires out of town.
+
+Sean Prescott.Sean Prescott.
+
+**Max:** I think Sean Prescott wants to drive all of us out of town... or into Pan Estates.
+
+**Luke:** I met him once at a Bigfoots game... mean fucking bastard. Oh man, he explains Nathan.
+
+|-|Vortex Club.# Vortex Club.
+
+**Max:** That will be hard to do when the Prescotts own the town... and the Vortex Club.
+
+**Luke:** I call it the "Vortex Cult." Look at this crap... dress code? VIP section? Elitist bullshit.
+
+**Max:** Preach it, brother Luke. Okay, I have to get going. Thanks for seeing me...
+
+**Luke:** No, thank you. For helping Kate. And for keeping it real. Peace out.
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

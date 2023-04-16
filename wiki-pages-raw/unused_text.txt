@@ -1,0 +1,379 @@
+= Unused Text =
+
+{{Stub}}The following '''Unused Text''' is found in the subtitle strings within the localization files. This includes unused dialogue or letters.
+
+== Letters ==
+Two letters located in [[Nathan Prescott]]'s [[Nathan's Room|dorm room]] in [[Episode 4: Dark Room|Episode 4]] were removed from the game.
+
+=== Jefferson's Letter ===
+(E4_5A_NathanRoom_JeffersonLetter_SP01)
+ Dear [[Sean Prescott|Mr. Prescott]],
+ 
+ As a photography teacher at [[Blackwell Academy]], it’s my privilege to meet many talented 
+ and ambitious students who I believe will all reach their goals in one way or another. 
+ This is a realistic view of today’s highly limited and competitive art market -- and a 
+ pragmatic POV I stress in my lectures. I can say with as much validity as my awards and 
+ experience are worth to you, that Nathan Prescott has one of the finest eyes for 
+ photography I’ve ever encountered at Blackwell. Talent without passion or commitment 
+ can be a great hobby, but not a career. To be blunt, Nathan has been very lax this 
+ semester about turning in his assignments and his erratic behavior in class has been 
+ noted by faculty and students. 
+ 
+ Even though Nathan is a legal adult, I feel that as his father and Blackwell 
+ benefactor, you know your son better than anybody here and would appreciate the spirit 
+ of my concern for his well-being. On the academic side, Nathan must turn in all of his
+ remaining assignments for his portfolio within two weeks in order to pass the class and 
+ retain his excellent GPA. 
+ 
+ Thank you for your time and I’m always available to talk if you have any questions. 
+ 
+ Best, 
+ [[Mark Jefferson]]
+
+'''[[Maxine Caulfield|Max Caulfield]]'s comment:''' ''"Damn, Mr. Prescott sure doesn’t own Mr. Jefferson...yet. Does he think Nathan has a better eye than me?"'' (Act_E4_5A_NathanRoom_JeffersonLetter_Max_010)
+
+=== Wells' Letter ===
+(E4_5A_NathanRoom_WellsLetter_SP01)
+ Dear Nathan,
+ 
+ I wanted to drop you a note to say that if you’re having any issues with classes or 
+ [[Prescott Dormitory|dorm]] life, you can always come to my office, or I can recommend wiser folks than 
+ myself to lend a helping ear. I’d like to think you know I have your best interests 
+ at heart despite some our of past disagreements.
+ 
+ Blackwell Academy should bring out the best in our students and vice versa, so if you 
+ feel that isn’t the case, let’s work together to find the right solution. I know 
+ school can be a challenging time in a young person’s life (especially given your 
+ Prescott legacy) but you have many options available here at Blackwell.
+  
+ Again, please drop by anytime if you’d like to discuss this in person and of course, 
+ our conversation would be strictly confidential.
+  
+ Sincerely
+ [[Raymond Wells|Ray Wells]]
+
+'''Max's comment:''' ''"Well, at least Principal Wells tried to help Nathan...without letting his dad know..."'' (Act_E4_5A_NathanRoom_WellsLetter_Max_010)
+
+== Posters ==
+=== Nathan's Poster ===
+(E4_5A_NathanRoom_ExhibitionPoster_SP01)
+
+Text to describe a poster seen on display in Nathan's room does not display on the poster when looking at it. Only stylized lines can be seen which symbolize additional text.<ref group="note">This line = text conclusion is based on the presentation of other posters in the game that, upon closer inspection, can reveal text where the lines are.</ref> 
+The unused text could have been intended for the poster to originally appear as a [[Max's Notes|note]] rather than something Max just comments on as she does in the game.
+
+'''Unused poster text:''' "The New Romantics \nImage & Design in 80's Pop Art\nPortland Center For The Arts\nOctober 20-31, 2009."
+<ref>Localization file name: E4_5A_NathanRoom_ExhibitionPoster_SP01.</ref>
+<gallery widths="200px" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+LiS1-NewRomantics_poster-01.png
+LiS1-NewRomantics_poster-02.png
+</gallery>
+
+== Dialogue ==
+=== Episode 3 Campus ===
+
+'''Max (thinking):''' I do need a break from the [[Chloe Price|Chloe]] Rollercoaster... And I just want to help her...
+
+''Mr. Jefferson crosses Max's path when she is on her way back to dorm.''
+
+'''Jefferson:''' Max, can I talk to you for a moment?
+
+'''Max:''' Uh, sure, Mr. Jefferson.
+
+<tabber>(Saved Kate)=<h5 style="display:none">(Saved Kate)</h5><blockquote>
+
+'''Jefferson:''' I just wanted to remind you how proud we all are of you for helping [[Kate Marsh|Kate]].
+
+'''Max:''' Thanks, but I didn't do much. She just needed somebody with her...
+
+'''Jefferson:''' You are truly modest, Max. Aside from the selfies. But give yourself some credit. Hey, you alright?
+
+</blockquote>
+
+|-|(Didn't save Kate)=<h5 style="display:none">(Didn't save Kate)</h5><blockquote>
+
+'''Jefferson:''' I just wanted to see how you were doing.
+
+'''Max:''' I'm okay. It's hard to focus on much after what happened...
+
+'''Jefferson:''' I know. I'm truly sorry for [[Kate Marsh|Kate]] and that you all had to see that. If you want, there are counselors available.
+
+</blockquote>
+
+</tabber>
+
+'''Max:''' I just feel weird about what happened in the Principal's office yesterday...
+
+<tabber>(Accused Jefferson)=<h5 style="display:none">(Accused Jefferson)</h5><blockquote>
+
+'''Jefferson:''' When you accused me of making Kate cry?
+
+{{#tag:tabber|Yeah.=<h5 style="display:none">Yeah.</h5><blockquote>
+
+'''Max:''' Yeah... I feel shitty about you not getting to do the "[[Everyday Heroes Photo Contest|Everyday Hero]]" contest... Do you hate me now?
+
+'''Jefferson:''' Honestly, Max? I was burned out on the contest. You think I'm a pretentious artist here, imagine me in [[San Francisco]]... I'm still rooting for you though.
+
+'''Max:''' Thanks, Mr. Jefferson. But a career in photography seems as far away now as San Francisco... I'm just not confident.
+
+</blockquote>
+
+{{!}}-{{!}}No.=<h5 style="display:none">No.</h5><blockquote>
+
+'''Max:''' No... but I don't know why I did that...
+
+'''Jefferson:''' Max, if I was as confused as you I might have done the same thing. But I honestly only tried to help Kate.
+
+{{#tag:tabber|I saw you with Victoria.=<h5 style="display:none">I saw you with Victoria.</h5><blockquote>
+
+'''Max:''' I also saw you and [[Victoria Chase|Victoria]] talking last night...
+
+'''Jefferson:''' Who needs a surveillance system when you have Max Caulfield and her camera eye? And, it's none of your business.
+
+</blockquote>
+
+{{!}}-{{!}}How did you help Kate?=<h5 style="display:none">How did you help Kate?</h5><blockquote>
+
+'''Max:''' How did you try to help Kate? She ran away crying...
+
+'''Jefferson:''' Max, I'm not an "Everyday Hero." I just tried to help Kate, but she didn't want my advice, okay?
+
+</blockquote>
+
+}}
+
+'''Jefferson:''' You might be the nosiest student in the history of Blackwell.
+
+'''Max:''' I know, I know, it's a bad habit.
+
+</blockquote>
+
+}}
+
+</blockquote>
+
+|-|(Accused Nathan successfully)=<h5 style="display:none">(Accused Nathan successfully)</h5><blockquote>
+
+'''Jefferson:''' You mean getting [[Nathan Prescott]] expelled?
+
+'''Max:''' Yes. And now, I expect him to come after me...
+
+{{#tag:tabber|(Reported Nathan)=<h5 style="display:none">(Reported Nathan)</h5><blockquote>
+
+'''Jefferson:''' Since you reported him for having a gun as well, I want you to be careful around here. Not to scare you.
+
+</blockquote>
+
+{{!}}-{{!}}(Hid the truth)=<h5 style="display:none">(Hid the truth)</h5><blockquote>
+
+'''Jefferson:''' Well, I think Nathan is more bark than bite. Don't let him scare you.
+
+</blockquote>
+
+}}
+
+'''Max:''' Too late. I'm not always that brave.
+
+</blockquote>
+
+|-|(Accused Nathan unsuccessfully)=<h5 style="display:none">(Accused Nathan unsuccessfully)</h5><blockquote>
+
+'''Jefferson:''' You mean accusing [[Nathan Prescott]] of drugging Kate?
+
+'''Max:''' He drugged Kate. I know it.
+
+{{#tag:tabber|(Reported Nathan)=<h5 style="display:none">(Reported Nathan)</h5><blockquote>
+
+'''Jefferson:''' Since you reported him for having a gun as well, I want you to be careful around here. Not to scare you.
+
+</blockquote>
+
+{{!}}-{{!}}(Hid the truth)=<h5 style="display:none">(Hid the truth)</h5><blockquote>
+
+'''Jefferson:''' Well, I think Nathan is more bark than bite. Don't let him scare you.
+
+</blockquote>
+
+}}
+
+'''Max:''' Too late. I'm not always that brave.
+
+</blockquote>
+
+|-|(Accused David successfully)=<h5 style="display:none">(Accused David successfully)</h5><blockquote>
+
+'''Jefferson:''' About [[David Madsen]] losing his Blackwell privileges?
+
+'''Max:''' He deserved it. So why do I feel guilty?
+
+'''Jefferson:''' Because you have a good heart, Max. Nothing to feel guilty about. But don't waste that feeling on Madsen. Pardon my French, but he's fucking asshole. Don't let him scare you.
+
+'''Max:''' Too late. I'm not always that brave.
+
+</blockquote>
+
+|-|(Accused David unsuccessfully)=<h5 style="display:none">(Accused David unsuccessfully)</h5><blockquote>
+
+'''Jefferson:''' When you accused [[David Madsen]] of bullying Kate?
+
+'''Max:''' Yes. Even though he absolutely did.
+
+'''Jefferson:''' I absolutely believe you-as you can tell, I'm not a fan of his work. Don't let him scare you.
+
+'''Max:''' Too late. I'm not always that brave.
+
+</blockquote>
+
+</tabber>
+
+'''Jefferson:''' I hope that's not a fatal character flaw... Wouldn't want to deprive the art world of your vision.
+
+<tabber>My selfies?=<h5 style="display:none">My selfies?</h5><blockquote>
+
+'''Max:''' Oh, you mean my silly retro selfies? The art world would only laugh.
+
+</blockquote>
+
+|-|Me neither.=<h5 style="display:none">Me neither.</h5><blockquote>
+
+'''Max:''' Me neither. It just seems like another world.
+
+</blockquote>
+
+|-|What "vision"?=<h5 style="display:none">What "vision"?</h5><blockquote>
+
+'''Max:''' What "vision"?
+
+</blockquote>
+
+</tabber>
+<tabber>(Max got suspended)=<h5 style="display:none">(Max got suspended)</h5><blockquote>
+
+'''Jefferson:''' Once you get back from your suspension, we're going to talk about your future in photography, cool?
+
+</blockquote>
+
+|-|(Max didn't get suspended)=<h5 style="display:none">(Max didn't get suspended)</h5><blockquote>
+
+'''Jefferson:''' We need to sit down soon and talk about your future in photography, cool?
+
+</blockquote>
+
+</tabber>
+
+'''Max:''' It's so hard for me to see the future when I'm always looking backwards...
+
+'''Jefferson:''' Regret and nostalgia can be a dangerous combo. You can't change the past, Max. You just have to accept your choices and "walk on." Which is my clever exit cue.
+
+=== "Rough Cut" Dialogue ===
+Some very rough dialogue labeled "Cue_E5_6A_Parking_CHChloe_Phase01" exists for the "[[Blackwell Parking Lot|Parking Lot]] - Focus" chapter within the subtitle files. No audio exists for this "rough cut". The dialogue contains spelling errors along with pacing and grammatical issues that suggest it may have been written by somebody whose first language is not English and somebody who may not have performed an official writing role. This rough scene may have been written as a guide for the [[Christian Divine|writer]] to polish up into the impactive dialogue we now hear in the game. The full block of dialogue is as follows (Note that Cue_E5_6A_Parking_CHChloe_Phase01_[Max/Chloe]_003 to 005 is missing):
+
+''This is a direct copy and paste from the game's text files. For better readability select the "improved readability" tab, which has been formatted and has improvements noted with brackets. (Note to wiki editors: Please do not correct any issues you see within the below text.)''
+
+<tabber>
+|-|Original Script=<h5 style="display:none">Original Script</h5>
+*Cue_E5_6A_Parking_CHChloe_Phase01_Max_001="Chloe! I missed you o much!"
+*Cue_E5_6A_Parking_CHChloe_Phase01_Chloe_002="Max, Rachel is dead! No time for hugs, I need to fucking kill Nathan!"
+*Cue_E5_6A_Parking_CHChloe_Phase01_Max_006="Mr.Jefferson killed him, he is the real threat."
+*Cue_E5_6A_Parking_CHChloe_Phase01_Max_007="Chloe, you need to ear me, your revenge will get you killed!"
+*Cue_E5_6A_Parking_CHChloe_Phase01_Chloe_008="What? He said he would be at the party, I'm gonna get him!"
+*Cue_E5_6A_Parking_CHChloe_Phase01_Chloe_009="I need it max! Rachel needs to be venged! I'm going in!"
+*Cue_E5_6A_Parking_CHChloe_Phase01_Max_010="Chloe, you'll have to trust me!"
+*Cue_E5_6A_Parking_CHChloe_Phase01_Max_011="Remember when I took hte blame for the joint!"
+*Cue_E5_6A_Parking_CHChloe_Phase01_Max_012="And two days ago, I stepped with you and David was kicked out of the house. I've always be here for you the last days! Can't you just understand it and let me take care of you?"
+*Cue_E5_6A_Parking_CHChloe_Phase01_Max_013="I've always be here for you the last days! Can't you just understand it and let me take care of you?"
+*Cue_E5_6A_Parking_CHChloe_Phase01_Max_014="Two days ago, I stepped with you and David was kicked out of the house."
+*Cue_E5_6A_Parking_CHChloe_Phase01_Max_015="I know you haven't seen it much but all the things I did in the last days were to protect you! "
+*Cue_E5_6A_Parking_CHChloe_Phase01_Chloe_016="Yea, it doesn't seems fair to me! "
+*Cue_E5_6A_Parking_CHChloe_Phase01_Chloe_017="Yea, like without the step-douche Rachel will be alright?"
+*Cue_E5_6A_Parking_CHChloe_Phase01_Max_018="Please, give me your gun, and I'll explain everything..."
+*Cue_E5_6A_Parking_CHChloe_Phase01_Max_019="Chloe, please, take my hand. I know this is hard. But it's harder for me to see you die again..."
+*Cue_E5_6A_Parking_CHChloe_Phase01_Max_020="You know, I've modified the past... William was alive but you... you... You asked me to kill you because you couldn't handle it anymore... Please Chloe... I want this timeline to be the one where I save you!"
+*Cue_E5_6A_Parking_CHChloe_Phase01_Chloe_021="Max, you can't ask me that! I don't want to abandon Rachel..."
+*Cue_E5_6A_Parking_CHChloe_Phase01_Chloe_022="You only supported me when it was easy! I'm not gonna let him go like that!"
+*Cue_E5_6A_Parking_CHChloe_Phase01_Chloe_023="No Max, during all this week, you've only think off youself! You never supported me!"
+*Cue_E5_6A_Parking_CHChloe_Phase01_Max_024="Rachel woudn't like you to die like that! Chloe I've seen you... If you go there, it's like your abandoning me... Please don't let me see this again!"
+*Cue_E5_6A_Parking_CHChloe_Phase01_Max_025="Chloe, now is your time to think about the futur! Not the past! Try to move on, I beg you!"
+*Cue_E5_6A_Parking_CHChloe_Phase01_Chloe_026="Just move on? Seriously? My life has been a nightmare for 5 years! I want this to end my way!"
+*Cue_E5_6A_Parking_CHChloe_Phase01_Chloe_027="There has to be an other way to kill this bastard and you to keep me alive! You have to try!"
+*Cue_E5_6A_Parking_CHChloe_Phase01_Chloe_028="Dad? How could my life be better with Step douche taking the place of my father!"
+*Cue_E5_6A_Parking_CHChloe_Phase01_Max_029="Chloe, you didn't see what happened to me... you don't know what I had to do to be here and try to save you... "
+*Cue_E5_6A_Parking_CHChloe_Phase01_Max_030="Chloe, this is the only choice I have. Don't say that you'd rather die and live me alone!"
+*Cue_E5_6A_Parking_CHChloe_Phase01_Chloe_031="Like you leaved me alone when my father died? I needed you and you just left!"
+
+:'''Dialogue if Max ''fails'' to convince Chloe to come with her:'''
+*Cue_E5_6A_Parking_CHChloe_Phase01_Max_032="Chloe! come back! No I have to save her, I have to!"
+
+:'''Dialogue if Max ''succeeds'' to convince Chloe to come with her:'''
+*Cue_E5_6A_Parking_CHChloe_Phase01_Chloe_033="Max... I, I belive you.... Please, tell me everything."
+*Cue_E5_6A_Parking_CHChloe_Phase01_Max_034="In a few minutes I won’t remember anything I just said to you, you’ll have to explain to me everything back, just tell me I traveled through time through a photo again and I’ll believe you"
+*Cue_E5_6A_Parking_CHChloe_Phase01_Max_035="And this is important! Tell me not to tell anything to Victoria or she will warn Jefferson and get kidnapped too!"
+|-|Improved Readability=<h5 style="display:none">Improved Readability</h5>
+'''Max:''' "Chloe! I missed you o much!"<br/>
+'''Chloe:''' "Max, Rachel is dead! No time for hugs, I need to fucking kill Nathan!"<br/>
+'''Max:''' "Mr.Jefferson killed him, he is the real threat."<br/>
+'''Max:''' "Chloe, you need to [h]ear me, your revenge will get you killed!"<br/>
+'''Chloe:''' "What? He said he would be at the party, I'm gonna get him!"<br/>
+'''Chloe:''' "I need it max! Rachel needs to be [re]venged! I'm going in!"<br/>
+'''Max:''' "Chloe, you'll have to trust me!"<br/>
+'''Max:''' "Remember when I took [the]hte blame for the joint!"<br/>
+'''Max:''' "And two days ago, I stepped with you and David was kicked out of the house. I've always be here for you the last days! Can't you just understand it and let me take care of you?"<br/>
+'''Max:''' "I've always be here for you the last days! Can't you just understand it and let me take care of you?"<br/>
+'''Max:''' "Two days ago, I stepped with you and David was kicked out of the house."<br/>
+'''Max:''' "I know you haven't seen it much but all the things I did in the last days were to protect you!"<br/>
+'''Chloe:''' "Yea[h], it doesn't [seem] fair to me!"<br/>
+'''Chloe:''' "Yea[h], like without the step-douche Rachel will be alright?"<br/>
+'''Max:''' "Please, give me your gun, and I'll explain everything..."<br/>
+'''Max:''' "Chloe, please, take my hand. I know this is hard. But it's harder for me to see you die again..."<br/>
+'''Max:''' "You know, I've modified the past... William was alive but you... you... You asked me to kill you because you couldn't handle it anymore... Please Chloe... I want this timeline to be the one where I save you!"<br/>
+'''Chloe:''' "Max, you can't ask me that! I don't want to abandon Rachel..."<br/>
+'''Chloe:''' "You only supported me when it was easy! I'm not gonna let him go like that!"<br/>
+'''Chloe:''' "No Max, during all this week, you've only [thought] off you[r]self! You never supported me!"<br/>
+'''Max:''' "Rachel wou[l]dn't like you to die like that! Chloe I've seen you... If you go there, it's like [you're] abandoning me... Please don't let me see this again!"<br/>
+'''Max:''' "Chloe, now is your time to think about the futur[e]! Not the past! Try to move on, I beg you!"<br/>
+'''Chloe:''' "Just move on? Seriously? My life has been a nightmare for 5 years! I want this to end my way!"<br/>
+'''Chloe:''' "There has to be an other way to kill this bastard and you to keep me alive! You have to try!"<br/>
+'''Chloe:''' "Dad? How could my life be better with [s]tep[-]douche taking the place of my father!"<br/>
+'''Max:''' "Chloe, you didn't see what happened to me... you don't know what I had to do to be here and try to save you... "<br/>
+'''Max:''' "Chloe, this is the only choice I have. Don't say that you'd rather die and live me alone!"<br/>
+'''Chloe:''' "Like you [left] me alone when my father died? I needed you and you just left!"<br/>
+
+:'''Dialogue if Max ''fails'' to convince Chloe to come with her:'''
+'''Chloe:''' "Chloe! come back! No I have to save her, I have to!"<br/>
+
+:'''Dialogue if Max ''succeeds'' to convince Chloe to come with her:'''
+'''Chloe:''' "Max... I, I beli[e]ve you.... Please, tell me everything."<br/>
+'''Chloe:''' "In a few minutes I won’t remember anything I just said to you, you’ll have to explain [everything back to me], just tell me I traveled through time through a photo again and I’ll believe you"<br/>
+'''Max:''' "And this is important! Tell me not to tell anything to Victoria or she will warn Jefferson and get[s] kidnapped too!"<br/>
+</tabber>
+
+== Max's Journal ==
+TBA
+
+== Max's SMS ==
+TBA
+
+== Unusual File Labeling ==
+An unusual file labeling is present within the subtitle files for the "[[Zeitgeist Gallery|Art Gallery]]" and "Parking Lot - Focus" chapters:
+
+:'''Art Gallery:'''
+*Cue_E5_3B_ArtGallery_CHPrincipal_Phase01_Max'''Underwear'''_012="/!\ WARNING /!\ Text not localized : Cue_E5_3B_ArtGallery_CHPrincipal_Phase01_Max'''Underwear'''_012"
+
+:'''Parking Lot - Focus:'''
+*Cue_E5_6A_Parking_CHChloe_Phase01_Max'''Underwear'''_073="/!\ WARNING /!\ Text not localized : Cue_E5_6A_Parking_CHChloe_Phase01_Max'''Underwear'''_073"
+*Cue_E5_6A_Parking_CHChloe_Phase01_Max'''Underwear'''_081="/!\ WARNING /!\ Text not localized : Cue_E5_6A_Parking_CHChloe_Phase01_Max'''Underwear'''_081"
+
+== External Links ==
+*[https://tcrf.net/Life_is_Strange/Unused_text The Cutting Room Floor - Unused Text]
+
+== Notes ==
+<references group="note"/>
+
+== References ==
+<references />[[ru:Неиспользуемый текст]]
+
+[[Category:Unused Content]]
+[[Category:Special Content]]
+[[Category:Special Content (Life is Strange)]]
+[[Category:Behind the Scenes]]
+[[Category:Behind the Scenes (Life is Strange)]]
+[[Category:Life is Strange]]

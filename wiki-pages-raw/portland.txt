@@ -1,0 +1,61 @@
+= Portland =
+
+{{Stub}}
+{{Introquote|...I'll take you on a road trip to Portland for the day. We'll stock up on tats, beer, weed, and donuts!"<br>"And books from Powell's!"<br>"And strip clubs! Kidding. But, you never know...|Chloe and Max in "[[Episode 3: Chaos Theory|Chaos Theory]]"}}
+
+The city of '''Portland, OR''' is a recurring theme throughout ''[[Life is Strange]]''. [[Maxine Caulfield|Max Caulfield]] and [[Chloe Price]] dream of going there together one day.
+
+It is mentioned again in ''[[The Awesome Adventures of Captain Spirit]]'' and ''[[Life is Strange 2]]'', the second and third installments to the franchise created by [[Don't Nod]].
+
+== Mentions ==
+=== Life is Strange ===
+* [[Dr. Hedorah]], a meteorologist expert who gets interviewed by [[Weatherman|the weatherman]] on KBAY 7 News about the recent meteorological anomalies in [[Episode 3: Chaos Theory|Episode 3]] is from Portland.
+* If Kate survived, she and Max talk about having a tea-shop tour of Portland in [[Episode 4: Dark Room|Episode 4]]. A ticket for a trip to Portland can be found in Kate's [[Swimming Pool|swimming pool]] locker.
+[[File:Plane-ticket.png|thumb|180px|Plane ticket illustration.]]
+* A drawing in Max's diary confirms that the plane she takes to go to [[San Francisco]] in the San Francisco timeline took off from Portland, OR.
+** San Francisco is misspelled as "Fransisco" on the same illustration.
+* If Max encouraged [[Daniel DaCosta]] to go the Vortex Club party, [[Brooke Scott]] will be talking to him about future plans to take a road trip to the Portland Art Museum.
+** Daniel will tell Max that he plans to take Brooke to see a Miyazaki show in Portland.
+* If Max allows Chloe to steal Blackwell's handicapped funds in order to pay off Frank and have him talk about Rachel, Chloe hugs her joyfully and offers to take her on a road trip to Portland with the leftover money.
+* During the diner sequence of [[Max's Nightmare|Max's nightmare]], the [[Diner Trucker]] asks Max if she can call his mother in Portland and tell her that he loves her.
+
+=== Captain Spirit ===
+* In ''Captain Spirit'', [[Media:SP PT Kitchen LaptopHeroConTickets 2 result.png|an email]] advertising "Portland Hero-Con 2017" can be found on [[Charles Eriksen]]'s [[Charles' Computer|computer]].
+
+=== Life is Strange 2 ===
+* [[File:UI TX Metainventory Souvenirs Ticket.png|thumb|200px]]While exploring her [[Karen's Room|former bedroom]], [[Sean Diaz]] can attempt to play his [[Karen|mother]]'s old CD player. If he does, Sean will find and [[Optional Collectibles|collect]] a ticket for a trip from Portland, OR to New York, NY.
+* Sean can overhear a conversation between [[Anders]] and [[Ingrid]] in which they mention their plan to visit Portland.<ref>Anders: ''"Oh, I think I will miss it here..."''<br>&nbsp;&nbsp;&nbsp;Ingrid: ''"Same... But we can't resist the wanderlust! Plus, Portland's waiting for us!"''<br>&nbsp;&nbsp;&nbsp;(Episode 3, "The Trimmigrants" - Anders and Ingrid sitting by their tent.)</ref>
+
+== Life is Strange: True Colors ==
+
+* [[Alex Chen|Alex]]'s foster home, Helping Hands Group Home, is situated in Portland.
+* [[Alex]] and [[Gabe Chen|Gabe]] lived in Portland before going into foster care.
+
+== Trivia ==
+* A poster in [[Nathan Prescott]]'s [[Nathan's Room|dorm room]] on the wall above his bed is for an exhibition in Portland. The way the poster was designed for the game only shows the name of the show, but there are stylized lines to symbolize additional text.<ref group="note">This line = text conclusion is based on the presentation of other posters in the game that, upon closer inspection, can reveal text where the lines are.</ref> The only way we know this is a show in Portland is from the game's localization files, where the poster was intended to read: "The New Romantics, Image & Design in 80's Pop Art, Portland Center For The Arts, October 20-31, 2009."<ref>Localization file name: E4_5A_NathanRoom_ExhibitionPoster_SP01.</ref>
+<gallery widths="200px" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+LiS1-NewRomantics_poster-01.png
+LiS1-NewRomantics_poster-02.png
+</gallery>
+
+== Notes ==
+<references group="note"/>
+
+== References ==
+<references />[[ru:Портленд]]
+[[Category:Locations]]
+[[Category:Locations (Life is Strange)]]
+[[Category:Cities]]
+[[Category:Locations (Captain Spirit)]]
+[[Category:Non-Explorable Locations]]
+[[Category:Lore]]
+[[Category:Lore (Life is Strange)]]
+[[Category:Lore (Before the Storm)]]
+
+[[Category:Before the Storm]]
+[[Category:Captain Spirit]]
+
+[[Category:Mentioned Locations]]
+[[Category:Locations (Life is Strange 2)]]
+[[Category:Life is Strange]]
+[[Category:Life is Strange 2]]

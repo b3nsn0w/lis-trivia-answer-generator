@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Principal Wells Say About Max's Photography?",
+    "answer": "B",
+    "choices": {
+      "A": "It's Haunting",
+      "B": "It's Timeless",
+      "C": "It's Nostalgic Melancholy",
+      "D": "It's Mature"
+    }
+  },
+  {
+    "question": "What Does Max Say About Celebrating Her Success?",
+    "answer": "B",
+    "choices": {
+      "A": "It's Surreal",
+      "B": "It's Guilty",
+      "C": "It's Lucky",
+      "D": "It's Haunting"
+    }
+  },
+  {
+    "question": "Who Does Principal Wells Regret Not Being More Proactive About?",
+    "answer": "C",
+    "choices": {
+      "A": "Mark Jefferson",
+      "B": "Nathan Prescott",
+      "C": "Kate Marsh",
+      "D": "Sean Prescott"
+    }
+  },
+  {
+    "question": "What Does Max Say About The Weather?",
+    "answer": "D",
+    "choices": {
+      "A": "It's Haunting",
+      "B": "It's Timeless",
+      "C": "It's Nostalgic Melancholy",
+      "D": "It's Strange"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Journalist Who Approaches Max?",
+    "answer": "A",
+    "choices": {
+      "A": "Daniel",
+      "B": "Sean Prescott",
+      "C": "Mark Jefferson",
+      "D": "Nathan Prescott"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Chemical Experiment Does Warren Need Help With?",
+    "answer": "A",
+    "choices": {
+      "A": "Adding Potassium or Sodium",
+      "B": "Mixing Acids and Bases",
+      "C": "Creating a Volcano",
+      "D": "Making a Firework"
+    }
+  },
+  {
+    "question": "What Chemical Does Max Suggest Warren Add To The Experiment?",
+    "answer": "C",
+    "choices": {
+      "A": "Sodium",
+      "B": "Chlorine",
+      "C": "Potassium",
+      "D": "Nitrogen"
+    }
+  },
+  {
+    "question": "What Happens When Warren Adds A Lot Of Potassium To The Experiment?",
+    "answer": "C",
+    "choices": {
+      "A": "Nothing Happens",
+      "B": "There's A Slight Explosion",
+      "C": "There's A Big Explosion",
+      "D": "The Mixture Turns Bright Pink"
+    }
+  },
+  {
+    "question": "What Does Brooke Say About Warren Ignoring The Experts?",
+    "answer": "B",
+    "choices": {
+      "A": "He Should Listen To Them",
+      "B": "He Doesn't Need Their Help",
+      "C": "He's Too Smart For Them",
+      "D": "He's Afraid Of Them"
+    }
+  },
+  {
+    "question": "What Does Brooke Say About Ms. Grant's Reaction To Her Drone?",
+    "answer": "B",
+    "choices": {
+      "A": "She Was Excited About It",
+      "B": "She Was Angry About It",
+      "C": "She Was Impressed By It",
+      "D": "She Was Indifferent To It"
+    }
+  }
+]

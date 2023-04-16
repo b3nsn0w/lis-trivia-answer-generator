@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Written On The \"No Worries, It's All Bad\" Graffiti In The Boys' Locker Room?",
+    "answer": "A",
+    "choices": {
+      "A": "No Worries, It's All Bad",
+      "B": "It's All Good",
+      "C": "Don't Worry, Be Happy",
+      "D": "Life Is Strange"
+    }
+  },
+  {
+    "question": "What Does Max Say When She Looks At The Jacket Inside A Locker In The Boys' Locker Room?",
+    "answer": "A",
+    "choices": {
+      "A": "\"I Guess Somebody Forgot Their Blackwell Spirit.\"",
+      "B": "\"I Wish I Had A Jacket Like That.\"",
+      "C": "\"I Wonder Who This Jacket Belongs To.\"",
+      "D": "\"This Jacket Looks Old And Worn Out.\""
+    }
+  },
+  {
+    "question": "What Does Max Say When She Looks At The Whiteboard In The Office?",
+    "answer": "B",
+    "choices": {
+      "A": "\"This Whiteboard Is Full Of Useless Information.\"",
+      "B": "\"I Wonder What The Big Plan Is.\"",
+      "C": "\"I Should Write Something On This Whiteboard.\"",
+      "D": "\"I Don't Understand What's Written On This Whiteboard.\""
+    }
+  },
+  {
+    "question": "What Can Max Do With The End Of The World Party Guest List In The Pool Area?",
+    "answer": "A",
+    "choices": {
+      "A": "Look At It, Add Names, And Remove Names",
+      "B": "Only Look At It",
+      "C": "Only Add Names",
+      "D": "Only Remove Names"
+    }
+  },
+  {
+    "question": "What Does Max Say When She Looks At The Cup Of Coffee In The Office?",
+    "answer": "D",
+    "choices": {
+      "A": "\"I Could Use A Cup Of Coffee Right Now.\"",
+      "B": "\"This Coffee Smells Terrible.\"",
+      "C": "\"I Wonder Who Made This Coffee.\"",
+      "D": "\"Coffee And Swimming. Good Combo.\""
+    }
+  }
+]

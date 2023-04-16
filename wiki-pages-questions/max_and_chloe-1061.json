@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Chloe Joke About Texting Warren After Max Kisses Her?",
+    "answer": "B",
+    "choices": {
+      "A": "That Max Is Saving Herself For Him",
+      "B": "That He Doesn't Stand A Chance Unless He's Into Girl-On-Girl Action",
+      "C": "That Max Is A Terrible Kisser",
+      "D": "That She Wants To Date Max"
+    }
+  },
+  {
+    "question": "What Does Joyce Give Max Before She Leaves The House?",
+    "answer": "B",
+    "choices": {
+      "A": "A Family Album",
+      "B": "A Photo Of Max And Chloe Making Pancakes Together",
+      "C": "A Map To Frank's RV",
+      "D": "A Key To The Garage"
+    }
+  },
+  {
+    "question": "What Do Max And Chloe Find In Frank's RV?",
+    "answer": "A",
+    "choices": {
+      "A": "Evidence That Rachel Amber Was More Than Friends With Frank",
+      "B": "Evidence That Rachel Amber Was Working With The Prescotts",
+      "C": "Evidence That Nathan Was The One Who Kidnapped Rachel",
+      "D": "Evidence That Jefferson Was Involved In Rachel's Disappearance"
+    }
+  },
+  {
+    "question": "What Does Max Discover After Returning To Her Dormitory Room?",
+    "answer": "A",
+    "choices": {
+      "A": "Her Ability To Jump Back In Time Through Photos",
+      "B": "A Secret Message From Rachel Amber",
+      "C": "A Hidden Camera In Her Room",
+      "D": "A Note From Victoria Chase"
+    }
+  },
+  {
+    "question": "What Happens To Chloe In The Alternative Timeline Created By Max's Time Travel?",
+    "answer": "B",
+    "choices": {
+      "A": "She Becomes A Famous Artist",
+      "B": "She Is Severely Immobilized And Can Only Breathe With The Help Of A Machine",
+      "C": "She Becomes A Successful Businesswoman",
+      "D": "She Becomes A Professional Skateboarder"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Max Worried About When Principal Wells Stops Her From Leaving?",
+    "answer": "A",
+    "choices": {
+      "A": "Her Future",
+      "B": "Her Grades",
+      "C": "Her Friends",
+      "D": "Her Health"
+    }
+  },
+  {
+    "question": "Who Does Max Report To Principal Wells For Waving A Gun Around In The Girls' Room?",
+    "answer": "C",
+    "choices": {
+      "A": "David Madsen",
+      "B": "Mark Jefferson",
+      "C": "Nathan Prescott",
+      "D": "Samuel Taylor"
+    }
+  },
+  {
+    "question": "What Is Principal Wells' Response When Max Reports Nathan Prescott's Behavior?",
+    "answer": "D",
+    "choices": {
+      "A": "He Thanks Max And Takes Immediate Action",
+      "B": "He Doubts Max's Story And Dismisses Her",
+      "C": "He Asks Max To Keep Quiet About The Incident",
+      "D": "He Promises To Investigate The Matter Later"
+    }
+  },
+  {
+    "question": "What Does Max Consider Doing After Principal Wells Dismisses Her Report?",
+    "answer": "A",
+    "choices": {
+      "A": "Rewinding Time And Changing Her Story",
+      "B": "Telling The Truth About Her Illness",
+      "C": "Ignoring The Incident And Leaving School",
+      "D": "Seeking Help From Her Parents"
+    }
+  },
+  {
+    "question": "What Does Max Notice On The Ground While Leaving The Building?",
+    "answer": "D",
+    "choices": {
+      "A": "A Pile Of Books",
+      "B": "A Stack Of Papers",
+      "C": "A Group Of Students",
+      "D": "Missing Person Posters"
+    }
+  }
+]

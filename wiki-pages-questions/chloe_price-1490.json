@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is Chloe's Personality Like?",
+    "answer": "B",
+    "choices": {
+      "A": "Shy and Reserved",
+      "B": "Outgoing and Rebellious",
+      "C": "Kind and Caring",
+      "D": "Serious and Responsible"
+    }
+  },
+  {
+    "question": "What Is The Name Of Chloe's Stepfather?",
+    "answer": "C",
+    "choices": {
+      "A": "Frank Bowers",
+      "B": "William Price",
+      "C": "David Madsen",
+      "D": "Mark Jefferson"
+    }
+  },
+  {
+    "question": "What Is The Design Of Chloe's Tattoo Sleeve?",
+    "answer": "A",
+    "choices": {
+      "A": "Red Flowers with Thorns, Blue Butterflies, Red Ribbon and a Yellowed Skull",
+      "B": "Black Roses with Vines, White Butterflies, Black Ribbon and a White Skull",
+      "C": "Pink Flowers with Thorns, Purple Butterflies, Pink Ribbon and a White Skull",
+      "D": "Blue Flowers with Thorns, Red Butterflies, Blue Ribbon and a Yellowed Skull"
+    }
+  },
+  {
+    "question": "What Is The Design On Chloe's Pajama T-Shirt?",
+    "answer": "D",
+    "choices": {
+      "A": "A Skull",
+      "B": "A Heart",
+      "C": "A Snake",
+      "D": "The Word \"Rock\" with a Chick Beneath It"
+    }
+  }
+]

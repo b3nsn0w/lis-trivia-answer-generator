@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Brooke's Area Of Study?",
+    "answer": "A",
+    "choices": {
+      "A": "Science And Mathematics",
+      "B": "English And History",
+      "C": "Art And Music",
+      "D": "Physical Education And Health"
+    }
+  },
+  {
+    "question": "What Does Brooke Like Besides Science And Mathematics?",
+    "answer": "A",
+    "choices": {
+      "A": "Gaming And Reading",
+      "B": "Dancing And Singing",
+      "C": "Cooking And Baking",
+      "D": "Painting And Drawing"
+    }
+  },
+  {
+    "question": "Who Does Brooke Hang Out With?",
+    "answer": "D",
+    "choices": {
+      "A": "Maxine Caulfield",
+      "B": "Chloe Price",
+      "C": "Nathan Prescott",
+      "D": "Warren Graham"
+    }
+  },
+  {
+    "question": "What Does Brooke Pilot On The Blackwell Campus Grounds?",
+    "answer": "D",
+    "choices": {
+      "A": "A Car",
+      "B": "A Plane",
+      "C": "A Helicopter",
+      "D": "A Drone"
+    }
+  },
+  {
+    "question": "What Handy Visual Does Max Notice On Brooke's Room Slate?",
+    "answer": "D",
+    "choices": {
+      "A": "A Map Of The Campus",
+      "B": "A List Of Student Clubs",
+      "C": "A Schedule Of Classes",
+      "D": "A Reminder Of The Value Of \"Pi\""
+    }
+  }
+]

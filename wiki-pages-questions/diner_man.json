@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Name Of The Newspaper That Diner Man Is Reading In Episode 2?",
+    "answer": "A",
+    "choices": {
+      "A": "NETWORK",
+      "B": "DAILY NEWS",
+      "C": "THE TIMES",
+      "D": "THE POST"
+    }
+  },
+  {
+    "question": "What Is Diner Man's Opinion On The Snowfall In Episode 2?",
+    "answer": "B",
+    "choices": {
+      "A": "He Thinks It Is Unusual",
+      "B": "He Thinks It Is Normal",
+      "C": "He Thinks It Is Caused By Aliens",
+      "D": "He Thinks It Is A Government Conspiracy"
+    }
+  },
+  {
+    "question": "What Is Diner Man's Opinion On Rachel Amber In Episode 2?",
+    "answer": "B",
+    "choices": {
+      "A": "He Thinks She Was Kidnapped",
+      "B": "He Thinks She Ran Away Because She Was Bored",
+      "C": "He Thinks She Is Hiding In Arcadia Bay",
+      "D": "He Thinks She Is Dead"
+    }
+  },
+  {
+    "question": "In Which Episode Does Diner Man Appear In Max's Nightmare?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1",
+      "B": "Episode 2",
+      "C": "Episode 3",
+      "D": "Episode 5"
+    }
+  },
+  {
+    "question": "What Happens To Diner Man In The Sacrifice Arcadia Bay Ending?",
+    "answer": "B",
+    "choices": {
+      "A": "He Survives The Storm",
+      "B": "He Dies In The Storm",
+      "C": "He Moves To California",
+      "D": "He Is Rescued By Max"
+    }
+  }
+]

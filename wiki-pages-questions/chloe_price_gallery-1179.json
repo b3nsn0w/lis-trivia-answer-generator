@@ -1,0 +1,42 @@
+[
+  {
+    "question": "In which episode does Chloe jump into the Blackwell Swimming Pool?",
+    "answer": "A",
+    "choices": {
+      "A": "Episode Three",
+      "B": "Episode Four",
+      "C": "Alternative Timeline",
+      "D": "None of the above"
+    }
+  },
+  {
+    "question": "What does Chloe dare Max to do while they are on the bed?",
+    "answer": "B",
+    "choices": {
+      "A": "Jump into the pool",
+      "B": "Kiss her",
+      "C": "Steal money",
+      "D": "Take a selfie"
+    }
+  },
+  {
+    "question": "In which episode does Chloe investigate Frank's computer?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode Three",
+      "B": "Episode Four",
+      "C": "Alternative Timeline",
+      "D": "None of the above"
+    }
+  },
+  {
+    "question": "What is the name of the movie that Chloe and Max watch in the alternative timeline?",
+    "answer": "A",
+    "choices": {
+      "A": "Blade Runner",
+      "B": "The Terminator",
+      "C": "The Matrix",
+      "D": "Inception"
+    }
+  }
+]

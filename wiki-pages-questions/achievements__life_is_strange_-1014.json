@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What Is The Name Of The Achievement For Taking Optional Photo #1 In Episode 5: Polarized?",
+    "answer": "A",
+    "choices": {
+      "A": "Incandescent",
+      "B": "Night Vision",
+      "C": "Framed",
+      "D": "Camera Obscura"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Achievement For Taking All Optional Photos In Episode 5: Polarized?",
+    "answer": "A",
+    "choices": {
+      "A": "Selfie Awareness",
+      "B": "Polarized",
+      "C": "Camera Obscura",
+      "D": "Light Meter"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who Created The Concept Art For Mark Jefferson?",
+    "answer": "A",
+    "choices": {
+      "A": "Fred Augis",
+      "B": "David Madsen",
+      "C": "Victoria Chase",
+      "D": "Maxine Caulfield"
+    }
+  },
+  {
+    "question": "In Which Episode Is Mark Jefferson Revealed To Be The Villain?",
+    "answer": "C",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 4: Dark Room",
+      "D": "Episode 5: Polarized"
+    }
+  },
+  {
+    "question": "In Which Episode Does Mark Jefferson Take Photos Of Max In The Dark Room?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 4: Dark Room",
+      "D": "Episode 5: Polarized"
+    }
+  },
+  {
+    "question": "Who Does Mark Jefferson Kill In The Dark Room?",
+    "answer": "B",
+    "choices": {
+      "A": "Chloe Price",
+      "B": "David Madsen",
+      "C": "Victoria Chase",
+      "D": "Maxine Caulfield"
+    }
+  },
+  {
+    "question": "In Which Episode Is Mark Jefferson Surprised By The Storm?",
+    "answer": "C",
+    "choices": {
+      "A": "Episode 3: Chaos Theory",
+      "B": "Episode 4: Dark Room",
+      "C": "Episode 5: Polarized",
+      "D": "Max's Nightmare"
+    }
+  }
+]

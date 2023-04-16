@@ -1,0 +1,57 @@
+Here is a section of the wiki page for Prescott Dormitory:
+
+## Inside 
+*{{Interaction|Max can look at Rachel Amber Missing Person posters.|"Where the hell are you, Rachel Amber?"
+"I feel like you're guiding us along... but where?"
+"Yes, I am going to find you, Rachel... For Chloe and Kate."}}
+*{{Interaction|She can look at the [End of the World Party](end_of_the_world_party.md) poster.|"The end of the world might be coming before your party..."}}
+*{{Interaction|She can look at a Vortex Club poster.|"I bet you'll party like it's 1999, assholes."}}
+*She can look at the slates:
+**Stella Hill
+**{{Interaction|Taylor Christensen|"Incredible. Taylor is utterly shameless."}}
+**Juliet Watson
+**{{Interaction|Dana Ward|"Dana's really hurting over this."}}
+**{{Interaction|Kate Marsh|"So much hypocrite."}}
+**{{Interaction|Victoria Chase|"That's a depressing thought. And it's always about Victoria..."}}
+**Brooke Scott
+**{{Interaction|Max Caulfield|**Kate alive: **"I hope you burn bright again soon, Kate."
+**Kate dead: **"I hope Kate finally has her wings now..."}}
+*{{Interaction|She can look at and light Kate's shrine (determinant).|**Look: **"Kate, I would give up my power if I could have another rewind to save you...
+I won't rest until we find out the truth... and somebody pays for this."
+**Light: **"This is my prayer for you, Kate. Bless your gentle soul..."}}
+*{{Interaction|She can look at the barricade tape.|**Kate dead: **"God, that's like some awful TV crime scene in our dorm."
+**Kate alive: **"Do they really need that crap on the door? Kate's still alive..."}}
+*She can enter Dana's room.
+*She can enter the showers.
+Inside the showers,
+*{{Interaction|Max can look at the mirror.|"I hope Victoria feels particularly shitty about posting that link."}}
+*{{Interaction|She can look at a "Safe Not Sorry" poster.|**Kate alive: **"Kate probably won't want to look at these posters when she comes back..."
+**Kate dead: **"Nobody can blame this poster for Kate's death..."}}
+*{{Interaction|She can look at a shower.|"Urrgh. Cave-Max want to shower, but no time. Must meet Chloe."}}
+*{{Interaction|She can speak to Taylor.|**Kate alive: **"Jeez, Taylor actually seems concerned about Kate..."
+**Kate dead: **"I shouldn't be so damn judgmental. Taylor is obviously upset about Kate..."}}
+
+# #
+
+## Outside 
+*{{Interaction|Max can look at Kate's memorial (determinant).|"Jesus, I still can't believe she jumped..."}}
+*{{Interaction|She can look at the broken window (determinant).|"Everywhere I go I can see how I'm altering history... big and small."}}
+*{{Interaction|She can look at and take an optional photo of the squirrel on a bench.|**Look: **"Hello little friend, care to join me?"
+**Photo: **"Look at the lens and say 'Nut!'"... "Gotcha!"}}
+*{{Interaction|She can look at a broken lamp.|"Maybe Samuel should fix that lamp..."}}
+*{{Interaction|She can look at the Tobanga Totem.|"The Tobanga does look pretty scary at night... Please don't destroy me."}}
+*She can have a [A Moment of Calm (Life is Strange)](a_moment_of_calm.md) on the bench.
+*{{Interaction|She can look at and speak to [Raymond Wells](principal_wells.md).|**Kate alive: **"Principal Wells was totally wasted. He must be sad about Kate..."
+**Kate dead: **"He's lucky nobody else saw him like that—except me."}}
+*{{Interaction|She can open the door to Samuel's custodial room.|"Oh, it's unlocked! I hope Samuel isn't around..."}}
+
+**She can look at a scarf, a fashion magazine, a box with an empty paint bucket and several toolboxes inside the custodial room.
+
+#
+
+## Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+# #
+
+
+
+Generate five trivia questions relevant to this section of the page.

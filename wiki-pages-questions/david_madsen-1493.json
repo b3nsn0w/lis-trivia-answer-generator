@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is David Madsen's Blood Type?",
+    "answer": "C",
+    "choices": {
+      "A": "A-Positive",
+      "B": "B-Positive",
+      "C": "O-Positive",
+      "D": "AB-Positive"
+    }
+  },
+  {
+    "question": "What Is One Of David Madsen's Hobbies?",
+    "answer": "C",
+    "choices": {
+      "A": "Painting",
+      "B": "Cooking",
+      "C": "Hunting",
+      "D": "Singing"
+    }
+  },
+  {
+    "question": "What Does Michelle Grant Try To Get Max To Do?",
+    "answer": "A",
+    "choices": {
+      "A": "Sign A Petition To Stop David's Surveillance Cameras",
+      "B": "Join The Vortex Club",
+      "C": "Help David Spy On Students",
+      "D": "Break The Fire Alarm In The Girls' Bathroom"
+    }
+  },
+  {
+    "question": "What Does Max Find In David's Garage?",
+    "answer": "C",
+    "choices": {
+      "A": "A Secret Weapon",
+      "B": "A Time Machine",
+      "C": "Tools To Repair Her Camera",
+      "D": "A Stolen Car"
+    }
+  },
+  {
+    "question": "What Does David Threaten Chloe With When He Discovers Her Smoking Weed?",
+    "answer": "D",
+    "choices": {
+      "A": "Taking Away Her Phone",
+      "B": "Grounding Her For A Month",
+      "C": "Kicking Her Out Of The House",
+      "D": "Taking Away Her Blackwell Scholarship"
+    }
+  }
+]

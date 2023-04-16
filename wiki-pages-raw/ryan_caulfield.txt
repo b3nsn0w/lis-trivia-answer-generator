@@ -1,0 +1,80 @@
+= Ryan Caulfield =
+
+{{Introquote|Have a very special 18th birthday. You're an adult now but you're still our little girl. Check your account. Don't blow it all at once.|Ryan's SMS to his daughter, Max, in "[[Episode 1: Chrysalis|Chrysalis]]"}}
+{{Infobox Character
+|name = Ryan Caulfield
+|image = Max's Dad.png
+|gender = Male
+|hair = Brown
+|eyes = Brown
+|loveinterest = [[Vanessa Caulfield]] <small>(wife)</small>
+|relatives = [[Maxine Caulfield|Max Caulfield]] <small>(daughter)</small>
+|alsoknown = Pop
+|appearance = [[Episode 1: Chrysalis]] <small>(mentioned)</small><br />[[Episode 3: Chaos Theory]] <small>(mentioned)</small><br />[[Episode 4: Dark Room]] <small>(mentioned)</small><br />[[Episode 5: Polarized]] <small>(mentioned)</small> <br /> [[Farewell]] <small>(cutscene only, no lines)</small>}}
+
+'''Ryan Caulfield''' is [[Maxine Caulfield|Max Caulfield]]'s father. Once a resident of [[Arcadia Bay]], he now resides in [[Seattle]] with Max's mother, his wife [[Vanessa Caulfield]].
+
+== Personality ==
+Max's father is very close to her - the two attending sports events together. He's presented as a very loving father figure. He doesn't seem to be as concerned as Max's mother about [[Blackwell Academy]].
+
+In a [[Max's Messages#Dad|text message]] regarding Max's eighteenth birthday, he says that she is an adult now but still their little girl and shouldn't blow the money they'd sent her at once.
+
+He is concerned about the threat he gets from an unknown number in [[Episode 4: Dark Room|Episode 4]] and [[Max's Messages#Dad_3|messages]] Max about it.
+
+In another [[Max's Messages#Dad_4|text message]] to Max in the changed reality where Max has won the [[Everyday Heroes Photo Contest]], he points out that Max is an adult now and can tell her mother that she doesn't need to be too worried regarding the arrest of [[Mark Jefferson]] and [[Nathan Prescott]].
+
+== Alternative Timeline ==
+In the [[Alternative Timeline (Life is Strange)|alternative timeline]], Ryan and Vanessa sent [[Chloe Price]] a postcard, giving their best to her.
+
+<div style="margin-right:50px; margin-top:20px">[[File:maxsparents-altchloepostcard-back.png|thumb|right|250px]]</div>
+
+{{Bigquote
+|''Chloe, you know we love''<br>
+''you and you're in our''<br>
+''hearts and thoughts. We''<br>
+''hope to see your smiling''<br>
+''face soon.''
+
+''Please be well.''
+
+''Ryan & Vanessa Caulfield''
+}}
+
+== Trivia ==
+*In [[Episode 1: Chrysalis|Episode 1]], Max looks at a Thunderbirds pennant in her [[Max's Room|room]] and thinks of how she misses going to games with her dad.
+*Also in Episode 1, he sends Max an [[Max's Messages#Dad|SMS message]]. There is a shared birthday message from him and [[Vanessa Caulfield|Max's mother]] in Max's drawer in her room.
+*In Episode 4, it is revealed his name is Ryan.
+*It is implied that Ryan is of Irish descent. The family name Caulfield is of Irish origin and Ryan is a typical Irish first name. In "[[Episode 2: Out of Time|Out of Time]]" Chloe also mentions Max's "Irish luck".
+*In [[Episode 3: Chaos Theory|Episode 3]], Max mentions that her grandfather - either Ryan's or his wife Vanessa's father - has a garage.<ref group="note">Max's comment upon looking at a toolbox in Samuel's custodial room: "''Nuts and bolts... like my grandpa's garage.''"</ref>
+
+== Gallery ==
+<gallery widths="200" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+seattle-maxatspaceneedle.png|Max and her dad at the Space Needle.
+seattle-maxatmatch.png|Max at a hockey match with her dad.
+</gallery>
+
+== Notes ==
+<references group="note" />
+{{Character Navbox}}
+
+
+[[Category:Characters]]
+[[Category:Characters (Life is Strange)]]
+[[Category:Male Characters]]
+[[Category:Caulfield Family]]
+[[Category:Episode 1: Chrysalis Characters]]
+[[Category:Episode 4: Dark Room Characters]]
+[[Category:Minor Characters (Life is Strange)]]
+[[Category:Alternative Timeline Characters]]
+[[Category:Alive]]
+[[Category:Seattle Residents]]
+[[Category:Male Characters (Life is Strange)]]
+[[Category:Minor Characters]]
+[[Category:Life is Strange]]
+
+[[de:Ryan Caulfield]]
+[[es:Ryan Caulfield]]
+[[fr:Ryan Caulfield]]
+[[pl:Ryan Caulfield]]
+[[pt-br:Ryan Caulfield]]
+[[ru:Райан Колфилд]]

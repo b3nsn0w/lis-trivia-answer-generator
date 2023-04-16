@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does David Accuse Chloe Of Taking?",
+    "answer": "A",
+    "choices": {
+      "A": "His Gun",
+      "B": "His Phone",
+      "C": "His Wallet",
+      "D": "His Car"
+    }
+  },
+  {
+    "question": "What Evidence Does Chloe Claim To Have Against David?",
+    "answer": "B",
+    "choices": {
+      "A": "He Stole Money From Her",
+      "B": "He Harassed Kate Marsh",
+      "C": "He Cheated On Joyce",
+      "D": "He Vandalized The School"
+    }
+  },
+  {
+    "question": "What Does David Threaten To Do If Max Is Found In Chloe's Room Again?",
+    "answer": "A",
+    "choices": {
+      "A": "Call The Police",
+      "B": "Kick Chloe Out Of The House",
+      "C": "Expel Max From Blackwell",
+      "D": "Take Away Chloe's Phone"
+    }
+  },
+  {
+    "question": "What Does Chloe Say About David's Accusation Of Her Smoking Weed?",
+    "answer": "B",
+    "choices": {
+      "A": "She Admits To It",
+      "B": "She Denies It",
+      "C": "She Blames Max",
+      "D": "She Blames David"
+    }
+  },
+  {
+    "question": "What Does David Call Chloe After She Insults Him?",
+    "answer": "D",
+    "choices": {
+      "A": "A Loser",
+      "B": "A Criminal",
+      "C": "A Troublemaker",
+      "D": "A Pig"
+    }
+  }
+]

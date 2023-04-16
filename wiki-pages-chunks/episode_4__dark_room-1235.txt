@@ -1,0 +1,77 @@
+Here is a section of the wiki page for Episode 4: Dark Room:
+
+## Characters 
+{| width# "100%" align"center"
+| valign# "top" |
+* [Maxine Caulfield](max_caulfield.md)
+* [Chloe Price](chloe_price.md)
+* [William Price](william_price.md)
+* [Joyce Price](joyce_price.md)
+* [David Madsen](david_madsen.md)
+* Principal [Raymond Wells](raymond_wells.md)
+* [Mark Jefferson](mark_jefferson.md)
+* [Justin Williams](justin_williams.md)
+* [Daniel DaCosta](daniel_dacosta.md)
+* [Zachary Riggins](zachary_riggins.md)
+* [Logan Robertson](logan_robertson.md)
+* [Brooke Scott](brooke_scott.md)
+* [Samuel Taylor](samuel_taylor.md)
+* [Michelle Grant](michelle_grant.md)
+* [Warren Graham](warren_graham.md)
+* [Nathan Prescott](nathan_prescott.md)
+* [Frank Bowers](frank_bowers.md)
+* [Stella Hill](stella_hill.md)
+* [Courtney Wagner](courtney_wagner.md)
+* [Luke Parker](luke_parker.md)
+* [Alyssa Anderson](alyssa_anderson.md)
+* [Sarah](sarah.md)
+* [Trevor](trevor.md)
+* [Dana Ward](dana_ward.md)
+| valign"top" |
+* [Juliet Watson](juliet_watson.md)
+* [Taylor Christensen](taylor_christensen.md)
+* [Victoria Chase](victoria_chase.md)
+* [Hayden Jones](hayden_jones.md)
+* [Evan Harris](evan_harris.md)
+* [Rachel Amber](rachel_amber.md) (Body)
+* [Kate Marsh](kate_marsh.md) (**Determinant**)
+* [Pompidou](pompidou.md) (Frank's dog) (**Determinant**)
+* [Diner Woman](woman.md) ([Two Whales Diner](diner.md))
+* [DJ Doom](dj_doom.md)
+* [Mrs._Prescott](mrs__prescott.md) (Mentioned)
+* [Alice the Rabbit](alice.md) (Kate's rabbit) (Mentioned)
+* [Sean Prescott](sean_prescott.md) (Mentioned)
+* [Kristine Prescott](kristine_prescott.md) (Mentioned)
+* [Harry Aaron Prescott](harry_aaron_prescott.md) (Mentioned)
+* [Martin Lewis Prescott](martin_lewis_prescott.md) (Mentioned)
+* [Dr. Jacoby](dr__jacoby.md) (Mentioned)
+* [Megan Weaver](megan_weaver.md) (Mentioned)
+* [Aaron Price](aaron_price.md) (Mentioned)
+* [Dorothy](dorothy.md) (Mentioned)
+* [Ryan Caulfield](ryan_caulfield.md) (Mentioned)
+* [Vanessa Caulfield](vanessa_caulfield.md) (Mentioned)
+* [Dr. Bill](dr__bill.md) (Mentioned)
+* [Hawt Dawg Man](hawt_dawg_man.md) (Mentioned)
+|}
+
+## Deaths 
+* Alternative [Chloe Price](chloe_price.md) (**Determinant)** - In the alternative timeline, Chloe requests Max to give her a morphine overdose. It's up to Max to decide her fate.
+* [Pompidou](pompidou.md) and [Frank Bowers](frank_bowers.md) (**Determinant**) - If Pompidou is still alive, depending on how the confrontation with Frank proceeds, Chloe will shoot both Pompidou and Frank.
+* [Rachel Amber](rachel_amber.md) (**Confirmed Fate**) - Chloe and Max find Rachel Amber's dead body in the junkyard.
+* [Chloe Price](chloe_price.md) - Chloe is shot in the head by Mark Jefferson at the end of the episode.
+
+## Licensed Soundtrack 
+{{Main|Soundtrack (Life is Strange)}}
+*"[In My Mind](in_my_mind.md)" - Amanda Palmer (Max back in the original timeline)
+*"[Mountains](mountains.md)" - Message to Bears (discovery of Rachel Amber's body)
+*"[Got Well Soon](got_well_soon.md)" - Breton (End of the World Party)
+*"[Lua](lua.md)" - Bright Eyes (optionally played in Chloe's room)
+*"[Piano Fire](piano_fire.md)" - Sparkle Horse (optionally played in Chloe's room)
+
+## Reception 
+* Dark Room has the lowest Metascore of all episodes with a Metascore of 76 and a User Score of 8.6.
+* IGN gave it an okay score of 6.0, calling it the least consistent episode.
+
+
+
+Generate five trivia questions relevant to this section of the page.

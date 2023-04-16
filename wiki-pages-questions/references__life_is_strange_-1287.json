@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What Is The Slogan Spray-Painted On The Boulder Near The Lighthouse?",
+    "answer": "A",
+    "choices": {
+      "A": "Trust No One",
+      "B": "Believe In Yourself",
+      "C": "Love Conquers All",
+      "D": "The Truth Is Out There"
+    }
+  },
+  {
+    "question": "What Is The Name Of The French Novel That The Graffiti Near The Lighthouse References?",
+    "answer": "D",
+    "choices": {
+      "A": "The WindWalkers",
+      "B": "The X-Files",
+      "C": "Three Meters Above The Sky",
+      "D": "La Horde du Contrevent"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Italian Film That The Sticker Graphic On Max's Diary References?",
+    "answer": "C",
+    "choices": {
+      "A": "The WindWalkers",
+      "B": "The X-Files",
+      "C": "Three Meters Above The Sky",
+      "D": "La Horde du Contrevent"
+    }
+  }
+]

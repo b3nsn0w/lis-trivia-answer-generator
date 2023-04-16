@@ -1,0 +1,36 @@
+= Prescott Estate =
+
+{{Stub}}
+{{Infobox Location
+|image = Prescott estate.png
+|imagewidth = 250 
+|name = Prescott Estate
+|type = Residential
+|location = [[Arcadia Bay]]
+|coordinates = Latitude: 45.531822<br/>Longitude: -123.921232
+|state = Oregon
+|appears = [[Episode 4: Dark Room]]}}
+
+The '''Prescott Estate''' is a non-explorable location in ''[[Life is Strange]]''. It is the residence of the [[Prescott Family|Prescott family]], namely of [[Nathan Prescott]], [[Sean Prescott]] and his wife, and presumably the previous home of [[Kristine Prescott]].
+
+The Prescott Estate is not heavily featured in the game, probably due to Nathan living full time on the [[Blackwell Academy]] [[Blackwell Campus|campus]], and not at home with his family.
+
+He does, however, visit there often as evident from [[David's Files|David's records]] of Nathan's car coordinates from Episode 4, "[[Episode 4: Dark Room|Dark Room]]".
+
+== Alternative Timeline ==
+TBA
+
+{{Location Navbox}}
+
+[[de:Prescott Estates]]
+[[ru:Особняк Прескоттов]]
+[[Category:Locations (Life is Strange)]]
+[[Category:Dark Room Conspiracy]]
+[[Category:Prescott Family]]
+[[Category:Locations in Arcadia Bay]]
+[[Category:Locations]]
+
+[[Category:Episode 4: Dark Room Locations]]
+[[Category:Non-Explorable Locations]]
+[[Category:Mentioned Locations]]
+[[Category:Life is Strange]]

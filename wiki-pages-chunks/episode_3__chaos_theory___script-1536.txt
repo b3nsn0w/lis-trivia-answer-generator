@@ -1,0 +1,118 @@
+Here is a section of the wiki page for Episode 3: Chaos Theory - Script:
+
+## **Optional Conversation with Homeless Lady** # 
+
+**Max:** Hi, how are you?
+
+(Talked to her in previous episode)(Talked to her in previous episode)**Homeless Lady:** I remember you...
+
+|-|(Didn't talk to her in previous episode)# (Didn't talk to her in previous episode)**Homeless Lady:** Well, I'm homeless. Otherwise, yeah, fantastic. Who are you?
+
+**Max:** Max. Can I get you something from the diner?
+
+(Max saved Kate)(Max saved Kate)**Homeless Lady:** I heard about that girl almost jumping off the Blackwell roof...
+
+|-|(Max couldn't save Kate)# (Max couldn't save Kate)**Homeless Lady:** I heard about that girl killing herself at Blackwell...mm, awful thing.
+
+Kate.Kate.
+
+{{#tag:tabber|(Max saved Kate)# (Max saved Kate)**Max:** Kate Marsh. I was able to actually talk her down from the roof...
+
+**Homeless Lady:** That was you? If I had a bottle, cheers.
+
+{{#tag:tabber|(Max is suspended)(Max is suspended)**Max:** Thanks. Still didn't stop me from getting expelled from Blackwell.
+
+{{!}}-{{!}}(Max isn't suspended)# (Max isn't suspended)**Max:** Thanks. Wish I had a bottle for you.
+
+}}
+
+{{!}}-{{!}}(Max couldn't save Kate)(Max couldn't save Kate)**Max:** Kate Marsh. I was with her... when she jumped... I tried to save her. I swear I did.
+
+**Homeless Lady:** Oh honey, that was her choice, not yours. Don't you carry that weight.
+
+{{#tag:tabber|Too late.# Too late.**Max:** Too late... and I had the power to change things.
+
+**Homeless Lady:** The more power you think you have, the less you do.
+
+{{!}}-{{!}}I know.I know.**Max:** I know... I'm starting to see that I can't change everything...
+
+**Homeless Lady:** Especially when it comes to other people...
+
+}}
+
+**Homeless Lady:** Kate Marsh probably felt like she had nothing no more... I know the feeling.
+
+}}
+
+**Max:** But I need to find out who else is involved in this.
+
+**Homeless Lady:** I'm probably a bigger snoop than you. People pretend to not see me, so I see everybody. And everything.
+
+|-|Rachel and Kate.# Rachel and Kate.**Max:** I think...it's all connected to Rachel Amber's disappearance.
+
+**Homeless Lady:** A lot of things in Arcadia Bay are connected to Rachel...
+
+|-|Sad week.Sad week.
+
+{{#tag:tabber|(Max is suspended)# (Max is suspended)**Max:** It's been a sad week. Doesn't even matter that I got expelled from Blackwell...
+
+**Homeless Lady:** Maybe you're better off.
+
+{{!}}-{{!}}(Max isn't suspended)(Max isn't suspended)**Max:** It's been a sad week at Blackwell...
+
+**Homeless Lady:** It's a sad world, Max.
+
+}}
+
+**Homeless Lady:** But you're so damn young. Oh, if I could go back and be your age again...
+
+**Max:** I truly wish I could help you.
+
+{{#tag:tabber|(Talked to her in previous episode)# (Talked to her in previous episode)**Homeless Lady:** You did the last time you talked to me... Now you look like you could do with help of your own.
+
+{{!}}-{{!}}(Didn't talk to her in previous episode)(Didn't talk to her in previous episode)**Homeless Lady:** You look like you could do with help of your own.
+}}
+
+**Max:** Just to find some answers...
+
+**Homeless Lady:** I'm probably a bigger snoop than you. People pretend to not see me, so I see everybody. And everything.
+
+Nathan.# Nathan.**Max:** Including Nathan Prescott?
+
+{{#tag:tabber|(Nathan is suspended)(Nathan is suspended)**Homeless Lady:** That spoiled shit finally got kicked out of his daddy's school...
+
+{{!}}-{{!}}(Nathan isn't suspended)# (Nathan isn't suspended)**Homeless Lady:** That spoiled shit just has a bad aura, as we used to say...
+
+}}
+
+{{#tag:tabber|(Max saved Kate)(Max saved Kate)**Max:** He also drugged the girl who tried to jump...
+
+{{!}}-{{!}}(Max couldn't save Kate)# (Max couldn't save Kate)**Max:** He also drugged the girl who jumped.
+
+}}
+
+|-|Frank.Frank.**Max:** Frank Bowers knew Rachel... Have you seen him around?
+
+{{#tag:tabber|(Max tried to shoot Frank)# (Max tried to shoot Frank)**Homeless Lady:** I saw him today, looking more jumpy than usual...
+
+{{!}}-{{!}}(Max didn't try to shoot Frank)(Max didn't try to shoot Frank)**Homeless Lady:** I heard him bragging that he took a gun from some trespassers.
+
+}}
+
+**Max:** I don't know how he hasn't been arrested yet.
+
+|-|David Madsen.# David Madsen.**Max:** I think Joyce's husband, David, has something to do with all this.
+
+{{#tag:tabber|(David is on leave)(David is on leave)**Homeless Lady:** I saw him yesterday walking around, pissed off more than usual...
+
+**Max:** Because I basically got him kicked out of Blackwell.
+
+{{!}}-{{!}}(David isn't on leave)# (David isn't on leave)**Homeless Lady:** He's an uptight ass but I think he just wants something to do.
+
+**Max:** Like make life hell for me and his family?
+
+}}
+
+**Homeless Lady:** 
+
+Generate five trivia questions relevant to this section of the page.

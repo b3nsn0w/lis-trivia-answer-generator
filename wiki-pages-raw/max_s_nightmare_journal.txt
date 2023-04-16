@@ -1,0 +1,65 @@
+= Max's Nightmare Journal =
+
+{{Free Tab
+|minwidth = 22%
+|maxwidth = 30%
+|borderradius = 4
+|height = 2
+|tab1=Nightmare |link1=Max's Nightmare
+|tab2=Journal |link2=Max's Nightmare Journal
+|tab3=Messages |link3=Max's Nightmare Messages
+|tab4=Image Gallery|link4=Max's Nightmare/Gallery
+}}
+[[File:Maxnightmarejournal.png|thumb|272x272px|Max's journal in the nightmare sequence]]In [[Maxine Caulfield|Max]]'s [[Max's Nightmare|nightmare]] scenes, opening [[Max's Journal|Max's journal]] reveals violent and contorted versions of her entries with a degree of self-loathing. This also effects her pictures, texts and character notes.
+
+== Diary Entry ==
+=== Left Page ===
+<blockquote>Maxine, you keep fucking up. How many times does [[Chloe Price|Chloe]] have to die in front of you? Maybe it would be better to actually, you know, have a life?</blockquote>
+
+* THE DOE A LIE THE DOE IS A LIE THE DOE
+
+* MAX IN THE DARK ROOM ''(repeated about 8 times)''
+
+* FIND MY CAT PIX. PLEASE. MY HEART IS BROKEN.
+
+* <span style="transform:scaleX(-1); display:inline-block">CHLOE CHLOE CHLOE</span> ''(CHLOE backwards)''
+
+* ALWAYS TAKE THE SHOT
+
+=== Right Page ===
+<blockquote>TAKE A SELFIE, HO! Yes, you're running out of choices. Let's All Go To The [[Lighthouse]]! Max, why do you want to kill everybody? What did everybody ever do to you? Bully.</blockquote>
+
+* DEATH DEATH ONLY DEATH ONLY DEATH ONLY DEATH ONLY DEATH ONLY CHLOE 
+
+* NO NO
+
+* GO FUCK YOUR SELFIE ''(repeated 4 times)''
+
+* <span style="transform:scaleX(-1); display:inline-block">RACHEL RACHEL RACHEL</span> ''([[Rachel Amber|RACHEL]] backwards)''
+
+== Pictures ==
+Max's journal in the nightmare sequence displays various scribbles and pictures that are a part of her subconscious anxieties.
+Notable among these are: 
+* An instant camera shooting out blood (similar to the one Chloe gave her) alongside [[Mark Jefferson|Mr. Jefferson]]'s advice to "always take the shot."
+* Skulls with a deer skull.
+* Multiple eyes.
+* Chloe's head on a butterfly with a ripped wing.  
+<gallery widths="400" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+LiS1-Nightmare_Journal-bkg.png|The background assets without Max's entries. At the bottom of the right page is scrawl that reads "THERE'S NO ESCAPE NO NO NO NO." This is covered in-game by the "Back/Exit" interface asset. 
+</gallery>
+
+== Messages ==
+During Max's nightmare, she can check her phone to see SMS messages from [[Joyce Price]], [[William Price]], [[Chloe Price]], [[Nathan Prescott]], [[Pompidou]], [[Rachel Amber]], and [[Samuel Taylor]]. Some messages are dependent on the choices made in the game up to this point. See [[Max's Nightmare Messages|here]] for message content.
+
+== Character Notes ==
+There is no change to the character notes during the nightmare.
+
+
+[[pl:Wpis z koszmaru]]
+[[ru:Кошмар Макс/Журнал]]
+[[Category:Lore]]
+[[Category:Max's Nightmare]]
+[[Category:Lore (Life is Strange)]]
+[[Category:Life is Strange]]
+[[Category:Gameplay]]
+[[Category:Gameplay (Life is Strange)]]

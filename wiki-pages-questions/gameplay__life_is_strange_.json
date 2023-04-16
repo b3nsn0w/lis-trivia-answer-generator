@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Main Gameplay Mechanic In Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Time Rewind",
+      "B": "Stealth",
+      "C": "Combat",
+      "D": "Puzzle Solving"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Ability That Allows Max To Rewind Time?",
+    "answer": "D",
+    "choices": {
+      "A": "Time Jump",
+      "B": "Time Warp",
+      "C": "Time Shift",
+      "D": "Time Rewind"
+    }
+  },
+  {
+    "question": "What Is The Name Of The High School That Max And Chloe Attend?",
+    "answer": "A",
+    "choices": {
+      "A": "Blackwell Academy",
+      "B": "Arcadia High School",
+      "C": "Jefferson High School",
+      "D": "Prescott Academy"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Town Where Life Is Strange Takes Place?",
+    "answer": "A",
+    "choices": {
+      "A": "Arcadia Bay",
+      "B": "Blackwell Bay",
+      "C": "Jefferson Bay",
+      "D": "Prescott Bay"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Character Who Is The Main Antagonist In Life Is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "Nathan Prescott",
+      "B": "Mark Jefferson",
+      "C": "Victoria Chase",
+      "D": "David Madsen"
+    }
+  }
+]

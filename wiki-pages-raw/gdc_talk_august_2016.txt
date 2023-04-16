@@ -1,0 +1,16 @@
+= GDC Talk August 2016 =
+
+At the '''GDC (Game Development Conference) Europe''' that took place in Cologne in August 2016, Writer [[Christian Divine]] presented a talk titled "The Blue Age of Storytelling" in which he reflects on the writing and design process for ''[[Life is Strange]]'', and how its development heralds a new era for narrative games.
+
+== Video ==
+<gallery widths="300" position="center" bordersize="none" captionalign="center" hideaddbutton="true" captionsize="small">
+Life is Strange The Blue Age of Storytelling 
+</gallery>
+
+== Transcript ==
+TBA
+
+[[Category:Videos]]
+[[Category:Behind the Scenes]]
+[[Category:Behind the Scenes (Life is Strange)]]
+[[Category:Life is Strange]]

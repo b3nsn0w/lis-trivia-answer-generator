@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Which location in Max's Journal Gallery is missing a note page with a missing person poster?",
+    "answer": "B",
+    "choices": {
+      "A": "ArtClass",
+      "B": "CampusA",
+      "C": "CampusB",
+      "D": "Max's Room"
+    }
+  },
+  {
+    "question": "Which photo in Max's Journal Gallery is unlocked after taking a picture of a bird in the Old Farm?",
+    "answer": "A",
+    "choices": {
+      "A": "OldFarm Bird01 Unlocked.png",
+      "B": "OldFarm Owl Unlocked.png",
+      "C": "Beach Whales Unlocked.png",
+      "D": "MenToilets CHJustin Unlocked.png"
+    }
+  },
+  {
+    "question": "Which photo in Max's Journal Gallery is unlocked after taking a picture of a rabbit in Kate's Room?",
+    "answer": "A",
+    "choices": {
+      "A": "KateRoom Rabbit Unlocked.png",
+      "B": "ArtClass CHKate Unlocked.png",
+      "C": "ArtGallery BehindSomeone LONGPHOTO Unlocked.png",
+      "D": "DarkRoom CHJefferson LONGPHOTO Unlocked.png"
+    }
+  }
+]

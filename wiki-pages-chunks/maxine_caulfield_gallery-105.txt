@@ -1,0 +1,15 @@
+Here is a section of the wiki page for Maxine Caulfield/Gallery:
+
+#  Maxine Caulfield/Gallery 
+
+The following images are of the character [Maxine Caulfield](max_caulfield.md).
+
+## Concept Art 
+
+MaxFashionableConcept.jpg|Concept art by [Edouard Caplain](edouard_caplain.md)
+MaxNormalRachelConcept.jpg|Concept art by Edouard Caplain
+MaxSleepwearConcept.jpg|Concept art by Edouard Caplain
+
+
+
+Generate five trivia questions relevant to this section of the page.

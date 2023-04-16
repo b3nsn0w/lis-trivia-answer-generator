@@ -1,0 +1,151 @@
+= Max's Character Notes =
+
+{{Free Tab
+|minwidth = 5
+|maxwidth = 100
+|borderradius = 4
+|height = 2
+|tab1=Journal |link1= Max's Journal
+|tab2=Diary |link2= Max's Diary
+|tab3= Optional Photos |link3= Optional Photos
+|tab4= SMS Messages |link4= Max's Messages
+|tab5= Max's Notes |link5= Max's Notes
+|tab6= Character Notes |link6= Max's Character Notes
+|tab7= Gallery |link7=Max's Journal Gallery
+}}
+: ''For [[Chloe Price (Before the Storm)|Chloe Price]]'s character notes from the [[Life is Strange: Before the Storm|prequel game]], see [[Chloe's Character Notes]].''
+[[Max's Journal|Max's journal]] includes a special section for '''character notes'''. The first character note that is displayed for the player right at the beginning of the game is [[Maxine Caulfield|Max Caulfield]]'s self introduction. Whenever Max encounters an important character for the first time in the game, she leaves a note on that character in her journal next to a photo of them, which reflects her initial thoughts about that character. Aside from Max's self-introduction, those notes are typically the first entries of [[Max's Diary|Max's diary]] on a character explicitly related to them.
+<br />
+
+{{Scaleimage|file=Max's Character Notes.jpg|size=small}}
+<tabber> Max=<h5 style="display:none"> Max</h5>
+[[Image: Journal_Max.jpg|thumb|280px|left]]
+<blockquote>''My name is Max Caulfield, and ever since I was a little kid I knew I wanted to be a photographer. I've always seen the world through my own lens finder. Maybe it's a way for me to be part of the world, but at a safe distance.''</blockquote><blockquote>''For some reason I was always drawn to old analog camera gear rather than digital tech. I love all kinds of styles and techniques but for me, the instant camera selfie is the one I love most. I don't care if people make fun of me or not. I'm in great company, right? And now I've come all the way back to my childhood home to study photography at Blackwell Academy, a private school for 12th grade seniors.''
+''On a scholarship even!''</blockquote><blockquote>''I originally left behind Chloe, my "best friend forever" (at least until I left without talking to her once in five years) and it feels so weird to be back here without seeing her yet. So I'm eighteen now, an official adult even though I don't always feel so wise or mature, and I'm ready to begin a whole new life here with retro camera at my side.''<br/></blockquote><blockquote>''"Say Cheese!"''</blockquote>
+
+|-|Jefferson=<h5 style="display:none">Jefferson</h5>
+[[Image: Journal_Jefferson.png|thumb|280px|left]]
+<blockquote>''Not only is Mark Jefferson one of the best photographers in the world, he's also my teacher. And one of the reasons I wanted to come to Blackwell. How often do you get to be mentored by one of your inspirations? I've always loved his deco and goth style and he's so versatile with all of his incredible print and advertising work. Still, Jefferson can be a bit condescending. He's pretty hip for his age, but kinda aloof and sometimes pretentious. He has this smug smile when he thinks he's right...''
+
+''But I do think he's preparing us for how tough it is to be a full time "artist". He acts like he understands my own work and obsession with analog images.''
+
+''He really wants me to enter a photo in this "Everyday Hero" contest but I've done a good job of avoiding that. The winner gets to fly to San Francisco to represent Blackwell Academy and get national exposure. I'd like to think my work could be good enough to win and I'm honored Jefferson even bugs me about the contest.''</blockquote>
+
+|-|Kate=<h5 style="display:none">Kate</h5>
+[[Image: Journal_Kate.png|thumb|280px|left]]
+<blockquote>''I’ve forgotten if I’ve ever seen Kate Marsh smile or laugh in the past month. She’s really sweet and nice, even though the other students make fun of her abstinence campaign. Even if they act immature, everybody at Blackwell are seniors, not high school freshmen... She gets a lot of shit in fact. I know she’s involved in a lot of religious groups, but she doesn’t preach to me so I don’t care.''
+
+''But she’s been extra quiet and introverted the past couple weeks. She looks like she’s in zombie mode. I wish I could help her, but I can barely help myself. I wonder if all that bullying has worn her down... I can see how it would. I have to make an effort to talk to her more often, maybe invite her to tea or a movie.''
+
+''Although she’s an adult I bet she's not “allowed” to watch “R” rated films…''</blockquote>
+
+|-|Victoria=<h5 style="display:none">Victoria</h5>
+[[Image: Journal_VIctoria.png|thumb|280px|left]]
+<blockquote>''Then there's Victoria Chase, the elite of Blackwell Academy, and a total bitch. And I hate saying that. I just don't know why somebody who's so rich and beautiful needs to be so fucking mean. 18 year olds at a prestigious academy should be evolving into artists and scholars... not reality show contestants. Victoria does everything for maximum drama. She actually wastes her time calling me out in class and taunting Kate Marsh.''
+
+''For reals? I wish her parents could see her in action. They'd cut off that trust fund fast. Then again, she's in the Vortex Club, and they seem to own the school, so maybe that's why she doesn't give a shit.''
+
+''The odd thing is that she does know art and photography. She can even say all those French names that break my tongue. Her work is a little cold, but she has a good eye.''
+
+''She also has an eye for Mr. Jefferson, which is so obvious that I'm embarrassed for her.''
+
+''She does everything but sit in his lap. He keeps his distance though. We can all tell she's trying to win the "Everyday Heroes"<ref group=note">The contest was referred to as "Everyday Hero" instead of "Everyday Heroes" in some cases like here prior to [?]</ref> contest. I'm sure it drives her crazy when there's somebody she can't buy or seduce. Ha!''</blockquote>
+
+|-|Rachel=<h5 style="display:none">Rachel</h5>
+[[Image: Journal_Rachel.png|thumb|280px|left]]
+<blockquote>''Where is Rachel Amber? Even though Blackwell Academy feels so remote and tranquil, you still get sad reminders of reality, like “Missing Person” posters literally wallpapered all over campus. I already know her name through osmosis. I guess she was a popular student here and vanished six months ago. Rachel has a great picture on her “Missing Person” poster. She looks posed and pretty, like a model.''
+
+''Of course, I wonder who took the photo. Did she run away from home? I’d like to hope so. For her sake. It’s so depressing. And I feel awful for her parents. What a shitty thing to go through. SIGH. No matter how much Blackwell seems like a secret bubble of knowledge, you can’t escape the real world...''</blockquote>
+
+|-|Nathan=<h5 style="display:none">Nathan</h5>
+[[Image: Journal_Nathan.png|thumb|280px|left]]
+<blockquote>''Just when I thought Victoria Chase would be the worst of my social problems, now I have to deal with Nathan Prescott. But I guess he was the one who triggered my crazy rewind power by shooting that girl in the bathroom. He's 19 and already a scary fucking prick.''
+
+''I guess I have a little advantage on Nathan by being able to manipulate time, but if he shoots me I may not be able to reverse anything. I have to be careful around him, especially since he's obviously got friends in high places as his family last name is practically branded on every building here at Blackwell. His money against mine...''
+
+''On one hand, I do kinda feel bad for Nathan because he doesn't seem to be in control, like he's doped up or over medicated. On the other, he's an asshole who nobody has called out. And he almost killed (/did kill?) a girl on campus. Should I go straight to the police? What do I say about my rewind power? Like I'd say anything. I just have to watch my own back from now on. Oh, school days!''</blockquote>
+
+|-|Principal=<h5 style="display:none">Principal</h5>
+[[Image: Journal_Principal.png|thumb|280px|left]]
+<blockquote>''I can't figure out where Principal Wells is coming from. For some reason, he seems to be suspicious of me at all times. Who knew I was that much trouble? He wanted to know why I was zoning out in the halls. I stuttered like a fool. He has so much power over my scholarship I get uber-nervous around him. I've seen him laughing with other teachers and students, so I know he must have a problem with me.''
+
+''He also seems a little stressed out. I would be too if I had to oversee Blackwell and all its drama. I thought I smelled alcohol on his breath but that could have been his cologne. Right? But I remember my first meeting in his office and he was so nice and made me feel like I was becoming part of a special world.''
+
+''He said he hoped I would become a great photographer and someday return the favor to Blackwell. I thought that was a bit of wishful thinking, but it made me feel good. I just need to lay low around him. Until I can somehow gain his trust.''</blockquote>
+
+|-|Warren=<h5 style="display:none">Warren</h5>
+[[Image: Journal_Warren.png|thumb|280px|left]]
+<blockquote>''I knew if I gave Warren my phone he would blow it up for "science". He wants his flash drive back after letting me borrow it for less than a week. He told me to watch everything because he has tons of cool TV shows and films on there.''
+
+''Thank god it wasn't porn. And I am thankful for Warren. He's like a real friend and we share a lot of the same interests. He loves science but he really understands art and appreciates great photography.<ref group=note">It stated "Thank gawd" prior to [?]</ref> Even though he says he loves my pictures, I can't tell if he's just being nice.''
+
+''Warren is a geek, but he definitely lets you know where he stands, I don't think he would ever lie to me. It feels good to have at least one strong ally the same age here... And he makes me smile.''</blockquote>
+
+|-|Chloe=<h5 style="display:none">Chloe</h5>
+[[Image: Journal_Chloe.png|thumb|280px|left]]
+<blockquote>''Then there’s Chloe Price. What do you say to your best friend after five years of silence? After finding out you saved her life in a bathroom? NOTHING. I feel so lame for not staying in touch… or even text. I have no idea how to process seeing Chloe like this again. For one thing, she looks so similar but so different… She’s all grown up now, but it doesn’t seem like she’s only one year older than me.''
+
+''I absolutely love her blue hair and punk clothes. It makes sense she would become a rebel. She still kinda looks like a pirate. Except one who stage dives. I know she’s angry with me because of her body language. I’m glad I can still see the old Chloe in there. Or is that the young Chloe? I’m sure she’s still messed up about her dad dying. I would be too. That was a terrible time for Chloe and Joyce.''
+
+''I feel bad because I wonder if I was happy to move away just to avoid the grief… Speaking of grief, it’s clear she’s all mixed up with Nathan Prescott’s shit. I have no idea what’s going on between them, but I am going to find out, no matter what.''</blockquote>
+
+|-|David=<h5 style="display:none">David</h5>
+[[Image: Journal_David.png|thumb|280px|left]]
+<blockquote>''Whoa, I swear that security guard is the biggest ass here. And that’s saying a lot. He always treats everybody like they’ve committed a crime or they’re about to commit one. He grilled me in the hall today and I thought he was going to arrest me. I don’t know much about him but I heard he was kicked out of the army or something.''
+
+''So of course he would end up at Blackwell Academy in charge of security. Aren’t you supposed to feel, I don’t know, SECURE, on campus?''
+
+''Bro-dude swaggers everywhere with that badge and gun like he’s looking to tase somebody. He would make a good photo portrait of authority though. Who does a guy like that marry? I feel sorry for his family. It would be like living in a barracks. Shudder. Just another person I have to avoid at Blackwell. Collect ‘em all.''</blockquote>
+
+|-|Joyce=<h5 style="display:none">Joyce</h5>
+[[Image: Journal_Joyce.png|thumb|280px|left]]
+<blockquote>''Talking to Joyce Price after five years was almost as intense as seeing Chloe again. Especially right back in "ye olde" Two Whales Diner. That clinking of silverware and the smell of sizzling bacon rewound me back to being a kid, hanging out there with my parents for breakfast. I remember her always smiling at Chloe, even in mischief. Doubt she smiles at her hijinks now, but they still banter like mother and daughter.''
+
+''I moved to Seattle so soon after William died that I never saw how it affected Joyce. I'm glad she's not pissed at me for being selfish and never looking back. I still remember the last time Chloe and I saw him alive. I wonder how often Joyce relives that day? That's the worst kind of rewind: one you can't control. But if I could go back to that moment... what would I do?''
+
+''I can only imagine how Joyce ended up with David Madsen. Talk about opposites. You can tell she loves him—disturbing as that sounds. Maybe she just wanted a more structured life for herself... Obviously it didn't work out that way with Chloe. I hope they both treat her right. Joyce deserves the best.''</blockquote>
+
+|-|Frank=<h5 style="display:none">Frank</h5>
+[[Image: Journal_Frank.png|thumb|280px|left]]
+<blockquote>''I'll never forget Frank—if only because he's the first and last person I will ever aim a gun at. How did Chloe end up in this sketchy drug dealer's orbit? The weird thing is that when I first saw him threatening Chloe in the junkyard, I was more shocked how un-creepy he looked. I expected some try-hard gangster, but he looked more like a dumpster diving troll. Which I guess he kinda is since we were on his turf, testing out my rewind skills for Chloe's amusement.''
+
+''Though he didn't look like a serial killer, his vibe (aura, energy, whateva) was BAD. I could literally feel the hair on my arms prickling. He wanted the money Chloe owed him, so it didn't make sense he would hurt her but I wasn't going to take a chance... So yes, I actually threatened him with David's gun. Ridiculous. Fortunately none of us ended up like "Reservoir Dogs" and I saw that maybe Frank isn't as scary as I thought...''
+
+''But I don't want Chloe near him EVER again. Since he was wearing one of Rachel Amber's bracelets for WTF reasons, I doubt Chloe will be partying with him anymore. But he's at the top of our suspect list now...''</blockquote>
+</tabber>
+
+== Trivia ==
+*The photographs that feature character notes are shots taken from the first encounter/conversation with the addressed person. They are the same photos that appear as their contact pictures on Max's mobile phone. 
+**The photo that features Max's self introduction is a shot from the scene where Max leans against the Blackwell corridor wall listening to "[[To All of You|To All Of You]]" by Syd Matters after leaving Jefferson's class in [[Episode 1: Chrysalis]].
+**The photo that features [[Mark Jefferson|Mr. Jefferson]]'s character note is a shot from the scene where Max first talks to him after his class ended in Episode 1.
+**The character notes for [[Rachel Amber]] will appear in Max's journal after she finds a photograph in [[Chloe Price]]'s bedroom that features Chloe and Rachel posing together. The photograph of Rachel on her character notes page matches Chloe's photograph. This suggests that Max has taken a photograph of this picture with her camera. An unused image file originally intended for use in Max's character notes is a black and white photograph of Rachel from her 'missing' poster, taken at an angle.
+*One of two possible sticker graphics will be added to [[Kate Marsh]]'s character notes in Max's journal, depending on her fate at the end of [[Episode 2: Out of Time]]. 
+
+== Notes ==
+<references />
+
+== Gallery ==
+<gallery spacing="large" captionalign="center" position="center" hideaddbutton="true" bordersize="none" widths="180" bordercolor="transparent">
+Character_Note_Max.jpg
+Character_Note_Jefferson.jpg
+Character_Note_Victoria.jpg
+Character_Note_Kate.png
+Character_Note_Rachel.jpg
+Character_Note_Nathan.jpg
+Character_Note_Wells.jpg
+Character_Note_Warren.jpg
+Character_Note_Chloe.jpg
+Character_Note_David.jpg
+Character_Note_Joyce.jpg
+Character_Note_Frank.jpg
+</gallery>
+
+[[pt-br:Perfis de Personagens da Max]]
+[[ru:Заметки Макс о персонажах]]
+[[Category:Gameplay]]
+[[Category:Gameplay (Life is Strange)]]
+[[Category:Max's Journal]]
+[[Category:Max's Belongings]]
+
+
+[[Category:Life is Strange]]

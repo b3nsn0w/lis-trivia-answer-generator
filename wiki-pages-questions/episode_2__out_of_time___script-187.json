@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Say To Joyce Before Leaving The Diner?",
+    "answer": "A",
+    "choices": {
+      "A": "Bye, Joyce.",
+      "B": "See you later, Joyce.",
+      "C": "Goodbye, Joyce.",
+      "D": "Farewell, Joyce."
+    }
+  },
+  {
+    "question": "What Do Max And Chloe Do After Saying Goodbye To Joyce?",
+    "answer": "C",
+    "choices": {
+      "A": "They Hug Each Other",
+      "B": "They Shake Hands",
+      "C": "They High Five And Fist Bump",
+      "D": "They Wave Goodbye"
+    }
+  },
+  {
+    "question": "What Does Chloe Say About Kate Surviving?",
+    "answer": "A",
+    "choices": {
+      "A": "She'll Survive You Not Taking That One Call",
+      "B": "She'll Survive Without You",
+      "C": "She'll Survive The Dark Room",
+      "D": "She'll Survive The Vortex Club"
+    }
+  },
+  {
+    "question": "What Does Max Think About Answering Kate's Call?",
+    "answer": "A",
+    "choices": {
+      "A": "She Hopes Kate Doesn't Get Upset",
+      "B": "She Doesn't Care About Kate's Call",
+      "C": "She Regrets Not Answering Kate's Call",
+      "D": "She Is Glad She Didn't Answer Kate's Call"
+    }
+  },
+  {
+    "question": "Who Watches Max And Chloe Leave The Diner From A Distance?",
+    "answer": "C",
+    "choices": {
+      "A": "The Waitress",
+      "B": "The Cook",
+      "C": "The Dog Owner",
+      "D": "The Police Officer"
+    }
+  }
+]

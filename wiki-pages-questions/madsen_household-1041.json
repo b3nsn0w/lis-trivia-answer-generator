@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Did Max And Chloe Pretend The Living Room Couch Was?",
+    "answer": "A",
+    "choices": {
+      "A": "A Pirate Ship",
+      "B": "A Spaceship",
+      "C": "A Castle",
+      "D": "A Racecar"
+    }
+  },
+  {
+    "question": "What Did Max And Chloe Knock Over That Caused A Wine Stain On The Living Room Carpet?",
+    "answer": "C",
+    "choices": {
+      "A": "A Vase",
+      "B": "A Lamp",
+      "C": "A Wine Bottle",
+      "D": "A Bowl"
+    }
+  },
+  {
+    "question": "What Did Max And Chloe Draw Together In The Backyard?",
+    "answer": "D",
+    "choices": {
+      "A": "A Tree",
+      "B": "A House",
+      "C": "A Flower",
+      "D": "A Dragon"
+    }
+  },
+  {
+    "question": "What Is The Name Of Chloe's Deceased Cat Buried In The Backyard?",
+    "answer": "A",
+    "choices": {
+      "A": "Bongo",
+      "B": "Whiskers",
+      "C": "Mittens",
+      "D": "Fluffy"
+    }
+  },
+  {
+    "question": "What Did Max Say About The Books On The Bookshelf In The Upstairs Area?",
+    "answer": "A",
+    "choices": {
+      "A": "\"These Books Have Not Been Touched Since The Last Decade.\"",
+      "B": "\"These Books Are All Brand New.\"",
+      "C": "\"These Books Are All Bestsellers.\"",
+      "D": "\"These Books Are All Classics.\""
+    }
+  }
+]

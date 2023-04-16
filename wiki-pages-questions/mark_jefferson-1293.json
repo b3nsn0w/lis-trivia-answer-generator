@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Was The Name Of The Photography Studio Bunker Where Jefferson Took His Victims?",
+    "answer": "A",
+    "choices": {
+      "A": "The Dark Room",
+      "B": "The Red Room",
+      "C": "The Black Room",
+      "D": "The Secret Room"
+    }
+  },
+  {
+    "question": "What Was The Relationship Between Jefferson And Rachel Amber?",
+    "answer": "B",
+    "choices": {
+      "A": "They Were Friends",
+      "B": "They Were Lovers",
+      "C": "They Were Enemies",
+      "D": "They Were Strangers"
+    }
+  },
+  {
+    "question": "What Was The Connection Between Nathan Prescott And Jefferson?",
+    "answer": "A",
+    "choices": {
+      "A": "They Were Business Partners",
+      "B": "They Were Friends",
+      "C": "They Were Lovers",
+      "D": "They Were Teacher And Student"
+    }
+  },
+  {
+    "question": "What Was The Theory About Jefferson's Motives For Using Young Women In His Photography?",
+    "answer": "B",
+    "choices": {
+      "A": "He Was A Serial Killer",
+      "B": "He Was Working With The Prescotts",
+      "C": "He Had Time Control Powers",
+      "D": "He Was A Photographer For A Magazine"
+    }
+  },
+  {
+    "question": "What Was The Debate About The Identity Of The Caller Who Contacted Jefferson In Episode 2?",
+    "answer": "D",
+    "choices": {
+      "A": "It Was Nathan Prescott",
+      "B": "It Was Sean Prescott",
+      "C": "It Was Max Caulfield",
+      "D": "It Was Never Revealed"
+    }
+  }
+]

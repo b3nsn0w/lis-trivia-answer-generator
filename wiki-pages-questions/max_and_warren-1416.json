@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Motto Or Quote Warren Uses On Max In The Parking Lot?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Art Is Science, Science Is Art\"",
+      "B": "\"Science Is Art, Art Is Science\"",
+      "C": "\"Art Is Life, Life Is Art\"",
+      "D": "\"Life Is Science, Science Is Life\""
+    }
+  },
+  {
+    "question": "What Does Warren Save Max From Twice In The Game?",
+    "answer": "C",
+    "choices": {
+      "A": "A Car Accident",
+      "B": "A Fire",
+      "C": "A Confrontation With Nathan",
+      "D": "A Kidnapping"
+    }
+  },
+  {
+    "question": "What Is The Reason Max Gives In Her Diary For Declining Warren's Movie Invitation?",
+    "answer": "A",
+    "choices": {
+      "A": "She Doesn't Want To Lead Him On",
+      "B": "She Doesn't Like Him That Way",
+      "C": "She Is Busy With School Work",
+      "D": "She Already Has Plans"
+    }
+  },
+  {
+    "question": "What Does Warren Do In The Alternative Timeline?",
+    "answer": "C",
+    "choices": {
+      "A": "He Dates Victoria",
+      "B": "He Dates Kate",
+      "C": "He Dates Stella",
+      "D": "He Dates Rachel"
+    }
+  }
+]

@@ -1,0 +1,47 @@
+Here is a section of the wiki page for Chloe and Rachel:
+
+#  Chloe and Rachel 
+
+```yaml
+relationship
+
+title1: Chloe and Rachel
+image1: Chloeandrachel-bts-main.png
+'participants:': '[Chloe Price](chloe_price.md) and [Rachel Amber](rachel_amber.md)'
+'type_of_relationship:': Best Friends and Lovers
+'status:': |-
+  Blackwell Academy Schoolmates (*Before the Storm*)
+  Separated
+'started:': '[Episode 1: Awake](episode_1__awake.md)'
+```
+
+> Rachel Amber. She was my... angel. After my dad died and you moved, I felt abandoned. Rachel saved my life.
+
+**[Chloe Price**, Chloe](chloe_price____chloe.md) to [Maxine Caulfield, Max](maxine_caulfield__max.md) in "[Episode 1: Chrysalis, Chrysalis](episode_1__chrysalis__chrysalis.md)"
+
+This article is meant to give a deeper and more detailed look at the relationship between [Chloe Price](chloe_price.md) and [Rachel Amber](rachel_amber.md) and its development throughout *[Life is Strange](life_is_strange.md)* as well as its depiction in the [Deck Nine](deck_nine.md)-developed prequel *[Life is Strange: Before the Storm](before_the_storm.md)*.
+
+## Life is Strange 
+Rachel goes missing 6 months before October 2013. Chloe describes Rachel as her angel and that after her dad died and Max moved away, she felt abandoned, but Rachel was there to save her. They had plans to move to [Los Angeles](los_angeles.md) together because Rachel wanted to be a star.  
+
+Chloe and Rachel liked to hang out together in a [Hideout](hideout.md) located in the local [American Rust Junkyard](junkyard.md). Inside this hideout are many mementos of their friendship, including a mixtape CD that Chloe made called "Rachel Songs". Also in this hideout is a [Vortex Club Block Party (March 28, 2013)](vortex_club_party.md) flyer dated right before Rachel disappeared.
+
+It is clear that Rachel meant a lot to Chloe from the sheer number of missing person flyers she had been printing at home to put up around the town. All Chloe knew about Rachel's disappearance was that, before she went missing, she said she had met somebody who changed her life. She did not appear to know anything about the "secret relationship" Rachel had been wanting to tell her about.Discovered when Max finds a letter written to Chloe from Rachel that has been balled up and thrown away in a corner of the hideout.When Max returns to Arcadia Bay to start school in September 2013, and by chance meets up with Chloe the following month, Chloe is very vocal to Max about missing Rachel. At one point, she tells Max that she wishes Rachel could meet her as they are both not that different and they could have all been "best friends forever".
+
+Rachel was seen as a bad influence on Chloe by Chloe's [David Madsen](stepfather.md), while Chloe's [Joyce Price](mother.md) describes their relationship as being "almost joined at the head" and thinks Rachel isn't as grounded as Max. (Said to Max: "Thank God you're not a hellraiser like her or Chloe.")  [File:RachelChloeLetter.png](thumb.md)In the months since Rachel disappeared, Chloe displays a possessiveness over Rachel and Rachel's things, such as the rage she flies into when she sees that [Frank Bowers](frank_bowers.md) is wearing a bracelet that belonged to Rachel.
+
+When Chloe finds out (through Max) that Rachel has been seeing Frank, she reacts badly to the discovery: 
+
+''"It makes me ill that Rachel posed like this for Frank... or wrote him love letters... I can't believe she was banging Frank! Rachel straight up lied to my face! Why didn't she say anything?"*
+
+Chloe sees the relationship with Frank as a betrayal to her and becomes tearful and angry.
+
+*"Why does everybody in my life let me down? My dad gets killed, you bail on me for years, my mother gloms onto step-fucker... now Rachel betrays me..."''
+
+The extent of Chloe and Rachel's relationship is never made clear in *Life is Strange: Season 1*, but it does appear from various actions and comments that Chloe had a crush on Rachel, whether that crush was unrequited or not. Rachel cared about Chloe to some degree to send her postcards that said, "Miss you. Wish you were here!!!", and it is from the postmark on [Media:Note-chloesroom-postcardback.png](one_of_these_postcards.md) that we discover they were friends in 2011. There are also photographs that show them having fun together, so it can be assumed that they were at least good friends. They also had many sleepovers. At one point, Max says to Chloe, "Sounds like you totally crushed on Rachel." Chloe replies to this with, *"You would have too. Smart, sexy and sassy... Like me, right?"*
+
+Another possible implication for Chloe's feelings for Rachel is when Max says to Chloe, "I can't see you with any of the guys around here...", and Chloe responds with: ''"Because you have a good eye. That's why I was so glad Rachel came along to rescue me."*
+
+
+
+Generate five trivia questions relevant to this section of the page.

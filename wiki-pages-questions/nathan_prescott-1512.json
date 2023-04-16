@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who does Nathan have a romantic interest in?",
+    "answer": "B",
+    "choices": {
+      "A": "Victoria Chase",
+      "B": "Rachel Amber",
+      "C": "Maxine Caulfield",
+      "D": "Kate Marsh"
+    }
+  },
+  {
+    "question": "What is Nathan's relationship with Mark Jefferson?",
+    "answer": "C",
+    "choices": {
+      "A": "Father and son",
+      "B": "Best friends",
+      "C": "Mentor and mentee",
+      "D": "Business partners"
+    }
+  },
+  {
+    "question": "Who does Nathan threaten for unknown reasons?",
+    "answer": "B",
+    "choices": {
+      "A": "Maxine Caulfield",
+      "B": "Samuel Taylor",
+      "C": "Warren Graham",
+      "D": "Luke Parker"
+    }
+  },
+  {
+    "question": "What is the significance of the color red in relation to Nathan?",
+    "answer": "C",
+    "choices": {
+      "A": "It represents his love for Rachel Amber",
+      "B": "It symbolizes his sensitivity and passion",
+      "C": "It reflects the pressure placed on him by his family name",
+      "D": "It represents his calm and collected personality"
+    }
+  }
+]

@@ -1,0 +1,122 @@
+Here is a section of the wiki page for Game Statistics/Playstation:
+
+## **Minor Choices** 
+**Blue Jay**
+* You saved the blue jay. - 40%
+* You let the blue jay die. - **60%**
+'''Bird's Nest'''
+* You disturbed the bird's nest. - 11%
+* You didn't disturb the bird's nest. - **89%**
+'''David's Locker'''
+* You found David's code. - 48%
+* You got David's files in another way. - **52%**
+**Kate**
+* Kate helped you find Nathan's room. - **52%**
+* Kate didn't help you. - 48%
+**Daniel**
+* You motivated Daniel to attend the Vortex Club party. - 27%
+* You didn't motivate Daniel to attend the Vortex Club party. - **73%**
+'''Warren's Slate'''
+* You left a message on Warren's slate. - 19%
+* You didn't leave a message on Warren's slate. - **78%**
+'''Nathan's PIN Code'''
+* You figured out Nathan's PIN code. - 31%
+* You didn't figure out Nathan's PIN code. - **69%**
+**Alyssa**
+* You helped Alyssa. - **67%**
+* You didn't help Alyssa. - 33%
+
+## Episode Five - "[Episode 5: Polarized](polarized.md)" 
+
+#
+
+## **Major Choices** 
+In "Polarized", the only major choice to do is to make a final sacrifice between saving Chloe and allowing Arcadia Bay to be destroyed, presumably along with your friends and all its residents being killed, or saving Arcadia Bay and sacrificing Chloe by allowing her to die in the bathroom in order to prevent the tornado from occurring and thus sparing the town. Note, these are also the choices which cannot be rewound except focusing on the photo before the time Chloe died.
+{| width# "100%" align"center"
+|
+**Sacrifice Arcadia Bay**
+* You decided to sacrifice Arcadia Bay. — 48%
+
+**Sacrifice Chloe**
+* You decided to sacrifice Chloe. — **52%**
+|style# "padding-right:50px"|[File:TX_MajChoice_E5_7A_SaveChloe.png](thumb.md)
+|[File:TX_MajChoice_E5_7A_SaveTown.png](thumb.md)
+|}
+
+#
+
+## **Minor Choices** 
+**David**
+* David got a scar during the fight. - **97%**
+* David didn't get a scar during the fight. - 3%
+
+**Mark Jefferson**
+* David killed Jefferson. - 48%
+* David didn't kill Jefferson. - **52%**
+
+**The Trucker**
+* You saved the trucker. - **56%**
+* You didn't save the trucker. - 44%
+
+**Evan**
+* You saved Evan. - **58%**
+* You didn't save Evan. - 42%
+
+**Alyssa**
+* You saved Alyssa. - **59%**
+* You didn't save Alyssa. - 41%
+
+**The Fisherman**
+* You saved the fisherman. - **71%**
+* You didn't save the fisherman. - 29%
+
+**Joyce**
+* You helped Joyce believe in David again. - 42%
+* You didn't change Joyce's mind about David. - **68%**
+
+**Frank**
+* You told the truth about Rachel to Frank. - **60%**
+* You didn't tell the truth about Rachel to Frank. - 40%
+
+**Warren**
+* You kissed Warren. - **74%**
+* You didn't show Warren any affection. - 4%
+* You hugged Warren. - 22%
+
+## Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+#
+
+## **Major Choices** 
+{| width"100%" align# "center"
+| valign"top" |
+**Principal Wells**
+* You reported Nathan. - **66%**
+* You hid the truth. - 34%
+|style# "padding-right:100px"|[File:TX_MajorChoice_Nathan.png](right.md)
+|-
+| valign"top" |
+'''Victoria's Outfit**
+* You made fun of Victoria. - 34%
+* You comforted Victoria. - **66%**
+|[File:TX MajorChoice Victoria.png](thumb.md)
+|-
+| valign# "top" |
+**David and Kate**
+* You took a photo of David harassing Kate. - 18%
+* You intervened to help out Kate. - **82%**
+|style"padding-right:100px"|[File:TX_MajorChoice_Kate.png](thumb.md)
+|-
+| valign# "top" |
+**Chloe's Pot**
+*You took the blame for Chloe. - 32%
+* You blamed Chloe. - 2%
+* You stayed hidden. - **35%**
+* You came out of hiding to intervene. - 31%
+|[File:TX MajorChoice David.png](thumb.md)
+|}
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

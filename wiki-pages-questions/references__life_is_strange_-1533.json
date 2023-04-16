@@ -1,0 +1,12 @@
+[
+  {
+    "question": "Which TV show is referenced in the football game scheduled for the final day of the game?",
+    "answer": "B",
+    "choices": {
+      "A": "Friends",
+      "B": "Buffy the Vampire Slayer",
+      "C": "The X-Files",
+      "D": "Seinfeld"
+    }
+  }
+]

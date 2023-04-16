@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is Courtney's role in the Vortex Club?",
+    "answer": "C",
+    "choices": {
+      "A": "Treasurer",
+      "B": "President",
+      "C": "Gatekeeper",
+      "D": "Secretary"
+    }
+  },
+  {
+    "question": "In which episode does Max have the option to talk to Courtney about the End of the World Party?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "What does Max need to do to get on Courtney's guest list for the Vortex Club party?",
+    "answer": "A",
+    "choices": {
+      "A": "Compliment her sense of fashion",
+      "B": "Offer to help with the guest list",
+      "C": "Bring a gift for Victoria",
+      "D": "Show her a secret passage to the party"
+    }
+  },
+  {
+    "question": "In which episode does Courtney appear in Max's nightmare?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 4: Dark Room",
+      "D": "Episode 5: Polarized"
+    }
+  },
+  {
+    "question": "What is Courtney's presumed fate in the Sacrifice Arcadia Bay ending?",
+    "answer": "B",
+    "choices": {
+      "A": "She survives",
+      "B": "She dies in the storm",
+      "C": "She dies in the Dark Room",
+      "D": "It is not mentioned"
+    }
+  }
+]

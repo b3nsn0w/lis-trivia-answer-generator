@@ -1,0 +1,109 @@
+Here is a section of the wiki page for Objectives (Life is Strange):
+
+## Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+* "I have to meet up with Chloe" - Chloe wants Max to meet on the main campus in front of the [Blackwell Academy](blackwell_academy.md).
+* "I need to find a way to avoid the Principal" -
+* "I have to find a way to get into the Principal's Office" - Max asks Warren for a way to open the locked door to Principal Wells' office; he texts Max the ingredients for a pipe bomb to open the door which Max must find.
+* "I must find documents about Nathan, Kate, and Rachel" -
+* "I have to find a key to the Principal's office" -
+* "I should look for some keys in this room" -
+* "I should look for some keys in this room" -
+* "I have to find all the items to make the bomb" -
+* I should speak to Chloe and set up the bomb" -
+* "I need to find sugar, a soda can, duct tape & sodium chlorate" -
+* "I need to set the bomb up on the door" -
+* "I have to find information about Nathan, Kate, and Rachel" -
+* "I need to find a way to light up the pool" -
+* "I should go see what Chloe is up to" -
+* "I should speak to Chloe" -
+* "I need to get out of the swimming pool facility" -
+* "I must reach Chloe's truck" -
+* "I should go downstairs and eat breakfast" -
+* "I have to find stuff on Rachel in David's garage" -
+* "I have to find some food to make breakfast" -
+* "I have to get Frank's key" -
+* "I have to find a way to distract Frank's dog" -
+* "I have to find some information on Rachel" -
+* "I must find a way to stop William from taking his car" -
+
+## Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+* "I should get back to Chloe with the morphine" -
+* "I have to go upstairs and get Chloe's medicine" -
+* "I have to get the photo album" -
+* "I should get back to Chloe with the photo album" -
+* "I need to go back and fix this" -
+* "I should give Chloe some water" -
+* "I have to find a movie to watch" -
+* "I should examine the board" -
+* "I must go downstairs and investigate David" -
+* "I must find a way to open the locker" -
+* "I must find a way to distract David" -
+* "I have to see what's inside the locker" -
+* "I should meet up with Chloe at the front door" -
+* "I need to investigate the clues of Nathan, Frank, and David" -
+* "I need to find the location of the "Dark Room" -
+* "I should talk to Kate" -
+* "I should leave this place" -
+* "I should check on Frank’s RV with Chloe " -
+* "I should get back to Chloe and leave" -
+* "I have to find Nathan's room" - Kate texts Max his room number if you had looked at her "Get well soon" card and mentioned Nathan when talking to her in the hospital. Otherwise Max can investigate the door slates.
+* "I must investigate Nathan's room" -
+* "I should go back to Chloe" -
+* "I should leave the dormitories" -
+* "I have to find info about Nathan" -
+* "I should go check inside Nathan's room" -
+* "I should debrief with Chloe and Warren" -
+* "I have to find a way into the barn" -
+* "I must find clues about the "Dark Room" -
+* "I have to find a way to open the hatch" -
+* "I have to enter the right entry code" -
+* "I have to find info about Rachel" -
+* "I should leave with Chloe" -
+* "I have to find Nathan" -
+* "I need to find a way to access the VIP area" -
+* "I should find Courtney" -
+* "I should speak to Chloe" -
+* "I have to check on Rachel's grave" -
+
+## Episode Five - "[Episode 5: Polarized](polarized.md)" 
+* "I have to find a way to go back in time" -
+* "I have to focus and go back in time" -
+* "I have to find a better moment to go back to" -
+* "I have to find a way to get out of here" -
+* "I have to find a way to access my journal" -
+* "I need to go further back in time" -
+* "I have to find a way to contact David" -
+* "I should give my entry photo to Mr. Jefferson" -
+* "I should speak to Principal Wells" -
+* "I should find my winning selfie" -
+* "I have to find a way to access my selfie" -
+* "I have to focus on my selfie" -
+* "I have to quickly focus on my selfie" -
+* "I have to tear up my selfie" -
+* "I have to find a way to get closer to the diner" - Max asks Warren if he still has the photo from the [End of the World Party](end_of_the_world_party.md) to jump back in time and save Chloe.
+* "I must prevent the diner from blowing up" -
+* "I have to get inside the diner" -
+* "I should talk to Warren" -
+* "I have to focus and go back in time" -
+* "I should speak to Mr. Jefferson" -
+* "I have to find a way to help David" -
+* "I have to leave the Dark Room and find Warren" -
+* "I have to convince Chloe not to go to the party" -
+* "I have to leave the art class" -
+* "I should speak to… Kate?" -
+* "I should go through a door" -
+* "Could I need a key here?" -
+* "I have to go through the correct door" -
+* "Did Rachel have a room here?" -
+* "I have to change my cashmere in my room" -
+* "I need to find a way out" -
+* "It’s time to go back to my room" -
+* "moorhtab eht hcaer ot deen I" (reversed) -
+* "I have to reach the lighthouse" -
+* "I have to find a number somewhere" -
+* "Should I talk to myself?" -
+* "I have to reach the lighthouse" -
+
+
+
+Generate five trivia questions relevant to this section of the page.

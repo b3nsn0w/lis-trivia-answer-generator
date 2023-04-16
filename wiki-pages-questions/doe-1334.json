@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Samuel Taylor Tell Max About The Doe In The Forest?",
+    "answer": "A",
+    "choices": {
+      "A": "It's His Spirit Animal",
+      "B": "It's Trying To Communicate With Her",
+      "C": "It's A Sign About Her Destiny",
+      "D": "There's Nothing Weird About Seeing It"
+    }
+  },
+  {
+    "question": "Where Does Max See The Doe For The First Time?",
+    "answer": "B",
+    "choices": {
+      "A": "In The American Rust Junkyard",
+      "B": "At The Lighthouse",
+      "C": "In The Girls Bathroom",
+      "D": "In The Dark Room"
+    }
+  },
+  {
+    "question": "What Does The Doe Do When Max Gets Too Close To It In The Junkyard?",
+    "answer": "A",
+    "choices": {
+      "A": "It Runs Away",
+      "B": "It Attacks Her",
+      "C": "It Disappears",
+      "D": "It Leads Her To Rachel's Burial Site"
+    }
+  },
+  {
+    "question": "What Is The Symbolic Meaning Of The Doe In The Game?",
+    "answer": "B",
+    "choices": {
+      "A": "It Represents Rachel Amber's Spirit Animal",
+      "B": "It Represents Max's Spirit Animal",
+      "C": "It Represents The Blue Butterfly",
+      "D": "It Represents The Spirit Of Arcadia Bay"
+    }
+  },
+  {
+    "question": "What Is One Theory About The Doe's True Meaning In The Game?",
+    "answer": "C",
+    "choices": {
+      "A": "It Is David Madsen's Spirit Animal",
+      "B": "It Is The Spirit Animal Of Arcadia Bay",
+      "C": "It Is Rachel Amber's Spirit Animal",
+      "D": "It Is The Spirit Animal Of Max's Mother"
+    }
+  }
+]

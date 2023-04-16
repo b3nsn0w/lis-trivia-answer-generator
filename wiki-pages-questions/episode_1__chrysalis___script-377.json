@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Max's Initial Reaction To Finding Herself In The Storm?",
+    "answer": "A",
+    "choices": {
+      "A": "She Panics",
+      "B": "She Laughs",
+      "C": "She Cries",
+      "D": "She Faints"
+    }
+  },
+  {
+    "question": "What Does Max Hope To Find At The Lighthouse?",
+    "answer": "B",
+    "choices": {
+      "A": "A Way To Stop The Storm",
+      "B": "A Place To Hide From The Storm",
+      "C": "A Weapon To Fight The Storm",
+      "D": "A Friend To Help Her Escape The Storm"
+    }
+  },
+  {
+    "question": "What Is The Cause Of The Lighthouse Breaking In Two?",
+    "answer": "A",
+    "choices": {
+      "A": "A Boat",
+      "B": "A Plane",
+      "C": "A Car",
+      "D": "A Train"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Town That The Tornado Is Approaching?",
+    "answer": "A",
+    "choices": {
+      "A": "Arcadia Bay",
+      "B": "Blackwell",
+      "C": "Photography Lab",
+      "D": "Art Class"
+    }
+  },
+  {
+    "question": "What Is The Title Of This Section Of The Script?",
+    "answer": "A",
+    "choices": {
+      "A": "Nightmare",
+      "B": "Blackwell",
+      "C": "Photography Lab",
+      "D": "The Storm"
+    }
+  }
+]

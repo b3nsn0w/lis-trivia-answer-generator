@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who does Max have a conversation with about the events of the previous day?",
+    "answer": "B",
+    "choices": {
+      "A": "Chloe",
+      "B": "Warren",
+      "C": "Nathan",
+      "D": "David"
+    }
+  },
+  {
+    "question": "What does Warren invite Max to do?",
+    "answer": "B",
+    "choices": {
+      "A": "Go to a party",
+      "B": "Watch a movie marathon",
+      "C": "Play video games",
+      "D": "Go on a road trip"
+    }
+  },
+  {
+    "question": "What movie marathon does Warren invite Max to?",
+    "answer": "D",
+    "choices": {
+      "A": "Star Wars",
+      "B": "Harry Potter",
+      "C": "Lord of the Rings",
+      "D": "Planet of the Apes"
+    }
+  },
+  {
+    "question": "Who does Max see arguing on the Main Campus?",
+    "answer": "B",
+    "choices": {
+      "A": "Warren and Nathan",
+      "B": "David and Nathan",
+      "C": "Kate and Rachel",
+      "D": "Chloe and Nathan"
+    }
+  },
+  {
+    "question": "Where does Max get off the bus?",
+    "answer": "C",
+    "choices": {
+      "A": "At the school",
+      "B": "At the park",
+      "C": "At the diner",
+      "D": "At the mall"
+    }
+  }
+]

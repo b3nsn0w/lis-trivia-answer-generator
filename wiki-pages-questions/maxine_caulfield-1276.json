@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Final Choice Max Has To Make In Episode Five?",
+    "answer": "B",
+    "choices": {
+      "A": "Save Chloe And Let Arcadia Bay Be Destroyed",
+      "B": "Save Arcadia Bay And Let Chloe Die",
+      "C": "Save Both Chloe And Arcadia Bay",
+      "D": "Do Nothing And Let The Storm Destroy Everything"
+    }
+  },
+  {
+    "question": "In The Alternative Timeline, Who Helps Max Make Her Style More \"Fashionable\"?",
+    "answer": "C",
+    "choices": {
+      "A": "Chloe",
+      "B": "Warren",
+      "C": "Victoria",
+      "D": "Nathan"
+    }
+  },
+  {
+    "question": "In The Altered Timeline, What Is Max's Relationship With The Vortex Club?",
+    "answer": "A",
+    "choices": {
+      "A": "She Is A Member And Parties With Them",
+      "B": "She Is An Outcast And Avoids Them",
+      "C": "She Is Friends With Some Members But Not All",
+      "D": "She Is The Leader Of The Club"
+    }
+  },
+  {
+    "question": "What Happens To Chloe In The Ending Where Max Chooses To Save Arcadia Bay?",
+    "answer": "B",
+    "choices": {
+      "A": "She Dies In The Bathroom",
+      "B": "She Dies In The Storm",
+      "C": "She Survives And Leaves With Max",
+      "D": "She Is Arrested By The Police"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Episode Where Max Escapes Into A Photograph?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 5: Polarized"
+    }
+  }
+]

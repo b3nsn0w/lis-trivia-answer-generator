@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What Was Dayeanne Hutton's Reaction To Saving Kate On The Rooftop?",
+    "answer": "A",
+    "choices": {
+      "A": "Relieved",
+      "B": "Disappointed",
+      "C": "Shocked",
+      "D": "Angry"
+    }
+  },
+  {
+    "question": "What Superpower Would Dayeanne Hutton Like To Have?",
+    "answer": "C",
+    "choices": {
+      "A": "Invisibility",
+      "B": "Super Strength",
+      "C": "Teleportation",
+      "D": "Flight"
+    }
+  },
+  {
+    "question": "What Is Dayeanne Hutton's Favorite Video Game?",
+    "answer": "B",
+    "choices": {
+      "A": "Life Is Strange",
+      "B": "Super Mario Bros.",
+      "C": "The Legend of Zelda",
+      "D": "Final Fantasy"
+    }
+  }
+]

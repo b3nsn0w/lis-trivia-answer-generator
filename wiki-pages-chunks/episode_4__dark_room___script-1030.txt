@@ -1,0 +1,87 @@
+Here is a section of the wiki page for Episode 4: Dark Room - Script:
+
+her struggle.
+
+{{#tag:tabber|(Made fun of Victoria)(Made fun of Victoria)**Max:** I wasn't so nice to her this week either when I took a picture of her covered in paint. Not a proud moment.
+
+{{!}}-{{!}}(Comforted Victoria)# (Comforted Victoria)**Max:** Me too. I could've taken a picture of her covered in paint, but I didn't and we had a genuine moment.
+
+}}
+
+**Kate:** We all have our moments. Why do you think she acts so mean?
+
+{{#tag:tabber|She's a bitch.She's a bitch.**Max:** She's a bitch. I'm sorry, but... she's wealthy, pretty, and, yes, talented. So, there's no reason for her to treat people like shit.
+
+**Kate:** Well, there must be. If Victoria could write me such a sincere letter...
+
+{{!}}-{{!}}She's insecure.# She's insecure.**Max:** She's insecure. If you're comfortable with yourself, you don't need to act superior.
+
+**Kate:** Victoria doesn't look like she has much to be insecure about...
+
+}}
+
+**Max:** If anybody could make Victoria see the light, it would be Kate Marsh.
+
+**Kate:** No, I think it will take more than that, Max.
+
+|-|Nathan.Nathan.**Max:** I want you to know I'm this close to getting all the info I need about Nathan...
+
+**Kate:** Nathan Prescott has to pay for what he did. And we have to stop him from hurting anybody else.
+
+{{#tag:tabber|(Nathan is suspended)# (Nathan is suspended)**Max:** Well, I did get his ass suspended, so that might be a start...
+
+**Kate:** You did? Oh, right on, Max! I love how fearless you are.
+
+{{!}}-{{!}}(Nathan isn't suspended)(Nathan isn't suspended)**Max:** I wish I could've gotten his ass kicked out of Blackwell.
+
+**Kate:** Me too. But his dad would never let that happen. I thought I had a tough family...
+
+}}
+
+**Kate:** So what is going on with him now?
+
+{{#tag:tabber|Vortex Club.# Vortex Club.**Max:** I assume he'll show up at the Vortex Club party tonight like nothing happened.
+
+**Kate:** And nobody can do anything to him after what he did.
+
+{{!}}-{{!}}Prescott family.Prescott family.**Max:** I think his family is totally protecting him... or worse.
+
+**Kate:** I never say this about people... but Max, there's something evil about the Prescotts. They have something to do with death.
+
+}}
+
+**Max:** We're going to stop him. I just have to find Nathan's room number, get inside and get the clues I need.
+
+**Kate:** Max, please let me help! I can get the number and I'll text it to you, okay?
+
+**Max:** Of course, Kate! I can't do this without you!
+
+**Kate:** Now it's time for Nathan to watch out for us...
+
+|-|Leave.# Leave.**Max:** I have to get back to our mission. You don't know how much it means to see you again.
+
+**Kate:** I do. That's why I love you, Max. And thanks for taking care of my bunny. Tell Alice I'll see her soon.
+
+*If Max talks to Kate again:*
+
+**Max:** Hey, Kate, back again.
+
+**Kate:** Which makes me happy.
+
+''Max leaves Kate's hospital room.''
+
+**Chloe: **Well, how is she?
+
+**Max: **She's still Kate Marsh. Thank God.
+
+**Chloe: **I'm glad we came to see her.
+
+**Max: **Thanks for coming with me.
+
+**Chloe: **Now let's go pay a visit to Nathan Prescott. That little prick is not gonna be glad when he sees us...
+
+*Max and Chloe leave the hospital.*
+
+# 
+
+Generate five trivia questions relevant to this section of the page.

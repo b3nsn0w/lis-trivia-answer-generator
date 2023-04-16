@@ -1,0 +1,52 @@
+[
+  {
+    "question": "How Do Chloe and Rachel Meet For The First Time In Before The Storm?",
+    "answer": "C",
+    "choices": {
+      "A": "At A Punk Club",
+      "B": "At Blackwell Academy",
+      "C": "At The Old Mill",
+      "D": "At A Drama Rehearsal"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Play Being Rehearsed In The Drama Lab?",
+    "answer": "B",
+    "choices": {
+      "A": "Romeo and Juliet",
+      "B": "The Tempest",
+      "C": "Macbeth",
+      "D": "Hamlet"
+    }
+  },
+  {
+    "question": "What Does Rachel Ask Chloe To Do For Her In The Dressing Room?",
+    "answer": "B",
+    "choices": {
+      "A": "Bring Her A Drink",
+      "B": "Bring Her A Belt",
+      "C": "Help Her With Her Makeup",
+      "D": "Find Her Phone"
+    }
+  },
+  {
+    "question": "What Game Does Steph Ask Chloe If Rachel Plays?",
+    "answer": "D",
+    "choices": {
+      "A": "Call of Duty",
+      "B": "World of Warcraft",
+      "C": "League of Legends",
+      "D": "Dungeons and Dragons"
+    }
+  },
+  {
+    "question": "What Game Do Chloe and Rachel Play During The Train Scene?",
+    "answer": "B",
+    "choices": {
+      "A": "Truth or Dare",
+      "B": "Two Truths and a Lie",
+      "C": "Never Have I Ever",
+      "D": "Would You Rather"
+    }
+  }
+]

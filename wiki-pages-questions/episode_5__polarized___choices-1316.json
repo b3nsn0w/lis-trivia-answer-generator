@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is the only major choice in Episode 5?",
+    "answer": "A",
+    "choices": {
+      "A": "To save Chloe",
+      "B": "To save Arcadia Bay",
+      "C": "To help David",
+      "D": "To find Rachel Amber"
+    }
+  },
+  {
+    "question": "What happens if you choose to sacrifice Chloe?",
+    "answer": "C",
+    "choices": {
+      "A": "Arcadia Bay is destroyed",
+      "B": "Chloe dies in the bathroom",
+      "C": "The tornado disappears",
+      "D": "David kills Jefferson"
+    }
+  },
+  {
+    "question": "What is the consequence of choosing to save Arcadia Bay?",
+    "answer": "B",
+    "choices": {
+      "A": "Chloe dies in the bathroom",
+      "B": "The tornado disappears",
+      "C": "David gets a scar",
+      "D": "Joyce doesn't believe in David again"
+    }
+  }
+]

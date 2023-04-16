@@ -1,0 +1,39 @@
+#  Mountains 
+
+```yaml
+Song
+
+image: message to bears folding leaves.png
+artist: Message To Bears
+album: Folding Leaves
+release: '2012'
+appears: '[Episode 4: Dark Room](episode_4__dark_room.md)'
+```
+
+**"Mountains"** is a single by Message To Bears from their album *Folding Leaves* and is featured in Episode 4 of *[Life is Strange](life_is_strange.md)* when [Chloe Price](chloe.md) realizes what happened to [Rachel Amber](rachel_amber.md) and she and [Maxine Caulfield](max.md) rush to the [American Rust Junkyard](junkyard.md).
+
+##  Lyrics 
+2 x
+:And we could run away
+:Before the light of day
+:You know we always could
+:The mountains say, the mountains say
+
+3 x
+:And we could run away
+:Before the light of day
+:You know we always could
+:The mountains say, the mountains say
+
+##  Videos 
+[File:Life is Strange Soundtrack - Mountains by Message To Bears](thumb.md)
+
+##  Interpretation 
+More than the (short) lyrics, the seemingly obvious reason explaining why this song was chosen for the junkyard sequence is the video clip (released in 2011). In the clip, a woman unearths a box full of the belongings of a loved one (probably one of her ancestors). The general setup of the scene is very similar to the junkyard sequence; a woman on her knees in a remote forest, digging the ground with her bare hands looking for something.
+
+##  Trivia 
+* TBA
+
+##  Navigation 
+{{Soundtrack Navbox}}
+

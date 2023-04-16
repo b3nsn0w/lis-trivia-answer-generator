@@ -1,0 +1,38 @@
+#  Reddit AMAs 
+
+This article gives an overview on all **Reddit AMAs** that were held with crew or cast members of the *[Life is Strange (franchise)](life_is_strange.md)* games.
+
+##  Life is Strange 
+TBC
+* [Reddit AMA (Life is Strange)](pre_release_ama.md): [https://www.reddit.com/r/Games/comments/2tu8zx/life_is_strange_reddit_ama_with_the_dontnod_team/ Reddit thread] (January 27th, 2015)
+* [Reddit AMA (Dayeanne Hutton)](dayeanne_hutton_s_ama.md): [https://www.reddit.com/r/lifeisstrange/comments/8lcfe5/all_hi_dayeanne_hutton_voice_of_kate_marsh_here/ Reddit thread] (May 22, 2018)
+
+##  Before the Storm 
+* [Reddit AMA (Before the Storm)](pre_release_ama.md): [https://www.reddit.com/r/lifeisstrange/comments/6stl1e/all_ama_with_deck_nine_games_live_at_4pm_bst/ Reddit thread] (August 10, 2017)
+* [Reddit AMA (Before the Storm Writers)](deck_nine_writers_ama.md): [https://www.reddit.com/r/lifeisstrange/comments/8f39du/all_were_the_writers_of_life_is_strange_before/ Reddit thread] with Jon, Felice, Mallory (April 26, 2018)
+* [Reddit AMA (Kylie Brown)](kylie_brown_s_ama.md): [https://www.reddit.com/r/lifeisstrange/comments/8ifzgi/all_hello_beautiful_people_im_kylie_brown_the/ Reddit thread] (May 10, 2018)
+* [Reddit AMA (Hailey Hayes)](hailey_hayes__ama.md): [https://beta.reddit.com/r/lifeisstrange/comments/8s0mtv/all_hailey_hayes_aka_the_voice_of_samantha_myers/ Reddit thread] (June 18, 2018)
+* [Reddit AMA (Hannah Telle)](hannah_telle_s_ama.md): [https://www.reddit.com/r/lifeisstrange/comments/8451wy/all_hello_im_hannah_telle_and_i_voice_max/ Reddit thread] (March 13, 2018)
+* [Reddit AMA (Ashly Burch)](ashly_bruch_s_ama.md): [https://www.reddit.com/r/lifeisstrange/comments/86c7lh/all_im_ashly_burch_i_play_chloe_price_in_life_is/ Reddit thread] (March 22, 2018)
+* [Reddit AMA (Katy Bentz)](katy_bentz_s_ama.md): [https://www.reddit.com/r/lifeisstrange/comments/8bra15/all_hi_im_katy_bentz_the_voice_actor_for_steph/ Reddit thread] (April 12, 2018)
+* [Reddit AMA (Nick Apostolides)](nick_nbsp_apostolides__ama.md): [https://www.reddit.com/r/lifeisstrange/comments/8wumaz/all_possible_spoilers_nick_apostolides_plays/ Reddit thread] (July 7, 2018)
+
+ Reddit AMAs =
+
+This article gives an overview on all **Reddit AMAs** that were held with crew or cast members of the *[Life is Strange (franchise)](life_is_strange.md)* games.
+
+##  Life is Strange 
+TBC
+* [Reddit AMA (Life is Strange)](pre_release_ama.md): [https://www.reddit.com/r/Games/comments/2tu8zx/life_is_strange_reddit_ama_with_the_dontnod_team/ Reddit thread] (January 27th, 2015)
+* [Reddit AMA (Dayeanne Hutton)](dayeanne_hutton_s_ama.md): [https://www.reddit.com/r/lifeisstrange/comments/8lcfe5/all_hi_dayeanne_hutton_voice_of_kate_marsh_here/ Reddit thread] (May 22, 2018)
+
+##  Before the Storm 
+* [Reddit AMA (Before the Storm)](pre_release_ama.md): [https://www.reddit.com/r/lifeisstrange/comments/6stl1e/all_ama_with_deck_nine_games_live_at_4pm_bst/ Reddit thread] (August 10, 2017)
+* [Reddit AMA (Before the Storm Writers)](deck_nine_writers_ama.md): [https://www.reddit.com/r/lifeisstrange/comments/8f39du/all_were_the_writers_of_life_is_strange_before/ Reddit thread] with Jon, Felice, Mallory (April 26, 2018)
+* [Reddit AMA (Kylie Brown)](kylie_brown_s_ama.md): [https://www.reddit.com/r/lifeisstrange/comments/8ifzgi/all_hello_beautiful_people_im_kylie_brown_the/ Reddit thread] (May 10, 2018)
+* [Reddit AMA (Hailey Hayes)](hailey_hayes__ama.md): [https://beta.reddit.com/r/lifeisstrange/comments/8s0mtv/all_hailey_hayes_aka_the_voice_of_samantha_myers/ Reddit thread] (June 18, 2018)
+* [Reddit AMA (Hannah Telle)](hannah_telle_s_ama.md): [https://www.reddit.com/r/lifeisstrange/comments/8451wy/all_hello_im_hannah_telle_and_i_voice_max/ Reddit thread] (March 13, 2018)
+* [Reddit AMA (Ashly Burch)](ashly_bruch_s_ama.md): [https://www.reddit.com/r/lifeisstrange/comments/86c7lh/all_im_ashly_burch_i_play_chloe_price_in_life_is/ Reddit thread] (March 22, 2018)
+* [Reddit AMA (Katy Bentz)](katy_bentz_s_ama.md): [https://www.reddit.com/r/lifeisstrange/comments/8bra15/all_hi_im_katy_bentz_the_voice_actor_for_steph/ Reddit thread] (April 12, 2018)
+* [Reddit AMA (Nick Apostolides)](nick_nbsp_apostolides__ama.md): [https://www.reddit.com/r/lifeisstrange/comments/8wumaz/all_possible_spoilers_nick_apostolides_plays/ Reddit thread] (July 7, 2018)
+

@@ -1,0 +1,598 @@
+= Easily Missed Details (Life is Strange) =
+
+{{Free Tab
+|minwidth = 22%
+|maxwidth = 100%
+|borderradius = 4
+|height = 2
+|tab1=Life is Strange |link1=Easily Missed Details (Life is Strange)
+|tab2=Before the Storm |link2=Easily Missed Details (Before the Storm)
+|tab3=Captain Spirit |link3=Easily Missed Details (Captain Spirit)
+|tab4=Life is Strange 2 |link4=Easily Missed Details (Life is Strange 2)
+}}
+{{Stub}}
+[[File:Eye of providence.png|thumb|100px]]
+
+This page lists interesting but '''easily missed observations''' that can be noticed throughout the game ''[[Life is Strange]]''. These observations may include actions the player is not directly involved with, objects the player cannot interact with, or simply interesting parallels or foreshadowing.
+
+''See here for [[References (Life is Strange)|references]] and [[Easter Eggs (Life is Strange)|Easter Eggs]]''
+
+== Episode One - "[[Episode 1: Chrysalis|Chrysalis]]" ==
+
+=== Jefferson's Monologue ===
+A line spoken by [[Mark Jefferson|Mr. Jefferson]] during his [[Photography Lab|Art class]] near the beginning of the game is, "Seriously though, I could frame any one of you in a dark corner, and capture you in a moment of desperation." He appears to allude to photography, but in retrospect, it seems to be literal and foreshadowing.
+
+=== Conversations in the Corridor ===
+After rewinding the first time, Max walks out of Mr. Jefferson's class and rushes to the bathroom to save [[Chloe Price]]. However, the player can instead stop and listen to the conversations between several Blackwell students:<ref>See [https://www.youtube.com/watch?v=M__ZczvACVc this video] for more.</ref>
+*[[Courtney Wagner]] and [[Taylor Christensen]] talking about Max and [[Max's Camera|her camera]].
+*[[Justin Williams]] and [[Dana Ward]] talking about Justin's smoking habits.
+*[[Logan Robertson]] and another Blackwell student bullying [[Daniel DaCosta]] and demanding cash from him.
+*[[Brooke Scott]] commenting on her racing game session.
+*[[Juliet Watson]] and [[Zachary Riggins]] flirting with each other.
+*[[Samuel Taylor]] making comments about his work and about [[Rachel Amber]].
+
+=== Poster in the Corridor #1 ===
+On the inside of the doors that lead out onto the main campus grounds, there is a poster that features the same cartoon man who is present as a sticker on the phone that Chloe decorated with Max when they were little.
+
+[[File:corridor-phone-sticker.png|thumb|400px|center]]
+
+=== Poster in the Corridor #2 ===
+There is a poster that contains a mix of languages in the same phrase. The only part that is truly legible says 您好 (Chinese) and 米人 (Japanese). Put together, this reads, "Hello (您好), American (米人)." The same poster can be seen again in [[Episode 5: Polarized|Episode 5]] on a notice board in the back office of the [[Tony's Liquor Store|general store]].
+
+[[File:Mixed_languages_poster.png|thumb|400px|center]]
+
+=== Victoria's Phone Call ===
+With a close enough look on the display of [[Victoria Chase]]'s ringing phone during Jefferson's lecture at the beginning of the game, you can see the name that shows up is "[[Zachary Riggins|Zach]]" ("Zak") which is supported by his contact picture. [[File:Victoria's Phone Call.jpg|thumb|400px|center]]
+This observation is interesting due to the fact that Victoria and Zachary are later discovered to be sexting each other despite his relationship with Juliet. At this point in Jefferson's class, Juliet is not aware of anything going on between them. In an email Victoria sent to Taylor, which Max prints off to show Juliet, we learn Victoria's view is that Juliet was "slutting Zach away" from her. When Juliet later confronts Zach about this, he tells Juliet that he sexted Victoria as a joke. When Max finds Zach's phone in his locker in Episode 3, we see that his wallpaper is a picture of Juliet, but the following text message conversation has occurred with Victoria, which does not seem like a joke:
+:'''Victoria:''' Hey. Thinking bad things about you.
+:'''Zach:''' cool. what r u wearing?
+:'''Victoria:''' Just my crystal necklace and phone.
+:'''Zach:''' hot
+:'''Victoria:''' What are you wearing?
+:'''Zach:''' im in locker room. only wearing a jersey. sitting on my football.
+
+=== Max's Doodles ===
+The doodles on Max's notebook in Jefferson's class at the beginning of the game include the phrase "[[w:c:gameofthrones:Winter is Coming (motto)|winter is coming]]", which is an important quote from ''{{Wiki|Game of Thrones}}''. The meaning behind these words is one of warning and constant vigilance, which really foretells the story. There also seems to be a scribble of [[w:c:villains:Frank (Donnie Darko)|Frank The Rabbit]] from ''{{Wiki|Donnie Darko}}''.<ref group="note">Frank The Rabbit is a person named Frank in a life-size demonic-looking rabbit costume who has the ability to move through time, and who warns Donnie, the protagonist of ''{{Wiki|Donnie Darko}}'', that the world is going to end in a specific amount of time. His objective is to guide Donnie in his path to correcting the timeline of the primary universe to prevent the world's destruction.</ref> One of many references to ''Donnie Darko'' throughout the game. There is also a doodle of Victoria saying, "yes yes yes Mr. Jefferson."
+
+[[File:2016-01-29 00029.jpg|thumb|400px|center]]
+
+=== Kate's Doodles ===
+If you take a closer look at the scribbles on [[Kate Marsh]]'s notebook in Jefferson's class at the beginning of the game, you will notice that they indicate suicidal thoughts and already foreshadow her eventual suicide attempt. The doodles depict an angel whose face is covered in blood, a tree with gallows as well as the words "WASTE" and "SO LONELY".
+
+[[File:Kate's Suicidal Doodles.jpg|thumb|400px|center]]
+
+=== Unaffected Blue Butterfly ===
+When Max rewinds time "unintentionally" to save Chloe from being shot in the bathroom, the [[Blue Butterfly|blue butterfly]] is apparently unaffected by her rewind - the only other thing to not be affected by Max's rewind powers is the ghostly [[doe]], as we see later.<ref>If Max uses her rewind to try bringing the doe back to the junkyard in Episode 2, it will not work, and Max wonders why this is so.</ref>. This calls the butterfly's true nature into question. However, when Max enters the bathroom a second time (knowing she has powers this time), the blue butterfly can be seen on the sink and is affected by the rewind. It could be speculated that the (spiritual) nature of the blue butterfly has now changed.
+
+<gallery widths="300px" position="center" captionalign="center" hideaddbutton="true" bordersize="none" bordercolor="transparent">
+butterfly-norewind1.png
+butterfly-norewind2.png
+</gallery>
+
+=== Max's Tears ===
+After her first accidental rewind in the bathroom, which brought her back into the art class, it is possible to see — for a fleeting moment — tears rolling down Max's cheeks. The tears seem to be randomly triggered thus several results are possible.
+
+<gallery widths="300px" position="center" captionalign="center" hideaddbutton="true" bordersize="none" bordercolor="transparent"> 
+Max crying
+Max was actually crying after her first accidental rewind
+</gallery>
+
+=== Chloe's Poster Trail ===
+When Max exits the main building of [[Blackwell Academy]] after speaking to [[Raymond Wells|Principal Wells]], a trail of Rachel Amber "Missing" posters are visible at the bottom of the steps. At first glance, the scattered posters appear to be just that: scattered. The player has no context at this time (during initial playthrough) that these posters are connected to the "girl in the bathroom" (Chloe). It is only later that it's discovered that all of the Missing posters in the game were printed and distributed by Chloe, but the easily missed detail is that the poster trail leads off in the direction of the [[Blackwell Parking Lot|parking lot]] where [[Chloe's Truck|Chloe's truck]] is parked. It is a nice detail in the game to show that Chloe was so panicked after the incident in the girls' bathroom that she dropped posters as she ran towards the parking lot.
+
+<gallery widths="300px" position="center" captionalign="center" hideaddbutton="true" bordersize="none" bordercolor="transparent">
+poster_trail.png|The trail of posters leading towards the parking lot.
+</gallery>
+
+=== Pool Entrance Graffiti ===
+As Max wanders around the front of Blackwell Academy, she will find graffiti of a shark "eating" an otter, which is a joking reference to the school's swimming team getting dominated. Due to the presences of a lot of joint and cigarettes butts nearby, this may also have been drawn by Chloe, to express her anger at the fact of Max being in Blackwell for over a month and made no attempt to contact her. This otter and shark theme makes another appearance in Episode 3, when Chloe says to Max, "Why, look, an otter in my water!" before mimicking the {{wiki|Jaws_film|Jaws}} movie theme, to which Max tells her to stop as she still gets freaked out by that movie and then says, "I can't even watch any of those shark shows."
+
+[[File:Poor Li'l Otter.png|thumb|400px|center]]
+
+=== Staircase Descent ===
+*In [[Episode 1: Chrysalis|Episode 1]], when Courtney and Taylor are rushing along the girls' dorm hallway to attend to Victoria after the paint bucket incident, a staircase can be seen on the other side of the door they open if Max stands close by. If Max stays there long enough, the heads of the two girls are visible through the door glass as they descend down the stairs.
+<gallery widths="200" hideaddbutton="true" bordercolor="transparent" position="center" captionalign="center">
+LiS1-Ep1-DormStairs-01.png|Stairs visible by the doorway.
+LiS1-Ep1-DormStairs-freecam-01.png|What the stairs look like outside the bounds of the game.{{FreecamTT}}
+LiS1-Ep1-DormStairs-freecam-02.png|What the exit door looks like outside the bounds of the game.{{FreecamTT}}
+Life is Strange - Episode 1 - Dorm Stairs|A video showing the two girls descending the stairs as well as what this looks like outside the bounds of the game.
+</gallery>
+
+=== Dialogue in Chloe's Room ===
+While investigating Chloe's room, Max can talk with Chloe. She asks Max the following: "So tell me, what does Max Caulfield do for fun now that she's a grown-up?" and Max can give stereotypical answers such as "Party all night.". If she gives that answer however, Chloe doesn't believe her and clearly gets disappointed as she hoped Max would be happy taking photos. If Max rewinds and gives an honest option "I take photos", Chloe says that this answer inspired her and she no longer feels hopeless.
+
+[[File:Life is Strange - Episode 1 Conversation with Chloe (All Options)|thumb|center|400px]]
+
+=== Photo of David ===
+In [[David Madsen]]'s garage, Max can find and comment on a photo of him that she finds in a drawer. Certain features on this photo match features that are near to [[Stella Hill]]'s room in the [[Prescott Dormitory|girls' dormitory]]. Zooming in on the photo also confirms that the dorm room says 217, which is currently Stella's room.
+
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="200" captionalign="center" position="center">
+david_in_girls_dorms.png|Matching features.
+217_closeup.png|Closeup of the room number: 217.
+</gallery>
+
+=== Photo of Chloe Skateboarding ===
+On the pin board in the hallway of the [[Madsen Household|Madsen household]], there is a photo of Chloe skateboarding. There are distinctive physical features in the background of this photo that match Blackwell Academy's parking lot: the trees; the land gradient; the top of the street lamp; the trash can; the same type of bay marking. (There is also a similar truck, but this is partially obscured by Chloe to be sure and it would be unrealistic to think the same truck is still parked there years later.) This shows us that Chloe was skateboarding on Blackwell's parking lot. The photo was taken by William<ref>According to pre-release [https://youtu.be/E8aCiiTG33k gameplay footage] of ''Before the Storm'', a 16-year-old Chloe can look at the pin board and say, "Dad took these photos."</ref> when Max was still living in Arcadia Bay.<ref>The same photo is visible on the same pin board when Max jumps back in time through a photo in Episode 3 to the day William died, when she was aged 13; therefore, Max would have known that Chloe was into skateboarding. It is calculated that Chloe and Max would be 14 and 13, respectively, from September 21, 2008 - March 10, 2009, and the school year would have started in early September. This means that Chloe would have been a student at Blackwell at the time Max went back in time, because of Max turning 13 on September 21.</ref>
+
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="200" captionalign="center" position="center">
+chloe-skateboard-blackwell.png|The distinctive physical features.
+</gallery>
+
+=== Rewind Sounds ===
+The sounds Max hears while [[Rewind|rewinding]] are reversed future and past dialog pieces from Episode 1.
+
+<center><gallery widths="300" hideaddbutton="true" captionalign="center" bordersize="none" bordercolor="transparent">
+Max's Rewind Sound Effects Played Backwards Cleaned Up life is strange
+EASTER EGG - Life is Strange Backwards Message
+</gallery></center>
+
+=== Graffiti at the Blackwell Fountain ===
+TBA
+
+[insert image]
+
+=== Max's Guitar ===
+If you play Max's guitar, she plays the song "[[Crosses]]," which can be heard by turning on her stereo in her dorm room in Episode 1 and during her bus ride to the [[Two Whales Diner]] in Episode 2. If you turn on her stereo and then play the guitar, Max will play along with the song.
+
+[[File:Life is Strange - Max Playing Guitar to Crosses by José González|thumb|center|335px]]
+
+
+=== Graffiti in Chloe's Truck ===
+The graffiti behind Chloe in [[Chloe's Truck|her truck]] says, "You are about to die", perhaps foreshadowing the possible future of Chloe/Arcadia Bay.<ref>Due to the stylistic differences between the E's, confirmation was sought from the truck's concept designer, [[Edouard Caplain]], who confirmed that the final word is definitely "die" and not "dip".</ref>
+
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="300" captionalign="center" position="center">
+Chloe-truck_graffiti_01.png
+Chloe-truck_graffiti_02.png
+</gallery>
+
+=== Graffiti in Chloe's Room ===
+TBA
+
+=== Chloe's Suitcase ===
+TBA
+
+=== David's Files ===
+TBA
+
+=== Disappearing Photo ===
+Page 10 of Max's journal will display the photo she had taken of the [[Blue Butterfly|blue butterfly]] in the bathroom at Blackwell Academy. Later in the episode, Chloe will take this photo from Max during a conversation they have in [[Chloe's Room|Chloe's room]].<ref>Chloe (to Max): "And I'll snag this picture as a symbol of our reunion. Cool?"</ref> From this point, the photo has disappeared from page 10 because Chloe now has possession of it.
+
+=== Hiking Trail Graffiti ===
+This graffiti can be found at the beginning of the path leading to the [[lighthouse]], near the picnic table. Contrary to the one on a rock next to the lighthouse, this graffiti only appears if you took the blame for Chloe's pot. It is unknown if it is a bug or if it was meant to have a deeper meaning in a later episode. Interestingly, it doesn't appear during Max's visions.
+
+<gallery widths="200" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true" position="center">
+trustnoone-visible.png|The graffiti appears.
+trustnoone-invisible.png|The graffiti doesn't appear.
+</gallery>
+
+=== Glyphs at the Lighthouse ===
+{{Main|Glyphs}}
+
+TBA
+
+=== Kate's Different Stickers ===
+Kate has some stickers with a {{Wiki|Ichthys|fish symbol}}, symbolic of Jesus Christ, on a wall in her room in Episode 2. In the epilogue of Episode 1, stickers with the word Jesus written on them are visible in the same place.
+
+<gallery widths="200" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true" position="center">
+LiS_Jesus_stickers.jpg|Stickers with the word Jesus in Episode 1
+LiS_Kate_fish_stickers.png|Stickers with the fish symbol in Episode 2
+</gallery>
+
+===The Lighthouse vision and Chloe's jacket===
+When Chloe pulls Max out from the "storm vision" at the lighthouse, during the end of "Chrysalis," her arm has a jacket sleeve - the same jacket she is wearing in the end sequence of the last episode, "Polarized." At the end of "Chrysalis," Chloe is wearing a sleeveless shirt.
+
+<gallery position="center" hideaddbutton="true">
+Chloe before Max's vision.jpg|Chloe before Max's vision
+Chloe pulling Max from the vision.jpg|Chloe pulling Max from the vision
+Chloe pulling Max from the vision in reality.jpg|Chloe pulling Max from the vision in reality
+</gallery>
+
+==Episode Two - "[[Episode 2: Out of Time|Out of Time]]"==
+=== Warren Peeping at Max ===
+As soon as Max gets out of bed, if she makes her way quickly over to the window by her fan and waits for a few seconds, Warren can be seen peeping around the corner of the building and looking up at Max's window before quickly disappearing back around the corner, probably afraid of being spotted by Max.<ref>More in [https://www.youtube.com/watch?v=dDHMSnXUFfQ this video].</ref>
+
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="200" captionalign="center" position="center">
+Peeping_Warren.png
+Peeping_Warren-closeup.png
+</gallery>
+
+=== Max's Guitar ===
+If you play Max's guitar, she plays the song "[[Something Good]]," which plays during the opening of Episode 2. If you turn on her stereo and then play the guitar, Max will play along with the song.
+
+[[File:Life Is Strange - Maxine playing guitar to Something Good by Alt-J|thumb|center|335px]]
+
+=== TP-Girl ===
+TBA
+
+=== Trevor's Sweet Message ===
+If Max heads straight to the shower room, she will miss Trevor writing a sweet declaration of love on Dana's room slate (''"Love you. T."''). He is only there for a moment before waving goodbye to Dana and leaving the girls' dormitory.
+
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="200" captionalign="center" position="center">
+Trevor_writes_on_slate-01.png
+Trevor_writes_on_slate-02.png
+Trevor_writes_on_slate-03.png
+</gallery>
+
+=== Polite Bathroom Rewind ===
+After Max gets out of the shower, she can use any one of the sinks. However, if she does this, she will hear a voice shout, "Hello?! Water!", for which Max apologizes with, "Sorry, I forgot!", having forgotten about the water pressure. She can rewind this moment and make a comment about letting people enjoy their showers in peace.
+
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="200" captionalign="center" position="center">
+Max_sink_use.png
+Max_sink_look.png
+Max_sink_rewind.png
+</gallery>
+
+=== Stolen Photos ===
+When Max returns from her shower, and if she had told the principal the truth about Nathan having a gun in the girls' bathroom in Episode 1, she will find her "Photo Memorial Wall" vandalized. Underneath the graffiti, 15 of her photos are now missing from the wall.
+
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="200" captionalign="center" position="center">
+EP2-before_shower.png|Memorial Wall before shower.
+Memorial_wall_intact.png|Asset used in the game before shower.
+EP2-after_shower.png|Memorial Wall after shower.
+Memorial_wall_missing.png|Asset used in the game after shower.
+</gallery>
+
+=== Lighthouse Monologue ===
+When Max looks at the Lighthouse after sitting down at the Two Whales Diner, she thinks to herself that the lighthouse "looks so mysterious" and wishes she could "stay in this moment forever". This is a foreshadowing or an ill prophecy of what will happen later in [[Max's Nightmare|Max's nightmare]] from Episode 5, "Polarized" when Max actually gets stuck in that moment "forever" - if it wasn't for Chloe's rescue, of course.
+
+=== Science Lab Scratches ===
+The writing "Warren + [[Alyssa Anderson]] 2013" inside a heart is scratched on a desk in the [[Science Lab]], next to where Brooke is standing. Another one, reading "Warren = Genius of My Ass", is on a desk behind Warren.
+
+The Rs in the "Warren = Genius of my ass" carving look similar to the Rs in the "Rachel Amber 4 Ever" desk carving in Mr. Jefferson's class (an [[Optional Photos|optional photo]]). However, the environmental artists at DONTNOD created numerous assets that were not fixed to specific characters, so it is not certain if the same person was intended to have made the latter two carvings.
+
+<gallery position="center" widths="120px" hideaddbutton="true" bordercolor="transparent">
+WarrenAlyssa.png
+WarrenGenius.png
+RachelAmberLove.png
+</gallery>
+
+=== Nathan's Facial Expressions ===
+[[Nathan Prescott]]'s facial expressions and voice tone in the [[Photography Lab]] (and later at the Two Whales Diner) are more aggressive if you reported him to the principal and took a photo of Victoria in Episode 1.
+
+
+[[File:Nathan and Victoria Classroom Conversation (Life is Strange Episode 2)|thumb|center|400 px]]
+
+<gallery widths="300px" position="center" captionalign="center" hideaddbutton="true" bordersize="none" bordercolor="transparent">
+Nathan_KeptQuiet.png|Jefferson or David was blamed.
+Nathan_Blamed.png|Nathan was blamed.
+</gallery>
+
+=== Rachel's Shirt at the Junkyard ===
+At the [[junkyard]], near to the spot where Max first notices [[Doe|the doe]], there is a "piece of clothing", a punk-rock shirt similar to Rachel's style, torn and hanging near the spot. If she interacts with this clothing, she will say, "This was an old-school punk shirt..."'' ''The game asset for this shirt is listed as TX_Fab_JnkRachPnk_D, which suggests that it indeed belonged to Rachel Amber.
+
+<gallery widths="200" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+junkyard-rachel-shirt2.png|Shirt as seen in the junkyard.
+junkyard-rachel-shirt.png|The asset in the game files (reversed image).
+</gallery>
+
+=== David's License Plate ===
+There are two appearances of a '''978 AM''' license plate in the game. The first time we see it is in David's garage, displayed high on the wall, above the window blinds; this plate appears to be in good, clean condition. The other appearance is in Chloe and Rachel's junkyard hideout; this one has a dirty appearance. Oregon law requires that passenger cars be issued with two license plates to be displayed on the front and rear bumpers.<ref group="note">Not all states require this, but Oregon does.</ref> There is a possibility of Chloe having taken David's second plate to display in her hideout.
+
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="200" captionalign="center" position="center">
+978-AM_Davids_garage.png|David's garage.
+978-AM_Chloes_hideout.png|Chloe and Rachel's hideout.
+</gallery>
+
+=== Comments about Kate ===
+If Max doesn't head towards the dormitories after seeing Kate on the roof, several Blackwell students can be heard making comments about the situation.<ref>See [https://youtu.be/Xx9YmxD3M3M this video] for more.</ref>
+
+<div style="margin-left:24px">
+'''Zachary: '''Who is that up there?<br />
+'''Daniel: '''Oh, no! Is that Kate?<br />
+'''Trevor: '''I hope not.<br />
+'''Male Student: '''Holy shit! That chick is right on the ledge!<br />
+'''Taylor: '''If she jumps, she might not die...<br />
+'''Victoria: '''Yes, she will.<br />
+'''Alyssa: '''I cannot believe this, Brooke...<br />
+'''Dana: '''No! No!<br />
+'''Trevor: '''How long has she been up there?<br />
+'''Evan: '''Long enough.<br />
+'''Dana: '''Don't! Come down! Get down!<br />
+'''Brooke: '''Poor Kate. That fucking viral video.<br />
+'''Daniel: '''Man, this is so not why I came to Blackwell!
+</div>
+
+
+=== Victoria Never Learns ===
+A close look at Victoria's phone during Kate's suicide attempt shows that she wasn't only taking pictures: the red dot on the top left of the screen indicates she was actually recording the whole scene. In a later episode, during the Vortex Club party, however, Victoria reveals that she has since then deleted the video from her phone.
+
+[[File:Neverlearn.jpg|thumb|400px|center]]
+
+== Episode Three - "[[Episode 3: Chaos Theory|Chaos Theory]]" ==
+=== Ninja Chloe ===
+When the Blackwell guards start sweeping the school for intruders, you can find Chloe hiding between a locker and the wall in the girls' locker room. If you look at her and speak to her, they both have the same thoughts: that there’s no room for Max to squeeze into that hiding spot with her.
+
+[[File:Ninjachloe.png|thumb|400px|center]]
+
+=== Vending Machine ===
+If you rewind time after using the vending machine and use it again, Max will make a comment about how she could get every can in the machine with just one coin, with a little {{Wiki|Star Wars}} pun shortly after; "But don't go to the darkside, young Max."
+
+[[File:20190214155552_.jpg|thumb|center|400px]]
+
+=== Locker Room Rewind ===
+After choosing a locker room at the pool and going inside, if you rewind as far back as possible, then turn around and open the door from the inside, Max will attempt to surprise Chloe as she did in the Principal's office. Chloe will, however, reply with:
+
+<blockquote>''"Dude, it's getting old! Try and dazzle me with another trick!"''</blockquote>
+
+[[File:This trick is getting old.jpg|center|thumb|400px]]
+
+=== Lyrics of "[[Lua]] " ===
+The song played by Chloe after they wake up in Chloe's room had a line that goes "We might die from medication, but we sure killed all the pain", which could be foreshadowing Chloe's fate in the [[Alternative Timeline (Life is Strange)|alternative timeline]] if Max would choose to accept Chloe's request (by granting Chloe an overdose of morphine).
+
+=== Max's First Kiss ===
+If you talk to Chloe before putting on Rachel's clothes, you can have the following conversation:
+
+: Max: ''"Oh okay, woman of the world. Please tell me what it's like to get that first magic kiss!"''
+
+: Chloe: ''"Sorry, sorry. Didn't mean to get you all worked up... I just don't think anybody is good enough for you... besides me."''
+
+Max's reaction and Chloe's reply could be interpreted as Max having never kissed anyone before.
+
+=== Chloe's Phone Background ===
+If the player made three of the following four choices, Chloe will change her phone background to a selfie of Max:
+
+*Took the blame for Chloe's weed
+*Didn't answer Kate's call
+*Tried to shoot Frank
+*Stole money from principal's office.
+
+If Max checks Chloe's phone and sees this, it makes her happy, and she will feel this has proven herself worthy of Chloe's friendship again after her long absence from Chloe's life. If the player didn't encourage this outcome by not doing the above (or only made 1 or 2 of the criteria, or met 3, but blamed Chloe for the weed), Chloe won't change her phone background and it remains a picture of her and Rachel. If Max checks Chloe's phone and sees this, she seems disappointed that Chloe hasn't used a picture of her and thinks she can't compete with Rachel. This can be interpreted as Max being jealous of Rachel.
+
+Interestingly enough, the picture of Max is the same picture as on Max's social media profile. It is unknown if Max gave Chloe this picture or if Chloe searched Max's social media page for a picture to use.
+
+<gallery widths="200" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+Note3-chloeroom-chloephone-rachel.png|Default background.
+Note3-chloeroom-chloephone-max.png|Changed background.
+Note3-Max-profile_picture-crop.png|Max's social media profile picture.
+</gallery>
+
+=== Different Sneakers ===
+[[File:Max-shoecomparison.png|180px|thumb|Comparison of Max's new shoes (left) and her original shoes (right).]]
+
+When Max puts on Rachel's clothes in Chloe's room, her sneakers are now slightly different even though they have a similar skull logo as on the ones Max wears in the other episodes. This implies that she is either wearing Rachel's shoes or that Chloe shares/shared the same taste in shoes as Max. Max's sneakers have a skater aesthetic, and since Chloe and Rachel used to skate with Justin and his posse, the sneakers Max now wears could belong to either girl.
+*Before putting on Rachel's clothes, Max can look at her regular clothes from the day before on a chair near Chloe's desk. Her regular sneakers can be seen on the floor. After putting on Rachel's clothes, Max can still look at her regular clothes and the sneakers remain in the same place, confirming that the two pairs of shoes are not the same.
+*A possible explanation for why the skull logo is very similar and the shoes are only slightly different is that these two models of sneakers belong to the same brand and collection, but maybe not from the same year.
+
+=== Warren's Profile Picture ===
+The sign "Hello how do you do" and the phone lines seen in the background of Warren's profile picture in Max's diary strongly imply that the photograph was taken across from the Two Whales diner.
+
+[[File:Warrenpicture.png|center|400px]]
+
+=== Ideograms ===
+The 法餅 ideograms (either Chinese or Japanese characters) can be seen on various items in the game. In Chinese, 法餅 means French pastry; it is an abbreviation or contraction of the term 法式西餅 (literal translation: French-style Western pastry). 法餅 has been discovered on five items so far:
+*One of Jefferson's photographs;
+*Jefferson's "{{wiki|ero guro}}" poster;
+*A manga magazine belonging to Chloe in 2008;
+*The cardboard used by Frank to hide the inside of his RV;
+*A poster above Max's desk in her room.
+
+<gallery widths="200" position="center" captionalign="center" hideaddbutton="true" bordersize="none" bordercolor="transparent">
+Picture.png|Jefferson's photo.
+Cropped_dark_room_poster.png|Dark Room poster (cropped due to its disturbing nature).
+Chloe_manga_magazine.png|Chloe's magazine.
+Frankcardboard.png|Frank's cardboard.
+yellowposter.png|Poster in Max's room.
+</gallery>
+
+=== "Lewd" RV Conversation ===
+In Frank's RV, if Max waits long enough before bringing the photo of Rachel and Frank to Chloe, they will have the following conversation: {{Headphones|file=Max_Chloe_funny_conversation.ogg}}
+: '''Chloe:''' "Crappy wi-fi out here. Must take him days to download porn."
+: '''Max:''' "Yuck."
+: '''Chloe:''' "Whoa, what the hell is he doing with that dog...?"
+: '''Max: '''"Ugh... Stop it."
+: '''Chloe:''' "I cannot believe he would wear a collar and a furry mask..."
+: '''Max:''' "You're dumb!"
+: '''Chloe:''' "Max, you didn't tell me you took photos of Frank in action..."
+: '''Max:''' "I'm seriously ignoring you."
+
+=== Wine Tasting Sessions ===
+When Max and Chloe were younger, they used to have "wine tasting sessions" at Chloe's home whenever her parents weren't at home. There are two instances, in which this is mentioned. The first is when Max is at Chloe's house for the first time in the game and is able to explore the living room. She finds the stain that was left from one time where they had spilled the wine on the ground and it makes her remember that situation vividly. The second one is when Max goes back to 2008 and tries to prevent William's death. When William is leaving the house, he says, "And no Max and Chloe wine tasting sessions."
+
+=== 2008 Time-Jump Photo Script ===
+When Max sadly stares down at a 2008 photograph of her and Chloe near the end of this episode, she hears two echoey lines of a conversation from her past. It can be hard to make out the words, but according to the game files they are:<br />
+: '''Chloe (laughing):''' ''"Get a close-up of Max!"''<br /> 
+: '''Max:''' ''"Knock it off, Chloe!"''
+Max drops the photo in shock. When she picks it up again to focus on the image, she hears four more lines:<br />
+: '''William:''' ''"Yes girls, time for a picture!"''<br /> 
+: '''Chloe:''' ''"Cheesecake!"''<br /> 
+: '''William:''' ''"Come on now, say 'Pancake!'"''<br /> 
+: '''Max (laughing):''' ''"I can't even see!"''
+As she achieves focus and goes back in time through the photo, two dialogue pairings will occur at random depending on the time you take to bring the image into focus. Three known combinations are:<br />
+#'''Chloe:''' ''"Cheesecake!"''... with ... Max: ''"I hate pictures of myself!"''
+#'''Chloe:''' ''"Make me! You look hilarious!"''... with ... William: ''"Come on now, say 'Pancake!'"''
+#'''William:''' ''"You look like a ghost!"''... with ... Max (laughing): ''"I can't even see!"''
+According to the game files, the dialogue order for the full conversation from Max's past goes as follows:
+: '''William:''' ''"Yes girls, time for a picture!"'' {{Headphones|file=Cue_E3_8A_Kitchen_FocusPicture_William_010.ogg}}<br /> 
+: '''Chloe: '''''"Max needs more flour on her face!"'' {{Headphones|file=Cue_E3_8A_Kitchen_FocusPicture_Chloe_020.ogg}}<br /> 
+: '''Max (laughing):''' ''"I can't even see!"'' {{Headphones|file=Cue_E3_8A_Kitchen_FocusPicture_Max_030.ogg}}<br /> 
+: '''William:''' ''"You look like a ghost!"'' {{Headphones|file=Cue_E3_8A_Kitchen_FocusPicture_William_040.ogg}}<br /> 
+: '''Chloe (laughing):''' ''"Get a close-up of Max!"'' {{Headphones|file=Cue_E3_8A_Kitchen_FocusPicture_Chloe_050.ogg}}<br /> 
+: '''Max: '''''"Knock it off, Chloe!"'' {{Headphones|file=Cue_E3_8A_Kitchen_FocusPicture_Max_060.ogg}}<br /> 
+: '''Chloe:''' ''"Make me! You look hilarious!"'' {{Headphones|file=Cue_E3_8A_Kitchen_FocusPicture_Chloe_070.ogg}}<br /> 
+: '''William: '''''"Come on now, say 'Pancake!'"'' {{Headphones|file=Cue_E3_8A_Kitchen_FocusPicture_William_080.ogg}}<br /> 
+: '''Chloe:''' ''"Cheesecake!"'' {{Headphones|file=Cue_E3_8A_Kitchen_FocusPicture_Chloe_090.ogg}}<br /> 
+: '''Max:''' ''"I hate pictures of myself!"'' {{Headphones|file=Cue_E3_8A_Kitchen_FocusPicture_Max_100.ogg}}
+
+=== Alternative Max's Bag ===
+After she created a new timeline, where she is now a member of the Vortex Club, Max's camera bag is slightly different from before: instead of having a patch "Cool Story Bro" on the shoulder strap, a patch with a vortex symbol can be seen, probably a way for Alternative Max to show that she is a Vortex Club member.
+
+<gallery widths="300px" position="center" captionalign="center" hideaddbutton="true" bordersize="none" bordercolor="transparent">
+Coolstory-max.png|Max's "cool story bro" patch.
+Altbag.jpg|Max's Vortex patch.
+</gallery>
+
+== Episode Four - "[[Episode 4: Dark Room|Dark Room]]" ==
+
+=== Ladybug in the Clock ===
+When the player enters the living room of Chloe's house, Max notices that the clock has stopped. She wonders if it was her fiddling with time that caused the clock to malfunction. Upon closer examination, it is revealed that the reason was simple: a ladybug stuck in the dials.
+
+[[File:Ladybug_in_clock.png|thumb|400px|center]]
+
+=== Magazine Flashback ===
+A magazine in [[Alternative Price Garage|Chloe's room]] in the alternative timeline references a couple of things from a scene in Episode 1 in the [[Timeline (Life is Strange)|original timeline]], such as a tre flip being the move that caused Trevor to fall off his board and Max being told she is or isn't a poser (depending on her knowledge of skate terms).
+
+[[File:LiS1-E4-Boards_magazine.png|thumb|200px|center]]
+
+=== Max's Hesitation ===
+When introducing Chloe to Mr. Jefferson, Max — for a brief instant — unmistakably hesitates before saying, "friend". It sounds like Max didn't know for sure how to qualify her relationship with Chloe. [[File:Headphones.png|16px|link=https://instaud.io/Tyk]] 
+[[File:Just a friend, huh?|thumb|400px|center]]
+
+=== Spying on Frank's RV ===
+If Chloe shot Frank in the leg and Max lingers around [[Frank's RV|his RV]], she will be able to hear him complaining about the pain, saying he can't believe he was shot by two teenagers and that he must do something for his leg. If Chloe stabbed Frank in the leg and Max lingers around his RV, she will be able to hear him saying he needs to take the knife out of his leg and how he needs [[Pompidou]]. {{Headphones|file=Frankhurt.ogg‎}}
+
+=== Vortex Party "Hot Scene" ===
+When Max enters the VIP section of the [[End of the World Party]], she can notice a couple in the dark, hidden behind one of the lane reels. If she stands nearby for long enough, she can listen to their secretive conversation (labeled "VIP_HotScene" with TeenBoy and TeenGirl in the game files):
+
+: '''Teen Boy:''' "Come on, baby."... "Come on, for me."... "It's OK… Hey! Hey! It's OK. Just… Relax."... "Come on... Hey, I'm not gonna hurt you!"
+: '''Teen Girl:''' "Ha ha! Stop."... "Ha ha! It tickles, stop it."... "Someone's gonna see us."... "(laugh)". {{Headphones|file=VIP_HotScene.ogg‎}}<ref group="note">Audio compilation has been created using the order that the dialogue is assigned in the game's subtitle files.</ref>
+
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="250" captionalign="center" position="center">
+Kissing_couple.png
+Kissing_couple-closeup.png
+</gallery>
+
+=== You're All Gonna Die ===
+[[File:Hideout_graffiti.jpg|thumb]]
+
+If Max wrote her name underneath Chloe and Rachel's in the [[hideout]] in Episode 2, presumably Jefferson writes "YOU'RE ALL GONNA DIE" in red near the graffiti and changes "Rachel was here" to "Rachel IS here". Interestingly, this mirrors something Nathan was supposed to say in Episode 4 in an unused sound file:
+
+<blockquote>"The storm is coming! Oh, you're all gonna die! I see you, I see all of you, and you're all gonna die!" {{Headphones|file=VO_E4_5A.nathan-allgonnadie.ogg}}</blockquote>
+
+Also, notable is the direction they enter the junkyard and pass the hideout, which are the train tracks on the opposite site they entered the junkyard before.
+
+== Episode Five - "[[Episode 5: Polarized|Polarized]]" ==
+
+=== Max's Inner Thoughts on the Plane ===
+If the player doesn't interact with anything after Principal Wells woke up on the plane, Max will state how happy she is that Chloe's alive and that she's not going to let Chloe out of her sight again.
+
+<blockquote>''But Chloe is alive! Focus on that, Max... Now I have to wait until after my trip to see her again... and I'm not letting her out of my sight again…''</blockquote>
+
+=== Hospital Woman ===
+The woman seen at the front desk when Max went to see Kate at the hospital can be seen again as one of the passengers in the same flight as Max.
+
+<gallery widths="300px" position="center" captionalign="center" hideaddbutton="true" bordersize="none" bordercolor="transparent">
+womanhospital.png
+womanplane.png
+</gallery>
+
+=== Jefferson's "Hidden" Comment ===
+In the Dark Room, right after Jefferson says to Max, "Sorry, I burned all your stuff. I got a little carried away", he actually adds something before saying, "Especially since you've developed from nerd to hero within a week". It's almost inaudible because of Max's comment "Fuck! He burned my diary! That's why I'm still here.", which completely drowns it out. The audio files confirm that Jefferson actually said, "You know, I always believed in your vision." For an unknown reason, this part hasn't been subtitled {{Headphones|file=VO_E5_5D.STM_211~Cue_E5_5D_DarkRoom_InsertionPart2_Jefferson_020.ogg}}
+
+=== Chloe's Necklace ===
+Before leaving the Dark Room to head to the Two Whales, Max has the option to look at and take Chloe's bullet necklace, which is lying by the computer. After looking at it, Max will make the following comment: ''"Oh, Chloe... I'm going to save you... for the last time."''
+
+If Max decides to take the necklace with her, she will say: ''"There's no way I'm leaving your necklace here."''
+
+[[File:chloenecklace-darkroom.png|400px|thumb|center]]
+
+=== Max's Phone ===
+When Max takes out her phone to call Warren and ask him for the photo, you can see that the carrier on Max's phone is "Vaireezon". You can also find out the exact time Max calls Warren, at 12:19 pm.
+
+[[File:Maxphone-polarized.png|thumb|400px|center]]
+
+=== Victoria's Notebook ===
+Max can inspect Victoria's notebook in which she wrote that "Mark Jefferson rules", but only seems to care about Max. She acknowledges her envy for Max and writes that she should "get over [herself]".
+
+[[File:Note5-artclass-vicnotebook.png|thumb|400px|center]]
+
+=== Chloe and David ===
+In this episode, both David and Chloe reflect upon their relationship with each other and for once, acknowledge and appreciate the other one for something they had always seen as a flaw before. For Chloe, it is acknowledging and appreciating David's affinity for security. For David, it is Chloe's smoking habits. Both lines are structured in parallel.
+
+[[File:Chloe and David Parallels.png|thumb|400px|center]]
+
+=== RV Graffiti ===
+As Max makes her way to the Two Whales Diner to see Warren to get the photo, she can walk over to Frank's RV that is situated outside the diner. A new detail is now present on Max's graffiti (if she opted to draw on the RV in Episode 1). This new detail appears to imitate the gunshot wound that Chloe suffered to the head at the end of Episode 4. At this point in the game, Max's intentions are to obtain Warren's photo, so that she can go back in time to save Chloe from this particular fate.
+
+[[File:RV-graffiti-ep5.png|thumb|400px|center]]
+
+=== Dead Birds on the Nightmare Campus ===
+During her nightmare that begins in Jefferson's art class, Max can look outside the windows to see hundreds of birds littering the campus grounds.
+
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="400" captionalign="center" position="center">
+Ep5-Dead_birds.png
+</gallery>
+
+=== Reversed Hallway in the Nightmare ===
+Since everything is backwards in [[Max's_Nightmare#Blackwell_Academy|this sequence]], if Max uses her rewind power, she will obvert everything for a temporary period (making everything proceed "normally": movements of the surroundings, dialogues, and the background music "uoY fo llA oT", etc.).
+
+[[File:Reversed Hallway a.jpg|thumb|400px|center]]
+
+However, the rewinding will not work on the spirit doe, as always.
+
+<gallery widths="300px" position="center" hideaddbutton="true" bordersize="none" bordercolor="transparent">
+Reversed Hallway b.jpg
+Reversed hallway c.jpg
+</gallery>
+
+Also, when taking the optional photo of [[Optional_Photos#Episode_Five_-_.22Polarized.22|the skeleton]] (#8), the player has to press the "Journal" key to execute the reversed action of this photoshoot.
+
+[[File:Reversed hallway d.jpg|thumb|300px|center]]
+
+=== People Outside the Nightmare Diner ===
+When Max is inside the Two Whales Diner in her nightmare, she can look out of the windows to see hundreds of people standing eerily still. These people likely represent the residents of Arcadia Bay that could die as a result of Max's actions.
+
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="400" captionalign="center" position="center">
+nightmare_diner_people.png
+</gallery>
+
+=== Max's Surprised Reaction ===
+During the nightmare, Chloe enters the diner to defend Max from her doppelganger. At the very moment, before Chloe jumps into the booth, Max can be seen raising her eyebrows, apparently astonished by Chloe's arrival.
+
+[[File:Max's surprised reaction when seeing Chloe|thumb|300px|center]]
+
+=== Max's Nightmare Insecurity ===
+If the player didn't choose to kiss Chloe in Episode 3, then during the Warren and Chloe scene, after Warren insults Max, Chloe will say, "I hear that. I'm not into... nerds, but you're pretty cute". An optional dialogue in Episode 3 during [[Max and Chloe]]'s swim in [[Blackwell Swimming Pool|Blackwell's pool]] implies that one of Max's insecurities is that she is thought of as a nerd, especially by Chloe. The obvious pause before "nerd" in Chloe's dialogue shows that Max still feels inadequate for Chloe as the nightmare sequence demonstrates.
+
+<gallery widths="300px" position="center" hideaddbutton="true" bordersize="none" bordercolor="transparent">
+maxinsecure-pool.png
+maxinsecure-nightmare.png
+</gallery>
+
+=== Max's Plane Ticket ===
+In her diary, Max drew her plane ticket. She wrote "San Fransisco" instead of Francisco. The ticket is written to be from Portland and not Arcadia Bay. This is likely because the nearest airport is in Portland.
+
+[[File:Plane-ticket.png|thumb|center|400px]]
+
+=== Max's Last Diary Entries ===
+The last diary entry can be viewed by e.g. pressing '''Tab''' on PC, just after the nightmare sequence. The entry is heavily focused on Max's feelings towards Chloe. If she didn't kiss Chloe in Episode 3, Max asks herself if she has subconsciously been developing some feelings for Chloe and if she chose to kiss Chloe, Max seems more sure about her feelings.
+
+(''[[Max's Diary#Friday.2C_October_11|Click here]] to read the entries'')
+
+=== Before the end ===
+There are several angles, in several instances, of the tree stump engraving; "Max+Chloe BFF Pirates 2008", right before the final decision, oddly or not in a place with lots of engravings and graffities, the tree stump is the only one clearly visible during the final sequence, maybe hinting at the "happy ending" option or maybe symbolizing what Max is about to sacrifice.
+
+=== Sacrifice Chloe Ending ===
+When Joyce hands down some of Chloe's belongings to Max, you can spot her studded bracelet. Max will wear it during Chloe's funeral.
+
+[[File:W1sWXhL.jpg|thumb|300px|center|Max wearing Chloe's bracelet.]]
+
+=== Body Count for the Sacrifice Arcadia Bay Ending ===
+Seven distinct bodies can be seen among the rubble of Arcadia Bay. Four of them can be seen twice under different angles. The fourth body is speculated to be Warren due to his wrecked car, or at least the same model, being near the body.
+
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="200" captionalign="center" position="center">
+Totalcount.png|View of six bodies.
+bodydiner.png|Another body in front of the diner.
+Count1-2.png|Bodies 1 and 2.
+Count3.png|Body 3.
+Count4.png|Body 4.
+</gallery>
+
+=== Destroyed Lighthouse ===
+In the cutscene following the save Chloe ending, the lighthouse (partly destroyed during the storm) can be seen missing its whole top part, making it seemingly half as height than earlier in the game.
+
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="400" captionalign="center" position="center">
+Lighthousemissing.png
+</gallery>
+
+== All Episodes ==
+=== Squirrel Photography ===
+In spite of their seemingly unimportant presence in the game, a squirrel features in Max's optional photos for every episode.
+
+== Notes ==
+<references group="note" />
+
+== References ==
+<references />[[ru:Легко упускаемые детали]]
+[[Category:Special Content]]
+[[Category:Special Content (Life is Strange)]]
+[[Category:Life is Strange]]

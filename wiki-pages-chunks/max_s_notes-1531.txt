@@ -1,0 +1,88 @@
+Here is a section of the wiki page for Max's Notes:
+
+Beacon](arcadia_bay_beacon.md)" newspaper.**
+Location: Living room of Chloe's house.
+Max's comments: To think this all started with my vision of a tornado…
+|style# "height:186px; vertical-align:top"|Look[File:note4-madsenhouse-beacon.png](220px.md)
+|-|Read# [File:note4-madsenhouse-beacon2.png](220px.md)
+|-
+|**Email from Principal Wells to David.**
+Location: David's garage.
+Max's comments: Should I have signed the petition? Blackwell sure isn't "safe and private" anymore...
+Notes: Appears if Max signed the petition in Episode 1.
+|style"height:186px; vertical-align:top"|Look# [File:note4-garage-grantwin.png](220px.md)
+|-|Read[File:note4-garage-grantwin2.png](220px.md)
+|-
+|**Email from Principal Wells to David (alternate).**
+Location: David's garage.
+Max's comments: I promise I’ll help Ms. Grant next time... if there is one.
+Notes: Appears if Max didn't sign the petition.
+|style# "height:186px; vertical-align:top"|Look[File:note4-garage-grantlose.png](220px.md)
+|-|Read# [File:note4-garage-grantlose2.png](220px.md)
+|-
+|**Email from Ms. Grant to David.**
+Location: David's garage.
+Max's comments: Oh, meow, Ms. Grant. Twist that knife.
+Note: Appears if David is on leave.
+|style"height:186px; vertical-align:top"|Look# [File:note4-garage-grantmail.png](220px.md)
+|-|Read[File:note4-garage-grantmail2.png](220px.md)
+|-
+|**Email from an anonymous to David.**
+Location: David's garage.
+Max's comments: At least he has one weird fan…
+Notes: Appears if David is on leave.
+|style# "height:186px; vertical-align:top"|Look[File:note4-garage-fanmail.png](220px.md)
+|-|Read# [File:note4-garage-fanmail2.png](220px.md)
+|-
+|**Email from David to Principal Wells.**
+Location: David's garage.
+Max's comments: Wish I had surveillance footage of that conversation.
+Notes: Appears if David is on leave.
+|style"height:186px; vertical-align:top"|Look# [File:note4-garage-davidtowells.png](220px.md)
+|-|Read[File:note4-garage-davidtowells2.png](220px.md)
+|-
+|**Email from David to Officer Berry.**
+Location: David's garage.
+Max's comments: David really did protect Chloe... I’m glad I stuck up for him.
+Notes: Appears if Max sided with David, didn't erase the phone message and blamed Chloe in Episode 1.
+|style# "height:186px; vertical-align:top"|Look[File:note4-davidemail.png](220px.md)
+|-|Read# [File:note4-davidemail-read.png](220px.md)
+|-
+|**Crumpled letter from David to Joyce.**
+Location: David's garage.
+Max's comments: There’s more to David Madsen than meets the eye. He should finish this letter to Joyce...
+Note: Appears if Max sided with Chloe and Kate is dead.
+|style"height:186px; vertical-align:top"|Look# [File:note4-garage-davidtojoyce-dead.png](220px.md)
+|-|Read[File:note4-garage-davidtojoyce-dead2.png](220px.md)
+|-
+|**Crumpled letter from David to Joyce (alternate).**
+Location: David's garage.
+Max's comments: There’s more to David Madsen than meets the eye. He should finish this letter to Joyce...
+Note: Appears if Max sided with Chloe and Kate is alive.
+|style# "height:186px; vertical-align:top"|Look[File:Note4-garage-davidtojoyce-alive.png](220px.md)
+|-|Read# [File:Note4-garage-davidtojoyce-alive2.png](220px.md)
+|-
+|**Note from Sean Prescott for David.**
+Location: David's garage.
+Max's comments: Hmmm, what the hell did David do for Nathan? And what did his dad do for David?
+|style"height:186px; vertical-align:top"|Look# [File:note4-garage-seannote.png](220px.md)
+|-|Read[File:note4-garage-seannote2.png](220px.md)
+|-
+|**[End of the World Party](end_of_the_world_party.md) flyer.**
+Location: David's garage.
+Max's comments: I wonder if David is going to the party...
+|style# "height:186px; vertical-align:top"|Look[File:note4-garage-partyflyer.png](220px.md)
+|-|Read# None
+|-
+|**Surveillance map of [Pan Estates](pan_estates.md).**
+Location: David's garage.
+Max's comments: Surveillance cameras at Pan Estates? David must be working for the Prescotts, too.
+|style"height:186px; vertical-align:top"|Look# [File:note4-garage-estatesmap.png](220px.md)
+|-|ReadNone
+|-
+|**Photos of Kate Marsh.**
+Location: Locker inside David's garage.
+Max's comments: Whoa... Maps, notes, coordinates, photos of Kate, Nathan... Yes!
+|style# "height:186px; 
+
+Generate five trivia questions relevant to this section of the page.

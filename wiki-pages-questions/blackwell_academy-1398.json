@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Was Blackwell Academy Originally Meant To Be Called?",
+    "answer": "A",
+    "choices": {
+      "A": "Avendell Highschool",
+      "B": "Oregon High",
+      "C": "Jefferson High",
+      "D": "Arcadia Bay High"
+    }
+  },
+  {
+    "question": "What Is The Architecture Of Blackwell Academy Based On?",
+    "answer": "A",
+    "choices": {
+      "A": "Schools In Oregon Around 1910",
+      "B": "Schools In California Around 1920",
+      "C": "Schools In New York Around 1930",
+      "D": "Schools In Texas Around 1940"
+    }
+  },
+  {
+    "question": "What Do Blackwell Students Use As Their Email Extension?",
+    "answer": "D",
+    "choices": {
+      "A": "*@Blackwell.edu*",
+      "B": "*@BlackwellAcademy.com*",
+      "C": "*@BlackwellHigh.edu*",
+      "D": "*@BlackwellAcademy.ed*"
+    }
+  },
+  {
+    "question": "What Do The License Plates In The Blackwell Parking Lot Reference?",
+    "answer": "A",
+    "choices": {
+      "A": "Television Shows",
+      "B": "Movies",
+      "C": "Books",
+      "D": "Video Games"
+    }
+  },
+  {
+    "question": "What Is Max's Student ID Number?",
+    "answer": "B",
+    "choices": {
+      "A": "B1OT21F2014",
+      "B": "B1OT21F2015",
+      "C": "B1OT21F2016",
+      "D": "B1OT21F2017"
+    }
+  }
+]

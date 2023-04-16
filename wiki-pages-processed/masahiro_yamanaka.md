@@ -1,0 +1,10 @@
+#  Masahiro Yamanaka 
+
+[File:Masahiro_Yamanaka.jpg](thumb.md)
+**Masahiro Yamanaka** (**ヤマナカ マサヒロ**) / (**山中 真尋**) is the Japanese voice actor of [Mark Jefferson](mark_jefferson.md) (**マーク・ジェファソン**) for the [Japanese Release (Life is Strange)](japanese_localization.md) of *[Life is Strange](life_is_strange.md)*.
+
+ Masahiro Yamanaka =
+
+[File:Masahiro_Yamanaka.jpg](thumb.md)
+**Masahiro Yamanaka** (**ヤマナカ マサヒロ**) / (**山中 真尋**) is the Japanese voice actor of [Mark Jefferson](mark_jefferson.md) (**マーク・ジェファソン**) for the [Japanese Release (Life is Strange)](japanese_localization.md) of *[Life is Strange](life_is_strange.md)*.
+

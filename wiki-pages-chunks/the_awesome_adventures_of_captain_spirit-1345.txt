@@ -1,0 +1,42 @@
+Here is a section of the wiki page for The Awesome Adventures of Captain Spirit:
+
+## Themes 
+The game explores two central aspects – the difficult situation of Chris's father and his family life and the positive side of how a 10-year-old spends his time alone and escapes the reality of this situation. Dontnod wanted to combine the two elements because they go hand in hand and, as Raoul Barbet puts it in an interview, "escaping doesn't make dark things disappear."
+
+The game is all about seeing the world through the eyes of a 10-year-old: "We really wanted to talk about being a kid, and this sort of blending of imagination and reality and how, for the player, we could use this vivid imagination to have fun, but also use it to tell Chris' story. What are his fears? What is the relationship with his dad like? And so on."
+
+"We knew the game would be free, so it sort of changed the way we designed and wrote it," continued Koch. "We were completely free to create this small sandbox of a kid on a Saturday morning. What do you want to do? Do you want to help your father out? Do you want to revel in your own imagination?"
+
+The game was influenced by the writers' own experiences as 10-year-olds who were only-childs and/or had only one parent like the game's protagonist, and Scriptwriter Christian Divine's experiences as a father to a little girl.[https://www.lemonde.fr/pixels/article/2018/06/25/jeu-video-l-emotion-est-plus-dure-a-amener-mais-l-interactivite-peut-la-decupler_5320686_4408996.html Jeu vidéo : « L’émotion est plus dure à amener, mais l’interactivité peut la décupler »](June 25, 2018)
+
+Michel Koch (translated from French): "I was an only son, with a single parent. Forcibly in this case you find yourself more often alone, so you make your world your way of occupying your time. Although the game does not take place in the 1990s, there are many concepts and memories of childhood that come from there."
+
+Raoul Barbet on childhood nostalgia: "We’ve all been children, boy or girl, and we had our bedroom, our own toys. (...) We hope that players will love Chris and be able to put their own memories into this game, just as they did with the first one."[https://www.polygon.com/e3/2018/6/19/17458694/life-is-strange-captain-spirit-sailor-moon Life Is Strange spinoff draws inspiration from a classic anime] (June 19, 2018)
+
+--
+
+Raoul Barbet: "As a 10-year-old boy, you've got this powerful imagination we all have as a boy, as a lonely boy. (...) We wanted to talk about that, the fact that sometimes it's interesting to be able to escape the difficult reality with your imagination."
+
+Underneath the cute conceit of Captain Spirit — that the powers he uses in-game are just a product of his imagination — lurks a more serious story. Chris' mother is out of the picture, and his dad struggles with alcohol abuse. "This is something we really wanted to talk about, what is it to be a child on your own. I think it’s interesting also to remember when you’re a boy like him, you’re quite young, but you start to understand some stuff of the adult world."
+
+#
+
+## Gameplay 
+Dontnod has worked to make dialog more natural. Players can now respond in some instances while moving. In the demo, this was on display as Chris' father, Charles, called to him from upstairs. Players can choose to respond or ignore all while continuing to explore. "We wanted to improve the feeling of answering someone," says Co-Creative Director Raoul Barbet. "It was interesting to us to have the feeling for the player to walk with someone near me and they can answer or not." Another change is the inclusion of a quest system. As Captain Spirit, Chris has a number of objectives to undertake, some of them are optional.[https://variety.com/2018/gaming/features/the-awesome-adventures-of-captain-spirit-interview-1202844291/ ‘The Awesome Adventures of Captain Spirit’ Sets Stage for ‘Life Is Strange 2’] (June 13, 2018)
+
+## Licensed Soundtrack 
+* "[Death with Dignity](death_with_dignity.md)" - Sufjan Stevens
+* "[Moon and Moon](moon_and_moon.md)" - Bat For Lashes
+* "[Parade](parade.md)" - Rone
+
+Like for the original *Life is Strange*, the use of music was a key element of the development. Co-Director Michel Koch explained in the [The Awesome Development of Captain Spirit](developer_s_diary.md) on *Captain Spirit*, "It's not just about having some decent strikes in particular music, it's also how you're going to use it within the story."
+
+## Nods to the Original 
+* A [Media:CapSpirit-wells-to-emily-letter.png](letter.md) from [Principal Wells](principal_wells.md) shows that Chris Eriksen's mother went to [Blackwell Academy](blackwell_academy.md).
+* A [Media:CapSpirit-jefferson-book.png](photography_book.md) featuring [Mark Jefferson](mark_jefferson.md)'s work.
+* [Hawt Dawg Man](hawt_dawg_man.md); a [Hawt Dawg Man: Mustard Party 2](game_on_charles__phone.md), a comic book and a web page.
+* The cover of the book in [Chris' Room](chris__room.md), *{{Wiki|Where the Wild Things Are}}*, contains a chicken from [Maxine Caulfield](max_caulfield.md)'s nightwear.
+
+
+
+Generate five trivia questions relevant to this section of the page.

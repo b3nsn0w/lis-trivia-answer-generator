@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What does Chloe volunteer to do in the kitchen?",
+    "answer": "B",
+    "choices": {
+      "A": "Make pancakes",
+      "B": "Break the eggs",
+      "C": "Cook the bacon",
+      "D": "Stir the batter"
+    }
+  },
+  {
+    "question": "What does Max ask Chloe to do to prevent something terrible from happening?",
+    "answer": "C",
+    "choices": {
+      "A": "Take a picture",
+      "B": "Break the eggs",
+      "C": "Stop her dad from driving",
+      "D": "Call the diner"
+    }
+  },
+  {
+    "question": "What does Max do to prevent William from driving?",
+    "answer": "C",
+    "choices": {
+      "A": "Unplug the phone",
+      "B": "Call the diner",
+      "C": "Warn him about the traffic",
+      "D": "Take away his car keys"
+    }
+  },
+  {
+    "question": "What does William promise to do if he has to drive anywhere?",
+    "answer": "B",
+    "choices": {
+      "A": "Drive slowly",
+      "B": "Take a test",
+      "C": "Use a GPS",
+      "D": "Avoid the bad roads"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Does Warren Show Max When They First Meet?",
+    "answer": "A",
+    "choices": {
+      "A": "His Flash Drive",
+      "B": "His Car",
+      "C": "His Phone",
+      "D": "His Sketchbook"
+    }
+  },
+  {
+    "question": "Where Does Warren Suggest They Go To Watch A Movie?",
+    "answer": "C",
+    "choices": {
+      "A": "Portland",
+      "B": "Seattle",
+      "C": "Newberg",
+      "D": "San Francisco"
+    }
+  },
+  {
+    "question": "What Movie Does Warren Suggest Max Watch?",
+    "answer": "C",
+    "choices": {
+      "A": "Twilight",
+      "B": "Akira",
+      "C": "Cannibal Holocaust",
+      "D": "Faster, Pussycat. Kill! Kill!"
+    }
+  },
+  {
+    "question": "What Does Warren Say Sensitive Usually Means?",
+    "answer": "A",
+    "choices": {
+      "A": "Won't Be Having Sex With You",
+      "B": "Will Be Your Best Friend",
+      "C": "Will Be Your Partner",
+      "D": "Will Be Your Enemy"
+    }
+  }
+]

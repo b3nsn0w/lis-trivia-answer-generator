@@ -1,0 +1,32 @@
+[
+  {
+    "question": "In Which Episode Of Life Is Strange Is \"In My Mind\" Featured?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "What Album Is \"In My Mind\" By Amanda Palmer From?",
+    "answer": "A",
+    "choices": {
+      "A": "Amanda Palmer Goes Down Under",
+      "B": "Who Killed Amanda Palmer?",
+      "C": "Theatre Is Evil",
+      "D": "There Will Be No Intermission"
+    }
+  },
+  {
+    "question": "What Is Max Doing When She Hears \"In My Mind\" In Life Is Strange?",
+    "answer": "D",
+    "choices": {
+      "A": "Sleeping",
+      "B": "Driving",
+      "C": "Crying",
+      "D": "Returning From An Alternate Timeline"
+    }
+  }
+]

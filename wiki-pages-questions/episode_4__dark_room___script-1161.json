@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Job Did Joyce Take At Pan Estates?",
+    "answer": "A",
+    "choices": {
+      "A": "Waitress",
+      "B": "Janitor",
+      "C": "Receptionist",
+      "D": "Gardener"
+    }
+  },
+  {
+    "question": "Who Is Sean Prescott?",
+    "answer": "C",
+    "choices": {
+      "A": "A Bus Driver",
+      "B": "A Caretaker",
+      "C": "A Businessman",
+      "D": "A Doctor"
+    }
+  },
+  {
+    "question": "What Is Happening To The Wildlife In Arcadia Bay?",
+    "answer": "B",
+    "choices": {
+      "A": "They Are Being Hunted",
+      "B": "They Are Being Poisoned",
+      "C": "They Are Being Relocated",
+      "D": "They Are Being Protected"
+    }
+  },
+  {
+    "question": "What Is Chloe's Condition?",
+    "answer": "B",
+    "choices": {
+      "A": "She Is Paralyzed",
+      "B": "She Has A Respiratory Problem",
+      "C": "She Has A Heart Condition",
+      "D": "She Has A Brain Tumor"
+    }
+  },
+  {
+    "question": "Where Does Max Find The Morphine Injector?",
+    "answer": "A",
+    "choices": {
+      "A": "In The Cupboard Above The Sink",
+      "B": "In The Medicine Cabinet",
+      "C": "In The Shower",
+      "D": "Under The Sink"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Was The Original Title Of Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "What If?",
+      "B": "Remember Me",
+      "C": "Life is Different",
+      "D": "Twist of Fate"
+    }
+  },
+  {
+    "question": "Why Did Square Enix Suggest The Episodic Format For Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "To Tell The Story In Its Preferred Slow Pace",
+      "B": "To Save Money On Development Costs",
+      "C": "To Release The Game Faster",
+      "D": "To Appeal To A Younger Audience"
+    }
+  },
+  {
+    "question": "What Was The Purpose Of The Life Is Strange Room Built By Square Enix?",
+    "answer": "B",
+    "choices": {
+      "A": "To Present The Game To The Press",
+      "B": "To Replicate The Interior Of Chloe's Room",
+      "C": "To Host A Special Event For Fans",
+      "D": "To Showcase The Game's Unique Style And Mood"
+    }
+  },
+  {
+    "question": "How Did Developing Life Is Strange In Episodes Allow The Studio To Adjust Their Story?",
+    "answer": "D",
+    "choices": {
+      "A": "By Releasing The Episodes Over The Span Of A Year",
+      "B": "By Focusing On Character Development",
+      "C": "By Filling In Blanks Between Episodes",
+      "D": "By Reacting To Player Feedback"
+    }
+  }
+]

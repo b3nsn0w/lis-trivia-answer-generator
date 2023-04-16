@@ -1,0 +1,62 @@
+#  Mobile Media Kit 
+
+[File:Media Kit.png](centre.md)
+The **Mobile Media Kit** was released by Square Enix on January 12, 2016.[https://www.reddit.com/r/lifeisstrange/comments/40nedl/the_official_life_is_strange_mobile_media_kit_is/ The Official Life is Strange Mobile Media Kit is here!] (January 14, 2016)
+
+: *[https://www.reddit.com/r/lifeisstrange/comments/40nedl/the_official_life_is_strange_mobile_media_kit_is/ Download it here.] *
+
+##  Contents 
+
+###  Wallpapers for Android, iOS and Windows 
+(resolutions ranging from 540x960 to 1600x2560)
+*"Welcome to [Arcadia Bay](arcadia_bay.md)" sign.
+*[Blackwell Academy](blackwell_academy.md) [Blackwell Parking Lot](parking_lot.md).
+*Class photo by [Mr. Jefferson](mr__jefferson.md) (Android only)
+*Jeferson giving a lecture.
+*[Chloe's Room](chloe_s_room.md).
+*Chloe using [Chloe's Computer](her_computer.md).
+*Various doodles (Windows only).
+*[Maxine Caulfield](max.md) and [Chloe Price](chloe.md) in the [American Rust Junkyard](junkyard.md).
+*Max and Chloe in Chloe's room.
+*The [Lighthouse](lighthouse.md) at night.
+*Max in the [Zeitgeist Gallery](zeitgeist_gallery.md).
+*Max looking at the sunset.
+*Max on the swing in Chloe's backyard.
+*Max signing a statement in [Principal Wells](principal_wells.md)' [Principal Wells' Office](office.md).
+*Max and Chloe looking at [The Storm](the_storm.md).
+*Max and Chloe on the train tracks.
+*Outside the [Two Whales Diner](two_whales_diner.md).
+
+*Notification sounds ([Max's Messages](max_s_sms.md) and [Choices and Consequences](consequences.md))
+
+###  Popular Quotes 
+{{Quote|Wowser|Max}}
+
+{{Quote|Are you cereal?|Max}}
+
+{{Quote|Release the kra-can!|Max ("[Episode 3: Chaos Theory](chaos_theory.md)")}}
+
+{{Quote|Ready for the mosh pit, shaka brah?|Max ("Chaos Theory")}}
+
+{{Quote|I believe Max has taken what you kids call a selfie... A dumb word for a wonderful photographic tradition. And Max... has a gift.|Mark Jefferson ("[Episode 1: Chrysalis](chrysalis.md)")}}
+
+{{Quote|Another dollar for the swear-jar!|Young Chloe ("Chaos Theory")}}
+
+{{Quote|I was eating those beans – are you fucking insane? I WAS EATING THOSE BEANS!|Frank Bowers ("Chaos Theory")}}
+
+{{Quote|Ape, Ape, Ape... Who wants to "Go Ape"? Go Ape! Go Ape! Ape! Ape!!!|Warren ("[Episode 5: Polarized](polarized.md)")}}
+
+{{Quote|Are you cereal?|Max}}
+
+{{Quote|Release the kra-can!|Max ("[Episode 3: Chaos Theory](chaos_theory.md)")}}
+
+{{Quote|Ready for the mosh pit, shaka brah?|Max ("Chaos Theory")}}
+
+{{Quote|I believe Max has taken what you kids call a selfie... A dumb word for a wonderful photographic tradition. And Max... has a gift.|Mark Jefferson ("[Episode 1: Chrysalis](chrysalis.md)")}}
+
+{{Quote|Another dollar for the swear-jar!|Young Chloe ("Chaos Theory")}}
+
+{{Quote|I was eating those beans – are you fucking insane? I WAS EATING THOSE BEANS!|Frank Bowers ("Chaos Theory")}}
+
+{{Quote|Ape, Ape, Ape... Who wants to "Go Ape"? Go Ape! Go Ape! Ape! Ape!!!|Warren ("[Episode 5: Polarized](polarized.md)")}}
+

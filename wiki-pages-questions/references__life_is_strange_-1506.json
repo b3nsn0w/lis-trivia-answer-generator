@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the reference to Stephen King's \"IT\" in Max's Nightmare?",
+    "answer": "A",
+    "choices": {
+      "A": "Frank Bowers quotes a line from the book.",
+      "B": "Max encounters a clown in the maze.",
+      "C": "The nightmare takes place in a sewer.",
+      "D": "The nightmare involves a group of friends being terrorized."
+    }
+  },
+  {
+    "question": "What is the reference to \"Fight Club\" in the Chloe Ending?",
+    "answer": "A",
+    "choices": {
+      "A": "Max and Chloe hold hands as they witness destruction.",
+      "B": "Chloe sacrifices herself via time travel.",
+      "C": "The original timeline is corrected to save the city from destruction.",
+      "D": "The ending involves a car driving away from the town."
+    }
+  },
+  {
+    "question": "What is the possible reference to \"SAW\" in the nightmare version of the Two Whales Diner bathroom?",
+    "answer": "A",
+    "choices": {
+      "A": "The bathroom is filled with traps and puzzles.",
+      "B": "The walls are covered in blood and graffiti.",
+      "C": "There is a puppet on a tricycle in the corner.",
+      "D": "The room is dimly lit and has a rusty, industrial look."
+    }
+  },
+  {
+    "question": "What is the possible reference to \"Donnie Darko\" in the Sacrifice Arcadia Bay Ending?",
+    "answer": "A",
+    "choices": {
+      "A": "Chloe sacrifices herself to save the city from destruction.",
+      "B": "Max corrects the original timeline to prevent the destruction of the city.",
+      "C": "The ending involves a car driving away from the town.",
+      "D": "The ending features a montage of destruction set to music."
+    }
+  }
+]

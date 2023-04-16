@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Name Of The Episode Where Alternative Beach Appears?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode 3: Chaos Theory",
+      "B": "Episode 4: Dark Room",
+      "C": "Episode 5: Polarized",
+      "D": "Episode 2: Out of Time"
+    }
+  },
+  {
+    "question": "In Which Timeline Is Alternative Beach Located?",
+    "answer": "B",
+    "choices": {
+      "A": "Original Timeline",
+      "B": "Alternative Timeline",
+      "C": "Polarized Timeline",
+      "D": "Future Timeline"
+    }
+  },
+  {
+    "question": "What Is The Symbolic Meaning Of The Dead Whales On Alternative Beach?",
+    "answer": "B",
+    "choices": {
+      "A": "The End Of Joyce's Hope For Her Daughter",
+      "B": "The End Of Arcadia Bay's History",
+      "C": "The End Of Chloe's Life",
+      "D": "The End Of Max's Time Rewind Power"
+    }
+  },
+  {
+    "question": "What Is The Technical Term For Natural Lighting That Photographers Call?",
+    "answer": "B",
+    "choices": {
+      "A": "The Blue Hour",
+      "B": "The Golden Hour",
+      "C": "The Twilight Hour",
+      "D": "The Magic Hour"
+    }
+  },
+  {
+    "question": "Why Did Many Of Chloe's Other Friendships Never Last After Her Accident?",
+    "answer": "C",
+    "choices": {
+      "A": "Because She Moved Away",
+      "B": "Because She Became Too Popular",
+      "C": "Because Of The Awkwardness Of Her Disability",
+      "D": "Because She Became Too Busy"
+    }
+  }
+]

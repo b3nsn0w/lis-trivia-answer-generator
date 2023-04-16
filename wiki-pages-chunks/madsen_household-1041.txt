@@ -1,0 +1,51 @@
+Here is a section of the wiki page for Madsen Household:
+
+## Downstairs 
+*{{Interaction|Max can look at the mail.|"Doesn't look the 'Price' family is rolling in dough these days..."}}
+*{{Interaction|She can try to open the locked garage door.|"Nope. Someone locked it from the other side."}}
+*{{Interaction|She can look at and play a message on the answering machine.|"I love that they have the same old answering machine. And there's a message..."}}
+*{{Interaction|She can look at the family photos.|"Now this is the Chloe I remember... always smiling and laughing... not so much anymore."}}
+*{{Interaction|She can look at several books in the living room.|"I guess they're aging these books."}}
+*She can toggle the kitchen light switch.
+*She can turn on and off the TV in the living room.
+*{{Interaction|She can look at a jar labeled "Travel Money".|"Oh, I'd love to go to Paris too. At this rate they'll be lucky to get to Portland."}}
+*{{Interaction|She can look at several photos of Joyce on the refrigerator.|"Joyce still works at [Two Whales Diner](two_whales_diner.md). Best damn burgers in Arcadia. I better get one soon."}}
+*{{Interaction|She can read a food magazine.|"Yum. That looks tasty. I do miss Joyce's cooking..."}}
+*{{Interaction|She can look at a wine stain on the living room carpet.|"Hey, I remember that stain! Chloe and I knocked over Joyce's wine bottle,
+and we scrubbed forever, but it never came out. We got so busted!"}}
+*{{Interaction|She can look out the window.|"How many times did Joyce yell at us from this window?"}}
+*{{Interaction|She can look at a picture of a dead deer.|"If I took this picture the deer would be standing on your ass."}}
+*{{Interaction|She can look at and sit on the living room couch to have a [Moment of Calm (Life is Strange)](moment_of_calm.md).|"Damn, it's the couch! We used to pretend it was a pirate ship... Looks like a shipwreck now."}}
+*She can open the sliding door leading to the backyard.
+**{{Interaction|She can look at the old barbecue.|"William used to grill awesome burgers for us.
+I wonder if he was the last one to use this..."}}
+**{{Interaction|She can look at a drawing done by her and Chloe.|"That took Chloe and me the whole day to draw. It's almost invisible now."}}
+**{{Interaction|She can look at [Bongo](bongo.md)'s grave.|"We made this grave for Chloe's kitty. Poor Bongo. He never saw that car coming..."}}
+**{{Interaction|She can look at and have a Moment of Calm on the swing.|"Oh, I loved this swing. William made it just for me and Chloe."}}
+
+# #
+
+## Upstairs 
+*{{Interaction|Max can look at a picture of Arcadia Bay.|"'You can't go home again,' said Thomas Wolfe. But... here I am."}}
+*{{Interaction|She can look at several books on a bookshelf.|"These books have not been touched since the last decade. I see why."}}
+*{{Interaction|She can look out the window.|"Nothing's changed. Except for me and Chloe."}}
+*{{Interaction|She can open the door to Joyce and David's room.|"This must be Chloe's parents room... Man, I am nosey today..."|'' (See [Joyce and David's Room#Interactions](here.md) for the interactions)*}}
+*She can toggle the light switch in the bathroom. *(See [Madsen Household Bathroom#Interactions](here.md) for the interactions)''
+
+#
+
+## Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+# #
+
+## Upstairs 
+*{{Interaction|Max can look at a picture of Arcadia Bay.|"Nobody in this town has a fucking clue as to what's happening... or do they?"}}
+*{{Interaction|She can look out the window.|"For everybody else in the neighborhood it's just another morning..."}}
+*{{Interaction|She can look at the door of Joyce and David's room.|"I better not go in there... David might be in bed. Ew."}}
+*She can enter Chloe's room.
+*She can enter the bathroom.
+
+# #
+
+
+
+Generate five trivia questions relevant to this section of the page.

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who Is Listed First In The Cast Section Of The Life Is Strange Wiki Page?",
+    "answer": "A",
+    "choices": {
+      "A": "Ashly Burch",
+      "B": "Hannah Telle",
+      "C": "Dayeanne Hutton",
+      "D": "Nik Shriner"
+    }
+  },
+  {
+    "question": "Which Of The Following Is Not Listed As A Cast Member For Life Is Strange?",
+    "answer": "D",
+    "choices": {
+      "A": "Kylie Brown",
+      "B": "Carlos Luna",
+      "C": "Dani Knights",
+      "D": "John Doe"
+    }
+  },
+  {
+    "question": "Which Cast Member Voices The Character Of Max Caulfield?",
+    "answer": "B",
+    "choices": {
+      "A": "Ashly Burch",
+      "B": "Hannah Telle",
+      "C": "Dayeanne Hutton",
+      "D": "Nik Shriner"
+    }
+  },
+  {
+    "question": "Which Cast Member Voices The Character Of Chloe Price?",
+    "answer": "A",
+    "choices": {
+      "A": "Ashly Burch",
+      "B": "Hannah Telle",
+      "C": "Dayeanne Hutton",
+      "D": "Nik Shriner"
+    }
+  },
+  {
+    "question": "Which Cast Member Voices The Character Of Victoria Chase?",
+    "answer": "C",
+    "choices": {
+      "A": "Ashly Burch",
+      "B": "Hannah Telle",
+      "C": "Dayeanne Hutton",
+      "D": "Nik Shriner"
+    }
+  }
+]

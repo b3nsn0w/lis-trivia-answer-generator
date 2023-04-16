@@ -1,0 +1,59 @@
+Here is a section of the wiki page for Madsen Household:
+
+#  Madsen Household 
+
+```yaml
+Location
+
+image: Maxresdefaultmadsenhousre.jpg
+type: House
+location: |-
+  44 Cedar Avenue,
+  [Arcadia Bay](arcadia_bay.md)
+coordinates: 'Latitude: 45.54209 Longitude: -123.917112'
+state: Oregon
+appears: >-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)[Episode 3: Chaos
+  Theory](episode_3__chaos_theory.md)[Episode 4: Dark
+  Room](episode_4__dark_room.md)[Episode 5: Polarized](episode_5__polarized.md)
+  (nightmare)
+```
+
+> Home, shit home.
+
+**[Chloe Price](chloe_price.md) to [Maxine Caulfield**, Max Caulfield](maxine_caulfield____max_caulfield.md) in "[Episode 1: Chrysalis, Chrysalis](episode_1__chrysalis__chrysalis.md)"
+
+The **Madsen Household**Madsen, due to [Media:Note-chloeshouse-electrobill.png](joyce_taking_david_s_name.md). She probably would like to move on from William and the name would remind her of her grief for him. is the home of [David Madsen](david_madsen.md), [Joyce Price](joyce_price.md) and her daughter [Chloe Price](chloe_price.md). It is the previous residence of [William Price](william_price.md) before his untimely death. [Maxine Caulfield](max_caulfield.md) revisits the house when she is reunited with Chloe. The house is signed under Joyce's name.
+
+The address is 44 Cedar Avenue, [Arcadia Bay](arcadia_bay.md), Oregon.
+
+The house is explorable during "[Episode 1: Chrysalis](chrysalis.md)" and "[Episode 3: Chaos Theory](chaos_theory.md)." An [Alternative Price Household](alternative_version.md) of the ground floor is also explorable at the end of "Chaos Theory" when Max travels back to her childhood. Both alternate and normal versions of the house are fully explorable in "[Episode 4: Dark Room](dark_room.md)."
+
+The house has two bedrooms ([Chloe's Room](chloe_s_room.md) and [Joyce and David's Room](joyce_and_david_s_room.md)), one [Madsen Household Bathroom](bathroom.md), an open-plan living room with kitchen area, a backyard, and a [David's Garage](garage.md), mostly used by David. There are also some storage rooms which are not open to exploration, including another ground floor room by the front door.
+
+In the alternative version of the house, the garage has been partially transformed into a [Alternative Price Garage](downstairs_bedroom.md) for Chloe, leaving her upstairs bedroom abandoned.
+
+: *For the Price Household in 2008, click [Price Household (2008)](here.md).*
+
+## Biography 
+The following is what Max wrote about the Madsen Household in [Max's Diary](her_diary.md):
+
+''Going back to Chloe's old house for the first time in five years was like the ultimate rewind. Some things were obviously different, but some things weren't. The house smelled exactly the same as it did when we were growing up.''
+
+## Appearance 
+The house is half-painted blue and is falling slowly into disrepair. It is obvious that the family has no time or desire to fix up the house. However, the paint job is finished in the [Alternative Timeline (Life is Strange)](alternative_timeline.md), showing that William cares more about the house than David.
+
+Max looks at a huge carpet stain in the front room, and reminisces about her and Chloe spilling some of Joyce's wine. The two girls were unable to get the stain out despite scrubbing frantically. There is also a reference made to this by William in "Chaos Theory," when he tells the girls, "No Chloe and Max wine-tasting session."
+
+Outside, there is an old barbecue grill. Max can comment that William "used to grill awesome burgers" on it and wonders if he was the last one to use it. Max can also use the swing in the backyard twice in the game, which reveals some extra info about her and Chloe's time together.
+
+## Interactions 
+:**PC users: **''Hover over the text to see Max's comments. [Interactions](see_here.md) for all interactions in the game.''
+#
+
+## Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+# #
+
+
+
+Generate five trivia questions relevant to this section of the page.

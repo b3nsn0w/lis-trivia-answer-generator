@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Sarah's Last Name?",
+    "answer": "B",
+    "choices": {
+      "A": "Johnson",
+      "B": "It is not mentioned",
+      "C": "Amber",
+      "D": "Parker"
+    }
+  },
+  {
+    "question": "What Is Sarah's Attitude Towards Non-Vortex Club Members?",
+    "answer": "C",
+    "choices": {
+      "A": "Friendly",
+      "B": "Indifferent",
+      "C": "Snobbish",
+      "D": "Supportive"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Party That Sarah Guards The Entrance To?",
+    "answer": "B",
+    "choices": {
+      "A": "The Blackwell Bash",
+      "B": "The End of the World Party",
+      "C": "The Vortex Club Soiree",
+      "D": "The Dark Room Gathering"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Film Character Max References When Trying To Enter The VIP Section?",
+    "answer": "D",
+    "choices": {
+      "A": "Egon Spengler",
+      "B": "Peter Venkman",
+      "C": "Ray Stantz",
+      "D": "Zuul the Gatekeeper"
+    }
+  },
+  {
+    "question": "Which Of The Following Is Not A Vortex Club Member Who Does Not Appear In The Alternative Timeline?",
+    "answer": "C",
+    "choices": {
+      "A": "Sarah",
+      "B": "Dana Ward",
+      "C": "Trevor",
+      "D": "Juliet Watson"
+    }
+  }
+]

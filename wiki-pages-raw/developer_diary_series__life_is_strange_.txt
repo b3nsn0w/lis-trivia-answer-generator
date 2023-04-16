@@ -1,0 +1,89 @@
+= Developer Diary Series (Life is Strange) =
+
+{{Free Tab
+|minwidth = 47%
+|maxwidth = 100%
+|borderradius = 2
+|height = 2
+|tab1=Life is Strange |link1=Developer Diary Series (Life is Strange)
+|tab2=Before the Storm |link2=Developer Diary Series (Before the Storm)
+}}
+{{Stub}}
+The '''Developer Diary Series''' is a three-part series of developer interviews before the release of [[Episode 1: Chrysalis]] of ''[[Life is Strange]]''. The first part was released on January 9, 2015 and the last part on January 29th. An official playlist with all developer diary videos can be found [https://www.youtube.com/playlist?list=PLaSQREdOVdpLtD9usEvyOQtGE3Url04EA here].
+
+== Episodes ==
+*A New Beginning
+*The Butterfly Effect
+*Creating Arcadia Bay
+
+== Videos ==
+<gallery widths="200px" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+Life Is Strange Developer Diary - A New Beginning (PEGI) (subtitles)
+Life Is Strange Developer Diary - The Butterfly Effect (PEGI) (subtitled)
+Life Is Strange Developer Diary - Creating Arcadia Bay (PEGI) (subtitles)
+</gallery>
+
+== Transcripts ==
+=== A New Beginning ===
+'''Hervé Bonin:''' In a video game, what is difficult is to... to see what the project will be in the future and to feel that there is something great. And when you see everything come together like the mood, the cinematic and everything, you have to be very confident. And I think now the team is doing something great and I think the final result is there, the animation and everything is coming now. I'm very proud of what they have made.
+
+'''JMAX-Moris:''' Hi my name is JMAX-Moris and I'm one of the co-founders of [[Don't Nod]]. DONTNOD has now been going a full six and a half years. We founded it in June 2008. We did our first game {{wiki|Remember Me}} which came out in June 2013, last year and we've been working on ''Life is Strange'' since April 2013. So, that's our second baby and we're extremely proud of seeing it come out.
+
+'''[[Michel Koch]]:''' Hi, my name is Michel Koch. I'm Co-Game Director and Art Director.
+
+'''[[Raoul Barbet]]:''' Hi, my name is Raoul Barbet. I'm Co-Game Director of ''Life is Strange''.
+
+'''Michel Koch:''' In ''Life is Strange'', you're playing as [[Maxine Caulfield|Max]], as a teenager who just came back to her hometown of [[Arcadia Bay]] after being away for five years. And you're getting back to know again your old best friend [[Chloe Price|Chloe]]. But you discover Chloe has really changed, she's really a different person, and one reason for this change is one of her friends [[Rachel Amber]] just went missing a few months ago. This is really an important part of the story that will tie again together Max and Chloe as they will team up to investigate on the disappearance of Rachel Amber. And the player and Max will discover that there is much more about this disappearance and it will evolve in the story and be quite a strong narrative thread during the span of the five episodes. We've always had this ambition of doing things differently. We want to do things that we love and these things just happen to be different from, let's say, mainstream games.
+
+'''Hervé Bonin:''' A few years ago we worked on ''Remember Me'' and there was a huge concept and it was called the memory remix. And we were thinking that there's something to be done and there was lots of discussion between us on how it could be so cool if there's a game with a rewind feature where you can do it whenever you want.
+
+'''Michel Koch:''' We thought that this mechanism of going back in time could be really interesting to use it on a whole game and we were really fans of adventure games and we thought that having a heavy narrative game with this mechanism of going back in time could be really interesting.
+
+'''Raoul Barbet:''' We wanted to let the player have those choices to make. All those choices and actions or even dialogue choices could have small consequences or bigger ones. Having this power will bring this story another layer and I think really give something strong to this story.
+
+'''JMAX-Moris:''' This is the era in your life where you're making all the choices that are going to define yourself as a human being.
+
+'''Raoul Barbet:''' Of course when you make choices, you will have maybe, you think, good consequences; two days later, maybe it will have very bad consequences.
+
+'''Michel Koch:''' What's interesting in ''Life is Strange'' and what differentiates us is we are dealing with choices that the player could have been in the position to make. The scope of those choices will ramp up during the game and we have those butterfly-effect consequences which will go darker and darker, but really it's a matter of putting the player in a position to make choices that could matter.
+
+'''[[Luc Baghadoust]]:''' Hi, I'm Luc Baghadoust, the producer. We have a lot of challenges in this game, first, it's an episodic game, it's the first for us, it's the first for [[Square Enix]]. It seems like an easy idea because you have this small part of the game, but in fact, it's quite complex because a lot of stuff needs to be ready when you release the first episode because you'll be able to add content, but not adding a lot of features. Everyone has to work in parallel on different tasks and it can be complicated to manage.
+
+'''Michel Koch:''' We knew from the beginning that we wanted this game to be episodic like a TV show. So we really started to write this as a series of events and of key moments.
+
+'''Raoul Barbet:''' We are not just writing the story and applying it to the game, we have to think about all the gameplay. This is really something we grew together so the core team were working on the story and the gameplay and the idea of the rewind mechanism. So this is really something we began all together and we grew the story as we also grew the gameplay mechanics.
+
+'''JMax-Morris:''' The feel just came about by itself. We're big fans of independent movies - of Sundance or Tribeca, we like those movies. We just looked at those and we didn't go to them as direct inspiration, but they're definitely in the background and I think that shows a lot in the game.
+
+'''Michel Koch:''' I think really, the word nostalgia was one of the few keywords we put when we created the game. Our game is about time, with the rewind. We are dealing with a coming of age story and really there is always this fight between the present and the past with those subjects. In the high school, we have the teenagers who have their smartphones, they are always posting everywhere on social media or taking pictures with their smartphones. And on the other hand we also have characters who are more nostalgic and Max, the main character, is one of those characters.
+
+'''Raoul Barbet:''' She's got a handwritten diary.
+
+'''Michel Koch:''' Yes, she likes to take notes and Chloe, her best friend, is still living sometimes in the past with stuff she's got from her parents. It's important for our game to blend those two different worlds and to show the contrast and the passing of time.
+
+'''JMax-Morris:''' It's about identity. It's about how we become who we are, but it's from a totally different angle. It's the analog angle. It's the pictures, you know, that you lay on the floor.
+
+'''Raoul Barbet:''' Most indie games have chosen to talk about social issues and everyday life problems. And this is, I think, something really important for media. We want to see what is really everyday life in a small town where there are the problems of unemployment, alcoholism. A lot of the teenagers see those problems and of course they have their own. You've got some social bullying, you've got some violence also in the high school world. So all those problems and those social issues are very important and we want to have them in the game and to talk about them.
+
+'''Michel Koch:''' Those subjects will interest the player because there is really this will for something different.
+
+'''JMax-Morris:''' Square Enix were basically the only publisher that didn't want to change a single thing about the game. We had other publishers telling us make it a male lead character. And Square Enix didn't even question that once.
+
+'''Luc Baghadoust:''' It felt natural to have Max as a female character for this game.
+
+'''Michel Koch:''' Max is a bit shy, but she's also a bit different, so we wanted for her to define the way she's moving; she's not all flashy like Chloe, she has more subtle movements. And for Chloe on the other hand, with the motion-capture actress, we asked her to be much more, like a dancing/moving. Max and Chloe are really different, but they're also opposite and complementary at the same time. I think one is not good without the other. There will be of course progression in the character arcs. We won't spoil it, but we see a lot of changes in both characters.
+
+'''Raoul Barbet:''' I love Chloe. I like the way she interacts with Max and she's this kind of friend you have, who doesn't have your choice of life at all, but she can change yours.
+
+'''JMax-Morris:''' My favorite part of my job is when I feel, you know, everyone is working in the same direction; I have worked with the team at clarifying and when I'm able to step out the studio door, and go to the publisher's and basically speak one voice, you know, nothing political: this is the great game that we're working on together. And it's crystal clear where we're going.
+
+=== The Butterfly Effect ===
+TBA
+
+=== Creating Arcadia Bay ===
+TBA
+[[Category:Behind the Scenes]]
+[[Category:Behind the Scenes (Life is Strange)]]
+[[Category:Don't Nod]]
+[[Category:Life is Strange]]
+[[Category:Developers]]

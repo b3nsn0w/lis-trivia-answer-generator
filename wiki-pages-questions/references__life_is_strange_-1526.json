@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the name of the social media platform referenced on a sign outside the Two Whales Diner?",
+    "answer": "D",
+    "choices": {
+      "A": "Twitter",
+      "B": "Facebook",
+      "C": "Instagram",
+      "D": "Weeter"
+    }
+  },
+  {
+    "question": "What is the reference made by Max when she spots a red cap in the Principal's secretary office?",
+    "answer": "A",
+    "choices": {
+      "A": "Catcher in the Rye",
+      "B": "Star Trek",
+      "C": "Get Smart",
+      "D": "Scarface"
+    }
+  }
+]

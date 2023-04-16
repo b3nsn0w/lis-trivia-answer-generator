@@ -1,0 +1,38 @@
+Here is a section of the wiki page for Alyssa Anderson:
+
+## Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+Alyssa attends the Vortex Club's [End of the World Party](end_of_the_world_party.md) and will be standing next to the edge of the [Blackwell Swimming Pool](pool.md) while two boys play with a pool noodle very close to her. She is accidentally knocked into the pool by one of the boys. The boys laugh at Alyssa who is clearly upset and asks the boys to give her a break as she climbs out of the pool. If Max tries to talk to Alyssa, Alyssa will express frustration at Max for not being able to warn her this time. Max can rewind to warn her about the incoming pool noodle. If Max has now saved Alyssa 4 times, it will become an extra dialogue choice when speaking to her.
+
+|-|Help Alyssa (3/4)Help Alyssa (3/4)
+Alyssa will step out of the way to safely dodge the incoming pool noodle which falls into the pool instead. Alyssa will thank Max for warning her. However, she will wish Max had been there for her earlier that week.
+|-|Help Alyssa (4/4)# Help Alyssa (4/4)
+Inspired by Max's previous warnings, Alyssa will assure Max that she's on the case and step out of the way. Alyssa safely dodges the incoming pool noodle which falls into the pool instead. Relieved that Max was able to warn her again, Alyssa will conclude that Max is her angel who has "stepped up every single time to protect [her] from the cruel world" and will call her "Mystic Max". She will also recite "the only poem she can quote" by {{Wiki|Robert Frost}}*"I shall be telling this with a sigh. / Somewhere ages and ages hence: / Two roads diverged in a wood, and I... / took the one less traveled by. / And that has made all the difference."* and state the wish that everybody at Blackwell should care for one another as Max does.
+
+Max may choose to talk to Alyssa after warning her successfully.
+
+|-|Talk to AlyssaTalk to Alyssa
+{{#tag:tabber|Nathan# Nathan
+Max will ask Alyssa if she has seen Nathan Prescott at the party. Alyssa says he is surely in the VIP section, comparing the Vortex Club to New York. Before leaving, Max will tell Alyssa to look out for herself, causing the latter to joke about this not being necessary when she has Max at her side.
+{{!}}-{{!}}Vortex ClubVortex Club Max will mention to Alyssa that the End of the World party is her first and only Vortex Club attendance. Alyssa explains that she only attended because she "just wanted to be around a bunch of people trying to have a good time" even if she hates most of them. Max will remark that Victoria doesn't hassle Alyssa as she does with her and Kate. Alyssa responds that Victoria must know that she would punch her in the face, and thinks she probably should "just for Vortex Club posterity".
+{{!}}-{{!}}Kate# Kate
+{{#tag:tabber|Kate DiedKate Died
+If Kate is dead, Max will mention that she's surprised to see people have turned up to party despite Kate having jumped off a building in front of them. Alyssa will tell Max that she only came because Warren was attending and she needed something else to vent about. She also says the party is such a tribute to Kate's spirit. Max can choose to say that the viral video is to blame for Kate's behavior or that Kate deserves revenge.
+
+Alyssa will thank Max for helping once again and is reminded of a poem by Robert Frost. Max will ask about the poem, and Alyssa warns her that this will be "like poet karaoke" before she recites *The Road Not Taken*. Max will thank Alyssa for the poem and tells her that it was what she needed to hear. Alyssa will thank Max for not cringing and says that Blackwell would be so much cooler if there were more considerate people like Max, whom she considers to be "a great start".
+{{!}}-{{!}}Kate Survived=Kate Survived
+If Kate is alive, Max will mention that she's surprised to see people have turned up to party despite Kate having almost jumped off a building in front of them. Max will say they are probably happy Kate is "okay" so they can party again. Alyssa will tell Max that Kate seems to be doing better; Kate is drawing again and even her mom is being supportive for a change. Max can choose to say that the viral video is to blame for Kate's behavior or that Kate deserves revenge.
+
+Alyssa will thank Max for helping once again and is reminded of a poem by Robert Frost. Max will ask about the poem, and Alyssa warns her that this will be "like poet karaoke" before she recites *The Road Not Taken*. Max will thank Alyssa for the poem and tells her that it was what she needed to hear. Alyssa will thank Max for not cringing and says that Blackwell would be so much cooler if there were more considerate people like Max, whom she considers to be "a great start".
+}}
+}}
+
+## Episode Five - "[Episode 5: Polarized](polarized.md)" 
+While Max is making her way to the [Two Whales Diner](two_whales_diner.md), she will see Alyssa stuck in a 2nd floor apartment. Alyssa will beg Max to help her. If there has been at least one occasion where Max hasn't warned Alyssa, she will frightfully tell Max that bad things always happen to her when she's around before walking backwards into a hole and falling to her death. Max can opt to rewind time to use a plank as a makeshift bridge to guide Alyssa to safety. Upon being rescued, Alyssa will thank Max and will suggest that they escape the [storm](storm.md) together, but Max replies that she needs to find other people.
+
+If Max saved Alyssa in every episode, a sign will fall onto Max and Alyssa will push her out of the way before she gets hit, believing that it makes the two even.
+
+In the Sacrifice Arcadia Bay ending, she presumably dies in the storm (if she did not die earlier). In the Sacrifice Chloe ending, she is not seen among the people who are attending Chloe's funeral, but is highly implied to be alive.
+
+
+
+Generate five trivia questions relevant to this section of the page.

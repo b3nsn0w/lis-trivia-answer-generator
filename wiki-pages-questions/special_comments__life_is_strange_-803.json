@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Say About The Photo Contest In The Blackwell Academy Hallway?",
+    "answer": "A",
+    "choices": {
+      "A": "\"You totally wussed out on entering the photo contest.\"",
+      "B": "\"I'm going to win the photo contest.\"",
+      "C": "\"I don't care about the photo contest.\"",
+      "D": "\"I'm too busy for the photo contest.\""
+    }
+  },
+  {
+    "question": "What Does Max Say About Her Face In The Bathroom?",
+    "answer": "A",
+    "choices": {
+      "A": "\"My face feels so oily and gross.\"",
+      "B": "\"I look terrible today.\"",
+      "C": "\"I need to put on some makeup.\"",
+      "D": "\"I don't care about my appearance.\""
+    }
+  },
+  {
+    "question": "What Does Max Say About Her Reason For Entering The Bathroom?",
+    "answer": "C",
+    "choices": {
+      "A": "\"I need to cry in private.\"",
+      "B": "\"I need to fix my makeup.\"",
+      "C": "\"I did come in here for a reason.\"",
+      "D": "\"I'm lost and need to find my way.\""
+    }
+  },
+  {
+    "question": "What Does Max Say About Telling Anyone About Her Time Rewind Power?",
+    "answer": "A",
+    "choices": {
+      "A": "\"I can't tell anybody... they'll think I'm crazy!\"",
+      "B": "\"I need to tell someone about my power.\"",
+      "C": "\"I'm going to use my power to become famous.\"",
+      "D": "\"I don't care if people know about my power.\""
+    }
+  },
+  {
+    "question": "What Does Max Say About Chloe In The Corridor Before Entering The Bathroom To Save Her?",
+    "answer": "A",
+    "choices": {
+      "A": "\"I can't let that girl die in the bathroom...\"",
+      "B": "\"Chloe is always getting into trouble.\"",
+      "C": "\"I don't care about Chloe's safety.\"",
+      "D": "\"I hope Chloe is okay.\""
+    }
+  }
+]

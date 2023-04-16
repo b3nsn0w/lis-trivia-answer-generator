@@ -1,0 +1,39 @@
+= Amaury Balandier =
+
+{{Stub}}
+{{Infobox Crew
+|title = Amaury Balandier
+|image = Amaury Balandier.jpg
+|profession = Lead Environment Artist
+|active = January 2015
+|companies = [[DONTNOD]]
+}}
+
+'''Amaury Balandier''' is a French illustrator and environment artist working for [[Don't Nod]] since January 2015. As the lead environment artist for ''[[Life is Strange]]'', he was significantly involved in the game's creation and development.
+
+== Trivia ==
+*As an [[Easter Eggs (Life is Strange)|easter egg]], there are many [[References (Life is Strange)|references]] to Amaury Balandier's name scattered throughout ''Life is Strange '':
+** A member of the 2013 Yearbook Committee at [[Blackwell Academy]] in is called "Amaury".
+** The soda cans in Chloe's room are a brand called "Pr. Amaury".
+** There is a postcard that can be found in [[Chloe's Room|Chloe's room]], the metalbox under Chloe's bed. Once enlarged, it appears the letter was from someone called "Amaury".
+** Victoria's tablet is from the brand "Amaury" as evident from the textures found in the game files.
+** One of Jefferson's photographs that is displayed on the Blackwell campus shows the name "Amaury" in the background.
+
+<gallery widths="200px" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+Yearbook_Flyer.png|Yearbook Committee members.
+soda-can.png|Pr. Amaury soda can.
+Postcard.png|Postcard from Amaury.
+Tablet textures.png|Geometrical net of Victoria's tablet.
+amauryphoto.png|Photograph on the Blackwell campus.
+</gallery>
+
+== External Links ==
+* [http://www.imdb.com/name/nm7191301/ IMDb Profile]
+* [https://fr.linkedin.com/in/amaury-balandier-9574528 LinkedIn Profile]
+[[Category:Behind the Scenes]]
+[[Category:Crew]]
+[[Category:Behind the Scenes (Life is Strange)]]
+[[Category:Illustrators]]
+[[Category:Don't Nod]]
+
+[[Category:Life is Strange]]

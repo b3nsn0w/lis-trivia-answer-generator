@@ -1,0 +1,42 @@
+[
+  {
+    "question": "When Did Hailey Hayes Participate in the Reddit AMA?",
+    "answer": "B",
+    "choices": {
+      "A": "June 18, 2018",
+      "B": "June 19, 2018",
+      "C": "June 20, 2018",
+      "D": "July 18, 2018"
+    }
+  },
+  {
+    "question": "Who Did Hailey Hayes Voice in Life is Strange: Before the Storm?",
+    "answer": "D",
+    "choices": {
+      "A": "Max Caulfield",
+      "B": "Chloe Price",
+      "C": "Rachel Amber",
+      "D": "Samantha Myers"
+    }
+  },
+  {
+    "question": "Who Is Phil in Relation to Hailey Hayes' Work on Life is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "A Character She Voiced",
+      "B": "A Developer",
+      "C": "A Fan",
+      "D": "A Friend"
+    }
+  },
+  {
+    "question": "What Did Hailey Hayes Say About Meeting Daye and Hannah, the Original Cast Members?",
+    "answer": "B",
+    "choices": {
+      "A": "They Were Unfriendly",
+      "B": "They Were Mind-Blowing",
+      "C": "They Were Disappointing",
+      "D": "They Were Unprofessional"
+    }
+  }
+]

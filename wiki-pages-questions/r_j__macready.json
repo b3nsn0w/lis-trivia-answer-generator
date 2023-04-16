@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the name of the fisherman in Life is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "R.J. MacReady",
+      "B": "Robert Joseph MacCready",
+      "C": "James A. Michener",
+      "D": "John Carpenter"
+    }
+  },
+  {
+    "question": "What is the name of the fisherman's boat?",
+    "answer": "A",
+    "choices": {
+      "A": "Bali Ha'i",
+      "B": "The Thing",
+      "C": "South Pacific",
+      "D": "Fallout"
+    }
+  },
+  {
+    "question": "What is the fisherman's campaign called in Episode 2?",
+    "answer": "A",
+    "choices": {
+      "A": "Save Our City",
+      "B": "Save Our Fish",
+      "C": "Save Our Harbor",
+      "D": "Save Our Drought"
+    }
+  },
+  {
+    "question": "What does the fisherman think about the Prescott family?",
+    "answer": "C",
+    "choices": {
+      "A": "They are honest people",
+      "B": "They are hardworking people",
+      "C": "They are crooks",
+      "D": "They are his friends"
+    }
+  },
+  {
+    "question": "What can Max find out by speaking to the fisherman and rewinding in Episode 3?",
+    "answer": "A",
+    "choices": {
+      "A": "There are no edible fish left in Arcadia Bay",
+      "B": "The fisherman is secretly working for the Prescott family",
+      "C": "The fisherman is planning to leave Arcadia Bay",
+      "D": "The fisherman is a meteorologist"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the significance of the turquoise feather earring worn by Rachel Amber in Life is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "It is a symbol of her Native American heritage.",
+      "B": "It is a symbol of her friendship with Chloe.",
+      "C": "It is a symbol of her rebellious nature.",
+      "D": "It is a symbol of her love for Mr. Jefferson."
+    }
+  },
+  {
+    "question": "What is the connection between Sean Prescott and the head of the Horne family in Twin Peaks?",
+    "answer": "C",
+    "choices": {
+      "A": "They are both rich property developers.",
+      "B": "They are both involved in the fishing industry.",
+      "C": "They are both scheming to take over a local saw mill.",
+      "D": "They are both Native American."
+    }
+  },
+  {
+    "question": "What is the fan theory about Max in Life is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "She is trapped in purgatory.",
+      "B": "She is a time traveler.",
+      "C": "She is a ghost.",
+      "D": "She is a figment of Chloe's imagination."
+    }
+  },
+  {
+    "question": "What is the significance of the angels in Fire Walk With Me and Life is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "They are a symbol of hope and redemption.",
+      "B": "They are a symbol of evil and corruption.",
+      "C": "They are a symbol of the afterlife.",
+      "D": "They are a symbol of the characters' inner demons."
+    }
+  }
+]

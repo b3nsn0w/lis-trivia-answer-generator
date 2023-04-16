@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who owns the Prescott Dormitory?",
+    "answer": "C",
+    "choices": {
+      "A": "The Blackwell Academy",
+      "B": "The Caulfield Family",
+      "C": "The Prescott Family",
+      "D": "The Marsh Family"
+    }
+  },
+  {
+    "question": "What is located to the left of the dormitory entrance?",
+    "answer": "B",
+    "choices": {
+      "A": "The girls' toilet",
+      "B": "The custodial room",
+      "C": "The TV lounge",
+      "D": "The vending room"
+    }
+  },
+  {
+    "question": "In which episode is the shower room first accessed?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 5: Polarized"
+    }
+  },
+  {
+    "question": "What is the name of the Native American totem located in front of the dormitory entrance?",
+    "answer": "A",
+    "choices": {
+      "A": "Tobanga Totem",
+      "B": "Blackwell Totem",
+      "C": "Prescott Totem",
+      "D": "Arcadia Totem"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "In which episode does Warren comfort Alyssa Anderson?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "Who beats up Warren in Episode 1: Chrysalis?",
+    "answer": "A",
+    "choices": {
+      "A": "Nathan Prescott",
+      "B": "Mark Jefferson",
+      "C": "David Madsen",
+      "D": "Frank Bowers"
+    }
+  },
+  {
+    "question": "In which episode does Warren defend Max inside the Prescott Dormitory?",
+    "answer": "C",
+    "choices": {
+      "A": "Episode 2: Out of Time",
+      "B": "Episode 3: Chaos Theory",
+      "C": "Episode 4: Dark Room",
+      "D": "Episode 5: Polarized"
+    }
+  },
+  {
+    "question": "Who takes a picture that helps Max save Chloe Price in Episode 5: Polarized?",
+    "answer": "A",
+    "choices": {
+      "A": "Warren",
+      "B": "Nathan",
+      "C": "David",
+      "D": "Frank"
+    }
+  },
+  {
+    "question": "In which episode does Warren pose for Max in the Science Lab?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  }
+]

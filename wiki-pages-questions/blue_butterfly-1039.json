@@ -1,0 +1,52 @@
+[
+  {
+    "question": "In which episode of Life is Strange does the Blue Butterfly make its first appearance?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 2",
+      "B": "Episode 3",
+      "C": "Episode 4",
+      "D": "Episode 1"
+    }
+  },
+  {
+    "question": "What does Max do when she sees the Blue Butterfly in the girls' bathroom?",
+    "answer": "A",
+    "choices": {
+      "A": "She takes a photo of it",
+      "B": "She tries to catch it",
+      "C": "She ignores it",
+      "D": "She screams and runs away"
+    }
+  },
+  {
+    "question": "In which ending of Episode 5 does the Blue Butterfly land on Chloe's coffin?",
+    "answer": "B",
+    "choices": {
+      "A": "Sacrifice Arcadia Bay",
+      "B": "Sacrifice Chloe",
+      "C": "Both endings",
+      "D": "None of the above"
+    }
+  },
+  {
+    "question": "What is the Blue Butterfly symbolic of in Life is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Personal growth and transformation",
+      "B": "Death and mourning",
+      "C": "Romanticism and love",
+      "D": "None of the above"
+    }
+  },
+  {
+    "question": "In which culture is the butterfly seen as a symbol of immortality and long life?",
+    "answer": "B",
+    "choices": {
+      "A": "Ancient Greece",
+      "B": "China",
+      "C": "Japan",
+      "D": "None of the above"
+    }
+  }
+]

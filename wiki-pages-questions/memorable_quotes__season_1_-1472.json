@@ -1,0 +1,22 @@
+[
+  {
+    "question": "According To Mark Jefferson, What Is His Number One Rule Of Photography?",
+    "answer": "A",
+    "choices": {
+      "A": "Always Take The Shot",
+      "B": "Use The Best Camera",
+      "C": "Capture The Perfect Moment",
+      "D": "Edit The Photos Perfectly"
+    }
+  },
+  {
+    "question": "What Does Jefferson Say Is The Only Place He Can Be \"Myselfie\"?",
+    "answer": "C",
+    "choices": {
+      "A": "In The Classroom",
+      "B": "In The Studio",
+      "C": "In The Dark Room",
+      "D": "In The Gallery"
+    }
+  }
+]

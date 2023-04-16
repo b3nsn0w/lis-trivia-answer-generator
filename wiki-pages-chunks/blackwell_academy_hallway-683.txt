@@ -1,0 +1,25 @@
+Here is a section of the wiki page for Blackwell Academy Hallway:
+
+tracks."}}
+*{{Interaction|She can look at a blood donation poster.|"I shouldn't be so stingy with my blood."}}
+*{{Interaction|She can look at a Save [Arcadia Bay](arcadia_bay.md) poster.|"That's so messed up. I should contact them to find out what I can do... As if I am."}}
+*{{Interaction|She can look at a gun-free and no tobacco use poster.|"Good thing I left my AK at home."}}
+*{{Interaction|She can look at a join the chess team poster.|"Nerd alert! This poster has Warren written all over it."}}
+*{{Interaction|She can look at a [Vortex Club](vortex_club.md) poster.|"Oh, I can hardly wait to never be too cool like Nathan and Victoria. Lame."}}
+*{{Interaction|She can look at an Arcadia Bay [lighthouse](lighthouse.md) tour poster.|"There's the lighthouse again..."}}
+*{{Interaction|She can look at a skeleton decoration.|"You can never have enough ghosts and skeletons in the hall."}}
+*{{Interaction|She can look at a soft drinks vending machine.|"They should just call it a 'Sugar Machine'... That would be awesome if you put
+money in there and a bag of sugar dropped out."}}
+*{{Interaction|She can look at the notices on a notice board.|"Don't need a PC, missed the Poetry Jam Tryouts, and I did not steal that backpack."}}
+*{{Interaction|She can look at a map of the Academy interior.|"How many students ever actually memorize all this shit? I guess we all should, these days."}}
+*{{Interaction|She can look at the [Bigfoots](bigfoots.md) banner.|"The Bigfoots' stomp... I should develop some school spirit. Go team."}}
+*{{Interaction|She can look at another notice board.|"You can really learn a lot about a school by the weird shit posted on the boards."}}
+*{{Interaction|She can look at an American football trophy.|"Look at these trophies. Gotta give it up for those Bigfoots. They do stomp."}}
+*{{Interaction|She can look at an engraved plaque trophy.|"Blackwell sure takes its swimming seriously. But otters are cute. Go Otters!"}}
+*She can enter the girls' bathroom.
+*{{Interaction|She can look at and speak to [Raymond Wells](principal_wells.md) after exiting the bathroom **(required)**.|"Principal Wells always looks so distracted. I can never figure out what he's thinking...
+Does he hate me?"}}
+
+# 
+
+Generate five trivia questions relevant to this section of the page.

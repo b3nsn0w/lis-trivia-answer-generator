@@ -1,0 +1,76 @@
+= Custodial Room =
+
+{{Free Tab
+|minwidth = 47%
+|maxwidth = 100%
+|borderradius = 2
+|height = 2
+|tab1=Life is Strange |link1=Custodial Room
+|tab2=Before the Storm |link2=Custodial Room (Before the Storm)
+}}
+{{Infobox Location
+|image = custodialroom-inside.png
+|type = Room
+|location = [[Blackwell Academy]], [[Arcadia Bay]]
+|state = Oregon
+|appears = [[Episode 1: Chrysalis]]<br />[[Episode 2: Out of Time]]<br />[[Episode 3: Chaos Theory]]}}
+
+The '''Custodial Room''' is located to the right of the [[Prescott Dormitory]] entrance and is used by [[Blackwell Academy|Blackwell]]'s janitor [[Samuel Taylor]].
+
+== Episode One - "[[Episode 1: Chrysalis|Chrysalis]]" ==
+[[Maxine Caulfield|Max Caulfield]] enters the room to crank up the sprinkler valve, which drenches [[Victoria Chase]], [[Taylor Christensen|Taylor]], and [[Courtney Wagner]], causing them to stand up and leave the stairs where they were sitting.
+
+== Episode Two - "[[Episode 2: Out of Time|Out of Time]]" ==
+Max has a second opportunity to explore the room; she can find photos of [[Rachel Amber]] posing and a box labeled "Sammy's stuff". Outside, she can ask Samuel, who sits on a bench, about the photos.
+Samuel also keeps a missing person poster of Rachel Amber in his custodial room.
+
+== Episode Three - "[[Episode 3: Chaos Theory|Chaos Theory]]" ==
+Max can enter the room once again as the door is not locked. Inside, she can find a scarf, a fashion magazine, a box with an empty paint bucket and several toolboxes.
+
+== Interactions ==
+:<span style="display:none">'''PC users: '''</span>''Hover over the text to see Max's comments. [[Interactions|See here]] for all interactions in the game.''
+*{{Interaction|Sprinkler valve|'''Episode 1:''' "This main sprinkler valve looks easy enough to use."<br>'''Episode 2:''' "I definitely won't play with this thing again..."}}
+*{{Interaction|Rachel's photos|"How did Samuel get photos of Rachel posing?"}}
+*{{Interaction|"Sammy's stuff" box|"I've never seen Samuel wearing shades... and what's with this other crap?"}}
+*{{Interaction|Rachel Amber Missing Person poster|"I can see that Samuel's concerned but... does he need a poster?"}}
+*{{Interaction|A silky scarf|"I know Samuel doesn't wear silky scarves... So who does?"}}
+*{{Interaction|A fashion magazine|"Who knew Samuel was so into runway fashion?"}}
+*{{Interaction|A box with an empty paint bucket|"Nothing here."}}
+*{{Interaction|An axe|"Samuel really should keep this locked. It's a waiting accident. And too easy to sneak into..."}}
+*{{Interaction|Several toolboxes|"Nuts and bolts... like my grandpa's garage."}}
+
+== Trivia ==
+
+Samuel's janitor room that can't be entered from the custodial room but very likely was originally meant to be an explorable area since there exists detailed concept art for the room.
+
+<gallery widths="300" bordersize="none" captionalign="left" captionsize="small" hideaddbutton="true">
+Janitor office.jpg|Concept art for Samuel's janitor room by [[Edouard Caplain]].<ref>[https://twitter.com/edouardcaplain/status/724878863956889600 Twitter post by Edouard Caplain]</ref>
+</gallery>
+
+== Gallery ==
+<gallery widths="200px" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+Samuel_custodial_room.png|Max entering the room in "Out of Time"
+Samuel room Rachel posing.png|Photos of Rachel posing
+Samuel room stuff.png|Box labeled "Sammy's stuff"
+samuel-girlstuff.png|A silky scarf
+Samuel Magazine.png|A fashion magazine
+</gallery>
+
+== References ==
+<references />
+{{Location Navbox}}
+
+[[Category:Locations]]
+[[Category:Locations (Life is Strange)]]
+[[Category:Episode 1: Chrysalis Locations]]
+[[Category:Episode 2: Out of Time Locations]]
+[[Category:Episode 3: Chaos Theory Locations]]
+[[Category:Blackwell Academy]]
+[[Category:Locations in Arcadia Bay]]
+[[Category:Explorable Locations]]
+[[Category:Explorable Locations (Life is Strange)]]
+
+[[Category:Life is Strange]]
+
+[[pt-br:Sala do Zelador]]
+[[ru:Каморка Сэмюэля]]

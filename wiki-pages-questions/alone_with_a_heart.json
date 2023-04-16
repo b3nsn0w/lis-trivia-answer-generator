@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who sings \"Alone With A Heart\" in Life is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Jacqui Dankworth",
+      "B": "Mark Jefferson",
+      "C": "Max Caulfield",
+      "D": "Don't Nod"
+    }
+  },
+  {
+    "question": "In which episode of Life is Strange does \"Alone With A Heart\" play?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 4: Dark Room",
+      "D": "Episode 5: Polarized"
+    }
+  },
+  {
+    "question": "Where is Max when \"Alone With A Heart\" plays in Life is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "In the Two Whales Diner",
+      "B": "In the Dark Room",
+      "C": "In the Vortex Club party",
+      "D": "In the Blackwell Academy courtyard"
+    }
+  },
+  {
+    "question": "What is the interpretation of \"Alone With A Heart\" in Life is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "It speaks of happiness and joy",
+      "B": "It speaks of loneliness and loss",
+      "C": "It speaks of anger and revenge",
+      "D": "It speaks of hope and optimism"
+    }
+  },
+  {
+    "question": "Where can \"Alone With A Heart\" be found outside of Life is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "On Jacqui Dankworth's personal website",
+      "B": "On a music website called Audio Network",
+      "C": "On a music streaming service called Spotify",
+      "D": "On a CD sold exclusively at Hot Topic stores"
+    }
+  }
+]

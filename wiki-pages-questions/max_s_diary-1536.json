@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Did Max and Chloe Obtain From Frank?",
+    "answer": "D",
+    "choices": {
+      "A": "Nathan's Phone",
+      "B": "David's Coordinates",
+      "C": "Frank's Account Book",
+      "D": "All of the Above"
+    }
+  },
+  {
+    "question": "What Happened To Frank In The Section Titled \"Frank Got Hurt\"?",
+    "answer": "C",
+    "choices": {
+      "A": "He Was Killed",
+      "B": "He Was Arrested",
+      "C": "He Was Injured In The Leg",
+      "D": "He Escaped Unharmed"
+    }
+  },
+  {
+    "question": "What Did Max Think About Frank In The Section Titled \"Frank Got Killed\"?",
+    "answer": "C",
+    "choices": {
+      "A": "He Was A Hero",
+      "B": "He Was A Good Person",
+      "C": "She Didn't See The Good In Him",
+      "D": "She Was Indifferent To Him"
+    }
+  },
+  {
+    "question": "What Did Max Convince Chloe To Do After The Section Titled \"Frank Became An Ally\"?",
+    "answer": "C",
+    "choices": {
+      "A": "Stop Investigating Rachel's Disappearance",
+      "B": "Confront Nathan",
+      "C": "Keep Going Forward With Her",
+      "D": "Leave Town"
+    }
+  },
+  {
+    "question": "What Did Max Compare Her Powers To In The Section Titled \"Frank Got Killed\"?",
+    "answer": "A",
+    "choices": {
+      "A": "Aging Her Before Her Time",
+      "B": "A Habit",
+      "C": "A Nature",
+      "D": "Corrupting Her"
+    }
+  }
+]

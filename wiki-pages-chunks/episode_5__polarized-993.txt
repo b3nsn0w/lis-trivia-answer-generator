@@ -1,0 +1,54 @@
+Here is a section of the wiki page for Episode 5: Polarized:
+
+#  Episode 5: Polarized 
+
+```yaml
+Episode
+
+title: Polarized
+season: '1'
+number: '5'
+image: TX Episode5 Preview.png
+imagewidth: '250'
+airdate: October 20, 2015
+writer: '[Jean-Luc Cano](jean_luc_cano.md)[Christian Divine](christian_divine.md)'
+director: '[Michel Koch](michel_koch.md)[Raoul Barbet](raoul_barbet.md)'
+Previous: '[Episode 4: Dark Room](episode_4__dark_room.md)'
+Next: |-
+  [Episode 1: Awake](episode_1__awake.md) (sequentially)
+  ----
+  [Episode 1: Roads](episode_1__roads.md) (chronologically)
+```
+
+[File:Ep5.JPG](centre.md)
+
+"**Polarized**" is the fifth and final episode of *[Life is Strange](life_is_strange.md)*. The episode was released on October 20, 2015, almost 3 months after [Episode 4: Dark Room](episode_4__dark_room.md). It is available on PC, Mac, PS3, PS4, Xbox 360, and Xbox One.
+Six teaser trailers and one final launch trailer were released before the episode went live to the public.
+
+## Synopsis 
+[Maxine Caulfield](max_caulfield.md) learns that time is impossible to control and that [Rewind](her_power.md) carries many [Choices and Consequences](consequences.md) as she moves inexorably towards the most agonizing decision of her life. [Arcadia Bay](arcadia_bay.md), meanwhile, is preparing to weather a huge [storm](storm.md) as *Life is Strange* comes to a gripping and gut-wrenching conclusion.
+: ''See here for [Max's Diary#Episode_Five_-_.22Polarized](diary_entries.md) and [Max's_Messages#Episode_Five_-_.22Polarized.22](messages.md) from this episode.''
+
+## Plot 
+Max is held captive inside [Dark Room (Location)](the_bunker.md) with [Mark Jefferson](mark_jefferson.md), but by using her powers, she manages to escape into a photograph. Emerging back at the beginning in Jefferson's class, it is made possible for her to inform [David Madsen](david_madsen.md) of her kidnapper's identity - Jefferson is caught, [Chloe Price](chloe_price.md) is rescued, and Max is awarded the opportunity to go to [San Francisco](san_francisco.md) as the winner of the [Everyday Heroes Photo Contest](everyday_heroes_photo_contest.md) and see her photograph displayed in an [Zeitgeist Gallery](art_gallery.md). She calls Chloe from the event, realizing that in spite of all her efforts, the storm still exists and is heading towards Arcadia Bay. Max uses her powers to go back in time to the taking of her photo entry, which eventually leads her to sojourn alternative realities as they devolve into a dreamscape [Max's Nightmare](nightmare.md). By the story's end, Max arrives at the [lighthouse](lighthouse.md) with Chloe. They confront the fact that Max brought the approaching super storm into existence by availing herself of the advantage of time travel abilities and saving Chloe in the bathroom from the start. Max must make a final choice: sacrifice Chloe's life in order to save Arcadia Bay or sacrifice Arcadia Bay to prevent Chloe's demise.
+
+## Checkpoints 
+#[Dark Room (Location)](dark_room.md)
+#Dark Room - 1st Focus
+#Dark Room - After the Focus
+#Dark Room - 2nd Focus
+#[Photography Lab](art_class.md) - Focus
+#[Plane](plane.md) - Between Realities
+#[Zeitgeist Gallery](art_gallery.md)
+#[Max's Room](max_s_room.md) - Focus
+#Dark Room - Confrontation
+#Jefferson's Car
+#[Two Whales Diner](diner.md)
+#[End of the World Party](parking_lot.md) - Focus
+#Beach
+#[Max's Nightmare](nightmare.md)
+#[Lighthouse](cliff.md)
+
+
+
+Generate five trivia questions relevant to this section of the page.

@@ -1,0 +1,365 @@
+= Special Comments (Life is Strange) =
+
+{{Free Tab
+|minwidth = 22%
+|maxwidth = 100%
+|borderradius = 4
+|height = 2
+|tab1 = Life is Strange|link1 = Special Comments (Life is Strange)
+|tab2 = Before the Storm|link2 = Special Comments (Before the Storm)
+|tab3 = Captain Spirit|link3 = Special Comments (Captain Spirit)
+|tab4 = Life is Strange 2|link4 = Special Comments (Life is Strange 2)
+}}This is a compilation of the various '''comments''' made by [[Maxine Caulfield|Max Caulfield]], the protagonist of ''[[Life is Strange]]'', in response to her environment and situations. The sub-sections chosen for this article are based on naming categories in the game file.
+
+== General ==
+
+===Anger/Disagreement===
+*''"You gotta be kidding me!"'' {{Headphones|file=specialcomms-anger-gottabekidding.ogg}}
+*''"No way!"'' {{Headphones|file=specialcomms-anger-noway.ogg}}
+*''"Are you serious?"'' {{Headphones|file=specialcomms-anger-areyouserious.ogg}}
+
+===Boredom/Disappointment===
+*''"This blows."'' {{Headphones|file=specialcomms-boredom-thisblows.ogg}}
+*''"Duh"'' {{Headphones|file=specialcomms-boredom-duh.ogg}}
+*''"Just great."'' {{Headphones|file=specialcomms-boredom-justgreat.ogg}}
+*''"Well…"'' {{Headphones|file=specialcomms-boredom-well.ogg}}
+
+===Negative Surprise===
+*''"Damn!"'' {{Headphones|file=specialcomms-negative-damn.ogg}}
+*''"Rats!"'' {{Headphones|file=specialcomms-negative-rats.ogg}}
+*''"Shit!"'' {{Headphones|file=specialcomms-negative-shit.ogg}}
+*''"Damn it!"'' {{Headphones|file=specialcomms-negative-dammit.ogg}}
+*''"NO!!!"'' {{Headphones|file=specialcomms-negative-no.ogg}}
+
+===Positive Surprise===
+*''"Wowser!" {{Headphones|file=VO_ACT_GEN_Max.STM_42~Act_GEN_PositiveSurprise_Max_10.ogg‎}}''
+*''"Awesome." {{Headphones|file=VO_ACT_GEN_Max.STM_75~Act_GEN_PositiveSurprise_Max_20.ogg‎}}''
+*''"Oh, yes." {{Headphones|file=VO_ACT_GEN_Max.STM_34~Act_GEN_PositiveSurprise_Max_30.ogg‎}}''
+*''"Yes!" {{Headphones|file=‎VO_ACT_GEN_Max.STM_12~Act_GEN_PositiveSurprise_Max_40.ogg}}''
+*''"Hella yes!" {{Headphones|file=‎VO_ACT_GEN_Max.STM_85~Act_GEN_PositiveSurprise_Max_50.ogg}}''
+
+===Idle Comments===
+When Max stands idle for too long, she may make one of the following comments:
+*''"Yep, I'm bored now" {{Headphones|file=VO_ACT_GEN_Max.STM_82~Act_GEN_Idle_Max_10.ogg‎}}''
+*''"Tick tock, tick tock, tick tock…" {{Headphones|file=VO_ACT_GEN_Max.STM_70~Act_GEN_Idle_Max_100.ogg‎}}''
+*''"That’s all she wrote, folks." {{Headphones|file=‎VO_ACT_GEN_Max.STM_51~Act_GEN_Idle_Max_110.ogg}}''
+*''"It’s great to watch the world pass you by..." {{Headphones|file=VO_ACT_GEN_Max.STM_25~Act_GEN_Idle_Max_120.ogg‎}}''
+*''"I’d love to stand in this spot forever" {{Headphones|file=VO_ACT_GEN_Max.STM_31~Act_GEN_Idle_Max_130.ogg‎}}''
+*''"And then inertia set in" {{Headphones|file=VO_ACT_GEN_Max.STM_36~Act_GEN_Idle_Max_140.ogg‎}}''
+*''"If I took a selfie now, it would be a still life." {{Headphones|file=‎VO_ACT_GEN_Max.STM_60~Act_GEN_Idle_Max_150.ogg}}''
+*''"Boring" {{Headphones|file=VO_ACT_GEN_Max.STM_63~Act_GEN_Idle_Max_20.ogg‎}}''
+*''"La dee da, la dee da" {{Headphones|file=VO_ACT_GEN_Max.STM_14~Act_GEN_Idle_Max_30.ogg‎}}''
+*''"I’m just chilling like a villain" {{Headphones|file=VO_ACT_GEN_Max.STM_39~Act_GEN_Idle_Max_40.ogg‎}}''
+*''"So I guess I’ll just chillax for awhile" {{Headphones|file=‎VO_ACT_GEN_Max.STM_53~Act_GEN_Idle_Max_50.ogg}}''
+*''"How long can I stand standing here ?" {{Headphones|file=‎VO_ACT_GEN_Max.STM_84~Act_GEN_Idle_Max_60.ogg}}''
+*''"If time is like a river, I’m stuck here" {{Headphones|file=VO_ACT_GEN_Max.STM_71~Act_GEN_Idle_Max_70.ogg‎}}''
+*''"What to do, what to do…" {{Headphones|file=VO_ACT_GEN_Max.STM_55~Act_GEN_Idle_Max_80.ogg‎}}''
+*''"Max, you need to stop talking to yourself. Agreed?... yes." {{Headphones|file=VO_ACT_GEN_Max.STM_9~Act_GEN_Idle_Max_90.ogg‎}}''
+
+===Suggested Rewind===
+When Max sees the potential to rewind, she may make one of the following comments:
+*''"Damn, I better rewind." ''{{Headphones|file=specialcomms-suggestedrw-dambetterrw.ogg}}
+*''"I better rewind." ''{{Headphones|file=specialcomms-suggestedrw-ibetterrw.ogg}}
+*''"I should rewind." ''{{Headphones|file=specialcomms-suggestedrw-shouldrw.ogg}}
+
+===Paused Rewind===
+If Max pauses when rewinding, she may make one of the following comments:
+*''"No way I can stop here." ''{{Headphones|file=specialcomms-pauserw-nowaycantstop.ogg}}
+*''"Should I rewind or stop?" ''{{Headphones|file=specialcomms-pauserw-shouldrworstop.ogg}}
+*''"I can't be in two places at once." ''{{Headphones|file=specialcomms-pauserw-cantbeintwoplaces.ogg}}
+*''"Either I rewind or I cancel." ''{{Headphones|file=specialcomms-pauserw-eitherrworcancel.ogg}}
+*''"I definitely can't stop here." ''{{Headphones|file=specialcomms-pauserw-defcantstop.ogg}}
+*''"I need to rewind or stop." ''{{Headphones|file=specialcomms-pauserw-rworstop.ogg}}
+*''"No can do, Max." ''{{Headphones|file=specialcomms-pauserw-nocando.ogg}}
+*''"I need to hit this rewind or cancel." ''{{Headphones|file=specialcomms-pauserw-hitrworcancel.ogg}}
+
+===Rewind to the End===
+When Max reaches the limitation of her rewind ability, she may make one of the following comments:
+*''"I can't go back further, I need to let go!" ''{{Headphones|file=specialcomms-rwlimit-needtoletgo.ogg}}
+*''"Urgh, that's as far as I can go back." ''{{Headphones|file=specialcomms-rwlimit-asfarasicango.ogg}}
+*''"I can't take it! I have to stop!" ''{{Headphones|file=specialcomms-rwlimit-canttakehavetostop.ogg}}
+*''"Ungh... ngh... Enough, Max! You can't go back any further!" ''{{Headphones|file=specialcomms-rwlimit-enoughmax.ogg}}
+*''"That's all you can do, stop before you hurt yourself." ''{{Headphones|file=specialcomms-rwlimit-stopbeforehurt.ogg}}
+*''"I'm getting dizzy... I can't rewind any more…" ''{{Headphones|file=specialcomms-rwlimit-imgettingdizzy.ogg}}
+*''"I can only go so far back in time." ''{{Headphones|file=specialcomms-rwlimit-canonlygosofar.ogg}}
+*''"Whoa, I'm getting sick. I can't rewind any further." ''{{Headphones|file=specialcomms-rwlimit-whoagettingsick.ogg}}
+*''"Shit, this is as far back as I can rewind." ''{{Headphones|file=specialcomms-rwlimit-asfarbackascanrw.ogg}}
+*''"I can't continue, it hurts too much!" ''{{Headphones|file=specialcomms-rwlimit-cantcontinue.ogg}}
+*''"I can't rewind anymore." ''{{Headphones|file=specialcomms-rwlimit-cantrwanymore.ogg}}
+*''"I have to stop before I pass out." ''{{Headphones|file=specialcomms-rwlimit-havetostopbeforepassout.ogg}}
+*''"Urgh… I can't stretch time any more." ''{{Headphones|file=specialcomms-rwlimit-canstretch.ogg}}
+
+===Forced Rewind===
+When Max finds herself or a friend nearby in a life-threatening situation, she may make one of the following comments:
+*''"I need to figure this out." ''{{Headphones|file=specialcomms-forcedrw-needtofigureout.ogg}}
+*''"I wonder how I'll get around this?" ''{{Headphones|file=specialcomms-forcedrw-wonderhowwillgetaround.ogg}}
+*''"There's only one way around this." ''{{Headphones|file=specialcomms-forcedrw-onlyonewayaround.ogg}}
+*''"Damn, I missed something, I better rewind!" ''{{Headphones|file=specialcomms-forcedrw-damnimissed.ogg}}
+*''"I must have missed something, I should rewind..." ''{{Headphones|file=specialcomms-forcedrw-musthavemissed.ogg}}
+*''"I better rewind right now!" ''{{Headphones|file=specialcomms-forcedrw-betterrwrightnow.ogg}}
+*''"Max, don't fuck around! Rewind!" ''{{Headphones|file=specialcomms-forcedrw-maxdontfkaround.ogg}}
+*''"Think Max, rewind and find something." ''{{Headphones|file=specialcomms-forcedrw-thinkmaxrwandfind.ogg}}
+*''"Shit! I need to rewind and do something fast!" ''{{Headphones|file=specialcomms-forcedrw-shitineedtorw.ogg}}
+*''"I have to rewind now!" ''{{Headphones|file=specialcomms-forcedrw-havetorwnow.ogg}}
+*''"Max, rewind... Now!" ''{{Headphones|file=specialcomms-forcedrw-maxrwnow.ogg}}
+*''"No way, Jefferson!"'' (helping David fight Jefferson in Episode 5)
+
+===Photo Rewind===
+(To Be Confirmed if these comments are made when Max rewinds after taking a photo that is not related to the [[Optional Photos]]. These are possibly unused content.)
+*''"Aw shit, my photo vanished!"''
+*''"Man, there goes another Pulitzer!"''
+*''"Damn, I wanted to keep that picture!"''
+*"''Are you kidding me? I wanted that shot!"''
+*''"I totally lost that picture forever."''
+
+===No Exit===
+When Max tries to explore an area and is unable to, she may make one of the following comments:
+*''"No need to go there now." ''{{Headphones|file=specialcomms-noexit-noneedtogo.ogg}}
+*''"Nope I don't want to go there..." ''{{Headphones|file=specialcomms-noexit-nopeidontwannagothere.ogg}}
+*''"No reason to go now." ''{{Headphones|file=specialcomms-noexit-noreasontogo.ogg}}
+*''"I don't want to go that way." ''{{Headphones|file=specialcomms-noexit-idontwannagothatway.ogg}}
+*''"Can't go that way." ''{{Headphones|file=specialcomms-noexit-cantgothatway.ogg}}
+*''"Obviously can't go there." ''{{Headphones|file=specialcomms-noexit-obviouslycantgothere.ogg}}
+
+===Not Working===
+When Max is unsuccessful at performing an action, she may make one of the following comments:
+*''"It won't work." ''{{Headphones|file=specialcomms-notworking-itwontwork.ogg}}
+*''"This does not work." ''{{Headphones|file=specialcomms-notworking-doesnotwork.ogg}}
+*''"No can do." ''{{Headphones|file=specialcomms-notworking-nocando.ogg}}
+*''"Not gonna happen." ''{{Headphones|file=specialcomms-notworking-notgonnahappen.ogg}}
+*''"Well, this isn’t working." ''{{Headphones|file=specialcomms-notworking-wellthisisntworking.ogg}}
+*''"I best try something else." ''{{Headphones|file=specialcomms-notworking-besttrysomethingelse.ogg}}
+
+== Location-Specific ==
+Depending on how long Max stays idle in a specific area, it will randomly trigger several inner thoughts from Max, unheard otherwise.
+
+=== Episode One - "[[Episode 1: Chrysalis|Chrysalis]]" ===
+==== <u>Art Class</u> ====
+In the art class before saving Chloe:
+* ''"Another daily fail in front of the world."'' {{Headphones|file=VO_E1_2A.STM_449~Act_E1_2A_ArtClass_VoiceOver02_Max_020.ogg}}
+* ''"It's so... awesome to look like an idiot in my favorite teacher's class."'' {{Headphones|file=VO_E1_2A.STM_205~Act_E1_2A_ArtClass_VoiceOver02_Max_030.ogg‎}}
+In the art class after the first accidental rewind:
+* ''"Why is this happening? And to me?"'' {{Headphones|file=VO_E1_2A.STM_213~Act_E1_2A_ArtClass_VoiceOverRewind04_Max_030.ogg}}
+* ''"This is so fucking bizarro."'' {{Headphones|file=VO_E1_2A.STM_403~Act_E1_2A_ArtClass_VoiceOverRewind04_Max_040.ogg}}
+* ''"I can't tell anybody; they'll think I'm nuts."'' {{Headphones|file=VO_E1_2A.STM_232~Act_E1_2A_ArtClass_VoiceOverRewind04_Max_060.ogg}}
+* ''"Could I save the girl in the bathroom?"'' {{Headphones|file=VO_E1_2A.STM_17~Act_E1_2A_ArtClass_VoiceOverRewind04_Max_100.ogg}}
+* ''"I need to hurry to the bathroom to save that girl."'' {{Headphones|file=VO_E1_2A.STM_88~Act_E1_2A_ArtClass_VoiceOverRewind04_Max_110.ogg}}
+* ''"That girl is going to die again, unless I get to the bathroom."'' {{Headphones|file=VO_E1_2A.STM_61~Act_E1_2A_ArtClass_VoiceOverRewind04_Max_120.ogg}}
+
+==== <u>Blackwell Academy Hallway</u> ====
+In the [[Blackwell Academy Hallway|corridor]] before entering in the bathroom for the first time:
+* ''"It's just one stupid picture, not your soul." {{Headphones|file=Vo_e1_2a.stm_125-act_e1_2a_corridor_voiceover01_max_020.ogg‎}}''
+* ''"Okay, chill, splash some water on your face." {{Headphones|file=‎Vo_e1_2a.stm_131-act_e1_2a_corridor_voiceover01_max_050.ogg‎}}''
+* ''"You need a bathroom time-out." {{Headphones|file=Vo_e1_2a.stm_176-act_e1_2a_corridor_voiceover01_max_060.ogg‎}}''
+* ''"Everybody looks happy just to be here, whatever." {{Headphones|file=Vo_e1_2a.stm_194-act_e1_2a_corridor_voiceover01_max_040.ogg‎}}''
+* ''"Max; you can always hide in a stall and cry." {{Headphones|file=‎Vo_e1_2a.stm_294-act_e1_2a_corridor_voiceover01_max_030.ogg}}''
+* ''"I need to go splash some water on my face and freshen up first." {{Headphones|file=Vo_e1_2a.stm_357-act_e1_2a_corridor_voiceover02_max_020.ogg‎}}''
+* ''"My eyes are stinging; let's go to the bathroom first." {{Headphones|file=Vo_e1_2a.stm_386-act_e1_2a_corridor_voiceover02_max_030.ogg‎}}''
+* ''"You totally wussed out on entering the photo contest." {{Headphones|file=‎Vo_e1_2a.stm_398-act_e1_2a_corridor_voiceover01_max_010.ogg}}''
+In the corridor before entering the bathroom a second time to save Chloe:
+* ''"I can't tell anybody... they'll think I'm crazy!"''{{Headphones|file=VO_E1_2A.STM_289~Act_E1_2A_Corridor_VoiceOverRewind01_Max_020.ogg‎ }}
+* ''"I can't let that girl die in the bathroom..."''{{Headphones|file=VO_E1_2A.STM_3~Act_E1_2A_Corridor_VoiceOverRewind01_Max_040.ogg}}
+
+==== <u>Bathroom (first time)</u> ====
+* ''"I did come in here for a reason." ''{{Headphones|file=VO_E1_2A.STM_137~Act_E1_2A_Toilets_VoiceOver01_Max_010.ogg}}
+* ''"My face feels so oily and gross." ''{{Headphones|file=VO_E1_2A.STM_79~Act_E1_2A_Toilets_VoiceOver01_Max_020.ogg}}
+* ''"I should freshen up now that I'm here." ''{{Headphones|file=VO_E1_2A.STM_39~Act_E1_2A_Toilets_VoiceOver01_Max_030.ogg}}
+
+==== <u>Blackwell Campus</u> ====
+On the [[Blackwell Campus|campus]] after having saved Chloe:
+* ''"I like this school energy near the primordial forest." {{Headphones|file=Vo_e1_3a.stm_32-act_e1_3a_campusa_voiceover03_max_040.ogg‎}}''
+* ''"Blackwell Academy is like... a High School College." {{Headphones|file=‎Vo_e1_3a.stm_119-act_e1_3a_campusa_voiceover03_max_030.ogg}}''
+* ''"This is so weird: these visions, this power." {{Headphones|file=Vo_e1_3a.stm_51-act_e1_3a_campusa_voiceover02_max_020.ogg‎}}''
+* ''"Nathan Prescott is dangerous. Why didn't I tell the principal?" {{Headphones|file=‎Vo_e1_3a.stm_57-act_e1_3a_campusa_voiceover02_max_050.ogg}} ''(choice-dependent)
+* ''"Arcadia Bay feels exactly the same but... different." {{Headphones|file=‎Vo_e1_3a.stm_141-act_e1_3a_campusa_voiceover03_max_020.ogg}}''
+* ''"I used to own this town as a kid. And now I don't know anybody." {{Headphones|file=Vo_e1_3a.stm_160-act_e1_3a_campusa_voiceover03_max_050.ogg‎}}''
+* ''"This is what it's like to be alone and feel lonely at once." {{Headphones|file=‎Vo_e1_3a.stm_148-act_e1_3a_campusa_voiceover03_max_060.ogg}}''
+* ''"I can't believe I saw that girl get shot." {{Headphones|file=‎Vo_e1_3a.stm_169-act_e1_3a_campusa_voiceover02_max_030.ogg}}''
+* ''"What is going on today?" {{Headphones|file=‎Vo_e1_3a.stm_178-act_e1_3a_campusa_voiceover02_max_010.ogg}}''
+* ''"Okay, I better get to my dorm and grab that flash drive." {{Headphones|file=‎Vo_e1_3a.stm_186-act_e1_3a_campusa_voiceover01_max_010.ogg}}''
+* ''"Warren really wants that flash drive. I better grab it." {{Headphones|file=‎Vo_e1_3a.stm_217-act_e1_3a_campusa_voiceover01_max_020.ogg}}''
+* ''"Time to go grab Warren's flash drive." {{Headphones|file=Vo_e1_3a.stm_239-act_e1_3a_campusa_voiceover01_max_030.ogg‎}}''
+* ''"That Nathan Prescott is... scary. I'm glad I busted him." {{Headphones|file=Vo_e1_3a.stm_253-act_e1_3a_campusa_voiceover02_max_040.ogg‎}} ''(choice-dependent)
+* ''"I can't believe I actually reversed time." {{Headphones|file=‎Vo_e1_3a.stm_286-act_e1_3a_campusa_voiceover02_max_070.ogg}}''
+* ''"So weird to be back here after five years." {{Headphones|file=Vo_e1_3a.stm_289-act_e1_3a_campusa_voiceover03_max_010.ogg‎}}''
+
+==== <u>Lighthouse - Present</u> ====
+* ''"If only Chloe and I were kids here again." ''{{Headphones|file=VO_E1_6A.STM_8~Act_E1_6A_CliffNow_Voiceover01_Max_040.ogg‎}}
+* ''"This is way more peaceful than my nightmare." ''{{Headphones|file=‎VO_E1_6A.STM_18~Act_E1_6A_CliffNow_Voiceover01_Max_030.ogg}}
+* ''"Chloe's step-douche better not cause me trouble." ''{{Headphones|file=‎VO_E1_6A.STM_30~Act_E1_6A_CliffNow_VoiceOver02_Max_040.ogg}} ''(choice-dependent)''
+* ''"Man, I should have helped Chloe, I feel so bad." ''{{Headphones|file=VO_E1_6A.STM_41~Act_E1_6A_CliffNow_VoiceOver02_Max_010.ogg‎}} ''(choice-dependent)''
+* ''"I love this October vibe." ''{{Headphones|file=VO_E1_6A.STM_53~Act_E1_6A_CliffNow_Voiceover01_Max_020.ogg‎}}
+* ''"Wowsers. Been ages since I was here." ''{{Headphones|file=‎VO_E1_6A.STM_63~Act_E1_6A_CliffNow_Voiceover01_Max_010.ogg}}
+* ''"I love how all the weeds and plants just grow wherever they want." ''{{Headphones|file=‎VO_E1_6A.STM_128~Act_E1_6A_CliffNow_Bush01_Look01_Max_010.ogg‎}}
+
+=== Episode Four - "[[Episode 4: Dark Room|Dark Room]]" ===
+
+==== <u>Alternative Chloe's Room (Upstairs)</u> ====
+* ''"Chloe’s room was a disaster area, but it was alive... Now look at it."''{{Headphones|file=‎}}
+* ''"All that’s left of Chloe’s old life is cardboard boxes... stuck in time."'' {{Headphones|file=‎}}
+
+==== <u>Alternative Corridor</u> ====
+* ''"It feels the same yet totally different here…"'' {{Headphones|file=‎VO_E4_2A.STM_4~Act_E4_2A_LivingRoom_Scripted02_Max_010.ogg}}
+* ''"Altering time and space doesn’t make life easier, huh, Max?"'' {{Headphones|file=VO_E4_2A.STM_72~Act_E4_2A_LivingRoom_Scripted02_Max_030.ogg‎}}
+* ''"Chloe and me have a whole new set of old memories...Yet I have zero idea what I’ve done in that time..."'' {{Headphones|file=VO_E4_2A.STM_13~Act_E4_2A_LivingRoom_Scripted02_Max_040.ogg‎}}
+* ''"I better not make Chloe wait for her pain relief."'' {{Headphones|file=‎}}
+* ''"I need to hit the bathroom for the medicine."'' {{Headphones|file=‎}}
+
+==== <u>Price House - Downstairs</u> ====
+Before taking the morphine:
+* ''"Man, Chloe is seriously hurting. I need to find her painkiller."'' {{Headphones|file=‎VO_E4_2B.STM_124~Act_E4_2B_Garage_Scripted_Max_010.ogg}}
+* ''"Chloe said her morphine was upstairs."'' {{Headphones|file=VO_E4_2B.STM_121~Act_E4_2B_Garage_Scripted_Max_020.ogg‎}}
+
+After taking the morphine:
+* ''"Talk about Chaos Theory... I fucked everything up..."'' {{Headphones|file=VO_E4_2B.STM_122~Act_E4_2B_Garage_Scripted_Max_040.ogg‎}}
+* ''"Nothing feels right about this reality…"'' {{Headphones|file=VO_E4_2B.STM_67~Act_E4_2B_Garage_Scripted_Max_050.ogg‎}}
+* ''"So is this what you wanted, Max? Are you happy now?"'' {{Headphones|file=VO_E4_2B.STM_196~Act_E4_2B_Garage_Scripted_Max_060.ogg‎}}
+* ''"How can I decide if William's life is worth what happened to Chloe... and vice versa?"'' {{Headphones|file=‎VO_E4_2B.STM_107~Act_E4_2B_Garage_Scripted_Max_080.ogg}}
+* ''"This is Chloe's home now... forever. It's amazing what we take for granted."'' {{Headphones|file=VO_E4_2B.STM_123~Act_E4_2B_Garage_Scripted_Max_110.ogg‎}}
+
+==== <u>Hospital</u> ====
+* ''"I am so happy to see you, Kate Marsh..."'' {{Headphones|file=VO_E4_3E.STM_69~Act_E4_3E_Hospital_Scripted_Max_010.ogg‎}}
+* ''"I'm sorry, but I do hate hospitals… So cold..."'' {{Headphones|file=‎VO_E4_3E.STM_38~Act_E4_3E_Hospital_Scripted_Max_020.ogg}}
+* ''"I wonder how Kate’s family feels about all this…"'' {{Headphones|file=VO_E4_3E.STM_74~Act_E4_3E_Hospital_Scripted_Max_030.ogg‎}}
+* ''"Maybe Kate has more information about Nathan that we can use..."'' {{Headphones|file=VO_E4_3E.STM_25~Act_E4_3E_Hospital_Scripted_Max_040.ogg‎}}
+
+==== <u>Beach</u> ====
+Before the conversation with Frank:
+* ''"I should get the hell out of town but... not without Chloe. We have to finish this."'' {{Headphones|file=VO_E4_4A.STM_73~Act_E4_4A_Beach_ScriptedParkingLot_Max_030.ogg‎‎}}
+* ''"So now we have to see Frank all the way out here."'' {{Headphones|file=‎VO_E4_4A.STM_118~Act_E4_4A_Beach_ScriptedParkingLot_Max_010.ogg}}
+* ''"Take a breath and go face Frank. You have the power."'' {{Headphones|file=VO_E4_4A.STM_117~Act_E4_4A_Beach_ScriptedParkingLot_Max_070.ogg‎}}
+
+==== <u>Old Barn - Outside</u> ====
+* ''"Now I need to find a way into the barn..."''
+* ''"I hope this is the right place and we didn’t mess up the coordinates."''
+* ''"We can’t just break the door down, we have to find another way in."''
+* ''"Funny to think the Prescotts started on a farm... Nathan still acts like an orc."''
+
+==== <u>Old Barn - Inside</u> ====
+* ''"This place is the epicenter of creepy."''
+* ''"I better keep snooping around..."''
+* ''"I can look under those old metal sheets or that straw..."''
+* ''"And yes, I’ve got a bad feeling about this."''
+* ''"So Chloe and me actually killed somebody...|What happens to us now?" (choice-dependent)''
+* ''"I should go upstairs and get Chloe to help me."''
+* ''"Check out the area Max, you can find something heavy to use."''
+* ''"Maybe we could drop something super heavy on it..."''
+* ''"I could use this old motor with that rope and hook..."''
+* ''"I could use the old motor as a counterweight to smash the padlock."''
+* ''"Max, use your rewind and get that motor back up there."''
+
+==== <u>Dark Room - Corridor</u> ====
+* ''"Now that's a serious door. Where's Gandalf when I need him..." {{Headphones|file=VO_E4_6A.STM_84~Act_E4_6A_Corridor_ScriptedObjective01_Max_010.ogg‎‎}}''
+* ''"Come on, Max, break that digicode." {{Headphones|file=‎VO_E4_6A.STM_139~Act_E4_6A_Corridor_ScriptedObjective01_Max_020.ogg}}''
+* ''"Digicode, numbers, rewind... Take a breath and get cracking." {{Headphones|file=VO_E4_6A.STM_26~Act_E4_6A_Corridor_ScriptedObjective01_Max_030.ogg‎}}''
+* ''"The only reason to build a secret bunker under an abandoned farm is to do bad shit." {{Headphones|file=‎VO_E4_6A.STM_66~Act_E4_6A_Corridor_ScriptedIdle_Max_010.ogg}}''
+
+==== <u>Dark Room - Inside</u> ====
+Before finding the binders:
+* ''"How did Nathan get ahold of this place? A gift from dad?" {{Headphones|file=‎VO_E4_6A.STM_94~Act_E4_6A_DarkRoom_ScriptedIdle01_Max_020.ogg}}''
+* ''"I don’t think this is just a photo studio." {{Headphones|file=VO_E4_6A.STM_85~Act_E4_6A_DarkRoom_ScriptedIdle01_Max_030.ogg‎}}''
+* ''"Oh no... is this the bright white room Kate told me about?" {{Headphones|file=‎VO_E4_6A.STM_149~Act_E4_6A_DarkRoom_ScriptedIdle01_Max_040.ogg}}''
+* ''"I couldn’t even make this shit up about the Prescotts..." {{Headphones|file=VO_E4_6A.STM_22~Act_E4_6A_DarkRoom_ScriptedIdle01_Max_050.ogg‎}}''
+* ''"Scour this room, Max. There has to be evidence here." {{Headphones|file=VO_E4_6A.STM_135~Act_E4_6A_DarkRoom_ScriptedObjective_Max_010.ogg‎}}''
+* ''"I know we’ll find serious dirt in here." {{Headphones|file=VO_E4_6A.STM_123~Act_E4_6A_DarkRoom_ScriptedObjective_Max_020.ogg‎}}''
+
+After finding the binders:
+* ''"If Chloe did recognize a spot in the junkyard, then I better go with her and| just get ready for the worst... We'll need each other."''
+* ''"There might be more clues around here, but I have to get back to Chloe soon…"''
+
+==== <u>End of the World Party</u> ====
+Swimming Pool Area:
+* ''"I hope Chloe can handle all this…"''{{Headphones|file=‎VO_E4_8B.STM_359~Act_E4_8B_SwimPool_ScriptedIdle_Max_010.ogg}}
+* ''"After all this, Rachel is dead…"'' {{Headphones|file=VO_E4_8B.STM_111~Act_E4_8B_SwimPool_ScriptedIdle_Max_020.ogg‎}}
+* ''"Everybody wants to party while Nathan gets away with murder…"'' {{Headphones|file=‎VO_E4_8B.STM_592~Act_E4_8B_SwimPool_ScriptedIdle_Max_030.ogg}}
+* ''"We have to stop Nathan from hurting anyone else here tonight."'' {{Headphones|file=VO_E4_8B.STM_99~Act_E4_8B_SwimPool_ScriptedIdle_Max_040.ogg‎}}
+* ''"I feel like I’m in some kind of dream nightmare…"'' {{Headphones|file=‎VO_E4_8B.STM_69~Act_E4_8B_SwimPool_ScriptedIdle_Max_050.ogg}}
+* ''"Everything at Blackwell looks evil to me now."'' {{Headphones|file=VO_E4_8B.STM_563~Act_E4_8B_SwimPool_ScriptedIdle_Max_060.ogg‎}}
+* ''"Principal Wells should have canceled this party... but he was paid off."'' {{Headphones|file=VO_E4_8B.STM_522~Act_E4_8B_SwimPool_ScriptedIdle_Max_070.ogg‎}}
+* ''"I will get revenge for Kate and Rachel if it’s the last thing I do."'' {{Headphones|file=VO_E4_8B.STM_155~Act_E4_8B_SwimPool_ScriptedIdle_Max_080.ogg‎}}
+* ''"Hey, kids, let's all get drunk and go swimming! What could go wrong?"'' {{Headphones|file=VO_E4_8B.STM_116~Act_E4_8B_SwimPool_ScriptedIdle_Max_090.ogg‎}}
+
+VIP Area:
+* ''"Is that a real leather couch and a Persian rug?"'' {{Headphones|file=VO_E4_8B.STM_608~Act_E4_8B_VIP_ScriptedIdle_Max_010.ogg‎}}
+* ''"This must make them feel extra crispy special."'' {{Headphones|file=‎VO_E4_8B.STM_595~Act_E4_8B_VIP_ScriptedIdle_Max_020.ogg}}
+* ''"I bet Rachel hated hanging out with these people..."'' {{Headphones|file=‎VO_E4_8B.STM_534~Act_E4_8B_VIP_ScriptedIdle_Max_030.ogg}}
+* ''"Jeez, this whole fucking party is so tasteless and insenstive."'' {{Headphones|file=‎VO_E4_8B.STM_439~Act_E4_8B_VIP_ScriptedIdle_Max_040.ogg}}
+* ''"Dance, monkeys, dance for the Prescotts... They own you."'' {{Headphones|file=‎VO_E4_8B.STM_380~Act_E4_8B_VIP_ScriptedIdle_Max_050.ogg}}
+
+=== Episode Five - "[[Episode 5: Polarized|Polarized]]" ===
+
+==== <u>Art Class</u> ====
+Before searching David's phone number:
+* ''"So weird to be right back where it started…" {{Headphones|file=VO_E5_2A.STM_78~Act_E5_2A_ArtClass_IdleLines_Scripted_Max_010.ogg‎}}''
+* ''"It's only been a week but it felt like five years…" {{Headphones|file=VO_E5_2A.STM_48~Act_E5_2A_ArtClass_IdleLines_Scripted_Max_030.ogg‎}}''
+After having texted David:
+* ''"I wish I was waking up from a long dream…" {{Headphones|file=VO_E5_2A.STM_114~Act_E5_2A_ArtClass_IdleLines_Scripted_Max_020.ogg‎}}''
+* ''"It doesn't matter what happens to me... I have to save Chloe!" {{Headphones|file=‎VO_E5_2A.STM_33~Act_E5_2A_ArtClass_ContextLines_Scripted_Max_130.ogg}}''
+* ''"Okay Jefferson, here's my fucking photo for the contest." {{Headphones|file=VO_E5_2A.STM_44~Act_E5_2A_ArtClass_ContestPhoto_Look01_Max_010.ogg‎}}''
+* ''"Calm down... Breathe... One change at a time... for good." {{Headphones|file=VO_E5_2A.STM_185~Act_E5_2A_ArtClass_ContextLines_Scripted_Max_050.ogg‎}}''
+* ''"Whoa, so I'm inside of a photograph that's... inside a photograph." {{Headphones|file=‎VO_E5_2A.STM_111~Act_E5_2A_ArtClass_FocusWithinFocus_Scripted_Max_010.ogg}}''
+* ''"That shouldn't screw up time and space... too much... Please don't." {{Headphones|file=‎VO_E5_2A.STM_58~Act_E5_2A_ArtClass_ContextLines_Scripted_Max_100.ogg}}''
+* ''"I need to give him the last photo he'll ever judge for the "Everyday Heroes" contest... and then we'll all live happily ever after. Or try…" {{Headphones|file=VO_E5_2A.STM_46~Act_E5_2A_ArtClass_ObjectiveLines_Scripted_Max_030.ogg‎}}''
+* ''"Don't mess this up, Max…" {{Headphones|file=‎VO_E5_2A.STM_145~Act_E5_2A_ArtClass_ContextLines_Scripted_Max_040.ogg}}''
+
+==== <u>Plane</u> ====
+* ''"Is this what it feels like to be a real artist, jet-setting to your gallery shows?" ''{{Headphones|file=VO_E5_3A.STM_4~Act_E5_3A_Plane_IdleAnnouncementLines_Scripted_Max_010.ogg‎}}
+* ''"Be careful... I'm still between realities... and I can't focus on this one for too long…" ''{{Headphones|file=VO_E5_3A.STM_23~Act_E5_3A_Plane_IdleAnnouncementLines_Scripted_Max_020.ogg‎}}
+* ''"I hope I did everything right this time." ''{{Headphones|file=VO_E5_3A.STM_60~Act_E5_3A_Plane_IdleLines_Scripted_Max_010.ogg‎}}
+* ''"But Chloe is alive! Focus on that, Max... Now I have to wait until after my trip to see her again... and I'm not letting her out of my sight again…" ''{{Headphones|file=VO_E5_3A.STM_19~Act_E5_3A_Plane_IdleLines_Scripted_Max_030.ogg‎}}
+
+==== <u>Art Gallery</u> ====
+Before looking at Max's photo:
+* ''"Be cool, Max. Smile and don’t say anything stupid."''{{Headphones|file=VO_E5_3B.STM_180~Act_E5_3B_ArtGallery_ObjectiveLines01_Scripted_Max_010.ogg}}
+* ''"I don’t know if I like all this attention…"''{{Headphones|file=VO_E5_3B.STM_42~Act_E5_3B_ArtGallery_ObjectiveLines01_Scripted_Max_020.ogg}}
+* ''"Come on, Max. Chloe is finally safe, Jefferson is done and your photo is on display in San Francisco."''{{Headphones|file=VO_E5_3B.STM_62~Act_E5_3B_ArtGallery_ObjectiveLines01_Scripted_Max_030.ogg}}
+* ''"What’s that line from Blade Runner?|"Revel in your time... ""'' {{Headphones|file=VO_E5_3B.STM_197~Act_E5_3B_ArtGallery_ObjectiveLines01_Scripted_Max_040.ogg}}
+* ''"I probably should at least go see my picture and see how it looks on the wall of a real gallery. Who knows when this will happen again?"''{{Headphones|file=VO_E5_3B.STM_78~Act_E5_3B_ArtGallery_ObjectiveLines01_Scripted_Max_050.ogg}}
+* ''"I can always run to Principal Wells in case I need somebody to talk with… I'm surprised how chill he is outside of campus..."''{{Headphones|file=VO_E5_3B.STM_155~Act_E5_3B_ArtGallery_ObjectiveLines01_Scripted_Max_060.ogg}}
+* ''"I do have to appreciate my life after everything that happened this week."''{{Headphones|file=VO_E5_3B.STM_159~Act_E5_3B_ArtGallery_ObjectiveLines01_Scripted_Max_070.ogg}}
+* ''"Maybe I have to put my rewind power on a major time-out... Fuck it, pun intended."'' {{Headphones|file=VO_E5_3B.STM_102~Act_E5_3B_ArtGallery_ObjectiveLines01_Scripted_Max_080.ogg}}
+After looking at Max's photo:
+* ''"No fucking way... Chloe can't die again... I have to save her."''{{Headphones|file=VO_E5_3B.STM_200~Act_E5_3B_ArtGallery_ObjectiveLines02_Scripted_Max_010.ogg}}
+* ''"Please, no... I have to be in Arcadia Bay to help Chloe... not here."'' {{Headphones|file=VO_E5_3B.STM_23~Act_E5_3B_ArtGallery_ObjectiveLines02_Scripted_Max_020.ogg}}
+* ''"My contest photo… It might be the only way to get back."'' {{Headphones|file=VO_E5_3B.STM_7~Act_E5_3B_ArtGallery_ObjectiveLines02_Scripted_Max_040.ogg}}
+* ''"There'll be another contest, Max... You won't get another Chloe…"'' {{Headphones|file=VO_E5_3B.STM_190~Act_E5_3B_ArtGallery_ObjectiveLines02_Scripted_Max_060.ogg}}
+* ''"If I rewind into my contest photo then destroy it... I'll definitely end up in Arcadia Bay not San Francisco…"'' {{Headphones|file=VO_E5_3B.STM_75~Act_E5_3B_ArtGallery_ObjectiveLines02_Scripted_Max_070.ogg}}
+
+==== <u>Main Street</u> ====
+On the main street after exiting Jefferson's car:
+* ''"You know how to use your power... Do it." ''{{Headphones|file=VO_E5_5C.STM_155~Act_E5_5C_Street_IdleLines_Scripted_Max_020.ogg}}
+* ''"This storm is... huge. Keep going…" ''{{Headphones|file=VO_E5_5C.STM_214~Act_E5_5C_Street_IdleLines_Scripted_Max_030.ogg}}
+* ''"I need Warren's photo to save Chloe!" ''{{Headphones|file=VO_E5_5C.STM_208~Act_E5_5C_Street_IdleLines_Scripted_Max_040.ogg}}
+* ''"There's no way I'm letting Chloe die…" ''{{Headphones|file=VO_E5_5C.STM_238~Act_E5_5C_Street_IdleLines_Scripted_Max_050.ogg}}
+* ''"But the whole town is dying... am I responsible too?" ''{{Headphones|file=VO_E5_5C.STM_100~Act_E5_5C_Street_IdleLines_Scripted_Max_060.ogg}}
+* ''"I have to accept that I've changed more than time…" ''{{Headphones|file=VO_E5_5C.STM_385~Act_E5_5C_Street_IdleLines_Scripted_Max_070.ogg}}
+* ''"Please let Warren and Joyce be okay... Please…" ''{{Headphones|file=VO_E5_5C.STM_284~Act_E5_5C_Street_IdleLines_Scripted_Max_080.ogg‎}}
+
+==== <u>Nightmare - Art Class</u> ====
+* ''"If this is a nightmare... I want to wake up..." ''{{Headphones|file=VO_E5_7B.STM_35~Act_E5_7B_ArtClass_NightmareLines_Scripted_Max_020.ogg‎}}
+* ''"What if I can't wake up and this is... real...?" ''{{Headphones|file=‎VO_E5_7B.STM_271~Act_E5_7B_ArtClass_NightmareLines_Scripted_Max_090.ogg}}
+* ''"Please, Chloe... Where are you..." ''{{Headphones|file=VO_E5_7B.STM_737~Act_E5_7B_ArtClass_NightmareLines_Scripted_Max_030.ogg‎}}
+==== <u>Nightmare - Dorms</u> ====
+* ''"Now where exactly am I?" ''{{Headphones|file=VO_E5_7B.STM_769~Act_E5_7B_DormsCorridor_LostLines_Scripted_Max_010.ogg‎}}
+* ''"Too many doors to choose..." ''{{Headphones|file=‎VO_E5_7B.STM_585~Act_E5_7B_DormsCorridor_LostLines_Scripted_Max_030.ogg}}
+* ''"You're not going to be trapped here... Find the right door, Max!" ''{{Headphones|file=VO_E5_7B.STM_665~Act_E5_7B_DormsCorridor_LostLines_Scripted_Max_040.ogg‎}}
+* ''"Chloe... Help me..." ''{{Headphones|file=VO_E5_7B.STM_656~Act_E5_7B_ArtClass_NightmareLines_Scripted_Max_080.ogg‎}}
+* ''"Oh, thank God I'm myself again... Now I know where to go." (after having entered Victoria's room) ''{{Headphones|file=VO_E5_7B.STM_342~Act_E5_7B_DormsCorridor_HintMaxRoom_Scripted_Max_010.ogg‎}}
+
+==== <u>Nightmare - Maze</u> ====
+* ''"Jefferson is coming after me again... No..." ''{{Headphones|file=VO_E5_7B.STM_132~Act_E5_7B_LabyStealth_IdleLines_Scripted_Max_010.ogg‎}}
+* ''"This is like an evil maze…" ''{{Headphones|file=VO_E5_7B.STM_625~Act_E5_7B_LabyStealth_IdleLines_Scripted_Max_030.ogg‎}}
+* ''"The lighthouse is over there!" ''{{Headphones|file=‎VO_E5_7B.STM_26~Act_E5_7B_LabyStealth_IdleLines_Scripted_Max_040.ogg}}
+* ''"Maybe I'll be safe in the lighthouse... maybe I'll wake up..." ''{{Headphones|file=‎VO_E5_7B.STM_461~Act_E5_7B_LabyStealth_IdleLines_Scripted_Max_050.ogg}}
+* ''"Dammit, Max... Wake up!" ''{{Headphones|file=VO_E5_7B.STM_513~Act_E5_7B_LabyStealth_IdleLines_Scripted_Max_060.ogg‎}}
+* ''"Be strong... You have to." ''{{Headphones|file=VO_E5_7B.STM_54~Act_E5_7B_ArtClass_NightmareLines_Scripted_Max_110.ogg‎}}
+* ''"Freddy Krueger better not show up or I'll scream..." ''{{Headphones|file=‎VO_E5_7B.STM_208~Act_E5_7B_ArtClass_NightmareLines_Scripted_Max_060.ogg}}
+
+[[ru:Дополнительные комментарии]]
+
+[[Category:Special Content]]
+[[Category:Special Content (Life is Strange)]]
+[[Category:Gameplay]]
+[[Category:Gameplay (Life is Strange)]]
+
+[[Category:Life is Strange]]

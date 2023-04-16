@@ -1,0 +1,142 @@
+Here is a section of the wiki page for Control Scheme (Season 1):
+
+## PlayStation 3
+{| class# "wikitable"
+!Symbol
+!Name
+!Primary Function
+|-
+|[Image:Button-ps3-select.png](50px.md)
+|Journal select
+|To access or exit [Maxine Caulfield](max.md)'s journal, use the select on the {{Wiki|DualShock|DualShock controller}}.
+|-
+|[Image:Button-ps3-start.png](50px.md)
+|Pause Menu
+|
+Pause the game.
+|-
+|[Image:Button-ps-leftstick.png](50px.md)
+|Movement
+|Players can control the character Max using the left analog stick.
+|-
+|[Image:Button-ps-rightstick.png](50px.md)
+|Camera
+|Players can control the direction of the camera using the right analog stick.
+|-
+|[Image:Button-ps3-L1.png](50px.md)
+|UndoJournal Tab
+|Press L1 to rewind to your last action.Use L1 to scroll journal tabs to the left.
+|-
+|[Image:Button-ps3-R1.png](50px.md)
+|SkipJournal Tab
+|Use R1 to skip or fast-forward through a previously viewed scene.Use R1 to scroll journal tabs to the right.
+|-
+|[Image:Button-ps3-L2.png](50px.md)
+|Rewind
+|Rewind time by holding down the L2 button.
+|-
+|[Image:Button-ps3-R2.png](50px.md)
+|Quick rewindRun
+|While holding down L2 to rewind, hold down R2 to rewind faster.Hold R2 to move/walk faster.
+|-
+|[Image:Button-ps-focus.png](50px.md)
+|Focus
+|Use the analog sticks to focus on photos.
+|-
+|[Image:button-ps-dpad.png](50px.md)
+|Forward/Back
+|Use the left and right d-pad buttons to browse through [Optional Photos](photographs.md) and Max's journal.
+|-
+|[Image:Button-ps-triangle.png](50px.md)
+|Look/Dialog
+|To interact with and study objects in front of Max, click the triangle button.To choose dialog with new information (from rewind) click the triangle button.
+|-
+|[Image:Button-ps-square.png](50px.md)
+|Dialog
+|Press square to choose an option provided on the {{Wiki|dialog tree}}.Press square to take a photograph.
+|-
+|[Image:Button-ps-x.png](50px.md)
+|Read/Use
+|To read interactive objects, press the x/cross button.To use objects press the x/cross button.
+|-
+|[Image:Button-ps-circle.png](50px.md)
+|Go Back; Dialog
+|After reading the journal or other interactive objects, to back out, press the circle button.Press circle to choose an option provided on the {{Wiki|dialog tree}}.
+|}
+
+#
+
+## PlayStation 4
+{| class"wikitable"
+!Symbol
+!Name
+!Primary Function
+|-
+|[Image:Button-ps4-share.png](50px.md)
+|Share Button
+|Share Media.
+|-
+|[Image:button-ps4-touchpad.png](50px.md)
+|Journal select
+|To access or exit [Maxine Caulfield](max.md)'s journal, use the touch pad on the {{Wiki|DualShock|DualShock controller}}.
+|-
+|[Image:button-ps4-options.png](50px.md)
+|Pause Menu
+|
+Pause the game.
+|-
+|[Image:button-ps-leftstick.png](50px.md)
+|Movement
+|Players can control the character Max using the left analog stick.
+|-
+|[Image:button-ps-rightstick.png](50px.md)
+|Camera
+|Players can control the direction of the camera using the right analog stick.
+|-
+|[Image:button-ps4-L1.png](50px.md)
+|UndoJournal Tab
+|Press L1 to rewind to your last action.Use L1 to scroll journal tabs to the left.
+|-
+|[Image:button-ps4-R1.png](50px.md)
+|SkipJournal Tab
+|Use R1 to skip or fast-forward through a previously viewed scene.Us R1 to scroll journal tabs to the right.
+|-
+|[Image:button-ps4-L2.png](50px.md)
+|Rewind
+|Rewind time by holding down the L2 button.
+|-
+|[Image:button-ps4-R2.png](50px.md)
+|Quick rewindRun
+|While holding down L2 to rewind, hold down R2 to rewind faster.Hold R2 to move/walk faster.
+|-
+|[Image:Button-ps-focus.png](50px.md)
+|Focus
+|Use the analog sticks to focus on photos.
+|-
+|[Image:button-ps-dpad.png](50px.md)
+|Forward/Back
+|Use the left and right d-pad buttons to browse through photographs and Max's journal.
+|-
+|[Image:button-ps-triangle.png](50px.md)
+|Look/Dialog
+|To interact with and study objects in front of Max, click the triangle button.To choose dialog with new information (from rewind) click the triangle button.
+|-
+|[Image:button-ps-square.png](50px.md)
+|Dialog
+|Press square to choose an option provided on the {{Wiki|dialog tree}}.Press square to take a photograph.
+|-
+|[Image:button-ps-x.png](50px.md)
+|Read/Use
+|To read interactive objects, press the x/cross button.To use objects press the x/cross button
+|-
+|[Image:button-ps-circle.png](50px.md)
+|Go Back; Dialog
+|After reading the journal or other interactive objects, to back out, press the circle button.Press circle to choose an option provided on the {{Wiki|dialog tree}}.
+|}
+
+## Xbox
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

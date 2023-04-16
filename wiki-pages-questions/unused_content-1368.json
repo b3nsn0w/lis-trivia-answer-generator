@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Was Rachel Amber's Original Name During The Game's Development?",
+    "answer": "A",
+    "choices": {
+      "A": "Jessie",
+      "B": "Hayley",
+      "C": "Rachel",
+      "D": "Amber"
+    }
+  },
+  {
+    "question": "What Was The Original Name For Brooke Scott During The Game's Development?",
+    "answer": "A",
+    "choices": {
+      "A": "Hayley",
+      "B": "Brooke",
+      "C": "Scott",
+      "D": "Jessie"
+    }
+  },
+  {
+    "question": "What Was Principal Wells' Ethnicity/Skin Color In Early Concept Art?",
+    "answer": "A",
+    "choices": {
+      "A": "White",
+      "B": "Black",
+      "C": "Asian",
+      "D": "Hispanic"
+    }
+  },
+  {
+    "question": "What Unused Drawing Was Intended For Frank's Character Page In Max's Journal?",
+    "answer": "A",
+    "choices": {
+      "A": "His Bullets",
+      "B": "His Face",
+      "C": "His Car",
+      "D": "His Dog"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Which band plays \"Are You Ready For Me\" in the game?",
+    "answer": "A",
+    "choices": {
+      "A": "Firewalk",
+      "B": "Pretty Vicious",
+      "C": "The STYR!",
+      "D": "Punk Club"
+    }
+  },
+  {
+    "question": "In which episode of Life is Strange: Before the Storm is \"Are You Ready For Me\" played?",
+    "answer": "A",
+    "choices": {
+      "A": "Episode 1: Awake",
+      "B": "Episode 2: Brave New World",
+      "C": "Episode 3: Hell Is Empty",
+      "D": "Episode 4: Farewell"
+    }
+  }
+]

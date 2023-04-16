@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Does The Trucker Think Of Blackwell Students?",
+    "answer": "B",
+    "choices": {
+      "A": "They Are Smart",
+      "B": "They Are Spoiled",
+      "C": "They Are Hardworking",
+      "D": "They Are Uneducated"
+    }
+  },
+  {
+    "question": "What Does Max Say About The Dead Bird?",
+    "answer": "D",
+    "choices": {
+      "A": "It Is Beautiful",
+      "B": "It Is Disturbing",
+      "C": "It Is Sad",
+      "D": "All Of The Above"
+    }
+  },
+  {
+    "question": "What Does The Trucker Think Of Rachel Amber?",
+    "answer": "A",
+    "choices": {
+      "A": "He Thinks She Is A Gold Digger",
+      "B": "He Thinks She Is A Hard Worker",
+      "C": "He Thinks She Is A Good Person",
+      "D": "He Doesn't Know Her"
+    }
+  },
+  {
+    "question": "What Does Max Do After Seeing The Dead Bird?",
+    "answer": "B",
+    "choices": {
+      "A": "She Walks Away",
+      "B": "She Takes A Photo",
+      "C": "She Calls The Police",
+      "D": "She Ignores It"
+    }
+  }
+]

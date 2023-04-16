@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Did Chloe Tell Max About David?",
+    "answer": "B",
+    "choices": {
+      "A": "He Is A Drug Dealer",
+      "B": "He Is Paranoid",
+      "C": "He Is A Teacher",
+      "D": "He Is A Cop"
+    }
+  },
+  {
+    "question": "What Did Chloe Want From Nathan Prescott?",
+    "answer": "A",
+    "choices": {
+      "A": "A Loan",
+      "B": "Drugs",
+      "C": "A Job",
+      "D": "A Date"
+    }
+  },
+  {
+    "question": "What Did Max See In Her Nightmare At The Lighthouse?",
+    "answer": "D",
+    "choices": {
+      "A": "A Tornado",
+      "B": "A Ghostly Deer",
+      "C": "A Crumbling Lighthouse",
+      "D": "All Of The Above"
+    }
+  },
+  {
+    "question": "What Unusual Weather Phenomenon Occurred At The End Of The Day?",
+    "answer": "C",
+    "choices": {
+      "A": "A Tornado",
+      "B": "A Hurricane",
+      "C": "A Snowstorm",
+      "D": "A Heatwave"
+    }
+  }
+]

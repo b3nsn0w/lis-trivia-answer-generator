@@ -1,0 +1,142 @@
+Here is a section of the wiki page for Game Statistics/Playstation:
+
+## **Minor Choices**
+
+'''Max's Plant**
+* You watered your plant. - **69%'''
+* You didn't water your plant. - 31%
+**Alyssa**
+* You helped Alyssa. - **54%**
+* You didn't help Alyssa. - 46%
+**Video Link**
+* You erased the link to Kate's video. - **92%**
+* You left the link to Kate's video. - 8%
+**Taylor**
+* You were friendly with Taylor. - 40%
+* You weren't friendly with Taylor. - **60%**
+**Warren & The Movies**
+* You accepted Warren's invitation. - **80%**
+* You rejected Warren's invitation. - 20%
+**Wall Message**
+* You wrote a message. - **54%**
+* You didn't write a message. - 46%
+**Railtracks**
+* You tampered with the rail tracks. - 32%
+* You didn't tamper with the railtracks. - **68%**
+**Vortex Club Party**
+* You gained entry to the Vortex Club party. - 46%
+* You didn't gain entry to the Vortex Club party. - **54%**
+'''Warren's Experiment'''
+* You helped Warren. - 45%
+* You didn't help Warren. - **55%**
+**David and Jefferson**
+* You told on David to Mr. Jefferson. - **77%**
+* You didn't tell on David to Mr. Jefferson. - 23%
+
+## Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+
+#
+
+## **Major Choices** 
+**Handicap Fund**
+*You stole the money. - 50%
+*You left the money. - **50%**
+**Double Dare**
+*You kissed Chloe. - **77%**
+*You didn't kiss Chloe. - 23%
+**David vs. Chloe**
+*You sided with David. - 19%
+*You sided with Chloe. - **81%**
+'''Frank's Dog'''
+*You got Frank's dog hurt. - 8%
+*You kept Frank's dog from harm. - **92%**
+'''David's Gun'''
+*Chloe has David's gun. - **67%**
+*Frank has David's gun. - 33%
+
+#
+
+## **Minor Choices** 
+'''Max's Plant**
+* Lisa is alive. - 41%
+*Lisa is dead. - **59%**
+**Warren's Exam'''
+*You "helped" Warren with his exam. - 32%
+*You didn't "help" Warren with his exam. - **68%**
+**Vortex Club Party 1/2**
+*You are on the Vortex Club's party list. - **56%**
+*You are not on the Vortex Club's party list. - 44%
+**Vortex Club Party 2/2**
+*You erased some names from the Vortex Club party list. - 21%
+*You didn't change the Vortex Club party list. - **79%**
+**Phone Message**
+* You erased the cop's answerphone message. - 30%
+*You didn't erase the cop's message. - **70%**
+**Alyssa**
+*You helped Alyssa. - **53%**
+*You didn't help Alyssa. - 47%
+**Homeless Woman**
+*You warned the homeless woman. - 29%
+*You didn't warn the homeless woman. - **71%**
+**Photo In The Past**
+*You took a photo in the past. - **53%**
+*You didn't take a photo in the past. - 47%
+'''Max's Mark'''
+* You left a mark on the fireplace. - 31%
+* You didn't leave a mark on the fireplace. - **69%**
+
+## Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+
+#
+
+## **Major Choices** 
+'''Chloe's Request'''
+* You accepted Chloe's request. - **52%**
+* You refused Chloe's request. - 48%
+**Nathan**
+* You let Warren beat up Nathan. - 47%
+* You stopped Warren from beating up Nathan. - **53%**
+**Frank**
+* Chloe killed Frank. - 8%
+* Chloe wounded Frank. - 25%
+* No one got hurt. - **67%**
+**Victoria**
+* Victoria believed your warning. - **65%**
+* Victoria didn't believe your warning. - 25%
+* You didn't warn Victoria. - 10%
+
+#
+
+## **Minor Choices** 
+**Blue Jay**
+* You saved the blue jay. - 40%
+* You let the blue jay die. - **60%**
+'''Bird's Nest'''
+* You disturbed the bird's nest. - 11%
+* You didn't disturb the bird's nest. - **89%**
+'''David's Locker'''
+* You found David's code. - 48%
+* You got David's files in another way. - **52%**
+**Kate**
+* Kate helped you find Nathan's room. - **52%**
+* Kate didn't help you. - 48%
+**Daniel**
+* You motivated Daniel to attend the Vortex Club party. - 27%
+* You didn't motivate Daniel to attend the Vortex Club party. - **73%**
+'''Warren's Slate'''
+* You left a message on Warren's slate. - 19%
+* You didn't leave a message on Warren's slate. - **78%**
+'''Nathan's PIN Code'''
+* You figured out Nathan's PIN code. - 31%
+* You didn't figure out Nathan's PIN code. - **69%**
+**Alyssa**
+* You helped Alyssa. - **67%**
+* You didn't help Alyssa. - 33%
+
+## Episode Five - "[Episode 5: Polarized](polarized.md)" 
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

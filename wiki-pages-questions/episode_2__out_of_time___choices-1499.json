@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Happens If Max Tells Kate To Go To The Police In Episode 2?",
+    "answer": "A",
+    "choices": {
+      "A": "Kate Will Accept Max's Statement",
+      "B": "Kate Will Reject Max's Statement",
+      "C": "Kate Will Kick Max Out Of The Room",
+      "D": "Kate Will Text Max Condemning Her For Victim Blaming"
+    }
+  },
+  {
+    "question": "What Does Alyssa Do In Episode 4 If Max Has Read Two Robert Frost Quotes To Her?",
+    "answer": "A",
+    "choices": {
+      "A": "She Reads A Robert Frost Quote To Max",
+      "B": "She Ignores Max",
+      "C": "She Kicks Max Out Of The Room",
+      "D": "She Writes On The Bathroom Mirror"
+    }
+  },
+  {
+    "question": "What Does Warren Do In Episode 3 If Max Rejects His Invitation To The Drive-In?",
+    "answer": "A",
+    "choices": {
+      "A": "He Deluges Max With Texts About An Extra Ticket",
+      "B": "He Buys An Extra Ticket For Max",
+      "C": "He Is Bitter About Max Going With Chloe",
+      "D": "He Texts Max About Not Going To The Drive-In"
+    }
+  },
+  {
+    "question": "What Does Max Regret In Episode 2 If She Doesn't Answer Kate's Phone Call?",
+    "answer": "A",
+    "choices": {
+      "A": "Not Talking To Kate",
+      "B": "Not Talking To Chloe",
+      "C": "Not Eating Belgian Waffles",
+      "D": "Not Going To The Police"
+    }
+  },
+  {
+    "question": "What Happens To Taylor In Episode 4 If Max Has Been Friendly With Her?",
+    "answer": "A",
+    "choices": {
+      "A": "She Is Open And Trusting With Max At The Party",
+      "B": "She Is Bitter About Max Going With Warren",
+      "C": "She Kicks Max Out Of The Room",
+      "D": "She Ignores Max"
+    }
+  }
+]

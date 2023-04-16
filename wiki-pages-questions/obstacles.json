@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Name Of The Album That \"Obstacles\" Is Featured In?",
+    "answer": "B",
+    "choices": {
+      "A": "Life is Strange",
+      "B": "Someday We Will Foresee Obstacles",
+      "C": "Sacrifice Arcadia Bay",
+      "D": "Syd Matters"
+    }
+  },
+  {
+    "question": "Who Is The Voice Actress Of Max Caulfield That Made A Cover Of \"Obstacles\"?",
+    "answer": "B",
+    "choices": {
+      "A": "Ashly Burch",
+      "B": "Hannah Telle",
+      "C": "Chloe Price",
+      "D": "Dontnod Entertainment"
+    }
+  },
+  {
+    "question": "In Which Episodes Of Life is Strange Does \"Obstacles\" Appear?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode 1 and Episode 2",
+      "B": "Episode 1 and Episode 5",
+      "C": "Episode 2 and Episode 5",
+      "D": "Episode 3 and Episode 4"
+    }
+  },
+  {
+    "question": "What Does The Line \"Someday we will foresee obstacles, through the blizzard\" Refer To?",
+    "answer": "C",
+    "choices": {
+      "A": "Max and Chloe's reunion",
+      "B": "Max's time rewind power",
+      "C": "The challenges Max will face",
+      "D": "The blizzard in Arcadia Bay"
+    }
+  }
+]

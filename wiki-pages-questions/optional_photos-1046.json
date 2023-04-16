@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Achievement Do You Get For Taking A Photo Of Chloe Sitting At Her Desk In Episode Four?",
+    "answer": "A",
+    "choices": {
+      "A": "Ambient",
+      "B": "Time-Lapsed",
+      "C": "Balance",
+      "D": "Rangefinder"
+    }
+  },
+  {
+    "question": "What Achievement Do You Get For Taking A Photo Of A Bird's Nest In David's Garage?",
+    "answer": "B",
+    "choices": {
+      "A": "Ambient",
+      "B": "Time-Lapsed",
+      "C": "Balance",
+      "D": "Rangefinder"
+    }
+  },
+  {
+    "question": "What Achievement Do You Get For Taking A Photo Of Two Squirrels Eating Together?",
+    "answer": "D",
+    "choices": {
+      "A": "Ambient",
+      "B": "Time-Lapsed",
+      "C": "Balance",
+      "D": "Rangefinder"
+    }
+  },
+  {
+    "question": "What Achievement Do You Get For Taking A Photo Of A Double Moon Near The Entrance To The Pool Party?",
+    "answer": "D",
+    "choices": {
+      "A": "Ambient",
+      "B": "Time-Lapsed",
+      "C": "Balance",
+      "D": "Tripod"
+    }
+  }
+]

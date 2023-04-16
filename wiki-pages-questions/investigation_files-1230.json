@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Name Of The Location Where Max Finds David's Secret Files?",
+    "answer": "D",
+    "choices": {
+      "A": "Two Whales Diner",
+      "B": "American Rust Junkyard",
+      "C": "Prescott Barn",
+      "D": "David's Garage"
+    }
+  },
+  {
+    "question": "What Does Max Find In Frank's RV That Causes Chloe To Break Down?",
+    "answer": "A",
+    "choices": {
+      "A": "A Binder Of Rachel's Photos And Letters",
+      "B": "A Map Of Security Cameras",
+      "C": "A Record Of Kate's Actions",
+      "D": "Nathan's Secret Phone"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Location Where Max And Chloe Find The Dark Room?",
+    "answer": "A",
+    "choices": {
+      "A": "Prescott Barn",
+      "B": "American Rust Junkyard",
+      "C": "Two Whales Diner",
+      "D": "Blackwell Academy"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Person Who Has Been Secretly Investigating Rachel?",
+    "answer": "C",
+    "choices": {
+      "A": "Frank Bowers",
+      "B": "Nathan Prescott",
+      "C": "David Madsen",
+      "D": "Raymond Wells"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Bay That All The Coordinates From The Investigation Correspond To?",
+    "answer": "A",
+    "choices": {
+      "A": "Tillamook Bay",
+      "B": "Arcadia Bay",
+      "C": "Blackwell Bay",
+      "D": "Prescott Bay"
+    }
+  }
+]

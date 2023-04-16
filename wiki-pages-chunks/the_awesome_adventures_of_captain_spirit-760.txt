@@ -1,0 +1,33 @@
+Here is a section of the wiki page for The Awesome Adventures of Captain Spirit:
+
+## Locations 
+* [Eriksen Household](eriksen_household.md)
+** [Chris' Room](chris__room.md)
+** [Charles' Room](charles__room.md)
+** [Eriksen Household Bathroom](eriksen_household_bathroom.md)
+* [Eriksen Garage](eriksen_garage.md)
+* [Tree House](tree_house.md)
+
+## Development 
+
+#
+
+## Announcement and Release 
+*The Awesome Adventured of Captain Spirit* was announced during the Microsoft Conference at E3 2018 as a free self-contained spin-off game that functions as a precursor to the events of *Life is Strange 2* on June 10, 2018 and released on June 26, 2018.
+
+#
+
+## Concept and Idea 
+Co-Director [Michel Koch](michel_koch.md) on why they decided to make an additional game set in the *Life is Strange* universe:
+
+{{Bigquote|"Because Life is Strange is not a single set of characters or a single town. It's not just Max and Chloe. For three years now, we've created lots of new characters working on Life is Strange 2, and Captain Spirit is one of them. When we started working on Life is Strange 2, started talking about settings and characters, it was quite a huge story. We saw potential in a lot of characters, to find a bit more about their backstory and their side stories."[https://www.eurogamer.net/articles/2018-06-10-25-minutes-with-life-is-strange-2s-brilliantly-unexpected-free-prequel 25 minutes with Life is Strange 2's brilliantly unexpected free prequel] (June 10, 2018)}}
+
+*Captain Spirit* is meant to work as both an introduction to the second season of *Life is Strange* and an entry point to the franchise and the kind of games the developers team works on. "I wouldn't say that [it is a demo]. It's formed around our relative experience. It's a standalone experience. It means that if you don’t know Life is Strange, you can play it and discover the type of game we're creating — and, I hope, the DNA of Life is Strange. Of course, if you know Life is Strange you can find a lot of details in Captain Spirit. It's really a perfect introduction to Life is Strange 2," Co-Director Barbet explained in an interview. Dontnod explained that they're hoping people who've never played *Life is Strange* will play *The Awesome Adventures of Captain Spirit*, and that it’s designed for both newcomers and fans to get enjoyment out of.[http://za.ign.com/the-awesome-adventures-of-captain-spirit/121149/preview/the-awesome-adventures-of-captain-spirit-preview-e3-2018 THE AWESOME ADVENTURES OF CAPTAIN SPIRIT PREVIEW - E3 2018] (June 11, 2018)
+
+Chris was a character Dontnod came up with while working on *Life is Strange 2*, but they wanted to do something more in-depth with him.[https://www.theverge.com/2018/6/15/17464832/the-awesome-adventures-of-captain-spirit-life-is-strange The Awesome Adventures of Captain Spirit will pick up three years after Life is Strange] (June 15, 2018)
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

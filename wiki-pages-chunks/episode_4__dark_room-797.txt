@@ -1,0 +1,71 @@
+Here is a section of the wiki page for Episode 4: Dark Room:
+
+#  Episode 4: Dark Room 
+
+```yaml
+Episode
+
+title: Dark Room
+season: '1'
+number: '4'
+image: TX Episode4 Preview.png
+imagewidth: '250'
+airdate: July 28, 2015
+writer: |-
+  [Jean-Luc Cano](jean_luc_cano.md)
+  [Christian Divine](christian_divine.md)
+director: |-
+  [Michel Koch](michel_koch.md)
+  [Raoul Barbet](raoul_barbet.md)
+Previous: '[Episode 3: Chaos Theory](episode_3__chaos_theory.md)'
+Next: '[Episode 5: Polarized](episode_5__polarized.md)'
+```
+
+{{Free Tab Template
+|minwidth #  17%
+|maxwidth  30%
+|borderradius #  4
+|height  2
+|tab1# Overview|link1Episode 4: Dark Room
+|tab2# Summary|link2Episode 4: Dark Room - Summary
+|tab3# Choices|link3Episode 4: Dark Room - Choices
+|tab4# Image Gallery|link4Episode 4: Dark Room - Image Gallery
+|tab5# Script|link5Episode 4: Dark Room - Script
+}}
+
+{{Scaleimage|file# Life-Is-Strange-Episode-4.png|sizelarge}}
+
+"**Dark Room**" is the fourth episode of *[Life is Strange](life_is_strange.md)*. The episode was released July 28, 2015 and is available on PC, Mac, PS3, PS4, Xbox 360 and Xbox One.
+
+: *For the same-titled location, see [Dark Room (Location)](dark_room__location_.md).*
+
+## Synopsis 
+Max realizes that changing the past can lead to painful consequences and that time is not a great healer. Her investigation into the disappearance of [Rachel Amber](rachel_amber.md) begins to reach a thrilling conclusion as she finds the [Dark Room (Location)](dark_room.md). Will the answers lie within? Or will there just be trouble?
+
+: ''See here for [Max's Diary##Episode_Four_-_.22Dark_Room.22.C2.A0](diary_entries.md) and [Max's Messages#Episode_Four_-_.22Dark_Room.22](messages.md) from this episode.''
+
+## Checkpoints 
+
+# [Alternative Beach](alternative_beach.md)
+# [Alternative Price Household](alternative_chloe_s_room.md)
+# Alternative Chloe's House - Downstairs
+# Alternative Chloe's House - Upstairs
+# Alternative Chloe's House - Downstairs
+# [Madsen Household](chloe_s_house.md) - Focus
+# Chloe's House - Upstairs
+# Chloe's House - Downstairs
+# [Hospital](hospital.md) (Determinant)
+# [Prescott Dormitory](dormitories.md)
+# Boys' Dormitories
+# [Main Campus](main_campus.md)
+# [Beach](beach.md)
+# Chloe's House - Investigation
+# [The Prescott Barn](old_barn.md)
+# [American Rust Junkyard](junkyard.md)
+# [Blackwell Parking Lot](parking_lot.md)
+# [Blackwell Swimming Pool](swimming_pool.md) - [End of the World Party](party.md)
+# Junkyard - Evening
+
+
+
+Generate five trivia questions relevant to this section of the page.

@@ -1,0 +1,93 @@
+Here is a section of the wiki page for Choices and Consequences:
+
+## RV at the [Blackwell Parking Lot](parking_lot.md)
+Minor choice:
+
+WroteWrote
+***Episode 1**
+**This will enable Max to take an optional photo.
+***Episodes 2, 3 and 4**
+**[Frank's RV](frank_s_rv.md) will have Max's writing.
+|-|Didn't write# Didn't write
+***Episode 1**
+**Max cannot take an optional photo.
+***Episodes 2, 3 and 4**
+**[Frank's RV](frank_s_rv.md) remains the same without any message written on it.
+
+#
+
+## Chloe's Snow Globe
+Minor choice:
+
+BrokeBroke
+***Episode 1**
+**Chloe will be upset with Max for breaking the snow globe.
+**Max can read Chloe's report card that has fallen onto the ground to add to Max's collected [Max's Notes](notes.md).
+***Episode 3**
+**The broken snow globe is visible in [Chloe's Room](chloe_s_room.md).
+***Episode 4**
+**Max can comment on it in the living room remembering that it originally belonged to William.
+|-|Didn't break# Didn't break
+***Episode 1**
+**Chloe does not get upset with Max.
+**Max cannot read Chloe's report card (unless she broke the snow globe and rewound).
+***Episode 3**
+**Max can see the snow globe intact in [Chloe's Room](chloe_s_room.md).
+***Episode 4**
+**Max can comment on it in the living room.
+
+#
+
+## [Blue Jay](blue_jay.md)
+Minor choice:
+
+SavedSaved
+***Episode 1**
+**Max can take an optional photo at the [Lighthouse](lighthouse.md).
+***Episode 3**
+**The bird will appear in the bathroom upstairs in [Madsen Household](chloe_s_house.md).
+***Episode 4**
+**The bird will appear upstairs in Chloe's house which Max can decide on whether to open the window and chase the bird out or not.
+|-|Died# Died
+***Episode 1**
+**Max cannot take an optional photo at the [Lighthouse](lighthouse.md).
+***Episode 3**
+**The bird does not appear in [Madsen Household](chloe_s_house.md).
+***Episode 4**
+**The bird does not appear in Chloe's house.
+
+#
+
+## Leaving Evidence
+Minor choice:
+
+Left evidenceLeft evidence
+***Episode 1**
+**David will bring this up during his confrontation with Chloe, accusing Chloe of going through them.
+***Episode 4**
+**If Max destroys the files and sides with David, she can find them in his garage later.
+|-|Covered up the evidence# Covered up the evidence	
+***Episode 1**
+**David will not confront Chloe about his files being looked through.
+
+#
+
+## [David's Files](david_s_files.md)
+Minor choice:
+
+Looked throughLooked through
+***Episode 1**
+**Max will bring this up to Chloe at the lighthouse.
+***Episode 3**
+**Chloe will bring up David's files if Max sides with David during the argument.
+|-|Didn't look through# Didn't look through
+***Episode 1**
+**Chloe will wish that Max had read David's files.
+***Episode 3**
+**Chloe will not mention David's files if Max sides with David during the argument.
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

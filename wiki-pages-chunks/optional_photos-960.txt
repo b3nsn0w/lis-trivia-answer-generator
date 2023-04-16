@@ -1,0 +1,33 @@
+Here is a section of the wiki page for Optional Photos:
+
+## Episode Five - "[Episode 5: Polarized](polarized.md)" 
+{| class# "wikitable" style"border: 1px solid #57333F; background: transparent; width:100%"
+! Photo
+! Description !! Achievement
+|-
+| [File:LiS-Optional1-E5.jpg](220px.md) || [Kate Marsh](kate.md) sitting in Jefferson's classroom. Comfort her to take the shot. Taking this photo awards you the "Incandescent" achievement.||[File:Incandescent_Achievement.png](centre.md)
+|-
+| [File:LiS-Optional2-E5.jpg](220px.md) || At the [Zeitgeist Gallery](art_gallery.md), before going upstairs to where your photo is, go downstairs and photograph a woman looking at art. Taking this photo awards you the "Night Vision" achievement. || [File:Night_Vision_Achievement.png](centre.md)
+|-
+| [File:LiS-Optional3-E5.jpg](220px.md) || After David gets knocked out by Mark, Max is forced to rewind and has the additional option to ask a last request from Mark Jefferson. By asking for one last picture, Mark will take a photo of Max. Having this photo taken awards you the "Framed" achievement.|| [File:Framed_Achievement.png](centre.md)
+|-
+| [File:LiS-Optional4-E5.jpg](220px.md) || Line up a shot with a dead whale outside the diner so it's blowing fire out its hole. Taking this photo awards you the "Camera Obscura" achievement.|| [File:Camera_Obscura_Achievement.png](centre.md)
+|-
+| [File:LiS-Optional5-E5.jpg](220px.md) || Car at top of building just before entering Two Whales. Only available after Max stops the explosion. Taking this shot awards you the "Blowup" achievement.|| [File:Blow_Up_Achievement.png](centre.md)
+|-
+| [File:LiS-Optional6-E5.jpg](220px.md) || In the [nightmare](nightmare.md), "Chloe Price ♥ 4 Ever" will be carved into the desk when Max looks at the scratch marks on the desk several times. Taking this photo awards you the "Iris" achievement.|| [File:Iris_Achievement.png](centre.md)
+|-
+| [File:LiS-Optional7-E5.jpg](220px.md) || SQUIRRELS! GIANT SQUIRRELS! Through the dorm window when you become Max again in the hallway repetition of her at night. Taking this photo awards you the "Sensor" achievement.|| [File:Sensor_Achievement.png](centre.md)
+|-
+| [File:LiS-Optional8-E5.jpg](220px.md) || As you're moving through the backward space, un-take a photo of a skeleton. Taking this Photo awards you the "On Display" achievement.|| [File:On_Display_Achievement.png](centre.md)
+|-
+| [File:LiS-Optional9-E5.jpg](220px.md) || Warren's locker in the maze - loop around to the right and go past Samuel. Taking this photo awards you the "Light Meter" achievement.|| [File:Light_Meter_Achievement.png](centre.md)
+|-
+| [File:LiS-Optional10-E5.jpg](220px.md) || Bottles - gotta collect 'em all again (in the maze) first, then you can take a shot at - or rather of - the shooting range. Taking this photo awards you the "Silhouettes" achievement.|| [File:Silhouettes_Achievement.png](centre.md)
+|-
+| [File:LiS-OptionalPhotos-E5.jpg](220px.md) || Taking all the photographs in this episode awards the "Selfie Awareness" achievement. || [File:Selfie_Awareness_Achievement.png](centre.md)
+|}
+
+
+
+Generate five trivia questions relevant to this section of the page.

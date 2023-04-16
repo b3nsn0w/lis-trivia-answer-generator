@@ -1,0 +1,65 @@
+Here is a section of the wiki page for Episode 2: Out of Time - Script:
+
+We should do it again. See you later.
+
+**Conversation with Warren**
+
+Max walks past WarrenMax walks past Warren**Warren:** What up, Max? How are you?
+
+**Max:** Warren, what are you doing here?
+
+**Warren:** Oh, nothing--waiting. For a call? I mean, I already took the call... Anyway, I wanted to rap about that action yesterday.
+
+Thank you!# Thank you!**Max:** By the way, thank you for stepping in. You were pretty badass, Warren. I owe you.
+
+|-|That was intense!That was intense!**Max:** That was intense. Everything happened so fast. I owe you.
+
+**Warren:** Oh, yes, you do. I got knocked on my ass by that dick. I'm some personal superhero.
+
+**Max:** You're a real "Everyday Hero." You stood up to a bully and it was awesome.
+
+**Warren:** Even though you left me with said bully and ran off with that girl... She's pretty punk rock, how do you know her?
+
+Chloe Price.# Chloe Price.**Max:** An old friend. Chloe Price? We haven't seen each other in a while.
+
+|-|Just a pirate.Just a pirate.**Max:** Just a pirate I used to know.
+
+**Warren:** I bet you were glad to see her blast up in that truck like a rock star. Which begs the question--why is Nathan Prescott getting psycho on you?
+
+I busted him.# I busted him.**Max:** I busted him in the bathroom yesterday with a gun.
+
+{{#tag:tabber|Reported NathanReported Nathan**Max:** I'll give you the story later. Principal Wells is taking care of it now, I hope.
+
+{{!}}-{{!}}Hid the truth# Hid the truth**Max:** I was too scared to tell Principal Wells. Please don't say anything. I'll give you more info later.
+
+}}
+
+|-|Don't get involved.Don't get involved.**Max:** He's dangerous. I don't want you to get involved. You got me there, but lay low, Nathan Prescott will get his karma soon.
+
+**Warren:** Weird fucking week. Like that bizarro snowfall yesterday. Speaking of dystopia, that drive-in is having a 70's "Planet of the Apes" marathon. Let's "Go Ape"!
+
+Yes.# Yes.**Max:** Yes, that's exactly what I need. I love those old-school ape films.
+
+**Warren:** Well, that was easier than I thought. Cool. I'll text you the info.
+
+|-|No.No.**Max:** No, I don't think I can concentrate on going out to the movies. I just feel like escaping.
+
+**Warren:** Fine. Be a damned dirty human. I'll "Go Ape" myself.
+
+*If Max tries to talk with Warren again*
+
+(Accepted Warren's invitation)# (Accepted Warren's invitation)**Warren:** I have to tell Brooke I'm going with you to the movies instead. I'll text you later?
+
+|-|(Declined Warren's invitation)(Declined Warren's invitation)**Warren:** Uh, I have to see if Brooke wants to go to the drive-in, Max. Maybe I'll see you later.
+
+*Max leaves the Dormitories. She walks across the Main Campus and notices David Madsen and Nathan Prescott arguing.*
+
+**Max (thinking):** David talking to Nathan cannot be a good thing. This has something to do with Kate...or Rachel...
+
+*Max takes a seat on the school bus and begins to listen to music with her earphones. She stares out the window as the streets of Arcadia Bay fly past.*
+
+*The bus stops in front of the Two Whales Diner and Max gets off.*
+
+# 
+
+Generate five trivia questions relevant to this section of the page.

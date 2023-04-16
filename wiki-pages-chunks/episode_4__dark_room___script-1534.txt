@@ -1,0 +1,139 @@
+Here is a section of the wiki page for Episode 4: Dark Room - Script:
+
+know shit. You were part of her problem. Always trying to take her away from me... Always!
+
+*Frank enters Rage Mode.*
+
+|-|Bracelet.# Bracelet.
+
+**Max:** You have Rachel's bracelet. You obviously know more than you're telling. So tell us.
+
+**Frank:** Never come into my home and tell me what to do, understand?
+
+*Frank gets angry.*
+
+**Frank:** Man, there is something about you that is so wrong... I don't trust you at all. Now get out of my face.
+
+**Max:** We don't have much time, Frank. Rachel needs you.
+
+**Frank:** It’s too late! She’s gone! You don’t even know her!
+
+**Chloe:** Like you did? I loved her, asshole. And she loved me. I know that.
+
+**Frank:** Chloe, you don’t know shit. You were part of her problem. Always trying to take her away from me... Always!
+
+*Frank enters Rage Mode.*
+
+(Successful conversation)(Successful conversation)
+*No one will get hurt in this outcome.*
+
+**Chloe:** Help us find her, Frank. Please… we really need your client list.
+
+**Frank:** If there's a chance in hell you two dorks can find Rachel... I'll take it.
+{{#tag:tabber|(Pompidou wasn't hurt)# (Pompidou wasn't hurt)
+
+**Frank:** My dog isn't barking at you, so I guess that's a good sign.
+
+{{!}}-{{!}}(Pompidou was hurt)(Pompidou was hurt)
+
+**Frank:** And let me know if you find out who hurt my dog, okay?
+
+}}
+
+*Frank takes out his client list and hands it to Chloe.*
+
+**Max:** Thank you.
+
+**Chloe:** Yeah, thanks, Frank. Seriously.
+
+**Frank:** It's hard to take you characters seriously... but I want to. Good luck.
+
+''Chloe puts her hand on Max's shoulder and Frank goes back into his RV.*
+
+**Max:** *(thinking)'' That was cool Frank gave up the code to help us... Rachel must have seen something good in him.
+
+|-|(Frank enters Rage Mode)# (Frank enters Rage Mode)
+**Max:** Calm down, Frank. Let's just talk...
+
+*Frank takes Max by the neck.*
+
+{{#tag:tabber|(Chloe has a gun)(Chloe has a gun)
+{{#tag:tabber|(Pompidou is available)# (Pompidou is available)
+''(Pompidou will be available if Max throws the bone toward the parking lot, and doesn't ask Frank to close the RV door.)''
+{{#tag:tabber|(Frank has a gun)(Frank has a gun)
+
+**Frank:** Don't you ever tell me what to do. Get it, bitch? Get it?
+
+*Chloe takes the gun out of her pocket and points it at Frank.*
+
+**Chloe:** Step the fuck back, now!
+
+*Frank backs away from Max. Pompidou, barking, races out of the RV and comes barreling towards Chloe. Chloe shoots him.*
+
+**Frank:** Pompidou! You fucking killed my dog!
+
+*Frank takes out his gun and aims at Chloe. Chloe aims her gun at Frank.*
+
+*There is a single gunshot. Chloe slowly lowers her gun, horrified. Frank is dead.*
+
+**Max:** Oh no… Chloe…
+
+**Chloe:** I just shot a man and his dog… I killed Frank Bowers…
+
+**Max:** You saved my life, Chloe. It was self-defense for both of us.
+
+**Chloe:** Max... Frank is really dead.
+
+**Max:** I know. But we can't stop now. We have to find that code. Fast.
+
+**Chloe:** Before the co—cops come...
+
+*Max and Chloe search Frank and find his client list. Chloe takes it.*
+
+**Max:** That’s it. Let’s get out of here.
+
+**Chloe:** Sorry, Frank... I'm sorry...
+
+**Max:** *(thinking)* Jesus, Chloe actually killed Frank... She’ll never forgive herself... or forget this... And only I can change it…
+{{!}}-{{!}}(Frank does not have a gun)# (Frank does not have a gun)
+
+**Frank:** Don't you ever tell me what to do. Get it, bitch? Get it?
+
+*Chloe takes the gun out of her pocket and points it at Frank.*
+
+**Chloe:** Step the fuck back, now!
+
+*Frank backs away from Max. Pompidou, barking, races out of the RV and comes barreling towards Chloe. Chloe shoots him.*
+
+**Frank:** Pompidou! You fucking killed my dog!
+
+*Frank takes out his knife and runs toward Chloe. Chloe aims the gun at Frank.*
+
+**Max:** Oh my God!
+
+*There is a single gunshot. Chloe slowly lowers the gun, horrified. Frank is dead.*
+
+**Max:** Oh no… Chloe…
+
+**Chloe:** I just shot a man and his dog… I killed Frank Bowers…
+
+**Max:** You saved my life, Chloe. It was self-defense for both of us.
+
+**Chloe:** Max... Frank is really dead.
+
+**Max:** I know. But we can't stop now. We have to find that code. Fast.
+
+**Chloe:** Before the co—cops come...
+
+*Max and Chloe search Frank and find his client list. Chloe takes it.*
+
+**Max:** That’s it. Let’s get out of here.
+
+**Chloe:** Sorry, Frank... I'm sorry...
+
+**Max:** *(thinking)* Jesus, Chloe actually killed Frank... She’ll never forgive herself... or forget this... And only I can change it…
+
+}}
+{{!}}-{{!}}(Pompidou is not available)(Pompidou is not 
+
+Generate five trivia questions relevant to this section of the page.

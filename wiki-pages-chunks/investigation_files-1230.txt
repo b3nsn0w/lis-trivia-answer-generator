@@ -1,0 +1,77 @@
+Here is a section of the wiki page for Investigation Files:
+
+#  Investigation Files 
+
+[File:Ep4-Investigation_board.png](thumb.md)
+The **Investigation Files** are the files and clues that [Maxine Caulfield](max_caulfield.md) and [Chloe Price](chloe_price.md) gather and use in their investigation of [Rachel Amber](rachel_amber.md)'s disappearance and [Kate Marsh](kate_marsh.md)'s viral video that leads them to reveal the [:Category:Dark Room Conspiracy](dark_room_conspiracy.md) in *[Life is Strange](life_is_strange.md)*. They consist of [David Madsen](david_madsen.md)'s secret surveillance files gathered during during his investigation at Blackwell, [Frank Bowers](frank_bowers.md)'s drug dealing logbook and several belongings of [Nathan Prescott](nathan_prescott.md), in particular his secret phone. [Raymond Wells](principal_wells_.md) [Principal Wells' Computer](files.md) aid their interest in the topic.
+
+## Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+Max can find a binder of David's secret files in [David's Garage](his_garage.md), which include pictures of [Kate Marsh](kate_marsh.md) and a record of her actions throughout the week prior to the game's events. She can also discover that David installed hidden cameras inside the [Madsen Household](madsen_household.md).
+
+David's record of Kate's actions reads as follows:
+{{Bigquote
+|Kate M. follows same path to every class.
+
+Overheard Kate and Dana W. talking about supplies for Vortex Club party. Drugs?
+
+Watched Kate with her church group. She knows her bible.
+
+Kate stays in bathroom longer than other students. Drugs?
+
+Saw Kate helping Jefferson after class. Don't trust grown men with goatees.
+
+Kate has kept to herself since Vortex Club party. Not even church. Drugs?
+
+Tried to talk to Kate about the party. She got upset and ran. Guilty.
+}}
+
+## Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+When Max and Chloe investigate [Frank's RV](frank_s_rv.md), Max find a binder with photos and letters of Rachel behind a ventilation grid. She confronts Chloe with it causing her emotion breakdown.
+
+## Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+Max investigates David's laptop and locker. They reveal that David has been behind Rachel for some time. David has a map for locations of security cameras for [Blackwell Academy](blackwell_academy.md) and [Pan Estates](pan_estates.md). With the help of David's investigation, Frank's logbook and Nathan's phone, Max is able to track down the [Prescott Barn](prescott_barn.md), leading her and Chloe to the [Dark Room (Location)](dark_room.md) and find out about the [Dark Room Victims](dark_room_victims.md).
+
+## Coordinates 
+[[File:Arcadia_Bay_map.jpg|thumb|A map of Arcadia Bay with the GPS coordinates[http://imgur.com/iP9ULwg Map] by Reddit user [https://www.reddit.com/user/libbysthing /u/libbysthing]]]
+[https://www.google.com/maps/d/edit?mid# z7HdYJu51sZU.kXX4S7UlwXTs The coordinates as a custom Google Maps overlay].
+[https://www.reddit.com/r/lifeisstrange/comments/3eyxe5/ep4_spoilers_real_life_location_of_arcadia_bay/ Reddit post by /u/RCDuke]
+
+Put together, the clues for all the vehicles enable to find the coordinates for the Two Whales Diner, the junkyard, the beach, Blackwell Academy, the old barn, the gas station and Chloe's house. Some of them also require [Chronological Sequence of Events (Life is Strange)](creating_a_list_of_chronological_events.md). All coordinates from the investigation correspond to the middle of {{Wiki|Tillamook Bay}}, Oregon.
+
+{| class"wikitable"
+! Location name
+! Latitude
+! Longitude
+|-
+| [Blackwell Academy](blackwell_academy.md)
+| 45.535068
+| -123.906641
+|-
+| [Two Whales Diner](two_whales_diner.md)
+| 45.542283
+| -123.929815
+|-
+| [American Rust Junkyard](american_rust_junkyard.md)
+| 45.552381
+| 123.925695
+|-
+| [Prescott Barn](prescott_barn.md)
+| 45.496698
+| -123.894625
+|-
+| [Beach](beach.md)
+|  45.547693
+| -123.935308
+|-
+| [Prescott Estate](prescott_estate.md)
+| 45.531822
+| -123.921232
+|-
+| [Gas Station](gas_station.md)
+| 45.528334
+| -123.931704
+|}
+
+
+
+Generate five trivia questions relevant to this section of the page.

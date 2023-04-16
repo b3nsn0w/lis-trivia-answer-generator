@@ -1,0 +1,42 @@
+[
+  {
+    "question": "In Which Episode Do The Screenshots In This Gallery Appear?",
+    "answer": "A",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "Which Screenshot Shows Max And Warren Together?",
+    "answer": "B",
+    "choices": {
+      "A": "File:Max_and_Warren_-_Chrysalis_(2).jpg",
+      "B": "File:Max_and_Warren_-_Chrysalis_(3).jpg",
+      "C": "File:Max_and_Warren_-_Chrysalis_(4).jpg",
+      "D": "File:Max_and_Warren_-_Chrysalis_(5).jpg"
+    }
+  },
+  {
+    "question": "Which Screenshot Shows Max Sitting By The Lake?",
+    "answer": "A",
+    "choices": {
+      "A": "File:LIS1E1_-_Lakeside_-_14.png",
+      "B": "File:LIS1E1_-_Lakeside_-_05.png",
+      "C": "File:LIS1E1_-_Lakeside_-_01.png",
+      "D": "File:LIS1E1_-_Lakeside_-_06.png"
+    }
+  },
+  {
+    "question": "Which Screenshot Shows Max And Chloe In A Truck?",
+    "answer": "A",
+    "choices": {
+      "A": "LifeIsStrange Truck Chloe Max.jpg",
+      "B": "LifeIsStrange 2015-05-23 11-04-59-57.jpg",
+      "C": "LifeIsStrange 2015-05-23 11-08-29-91.jpg",
+      "D": "LifeIsStrange 2015-05-23 11-08-36-11.jpg"
+    }
+  }
+]

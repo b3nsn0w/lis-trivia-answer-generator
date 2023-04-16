@@ -1,0 +1,69 @@
+Here is a section of the wiki page for Choices and Consequences:
+
+#  Choices and Consequences 
+
+[File:This action will have consequences-0.png](centre.md)
+
+: *This article is about Life is Strange. For information on Before the Storm, see [Choices and Consequences (Before the Storm)](here.md). For information on Life is Strange 2, see [Choices and Consequences (Life is Strange 2)](here.md)*.
+
+**Choices and Consequences** are a main gameplay element in *[Life is Strange](life_is_strange.md)*. The protagonist, [Maxine Caulfield](max_caulfield.md), is presented with different choices in the form of available action or dialogue options and optional interactions which can stop the scene and freeze time if it is a major choice. A butterfly symbol will appear at the top of the screen after the choice is made, and Max will usually make a comment regarding her decision; she will then have the option to [Rewind](rewind.md) to make a different choice, or progress further into the story and usually reach a save checkpoint location. The choices made during the episode, along with comparisons with friends and global statistics on choices made will be revealed to the player at the end of each episode. The associated consequences will often be revealed later on in the same or in subsequent episodes.
+
+## Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+
+#
+
+## Nathan's Gun
+Major choice:
+
+Report Nathan# Report Nathan
+***Episode 1**
+**[Raymond Wells](principal_wells.md) will call [Nathan Prescott](nathan_prescott.md) into his office through a public announcement system as Max exits the main building of [Blackwell Academy](blackwell.md).
+**Max can tell [Luke Parker](luke_parker.md) about "busting" Nathan with a gun, giving him satisfaction and thanking Max for doing so.
+**Nathan will get angry with Max for reporting him and confront her at the parking lot.
+**[Chloe Price](chloe_price.md) will express her disapproval over Max having reported Nathan to the principal.
+***Episode 2**
+**Nathan will leave a threatening message and photo in [Max's Room](max_s_room.md) after Max returns from her shower.
+**Nathan and someone claiming to be [Sean Prescott](nathan_s_father.md) will send Max two separate threatening SMS messages from two different private numbers.
+**Max can talk to [Warren Graham](warren_graham.md) about "busting" Nathan with a gun.
+**Principal Wells will admit that he doesn't believe her accusation if Max talks to him.
+**[Mark Jefferson](mr__jefferson.md) will say he does not believe Max's accusation when he talks to Max.
+**Nathan will be aggressive during his desk confrontation with Max.
+**Nathan will be suspended if Max blames him for [Kate Marsh](kate_marsh.md)'s suicide attempt.
+**Max will be suspended instead if she tries to blame David after not taking a photo and taking the blame for Chloe's weed.
+***Episode 3**
+**At the [Two Whales Diner](two_whales_diner.md), Nathan's attitude will be more hostile.
+***Episode 4**
+**Principal Wells will send an email to Nathan to apologize for Max's accusation.
+**Nathan will steal a selfie from Max's room.
+***Episode 5**
+**Max can talk with Principal Wells in [Zeitgeist Gallery](zeitgeist_gallery.md) about how she tried to warn him about Nathan.
+**Max will tell [David Madsen](david_madsen.md) that she should have tried harder to convince the principal about Nathan.
+|-|Hide the truthHide the truth
+***Episode 1**
+**No public announcement will be broadcast as Max exits the main building of [Blackwell Academy](blackwell.md).
+**Max cannot tell [Luke Parker](luke_parker.md) about "busting" [Nathan Prescott](nathan_prescott.md) with a gun, thus keeping their relationship the same.
+**Nathan will figure out that Max was in the bathroom and will try to intimidate her at the [Blackwell Parking Lot](parking_lot.md).
+**[Chloe Price](chloe_price.md) will be glad that Max didn't report Nathan.
+***Episode 2**
+**Nathan will not vandalize or leave anything in [Max's Room](max_s_room.md).
+**Max will only receive one threatening text by Nathan from a private number.
+**Max can talk to [Warren Graham](warren_graham.md) about Nathan with a gun.
+**[Raymond Wells](principal_wells.md) will bring up Max's evasive answer to him in the previous day if Max talks to him.
+**[Mark Jefferson](mr__jefferson.md) will say that he does not believe Max's accusation if she brings it up to him.
+**Nathan will be snarky during his desk confrontation with Max. More in this video https://youtu.be/faz4O_Qee1I
+**Nathan will be suspended if Max blames him at the end of Episode 2 and did not take the blame for Chloe's weed.
+**Max will be suspended instead if she tries to blame Nathan and took the blame for Chloe's weed earlier which David will bring up.
+***Episode 3**
+**At the [Two Whales Diner](two_whales_diner.md), Nathan's attitude will be less hostile. More in this video https://youtu.be/faz4O_Qee1I
+***Episode 4**
+**Nathan will not receive any email from Principal Wells.
+**Nathan will not steal Max's selfies.
+***Episode 5**
+**Max can talk with Principal Wells at the [Zeitgeist Gallery](zeitgeist_gallery.md) and say that she should have reported Nathan.
+**Max will tell [David Madsen](david_madsen.md) that she regrets not telling the principal that Nathan had a gun.
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

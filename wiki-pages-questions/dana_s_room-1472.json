@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Name Of The Person Who Was Obstructing The Door To Dana's Room?",
+    "answer": "D",
+    "choices": {
+      "A": "Maxine Caulfield",
+      "B": "Trevor",
+      "C": "Logan Robertson",
+      "D": "Juliet Watson"
+    }
+  },
+  {
+    "question": "What Item Does Max Find In The Bin Next To Dana's Desk?",
+    "answer": "A",
+    "choices": {
+      "A": "A Pregnancy Test Kit",
+      "B": "A Doctor's Appointment Note",
+      "C": "A Vortex Club Sticker",
+      "D": "A Maternity Book"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Person Who Wrote A Financial Help Offer To Dana?",
+    "answer": "B",
+    "choices": {
+      "A": "Warren Graham",
+      "B": "Logan Robertson",
+      "C": "Trevor",
+      "D": "Zachary Riggins"
+    }
+  },
+  {
+    "question": "What Is Written On Dana's Slate In Episode Two?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Stomp 'em Bigfoots\"",
+      "B": "\"I Love Trevor\"",
+      "C": "\"Go Blackwell\"",
+      "D": "\"Cheerleading Rocks\""
+    }
+  }
+]

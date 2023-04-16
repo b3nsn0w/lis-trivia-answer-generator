@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Location Of Blackwell Academy?",
+    "answer": "A",
+    "choices": {
+      "A": "Oregon",
+      "B": "California",
+      "C": "Washington",
+      "D": "New York"
+    }
+  },
+  {
+    "question": "What Is The Purpose Of The Soft Drinks And Snack Vending Machine In The Hallway?",
+    "answer": "C",
+    "choices": {
+      "A": "To Provide Free Snacks To Students",
+      "B": "To Raise Money For The School",
+      "C": "To Provide Drinks And Snacks For Purchase",
+      "D": "To Provide Drinks And Snacks For Teachers Only"
+    }
+  },
+  {
+    "question": "Where Is Max's Locker Located In The Hallway?",
+    "answer": "D",
+    "choices": {
+      "A": "Between The Front Entrance And The Girls' Bathroom",
+      "B": "Between Two Classrooms",
+      "C": "Next To Principal Wells' Office",
+      "D": "Next To The Boys' Bathroom"
+    }
+  },
+  {
+    "question": "What Is Located Between The Front Entrance And The Girls' Bathroom In The Hallway?",
+    "answer": "B",
+    "choices": {
+      "A": "A Soft Drinks And Snack Vending Machine",
+      "B": "A Trophy Case",
+      "C": "A Notice Board",
+      "D": "A Poster"
+    }
+  },
+  {
+    "question": "What Is The Purpose Of The Notice Boards Along The Walls Of The Hallway?",
+    "answer": "D",
+    "choices": {
+      "A": "To Advertise School Events",
+      "B": "To Display Student Artwork",
+      "C": "To Provide Information About Clubs And Organizations",
+      "D": "All Of The Above"
+    }
+  }
+]

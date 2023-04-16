@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which gaming website named Life is Strange as one of the best video game stories of 2015?",
+    "answer": "A",
+    "choices": {
+      "A": "VentureBeat",
+      "B": "Polygon",
+      "C": "Twinfinite",
+      "D": "Forbes"
+    }
+  },
+  {
+    "question": "Which gaming website named Life is Strange as their Game of the Year for 2015?",
+    "answer": "C",
+    "choices": {
+      "A": "VentureBeat",
+      "B": "Polygon",
+      "C": "HoustonPress",
+      "D": "Forbes"
+    }
+  },
+  {
+    "question": "Which gaming website named Life is Strange as having the Best Musical Soundtrack for 2015?",
+    "answer": "C",
+    "choices": {
+      "A": "VentureBeat",
+      "B": "Polygon",
+      "C": "PlayStation Universe",
+      "D": "Forbes"
+    }
+  },
+  {
+    "question": "Which digital media prize did Life is Strange win in May 2016?",
+    "answer": "A",
+    "choices": {
+      "A": "Facebook and Peabody's inaugural digital media prize",
+      "B": "The Best Video Game Dogs of 2015",
+      "C": "Top 10 Kick-Ass Video Game Female Protagonists",
+      "D": "The best video games of 2015"
+    }
+  },
+  {
+    "question": "Which gaming website named Max and Chloe as the best video game woman of 2015?",
+    "answer": "B",
+    "choices": {
+      "A": "VentureBeat",
+      "B": "Polygon",
+      "C": "HoustonPress",
+      "D": "Forbes"
+    }
+  }
+]

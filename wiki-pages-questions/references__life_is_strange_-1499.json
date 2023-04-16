@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who Is The Character That Mark Jefferson's Character Is Possibly Based On?",
+    "answer": "A",
+    "choices": {
+      "A": "Jeff Kohlver",
+      "B": "Xander Harris",
+      "C": "Daria Morgendorffer",
+      "D": "Billy Riggins"
+    }
+  },
+  {
+    "question": "What Is The Possible Reference For Victoria Chase's Name?",
+    "answer": "A",
+    "choices": {
+      "A": "Joss Whedon",
+      "B": "Stephen King",
+      "C": "Mark Jefferson",
+      "D": "Xander Harris"
+    }
+  },
+  {
+    "question": "Who Is The Character That Warren Graham's Character Is Inspired By?",
+    "answer": "A",
+    "choices": {
+      "A": "Xander Harris",
+      "B": "Jeff Kohlver",
+      "C": "Daria Morgendorffer",
+      "D": "Billy Riggins"
+    }
+  },
+  {
+    "question": "What Is The Possible Reference For Kate Marsh's Middle And Last Name?",
+    "answer": "A",
+    "choices": {
+      "A": "Beverly Marsh from *IT*",
+      "B": "Alice in Wonderland",
+      "C": "The Log Lady from *Twin Peaks*",
+      "D": "The white rabbit from *Alice in Wonderland*"
+    }
+  }
+]

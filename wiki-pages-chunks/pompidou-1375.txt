@@ -1,0 +1,69 @@
+Here is a section of the wiki page for Pompidou:
+
+#  Pompidou 
+
+```yaml
+Character
+
+name: Pompidou
+image: Pompidou.png
+alsoknown: >-
+  CujoMax calls Pompidou this name several times throughout the game; for
+  instance, when she first meets him on Blackwell's parking lot. This nickname
+  is a reference to the rabid canine and central character in the same-titled
+  novel written by Stephen King. (by [Maxine Caulfield
+Max Caulfield](maxine_caulfield_max_caulfield.md)): ''
+died: |-
+  October 10, 2013 (determinant)
+   October 11, 2013 (presumed, determinant)
+causeofdeath: |-
+  Shot by [Chloe Price](chloe_price.md) (determinant)
+  Killed by the [storm](storm.md) (presumed, determinant)
+gender: Male
+hair: Brown
+eyes: Brown
+relatives: '[Frank Bowers](frank_bowers.md) (owner)'
+friends: |-
+  [Rachel Amber](rachel_amber.md), 
+  [Maxine Caulfield
+Max Caulfield](maxine_caulfield_max_caulfield.md) (determinant)
+[Frank Bowers](frank_bowers.md): ''
+appearance: |-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md) (ending scene)
+  [Episode 2: Out of Time](episode_2__out_of_time.md)
+  [Episode 3: Chaos Theory](episode_3__chaos_theory.md)
+  [Episode 4: Dark Room](episode_4__dark_room.md) (determinant)
+  [Episode 5: Polarized](episode_5__polarized.md) (determinant)
+lastappearance: |-
+  [Episode 3: Chaos Theory](episode_3__chaos_theory.md) (determinant)
+  [Episode 4: Dark Room](episode_4__dark_room.md) (determinant)
+```
+
+> No, it was just the right thing to do. I couldn't stand to see those poor animals treated like slaves. That's how I came to own Pompidou.
+
+**[Frank Bowers**, Frank](frank_bowers____frank.md) to [Maxine Caulfield, Max](maxine_caulfield__max.md) and [Chloe Price, Chloe](chloe_price__chloe.md) about how Pompidou came into his ownership in "[Episode 4: Dark Room, Dark Room](episode_4__dark_room__dark_room.md)" (determinant)
+
+**Pompidou** is the dog of [Frank Bowers](frank_bowers.md), [Arcadia Bay](arcadia_bay.md)'s resident drug-dealer. He was reportedly rescued by his owner from dogfights. This previous environment may explain his vicious tendencies, as well as his loving nature towards Frank.
+
+## Personality 
+Pompidou is generally loving and affectionate towards his owner. It is also well known that the dog is fond of [Rachel Amber](rachel_amber.md), thanks to photos of her with the dog and a drawing of the two together, found in the [American Rust Junkyard](junkyard.md).
+
+He can be aggressive toward strangers and barks when [Maxine Caulfield](max_caulfield.md) goes near him. [Officer Berry](officer_berry.md) comments that Pompidou is Frank's "personal drooling bodyguard" and wouldn't be surprised if Frank had "trained him on blood." However, Frank gets offended at any suggestion he abuses his dog and says he trained Pompidou how to be his friend.
+
+## Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+The dog is first seen sleeping outside [Frank's RV](frank_s_rv.md) at the inner corner of the [Blackwell Parking Lot](parking_lot.md) at [Blackwell Academy](blackwell_academy.md). Max will comment about not disturbing the dog if she looks at him. At the end of this episode, the dog will be barking outside Frank's RV on the beachfront during the snowstorm.
+
+## Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+During this episode, Pompidou makes a small appearance lying next to Frank and the RV at the parking area next to the [Two Whales Diner](two_whales_diner.md). Pompidou will bark loudly at Max's approach from the same area. Max may move to the back alley behind the diner and safely take an [Optional Photos](optional_photo.md) of Pompidou without him noticing. Pompidou is also featured in a drawing in the Junkyard, next to a picture of Rachel Amber.
+
+At the end of the episode, Pompidou will be shown staying at Frank's side on the beachfront and Frank will pet Pompidou to keep him happy while the solar eclipse occurs.
+
+## Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+During this episode, Max and [Chloe Price](chloe_price.md) need to distract Pompidou in order to sneak around in Frank's RV. Chloe digs up a bone from the trash and leaves it up to Max to throw it to the dog. There are two possible outcomes.
+
+Throw the bone into the Parking Lot# Throw the bone into the Parking LotPompidou takes off after the treat to the parking lot and munches happily away from the road. As Chloe drives away from the scene, Pompidou barks loudly after [Chloe's Truck](the_truck.md) as she pulls out of the diner.
+|-|Throw the bone into the RoadThrow the bone into the RoadIf Max throws the bone to the road, Pompidou runs toward the road to chase after the bone. The dog is hit by oncoming traffic.
+
+
+
+Generate five trivia questions relevant to this section of the page.

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Connection Between Bean Hip Cafe And Mark Jefferson?",
+    "answer": "A",
+    "choices": {
+      "A": "The Cafe Hosted An Exhibition Of Jefferson's Artwork",
+      "B": "Jefferson Was A Regular Customer At The Cafe",
+      "C": "The Cafe Served As A Location For One Of Jefferson's Photoshoots",
+      "D": "Jefferson Designed The Cafe's Logo"
+    }
+  },
+  {
+    "question": "When Was Mark Jefferson's Exhibition Held At Bean Hip Cafe?",
+    "answer": "A",
+    "choices": {
+      "A": "November 5 - December 1, 2009",
+      "B": "October 7th, 2013",
+      "C": "During Episode 3: Chaos Theory",
+      "D": "It Was Never Stated"
+    }
+  },
+  {
+    "question": "Where Did Max Find The Leaflet For Mark Jefferson's Exhibition?",
+    "answer": "A",
+    "choices": {
+      "A": "Victoria's Room In The Prescott Dormitory",
+      "B": "Blackwell Academy's Swimming Pool Building",
+      "C": "Bean Hip Cafe",
+      "D": "Arcadia Bay"
+    }
+  },
+  {
+    "question": "What Is The Location Of Bean Hip Cafe Presumed To Be?",
+    "answer": "B",
+    "choices": {
+      "A": "Arcadia Bay",
+      "B": "Seattle",
+      "C": "Blackwell Academy",
+      "D": "Victoria's Room"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who Created The Concept Art For The Interior Of Chloe's Truck?",
+    "answer": "A",
+    "choices": {
+      "A": "Edouard Caplain",
+      "B": "Michel Koch",
+      "C": "Raoul Barbet",
+      "D": "Luc Baghadoust"
+    }
+  },
+  {
+    "question": "In Which Episode Does Chloe Drop Max Off At Blackwell?",
+    "answer": "C",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Episode Where Chloe's Truck Is Seen At The Beach?",
+    "answer": "C",
+    "choices": {
+      "A": "Episode 2: Out of Time",
+      "B": "Episode 3: Chaos Theory",
+      "C": "Episode 4: Dark Room",
+      "D": "Episode 5: Polarized"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Rear-View Mirror Charms In Chloe's Truck?",
+    "answer": "A",
+    "choices": {
+      "A": "Elvis Presley Bobble Head",
+      "B": "Dash Graffiti",
+      "C": "Rear of Cabin Graffiti",
+      "D": "Tribal Passenger Seat Rug"
+    }
+  },
+  {
+    "question": "In Which Episode Is Chloe's Truck Seen Driving Around Arcadia Bay?",
+    "answer": "C",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  }
+]

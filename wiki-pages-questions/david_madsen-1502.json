@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Was The Reason Behind David And Joyce's Marriage?",
+    "answer": "B",
+    "choices": {
+      "A": "They Fell In Love At First Sight",
+      "B": "Joyce Showed Concern For David's Emotional Struggles",
+      "C": "They Were Set Up By Their Friends",
+      "D": "They Met At A Party"
+    }
+  },
+  {
+    "question": "What Is Chloe's Nickname For David?",
+    "answer": "A",
+    "choices": {
+      "A": "Step-Douche",
+      "B": "Step-Father",
+      "C": "Step-Dick",
+      "D": "Step-Brother"
+    }
+  },
+  {
+    "question": "Who Does David Suspect Of Being Involved In The Disappearances?",
+    "answer": "C",
+    "choices": {
+      "A": "Nathan Prescott",
+      "B": "Max Caulfield",
+      "C": "Mark Jefferson",
+      "D": "Michelle Grant"
+    }
+  },
+  {
+    "question": "What Does David Promise To Do After The Argument With Chloe In Episode Three?",
+    "answer": "A",
+    "choices": {
+      "A": "Go See A Family Counselor",
+      "B": "Leave The House",
+      "C": "Never Speak To Chloe Again",
+      "D": "Call The Police On Chloe"
+    }
+  },
+  {
+    "question": "What Does David Admit To Max In The Dark Room?",
+    "answer": "B",
+    "choices": {
+      "A": "He Always Suspected Mark Jefferson",
+      "B": "He Is Proud To Be A Step-Father",
+      "C": "He Is Good At Teamwork",
+      "D": "He Is A Good Detective"
+    }
+  }
+]

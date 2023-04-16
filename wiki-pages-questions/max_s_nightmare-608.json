@@ -1,0 +1,42 @@
+[
+  {
+    "question": "How is Warren depicted in Max's nightmare?",
+    "answer": "A",
+    "choices": {
+      "A": "As a desperate lover",
+      "B": "As a helpful friend",
+      "C": "As a threatening figure",
+      "D": "As a heroic figure"
+    }
+  },
+  {
+    "question": "What does Kate say to Max in the dormitory hallways during the nightmare?",
+    "answer": "A",
+    "choices": {
+      "A": "She blames Max for her death",
+      "B": "She apologizes to Max for her past behavior",
+      "C": "She asks Max for help",
+      "D": "She ignores Max completely"
+    }
+  },
+  {
+    "question": "How is Principal Wells depicted in the nightmare?",
+    "answer": "C",
+    "choices": {
+      "A": "As a supportive figure",
+      "B": "As a heroic figure",
+      "C": "As a threatening figure",
+      "D": "As a statue"
+    }
+  },
+  {
+    "question": "What is the purpose of the nightmare in Life is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "To emphasize the consequences of Max's actions",
+      "B": "To introduce new characters",
+      "C": "To showcase Max's time rewind power",
+      "D": "To create a happy ending for the game"
+    }
+  }
+]

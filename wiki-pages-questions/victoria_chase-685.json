@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Does Victoria Do To Max On The Steps Of The Prescott Dormitory?",
+    "answer": "A",
+    "choices": {
+      "A": "Takes An Unflattering Photo Of Her",
+      "B": "Pushes Her Down The Stairs",
+      "C": "Throws A Drink On Her",
+      "D": "Ignores Her Completely"
+    }
+  },
+  {
+    "question": "Why Does Max Have To Search Victoria's Bedroom?",
+    "answer": "B",
+    "choices": {
+      "A": "To Find Her Missing Phone",
+      "B": "To Clear Dana's Name",
+      "C": "To Steal Her Clothes",
+      "D": "To Get Revenge On Victoria"
+    }
+  },
+  {
+    "question": "What Does Victoria Promise Max If She Comforts Her?",
+    "answer": "A",
+    "choices": {
+      "A": "To Delete The Unflattering Photo Of Her",
+      "B": "To Give Her A Makeover",
+      "C": "To Introduce Her To Jefferson",
+      "D": "To Let Her Join The Vortex Club"
+    }
+  },
+  {
+    "question": "What Does Max Have The Option To Do In Victoria's Room?",
+    "answer": "B",
+    "choices": {
+      "A": "Steal Her Diary",
+      "B": "Reorder Her Photo Wall",
+      "C": "Break Her Mirror",
+      "D": "Hide Under Her Bed"
+    }
+  }
+]

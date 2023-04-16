@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who Kidnapped Chloe And Max?",
+    "answer": "B",
+    "choices": {
+      "A": "Nathan Prescott",
+      "B": "Jefferson",
+      "C": "Frank Bowers",
+      "D": "David Madsen"
+    }
+  },
+  {
+    "question": "What Does Max Find In Nathan's Room?",
+    "answer": "D",
+    "choices": {
+      "A": "A Gun",
+      "B": "A Photo Of Rachel Amber",
+      "C": "A Letter From Jefferson",
+      "D": "A Map To The Dark Room"
+    }
+  },
+  {
+    "question": "Who Does Max Find In The Dark Room?",
+    "answer": "B",
+    "choices": {
+      "A": "Victoria Chase",
+      "B": "Rachel Amber",
+      "C": "Kate Marsh",
+      "D": "Chloe Price"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Song That Plays During The End Credits Of This Episode?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Obstacles\" by Syd Matters",
+      "B": "\"Spanish Sahara\" by Foals",
+      "C": "\"Mountains\" by Message to Bears",
+      "D": "\"Lua\" by Bright Eyes"
+    }
+  }
+]

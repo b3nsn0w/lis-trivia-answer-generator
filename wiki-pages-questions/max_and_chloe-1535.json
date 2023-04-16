@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Chloe Do To Scare Max When They Meet Up At Blackwell Campus?",
+    "answer": "A",
+    "choices": {
+      "A": "She Jumpscares Her",
+      "B": "She Hides Behind A Bush",
+      "C": "She Throws A Rock At Her",
+      "D": "She Pretends To Be A Ghost"
+    }
+  },
+  {
+    "question": "What Does Chloe Find In Principal Wells' Office?",
+    "answer": "C",
+    "choices": {
+      "A": "A Secret Diary",
+      "B": "A Map Of Arcadia Bay",
+      "C": "An Envelope Full Of Money",
+      "D": "A Gun"
+    }
+  },
+  {
+    "question": "What Does Chloe Want To Do With The Money She Finds In Principal Wells' Office?",
+    "answer": "B",
+    "choices": {
+      "A": "Return It To The School",
+      "B": "Use It To Pay Frank Back",
+      "C": "Donate It To Charity",
+      "D": "Keep It For Herself"
+    }
+  },
+  {
+    "question": "What Do Max And Chloe Do After Leaving Principal Wells' Office?",
+    "answer": "A",
+    "choices": {
+      "A": "They Go To The Blackwell Swimming Pool",
+      "B": "They Go To The Drive-In Theater",
+      "C": "They Go To The Beach",
+      "D": "They Go To A Concert"
+    }
+  },
+  {
+    "question": "What Does Chloe Say About Max's Power Changing Her Personality?",
+    "answer": "A",
+    "choices": {
+      "A": "It Makes Her More Confident",
+      "B": "It Makes Her More Aggressive",
+      "C": "It Makes Her More Shy",
+      "D": "It Makes Her More Arrogant"
+    }
+  }
+]

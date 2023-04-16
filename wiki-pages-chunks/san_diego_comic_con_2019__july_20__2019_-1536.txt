@@ -1,0 +1,34 @@
+Here is a section of the wiki page for San Diego Comic Con 2019 (July 20, 2019):
+
+story. At the beginning, we wanted to talk about some - for us - important society subjects. You know, of course, we've got some issues, also, in Europe and a lot of parts of the world with those kind of subjects, and it was interesting for us to talk about gun violence, racism, et cetera. I think it's part of the world, and I think it's interesting to talk about it and to put the player in a situation. The idea is not to say this is good or this is bad or make a political statement, but I think a video game is really strong to put players in a situation where they can think about this situation and choose their own way and their own story. So, this is what we tried to do with Jean-Luc, and it was the same for Life is Strange 1: What is it really to be a teenager? What is it really to have problems with social harassment with friends you don't really know, or to deal with friends sometimes that you don't really know? Or who you are going to be as an adult, et cetera. So, it was the same idea. We wanted a realistic setting. Here, the fact that Sean and Daniel are half Mexican has some consequences on this road trip, of course.
+**Lucy:** When you took your own personal road trip through America, how did that influence the game, and do you have any cool stories from the road that you can tell us? Keeping it PG, though. Nothing too crazy.
+
+**Jean-Luc:** I had a road trip with Michel Koch, the second game director of Life is Strange. We went from Seattle to Los Angeles. We traveled a lot. I think [at? half?] the locations we shot with our camera, and I remember that moment we were on the car, and I was fiddling with my iPhone, and the streets [unintelligible few words], and there was this guy in the gas station with a chainsaw...
+
+**Lucy:** [laughs] Great way to start a story.
+
+**Jean-Luc:** And he was carving some wood to make some little trolls, you know... Okay, that's really nice. And that why, in the first episode of Life is Strange 2, in the gas station, you've got all these [unintelligible as presenter says "creepy bears" over his words] in the wood. It was something we saw during our road trip.          
+Lucy: That's awesome. So, you guys are obviously French.
+
+**Raoul** and **Jean-Luc**: Yeah.
+
+**Lucy:** Obviously.
+
+[Audience and panel laugh]
+
+**Raoul:** Sorry for the accent.
+
+**Jean-Luc:** [unintelligible as presenter talks]
+
+**Lucy:** I'm going somewhere with this. I'm going somewhere. But, of course, the Life is Strange games are set in America, so what process do you go through to make sure that you get the details right, because the culture difference is quite significant? I remember in the [Director's Commentary](director_s_commentary.md) for the first Life is Strange, there was a moment where Max and Warren meet, and you were gonna have them air kiss, 'cause you do in France, and then you had an American writer saying, "No, don't do that. Americans don't do that." So how did you do that for Life is Strange 2?
+**Raoul:** Yes, I think this is a difficulty. We don't want to be like the French guys doing some cliche stuff about America, et cetera, because we see... we know a bit about America, but with movies or TV series, all this kind of stuff, but sometimes you can reproduce some cliche, also. So it's really important for us. That's why we travel a lot here to be sure to do interviews, take photos, take also sound ambient sounds to be sure it's accurate for environment artists, for characters, even for textures on the walls... this kind of stuff. So, I think we have to be careful with the dialogues, to be sure, as it's teenagers; it's quite difficult sometimes, even with French teenagers, sometimes we don't understand. So we have to be careful to write it the right way, and that's why we have a lot of American writers who help us on that, and we work with the voice actors, also, a lot to be sure it's accurate.
+
+**Lucy:** Let's discuss choice and consequence which is a key mechanic within the game. So, it was vital in Life is Strange 1, and it's expanded even more in Life is Strange 2. How intricate is that mechanic, and how exactly does it work?
+
+**Jean-Luc:** You know, in the first Life is Strange, when you took a decision with Max, you saw basically the immediate consequences of the decision and, of course, it was easy to rewind. But in life is Strange 2, when you are [unintelligible] the behavior of Daniel with your action, with the choices of dialogues, with everything. So, you don't have immediate consequence of something, but Daniel will evolve [unintelligible words]. It won't be good or bad with having one decision, only by a lot of different choices we are going to make. So this is basically the main difference between the two games, [video cuts to join sentence] because at the end of the joining of Sean and Daniel, you could have really different behavior of your little brother according to your decisions.
+
+**Raoul:** I think on a design point of view, it's important to have-- We really to tell a story, and when Jean-Luc is writing the main story, you've got, like, the beginning, the ends... the endings. And we've got a lot of branches, but we don't know yet, or-- we will be able to have different scenes or different sequences. So, I think it's important to give to the players the feeling that this is his own story but also to stick to the story we want to tell ourselves. For example, you can do what you want in Life is Strange. You have some choices, and we tried to have as much as possible - choices - but to have believable characters. So, for example, for Daniel or Sean, Daniel would be quite different but also will work into our story. So, it's to find the right balance between freedom and also, I would say, have a believable story in general.
+
+**Lucy:** Whilst we're on the topic of choices and consequences, I'm gonna 
+
+Generate five trivia questions relevant to this section of the page.

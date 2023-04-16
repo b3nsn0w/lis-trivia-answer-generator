@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Name Of The High School That Maxine Caulfield Attends?",
+    "answer": "A",
+    "choices": {
+      "A": "Blackwell Academy",
+      "B": "Arcadia Bay High School",
+      "C": "Jefferson High School",
+      "D": "Prescott Academy"
+    }
+  },
+  {
+    "question": "Who Is The Old Best Friend That Maxine Reunites With In Episode 1?",
+    "answer": "D",
+    "choices": {
+      "A": "Kate Marsh",
+      "B": "Victoria Chase",
+      "C": "Rachel Amber",
+      "D": "Chloe Price"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Dormitory Where Nathan Prescott Resides?",
+    "answer": "A",
+    "choices": {
+      "A": "Prescott Dormitory",
+      "B": "Blackwell Dormitory",
+      "C": "Jefferson Dormitory",
+      "D": "Arcadia Bay Dormitory"
+    }
+  },
+  {
+    "question": "Who Is The Person That Maxine Saves From Jumping Off A Building?",
+    "answer": "B",
+    "choices": {
+      "A": "Victoria Chase",
+      "B": "Kate Marsh",
+      "C": "Nathan Prescott",
+      "D": "Alyssa Anderson"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Teacher Who Is Also A Famous Photographer?",
+    "answer": "A",
+    "choices": {
+      "A": "Mark Jefferson",
+      "B": "David Madsen",
+      "C": "Raymond Wells",
+      "D": "Michelle Grant"
+    }
+  }
+]

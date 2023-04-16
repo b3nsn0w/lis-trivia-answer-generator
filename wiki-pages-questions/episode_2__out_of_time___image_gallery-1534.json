@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who Took The In-Game Screenshots In The Image Gallery?",
+    "answer": "C",
+    "choices": {
+      "A": "The Game Developers",
+      "B": "The Wiki Page Creator",
+      "C": "A DeviantArt User",
+      "D": "A Professional Photographer"
+    }
+  },
+  {
+    "question": "Which Episode Is The Image Gallery From?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "What Is The Source Of The Images In The Image Gallery?",
+    "answer": "C",
+    "choices": {
+      "A": "The Game's Official Website",
+      "B": "A Fan-Made Website",
+      "C": "A DeviantArt Gallery",
+      "D": "A Social Media Platform"
+    }
+  },
+  {
+    "question": "What Is The Purpose Of The Image Gallery?",
+    "answer": "B",
+    "choices": {
+      "A": "To Showcase Fan Art",
+      "B": "To Provide In-Game Screenshots",
+      "C": "To Display Concept Art",
+      "D": "To Share Memes"
+    }
+  }
+]

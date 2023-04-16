@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Do In The Custodial Room In Episode One?",
+    "answer": "C",
+    "choices": {
+      "A": "She Finds Rachel's Photos",
+      "B": "She Talks To Samuel About The Missing Person Poster",
+      "C": "She Cranks Up The Sprinkler Valve",
+      "D": "She Finds A Silky Scarf"
+    }
+  },
+  {
+    "question": "What Can Max Find In The Custodial Room In Episode Two?",
+    "answer": "B",
+    "choices": {
+      "A": "A Missing Person Poster Of Rachel Amber",
+      "B": "A Box Labeled \"Sammy's Stuff\"",
+      "C": "A Fashion Magazine",
+      "D": "An Axe"
+    }
+  },
+  {
+    "question": "Who Uses The Custodial Room In Blackwell Academy?",
+    "answer": "B",
+    "choices": {
+      "A": "The Principal",
+      "B": "The Janitor",
+      "C": "The Students",
+      "D": "The Teachers"
+    }
+  },
+  {
+    "question": "What Does Max Find In The Custodial Room In Episode Three?",
+    "answer": "C",
+    "choices": {
+      "A": "Rachel's Photos",
+      "B": "A Silky Scarf",
+      "C": "A Box With An Empty Paint Bucket",
+      "D": "A Fashion Magazine"
+    }
+  },
+  {
+    "question": "What Is The Purpose Of The Sprinkler Valve In The Custodial Room?",
+    "answer": "C",
+    "choices": {
+      "A": "To Water The Plants",
+      "B": "To Clean The Room",
+      "C": "To Drench People Outside",
+      "D": "To Put Out Fires"
+    }
+  }
+]

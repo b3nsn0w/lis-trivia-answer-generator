@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What Is Max's Comment On Nathan Prescott's Entry For The Everyday Heroes Contest?",
+    "answer": "A",
+    "choices": {
+      "A": "\"I feel gross even looking at Nathan's work, but he does have some style...\"",
+      "B": "\"Nathan's work is surprisingly good, he might have a chance at winning.\"",
+      "C": "\"I don't understand Nathan's entry, it's too abstract for me.\"",
+      "D": "\"Nathan's entry is terrible, he should stick to photography.\""
+    }
+  },
+  {
+    "question": "Where Is Chloe's Student File Located?",
+    "answer": "C",
+    "choices": {
+      "A": "Inside The Science Lab",
+      "B": "On Jefferson's Table In The Photography Lab",
+      "C": "Inside Principal Wells' Office",
+      "D": "None Of The Above"
+    }
+  },
+  {
+    "question": "What Is Max's Comment On Victoria Chase's Entry For The Everyday Heroes Contest?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Victoria... that is pretty fucking sweet. How can I hate somebody that shoots like that?\"",
+      "B": "\"Victoria's entry is mediocre, she could have done better.\"",
+      "C": "\"I don't like Victoria's entry, it's too pretentious.\"",
+      "D": "\"Victoria's entry is terrible, she should stick to modeling.\""
+    }
+  }
+]

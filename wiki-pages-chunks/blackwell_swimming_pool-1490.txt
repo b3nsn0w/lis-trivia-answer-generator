@@ -1,0 +1,82 @@
+Here is a section of the wiki page for Blackwell Swimming Pool:
+
+#  Blackwell Swimming Pool 
+
+```yaml
+Location
+
+name: Blackwell Swimming Pool
+type: Indoor swimming pool
+location: '[Blackwell Academy](blackwell_academy.md), [Arcadia Bay](arcadia_bay.md)'
+state: Oregon
+appears: >-
+  [Episode 3: Chaos Theory](episode_3__chaos_theory.md)[Episode 4: Dark
+  Room](episode_4__dark_room.md)
+image: Blackwell Pool.png
+```
+
+> We're in the Otters' lair!" - "Big fucking deal. I want that heated water!
+
+**[Maxine Caulfield**, Max](maxine_caulfield____max.md) and [Chloe Price, Chloe](chloe_price__chloe.md) in "[Episode 3: Chaos Theory, Chaos Theory](episode_3__chaos_theory__chaos_theory.md)"
+
+The **Blackwell Academy Swimming Pool** is an outbuilding located on the [Blackwell Academy](blackwell.md) campus. It is an explorable location in the third episode, "[Episode 3: Chaos Theory](chaos_theory.md)", and it is the home to the swim team, the [The Otters](blackwell_otters.md). The pool's [Media:Swimming_pool_hours.png](opening_hours.md) are Monday to Friday, 6am-7am.
+
+## Background 
+Posters around the Blackwell campus state that on Thursday night, the [Vortex Club](vortex_club.md) will be holding an [End of the World Party](_end_of_the_world__party.md) at the pool.
+
+## Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+In this episode, [Chloe Price](chloe.md) and [Maxine Caulfield](max.md) break into the pool by stealing keys from [Raymond Wells](principal_wells.md)' secretary's office. Max can explore both locker rooms, no matter which one she chooses to enter originally. She can also change names on a list for the Vortex Club party, located at the back of the pool behind some equipment, near the back emergency exit. After turning on the lights in the coach's office, Chloe and Max take a dip in the pool together. Once finished with their midnight dip, the girls dry off and get dressed just in time to evade [David Madsen](david.md) or a security guard, who is investigating the break-in. Max and Chloe escape and take off to Chloe's house in [Chloe's Truck](her_truck.md).
+
+## Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+The "End of the World" party, organized by the Vortex Club, takes place at the Blackwell swimming pool. Max and Chloe visit it together, looking for [Nathan Prescott](nathan_prescott.md).
+
+## Rooms 
+The building has male and female locker rooms, showers and toilets. There is also an office room for the Coach, displaying Otters propaganda.
+#
+
+## Girls' Locker Room
+The girls' locker room is much cleaner than that of the boys and has less graffiti. There are three rows of lockers, one on either wall and one in the center that is double-sided. There are benches in between each row of lockers. Max can view three lockers in the girls' locker room: [Victoria Chase](victoria.md)'s, [Kate Marsh](kate.md)'s, and [Brooke Scott](brooke.md)'s. Max can also view the contents of these lockers.
+
+# #
+
+## Lockers and Their Content
+
+Victoria's Locker Locker Room.png|Victoria's Locker
+Victoria's Selfies Locker Room.png|The contents of Victoria's locker: selfies!
+Kate's Locker Locker Room.png|Kate's Locker
+Kate's Bus Ticket Locker Room.png|The contents of Kate's locker: a bus ticket to Portland.
+Brooke's Locker Locker Room.png|Brooke's Locker (slightly open)
+Brooke's Drive-In Pamphlet Locker Room.png|The contents of Brooke's locker: a drive-in pamphlet or ticket.
+
+# #
+
+## Graffiti
+
+Victoria Chase Rulez Graffiti Locker Room.png|"VICTORIA CHASE RULEZ". Located on the half-wall separating the showers from the bathroom.
+Rachel Abides Graffiti Locker Room.png|"RACHEL ABIDES". Located in a stall in the bathroom.
+Otters Eat Beavers Graffiti Locker Room.png|"OTTERS EAT BEAVERS". Located next to a row of lockers attached to the wall.
+Dear Kate Graffiti Locker Room.png|"Dear Kate, I Don't Care. God." Located at the end of the nook where the bathroom stalls are placed.
+Missing Person Poster Locker Room.png|Rachel Amber's missing person poster. While not necessarily graffiti, the flier has been vandalized and is soggy and dirty. It is found on the floor near the garbage can of the bathroom.
+
+#
+
+## Boys' Locker Room
+The boys' locker room is filthy. There are three rows of lockers, one on either wall and one in the center that is double-sided. There are benches in between each row of lockers and posters all over the walls. Four lockers and their contents are viewable to Max: [Nathan Prescott](nathan.md)'s, [Warren Graham](warren.md)'s, [Logan Robertson](logan.md)'s and [Zachary Riggins](zach.md)'s.
+# #
+
+## Lockers and Their Content
+
+Nathan's Locker Locker Room.png|Nathan's Locker
+Nathan's Pills Locker Room.png|The contents of Nathan's locker: pills. The diazepam is prescribed to him, but it is unknown whether the risperidone or the other bottle is prescribed to him.
+Warren and Zach's Lockers Locker Room.png|Warren's and Zach's (open) lockers.
+Warren's Selfie Locker Room.png|The content of Warren's locker: selfie!
+Zach's Phone Locker Room.png|The contents of Zach's locker: his cellphone with Juliet Watson eating ice cream as his background.
+Zach's Sexts Locker Room.png|Zach's phone with his sexts to Victoria pulled up.
+Logan's Locker Locker Room.png|Logan's Locker
+Logan's Note Locker Room.png|The contents of Logan's locker: an apology written on a sticky note to Dana Ward.
+
+# #
+
+
+
+Generate five trivia questions relevant to this section of the page.

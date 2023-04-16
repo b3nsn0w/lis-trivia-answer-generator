@@ -1,0 +1,143 @@
+Here is a section of the wiki page for Episode 2: Out of Time - Choices:
+
+## **Major Choices**
+{| width"100%" align# "center"
+| valign"top" |
+'''Kate's Question**
+* You told Kate to go to the police. - 34%
+* You told Kate to wait for more proof. - **66%**
+|style# "padding-right:100px"|[File:TX MajorChoice Kate Ep2.png](thumb.md)
+|-
+| valign"top" |
+**Kate's Phone Call'''
+* You answered Kate's call. - **81%**
+* You didn't answer Kate's call. - 19%
+|[File:TX MajorChoice PhoneCall.png](thumb.md)
+|-
+| valign# "top" |
+**Max and Frank**
+* You tried to shoot Frank. - **52%**
+* You didn't try to shoot Frank. - 48%
+|style"padding-right:100px"|[File:TX MajorChoice Frank.png](thumb.md)
+|-
+| valign# "top" |
+'''Kate's Fate'''
+* You couldn't save Kate. - 37%
+* You saved Kate's life. - **63%**
+|[File:TX_MajorChoice_KateFate.png](thumb.md)
+|-
+| valign"top" |
+**Blame**
+* You blamed David. - 12%
+* You blamed Nathan. - **71%**
+* You blamed Mr. Jefferson. - 17%
+|style# "padding-right:100px"|[File:TX_MajorChoice_Blame.png](thumb.md)
+|}
+
+#
+
+## **Minor Choices**
+{| width"100%" align# "center"
+| valign"top" |
+'''Max's Plant**
+* You watered your plant. - **71%'''
+* You didn't water your plant. - 29%
+|[File:minorchoice-e2-plant.png](thumb.md)
+|-
+| valign# "top" |
+**Alyssa**
+* You helped Alyssa. - **60%**
+* You didn't help Alyssa. - 40%
+|style"padding-right:100px"|[File:minorchoice-e2-alyssa.png](thumb.md)
+|-
+| valign# "top" |
+**Video Link**
+* You erased the link to Kate's video. - **94%**
+* You left the link to Kate's video. - 6%
+|[File:minorchoice-e2-katelink.png](thumb.md)
+|-
+| valign"top" |
+**Taylor**
+* You were friendly with Taylor. - 46%
+* You weren't friendly with Taylor. - **54%**
+|style# "padding-right:100px"|[File:minorchoice-e2-taylor.png](thumb.md)
+|-
+| valign"top" |
+**Warren & The Movies**
+* You accepted Warren's invitation. - **76%**
+* You rejected Warren's invitation. - 24%
+|[File:minorchoice-e2-warreninvite.png](thumb.md)
+|-
+| valign# "top" |
+**Wall Message**
+* You wrote a message. - **55%**
+* You didn't write a message. - 45%
+|style"padding-right:100px"|[File:minorchoice-e2-maxwashere.png](thumb.md)
+|-
+| valign# "top" |
+**Railtracks**
+* You tampered with the railtracks. - 32%
+* You didn't tamper with the railtracks. - **68%**
+|[File:minorchoice-e2-railtracks.png](thumb.md)
+|-
+| valign"top" |
+**Vortex Club Party**
+* You gained entry to the Vortex Club party. - 49%
+* You didn't gain entry to the Vortex Club party. - **51%**
+|style# "padding-right:100px"|[File:minorchoice-e2-courtney.png](thumb.md)
+|-
+| valign"top" |
+'''Warren's Experiment'''
+* You helped Warren. - 43%
+* You didn't help Warren. - **57%**
+|[File:minorchoice-e2-warrenexperiment.png](thumb.md)
+|-
+| valign# "top" |
+**David and Jefferson**
+* You told on David to Mr. Jefferson. - **76%**
+* You didn't tell on David to Mr. Jefferson. - 24%
+|style"padding-right:100px"|[File:minorchoice-e2-jefferson.png](thumb.md)
+|}
+
+#
+
+## Consequences 
+{{Main|Choices and Consequences#Episode_Two_-_.22Out_of_Time.22|Choices and Consequences#Episode Two}}
+
+# #
+
+## Lisa #2
+
+|-|Watered# Watered
+*Episode 2
+**If Max already watered Lisa, she will say "drink up! it's got electrolytes".
+*Episode 3
+**If Max already watered Lisa, Lisa will drown.
+**If Max did not previously water Lisa, Lisa will live.
+|-|Didn't WaterDidn't Water
+*Episode 2
+**Max will not comment on Lisa's watering.
+*Episode 3
+**If Max already watered Lisa, Lisa will live.
+**If Max did not water Lisa at all, she will die of dehydration.
+
+# #
+
+## Alyssa #2
+
+|-|Warn# Warn
+*Episode 2
+**Max can talk to Alyssa about Warren, nerd culture, and school.
+*Episode 4
+**Contributes to Alyssa reading a Robert Frost quote to Max (2/4, all needed).
+|-|IgnoreIgnore
+*Episode 2
+**Max cannot talk to Alyssa, as she is in too much pain.
+*Episode 4
+**Alyssa will not read a Robert Frost quote to Max.
+
+# #
+
+
+
+Generate five trivia questions relevant to this section of the page.

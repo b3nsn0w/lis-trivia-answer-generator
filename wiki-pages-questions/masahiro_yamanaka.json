@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who is Masahiro Yamanaka?",
+    "answer": "A",
+    "choices": {
+      "A": "A Japanese voice actor",
+      "B": "A video game developer",
+      "C": "A professional athlete",
+      "D": "A movie director"
+    }
+  },
+  {
+    "question": "Which character did Masahiro Yamanaka voice in the Japanese release of Life is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "Max Caulfield",
+      "B": "Chloe Price",
+      "C": "Mark Jefferson",
+      "D": "Nathan Prescott"
+    }
+  },
+  {
+    "question": "What is the name of the Japanese localization of Life is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "Life is Strange: Japan Edition",
+      "B": "Life is Strange: Tokyo Nights",
+      "C": "Life is Strange: Japanese Release",
+      "D": "Life is Strange: Land of the Rising Sun"
+    }
+  },
+  {
+    "question": "What is the Japanese name for Mark Jefferson's character?",
+    "answer": "A",
+    "choices": {
+      "A": "マーク・ジェファソン",
+      "B": "マックス・コールフィールド",
+      "C": "クロエ・プライス",
+      "D": "ネイサン・プレスコット"
+    }
+  },
+  {
+    "question": "What is the Japanese translation of Masahiro Yamanaka's name?",
+    "answer": "B",
+    "choices": {
+      "A": "山中 真尋",
+      "B": "ヤマナカ マサヒロ",
+      "C": "Masahiro Yamanaka",
+      "D": "Mark Jefferson"
+    }
+  }
+]

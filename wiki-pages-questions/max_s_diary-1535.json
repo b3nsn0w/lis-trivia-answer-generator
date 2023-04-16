@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What Did Max Use To Escape From Jefferson's Dark Room?",
+    "answer": "D",
+    "choices": {
+      "A": "A Key",
+      "B": "A Knife",
+      "C": "A Gun",
+      "D": "A Photo"
+    }
+  },
+  {
+    "question": "What Did Max Turn In For The Contest After Warning David About Jefferson?",
+    "answer": "A",
+    "choices": {
+      "A": "A Selfie",
+      "B": "A Landscape Photo",
+      "C": "A Portrait Photo",
+      "D": "A Group Photo"
+    }
+  },
+  {
+    "question": "What Did Max Do To Her Contest Photo After Experiencing A Safe Moment For Herself?",
+    "answer": "B",
+    "choices": {
+      "A": "She Burned It",
+      "B": "She Tore It Up",
+      "C": "She Gave It To Jefferson",
+      "D": "She Gave It To Victoria"
+    }
+  }
+]

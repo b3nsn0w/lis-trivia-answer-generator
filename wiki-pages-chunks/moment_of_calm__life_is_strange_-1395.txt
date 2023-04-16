@@ -1,0 +1,45 @@
+Here is a section of the wiki page for Moment of Calm (Life is Strange):
+
+## Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+{| class"wikitable" style# "border: 1px solid #57333F; background: transparent; width:100%"
+! Location
+! Max's comments
+|-
+| [File:Moc-bench-ep3.jpg](220px.md)Bench outside the dormitory building.||Kate survivedKate survived"I feel so giddy even after [Kate Marsh](kate.md) almost jumped. Maybe it's the leftover adrenaline... But I feel kind of invincible now."
+|-|Kate is dead# Kate is dead"What the hell am I doing out here? [Kate Marsh](kate.md) is dead and I'm sneaking around... This campus looks like a cemetery..."
+|-
+| [File:Moc-morning-ep3.jpg](220px.md)**Morning after [Blackwell Swimming Pool](pool.md) scene(Chloe’s bed in her room).**||Chat between Max and Chloe about last night’s events: 
+
+**Chloe: **"I am so wiped out from last night. But it was awesome."
+**Max: **"I have to ponder what kind of criminal I've become."
+**Chloe: **"Last night was only the tip of the iceberg."
+**Max: **"I have to admit, it was pretty cool to take over the Blackwell gym."
+**Chloe: **"Today the gym, tomorrow the world. We need to step it up."
+**Max: **"We still have to be careful how I use my power... I don't want to get stuck in time."
+
+|-
+| [File:Moc-swing-ep3.jpg](220px.md)Swing in the backyard of Chloe’s house.||"I remember when Chloe and me would take turns in the swing... We would push each other hard so we would fly way up in the air... Chloe always wanted to swing all the way around... I always got scared and would jump off before I flew off... And Chloe is still trying to get high..."
+|}
+
+## Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+{| class"wikitable" style# "border: 1px solid #57333F; background: transparent; width:100%"
+! Location
+! Max's comments
+|-
+| [File:Moc-spooltable-ep4.jpg](220px.md)Spool table in [Chloe's Room#Alternate_Timeline](alternativechloe_s_room.md) upstairs.||"I'm still overwhelmed by this [Alternative Timeline](new_reality.md). And I feel so guilty for putting Chloe and her family through this. I could give Chloe the choice of keeping [William Price](william.md) alive, but that would be cruel. But then I see that they're a family again, and... who am I to judge?"
+|-
+| [File:Moc-chloesbed-ep4.jpg](220px.md)Return to the [Timeline](original_timeline.md)(Chloe’s bed).||Accepted Chloe's requestAccepted Chloe's request"Welcome back to the real world, Max… I don't think I can ever tell Chloe about what happened. How can I explain to my best friend that I put her in a wheelchair just to euthanize her... and then I had to let her father die again? So... no fucking way. Chloe has enough excuses to hate the world. But if my [The Storm](tornado.md) vision is true, then we might not have a world after this week…"
+|-|Refused Chloe's request# Refused Chloe's request"Welcome back to the real world, Max… I don't think I can ever tell Chloe about what happened. How can I explain to my best friend that I put her in a wheelchair, then refused to honor her dying request... Then I had to let her father die again? So... no fucking way. Chloe has enough excuses to hate the world. But if my [The Storm](tornado.md) vision is true, then we might not have a world after this week…"
+|-
+| [File:Moc-stool-ep4.jpg](220px.md)Stool near the kitchen in Chloe’s house.||"Somehow I existed in this whole other reality, but I don't know what happened... The more I use my power, the more I see how little control I have over what happens. Now Max Caulfield exists in two or maybe three different realities... How can I have a destiny?"
+Accepted Chloe's requestAccepted Chloe's request"If these alternate lives exist, I hate the thought of William and [Joyce](joyce.md) finding Chloe like that. Thinking about all these lifelines almost makes my head hurt worse than the rewind."
+|-|Refused Chloe's request# Refused Chloe's request"I wonder if Chloe would hate me for keeping her alive... but I couldn’t do it. Thinking about all these lifelines almost makes my head hurt worse than the rewind."
+|-
+| [File:Moc-hospitalchair-ep4.png](220px.md)Chair inside Kate’s [Hospital](hospital.md) room(available only if Kate is alive).||"It’s amazing to just sit here quiet with Kate again… If I couldn’t freeze time, would she really have jumped anyway? I don’t think I’ll ever know how much destiny I’m changing… But who ever said we only have a single fate? Time travel is such a mindfuck…"
+|-
+| [File:Moc-partychair-ep4.jpg](220px.md)Chair inside the VIP section of the[End of the World Party](end_of_the_world_party.md).||"Kate (almost) dead... [Rachel Amber](rachel.md) dead... Enter the [Vortex Club](vortex_club.md). Look at these entitled assholes... they don’t give a shit about anybody. If that tornado came right now, I would just sit here and watch for a while. But I have to make sure Chloe doesn’t go on her own rampage… I hate feeling this way... dark and angry…"
+|}
+
+
+
+Generate five trivia questions relevant to this section of the page.

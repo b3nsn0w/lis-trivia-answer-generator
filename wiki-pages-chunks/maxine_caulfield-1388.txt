@@ -1,0 +1,33 @@
+Here is a section of the wiki page for Maxine Caulfield:
+
+## Abilities 
+***[Rewind](temporal_rewind.md)**: Max can rewind time to a limited degree. She herself is unaffected by this, remaining in a fixed position while time flows backwards around her, and she retains all recollection of what happened afterwards. As a side-effect of this, Max may seem to suddenly disappear and/or appear out of nowhere to those under the effects of her powers. Any item(s) on her person before time traveling are also kept with her after the fact. As a sort of focus for her powers, Max normally extends her hand out to rewind time.
+***Temporal Jump**: Max once "jumps" (turns back Time) back in time into a specific situation. This is the instance when she discovers her ability to rewind time after witnessing Nathan kill Chloe in a fit of rage. The first and only instance occurs, when she suddenly finds herself back in class, several minutes prior to the incident. It's likely that this a deeper manifestation of her rewind power that requires a lot of energy and only when experiencing that kind of shock was she able to do this.
+***Temporal Freeze**:Although freezing time was implemented as a game mechanic to give the player time to get Max into the dormitory building before Kate jumped, it is still a power that Max has, as stated by [Raoul Barbet](raoul_barbet.md) in [https://www.gdcvault.com/play/1023468/-Life-is-Strange-Case this video] from the Game Developers Conference (GDC) in 2016 - from the 22:02 time stamp. A visual cue that Max is using her powers is her constantly extended right hand that remains in front of her as she walks slowly towards the building. Max once stops the flow of time. The first and only instance occurs when she attempts to save Kate Marsh from committing suicide. She is unaffected by this and is still able to move around normally, but the amount of energy to maintain it was extremely harsh on her body, as seen by her being too weak to use her rewind power after she made it up to the roof. Similar to when she is reversing time, Max held her hand out during the duration of time being frozen.
+***Chronoskimming** : Max can transfer her consciousness back to the time period when the photo was taken in order to [Timestream](change_the_past.md)by focusing on a photograph she took or is in. However, she is unable to pass the 'photographic bounds' of the background while using the ability. The Max of the past seems to only remember the altered timeline (?).
+*'''[Max's Visions](precognition.md)''': Max gets visions through which she can deduct the future from to some extent. In these visions, she is able to witness Arcadia Bay being destroyed by an oncoming storm. It is possible that they aren't just visions but rather 'time jumps'.
+
+#
+
+## Limits
+
+*Max seemingly needs to focus to use her powers at will, seeing as when she was under the effects of anesthesia she didn't have the strength to rewind time. The excessive use of her powers or pushing their limits seems to be able to lead to disorientation, nosebleeds, and even unconsciousness. Energy is also required to use her powers and if significantly exhausted Max doesn't have the strength to alter time. However, gameplay-based use of her powers does not seem to cause any negative effects aside from the limits.
+
+#
+
+## Consequences
+* Whenever Max attempts to change major events in the past, she causes significant changes in hers' and everyone else's future. Chloe once explains this to be "chaos theory", meaning if something from the past changes when its potentially *supposed* to happen, somethings in the future *will* change, whether it being physically, psychically, historically (in a downplayed case), and - on a larger scale - atmospherically.
+
+## Equipment
+*'''[Max's Camera](camera.md):'* As an aspiring photographer, Max is almost never without her instant film camera. In Episode 1, she accidentally breaks her camera twice (first when she discovers her power, then when Chloe saves her from Nathan). When she fails to repair it, Chloe offers her a spare one. This becomes her camera for the remainder of the series. *See [Optional Photos](here.md) for a list of optional photos Max can take.''
+***Cell Phone:** Max keeps in touch with her friends and family using [Max's Messages](text_messages.md).
+*'''[Max's Diary](diary.md):''' Max keeps her diary, details on some characters, [Max's Notes](notes.md), [Optional Photos](optional_photos.md), and SMS message records in her [Max's Journal](journal.md). Max writes entries in her journal at periodic intervals.
+*'''[Max's Computer](computer.md):** In Episode 2, Max uses her laptop to research and learn about time and her power. She also uses it to access social media and her emails.
+***Pipe Bomb:''' In Episode 3, with help from Warren, Max constructs an improvised explosive device. She uses it to break into the Principal's office, then rewinds time to open the door from the other side without sounding the alarm.
+***Knife:** In Episode 3, when searching in Frank Bowers's RV for clues, Max uses Frank's kitchen knife to pry open one vent inside the RV where Frank hid the letters Rachel sent to him. If Max breaks the knife to open an empty vent, she may rewind time to restore the knife and open another vent.
+***Crowbar:** In Episode 2, Max can find a crowbar above a small slope where Chloe is stuck at the railroad tracks. She can try using the crowbar to attempt to free Chloe with no success, to topple over the heavy roll of cable and damage the train tracks to free Chloe or to force open the small office door nearby. In Episode 4, Max can also use a crowbar to break open a padlock on David's locker if she can't find the key or remember the padlock combination number.
+***Fire Extinguisher:** In Episode 4, Max uses a fire extinguisher to break open the door to Nathan's room. She may or may not rewind to fix the lock, which causes different messages from Nathan. [Unused Content](unused_content.md) also indicated that there was a minor consequence planned for her action.
+
+
+
+Generate five trivia questions relevant to this section of the page.

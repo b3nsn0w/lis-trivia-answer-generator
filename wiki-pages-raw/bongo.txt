@@ -1,0 +1,64 @@
+= Bongo =
+
+{{Introquote|Dad got Bongo from the rescue shelter. Then he got run over by a car. Moral of the story: no one's ever really rescued.|[[Chloe Price (Before the Storm)|Chloe]]'s comment in "[[Episode 2: Brave New World|Brave New World]]"}}
+{{Infobox Character
+|name = Bongo
+|gender = Male
+|age = 8+
+|born = 1999
+|died = 2008
+|causeofdeath = Hit by a passing car
+|alsoknown = Super Kitty, Pogo the Pirate, Kitty Cat<br/><small>(by [[Chloe Price|Chloe]] and [[Maxine Caulfield|Max]])</small>
+|hair = White and gray
+|friends = [[Maxine Caulfield|Max Caulfield]]
+|image = Bongo.jpg
+|eyes = Black
+|relatives = [[William Price]], [[Joyce Price]], [[Chloe Price]] <small>(owners)</small>
+|appearance = [[Episode 1: Chrysalis]] <small>(photos)</small>}}'''Bongo''' is [[Chloe Price]]'s deceased cat. He was a gift from her parents, [[William Price|William]] and [[Joyce Price|Joyce]], and lived from 1999 to 2008. He was always part of Chloe and her friend [[Maxine Caulfield|Max Caulfield]]'s childhood adventures and superhero stories. After he got killed by a car, Chloe and Max made a gravestone for him located in Chloe's garden.
+
+== Before the Storm ==
+* Bongo can be mentioned in ''[[Life is Strange: Before the Storm]]'', in [[Episode 1: Awake|Episode 1]] during the [[Two Truths and a Lie]] game.
+* In "[[Farewell]]", depending on the player's choices, Chloe may draw a picture of Max with Bongo after digging up the [[Time Capsule|time capsule]].
+
+== Gallery ==
+=== Life is Strange ===
+<gallery spacing="small" captionalign="center" position="center" bordercolor="transparent" orientation="none" hideaddbutton="true">
+319630_screenshots_2015-02-06_00017.jpg|Chloe and Max's space adventure with "Super Kitty"
+319630_screenshots_2015-06-14_00002.jpg|Chloe and Max's gangster adventure with "Kitty Cat"
+Chloe and William Photo2.png|Chloe, William and Bongo
+bongo-grave-memorial.png|Bongo's gravestone
+</gallery>
+
+=== Before the Storm ===
+<gallery spacing="small" captionalign="center" position="center" bordercolor="transparent" orientation="none" hideaddbutton="true">
+554620_20181224170958_1.png|Photo of Bongo in Chloe's locker in “Brave New World”
+554620_20181225114607_1.png|Bongo as Pogo the Pirate in Chloe and Max’s sketchbook in “Farewell”
+Fwscratchpad maxandbongodrawing.png|Chloe's drawing of Max and Bongo
+</gallery>
+
+{{Character Navbox}}
+
+[[de:Bongo]]
+[[es:Bongo]]
+[[fr:Bongo]]
+[[pl:Bongo]]
+[[pt-br:Bongo]]
+[[ru:Бонго]]
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Characters (Life is Strange)]]
+[[Category:Animals (Life is Strange)]]
+[[Category:Deceased]]
+[[Category:Animals]]
+[[Category:Farewell Characters]]
+[[Category:Male Characters (Life is Strange)]]
+[[Category:Minor Characters]]
+[[Category:Minor Characters (Life is Strange)]]
+[[Category:Before the Storm]]
+[[Category:Minor Characters (Before the Storm)]]
+[[Category:Animals (Before the Storm)]]
+[[Category:Mentioned Characters (Life is Strange)]]
+[[Category:Mentioned Characters (Before the Storm)]]
+[[Category:Mentioned Characters]]
+[[Category:Male Characters (Before the Storm)]]
+[[Category:Life is Strange]]

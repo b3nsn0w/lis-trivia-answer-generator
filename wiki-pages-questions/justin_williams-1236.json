@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is Justin's Crush In Blackwell Academy?",
+    "answer": "D",
+    "choices": {
+      "A": "Rachel Amber",
+      "B": "Maxine Caulfield",
+      "C": "Victoria Chase",
+      "D": "Dana Ward"
+    }
+  },
+  {
+    "question": "What Does Justin Ask Max To Name In Order To Impress Him?",
+    "answer": "A",
+    "choices": {
+      "A": "Skateboard Tricks",
+      "B": "Car Models",
+      "C": "Football Teams",
+      "D": "Music Bands"
+    }
+  },
+  {
+    "question": "What Does Justin Suggest To Chloe When They Meet In Episode 4?",
+    "answer": "B",
+    "choices": {
+      "A": "To Go To The Beach",
+      "B": "To Hang Out With His Friends At The Park",
+      "C": "To Go To The Vortex Club Party",
+      "D": "To Visit The Prescott Estate"
+    }
+  },
+  {
+    "question": "In Which Ending Does Justin Presumably Die?",
+    "answer": "B",
+    "choices": {
+      "A": "Sacrifice Chloe",
+      "B": "Sacrifice Arcadia Bay",
+      "C": "Both Endings",
+      "D": "Neither Ending"
+    }
+  }
+]

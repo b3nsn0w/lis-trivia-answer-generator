@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who is Chloe's best friend since childhood?",
+    "answer": "C",
+    "choices": {
+      "A": "Rachel Amber",
+      "B": "Warren Graham",
+      "C": "Maxine Caulfield",
+      "D": "Justin Williams"
+    }
+  },
+  {
+    "question": "What is the name of Chloe's father?",
+    "answer": "B",
+    "choices": {
+      "A": "David Madsen",
+      "B": "William Price",
+      "C": "Aaron Price",
+      "D": "Frank Bowers"
+    }
+  },
+  {
+    "question": "What is the name of Chloe's pet cat who was killed by a car in 2008?",
+    "answer": "A",
+    "choices": {
+      "A": "Bongo",
+      "B": "Whiskers",
+      "C": "Fluffy",
+      "D": "Mittens"
+    }
+  },
+  {
+    "question": "Who is Chloe's drug dealer?",
+    "answer": "B",
+    "choices": {
+      "A": "Warren Graham",
+      "B": "Frank Bowers",
+      "C": "Justin Williams",
+      "D": "Trevor"
+    }
+  }
+]

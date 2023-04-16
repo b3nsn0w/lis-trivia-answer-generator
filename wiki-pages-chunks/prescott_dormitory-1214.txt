@@ -1,0 +1,68 @@
+Here is a section of the wiki page for Prescott Dormitory:
+
+#  Prescott Dormitory 
+
+```yaml
+Location
+
+image: Life3.png
+type: Dormitory
+location: '[Blackwell Academy](blackwell_academy.md), [Arcadia Bay](arcadia_bay.md)'
+state: Oregon
+appears: >-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)[Episode 2: Out of
+  Time](episode_2__out_of_time.md)[Episode 3: Chaos
+  Theory](episode_3__chaos_theory.md)[Episode 4: Dark
+  Room](episode_4__dark_room.md)[Episode 5: Polarized](episode_5__polarized.md)
+  (nightmare)
+```
+
+> 'The Prescott Dormitory.' Good Lord, Nathan's family owns my dorm?!
+
+**[Maxine Caulfield**, Max](maxine_caulfield____max.md)'s monologue when she looks at the dormitory plaque in [Episode 1: Chrysalis, Chrysalis](episode_1__chrysalis__chrysalis.md)
+
+The **Prescott Dormitory** is the name of the dormitory of [Blackwell Academy](blackwell_academy.md). It is owned by [Nathan Prescott](nathan_prescott.md)'s [Prescott Family](family.md), having been generously donated in 1998. Within the same building, there are separate living spaces for male and female students. Janitor [Samuel Taylor](samuel_taylor.md)'s [Custodial Room](custodial_room.md) is located to the left of the dormitory entrance. On the dormitory grounds in front of the building's entrance, there is the mysterious [Native American](native_american.md) [Tobanga Totem](tobanga_totem.md).
+
+## The Girls' Dorm 
+* Rooms 217 - 228
+* Hallway
+* TV Lounge (non-explorable)
+* Vending Room (non-explorable)
+* Girls Toilet (non-explorable)
+* Shower Room
+
+[File:Blackwell Academy Girls Dormitory.jpg](thumb.md)
+
+#
+
+## Hallway 
+In the hallway, there are several notice boards, as well as individual slates for each dorm room. Most of the posters on the walls are related to social events within the school, and notices for the students. There are posters also outlining rules, as the posters in the girls' dorm proclaim "No Boys Allowed". The slates of each room occasionally change in the dorm; for example after [Kate Marsh](kate_marsh.md)'s incident, there are encouraging messages rather than graffiti or slander.
+
+At the end of the hallway, a staircase leads down to the lower floor. Only a small section of these stairs is visible in the game.
+
+LiS1-Ep1-DormStairs-freecam-01.png|What the stairs look like outside the bounds of the game.{{FreecamTT}}
+LiS1-Ep1-DormStairs-freecam-02.png|What the exit door looks like outside the bounds of the game.{{FreecamTT}}
+
+#
+
+## Shower Room 
+This location is first accessed in [Episode 2: Out of Time](episode_2.md), in the morning as [Maxine Caulfield](max.md) gets ready for the day. She showers, and witnesses Kate being hassled by [Victoria Chase](victoria.md), [Courtney Wagner](courtney_wagner.md) and [Taylor Christensen](taylor_christensen.md). The plumbing is not the best, as the water becomes cold as soon as anyone turns on a sink tap and one of the shower heads is out of order. The shower room is also available to explore in the [Episode 3: Chaos Theory](third_episode.md), as Max can speak to Taylor about Victoria sneaking out. During [Max's Nightmare](max_s_nightmare.md) section in [Episode 5: Polarized](episode_5.md), Max may find a key with [Dana Ward](dana_ward.md)'s room number on a table outside the shower room after seeing Kate enter her room and jump off into an empty space inside. After entering [Dana's Room](dana_s_room.md), [Rachel Amber](rachel_amber.md)'s room and [Victoria's Room](victoria_s_room.md), Max will also see a group of giant squirrels outside the window next to the shower room door. Max may take an [Optional Photos](optional_photo.md) of this group of giant squirrels.
+
+#
+
+## Bathroom 
+There is a toilet which is unexplorable throughout the game, which is only opened during the morning of the second episode as someone throws a roll of toilet paper at an unsuspecting [Alyssa Anderson](alyssa_anderson.md). Max can rewind and intervene with the event. Max may also open the door and enter it during her nightmare section in episode 5, but it will lead nowhere and return Max as her current character to the dormitory entrance.
+
+#
+
+## Individual Rooms 
+* [Max's Room](max_s_room.md)
+* [Victoria's Room](victoria_s_room.md)
+* [Kate's Room](kate_s_room.md)
+* [Dana's Room](dana_s_room.md)
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Easter Egg Hinting At Life Is Strange 2 Found In The Super Comic Store Pamphlet?",
+    "answer": "A",
+    "choices": {
+      "A": "A Quote About Horses",
+      "B": "A QR Code",
+      "C": "A Picture Of A Train",
+      "D": "A Map Of Oregon"
+    }
+  },
+  {
+    "question": "What Is The Significance Of The Date \"09/10/2013\" Found On Chris's Height Chart?",
+    "answer": "C",
+    "choices": {
+      "A": "It Is The Release Date Of The Awesome Adventures Of Captain Spirit",
+      "B": "It Is The Date Of Chris's Birthday",
+      "C": "It Is A Reference To The Third Episode Of The Original Life Is Strange",
+      "D": "It Is The Date Of Charles's Death"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Photographer Who Inspired Michel Koch For Life Is Strange 2?",
+    "answer": "A",
+    "choices": {
+      "A": "Mike Brodie",
+      "B": "Raoul Barbet",
+      "C": "Toby Palm",
+      "D": "John Francis"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Only Life Is Strange Franchise Game That Doesn't Have \"Collectible Mode\"?",
+    "answer": "C",
+    "choices": {
+      "A": "Life Is Strange",
+      "B": "Life Is Strange 2",
+      "C": "The Awesome Adventures Of Captain Spirit",
+      "D": "Before The Storm"
+    }
+  }
+]

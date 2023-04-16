@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Say To Victoria When She Is Denied Entry To The Vortex Club Party?",
+    "answer": "A",
+    "choices": {
+      "A": "\"I'm on the guest list.\"",
+      "B": "\"I'm here to see Nathan.\"",
+      "C": "\"I'm with the press.\"",
+      "D": "\"I'm lost, can you help me?\""
+    }
+  },
+  {
+    "question": "Who Does Max Blame For Dosing Kate With Drugs?",
+    "answer": "B",
+    "choices": {
+      "A": "Victoria",
+      "B": "Nathan",
+      "C": "Mr. Jefferson",
+      "D": "Max herself"
+    }
+  },
+  {
+    "question": "What Does Victoria Say Is The Reason She Is At Blackwell?",
+    "answer": "B",
+    "choices": {
+      "A": "To become a president",
+      "B": "To become a photographer",
+      "C": "To become a teacher",
+      "D": "To become a writer"
+    }
+  },
+  {
+    "question": "What Does Max Say To Victoria About Her Talent?",
+    "answer": "C",
+    "choices": {
+      "A": "\"You have no talent.\"",
+      "B": "\"You have some talent.\"",
+      "C": "\"You have a lot of talent.\"",
+      "D": "\"You have too much talent.\""
+    }
+  },
+  {
+    "question": "What Does Victoria Say About The Art Game?",
+    "answer": "C",
+    "choices": {
+      "A": "\"It's easy.\"",
+      "B": "\"It's fun.\"",
+      "C": "\"It's brutal.\"",
+      "D": "\"It's boring.\""
+    }
+  }
+]

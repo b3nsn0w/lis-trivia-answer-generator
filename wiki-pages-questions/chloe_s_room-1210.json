@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is the name of the soft drink brand referenced by the \"Pr. Amaury\" soda cans in Chloe's room?",
+    "answer": "A",
+    "choices": {
+      "A": "Dr. Pepper",
+      "B": "Coca-Cola",
+      "C": "Pepsi",
+      "D": "Mountain Dew"
+    }
+  },
+  {
+    "question": "What is the significance of the snow doe that sits on the mantelpiece in the 2008 Price household?",
+    "answer": "C",
+    "choices": {
+      "A": "It belonged to Chloe",
+      "B": "It belonged to Max",
+      "C": "It belonged to William",
+      "D": "It belonged to Rachel"
+    }
+  },
+  {
+    "question": "What is the name of the Vortex Club party where Nathan drugged Kate?",
+    "answer": "A",
+    "choices": {
+      "A": "The 4th",
+      "B": "The 5th",
+      "C": "The 6th",
+      "D": "The 7th"
+    }
+  }
+]

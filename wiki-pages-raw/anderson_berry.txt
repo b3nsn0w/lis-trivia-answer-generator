@@ -1,0 +1,79 @@
+= Anderson Berry =
+
+{{DONTNODWiki}}
+{{Introquote|There she is, Super Maxine. That's your new nickname around the Bay. Sorry, but you did earn it. We're all real proud of you for helping Kate down.|Anderson in "[[Episode 3: Chaos Theory|Chaos Theory]]" (determinant)}}
+{{Infobox Character
+|name = Anderson Berry
+|image = Officer Berry.png
+|died = October 11, 2013 <small>(determinant)</small>
+|causeofdeath = Killed by the [[storm]] <small>(presumed, determinant)</small>
+|gender = Male
+|hair = Black
+|eyes = Brown
+|relatives = [[Andy Berry]] <small>(son)</small>
+|friends = [[David Madsen]]
+|profession = Police Officer
+|affiliation = [[Arcadia Bay Police Department]]
+|appearance = '''Life is Strange:'''<br>[[Episode 2: Out of Time]] <small>(determinant)</small><br />[[Episode 3: Chaos Theory]]<br />[[Episode 5: Polarized]]<br />'''Before the Storm:'''<br>"[[Farewell]]"
+|voice = [[Don McManus]] <small>(uncredited)</small>
+}}
+Officer '''Anderson Berry''' is a resident of [[Arcadia Bay]] and a member of the [[Arcadia Bay Police Department|local police force]]. He is also keeping an eye on [[Nathan Prescott]] as a side job as a favor to Nathan's father, [[Sean Prescott]]. He can be spoken to in the [[Two Whales Diner]] during Episode 3, "[[Episode 3: Chaos Theory|Chaos Theory]]."
+
+== Episode Two - "[[Episode 2: Out of Time|Out of Time]]" ==
+Following the death of [[Kate Marsh]], an official investigation is organized. Officer Berry is present in [[Raymond Wells|Principal Wells]]' [[Principal Wells' Office|office]] at the end of the episode, taking notes for the police inquiry. After hearing the statements of all those involved, the principal urges [[Maxine Caulfield|Max Caulfield]], [[Mark Jefferson]], [[Nathan Prescott]] and [[David Madsen]] to cooperate with him while the investigation was ongoing.
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="150" captionalign="center" position="center">
+LiS1-Ep2-Berry_present.png|Officer Berry is only present if Kate dies.
+LiS1-Ep2-Berry_NotPresent.png|Officer Berry is not present if Kate lives.
+</gallery>
+
+== Episode Three - [[Episode 3: Chaos Theory|"Chaos Theory"]] ==
+The next morning, Max will meet Officer Berry in the [[Two Whales Diner]], who is sitting at the counter. Regardless of the outcome, Berry commends Max for her conduct during the previous day. Max finds out that he is working for the [[:Category:Prescott Family|Prescott family]] by helping to keep an eye on Nathan Prescott. Max may also find out about [[Frank Bowers]]'s history with dog fighting and that he came to own [[Pompidou]] by rescuing him from an animal fight ring. Officer Berry speculates that David will not be working at [[Blackwell Academy]] for much longer, given his instability.
+
+While searching through David's laptop, Max will find out that Officer Berry was the reporting officer in an incident with [[Rachel Amber]] where she was picked up for possession of a controlled substance.
+
+== Episode Four - "[[Episode 4: Dark Room|Dark Room]]" ==
+If Max allows [[Chloe Price]] to steal the money from the handicapped fund, Officer Berry will send Chloe an email, asking her to come to the [[Arcadia Bay Police Department|police station]] the following Monday. The printed email will be lying next to Chloe's jacket in [[Chloe's Room|her room]].
+
+== Episode Five - "[[Episode 5: Polarized|Polarized]]" ==
+As Max is trying to reach the diner while the [[storm]] is coming towards the town, Officer Berry's body can be seen outside near the alleyway.
+
+After focusing on [[Warren Graham]]'s photo to prevent Chloe's death at the hands of Jefferson, Chloe and Max report their investigations to David. David then joins forces with Officer Berry and the [[Diner Cop]] to arrest Jefferson the next day. It is unknown whether Officer Berry survived the storm in this timeline.
+
+He also appears in the diner sequence of [[Max's Nightmare|Max's nightmare]], standing near the Diner Cop and slightly holding out his right hand.
+
+If Max chooses to sacrifice Chloe, Officer Berry will be seen arresting Jefferson in front of Blackwell Academy's main entrance. If Max chooses to sacrifice Arcadia Bay, he is presumed to be among the town's casualties.
+
+== Before the Storm ==
+At the end of the "[[Farewell]]" bonus episode, he can be seen at the background accompanying [[Joyce Price (Before the Storm)|Joyce Price]] to their house after [[William Price (Before the Storm)|William]]'s fatal car accident.
+
+== Trivia ==
+* [[File:Deputy Andy Brennan Twin Peaks - Officer Anderson Berry.jpg|thumb|192x192px|Deputy Andy in the original ''Twin Peaks'' series from 1989.]] Officer Berry appears to be modeled after deputy [http://twinpeaks.wikia.com/wiki/Andy_Brennan Andy Brennan] from ''Twin Peaks''. This is very likely considering the fact that there are a lot of [[References (Life is Strange)#Twin Peaks|''Twin Peaks'' references]] in ''Life is Strange. ''Apart from general similar looks, they share the same first name (Anderson, shortened to Andy) and even the prominent mole on the exact same spot, on the right, slightly above the mouth.
+* The audio files for Episode 3 contain a file called "VO_E3_6B.STM_pck-0000000043", featuring Officer Berry's voice: "Since you know so much about episode 2, maybe you should tell me what's going on? I sure hope you're not proud of yourself for playing a leaked, incomplete game, and, if you do it again, next time you roll through Arcadia Bay might be your last time. Choose wisely." This is probably related due to the [[Out of Time (Leaked Build)|leak of "Out of Time"]] before release.
+
+== Gallery ==
+<gallery widths="200px" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+Officer_Berry_diner.png|Officer Berry talking to Max in the diner.
+Officerberrydead.jpg|Officer Berry dead near a car in the storm.
+vlcsnap-2016-09-10-20h50m27s977.png|Officer Berry in Max's nightmare.
+</gallery>
+
+{{Character Navbox}}
+
+[[de:Anderson Berry]]
+[[es:Oficial Berry]]
+[[pl:Anderson Berry]]
+[[pt-br:Anderson Berry]]
+[[ru:Андерсон Бэрри]]
+[[Category:Characters]]
+[[Category:Male Characters]]
+[[Category:Minor Characters]]
+[[Category:Characters (Life is Strange)]]
+[[Category:Episode 2: Out of Time Characters]]
+[[Category:Episode 3: Chaos Theory Characters]]
+[[Category:Episode 5: Polarized Characters]]
+[[Category:Male Characters (Life is Strange)]]
+[[Category:Male Characters (Before the Storm)]]
+[[Category:Farewell Characters]]
+[[Category:Minor Characters (Life is Strange)]]
+[[Category:Minor Characters (Before the Storm)]]
+[[Category:Life is Strange]]

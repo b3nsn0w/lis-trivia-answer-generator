@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Award Did Life is Strange Win in the United States?",
+    "answer": "B",
+    "choices": {
+      "A": "iOS Editor's Choice Award",
+      "B": "Mac Game of the Year",
+      "C": "Metascore of 83",
+      "D": "10/10 from Darkzero"
+    }
+  },
+  {
+    "question": "What Did Touch Arcade's Review Praise About the iOS Port of Life is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "The touch controls",
+      "B": "The resolution of assets",
+      "C": "The lip syncing",
+      "D": "The lack of proper controller support"
+    }
+  },
+  {
+    "question": "What Did Destructoid's Port Report Author Criticize About the iOS Port of Life is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "The presentation",
+      "B": "The controlling of Max's movement",
+      "C": "The visual issues",
+      "D": "The lack of proper controller support"
+    }
+  },
+  {
+    "question": "What Was One of the Main Challenges Faced by the Developers of Life is Strange for the Mobile Port?",
+    "answer": "B",
+    "choices": {
+      "A": "Developing photomode",
+      "B": "Transferring content and logic from the original game to UE4",
+      "C": "Developing Imessage stickers",
+      "D": "Developing unique mobile functionality"
+    }
+  }
+]

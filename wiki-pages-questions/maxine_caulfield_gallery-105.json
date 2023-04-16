@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Whose concept art is featured in the image MaxFashionableConcept.jpg?",
+    "answer": "A",
+    "choices": {
+      "A": "Edouard Caplain",
+      "B": "Robyn Lau",
+      "C": "Jeff Matsuda",
+      "D": "Xavier Thomas"
+    }
+  },
+  {
+    "question": "What type of clothing is Max wearing in the image MaxSleepwearConcept.jpg?",
+    "answer": "A",
+    "choices": {
+      "A": "Pajamas",
+      "B": "Dress",
+      "C": "Swimsuit",
+      "D": "Hoodie"
+    }
+  },
+  {
+    "question": "Who is the artist responsible for the concept art in this section of the gallery?",
+    "answer": "A",
+    "choices": {
+      "A": "Edouard Caplain",
+      "B": "Robyn Lau",
+      "C": "Jeff Matsuda",
+      "D": "Xavier Thomas"
+    }
+  },
+  {
+    "question": "Which image in this section of the gallery features Max with another character?",
+    "answer": "A",
+    "choices": {
+      "A": "MaxNormalRachelConcept.jpg",
+      "B": "MaxSleepwearConcept.jpg",
+      "C": "MaxFashionableConcept.jpg",
+      "D": "None of the above"
+    }
+  }
+]

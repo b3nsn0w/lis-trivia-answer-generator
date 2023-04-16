@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What Happens If Max Disturbs The Bird's Nest And Sides With Chloe?",
+    "answer": "A",
+    "choices": {
+      "A": "Joyce Will Text Max A Picture Of The Destroyed Nest",
+      "B": "Joyce Will Not Text Max",
+      "C": "Max Will Lament Trapping The Bird In The House",
+      "D": "Nathan Will Message Max, Threatening To Take Away Her Scholarship"
+    }
+  },
+  {
+    "question": "What Happens If Max Breaks Open Nathan's Room And Leaves?",
+    "answer": "A",
+    "choices": {
+      "A": "Nathan Will Message Max, Threatening To Take Away Her Scholarship",
+      "B": "Nathan Will Not Message Max",
+      "C": "Warren Will Text Max, Thanking Her And Saying He'll Never Erase The Message",
+      "D": "Warren Will Not Text Max"
+    }
+  },
+  {
+    "question": "What Happens If Max Steps In During The Fight Between Warren And Nathan?",
+    "answer": "B",
+    "choices": {
+      "A": "Nathan Will Keep His Gun",
+      "B": "Chloe Will Take Nathan's Gun, Allowing Her To Kill Or Hurt Frank If She Didn't Have David's Gun",
+      "C": "Daniel Will Be Standing Next To Brooke At The Vortex Club Party",
+      "D": "Frank Will Be Depressed Because She Was The One Who Killed Frank"
+    }
+  }
+]

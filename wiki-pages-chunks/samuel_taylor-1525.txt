@@ -1,0 +1,79 @@
+Here is a section of the wiki page for Samuel Taylor:
+
+#  Samuel Taylor 
+
+```yaml
+Character
+
+name: Samuel Taylor
+image: Samuel-The-Janitor.png
+gender: Male
+hair: Black (graying)
+eyes: Dark brown
+friends: '[Michelle Grant](michelle_grant.md)[Maxine Caulfield'
+Max Caulfield](maxine_caulfield__max_caulfield.md) (determinant): ''
+profession: Janitor
+affiliation: '[Blackwell Academy](blackwell_academy.md)'
+appearance: >-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)[Episode 2: Out of
+  Time](episode_2__out_of_time.md)[Episode 3: Chaos
+  Theory](episode_3__chaos_theory.md)
+
+  [Episode 4: Dark Room](episode_4__dark_room.md)[Episode 5:
+  Polarized](episode_5__polarized.md)
+voice: '[Derek Phillips](derek_phillips.md) (uncredited)'
+died: October 11, 2013 (presumed, determinant)
+alsoknown: >-
+  SammyThere is a box in the janitorial room with "Sammy" on it.
+
+  DexterThis is a nickname apparently given by the residents of the boys'
+  dormitory, as there is a scribble on the map on the dormitory wall that says,
+  "Samuel
+Dexter (TV series): *
+Dexter: *
+```
+
+> Samuel, do you think that we each have a destiny?"
+"Yes, I do, Max. In many different lifetimes...
+
+**[Maxine Caulfield**, Max](maxine_caulfield____max.md) and Samuel in "[Episode 4: Dark Room, Dark Room](episode_4__dark_room__dark_room.md)"
+"; a reference to the psychopathic protagonist from the self-titled TV series.
+Samuel da Vinci (by [Maxine Caulfield](max.md))
+|causeofdeath #  Killed by [The Storm](the_storm.md) (presumed, determinant)}}
+
+**Samuel Taylor** is the janitor at [Blackwell Academy](blackwell_academy.md). Some people find him creepy, but [Maxine Caulfield](max_caulfield.md) enjoys his peculiar behavior.
+
+: ''See here for Samuel's [Custodial Room](custodial_room.md)''.
+
+## Personality 
+Samuel is a very mysterious person. Max comments that he's kind of weird, but she likes that about him. He speaks cryptically in a poetical and metaphorical way and often refers to himself in the third person. He also believes in supernatural phenomena and has non-specific dreams that give him information about the spiritual forces surrounding other people like Max.
+
+Samuel is a sensitive, kind, and gentle person. He is thick-skinned and apologetic when he does wrong. He is a hard-working and positive figure in the game.
+
+It is possible that he has a mental disorder of some sort, due to his awkward behavior.
+
+## Episode One - [Episode 1: Chrysalis](_chrysalis_.md) 
+In the corridor of Blackwell's main building, Samuel can be seen sweeping the floor as Max finds her way to the bathroom. The second time, as she rushes to rescue the girl in the bathroom, she thinks he would believe her story if she had time to tell it.
+
+Outside the [Prescott Dormitory](prescott_dormitory.md), Max can speak to Samuel again about [Rachel Amber](rachel_amber.md). He seems to know something about her that many of the other students do not.
+
+If Max asks Samuel about the Missing Persons Posters of Rachel Amber, he tells her that only Rachel would know. He refers to Rachel as "sunlight" and does not dwell on what could have happened to her, as he looks forward to the future. He can tell Max that Rachel was positive and negativeThis is hinting to the fact that there are more negative things about Rachel Amber than is evident in the beginning of the game and due to Chloe's idealistic image and description of her., and compares Rachel to a prism that you would stare at in awe.
+
+Max needs to move [Victoria Chase](victoria_chase.md) and her friends away from the steps because they are blocking the entrance to the dormitory. She tampers with Samuel's paint bucket, which makes it fall when Samuel tries to hang it up, and it makes Victoria get covered with paint. Samuel tries to apologize, but Victoria tells him to get away from her.
+
+## Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+Upon coming out of the dormitory, Max will come across Samuel taking a break from his duties by sitting on a bench and watching birds feed around him. Max may ask Samuel about the snowfall, about Rachel Amber (after discovering the photos of her inside Samuel's shed) and about the animals. If Max tells him that she has seen a [doe](doe.md), Samuel will reveal that the doe she has seen at the [lighthouse](lighthouse.md) is Max's spirit animal that will guide her to Rachel Amber's body, as has been shown to him in his dreams, and mention his spirit animal is a squirrel.
+
+Later when Max arrives at Blackwell Academy after returning from the railway tracks, Samuel will be sweeping the common area outside the bathrooms and [Raymond Wells](principal_wells.md)' office. He cannot be interacted with in this instance.
+
+## Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+Documents from [Principal Wells' Computer](principal_wells__computer.md), which Max discovered whilst breaking into Blackwell together with [Chloe Price](chloe_price.md), reveal that [Nathan Prescott](nathan_prescott.md) had been threatening Samuel some time ago.
+
+## Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+On coming to campus, Samuel can be seen sitting and talking outside the dorms with [Michelle Grant](ms__grant.md). Looking for Nathan, Max approaches him. He complains about having to clean up the dead birds. Talking to him, he says how he believes that the spate of dead animals is more than an eco-disaster, and that *someone is causing it to happen*This could be an indication for the theory that someone actually causes everything intentionally or just by preventing the predetermined time line from happening, like Max is doing with her rewinding ability - and Chloe actually is meant to die to resolve everything, which is a popular theory.. He says that Max and Arcadia Bay are "connected by time and tide".
+
+When Max talks with Victoria on the End of the World Vortex Club Party, it is revealed that she planned to get Samuel fired for the paint incident.
+
+
+
+Generate five trivia questions relevant to this section of the page.

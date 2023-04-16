@@ -1,0 +1,34 @@
+Here is a section of the wiki page for Optional Photos:
+
+## Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+{| class# "wikitable" style"border: 1px solid #57333F; background: transparent; width:100%"
+! Photo
+! Description !! Achievement
+|-
+| [File:LIS-Optional1-E2.jpg](220px.md) || In [Kate's Room](kate_s_room.md), to the left, is [Alice the Rabbit](her_rabbit.md)'s cage. This is the first photo. Taking this photo awards the "Field of View" achievement. ||[File:Field_Of_View_Achievement.png](centre.md)
+|-
+| [File:LIS-Optional2-E2.jpg](220px.md) || Head towards the bench at the far side of the dormitory grounds, and set a photo trap by placing a bitten donut from the trash can next to it. Then wait and rewind to get close to this hungry squirrel. Taking this photo awards the "Full Exposure" achievement. || [File:Full_Exposure_Achievement.png](centre.md)
+|-
+| [File:LIS-Optional3-E2.jpg](220px.md) || Look up at the sign in front of the [Two Whales Diner](two_whales_diner.md) to get this next photo. Taking this photo awards the "Processor" achievement. || [File:Processor_Achievement.PNG](centre.md)
+|-
+| [File:LIS-Optional4-E2.jpg](220px.md) || Around the back of the diner, you can look through the fence to take a picture of [Pompidou](pompidou.md), [Frank Bowers](frank.md)'s dog. Taking this photo awards the "Image Stabilizer" achievement. 
+| [File:Image_Stabilizer_Achievement.PNG](centre.md)
+|-
+| [File:LIS-Optional5-E2.jpg](220px.md) || Inside the Two Whales' bathroom, there is a strange etching on the mirror marked "FIRE WALK WITH ME".This is a reference to the David Lynch {{Wiki|Twin Peaks}} movie. Taking this photo awards the "Compressed" achievement.  || [File:Compressed_Achievement.PNG](centre.md)
+|-
+| [File:LIS-Optional6-E2.jpg](220px.md) || The bus directly behind you in the [American Rust Junkyard](junkyard.md) as you talk to Chloe is the next shot. You'll need to approach it from this angle. Taking this photo awards the "Pixelated" achievement. || [File:Pixelated_Achievement.PNG](centre.md)
+|-
+| [File:LIS-Optional7-E2.jpg](220px.md) || This [doe](doe.md) is a vision; so catch it quickly! No amount of rewind will bring it back. You'll need to snap the shot before the oncoming train scares it away. Taking this photo awards the "Dynamic Range" achievement.  || [File:Dynamic_Range_Achievement.PNG](centre.md)
+|-
+| [File:LIS-Optional8-E2.jpg](220px.md) || Move to Chloe's side to take this next photo. Taking this photo awards the "Colorized" achievement.  || [File:Colorized_Achievement.PNG](centre.md)
+|-
+| [File:LIS-Optional9-E2.jpg](220px.md) || Help [Warren Graham](warren.md) with his chemistry experiment in order to take a picture of his apparatus. Taking this photo awards the "Meter Made" achievement. || [File:Meter_Made_Achievement.PNG](centre.md)
+|-
+| [File:LIS-Optional10-E2.jpg](220px.md) || The last picture is of [Alyssa](alyssa.md) in Jefferson's classroom, staring into the distance. Taking this photo awards the "Resolution Revolution" achievement. || [File:Resolution_Revolution_Achievement.PNG](centre.md)
+|-
+| [File:LiS-OptionalPhotos-E2.jpg](220px.md) || Taking all the photographs in this episode awards the "Lab Master" achievement. || [File:Lab_Master_Achievement.PNG](centre.md)
+|}
+
+
+
+Generate five trivia questions relevant to this section of the page.

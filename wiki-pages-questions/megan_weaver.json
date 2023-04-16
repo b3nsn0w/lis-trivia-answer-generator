@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who is Megan Weaver in Life is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "Max's friend",
+      "B": "Chloe's friend",
+      "C": "Rachel's friend",
+      "D": "Victoria's friend"
+    }
+  },
+  {
+    "question": "What did Megan do after Chloe's accident?",
+    "answer": "C",
+    "choices": {
+      "A": "She visited Chloe every day",
+      "B": "She sent Chloe a postcard",
+      "C": "She stopped attending school",
+      "D": "She moved to Seattle"
+    }
+  },
+  {
+    "question": "What did Megan write in the postcard to Chloe?",
+    "answer": "A",
+    "choices": {
+      "A": "She was sorry for what happened",
+      "B": "She was happy that Chloe was okay",
+      "C": "She was angry at Chloe for getting hurt",
+      "D": "She was too busy to visit Chloe"
+    }
+  },
+  {
+    "question": "What is the Dark Room in Life is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "A photography studio",
+      "B": "A secret hideout",
+      "C": "A nightclub",
+      "D": "A classroom"
+    }
+  },
+  {
+    "question": "What does the appearance of Megan's name on a red folder in the Dark Room imply?",
+    "answer": "A",
+    "choices": {
+      "A": "She was a victim of the Dark Room Conspiracy",
+      "B": "She was a member of the Dark Room Conspiracy",
+      "C": "She was a police informant",
+      "D": "She was a journalist investigating the Dark Room"
+    }
+  }
+]

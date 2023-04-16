@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the name of the diner where the Diner Trucker is sitting?",
+    "answer": "A",
+    "choices": {
+      "A": "Two Whales Diner",
+      "B": "American Rust Junkyard",
+      "C": "Portland Diner",
+      "D": "Arcadia Bay Cafe"
+    }
+  },
+  {
+    "question": "In which episode of Life is Strange does Max try to speak to the Diner Trucker?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "What does the Diner Trucker ask Max to do in Max's Nightmare sequence?",
+    "answer": "C",
+    "choices": {
+      "A": "Call his boss",
+      "B": "Deliver his breakfast",
+      "C": "Call his mother in Portland",
+      "D": "Take a selfie with him"
+    }
+  },
+  {
+    "question": "What is the presumed cause of death for the Diner Trucker?",
+    "answer": "A",
+    "choices": {
+      "A": "Killed by the storm",
+      "B": "Shot by the Truck Driver",
+      "C": "Died of a heart attack",
+      "D": "Committed suicide"
+    }
+  },
+  {
+    "question": "Who is the voice actor for the Diner Trucker?",
+    "answer": "A",
+    "choices": {
+      "A": "Eric Morgan Stuart",
+      "B": "Ashly Burch",
+      "C": "Hannah Telle",
+      "D": "Dayeanne Hutton"
+    }
+  }
+]

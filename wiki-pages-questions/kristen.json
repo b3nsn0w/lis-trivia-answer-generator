@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who is Kristen?",
+    "answer": "B",
+    "choices": {
+      "A": "Max's sister",
+      "B": "Max's friend",
+      "C": "Max's neighbor",
+      "D": "Max's teacher"
+    }
+  },
+  {
+    "question": "Where did Kristen and Max go together with Fernando?",
+    "answer": "A",
+    "choices": {
+      "A": "To the Fremont Troll",
+      "B": "To the Space Needle",
+      "C": "To the Pike Place Market",
+      "D": "To the Seattle Aquarium"
+    }
+  },
+  {
+    "question": "In which episode is Kristen first mentioned?",
+    "answer": "A",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "How does Max know Kristen and Fernando were drunk at the Fremont Troll?",
+    "answer": "C",
+    "choices": {
+      "A": "She saw them there",
+      "B": "They told her",
+      "C": "She saw photos in her room",
+      "D": "She heard it from someone else"
+    }
+  }
+]

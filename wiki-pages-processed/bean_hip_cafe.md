@@ -1,0 +1,30 @@
+#  Bean Hip Cafe 
+
+```yaml
+Location
+
+image: BeanHipCafeLeaflet.png
+type: Cafe
+location: '[Arcadia Bay](arcadia_bay.md)'
+state: Oregon
+```
+
+The **Bean Hip Cafe** is a location in an unknown area. Little is known about the cafe itself, other than its connection to [Mark Jefferson](mark_jefferson.md)'s artwork.
+
+##  Jefferson Exhibition 
+There was an exhibition for Mark Jefferson's work there from November 5 - December 1, 2009. It emphasizes his fame by stating that he is an "international photographer".
+
+On October 7th, 2013 during [Episode 1: Chrysalis](episode_1.md), [Maxine Caulfield](max_caulfield.md) can find a leaflet for the exhibition in [Victoria Chase](victoria_chase.md)'s [Victoria's Room](bedroom.md) in the [Prescott Dormitory](prescott_dormitory.md). An advert in the leaflet gives the owner a dollar off entry to the exhibition.
+
+Victoria clearly has a passionate admiration for Jefferson's work due to her hanging on to the leaflet for sentimental purposes.
+
+##  Location 
+It is presumed to be around [Arcadia Bay](arcadia_bay.md); however, the leaflet only states that it's a "local exhibition." This could mean it is local to Victoria's home city of [Seattle](seattle.md).
+
+A [media:Note3-pool-lostgoggles.png](lost_property_ad.md) can be found inside [Blackwell Academy](blackwell_academy.md)'s [Blackwell Swimming Pool](swimming_pool.md) building in "[Episode 3: Chaos Theory](chaos_theory.md)" which could suggest the cafe isn't too far away from Blackwell due to a monetary reward to use in the cafe being offered by a student.
+
+##  Trivia 
+*The above-mentioned ad for lost swimming goggles was written by student Ray Siren and offers eternal gratitude plus a $25 gift card to use at the Bean Hip Cafe as a reward for returning them.
+
+{{Location Navbox}}
+

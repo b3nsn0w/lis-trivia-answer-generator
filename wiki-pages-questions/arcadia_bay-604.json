@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Name Of The Cafe In Arcadia Bay?",
+    "answer": "A",
+    "choices": {
+      "A": "Bean Hip Cafe",
+      "B": "Up All Nite Donuts",
+      "C": "ACFC Drive-Thru",
+      "D": "Pacific Steve's Famous Crab"
+    }
+  },
+  {
+    "question": "What Is The Name Of The High School In Arcadia Bay?",
+    "answer": "A",
+    "choices": {
+      "A": "Blackwell Academy",
+      "B": "Arcadia Bay Police Department",
+      "C": "Arcadia Bay Cemetery",
+      "D": "Two Whales Diner"
+    }
+  },
+  {
+    "question": "Where Is The Dark Room Located?",
+    "answer": "A",
+    "choices": {
+      "A": "Prescott Barn",
+      "B": "Two Whales Diner",
+      "C": "Lighthouse",
+      "D": "Arcadia Bay Police Department"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Junkyard In Arcadia Bay?",
+    "answer": "A",
+    "choices": {
+      "A": "American Rust Junkyard",
+      "B": "Arcadia Gas",
+      "C": "Tony's Liquor Store",
+      "D": "Rue Altimore"
+    }
+  },
+  {
+    "question": "Which Location Is Not Found In Life Is Strange 2?",
+    "answer": "D",
+    "choices": {
+      "A": "Old Mill",
+      "B": "Overlook",
+      "C": "Train",
+      "D": "Arcadia Bay Police Department"
+    }
+  }
+]

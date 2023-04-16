@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Happens To Chloe In The Girls' Bathroom At Blackwell?",
+    "answer": "A",
+    "choices": {
+      "A": "She Gets Shot By Nathan Prescott",
+      "B": "She Gets Arrested By The Police",
+      "C": "She Gets Expelled From School",
+      "D": "She Gets Into A Fight With Max"
+    }
+  },
+  {
+    "question": "Who Is David Madsen?",
+    "answer": "B",
+    "choices": {
+      "A": "Chloe's Father",
+      "B": "Chloe's Step-Father",
+      "C": "Max's Father",
+      "D": "Max's Step-Father"
+    }
+  },
+  {
+    "question": "What Does Chloe Confide In Max About Rachel Amber?",
+    "answer": "C",
+    "choices": {
+      "A": "That She Was Kidnapped By Nathan Prescott",
+      "B": "That She Was Murdered By Nathan Prescott",
+      "C": "That She Was Her Best Friend",
+      "D": "That She Was A Drug Dealer"
+    }
+  },
+  {
+    "question": "What Does Chloe Want To Do To Arcadia Bay?",
+    "answer": "B",
+    "choices": {
+      "A": "Turn It Into A Tourist Destination",
+      "B": "Turn It Into A Glass City",
+      "C": "Turn It Into A Nature Reserve",
+      "D": "Turn It Into A Tech Hub"
+    }
+  }
+]

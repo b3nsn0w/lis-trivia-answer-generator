@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What happens if Max ignores Kate's video link in the shower room?",
+    "answer": "A",
+    "choices": {
+      "A": "The link will be erased by other people",
+      "B": "Kate will be appreciative",
+      "C": "Kate will be upset and refuse to talk any further",
+      "D": "Max will be given four options to say to Kate during the conversation on the rooftop"
+    }
+  },
+  {
+    "question": "What is the consequence of Max giving Kate the advice to go to the police?",
+    "answer": "A",
+    "choices": {
+      "A": "Kate will be appreciative and send Max SMS messages later to thank her for the advice",
+      "B": "Kate will be upset and refuse to talk any further",
+      "C": "Max will be given two options to say to Kate during the conversation on the rooftop",
+      "D": "Taylor will be more open and trusting to Max at the party"
+    }
+  },
+  {
+    "question": "What is the consequence of Max choosing Belgian Waffles for breakfast at Two Whales Diner?",
+    "answer": "A",
+    "choices": {
+      "A": "The Nightmare-Max sitting at the same place as Max in Episode 5 will also be eating Belgian Waffles",
+      "B": "The Nightmare-Max sitting at the same place as Max in Episode 5 will also be eating Bacon Omelette",
+      "C": "Brooke will be upset with Max and will not allow her to fly her drone",
+      "D": "Taylor will be uncertain in believing Max's promise not to tell anyone about Victoria sneaking out"
+    }
+  }
+]

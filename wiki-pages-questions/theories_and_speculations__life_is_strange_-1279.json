@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Was Mr. Jefferson's Profession?",
+    "answer": "A",
+    "choices": {
+      "A": "Photographer",
+      "B": "Teacher",
+      "C": "Doctor",
+      "D": "Lawyer"
+    }
+  },
+  {
+    "question": "What Was The Name Of The Secret Photography Studio Bunker?",
+    "answer": "A",
+    "choices": {
+      "A": "The Dark Room",
+      "B": "The Red Room",
+      "C": "The Secret Room",
+      "D": "The Photography Room"
+    }
+  },
+  {
+    "question": "Who Was Responsible For The Disappearance Of Rachel Amber?",
+    "answer": "A",
+    "choices": {
+      "A": "Mr. Jefferson",
+      "B": "Nathan Prescott",
+      "C": "Kate Marsh",
+      "D": "Victoria Chase"
+    }
+  },
+  {
+    "question": "What Was The Connection Between The Prescott Family And The Dark Room Victims?",
+    "answer": "A",
+    "choices": {
+      "A": "The Prescotts Paid For The Bunker",
+      "B": "The Prescotts Were The Victims",
+      "C": "The Prescotts Were The Police",
+      "D": "The Prescotts Were The Teachers"
+    }
+  },
+  {
+    "question": "What Was The Theory About Mr. Jefferson's Motives For The Dark Room Events?",
+    "answer": "A",
+    "choices": {
+      "A": "He Was Using Young Women To His Advantage In His Photography In A Deal With The Prescotts",
+      "B": "He Was A Psychopathic Serial Killer",
+      "C": "He Knew About The End Of The World And Was Aiming To Prevent It",
+      "D": "He Had Time Control Powers And Was Trying To Kill Max"
+    }
+  }
+]

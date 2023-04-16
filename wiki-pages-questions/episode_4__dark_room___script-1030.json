@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Did Max Do To Victoria That She Regrets?",
+    "answer": "A",
+    "choices": {
+      "A": "Took A Picture Of Her Covered In Paint",
+      "B": "Made Fun Of Her In Front Of Everyone",
+      "C": "Stole Her Phone",
+      "D": "Ignored Her When She Needed Help"
+    }
+  },
+  {
+    "question": "Why Does Kate Think Victoria Acts Mean?",
+    "answer": "B",
+    "choices": {
+      "A": "She Is Wealthy And Talented",
+      "B": "She Is Insecure",
+      "C": "She Is Jealous Of Kate",
+      "D": "She Is A Natural Bully"
+    }
+  },
+  {
+    "question": "What Does Max Think Is Evil About The Prescotts?",
+    "answer": "B",
+    "choices": {
+      "A": "They Are Wealthy And Powerful",
+      "B": "They Have Something To Do With Death",
+      "C": "They Are Involved In Illegal Activities",
+      "D": "They Are Rude And Arrogant"
+    }
+  },
+  {
+    "question": "How Does Max Plan To Get The Clues She Needs From Nathan?",
+    "answer": "D",
+    "choices": {
+      "A": "She Will Confront Him In Person",
+      "B": "She Will Hack Into His Computer",
+      "C": "She Will Steal His Phone",
+      "D": "She Will Find His Room Number And Search His Room"
+    }
+  }
+]

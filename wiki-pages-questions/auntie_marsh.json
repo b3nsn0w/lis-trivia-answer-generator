@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who is Auntie Marsh related to?",
+    "answer": "A",
+    "choices": {
+      "A": "Richard Marsh",
+      "B": "Kate Marsh",
+      "C": "Max Caulfield",
+      "D": "Chloe Price"
+    }
+  },
+  {
+    "question": "What did Auntie Marsh send to Kate?",
+    "answer": "B",
+    "choices": {
+      "A": "A gift",
+      "B": "A letter",
+      "C": "A video",
+      "D": "A phone call"
+    }
+  },
+  {
+    "question": "What was Auntie Marsh's reaction to Kate's actions in the viral video?",
+    "answer": "C",
+    "choices": {
+      "A": "She was proud of Kate",
+      "B": "She was indifferent",
+      "C": "She was angry and shamed Kate",
+      "D": "She was sad and disappointed in Kate"
+    }
+  },
+  {
+    "question": "What did Auntie Marsh pray for?",
+    "answer": "C",
+    "choices": {
+      "A": "For Kate to be successful in life",
+      "B": "For Kate to be punished for her actions",
+      "C": "For Kate's soul to be saved from Eternal Hellfire",
+      "D": "For Kate to forget about the viral video"
+    }
+  },
+  {
+    "question": "Which episode of Life is Strange features Auntie Marsh?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  }
+]

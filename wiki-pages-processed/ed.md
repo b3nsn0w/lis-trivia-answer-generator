@@ -1,0 +1,8 @@
+#  Ed 
+
+**Ed **is a person [Maxine Caulfield](max.md) has an email from on [Max's Computer](her_computer.md). It appears they have had several correspondences but the nature of their emails is unknown. It seems the first part of the email reads, "Thank you for ordering...."
+[File:2015-11-02_00256.jpg](thumb.md)".]]
+It is believed that Ed has conducted several private sales with Max, however the details of her purchases are unknown. It is likely to be photography-related equipment, considering Max's expenditure on old film for her instant camera. This is backed up by the fact that this email contains the keyword "camera".
+
+{{Character Navbox}}
+

@@ -1,0 +1,418 @@
+= Control Scheme (Season 1) =
+
+{{Free Tab
+|link1 = Control Scheme (Life is Strange 1)
+|tab1 = Life is Strange
+|minwidth = 22%
+|maxwidth = 100
+|height = 2
+|tab2 = Before the Storm
+|link2 = Control Scheme (Before the Storm)
+|tab3 = Captain Spirit
+|link3 = Control Scheme (Captain Spirit)
+|tab4 = Life is Strange 2
+|link4 = Control Scheme (Life is Strange 2)
+|borderradius = 4
+}}
+[[File:Controls (PC).png|thumb|243x243px|How I Move: The controls menu for the PC version of ''Life is Strange''.]]
+The '''Control Scheme''' page lists the default control keys for ''[[Life is Strange]]'' across six platforms: PC, Mac, PlayStation 3/4 and Xbox 360/One.
+
+==PC==
+<blockquote>[[Image:Button-pc-mouse.png|thumb|left|50px]] Drag the mouse to aim at a object/person and hold Left Mouse Button to interact with it. Then, drag the mouse towards the interaction and release Left Mouse Button to look at the photo.</blockquote>
+
+=== Default ===
+{| class="wikitable"
+!Symbol
+!Name
+!Primary Function
+|-
+|<center>[[File:Keyboard White Esc.png|50px|link=]]</center>
+|Pause Menu
+|Press ESC to pause the game.
+|-
+|<center>[[File:WASD.png|50px|link=]]</center>
+|Movement
+|Players can control the character [[Maxine Caulfield|Max]] using the W, A, S and D keys.
+|-
+|<center>[[File:Keyboard White Mouse Simple.png|50px|link=]]</center>
+|Camera
+|Use the mouse to move the camera.
+|-
+|<center>[[Image:Keyboard White Space.png|50px|link=]]</center>
+|Skip Scene
+|To skip a previously viewed scene after rewinding, press the Spacebar button.
+|-
+|<center>[[Image:Keyboard White Mouse Left.png|50px|link=]]</center>
+|Contextual action
+|Hold left mouse button, drag the [[File:Keyboard White Mouse Simple.png|20px|link=]] and release left mouse button to perform contextual action(s).
+|-
+|<center>[[Image:Keyboard White Mouse Right.png|50px|link=]]</center>
+|Rewind
+|Hold right mouse button to rewind time.
+|-
+|<center>[[Image:Keyboard White Focus.png|50px|link=]]</center>
+|Focus
+|Use A/D keys and Left/Right mouse buttons to focus on photos.
+|-
+|<center>[[Image:Keyboard White Shift Alt.png|50px|link=]]</center>
+|Run
+|Hold Shift to move faster.<br />When rewinding, press [[File:Keyboard White Mouse Right.png|20px|link=]] and hold Shift to rewind faster.
+|-
+|<center>[[Image:Keyboard White Ctrl.png|50px|link=]]</center>
+|Undo
+|Press Ctrl to rewind to your last action.
+|-
+|<center>[[File:Keyboard White Mouse Middle.png|50px|link=]]</center>
+|Center Camera
+|Use middle mouse button to recenter camera.
+|-
+|<center>[[File:Keyboard White Tab.png|50px|link=]]</center>
+|Journal
+|Press Tab to open your [[Max's Journal|journal]].
+|}
+
+=== Alternative ===
+{| class="wikitable"
+!Symbol
+!Name
+!Primary Function
+|-
+|<center>[[File:Keyboard White Backspace.png|50px|link=]]</center>
+|Pause Menu
+|Press Backspace to pause the game.
+|-
+|<center>[[File:Keyboard White Arrows.png|50px|link=]]</center>
+|Movement
+|Players can control the character [[Maxine Caulfield|Max]] using the arrow keys.
+|-
+|<center>[[Image:Keyboard White Num0.png|50px|link=]]</center>
+|Skip Scene
+|To skip a previously viewed scene after rewinding, press 0 on the numeric keypad.
+|-
+|<center>[[Image:Keyboard White C.png|50px|link=]]</center>
+|Contextual action
+|Hold C, drag the [[File:Keyboard White Mouse Simple.png|20px|link=]] and release C to perform contextual action(s).
+|-
+|<center>[[Image:Keyboard White R.png|50px|link=]]</center>
+|Rewind
+|Hold R to rewind time.
+|-
+|<center>[[File:Keyboard White End.png|50px|link=]]</center>
+|Journal
+|Press End to open your [[Max's Journal|journal]].
+|}
+
+==Mac<ref>[http://support.feralinteractive.com/docs/en/lifeisstrange/latest/steam/manual/#!spread4 Mac controls from the Feral Interactive manual]</ref>==
+[[File:Feral_mac_controls.png|center]]
+==PlayStation==
+===PlayStation 3===
+{| class="wikitable"
+!Symbol
+!Name
+!Primary Function
+|-
+|<center>[[Image:Button-ps3-select.png|50px|link=]]</center>
+|Journal select
+|To access or exit [[Maxine Caulfield|Max]]'s journal, use the select on the {{Wiki|DualShock|DualShock controller}}.
+|-
+|<center>[[Image:Button-ps3-start.png|50px|link=]]</center>
+|Pause Menu
+|
+Pause the game.
+|-
+|<center>[[Image:Button-ps-leftstick.png|50px|link=]]</center>
+|Movement
+|Players can control the character Max using the left analog stick.
+|-
+|<center>[[Image:Button-ps-rightstick.png|50px|link=]]</center>
+|Camera
+|Players can control the direction of the camera using the right analog stick.
+|-
+|<center>[[Image:Button-ps3-L1.png|50px|link=]]</center>
+|Undo<br />Journal Tab
+|Press L1 to rewind to your last action.<br />Use L1 to scroll journal tabs to the left.
+|-
+|<center>[[Image:Button-ps3-R1.png|50px|link=]]</center>
+|Skip<br />Journal Tab
+|Use R1 to skip or fast-forward through a previously viewed scene.<br />Use R1 to scroll journal tabs to the right.
+|-
+|<center>[[Image:Button-ps3-L2.png|50px|link=]]</center>
+|Rewind
+|Rewind time by holding down the L2 button.
+|-
+|<center>[[Image:Button-ps3-R2.png|50px|link=]]</center>
+|Quick rewind<br />Run
+|While holding down L2 to rewind, hold down R2 to rewind faster.<br />Hold R2 to move/walk faster.
+|-
+|<center>[[Image:Button-ps-focus.png|50px|link=]]</center>
+|Focus
+|Use the analog sticks to focus on photos.
+|-
+|<center>[[Image:button-ps-dpad.png|50px|link=]]</center>
+|Forward/Back
+|Use the left and right d-pad buttons to browse through [[Optional Photos|photographs]] and Max's journal.
+|-
+|<center>[[Image:Button-ps-triangle.png|50px|link=]]</center>
+|Look/Dialog
+|To interact with and study objects in front of Max, click the triangle button.<br />To choose dialog with new information (from rewind) click the triangle button.
+|-
+|<center>[[Image:Button-ps-square.png|50px|link=]]</center>
+|Dialog
+|Press square to choose an option provided on the {{Wiki|dialog tree}}.<br />Press square to take a photograph.
+|-
+|<center>[[Image:Button-ps-x.png|50px|link=]]</center>
+|Read/Use
+|To read interactive objects, press the x/cross button.<br />To use objects press the x/cross button.
+|-
+|<center>[[Image:Button-ps-circle.png|50px|link=]]</center>
+|Go Back; Dialog
+|After reading the journal or other interactive objects, to back out, press the circle button.<br />Press circle to choose an option provided on the {{Wiki|dialog tree}}.
+|}
+
+===PlayStation 4===
+{| class="wikitable"
+!Symbol
+!Name
+!Primary Function
+|-
+|<center>[[Image:Button-ps4-share.png|50px|link=]]</center>
+|Share Button
+|Share Media.
+|-
+|<center>[[Image:button-ps4-touchpad.png|50px|link=]]</center>
+|Journal select
+|To access or exit [[Maxine Caulfield|Max]]'s journal, use the touch pad on the {{Wiki|DualShock|DualShock controller}}.
+|-
+|<center>[[Image:button-ps4-options.png|50px|link=]]</center>
+|Pause Menu
+|
+Pause the game.
+|-
+|<center>[[Image:button-ps-leftstick.png|50px|link=]]</center>
+|Movement
+|Players can control the character Max using the left analog stick.
+|-
+|<center>[[Image:button-ps-rightstick.png|50px|link=]]</center>
+|Camera
+|Players can control the direction of the camera using the right analog stick.
+|-
+|<center>[[Image:button-ps4-L1.png|50px|link=]]</center>
+|Undo<br />Journal Tab
+|Press L1 to rewind to your last action.<br />Use L1 to scroll journal tabs to the left.
+|-
+|<center>[[Image:button-ps4-R1.png|50px|link=]]</center>
+|Skip<br />Journal Tab
+|Use R1 to skip or fast-forward through a previously viewed scene.<br />Us R1 to scroll journal tabs to the right.
+|-
+|<center>[[Image:button-ps4-L2.png|50px|link=]]</center>
+|Rewind
+|Rewind time by holding down the L2 button.
+|-
+|<center>[[Image:button-ps4-R2.png|50px|link=]]</center>
+|Quick rewind<br />Run
+|While holding down L2 to rewind, hold down R2 to rewind faster.<br />Hold R2 to move/walk faster.
+|-
+|<center>[[Image:Button-ps-focus.png|50px|link=]]</center>
+|Focus
+|Use the analog sticks to focus on photos.
+|-
+|<center>[[Image:button-ps-dpad.png|50px|link=]]</center>
+|Forward/Back
+|Use the left and right d-pad buttons to browse through photographs and Max's journal.
+|-
+|<center>[[Image:button-ps-triangle.png|50px|link=]]</center>
+|Look/Dialog
+|To interact with and study objects in front of Max, click the triangle button.<br />To choose dialog with new information (from rewind) click the triangle button.
+|-
+|<center>[[Image:button-ps-square.png|50px|link=]]</center>
+|Dialog
+|Press square to choose an option provided on the {{Wiki|dialog tree}}.<br />Press square to take a photograph.
+|-
+|<center>[[Image:button-ps-x.png|50px|link=]]</center>
+|Read/Use
+|To read interactive objects, press the x/cross button.<br />To use objects press the x/cross button
+|-
+|<center>[[Image:button-ps-circle.png|50px|link=]]</center>
+|Go Back; Dialog
+|After reading the journal or other interactive objects, to back out, press the circle button.<br />Press circle to choose an option provided on the {{Wiki|dialog tree}}.
+|}
+
+==Xbox==
+===Xbox 360 Controller===
+{| class="wikitable"
+!Symbol
+!Name
+!Primary Function
+|-
+|<center>[[Image:button-x360-back.png|link=]]</center>
+|Journal Menu
+|To access or exit Max's journal, use the back button on the Xbox controller.
+|-
+|<center>[[Image:button-x360-start.png|link=]]</center>
+|Pause Menu
+|
+Pause the game.
+|-
+|<center>[[Image:button-xbox-leftstick.png|50px|link=]]</center>
+|Movement
+|Players can control the character Max using the left analog stick.
+|-
+|<center>[[Image:button-xbox-rightstick.png|50px|link=]]</center>
+|Camera
+|Players can control the direction of the camera using the right analog stick.
+|-
+|<center>[[Image:button-x360-LT.png|50px|link=]]</center>
+|Rewind
+|Use LT to rewind time.
+|-
+|<center>[[Image:button-x360-RT.png|50px|link=]]</center>
+|Quick Rewind<br />Run
+|While holding down LT to rewind, hold down RT to rewind faster.<br />Hold RT to move/walk faster.
+|-
+|<center>[[Image:button-x360-LB.png|50px|link=]]</center>
+|Undo<br />Journal Tab
+|Press LB to rewind to your last action.<br />Use LB to scroll journal tabs to the left.
+|-
+|<center>[[Image:button-x360-RB.png|50px|link=]]</center>
+|Journal Tab<br />Skip
+|Browse through the tabs of Max's Journal using the RB button.<br />Skip a previously viewed scene using the RB button.
+|-
+|<center>[[Image:Button-xbox-focus.png|50px|link=]]</center>
+|Focus
+|Use the analog sticks to focus on photos.
+|-
+|<center>[[Image:button-xbox-dpad.png|50px|link=]]</center>
+|Forward/Back
+|Use the left and right d-pad buttons to browse through photographs and Max's journal.
+|-
+|<center>[[Image:button-xbox-y.png|50px|link=]]</center>
+|Look
+|To interact with and study objects in front of Max, click the Y button.<br />To choose dialog with new information (from rewind) click the Y button.
+|-
+|<center>[[Image:button-xbox-x.png|50px|link=]]</center>
+|Dialog
+|Press X to choose an option provided on the dialog tree.<br />Press X to take a photograph.
+|-
+|<center>[[Image:button-xbox-a.png|50px|link=]]</center>
+|Read
+|To read interactive objects, press the A button.<br />To use objects press the A button
+|-
+|<center>[[Image:button-xbox-b.png|50px|link=]]</center>
+|Back<br />Dialog
+|After reading the journal or other interactive objects, to back out, press the B button.<br />Press B to choose an option provided on the dialog tree.
+|}
+
+===Xbox One Controller===
+{| class="wikitable"
+!Symbol
+!Name
+!Primary Function
+|-
+|<center>[[File:button-xone-Windows.png|50px|link=]]</center>
+|Journal Menu
+|To access or exit Max's journal, use the back button on the Xbox controller.
+|-
+|<center>[[File:button-xone-Menu.png|50px|link=]]</center>
+|Pause Menu
+|
+Pause the game.
+|-
+|<center>[[File:button-xbox-leftstick.png|50px|link=]]</center>
+|Movement
+|Players can control the character Max using the left analog stick.
+|-
+|<center>[[File:button-xbox-rightstick.png|50px|link=]]</center>
+|Camera
+|Players can control the direction of the camera using the right analog stick.
+|-
+|<center>[[File:button-xone-LT.png|50px|link=]]</center>
+|Rewind
+|Use LT to rewind time.
+|-
+|<center>[[File:button-xone-RT.png|50px|link=]]</center>
+|Quick Rewind<br />Run
+|Use RT to While holding down LT to rewind, hold down RT to rewind faster.<br />Hold RT to move/walk faster.
+|-
+|<center>[[File:button-xone-LB.png|50px|link=]]</center>
+|Journal Tab
+|Browse through Max's Journal using the LB button.
+|-
+|<center>[[File:button-xone-RB.png|50px|link=]]</center>
+|Journal Tab<br />Skip
+|Browse through Max's Journal using the RB button.<br />Skip a previously viewed scene using the RB button.
+|-
+|<center>[[Image:Button-xbox-focus.png|50px|link=]]</center>
+|Focus
+|Use the analog sticks to focus on photos.
+|-
+|<center>[[File:button-xbox-dpad.png|50px|link=]]</center>
+|Forward/Back
+|Use the left and right d-pad buttons to browse through photographs and Max's journal.
+|-
+|<center>[[File:button-xbox-y.png|50px|link=]]</center>
+|Look
+|To interact with and study objects in front of Max, click the Y button.<br />To choose dialog with new information (from rewind) click the Y button.
+|-
+|<center>[[File:button-xbox-x.png|50px|link=]]</center>
+|Dialog
+|Press X to choose an option provided on the dialog tree.<br />Press X to take a photograph.
+|-
+|<center>[[File:button-xbox-a.png|50px|link=]]</center>
+|Read
+|To read interactive objects, press the A button.<br />To use objects press the A button
+|-
+|<center>[[File:button-xbox-b.png|50px|link=]]</center>
+|Back<br />Dialog
+|After reading the journal or other interactive objects, to back out, press the B button.<br />Press B to choose an option provided on the dialog tree.
+|}
+
+== Mobile (iOS/Android) ==
+The controls have been simplified for touch screens on mobile. On Android, controller support is available.
+
+{| class="wikitable"
+!Symbol
+!Name
+!Primary Function
+|-
+|<center>[[File:button-mobile-journal.png|50px|link=]]</center>
+|Journal Menu
+|To access or exit Max's journal, tap the journal icon in the top right corner.
+|-
+|<center>[[File:button-mobile-leftscreen.png|50px|link=]]</center>
+|Movement
+|To move, tap anywhere on the screen or swipe your thumb on the '''left side''' of the screen.
+|-
+|<center>[[File:button-mobile-rightscreen.png|50px|link=]]</center>
+|Camera
+|To look around, swipe your thumb on the '''right side''' of the screen.
+|-
+|<center>[[File:button-mobile-rewind.png|50px|link=]]</center>
+|Rewind
+|To rewind time, tap on the spiral icon in the top left corner of the screen and then tap on the fast-rewind or rewind icon.
+|-
+|<center>[[File:button-mobile-undo.png|50px|link=]]</center>
+|Undo
+|Step back in time to your last important action, represented by a notch on the spiral.
+|-
+|<center>[[File:button-mobile-skip.png|50px|link=]]</center>
+|Skip
+|Tap the bottom right corner of the screen to skip a previously viewed scene.
+|-
+|<center>[[File:button-mobile-interacticons.png|50px|link=]]</center>
+|Look/Interact
+|To interact with objects and people, tap on an object and then select an action.
+|}
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="150" captionalign="center" position="center">
+IOS-movement.PNG|Movement.
+IOS-powers.PNG|Powers.
+IOS-other stuff.png|"Other stuff."
+</gallery>
+
+== References ==
+<references />
+[[pt-br:Como jogar?]]
+[[ru:Схема управления]]
+
+[[Category:Gameplay]]
+[[Category:Gameplay (Life is Strange)]]
+[[Category:Life is Strange]]

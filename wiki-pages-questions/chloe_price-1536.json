@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Reference Behind Chloe's License Plate?",
+    "answer": "B",
+    "choices": {
+      "A": "A Famous Punk Band",
+      "B": "A TV Show",
+      "C": "A Movie",
+      "D": "A Book"
+    }
+  },
+  {
+    "question": "What Is The Name Of The American TV Serial Drama That Influenced Life Is Strange's Story?",
+    "answer": "C",
+    "choices": {
+      "A": "Breaking Bad",
+      "B": "The Walking Dead",
+      "C": "Twin Peaks",
+      "D": "Game of Thrones"
+    }
+  },
+  {
+    "question": "What Is The Symbolic Meaning Behind The U.S. Flag Hanging In Front Of Chloe's Room's Window?",
+    "answer": "B",
+    "choices": {
+      "A": "Patriotism",
+      "B": "Distress",
+      "C": "Authority",
+      "D": "Freedom"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Childhood Series That Chloe And Max Loved?",
+    "answer": "A",
+    "choices": {
+      "A": "Spongebob",
+      "B": "The Powerpuff Girls",
+      "C": "Tom and Jerry",
+      "D": "Scooby-Doo"
+    }
+  }
+]

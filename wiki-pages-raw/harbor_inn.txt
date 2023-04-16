@@ -1,0 +1,18 @@
+= Harbor Inn =
+
+{{Infobox Location|type = Inn|location = [[Arcadia Bay]]|image = Harbor Inn.png|state = Oregon}}The '''Harbor Inn''' is an inn located in [[Arcadia Bay]], presumably close to the bay's [[harbor]]. According to its advertisement, they also offer parking and jacuzzi.
+
+{{Location Navbox}}
+
+
+
+
+
+[[ru:Harbor Inn]]
+[[Category:Locations in Arcadia Bay]]
+[[Category:Locations (Life is Strange)]]
+[[Category:Mentioned Locations]]
+[[Category:Locations]]
+[[Category:Non-Explorable Locations]]
+
+[[Category:Life is Strange]]

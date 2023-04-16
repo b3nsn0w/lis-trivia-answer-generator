@@ -1,0 +1,32 @@
+= Harbor =
+
+{{Stub}}
+{{Introquote|Oh, the fish used to jump onto my boat... Until the Prescotts and their finance fiends snapped up harbor rights...|[[R.J. MacReady]] in "[[Episode 2: Out of Time|Out of Time]]"}}
+{{Infobox Location
+|image = LiS1-Arcadia_harbor.png
+|imagewidth = 300
+|imagecaption = 
+|name = Arcadia Bay Harbor
+|type = Harbor
+|location = [[Arcadia Bay]]
+|state = Oregon
+|appears = '''Life is Strange'''<br>'''Life is Strange 2'''<br>[[Episode 1: Roads]]<br />}}
+The '''Harbor''' is the local port in [[Arcadia Bay]]. It has changed a lot in the five years since [[Maxine Caulfield|Max Caulfield]] had last resided in the town in 2008.
+Climate change has been altering the coastline over the last ten years, affecting the fish and fauna. Salmon, trout, and bass have died and migrated from its waters, and it is believed that even the clams are dying. This has impacted heavily on the town's fishing industry, and the fishermen who have made the harbor their home for many years also blame the decline of their industry on the [[Prescott Family|Prescott family]] who have been buying up much of the town as well as snapping up harbor rights with their "finance fiends."
+
+The [[Arcadia Bay Beacon]] newspaper describes the bay area as "a quaint fishing and tourist nook on the Oregon coast."
+
+Every month, the [[Two Whales Diner]] holds a "Two Whales Diner Fishing Awards" where there are winners every month taking pride of place on a "Fishing Wall of Fame." Some of the fish that can be found in the harbor are:
+* White sturgeon
+* Steelhead trout
+* Chinook salmon
+
+Jack Cousteau is a local captain, fisherman, and marine expert with 30 years experience. He currently operates three-hour group tours of Arcadia Bay's "lush and exotic aquatic kingdom." These tours operate daily and weekly with excursion rates of $75.00 - $125.00. The website is at: SEACOUSTEAUFISH.gu
+
+Max describes the stereotype of Arcadia's local fishermen as "crusty."
+[[Category:Locations]]
+[[Category:Locations in Arcadia Bay]]
+[[Category:Non-Explorable Locations]]
+[[Category:Locations (Life is Strange)]]
+[[Category:Mentioned Locations]]
+[[Category:Life is Strange]]

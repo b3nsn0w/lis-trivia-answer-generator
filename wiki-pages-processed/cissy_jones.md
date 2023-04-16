@@ -1,0 +1,18 @@
+#  Cissy Jones 
+
+[File:Cissy-Jones.jpg](thumb.md)
+**Cissy Jones** is the voice actress for [Joyce Price](joyce_price.md), the [Homeless Lady](homeless_lady.md) and [Diner Woman](one_unnamed_minor_character.md) in *[Life is Strange](life_is_strange.md)*. She’s an up-and-comer with credits in many well-known games, playing the likes of Doctor Duff/Doctor Patricia in Fallout 4 and more characters than any actor in Telltale’s The Walking Dead (such as Michonne). Most recently, she voiced Delilah, one of the two leads in Firewatch. Her official website can be found [http://www.cissyjones.com here].
+##  Interviews 
+* [https://www.youtube.com/watch?v# AJAUfBO_jUY NEW YEARS EVE Q&A WITH CISSY JONES] (December 31, 2015)
+* [http://www.playstationlifestyle.net/2016/02/10/passion-voice-interview-firewatch-lead-actress-cissy-jones/#/slide/1 Passion in the Voice – An Interview with Firewatch Lead Actress Cissy Jones] (February 10, 2016)
+* [https://www.youtube.com/watch?vz1VNYi1L6uo Blackwell Podcast Episode 22 - Cissy Jones] (April 2, 2016)
+
+ Cissy Jones # 
+
+[File:Cissy-Jones.jpg](thumb.md)
+**Cissy Jones** is the voice actress for [Joyce Price](joyce_price.md), the [Homeless Lady](homeless_lady.md) and [Diner Woman](one_unnamed_minor_character.md) in *[Life is Strange](life_is_strange.md)*. She’s an up-and-comer with credits in many well-known games, playing the likes of Doctor Duff/Doctor Patricia in Fallout 4 and more characters than any actor in Telltale’s The Walking Dead (such as Michonne). Most recently, she voiced Delilah, one of the two leads in Firewatch. Her official website can be found [http://www.cissyjones.com here].
+##  Interviews 
+* [https://www.youtube.com/watch?vAJAUfBO_jUY NEW YEARS EVE Q&A WITH CISSY JONES] (December 31, 2015)
+* [http://www.playstationlifestyle.net/2016/02/10/passion-voice-interview-firewatch-lead-actress-cissy-jones/#/slide/1 Passion in the Voice – An Interview with Firewatch Lead Actress Cissy Jones] (February 10, 2016)
+* [https://www.youtube.com/watch?v=z1VNYi1L6uo Blackwell Podcast Episode 22 - Cissy Jones] (April 2, 2016)
+

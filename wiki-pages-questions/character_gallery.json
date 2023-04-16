@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Purpose Of The Character Gallery Category?",
+    "answer": "B",
+    "choices": {
+      "A": "To List All Characters In The Franchise",
+      "B": "To Provide Galleries For Major Characters",
+      "C": "To Provide Biographies For Major Characters",
+      "D": "To Provide Fan Art For Major Characters"
+    }
+  },
+  {
+    "question": "Which Category Does The Character Gallery List Galleries For?",
+    "answer": "B",
+    "choices": {
+      "A": "Minor Characters",
+      "B": "Major Characters",
+      "C": "Antagonists",
+      "D": "Protagonists"
+    }
+  },
+  {
+    "question": "Which Franchise Does The Character Gallery Belong To?",
+    "answer": "A",
+    "choices": {
+      "A": "Life is Strange",
+      "B": "The Walking Dead",
+      "C": "The Last of Us",
+      "D": "Uncharted"
+    }
+  },
+  {
+    "question": "What Type Of Content Is Featured In The Character Gallery?",
+    "answer": "C",
+    "choices": {
+      "A": "Videos",
+      "B": "Articles",
+      "C": "Galleries",
+      "D": "Podcasts"
+    }
+  }
+]

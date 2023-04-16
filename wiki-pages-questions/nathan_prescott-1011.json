@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What Is Nathan Prescott's Association With Blackwell Academy?",
+    "answer": "B",
+    "choices": {
+      "A": "He Is A Teacher",
+      "B": "He Is A Student",
+      "C": "He Is A Janitor",
+      "D": "He Is A Security Guard"
+    }
+  },
+  {
+    "question": "What Is Nathan Prescott's Relationship With Rachel Amber?",
+    "answer": "A",
+    "choices": {
+      "A": "They Are Best Friends",
+      "B": "They Are Dating",
+      "C": "They Are Siblings",
+      "D": "They Are Enemies"
+    }
+  },
+  {
+    "question": "What Is Nathan Prescott's Voice Actor In The English Version Of Life Is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "Yasuhiro Mamiya",
+      "B": "Nik Shriner",
+      "C": "Mark Jefferson",
+      "D": "Hayden Jones"
+    }
+  }
+]

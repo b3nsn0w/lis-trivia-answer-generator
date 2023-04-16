@@ -1,0 +1,166 @@
+#  Episode 5: Polarized - Choices 
+
+[File:Ep5.JPG](centre.md)
+
+[File:This action will have consequences-0.png](left.md){{tocright}}
+
+{| width# "100%" align"center"
+| valign# "top" |
+
+##  Game Statistics 
+{{Main|Game Statistics#Episode_Five_-_.22Polarized.22|Game Statistics#Episode Five}}
+
+###  **Major Choices** 
+In "Polarized", the only major choice to do is to make a final sacrifice between saving Chloe and allowing Arcadia Bay to be destroyed, presumably along with your friends and all its residents being killed, or saving Arcadia Bay and sacrificing Chloe by allowing her to die in the bathroom in order to prevent the tornado from occurring and thus sparing the town. Note, these are also the choices which cannot be rewound except focusing on the photo before the time Chloe died.
+{| width"100%" align# "center"
+|
+**Sacrifice Arcadia Bay**
+* You decided to sacrifice Arcadia Bay. — 48%
+
+**Sacrifice Chloe**
+* You decided to sacrifice Chloe. — **52%**
+|style"padding-right:50px"|[File:TX_MajChoice_E5_7A_SaveChloe.png](thumb.md)
+|[File:TX_MajChoice_E5_7A_SaveTown.png](thumb.md)
+|}
+
+###  **Minor Choices** 
+{| width# "100%" align"center"
+| valign# "top" |
+**David**
+* David got a scar during the fight. - **96%**
+* David didn't get a scar during the fight. - 4%
+|[File:minorchoice-e5-davidscar.png](thumb.md)
+|-
+| valign"top" |
+**Mark Jefferson**
+* David killed Jefferson. - 45%
+* David didn't kill Jefferson. - **55%**
+|style# "padding-right:100px"|[File:minorchoice-e5-jefferson.png](thumb.md)
+|-
+| valign"top" |
+**The Trucker**
+* You saved the trucker. - **60%**
+* You didn't save the trucker. - 40%
+|[File:minorchoice-e5-trucker.png](thumb.md)
+|-
+| valign# "top" |
+**Evan**
+* You saved Evan. - **63%**
+* You didn't save Evan. - 37%
+|style"padding-right:100px"|[File:minorchoice-e5-evan.png](thumb.md)
+|-
+| valign# "top" |
+**Alyssa**
+* You saved Alyssa. - **64%**
+* You didn't save Alyssa. - 36%
+|[File:minorchoice-e5-alyssa.png](thumb.md)
+|-
+| valign"top" |
+**The Fisherman**
+* You saved the fisherman. - **72%**
+* You didn't save the fisherman. - 28%
+|style# "padding-right:100px"|[File:minorchoice-e5-fisherman.png](thumb.md)
+|-
+| valign"top" |
+**Joyce**
+* You helped Joyce believe in David again. - 34%
+* You didn't change Joyce's mind about David. - **66%**
+|[File:minorchoice-e5-joyce.png](thumb.md)
+|-
+| valign# "top" |
+**Frank**
+* You told the truth about Rachel to Frank. - **64%**
+* You didn't tell the truth about Rachel to Frank. - 36%
+|style"padding-right:100px"|[File:minorchoice-e5-franktruth.png](thumb.md)
+|-
+| valign# "top" |
+**Warren**
+* You kissed Warren. - **67%**
+* You didn't show Warren any affection. - 5%
+* You hugged Warren. - 28%
+|[File:minorchoice-e5-warren.png](thumb.md)
+|}
+
+##  Consequences 
+{{Main|Choices and Consequences#Episode_Five_-_.22Polarized.22|Choices and Consequences#Episode Five}}
+
+{| width"100%" align# "center"
+| valign"top" |
+
+##  Game Statistics 
+{{Main|Game Statistics#Episode_Five_-_.22Polarized.22|Game Statistics#Episode Five}}
+
+###  **Major Choices** 
+In "Polarized", the only major choice to do is to make a final sacrifice between saving Chloe and allowing Arcadia Bay to be destroyed, presumably along with your friends and all its residents being killed, or saving Arcadia Bay and sacrificing Chloe by allowing her to die in the bathroom in order to prevent the tornado from occurring and thus sparing the town. Note, these are also the choices which cannot be rewound except focusing on the photo before the time Chloe died.
+{| width# "100%" align"center"
+|
+**Sacrifice Arcadia Bay**
+* You decided to sacrifice Arcadia Bay. — 48%
+
+**Sacrifice Chloe**
+* You decided to sacrifice Chloe. — **52%**
+|style# "padding-right:50px"|[File:TX_MajChoice_E5_7A_SaveChloe.png](thumb.md)
+|[File:TX_MajChoice_E5_7A_SaveTown.png](thumb.md)
+|}
+
+###  **Minor Choices** 
+{| width"100%" align# "center"
+| valign"top" |
+**David**
+* David got a scar during the fight. - **96%**
+* David didn't get a scar during the fight. - 4%
+|[File:minorchoice-e5-davidscar.png](thumb.md)
+|-
+| valign# "top" |
+**Mark Jefferson**
+* David killed Jefferson. - 45%
+* David didn't kill Jefferson. - **55%**
+|style"padding-right:100px"|[File:minorchoice-e5-jefferson.png](thumb.md)
+|-
+| valign# "top" |
+**The Trucker**
+* You saved the trucker. - **60%**
+* You didn't save the trucker. - 40%
+|[File:minorchoice-e5-trucker.png](thumb.md)
+|-
+| valign"top" |
+**Evan**
+* You saved Evan. - **63%**
+* You didn't save Evan. - 37%
+|style# "padding-right:100px"|[File:minorchoice-e5-evan.png](thumb.md)
+|-
+| valign"top" |
+**Alyssa**
+* You saved Alyssa. - **64%**
+* You didn't save Alyssa. - 36%
+|[File:minorchoice-e5-alyssa.png](thumb.md)
+|-
+| valign# "top" |
+**The Fisherman**
+* You saved the fisherman. - **72%**
+* You didn't save the fisherman. - 28%
+|style"padding-right:100px"|[File:minorchoice-e5-fisherman.png](thumb.md)
+|-
+| valign# "top" |
+**Joyce**
+* You helped Joyce believe in David again. - 34%
+* You didn't change Joyce's mind about David. - **66%**
+|[File:minorchoice-e5-joyce.png](thumb.md)
+|-
+| valign"top" |
+**Frank**
+* You told the truth about Rachel to Frank. - **64%**
+* You didn't tell the truth about Rachel to Frank. - 36%
+|style# "padding-right:100px"|[File:minorchoice-e5-franktruth.png](thumb.md)
+|-
+| valign"top" |
+**Warren**
+* You kissed Warren. - **67%**
+* You didn't show Warren any affection. - 5%
+* You hugged Warren. - 28%
+|[File:minorchoice-e5-warren.png](thumb.md)
+|}
+
+##  Consequences 
+{{Main|Choices and Consequences#Episode_Five_-_.22Polarized.22|Choices and Consequences#Episode Five}}
+

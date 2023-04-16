@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Whose Binder Is Viewable Alongside Kate's In The Dark Room?",
+    "answer": "A",
+    "choices": {
+      "A": "Rachel Amber's",
+      "B": "Victoria's",
+      "C": "Chloe's",
+      "D": "Max's"
+    }
+  },
+  {
+    "question": "What Is Speculated About Kate's Involvement With Frank Bowers?",
+    "answer": "A",
+    "choices": {
+      "A": "She Bought Drugs From Him",
+      "B": "She Was His Girlfriend",
+      "C": "She Was His Informant",
+      "D": "She Was His Enemy"
+    }
+  },
+  {
+    "question": "What Is The Inconsistency With The Graphics On Max's Journal Page For Kate?",
+    "answer": "A",
+    "choices": {
+      "A": "The Files Are Misnamed",
+      "B": "The Graphics Are Missing",
+      "C": "The Graphics Are In The Wrong Order",
+      "D": "The Graphics Are Too Small"
+    }
+  },
+  {
+    "question": "What Is The Likely Reason That Kate Survived The Storm In The Sacrifice Arcadia Bay Ending?",
+    "answer": "A",
+    "choices": {
+      "A": "The Hospital Is A Solid Brick Building",
+      "B": "She Had A Bomb Shelter",
+      "C": "She Was Rescued By Max",
+      "D": "She Was Able To Time Travel"
+    }
+  }
+]

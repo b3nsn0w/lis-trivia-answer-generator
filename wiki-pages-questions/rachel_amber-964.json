@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who Did Rachel Amber Help Through Their Hard Times?",
+    "answer": "B",
+    "choices": {
+      "A": "Max Caulfield",
+      "B": "Chloe Price",
+      "C": "Nathan Prescott",
+      "D": "David Madsen"
+    }
+  },
+  {
+    "question": "What Was Rachel Amber's Relationship With Frank Bowers?",
+    "answer": "C",
+    "choices": {
+      "A": "They Were Business Partners",
+      "B": "They Were Best Friends",
+      "C": "They Were Romantic Partners",
+      "D": "They Were Rivals"
+    }
+  },
+  {
+    "question": "What Was The Name Of The Art Teacher Rumored To Have Slept With Rachel Amber?",
+    "answer": "C",
+    "choices": {
+      "A": "Raymond Wells",
+      "B": "Samuel Taylor",
+      "C": "Mark Jefferson",
+      "D": "David Madsen"
+    }
+  },
+  {
+    "question": "What Was The Last Vortex Club Party That Rachel Amber Attended?",
+    "answer": "A",
+    "choices": {
+      "A": "March 28",
+      "B": "April 22",
+      "C": "May 1",
+      "D": "June 15"
+    }
+  }
+]

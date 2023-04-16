@@ -1,0 +1,97 @@
+Here is a section of the wiki page for Episode 5: Polarized - Script:
+
+## **Conversation with Warren** # 
+
+**Warren:** I hate to say I'm glad to see you, but I'm so glad to see you.
+
+**Max:** That's okay. The important thing is that you're safe... and I know you can take care of yourself, after Nathan.
+
+**Warren:** Should have done that a long time ago. But damn, Max... I can't believe you actually drove down here in the middle of a fucking E6 tornado, just for one photograph... I mean, I know you didn't come for me.
+
+**Max:** Warren, I came for all of you. Just tell me you do have the photograph.
+
+**Warren:** I just want...
+
+**Max:** Now shut up and listen.
+
+**Warren:** Oh yeah, you’re finally going to tell me what you never did in the parking lot...
+
+**Max:** I wish I would have. So I'm just going to tell you without any explanation. Trust me, okay?
+
+**Warren:** I always do. You should probably tell me quick...
+
+**Max:** I had a vision in Jefferson's class of a tornado destroying Arcadia Bay. I went to the bathroom and saw my best friend Chloe get shot by Nathan Prescott...You with me so far?
+
+**Warren:** Where else could I be? Go on!
+
+**Max:** Then I found out that I could rewind time... And, long story short, Mark Jefferson is insane and dangerous.
+
+**Warren:** Whoa... Is that all?
+
+I started the storm.I started the storm.**Max:** I think that this storm started... everything started... when I found out I could rewind time... There's no way this is just a coincidence, right?
+
+**Warren:** Max, not only the storm but the eclipse, the birds, the whales... everything!
+
+|-|He killed Chloe.# He killed Chloe.**Max:** I have to go back in time. Jefferson already ki—killed Chloe... I can't let that happen... I have to do something, Warren!
+
+**Warren:** Max, going back in time is what caused the storm!
+
+**Max:** All because... because of me? How?
+
+**Warren:** I'm not a real scientist, even though I play one at school, but this seems like pure cause and effect, maybe Chaos Theory... Uh, what happened with Jefferson? Did... Did he hurt you?
+
+He dosed me.He dosed me.**Max:** He used Nathan to get drugs and money for him. Jefferson tied me up and... dosed me with some drug and took sick photos of me... It was so horrible...
+
+**Warren:** Max... I'm so sorry you had to go through all that... You're the bravest person I've ever known. Now, I want to kill that son of a bitch! Where is he?
+
+{{#tag:tabber|(David killed Jefferson)# (David killed Jefferson)**Max:** Dead.
+
+{{!}}-{{!}}(David didn't kill Jefferson)(David didn't kill Jefferson)**Max:** Busted.
+}}
+
+**Max:** History. Which I need to change fast to make it right again... Is that bad?
+
+|-|Rachel was killed.# Rachel was killed.**Max:** Nathan accidentally killed Rachel Amber trying to impress Jefferson...
+
+{{#tag:tabber|(David killed Jefferson)(David killed Jefferson)**Max:** He just needed mental help... Now... they're both dead.
+
+{{!}}-{{!}}(David didn't kill Jefferson)# (David didn't kill Jefferson)**Max:** Nathan just needed mental help... Now he's dead... and Jefferson is done.
+}}
+
+**Warren:** Jesus, Max! I want the whole story, but... I guess we really are out of time.
+
+**Max:** But I can still change things. What do you think will happen?
+
+**Warren:** For every action, there's... there's a reaction... Whenever you reversed or altered time, maybe you caused a chain reaction... even in the environment.
+
+You believe me?You believe me?**Max:** You're my friend, Warren. You believe me, right? I... I haven't told anybody else except for Chloe... and... and she can't help me right now...
+
+**Warren:** I know I can be a pain in the ass... and... and you've always treated me like a person, not... not a beta nerd. I told you before that I'll always believe you...
+
+**Max:** I just wish I could trust my powers...
+
+|-|This is my fault?# This is my fault?**Max:** All this destruction... is my fault?
+
+**Warren:** Give me a break. You sure the hell didn't give yourself time travel powers...
+
+|-|More time together.More time together.**Max:** Warren, I know this all sounds insane... but you're the only other person who I can count on now... I wish we had more time together... Do you believe me?
+
+**Warren:** Max, of course I believe you. You're the most amazing person I've ever met... and I'm glad you trust me.
+
+**Max:** Always. I just wish I could trust my powers...
+
+**Max:** I guess we'll never know if it's magic or science...
+
+**Warren:** Even if it's from a wizard or a wormhole... You're part of something bigger. I don't believe in fate or destiny, but after this week, I realize I don't know shit.
+
+**Max:** That makes both of us, Warren...
+
+**Warren:** I do know you're here for a reason... and I guess it's up to you to find out why. Max... I'm sorry you got stuck in this... in this... I don't have a fucking clue what's going on. But I have total faith that you'll do the right thing when the time comes. I'm so proud of you, Max. How could there be a more important moment in history? And I'm in the middle of it with you? So thank you for trusting me.
+
+**Max:** Thanks for being here. Always.
+
+*Warren takes out the polaroid and places it in front of Max.*
+
+**Warren:** Hey... Be careful out 
+
+Generate five trivia questions relevant to this section of the page.

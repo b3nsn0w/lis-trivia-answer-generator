@@ -1,0 +1,98 @@
+Here is a section of the wiki page for Episode 5: Polarized:
+
+## Achievements 
+There are twelve [Achievements (Life is Strange)](achievements.md) the player can earn on Steam, PlayStation or Xbox. The total number of achievements for all episodes that are collectible is 60.[http://steamcommunity.com/stats/319630/achievements Steam achievements list]. For PlayStation consoles, a platinum trophy is also available.
+{{Achievements
+|name  Incandescent
+|image #  Incandescent_Achievement.png
+|description  Take optional photo #1 in Episode 5: Polarized
+|type #  bronze
+|score  10
+}}
+{{Achievements
+|name #  Night Vision
+|image  Night_Vision_Achievement.png
+|description #  Take optional photo #2 in Episode 5: Polarized
+|type  bronze
+|score #  10
+}}
+{{Achievements
+|name  Framed 
+|image #  Framed_Achievement_64x64px.png
+|description  Take optional photo #3 in Episode 5: Polarized
+|type #  bronze
+|score  10
+}}
+{{Achievements
+|name #  Camera Obscura
+|image  Camera_Obscura_Achievement.png
+|description #  Take optional photo #4 in Episode 5: Polarized
+|type  bronze
+|score #  10
+}}
+{{Achievements
+|name  Blowup
+|image #  Blowup_Achievement.png
+|description  Take optional photo #5 in Episode 5: Polarized
+|type #  bronze
+|score  10
+}}
+{{Achievements
+|name #  Iris
+|image  Iris_Achievement.png
+|description #  Take optional photo #6 in Episode 5: Polarized
+|type  bronze
+|score #  10
+}}
+{{Achievements
+|name  Sensor
+|image #  Sensor_Achievement.png
+|description  Take optional photo #7 in Episode 5: Polarized
+|type #  bronze
+|score  10
+}}
+{{Achievements
+|name #  On Display
+|image  On_Display_Achievement.png
+|description #  Take optional photo #8 in Episode 5: Polarized
+|type  bronze
+|score #  10
+}}
+{{Achievements
+|name  Light Meter
+|image #  Light_Meter_Achievement.png
+|description  Take optional photo #9 in Episode 5: Polarized
+|type #  bronze
+|score  10
+}}
+{{Achievements
+|name #  Silhouettes
+|image  Silhouettes_Achievement.png
+|description #  Take optional photo #10 in Episode 5: Polarized
+|type  bronze
+|score #  10
+}}
+{{Achievements
+|name  Selfie Awareness
+|image #  Selfie_Awareness_Achievement.png
+|description  Take all optional photos in Episode 5: Polarized
+|type #  bronze
+|score  45
+}}
+{{Achievements
+|name #  Polarized
+|image  Polarized Achievement.png
+|description #  Finish Episode 5: Polarized
+|type  gold
+|score #  55
+}}
+{{Achievements
+|image  What_If_Achievement.png
+|name #  What if?
+|description  Unlock all other trophies from Life Is Strange™
+|type #  platinum
+}}
+
+
+
+Generate five trivia questions relevant to this section of the page.

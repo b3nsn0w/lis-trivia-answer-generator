@@ -1,0 +1,52 @@
+[
+  {
+    "question": "How Does Max Escape The Dark Room?",
+    "answer": "A",
+    "choices": {
+      "A": "By Rewinding Through A Photograph",
+      "B": "By Breaking The Chair",
+      "C": "By Calling For Help",
+      "D": "By Picking The Lock"
+    }
+  },
+  {
+    "question": "What Does Jefferson Reveal To Max In The Dark Room?",
+    "answer": "A",
+    "choices": {
+      "A": "His Obsession With Capturing The Innocence Of Young Women",
+      "B": "His Plan To Escape From The Police",
+      "C": "His Desire To Become A Famous Photographer",
+      "D": "His Hatred For Nathan Prescott"
+    }
+  },
+  {
+    "question": "What Does Jefferson Do To Max's Diary?",
+    "answer": "A",
+    "choices": {
+      "A": "He Throws It On The Floor",
+      "B": "He Burns It",
+      "C": "He Hides It In A Drawer",
+      "D": "He Rips Out The Pages"
+    }
+  },
+  {
+    "question": "How Does Max Alert David Madsen To Jefferson's Location?",
+    "answer": "A",
+    "choices": {
+      "A": "She Texts Him From Jefferson's Class",
+      "B": "She Calls Him From The Dark Room",
+      "C": "She Sends Him An Email",
+      "D": "She Leaves A Note On His Car"
+    }
+  },
+  {
+    "question": "What Does Max Experience After Winning The Everyday Heroes Contest?",
+    "answer": "B",
+    "choices": {
+      "A": "A Vision Of The Storm Heading Towards Arcadia Bay",
+      "B": "A Sudden Headache And Nosebleed",
+      "C": "A Message From Nathan Prescott",
+      "D": "A Call From Principal Wells"
+    }
+  }
+]

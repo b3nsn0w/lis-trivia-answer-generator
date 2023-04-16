@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Chloe Believe About The Happenings In Arcadia Bay?",
+    "answer": "A",
+    "choices": {
+      "A": "They Are Connected",
+      "B": "They Are Random",
+      "C": "They Are Caused By Aliens",
+      "D": "They Are A Hoax"
+    }
+  },
+  {
+    "question": "What Do Max And Chloe Find In The Principal's Office?",
+    "answer": "B",
+    "choices": {
+      "A": "A Secret Passage",
+      "B": "A Cryptic Message About Rachel Amber",
+      "C": "A Hidden Camera",
+      "D": "A Map Of The Town"
+    }
+  },
+  {
+    "question": "What Does Chloe Find In The Principal's Desk Drawer?",
+    "answer": "C",
+    "choices": {
+      "A": "A Gun",
+      "B": "A Secret Diary",
+      "C": "An Envelope Full Of Money",
+      "D": "A Love Letter From Max"
+    }
+  },
+  {
+    "question": "What Do Max And Chloe Do After Leaving The Principal's Office?",
+    "answer": "B",
+    "choices": {
+      "A": "They Go To Sleep",
+      "B": "They Have A Late-Night Swim",
+      "C": "They Go To A Party",
+      "D": "They Watch A Movie"
+    }
+  },
+  {
+    "question": "What Does Chloe Suggest To Max After The Late-Night Swim?",
+    "answer": "D",
+    "choices": {
+      "A": "They Should Go To A Concert",
+      "B": "They Should Go To A Museum",
+      "C": "They Should Go To A Restaurant",
+      "D": "Max Should Stay At Her Place For The Night"
+    }
+  }
+]

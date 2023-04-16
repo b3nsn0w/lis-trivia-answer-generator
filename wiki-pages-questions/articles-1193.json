@@ -1,0 +1,12 @@
+[
+  {
+    "question": "Which episode of Life is Strange did The Koalition review in their article?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1",
+      "B": "Episode 2",
+      "C": "Episode 3",
+      "D": "Episode 4"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Kate's Last Name?",
+    "answer": "B",
+    "choices": {
+      "A": "Beverly",
+      "B": "Marsh",
+      "C": "Chase",
+      "D": "Prescott"
+    }
+  },
+  {
+    "question": "What Is The Cause Of Kate's Death?",
+    "answer": "C",
+    "choices": {
+      "A": "She Was Murdered By Nathan Prescott",
+      "B": "She Was Hit By A Car",
+      "C": "She Jumped Off The Dormitory Roof",
+      "D": "She Died From An Illness"
+    }
+  },
+  {
+    "question": "What Is Kate's Personality Like?",
+    "answer": "B",
+    "choices": {
+      "A": "Outgoing And Confident",
+      "B": "Shy And Kind-Hearted",
+      "C": "Arrogant And Selfish",
+      "D": "Moody And Impulsive"
+    }
+  },
+  {
+    "question": "What Is The Reason Behind Kate's Depression?",
+    "answer": "A",
+    "choices": {
+      "A": "She Was Bullied For Her Conservative Views",
+      "B": "She Was Rejected By Her Crush",
+      "C": "She Failed Her Exams",
+      "D": "She Was Caught Cheating"
+    }
+  },
+  {
+    "question": "Who Is One Of Kate's Friends Who Watches Out For Her During Her Rough Time?",
+    "answer": "D",
+    "choices": {
+      "A": "Victoria Chase",
+      "B": "Nathan Prescott",
+      "C": "Mark Jefferson",
+      "D": "Maxine Caulfield"
+    }
+  }
+]

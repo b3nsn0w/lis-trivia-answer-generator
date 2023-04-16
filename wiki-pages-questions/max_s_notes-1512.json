@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Where Is The Email From Sean Prescott To Nathan Located?",
+    "answer": "B",
+    "choices": {
+      "A": "On A Garbage Bin At The Beach",
+      "B": "On Nathan's Computer In His Room",
+      "C": "In David's Investigation Puzzle",
+      "D": "None Of The Above"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Diet Pill Nathan Is Looking At?",
+    "answer": "A",
+    "choices": {
+      "A": "Dexomine",
+      "B": "Pan Estates",
+      "C": "Kate's Video",
+      "D": "None Of The Above"
+    }
+  },
+  {
+    "question": "Where Is The Map Of Blackwell With Camera Placement Located?",
+    "answer": "C",
+    "choices": {
+      "A": "On Nathan's Computer In His Room",
+      "B": "On A Garbage Bin At The Beach",
+      "C": "In David's Investigation Puzzle",
+      "D": "None Of The Above"
+    }
+  },
+  {
+    "question": "What Is David Investigating In The First Series Of Clues?",
+    "answer": "D",
+    "choices": {
+      "A": "Nathan's Computer",
+      "B": "Kate's Video",
+      "C": "Blackwell's Map",
+      "D": "None Of The Above"
+    }
+  },
+  {
+    "question": "What Is Max's Comment On David's Photos Of Her?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Of Course, I'm A Suspect\"",
+      "B": "\"David Should Have Done Way More\"",
+      "C": "\"Look At All These License Plates\"",
+      "D": "\"Hmmm, Maybe He Was Trying To Help Kate\""
+    }
+  }
+]

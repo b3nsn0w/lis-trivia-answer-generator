@@ -1,0 +1,20 @@
+Here is a section of the wiki page for Unused Audios:
+
+#  Unused Audios 
+
+The following is a list of all **unused audio files**In the latest version of the game, post-Limited Edition patch v1.0.0.397609. in text form, arranged in chronological order according to the episodes they would be used in. Click [File:Headphones.png](16px.md) to listen to the files!
+
+[File:BulleSimple9Img.png](thumb.md)
+
+## Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+* [Mark Jefferson](mr__jefferson.md) reacting to [Victoria Chase](victoria_chase.md)'s jibe at [Maxine Caulfield](max_caulfield.md): "Sorry Max, you're off the island" (probably a reference to "survival" TV shows where the loser is eliminated and has to leave the island). {{Headphones|file# Ep1-ArtClass-VictoriaJoke_Jefferson.ogg}}
+* [Nathan Prescott](nathan_prescott.md) and [Chloe Price](chloe_price.md) in the [Blackwell Academy](blackwell.md) bathroom about drugs: "Teens, not kids. Listen, I can hook you up." - "I don't want your pills. I want good ol' american green. Not weed, cash." {{Headphones|fileEp1-Toilets-NathanAndChloe-American_green.ogg}}
+* Nathan after shooting Chloe in the Blackwell bathroom: "No, please God no... I didn't mean to... You just kept pushing me... Everybody is always pushing me... I'm sorry... I'm so, so sorry... My life is Hell... And I am so busted..." {{Headphones|file# Ep1-Toilets-NathanAndChloe-ChloeDead.ogg}}
+*Max looking at stuff in the bathroom of [Madsen Household](chloe_s_house.md): "I already weighed myself last week." {{Headphones|fileEp1-Bathroom-scales_look.ogg}} . . . "No comment." {{Headphones|file# Ep1-Bathroom-scales_interact.ogg}} . . . "Nice, clean shower." {{Headphones|fileEp1-Bathroom-Shower_look.ogg}} . . . "It's so clean I want to test it out. But I need those tools from the garage." {{Headphones|file# Ep1-Bathroom-Shower_interact.ogg}} . . . "I hope Chloe isn't taking these pills..."The line is now: "I wonder if Chloe is taking those pills? I hope she's okay..." {{Headphones|fileEp1-Bathroom-pills.ogg}}
+*Max looking out of the window in [Joyce and David's Room](joyce_and_david_s_room.md): "To think I lived just half a mile away..." {{Headphones|file# Ep1-ChloesParentsRoom-Window.ogg}}
+*Max looking inside the closet in Joyce and David's room: "Joyce still works at the diner. Is her a husband a cop? Poor Chloe."{{Headphones|fileEp1-ChloesParentsRoom-Closet-interact.ogg}}
+*[David Madsen](david_madsen.md) to either Max or [Kate Marsh](kate_marsh.md) if Max chooses to take a photo instead of intervening when she sees Kate being bullied by David on campus grounds: "Just think of me as a storm. And that storm is headed your way. Be prepared." {{Headphones|file# DavidMadsenStorm.ogg}}
+
+
+
+Generate five trivia questions relevant to this section of the page.

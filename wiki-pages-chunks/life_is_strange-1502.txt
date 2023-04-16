@@ -1,0 +1,54 @@
+Here is a section of the wiki page for Life is Strange:
+
+## Trivia 
+* The original title of the game, *What If?*, is referenced in the [Achievements (Life is Strange)](achievement.md) that is awarded to the player for unlocking all trophies.
+* Dontnod's CEO, [Oskar Guilbert](oskar_guilbert.md) referred in an interview (recorded before the first episode came out) to more than five episodes: "We want to be able to tell the players when episodes 2, 3, 4, 5, 6, etc will be available".[https://www.youtube.com/watch?v# somLjf2a1VE&featureyoutu.be&t# 41s Indies @ PGW Interview Life is Strange]
+* The pre-production budget for *Life is Strange* was around €4 million. For comparison, the budget of Dontnod's previous game, *Remember Me*, was close to €20 million.[http://www.lemonde.fr/pixels/article/2016/06/13/oskar-guilbert-le-miracule-de-la-french-touch_4949284_4408996.html Oskar Guilbert, le miraculé du jeu vidéo français] (June 13, 2016)
+* Voice actress [Ashly Burch](ashly_burch.md), auditioned for the roles of both [Maxine Caulfield](max_caulfield.md) and [Chloe Price](chloe_price.md). Dontnod blind-cast Burch as Chloe after hearing her take for the character.
+* At the end of the credits on Episode 4, it says "thanks for crying" instead of "thanks for playing".
+* In an [https://youtu.be/S3s5IcoEROY?t27m55s interview] at LiU Game Conference 2015, Game Director [Raoul Barbet](raoul_barbet.md) stated that they heavily modified Unreal Engine 3 to turn it into a PBR/PBL ({{Wiki|physically based rendering}}) engine to create the stylized "impressionistic rendering" that gives *Life is Strange* its visual style. It was decided that having this kind of stylized rendering would allow the game to "age better". The most important aspect of the visual style, for Dontnod, was the lighting, so even though the visual style of the game was quite simple, they made sure to use high-end technology for the lighting, because they felt that light is one of the most important parts of a visual. They felt that having low-detailed visuals with good lighting was far better than having detailed visuals with bad lighting. They also felt that light is linked to memories and emotions. They also had three dedicated "lighting artists", which was not a very common thing to see in the gaming industry and was even more impressive due to Dontnod's small team size in the game's initial stages. In addition to this, there were two "camera developers".
+* A idea that was proposed was to control a different character by the later episodes, considered for e.g. Episode 5 or 6.[https://cite-sciences.ubicast.tv/videos/12-12-2016-185656-partie-1/ MASTERCLASS CJV #16 - Michel Koch]
+** Its possible this idea was later revised for the nightmare sequence in episode 5, where at one point, the player has to navigate the girls dorms correctly to reach the school corridor and every correct door will make the player switch between characters.
+* The title of the original game has been updated in July 2017 and afterwards matches the non-capitalized "i" *[Life is Strange: Before the Storm](life_is_strange__before_the_storm.md)*.[https://www.reddit.com/r/lifeisstrange/comments/6gzrbv/just_noticed_this_and_my_ocd_is_killing_me_plz_fix/ Reddit post by /u/Fry98]
+* In 2018, there was a philosophy course centered on ethics offered at UC Santa Cruz that is taught using *Life is Strange*.[https://www.reddit.com/r/lifeisstrange/comments/9tpyds/no_spoilers_theres_a_philosophy_course_offered_at/ Reddit post by u/bananaslugger99] (see [here](here.md) for further information on academic adaption and analysis of the game)
+* In Dontnod's other episodic game *{{wiki|Tell_Me_Why_(video_game)|Tell Me Why}}* (released in 2020), *Life is Strange* is one of three games referenced in the second episode through the achievement "Remember Strange Vampyr." The achievement's title references Dontnod games in release order - *Remember Me*, *Life is Strange*, and *Vampyr* - and is activated by looking at three posters that relate to these games inside the Veni Vidi Vecchi General Store. The poster for *Life is Strange* is located on the wall behind Michael Abila and features a polaroid camera very similar to [Max's Camera](max_s.md) and a [Blue Butterfly](blue_butterfly.md). If Tyler inspects the poster, he will ask Michael if he remembers the ad for it and what the slogan was. Michael will reply that it was "something poetic about time travel and life being weird."
+
+#
+
+## Promo Keyart 
+
+Life_is_Strange-01.jpg|Max's Rewind
+
+#
+
+## Episode Keyart 
+
+1908440 888207817867800 545726511779941891 n.jpg
+11091020 898326323522616 1503959853231518140 o.jpg
+Episode 3 Cover (2).jpg
+Life-Is-Strange-Episode-4.png
+Ep5.JPG
+
+#
+
+## Promo Screenshots 
+
+Life-is-strange-max-chloe.jpg
+Basement.jpg
+Life-is-strange-02 1920.jpg
+lifeisstrange_1246084_650x.jpg
+Lifeisstrange 1246094b.jpg
+Life-is-strange-kitchen 1920.0.jpg
+Life-is-strange-max-and-david 1920.0.jpg
+Life-is-strange-max-chloe-david 1920.0.jpg
+Life-is-strange-max-chloe-stereo 1920.0.jpg
+Life-is-strange-max-garden 1920.0.jpg
+Life-is-strange-max-tools 1920.0.jpg
+maxrewindd.png
+life-is-strange-rewind-burn_1920.0.jpg
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

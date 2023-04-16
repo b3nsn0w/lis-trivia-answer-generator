@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is the name of the missing girl whose posters are all over the Prescott Dormitory?",
+    "answer": "C",
+    "choices": {
+      "A": "Kate Marsh",
+      "B": "Victoria Chase",
+      "C": "Rachel Amber",
+      "D": "Brooke Scott"
+    }
+  },
+  {
+    "question": "Which boys' dorm room chart is completely destroyed with graffiti?",
+    "answer": "D",
+    "choices": {
+      "A": "Room 104",
+      "B": "Room 105",
+      "C": "Room 106",
+      "D": "Room 107"
+    }
+  },
+  {
+    "question": "Who sends Max the room number for Nathan Prescott's room in the boys' dormitory?",
+    "answer": "B",
+    "choices": {
+      "A": "Victoria Chase",
+      "B": "Kate Marsh",
+      "C": "Brooke Scott",
+      "D": "Stella Hill"
+    }
+  }
+]

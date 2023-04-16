@@ -1,0 +1,27 @@
+= Andy Berry =
+
+{{Infobox Character
+|image = Andy Berry Main.png
+|gender = Male
+|relatives = [[Anderson Berry]] <small>(father)</small>
+|appearance = [[Episode 2: Out of Time]] <small>(mentioned)</small>
+|hair = Black}}'''Anderson "Andy" Berry Jr.''' is the son of [[Anderson Berry]], a police officer in [[Arcadia Bay]]. A photograph of him and a prize catch can be found on the "[[Arcadia Bay Fishing Club|Fishing Wall Of Fame]]" within the [[Two Whales Diner]], alongside [[Dick Weber]] and [[Rich Conrad]].
+
+<gallery widths="300" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+diner-walloffame.png
+</gallery>
+
+{{Character Navbox}}
+
+[[ru:Энди Бэрри]]
+[[Category:Characters]]
+[[Category:Characters (Life is Strange)]]
+[[Category:Male Characters]]
+[[Category:Male Characters (Life is Strange)]]
+[[Category:Episode 2: Out of Time Characters]]
+[[Category:Mentioned Characters (Life is Strange)]]
+[[Category:Minor Characters]]
+[[Category:Minor Characters (Life is Strange)]]
+
+[[Category:Mentioned Characters]]
+[[Category:Life is Strange]]

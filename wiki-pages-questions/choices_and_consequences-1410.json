@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the consequence of not helping Warren with his science experiment?",
+    "answer": "C",
+    "choices": {
+      "A": "Warren gets a grade of A-",
+      "B": "Warren will send Max SMS messages with a negative tone",
+      "C": "Max cannot take an optional photo of Warren",
+      "D": "Max will not be able to kiss Warren in the Two Whales Diner"
+    }
+  },
+  {
+    "question": "What is the consequence of saving Kate from committing suicide?",
+    "answer": "A",
+    "choices": {
+      "A": "Max will feel kind of invincible",
+      "B": "Kate will accuse Max of making sure that she would never be alone again",
+      "C": "Max can ask Mark Jefferson about his involvement in Kate's dosing and abduction",
+      "D": "The truck driver outside the diner will say that \"Arcadia Bay has a slut trying to commit suicide\""
+    }
+  },
+  {
+    "question": "What is the consequence of Kate committing suicide?",
+    "answer": "B",
+    "choices": {
+      "A": "Max will receive SMS messages from Kate's father to thank her for all of her help",
+      "B": "A memorial for Kate will be shown in the ending scene",
+      "C": "Max can blame Mark Jefferson for Kate's death",
+      "D": "Max will not be able to kiss Warren in the Two Whales Diner"
+    }
+  },
+  {
+    "question": "What is the consequence of not helping Kate when she attempts suicide?",
+    "answer": "D",
+    "choices": {
+      "A": "Max will be more uncertain of her powers",
+      "B": "A memorial to Kate will be visible at the dormitory entrance",
+      "C": "Max can mention she had saved Kate earlier to alternative Chloe",
+      "D": "The truck driver outside the diner will say that \"Arcadia Bay has a slut committing suicide\""
+    }
+  }
+]

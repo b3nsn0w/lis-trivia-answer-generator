@@ -1,0 +1,81 @@
+Here is a section of the wiki page for Episode 2: Out of Time - Script:
+
+time**Max:** Hi, Ms. Grant.
+
+**Ms. Grant:** Funny, I was just thinking about you, Max.
+{{#tag:tabber|Signed the petition# Signed the petition**Ms. Grant:** Thanks again for taking a stand against camera surveillance here. Every signature counts.
+
+{{!}}-{{!}}Didn't sign the petitionDidn't sign the petition**Ms. Grant:** It's too bad you didn't sign the petition. Every signature counts and yours might be the one that decided.
+
+{{!}}-{{!}}(Unknown cause)# (Unknown cause)**Ms. Grant:** I like the way you look like you're always thinking ahead.
+
+}}
+
+|-|Further times (while more options are available, and after talking to Warren)Further times (while more options are available, and after talking to Warren)**Max:** Hi again, Ms. Grant.
+
+**Ms. Grant:** Right back at you, Max.
+|-|Further times (while no options are available, but before talking to Warren)# Further times (while no options are available, but before talking to Warren)**Ms. Grant:** Go on, Max. We'll talk again. Real soon.
+
+*The conversation ends here.*
+
+Petition.Petition.**Max:** How is your campaign going?
+
+{{#tag:tabber|Signed the petition# Signed the petition**Ms. Grant:** You signed the petition. Now it's your campaign, too. Thanks for stepping up. More people would rather send a text than sign a petition. That's how they keep us all distracted. Nobody will notice cameras on every square foot.
+
+**Max:** I know. I really hope you keep those cameras from taking over Blackwell.
+
+**Ms. Grant:** Max, with students like you, we sure will.
+
+{{!}}-{{!}}Didn't sign the petitionDidn't sign the petition**Ms. Grant:** It's missing somebody who should care, but no finger-pointing here, Max. More people would rather send a text than sign a petition. That's how they keep us all distracted. Nobody will notice cameras on every square foot.
+
+**Max:** Some of us want to use our cameras for good.
+
+**Ms. Grant:** But people like David Madsen want to use them to spy.
+
+**Max:** Geez, I'm not like him, Ms. Grant.
+
+**Ms. Grant:** I know, Max. But the trick is to make sure Blackwell Academy doesn't end up like him.
+
+}}
+
+|-|Experiment. (after failing to help Warren)# Experiment. (after failing to help Warren)**Max:** Ms. Grant, can I ask you a possibly dumb science question?
+
+**Ms. Grant:** You know my stock teacher answer: there are no dumb questions. Ask away.
+
+**Max:** Would you add potassium or sodium to a chemical mix for this week's experiment?
+
+**Ms. Grant:** Neither, unless you want a face full of powder. I would add chlorine.
+
+|-|Photos.Photos.**Max:** I'm just thinking about all the autumn photos I want to take...
+
+**Ms. Grant:** Oh, this is my favorite time of year. I do love the season change. This whole campus is a visual delight. I know Mr. Jefferson loves to shoot around here.
+
+{{#tag:tabber|You know Jefferson.# You know Jefferson.**Max:** You must know Mr. Jefferson pretty well by now.
+
+**Ms. Grant:** I certainly know him as a talented artist and terrific teacher. I've been here a little longer, but he's made a bigger mark...
+
+{{!}}-{{!}}You like photography.You like photography.**Max:** You must like photography.
+
+**Ms. Grant:** I do, but I am certainly no artist. I'm all about the science. You can't debate numbers.
+
+}}
+
+**Ms. Grant:** I have to say, it's not quite autumn enough yet.
+
+{{#tag:tabber|Snow?# Snow?**Max:** What about that snow yesterday? What's your scientific explanation?
+
+**Ms. Grant:** Our climate is moving beyond explanation. Of course, some of the tribes here might see it different...
+
+{{!}}-{{!}}I can't wait.I can't wait.**Max:** I can't wait for fall either. It's all about the atmosphere.
+
+**Ms. Grant:** You're the artist and I'm the scientist... like yin and yang.
+
+}}
+
+|-|Bye.# Bye.**Max:** I'm sorry, Ms. Grant, but I have to get going.
+
+**Ms. Grant:** Go on, Max. We'll talk again. Real soon.
+
+# 
+
+Generate five trivia questions relevant to this section of the page.

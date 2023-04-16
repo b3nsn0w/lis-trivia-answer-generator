@@ -1,0 +1,52 @@
+[
+  {
+    "question": "In the alternative timeline, what is Max's role in the Vortex Club?",
+    "answer": "B",
+    "choices": {
+      "A": "Party Planner",
+      "B": "Queen Bee",
+      "C": "Treasurer",
+      "D": "Social Media Manager"
+    }
+  },
+  {
+    "question": "What is Chloe's condition in the alternative timeline?",
+    "answer": "C",
+    "choices": {
+      "A": "Blindness",
+      "B": "Deafness",
+      "C": "Quadriplegia",
+      "D": "Amnesia"
+    }
+  },
+  {
+    "question": "What does Chloe ask Max to do in the alternative timeline?",
+    "answer": "B",
+    "choices": {
+      "A": "Fetch Her Morphine",
+      "B": "End Her Life",
+      "C": "Take Her To The Beach",
+      "D": "Call Her Friends"
+    }
+  },
+  {
+    "question": "How does Max enter the polarized timeline?",
+    "answer": "A",
+    "choices": {
+      "A": "By Focusing On A Selfie",
+      "B": "By Using Her Time Rewind Power",
+      "C": "By Entering A Portal",
+      "D": "By Falling Asleep"
+    }
+  },
+  {
+    "question": "What happens to Rachel Amber in the polarized timeline?",
+    "answer": "C",
+    "choices": {
+      "A": "She Escapes From The Dark Room",
+      "B": "She Is Rescued By Max",
+      "C": "She Is Found Dead",
+      "D": "She Is Arrested By The Police"
+    }
+  }
+]

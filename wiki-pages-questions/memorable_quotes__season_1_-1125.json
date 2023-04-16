@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Warren Compare Art To?",
+    "answer": "A",
+    "choices": {
+      "A": "Science",
+      "B": "History",
+      "C": "Literature",
+      "D": "Philosophy"
+    }
+  },
+  {
+    "question": "What Movie Marathon Does Warren Suggest To Max?",
+    "answer": "C",
+    "choices": {
+      "A": "Star Wars",
+      "B": "Harry Potter",
+      "C": "Planet of the Apes",
+      "D": "Lord of the Rings"
+    }
+  },
+  {
+    "question": "What Does Warren Ask Max For In The Dark Room?",
+    "answer": "C",
+    "choices": {
+      "A": "A Gun",
+      "B": "A Flashlight",
+      "C": "A Picture",
+      "D": "A Key"
+    }
+  },
+  {
+    "question": "What Does Warren Suggest May Have Caused A Chain Reaction In The Environment?",
+    "answer": "A",
+    "choices": {
+      "A": "Time Travel",
+      "B": "Global Warming",
+      "C": "Nuclear Testing",
+      "D": "Pollution"
+    }
+  },
+  {
+    "question": "What Does Warren Call Max In Max's Nightmare?",
+    "answer": "B",
+    "choices": {
+      "A": "A Hero",
+      "B": "A Villain",
+      "C": "A Traitor",
+      "D": "A Murderer"
+    }
+  }
+]

@@ -1,0 +1,227 @@
+= Episode 3: Chaos Theory =
+
+<div style="width:100%; margin-left:3%; margin-right:3%">{{Free Tab
+|minwidth = 17%
+|maxwidth = 30%
+|borderradius = 4
+|height = 2
+|tab1=Overview|link1=Episode 3: Chaos Theory
+|tab2=Summary|link2=Episode 3: Chaos Theory - Summary
+|tab3=Choices|link3=Episode 3: Chaos Theory - Choices
+|tab4=Image Gallery|link4=Episode 3: Chaos Theory - Image Gallery
+|tab5=Script|link5=Episode 3: Chaos Theory - Script
+}}</div>
+
+{{Scaleimage|file=Episode_3_Cover_(2).jpg|size=large}}
+{{Infobox Episode
+|title = Chaos Theory
+|season = 1
+|number = 3
+|image = TX Episode3 Preview.png
+|imagewidth = 250
+|airdate = May 19, 2015
+|writer = [[Jean-Luc Cano]]<br />[[Christian Divine]]
+|director = [[Michel Koch]]<br/>[[Raoul Barbet]]
+|Previous = [[Episode 2: Out of Time]]
+|Next = [[Episode 4: Dark Room]]}}
+"'''Chaos Theory'''" is the third episode of ''[[Life is Strange]]''. The episode was released May 19, 2015, and is available on PC, Mac, PS3, PS4, Xbox 360 and Xbox One.
+
+== Synopsis ==
+[[Maxine Caulfield|Max Caulfield]] and her "partner in crime", [[Chloe Price]], start an investigation into the mysteries surrounding Blackwell students [[Kate Marsh]] and [[Rachel Amber]]. As they make headway, Chloe discovers that even those close to her have secrets. A new [[Rewind|rewind power]] presents itself to Max, and its use has devastating consequences.
+
+: ''See here for [[Max's Diary#Episode_Three_-_.22Chaos_Theory.22|diary entries]] and [[Max's Messages#Episode_Three_-_.22Chaos_Theory.22|messages]] from this episode.''
+
+== Checkpoints ==
+# Girls' Dormitories
+# [[Prescott Dormitory|Dormitories]]
+# [[Main Campus]] - Evening
+# [[Blackwell Academy|High School]] - Evening
+# [[Blackwell Swimming Pool|Swimming Pool]] - Evening
+# [[Blackwell Parking Lot|Parking Lot]] - Evening
+# [[Madsen Household|Chloe's House]] - Upstairs
+# Chloe's House - Downstairs
+# [[Two Whales Diner|Diner]]
+# Chloe's Truck
+# Main Campus - Noon
+# [[Max's Room]]
+# Chloe's House - Focus
+# [[Alternative Timeline (Life is Strange)|Alternative]] Main Campus
+
+== Characters ==
+{| width="100%" align="center"
+| valign="top" |
+*[[Maxine Caulfield|Max Caulfield]]
+*[[Juliet Watson]]
+*[[Daniel DaCosta]]
+*[[Dana Ward]]
+*[[Taylor Christensen]]
+* Principal [[Raymond Wells]]
+* [[Chloe Price]]
+* [[Warren Graham]]
+* [[Victoria Chase]]
+* [[Mark Jefferson]]
+* [[David Madsen]]
+* [[Joyce Price]]
+* [[Richard Marsh]] ('''Determinant''')
+* [[Kate Marsh]] ('''Determinant''')
+* [[Alice the Rabbit|Alice]] (Kate's rabbit)
+* [[R.J. MacReady]] (Fisherman)
+* [[Homeless Lady]]
+| valign="top" |
+* [[Truck Driver]] (In front of the [[Two Whales Diner|diner]])
+* [[Weird Lady]] (Diner)
+* [[Diner Dude|Dude]] (Diner)
+* [[Alyssa Anderson]]
+* Officer [[Anderson Berry]]
+* [[Nathan Prescott]]
+* [[Frank Bowers]]
+* [[Pompidou]] (Frank's dog)
+* [[William Price]]
+* [[Hayden Jones]]
+* [[Courtney Wagner]]
+* [[Zachary Riggins]]
+* [[Evan Harris]]
+* [[Brooke Scott]]
+* [[Bernadette Hoida]] (Mentioned)
+* [[Michelle Grant]] (Mentioned)
+* [[Rachel Amber]] (Mentioned)
+|}
+
+== Deaths ==
+*[[Lisa the Plant]] <small>(Determinant)</small> - Lisa might be found drowned or dehydrated depending on Max's earlier choices to water her twice or not watering her at all in the last two episodes.
+*Local Birds - Dead birds are seen in the backyard of the Madsen household.
+*Fish <small>(Mentioned)</small> - The fisherman mentions that there are no edible fish left in [[Arcadia Bay]].
+*Humpback Whales - Humpback Whales can be seen lying on the [[Alternative Beach|beach]] while Max is on her way to Chloe's House in the [[Alternative Timeline (Life is Strange)|alternative timeline]]. They are also there in the [[Timeline|main timeline]].
+
+== Licensed Soundtrack ==
+{{Main|Soundtrack (Life is Strange)}}
+*"[[Lua]]" - Bright Eyes <small>(Morning sequence in Chloe's Room)</small>
+*"[[Santa Monica Dream]]" - Angus & Julia Stone <small>(Optionally played in Chloe's Room)</small>
+*"[[Piano Fire]]" - Sparklehorse <small>(Optionally played in Chloe's Room)</small>
+*"[[Kids Will Be Skeletons]]" - Mogwai <small>(Max's bus ride in the closing sequence)</small>
+
+== Reception ==
+* Chaos Theory has the second highest Metascore of all episodes on Metacritic with a Metascore of 80 and a User Score of 9.0.
+* IGN gave it a great 8.0 calling it a massive turn with a heartfelt and ambitious new story.
+
+== Achievements ==
+There are twelve [[Achievements (Life is Strange)|achievements]] the player can earn on Steam, PlayStation or Xbox.
+
+{{Achievements
+|name = Parallax View
+|image = Parallax_View_Achievement.png
+|description = Take optional photo #1 in Episode 3: Chaos Theory
+|type = bronze
+|score = 10
+}}
+{{Achievements
+|name = Lenscrafted
+|image = Lenscrafted_Achievement.png
+|description = Take optional photo #2 in Episode 3: Chaos Theory
+|type = bronze
+|score = 10
+}}
+{{Achievements
+|name = The Reflex
+|image = The_Reflex_Achievement.png
+|description = Take optional photo #3 in Episode 3: Chaos Theory
+|type = bronze
+|score = 10
+}}
+{{Achievements
+|name = Histogrammar
+|image = Histogrammar_Achievement.png
+|description = Take optional photo #4 in Episode 3: Chaos Theory
+|type = bronze
+|score = 10
+}}
+{{Achievements
+|name = Bokeh
+|image = Bokeh_Achievement.png
+|description = Take optional photo #5 in Episode 3: Chaos Theory
+|type = bronze
+|score = 10
+}}
+{{Achievements
+|name = Pinholed
+|image = Pinholed_Achievement.png
+|description = Take optional photo #6 in Episode 3: Chaos Theory
+|type = bronze
+|score = 10
+}}
+{{Achievements
+|name = RAW Strength
+|image = RAWStrengthAchievement.png
+|description = Take optional photo #7 in Episode 3: Chaos Theory
+|type = bronze
+|score = 10
+}}
+{{Achievements
+|name = Viewfinder
+|image = Viewfinder_Achievement.png
+|description = Take optional photo #8 in Episode 3: Chaos Theory
+|type = bronze
+|score = 10
+}}
+{{Achievements
+|name = Optican
+|image = Optican_Achievement.png
+|description = Take optional photo #9 in Episode 3: Chaos Theory
+|type = bronze
+|score = 10
+}}
+{{Achievements
+|name = Flash!
+|image = Flash!_Achievement.png
+|description = Take optional photo #10 in Episode 3: Chaos Theory
+|type = bronze
+|score = 10
+}}
+{{Achievements
+|name = Camera Eye
+|image = Camera_Eye_Achievement.png
+|description = Take all optional photos in Episode 3: Chaos Theory
+|type = bronze
+|score = 45
+}}
+{{Achievements
+|name = Chaos Theory
+|image = Chaos_Theory_Achievement.png
+|description = Finish Episode 3: Chaos Theory
+|type = bronze
+|score = 55
+}}
+
+== Trivia ==
+* The term "Chaos Theory" is a mathematical sub-discipline that studies "behaviors in dynamical systems that are highly sensitive to initial conditions". The "butterfly effect" is often used within chaos theory to metaphorically describe how small things, such as the flapping of a butterfly's wings, may have large effects, such as causing a tornado elsewhere.
+* If you rewind time after using the vending machine and use it again while searching through Blackwell at night, Max will make a comment about how she could get every can in the machine with just one coin.
+* If you go inside a Swimming Pool locker room and then rewind, Chloe says, "Dude, it's getting old! Try and dazzle me with another trick!"
+* The audio files for Episode 3, contain a file called "VO_E3_6B.STM_pck-0000000043", featuring [[Officer Berry]]'s voice: "Since you know so much about episode two, maybe you should tell me what's going on? I sure hope you're not proud of yourself for playing a leaked, incomplete game, and, if you do it again, next time you roll through Arcadia Bay might be your last time. Choose wisely."[[File:Headphones.png|16px|link=https://instaud.io/17vx]]
+[[File: Moved Eggs Episode Three After Patch.jpg|165x165px|thumb]]
+* With the [[Limited Edition (Life is Strange)#Limited Edition Patch|patch update]] on January 19, 2016, the shopping bag with the eggs Max has to find for Joyce's breakfast was moved from the door to the kitchen probably due to a lot of complaints about how hard it was to find.
+* The morning after the break-in at Blackwell Academy, Max will receive three text messages from Warren a few seconds after she gets up from Chloe's bed. The timestamps of these texts are: 8:13 am, 8:13 am, and 8:14 am. Max receives no further texts while she is inside Chloe's room. Once Max exits the room, she will receive a text from [[Richard Marsh]] (Kate's father). This text has a timestamp of 8:10 am, which is prior to the timestamps on Warren's texts. While many modern smartphones and Apple's iMessage display the time a message was originally sent rather than the time it was received, this capability was uncommon for messages sent with SMS in the United States in 2013.<ref>https://forum.xda-developers.com/t/q-sms-time-sent-vs-received.2695980/</ref>
+* The day following the school break-in, distinct rumbles of thunder can occasionally be heard if Max is out in the garden at Chloe's house, further signifying the approach of the big storm.
+* The clock in the dining area of Chloe's house has real-time hand movement. The hands are positioned at approximately 8:22 am when Max heads downstairs. However, idling to run up the time to the timestamp of text messages from later scenes will not cue those messages to appear in this scene. The messages are scripted, that is, to appear once Max has reached a certain point in the game, not once a certain amount of time has passed.<ref>This was discovered by allowing Max to stand idle until the clock hands reached 9:17 am, which is the time she receives a text message from her dad. This text is only received when Max makes her way towards the entrance of the Two Whales Diner in the next chapter.) If the ''Chloe's House - Downstairs'' chapter is played at a normal pace, it is estimated that Max leaves the house with Chloe at approximately 8:50 am (as a minimum time).</ref>
+* One of the dates on Chris' height chart on his father's wardrobe is "09/10/2013". When read as a European date, this is possibly a link to the third episode of the original Life is Strange, "Chaos Theory", which takes place on October 9th.
+* A nightmare sequence was originally planned to occur when Max spends the night at Chloe's house, as indicated by "E3_4A Nightmare" being included in the location list found in the files.<ref>[https://tcrf.net/Life_is_Strange_(Windows,_Mac_OS_X,_Linux)/Early_Locations The Cutting Room Floor - Early Locations]</ref>
+
+== Trailers ==
+<gallery spacing="large" captionalign="center" position="center" bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="200">
+Life is Strange Episode 3 Launch Trailer (PEGI)
+Life Is Strange - Episode 3 Chaos Theory - Preview Trailer (HD) 1080p
+</gallery>
+
+== Notes ==
+<references />
+{{Episodes}}
+[[de:Episode 3: Chaos Theory]]
+[[es:Episodio 3: Teoría del caos]]
+[[fr:Épisode 3: Chaos Theory]]
+[[pl:Epizod 3: Teoria chaosu]]
+[[ru:Эпизод 3: Теория Хаоса]]
+[[pt-br:Episódio 3: Chaos Theory]]
+
+[[Category:Episodes (Life is Strange)]]
+[[Category:Episode 3: Chaos Theory]]
+[[Category:Episodes]]
+[[Category:Life is Strange]]

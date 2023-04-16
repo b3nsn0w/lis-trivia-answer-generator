@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the name of the achievement in Tell Me Why that references Life is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Remember Strange Vampyr",
+      "B": "Strange Time Travelers",
+      "C": "Life is Strange Memories",
+      "D": "Vampyr Memories"
+    }
+  },
+  {
+    "question": "What is the license plate in the Two Whales Diner parking lot that references Groundhog Day?",
+    "answer": "A",
+    "choices": {
+      "A": "GRNDHGD",
+      "B": "TIMELUP",
+      "C": "LOOPDAY",
+      "D": "TIMETRP"
+    }
+  },
+  {
+    "question": "What is the number for the anti-depression hotline found in the Prescott Dormitory in Episode 1?",
+    "answer": "A",
+    "choices": {
+      "A": "555-784-9165",
+      "B": "555-846-9129",
+      "C": "555-756-1896",
+      "D": "555-388-6020"
+    }
+  },
+  {
+    "question": "What is the name of the character who asks Max about her favorite science-fiction film in Episode 2?",
+    "answer": "A",
+    "choices": {
+      "A": "Alyssa Anderson",
+      "B": "Rachel Amber",
+      "C": "Steve Hackney",
+      "D": "Tyron"
+    }
+  }
+]

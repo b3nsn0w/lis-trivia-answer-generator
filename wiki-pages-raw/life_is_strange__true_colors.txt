@@ -1,0 +1,266 @@
+= Life is Strange: True Colors =
+
+{{Free Tab
+|minwidth = 30%
+|maxwidth = 32%
+|borderradius = 4
+|height = 2
+|tab1= Franchise |link1= Life is Strange (franchise)
+|tab2= Life is Strange |link2= Life is Strange
+|tab3= Before the Storm |link3= Life is Strange: Before the Storm
+|tab4= Captain Spirit |link4= The Awesome Adventures of Captain Spirit
+|tab5= Life is Strange 2 |link5= Life is Strange 2
+|tab6= True Colors|link6= Life is Strange: True Colors
+|tab7=  |link7= 
+}}
+{{Infobox VG
+|title = Life is Strange: True Colors
+|image = [[File:LiS TrueColors KeyArt.jpg
+|270px]]
+|developer = [[Deck Nine Games]]
+|publisher = [[wp:Square Enix|Square Enix]]
+|director = [[Zak Garriss]]
+|writer = 
+|artist = 
+|composer = 
+|platform = PC, PS4, PS5, Xbox One, Xbox Series X, and Google Stadia 
+|released = September 10, 2021
+[[Japanese Release (True_Colors) | JPN Release]]: February 25, 2022 
+|genre = Interactive Storytelling<br/>Drama, Adventure, Mystery
+|languages =English, Japanese (JPN Release) 
+|ratings = ESRB-M
+}}
+
+'''Life is Strange: True Colors''' is the latest entry to the [[Life is Strange (Franchise)|''Life is Strange'' franchise]], developed by [[Deck Nine Games]]. It was released on September 10, 2021.
+
+== Story ==
+=== Synopsis ===
+The story follows [[Alex Chen]], a young Asian-American woman who - after eight years in the Oregon foster care system - reunites with her brother [[Gabe]] in the cozy midwestern town of [[Haven Springs]], Colorado. Her fresh start at Haven is shaken by the sudden and mysterious death of her brother.
+
+=== Official Description ===
+"Alex Chen hides her 'curse': the psychic power of Empathy, the ability to absorb the emotions of others. When her brother dies in a so-called accident, Alex must embrace her power to find the truth."
+
+== Chapters ==
+*[[Chapter 1: Side A]]
+*[[Chapter 2: Lanterns]]
+*[[Chapter 3: Monster or Mortal]]
+*[[Chapter 4: Flicker]]
+*[[Chapter 5: Side B]]
+* Bonus Story: "[[Wavelengths]]"
+
+== Characters ==
+* [[Alex Chen]]
+* [[Charlotte Harmon]]
+* [[Diane Jacobs]]
+* [[Reginald McCallister III|Duckie]]
+* [[Eleanor Lethe]]
+* [[Ethan Lambert]]
+* [[Gabe Chen]]
+* [[Jason Pike]]
+* [[Jed Lucan]]
+* [[John Chen]]
+* [[Mac Loudon]]
+*[[Mikey North (Wavelengths)|Mikey North]]
+* [[Riley Lethe]]
+* [[Ryan Lucan]]
+* [[Steph Gingrich (True Colors)|Steph Gingrich]]
+* [[Valkyrie]]
+* [[Wendy Chen]]
+* [[Dr. Lynn]]
+*[[Drew North (Wavelengths)|Drew North]]
+*[[Ann Lucan]]
+*[[Izzie]]
+*[[Chloe Price (Wavelengths)|Chloe Price]]
+*[[Hector Gonzales]]
+*[[Josh Hopkins and Julia Crowe]]
+*[[Jesse Whitaker]]
+*[[Jack Stevens]]
+*[[Sonny and Angela Anderson]]
+
+== Theories ==
+
+* Many fans believed that the protagonists from the past games (such as Max, Chloe, Rachel, Sean, or Daniel) would either make a cameo appearance or be mentioned in the game. This was proven incorrect in the main story, but it is partially correct in the bonus story. Chloe and Rachel are mentioned by Mikey and Steph, who will remember some past conversations where Chloe and Rachel's voices can be heard. Max is indirectly mentioned if Arcadia Bay was sacrificed in the first game.
+* In ''Wavelengths'', it was confirmed that an old friend of Steph's will appear. Fans speculated that the friend was [[Mikey North]], who also appeared in ''Before the Storm''. This theory was confirmed to be correct in the DLC trailer.
+* Although Gabe's death was said to be an accident in the trailer, it is possible that he was killed, either intentionally or accidentally. This theory was proven correct when it is revealed that a planned explosion caused a falling rock to kill Gabe.
+* It was speculated that some of the characters introduced in the trailer could have ulterior motives. Fans also believed that there could be hidden antagonists involved. Both theories were proven correct when it is revealed that the antagonists are Jed and Diane, who work for the rogue mining company Typhon.
+*Some fans presumed that some of the main characters would die depending on the choices made throughout the game. This theory was proven incorrect.
+*Because ''True Colors'' takes place after the other ''Life is Strange'' games, some fans believed that the final choices from the other games would impact this game’s storyline. This theory was proven incorrect in the main story, but it is partially correct in the bonus story. The final choice in the first game affects Steph and Mikey's past memories of Arcadia Bay.
+*Some fans believed that [[Mark Jefferson]] would return in this story as the main antagonist and responsible for Gabe's death. This theory was proven incorrect in the main story, but it is partially correct in the bonus story. Jefferson appears on a newspaper article in Steph's laptop if Chloe was sacrificed in the first game, but he himself does not play a major role in the story.
+*It was speculated that Alex would discover her powers during the game, similar to how Max and Daniel discovered theirs. This theory was proven incorrect, as Alex says that she has had her powers prior to her arrival at Haven. How she discovered them is unexplained.
+*Some believed that an incident that involved Alex's powers is the reason why Alex ended up in foster care. This theory is proven incorrect.
+*The secrets hidden within Haven Springs were thought to have connections with events from the past games. This was proven wrong as there is no mention of any events from the earlier games.
+*It was believed that the game could have at least 2-4 alternate endings like the previous games. This theory was proven correct, as it is revealed that there are four alternate endings in total.
+*Some speculated that Alex (unconsciously) killed Gabe herself due to her powers, and the entire point of the game was for her to come to terms with herself. This theory was proven incorrect.
+*Some fans believed that making certain choices would determine who killed Gabe. This was proven incorrect.
+*It was speculated that Gabe's death could be suicide with a yet unexplained reason. This was proven false.
+*It could be possible that Gabe faked his death, but the reason why is yet to be revealed. This was proven wrong.
+
+== Development ==
+Deck Nine Games had started working on the game in late 2017,<ref>[[Square Enix Presents 2021]] (March 18, 2021)</ref>, presumably shortly after the development of ''Before the Storm'' was completed. They were surprised at the positive reception for [[Steph Gingrich]], so they included her in the game.
+
+The voice actors were contracted to work in in 2018, with their work motion capture voice recording occurring from late 2018 to very early 2021, with Wavelengths occurring in November to January 2021. Since their studio is located in Colorado, they had flown actors from various places, such as Katy Bentz taken from [[Los Angeles]]. In 2020, the development of the game was forced to change to remote work. Voice actors were sent home and given equipment for voice recording, rather than in studio.
+
+
+[[File:Square Enix Presents 2021.jpg|thumb|220px|alt=|Square Enix Presents 2021, March 18.]]On March 11, 2021, it was revealed on the official ''Life is Strange'' social media channels that Square Enix is currently working on a new entry to the ''Life is Strange'' franchise, which will feature "a brand new cast, power and story."<ref>[https://twitter.com/LifeIsStrange/status/1370419684881874944 Twitter post by the official ''Life is Strange'' account] (March 12, 2021)</ref> The following day, a promo key art was published that provides a first glimpse at the new protagonist who is "wielding an exciting new power."<ref> [https://www.gamespress.com/de/SQUARE-ENIX-PRESENTS-DIGITAL-SHOWCASE-SERIES-TO-PREMIERE-O-Square-Enix Press Release: Square Enix Presents Digital Showcase Series to Premire on March 18] (March 11, 2021)</ref> 
+
+Further information was announced to be revealed during the [https://www.youtube.com/watch?v=XK-E3CY6vWk Square Enix Presents event] on March 18, 2021, which was headlined with the reveal of an "all-new Life is Strange". During the reveal, the main character, their power, the game's cast, story and setting were presented. It was also revealed that [[Steph Gingrich (True Colors)|Steph Gingrich]], known from ''[[Life is Strange: Before the Storm]]'', will be featured as one of the main characters and one of the potential love interests.
+
+Director Zak Garriss explained that ''Life is Strange: True Colors'' was designed "to take the series into the next generation."<ref>[https://www.gamesradar.com/life-is-strange-true-colors-interview-future-games-show/ The future of Life is Strange: how True Colors is leading the series into the next generation] (March 26, 2021)</ref>
+
+== News ==
+* Unlike the other ''Life is Strange'' installments, ''True Colors'' will not be an episodic title. The full game will be available on September 10. 
+* The game is being directed by [[Zak Garriss]] who was the Lead Writer on ''Before the Storm''.
+* The original score for ''True Colors'' will be composed by folk and indie pop group Angus & Julia Stone, who have already been featured on the original ''[[Life is Strange]]'' soundtrack with their song "[[Santa Monica Dream]]".<ref>[https://www.gamepur.com/news/life-is-strange-true-colors-enters-your-brain-this-september Life is Strange: True Colors enters your brain this September] (March 18, 2021)</ref> The [[Soundtrack (True Colors)|soundtrack]] will also feature new tracks by mxmtoon and Novo Amor, and extensive licensed songs including Radiohead, Phoebe Bridgers, Gabrielle Aplin, Cyrus Reynolds and more.<ref>[https://store.steampowered.com/app/936790/Life_is_Strange_True_Colors/ Steam page]</ref><ref>[https://twitter.com/iamnovoamor/status/1374375467243859973 Twitter post by Novo Amor]</ref>
+* Alex's singing voice will be provided by singer-songwriter and Twitch streamer [[mxmtoon]], who is a self-described fan of the franchise.<ref>[https://gamerant.com/life-is-strange-true-colors-features-mxmtoon-twitch-streamer-singer/ Life is Strange: True Colors Features Twitch Streamer and Singer Mxmtoon] (March 18, 2021)</ref> 
+* The pre-order offer includes four additional in-game outfits for Alex.
+* The Deluxe and Ultimate Edition of the game will feature a bonus story called "[[Wavelengths]]" which features Steph Gingrich as the playable protagonist.
+* The game takes place in May 2019, nearly six years after the original ''Life is Strange'', almost two years after the ending of ''Life is Strange 2'' at the border and nine years after ''Before the Storm'', as a [[Media:Calender Trailer.png|calender shown in the trailer]] indicates.
+* Unlike [[Maxine Caulfield|Max Caulfield]] and [[Daniel Diaz]], Alex is implied to have discovered her powers prior to the game's events.
+
+== Game Editions ==
+=== Standard Edition ===
+The Standard Edition includes; the base Life is Strange: True Colors game.
+
+=== Deluxe Edition ===
+The Deluxe Edition includes; the base Life is Strange: True Colors game, the [[Wavelengths]] bonus story, and the Life is Strange Hero Outfit Pack, a cosmetic DLC.
+
+=== Ultimate Edition ===
+The Ultimate Edition includes the following;
+
+* Life is Strange: True Colors
+* [[Wavelengths]] Bonus Episode
+* Life is Strange Hero Outfit Pack
+* [[Life is Strange Remastered]]
+* [[Before the Storm Remastered]]
+* Life is Strange: Before the Storm - Zombie Crypt Outfit 
+
+== Soundtrack ==
+{{Main|Soundtrack (True Colors)}}
+
+''Life is Strange: True Colors'' features an original score, composed and performed by [[Angus & Julia Stone|Angus Stone and Julia Stone]]. In addition to the original score, the game features several licensed tracks from artists like, Kings of Leon, Phoebe Bridgers, Novo Amor, and several others.
+
+== Reception ==
+TBA
+
+== System Requirements ==
+{| class="article-table" border="0" cellpadding="1" cellspacing="1" style="width: 600px; centre"
+|-
+! scope="col" |Minimum:
+! scope="col" |Recommended:
+|-
+|OS: Windows 10 64-bit
+|OS: Windows 10 64-bit
+|-
+|Processor: MD Phenom II X4 965, 3.40 GHz / Intel Core i5-2300, 2.80 GHz
+|Processor: AMD FX-8350, 4.00 GHz / Intel Core i5-3470, 3.20 GHz
+|-
+|Memory: 6 GB RAM
+|Memory: 8 GB RAM
+|-
+|Graphics: Radeon HD 7790, 2 GB / GeForce GTX 750Ti, 2 GB
+|Graphics: Radeon RX 590, 8 GB / GeForce GTX 1060, 6 GB
+|-
+|DirectX: Version 11
+|DirectX: Version 11
+|-
+|Hard Drive: 30 GB available space
+|Hard Drive: 30 GB available space
+|}
+'''Note:''' 32-bit operating systems will not be supported.
+
+== Trivia ==
+[[File:Zombie Crypt_Outfit_Chloe_Comparison.jpg|thumb|170px|"Zombie Crypt" outfit from Before the Storm Remastered and the comics.]]
+* The pre-order bonus "Zombie Crypt" outfit, which is included in the [[Before the Storm Remastered]] edition and the Ultimate Edition of ''Life is Strange: True Colors'', is a nod to the [[Life is Strange (Comic Series)|comic series]]. Chloe Price is wearing a shirt with the same design in issue 1, page 9, 11-18.
+* Alex can be seen wearing a [[Hawt Dawg Man]] t-shirt in the trailer.
+*This is the second ''Life is Strange'' game where deaths are unavoidable (the LARP deaths do not count as they are just pretend). The first was ''[[Life is Strange: Before the Storm|Before the Storm]]''.<br /><br /><br />
+
+== Gallery ==
+=== Promo Key Art ===
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="200" captionalign="center" position="center">
+LiS21 promo.jpg
+LiS TrueColors KeyArt.jpg
+</gallery>
+
+=== Promo Screenshots ===
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="200" captionalign="center" position="center">
+01_Alex_Rooftop_1080.jpg
+02_Alex_and_Gabe_1080.jpg
+03_Bridge_of_Flowers_1080.jpg
+04_Ryan_Record_Store_1080.jpg
+05_Steph_Sadness_Power_1080.jpg
+06 Steph Record Store 1080.jpg
+07_Charlotte_Grief_1080.jpg
+08_Haven_Springs_Main_Street_1080.jpg
+09_Ryan_Alex_Gabe_Mystery_1080.jpg
+10_Alex_Guitar_1080.jpg
+11_Steph_Wake_1080.jpg
+12_Record_Store_1080.jpg
+13 Alex Power 1080.jpg
+</gallery>
+
+=== Cosplay Reference Sheets ===
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="200" captionalign="center" position="center">
+CosplayRef_Alex.jpg
+CosplayRef_Ryan.jpg
+CosplayRef_Steph.jpg
+</gallery>
+=== Concept Art===
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="200" captionalign="center" position="center">
+Scott-willhite-mohawk-girl.png
+Scott-willhite-misc-picture-4.png
+Scott-willhite-town-on-lake-concept-scene-21-version-2-scotts-adjusted-version-2-logo-copy.png
+Scott-willhite-rooftop-garden-concept-sketch-1-copy-logo.png
+Scott-willhite-record-store-view-to-front-w-logo.png
+Scott-willhite-radio-station-interior-sketch-1.png
+Scott-willhite-park-spring-festival-night-white-uplights-logo.png
+Scott-willhite-mine-collapsed-tunnel-scott-copy.png
+Scott-willhite-flower-shop-2-logo.png
+Scott-willhite-dispensary-mural-flattened-cropped.png
+Scott-willhite-dispensary-mural.png
+Scott-willhite-bridge-of-flowers-w-logo.png
+Scott-willhite-black-lantern-interior-view-to-back-logo.png
+Scott-willhite-black-lantern-interior-sketch-2-view-to-front-logo.png
+Scott-willhite-black-lantern-front-exterior-view-scotts-adjusted-w-logo.png
+Scott-willhite-black-lantern-2nd-floor-interior-sketch-1c-logo.png
+Jan-wah-li-ryan-ch6-casual-2.png
+Jan-wah-li-riley-ch2-wake-1.png
+Jan-wah-li-npcs-lineup.png
+Jan-wah-li-jed-ch3-casual-1.png
+Jan-wah-li-jed-ch2-wake-1.png
+Jan-wah-li-ethan-ch2-casual-1.png
+Jan-wah-li-eleanor-ch2-wake-1.png
+Jan-wah-li-duckie-larp-1.png
+Jan-wah-li-duckie-ch6-casual-1.png
+</gallery>
+
+== Videos ==
+=== Trailers ===
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="200" captionalign="center" position="center">
+Life is Strange- True Colors - Announce Trailer
+SE Presents Life is Strange- True Colors - Announce Show -ESRB-
+Life Is Strange- True Colors Developer Presentation
+Square Enix Presents - Spring 2021 
+</gallery>
+
+=== Soundtrack ===
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="200" captionalign="center" position="center">
+Mxmtoon - creep -official audio-
+Mxmtoon - creep -acoustic-
+Novo Amor - Haven (from Life Is Strange) -official audio-
+</gallery>
+=== Other ===
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="200" captionalign="center" position="center">
+Life is Strange- True Colors - Nintendo Switch Boxed Version Out Now! -ESRB-
+Life is Strange- True Colors - Nintendo Switch Boxed Version Out Now! -PEGI-
+</gallery>
+
+== External Links ==
+* [https://press.na.square-enix.com/SQUARE-ENIX-ANNOUNCES-LIFE-IS-STRANGE-TRUE-COLORS Square Enix press release] 
+* [https://lifeisstrange.square-enix-games.com/en-us/games/life-is-strange-true-colors/ Official Website]
+* [https://store.steampowered.com/app/936790/Life_is_Strange_True_Colors/ Steam]
+
+== References ==
+<references/>
+[[pt-br:Life is Strange: True Colors]]
+[[Category:True Colors| ]]
+[[Category:Life is Strange]]

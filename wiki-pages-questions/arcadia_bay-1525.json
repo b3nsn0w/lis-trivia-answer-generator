@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who is the drug dealer killed at the Old Mill in Before the Storm?",
+    "answer": "B",
+    "choices": {
+      "A": "Frank Bowers",
+      "B": "Damon Merrick",
+      "C": "Nathan Prescott",
+      "D": "Mark Jefferson"
+    }
+  },
+  {
+    "question": "What is the name of the district attorney in Arcadia Bay during Before the Storm?",
+    "answer": "A",
+    "choices": {
+      "A": "James Amber",
+      "B": "Sean Prescott",
+      "C": "David Madsen",
+      "D": "William Price"
+    }
+  },
+  {
+    "question": "What is the name of the coniferous forest that surrounds Arcadia Bay?",
+    "answer": "C",
+    "choices": {
+      "A": "Redwood Forest",
+      "B": "Sequoia Forest",
+      "C": "Pine Forest",
+      "D": "Cedar Forest"
+    }
+  },
+  {
+    "question": "What is the meaning behind the name \"Arcadia\" in the game?",
+    "answer": "A",
+    "choices": {
+      "A": "It is a reference to a Greek and Latin utopia full of flowers, fruits, and forests.",
+      "B": "It is a reference to a famous philosopher who lived in the town.",
+      "C": "It is a reference to the town's history as a logging community.",
+      "D": "It is a reference to the town's location on the coast of the Pacific Ocean."
+    }
+  }
+]

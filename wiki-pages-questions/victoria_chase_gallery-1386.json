@@ -1,0 +1,32 @@
+[
+  {
+    "question": "In which episode does Victoria win the Everyday Heroes Photo Contest?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "What is the name of the location where Victoria is seen in closeup in Episode Five?",
+    "answer": "B",
+    "choices": {
+      "A": "The End of the World Party",
+      "B": "The Dark Room",
+      "C": "Victoria's Room",
+      "D": "The Diner"
+    }
+  },
+  {
+    "question": "In which episode is there a closeup of Victoria coated in paint?",
+    "answer": "A",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  }
+]

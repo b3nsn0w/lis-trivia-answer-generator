@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Does Chloe Say About Blackwell's Ex-Head Of Security?",
+    "answer": "A",
+    "choices": {
+      "A": "He Is Crying In His Basement Bunker",
+      "B": "He Is On Leave",
+      "C": "He Is Hiding Something",
+      "D": "He Is Related To Chloe"
+    }
+  },
+  {
+    "question": "What Does Chloe Know About Lock-Picking?",
+    "answer": "B",
+    "choices": {
+      "A": "Nothing",
+      "B": "A Little, Thanks To Frank",
+      "C": "A Lot, Thanks To Max",
+      "D": "She Is A Professional Lock-Picker"
+    }
+  },
+  {
+    "question": "What Are The Four Objects Max Needs To Gather To Build The Device?",
+    "answer": "A",
+    "choices": {
+      "A": "Sugar, A Soda Can, Duct Tape, And Sodium Chlorate",
+      "B": "Sugar, A Water Bottle, Glue, And Salt",
+      "C": "A Lighter, A Pen, A Paper Clip, And A Rubber Band",
+      "D": "A Screwdriver, A Hammer, Nails, And A Piece Of Wood"
+    }
+  },
+  {
+    "question": "What Does Max Say After Getting The First Item?",
+    "answer": "B",
+    "choices": {
+      "A": "\"I'm Almost There!\"",
+      "B": "\"Only Two More To Go!\"",
+      "C": "\"I'm Getting Closer!\"",
+      "D": "\"I'm Making Progress!\""
+    }
+  }
+]

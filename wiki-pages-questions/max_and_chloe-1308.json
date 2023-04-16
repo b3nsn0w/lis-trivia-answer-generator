@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Name Of The Newspaper Where Max's Dad Got A Job?",
+    "answer": "A",
+    "choices": {
+      "A": "The Beacon",
+      "B": "The Arcadia Bay Times",
+      "C": "The Daily Bugle",
+      "D": "The Seattle Times"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Movie That Chloe And Max Enjoyed Watching Together As Kids?",
+    "answer": "A",
+    "choices": {
+      "A": "Blade Runner",
+      "B": "Star Wars",
+      "C": "The Godfather",
+      "D": "Jurassic Park"
+    }
+  },
+  {
+    "question": "What Is The Name Of Chloe's Mother's Boyfriend?",
+    "answer": "A",
+    "choices": {
+      "A": "David Madsen",
+      "B": "William Price",
+      "C": "Mark Jefferson",
+      "D": "Nathan Prescott"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Episode Where Max And Chloe Go On A Treasure Hunt?",
+    "answer": "D",
+    "choices": {
+      "A": "Brave New World",
+      "B": "Awake",
+      "C": "Hell Is Empty",
+      "D": "Farewell"
+    }
+  },
+  {
+    "question": "What Is The Name Of Chloe's Best Friend Who Moved Away To Seattle?",
+    "answer": "D",
+    "choices": {
+      "A": "Rachel Amber",
+      "B": "Joyce Price",
+      "C": "David Madsen",
+      "D": "Maxine Caulfield"
+    }
+  }
+]

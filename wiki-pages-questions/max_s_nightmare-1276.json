@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is the ultimate culmination of Max's choice between personal desires and the greater good?",
+    "answer": "A",
+    "choices": {
+      "A": "The storm in Arcadia Bay",
+      "B": "The discovery of Rachel's body",
+      "C": "The kiss dare moment",
+      "D": "The discovery of the binders in Episode 4"
+    }
+  },
+  {
+    "question": "What is the purpose of the nightmare in Life is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "To emphasize the consequences of Max's actions",
+      "B": "To showcase Max's romantic relationships",
+      "C": "To introduce new characters",
+      "D": "To reveal the identity of the killer"
+    }
+  },
+  {
+    "question": "Who defends Max and looks out for her in the diner scene at the end of the nightmare?",
+    "answer": "D",
+    "choices": {
+      "A": "Warren",
+      "B": "Nathan",
+      "C": "David",
+      "D": "Chloe"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Written On The \"Safe Not Sorry\" Poster In The Prescott Dormitory?",
+    "answer": "D",
+    "choices": {
+      "A": "\"Be Prepared\"",
+      "B": "\"Stay Alert\"",
+      "C": "\"Lock Your Doors\"",
+      "D": "\"Trust No One\""
+    }
+  },
+  {
+    "question": "What Is Written On Kate Marsh's Slate Before Max Changes It?",
+    "answer": "B",
+    "choices": {
+      "A": "\"I'm A Loser\"",
+      "B": "\"I'm A Whore\"",
+      "C": "\"I'm A Bitch\"",
+      "D": "\"I'm A Freak\""
+    }
+  },
+  {
+    "question": "What Is Written On The \"No Boys Allowed\" Sign In The Prescott Dormitory?",
+    "answer": "D",
+    "choices": {
+      "A": "\"Girls Only\"",
+      "B": "\"No Men Allowed\"",
+      "C": "\"No Dudes Allowed\"",
+      "D": "\"No Boys Allowed\""
+    }
+  },
+  {
+    "question": "What Is Written On The \"Don't Be A Zombie\" Poster In The Prescott Dormitory?",
+    "answer": "D",
+    "choices": {
+      "A": "\"Wake Up\"",
+      "B": "\"Stay Alert\"",
+      "C": "\"Be Aware\"",
+      "D": "\"Don't Be A Zombie\""
+    }
+  },
+  {
+    "question": "What Is Written On The \"Save The Earth\" Poster In The Prescott Dormitory?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Reduce, Reuse, Recycle\"",
+      "B": "\"Protect Our Planet\"",
+      "C": "\"Save The Environment\"",
+      "D": "\"Save The Earth\""
+    }
+  }
+]

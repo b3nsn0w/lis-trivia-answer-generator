@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is the topic of the Famitsu Life is Strange 2 Special Feature?",
+    "answer": "A",
+    "choices": {
+      "A": "The development of the game's story",
+      "B": "The game's soundtrack",
+      "C": "The game's graphics and visual design",
+      "D": "The game's marketing and promotion"
+    }
+  },
+  {
+    "question": "Which article discusses the importance of political themes in Life is Strange 2?",
+    "answer": "B",
+    "choices": {
+      "A": "Life is Strange 2 finds new ways to diversify after ditching female leads",
+      "B": "Life is Strange 2 puts politics at its forefront",
+      "C": "Life is Strange 2 Developers Establish the Series' DNA in New Behind-the-Scenes Documentary",
+      "D": "Find out why your choices really matter in Life is Strange 2"
+    }
+  },
+  {
+    "question": "Which review describes Life is Strange 2 Episode 1 as serving up \"a storm of feels\"?",
+    "answer": "D",
+    "choices": {
+      "A": "Gamesradar: Life is Strange 2 Episode 1 Review",
+      "B": "IGN: Life is Strange 2 - Episode 1 Review",
+      "C": "Trusted Reviews: Life is Strange 2: Episode One – Roads Review",
+      "D": "Newsweek: ‘LIFE IS STRANGE 2’ CHAPTER 1 SERVES UP A STORM OF FEELS"
+    }
+  }
+]

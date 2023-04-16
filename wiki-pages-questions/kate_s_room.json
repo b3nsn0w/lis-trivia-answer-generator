@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Book Did Max Return To Kate In Her Room?",
+    "answer": "A",
+    "choices": {
+      "A": "The October Country",
+      "B": "The Catcher in the Rye",
+      "C": "To Kill a Mockingbird",
+      "D": "The Great Gatsby"
+    }
+  },
+  {
+    "question": "Why Did Kate Cover Up Her Mirror In Her Room?",
+    "answer": "A",
+    "choices": {
+      "A": "She Didn't Want To See Herself",
+      "B": "She Was Afraid Of Ghosts",
+      "C": "She Was Hiding Something Behind It",
+      "D": "She Wanted To Decorate It"
+    }
+  },
+  {
+    "question": "What Did Kate Suspect Happened To Her At The Vortex Club Party?",
+    "answer": "A",
+    "choices": {
+      "A": "She Was Drugged",
+      "B": "She Was Kidnapped",
+      "C": "She Was Robbed",
+      "D": "She Was Assaulted"
+    }
+  },
+  {
+    "question": "What Did Max Say About Kate's Art In Her Room?",
+    "answer": "A",
+    "choices": {
+      "A": "It Was Perfect For A Children's Book",
+      "B": "It Was Dark And Melancholic",
+      "C": "It Was Too Colorful And Fun",
+      "D": "It Was Depressing"
+    }
+  }
+]

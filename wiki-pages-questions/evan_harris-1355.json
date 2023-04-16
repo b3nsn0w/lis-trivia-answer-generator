@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Evan's Profession?",
+    "answer": "A",
+    "choices": {
+      "A": "Photographer",
+      "B": "High School Teacher",
+      "C": "Writer",
+      "D": "Scientist"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Photo That Evan Asks Max About?",
+    "answer": "A",
+    "choices": {
+      "A": "The Falling Soldier",
+      "B": "The Rising Sun",
+      "C": "The Lonely Tree",
+      "D": "The Abandoned House"
+    }
+  },
+  {
+    "question": "Who Is Evan's Favorite Model?",
+    "answer": "C",
+    "choices": {
+      "A": "Max Caulfield",
+      "B": "Kate Marsh",
+      "C": "Rachel Amber",
+      "D": "Nathan Prescott"
+    }
+  },
+  {
+    "question": "What Is Written On Evan's Slate In Episode 4?",
+    "answer": "A",
+    "choices": {
+      "A": "The Vortex Club Sucks Ass ─ Love, Evan",
+      "B": "I Love The Vortex Club",
+      "C": "The Vortex Club Is The Best",
+      "D": "The Vortex Club Is My Life"
+    }
+  },
+  {
+    "question": "How Does Evan Die In The Polarized Episode?",
+    "answer": "D",
+    "choices": {
+      "A": "He Commits Suicide",
+      "B": "He Is Shot By Nathan Prescott",
+      "C": "He Is Hit By A Car",
+      "D": "He Is Hit By A Piece Of Flying Debris"
+    }
+  }
+]

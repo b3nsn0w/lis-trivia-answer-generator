@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who Does Max Ask About Nathan's Whereabouts?",
+    "answer": "A",
+    "choices": {
+      "A": "Brooke",
+      "B": "Warren",
+      "C": "Justin",
+      "D": "Ms. Grant"
+    }
+  },
+  {
+    "question": "What Do Warren And Brooke Plan To Do Together?",
+    "answer": "B",
+    "choices": {
+      "A": "Go To The Movies",
+      "B": "Study Science",
+      "C": "Take A Road Trip",
+      "D": "Play Video Games"
+    }
+  },
+  {
+    "question": "What Does Chloe Say About Mr. Jefferson?",
+    "answer": "A",
+    "choices": {
+      "A": "He Is A Great Teacher",
+      "B": "He Is Mean To Her",
+      "C": "He Is Max's Boyfriend",
+      "D": "He Is A Ninja"
+    }
+  },
+  {
+    "question": "What Do Max And Chloe Plan To Do After Entering The Boys' Dormitories?",
+    "answer": "D",
+    "choices": {
+      "A": "Study",
+      "B": "Play Video Games",
+      "C": "Go To Sleep",
+      "D": "Be Sneaky"
+    }
+  }
+]

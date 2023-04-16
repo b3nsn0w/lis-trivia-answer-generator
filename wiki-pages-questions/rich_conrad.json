@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who is Rich Conrad?",
+    "answer": "A",
+    "choices": {
+      "A": "A fisherman and resident of Arcadia Bay",
+      "B": "A singer",
+      "C": "A chef",
+      "D": "A police officer"
+    }
+  },
+  {
+    "question": "Where can a picture of Rich Conrad and a prize catch be found?",
+    "answer": "B",
+    "choices": {
+      "A": "At the Two Whales Diner",
+      "B": "At the Arcadia Bay Fishing Club",
+      "C": "At the police station",
+      "D": "At the beach"
+    }
+  },
+  {
+    "question": "Who else is featured on the Arcadia Bay Fishing Club wall of fame alongside Rich Conrad?",
+    "answer": "A",
+    "choices": {
+      "A": "Andy Berry and Dick Weber",
+      "B": "Max Caulfield and Chloe Price",
+      "C": "Rachel Amber and Kate Marsh",
+      "D": "Victoria Chase and Nathan Prescott"
+    }
+  },
+  {
+    "question": "What is the possible reference for the name \"Rich Conrad\"?",
+    "answer": "A",
+    "choices": {
+      "A": "An American singer",
+      "B": "A famous fisherman",
+      "C": "A character from a TV show",
+      "D": "A politician"
+    }
+  },
+  {
+    "question": "In which episode is Rich Conrad mentioned?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  }
+]

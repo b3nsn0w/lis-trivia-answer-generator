@@ -1,0 +1,33 @@
+Here is a section of the wiki page for Optional Photos:
+
+## Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+{| class"wikitable" style# "border: 1px solid #57333F; background: transparent; width:100%"
+! Photo
+! Description !! Achievement
+|-
+| [File:LIS-Optional1-E3.jpg](220px.md) || The first photo can be found from the luminous action figure while exploring in Victoria's Room at the beginning of the episode. Keep your light on it for a few seconds. Taking this photo awards the "Parallax View" achievement. ||[File:Parallax_View_Achievement.png](centre.md)
+|-
+| [File:LIS-Optional2-E3.jpg](220px.md) || At the same bench at the far side of the Dormitory grounds, a squirrel playfully jumps at fireflies. Get close for this shot, and use rewind if you like. Taking this photo awards the "Lenscrafted" achievement. || [File:Lenscrafted_Achievement.png](centre.md)
+|-
+| [File:LIS-Optional3-E3.jpg](220px.md) || In the [Science Lab](science_room.md), the aquarium to the far side is off. Switch it on to awaken the fish and grab the photo of them swimming. Taking this photo awards the "The Reflex" achievement. || [File:The_Reflex_Achievement.png](centre.md)
+|-
+| [File:LIS-Optional4-E3.jpg](220px.md) || This picture of the science class skeleton with a cigarette in its mouth can be taken at the back of the room. Taking this photo awards the "Histogrammar" achievement. || [File:Histogrammar_Achievement.png](centre.md)
+|-
+| [File:LIS-Optional5-E3.jpg](220px.md) || From the front of [Principal Wells](wells.md)' desk, you can get this shot of Chloe in the comfy chair. Taking this photo awards the "Bokeh" achievement. || [File:Bokeh_Achievement.png](centre.md)
+|-
+| [File:LIS-Optional6-E3.jpg](220px.md) || In the bathroom of the [Madsen Household](madsen_household.md), you can take a photo of Max wearing her new punk rock clothing. Taking this photo awards the "Pinholed" achievement.  || [File:Pinholed_Achievement.png](centre.md)
+|-
+| [File:LIS-Optional7-E3.jpg](220px.md) || By opening the window in the [Madsen Household](madsen_house.md), you let in a bird. If you shoo it out of the house, you can find it in the back yard in this spot. Taking this photo awards the "RAW Strength" achievement. ||[File:RAW_Strength_Achievement.png](centre.md)
+|-
+| [File:LIS-Optional8-E3.jpg](220px.md) || Talk to the [Truck Driver](truck_driver.md) outside the diner; rewind and persuade him to let you take a photo by asking about his Needam, and mentioning Rachel Amber rather than Blackwell. Taking this photo awards the "Viewfinder" achievement. ||[File:Viewfinder_Achievement.png](centre.md)
+|-
+| [File:LIS-Optional9-E3.jpg](220px.md) || This swirling and disturbing image can be found around the side of the diner. Taking this photo awards the "Optican" achievement. ||[File:Optican_Achievement.png](centre.md)
+|-
+| [File:LIS-Optional10-E3.jpg](220px.md) || In Young Chloe's kitchen to her left, you will find [William](william.md)'s camera. Taking this photo awards the "Flash!" achievement. ||[File:Flash!_Achievement.png](centre.md)
+|-
+| [File:LiS-OptionalPhotos-E3.jpg](220px.md) || Taking all the photographs in this episode awards the "Camera Eye" achievement. || [File:Camera_Eye_Achievement.png](centre.md)
+|}
+
+
+
+Generate five trivia questions relevant to this section of the page.

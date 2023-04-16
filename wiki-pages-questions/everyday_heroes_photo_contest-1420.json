@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Was The Prize For The Everyday Heroes Photo Contest Sponsored By Square Enix?",
+    "answer": "A",
+    "choices": {
+      "A": "$10,000 Scholarship Fund",
+      "B": "A Trip To San Francisco",
+      "C": "A Signed Copy Of Life Is Strange",
+      "D": "A Chance To Meet The Developers"
+    }
+  },
+  {
+    "question": "Why Was The Location Of The Everyday Heroes Photo Contest Exhibition Changed?",
+    "answer": "A",
+    "choices": {
+      "A": "The Developers Realized It Should Be Hosted At An Art Gallery",
+      "B": "The Museum Was Unavailable On The Scheduled Date",
+      "C": "The Museum Was Too Small To Accommodate The Exhibition",
+      "D": "The Developers Wanted To Save Money By Changing The Location"
+    }
+  },
+  {
+    "question": "What Was The Rule For Submitting An Entry To The Everyday Heroes Photo Contest?",
+    "answer": "C",
+    "choices": {
+      "A": "Submit A Photo Of Yourself Participating In A Heroic Action",
+      "B": "Submit A Photo Of Someone Else Participating In A Heroic Action",
+      "C": "Submit A Photo That Best Represents Yourself Or Others In Heroic Action",
+      "D": "Submit A Photo Of An Everyday Object That Represents Heroism"
+    }
+  },
+  {
+    "question": "Who Urged Max To Enter The Everyday Heroes Photo Contest?",
+    "answer": "A",
+    "choices": {
+      "A": "Mark Jefferson",
+      "B": "Nathan Prescott",
+      "C": "Victoria Chase",
+      "D": "Kate Marsh"
+    }
+  }
+]

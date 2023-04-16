@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Name Of The Bedroom Located Above The Kitchen In The Madsen Household?",
+    "answer": "A",
+    "choices": {
+      "A": "William and Joyce's Room",
+      "B": "David and Joyce's Room",
+      "C": "Max and Chloe's Room",
+      "D": "William and David's Room"
+    }
+  },
+  {
+    "question": "What Can Max Do To Save The Blue Jay In The Madsen Household Bedroom?",
+    "answer": "D",
+    "choices": {
+      "A": "Open The Closet",
+      "B": "Open The Nightstand Drawers",
+      "C": "Switch On And Off A Desk Lamp",
+      "D": "Open And Close The Window"
+    }
+  },
+  {
+    "question": "In Which Episode Can Max Only Look At The Door Into The Madsen Household Bedroom From Outside?",
+    "answer": "C",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Survival Guide Max Finds In The Madsen Household Bedroom?",
+    "answer": "A",
+    "choices": {
+      "A": "Act, React Or Die: A 21st Century Survival Guide",
+      "B": "The Zombie Survival Guide",
+      "C": "The Prepper's Blueprint",
+      "D": "The Ultimate Survival Manual"
+    }
+  },
+  {
+    "question": "What Can Max Look At In The Nightstand Drawers Of The Madsen Household Bedroom?",
+    "answer": "C",
+    "choices": {
+      "A": "A Handmade Necklace",
+      "B": "A Photo Of Joyce And William",
+      "C": "Dog Tags",
+      "D": "A Magazine On The Nightstand"
+    }
+  }
+]

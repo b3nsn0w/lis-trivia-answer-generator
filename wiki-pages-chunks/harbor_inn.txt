@@ -1,0 +1,20 @@
+Here is a section of the wiki page for Harbor Inn:
+
+#  Harbor Inn 
+
+```yaml
+Location
+
+type: Inn
+location: '[Arcadia Bay](arcadia_bay.md)'
+image: Harbor Inn.png
+state: Oregon
+```
+
+The **Harbor Inn** is an inn located in [Arcadia Bay](arcadia_bay.md), presumably close to the bay's [harbor](harbor.md). According to its advertisement, they also offer parking and jacuzzi.
+
+{{Location Navbox}}
+
+
+
+Generate five trivia questions relevant to this section of the page.

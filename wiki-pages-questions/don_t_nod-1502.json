@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What Did Dontnod Celebrate On June 28, 2018?",
+    "answer": "D",
+    "choices": {
+      "A": "The Release Of Life Is Strange 2",
+      "B": "The Announcement Of A New Collaboration With Focus Home Interactive",
+      "C": "The Opening Of A New Studio In Montreal",
+      "D": "Its 10 Year Anniversary"
+    }
+  },
+  {
+    "question": "Who Is The Creative Director Of The New Studio That Dontnod Opened In Montreal?",
+    "answer": "B",
+    "choices": {
+      "A": "Luc Baghadoust",
+      "B": "Michel Koch",
+      "C": "Chris Eriksen",
+      "D": "Square Enix"
+    }
+  },
+  {
+    "question": "What Did Focus Home Interactive Announce During Their Annual \"What's Next\" Event In April 2019?",
+    "answer": "B",
+    "choices": {
+      "A": "A New Collaboration With Square Enix",
+      "B": "A New Collaboration With Dontnod",
+      "C": "A New Collaboration With Capcom",
+      "D": "A New Collaboration With Bandai Namco"
+    }
+  }
+]

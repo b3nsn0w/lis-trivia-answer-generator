@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is Hailey's favorite book series?",
+    "answer": "A",
+    "choices": {
+      "A": "Harry Potter",
+      "B": "The Hunger Games",
+      "C": "Lord of the Rings",
+      "D": "Twilight"
+    }
+  },
+  {
+    "question": "What is one of Hailey's hobbies?",
+    "answer": "C",
+    "choices": {
+      "A": "Playing sports",
+      "B": "Painting",
+      "C": "Ghost hunting",
+      "D": "Cooking"
+    }
+  },
+  {
+    "question": "What is the date of the Reddit AMA with Hailey Hayes?",
+    "answer": "B",
+    "choices": {
+      "A": "June 18, 2018",
+      "B": "June 19, 2018",
+      "C": "June 20, 2018",
+      "D": "June 21, 2018"
+    }
+  },
+  {
+    "question": "Who asked Hailey about her experience working with famous people on Life is Strange?",
+    "answer": "D",
+    "choices": {
+      "A": "ShadowLelouch97",
+      "B": "PokemonFangameMaker",
+      "C": "ManuallyModerated",
+      "D": "ashisnotspooky"
+    }
+  }
+]

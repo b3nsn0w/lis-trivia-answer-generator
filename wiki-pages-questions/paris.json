@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Why is Paris a recurring location in the Life is Strange franchise?",
+    "answer": "B",
+    "choices": {
+      "A": "Because it is the capital of France",
+      "B": "Because it is the birthplace of the game developers",
+      "C": "Because it is a popular tourist destination",
+      "D": "Because it is a central location in the game's storyline"
+    }
+  },
+  {
+    "question": "In Max's diary, what does she hope to do in Paris or Rome?",
+    "answer": "D",
+    "choices": {
+      "A": "Cut her hair",
+      "B": "Get a tattoo",
+      "C": "Date a foreign exchange artiste",
+      "D": "All of the above"
+    }
+  },
+  {
+    "question": "What does Max say about the travel money jar in the Madsen Household?",
+    "answer": "B",
+    "choices": {
+      "A": "\"I wish I could go to Paris.\"",
+      "B": "\"I'd love to go to Paris too.\"",
+      "C": "\"I'm glad we're not going to Paris.\"",
+      "D": "\"I don't care about Paris.\""
+    }
+  },
+  {
+    "question": "What is shown in a photo in Rachel Amber's Amber House in Life is Strange: Before the Storm?",
+    "answer": "A",
+    "choices": {
+      "A": "The Amber family in front of the Eiffel Tower",
+      "B": "Max and Chloe in front of the Eiffel Tower",
+      "C": "Rachel and Chloe in front of the Eiffel Tower",
+      "D": "The Eiffel Tower at night"
+    }
+  }
+]

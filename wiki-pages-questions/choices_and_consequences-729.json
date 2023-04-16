@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Main Gameplay Element In Life Is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "Collecting Items",
+      "B": "Solving Puzzles",
+      "C": "Making Choices and Consequences",
+      "D": "Fighting Enemies"
+    }
+  },
+  {
+    "question": "What Symbol Appears At The Top Of The Screen After A Choice Is Made?",
+    "answer": "C",
+    "choices": {
+      "A": "A Heart",
+      "B": "A Star",
+      "C": "A Butterfly",
+      "D": "A Skull"
+    }
+  },
+  {
+    "question": "What Happens After Max Makes A Choice?",
+    "answer": "A",
+    "choices": {
+      "A": "She Rewinds Time",
+      "B": "She Saves The Game",
+      "C": "She Continues The Story",
+      "D": "She Quits The Game"
+    }
+  },
+  {
+    "question": "When Are The Consequences Of Max's Choices Revealed To The Player?",
+    "answer": "B",
+    "choices": {
+      "A": "At The Beginning Of Each Episode",
+      "B": "At The End Of Each Episode",
+      "C": "During The Episode",
+      "D": "In The Middle Of The Game"
+    }
+  },
+  {
+    "question": "What Happens When Max Reaches A Save Checkpoint Location?",
+    "answer": "B",
+    "choices": {
+      "A": "She Rewinds Time",
+      "B": "She Saves The Game",
+      "C": "She Quits The Game",
+      "D": "She Continues The Story"
+    }
+  }
+]

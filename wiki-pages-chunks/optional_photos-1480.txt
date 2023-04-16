@@ -1,0 +1,39 @@
+Here is a section of the wiki page for Optional Photos:
+
+#  Optional Photos 
+
+:*For the optional graffiti from the [Before the Storm](prequel_game.md), see [Optional Graffiti](here.md). For the optional photos from its bonus episode [Farewell](farewell.md), see [Optional Photos (Before the Storm)](here.md). For the optional drawings from the [Life is Strange 2](sequel_game.md), see [Optional Drawings](here.md).*
+
+**Optional Photos** are a main [:Category:Gameplay (Life is Strange)](gameplay_element.md) in *[Life is Strange](life_is_strange.md)*. Throughout the game, [Maxine Caulfield](max_caulfield.md) may come across various scenes, pictures, people, animals or [:Category:Objects](objects.md) that she may find interesting and could take a photo of with her analog camera. Her optional photos section in her [Max's Journal](journal_.md) at the beginning of each [:Category:Episodes (Life is Strange)](episode.md) will initially have only single color sketch pictures which will gradually be replaced by full color photos as Max takes each optional photo. Some optional photos are only available after certain actions. Every episode contains the opportunity to take 10 photos and each awards the player an [Achievements (Life is Strange)](achievements.md) with an extra one after taking all photos in an episode, 55 achievements can be earned that way in total. All achievements are referring to photography terms.
+
+## Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+{| class# "wikitable" style"border: 1px solid #57333F; background: transparent; width:100%"
+! Photo
+! Description !! Achievement
+|-
+| [File:OptionalPhoto1_1.jpg](220px.md) || The first photo is some etched marks on the desk in front of Max's in [Jefferson](jefferson.md)'s [Photography Lab](classroom.md). The etched marks read "[Rachel Amber](rachel_amber.md) ♥ 4 ever" in block letters. Taking this photo awards the "Macro Eyes" achievement. ||[File:Macro_Eyes_Achievement.png](centre.md)
+|-
+| [File:LIS-Optional2-E1.jpg](220px.md) || The second is a picture of the statue in front of [Blackwell Academy](blackwell.md). The future needs exellence! Taking this photo awards the "Wide Angles" achievement. || [File:Wide_Angles_Achievement.png](centre.md)
+|-
+| [File:LIS-Optional3-E1.jpg](220px.md) || After talking to [Justin](justin.md), and rewinding to give the proper skateboarding terms, ask to see a tre flip and [Trevor](trevor.md) will oblige, unfortunately falling for this great shot. Taking this photo awards the "Telephotogenic" achievement. || [File:Telephotogenic_Achievement.png](centre.md)
+|-
+| [File:2015-05-28_00039.jpg](220px.md) || In the [Prescott Dormitory](prescott_dormitory.md) grounds, the tree at the far side beside [Kate Marsh](kate_marsh.md) on the bench is the hang-out zone for this squirrel. Taking this photo awards the "Close-Ups" achievement. || [File:Close-Ups_Achievement.png](centre.md)
+|-
+| [File:LIS-Optional6-E1.jpg](220px.md) || The fifth photo can be taken of Max in [Max's Room](her_dorm_room.md) mirror. Taking this photo awards the "Red Eye" achievement. || [File:Red_Eye_Achievement.png](centre.md)
+|-
+| [File:2015-05-28_00023.jpg](220px.md) || In [Victoria's Room](victoria_s_dorm_room.md), Max can choose to mess up her photographs to take the next shot and send [Victoria](victoria.md) a message. Taking this photo awards the "Focused" achievement.  (Messing up the photos will have consequences later in the game, but you can avoid this by rewinding to restore the photos after the achievement is unlocked.) || [File:Focused Achievement.png](centre.md)
+|-
+| [File:LIS-Optional7-E1.jpg](220px.md) || If you choose to save [Alyssa](alyssa.md) from the oncoming football outside the dormitories, you can snap this photo of the damaged window. Taking this photo awards the "Zoomed In" achievement. || [File:Zoomed_In_Achievement.png](centre.md)
+|-
+| [File:2015-05-28_00028.jpg](220px.md) || In the [Blackwell Parking Lot](blackwell_parking_lot.md), Max can draw a face in the dirty window of [Frank Bowers](frank.md)'s [Frank's RV](rv.md). She can then take a photo of the artwork. Taking this photo awards the "Focal Pointed" achievement. || [File:Focal_Pointed_Achievement.png](centre.md)
+|-
+| [File:2015-05-28_00036.jpg](220px.md)|| Walking down the path behind you instead of walking towards the [lighthouse](lighthouse.md), you can find this [bird](bird.md) atop a rock at the end of the pathway. Taking this photo awards the "Maximum Aperture" achievement. || [File:Maximum_Aperture_Achievement.png](centre.md)
+|-
+| [File:2015-05-28_00037.jpg](220px.md)|| Standing behind [Chloe Price](chloe.md) on the brow of the hill, you have the option to take this photo before sitting down with her. Taking this photo awards the "Light Leak" achievement. || [File:Light_Leak_Achievement.png](centre.md)
+|-
+| [File:2015-11-29 00079.jpg](220px.md) || Taking all the photographs in this episode awards the "Visionary" achievement. || [File:Visionary_Achivement.png](centre.md)
+|}
+
+
+
+Generate five trivia questions relevant to this section of the page.

@@ -1,0 +1,59 @@
+Here is a section of the wiki page for To All of You:
+
+#  To All of You 
+
+```yaml
+Song
+
+image: Syd matters someday we will foresee obstacles.png
+artist: Syd Matters
+release: '2005'
+album: Someday We Will Foresee Obstacles
+appears: |-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)
+  [Episode 5: Polarized](episode_5__polarized.md) (nightmare, reversed)
+```
+
+**"To All of You"** is a single by [Jonathan Morali](syd_matters.md) from their album *{{Wiki|Someday We Will Foresee Obstacles}}* and is featured in beginning of [Episode 1: Chrysalis](episode_1.md) and reversed in the [Max's Nightmare](nightmare_sequence.md) of [Episode 5: Polarized](episode_5.md) of *[Life is Strange](life_is_strange.md)*.
+
+##  Lyrics 
+: To all of you, American girls,
+: It's sad to imagine a world without you
+: American girls
+: I'd like to be part of the world around you
+: Driving a car by the seaside
+: Watching the world from the bright side
+
+: To all of you, American girls in the movies
+: No one can tell where your heart is
+: American girls like dollies
+: With shiny smiles and plastic bodies
+
+: I wish I had an American girlfriend
+
+: I cry sometimes walking around my own place
+: Wondering why she cries sometimes
+: Talking about her own place
+: Somewhere around the mountains
+: No one could dry her fountain
+: Till she got tired to complain
+
+: That's when I fly
+: To wild land, to your land
+
+##  Interpretation 
+This song plays at the beginning of the game on an indefinite loop. It romanticises the American lifestyle, and highlights the role of the "American Girl". Although the game is not terribly patriotic, it focuses heavily on the girls in the game's society, linking well with this song. The song criticizes female characterization in popular culture and media; *Life is Strange* contradicts this hugely, considering the multi-faceted female characters who have individual aspirations and images.The song refers to the girls as "plastic dollies", with "wide shiny eyes and plastic bodies".  The song highlights that from the beginning, the game centers around the lives of the girls; fitting considering the case of [Rachel Amber](rachel_amber.md) and the drugging of other girls at [Blackwell Academy](blackwell.md). The song also creates a romantic or nostalgic atmosphere that sets the tone of the game at its beginning, which however gets eventually contradicted by the dark events and revalations of the later episodes.
+
+##  Videos 
+
+Life is Strange Soundtrack - To All Of You by Syd Matters
+Life Is Strange™ - "To All Of You" - Syd Matters
+
+__NOTOC__
+
+##  Navigation 
+{{Soundtrack}}
+
+
+
+Generate five trivia questions relevant to this section of the page.

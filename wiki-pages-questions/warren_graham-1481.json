@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Does Warren Do When Nathan Pulls Out A Gun During Their Fight?",
+    "answer": "B",
+    "choices": {
+      "A": "He Runs Away",
+      "B": "He Kicks The Gun Out Of Nathan's Hand",
+      "C": "He Pulls Out His Own Gun",
+      "D": "He Tries To Reason With Nathan"
+    }
+  },
+  {
+    "question": "What Does Warren Suggest To Max And Chloe After His Fight With Nathan?",
+    "answer": "B",
+    "choices": {
+      "A": "To Call The Police",
+      "B": "To Accompany Them On Their Investigations",
+      "C": "To Leave Town",
+      "D": "To Forget About Nathan"
+    }
+  },
+  {
+    "question": "What Does Warren Tell Max About His Feelings Towards Her?",
+    "answer": "C",
+    "choices": {
+      "A": "That He Loves Her",
+      "B": "That He Thinks She's Cool",
+      "C": "That He Thinks She's Cute",
+      "D": "That He Thinks She's Smart"
+    }
+  },
+  {
+    "question": "What Happens To Warren If Max Chooses To Sacrifice Arcadia Bay?",
+    "answer": "A",
+    "choices": {
+      "A": "He Dies In The Storm",
+      "B": "He Survives The Storm",
+      "C": "He Leaves Town",
+      "D": "He Joins The Police Force"
+    }
+  }
+]

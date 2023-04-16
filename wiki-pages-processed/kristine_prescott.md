@@ -1,0 +1,50 @@
+#  Kristine Prescott 
+
+```yaml
+Character
+
+name: Kristine Prescott
+gender: Female
+relatives: >-
+  [Sean Prescott](sean_prescott.md) (father)
+
+  [Nathan Prescott](nathan_prescott.md) (brother)
+
+  [Harry Aaron Prescott](harry_aaron_prescott.md), [Martin Lewis
+  Prescott](martin_lewis_prescott.md) (relatives)
+profession: Social worker
+affiliation: Peace Corps
+appearance: '[Episode 4: Dark Room](episode_4__dark_room.md) (mentioned)'
+image: kristine_profile_picture.png
+caption: Kristine's Profile Picture
+alsoknown: Kris
+hair: Brown
+```
+
+**Kristine Prescott** is [Nathan Prescott](nathan_prescott.md)'s older sister who is currently serving in the Peace Corps in BrazilOfficial Website: http://www.peacecorps.gov/. [Maxine Caulfield](max_caulfield.md) saw Kristine's email to Nathan in his [Nathan's Computer](computer.md) in "[Episode 4: Dark Room](dark_room.md)". She seems to hold some contempt for her father and sympathizes with Nathan with whom she appears to have a very close relationship. This arises from an email she sent to Nathan.
+
+##  Kristine's Email  
+The following is the content of Kristine's email to Nathan:
+
+{{Bigquote
+|Don't worry
+
+To: Nathan Prescott
+
+From: Kristine Prescott
+
+Tudo bem from Brazil, Little Brother! It's been too long since I've heard from you so please let me know what's going on in your exciting scholastic life at Blackwell. I brag to all my co-workers in the Peace Corps that my talented brother Nate got a full scholarship to one of the best art schools in the world. Even though I can't always check my mail or phone, pleasepleaseplease send me some new photos of campus so I can live vicariously through your lens. I miss you and your pictures.
+
+And yes, mother told me that you've been in trouble and father has been on your ass, but you have to either ignore him or stand up to him. You know I love Dad, Nate, but I am also in a jungle halfway across the world because of him. He's a bully who inherited power not wisdom and the only way to win against one is to fight back. Don't let him change you into one just for the family "legacy." End of lecture. You're at school, so I just wanted to make you feel at home:]
+
+Back to the mangrove. Sending out good thoughts. Better write back or I'll have a jaguar shipped to your dorm!
+
+xoxoxo
+
+Kris
+
+}}
+
+Note4-nathanroom-kristinemail.png
+Note4-nathanroom-kristinemail2.png
+

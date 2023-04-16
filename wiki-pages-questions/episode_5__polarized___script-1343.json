@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Where Is Warren Trapped During The Storm?",
+    "answer": "A",
+    "choices": {
+      "A": "Two Whales Diner",
+      "B": "Jefferson's Car",
+      "C": "McFlinn",
+      "D": "Radio Station"
+    }
+  },
+  {
+    "question": "Who Warns Max About The Storm On The Radio?",
+    "answer": "A",
+    "choices": {
+      "A": "Truss Limpbow",
+      "B": "Nathan",
+      "C": "Warren",
+      "D": "Joyce"
+    }
+  },
+  {
+    "question": "Who Leaves A Tearful Apology Message For Max?",
+    "answer": "C",
+    "choices": {
+      "A": "David",
+      "B": "Chloe",
+      "C": "Nathan",
+      "D": "Jefferson"
+    }
+  },
+  {
+    "question": "Where Is Alyssa Stuck During The Storm?",
+    "answer": "C",
+    "choices": {
+      "A": "Two Whales Diner",
+      "B": "Jefferson's Car",
+      "C": "McFlinn",
+      "D": "Radio Station"
+    }
+  }
+]

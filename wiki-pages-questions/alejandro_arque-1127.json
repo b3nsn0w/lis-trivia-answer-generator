@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is Alejandro Arque's profession?",
+    "answer": "B",
+    "choices": {
+      "A": "Programmer",
+      "B": "Game Designer",
+      "C": "Artist",
+      "D": "Writer"
+    }
+  },
+  {
+    "question": "Which game did Alejandro Arque work on for a year and a half?",
+    "answer": "A",
+    "choices": {
+      "A": "Life is Strange",
+      "B": "Triad Wars",
+      "C": "Nosgoth",
+      "D": "Heroes and Generals"
+    }
+  },
+  {
+    "question": "What is the name of the prequel to Life is Strange that Alejandro Arque worked on?",
+    "answer": "B",
+    "choices": {
+      "A": "Life is Strange 2",
+      "B": "Life is Strange: Before the Storm",
+      "C": "Life is Strange: True Colors",
+      "D": "Life is Strange: Remastered Collection"
+    }
+  },
+  {
+    "question": "What is the name of the studio where Alejandro Arque currently works as a Game Director?",
+    "answer": "C",
+    "choices": {
+      "A": "Square Enix",
+      "B": "Gameloft",
+      "C": "Supermassive Games Ltd.",
+      "D": "Digital Chocolate"
+    }
+  },
+  {
+    "question": "What is the name of the mechanic that Alejandro Arque designed for Max in Life is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "Time Rewind",
+      "B": "Forward or Skip",
+      "C": "Photo Mode",
+      "D": "Dialogue Skip"
+    }
+  }
+]

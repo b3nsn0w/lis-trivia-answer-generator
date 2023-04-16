@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What do Max and Chloe find in the Dark Room folder that they discover in Episode Four?",
+    "answer": "A",
+    "choices": {
+      "A": "Evidence about Nathan",
+      "B": "Evidence about Jefferson",
+      "C": "Evidence about David",
+      "D": "Evidence about Frank"
+    }
+  },
+  {
+    "question": "In Episode Four, where do Max and Chloe drive to in Chloe's truck to check for Rachel's body?",
+    "answer": "B",
+    "choices": {
+      "A": "The Beach",
+      "B": "The Junkyard",
+      "C": "The Prescott Barn",
+      "D": "The End of the World Party"
+    }
+  },
+  {
+    "question": "In the Alternative Timeline, what kind of vehicle does Chloe receive on her 16th birthday?",
+    "answer": "A",
+    "choices": {
+      "A": "A Red SUV",
+      "B": "A Black Sedan",
+      "C": "A Blue Convertible",
+      "D": "A Green Minivan"
+    }
+  }
+]

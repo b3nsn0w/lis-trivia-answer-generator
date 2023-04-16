@@ -1,0 +1,121 @@
+Here is a section of the wiki page for Achievements (Life is Strange):
+
+## Episode Five - "[Episode 5: Polarized](polarized.md)" 
+{{Achievements
+|name  Incandescent
+|image #  Incandescent_Achievement.png
+|description  Take optional photo #1 in Episode 5: Polarized
+|type #  bronze
+|score  10
+|rarityps4 #  11.3
+|raritysteam  8.8
+}}
+{{Achievements
+|name #  Night Vision
+|image  Night_Vision_Achievement.png
+|description #  Take optional photo #2 in Episode 5: Polarized
+|type  bronze
+|score #  10
+|rarityps4  13.7
+|raritysteam #  11.1
+}}
+{{Achievements
+|name  Framed 
+|image #  Framed_Achievement_64x64px.png
+|description  Take optional photo #3 in Episode 5: Polarized
+|type #  bronze
+|score  10
+|rarityps4 #  24.7
+|raritysteam  22.3
+}}
+{{Achievements
+|name #  Camera Obscura
+|image  Camera_Obscura_Achievement.png
+|description #  Take optional photo #4 in Episode 5: Polarized
+|type  bronze
+|score #  10
+|rarityps4  10.3
+|raritysteam #  7.8
+}}
+{{Achievements
+|name  Blowup
+|image #  Blowup_Achievement.png
+|description  Take optional photo #5 in Episode 5: Polarized
+|type #  bronze
+|score  10
+|rarityps4 #  11.1
+|raritysteam  9.1
+}}
+{{Achievements
+|name #  Iris
+|image  Iris_Achievement.png
+|description #  Take optional photo #6 in Episode 5: Polarized
+|type  bronze
+|score #  10
+|rarityps4  10.4
+|raritysteam #  7.7
+}}
+{{Achievements
+|name  Sensor
+|image #  Sensor_Achievement.png
+|description  Take optional photo #7 in Episode 5: Polarized
+|type #  bronze
+|score  10
+|rarityps4 #  14.3
+|raritysteam  12.6
+}}
+{{Achievements
+|name #  On Display
+|image  On_Display_Achievement.png
+|description #  Take optional photo #8 in Episode 5: Polarized
+|type  bronze
+|score #  10
+|rarityps4  9
+|raritysteam #  5.8
+}}
+{{Achievements
+|name  Light Meter
+|image #  Light_Meter_Achievement.png
+|description  Take optional photo #9 in Episode 5: Polarized
+|type #  bronze
+|score  10
+|rarityps4 #  8.7
+|raritysteam  5.6
+}}
+{{Achievements
+|name #  Silhouettes
+|image  Silhouettes_Achievement.png
+|description #  Take optional photo #10 in Episode 5: Polarized
+|type  bronze
+|score #  10
+|rarityps4  13.3
+|raritysteam #  11.5
+}}
+{{Achievements
+|name  Selfie Awareness
+|image #  Selfie_Awareness_Achievement.png
+|description  Take all optional photos in Episode 5: Polarized
+|type #  bronze
+|score  45
+|rarityps4 #  8.2
+|raritysteam  4.9
+}}
+{{Achievements
+|name #  Polarized
+|image  Polarized Achievement.png
+|description #  Finish Episode 5: Polarized
+|type  gold
+|score #  55
+|rarityps4  27.5
+|raritysteam #  25.6
+}}
+
+## Trivia 
+* The achievement "What If?" is a reference to the game's codename, which had originally been considered as its title. 
+* There are [https://imgur.com/a/IW16D achievement images] created for the Xbox One version of the game.[https://www.reddit.com/r/lifeisstrange/comments/8kpwx2/s1_e5_achievement_photos_wallpapers_with_journal/ Reddit post by /u/IgelRM]
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

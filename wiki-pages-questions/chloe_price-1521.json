@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What Is Written On Chloe's Wall That Is A Quote From Daria?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Everybody Lies, No Exceptions\"",
+      "B": "\"One Day Your Life Will Flash Before Your Eyes\"",
+      "C": "\"Hole To Another Universe\"",
+      "D": "\"Life Is Strange\""
+    }
+  },
+  {
+    "question": "What Magazine Did Chloe Used To Read When She Was Younger?",
+    "answer": "D",
+    "choices": {
+      "A": "Teen Vogue",
+      "B": "Seventeen",
+      "C": "Cosmopolitan",
+      "D": "Tween Life Magazine"
+    }
+  },
+  {
+    "question": "What Is The Possible Inspiration For Chloe's Character?",
+    "answer": "C",
+    "choices": {
+      "A": "Lisbeth Salander from The Girl with the Dragon Tattoo",
+      "B": "Emma from Blue is the Warmest Color",
+      "C": "Both A and B",
+      "D": "None of the above"
+    }
+  }
+]

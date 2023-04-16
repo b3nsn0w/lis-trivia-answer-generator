@@ -1,0 +1,52 @@
+[
+  {
+    "question": "How Does Max Save Herself From Jefferson's Restraints?",
+    "answer": "D",
+    "choices": {
+      "A": "By Using Her Time Rewind Power",
+      "B": "By Kicking The Table",
+      "C": "By Grabbing David's Gun",
+      "D": "By Pulling The Cable On The Lights"
+    }
+  },
+  {
+    "question": "What Does David Do After Knocking Jefferson Unconscious?",
+    "answer": "B",
+    "choices": {
+      "A": "He Holsters His Gun And Leaves",
+      "B": "He Puts Duct Tape Around Jefferson's Wrists",
+      "C": "He Takes A Picture Of Jefferson",
+      "D": "He Calls The Police"
+    }
+  },
+  {
+    "question": "What Does Max Find Out When She Tries To Use Her Phone?",
+    "answer": "A",
+    "choices": {
+      "A": "She Has No Signal",
+      "B": "Her Phone Is Out Of Battery",
+      "C": "Her Phone Is Broken",
+      "D": "She Has No Wi-Fi Connection"
+    }
+  },
+  {
+    "question": "What Does Max Take From The Table Before Leaving?",
+    "answer": "D",
+    "choices": {
+      "A": "A Gun",
+      "B": "A Knife",
+      "C": "A Flashlight",
+      "D": "Car Keys"
+    }
+  },
+  {
+    "question": "What Is David's Reaction When He Sees The Studio?",
+    "answer": "A",
+    "choices": {
+      "A": "He Is Shocked",
+      "B": "He Is Excited",
+      "C": "He Is Disappointed",
+      "D": "He Is Indifferent"
+    }
+  }
+]

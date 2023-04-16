@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Butterfly Effect?",
+    "answer": "D",
+    "choices": {
+      "A": "A Branch Of Mathematics",
+      "B": "A Theory About The Unpredictability Of Events",
+      "C": "A Scientific Paper Written By Edward Lorenz",
+      "D": "All Of The Above"
+    }
+  },
+  {
+    "question": "What Is The Name Of The First Episode Of Life Is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "The Butterfly Effect",
+      "B": "War Room Stories",
+      "C": "Chrysalis",
+      "D": "Max's Nightmare"
+    }
+  },
+  {
+    "question": "What Does The Blue Butterfly Resemble?",
+    "answer": "C",
+    "choices": {
+      "A": "A Butterfly From The Genus Morpho",
+      "B": "A Ulysses Butterfly",
+      "C": "Both A And B",
+      "D": "None Of The Above"
+    }
+  },
+  {
+    "question": "What Is The Blue Butterfly Believed To Represent?",
+    "answer": "A",
+    "choices": {
+      "A": "Chloe's Spirit",
+      "B": "Max's Spirit",
+      "C": "The Spirit Of The Dead",
+      "D": "None Of The Above"
+    }
+  },
+  {
+    "question": "What Is The Cover Art For Breton's Album \"War Room Stories\"?",
+    "answer": "A",
+    "choices": {
+      "A": "A Blue Butterfly",
+      "B": "A Red Butterfly",
+      "C": "A Green Butterfly",
+      "D": "A Yellow Butterfly"
+    }
+  }
+]

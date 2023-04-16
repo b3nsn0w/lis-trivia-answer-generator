@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Who is Lynn?",
+    "answer": "B",
+    "choices": {
+      "A": "The English voice actress of Chloe Price",
+      "B": "The Japanese voice actress of Chloe Price",
+      "C": "The creator of Life is Strange",
+      "D": "The director of Life is Strange: Before the Storm"
+    }
+  },
+  {
+    "question": "Which games did Lynn voice Chloe Price for in the Japanese release?",
+    "answer": "C",
+    "choices": {
+      "A": "Life is Strange only",
+      "B": "Life is Strange: Before the Storm only",
+      "C": "Both Life is Strange and Life is Strange: Before the Storm",
+      "D": "None of the above"
+    }
+  },
+  {
+    "question": "Which version of Life is Strange did Lynn voice Chloe Price for?",
+    "answer": "B",
+    "choices": {
+      "A": "The English release",
+      "B": "The Japanese release",
+      "C": "The French release",
+      "D": "The German release"
+    }
+  }
+]

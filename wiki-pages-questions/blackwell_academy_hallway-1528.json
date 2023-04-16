@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who is Max's science lab partner?",
+    "answer": "A",
+    "choices": {
+      "A": "Warren Graham",
+      "B": "Taylor Christensen",
+      "C": "Evan Harris",
+      "D": "Brooke Scott"
+    }
+  },
+  {
+    "question": "Who is the missing person on the posters that Max looks at?",
+    "answer": "B",
+    "choices": {
+      "A": "Taylor Christensen",
+      "B": "Rachel Amber",
+      "C": "Victoria Chase",
+      "D": "Alyssa Anderson"
+    }
+  },
+  {
+    "question": "Who does Max see talking to Dana in the hallway?",
+    "answer": "A",
+    "choices": {
+      "A": "Justin Williams",
+      "B": "Logan Robertson",
+      "C": "Daniel DaCosta",
+      "D": "Trevor Yard"
+    }
+  },
+  {
+    "question": "What does Max say about Samuel before and after rewinding time?",
+    "answer": "D",
+    "choices": {
+      "A": "He's a weirdo and she likes that about him.",
+      "B": "He's a great science teacher who can't help her now.",
+      "C": "She can't talk to him about this, even if he might believe her.",
+      "D": "He's such a weirdo and she can't talk to him about this."
+    }
+  },
+  {
+    "question": "Who does Max see hanging out with Warren in the hallway?",
+    "answer": "A",
+    "choices": {
+      "A": "Brooke Scott",
+      "B": "Taylor Christensen",
+      "C": "Victoria Chase",
+      "D": "Courtney Wagner"
+    }
+  }
+]

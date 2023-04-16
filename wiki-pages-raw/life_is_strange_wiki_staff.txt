@@ -1,0 +1,56 @@
+= Life is Strange Wiki:Staff =
+
+
+This page lists active '''administrators''', '''moderators''' and other wiki staff members. The staff tries to make sure the peace is kept, and that comments are kept civil and polite.
+
+For any questions or concerns, don't hesitate to contact one of us and leave a message on one of our message walls. Suggestions for new things that could be done to improve the wiki are always welcome! Please refer to the table below to see which staff members are currently active.
+
+Sometimes templates may not work anymore due to Fandom changes. In this case please inform us so we can fix the templates.
+
+For an automatically updated list of admins, click [[:Special:Listadmins|here]].
+
+<div style="font-size:x-large; text-align:center; margin-top:1em;">'''Administrators'''</div>
+
+<div style="text-align:center">{{Polaroid|image=Meyerliane.jpg|name=User:Meyerliane|display=Meyerliane}}
+{{Polaroid|gender=male|name=User:Ladosha2|display=Ladosha2}}
+{{Polaroid|gender=female|name=User:Cuddlecuffs|display=Cuddlecuffs}}</div>
+
+<div style="font-size:x-large; text-align:center; margin-top:1em;">'''Content Moderators'''</div>
+
+<div style="text-align:center">
+{{Polaroid|gender=female|name=User:WinterSorceress|display=WinterSorceress}}</div>
+
+{{Staff Time Board}}
+
+== Join Staff ==
+We are currently looking for a new staff-member that will help our team by working on and monitoring Wiki content for ''[[Life is Strange: True Colors]].''
+We also need someone that helps us by focusing on expanding and completing ''Life is Strange 2'' Wiki articles.
+{{Joinstaff}}
+
+== User Rights ==
+=== <u>Administrators</u> ===
+Administrators are trusted users, who are generally chosen by the community and also have access to the following tools:
+* Delete and undelete pages, as well as delete images or files.
+* Lock (protect) both a page and a file so it cannot be edited or renamed by users without adminship privileges.
+* Block users who are vandalizing the wikia from editing, etc.
+* Grant and revoke both the chat moderator rights and forum moderator rights.
+* Edit the wikia's skin and format; edit MediaWiki pages.
+=== <u>Content Moderators</u> ===
+Content Moderators are users who have additional tools available to moderate parts of the community that host the wikia community's content. These tools are:
+* Deleting and moving protected pages.
+* Deleting and moving files.
+* Undeleting pages and files.
+* Rollback; reupload files.
+* Protecting and unprotecting pages.
+* Patrol pages if the community has the Recent Changes patrol feature enabled.
+=== <u>Rollback</u>===
+Anyone can revert vandalism and bad-faith edits, but it takes a couple of clicks in the page history to get it done. Users with the "rollback" tool are able to undo bad edits with one click, by using the rollback link on diff pages, user contributions list, or the list of recent changes.
+
+It is important to note that content moderators and admins already have rollback rights by default. The right can be optional for a user to have rollback and admin combined. Users with rollback rights are just users who are not necessarily an admin.
+
+__NOEDITSECTION__
+__NOTOC__
+
+[[Category:Community]]
+[[Category:Administration]]
+[[Category:Life is Strange]]

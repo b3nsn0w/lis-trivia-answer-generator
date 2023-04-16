@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Brooke Doing When Max Approaches Her In Episode Four?",
+    "answer": "A",
+    "choices": {
+      "A": "Flying Her Drone",
+      "B": "Texting",
+      "C": "Studying",
+      "D": "Sleeping"
+    }
+  },
+  {
+    "question": "What Does Brooke Hope Max Will Do In Max's Nightmare?",
+    "answer": "B",
+    "choices": {
+      "A": "Sacrifice Arcadia Bay",
+      "B": "Save Arcadia Bay",
+      "C": "Save Chloe",
+      "D": "None of the above"
+    }
+  },
+  {
+    "question": "What Is Brooke's Plan With Warren If Max Turns Down His Offer To Go To The Movies?",
+    "answer": "A",
+    "choices": {
+      "A": "Go To The Drive-In",
+      "B": "Go To The Beach",
+      "C": "Go To The Art Museum",
+      "D": "Go To The Park"
+    }
+  },
+  {
+    "question": "What Is Brooke's Reaction When Max Helps Warren With An Experiment In Ms. Grant's Class?",
+    "answer": "B",
+    "choices": {
+      "A": "She Congratulates Them",
+      "B": "She Insults Them",
+      "C": "She Ignores Them",
+      "D": "She Laughs At Them"
+    }
+  },
+  {
+    "question": "What Is Brooke's Relationship With Max Depending On Max's Actions?",
+    "answer": "A",
+    "choices": {
+      "A": "Friend or Enemy",
+      "B": "Romantic Interest or Enemy",
+      "C": "Friend or Romantic Interest",
+      "D": "Enemy Only"
+    }
+  }
+]

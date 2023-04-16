@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Chloe's Request To Max Regarding Kate's Picture Book?",
+    "answer": "C",
+    "choices": {
+      "A": "She Wants Max To Write The Story",
+      "B": "She Wants Max To Draw The Pictures",
+      "C": "She Wants Max To Take The Photographs",
+      "D": "She Wants Max To Publish The Book"
+    }
+  },
+  {
+    "question": "How Do Max And Chloe Enter The Dark Room?",
+    "answer": "C",
+    "choices": {
+      "A": "Through The Front Door",
+      "B": "Through A Window",
+      "C": "Through A Side Opening",
+      "D": "Through A Secret Passage"
+    }
+  },
+  {
+    "question": "What Do Max And Chloe Find In The Dark Room?",
+    "answer": "A",
+    "choices": {
+      "A": "Binders With Photos Of Drugged Girls",
+      "B": "A Treasure Chest Full Of Gold",
+      "C": "A Secret Passage To The Prescott Mansion",
+      "D": "A Map To The Abandoned Barn"
+    }
+  },
+  {
+    "question": "What Happens To Frank Bowers Depending On Chloe's Actions?",
+    "answer": "A",
+    "choices": {
+      "A": "He Becomes An Ally",
+      "B": "He Is Wounded By Chloe",
+      "C": "He Is Killed By Chloe",
+      "D": "He Escapes Unharmed"
+    }
+  },
+  {
+    "question": "What Do Max And Chloe Discover In The Abandoned Barn?",
+    "answer": "B",
+    "choices": {
+      "A": "A Secret Laboratory",
+      "B": "A Hidden Staircase",
+      "C": "A Treasure Map",
+      "D": "A Time Machine"
+    }
+  }
+]

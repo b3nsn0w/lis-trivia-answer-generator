@@ -1,0 +1,22 @@
+[
+  {
+    "question": "In *Life is Strange: Before the Storm*, what does the raven symbolize?",
+    "answer": "A",
+    "choices": {
+      "A": "Courage and self-knowledge",
+      "B": "Trickery and manipulation",
+      "C": "Transformation of difficulties into blessings",
+      "D": "Eloquence and divination"
+    }
+  },
+  {
+    "question": "What is the significance of the raccoon in *The Awesome Adventures of Captain Spirit*?",
+    "answer": "C",
+    "choices": {
+      "A": "It represents secrecy and disguise",
+      "B": "It represents courage and intelligence",
+      "C": "It represents curiosity and resourcefulness",
+      "D": "It represents self-defense and adaptability"
+    }
+  }
+]

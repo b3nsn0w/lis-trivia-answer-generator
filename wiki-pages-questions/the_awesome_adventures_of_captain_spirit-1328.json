@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What Award Did The Awesome Adventures of Captain Spirit Win in Game Informer's Best Of 2018 Awards?",
+    "answer": "A",
+    "choices": {
+      "A": "Best Adventure Game",
+      "B": "Best Graphics",
+      "C": "Best Soundtrack",
+      "D": "Best Multiplayer Game"
+    }
+  },
+  {
+    "question": "What Is The Criticism Directed Towards The Awesome Adventures of Captain Spirit?",
+    "answer": "A",
+    "choices": {
+      "A": "The Game Is Quite Short",
+      "B": "The Graphics Are Poor",
+      "C": "The Soundtrack Is Uninspired",
+      "D": "The Story Is Confusing"
+    }
+  }
+]

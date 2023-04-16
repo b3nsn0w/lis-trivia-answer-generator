@@ -1,0 +1,113 @@
+Here is a section of the wiki page for Easter Eggs (Life is Strange):
+
+#  Easter Eggs (Life is Strange) 
+
+[File:Easter Eggs Info.png](thumb.md)
+This article contains **Easter eggs** that can be found in *[Life is Strange](life_is_strange.md)*.
+
+:*For a list of all references in the game, see [References (Life is Strange)](here.md).*
+
+## 555 Phone Numbers 
+Whenever a telephone number is mentioned in the game, it has the prefix 555. That does not have anything to do with [Arcadia Bay](arcadia_bay.md), however. The prefix 555 is widely used for fictitious telephone numbers in North American television shows, films, video games and other media in order to prevent curious callers from bothering real people and organisations by telephoning numbers they see in works of fiction.To read more about the prefix 555- used for fictitious telephone numbers see *{{Wiki|555 (telephone number)|here}}*.
+
+Telephone numbers with the prefix 555 in *Life is Strange*:
+
+**Episode 1:**
+*Arcadia Bay Sheriff's number on [Rachel Amber](rachel_amber.md)'s Missing Person Poster: 555-388-6020
+*[Steve Hackney](steve_hackney.md)'s telephone number (found on an advertisement in the [Blackwell Academy Hallway](blackwell_hallway.md)): 555-846-9129
+*[Tyron](tyron.md)'s number (found on an advertisement on the [Blackwell Campus](main_campus.md) noticeboard): 555-756-1896
+*Anti-depression hotline number (found on a flyer in the girls' [Prescott Dormitory](dormitories.md)): 555-784-9165
+**Episode 3:**
+*Numbers from Student Information Sheets in [Principal Wells' Office](principal_wells__office.md):
+{| class# "wikitable" style"text-align:center; border: 1px solid #57333F; margin-left:24px"
+|-
+! style# "width:45px; height:45px" |Type
+! Chloe Price
+! Kate Marsh
+! Max Caulfield
+! Nathan Prescott
+! Rachel Amber
+! Victoria Chase
+! Warren Graham
+|-
+! style"height:45px" |City of Birth
+|555-0043
+|555-0198
+|555-0198
+|555-0198
+|555-0769
+|555-0198
+|555-0198
+|-
+! style# "height:45px" |Parents
+|555-0179
+|555-1314
+|N/A
+|555-7063
+|555-0769
+|555-3119
+|555-0092
+|-
+! style"height:45px" |Home Phone
+|555-0043
+|N/A
+|555-3303
+|555-7063
+|N/A
+|555-4790
+|555-3292
+|-
+! style# "height:45px" |Cell Phone
+|555-0133
+|N/A
+|555-2070
+|555-1010
+|N/A
+|555-3009
+|555-0134
+|-
+! style"height:45px" |Work Phone
+|555-503-1990
+|N/A
+|555-0109
+|555-8603
+|N/A
+|555-0102
+|555-9092
+|}
+
+*Numbers in the notebook at the Price Household:
+**Thomas B. - 555-601-2001
+**Tony Bikes - 555-009-2064
+**Two Whales - 555-503-1990
+**Turtle and oven - 555-764-1065
+
+**Episode 4:**
+*The Bloch Hotel number (found near the telephone in the Madsen Household): 555-397-0042
+*[Arcadia Bay Police Department](abpd.md) non-emergency number (found on the department's website on [Max's Computer](max_s_computer.md)): 555-ASK-ABPD
+
+**Episode 5:**
+*Blackwell staff numbers from the school's pamphlet:
+**Admissions: [Marianna Taylor](marianna_taylor.md) - 555-630-8231
+**Financial Aid: [Lisa Avena](lisa_avena.md) - 555-630-8282
+**Security: [David Madsen](david_madsen.md) - 555-630-8243
+**Custodian: [Samuel Taylor](samuel_taylor.md) - 555-630-8233
+
+## Amaury 
+There are many hidden references to [Amaury Balandier](amaury_balandier.md), the lead environment artist at DONTNOD, scattered throughout *Life is Strange*.
+
+* A member of the 2013 Yearbook Committee at [Blackwell Academy](blackwell_academy.md) is called "Amaury".
+* The soda cans in Chloe's room are a brand called "Pr. Amaury".
+* There is a postcard that can be found in [Chloe's Room](chloe_s_room.md), the metalbox under Chloe's bed. Once enlarged, it appears the letter was from someone called "Amaury".
+* Victoria's tablet is from the brand "Amaury" as evident from the textures found in the game files.
+* One of Jefferson's photographs that is displayed on the Blackwell campus shows the name "Amaury" in the background.
+
+Yearbook_Flyer.png|Yearbook Committee members.
+soda-can.png|Pr. Amaury soda can.
+Postcard.png|Postcard from Amaury.
+Tablet textures.png|Geometrical net of Victoria's tablet.
+amauryphoto.png|Photograph on the Blackwell campus.
+
+
+
+Generate five trivia questions relevant to this section of the page.

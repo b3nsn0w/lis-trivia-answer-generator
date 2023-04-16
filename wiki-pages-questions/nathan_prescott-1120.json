@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Medications Does Nathan Take?",
+    "answer": "A",
+    "choices": {
+      "A": "Risperidone",
+      "B": "Ibuprofen",
+      "C": "Paracetamol",
+      "D": "Aspirin"
+    }
+  },
+  {
+    "question": "What Mental Disorders Is Nathan Suggested To Have?",
+    "answer": "A",
+    "choices": {
+      "A": "Schizophrenia and bipolar disorder",
+      "B": "Depression and anxiety",
+      "C": "Obsessive-compulsive disorder and borderline personality disorder",
+      "D": "Post-traumatic stress disorder and dissociative identity disorder"
+    }
+  },
+  {
+    "question": "What Is Nathan's Affinity For In Art?",
+    "answer": "A",
+    "choices": {
+      "A": "Dark expressionist style",
+      "B": "Pop art",
+      "C": "Renaissance art",
+      "D": "Abstract art"
+    }
+  },
+  {
+    "question": "What Is Nathan's Photographic Penchant?",
+    "answer": "A",
+    "choices": {
+      "A": "Dead animals",
+      "B": "Flowers",
+      "C": "Landscapes",
+      "D": "Portraits"
+    }
+  },
+  {
+    "question": "What Club Is Nathan A Part Of?",
+    "answer": "A",
+    "choices": {
+      "A": "Vortex Club",
+      "B": "Photography Club",
+      "C": "Chess Club",
+      "D": "Drama Club"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "In which episode of Life is Strange does the storm become an extreme meteorological anomaly?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 5: Polarized"
+    }
+  },
+  {
+    "question": "What does Max see in her vision when she is near the lighthouse with Chloe at the end of Episode 1?",
+    "answer": "B",
+    "choices": {
+      "A": "A boat being thrown up by the tornado",
+      "B": "A newspaper stuck on a fence",
+      "C": "Three trunks rolling down the path",
+      "D": "Debris from the lighthouse falling on her"
+    }
+  },
+  {
+    "question": "What is the emergency broadcast system warning for in the Two Whales Diner during the storm?",
+    "answer": "B",
+    "choices": {
+      "A": "A hurricane",
+      "B": "A tornado",
+      "C": "A tsunami",
+      "D": "An earthquake"
+    }
+  },
+  {
+    "question": "Who is trying to take a shot of the storm and gets hit by a pole during the storm?",
+    "answer": "B",
+    "choices": {
+      "A": "Truck Driver",
+      "B": "Evan Harris",
+      "C": "Alyssa Anderson",
+      "D": "R.J. MacReady"
+    }
+  }
+]

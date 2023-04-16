@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Name Of The Teacher Who Successfully Petitions Against David's Surveillance Program?",
+    "answer": "A",
+    "choices": {
+      "A": "Ms. Grant",
+      "B": "Mr. Jefferson",
+      "C": "Principal Wells",
+      "D": "Ms. Hoida"
+    }
+  },
+  {
+    "question": "What Happens If Max Reports Nathan For Having A Gun In Episode 1?",
+    "answer": "A",
+    "choices": {
+      "A": "Nathan Is Suspended",
+      "B": "Max Is Suspended",
+      "C": "Nathan Vandalizes Max's Room",
+      "D": "Nathan Is Arrested By The Police"
+    }
+  },
+  {
+    "question": "What Happens If Max Comforts Victoria After The Photo Incident In Episode 1?",
+    "answer": "A",
+    "choices": {
+      "A": "Victoria Takes Down The Photo Of Max",
+      "B": "Victoria Vandalizes Max's Room",
+      "C": "Victoria Is Suspended",
+      "D": "Max Is Suspended"
+    }
+  },
+  {
+    "question": "What Happens If Max Takes A Photo Of Victoria Covered In Paint In Episode 1?",
+    "answer": "A",
+    "choices": {
+      "A": "Warren Suggests Starting A Kickstarter Fund",
+      "B": "Victoria Blames Taylor And Courtney",
+      "C": "Chloe Comments On The Photo With Glee",
+      "D": "Victoria Vandalizes Max's Room"
+    }
+  }
+]

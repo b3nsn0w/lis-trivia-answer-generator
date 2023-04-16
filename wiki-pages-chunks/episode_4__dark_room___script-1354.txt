@@ -1,0 +1,97 @@
+Here is a section of the wiki page for Episode 4: Dark Room - Script:
+
+(Saved Kate)**Brooke:** I'm here, as usual. By the way, thanks for helping Kate down. Are you okay?
+
+|-|(Couldn't save Kate)(Couldn't save Kate)**Brooke:** Considering what happened to Kate, I could be better. Are you okay?
+
+Drone.# Drone.**Max:** I might feel better taking your drone for a quick flight...
+
+{{#tag:tabber|(Accepted Warren's invitation)(Accepted Warren's invitation)**Brooke:** Ms. Grant finally gave up and let me fly her again. But you're going to the drive-in with Warren, so you don't have time to fly my drone.
+
+**Max:** Really? I can't fly your drone because I'm going to see "Ape" movies with Warren?
+
+**Brooke:** You are perceptive, Max. Now, excuse me. My drone needs me.
+
+{{!}}-{{!}}(Declined Warren's invitation)# (Declined Warren's invitation)**Brooke:** Ms. Grant caved and let me fly her again. So, take a spin! I have to see what time I'm going to the drive-in with Warren on Saturday.
+
+{{#tag:tabber|Sounds fun.Sounds fun.**Max:** That sounds fun. It would be good for you and Warren to take a road trip after this week.
+
+**Brooke:** Warren got a new car. Or an old new car. So, I'm all about a serious road trip out of here after this week.
+
+{{!}}-{{!}}He asked you?# He asked you?**Max:** Oh, he asked you to go to the drive-in with him? Well... that's cool.
+
+**Brooke:** I love the drive-in in Newberg. So old school, but so much fun... like Warren.
+
+}}
+
+*Brooke hands Max her tablet and points to the drone. Max flies the drone around the Dormitories, then hands the controls back to Brooke.*
+
+**Max:** Thanks.
+
+}}
+
+|-|Nathan.Nathan.**Max:** I need to find Nathan, have you seen him around?
+
+{{#tag:tabber|(Accepted Warren's invitation)# (Accepted Warren's invitation)**Brooke:** Ask Warren. I mean, you're going to the movies with him and everything...
+
+{{#tag:tabber|(Nathan is suspended)(Nathan is suspended)**Max:** Come on, Brooke, don't be that way. Nathan was suspended, but he should still be on campus.
+
+{{!}}-{{!}}(Nathan isn't suspended)# (Nathan isn't suspended)**Max:** Okay, Brooke, um, but right now I'm trying to find Nathan.
+
+}}
+
+**Brooke:** Warren's not good enough for you? Okay. I saw Nathan pissed and walking off campus earlier. Good luck getting that date, Max.
+
+{{!}}-{{!}}(Declined Warren's invitation)(Declined Warren's invitation)**Brooke:** I was distracted by Warren asking me out to the drive-in.
+
+{{#tag:tabber|(Nathan is suspended)# (Nathan is suspended)**Max:** Nathan was suspended, but he should still be on campus.
+
+{{!}}-{{!}}(Nathan isn't suspended)(Nathan isn't suspended)**Max:** It's a school day, so Nathan should be around.
+
+}}
+
+**Brooke:** I did see him this morning heading off campus. He looked more angry than usual... I wouldn't look for him now, if I were you.
+
+}}
+
+|-|Whales.# Whales.**Max:** I can't get my limited brain around that eclipse and the beached whales... I was hoping the science department had some ideas.
+
+**Brooke:** Warren and I are supposed to compare notes and theories this weekend.
+
+{{#tag:tabber|That makes sense.That makes sense.**Max:** That makes sense. Two big brains are better than one...or mine.
+
+**Brooke:** We'd get the Nobel Prize if we could explain this phenomenon, but even Ms. Grant has no clue...
+
+{{!}}-{{!}}He asked you?# He asked you?**Max:** Oh, he asked you?
+
+**Brooke:** You know, science geeks stick together. But honestly, neither of us can explain this phenomenon... It's pretty scary.
+
+}}
+
+|-|Leave.Leave.**Max:** I have to go. Talk later, Brooke.
+
+*If Max talks to Brooke again:*
+
+**Max:** Back again, Brooke.
+
+**Brooke:** Are you sure you're alright?
+
+''If Max talks to Brooke again after exhausting all dialogue options / asked about drone but accepted Warren's invitation:*
+
+**Brooke:** Talk to you later, Max.
+
+**Conversation with Chloe**
+
+*Chloe turns around when Max approaches. She gives Justin a high-five and a fist-bump, and then walks to Max.''
+
+**Max:** Coast is clear. It would be so cool if you and me were going to school here together...
+
+**Chloe:** But now you can have Mr. Jefferson all to yourself...
+
+**Max:** Ugh, you suck. Now let's get into Blackwell Ninja mode.
+
+''Max and Chloe enter the Boys' Dormitories.*
+
+# 
+
+Generate five trivia questions relevant to this section of the page.

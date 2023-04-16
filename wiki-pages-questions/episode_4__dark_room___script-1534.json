@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Ask Frank For?",
+    "answer": "A",
+    "choices": {
+      "A": "His Client List",
+      "B": "Rachel's Bracelet",
+      "C": "His Gun",
+      "D": "His RV Keys"
+    }
+  },
+  {
+    "question": "What Happens To Pompidou?",
+    "answer": "B",
+    "choices": {
+      "A": "He Escapes From The RV",
+      "B": "He Is Shot By Chloe",
+      "C": "He Attacks Max",
+      "D": "He Is Given A Bone By Max"
+    }
+  },
+  {
+    "question": "Why Does Frank Give Chloe His Client List?",
+    "answer": "B",
+    "choices": {
+      "A": "Because He Trusts Max And Chloe",
+      "B": "Because He Wants To Help Find Rachel",
+      "C": "Because He Is Threatened By Chloe's Gun",
+      "D": "Because He Feels Guilty About Rachel's Disappearance"
+    }
+  },
+  {
+    "question": "What Is Chloe's Reaction After Shooting Frank?",
+    "answer": "C",
+    "choices": {
+      "A": "She Is Relieved",
+      "B": "She Is Proud Of Herself",
+      "C": "She Is Horrified",
+      "D": "She Is Angry At Max"
+    }
+  },
+  {
+    "question": "What Does Max Think About Chloe Killing Frank?",
+    "answer": "B",
+    "choices": {
+      "A": "She Thinks Chloe Will Be Proud Of Herself",
+      "B": "She Thinks Chloe Will Never Forgive Herself",
+      "C": "She Thinks Chloe Will Forget About It Soon",
+      "D": "She Thinks Chloe Will Blame Max For It"
+    }
+  }
+]

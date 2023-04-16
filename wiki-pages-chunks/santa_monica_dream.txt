@@ -1,0 +1,65 @@
+Here is a section of the wiki page for Santa Monica Dream:
+
+#  Santa Monica Dream 
+
+```yaml
+Song
+
+image: angus and julia stone down the way.png
+artist: Angus & Julia Stone
+album: Down the Way
+release: December 20, 2010
+appears: |-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)
+  [Episode 3: Chaos Theory](episode_3__chaos_theory.md)
+```
+
+**"Santa Monica Dream"** is a single by Angus & Julia Stone from their album *Down the Way* and is featured in Episode 1 and Episode 3 of *[Life is Strange](life_is_strange.md)*.
+##  Lyrics 
+: Goodbye to my Santa Monica dream
+: Fifteen kids in the backyard drinking wine
+: You tell me stories of the sea
+: And the ones you left behind
+
+: Goodbye to the roses on your street
+: Goodbye to the paintings on the wall
+: Goodbye to the children we'll never meet
+: And the ones we left behind
+: And the ones we left behind
+
+: I'm somewhere, you're somewhere
+: I'm nowhere, you're nowhere
+: You're somewhere, you're somewhere
+: I could go there but I don't
+
+: Rob's in the kitchen making pizza
+: Somewhere down in Battery Park
+: I'm singing songs about the future
+: Wondering where you are
+
+: I could call you on the telephone
+: But do I really want to know?
+: You're making love now to the lady down the road
+: No, I don't, I don't want to know
+
+: I'm somewhere, you're somewhere
+: I'm nowhere, you're nowhere
+: You're somewhere, you're somewhere
+: I could go there but I don't
+
+: Goodbye to my Santa Monica dream
+: Fifteen kids in the backyard drinking wine
+: You tell me stories of the sea
+: And the ones you left behind
+: And the ones we left behind
+
+##  Interpretation 
+This song is about moving on after a dreadful separation. It represents [Chloe Price](chloe.md) and her relationship with [Rachel Amber](rachel_amber.md). It plays directly after Chloe and [Maxine Caulfield](max.md)'s talk about Rachel's disappearance in [Chloe's Room](her_room.md). As it plays, she asks Max to leave her to think; obviously about her relationship with Rachel. The song's lyrics highlight that the two girls (Chloe and Rachel) cannot reunite, and it also reflects on how Chloe perhaps doesn't want to know about Rachel's illicit activities behind her back.Referring to Rachel's secret relationship with [Frank Bowers](frank.md), the lines "you're making love now to the lady down the road / No, I don't want to know" are applicable.  From as soon as Episode 1, the game's music foreshadows information which is made available to us later.
+
+##  Videos 
+
+Life is Strange Soundtrack - Santa Monica Dream by Agnus & Julia Stone
+
+
+
+Generate five trivia questions relevant to this section of the page.

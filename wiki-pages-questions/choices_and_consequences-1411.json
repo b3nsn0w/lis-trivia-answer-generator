@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the consequence of not helping Warren with his science experiment?",
+    "answer": "B",
+    "choices": {
+      "A": "Warren gets a grade of A-",
+      "B": "Warren gets a grade of B-",
+      "C": "Max cannot take an optional photo",
+      "D": "Max cannot change Warren's grade"
+    }
+  },
+  {
+    "question": "What is the consequence of not helping Warren with his science experiment?",
+    "answer": "B",
+    "choices": {
+      "A": "Warren gets a grade of A-",
+      "B": "Warren gets a grade of B-",
+      "C": "Max cannot take an optional photo",
+      "D": "Max cannot change Warren's grade"
+    }
+  }
+]

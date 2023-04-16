@@ -1,0 +1,52 @@
+[
+  {
+    "question": "In the alternative timeline, what is Max's role in the Vortex Club?",
+    "answer": "C",
+    "choices": {
+      "A": "President",
+      "B": "Treasurer",
+      "C": "Queen Bee",
+      "D": "Secretary"
+    }
+  },
+  {
+    "question": "What is Chloe's condition in the alternative timeline?",
+    "answer": "C",
+    "choices": {
+      "A": "Blindness",
+      "B": "Deafness",
+      "C": "Paralysis",
+      "D": "Amnesia"
+    }
+  },
+  {
+    "question": "What is the reason for the Price family's financial troubles in the alternative timeline?",
+    "answer": "B",
+    "choices": {
+      "A": "William lost his job",
+      "B": "Chloe's medical treatments",
+      "C": "Joyce's gambling addiction",
+      "D": "The family's vacation to Paris"
+    }
+  },
+  {
+    "question": "What does Chloe ask Max to do in the alternative timeline?",
+    "answer": "B",
+    "choices": {
+      "A": "Fetch her morphine",
+      "B": "End her life",
+      "C": "Take her to the beach",
+      "D": "Watch Blade Runner with her"
+    }
+  },
+  {
+    "question": "What happens to the whales in the alternative timeline?",
+    "answer": "C",
+    "choices": {
+      "A": "They disappear",
+      "B": "They become extinct",
+      "C": "They beach themselves",
+      "D": "They migrate to a different location"
+    }
+  }
+]

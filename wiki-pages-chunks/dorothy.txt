@@ -1,0 +1,37 @@
+Here is a section of the wiki page for Dorothy:
+
+#  Dorothy 
+
+**Dorothy** is [Joyce Price](joyce_price.md)'s aunt and [Chloe Price](chloe_price.md)'s maternal great-aunt. In the [Alternative Timeline](alternative_timeline.md), she sent Joyce a letter, expressing her inability to help the Prices financially due to having her own medical bills. The letter can be found in [Chloe Price](chloe_price.md)'s upstairs [Chloe's Room#Alternate Timeline](bedroom.md).
+
+[File:LiS1-Aunt_Letter.png](thumb.md)
+
+{{Bigquote
+
+|Dear Joyce,
+
+Thank you for keeping me updated on Chloe's
+condition. I can only imagine the struggle you
+and [William Price](william.md) are going through. I am so sorry
+that I can't help you with a loan at this time.
+
+Like everybody else, I'm underwater with my own
+medical bills. Please give Chloe a hug and my
+best wishes.
+
+Love, Aunt Dorothy
+}}
+
+## Trivia
+*Aunt Dorothy is believed to be a [References (Life is Strange)](reference.md) to {{Wiki|Dorothy Gale}} from {{Wiki|L. Frank Baum}}'s *{{Wiki|The Wizard of Oz}}*.
+
+{{Character Navbox}}
+
+## Trivia
+*Aunt Dorothy is believed to be a [References (Life is Strange)](reference.md) to {{Wiki|Dorothy Gale}} from {{Wiki|L. Frank Baum}}'s *{{Wiki|The Wizard of Oz}}*.
+
+{{Character Navbox}}
+
+
+
+Generate five trivia questions relevant to this section of the page.

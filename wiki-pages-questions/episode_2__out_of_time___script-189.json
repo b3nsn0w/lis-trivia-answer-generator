@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Say To Joyce Before Leaving The Diner?",
+    "answer": "D",
+    "choices": {
+      "A": "Goodbye",
+      "B": "See You Later",
+      "C": "Thanks For The Food",
+      "D": "Bye, Mom"
+    }
+  },
+  {
+    "question": "What Do Max And Chloe Do After Saying Goodbye To Joyce?",
+    "answer": "B",
+    "choices": {
+      "A": "They Hug Each Other",
+      "B": "They Do A High Five And A Fist Bump",
+      "C": "They Walk Away Without Saying Anything",
+      "D": "They Argue About Where To Go Next"
+    }
+  },
+  {
+    "question": "What Does Chloe Say About Kate's Situation?",
+    "answer": "A",
+    "choices": {
+      "A": "She'll Survive You Not Taking That One Call",
+      "B": "She'll Be Fine Without You",
+      "C": "She's Probably Already Dead",
+      "D": "She's Not Worth Your Time"
+    }
+  },
+  {
+    "question": "What Does Max Think About Doing Regarding Kate?",
+    "answer": "A",
+    "choices": {
+      "A": "She Should Rewind And Answer Her Call",
+      "B": "She Should Ignore Her",
+      "C": "She Should Text Her Later",
+      "D": "She Should Visit Her In Person"
+    }
+  },
+  {
+    "question": "Who Watches Max And Chloe From A Distance As They Leave The Diner?",
+    "answer": "C",
+    "choices": {
+      "A": "The Waitress",
+      "B": "The Cook",
+      "C": "The Dog Owner",
+      "D": "The Police Officer"
+    }
+  }
+]

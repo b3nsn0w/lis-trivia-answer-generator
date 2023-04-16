@@ -1,0 +1,52 @@
+Here is a section of the wiki page for Max's Room:
+
+## Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+*{{Interaction|There is a slate outside the room that Max can draw on.|**Empty: **"How sad. I didn't write anything. I have nothing to say."
+**Pokerface: **"Obvious, but true."}}
+*{{Interaction|She can look in her mirror and take the fifth optional photo.|"Hard to believe I'm 18. Do I look any older? Just more stressed."}}
+*{{Interaction|She can read a note Warren gave her with his [Warren's Flash Drive](flash_drive.md).|"Warren even left me a little message with his flash drive. He's such a goofball."}}
+*She can turn on and off the power strip to control the lights above her bed.
+*{{Interaction|She can look at her teddy bear.|"Ahoy, Captain. At least I know you've got my back. When I swallowed your eye
+and my parents rushed me to the ER, I knew we were bonded forever..."}}
+*She can lie down on her bed and [Moment of Calm (Life is Strange)](reflect_on_her_day.md).
+*{{Interaction|She can look at the cushion on her bed.|"So cheesy, but it makes me smile thinking of the day Mom and I sewed that together."}}
+*{{Interaction|She can look at the photos above her bed.|"'The Max Caulfield Photo Memorial Wall.'"}}
+*{{Interaction|She can look at her Hi-Fi.|"I should hit the thrift store and pick up some dollar vinyl... Is that too hipster?
+I don't care. Music inspires me, and my photography..."}}
+*{{Interaction|She can look at her art books.|"Cartier-Bresson, Doisneau, Hamilton... The greatest!"}}
+*{{Interaction|She can look at photos of her at a hockey game, at Fremont Troll, and the Space Needle.|"That was a good hockey game, and a great fight."
+"Man, Kristen and Fernando were so drunk hanging on the Fremont Troll..."
+"That's the only tourist picture I let them take of me at the Space Needle..."}}
+*{{Interaction|She can look at the cookies her mother sent her.|"I love that Mom sent me a fat box of chocolate coconut bites for my birthday,
+and slipped in a 200 dollar gift certificate. She sure knows how to make a sad birthday happy."}}
+*{{Interaction|She can look at her wardrobe.|"It's not exactly '' but no shits are given. I like my wardrobe."}}
+*{{Interaction|She can open a drawer and read a birthday card from her parents.|"Hard to believe I'm 18 now. I'm lucky my parents enabled my photo habit into adulthood."}}
+*{{Interaction|She can look at a poster of Man Ray.|"Would Man Ray call them 'selfie-portraits'?"}}
+*{{Interaction|She can look at and play her guitar (if Hi-Fi is turned on, Max will play accompaniment).|"It's such a pretty guitar. I need to play it more."}}
+*{{Interaction|She can look at the book she borrowed from Kate.|"I'm glad Kate let me borrow her copy of ''...
+I should have every Bradbury book for myself."}}
+*{{Interaction|She can look at the Thunderbirds pennant.|"I'll miss going to the games with my Dad. Go Thunderbirds!"}}
+*{{Interaction|She can look at some instant film.|"Instant film is so damn hard to find and expensive now. But, I can't help it, I'm analog, not digital."}}
+*{{Interaction|She can water the plant below her window, which counts as a [Choices and Consequences#First possible interaction on Max's plant Lisa](minor_choice.md).|**Look: **"I haven't forgotten you, little Lisa. Yet."
+**Water: **"You are thirsty. I'm the worst baby mama. Drink up..."}}
+*{{Interaction|She can look out the window.|"If I'm not looking through a viewfinder, I'm looking through a window... Always looking."}}
+*{{Interaction|She can look at her DVDs.|"One day I'll organize my film collection... One day I'll get an actual HDTV."}}
+*{{Interaction|She can look at a sticky note Dana left her about Warren's flash drive **(required)**.|"Looks like Dana left me a li'l post-it note..."}}
+*{{Interaction|She can look at and read a photo album on her desk.|**Look: **"Here's my go-to source for instant photo inspiration."
+**Read: **"Philip-Lorca diCorcia, my man! I don't think I could take my camera
+to those places, look at that shot... I love Julia Cameron's Victorian vibe.
+Talk about analog cameras... Ah, Dali, what a fantastic eye! He could truly freeze time..."}}
+*{{Interaction|She can open the chest of drawers beside her bed and look at a photo of her with Chloe.|"...Max and Chloe: Best Friends Forever. Who even says that anymore? I'm going to have to call
+Chloe eventually and find out what she'll say. The longer I wait, the worse it'll be. Idiot."}}
+*{{Interaction|She can look at and use her laptop.|"There's my poor laptop begging me to check in."}}
+
+**{{Interaction|Max can look at a website called "Camera Porn" which documents camera specs.|"I am so addicted to this site... Look at these vintage beauties..."}}
+**{{Interaction|She can look at an email from Warren.|"Warren makes me laugh. It's nice to feel like I already made a real friend here."}}
+**{{Interaction|She can look at her social media page (determinant).|**Made fun of Victoria:** "I look so pathetic."
+**Daniel drew her portrait:** "Daniel has so much talent. I hope nobody hates on it just because it's me."}}
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

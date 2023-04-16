@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Does Max Want To Do To David After Kate's Suicide?",
+    "answer": "B",
+    "choices": {
+      "A": "Hug Him",
+      "B": "Kick Him In The Balls",
+      "C": "Ignore Him",
+      "D": "Thank Him"
+    }
+  },
+  {
+    "question": "What Does Max Tell Warren About Blackwell Academy?",
+    "answer": "B",
+    "choices": {
+      "A": "It's A Great School",
+      "B": "Something Ominous Is Happening",
+      "C": "It's A Terrible School",
+      "D": "It's A Normal School"
+    }
+  },
+  {
+    "question": "What Natural Phenomenon Do Max And Warren Witness At The End Of The Day?",
+    "answer": "C",
+    "choices": {
+      "A": "A Tornado",
+      "B": "A Hurricane",
+      "C": "A Solar Eclipse",
+      "D": "A Meteor Shower"
+    }
+  },
+  {
+    "question": "Who Are The Victims Of The Ominous Happenings At Blackwell Academy According To Max?",
+    "answer": "C",
+    "choices": {
+      "A": "Rachel Amber, Chloe, And Max",
+      "B": "Max, Warren, And Kate",
+      "C": "Kate, Rachel Amber, And Chloe",
+      "D": "Max, Chloe, And Warren"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Jefferson Do When David Enters The Room?",
+    "answer": "A",
+    "choices": {
+      "A": "He Hides The Syringe And Grabs A Tripod",
+      "B": "He Runs Towards David With The Syringe",
+      "C": "He Shoots David With A Gun",
+      "D": "He Surrenders To David"
+    }
+  },
+  {
+    "question": "What Happens To David When He Tries To Punch Jefferson?",
+    "answer": "A",
+    "choices": {
+      "A": "He Gets Hit In The Stomach With A Tripod",
+      "B": "He Dodges Jefferson's Attack",
+      "C": "He Shoots Jefferson With A Gun",
+      "D": "He Falls Unconscious"
+    }
+  },
+  {
+    "question": "What Does Jefferson Say About David After Knocking Him Out?",
+    "answer": "B",
+    "choices": {
+      "A": "\"He Was Always A Troublemaker\"",
+      "B": "\"I Always Hated That Fascist F***\"",
+      "C": "\"He Was A Good Cop\"",
+      "D": "\"I Wish He Hadn't Gotten Involved\""
+    }
+  },
+  {
+    "question": "What Does Max Do To Distract Jefferson And Help David?",
+    "answer": "C",
+    "choices": {
+      "A": "She Warns David About The Gun",
+      "B": "She Tells David To Use A Bottle",
+      "C": "She Pushes A Trolley With Her Foot",
+      "D": "She Takes A Picture Of Jefferson"
+    }
+  },
+  {
+    "question": "How Does Jefferson React When David Chases Him To The Cabinet?",
+    "answer": "B",
+    "choices": {
+      "A": "He Surrenders And Drops The Gun",
+      "B": "He Shoots David Twice",
+      "C": "He Throws A Tripod At David",
+      "D": "He Hides Behind Max"
+    }
+  }
+]

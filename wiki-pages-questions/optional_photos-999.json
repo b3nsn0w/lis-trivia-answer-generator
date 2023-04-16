@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Where Can You Find The First Optional Photo In Episode 3?",
+    "answer": "B",
+    "choices": {
+      "A": "In The Science Lab",
+      "B": "In Victoria's Room",
+      "C": "In The Dormitory Grounds",
+      "D": "In The Madsen Household"
+    }
+  },
+  {
+    "question": "What Achievement Do You Get For Taking The Photo Of Chloe In Principal Wells' Office?",
+    "answer": "A",
+    "choices": {
+      "A": "Bokeh",
+      "B": "Pinholed",
+      "C": "RAW Strength",
+      "D": "Viewfinder"
+    }
+  },
+  {
+    "question": "What Achievement Do You Get For Taking The Photo Of The Science Class Skeleton?",
+    "answer": "C",
+    "choices": {
+      "A": "Bokeh",
+      "B": "Pinholed",
+      "C": "Histogrammar",
+      "D": "Viewfinder"
+    }
+  },
+  {
+    "question": "Where Can You Find William's Camera In Episode 3?",
+    "answer": "D",
+    "choices": {
+      "A": "In The Science Lab",
+      "B": "In Victoria's Room",
+      "C": "In The Dormitory Grounds",
+      "D": "In Young Chloe's Kitchen"
+    }
+  },
+  {
+    "question": "What Achievement Do You Get For Taking All The Photographs In Episode 3?",
+    "answer": "A",
+    "choices": {
+      "A": "Camera Eye",
+      "B": "Parallax View",
+      "C": "Lenscrafted",
+      "D": "The Reflex"
+    }
+  }
+]

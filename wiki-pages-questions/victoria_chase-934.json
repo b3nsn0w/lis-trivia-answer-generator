@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who does Victoria seek comfort and support from after Kate's suicide attempt?",
+    "answer": "A",
+    "choices": {
+      "A": "Taylor Christensen",
+      "B": "Courtney Wagner",
+      "C": "Nathan Prescott",
+      "D": "Maxine Caulfield"
+    }
+  },
+  {
+    "question": "What is the name of the club that Victoria and Nathan are known as the \"King and Queen\" of?",
+    "answer": "C",
+    "choices": {
+      "A": "The Photography Club",
+      "B": "The Art Club",
+      "C": "The Vortex Club",
+      "D": "The Drama Club"
+    }
+  },
+  {
+    "question": "What does Victoria reveal about her feelings towards Max if Max had comforted her earlier?",
+    "answer": "C",
+    "choices": {
+      "A": "She is jealous of Max",
+      "B": "She thinks Max is awkward",
+      "C": "She thinks Max is cool",
+      "D": "She thinks Max is annoying"
+    }
+  },
+  {
+    "question": "What does Victoria hope will happen so that it would be less weird for her and Max to hang out?",
+    "answer": "B",
+    "choices": {
+      "A": "Max will join the Photography Club",
+      "B": "Max will join the Vortex Club",
+      "C": "Max will move away from Blackwell",
+      "D": "Max will become more popular"
+    }
+  }
+]

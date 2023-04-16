@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Can Max Do With The Fisherman's Flyers?",
+    "answer": "A",
+    "choices": {
+      "A": "Read Them",
+      "B": "Tear Them Down",
+      "C": "Burn Them",
+      "D": "Ignore Them"
+    }
+  },
+  {
+    "question": "What Does Max Say About The Dead Birds?",
+    "answer": "A",
+    "choices": {
+      "A": "\"This Is So Creepy\"",
+      "B": "\"I Hope They Come Back To Life\"",
+      "C": "\"I Wish I Could Fly Like Them\"",
+      "D": "\"I Don't Care About Dead Birds\""
+    }
+  },
+  {
+    "question": "What Does Max Say About Chloe When Looking At Her Without The Key?",
+    "answer": "A",
+    "choices": {
+      "A": "\"I Hope She Finds A Nice T-Bone To Keep The Doggie Busy\"",
+      "B": "\"She Looks So Cool\"",
+      "C": "\"I Wish She Was My Best Friend\"",
+      "D": "\"I Don't Care About Chloe\""
+    }
+  },
+  {
+    "question": "What Does The Graffiti In The Bathroom Say If Kate Is Alive?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Kate Should Have Jumped\"",
+      "B": "\"You Killed Kate\"",
+      "C": "\"Kate Is Awesome\"",
+      "D": "\"There Is No Graffiti If Kate Is Alive\""
+    }
+  },
+  {
+    "question": "What Can Max Do With Frank's Beer?",
+    "answer": "B",
+    "choices": {
+      "A": "Chug It",
+      "B": "Dump It On Frank",
+      "C": "Give It To Chloe",
+      "D": "Ignore It"
+    }
+  }
+]

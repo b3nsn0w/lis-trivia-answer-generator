@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who is the artist behind the song \"To All of You\"?",
+    "answer": "B",
+    "choices": {
+      "A": "Jonathan Morali",
+      "B": "Syd Matters",
+      "C": "Rachel Amber",
+      "D": "Blackwell Academy"
+    }
+  },
+  {
+    "question": "In which episodes of Life is Strange does \"To All of You\" appear?",
+    "answer": "A",
+    "choices": {
+      "A": "Episode 1: Chrysalis and Episode 5: Polarized",
+      "B": "Episode 2: Out of Time and Episode 4: Dark Room",
+      "C": "Episode 3: Chaos Theory and Episode 5: Polarized",
+      "D": "Episode 1: Chrysalis and Episode 3: Chaos Theory"
+    }
+  },
+  {
+    "question": "What is the name of the album that features the song \"To All of You\"?",
+    "answer": "B",
+    "choices": {
+      "A": "Life is Strange",
+      "B": "Someday We Will Foresee Obstacles",
+      "C": "American Girls",
+      "D": "Plastic Dollies"
+    }
+  },
+  {
+    "question": "What tone does the song \"To All of You\" set at the beginning of the game?",
+    "answer": "A",
+    "choices": {
+      "A": "Romantic or nostalgic",
+      "B": "Dark and foreboding",
+      "C": "Exciting and adventurous",
+      "D": "Mysterious and suspenseful"
+    }
+  }
+]

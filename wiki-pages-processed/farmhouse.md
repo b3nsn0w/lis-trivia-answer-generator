@@ -1,0 +1,34 @@
+#  Farmhouse 
+
+```yaml
+Location
+
+image: Farmhouse_front.png
+type: Farmhouse
+location: '[Arcadia Bay](arcadia_bay.md)'
+state: Oregon
+appears: '[Episode 4: Dark Room](episode_4__dark_room.md)'
+```
+
+The** Farmhouse** is a non-explorable derelict farm residence located on old farmstead grounds owned by the [Prescott Family](prescott_family.md).Ownership of the farmland is mentioned on Page 62 of Max's journal and in an article by The Independent newspaper that Max can read on the plane to San Francisco. The roof of the farmhouse is partially broken and the door and some windows are blocked with wooden planks.
+
+##  Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+The farmhouse can be seen in the background behind a fence with a path leading towards it.
+
+##  Trivia 
+*Given that the model is detailed, its creation from its own concept art and prominent position on a leaked journal location overview screenshot (Note that all other on the screenshot shown locations are explorable in the final game.), it likely was considered to play a bigger role in the story at some point in development. The old barn map package is called "OldFarm.upk", which could refer to both the Prescott Barn and this building.
+*An interaction with the house was present in Episode 4's subtitle files: *Act_E4_6A_OldFarm_OldHouse_Look01_Max_010="That house is way out of our coordinates, so we don’t need to check it out."* This line appears to have been removed in the [Limited Edition (Life is Strange)](limited_edition.md) version of the game.
+*There is a path to the farmhouse, but access is blocked by a chained and padlocked metal gate.
+*According to [The Independent#Blackwell Security Uncovers Bunker and Scandal](this.md) article in [The Independent](the_independent.md) newspaper, the farmhouse is owned by [Sean Prescott](sean_prescott.md), likely inherited from [Harry Aaron Prescott](harry_aaron_prescott.md).
+*There may be an inconsistency with the location of the Dark Room from it's original conception, due to the wording used in-game ("farmhouse" and "barn"), which raises the question as to whether DONTNOD had originally intended the farmhouse to be an explorable location and the location of the Dark Room.Upon exploring the farmhouse building with a free camera, it certainly seems to be more complete when compared to other buildings that are used as environmental decoration in the game. Only the derelict house could be a "farmhouse"; the barn can only be a "barn" unless converted into a dwelling, which in this case, it is not. Concept art of this farmhouse was [https://imgur.com/gM26RAT uploaded] in July 2015 before the release of Episode 4. Chloe tells Max in Episode 4 that "we have to go out to that farmhouse by ourselves." However, they do not go to the farmhouse but head to the barn, which they both refer to as a "barn" when there. When Max sends a text to David in Episode 5, she tells him that the Dark Room is located "under the Prescotts’ farmhouse." An [The Independent#Blackwell Security Uncovers Bunker and Scandal](article.md) in a [The Independent](newspaper.md) on the [plane](plane.md) in Episode 5 reads: "Even Sean Prescott, the most powerful businessman in the area, is under investigation for his role as owner of the farmhouse where the high-tech "dark room" studio was located."
+
+Farmhouse-Feralwebsite.PNG|Early concept art showing the "farmhouse" description from the [https://www.feralinteractive.com/en/games/lifeisstrange/extras/#concepts_28 Feral Interactive] website.
+barn_concept.png|Concept artist's naming of "barn" on the location explored in the game.
+
+##  Concept Art 
+
+28_-_oQsEtI0.jpg|Farmhouse concept art.
+EP_Menu_leak.jpg|Prominent position on the journal location overview (Episode 3) of a leaked screenshot. Note that all other shown locations are explorable in the final game.
+
+##  Notes 
+

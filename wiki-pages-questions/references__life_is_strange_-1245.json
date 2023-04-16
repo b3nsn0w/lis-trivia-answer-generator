@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What Is Written On The Side Of The Large Boat In The American Rust Junkyard?",
+    "answer": "A",
+    "choices": {
+      "A": "Sleep Perchance 2 Dream",
+      "B": "Into The Wild",
+      "C": "The Lady Doth Protest Too Much, Methinks",
+      "D": "Bring Me The Brain, Igor!"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Character Who Calls Max \"Maxwell Smart\" At Blackwell Academy?",
+    "answer": "B",
+    "choices": {
+      "A": "Warren",
+      "B": "Evan Harris",
+      "C": "Jefferson",
+      "D": "Kate Marsh"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Character Who Calls Max \"Maxwell Silver Hammer\" In The Science Class?",
+    "answer": "A",
+    "choices": {
+      "A": "Warren",
+      "B": "Evan Harris",
+      "C": "Jefferson",
+      "D": "Kate Marsh"
+    }
+  }
+]

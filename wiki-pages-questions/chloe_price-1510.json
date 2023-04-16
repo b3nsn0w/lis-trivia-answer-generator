@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Chloe Ask Max To Do While She Distracts Her Mother?",
+    "answer": "A",
+    "choices": {
+      "A": "Break Into David's Laptop",
+      "B": "Make Breakfast",
+      "C": "Clean The House",
+      "D": "Watch TV"
+    }
+  },
+  {
+    "question": "What Does Max Find In Frank's RV?",
+    "answer": "B",
+    "choices": {
+      "A": "A Stolen Car",
+      "B": "A Beaten Up Journal",
+      "C": "A Gun",
+      "D": "A Bag Of Money"
+    }
+  },
+  {
+    "question": "What Does Max Discover About Her Ability While Looking At A Photo?",
+    "answer": "B",
+    "choices": {
+      "A": "She Can Fly",
+      "B": "She Can Jump Through Time",
+      "C": "She Can Read Minds",
+      "D": "She Can Turn Invisible"
+    }
+  },
+  {
+    "question": "What Does Max Do To Prevent William's Death?",
+    "answer": "B",
+    "choices": {
+      "A": "She Throws His Car Keys Into The Sink",
+      "B": "She Tosses His Car Keys Out The Back Door",
+      "C": "She Warns Him Not To Drive",
+      "D": "She Calls The Police"
+    }
+  },
+  {
+    "question": "What Happens To Chloe In The Alternative Timeline?",
+    "answer": "C",
+    "choices": {
+      "A": "She Becomes A Famous Artist",
+      "B": "She Dies In A Car Accident",
+      "C": "She Is Paralyzed And Needs A Tube To Breathe",
+      "D": "She Becomes A Successful Businesswoman"
+    }
+  }
+]

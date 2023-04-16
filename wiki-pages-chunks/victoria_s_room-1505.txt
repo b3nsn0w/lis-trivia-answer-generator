@@ -1,0 +1,60 @@
+Here is a section of the wiki page for Victoria's Room:
+
+## Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+*{{Interaction|Max can look at Victoria's slate outside the room.|"Oh Victoria, give me a fucking break."}}
+*{{Interaction|She can look at a letter from the Kroft Gallery.|"Ouch. At least she puts her photographs out there. Unlike me."}}
+*{{Interaction|She can look at Victoria's camera.|"She's actually got a classic medium format camera with
+some awesome prime lens? I hate you, Victoria."}}
+*{{Interaction|She can look at the Chase Space poster.|"Whoa, I had no idea Victoria's parents owned The Chase Space. Color me impressed."}}
+*{{Interaction|She can look at Victoria's clothes.|"Dior, Givenchy... You could pay for my tuition with that wardrobe..."}}
+*{{Interaction|She can look at Victoria's shoes.|"Those boots are made for walking runways…"}}
+*{{Interaction|She can look at the plasma TV.|"That is a tasty plasma. Maybe I could sneak in and watch 'Final Fantasy: Spirits Within'.
+I don't care what anybody says, that's one of the best sci-fi films ever made."}}
+*{{Interaction|She can look at at the [Blackwell Totem](blackwell_totem.md) article.|"I bet Victoria put Juliet on her shit-list after this article..."}}
+*{{Interaction|She can look at and use Victoria's tablet.|**Look: **"No, Officer, I'm not snooping, just admiring Victoria's cutting-edge tech..."
+**Use: **"Is she going to get a 3D printer for her dorm room? Maybe I will join her posse..."}}
+*{{Interaction|She can look at a Vortex Club sticker.|"Yes, I get it: 'Enter The Vortex Club.' No."}}
+*{{Interaction|She can look at some jewelry.|"Okay, if I did wear expensive jewelry, I would wear this for sure."}}
+*{{Interaction|She can look at and use Victoria's laptop to view her social media page.|**Look: **"Yes, Victoria has the best retina screen laptop. Let me just check to see if she posted my picture..."
+**Comforted Victoria: **"I'll give Victoria props for not posting my photo... And for this nice shot."
+**Made fun of Victoria: **"That's real nice, Victoria. And who the hell thinks I'm a hipster?"}}
+*{{Interaction|She can view and print an email from Victoria to Taylor **(required)**.|"Boom. This is the e-mail I need to show Juliet.
+Now I have to print this fast and get the hell out of here..."}}
+*She can look at a leaflet advertising the Bean Hip Cafe exhibition.
+*{{Interaction|She can look at a vandalized Rachel Amber Missing Person poster.|"Victoria hates Rachel Amber this much? How insecure..."}}
+*{{Interaction|She can look at a book by Mr. Jefferson.|"Victoria is a real Jefferson groupie..."}}
+*{{Interaction|She can look at and take the email from the printer **(required)**.|**Look: **"This isn't even recycled paper. Victoria's not doing her part to 'Save The Earth'...
+But this is for a good cause too."
+**Take: **"This better convince Juliet that Dana is innocent..."}}
+*{{Interaction|She can look at and mess up Victoria's photo wall.|**Look: **"Speaking of selfies..."
+**Mess up: **"Let's play a little photo Tetris and leave Victoria a message. 
+Let's move this here... and this one there... Hmm... A pattern is emerging..."}}
+
+**{{Interaction|She can look at and take an optional photo of it afterwards.|"That's mean, but she earned it."}}
+
+#
+
+## Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+*{{Interaction|Max can look at Victoria's slate outside the room.|"That's a depressing thought. And it's always about Victoria..."}}
+*{{Interaction|She can look at some fashion magazines.|"Victoria is about as 'street'... as me. But she really appreciates style."}}
+*{{Interaction|She can look at the Chase Space poster.|"Whoa, I had no idea Victoria's parents owned The Chase Space. Color me impressed."}}
+*{{Interaction|She can look at an essay about photography inside Victoria's bag.|"A 'unique point of view' is right. Thanks to Courtney Wagner ghostwriting this paper."}}
+*{{Interaction|She can look at Victoria's shoes.|"Those boots are made for walking runways..."}}
+*{{Interaction|She can look at Victoria's socks inside a drawer.|"These socks cost more than my wardrobe."}}
+*{{Interaction|She can search a desk to look at two party photos.|"I'll title this one, 'Portrait de la Assholes.'"
+"Whoa, there's Kate, totally high. She looks confused, not like she's partying."}}
+*{{Interaction|She can look at a photo of Victoria and Nathan inside a drawer.|"Here they are getting loaded with Satan..."}}
+*{{Interaction|She can look at a cleaner receipt and the package of the glowing figurine inside the trash can.|"That's a lot of bank just to clean paint from a sweater..."
+"Victoria's secret? She's a geek."}}
+*{{Interaction|She can look at and use Victoria's laptop to view an email from Victoria to Taylor.|**Look: **"There has to be some dirt in here on Victoria..."
+**Kate alive: **"Well, well. Maybe Victoria isn't a monster after all..."
+**Kate dead: **"Well, well. Victoria and Taylor actually show remorse..."}}
+*{{Interaction|She can switch to an email from Nathan (determinant).|"This is like a thread for sociopaths. 'Max Crackfield'? Lame. Party on, dudes."}}
+*{{Interaction|She can look at the Vortex Club sticker.|"First Rachel and now Kate... This is the end of the Vortex Club."}}
+*{{Interaction|She can look at her box with cookies (If Max reorganized Victoria's photos in Episode 1).|"My cookies? Victoria stole my cookies! Now I can't take them back
+because she'll know I did it! Victoria is... a cookie monster."}}
+*{{Interaction|She can look at a crumpled photo of Victoria (if Max made fun of Victoria in Episode 1).|"Victoria must have her own power if she found time to steal this from my room... Good job."}}
+
+
+
+Generate five trivia questions relevant to this section of the page.

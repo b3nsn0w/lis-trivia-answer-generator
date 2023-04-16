@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Whose book, \"The Decisive Moment,\" can be found in Jefferson's classroom in Life is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Henri Cartier-Bresson",
+      "B": "Annie Leibovitz",
+      "C": "W. Eugene Smith",
+      "D": "Richard Avedon"
+    }
+  },
+  {
+    "question": "What artist is featured on a poster in Max's room in Life is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "Salvador Dalí",
+      "B": "Man Ray",
+      "C": "Andy Warhol",
+      "D": "David Hamilton"
+    }
+  },
+  {
+    "question": "In Life is Strange, what book does Max have in her dorm room by Robert Doisneau?",
+    "answer": "D",
+    "choices": {
+      "A": "The Decisive Moment",
+      "B": "The October Country",
+      "C": "Battle Royale",
+      "D": "None of the above"
+    }
+  }
+]

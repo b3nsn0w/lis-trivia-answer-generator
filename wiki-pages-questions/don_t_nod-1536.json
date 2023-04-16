@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Was The Game That Saved Dontnod From Their Financial Troubles?",
+    "answer": "B",
+    "choices": {
+      "A": "Vampyr",
+      "B": "Life is Strange",
+      "C": "Twin Mirror",
+      "D": "Battlecrew: Space Pirates"
+    }
+  },
+  {
+    "question": "Who Helped Develop The Prequel To Life Is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "Dontnod",
+      "B": "Deck Nine Games",
+      "C": "Square Enix",
+      "D": "Alejandro Arque"
+    }
+  },
+  {
+    "question": "What Is The Name Of Dontnod's Third Game?",
+    "answer": "B",
+    "choices": {
+      "A": "Life is Strange 2",
+      "B": "Vampyr",
+      "C": "Twin Mirror",
+      "D": "Battlecrew: Space Pirates"
+    }
+  },
+  {
+    "question": "What Was The Goal Of Dontnod's Collaboration With Dontnod Eleven?",
+    "answer": "C",
+    "choices": {
+      "A": "To Develop A New Game Engine",
+      "B": "To Create A New IP",
+      "C": "To Help Independent Developers",
+      "D": "To Expand Their Studio"
+    }
+  },
+  {
+    "question": "What Was The Name Of The New IP That Dontnod Was Developing With Bandai Namco?",
+    "answer": "D",
+    "choices": {
+      "A": "Life is Strange 2",
+      "B": "Vampyr",
+      "C": "Twin Mirror",
+      "D": "Unannounced"
+    }
+  }
+]

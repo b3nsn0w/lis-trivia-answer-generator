@@ -1,0 +1,273 @@
+= Blackwell Academy =
+
+{{Introquote|For over 100 years Blackwell Academy has been an academic oasis for art and science, with diverse students from around the world seeking to change the world and their communities.|Blackwell Academy's brochure}}
+{{Infobox Location
+|name = Blackwell Academy
+|image = <gallery>Blackwell Academy-02.jpg|Season 1
+blackwell-bts-main.png|Prequel
+</gallery>
+|type = Private boarding school
+|location = [[Arcadia Bay]]
+|coordinates = Latitude: 45.535068<br \>Longitude: -123.906641
+|state = Oregon
+|appears = '''Life is Strange:'''<br>[[Episode 1: Chrysalis]]<br \>[[Episode 2: Out of Time]]<br \>[[Episode 3: Chaos Theory]]<br \>[[Episode 4: Dark Room]]<br />[[Episode 5: Polarized]]<br>'''Before the Storm:'''<br>[[Episode 1: Awake]]<br \>[[Episode 2: Brave New World]]<br>[[Episode 3: Hell Is Empty]] <small>(cutscene)</small>
+}}
+'''Blackwell Academy''' is a private senior high school located in [[Arcadia Bay]], Oregon. The school specializes in Science and Arts and is currently overseen by [[Raymond Wells|Principal Raymond Wells]]. It appears in ''[[Life is Strange]]'' and ''[[Life is Strange: Before the Storm]]'' and is mentioned in ''[[The Awesome Adventures of Captain Spirit]]''.
+
+== Biography ==
+The following is what [[Maxine Caulfield|Max Caulfield]] wrote about Blackwell Academy in her [[Max's Diary|diary]]:
+
+''"I GOT ACCEPTED INTO BLACKWELL ACADEMY.''
+
+''If words could dance this would be a rave. Even though I've never been to one. But who cares because I GOT INTO BLACKWELL ACADEMY[, a unique and famous private school for seniors! NO KIDS ALLOWED]! I didn't think I would be so excited since it's not like I didn't used to live in the same town. But when I saw the text from the Blackwell scholarship office, I could literally feel my pulse speed up.''
+
+''But Seattle wasn't like a fable. Au contraire. Now Blackwell Academy seems more exotic to me than any other place in the world. To study photography under [[Mark Jefferson]]... SIGH. Insert hearts and flowers. Plus there will be cool diverse students from everywhere. It won't be like my high school now..."''
+
+The text in brackets was removed after the release of Episode 5 (before 1.0.0.371598).
+
+== Background ==
+According to [[Michelle Grant]], the school is built on old [[Native American]] land, shared between the natives and the early colonial settlers "in peace, not fear and violence."[[File:Blackwell_Flyer_TWD.png|thumb|221x221px]]
+The tribes who were in the area first had welcomed the settlers and both cultures "found a mutual symbiosis and thrived." There are some undisclosed fascinating facts about Blackwell, and Ms. Grant claims there's a lot of power in the region which she thinks "helps the creative juices flow." 
+
+In 1910, Jeremiah Blackwell founded the academy, striving for excellence among the student body. Jeremiah's statue resides at the front of the building, bearing the motto "''The future needs excellence''". In the [[Two Whales Diner]], there is also a black and white flyer of Blackwell, boasting "''Global Excellence in Arts and Science for over a hundred years and counting''."
+
+Blackwell is partially owned by, and financially funded by the [[Prescott Family|Prescott family]]. In 1998, they donated the dormitory building to Blackwell.
+
+Between the events of ''[[Life is Strange: Before the Storm|Before the Storm]]'' and ''[[Life is Strange|Life is Strange: Season 1]]'' (2010 - 2013), Blackwell Academy changes its curriculum and student body make-up. The narrative reasons for this that are explored via secondary plot-lines over the events of ''Before the Storm''. Blackwell's change results in the hiring of famous art teachers like [[Mark Jefferson]] and the eventual shift to a specialized two-year extended senior program. Prior to this evolution, Blackwell Academy is a fairly standard private high school with four grades.
+For certain prestigious private schools, this fifth year can amount to college credit or can be seen as giving students a leg-up to get into a really prestigious arts education.<ref name="public">[https://www.facebook.com/groups/1578433839080885/permalink/1938590309731901/ Public post] made by Square Enix's ''Life is Strange'' [[Community Management|Community Manager]] in the 'Life is Strange (GAME)' group on Facebook (7th July 2017); [[Media:BtS timeline CM statement.png|Statement screenshot]]</ref>
+
+<gallery widths="200" position="center" bordersize="none" bordercolor="transparent" hideaddbutton="true" captionalign="center">
+Blackwell brochure1.png|Blackwell brochure
+Blackwell brochure2.png
+Blackwell brochure3.png
+</gallery>
+
+== Related Locations ==
+=== <u>Indoors</u> ===
+[[File:Blackwell Building Map.png|thumb|Map of Blackwell]]
+'''Within the Academy building there are several explorable rooms:'''
+* [[Blackwell Academy Hallway|The Hallways]]
+* Girls' Bathroom
+* Michelle Grant's [[Science Lab|Science Classroom]] (Room 104)
+* Mark Jefferson's [[Photography Lab|Art Classroom]] (Room 102)
+* [[Principal Wells' Office]] (and the adjoining secretary's office)
+* [[Blackwell Swimming Pool]] (and changing rooms)
+* [[Travis Keaton]]'s [[Drama Lab]] (Before the Storm)
+'''Others'''
+* Boys' Bathroom
+* Library
+* Cafeteria and Kitchen
+* Computer Lab
+* Media Lab
+* Math Lab
+* Music Lab
+* Storage Rooms
+* Jefferson's Office
+* Business Office
+
+=== <u>Outdoors</u> ===
+'''Outside the building, there are several main areas:'''
+* [[Main Campus]]
+* [[Blackwell Parking Lot|Parking Lot]]
+* [[Prescott Dormitory]]
+
+'''The layout of the campus can be seen on a map in the Madsen garage in David's surveillance cupboard.'''
+[[File:Blackwell_Campus_Map.png|thumb|346px|Blackwell Campus Map|centre]]
+
+== Faculty Staff ==
+* [[Raymond Wells]] - Principal
+* [[Michelle Grant]] - Science Teacher
+* [[Mark Jefferson]] - Art/Photography Teacher
+* [[Bernadette Hoida]] - English and Literature Teacher <small>(currently on sick leave)</small>
+* [[David Madsen]] - Head of Security
+* [[Samuel Taylor]] - Janitor
+* [[An-Marie Barenchi]] - School Nurse
+* [[Michelle Barenchi]] - Coach of The Otters
+* [[Travis Keaton]] - Drama Teacher (Before the Storm)
+
+Based on [[Chloe Price]] and [[Alternative Timeline (Life is Strange)|alternative timeline]] Chloe's Blackwell report cards from 2010, the following teachers were at that time, or are still faculty members:
+*J. Edwards - Physical Education Teacher
+*C. Cole - Art Teacher
+*E. Terry - Practical Math and Life Skills Teacher
+*P. Jackson - Social Sciences Teacher
+*I. Ferdinand - Personal Health Teacher
+
+== Known Students ==
+{| width="100%" align="center"
+| valign="top" |
+*[[Alyssa Anderson]]
+*[[Brooke Scott]]
+*[[Chloe Price]] <small>(former)</small>
+*[[Courtney Wagner]]
+*[[Dana Ward]]
+*[[Daniel DaCosta]]
+*[[Evan Harris]]
+*[[Frank Bowers]] <small>(former)</small>
+*[[Hayden Jones]]
+*[[Juliet Watson]]
+*[[Justin Williams]]
+*[[Kate Marsh]]
+*[[Logan Robertson]]
+*[[Luke Parker]]
+*[[Maxine Caulfield|Max Caulfield]]
+*[[Nathan Prescott]]
+*[[Rachel Amber]] <small>(former, deceased)</small>
+*[[Sarah]]
+*[[Stella Hill]]
+*[[Taylor Christensen]]
+*[[Trevor]]
+| valign="top" |
+*[[Victoria Chase]]
+*[[Warren Graham]]
+*[[Zachary Riggins]]
+*[[Amaury Balandier|Amaury]]<ref>This is one of many references to [[Amaury Balandier]], the lead environment artist on ''Life is Strange''.</ref>
+*J. Romero<ref>J. Romero [[Media:Gamer Guyz Ad.png|advertises]] a gaming group called "Gamer Guyz" in the Boys' Dormitory.</ref>
+*Jason<ref name=":0" />
+*Jasmin<ref name=":0" />
+*Jenny<ref name=":0">These names are visible on a [[Media:Yearbook Flyer.png|poster]] near the girls' bathroom.</ref>
+*Ray Siren<ref>He placed [[Media:Lost Goggles Ad.png|an ad]] for lost swimming goggles on the Blackwell Pool noticeboard.</ref>
+*Rory W.<ref name=":1" />
+*River S.<ref name=":1">Both Rory W. and River S. have signed a [[Media:Kate Card.png|postcard]] sent to Kate after her suicide attempt on behalf of Blackwell Academy.</ref>
+*S. Sorber<ref>In the Boys Dormitory, there is an [[Media:Anti-Mobbing Ad.png|advertisement]] for an anti-mobbing support and discussion group at Blackwell organized by S. Sorber.</ref>
+*[[Steve Hackney]] <small>(possible)</small><ref>He has posted an [[Media:Steve Hackney Ad.png|advertisement]] for a band in the Blackwell Hallway.</ref>
+*Tyler<ref name=":0" />
+*[[Tyron]] <small>(possible)</small><ref>Someone called Tyron tries to [[Media:Tyron Flyer.png|sell his bike]] at Blackwell. It's possible that he's also attending Blackwell.</ref>
+*[[Drew North]] (Before the Storm)
+*[[Eliot Hampden]] (Before the Storm)
+*[[Mikey North]] (Before the Storm)
+*[[Samantha Myers]] (Before the Storm)
+*[[Steph Gingrich]] (former, graduated)(Before the Storm)
+*[[Emily Eriksen]] <small>(former, graduated)</small> (Captain Spirit)
+|}
+
+== Courses ==
+{| width="100%" align="center"
+| valign="top" |
+=== Science ===
+*World History
+*Cultural Anthropology
+*Social Sciences
+*Algebra
+* Practical Math
+* Statistics
+| valign="top" |
+=== Arts ===
+*Language of Photography
+*Life Drawing
+*Media Literacy
+*Literature
+*Music
+*Visual Concepts <small>(Before the Storm)</small>
+*Intro to Composition <small>(Before the Storm)</small>
+*Intro to Ceramics <small>(Before the Storm)</small>
+*Intermediate Photoshop <small>(Before the Storm)</small>
+*Intro to Character Modeling and Animation <small>(Before the Storm)</small>
+*Photography <small>(Before the Storm)</small>
+*Independent Study (by invitation only) <small>(Before the Storm)</small>
+| valign="top" |
+=== Other ===
+*English AP
+*Physical Education
+*Life Skills
+*Personal Health
+|}
+
+== Clubs and Other Groups ==
+=== Most Prestigious Groups ===
+* [[Vortex Club]] - Social Group
+* [[Bigfoots]] - Football Team
+* [[The Otters|Otters]] - Swimming Team
+=== Others ===
+* ''Geek Grrls Book Club'' (led by Brooke Scott)
+* Drama Club
+* Vegan Club 
+* Science Gamer's Group
+* Anti-Mobbing Support/Discussion Group (led by S. Sorber)
+* ''Gamer Guyz'' (led by J. Romero)
+* ''Meals on Wheels'' (led by [[Kate Marsh]])
+* School Newspaper "[[Blackwell Totem]]" (Reporter [[Juliet Watson]])
+* Bible Study Group (led by Kate Marsh)
+* Sci-Fi Movie Club (led by Warren Graham and Brooke Scott) <small>(Before the Storm)</small>
+
+== Optional Photos ==
+27 [[Optional Photos|optional photos]] can be shot around and inside Blackwell Academy locations, including the alternative reality and [[Max's Nightmare|Max's nightmare]].
+
+== Optional Graffitis ==
+7 [[Optional Graffiti|optional graffitis]] can be drawn around and inside Blackwell Academy locations.
+
+== Symbolism ==
+A well is something used to obtain water in large amounts. As water is important to human survival, it is associated with good things, hence the reason people throw coins down wells in exchange for luck.
+
+The color black holds many negative connotations. It is the color of night and darkness (when people can not see and are therefore vulnerable), the color of bruises and body parts afflicted by frostbite, the color of ashes (which are the leavings of a fire, which can cause great harm), and the color of rotting things.
+
+Hence we have "Black Well", or "Danger disguised as fortune". It is a fitting name considering that, despite being a school intended to give students opportunity and knowledge, Blackwell is a place where a lot of sinister and generally shady things are going on.
+
+== Status ==
+* Max describes Blackwell Academy as being "like a high school college" ([[Media:Vo e1 3a.stm 119-act e1 3a campusa voiceover03 max 030.ogg|in one of her inner comments]] when she was in the campus for the first time).
+* On her [[Media:Character Note Max.jpg|character note]], Max writes that she returned to Arcadia Bay to "study photography at Blackwell Academy, a private school for 12th grade seniors."
+* There is [[Media:Note2-blackwellhall-worldyours.png|a poster]] present in the hallway of Blackwell in Episode 2, which describes Blackwell as "Not Just A Hybrid College."
+* Frank Bowers refers to Max and Chloe as a [[Media:Highscoolgirls.ogg|"couple of high-school girls"]] after having been hurt by the latter. Having a lot of customers among Blackwell Academy's students, it is safe to assume that Frank is somehow familiar with the school.
+* Samuel Taylor, the school janitor, wears a [[Media:Samuel-0.jpg|lanyard]] which reads "Blackwell Academy High School".
+
+== Trivia ==
+*Blackwell Academy was originally, in an early stage of conceptualization back in January 2013, meant to be called "Avendell Highschool", as evident from a [[Media:Blackwell Academy Concept Art by Gary Jamroz Palma.jpg|concept art]] by [[Gary Jamroz-Palma]].
+*The academy's architecture is based on schools in Oregon around 1910, the year Blackwell Academy was founded, aiming for a design true to reality. Main concept artist [[Edouard Caplain]] conducted research on what schools looked like at that time, their architecture, the materials that were used to build them as well as what kinds of trees populated their campus.<ref>[http://www.momenta.online/2016/02/edouard-caplain-on-the-art-behind-life-is-strange/ Edouard Caplain on the Art Behind Life Is Strange] (February 9, 2016)</ref>
+*Game Designer [[Alejandro Arque]] stated in a [[Blackwell Podcast]] [https://youtu.be/7_1PUySC38I?t=27m23s interview] that the creative team at [[Don't Nod|DONTNOD]] looked into a lot of Oregon high schools to provide references for the creation of Blackwell Academy. They also looked into private schools and colleges for references of a more closed educational environment that does not contain many people.
+* Blackwell students are provided with a student email extension of ''@BlackwellAcademy.ed''.
+* [[Blackwell Campus]] appears briefly in the alternative Chloe's timeline, when Max first arrives to the timeline and discovers she is a member of the [[Vortex Club]].
+*A flyer that can be found in the Two Whales Diner states that Blackwell offers free campus tours every third Saturday.
+*{{Wiki|Eye_of_Providence|The Eye of Providence}} appears around the school.
+*In the main campus, near the corner of the pool building, there are a lot of joint and cigarette butts. On the wall nearby, there is a graffiti of a shark devouring an otter. This may have been drawn by Chloe to express her anger at the fact that Max was in Blackwell for over a month and made no attempt to contact her. Chloe later refers to Max as an otter in the pool while mimicking the "Jaws" theme song.
+*In the [[Blackwell Parking Lot|Parking Lot]], there are [[References (Life is Strange)|references]] to several different television shows on the license plates: "PRKSNRC" for ''[[w:c:parksandrecreation|Parks and Recreation]]''; "THWR" for ''[[w:c:thewire|The Wire]]''; "TPFTHLK" for ''[[w:c:topofthelake|Top of The Lake]]'' on Jefferson's car; "CRNVL" for ''[[w:c:carnivale|Carnivàle]]''; "BFFVMPRSLR" for ''[[w:c:buffy|Buffy the Vampire Slayer]]''; "THXFLS" for ''[[w:c:x-files|The X-Files]]'' on Warren's car; "TWLGHTZN" for ''[[w:c:twilightzone|The Twilight Zone]]''; "THSPRNS" for ''[[w:c:sopranos|The Sopranos]]''; "BRKBD" for ''[[w:c:breakingbad|Breaking Bad]]'' on Frank's car; "BRDCHRCH" for ''[[w:c:broadchurch|Broadchurch]]''; "TWNPKS" for ''[[w:c:twinpeaks|Twin Peaks]]'' on [[Chloe's Truck|Chloe's truck]]; "QNTMLP" for ''[[w:c:quantumleap|Quantum Leap]]''; "THPRCTC" for ''[[w:c:thewire:The Practice|The Practice]]''; and "SXFTNDR" for ''[[w:c:sixfeetunder|Six Feet Under]]'' on Nathan's car.
+*Without Blackwell's eventual shift to a specialized two-year extended senior program between the events of ''Before the Storm'' and ''Life is Strange: Season 1'', certain familiar characters such as Victoria Chase and Rachel Amber would not have been students in the academic years of 2012/2013 and 2013/2014.
+* If Max fails to save Kate in Episode 2, the school flags outside Blackwell Academy remain at full-staff. There is no law that requires a school to seek a local major or Governor of State's permission to half-staff school flags upon the death of a student. It is up to the discretion of the school with regards to whether they want to do this as a mark of respect.<ref>For more information see [http://theweek.com/articles/469282/why-are-flags-flown-halfstaff-times-mourning this website].  </ref>
+* Principal Wells is aware that the students call the academy "BlackHell".<ref>A drunk Principal Wells makes the following comment near the beginning of Episode 3 "Chaos Theory" when Max is trying to sneak past him from the dorms: ''"Look at me feeling sorry for myself when Kate Marsh's family is in mourning... They'll probably sue the academy right out of Oregon... Now I understand why the students call this place "BlackHell"..."''</ref>
+*[[File:max-student-ID.PNG|thumb|187x187px]] Max's student ID is '''B1OT21F2015'''. The 2015 could be an expiry year. If this is the case, then Blackwell Academy's switch to a specialized two-year extended senior program by 2013 makes a 2015 expiry date on Max's student card make sense. If the academy operated like a normal high school, then her student number would have ended with 2014.<ref name="public"></ref>
+
+== Gallery ==
+=== School Posters ===
+<gallery widths="200" bordersize="none" bordercolor="transparent" hideaddbutton="true" captionalign="center">
+blackwellposter1.jpg|Blackwell Academy: Our past - Your future
+</gallery>
+
+=== Concept Art ===
+<gallery widths="200" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+Blackwell_Academy_Concept_Art_by_Gary_Jamroz_Palma.jpg|"Avendell High School" by [[Gary Jamroz-Palma]], January 2013.
+Blackwell_Academy_Concept_Art.png|Blackwell Corridor by Gary Jamroz-Palma.
+Dorm_Concept_Art.png|Prescott Dormitory Grounds by [[Edouard Caplain]].
+Edouard-caplain-parking.jpg|Blackwell Parking Lot by Edouard Caplain.
+</gallery>
+
+== References ==
+<references />
+{{Location Navbox}}
+
+[[de:Blackwell Academy]]
+[[es:Academia Blackwell]]
+[[fr:Académie Blackwell]]
+[[pl:Akademia Blackwell]]
+[[pt-br:Academia Blackwell]]
+[[ru:Академия Блэквелл]]
+[[Category:Locations]]
+[[Category:Locations (Life is Strange)]]
+[[Category:Locations (Before the Storm)]]
+[[Category:Blackwell Academy]]
+[[Category:Blackwell Academy Students]]
+[[Category:Locations in Arcadia Bay]]
+[[Category:Episode 1: Chrysalis Locations]]
+[[Category:Episode 2: Out of Time Locations]]
+[[Category:Episode 3: Chaos Theory Locations]]
+[[Category:Episode 4: Dark Room Locations]]
+[[Category:Episode 5: Polarized Locations]]
+[[Category:Optional Photo Location]]
+[[Category:Explorable Locations]]
+[[Category:Optional Graffiti Location]]
+[[Category:Explorable Locations (Life is Strange)]]
+[[Category:Alternative Timeline Locations]]
+[[Category:Explorable Locations (Before the Storm)]]
+
+[[Category:Before the Storm]]
+[[Category:Episode 1: Awake Locations]]
+[[Category:Episode 3: Hell Is Empty Locations]]
+[[Category:Episode 2: Brave New World]]
+[[Category:Life is Strange]]

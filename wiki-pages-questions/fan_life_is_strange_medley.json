@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who performed the Life is Strange-inspired song \"Life is Strange Original Song Medley\"?",
+    "answer": "A",
+    "choices": {
+      "A": "Fan:Fan Music#Campusanis",
+      "B": "Fan:Fan Music#Maxine",
+      "C": "Fan:Fan Music#Chloe",
+      "D": "Fan:Fan Music#Rachel"
+    }
+  },
+  {
+    "question": "When was \"Life is Strange Original Song Medley\" released?",
+    "answer": "B",
+    "choices": {
+      "A": "February 4, 2017",
+      "B": "February 4, 2018",
+      "C": "February 4, 2019",
+      "D": "February 4, 2020"
+    }
+  },
+  {
+    "question": "Which song in the medley includes the lyrics \"These colors seem never as warm\"?",
+    "answer": "B",
+    "choices": {
+      "A": "Left Alone",
+      "B": "The Place To Be",
+      "C": "Heartbeat",
+      "D": "Blinding Darkness"
+    }
+  },
+  {
+    "question": "Which song in the medley includes the lyrics \"There is no need to be cynical\"?",
+    "answer": "D",
+    "choices": {
+      "A": "Left Alone",
+      "B": "The Place To Be",
+      "C": "Heartbeat",
+      "D": "Borrowed Time"
+    }
+  }
+]

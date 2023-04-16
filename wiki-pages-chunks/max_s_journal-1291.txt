@@ -1,0 +1,57 @@
+Here is a section of the wiki page for Max's Journal:
+
+#  Max's Journal 
+
+: ''For [Chloe Price (Before the Storm)](chloe_price.md)'s journal from the [Life is Strange: Before the Storm](prequel_game.md), see [Chloe's Journal](chloe_s_journal.md).*
+: *For [Sean Diaz](sean_diaz.md)'s journal from [Life is Strange 2](life_is_strange_2.md), see [Sean's Sketchbook](sean_s_sketchbook.md).''
+
+[File:Journal.png](drawing_of_max_s_journal_found_inside_it_in_form_of_a_sticker_.md)
+'''Max's Journal''' records [Maxine Caulfield](max_caulfield.md)'s experiences throughout the events of *[Life is Strange](life_is_strange.md)*. It includes her [Max's Diary](diary.md), [Max's Character Notes](details_on_some_characters.md) Max encounters, [Max's Notes](notes_on_items.md) of Max's interest, her [Optional Photos](optional_photos.md), and [Max's Messages](sms_messages.md). Her journal pages are full of scribbles, drawings, watercolor doodles, stickers and other memorabilia such as photos, booklets, postcards, notes, stamps or calendar pages. 
+
+Max's journal is designed, laid out, and illustrated by [Alexis Bauzet](alexis_bauzet.md) and [Alysianne Bui](alyzian.md).
+
+## Nightmare Journal 
+[File:Maxnightmarejournal.png](thumb.md)In "[Episode 5: Polarized](polarized.md)", Max must use her journal to escape the clutches of [Mark Jefferson](jefferson.md) briefly before traveling to another alternative situation in which the journal is burnt, disabling her from using it against Jefferson.
+
+In Max's [Max's Nightmare](nightmare.md) scenes, opening the journal reveals violent and contorted versions of her entries which become laced with Jefferson quotes. This also affects her pictures, texts, and character notes.
+
+## Cropped Pieces and Scraps 
+#
+
+## Flyers 
+Five flyers and a diary agenda page in Max's journal have matching pieces that can be found on other pages. Out of these six things with matching pieces, only three have completing "halves" - the remaining three have missing information that was cropped from the middle in the layout stage during development of *Life is Strange*. The top three items in the image below are the only items that can be fully completed.Completed by using the original textures found in the game files, as all of the flyers and scraps in the journal's left and right margins are partially obscured during layout. The bottom three are those with missing information which cannot be found in the game files. According to journal artist Alyzian, the missing information is as follows:
+* Sugarcoat everything - a fair entertainment - Main place, Arcadia Bay - 8th to 30th of July, - $10 adult, $5 children under 14.
+* Top-Down Reversed.
+* Dusk&Dawn gallery Seattle Presents "Bodies and Splatters" photography exhibition.
+
+flyer_compendium.png
+
+Other flyer facts and missing information provided by the artist:
+
+Flyer-sheet_music.png|Alyzian states this is just "a random piece of music paper, no trivia there."
+Flyer-happy.png|"Do More of What Makes You Happy."
+Flyer-theatre.png|This was a parody of the artist's own school work. It was a fake concert poster for *"Of monsters and men"* that she had made. This parody says *"Of youngsters and deers, 20&21 June 2014."*
+Flyer-morning_arcadia.png|*"Good Morning Arcadia Bay."* The only other text missing is 'Diner,' and there is a little baby chicken with sunglasses and a old-school radio mic. (Homage to *{{wiki|The_Boat_That_Rocked|Good Morning England}}*.)
+Flyer-Oregon_guide.png|"Your off beat guide to Oregon." (The waterfall is {{wiki|Multnomah_Falls|Multnomah Falls}} in Oregon.)
+Flyer-great_love.png|"Do Small Things With Great Love."
+Flyer-helpline.png|This flyer features a bio T-Rex with a flame thrower saying, ''"HAVE YOU SEEN ME? If you do, you need medical help. Please call Doctor Duerf you're not ok."*
+Flyer-cats.png|*"Who let the cats out?"* (with two derp cats). *"Seriously who did. They can't handle it out there. They're derps. They're gonna die. Bring them back."''
+Flyer-wolf.png|"Karaoke Night. One song #  one cocktail! Every Friday night at 8PM, Howling Lupes Cave."
+
+#
+
+## Map Scraps 
+Three map scraps can be found in Max's journal. When these are pieced together, they make an incomplete map of Oregon, California, Nevada, and Idaho. *(The "Rogue" and "Snake" in different colors may be references to X-Men and Metal Gear Solid. TBC with the artist.)*
+
+Map_scraps.png
+
+#
+
+## Stickers 
+[File:Cat-flyer.png](50px.md)
+Some text and phrases are also obscured or missing completely on the stickers in Max's journal, which has occurred during the layout stage in game development.
+***Cat sticker:** According to Alyzian, the missing phrase for the cat sticker on page 3 of the journal is, "Go Meow Yourself."
+
+
+
+Generate five trivia questions relevant to this section of the page.

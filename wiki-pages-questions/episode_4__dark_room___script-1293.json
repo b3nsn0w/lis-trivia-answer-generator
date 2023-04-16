@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who wrote Max's name on the list for the Vortex Club party?",
+    "answer": "A",
+    "choices": {
+      "A": "Courtney",
+      "B": "Victoria",
+      "C": "Sarah",
+      "D": "Hayden"
+    }
+  },
+  {
+    "question": "Why did Max want to attend the Vortex Club party?",
+    "answer": "B",
+    "choices": {
+      "A": "To hang out with Hayden",
+      "B": "To find Nathan",
+      "C": "To get high",
+      "D": "To dance to DJ Doomsday's music"
+    }
+  },
+  {
+    "question": "What did Hayden offer Max at the party?",
+    "answer": "A",
+    "choices": {
+      "A": "A hit of OG bud",
+      "B": "A drink",
+      "C": "A dance",
+      "D": "A seat in the VIP section"
+    }
+  },
+  {
+    "question": "Who does Hayden say Max should ask about Nathan's whereabouts?",
+    "answer": "A",
+    "choices": {
+      "A": "Victoria",
+      "B": "Courtney",
+      "C": "Sarah",
+      "D": "Sean Prescott"
+    }
+  },
+  {
+    "question": "What does Courtney do when she finds out Max's name is on the list?",
+    "answer": "B",
+    "choices": {
+      "A": "Lets her into the VIP lounge",
+      "B": "Kicks her out of the party",
+      "C": "Invites her to dance",
+      "D": "Gives her a drink"
+    }
+  }
+]

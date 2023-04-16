@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What Is Mr. Jefferson's New Photo Series About?",
+    "answer": "A",
+    "choices": {
+      "A": "Retro-Grudge",
+      "B": "Retro-Glam",
+      "C": "Retro-Punk",
+      "D": "Retro-Rock"
+    }
+  },
+  {
+    "question": "What Does Chloe Say About Max's Dancing Skills?",
+    "answer": "A",
+    "choices": {
+      "A": "\"No mosh pit for you, shaka brah!\"",
+      "B": "\"You're a terrible dancer, Max.\"",
+      "C": "\"I wish I could dance like you, Max.\"",
+      "D": "\"You're too shy to dance, Max.\""
+    }
+  },
+  {
+    "question": "What Does Alternate Chloe Say About Life?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Life is so not fair.\"",
+      "B": "\"Life is a game we can't win.\"",
+      "C": "\"Life is a journey we must all take.\"",
+      "D": "\"Life is a mystery we can't solve.\""
+    }
+  }
+]

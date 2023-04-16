@@ -1,0 +1,32 @@
+[
+  {
+    "question": "In which episode of Life is Strange does Warren invite Max to the Drive-In theater?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "What movie marathon does Warren invite Max to watch at the Drive-In theater?",
+    "answer": "B",
+    "choices": {
+      "A": "80's Action Movies",
+      "B": "70's Planet of the Apes",
+      "C": "90's Rom-Coms",
+      "D": "60's Westerns"
+    }
+  },
+  {
+    "question": "In which issue of The Great Northwest newspaper is the Drive-In theater mentioned?",
+    "answer": "D",
+    "choices": {
+      "A": "Issue 1",
+      "B": "Issue 2",
+      "C": "Issue 3",
+      "D": "Issue 5"
+    }
+  }
+]

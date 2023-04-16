@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Discover In Joyce's Bedside Dresser?",
+    "answer": "A",
+    "choices": {
+      "A": "A Shrine To William",
+      "B": "Overdue Bills",
+      "C": "A Family Album",
+      "D": "A Secret Diary"
+    }
+  },
+  {
+    "question": "Where Does Joyce Work?",
+    "answer": "C",
+    "choices": {
+      "A": "A Clothing Store",
+      "B": "A Grocery Store",
+      "C": "A Diner",
+      "D": "A Gas Station"
+    }
+  },
+  {
+    "question": "What Does Joyce Offer Max For Breakfast?",
+    "answer": "A",
+    "choices": {
+      "A": "Pancakes",
+      "B": "Waffles",
+      "C": "French Toast",
+      "D": "Bagels"
+    }
+  },
+  {
+    "question": "What Mischievous Plan Does Chloe Whisper To Max?",
+    "answer": "C",
+    "choices": {
+      "A": "To Steal Money From Joyce",
+      "B": "To Break Into Blackwell Academy",
+      "C": "To Search David's Computer Files",
+      "D": "To Run Away From Home"
+    }
+  },
+  {
+    "question": "What Does Joyce Do After David Refuses To Explain His Actions?",
+    "answer": "A",
+    "choices": {
+      "A": "She Asks Him To Leave The House",
+      "B": "She Apologizes To Max",
+      "C": "She Calls The Police",
+      "D": "She Breaks Down In Tears"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Purpose Of Cinematic Screenshots In Life Is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "To Take Screenshots Of The Game",
+      "B": "To Explore Areas Inaccessible In Normal Gameplay",
+      "C": "To Create A Cinematic Trailer",
+      "D": "To Unlock Hidden Achievements"
+    }
+  },
+  {
+    "question": "What Keys Are Used To Move The Camera In Cinematic Screenshots?",
+    "answer": "A",
+    "choices": {
+      "A": "WASD and QE",
+      "B": "Arrow Keys and Spacebar",
+      "C": "Shift and Ctrl",
+      "D": "Tab and Caps Lock"
+    }
+  },
+  {
+    "question": "Who Takes The Cinematic Screenshots In Life Is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "The Game Developers",
+      "B": "The Community",
+      "C": "The Protagonist",
+      "D": "The Antagonist"
+    }
+  },
+  {
+    "question": "What Is The Benefit Of Using Cinematic Screenshots In Life Is Strange?",
+    "answer": "D",
+    "choices": {
+      "A": "To Unlock New Levels",
+      "B": "To Discover Easter Eggs",
+      "C": "To Create Fan Art",
+      "D": "To Explore The Game World In More Detail"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Game That Features Cinematic Screenshots?",
+    "answer": "A",
+    "choices": {
+      "A": "Life is Strange",
+      "B": "The Walking Dead",
+      "C": "Grand Theft Auto V",
+      "D": "Minecraft"
+    }
+  }
+]

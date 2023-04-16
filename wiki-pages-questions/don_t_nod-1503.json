@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who is the protagonist of The Awesome Adventures of Captain Spirit?",
+    "answer": "D",
+    "choices": {
+      "A": "Max Caulfield",
+      "B": "Chloe Price",
+      "C": "Rachel Amber",
+      "D": "Chris Eriksen"
+    }
+  },
+  {
+    "question": "When was Dontnod Entertainment's 10 year anniversary celebrated?",
+    "answer": "C",
+    "choices": {
+      "A": "June 10, 2018",
+      "B": "June 26, 2018",
+      "C": "June 28, 2018",
+      "D": "August 21, 2018"
+    }
+  },
+  {
+    "question": "What was announced during Focus Home Interactive's annual ''What's next'' event in April 2019?",
+    "answer": "D",
+    "choices": {
+      "A": "A new collaboration with Square Enix",
+      "B": "A new collaboration with Bandai Namco",
+      "C": "A new collaboration with Capcom",
+      "D": "A new collaboration with Dontnod"
+    }
+  },
+  {
+    "question": "Where did Dontnod announce building a subsidiary studio in May 2020?",
+    "answer": "C",
+    "choices": {
+      "A": "Paris, France",
+      "B": "London, UK",
+      "C": "Montreal, Canada",
+      "D": "Los Angeles, USA"
+    }
+  }
+]

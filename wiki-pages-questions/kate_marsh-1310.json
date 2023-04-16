@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Kate Regret Deeply In Episode Four?",
+    "answer": "A",
+    "choices": {
+      "A": "Attempting Suicide",
+      "B": "Talking To Max",
+      "C": "Going To Blackwell Academy",
+      "D": "Ignoring Her Family"
+    }
+  },
+  {
+    "question": "What Does Kate Plan On Creating In The Hospital?",
+    "answer": "A",
+    "choices": {
+      "A": "A New Book About Bullying",
+      "B": "A New Album",
+      "C": "A New Movie",
+      "D": "A New Video Game"
+    }
+  },
+  {
+    "question": "Who Sends Kate An Email Wishing Her A Speedy Recovery?",
+    "answer": "C",
+    "choices": {
+      "A": "Victoria",
+      "B": "Mr. Jefferson",
+      "C": "Raymond Wells",
+      "D": "Nathan"
+    }
+  },
+  {
+    "question": "What Does Victoria Dedicate To Kate At The End Of The World Vortex Club Party?",
+    "answer": "A",
+    "choices": {
+      "A": "Her Everyday Heroes Photo Contest Prize",
+      "B": "Her Diary",
+      "C": "Her Phone",
+      "D": "Her Car"
+    }
+  },
+  {
+    "question": "What Happens To Kate In Max's Nightmare If Max Saved Her?",
+    "answer": "D",
+    "choices": {
+      "A": "She Blames Max For Saving Her Life",
+      "B": "She Jumps Off The Roof Again",
+      "C": "She Asks Max Not To Kill Her",
+      "D": "She Sits In Front Of Her Dormitory Room And Mourns At Her Memorial"
+    }
+  }
+]

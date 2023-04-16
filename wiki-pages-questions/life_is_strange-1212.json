@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Was The Inspiration Behind The Game's Setting?",
+    "answer": "A",
+    "choices": {
+      "A": "A Small Town On The Coastline Of Oregon",
+      "B": "A City On The Hillside Of Oregon",
+      "C": "A Scandinavian Country",
+      "D": "Seattle"
+    }
+  },
+  {
+    "question": "What Was The Main Reference For The Town Of Arcadia Bay?",
+    "answer": "B",
+    "choices": {
+      "A": "Astoria",
+      "B": "Garibaldi",
+      "C": "Seattle",
+      "D": "Portland"
+    }
+  },
+  {
+    "question": "Who Gathered Art References For The Game's Visual Style?",
+    "answer": "A",
+    "choices": {
+      "A": "Michel Koch",
+      "B": "Edouard Caplain",
+      "C": "Alberto Mielgo",
+      "D": "Jean-Maxime Moris"
+    }
+  },
+  {
+    "question": "What Was The Intention Behind The Game's Stylized Visuals?",
+    "answer": "A",
+    "choices": {
+      "A": "To Make It Easier For Players To Focus On And Identify With The Characters",
+      "B": "To Create A Realistic Look",
+      "C": "To Convey Emotions More Powerfully",
+      "D": "To Make The Game Stand Out From Other Games"
+    }
+  },
+  {
+    "question": "What Was The Reason For Choosing An Impressionistic Style Over A Realistic Style?",
+    "answer": "A",
+    "choices": {
+      "A": "To Achieve A Painterly Look",
+      "B": "To Make The Game Easier To Develop",
+      "C": "To Save Time And Money",
+      "D": "To Create A Unique Look"
+    }
+  }
+]

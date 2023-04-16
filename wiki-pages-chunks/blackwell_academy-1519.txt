@@ -1,0 +1,93 @@
+Here is a section of the wiki page for Blackwell Academy:
+
+#  Blackwell Academy 
+
+```yaml
+Location
+
+name: Blackwell Academy
+image: Blackwell Academy-02.jpg
+"Season 1\nblackwell-bts-main.png": *
+"Prequel\n": *
+type: Private boarding school
+location: '[Arcadia Bay](arcadia_bay.md)'
+coordinates: 'Latitude: 45.535068Longitude: -123.906641'
+state: Oregon
+appears: >-
+  **Life is Strange:**
+
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)[Episode 2: Out of
+  Time](episode_2__out_of_time.md)[Episode 3: Chaos
+  Theory](episode_3__chaos_theory.md)[Episode 4: Dark
+  Room](episode_4__dark_room.md)[Episode 5: Polarized](episode_5__polarized.md)
+
+  **Before the Storm:**
+
+  [Episode 1: Awake](episode_1__awake.md)[Episode 2: Brave New
+  World](episode_2__brave_new_world.md)
+
+  [Episode 3: Hell Is Empty](episode_3__hell_is_empty.md) (cutscene)
+```
+
+> For over 100 years Blackwell Academy has been an academic oasis for art and science, with diverse students from around the world seeking to change the world and their communities.
+
+**Blackwell Academy's brochure**
+
+**Blackwell Academy** is a private senior high school located in [Arcadia Bay](arcadia_bay.md), Oregon. The school specializes in Science and Arts and is currently overseen by [Raymond Wells](principal_raymond_wells.md). It appears in *[Life is Strange](life_is_strange.md)* and *[Life is Strange: Before the Storm](life_is_strange__before_the_storm.md)* and is mentioned in *[The Awesome Adventures of Captain Spirit](the_awesome_adventures_of_captain_spirit.md)*.
+
+## Biography 
+The following is what [Maxine Caulfield](max_caulfield.md) wrote about Blackwell Academy in her [Max's Diary](diary.md):
+
+*"I GOT ACCEPTED INTO BLACKWELL ACADEMY.*
+
+''If words could dance this would be a rave. Even though I've never been to one. But who cares because I GOT INTO BLACKWELL ACADEMY[, a unique and famous private school for seniors! NO KIDS ALLOWED]! I didn't think I would be so excited since it's not like I didn't used to live in the same town. But when I saw the text from the Blackwell scholarship office, I could literally feel my pulse speed up.*
+
+*But Seattle wasn't like a fable. Au contraire. Now Blackwell Academy seems more exotic to me than any other place in the world. To study photography under [Mark Jefferson](mark_jefferson.md)... SIGH. Insert hearts and flowers. Plus there will be cool diverse students from everywhere. It won't be like my high school now..."''
+
+The text in brackets was removed after the release of Episode 5 (before 1.0.0.371598).
+
+## Background 
+According to [Michelle Grant](michelle_grant.md), the school is built on old [Native American](native_american.md) land, shared between the natives and the early colonial settlers "in peace, not fear and violence."[File:Blackwell_Flyer_TWD.png](thumb.md)
+The tribes who were in the area first had welcomed the settlers and both cultures "found a mutual symbiosis and thrived." There are some undisclosed fascinating facts about Blackwell, and Ms. Grant claims there's a lot of power in the region which she thinks "helps the creative juices flow." 
+
+In 1910, Jeremiah Blackwell founded the academy, striving for excellence among the student body. Jeremiah's statue resides at the front of the building, bearing the motto "*The future needs excellence*". In the [Two Whales Diner](two_whales_diner.md), there is also a black and white flyer of Blackwell, boasting "*Global Excellence in Arts and Science for over a hundred years and counting*."
+
+Blackwell is partially owned by, and financially funded by the [Prescott Family](prescott_family.md). In 1998, they donated the dormitory building to Blackwell.
+
+Between the events of *[Life is Strange: Before the Storm](before_the_storm.md)* and *[Life is Strange](life_is_strange__season_1.md)* (2010 - 2013), Blackwell Academy changes its curriculum and student body make-up. The narrative reasons for this that are explored via secondary plot-lines over the events of *Before the Storm*. Blackwell's change results in the hiring of famous art teachers like [Mark Jefferson](mark_jefferson.md) and the eventual shift to a specialized two-year extended senior program. Prior to this evolution, Blackwell Academy is a fairly standard private high school with four grades.
+For certain prestigious private schools, this fifth year can amount to college credit or can be seen as giving students a leg-up to get into a really prestigious arts education.[https://www.facebook.com/groups/1578433839080885/permalink/1938590309731901/ Public post] made by Square Enix's *Life is Strange* [Community Management](community_manager.md) in the 'Life is Strange (GAME)' group on Facebook (7th July 2017); [Media:BtS timeline CM statement.png](statement_screenshot.md)
+
+Blackwell brochure1.png|Blackwell brochure
+Blackwell brochure2.png
+Blackwell brochure3.png
+
+## Related Locations 
+#
+
+## Indoors 
+[File:Blackwell Building Map.png](thumb.md)
+**Within the Academy building there are several explorable rooms:**
+* [Blackwell Academy Hallway](the_hallways.md)
+* Girls' Bathroom
+* Michelle Grant's [Science Lab](science_classroom.md) (Room 104)
+* Mark Jefferson's [Photography Lab](art_classroom.md) (Room 102)
+* [Principal Wells' Office](principal_wells__office.md) (and the adjoining secretary's office)
+* [Blackwell Swimming Pool](blackwell_swimming_pool.md) (and changing rooms)
+* [Travis Keaton](travis_keaton.md)'s [Drama Lab](drama_lab.md) (Before the Storm)
+**Others**
+* Boys' Bathroom
+* Library
+* Cafeteria and Kitchen
+* Computer Lab
+* Media Lab
+* Math Lab
+* Music Lab
+* Storage Rooms
+* Jefferson's Office
+* Business Office
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

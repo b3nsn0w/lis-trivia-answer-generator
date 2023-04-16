@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Was The Name Of Max And Chloe's Pirate Ship?",
+    "answer": "C",
+    "choices": {
+      "A": "The Black Pearl",
+      "B": "The Jolly Roger",
+      "C": "The Bane of Arcadia",
+      "D": "The Flying Dutchman"
+    }
+  },
+  {
+    "question": "What Was The Name Of The Board Game Max And Chloe Used To Play?",
+    "answer": "C",
+    "choices": {
+      "A": "Monopoly",
+      "B": "Sorry!",
+      "C": "Oopsies!",
+      "D": "Scrabble"
+    }
+  },
+  {
+    "question": "What Was The Name Of The Band Max And Chloe Went To See In Their First Unsupervised Concert?",
+    "answer": "A",
+    "choices": {
+      "A": "The Screamers",
+      "B": "The Killers",
+      "C": "The Strokes",
+      "D": "The Black Keys"
+    }
+  },
+  {
+    "question": "What Was The Name Of Chloe's Magic Collection?",
+    "answer": "C",
+    "choices": {
+      "A": "The Magic Box",
+      "B": "The Enchanted Chest",
+      "C": "Miss Madalyn's Managerie of Magic",
+      "D": "The Sorcerer's Trunk"
+    }
+  }
+]

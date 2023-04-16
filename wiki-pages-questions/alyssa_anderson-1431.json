@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What Happens To Alyssa At The End Of Episode Four If Max Doesn't Warn Her?",
+    "answer": "C",
+    "choices": {
+      "A": "She Gets Hit By A Car",
+      "B": "She Falls Into The Pool",
+      "C": "She Gets Pushed Off A Building",
+      "D": "She Gets Stuck In An Elevator"
+    }
+  },
+  {
+    "question": "What Poem Does Alyssa Recite To Max When She Thanks Her For Saving Her?",
+    "answer": "B",
+    "choices": {
+      "A": "The Raven",
+      "B": "The Road Not Taken",
+      "C": "Ode To A Nightingale",
+      "D": "The Waste Land"
+    }
+  },
+  {
+    "question": "What Does Alyssa Suggest To Max When She Sees Her In Episode Five?",
+    "answer": "A",
+    "choices": {
+      "A": "They Should Escape The Storm Together",
+      "B": "They Should Go To The Two Whales Diner Together",
+      "C": "They Should Go To The Vortex Club Together",
+      "D": "They Should Go To The Beach Together"
+    }
+  }
+]

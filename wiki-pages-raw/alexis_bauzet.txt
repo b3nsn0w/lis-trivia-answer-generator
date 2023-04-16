@@ -1,0 +1,39 @@
+= Alexis Bauzet =
+
+{{Infobox Crew|title = Alexis Bauzet|profession = Illustrator and User Interface Artist (Menu and HUD)|companies = [[DONTNOD]]|image = Alexis_Bauzet.png}}
+'''Alexis Bauzet''' is a French freelance graphic designer and User Interface Artist who has been with [[DONTNOD]] since 2011 when he worked on the studio's debut game, ''{{wiki|Remember Me (video game)|Remember Me}}''. He also worked on DONTNOD's recent game in development, ''Vampyr''.
+
+== Life and Career ==
+Alexis created the User Interface (UI) and Head-up Display (HUD) elements for ''[[Life is Strange]]'' and also provided illustrations for [[Max's Journal|Max's journal]] alongside [[Alysianne Bui]]. His UI work includes: the Main Menu design, the in-game Menu elements, and the player "choices" screens. His HUD work includes the livestream infos in-game, such as the button display, interactive elements, and inventory icons.
+
+== Gallery ==
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="200" captionalign="center" position="center">
+Life_is_Strange_Alexis_Bauzet_0.jpg|A selection of journal art.
+Life_is_Strange_Alexis_Bauzet_1.jpg|User Interface: Main Menu.
+Life_is_Strange_Alexis_Bauzet_2.jpg|User Interface: Main Menu.
+Life_is_Strange_Alexis_Bauzet_8.jpg|Player choices: End of game / Main Menu.
+Life_is_Strange_Alexis_Bauzet_3.jpg|SMS design: Menu.
+Life_is_Strange_Alexis_Bauzet_5.jpg|[[Optional Photos|Optional photos]] layout (not completed): Menu.
+Life_is_Strange_Alexis_Bauzet_4.jpg|Optional photos layout (completed): Menu.
+Life_is_Strange_Alexis_Bauzet_6.jpg|Character profiles layout: Menu.
+Life_is_Strange_Alexis_Bauzet_12.jpg|Individual character profile layout: Menu.
+Life_is_Strange_Alexis_Bauzet_7.jpg|Notes Locations layout: Menu.
+Life_is_Strange_Alexis_Bauzet_9.jpg|Example journal layout and UI: Menu.
+Life_is_Strange_Alexis_Bauzet_10.jpg|Example journal layout and UI: Menu.
+Life_is_Strange_Alexis_Bauzet_11.jpg|Example journal layout and UI: Menu.
+Life_is_Strange_Alexis_Bauzet_13.jpg|Typical HUD design: In-game.
+Life_is_Strange_Alexis_Bauzet_14.jpg|Typical HUD design: In-game.
+Life_is_Strange_Alexis_Bauzet_15.jpg|Typical HUD design: In-game.
+Life_is_Strange_Alexis_Bauzet_16.jpg|Typical HUD design: In-game.
+</gallery>
+
+== External Links ==
+* [http://www.ke2d.net/ Personal portfolio website]
+
+[[ru:Алексис Баузет]]
+[[Category:Crew]]
+[[Category:Crew (Life is Strange)]]
+[[Category:Illustrators]]
+
+[[Category:Don't Nod]]
+[[Category:Life is Strange]]

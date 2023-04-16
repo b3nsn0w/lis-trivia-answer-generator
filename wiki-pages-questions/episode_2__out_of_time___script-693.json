@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Will Be Written On Max's Selfie Wall If She Reports Nathan?",
+    "answer": "B",
+    "choices": {
+      "A": "\"CRAPPY ARTIST FILTHY WHORE\"",
+      "B": "\"NOBODY MESSES WITH ME BITCH\"",
+      "C": "\"TAKE A HIKE\"",
+      "D": "\"I'M WATCHING YOU\""
+    }
+  },
+  {
+    "question": "What Will Be Written On Max's Mirror If She Makes Fun Of Victoria?",
+    "answer": "A",
+    "choices": {
+      "A": "\"CRAPPY ARTIST FILTHY WHORE\"",
+      "B": "\"NOBODY MESSES WITH ME BITCH\"",
+      "C": "\"TAKE A HIKE\"",
+      "D": "\"I'M WATCHING YOU\""
+    }
+  },
+  {
+    "question": "What Does Max Find On The End Table Next To The Couch?",
+    "answer": "D",
+    "choices": {
+      "A": "Kate's Phone",
+      "B": "A Cup Of Soda",
+      "C": "A Piece Of Paper",
+      "D": "Kate's Book"
+    }
+  },
+  {
+    "question": "What Does Max Do After Spilling Soda On Kate's Book?",
+    "answer": "A",
+    "choices": {
+      "A": "She Rewinds Time And Moves The Cup",
+      "B": "She Throws The Book Away",
+      "C": "She Tries To Dry The Book With A Towel",
+      "D": "She Leaves The Book And Goes To See Kate"
+    }
+  },
+  {
+    "question": "What Can Max Do To Kate's Slate?",
+    "answer": "B",
+    "choices": {
+      "A": "She Can Write Insults On It",
+      "B": "She Can Erase Insults From It",
+      "C": "She Can Draw A Picture On It",
+      "D": "She Can Leave It Alone"
+    }
+  }
+]

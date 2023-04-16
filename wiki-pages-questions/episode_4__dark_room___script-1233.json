@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Chloe Say About Max's Letters?",
+    "answer": "B",
+    "choices": {
+      "A": "They Are Boring",
+      "B": "They Are Pretentious",
+      "C": "They Are Heartfelt",
+      "D": "They Are Funny"
+    }
+  },
+  {
+    "question": "What Does Chloe Call The Time Of The Sunset?",
+    "answer": "A",
+    "choices": {
+      "A": "The Golden Hour",
+      "B": "The Blue Hour",
+      "C": "The Twilight Hour",
+      "D": "The Magic Hour"
+    }
+  },
+  {
+    "question": "What Happened To Chloe In The Car Accident?",
+    "answer": "C",
+    "choices": {
+      "A": "She Lost Her Memory",
+      "B": "She Broke Her Arm",
+      "C": "She Became Paralyzed",
+      "D": "She Got A Concussion"
+    }
+  },
+  {
+    "question": "What Does Chloe Say About The State Of Arcadia Bay?",
+    "answer": "A",
+    "choices": {
+      "A": "It's Having A Meltdown",
+      "B": "It's Thriving",
+      "C": "It's Peaceful",
+      "D": "It's Boring"
+    }
+  },
+  {
+    "question": "What Does Chloe Say About The Word \"Hella\"?",
+    "answer": "B",
+    "choices": {
+      "A": "She Loves It",
+      "B": "She Hates It",
+      "C": "She Doesn't Care",
+      "D": "She Thinks It's Funny"
+    }
+  }
+]

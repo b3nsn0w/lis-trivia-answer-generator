@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Say When She Stands Idle For Too Long?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Tick tock, tick tock, tick tock…\"",
+      "B": "\"I’m just chilling like a villain\"",
+      "C": "\"If I took a selfie now, it would be a still life.\"",
+      "D": "\"La dee da, la dee da\""
+    }
+  },
+  {
+    "question": "What Does Max Say When She Sees The Potential To Rewind?",
+    "answer": "C",
+    "choices": {
+      "A": "\"I better rewind.\"",
+      "B": "\"I should rewind.\"",
+      "C": "\"Damn, I better rewind.\"",
+      "D": "\"I need to rewind or stop.\""
+    }
+  },
+  {
+    "question": "What Does Max Say When She Pauses While Rewinding?",
+    "answer": "B",
+    "choices": {
+      "A": "\"No way I can stop here.\"",
+      "B": "\"Either I rewind or I cancel.\"",
+      "C": "\"I need to hit this rewind or cancel.\"",
+      "D": "\"I can't be in two places at once.\""
+    }
+  },
+  {
+    "question": "What Does Max Say When She Can't Stop While Rewinding?",
+    "answer": "A",
+    "choices": {
+      "A": "\"I definitely can't stop here.\"",
+      "B": "\"No can do, Max.\"",
+      "C": "\"Should I rewind or stop?\"",
+      "D": "\"I need to rewind or stop.\""
+    }
+  },
+  {
+    "question": "What Does Max Say When She Needs To Choose Between Rewinding Or Stopping?",
+    "answer": "C",
+    "choices": {
+      "A": "\"I can't be in two places at once.\"",
+      "B": "\"I need to hit this rewind or cancel.\"",
+      "C": "\"Either I rewind or I cancel.\"",
+      "D": "\"No way I can stop here.\""
+    }
+  }
+]

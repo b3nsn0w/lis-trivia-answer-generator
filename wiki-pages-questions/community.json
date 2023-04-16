@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Category Of Content Created By The Life Is Strange Community?",
+    "answer": "A",
+    "choices": {
+      "A": "Fan Art",
+      "B": "Official Art",
+      "C": "Fan Fiction",
+      "D": "Official Soundtrack"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Game That The Life Is Strange Community Creates Content For?",
+    "answer": "D",
+    "choices": {
+      "A": "Life is Strange 2",
+      "B": "Life is Strange: Before the Storm",
+      "C": "Life is Strange: True Colors",
+      "D": "Life is Strange: Remastered Collection"
+    }
+  },
+  {
+    "question": "Who Creates The Content In The Community Category?",
+    "answer": "B",
+    "choices": {
+      "A": "The Game Developers",
+      "B": "The Fans",
+      "C": "The Voice Actors",
+      "D": "The Publishers"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Wiki Page That Features The Community Category?",
+    "answer": "A",
+    "choices": {
+      "A": "Life is Strange Wiki",
+      "B": "Life is Strange: Before the Storm Wiki",
+      "C": "Life is Strange: True Colors Wiki",
+      "D": "Life is Strange: Remastered Collection Wiki"
+    }
+  },
+  {
+    "question": "What Type Of Content Is Featured In The Community Category?",
+    "answer": "C",
+    "choices": {
+      "A": "Official Content Only",
+      "B": "Fan Content Only",
+      "C": "Both Official and Fan Content",
+      "D": "None of the Above"
+    }
+  }
+]

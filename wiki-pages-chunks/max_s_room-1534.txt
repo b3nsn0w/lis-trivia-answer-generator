@@ -1,0 +1,48 @@
+Here is a section of the wiki page for Max's Room:
+
+## Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+*She can interact with her phone and journal next to her bed.
+*{{Interaction|She can look in her mirror.|"Whoa, hello zombie-face. This is what happens when you research quantum physics all night..."}}
+*{{Interaction|She can look at her blanket and make her bed.|**Look: **"This totally reminds me of being a kid in my room. Sorry Mom, I can make my bed
+whenever I want. Boo yah!"
+**Make the bed: **"I am so not a rebel. I always like my bed to be neat and tidy. Thanks, Mom."}}
+*{{Interaction|She can look at the photos above her bed.|"'The Max Caulfield Photo Memorial Wall.'"}}
+*{{Interaction|She can look at her art books.|"Cartier-Bresson, Doisneau, Hamilton... The greatest!"}}
+*She can turn off and replay her Hi-Fi.
+*{{Interaction|She can open the chest of drawers beside her bed and look at a set of Mystic: Enchantment cards.|"It would be fun to get some peeps together and play a real game instead of drama games..."}}
+*{{Interaction|She can look at photos of her at a hockey game, the Fremont Troll, and the Space Needle.|"That was a good hockey game, and a great fight."
+"Man, Kristen and Fernando were so drunk hanging on the Fremont Troll..."
+"That's the only tourist picture I let them take of me at the Space Needle..."}}
+*{{Interaction|She can look at the camera on her desk and take a selfie with it.|**Look: **"This picture will capture this crazy historic moment in my life..."
+**Selfie: **"No smiling. Take your power seriously."}}
+*{{Interaction|She can look at the books on her desk.|"I could rewind for days and read all of these books. Will I really find any insight into my power?"}}
+*{{Interaction|She can look at the new set of sticky notes attached to the wall in front of her desk.|"I can't keep my eyes open, but I know there's a scientific answer..."}}
+*{{Interaction|She can look at and use her laptop.|"Whew, I could get lost doing time travel research. Me and the search engine
+have become one. If only I could be this focused on homework."}}
+
+**{{Interaction|Max can look at an email from Warren.|"Warren is blowing up my inbox now. As long as he helps me figure this out."}}
+**{{Interaction|She can look at a website called "Ilive4science".|"This is so insane it sounds logical to me..."}}
+**{{Interaction|She can look at a website called "WORMHOLE!"|"This wormhole thing makes total sense, but doesn't explain how I can do what
+no scientist ever has..."}}
+**{{Interaction|She can look at a website called "I-Sign Petition".|"I would say this is some crazy shit, but now I'm not so certain... Should I sign?"}}
+**{{Interaction|She can look at her social media page (determinant).|**Made fun of Victoria: **"Thanks Victoria. I always wanted to be a 'Max meme' when I grew up. She'll spread that shit everywhere."}}
+**{{Interaction|She can look at an email from Dana.|"And I thought I was into Halloween. Dana is not messing around here."}}
+*{{Interaction|She can look at the photo of Victoria covered in paint (if Max made fun of Victoria on the previous day).|"I admit, this is hilarious, but... I shouldn't sink to Victoria's bully level."}}
+*{{Interaction|She can water the plant below her window, which counts as a [Choices and Consequences#Second possible interaction on Max's plant Lisa](minor_choice_.md)|**Watered in previous episode: **"Good morning, Lisa. Your leaves are lovely today.
+I may not have a green thumb, but I have a green finger..."
+'''Didn't water: '''"Oh Lisa, I've left you on the brink of drought!"}}
+*{{Interaction|She can look at her DVDs on the sofa.|"Now I have to wonder if any of these films are based on a true story..."}}
+*{{Interaction|She can look at the Thunderbirds pennant.|"I'll miss going to the games with my Dad. Go Thunderbirds!"}}
+*{{Interaction|She can look at and play her guitar.|"Meanwhile, my guitar gently sleeps."}}
+*{{Interaction|She can look at the timetable attached to the side of her wardrobe.|"[Mrs. Hoida](mrs__hoida.md) is still out sick. I heard somebody say she has severe depression. Poor thing."}}
+*{{Interaction|She can look at a poster of Man Ray.|"Would Man Ray call them 'selfie-portraits'?"}}
+*{{Interaction|She can look at her clothes in the wardrobe.|"Good morning, clothes! I hope you slept well... Now, shall it be my Gucci shirt with the Vuitton jacket?"}}
+*{{Interaction|She can open a drawer in the wardrobe and look at a froggy watch.|"Uh oh! I wonder if I'll ever wear a watch again..."}}
+*{{Interaction|She can look at and take her shower supplies **(required)**.|**Look: **"Just because some ass pranked a girl's shampoo bottle and
+her hair fell out, we have to safeguard our toiletries. So summer camp."
+**Take: **"Okay Max, let's hit the showers now!"}}
+After taking her shower,
+*{{Interaction|She can look at the threatening message spray-painted on the photos above her bed (if Max reported Nathan on the previous day).|"Oh shit, Nathan's revenge. Even Chloe told me not to go to the Principal..."}}
+*{{Interaction|She can look at and put away the threatening photo on her bed (if Max reported Nathan on the previous day).|"Man, this could almost be art—if it wasn't so fucking sick and 
+
+Generate five trivia questions relevant to this section of the page.

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Was Rachel Amber's Dream?",
+    "answer": "A",
+    "choices": {
+      "A": "To Become A Model",
+      "B": "To Become A Photographer",
+      "C": "To Become A Writer",
+      "D": "To Become A Musician"
+    }
+  },
+  {
+    "question": "What Happened To Rachel Amber?",
+    "answer": "C",
+    "choices": {
+      "A": "She Was Kidnapped",
+      "B": "She Ran Away From Home",
+      "C": "She Died From An Overdose",
+      "D": "She Moved To Another City"
+    }
+  },
+  {
+    "question": "What Did Nathan Prescott Think Of Rachel Amber?",
+    "answer": "C",
+    "choices": {
+      "A": "He Thought She Was A Drug Addict",
+      "B": "He Thought She Was A Hell-Raiser",
+      "C": "He Thought She Was A Fiend",
+      "D": "He Thought She Was A Model"
+    }
+  },
+  {
+    "question": "What Did Chloe Price Call Rachel Amber?",
+    "answer": "A",
+    "choices": {
+      "A": "Her Angel",
+      "B": "Her Lioness",
+      "C": "Her Best Friend",
+      "D": "Her Sister"
+    }
+  },
+  {
+    "question": "What Was Rachel Amber's Relationship With Frank Bowers?",
+    "answer": "A",
+    "choices": {
+      "A": "They Were Boyfriend And Girlfriend",
+      "B": "They Were Just Friends",
+      "C": "They Were Business Partners",
+      "D": "They Were Enemies"
+    }
+  }
+]

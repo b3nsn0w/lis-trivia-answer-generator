@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Name Of The Episode 4 Of Life Is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "Polarized",
+      "B": "Dark Room",
+      "C": "Chaos Theory",
+      "D": "Out of Time"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Beach That Max Takes Chloe To?",
+    "answer": "C",
+    "choices": {
+      "A": "Arcadia Bay Beach",
+      "B": "Blackwell Beach",
+      "C": "Alternative Beach",
+      "D": "Dark Room Beach"
+    }
+  },
+  {
+    "question": "What Does Max Find In Nathan's Room?",
+    "answer": "B",
+    "choices": {
+      "A": "A Gun",
+      "B": "A Phone",
+      "C": "A Knife",
+      "D": "A Camera"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Person Who Beats Up Nathan?",
+    "answer": "A",
+    "choices": {
+      "A": "Warren Graham",
+      "B": "Mark Jefferson",
+      "C": "David Madsen",
+      "D": "Frank Bowers"
+    }
+  }
+]

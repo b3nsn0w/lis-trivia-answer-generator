@@ -1,0 +1,29 @@
+Here is a section of the wiki page for Max's Notes:
+
+room.
+Max's comments: Look at them... They have no idea what's in their future.
+|style# "height:186px; vertical-align:top"|Look[File:note4-pricehouse-joycewilliamphoto.png](220px.md)
+|-|Read# None
+|-
+|**Photo of young Chloe.**
+Location: Near the bed in Joyce and William's room.
+Max's comments: That is such a sweet shot of Chloe. I wonder who took the picture.
+|style"height:186px; vertical-align:top"|Look# [File:note4-pricehouse-youngchloephoto.png](220px.md)
+|-|ReadNone
+|-
+|**"Superdad" book by [Dr. Bill](dr__bill.md).**
+Location: Drawer of William's nightstand in Joyce and William's room.
+Max's comments: William is trying so hard. He's still awesome.
+|style# "height:186px; vertical-align:top"|Look[File:note4-pricehouse-superdad.png](220px.md)
+|-|Read# [File:note4-pricehouse-superdad2.png](220px.md)
+|-
+|**"Supermom" book by Dr. Bill.**
+Location: Drawer of Joyce's nightstand in Joyce and William's room.
+Max's comments: Joyce is already a supermom.
+|style"height:186px; vertical-align:top"|Look# [File:note4-pricehouse-supermom.png](220px.md)
+|-|Read[File:note4-pricehouse-supermom2.png](220px.md)
+|}
+
+# 
+
+Generate five trivia questions relevant to this section of the page.

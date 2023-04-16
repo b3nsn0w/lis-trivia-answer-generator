@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Was Warren Trying To Do In The Blackwell Parking Lot?",
+    "answer": "B",
+    "choices": {
+      "A": "Take A Selfie",
+      "B": "Take A Picture Of Max",
+      "C": "Take A Picture Of Himself",
+      "D": "Take A Picture Of The End Of The World Party"
+    }
+  },
+  {
+    "question": "What Was One Of The Choices Planned After Chloe's Line About Jefferson?",
+    "answer": "D",
+    "choices": {
+      "A": "Go To The Police",
+      "B": "Let Karma Deal With Jefferson",
+      "C": "Tell David About Jefferson",
+      "D": "All Of The Above"
+    }
+  },
+  {
+    "question": "What Does Max Ask Chloe To Do After Taking Her Hand In The Parking Lot?",
+    "answer": "A",
+    "choices": {
+      "A": "Follow Her",
+      "B": "Stay Behind",
+      "C": "Go To The Police",
+      "D": "Call David"
+    }
+  },
+  {
+    "question": "What Does Kate Say To Max In Her Nightmare Depending On Max's Success In Saving Her?",
+    "answer": "D",
+    "choices": {
+      "A": "\"Max, You Saved Me. Thank You.\"",
+      "B": "\"Max, Did You See Me Fall? Did You?\"",
+      "C": "\"Max, All I Can Say Is... A-Fucking-Men.\"",
+      "D": "All Of The Above"
+    }
+  }
+]

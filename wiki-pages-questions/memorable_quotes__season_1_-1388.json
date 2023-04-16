@@ -1,0 +1,52 @@
+[
+  {
+    "question": "In which episode does Victoria Chase say \"Now you're totally stuck in the Retro Zone. Sad face.\"?",
+    "answer": "A",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "What does Victoria call Max in Episode 1?",
+    "answer": "B",
+    "choices": {
+      "A": "A drama queen",
+      "B": "A selfie ho",
+      "C": "A waif hipster",
+      "D": "A retro loser"
+    }
+  },
+  {
+    "question": "What does Victoria threaten to do if Mr. Jefferson doesn't choose her photo in Episode 3?",
+    "answer": "B",
+    "choices": {
+      "A": "Tell the principal",
+      "B": "Blackmail him",
+      "C": "Report him to the police",
+      "D": "Sue him for discrimination"
+    }
+  },
+  {
+    "question": "What does Victoria say she's at Blackwell to do?",
+    "answer": "B",
+    "choices": {
+      "A": "Become a president",
+      "B": "Become a photographer",
+      "C": "Become a model",
+      "D": "Become a writer"
+    }
+  },
+  {
+    "question": "What does Victoria say to Max in her nightmare in Episode 5?",
+    "answer": "A",
+    "choices": {
+      "A": "\"I wish we had been friends, Max.\"",
+      "B": "\"You're just jealous of me.\"",
+      "C": "\"I'm only here to become a photographer.\"",
+      "D": "\"You're full of shit.\""
+    }
+  }
+]

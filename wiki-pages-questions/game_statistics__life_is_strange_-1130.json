@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What Did 84% of Players Do in the David and Kate Major Choice?",
+    "answer": "B",
+    "choices": {
+      "A": "Took a Photo of David Harassing Kate",
+      "B": "Intervened to Help Out Kate",
+      "C": "Stayed Hidden",
+      "D": "Blamed Chloe"
+    }
+  },
+  {
+    "question": "What Did 36% of Players Do in the Chloe's Pot Major Choice?",
+    "answer": "C",
+    "choices": {
+      "A": "Took the Blame for Chloe",
+      "B": "Blamed Chloe",
+      "C": "Stayed Hidden",
+      "D": "Came Out of Hiding to Intervene"
+    }
+  }
+]

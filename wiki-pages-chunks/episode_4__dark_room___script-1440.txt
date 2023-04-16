@@ -1,0 +1,99 @@
+Here is a section of the wiki page for Episode 4: Dark Room - Script:
+
+you'd spend the night at my house...
+
+**Max: **What do you want to watch?
+
+**Chloe: **Uh, I think I'm in, like, a mellow "Blade Runner" mood. I always cry at the end. Plus you know I always wanted to have cool colored bangs like Pris.
+
+**Max: **I know. You would look incredible with blue hair. Now let's get this show on the road. And you better not fall asleep on me, like you always do when we watch movies.
+
+**Chloe: **I remember, Max. Swear I won't fall asleep. Not when you're here. Not yet.
+
+**Optional Conversation with Chloe**
+
+''Max uses the tissue box to clean Chloe's face.''
+
+**Chloe: **Thanks. I think you missed a grain stuck in my eyeball.
+
+**Max: **Hard to believe how just a little sand can cause such a big mess.
+
+**Chloe: **It's like that Chinese proverb, "A spark can start a fire that burns the entire prairie." You know, like that butterfly thing...
+
+**Max: **So I've heard...
+
+*Max searches the left drawer beneath the TV to get the DVD.*
+
+**Max (thinking):** Aha, here's the DVD.
+
+*Max places the DVD in the player and sits next to Chloe. They start watching Blade Runner; Max is next shown waking up in the morning.*
+
+**Max: **I cannot believe you fell asleep so fast. How dare you.
+
+**Chloe: **I know you were beat down after the day with me. And Blade Runner is a pretty dreamy movie to watch at night. Uh, do you think Deckard is a replicant? Sorry, I can see you're not wide awake like me.
+
+**Max: **No, I'm sorry I crashed so hard. Were you...okay?
+
+**Chloe: **I do have a mother and father when you're not falling asleep on me.
+
+**Max: **You are a bitch in the morning.
+
+**Chloe: **It's the company I keep... Yesterday was such a blast.
+
+**Max: **It was great, seeing you.
+
+**Chloe: **I know things were different when we were just dorky kids, but being with you made me feel like we were little pirates, jumping and running through the forests again. It meant a lot to me just to chill out with you and bullshit. Ahh... Fuck. Um, I'm getting my regular head pains... Uh, can you pretty please go upstairs and get my--my morphine injector in the bathroom?
+
+**Max: **Morphine injector?
+
+**Chloe: **It's--ahh. It's total Star Trek shit. You can't even see the needle. Seriously, I need it. Um, my parents keep the swag upstairs because they think I can't get to it...but you can, Max. Like a pirate, right?
+
+**Max: **I'm on it, Chloe.
+
+**Second Optional Conversation with Chloe**
+
+**Chloe: ** So, are you sure it isn't too weird for you to be hanging out with me like this?
+
+Kind of.Kind of.**Max:** Kind of, but only because I haven't seen you in so long... I was selfish.
+
+**Chloe:** No, you were busy kicking ass. I don't blame anyone for bailing on me. People suck. Just joking.
+
+|-|No way.# No way.**Max:** No way. I don't want you to feel weird.
+
+**Chloe:** My life is just so different than yours. I mean, we can't just bounce out of here and... I'll be doped up half the day in pain. So that's cool.
+
+**Chloe: **But I do feel grateful I can see the ocean, that I have parents who love me, and that my best friend is here with me today.
+
+**Max: ** Exactly. So, what else do you need?
+
+**Chloe: ** Well, hot monkey sex would be nice. Oh, look, I made Maxine blush! So, are you dating anyone at Blackwell?
+
+Too busy.Too busy.**Max:** I'm too busy with school and photography.
+
+**Chloe:** Oh, please. You can't be an artist unless you experience life... That includes boys, girls, whatever.
+
+|-|Not really.# Not really.**Max:** Not really, no. There are some cute boys there, but you know me... I'm too damn shy.
+
+**Chloe:** Which is stupid because you are so damn cool. Some bro has to be crushing on you.
+
+Accepted Warren's invitationAccepted Warren's invitation**Max:** I was supposed to go out with this guy named Warren, but I don't think he's into me anymore...
+
+|-|Declined Warren's invitation# Declined Warren's invitation**Max:** This guy Warren asked me out, but I turned him down. Now he's with somebody else...
+
+**Chloe:** His loss. You need to move on, girl. Plenty of fish in the 'Bay... Shit, I sound like my dad.
+
+That's okay.That's okay.**Max:** That's okay if you sound like William. He really cares about you.
+
+**Chloe:** Rub it in. I can't ever get mad at the fool. He does so much for me... I haven't done jack for him.
+
+|-|How is William?# How is William?**Max:** How is William? Do you... like having him around?
+
+**Chloe:** Of course, he's my hero. I swear he would do anything for me or Mom. Wish I could do something for him...
+
+**Max:** You have. You're here with your family.
+
+**Chloe:** More like they're here for me. But then, so are you... so it's all good.
+
+# 
+
+Generate five trivia questions relevant to this section of the page.

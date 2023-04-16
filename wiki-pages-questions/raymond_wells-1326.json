@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is Principal Wells' Full Name?",
+    "answer": "A",
+    "choices": {
+      "A": "Raymond Wells",
+      "B": "Mark Jefferson",
+      "C": "Nathan Prescott",
+      "D": "Luke Parker"
+    }
+  },
+  {
+    "question": "What Does Maxine Caulfield Suspect About Principal Wells?",
+    "answer": "A",
+    "choices": {
+      "A": "He Dislikes Her",
+      "B": "He Is A Heavy Drinker",
+      "C": "He Is Involved With The Prescott Family",
+      "D": "He Is Corrupt"
+    }
+  },
+  {
+    "question": "What Does Principal Wells Do After Max Reports Nathan Prescott?",
+    "answer": "C",
+    "choices": {
+      "A": "He Asks Max To Leave The Building",
+      "B": "He Calls The Police",
+      "C": "He Investigates The Matter Personally",
+      "D": "He Ignores The Report"
+    }
+  },
+  {
+    "question": "What Does Principal Wells Hope Max Will Become?",
+    "answer": "B",
+    "choices": {
+      "A": "A Great Writer",
+      "B": "A Great Photographer",
+      "C": "A Great Scientist",
+      "D": "A Great Athlete"
+    }
+  }
+]

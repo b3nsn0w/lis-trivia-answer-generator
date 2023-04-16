@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Does The Message Written In Red In The Junkyard Say?",
+    "answer": "A",
+    "choices": {
+      "A": "You're All Going To Die",
+      "B": "Rachel Was Here",
+      "C": "Max And Chloe Forever",
+      "D": "Leave This Place"
+    }
+  },
+  {
+    "question": "What Happens If Max Shoots Frank With Chloe's Gun In Episode 2?",
+    "answer": "A",
+    "choices": {
+      "A": "The Gun Has No Bullets And Frank Gets Angry",
+      "B": "Frank Takes Chloe's Gun",
+      "C": "Chloe Will Faux-Propose To Max Via Text",
+      "D": "Frank Will Hand Chloe His Account Book Code Willingly"
+    }
+  },
+  {
+    "question": "What Happens If Max Helps Warren In Episode 2?",
+    "answer": "A",
+    "choices": {
+      "A": "Max Can Take Optional Photo #9",
+      "B": "Warren Gets An A- On His Experiment",
+      "C": "Max Can Change Warren's Grade To An A+",
+      "D": "Contributes To Max Being Able To Kiss Warren In The Two Whales Diner"
+    }
+  },
+  {
+    "question": "What Happens If Max Doesn't Help Warren In Episode 2?",
+    "answer": "A",
+    "choices": {
+      "A": "Warren Gets A B- On His Experiment",
+      "B": "Max Cannot Take Optional Photo #9",
+      "C": "Max Can Change Warren's Grade To A B+",
+      "D": "Counts Against Max Being Able To Kiss Warren In The Two Whales Diner"
+    }
+  }
+]

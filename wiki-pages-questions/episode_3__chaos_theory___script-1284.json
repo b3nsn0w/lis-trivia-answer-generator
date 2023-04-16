@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What does Max hear coming from the photo of her and Chloe?",
+    "answer": "B",
+    "choices": {
+      "A": "Faint music",
+      "B": "Voices",
+      "C": "Static",
+      "D": "Laughter"
+    }
+  },
+  {
+    "question": "What does William tell the girls to say in the photo?",
+    "answer": "B",
+    "choices": {
+      "A": "Cheesecake",
+      "B": "Pancake",
+      "C": "Smile",
+      "D": "Say cheese"
+    }
+  }
+]

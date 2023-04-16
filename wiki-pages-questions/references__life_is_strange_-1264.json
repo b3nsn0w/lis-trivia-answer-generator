@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Reference On The Scratch Found On The Prescott Dormitory Grounds?",
+    "answer": "A",
+    "choices": {
+      "A": "A Famous Anti-War Slogan",
+      "B": "A Quote From A Novel",
+      "C": "A Song Lyric",
+      "D": "A Movie Title"
+    }
+  },
+  {
+    "question": "What Is The Reference On Victoria's Room Slate?",
+    "answer": "A",
+    "choices": {
+      "A": "A Quote From A Famous Leader",
+      "B": "A Song Lyric",
+      "C": "A Movie Title",
+      "D": "A Book Title"
+    }
+  },
+  {
+    "question": "What Is The Reference On Brooke Scott's Poster?",
+    "answer": "A",
+    "choices": {
+      "A": "A Book Club",
+      "B": "A Movie Club",
+      "C": "A Music Club",
+      "D": "A Game Club"
+    }
+  },
+  {
+    "question": "What Is The Reference On Warren's Flash Drive?",
+    "answer": "A",
+    "choices": {
+      "A": "Pirated Films And Television Shows",
+      "B": "A Science Fiction Novel",
+      "C": "A Classic Literature Novel",
+      "D": "A Comic Book Series"
+    }
+  },
+  {
+    "question": "What Is The Reference On Steve Hackney's Noticeboard?",
+    "answer": "A",
+    "choices": {
+      "A": "A List Of Influences For His Band",
+      "B": "A List Of Upcoming Concerts",
+      "C": "A List Of Music Genres",
+      "D": "A List Of Music Festivals"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Max Think About The Whales On The Beach?",
+    "answer": "A",
+    "choices": {
+      "A": "She Hates Seeing Them Like That",
+      "B": "She Thinks They're Beautiful",
+      "C": "She Wants To Take A Picture With Them",
+      "D": "She Doesn't Care About Them"
+    }
+  },
+  {
+    "question": "What Does Chloe Say About Frank Helping Them Find Rachel?",
+    "answer": "A",
+    "choices": {
+      "A": "He's Going To Help Them",
+      "B": "He's Going To Refuse",
+      "C": "He's Going To Call The Police",
+      "D": "He's Going To Run Away"
+    }
+  },
+  {
+    "question": "What Does Max Say About Her Time Rewind Power?",
+    "answer": "A",
+    "choices": {
+      "A": "She Tells Chloe Not To Count On It",
+      "B": "She Tells Chloe To Use It More Often",
+      "C": "She Tells Chloe To Keep It A Secret",
+      "D": "She Tells Chloe To Teach Her How To Use It"
+    }
+  },
+  {
+    "question": "What Does Chloe Want To Do With Max And Rachel In The Future?",
+    "answer": "A",
+    "choices": {
+      "A": "Go On A Road Trip To Portland",
+      "B": "Go To The Beach And See The Whales",
+      "C": "Stay In Arcadia Bay Forever",
+      "D": "Travel The World Together"
+    }
+  },
+  {
+    "question": "What Does Max Tell Chloe To Do Before Talking To Frank?",
+    "answer": "A",
+    "choices": {
+      "A": "Get Rid Of Her Gun",
+      "B": "Keep Her Gun Ready",
+      "C": "Take A Deep Breath",
+      "D": "Smile And Be Friendly"
+    }
+  }
+]

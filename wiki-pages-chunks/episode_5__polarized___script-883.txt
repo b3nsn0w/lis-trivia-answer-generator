@@ -1,0 +1,72 @@
+Here is a section of the wiki page for Episode 5: Polarized - Script:
+
+this, so... I just will. Rachel is dead.
+
+**Frank:** Fuck you, Max. No. No way. She left town... She's gone... How do you know, huh? How?
+
+**Max:** All of our clues led us to my professor, Mark Jefferson... He had this creepy photo torture chamber... and we found out... he was using Nathan Prescott to drug and photograph Blackwell students...
+
+**Frank:** Prescott? Fuck! Fuck, I knew it! I should never have hooked up with that sick punk! Pompidou hated him! You saw... you saw Rachel?
+
+{{#tag:tabber|Yes.# Yes.
+**Max:** Yes... I wish I didn't. I'm so, so sorry, Frank. Nathan wanted to impress Jefferson, and he... he killed her.
+
+{{!}}-{{!}}No.No.
+**Max:** No, I didn't, but... Nathan wanted to impress Jefferson and I know he... killed her.
+
+}}
+
+**Frank:** How? How did he kill her?
+
+{{#tag:tabber|Overdose.# Overdose.
+**Max:** He used some drug... and gave her an overdose...
+
+**Frank:** An overdose? The only way Nathan could've done that is... is if I sold it to him. I killed my lioness! No... What have I done?
+
+{{!}}-{{!}}It doesn't matter.It doesn't matter.
+**Max:** It doesn't matter... She deserves her peace now.
+
+}}
+
+**Frank:** Where is this motherfucker Jefferson?
+
+{{#tag:tabber|(David killed Jefferson)# (David killed Jefferson)
+**Max:** He's dead.
+
+{{!}}-{{!}}(David didn't kill Jefferson)(David didn't kill Jefferson)
+**Max:** He's going to jail.
+
+}}
+
+**Max:** He won't be hurting anybody anymore...
+
+**Frank:** Rachel... Oh, God. She was the one good thing in my life, Max. I know she was too young, and... I expected her to leave me, just... just not how it happened. I would never have stopped her from going after her dreams.
+
+{{#tag:tabber|I know.# I know.
+**Max:** I know. She obviously cared about you, Frank...
+
+**Frank:** Rachel cared about a lot of people... especially Chloe...
+
+{{!}}-{{!}}Neither would Chloe.Neither would Chloe.
+**Max:** I know... neither would Chloe...
+
+**Frank:** I knew Chloe and her... were close... I was jealous...
+
+}}
+
+**Frank:** But, uh... now I see why Rachel dug her... and Chloe was man enough to ask me for help after all that shit we went through.
+
+**Max:** Chloe would appreciate that...
+
+**Frank:** You know, the one time I met my dad, the bastard quoted the bible and said he wanted to "enter his house justified." In other words, to do the right thing... me too. And maybe you're helping me get there, Max. Don't get me wrong, kid. I still think you're weird... but you're cool.
+
+{{!}}-{{!}}We don't know.# We don't know.
+**Max:** Um, we don't... know. Things got crazy and... and, here we are... Frank, I'm sorry about this.
+
+**Frank:** Who gives a fuck now? Just stand over there so I don't have to see you before the Lord lifts me up. Please Max.
+
+}}
+
+# 
+
+Generate five trivia questions relevant to this section of the page.

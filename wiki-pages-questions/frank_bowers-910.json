@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Name Of Frank's Guard Dog?",
+    "answer": "B",
+    "choices": {
+      "A": "Pompous",
+      "B": "Pompidou",
+      "C": "Pumpernickel",
+      "D": "Pommel"
+    }
+  },
+  {
+    "question": "What Does Officer Berry Think Of Frank?",
+    "answer": "B",
+    "choices": {
+      "A": "He Thinks Frank Is A Hero",
+      "B": "He Thinks Frank Is A Creep",
+      "C": "He Thinks Frank Is A Student At Blackwell",
+      "D": "He Thinks Frank Is A Drug Dealer"
+    }
+  },
+  {
+    "question": "What Is The Code Phrase Max Uses To Ask Frank For Drugs?",
+    "answer": "A",
+    "choices": {
+      "A": "Higher Education",
+      "B": "Lower Expectations",
+      "C": "Bigger Dreams",
+      "D": "Smaller Goals"
+    }
+  },
+  {
+    "question": "What Happens If Max Spills Frank's Food Or Drink?",
+    "answer": "A",
+    "choices": {
+      "A": "Frank Becomes Very Aggressive",
+      "B": "Frank Offers To Help Clean It Up",
+      "C": "Frank Ignores It",
+      "D": "Frank Laughs It Off"
+    }
+  },
+  {
+    "question": "What Does Max Find Inside Frank's RV That Proves A Romantic Relationship Between Frank And Rachel?",
+    "answer": "D",
+    "choices": {
+      "A": "A Gun",
+      "B": "A Map",
+      "C": "A Diary",
+      "D": "Love Letters And Photos"
+    }
+  }
+]

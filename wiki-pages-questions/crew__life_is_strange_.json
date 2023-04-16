@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Purpose Of The Crew Members Listed On The Wiki Page?",
+    "answer": "A",
+    "choices": {
+      "A": "They Were Involved In The Production Of Life Is Strange",
+      "B": "They Were The Voice Actors For The Characters",
+      "C": "They Were The Playtesters For The Game",
+      "D": "They Were The Marketing Team For The Game"
+    }
+  },
+  {
+    "question": "Which Of The Following Is Not A Crew Member Listed On The Wiki Page?",
+    "answer": "C",
+    "choices": {
+      "A": "Raoul Barbet",
+      "B": "Michel Koch",
+      "C": "Ashly Burch",
+      "D": "Christian Divine"
+    }
+  },
+  {
+    "question": "What Was The Role Of Christian Divine In The Production Of Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Writer",
+      "B": "Composer",
+      "C": "Programmer",
+      "D": "Animator"
+    }
+  },
+  {
+    "question": "Which Two Crew Members Were The Co-Directors Of Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Raoul Barbet and Michel Koch",
+      "B": "Ashly Burch and Hannah Telle",
+      "C": "Christian Divine and Jean-Luc Cano",
+      "D": "Luc Baghadoust and Sebastien Gaillard"
+    }
+  },
+  {
+    "question": "What Was The Role Of Sebastien Gaillard In The Production Of Life Is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "Art Director",
+      "B": "Sound Designer",
+      "C": "Level Designer",
+      "D": "Game Designer"
+    }
+  }
+]

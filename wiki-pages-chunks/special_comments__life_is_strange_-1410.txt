@@ -1,0 +1,67 @@
+Here is a section of the wiki page for Special Comments (Life is Strange):
+
+## Alternative Corridor 
+* *"It feels the same yet totally different here…"* {{Headphones|file# ‎VO_E4_2A.STM_4~Act_E4_2A_LivingRoom_Scripted02_Max_010.ogg}}
+* *"Altering time and space doesn’t make life easier, huh, Max?"* {{Headphones|fileVO_E4_2A.STM_72~Act_E4_2A_LivingRoom_Scripted02_Max_030.ogg‎}}
+* *"Chloe and me have a whole new set of old memories...Yet I have zero idea what I’ve done in that time..."* {{Headphones|file# VO_E4_2A.STM_13~Act_E4_2A_LivingRoom_Scripted02_Max_040.ogg‎}}
+* *"I better not make Chloe wait for her pain relief."* {{Headphones|file‎}}
+* *"I need to hit the bathroom for the medicine."* {{Headphones|file# ‎}}
+
+#
+
+## Price House - Downstairs # 
+Before taking the morphine:
+* *"Man, Chloe is seriously hurting. I need to find her painkiller."* {{Headphones|file‎VO_E4_2B.STM_124~Act_E4_2B_Garage_Scripted_Max_010.ogg}}
+* *"Chloe said her morphine was upstairs."* {{Headphones|file# VO_E4_2B.STM_121~Act_E4_2B_Garage_Scripted_Max_020.ogg‎}}
+
+After taking the morphine:
+* *"Talk about Chaos Theory... I fucked everything up..."* {{Headphones|fileVO_E4_2B.STM_122~Act_E4_2B_Garage_Scripted_Max_040.ogg‎}}
+* *"Nothing feels right about this reality…"* {{Headphones|file# VO_E4_2B.STM_67~Act_E4_2B_Garage_Scripted_Max_050.ogg‎}}
+* *"So is this what you wanted, Max? Are you happy now?"* {{Headphones|fileVO_E4_2B.STM_196~Act_E4_2B_Garage_Scripted_Max_060.ogg‎}}
+* ''"How can I decide if William's life is worth what happened to Chloe... and vice versa?"* {{Headphones|file# ‎VO_E4_2B.STM_107~Act_E4_2B_Garage_Scripted_Max_080.ogg}}
+* *"This is Chloe's home now... forever. It's amazing what we take for granted."* {{Headphones|fileVO_E4_2B.STM_123~Act_E4_2B_Garage_Scripted_Max_110.ogg‎}}
+
+# #
+
+## Hospital 
+* *"I am so happy to see you, Kate Marsh..."* {{Headphones|file# VO_E4_3E.STM_69~Act_E4_3E_Hospital_Scripted_Max_010.ogg‎}}
+* *"I'm sorry, but I do hate hospitals… So cold..."* {{Headphones|file‎VO_E4_3E.STM_38~Act_E4_3E_Hospital_Scripted_Max_020.ogg}}
+* *"I wonder how Kate’s family feels about all this…"* {{Headphones|file# VO_E4_3E.STM_74~Act_E4_3E_Hospital_Scripted_Max_030.ogg‎}}
+* *"Maybe Kate has more information about Nathan that we can use..."* {{Headphones|fileVO_E4_3E.STM_25~Act_E4_3E_Hospital_Scripted_Max_040.ogg‎}}
+
+# #
+
+## Beach 
+Before the conversation with Frank:
+* *"I should get the hell out of town but... not without Chloe. We have to finish this."* {{Headphones|file# VO_E4_4A.STM_73~Act_E4_4A_Beach_ScriptedParkingLot_Max_030.ogg‎‎}}
+* *"So now we have to see Frank all the way out here."* {{Headphones|file‎VO_E4_4A.STM_118~Act_E4_4A_Beach_ScriptedParkingLot_Max_010.ogg}}
+* *"Take a breath and go face Frank. You have the power."* {{Headphones|file# VO_E4_4A.STM_117~Act_E4_4A_Beach_ScriptedParkingLot_Max_070.ogg‎}}
+
+#
+
+## Old Barn - Outside # 
+* *"Now I need to find a way into the barn..."*
+* *"I hope this is the right place and we didn’t mess up the coordinates."*
+* *"We can’t just break the door down, we have to find another way in."*
+* *"Funny to think the Prescotts started on a farm... Nathan still acts like an orc."*
+
+#
+
+## Old Barn - Inside # 
+* *"This place is the epicenter of creepy."*
+* *"I better keep snooping around..."*
+* *"I can look under those old metal sheets or that straw..."*
+* *"And yes, I’ve got a bad feeling about this."*
+* *"So Chloe and me actually killed somebody...|What happens to us now?" (choice-dependent)*
+* *"I should go upstairs and get Chloe to help me."*
+* *"Check out the area Max, you can find something heavy to use."*
+* *"Maybe we could drop something super heavy on it..."*
+* *"I could use this old motor with that rope and hook..."*
+* *"I could use the old motor as a counterweight to smash the padlock."*
+* *"Max, use your rewind and get that motor back up there."*
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

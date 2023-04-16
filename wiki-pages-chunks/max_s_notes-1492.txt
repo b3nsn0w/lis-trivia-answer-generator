@@ -1,0 +1,89 @@
+Here is a section of the wiki page for Max's Notes:
+
+[File:note5-zeitgeist-guestbook.png](220px.md)
+|-|Read[File:note5-zeitgeist-guestbook2.png](220px.md)
+|-
+|**Issue of "The Independent" newspaper.**
+Location: Couch on the second floor of the gallery.
+Max's comments: Young and grunge... He'll think about those days for the rest of his life in prison... Good.
+|style# "height:186px; vertical-align:top"|Look[File:note5-zeitgeist-independent.png](220px.md)
+|-|Read# [File:note5-zeitgeist-independent2.png](220px.md)
+|-
+|**Photo of Max.**
+Location: On the trolley in the Dark Room.
+Max's comments: Ugh... I want to burn all these photos…
+|style"height:186px; vertical-align:top"|Look# [File:note5-darkroom-maxphotoone.png](220px.md)
+|-|ReadNone
+|-
+|**Monochrome photo of a drugged Max.**
+Location: On the trolley in the Dark Room.
+Max's comments: None
+|style# "height:186px; vertical-align:top"|Look[File:note5-darkroom-maxphototwo.png](220px.md)
+|-|Read# None
+|-
+|**Monochrome closeup of Max.**
+Location: On the trolley in the Dark Room.
+Max's comments: I hate looking at me like that..."
+|style"height:186px; vertical-align:top"|Look# [File:note5-darkroom-maxphotothree.png](220px.md)
+|-|ReadNone
+|-
+|**Everyday Heroes Contest poster.**
+Location: Near the computer in the Dark Room.
+Max's comments: You won't be going, Jefferson... to any more shows.
+|style# "height:186px; vertical-align:top"|Look[File:note5-darkroom-contestposter.png](220px.md)
+|-|Read# [File:note5-darkroom-contestposter2.png](220px.md)
+|-
+|**Bus ticket receipt.**
+Location: Inside the Dark Room.
+Max's comments: No one would have looked for Nathan's body with this…
+|style"height:186px; vertical-align:top"|Look# [File:note5-darkroom-busticket.png](220px.md)
+|-|Read[File:note5-darkroom-busticket2.png](220px.md)
+|-
+|**SpyGuy Electronics bill.**
+Location: Inside the Dark Room.
+Max's comments: Looks like Jefferson was planning a major security renovation... with Prescott cash.
+|style# "height:186px; vertical-align:top"|Look[File:note5-darkroom-securitybill.png](220px.md)
+|-|Read# [File:note5-darkroom-securitybill2.png](220px.md)
+|-
+|'''Child's drawing.'''
+Location: On the hood of a wrecked car on the Two Whales Diner street.
+Max's comments: I... I can't think about all those children out there…
+|style"height:186px; vertical-align:top"|Look# [File:note5-diner-childrendrawing.png](220px.md)
+|-|ReadNone
+|-
+|**Note about the tablet with cat pics.**
+Location: On the ground on the Two Whales Diner street.
+Max's comments: Mystery solved... but nobody gets a reward...
+|style# "height:186px; vertical-align:top"|Look[File:note5-diner-catpicsnote.png](220px.md)
+|-|Read# [File:note5-diner-catpicsnote2.png](220px.md)
+|-
+|**Arcadia Bay Softball League flyer.**
+Location: Inside the storeroom of "Tony's Liquor Store" on the Two Whales street.
+Max's comments: Aw... This makes me so sad.
+|style"height:186px; vertical-align:top"|Look# [File:note5-diner-softballflyer.png](220px.md)
+|-|Read[File:note5-diner-softballflyer2.png](220px.md)
+|-
+|**Issue of the "[The Great Northwest](great_northwest.md)" newspaper.**
+Location: On the ground inside the storeroom.
+Max's comments: If we can make it out of this, Chloe...
+|style# "height:186px; vertical-align:top"|Look[File:note5-diner-greatnorthwest.png](220px.md)
+|-|Read# [File:note5-diner-greatnorthwest2.png](220px.md)
+|-
+|**Pan Estates flyer.**
+Location: On the ground in front of the diner.
+Max's comments: Not anymore…
+|style"height:186px; vertical-align:top"|Look# [File:note5-diner-panflyer.png](220px.md)
+|-|Read[File:note5-diner-panflyer2.png](220px.md)
+|-
+|**Issue of the "[The Bay Bud Weekly](bay_bud_weekly.md)" newspaper.**
+Location: On the ground in front of the diner.
+Max's comments: The monsters are actually the people here…"
+|style# "height:186px; vertical-align:top"|Look[File:note5-diner-baybudweekly.png](220px.md)
+|-|Read# [File:note5-diner-baybudweekly2.png](220px.md)
+|-
+|**Issue of the "[Arcadia Bay Beacon](arcadia_bay_beacon.md)" newspaper.**
+Location: Inside the diner's storeroom.
+Max's comments: Go get 'em, Juliet…
+|style"height:186px; vertical-align:top"|Look# 
+
+Generate five trivia questions relevant to this section of the page.

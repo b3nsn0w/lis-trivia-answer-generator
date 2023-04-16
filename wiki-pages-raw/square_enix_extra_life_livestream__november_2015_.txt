@@ -1,0 +1,27 @@
+= Square Enix Extra Life Livestream (November 2015) =
+
+{{Stub}}
+{{scaleimage|file=Extra Lie Live Stream.png|size=small}}
+On November 5 and 6, 2015, Square Enix hosted an '''Extra Life Charity Live Stream''' on twitch.tv featuring [[Alejandro Arque]], one of the lead game designers behind ''[[Life is Strange]]''. The audience was able to influence the playthrough by voting for the main decisions and could ask questions. The developers gave information on a lot of scenes and characters and revealed the meaning behind several hints.
+
+Click ''[http://www.twitch.tv/squareenix/v/24111126 here]'' to watch the live stream starting with Episode 1.
+
+== Episodes ==
+
+=== Episode Two - "[[Episode 2: Out of Time|Out of Time]]" ===
+'''Jefferson's Phone Call'''<br />There has been much debate on who called [[Mark Jefferson]] in Episode 2, but it has never been revealed. When the fans asked about the identity of the caller in this livestream, [[Don't Nod|DONTNOD]] did not reply.
+
+=== Episode Three - "[[Episode 3: Chaos Theory|Chaos Theory]]" ===
+'''Katie and Kate'''<br />It was speculated whether Katie, one of [[Frank Bowers]]' clients, might refer to [[Kate Marsh]]. In the stream Alejandro Arque confirmed that it wasn't the case.
+
+== Characters ==
+
+=== Mark Jefferson ===
+The developers revealed that they pretty much had Mark Jefferson's character set in stone since the beginning. They wanted him to appear as the "cool teacher", and they had a lot of positive feedback from the fans during the earlier episodes saying how much they love Jefferson, but they anticipated the antagonistic hate for him after fans played [[Episode 4: Dark Room|Episode 4]].
+
+As a clear demonstration of his deceptive nature and personality, they noted how Jefferson's true evil colors appeared in the [[Dark Room (Location)|Dark Room]] during [[Episode 5: Polarized|Episode 5]]. They also [[:File:Rachel letter.png|revealed in the chat]] that [[Rachel Amber]] was in fact in love with him before her death and that her letter written to [[Chloe Price]] (which can be found in the [[American Rust Junkyard|junkyard]] during Episode 2) was referencing Mark Jefferson. Mark Jefferson was not suspected by many people as he used his cover as a teacher, therefore creating a "perfect" image.
+
+
+[[Category:Livestreams]]
+[[Category:Behind the Scenes]]
+[[Category:Life is Strange]]

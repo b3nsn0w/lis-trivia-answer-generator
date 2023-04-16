@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who is Akari Higuchi?",
+    "answer": "A",
+    "choices": {
+      "A": "A Japanese voice actress",
+      "B": "A character in Life is Strange",
+      "C": "A developer of Life is Strange",
+      "D": "A fan of Life is Strange"
+    }
+  },
+  {
+    "question": "Which characters did Akari Higuchi voice in the Japanese release of Life is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "Max and Chloe",
+      "B": "Victoria and Alyssa",
+      "C": "Rachel and Kate",
+      "D": "Nathan and Jefferson"
+    }
+  },
+  {
+    "question": "What is the name of the character Akari Higuchi voiced as Victoria Chase in Japanese?",
+    "answer": "A",
+    "choices": {
+      "A": "ビクトリア・チェイス",
+      "B": "アリッサ・アンダーソン",
+      "C": "樋口 あかり",
+      "D": "樋口 暁里"
+    }
+  },
+  {
+    "question": "Which version of Life is Strange did Akari Higuchi provide voice acting for?",
+    "answer": "C",
+    "choices": {
+      "A": "The English release",
+      "B": "The French release",
+      "C": "The Japanese release",
+      "D": "The German release"
+    }
+  },
+  {
+    "question": "What is the name of the character Akari Higuchi voiced as Alyssa Anderson in Japanese?",
+    "answer": "B",
+    "choices": {
+      "A": "ビクトリア・チェイス",
+      "B": "アリッサ・アンダーソン",
+      "C": "樋口 あかり",
+      "D": "樋口 暁里"
+    }
+  }
+]

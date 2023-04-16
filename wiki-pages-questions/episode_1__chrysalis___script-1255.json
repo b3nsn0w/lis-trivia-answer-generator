@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What does Zachary throw that hits Alyssa in the head?",
+    "answer": "B",
+    "choices": {
+      "A": "A book",
+      "B": "A football",
+      "C": "A pencil",
+      "D": "A water bottle"
+    }
+  },
+  {
+    "question": "What does Max do after Alyssa gets hit by the football?",
+    "answer": "A",
+    "choices": {
+      "A": "She rewinds time and warns Alyssa.",
+      "B": "She confronts Zachary and tells him to stop.",
+      "C": "She ignores the situation and walks away.",
+      "D": "She helps Zachary retrieve his football."
+    }
+  },
+  {
+    "question": "What does David accuse Kate of?",
+    "answer": "D",
+    "choices": {
+      "A": "Cheating on a test",
+      "B": "Stealing from the school",
+      "C": "Being involved in illegal activities",
+      "D": "Being involved with the Vortex Club"
+    }
+  },
+  {
+    "question": "What does Max do when she sees David and Kate arguing?",
+    "answer": "B",
+    "choices": {
+      "A": "She takes a photo of them.",
+      "B": "She intervenes and confronts David.",
+      "C": "She ignores them and walks away.",
+      "D": "She tells Kate to stand up for herself."
+    }
+  },
+  {
+    "question": "What does Juliet reveal about Zachary?",
+    "answer": "C",
+    "choices": {
+      "A": "He cheated on a test.",
+      "B": "He bullied her.",
+      "C": "He sexted Victoria as a joke.",
+      "D": "He stole from the school."
+    }
+  }
+]

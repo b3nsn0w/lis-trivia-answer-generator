@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Chloe's Last Name?",
+    "answer": "A",
+    "choices": {
+      "A": "Price",
+      "B": "Amber",
+      "C": "Jefferson",
+      "D": "Caulfield"
+    }
+  },
+  {
+    "question": "What Does Chloe Pull Out To Show Max?",
+    "answer": "B",
+    "choices": {
+      "A": "A Knife",
+      "B": "A Gun",
+      "C": "A Camera",
+      "D": "A Phone"
+    }
+  },
+  {
+    "question": "Why Does Chloe Want To Keep The Gun?",
+    "answer": "B",
+    "choices": {
+      "A": "To Mow Down Bigfoot Cheerleaders",
+      "B": "To Protect Herself",
+      "C": "To Sell It",
+      "D": "To Impress Max"
+    }
+  },
+  {
+    "question": "How Does Max Feel About Guns?",
+    "answer": "B",
+    "choices": {
+      "A": "She Feels Safer With One",
+      "B": "She Is Nervous Around Them",
+      "C": "She Loves To Play With Them",
+      "D": "She Wants To Learn How To Use Them"
+    }
+  },
+  {
+    "question": "What Does Max Think Chloe Should Be Doing Instead Of Playing With A Gun?",
+    "answer": "B",
+    "choices": {
+      "A": "Playing Video Games",
+      "B": "Playing Guitar",
+      "C": "Playing Sports",
+      "D": "Playing With Her Dog"
+    }
+  }
+]

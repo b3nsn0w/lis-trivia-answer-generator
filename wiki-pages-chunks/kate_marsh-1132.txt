@@ -1,0 +1,70 @@
+Here is a section of the wiki page for Kate Marsh:
+
+#  Kate Marsh 
+
+```yaml
+Character
+
+name: Kate Marsh
+image: kate Marsh.png
+fullname: Kate Beverly Marsh
+age: '19'
+born: |-
+  September 12, 1995
+  [Arcadia Bay](arcadia_bay.md), Oregon
+died: |-
+  October 8, 2013 (determinant)
+  October 11, 2013 (presumed, determinant)
+causeofdeath: Jumped to her death off the dormitory roof
+gender: Female
+hair: Dirty blond
+eyes: Hazel
+relatives: |-
+  [Richard Marsh](richard_marsh.md) (father)
+  [Mrs. Marsh](mrs__marsh.md) (mother)
+  Auntie Marsh (aunt)
+  [Lynn Marsh](lynn_marsh.md) (sister)
+  Unnamed sister
+friends: '[Maxine Caulfield'
+Max Caulfield](maxine_caulfield__max_caulfield.md)
+[Alyssa Anderson](alyssa_anderson.md)
+[Stella Hill](stella_hill.md)
+[Warren Graham](warren_graham.md): ''
+profession: High school student
+affiliation: '[Blackwell Academy](blackwell_academy.md)'
+appearance: >-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)[Episode 2: Out of
+  Time](episode_2__out_of_time.md)[Episode 4: Dark
+  Room](episode_4__dark_room.md) (determinant)[Episode 5:
+  Polarized](episode_5__polarized.md) (determinant)
+voice: |-
+  [Dayeanne Hutton](dayeanne_hutton.md) (ENG) 
+  [Hana Takeda](hana_takeda.md) (JPN)
+alsoknown: Katie
+```
+
+> Even angels need angels, Max.
+
+**Kate to [Maxine Caulfield**, Max](maxine_caulfield____max.md) in "[Episode 4: Dark Room, Dark Room](episode_4__dark_room__dark_room.md)"
+
+**Kate Beverly Marsh** (born September 12, 1995) is a student at [Blackwell Academy](blackwell_academy.md) and a devout Christian. She has been having trouble coping with the release of a viral video featuring her kissing strangers at a [Vortex Club](vortex_club.md) [Vortex Club Party (October 4, 2013)](party.md) and seems emotionally traumatized. [Maxine Caulfield](max_caulfield.md) is seemingly good friends with Kate and watches out for her during this rough time.
+
+: ''For the image gallery, click [Kate Marsh/Gallery](here.md). To visit Kate's room click [Kate's Room](here.md)''.
+
+## Personality 
+Kate is a friendly, kind-hearted, shy teenage girl who doesn't like being the center of attention. She comes from a heavily religious household and is consequently bullied at Blackwell Academy for her conservative views on sex and religion. Due to her religious background, she is quite meek towards most (if not all) of the people who bully her and doesn't hesitate to give people such as Victoria Chase a second chance. She becomes depressed when a viral video of her is released containing uncharacteristically sexual behavior as a result of being drugged by [Nathan Prescott](nathan_prescott.md) (or possibly [Mark Jefferson](mark_jefferson.md)). Kate views the spread of the video as a form of punishment, one strong enough to weaken the foundations of her faith.
+
+## Biography 
+The following is what Max wrote about Kate in [Max's Journal](her_journal.md):
+
+''I don't want to slam everybody. I do like Kate Marsh, she's down the hall and in one of my classes. She's so pretty AND sweet and friendly. It makes her more beautiful than the beeatches here like [Victoria Chase](victoria.md) who think beauty is just your face and outfit. See? I'm already playing their drama games. No more!*
+
+*I've forgotten if I've ever seen Kate Marsh smile or laugh in the past month. She's really sweet and nice, even though the other students make fun of her abstinence campaign. Even if they act immature, everybody at Blackwell are seniors, not high school freshmen... She gets a lot of shit in fact. I know she's involved in a lot of religious groups, but she doesn't preach to me so I don't care.*
+
+*But she's been extra quiet and introverted the past couple weeks. She looks like she's in zombie mode. I wish I could help her, but I can barely help myself. I wonder if all that bullying has worn her down... I can see how it would. I have to make an effort to talk to her more often, maybe invite her to tea or a movie.*
+
+*Although she's an adult I bet she's not "allowed" to watch "R" rated films...''
+
+
+
+Generate five trivia questions relevant to this section of the page.

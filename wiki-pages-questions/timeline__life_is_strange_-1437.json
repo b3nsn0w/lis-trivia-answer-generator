@@ -1,0 +1,12 @@
+[
+  {
+    "question": "When Was Rachel Amber Born?",
+    "answer": "A",
+    "choices": {
+      "A": "July 22nd, 1994",
+      "B": "September 21st, 1995",
+      "C": "August 29th, 1995",
+      "D": "November 20th, 1996"
+    }
+  }
+]

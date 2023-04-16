@@ -1,0 +1,52 @@
+[
+  {
+    "question": "When Was Episode 4: Dark Room Released?",
+    "answer": "A",
+    "choices": {
+      "A": "July 28, 2015",
+      "B": "August 28, 2015",
+      "C": "September 28, 2015",
+      "D": "October 28, 2015"
+    }
+  },
+  {
+    "question": "What Is Max Investigating In Episode 4?",
+    "answer": "A",
+    "choices": {
+      "A": "The Disappearance Of Rachel Amber",
+      "B": "The Murder Of Nathan Prescott",
+      "C": "The Identity Of The Prescott Family's Secret Benefactor",
+      "D": "The History Of Blackwell Academy"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Location Max Finds In Episode 4?",
+    "answer": "A",
+    "choices": {
+      "A": "The Dark Room",
+      "B": "The Secret Hideout",
+      "C": "The Abandoned Warehouse",
+      "D": "The Underground Bunker"
+    }
+  },
+  {
+    "question": "Which Platforms Is Episode 4 Available On?",
+    "answer": "A",
+    "choices": {
+      "A": "PC, Mac, PS3, PS4, Xbox 360 and Xbox One",
+      "B": "PC, Mac, PS3, PS4, Xbox 360 and Nintendo Switch",
+      "C": "PC, Mac, PS4, Xbox One and Google Stadia",
+      "D": "PC, Mac, PS3, Xbox 360 and Wii U"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Party At The Blackwell Swimming Pool In Episode 4?",
+    "answer": "A",
+    "choices": {
+      "A": "The End Of The World Party",
+      "B": "The Summer Bash",
+      "C": "The Back To School Bash",
+      "D": "The Spring Fling"
+    }
+  }
+]

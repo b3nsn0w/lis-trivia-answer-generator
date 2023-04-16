@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who is developing *Life is Strange: True Colors*?",
+    "answer": "C",
+    "choices": {
+      "A": "Dontnod Entertainment",
+      "B": "Square Enix",
+      "C": "Deck Nine Games",
+      "D": "Fullbright"
+    }
+  },
+  {
+    "question": "When will the remastered editions of *Life is Strange* and *Before the Storm* be released?",
+    "answer": "C",
+    "choices": {
+      "A": "Spring 2021",
+      "B": "Summer 2021",
+      "C": "Fall 2021",
+      "D": "Winter 2021"
+    }
+  },
+  {
+    "question": "Who directed the voice over production for the *Life is Strange* games?",
+    "answer": "D",
+    "choices": {
+      "A": "Oskar Guilbert",
+      "B": "Alain Damasio",
+      "C": "Jean-Maxime Moris",
+      "D": "Philip Bache"
+    }
+  },
+  {
+    "question": "Who assisted the writing team during the development of *Life is Strange 2*?",
+    "answer": "B",
+    "choices": {
+      "A": "Square Enix",
+      "B": "Fullbright",
+      "C": "Deck Nine Games",
+      "D": "It is not specified in the excerpt."
+    }
+  }
+]

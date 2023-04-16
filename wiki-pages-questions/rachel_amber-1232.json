@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who Was Rachel Amber's Best Friend While Max Was Away In Seattle?",
+    "answer": "C",
+    "choices": {
+      "A": "Victoria Chase",
+      "B": "Evan Harris",
+      "C": "Chloe Price",
+      "D": "Justin Williams"
+    }
+  },
+  {
+    "question": "What Did Chloe And Rachel Plan To Do Once They Paid Off Frank Bowers?",
+    "answer": "A",
+    "choices": {
+      "A": "Leave Arcadia Bay",
+      "B": "Join The Vortex Club",
+      "C": "Start A Band",
+      "D": "Attend Blackwell Academy"
+    }
+  },
+  {
+    "question": "Who Mistook Max For Rachel Amber?",
+    "answer": "B",
+    "choices": {
+      "A": "Evan Harris",
+      "B": "Nathan Prescott",
+      "C": "Victoria Chase",
+      "D": "Hayden Jones"
+    }
+  },
+  {
+    "question": "What Did Victoria Chase Write On The Missing Poster Of Rachel Amber In Her Room?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Bitch\"",
+      "B": "\"Gone Forever\"",
+      "C": "\"RIP\"",
+      "D": "\"We Miss You\""
+    }
+  },
+  {
+    "question": "What Did The Truck Driver Who Frequents The Two Whales Diner Think Of Rachel Amber?",
+    "answer": "A",
+    "choices": {
+      "A": "He Thought She Was A Gold Digger",
+      "B": "He Thought She Was A Great Person",
+      "C": "He Thought She Was A Talented Artist",
+      "D": "He Thought She Was A Skilled Photographer"
+    }
+  }
+]

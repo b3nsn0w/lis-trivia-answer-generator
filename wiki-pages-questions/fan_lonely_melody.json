@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who wrote and performed \"Lonely Melody\"?",
+    "answer": "A",
+    "choices": {
+      "A": "Eduard Frolov EFG",
+      "B": "Chloe Price",
+      "C": "Ekaterina Broflovskaya",
+      "D": "Life is Strange"
+    }
+  },
+  {
+    "question": "When was \"Lonely Melody\" released?",
+    "answer": "B",
+    "choices": {
+      "A": "May 3, 2016",
+      "B": "January 18, 2016",
+      "C": "May 18, 2016",
+      "D": "January 3, 2016"
+    }
+  },
+  {
+    "question": "What is the name of the album that \"Lonely Melody\" is on?",
+    "answer": "A",
+    "choices": {
+      "A": "Price-Less Time",
+      "B": "Life is Strange",
+      "C": "Lonely Melody",
+      "D": "Eduard Frolov EFG"
+    }
+  },
+  {
+    "question": "What is the title of the remastered version of \"Lonely Melody\"?",
+    "answer": "B",
+    "choices": {
+      "A": "Lonely Melody (Chloe Tribute \"Life Is Strange\")",
+      "B": "Remastered Life is Strange",
+      "C": "Life is Strange Remastered",
+      "D": "Chloe Tribute (Lonely Melody)"
+    }
+  }
+]

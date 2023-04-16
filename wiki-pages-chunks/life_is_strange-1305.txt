@@ -1,0 +1,29 @@
+Here is a section of the wiki page for Life is Strange:
+
+## Original Idea and Mechanic 
+The initial idea for *Life is Strange* had its origin in Dontnod's first game *Remember Me*'s memory remixes (interactions with people's memories that trigger consequence effects). After they had finished *Remember Me*, which was a very fast-paced action adventure game, they wanted to make a slow-paced adventure game that focused more on the consequence effect instead. Based on the memory remix concept, they developed the rewind mechanism to tell a coming-of-age story about growing up, about the impact even small choices in your life can have and "about realizing that sometimes you need to stop looking backwards and wanting to change everything", which they thought resonated most with the rewind power, together with the characters, the high school setting and the visuals they subsequently developed.
+
+*Life is Strange* was inspired by narrative-focused {{Wiki|Adventure game|adventure games}} such as *{{Wiki|Gone Home}}*, *{{Wiki|The Walking Dead (video game)|The Walking Dead}}* and *{{Wiki|Heavy Rain}}*, [wikipedia:Visual novel](visual_novels.md) such as *{{Wiki|Danganronpa|Danganronpa}}*, and novels such as *{{Wiki|The Catcher in the Rye}}*.[http://www.siliconera.com/2015/02/05/life-strange-director-talks-theme-identity-visual-novels/ Life Is Strange Director Talks About The Theme Of "Identity" And Visual Novels] (February 5, 2015) During a CNC conference about realism in video games that was held in June 2015, Writer Jean-Luc Cano confirmed that {{Wiki|Stephen King}}'s work was a source of inspiration in the creation of the game's plot and its universe.[https://www.lesnumeriques.com/jeux-video/reel-dans-jeu-video-representation-experience-a2225.html Le réel dans le jeu vidéo : représentation et expérience] (June27, 2015)
+
+#
+
+## Characters, Themes and Social Issues 
+*Life is Strange* tells a {{Wiki|coming-of-age story}} through the journey of protagonist Max Caulfield, and the rewind mechanism was specifically designed to serve this purpose.
+
+Co-Director and Writer Michel Koch explained in an interview: "We knew that we wanted to use this [rewind] mechanism as a tool, as a metaphor, to tell this coming-of-age story. To tell a story about growing up, about realizing that sometimes you need to stop looking backwards and wanting to change everything."
+
+Michel Koch: "So that's why we have this art direction, that's why we have those characters, why we choose the setting of a high-school. And because when you're a teen, it's a time in your life when your choices will really affect you as an adult, so it's a really good period to question fate, choice and consequences, and destiny."
+
+"The fact that [Max’s power] is a supernatural element is mostly used as a contrast to the human and real-life things we are dealing with. We are big fans of the books by Stephen King. He's so good at anchoring a real world scenario with believable characters and real-life issues, but then using one supernatural or horror element to bring chaos on top of that."
+
+Raoul Barbet: "We wanted to talk about all those topics and I think as a teenager you can't avoid that. Being a teenager nowadays is quite difficult, and we really didn't want to write a story about teenagers without talking about things like cyber bullying, for example. It's part of our life and it's part of the new generation's life, so we wanted to talk about that with the character of Kate." 
+
+As well as drawing from personal experience for their writing, Dontnod also heavily researched the topics they were covering to ensure accuracy and respect. “That was our responsibility, especially when you decide to cover these topics in a video game where you’re putting the player in those positions,” Michel Koch explained.[https://www.pcgamesn.com/life-is-strange/max-and-chloes-story-is-done-life-is-strange-devs-talk-the-future-success-and-the-importance-of-diversity "Max and Chloe's story is done": Life is Strange devs talk the future, success, and the importance of diversity] (January 22, 2016)
+
+Artistic director Michel Koch revealed in an [http://www.vice.com/en_uk/read/first-love-and-awkwardness-inside-the-mind-of-life-is-strange-co-director-michel-koch-423 interview] that they wrote Episode 1 with the intention of introducing the typical high school stereotypes, before building upon them and subverting them with every episode. "When we started to create every character, we really wanted to use known archetypes that people see in teenage drama and in movies."[https://www.vice.com/en_uk/article/exqpga/first-love-and-awkwardness-inside-the-mind-of-life-is-strange-co-director-michel-koch-423 First Love and Awkwardness: Inside the Mind of ‘Life Is Strange’ Co-Director Michel Koch] (August 4, 2015) According to Koch, the developers wanted the game to have "gray characters," where no one is completely good or bad. Dontnod wanted to bring that complexity of people's personalities to *Life is Strange*.[https://www.polygon.com/2014/8/14/6003109/remember-me-creators-next-game-looks-like-gone-home-with-time-travel Remember Me creator's next game looks like Gone Home with time travel] (August 14, 2014)
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

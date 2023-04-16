@@ -1,0 +1,256 @@
+#  Characters (Life is Strange) 
+
+The following is a pictorial list of **characters** from the game *[Life is Strange](life_is_strange.md)*.
+
+##  Caulfield Family 
+
+Character Contact Max.jpg|[Maxine Caulfield](max.md)
+Max's Dad.png|[Ryan Caulfield](ryan.md)
+Vanessa caulfield.png|[Vanessa Caulfield](vanessa.md)
+
+##  Price Family 
+
+Character Contact Chloe.png|[Chloe Price](chloe.md)
+Character Contact Joyce.png|[Joyce Price](joyce.md)
+PSN Avatar William.jpg|[William Price](william.md)
+UnknownPolaMale.png|[Aaron Price](aaron.md)
+UnknownPolaFem.png|[Dorothy](aunt_dorothy.md)
+
+##  Marsh Family 
+
+Character Contact Kate.jpg|[Kate Marsh](kate.md)
+MrsMarshFace.png|[Mrs. Marsh](mrs__marsh.md)
+RichardMarshFace.png|[Richard Marsh](richard.md)
+LynnFace.png|[Lynn Marsh](lynn.md)
+UnknownPolaFem.png|[Auntie Marsh](auntie_marsh.md)
+
+##  Prescott Family 
+
+Character Contact Nathan.png|[Nathan Prescott](nathan.md)
+Sean-Prescott.png|[Sean Prescott](sean.md)
+UnknownPolaFem.png|[Kristine Prescott](kristine.md)
+Harry aaron prescott picture.png|[Harry Aaron Prescott](harry_aaron.md)
+UnknownPolaMale.png|[Martin Lewis Prescott](martin_lewis.md)
+UnknownPolaFem.png|[Mrs. Prescott](mrs__prescott.md)
+
+##  Blackwell Students 
+###  Vortex Club 
+
+Courtney.png|[Courtney Wagner](courtney_wagner.md)
+PSN Dana Avatar.jpg|[Dana Ward](dana_ward.md)
+Hayden.png|[Hayden Jones](hayden_jones.md)
+Juliet.png|[Juliet Watson](juliet_watson.md)
+LoganVortexClub.png|[Logan Robertson](logan_robertson.md)
+Taylor.png|[Taylor Christensen](taylor_christensen.md)
+Character Contact Victoria.png|[Victoria Chase](victoria_chase.md)
+Character Contact Warren.png|[Warren Graham](warren_graham.md)
+Zachary.png|[Zachary Riggins](zachary_riggins.md)
+
+###  Others 
+
+Alyssa.png|[Alyssa Anderson](alyssa_anderson.md)
+PSN Brooke Avatar.jpg|[Brooke Scott](brooke_scott.md)
+DanielEp4.png|[Daniel DaCosta](daniel_dacosta.md)
+Evan Harris.jpg|[Evan Harris](evan_harris.md)
+Justin.png|[Justin Williams](justin_williams.md)
+Luke Parker.png|[Luke Parker](luke_parker.md)
+Character Contact Rachel.png|[Rachel Amber](rachel_amber.md)
+Sarah portrait.png|[Sarah](sarah.md)
+StellaEpisode4.png|[Stella Hill](stella_hill.md)
+UnknownPolaMale.png|[Steve Hackney](steve_hackney.md)
+Trevor.png|[Trevor](trevor.md)
+UnknownPolaMale.png|[Tyron](tyron.md)
+
+##  Blackwell Staff 
+
+UnknownPolaFem.png|[An-Marie Barenchi](an_marie_barenchi.md)
+David.png|[David Madsen](david_madsen.md)
+Character Contact Jefferson.png|[Mark Jefferson](mark_jefferson.md)
+UnknownPolaFem.png|[Michelle Barenchi](michelle_barenchi.md)
+Ms Grant.png|[Michelle Grant](michelle_grant.md)
+UnknownPolaFem.png|[Bernadette Hoida](bernadette_hoida.md)
+Ray Wells.png|[Raymond Wells](raymond_wells.md)
+Samuel-The-Janitor.png|[Samuel Taylor](samuel_taylor.md)
+
+##  Arcadia Bay Citizens 
+###  Two Whales Diner 
+
+Dinerdude-ep2.jpg|[Diner Dude](dude.md)
+Diner fisherman face.png|[Diner Fisherman](fisherman.md)
+Homeless Lady.png|[Homeless Lady](homeless_lady.md)
+Newspaper-man.jpg|[Diner Man](man.md)
+Oldman-diner.png|[Old Guy](old_guy.md)
+fisherman-macready.png|[R.J. MacReady](r_j__macready.md)
+TruckDriver.png|[Truck Driver](truck_driver.md)
+trucker2-nightmare.jpg|[Diner Trucker](trucker.md)
+Weird lady.png|[Weird Lady](weird_lady.md)
+Diner-woman.png|[Diner Woman](woman.md)
+
+###  Police 
+
+Officer Berry.png|[Anderson Berry](anderson_berry.md)
+UnknownPolaMale.png|[Officer Corn](officer_corn.md)
+Officer diner face.png|[Diner Cop](cop.md)
+
+###  Others 
+
+Character Contact Frank.png|[Frank Bowers](frank_bowers.md)
+Dick Weber Main.png|[Dick Weber](dick_weber.md)
+Cousteau Main.png|[Jack Cousteau](jack_cousteau.md)
+Rich Conrad Main.png|[Rich Conrad](rich_conrad.md)
+Andy Berry Main.png|[Andy Berry](andy_berry.md)
+UnknownPolaMale.png|[Chuck Pierce Jr.](chuck_pierce_jr_.md)
+
+##  Animals 
+
+Blue jay.png|[Blue Jay](blue_jay.md)
+DoeFace.png|[Doe](doe.md)
+katesbunny.png|[Alice the Rabbit](alice_the_rabbit.md)
+Bongo.jpg|[Bongo](bongo.md)
+PSN Avatar Pompidou.jpg|[Pompidou](pompidou.md)
+
+##  Other Characters 
+
+dannylee.jpg|[Daniel Lee](daniel_lee.md)
+Maxresdefault (4).jpg|[DJ Doom](dj_doom.md)
+UnknownPolaMale.png|[Dr. Bill](dr__bill.md)
+DrHedorah.png|[Dr. Hedorah](dr__hedorah.md)
+UnknownPolaMale.png|[Dr. Jacoby](dr__jacoby.md)
+UnknownPolaMale.png|[Dr. Nick Meyer](dr__nick_meyer.md)
+UnknownPolaMale.png|[Ed](ed.md)
+Fernando picture.png|[Fernando](fernando.md)
+Kristen picture.png|[Kristen](kristen.md)
+Fc,550x550,white.jpg|[Hawt Dawg Man](hawt_dawg_man.md)
+UnknownPolaFem.png|[Megan Weaver](megan_weaver.md)
+Weatherman.png|[Weatherman](weatherman.md)
+
+__NOEDITSECTION__
+
+ Characters (Life is Strange) =
+
+The following is a pictorial list of **characters** from the game *[Life is Strange](life_is_strange.md)*.
+
+##  Caulfield Family 
+
+Character Contact Max.jpg|[Maxine Caulfield](max.md)
+Max's Dad.png|[Ryan Caulfield](ryan.md)
+Vanessa caulfield.png|[Vanessa Caulfield](vanessa.md)
+
+##  Price Family 
+
+Character Contact Chloe.png|[Chloe Price](chloe.md)
+Character Contact Joyce.png|[Joyce Price](joyce.md)
+PSN Avatar William.jpg|[William Price](william.md)
+UnknownPolaMale.png|[Aaron Price](aaron.md)
+UnknownPolaFem.png|[Dorothy](aunt_dorothy.md)
+
+##  Marsh Family 
+
+Character Contact Kate.jpg|[Kate Marsh](kate.md)
+MrsMarshFace.png|[Mrs. Marsh](mrs__marsh.md)
+RichardMarshFace.png|[Richard Marsh](richard.md)
+LynnFace.png|[Lynn Marsh](lynn.md)
+UnknownPolaFem.png|[Auntie Marsh](auntie_marsh.md)
+
+##  Prescott Family 
+
+Character Contact Nathan.png|[Nathan Prescott](nathan.md)
+Sean-Prescott.png|[Sean Prescott](sean.md)
+UnknownPolaFem.png|[Kristine Prescott](kristine.md)
+Harry aaron prescott picture.png|[Harry Aaron Prescott](harry_aaron.md)
+UnknownPolaMale.png|[Martin Lewis Prescott](martin_lewis.md)
+UnknownPolaFem.png|[Mrs. Prescott](mrs__prescott.md)
+
+##  Blackwell Students 
+###  Vortex Club 
+
+Courtney.png|[Courtney Wagner](courtney_wagner.md)
+PSN Dana Avatar.jpg|[Dana Ward](dana_ward.md)
+Hayden.png|[Hayden Jones](hayden_jones.md)
+Juliet.png|[Juliet Watson](juliet_watson.md)
+LoganVortexClub.png|[Logan Robertson](logan_robertson.md)
+Taylor.png|[Taylor Christensen](taylor_christensen.md)
+Character Contact Victoria.png|[Victoria Chase](victoria_chase.md)
+Character Contact Warren.png|[Warren Graham](warren_graham.md)
+Zachary.png|[Zachary Riggins](zachary_riggins.md)
+
+###  Others 
+
+Alyssa.png|[Alyssa Anderson](alyssa_anderson.md)
+PSN Brooke Avatar.jpg|[Brooke Scott](brooke_scott.md)
+DanielEp4.png|[Daniel DaCosta](daniel_dacosta.md)
+Evan Harris.jpg|[Evan Harris](evan_harris.md)
+Justin.png|[Justin Williams](justin_williams.md)
+Luke Parker.png|[Luke Parker](luke_parker.md)
+Character Contact Rachel.png|[Rachel Amber](rachel_amber.md)
+Sarah portrait.png|[Sarah](sarah.md)
+StellaEpisode4.png|[Stella Hill](stella_hill.md)
+UnknownPolaMale.png|[Steve Hackney](steve_hackney.md)
+Trevor.png|[Trevor](trevor.md)
+UnknownPolaMale.png|[Tyron](tyron.md)
+
+##  Blackwell Staff 
+
+UnknownPolaFem.png|[An-Marie Barenchi](an_marie_barenchi.md)
+David.png|[David Madsen](david_madsen.md)
+Character Contact Jefferson.png|[Mark Jefferson](mark_jefferson.md)
+UnknownPolaFem.png|[Michelle Barenchi](michelle_barenchi.md)
+Ms Grant.png|[Michelle Grant](michelle_grant.md)
+UnknownPolaFem.png|[Bernadette Hoida](bernadette_hoida.md)
+Ray Wells.png|[Raymond Wells](raymond_wells.md)
+Samuel-The-Janitor.png|[Samuel Taylor](samuel_taylor.md)
+
+##  Arcadia Bay Citizens 
+###  Two Whales Diner 
+
+Dinerdude-ep2.jpg|[Diner Dude](dude.md)
+Diner fisherman face.png|[Diner Fisherman](fisherman.md)
+Homeless Lady.png|[Homeless Lady](homeless_lady.md)
+Newspaper-man.jpg|[Diner Man](man.md)
+Oldman-diner.png|[Old Guy](old_guy.md)
+fisherman-macready.png|[R.J. MacReady](r_j__macready.md)
+TruckDriver.png|[Truck Driver](truck_driver.md)
+trucker2-nightmare.jpg|[Diner Trucker](trucker.md)
+Weird lady.png|[Weird Lady](weird_lady.md)
+Diner-woman.png|[Diner Woman](woman.md)
+
+###  Police 
+
+Officer Berry.png|[Anderson Berry](anderson_berry.md)
+UnknownPolaMale.png|[Officer Corn](officer_corn.md)
+Officer diner face.png|[Diner Cop](cop.md)
+
+###  Others 
+
+Character Contact Frank.png|[Frank Bowers](frank_bowers.md)
+Dick Weber Main.png|[Dick Weber](dick_weber.md)
+Cousteau Main.png|[Jack Cousteau](jack_cousteau.md)
+Rich Conrad Main.png|[Rich Conrad](rich_conrad.md)
+Andy Berry Main.png|[Andy Berry](andy_berry.md)
+UnknownPolaMale.png|[Chuck Pierce Jr.](chuck_pierce_jr_.md)
+
+##  Animals 
+
+Blue jay.png|[Blue Jay](blue_jay.md)
+DoeFace.png|[Doe](doe.md)
+katesbunny.png|[Alice the Rabbit](alice_the_rabbit.md)
+Bongo.jpg|[Bongo](bongo.md)
+PSN Avatar Pompidou.jpg|[Pompidou](pompidou.md)
+
+##  Other Characters 
+
+dannylee.jpg|[Daniel Lee](daniel_lee.md)
+Maxresdefault (4).jpg|[DJ Doom](dj_doom.md)
+UnknownPolaMale.png|[Dr. Bill](dr__bill.md)
+DrHedorah.png|[Dr. Hedorah](dr__hedorah.md)
+UnknownPolaMale.png|[Dr. Jacoby](dr__jacoby.md)
+UnknownPolaMale.png|[Dr. Nick Meyer](dr__nick_meyer.md)
+UnknownPolaMale.png|[Ed](ed.md)
+Fernando picture.png|[Fernando](fernando.md)
+Kristen picture.png|[Kristen](kristen.md)
+Fc,550x550,white.jpg|[Hawt Dawg Man](hawt_dawg_man.md)
+UnknownPolaFem.png|[Megan Weaver](megan_weaver.md)
+Weatherman.png|[Weatherman](weatherman.md)
+
+__NOEDITSECTION__
+

@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What Is The Only Major Choice In Episode 5 Of Life Is Strange?",
+    "answer": "A",
+    "choices": {
+      "A": "Sacrifice Chloe",
+      "B": "Sacrifice Arcadia Bay",
+      "C": "Save Chloe",
+      "D": "Save Arcadia Bay"
+    }
+  },
+  {
+    "question": "What Did 82% Of Players Do In The David And Kate Major Choice In Episode 1 Of Life Is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "Took A Photo Of David Harassing Kate",
+      "B": "Intervened To Help Out Kate",
+      "C": "Hid The Truth",
+      "D": "Reported Nathan"
+    }
+  }
+]

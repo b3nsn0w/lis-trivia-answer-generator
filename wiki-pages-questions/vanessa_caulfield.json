@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Where Does Vanessa Currently Reside?",
+    "answer": "B",
+    "choices": {
+      "A": "Arcadia Bay",
+      "B": "Seattle",
+      "C": "Los Angeles",
+      "D": "New York"
+    }
+  },
+  {
+    "question": "What Is The Name Of Vanessa's Husband?",
+    "answer": "A",
+    "choices": {
+      "A": "Ryan Caulfield",
+      "B": "Raymond Wells",
+      "C": "Mark Jefferson",
+      "D": "Nathan Prescott"
+    }
+  },
+  {
+    "question": "What Does Vanessa Send Max For Her Birthday?",
+    "answer": "C",
+    "choices": {
+      "A": "A Phone",
+      "B": "A Hoodie",
+      "C": "A Box Of Chocolate Coconut Bites",
+      "D": "A Film Camera"
+    }
+  },
+  {
+    "question": "What Is Vanessa's Opinion On Max's Spending Habits In The Alternative Timeline?",
+    "answer": "B",
+    "choices": {
+      "A": "She Is Supportive",
+      "B": "She Is Disappointed",
+      "C": "She Is Angry",
+      "D": "She Is Indifferent"
+    }
+  }
+]

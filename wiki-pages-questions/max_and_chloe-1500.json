@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Name Of The Romantic Pairing Between Max And Chloe?",
+    "answer": "A",
+    "choices": {
+      "A": "Pricefield",
+      "B": "Chlomax",
+      "C": "Maxloe",
+      "D": "Chloemax"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Commune Where Chloe's Step-Father Lives In Life Is Strange 2?",
+    "answer": "C",
+    "choices": {
+      "A": "Arcadia Bay",
+      "B": "Blackwell Academy",
+      "C": "Seattle",
+      "D": "Portland"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Episode In Which Max And Chloe Take A Selfie Together?",
+    "answer": "C",
+    "choices": {
+      "A": "Chrysalis",
+      "B": "Out Of Time",
+      "C": "Chaos Theory",
+      "D": "Dark Room"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Episode In Which Max Kisses Chloe?",
+    "answer": "D",
+    "choices": {
+      "A": "Chrysalis",
+      "B": "Out Of Time",
+      "C": "Chaos Theory",
+      "D": "Dark Room"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Ending In Which Max And Chloe Hold Each Other In Front Of The Storm?",
+    "answer": "B",
+    "choices": {
+      "A": "Sacrifice Chloe",
+      "B": "Sacrifice Arcadia Bay",
+      "C": "Pricefield",
+      "D": "Chlomax"
+    }
+  }
+]

@@ -1,0 +1,75 @@
+Here is a section of the wiki page for Game Statistics (Life is Strange):
+
+## **Minor Choices** 
+{|style# "width:100%; background-color:transparent" class"article-table"
+| valign# "top" |
+**Blue Jay**
+* You saved the blue jay. - 44%
+* You let the blue jay die. - **56%**
+|[File:minorchoice-e4-bluejay.png](thumb.md)
+|-
+| valign"top" |
+'''Bird's Nest'''
+* You disturbed the bird's nest. - 7%
+* You didn't disturb the bird's nest. - **93%**
+|style# "padding-right:100px"|[File:minorchoice-e4-birdnest.png](thumb.md)
+|-
+| valign"top" |
+'''David's Locker'''
+* You found David's code. - 46%
+* You got David's files in another way. - **54%**
+|[File:minorchoice-e4-davidlocker.png](thumb.md)
+|-
+| valign# "top" |
+**Kate**
+* Kate helped you find Nathan's room. - **60%**
+* Kate didn't help you. - 40%
+|style"padding-right:100px"|[File:minorchoice-e4-katesms.png](thumb.md)
+|-
+| valign# "top" |
+**Daniel**
+* You motivated Daniel to attend the Vortex Club party. - 31%
+* You didn't motivate Daniel to attend the Vortex Club party. - **69%**
+|[File:minorchoice-e4-daniel.png](thumb.md)
+|-
+| valign"top" |
+'''Warren's Slate'''
+* You left a message on Warren's slate. - 20%
+* You didn't leave a message on Warren's slate. - **80%**
+|style# "padding-right:100px"|[File:minorchoice-e4-warrenslate.png](thumb.md)
+|-
+| valign"top" |
+'''Nathan's PIN Code'''
+* You figured out Nathan's PIN code. - 37%
+* You didn't figure out Nathan's PIN code. - **63%**
+|[File:minorchoice-e4-nathanpin.png](thumb.md)
+|-
+| valign# "top" |
+**Alyssa**
+* You helped Alyssa. - **75%**
+* You didn't help Alyssa. - 25%
+|style"padding-right:100px"|[File:minorchoice-e4-alyssa.png](thumb.md)
+|}
+
+## Episode Five - "[Episode 5: Polarized](polarized.md)" 
+
+#
+
+## **Major Choices** 
+In "Polarized", the only major choice to do is to make a final sacrifice between saving Chloe and allowing Arcadia Bay to be destroyed, presumably along with your friends and all its residents being killed, or saving Arcadia Bay and sacrificing Chloe by allowing her to die in the bathroom in order to prevent the tornado from occurring and thus sparing the town. Note, these are also the choices which cannot be rewound except focusing on the photo before the time Chloe died.
+{| width# "100%" align"center"
+|
+**Sacrifice Arcadia Bay**
+* You decided to sacrifice Arcadia Bay. — 48%
+
+**Sacrifice Chloe**
+* You decided to sacrifice Chloe. — **52%**
+|style# "padding-right:50px"|[File:TX_MajChoice_E5_7A_SaveChloe.png](thumb.md)
+|[File:TX_MajChoice_E5_7A_SaveTown.png](thumb.md)
+|}
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

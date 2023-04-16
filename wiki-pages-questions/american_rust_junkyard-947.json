@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is American Rust?",
+    "answer": "A",
+    "choices": {
+      "A": "A Junkyard",
+      "B": "A Train Station",
+      "C": "A Bar",
+      "D": "A Museum"
+    }
+  },
+  {
+    "question": "What Do Chloe And Max Do In The Junkyard?",
+    "answer": "A",
+    "choices": {
+      "A": "Practice Shooting",
+      "B": "Play Hide And Seek",
+      "C": "Build A Fort",
+      "D": "Play Soccer"
+    }
+  },
+  {
+    "question": "What Does Chloe Consider American Rust To Be?",
+    "answer": "A",
+    "choices": {
+      "A": "Her Home Away From Hell",
+      "B": "A Place To Relax",
+      "C": "A Place To Party",
+      "D": "A Place To Work"
+    }
+  },
+  {
+    "question": "Who Interrupts Chloe And Max While They Are Practicing Shooting?",
+    "answer": "C",
+    "choices": {
+      "A": "Nathan Prescott",
+      "B": "David Madsen",
+      "C": "Frank Bowers",
+      "D": "Rachel Amber"
+    }
+  },
+  {
+    "question": "What Happens If Max Chooses To Shoot Frank?",
+    "answer": "D",
+    "choices": {
+      "A": "Frank Takes The Gun From Her",
+      "B": "Chloe Cheers About Max Being A Badass",
+      "C": "Frank Warns Max That He Will Never Forget Her Face",
+      "D": "All Of The Above"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Who is Max's best friend in Life is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "Warren",
+      "B": "Rachel",
+      "C": "Victoria",
+      "D": "Jefferson"
+    }
+  },
+  {
+    "question": "Which two characters are in a romantic relationship in Life is Strange: Before the Storm?",
+    "answer": "B",
+    "choices": {
+      "A": "Chloe and Max",
+      "B": "Chloe and Rachel",
+      "C": "Max and Warren",
+      "D": "Nathan and Victoria"
+    }
+  },
+  {
+    "question": "Which two characters have a close friendship in Life is Strange: True Colors?",
+    "answer": "A",
+    "choices": {
+      "A": "Alex and Ryan",
+      "B": "Alex and Steph",
+      "C": "Alex and Gabe",
+      "D": "Ryan and Steph"
+    }
+  }
+]

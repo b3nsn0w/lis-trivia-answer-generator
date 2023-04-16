@@ -1,0 +1,63 @@
+#  Storm 
+
+[File:PSN_Avatar_Tornado.jpg](thumb.md)
+The **Storm** is a waterspout that is coming towards [Arcadia Bay](arcadia_bay.md) in *[Life is Strange](life_is_strange.md)*. It is first featured in the first scene of the game, during [Maxine Caulfield](max_caulfield.md)'s [Max's Visions](vision.md), and is a recurring theme throughout the game. In Episode 5, it manifests itself as the last and most extreme [Meteorological Anomalies](meteorological_anomaly.md) seen as it is about to become a tornado and hit the town.
+
+##  Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+In Max's first vision, she wakes up on a forest floor in the middle of a storm. The trees move in the wind. Max sees the [lighthouse](lighthouse.md) in the distance and slowly walks towards it. When Max gets near the lighthouse, she sees a tornado coming towards Arcadia Bay. A boat gets thrown up by the tornado and hits the lighthouse. A broken piece lands onto her and she wakes up in [Mark Jefferson](mr__jefferson.md)'s class, confused as to what happened.
+
+At the end of the episode, Max is near the lighthouse, together with [Chloe Price](chloe_price.md). Max blacks out and has another vision. This time she needs to avoid three trunks rolling down the path and be quick to dodge debris from the lighthouse. The [doe](doe.md) seems to guide her towards a [The Independent](newspaper.md) that is stuck on a fence at the cliff. She is able to retrieve and read it. It dates October 11, which is next Friday. She is pulled away from her vision when Chloe touches her shoulder.
+
+Shortly afterward, it starts snowing even though it is a hot autumn day.
+
+##  Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+The tornado is briefly mentioned during Max and Chloe's conversation at the [Two Whales Diner](two_whales_diner.md).
+
+After shooting the bottles at the junkyard, Max passes out because of rewind overuse and has another vision of the tornado. A slightly longer vision occurs while she is trying to take a photo prior to rescuing Chloe from being hit by the train.
+
+Before dropping Max off at [Blackwell Academy](blackwell.md), Max and Chloe have a short conversation in Chloe's car. One of the topics is Chaos Theory, which ties together Max's rewind power, her visions, and the freak snowfall.
+
+After succeeding or failing in saving [Kate Marsh](kate_marsh.md) from suicide, Max is chatting with Warren on the Blackwell campus, and an unscheduled eclipse occurs, adding to the number of meteorological anomalies.
+
+##  Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+The storm is not mentioned at all in this episode, but the lesser meteorological anomalies continue to happen in both [Timeline](original.md) and [Alternative Timeline](alternative.md) timelines. 
+
+##  Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+Max mentions the storm while looking out of the window at Chloe's house"''It's such a warm beautiful day. How could a killer storm just pop up tomorrow?*", and also at the [End of the World Party](end_of_the_world_party.md)"*If that tornado came right now, I would just sit here and watch for a while.''".
+
+##  Episode Five - "[Episode 5: Polarized](polarized.md)" 
+After looking at her [Everyday Heroes Photo Contest](everyday_heroes_photo_contest.md) entry in [San Francisco](san_francisco.md)'s [Zeitgeist Gallery](zeitgeist_gallery.md), Max has a short vision of the storm, with Chloe calling for help. Max rushes to the lower level of the gallery and notices 6 missed calls from her. Max calls Chloe and hears her with heavy background noise talking about the storm. Max realizes that the storm is now coming towards Arcadia Bay.
+
+Max uses her focus power to tear apart her contest submission and escape from the [Dark Room (Location)](dark_room.md) with [David Madsen](david_madsen.md)'s help. The storm is coming and causes heavy winds. Max calls [Warren Graham](warren_graham.md) and asks him about his [End of the World Party](end_of_the_world_party.md) photo. He has it with him and is trapped inside the [Two Whales Diner](two_whales_diner.md) with [Joyce Price](joyce_price.md), [Frank Bowers](frank_bowers.md), [Pompidou](pompidou.md), the [Old Guy](old_guy.md), and the fisherman. Max drives with [Mark Jefferson](mark_jefferson.md)'s car towards the diner, despite the danger of the storm.
+
+Close to the diner, the street is blocked by debris from the storm. Arcadia Bay residents are trapped underneath objects, stuck inside houses, or fleeing away. Some dead bodies are visible in the debris. The storm is clearly visible coming towards the town. It has devastated most houses and thrown cars onto buildings. Max can help the [Truck Driver](truck_driver.md), whose leg is stuck underneath a metal pole, to get free and escape with his truck. [Evan Harris](evan_harris.md) is trying to take a shot of the storm and gets hit by a pole; Max can rewind and warn him to move away. [Alyssa Anderson](alyssa_anderson.md) is stuck inside the first floor of a house. If Max helped her every time in the previous episodes, she will cooperate and Max is able to help her escape. Max can use her rewind power to save [R.J. MacReady](the_fisherman.md) from being electrocuted.
+
+The Two Whales Diner still stands. Some letters from the sign were blown away, making it spell "Die". Max needs to prevent a fire from reaching the diner using sand.
+
+The [Homeless Lady](homeless_lady.md) moved away from her place near the diner if Max warned her about the storm. If Max didn't warn her, she will be lying dead by her mat.
+
+Inside the diner on a radio is an emergency broadcast, which states the following:
+
+"Evacuation, once again this is not a test. This is **not** a test. An E6 Tornado warning has been issued for Arcadia Bay and surrounding counties. The emergency broadcast system is now in effect."
+
+##  Notes 
+
+##  Trivia 
+*Tornadoes proper are only called such while over a land mass. While over the water, the vortex is a waterspout, but once it hits Arcadia Bay shore, it would be classified as a tornado.
+*The newspaper in Max's second vision could be from a previous day and it is further in the future than October 11.
+*EF6 (or E6 as mentioned) tornadoes do not exist outside theoretical level, {{Wiki|Ted Fujita}} plotted out F6-level winds but the Fujita scale, as used for rating tornadoes, only goes up to F5. Even if a tornado had F6-level winds, near ground level, which is very unlikely, it would only be rated as an F5. More so, warnings for approaching tornadoes do not mention strength, for strength classifications for tornadoes are made after they have hit and are used to determine how strong they are based on the damage caused.
+**If an EF6 tornado did truly exist, there would be absolutely nothing left of Arcadia Bay, for the strongest tornadoes (EF5) leave nothing in their wake.
+*Tornadoes such as these actually do happen on the Oregon coast. On October 14, 2016, a high-end EF-2 {{Wiki|2016 Manzanita tornado|tornado}} hit the town of Manzanita, Oregon (about 15 miles north of Garibaldi) and caused damage similar to what is seen in Episode 5. Another tornado hit the town of Oceanside (around 3 miles north-west of Netarts) the same day, though no one was injured, and no major damage (unlike in Manzanita) was done by this tornado.
+*The sudden snow before the storm is a possible reference to Fimbulvetr from Norse mythology. Fimbulvetr is translated as "great winter" and is described as the prelude to the apocalyptic event known as Ragnarök.
+*In *[Life is Strange 2](life_is_strange_2.md)*, the storm is mentioned at [Otter Point](otter_point.md) on a sign in memory to those who died in the tornado. However, this is only seen if the player selected to have sacrificed Arcadia Bay in the original *Life is Strange*.
+*Although it's never explained what or who brings the storm into fruition, the fact that Max has a vision of the storm before her power triggers may indicate that Max's powers have no connection to the storm whatsoever, making the nature of the storm unavoidable, the nature of the Max's first vision premonitory and the final decision might be all about letting nature follow its course and wipe out Arcadia Bay, allowing Max to keep Chloe at her side or given the premonition, thwart destiny by making the ultimate sacrifice and allow Arcadia Bay to be spared.
+*In spite of Max's comment at Chloe's house in Episode 4 while looking out the window, expressing her disbelief on how such a calm weather can lead to a storm the following day, this is actually a normal reaction in the weather before a storm hits a region, hence the famous "The calm before the storm".   
+
+ plotted out F6-level winds but the Fujita scale, as used for rating tornadoes, only goes up to F5. Even if a tornado had F6-level winds, near ground level, which is very unlikely, it would only be rated as an F5. More so, warnings for approaching tornadoes do not mention strength, for strength classifications for tornadoes are made after they have hit and are used to determine how strong they are based on the damage caused.
+**If an EF6 tornado did truly exist, there would be absolutely nothing left of Arcadia Bay, for the strongest tornadoes (EF5) leave nothing in their wake.
+*Tornadoes such as these actually do happen on the Oregon coast. On October 14, 2016, a high-end EF-2 {{Wiki|2016 Manzanita tornado|tornado}} hit the town of Manzanita, Oregon (about 15 miles north of Garibaldi) and caused damage similar to what is seen in Episode 5. Another tornado hit the town of Oceanside (around 3 miles north-west of Netarts) the same day, though no one was injured, and no major damage (unlike in Manzanita) was done by this tornado.
+*The sudden snow before the storm is a possible reference to Fimbulvetr from Norse mythology. Fimbulvetr is translated as "great winter" and is described as the prelude to the apocalyptic event known as Ragnarök.
+*In *[Life is Strange 2](life_is_strange_2.md)*, the storm is mentioned at [Otter Point](otter_point.md) on a sign in memory to those who died in the tornado. However, this is only seen if the player selected to have sacrificed Arcadia Bay in the original *Life is Strange*.
+*Although it's never explained what or who brings the storm into fruition, the fact that Max has a vision of the storm before her power triggers may indicate that Max's powers have no connection to the storm whatsoever, making the nature of the storm unavoidable, the nature of the Max's first vision premonitory and the final decision might be all about letting nature follow its course and wipe out Arcadia Bay, allowing Max to keep Chloe at her side or given the premonition, thwart destiny by making the ultimate sacrifice and allow Arcadia Bay to be spared.
+*In spite of Max's comment at Chloe's house in Episode 4 while looking out the window, expressing her disbelief on how such a calm weather can lead to a storm the following day, this is actually a normal reaction in the weather before a storm hits a region, hence the famous "The calm before the storm".   
+

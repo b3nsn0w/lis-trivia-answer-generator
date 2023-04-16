@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is Max's Most Frequently Used Power?",
+    "answer": "D",
+    "choices": {
+      "A": "Teleporting",
+      "B": "Future Vision",
+      "C": "Temporal Freezing",
+      "D": "Temporal Rewind"
+    }
+  },
+  {
+    "question": "What Is The Side Effect Of Max's Temporal Rewind Power?",
+    "answer": "A",
+    "choices": {
+      "A": "She Disappears And Reappears Out Of Nowhere",
+      "B": "She Becomes Invisible",
+      "C": "She Loses Her Memory",
+      "D": "She Becomes Paralyzed"
+    }
+  },
+  {
+    "question": "What Is The Limitation Of Max's Chronoskimming Ability?",
+    "answer": "B",
+    "choices": {
+      "A": "She Can Only Use It Once Per Day",
+      "B": "She Can Only Use It On Photographs Taken By Herself",
+      "C": "She Can Only Use It On Photographs Taken By Others",
+      "D": "She Can Only Use It On Photographs Where She Is Not Present"
+    }
+  },
+  {
+    "question": "What Happens To Max's Body When She Uses Her Chronoskimming Ability?",
+    "answer": "C",
+    "choices": {
+      "A": "She Becomes Invisible",
+      "B": "She Teleports To The Time Period When The Photograph Was Taken",
+      "C": "She Transfers Her Consciousness To The Time Period When The Photograph Was Taken",
+      "D": "She Freezes Time"
+    }
+  }
+]

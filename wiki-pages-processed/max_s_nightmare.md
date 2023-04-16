@@ -1,0 +1,265 @@
+#  Max's Nightmare 
+
+: ''For Chloe's dreams in [Life is Strange: Before the Storm](before_the_storm.md), see here: [Chloe's Dreams](chloe_s_dreams.md)*
+
+> There is nothing like the sense of relief after waking up from a vivid nightmare. Despite all the terrible things that have been happening this past week, I felt so free and hopeful when I finally woke up. And my nightmare was so obvious... all my fears about being an artist, about my rewind power, and, of course, about my partner in crime and time, Chloe Price..
+
+**Max Caulfield in "[Episode 5: Polarized**, Polarized](episode_5__polarized____polarized.md)"
+
+In "[Episode 5: Polarized](polarized.md)", the fifth episode of *[Life is Strange](life_is_strange.md)'', [Maxine Caulfield](max_caulfield.md) has a** **strange** nightmare**. This occurs after reuniting with [Chloe Price](chloe_price.md) at the [beach](beach.md), shortly after rewinding and convincing her not to enter the [End of the World Party](end_of_the_world_party.md). This nightmare is a reflection of all events of the week and Max's decisions, and depicts Max's feelings, especially her doubts, fears, insecurities, and feelings of guilt. Max is constantly confronted with the consequences of her choices and is accused of doing the wrong things by all appearing characters. Every important location of the week is revisited, and all characters Max met are featured in some way, especially the most important ones. It also sets a focus on [Max and Chloe](max_and_chloe.md)'s relationship, and their key moments in every episode.
+
+##  Sequences 
+
+###  Jefferson's Class 
+Max sits through the same lecture from the beginning of the game, believing she is in a time loop. However, during the lesson the windows become slowly splattered with blood from dead birds hitting them. Nobody else in the classroom notices this. Suddenly the room is empty, and the windows are clear once again. Depending on Max's success in saving [Kate Marsh](kate_marsh.md), the place where she normally would sit is either splashed with blood or full of "I WANT TO DIE" scribbles. Max can pick up the note that was thrown at Kate, but this time it reads,
+
+''"Max, if you're reading this, it means you're DEAD*
+
+*Mr. Jefferson, xoxo"''
+
+Looking out the window, Max notices dozens of dead birds lying in front of the school building. Pictures and posters in the room have changed now depicting Max in disturbing ways. The "Rachel Amber ♥ 4 ever" mark changes to "Max Caulfield ♥ 4 ever" and then "Chloe Price ♥ 4 ever" after looking at it. Max can take an [Optional Photos](optional_photo.md) of the scratches. She then wanders to the door as in the [Episode 1: Chrysalis](first_episode.md). [Mark Jefferson](jefferson.md) appears and calls her. Max is forced into a conversation with him, in which they uncomfortably discuss the events that happened in the [Dark Room (Location)](dark_room.md), and Max is forced to answer with inappropriate responses.
+
+After the conversation, he disappears and Max can leave the room. She then finds herself, not in the [Blackwell Academy Hallway](corridor_of_blackwell.md), but in the hallway of the girl's side of the [Prescott Dormitory](prescott_dormitory.md).
+
+###  Dormitory Hall 
+Max is confronted with walking down the hallway of the Dormitory towards Kate Marsh. When Max talks to her, she is abusive and blames Max for her suicide attempt. She opens her dorm room door and falls through. As it closes behind her, Max can follow. She ends up once again in the dormitory hallway. This time however, a key with a room number is visible and may be picked up on a bench by the shower room door. By looking at the number at each door and by referring to the dormitory map directory, the room number on the key is referring to [Dana's Room](dana_s_room.md). After opening Dana's room, she goes through and again finds herself at the entrance to the hallway.
+
+This time, she is dressed in [Rachel Amber](rachel_amber.md)'s clothes and the dormitory map directory will have some changes to some of the room occupants, listing Rachel Amber among the inhabitants. Max must enter through the first doorway on the left in order to progress; Rachel stayed there when she was at Blackwell. Max finds herself transformed into Victoria this time, and enters through [Victoria's Room](victoria_s_dorm_room.md) door to move on. One last time, she finds herself at the beginning of the hallways which are now covered in polaroids, while all the slates read "LOOK AT ME: I AM MAX SELFIE!". Max heads to her own room and finally enters it to appear in the hallway of Blackwell Academy.
+
+###  [Blackwell Academy](blackwell_academy.md) 
+Max finds herself in the same setting as in the first episode in the hallway. Everything in this sequence of the nightmare is backwards. Max's speech is in reverse, as well as the actions of the characters in the scene. Max moves forward as she does in Episode 1, and puts in her earphones to listen to the now reversed soundtrack of "[To All of You](to_all_of_you.md)" by Syd Matters. Max then walks down towards the bathroom, following the spirit [doe](doe.md) at the end of the corridor. Near the entrance of the bathroom, the [Science Lab](science_lab.md) skeleton with an e-cigarette on its mouth will be propped up in one corner of the common area. Upon going near the science lab skeleton, an optional photo icon will appear on the bottom right corner of the screen. Max has to press the "Open Journal" button (Tab on PC) to take a reversed optional photo of the skeleton.
+
+###  Maze 
+Upon entering the bathroom, Max finds herself in a dream-like atmosphere, with floating debris and darkened backdrops. Her outfit changes to the one she wore while in the [Zeitgeist Gallery](zeitgeist_gallery.md). With the [lighthouse](lighthouse.md) in the far off distance, she lands in a maze made up of walls with photographs from the Dark Room. Jefferson patrols the scene with a flashlight, attempting to catch her. Escaping Jefferson, she makes her way to a section with the Blackwell founder statue in the center, surrounded by gallery boards of Dark Room photos, with the voice of Ray Wells booming over loudspeakers. Max must avoid being spotted by the statue's light source, hiding behind the billboards. This leads her to a section filled with Blackwell school lockers. [Warren Graham](warren_graham.md), [Raymond Wells](principal_wells.md), [Samuel Taylor](samuel.md), [Nathan Prescott](nathan_prescott.md) and [David Madsen](david_madsen.md) patrol the spaces between the lockers, chiding at Max, calling for her to come out, and saying negative things about her. The Blackwell campus directions sign points in three different ways, but every arrow leads to "DARK ROOM".  At one part of the locker area near Samuel's patrol spot, Max may discover Warren's locker. Upon opening the locker, Max will discover the interior of the locker is filled with pictures of Max in various swimwear. Max may take an optional photo of the interior of the locker.
+
+Once past the patrols, Max finds herself in a nightmare version of the [American Rust Junkyard](american_rust_junkyard.md). Jefferson, Nathan and [Frank Bowers](frank_bowers.md) patrol here, looking for Max and making hurtful comments and observations. Here, Max can collect five bottles in order to line them up for an optional photo. There is also the opportunity for a [Moment of Calm (Life is Strange)](moment_of_peace.md), with a "sit" option beside the [hideout](hideout.md) Chloe and Rachel inhabited. After making her way through here, Max heads towards the bench beside the lighthouse and sits.
+
+###  Chloe's House 
+While Max is sitting on the bench, it begins to snow. Max finds herself trapped in the Snow Globe sitting on the mantelpiece in the [Alternative Price Household](price_household.md) when they were kids. She oversees the scene of her younger self tearing up the photograph of her and Chloe, and again witnessing [William Price](william_price.md) leave the house. She will receive a text from William which reads:
+
+''"Hey Max, would you say hi to Chloe and Joyce? Don't forget to remind them that you let me die."''
+
+Max's Journal is then corrupted, the entries become violent, contorted and filled with Jefferson quotes. Max's mobile phone will receive texts from [Alternative Timeline (Life is Strange)](alternative_timeline.md) Chloe, Nathan, Rachel, Samuel and [Pompidou](pompidou.md).
+
+Max's surroundings fade and she is transported to the Dark Room, where she is once again restrained, and is dressed in her pajamas.
+
+###  Dark Room 
+As Max stated in her journal entry, the main focus of this nightmare section was Chloe Price. 
+The first parts of it were perceived by Max from the conversation between Jefferson and Chloe in [Episode 4: Dark Room](episode_4_.md) which has turned into Max's insecurities since this nightmare includes Chloe talking with other people flirtatiously, calling Max names; other people catching Chloe's attention rather than Max which shows Max's fear of feeling inadequate for Chloe.
+
+This part of the nightmare starts with Max sitting restrained to the chair, she witnesses many weird character dialogues. First, Chloe and Jefferson talk about modeling. Jefferson compliments Chloe and they both say insulting things about Max, including everyone at Blackwell being over Max. Chloe and Warren then discuss being into each other rather than Max, and they kiss. The next scene is about Nathan and Chloe, Nathan calls Chloe sexy, asks why she hangs out with Max and they arrange to party and do drugs with each other. Chloe then dances in her underwear on the sofa for Max. Victoria appears; Chloe flirts with her, calling her a real woman, not a little girl like Max. Victoria says Chloe is hot and they start making out with each other. Then Chloe appears in her paraplegic state, and insults Max further. Chloe, healthy again, then takes pictures of Max, wishing she had never returned to [Arcadia Bay](arcadia_bay.md). A flash of the camera transports Max to a new location.
+
+###  Two Whales Diner 
+In the [Two Whales Diner](diner.md) bathroom, Max attempts to unlock a coded door. If she fails, the room becomes crowded with graffiti of numbers. The correct code appears in the mirror, which only reflects a single code, which is Chloe's birthday. Max's outfit is the one she wore in the "Dark Room". Max leaves the bathroom to find the diner filled with the town's residents. Each one of them remarks on how bad a job she's doing, and begs her to save them. Max makes her way to the same booth from earlier in the game to talk to the only animated character there: herself.
+
+This is one of the "Maxes she's left behind" who insults her, making it clear that she hasn't used her rewind powers for good. This "other Max" looks identical to Max from [Episode 2: Out of Time](episode_2.md). Chloe enters, and defends Max for the first time during the nightmare. It is possible that this is reality sinking through, as Chloe encourages the real Max outside of the nightmare. A flash later, and Max finds herself in a dark space highlighted by the key moments in the week shared between her and Chloe.
+
+###  Max and Chloe's Key Moments 
+The moments, which appear as frozen tableaus with dialogue, are as follows:
+* Chloe and Max in [Chloe's Truck](her_pickup_truck.md), reunited for the first time.
+* Chloe giving Max William's camera.
+* Chloe dancing on the bed while Max snaps a photo.
+* The moment on the bench by the lighthouse.
+* Max proving her powers in the Diner booth.
+* The girls on the hood of a car as Chloe helps her after passing out.
+* Chloe being saved by Max on the train tracks.
+* The two holding hands and walking along the train tracks.
+* The two breaking into [Raymond Wells](principal_wells.md)' Office.
+* Max reading the computer in the office, berating Chloe from stealing the cosy chair.
+* Max jumping into the [Blackwell Swimming Pool](blackwell_swimming_pool.md) with Chloe.
+* The pair running out of the pool to hide from security.
+* The photobomb moment between the girls.
+* The kiss dare moment.
+* Chloe and Max in [Frank's RV](frank_s_rv.md).
+* Chloe and Max in their childhood.
+* Max and Chloe on the beach in the alternate timeline.
+* Chloe in bed, asking Max to end her life.
+* Max excited that Chloe is alive in the Original [timeline](timeline.md).
+* The discovery of the binders in the [Episode 4: Dark Room](dark_room.md).
+* The discovery of Rachel's body.
+* Chloe carrying Max up to the lighthouse.
+
+The nightmare ends as Max merges with herself in the last memory.
+
+##  Character Depiction 
+### Max
+An important part of Max's nightmare is her self-confrontation in the diner.
+
+###  Chloe 
+Chloe appears several times during the nightmare, and is particularly prominent towards the end. She is depicted in most scenes in a harsh manner, telling Max that she is unworthy of her attentions, or that she should never have come back to Arcadia Bay. Her abandonment issues are accentuated, meant to play on Max's guilty conscience. She is also displayed in a more romantic manner during some scenes; bizarrely hooking up with different characters. This is a representation of one of Max's insecurities. One of the final scenes in the diner, however, showcase Chloe as the sole person who defends Max and looks out for her. The scene is followed by heartfelt and prominent moments between the two girls, revealing how close a relationship Max and Chloe have rekindled during the week.
+
+###  Mark Jefferson 
+Jefferson is depicted as his real self, albeit with his evil and creepy traits exaggerated. He first appears in the lecture, starting normally. Later he shows his true side, talking to Max in a very dark and creepy manner. Later he is the first of the people searching for Max, saying how he wants to take her back to the Dark Room. After that, he is shown again in the Dark Room, taking photos of Chloe.
+
+###  Warren 
+Warren is mostly seen as a desperate lover in the nightmare. During the maze sequence, he shouts at Max in a threatening way, asking her to Go Ape with him, and go to the movies in his car. He is more forceful than in real life, and his voice is more distorted than usual. He is also depicted in a scene with Chloe, in which he disregards Max entirely, opting to make fun of her and ogles Chloe instead.
+
+###  Nathan 
+Nathan is seen as a threatening figure throughout the nightmare. He is one of the scary figures on the search for Max in the maze sequence, and appears briefly in a scene with Chloe, similar to that of Warren.
+
+###  Kate 
+Kate is also seen in a negative and threatening way. In the classroom at the beginning of the nightmare, she is in her regular seat and is humiliated by her classmates as usual. However, in the dormitory hallways she makes hurtful comments towards Max, blaming her for her death, or her loneliness as a result of her family smothering her after her suicide attempt. Either way, she is mean to Max and falls through the door.
+
+###  David 
+David is depicted in a threatening manner too; he is one of the people searching for Max in the maze sequence. He makes hurtful comments as with all the other characters, the dialogue clearly meant to play on Max's conscience again.
+
+###  Principal Wells 
+Principal Wells is featured in a section of the maze as the statues. He makes comments about his alcoholism, and is alerting the school about Max being on the run; he blames her for the deaths of both Rachel and Chloe. He also appears as one of the searchers in the maze scene, wishing he had given Max's scholarship to Victoria etc. In the diner scene of the nightmare, he says that he hasn't been the best principal, but Max has indeed been the best Everyday Hero for everyone.
+
+##  Interpretation 
+The [storm](storm.md) in Arcadia Bay is the ultimate culmination of Max's choice between personal desires and the greater good. The nightmare serves to emphasize the consequences of Max's actions for many of the instances she has used her rewind power, and how it affects other characters other than just herself.
+
+The dialogue is particularly creepy, probably to amplify the distressing nature of the nightmare, and to present exaggerated, but entirely possible, opinions of the people in Max's life.
+
+Chloe becomes a key feature in the nightmare, particularly towards the end. This creates more tension as the ultimate choice between Chloe's life and the greater good makes itself gradually more apparent. Chloe is also one of the only characters Max meets who acts in a positive manner in any way towards Max (and only during the scene in the diner at the end of the nightmare). This could emphasize that Chloe is the figure she cares most about in her life.
+
+##  Trivia 
+* In the reversed Blackwell Academy sequence of Max's nightmare, you can hear and see things normally if Max uses her rewind power in this scene.
+*If Max takes too long to find the key, in the girls dormitories, she will actually ask for Chloe's help; "Chloe, please help me." Another sign of the deepening bond between the girls.
+*In the same sequence, there are dead whales outside the dormitories in every hallway Max enters, except in the last part, when Max reemerges as herself.
+*The characters that weren't originally talking in Episode 1 say things they already said during the game. These characters are: [Evan Harris](evan.md), [Alyssa Anderson](alyssa.md), [Stella Hill](stella.md), Trevor and Principal Wells.
+*A glimpse of the red folders at the end of "[Episode 1: Chrysalis](chrysalis.md)" reveals that the folder immediately before the one marked "Rachel" is marked with the name "Kelly". When Rachel Amber was attending Blackwell Academy, a girl called Kelly Davis was staying in room 217 which is the room directly opposite Rachel Amber's old room (224) and next door to [Dana Ward](dana_ward.md)'s room (218). These room residents are visible on the [Media:Dormmap2.png](dormitory_floor_plan.md) that appears in a section of the nightmare. It has been confirmed by [DONTNOD](dontnod.md) that these two are the same Kelly.
+*Tara Garcia, Kelly Davis, Lyla Lee, Hadley Wright are all supposed to be previous students of Blackwell who were there before Max even arrived. But since she never saw their names anywhere during the game, their real existence is debatable, they could all be figments of Max's imagination (except for Kelly, as mentioned above). Or it would mean the nightmare sequence was more than just a dream.
+*The solely reflected "0311" in the diner's restroom mirror places strong emphasis on Max's closeness to Chloe, as March 11th is Chloe's birthday. This compliments the time Chloe remembered Max's birthday in the first episode. It is perhaps no small coincidence that this is the number that frees Max from this room.
+**"0311" could also be a reference to the 2011 Tōhoku earthquake that occurred on 11 March 2011, which fits the dark and catastrophic atmosphere of the nightmare.
+**If you enter the incorrect code **50 times**, the door will open and Max will say, "I'm going to make the designers pay for all these bullshit code puzzles!" (A fun example of Max [Easter_Eggs_(Life is Strange)#Breaking_the_Fourth_Wall](breaking_the_fourth_wall.md).)
+*According to unused voiced lines, William Price was in the maze sequence too, but he was removed for unknown reasons.
+*Rachel was supposed to have several lines of dialogue during the nightmare sequence. No voice actor ever recorded those though.[File:Headphones.png](16px.md)[File:Headphones.png](16px.md)
+*Max's doppelganger is referred to as "Max Ghost" in the game files.
+*Max's doppelganger adopts a disdainful posture which is reminiscent of the cross-legged posture Victoria adopted during the art class. It is possible "Max Ghost" is the embodiment of Max's subconscious, so judgmental that Max made an involuntary comparison with Victoria.
+*There is a strong possibility the nightmare sequence lasted exactly the same time as Chloe needed to bring Max from the beach to the lighthouse. This trip takes 15 minutes on normal conditions. Taking into account the terrible weather and Max's deadweight, Chloe could have taken as much as 30 minutes, if not 60 to reach the lighthouse. This is roughly the time needed to complete the nightmare sequence. Usually, dreams don't end in a proper way. On the contrary, Max's nightmare makes a perfect transition with reality: Chloe and Max arriving at the lighthouse. It can be explained if Max was dreaming the whole time in a half-awoken state, unconsciously registering her environment to shape the nightmare. In this case time would likely flow at the same speed in the nightmare as it would in reality. 
+*According to [Jean-Luc Cano](jean_luc_cano.md), co-writer of Life is Strange, the nightmare sequence was originally supposed to take place at the beginning of the third episode instead of the fifth episode. [https://www.hautbasgauchedroite.fr/fr/podcast/228/P226-le-role-du-scenario-et-du-scenariste-dans-le-developpement-d-un-jeu #226 - Le rôle du scénariste dans le développement d'un jeu (Life is Strange) et l'évolution du scénario dans le temps]
+*The Everyday Zeroes poster inspired a real-life supportive community [Everyday Zeroes](of_the_same_name.md) on Twitter.
+ Max's Nightmare # 
+
+: ''For Chloe's dreams in [Life is Strange: Before the Storm](before_the_storm.md), see here: [Chloe's Dreams](chloe_s_dreams.md)*
+
+> There is nothing like the sense of relief after waking up from a vivid nightmare. Despite all the terrible things that have been happening this past week, I felt so free and hopeful when I finally woke up. And my nightmare was so obvious... all my fears about being an artist, about my rewind power, and, of course, about my partner in crime and time, Chloe Price..
+
+**Max Caulfield in "[Episode 5: Polarized**, Polarized](episode_5__polarized____polarized.md)"
+
+In "[Episode 5: Polarized](polarized.md)", the fifth episode of *[Life is Strange](life_is_strange.md)'', [Maxine Caulfield](max_caulfield.md) has a** **strange** nightmare**. This occurs after reuniting with [Chloe Price](chloe_price.md) at the [beach](beach.md), shortly after rewinding and convincing her not to enter the [End of the World Party](end_of_the_world_party.md). This nightmare is a reflection of all events of the week and Max's decisions, and depicts Max's feelings, especially her doubts, fears, insecurities, and feelings of guilt. Max is constantly confronted with the consequences of her choices and is accused of doing the wrong things by all appearing characters. Every important location of the week is revisited, and all characters Max met are featured in some way, especially the most important ones. It also sets a focus on [Max and Chloe](max_and_chloe.md)'s relationship, and their key moments in every episode.
+
+##  Sequences 
+
+###  Jefferson's Class 
+Max sits through the same lecture from the beginning of the game, believing she is in a time loop. However, during the lesson the windows become slowly splattered with blood from dead birds hitting them. Nobody else in the classroom notices this. Suddenly the room is empty, and the windows are clear once again. Depending on Max's success in saving [Kate Marsh](kate_marsh.md), the place where she normally would sit is either splashed with blood or full of "I WANT TO DIE" scribbles. Max can pick up the note that was thrown at Kate, but this time it reads,
+
+''"Max, if you're reading this, it means you're DEAD*
+
+*Mr. Jefferson, xoxo"''
+
+Looking out the window, Max notices dozens of dead birds lying in front of the school building. Pictures and posters in the room have changed now depicting Max in disturbing ways. The "Rachel Amber ♥ 4 ever" mark changes to "Max Caulfield ♥ 4 ever" and then "Chloe Price ♥ 4 ever" after looking at it. Max can take an [Optional Photos](optional_photo.md) of the scratches. She then wanders to the door as in the [Episode 1: Chrysalis](first_episode.md). [Mark Jefferson](jefferson.md) appears and calls her. Max is forced into a conversation with him, in which they uncomfortably discuss the events that happened in the [Dark Room (Location)](dark_room.md), and Max is forced to answer with inappropriate responses.
+
+After the conversation, he disappears and Max can leave the room. She then finds herself, not in the [Blackwell Academy Hallway](corridor_of_blackwell.md), but in the hallway of the girl's side of the [Prescott Dormitory](prescott_dormitory.md).
+
+###  Dormitory Hall 
+Max is confronted with walking down the hallway of the Dormitory towards Kate Marsh. When Max talks to her, she is abusive and blames Max for her suicide attempt. She opens her dorm room door and falls through. As it closes behind her, Max can follow. She ends up once again in the dormitory hallway. This time however, a key with a room number is visible and may be picked up on a bench by the shower room door. By looking at the number at each door and by referring to the dormitory map directory, the room number on the key is referring to [Dana's Room](dana_s_room.md). After opening Dana's room, she goes through and again finds herself at the entrance to the hallway.
+
+This time, she is dressed in [Rachel Amber](rachel_amber.md)'s clothes and the dormitory map directory will have some changes to some of the room occupants, listing Rachel Amber among the inhabitants. Max must enter through the first doorway on the left in order to progress; Rachel stayed there when she was at Blackwell. Max finds herself transformed into Victoria this time, and enters through [Victoria's Room](victoria_s_dorm_room.md) door to move on. One last time, she finds herself at the beginning of the hallways which are now covered in polaroids, while all the slates read "LOOK AT ME: I AM MAX SELFIE!". Max heads to her own room and finally enters it to appear in the hallway of Blackwell Academy.
+
+###  [Blackwell Academy](blackwell_academy.md) 
+Max finds herself in the same setting as in the first episode in the hallway. Everything in this sequence of the nightmare is backwards. Max's speech is in reverse, as well as the actions of the characters in the scene. Max moves forward as she does in Episode 1, and puts in her earphones to listen to the now reversed soundtrack of "[To All of You](to_all_of_you.md)" by Syd Matters. Max then walks down towards the bathroom, following the spirit [doe](doe.md) at the end of the corridor. Near the entrance of the bathroom, the [Science Lab](science_lab.md) skeleton with an e-cigarette on its mouth will be propped up in one corner of the common area. Upon going near the science lab skeleton, an optional photo icon will appear on the bottom right corner of the screen. Max has to press the "Open Journal" button (Tab on PC) to take a reversed optional photo of the skeleton.
+
+###  Maze 
+Upon entering the bathroom, Max finds herself in a dream-like atmosphere, with floating debris and darkened backdrops. Her outfit changes to the one she wore while in the [Zeitgeist Gallery](zeitgeist_gallery.md). With the [lighthouse](lighthouse.md) in the far off distance, she lands in a maze made up of walls with photographs from the Dark Room. Jefferson patrols the scene with a flashlight, attempting to catch her. Escaping Jefferson, she makes her way to a section with the Blackwell founder statue in the center, surrounded by gallery boards of Dark Room photos, with the voice of Ray Wells booming over loudspeakers. Max must avoid being spotted by the statue's light source, hiding behind the billboards. This leads her to a section filled with Blackwell school lockers. [Warren Graham](warren_graham.md), [Raymond Wells](principal_wells.md), [Samuel Taylor](samuel.md), [Nathan Prescott](nathan_prescott.md) and [David Madsen](david_madsen.md) patrol the spaces between the lockers, chiding at Max, calling for her to come out, and saying negative things about her. The Blackwell campus directions sign points in three different ways, but every arrow leads to "DARK ROOM".  At one part of the locker area near Samuel's patrol spot, Max may discover Warren's locker. Upon opening the locker, Max will discover the interior of the locker is filled with pictures of Max in various swimwear. Max may take an optional photo of the interior of the locker.
+
+Once past the patrols, Max finds herself in a nightmare version of the [American Rust Junkyard](american_rust_junkyard.md). Jefferson, Nathan and [Frank Bowers](frank_bowers.md) patrol here, looking for Max and making hurtful comments and observations. Here, Max can collect five bottles in order to line them up for an optional photo. There is also the opportunity for a [Moment of Calm (Life is Strange)](moment_of_peace.md), with a "sit" option beside the [hideout](hideout.md) Chloe and Rachel inhabited. After making her way through here, Max heads towards the bench beside the lighthouse and sits.
+
+###  Chloe's House 
+While Max is sitting on the bench, it begins to snow. Max finds herself trapped in the Snow Globe sitting on the mantelpiece in the [Alternative Price Household](price_household.md) when they were kids. She oversees the scene of her younger self tearing up the photograph of her and Chloe, and again witnessing [William Price](william_price.md) leave the house. She will receive a text from William which reads:
+
+''"Hey Max, would you say hi to Chloe and Joyce? Don't forget to remind them that you let me die."''
+
+Max's Journal is then corrupted, the entries become violent, contorted and filled with Jefferson quotes. Max's mobile phone will receive texts from [Alternative Timeline (Life is Strange)](alternative_timeline.md) Chloe, Nathan, Rachel, Samuel and [Pompidou](pompidou.md).
+
+Max's surroundings fade and she is transported to the Dark Room, where she is once again restrained, and is dressed in her pajamas.
+
+###  Dark Room 
+As Max stated in her journal entry, the main focus of this nightmare section was Chloe Price. 
+The first parts of it were perceived by Max from the conversation between Jefferson and Chloe in [Episode 4: Dark Room](episode_4_.md) which has turned into Max's insecurities since this nightmare includes Chloe talking with other people flirtatiously, calling Max names; other people catching Chloe's attention rather than Max which shows Max's fear of feeling inadequate for Chloe.
+
+This part of the nightmare starts with Max sitting restrained to the chair, she witnesses many weird character dialogues. First, Chloe and Jefferson talk about modeling. Jefferson compliments Chloe and they both say insulting things about Max, including everyone at Blackwell being over Max. Chloe and Warren then discuss being into each other rather than Max, and they kiss. The next scene is about Nathan and Chloe, Nathan calls Chloe sexy, asks why she hangs out with Max and they arrange to party and do drugs with each other. Chloe then dances in her underwear on the sofa for Max. Victoria appears; Chloe flirts with her, calling her a real woman, not a little girl like Max. Victoria says Chloe is hot and they start making out with each other. Then Chloe appears in her paraplegic state, and insults Max further. Chloe, healthy again, then takes pictures of Max, wishing she had never returned to [Arcadia Bay](arcadia_bay.md). A flash of the camera transports Max to a new location.
+
+###  Two Whales Diner 
+In the [Two Whales Diner](diner.md) bathroom, Max attempts to unlock a coded door. If she fails, the room becomes crowded with graffiti of numbers. The correct code appears in the mirror, which only reflects a single code, which is Chloe's birthday. Max's outfit is the one she wore in the "Dark Room". Max leaves the bathroom to find the diner filled with the town's residents. Each one of them remarks on how bad a job she's doing, and begs her to save them. Max makes her way to the same booth from earlier in the game to talk to the only animated character there: herself.
+
+This is one of the "Maxes she's left behind" who insults her, making it clear that she hasn't used her rewind powers for good. This "other Max" looks identical to Max from [Episode 2: Out of Time](episode_2.md). Chloe enters, and defends Max for the first time during the nightmare. It is possible that this is reality sinking through, as Chloe encourages the real Max outside of the nightmare. A flash later, and Max finds herself in a dark space highlighted by the key moments in the week shared between her and Chloe.
+
+###  Max and Chloe's Key Moments 
+The moments, which appear as frozen tableaus with dialogue, are as follows:
+* Chloe and Max in [Chloe's Truck](her_pickup_truck.md), reunited for the first time.
+* Chloe giving Max William's camera.
+* Chloe dancing on the bed while Max snaps a photo.
+* The moment on the bench by the lighthouse.
+* Max proving her powers in the Diner booth.
+* The girls on the hood of a car as Chloe helps her after passing out.
+* Chloe being saved by Max on the train tracks.
+* The two holding hands and walking along the train tracks.
+* The two breaking into [Raymond Wells](principal_wells.md)' Office.
+* Max reading the computer in the office, berating Chloe from stealing the cosy chair.
+* Max jumping into the [Blackwell Swimming Pool](blackwell_swimming_pool.md) with Chloe.
+* The pair running out of the pool to hide from security.
+* The photobomb moment between the girls.
+* The kiss dare moment.
+* Chloe and Max in [Frank's RV](frank_s_rv.md).
+* Chloe and Max in their childhood.
+* Max and Chloe on the beach in the alternate timeline.
+* Chloe in bed, asking Max to end her life.
+* Max excited that Chloe is alive in the Original [timeline](timeline.md).
+* The discovery of the binders in the [Episode 4: Dark Room](dark_room.md).
+* The discovery of Rachel's body.
+* Chloe carrying Max up to the lighthouse.
+
+The nightmare ends as Max merges with herself in the last memory.
+
+##  Character Depiction 
+### Max
+An important part of Max's nightmare is her self-confrontation in the diner.
+
+###  Chloe 
+Chloe appears several times during the nightmare, and is particularly prominent towards the end. She is depicted in most scenes in a harsh manner, telling Max that she is unworthy of her attentions, or that she should never have come back to Arcadia Bay. Her abandonment issues are accentuated, meant to play on Max's guilty conscience. She is also displayed in a more romantic manner during some scenes; bizarrely hooking up with different characters. This is a representation of one of Max's insecurities. One of the final scenes in the diner, however, showcase Chloe as the sole person who defends Max and looks out for her. The scene is followed by heartfelt and prominent moments between the two girls, revealing how close a relationship Max and Chloe have rekindled during the week.
+
+###  Mark Jefferson 
+Jefferson is depicted as his real self, albeit with his evil and creepy traits exaggerated. He first appears in the lecture, starting normally. Later he shows his true side, talking to Max in a very dark and creepy manner. Later he is the first of the people searching for Max, saying how he wants to take her back to the Dark Room. After that, he is shown again in the Dark Room, taking photos of Chloe.
+
+###  Warren 
+Warren is mostly seen as a desperate lover in the nightmare. During the maze sequence, he shouts at Max in a threatening way, asking her to Go Ape with him, and go to the movies in his car. He is more forceful than in real life, and his voice is more distorted than usual. He is also depicted in a scene with Chloe, in which he disregards Max entirely, opting to make fun of her and ogles Chloe instead.
+
+###  Nathan 
+Nathan is seen as a threatening figure throughout the nightmare. He is one of the scary figures on the search for Max in the maze sequence, and appears briefly in a scene with Chloe, similar to that of Warren.
+
+###  Kate 
+Kate is also seen in a negative and threatening way. In the classroom at the beginning of the nightmare, she is in her regular seat and is humiliated by her classmates as usual. However, in the dormitory hallways she makes hurtful comments towards Max, blaming her for her death, or her loneliness as a result of her family smothering her after her suicide attempt. Either way, she is mean to Max and falls through the door.
+
+###  David 
+David is depicted in a threatening manner too; he is one of the people searching for Max in the maze sequence. He makes hurtful comments as with all the other characters, the dialogue clearly meant to play on Max's conscience again.
+
+###  Principal Wells 
+Principal Wells is featured in a section of the maze as the statues. He makes comments about his alcoholism, and is alerting the school about Max being on the run; he blames her for the deaths of both Rachel and Chloe. He also appears as one of the searchers in the maze scene, wishing he had given Max's scholarship to Victoria etc. In the diner scene of the nightmare, he says that he hasn't been the best principal, but Max has indeed been the best Everyday Hero for everyone.
+
+##  Interpretation 
+The [storm](storm.md) in Arcadia Bay is the ultimate culmination of Max's choice between personal desires and the greater good. The nightmare serves to emphasize the consequences of Max's actions for many of the instances she has used her rewind power, and how it affects other characters other than just herself.
+
+The dialogue is particularly creepy, probably to amplify the distressing nature of the nightmare, and to present exaggerated, but entirely possible, opinions of the people in Max's life.
+
+Chloe becomes a key feature in the nightmare, particularly towards the end. This creates more tension as the ultimate choice between Chloe's life and the greater good makes itself gradually more apparent. Chloe is also one of the only characters Max meets who acts in a positive manner in any way towards Max (and only during the scene in the diner at the end of the nightmare). This could emphasize that Chloe is the figure she cares most about in her life.
+
+##  Trivia 
+* In the reversed Blackwell Academy sequence of Max's nightmare, you can hear and see things normally if Max uses her rewind power in this scene.
+*If Max takes too long to find the key, in the girls dormitories, she will actually ask for Chloe's help; "Chloe, please help me." Another sign of the deepening bond between the girls.
+*In the same sequence, there are dead whales outside the dormitories in every hallway Max enters, except in the last part, when Max reemerges as herself.
+*The characters that weren't originally talking in Episode 1 say things they already said during the game. These characters are: [Evan Harris](evan.md), [Alyssa Anderson](alyssa.md), [Stella Hill](stella.md), Trevor and Principal Wells.
+*A glimpse of the red folders at the end of "[Episode 1: Chrysalis](chrysalis.md)" reveals that the folder immediately before the one marked "Rachel" is marked with the name "Kelly". When Rachel Amber was attending Blackwell Academy, a girl called Kelly Davis was staying in room 217 which is the room directly opposite Rachel Amber's old room (224) and next door to [Dana Ward](dana_ward.md)'s room (218). These room residents are visible on the [Media:Dormmap2.png](dormitory_floor_plan.md) that appears in a section of the nightmare. It has been confirmed by [DONTNOD](dontnod.md) that these two are the same Kelly.
+*Tara Garcia, Kelly Davis, Lyla Lee, Hadley Wright are all supposed to be previous students of Blackwell who were there before Max even arrived. But since she never saw their names anywhere during the game, their real existence is debatable, they could all be figments of Max's imagination (except for Kelly, as mentioned above). Or it would mean the nightmare sequence was more than just a dream.
+*The solely reflected "0311" in the diner's restroom mirror places strong emphasis on Max's closeness to Chloe, as March 11th is Chloe's birthday. This compliments the time Chloe remembered Max's birthday in the first episode. It is perhaps no small coincidence that this is the number that frees Max from this room.
+**"0311" could also be a reference to the 2011 Tōhoku earthquake that occurred on 11 March 2011, which fits the dark and catastrophic atmosphere of the nightmare.
+**If you enter the incorrect code **50 times**, the door will open and Max will say, "I'm going to make the designers pay for all these bullshit code puzzles!" (A fun example of Max [Easter_Eggs_(Life is Strange)#Breaking_the_Fourth_Wall](breaking_the_fourth_wall.md).)
+*According to unused voiced lines, William Price was in the maze sequence too, but he was removed for unknown reasons.
+*Rachel was supposed to have several lines of dialogue during the nightmare sequence. No voice actor ever recorded those though.[File:Headphones.png](16px.md)[File:Headphones.png](16px.md)
+*Max's doppelganger is referred to as "Max Ghost" in the game files.
+*Max's doppelganger adopts a disdainful posture which is reminiscent of the cross-legged posture Victoria adopted during the art class. It is possible "Max Ghost" is the embodiment of Max's subconscious, so judgmental that Max made an involuntary comparison with Victoria.
+*There is a strong possibility the nightmare sequence lasted exactly the same time as Chloe needed to bring Max from the beach to the lighthouse. This trip takes 15 minutes on normal conditions. Taking into account the terrible weather and Max's deadweight, Chloe could have taken as much as 30 minutes, if not 60 to reach the lighthouse. This is roughly the time needed to complete the nightmare sequence. Usually, dreams don't end in a proper way. On the contrary, Max's nightmare makes a perfect transition with reality: Chloe and Max arriving at the lighthouse. It can be explained if Max was dreaming the whole time in a half-awoken state, unconsciously registering her environment to shape the nightmare. In this case time would likely flow at the same speed in the nightmare as it would in reality. 
+*According to [Jean-Luc Cano](jean_luc_cano.md), co-writer of Life is Strange, the nightmare sequence was originally supposed to take place at the beginning of the third episode instead of the fifth episode. [https://www.hautbasgauchedroite.fr/fr/podcast/228/P226-le-role-du-scenario-et-du-scenariste-dans-le-developpement-d-un-jeu #226 - Le rôle du scénariste dans le développement d'un jeu (Life is Strange) et l'évolution du scénario dans le temps]
+*The Everyday Zeroes poster inspired a real-life supportive community [Everyday Zeroes](of_the_same_name.md) on Twitter.
+

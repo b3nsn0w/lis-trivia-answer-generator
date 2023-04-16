@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the alternative meaning of the term \"Dark Room\"?",
+    "answer": "B",
+    "choices": {
+      "A": "A room used to develop photographic materials",
+      "B": "A dark lit room where sexual acts take place in clubs",
+      "C": "A room where people go to meditate",
+      "D": "A room used for storage"
+    }
+  },
+  {
+    "question": "What is the meaning of the blue awareness ribbon on the photo album in Alternative Chloe's room?",
+    "answer": "A",
+    "choices": {
+      "A": "It represents a medical condition called ARDS",
+      "B": "It represents a mental health condition",
+      "C": "It represents a charity organization",
+      "D": "It represents a political movement"
+    }
+  },
+  {
+    "question": "What is the reference to H. P. Lovecraft's story in the alternative timeline?",
+    "answer": "A",
+    "choices": {
+      "A": "A letter from Principle Wells suggesting Chloe attend the H. West Miskatonic Institute",
+      "B": "A conversation between Max and Chloe about the \"Golden Hour\"",
+      "C": "A graffiti message in the wrecked den",
+      "D": "An invoice for the bunker from \"Howard Roark Construction\""
+    }
+  },
+  {
+    "question": "What is the unused in-game choice graphic called in Episode 4?",
+    "answer": "A",
+    "choices": {
+      "A": "TX_MinChoice_E4_5A_NathanDoor",
+      "B": "Dark_Room_Achievement",
+      "C": "Ambient_Achievement",
+      "D": "Time-Lapsed_Achievement"
+    }
+  },
+  {
+    "question": "What does the end of the credits say in Episode 4?",
+    "answer": "B",
+    "choices": {
+      "A": "Thanks for playing",
+      "B": "Thanks for crying",
+      "C": "Thanks for watching",
+      "D": "Thanks for listening"
+    }
+  }
+]

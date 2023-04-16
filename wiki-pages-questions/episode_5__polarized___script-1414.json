@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is the name of the photographer mentioned in the Photography Lab?",
+    "answer": "B",
+    "choices": {
+      "A": "Alfred Hitchcock",
+      "B": "Diane Arbus",
+      "C": "Ansel Adams",
+      "D": "Annie Leibovitz"
+    }
+  },
+  {
+    "question": "What does Max see outside the window in the Photography Lab?",
+    "answer": "A",
+    "choices": {
+      "A": "Dead birds",
+      "B": "A storm",
+      "C": "A car accident",
+      "D": "A fire"
+    }
+  },
+  {
+    "question": "What does Mr. Jefferson offer to Max in the Photography Lab?",
+    "answer": "B",
+    "choices": {
+      "A": "To be her friend",
+      "B": "To make her his model for life and death",
+      "C": "To teach her how to take better selfies",
+      "D": "To help her escape the time loop"
+    }
+  }
+]

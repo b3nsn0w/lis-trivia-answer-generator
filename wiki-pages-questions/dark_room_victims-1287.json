@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Whose Name Appears On The Binder Right Before Rachel Amber's?",
+    "answer": "A",
+    "choices": {
+      "A": "Kelly Davis",
+      "B": "Victoria Chase",
+      "C": "Megan Weaver",
+      "D": "Kate Marsh"
+    }
+  },
+  {
+    "question": "In Which Episode Do Max And Chloe Find The Binders In The Dark Room?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 3: Chaos Theory",
+      "D": "Episode 4: Dark Room"
+    }
+  },
+  {
+    "question": "Who Warned Victoria Chase About Nathan Prescott In Episode 4?",
+    "answer": "A",
+    "choices": {
+      "A": "Max Caulfield",
+      "B": "Chloe Price",
+      "C": "Rachel Amber",
+      "D": "Kate Marsh"
+    }
+  },
+  {
+    "question": "In Which Episode Does Max Inhabit The Clothing Of Rachel Amber And See The Dormitory Floor Plan?",
+    "answer": "D",
+    "choices": {
+      "A": "Episode 1: Chrysalis",
+      "B": "Episode 2: Out of Time",
+      "C": "Episode 4: Dark Room",
+      "D": "Episode 5: Polarized"
+    }
+  }
+]

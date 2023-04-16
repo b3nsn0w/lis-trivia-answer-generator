@@ -1,0 +1,40 @@
+Here is a section of the wiki page for Moment of Calm (Life is Strange):
+
+## Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+{| class# "wikitable" style"border: 1px solid #57333F; background: transparent; width:100%"
+! Location
+! Max's comments
+|-
+| [File:Moc-maxsbed-ep2.jpg](220px.md)**Beginning of episode (Max’s bed)**.||"I am so wrecked after staying up all night... I could use my rewind to catch a few more z's, but maybe I better save my strength..."
+|-
+| [File:Moc-guitar-ep2.jpg](220px.md)Max’s guitar.||None (Max plays "[Something Good](something_good.md)").
+|-
+| [File:Moc-chair-ep2.jpg](220px.md)Chair on top of a boat in the[American Rust Junkyard](american_rust_junkyard.md).||"Although this junkyard is a dive, I see why Chloe hangs here... She's a steam-punk... It actually feels like Chloe and I are kids again, we're hiding out and plotting our future... Despite all the chaos and bullshit, I feel so giddy hanging out with her again... So happy... Like we've both gone back in time..."
+|-
+| [File:Moc-stump-ep2.jpg](220px.md)Stump in the far end of the junkyard.||"It's so quiet and primordial out here... I always feel like the forest is whispering to me... Like [Arcadia Bay](arcadia_bay.md) is trying to tell me something... I just have to figure out the message..."
+|}
+
+## Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+{| class# "wikitable" style"border: 1px solid #57333F; background: transparent; width:100%"
+! Location
+! Max's comments
+|-
+| [File:Moc-bench-ep3.jpg](220px.md)Bench outside the dormitory building.||Kate survived# Kate survived"I feel so giddy even after [Kate Marsh](kate.md) almost jumped. Maybe it's the leftover adrenaline... But I feel kind of invincible now."
+|-|Kate is deadKate is dead"What the hell am I doing out here? [Kate Marsh](kate.md) is dead and I'm sneaking around... This campus looks like a cemetery..."
+|-
+| [File:Moc-morning-ep3.jpg](220px.md)**Morning after [Blackwell Swimming Pool](pool.md) scene(Chloe’s bed in her room).**||Chat between Max and Chloe about last night’s events: 
+
+**Chloe: **"I am so wiped out from last night. But it was awesome."
+**Max: **"I have to ponder what kind of criminal I've become."
+**Chloe: **"Last night was only the tip of the iceberg."
+**Max: **"I have to admit, it was pretty cool to take over the Blackwell gym."
+**Chloe: **"Today the gym, tomorrow the world. We need to step it up."
+**Max: **"We still have to be careful how I use my power... I don't want to get stuck in time."
+
+|-
+| [File:Moc-swing-ep3.jpg](220px.md)Swing in the backyard of Chloe’s house.||"I remember when Chloe and me would take turns in the swing... We would push each other hard so we would fly way up in the air... Chloe always wanted to swing all the way around... I always got scared and would jump off before I flew off... And Chloe is still trying to get high..."
+|}
+
+
+
+Generate five trivia questions relevant to this section of the page.

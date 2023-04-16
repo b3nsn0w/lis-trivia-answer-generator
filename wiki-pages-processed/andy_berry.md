@@ -1,0 +1,18 @@
+#  Andy Berry 
+
+```yaml
+Character
+
+image: Andy Berry Main.png
+gender: Male
+relatives: '[Anderson Berry](anderson_berry.md) (father)'
+appearance: '[Episode 2: Out of Time](episode_2__out_of_time.md) (mentioned)'
+hair: Black
+```
+
+**Anderson "Andy" Berry Jr.** is the son of [Anderson Berry](anderson_berry.md), a police officer in [Arcadia Bay](arcadia_bay.md). A photograph of him and a prize catch can be found on the "[Arcadia Bay Fishing Club](fishing_wall_of_fame.md)" within the [Two Whales Diner](two_whales_diner.md), alongside [Dick Weber](dick_weber.md) and [Rich Conrad](rich_conrad.md).
+
+diner-walloffame.png
+
+{{Character Navbox}}
+

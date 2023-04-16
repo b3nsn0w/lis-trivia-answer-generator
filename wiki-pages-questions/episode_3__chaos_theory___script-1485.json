@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Chloe Present To Max As They Walk Toward Blackwell?",
+    "answer": "A",
+    "choices": {
+      "A": "Spare Keys To Blackwell",
+      "B": "A Portfolio",
+      "C": "A Selfie",
+      "D": "A Drum Roll"
+    }
+  },
+  {
+    "question": "Who Does Max And Chloe Overhear Talking About The Everyday Heroes Contest?",
+    "answer": "A",
+    "choices": {
+      "A": "Victoria and Mr. Jefferson",
+      "B": "Kate and Mr. Jefferson",
+      "C": "Max and Victoria",
+      "D": "Chloe and Mr. Jefferson"
+    }
+  },
+  {
+    "question": "What Is Victoria's Entry For The Everyday Heroes Contest?",
+    "answer": "B",
+    "choices": {
+      "A": "A Selfie",
+      "B": "A Portfolio",
+      "C": "A Photo Of Kate",
+      "D": "A Photo Of Max"
+    }
+  },
+  {
+    "question": "What Does Victoria Threaten To Do If Mr. Jefferson Doesn't Choose Her Photo?",
+    "answer": "A",
+    "choices": {
+      "A": "Tell People He Offered To Choose Her Photo For Favors",
+      "B": "Report Him To The Principal",
+      "C": "Sabotage His Career",
+      "D": "Destroy His Reputation"
+    }
+  },
+  {
+    "question": "What Do Max And Chloe Plan To Do After Leaving Their Hiding Spot?",
+    "answer": "C",
+    "choices": {
+      "A": "Go To Victoria's Dorm",
+      "B": "Attend The Everyday Heroes Contest",
+      "C": "Search For Clues About Rachel",
+      "D": "Leave Blackwell"
+    }
+  }
+]

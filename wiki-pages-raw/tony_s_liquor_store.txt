@@ -1,0 +1,59 @@
+= Tony's Liquor Store =
+
+{{Stub}}
+{{Infobox Location
+|type = Store
+|location = Arcadia Bay Ave,<br/>[[Arcadia Bay]]
+|image = Liquor_store-frontage.png
+|appears = [[Episode 2: Out of Time]]<br>[[Episode 3: Chaos Theory]]<br>[[Episode 5: Polarized]]
+|state = Oregon}}
+
+'''Tony's Liquor Store''' is located opposite the [[Two Whales Diner]] in [[Arcadia Bay]]. It becomes an explorable location in [[Episode 5: Polarized|Episode 5]].
+
+== Episode Two - "[[Episode 2: Out of Time|Out of Time]]" ==
+The building can be seen on the other side of the street when [[Maxine Caulfield|Max Caulfield]] visits the Two Whales Diner. It can also be spotted very briefly during Max's bus ride from [[Blackwell Academy]] to the diner.
+
+== Episode Three - "[[Episode 3: Chaos Theory|Chaos Theory]]" ==
+The store can be seen again when Max visits the diner with [[Chloe Price]].
+
+== Episode Five - "[[Episode 5: Polarized|Polarized]]" ==
+Like most of the buildings on the street, Tony's store has been heavily damaged by the [[Storm|storm]]. A garbage container collided with a wall and left a large hole through which Max can enter the building in an attempt to reach the diner. The interior of the building is on fire, and a [[R.J. MacReady|fisherman]] is trapped in a room. Several magazines are scattered on the floor. Max has to turn on a fuse box to put out the fire and proceed to the diner. The fisherman will be electrocuted and dies as a result of Max's actions. Max has the option to [[Rewind|rewind]] and guide the fisherman to safety, then use the fusebox to exit the building herself.
+
+== Interactions ==
+:<span style="display:none">'''PC users: '''</span>''Hover over the text to see Max's comments. [[Interactions|See here]] for all interactions in the game.''
+
+=== Episode Five - "[[Episode 5: Polarized|Polarized]]" ===
+*{{Interaction|Max can read an issue of [[The Great Northwest]].|"If we can make it out of this, Chloe..."}}
+*{{Interaction|She can look at and use the fuse box '''(required)'''.|"Don't fail me, fuse box..."}}
+*{{Interaction|She can look at an "Arcadia Bay Softball League" flyer.|"Aw... This makes me so sad."}}
+*{{Interaction|She can look at the sprinkler.|"Okay. I just need to switch on the electricity to activate the sprinkler."}}
+*{{Interaction|She can look at and help the fisherman.|'''Alive: '''"I want to help that fisherman, but... he's in shock and he might not hear me."<br>'''Dead: '''"Oh no..."}}
+*{{Interaction|She can look at and use the sand near the diner '''(required)'''.|'''Look: '''"Please let this sand put out the fire…"<br>'''Use: '''"Yes!"}}
+
+== Trivia ==
+* When viewed from the street in [[Episode 2: Out of Time|Episode 2]] and [[Episode 3: Chaos Theory|Episode 3]], the interior and contents of the store look different to its interior when it is an explorable location in Episode 5 . The contents of the store in Episode 5 look more like the contents of a general store not a liquor store. However, as the view of the store's interior is far away from Max in the early episodes, it seems more likely that the contents are just background filler for the map build that the player is not supposed to be paying attention to.
+
+== Gallery ==
+<gallery bordersize="none" bordercolor="transparent" hideaddbutton="true" widths="200" captionalign="center" position="center">
+Liquor Store.png|Sign on top of the building.
+tonys-ep2frombus.png|The building visible from the bus in episode 2.
+tonys-fromdiner.png|The view from the diner in Episode 3
+tonys-ep5.png|The wrecked building in Episode 5
+tonys-entrance.png|The hole where Max enters the store.
+tonys-inside.png|The interior of the building.
+tonys-magazinerack.png|Magazine racks.
+tonys-magazines.png|Magazines on the floor.
+tonys-fishermanroom.png|The room with the trapped [[R.J. MacReady|fisherman]].
+</gallery>
+
+{{Location Navbox}}
+
+[[ru:Ликёрный магазин Тони]]
+[[Category:Locations (Life is Strange)]]
+[[Category:Locations in Arcadia Bay]]
+[[Category:Episode 2: Out of Time Locations]]
+[[Category:Episode 3: Chaos Theory Locations]]
+[[Category:Episode 5: Polarized Locations]]
+[[Category:Locations]]
+[[Category:Two Whales Diner]]
+[[Category:Life is Strange]]

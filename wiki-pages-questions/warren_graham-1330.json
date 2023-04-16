@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Warren Label Himself As After Nathan Prescott Headbutts Him?",
+    "answer": "B",
+    "choices": {
+      "A": "A Hero",
+      "B": "A White Knight",
+      "C": "A Fighter",
+      "D": "A Warrior"
+    }
+  },
+  {
+    "question": "What Does Warren Ask Max To Do With Him?",
+    "answer": "A",
+    "choices": {
+      "A": "Go To The Movies",
+      "B": "Go To The Beach",
+      "C": "Go To The Amusement Park",
+      "D": "Go To The Museum"
+    }
+  },
+  {
+    "question": "What Does Warren Text Max After She Helps Him With His Chemistry Experiment?",
+    "answer": "C",
+    "choices": {
+      "A": "A Thank You Message",
+      "B": "A Picture Of His Experiment",
+      "C": "A Request To Meet At The Science Lab Again",
+      "D": "A Request To Help Him With Another Experiment"
+    }
+  },
+  {
+    "question": "What Does Warren Text Max When She Asks Him For Instructions On How To Build A Pipe Bomb?",
+    "answer": "A",
+    "choices": {
+      "A": "A List Of Materials",
+      "B": "A Warning Not To Do It",
+      "C": "A Joke About Her Testing His Scientific Knowledge",
+      "D": "A Request To Meet At The Science Lab"
+    }
+  },
+  {
+    "question": "What Does Warren Do When Max Feels Cold From The Eclipse?",
+    "answer": "D",
+    "choices": {
+      "A": "He Gives Her His Jacket",
+      "B": "He Hugs Her",
+      "C": "He Holds Her Hand",
+      "D": "He Stands Close To Her"
+    }
+  }
+]

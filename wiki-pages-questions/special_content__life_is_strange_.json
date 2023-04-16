@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Name Of The Category That Lists Special Content For Life Is Strange?",
+    "answer": "C",
+    "choices": {
+      "A": "Special Features",
+      "B": "Bonus Content",
+      "C": "Special Content",
+      "D": "Extra Features"
+    }
+  },
+  {
+    "question": "Which Season Of Life Is Strange Is The Special Content Category Referring To?",
+    "answer": "A",
+    "choices": {
+      "A": "Season 1",
+      "B": "Season 2",
+      "C": "Before The Storm",
+      "D": "True Colors"
+    }
+  },
+  {
+    "question": "What Type Of Content Is Included In The Special Content Category?",
+    "answer": "D",
+    "choices": {
+      "A": "Deleted Scenes",
+      "B": "Behind-The-Scenes Videos",
+      "C": "Concept Art",
+      "D": "All Of The Above"
+    }
+  },
+  {
+    "question": "Where Can You Find The Special Content Category For Life Is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "In The Main Menu Of The Game",
+      "B": "On The Official Life Is Strange Website",
+      "C": "On The Developer's Social Media Pages",
+      "D": "In The Game's Instruction Manual"
+    }
+  },
+  {
+    "question": "What Is The Purpose Of The Special Content Category For Life Is Strange?",
+    "answer": "B",
+    "choices": {
+      "A": "To Provide Additional Story Content",
+      "B": "To Showcase The Game's Development Process",
+      "C": "To Offer Fans Exclusive Merchandise",
+      "D": "To Allow Players To Customize Their Gameplay Experience"
+    }
+  }
+]

@@ -1,0 +1,67 @@
+Here is a section of the wiki page for Sean Prescott:
+
+#  Sean Prescott 
+
+```yaml
+Character
+
+name: Sean Prescott
+image: Sean-Prescott.png
+gender: Male
+hair: Brown (graying)
+relatives: >-
+  [Nathan Prescott](nathan_prescott.md) (son), [Kristine
+  Prescott](kristine_prescott.md) (daughter), [Mrs. Prescott](mrs__prescott.md)
+  (wife), [Harry Aaron Prescott](harry_aaron_prescott.md) (relative)
+appearance: |-
+  [Episode 3: Chaos Theory](episode_3__chaos_theory.md) (mentioned)
+  [Episode 4: Dark Room](episode_4__dark_room.md)
+died: October 11, 2013 (presumed, determinant)
+causeofdeath: Killed by the [storm](storm.md) (presumed, determinant)
+```
+
+> Oh man, Sean Prescott might be Nathan's real problem...
+
+**[Maxine Caulfield**, Max](maxine_caulfield____max.md)'s comment in "[Episode 4: Dark Room, Dark Room](episode_4__dark_room__dark_room.md)"
+
+**Sean Prescott** is a powerful businessman in [Arcadia Bay](arcadia_bay.md) and the father of [Nathan Prescott](nathan_prescott.md) and [Kristine Prescott](kristine_prescott.md). Although he is married, [Mrs. Prescott](his_wife.md) is never mentioned by her first name in [Life is Strange](life_is_strange.md).Mrs. Prescott's first name, Caroline, is revealed in [Episode 1: Awake](episode_1.md) of *[Life is Strange: Before the Storm](life_is_strange__before_the_storm.md)* on a computer in the [Drama Lab](drama_lab.md). She has contributed in some way (most likely monetarily) to the school play *[The Tempest](the_tempest.md)*.
+
+## Overview 
+He is the owner of the [Prescott Foundation](prescott_foundation.md), which makes many donations to various funds around [Arcadia Bay](arcadia_bay.md). He is also the co-owner of [Blackwell Academy](blackwell_academy.md) and donated money in order to own the [Prescott Dormitory](prescott_dormitory.md) on campus.
+
+## Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+A scan of a letter from Sean Prescott to Principal Wells along with a reply can be seen on [Principal Wells' Computer](the_principal_s_computer.md). On the table, there is a letter inquiring why Principal Wells removed the [Prescott Family](prescott_family.md) crest from Blackwell. If Nathan was suspended in Episode 2, this letter will be replaced by a different one, in which Sean Prescott threatens to cancel financial aid to Blackwell Academy unless Nathan's suspension is lifted.
+
+## Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+A thank-you note from Sean to [David Madsen](david_madsen.md) can be found in [David's Garage](david_s_garage.md), thanking him for his help with Nathan. If Max sided with David in Episode 3, she can ask David for more information regarding this note, to which David will reply that he "gave Sean Prescott an estimate."
+
+The photo of a young Nathan with his father can be seen in Nathan's [Nathan's Room](dorm_room.md). There is also an email from Sean to Nathan visible on [Nathan's Computer](nathan_s_computer.md) and a "Best Son Diploma" hanging in the corner.
+
+Max can ask several people at the [End of the World Party](end_of_the_world_party.md) about what they think of Sean Prescott. [Luke Parker](luke_parker.md) says that he once met Sean on a [Bigfoots](bigfoots.md) game. He speaks of Sean as being a "mean fucking bastard" and adds that he "explains Nathan."
+
+## Episode Five - "[Episode 5: Polarized](polarized.md)" 
+In the [Timelines (Life is Strange)#San Francisco Timeline](san_francisco_timeline.md), an article in [The Independent](the_independent.md) states that the police acted on a series of tips from David Madsen which led to them discovering the [Dark Room (Location)](dark_room.md), which causes Sean to be under investigation for owning the [barn](barn.md).
+
+In the Sacrifice Arcadia Bay ending, it is possible that he may have died in the storm like most of the Arcadia Bay residents.
+
+## Relationships 
+#
+
+## Family 
+*[Nathan Prescott](nathan_prescott.md) - Sean seems to have a very strained relationship with his son, sending him discouraging messages and emails. Sean obviously sees his son's emotional problems as an unnecessary burden and is incapable of dealing with them. He suggests contacting [Dr. Bill](dr__bill.md) in order to fix Nathan's problems. He and his wife do not seem to care about the advice of Nathan's long-term [Dr. Jacoby](therapist.md).
+*[Kristine Prescott](kristine_prescott.md) - Sean and his daughter Kristine also have a strained relationship; Kristine calls her father "a bully who inherited power not wisdom" and encourages Nathan to either ignore or fight against him. She also says that the reason for her moving so far away was her father.
+
+#
+
+## Friends 
+*[Mark Jefferson](mark_jefferson.md) -
+
+#
+
+## Enemies 
+*[Maxine Caulfield](max_caulfield.md) **(Determinant)** - If Max reports Nathan to Principal Wells, Sean will send a threatening message to her saying that she should "keep her mouth shut".
+*Other Arcadia Bay citizens - The citizens of Arcadia Bay are well aware of Sean's greedy nature and shady acts. He has put a lot of people out of work, including the [Homeless Lady](homeless_lady.md) and the [R.J. MacReady](fisherman.md).
+
+
+
+Generate five trivia questions relevant to this section of the page.

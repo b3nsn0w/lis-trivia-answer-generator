@@ -1,0 +1,113 @@
+Here is a section of the wiki page for Episode 3: Chaos Theory - Script:
+
+## **Optional Conversation with Trucker (optional photo)** 
+
+**Max:** Hey, how's it going?
+
+**Trucker:** Peachy. Interview over.
+
+Bad day?# Bad day?**Max:** Having a bad day at the office?
+
+{{#tag:tabber|(Max damaged the railroad tracks)(Max damaged the railroad tracks)**Trucker:** Some punks messed with the train tracks and now I have to wait for three days until I get my cargo. Time is money for a guy like me.
+
+**Max:** Uh... oh yeah, that sucks...
+
+{{!}}-{{!}}(Max didn't damage the railroad tracks)# (Max didn't damage the railroad tracks)**Trucker:** Work has dried up around here and I have bills to pay. Time is money for a guy like me.
+
+**Max:** That sucks.
+
+}}
+
+{{#tag:tabber|(Saved Kate)(Saved Kate)**Trucker:** Wish I could drive right out of Arcadia Bay. The whole town is crumbling—snow, eclipse, and a slut trying to commit suicide...
+
+**Max:** Maybe you should leave then.
+
+**Trucker:** Would if I could. Hell, even that shifty Rachel what's-her-face once asked me if I'd drive her to Los Angeles...
+
+{{!}}-{{!}}(Didn't save Kate)# (Didn't save Kate)**Trucker:** Wish I could drive right out of goddamn Arcadia Bay. The whole town is crumbling—snow, eclipse, that slut suicide...
+
+{{#tag:tabber|Kate's not a slut.Kate's not a slut.**Max:** Listen, Kate Marsh was not a slut. She was severely depressed for good reasons. You didn't even know her, did you?
+
+**Trucker:** I know all these Blackwell spoiled shits. Like that other loser I'd see around here... Rachel.
+
+{{!}}-{{!}}You should leave.# You should leave.**Max:** Maybe you should leave then.
+
+**Trucker:** Would if I could. Hell, even that shifty Rachel what's-her-face once asked me if I'd drive her to Los Angeles...
+
+}}
+
+}}
+
+**Max:** You knew Rachel Amber? Can you tell me about her?
+
+**Trucker:** Nope. Christ, why don't you get a real job instead of homework? I'd love to see you Blackwell turds try to drive my 1977 Needham eighteen-wheeler out there! Like I said, interview over.
+
+|-|Worst interview.Worst interview.**Max:** Worst. Interview. Ever.
+
+{{#tag:tabber|(Max damaged the railroad tracks)# (Max damaged the railroad tracks)**Trucker:** Some punks messed with the train tracks and now I have to wait for three days until I get my cargo. Time is money for a guy like me.
+
+**Max:** Uh... oh yeah, that sucks...
+
+{{!}}-{{!}}(Max didn't damage the railroad tracks)(Max didn't damage the railroad tracks)**Trucker:** Work has dried up around here and I have bills to pay. Time is money for a guy like me.
+
+**Max:** That sucks.
+
+}}
+
+{{#tag:tabber|(Saved Kate)# (Saved Kate)**Trucker:** Wish I could drive right out of Arcadia Bay. The whole town is crumbling—snow, eclipse, and a slut trying to commit suicide...
+
+**Max:** Maybe you should leave then.
+
+**Trucker:** Would if I could. Hell, even that shifty Rachel what's-her-face once asked me if I'd drive her to Los Angeles...
+
+{{!}}-{{!}}(Didn't save Kate)(Didn't save Kate)**Trucker:** Wish I could drive right out of goddamn Arcadia Bay. The whole town is crumbling—snow, eclipse, that slut suicide...
+
+{{#tag:tabber|Kate's not a slut.# Kate's not a slut.**Max:** Listen, Kate Marsh was not a slut. She was severely depressed for good reasons. You didn't even know her, did you?
+
+**Trucker:** I know all these Blackwell spoiled shits. Like that other loser I'd see around here... Rachel.
+
+{{!}}-{{!}}You should leave.You should leave.**Max:** Maybe you should leave then.
+
+**Trucker:** Would if I could. Hell, even that shifty Rachel what's-her-face once asked me if I'd drive her to Los Angeles...
+
+}}
+
+}}
+
+**Max:** You knew Rachel Amber? Can you tell me about her?
+
+**Trucker:** Nope. Christ, why don't you get a real job instead of homework? I'd love to see you Blackwell turds try to drive my 1977 Needham eighteen-wheeler out there! Like I said, interview over.
+
+|-|1977 Needham. (after rewind)# 1977 Needham. (after rewind)**Max:** Actually, I wanted to ask if that's your bitchin' 1977 Needham eighteen-wheeler out there.
+
+**Trucker:** How the hell did you know that?
+
+{{#tag:tabber|Blackwell class.Blackwell class.**Max:** I took a Blackwell class on the history of... truckers. I always wanted to drive a rig on the road.
+
+**Trucker:** Finally, a Blackwell student with brains. Next time I get a local job, I'll let you ride along. Take care.
+
+{{!}}-{{!}}Rachel Amber.# Rachel Amber.**Max:** My friend Rachel Amber told me about this cool rig in town because I love taking pictures of truckers.
+
+**Trucker:** You knew Rachel? She sure didn't give a rat's ass about truckers... or real work.
+
+**Max:** Oh, so you must have known her too?
+
+**Trucker:** Only from the diner. She was just a gold digger—she belonged in California with all those... you know whats... good riddance. But you can take pictures of my truck anytime. Take care.
+
+}}
+
+**Optional photo**
+
+*Max sees a dead bird encircled by ants beside the diner.*
+
+**Max:** *(thinking)* Look at that... so sad, disturbing, and beautiful at once... what an amazing shot.
+
+*Max bends down to take a photo.*
+
+**Max:** *(thinking)* So ominous...
+
+#
+
+
+
+Generate five trivia questions relevant to this section of the page.

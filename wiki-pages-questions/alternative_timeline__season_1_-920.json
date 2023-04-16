@@ -1,0 +1,42 @@
+[
+  {
+    "question": "How Does Max Return To The Day The Everyday Heroes Photo Was Taken?",
+    "answer": "A",
+    "choices": {
+      "A": "By Tearing The Freshly Taken Photo",
+      "B": "By Using Her Time Rewind Power",
+      "C": "By Entering A Portal",
+      "D": "By Falling Asleep"
+    }
+  },
+  {
+    "question": "In Which Timeline Are Max And Warren A Couple?",
+    "answer": "A",
+    "choices": {
+      "A": "The \"Flicker\" Timeline Where Arcadia Bay Was Not Destroyed",
+      "B": "The Timeline Where Max Sacrificed Chloe To Save Arcadia Bay",
+      "C": "The Timeline Where Max Died At The Age Of 13",
+      "D": "The Timeline Where Dana Ward Never Terminated Her Pregnancy"
+    }
+  },
+  {
+    "question": "In Which Timeline Does Max Live With Chloe And Rachel In Los Angeles?",
+    "answer": "A",
+    "choices": {
+      "A": "The Waves Timeline",
+      "B": "The Timeline Where Max Sacrificed Chloe To Save Arcadia Bay",
+      "C": "The Timeline Where Max Died At The Age Of 13",
+      "D": "The Timeline Where Arcadia Bay Was Not Destroyed And Max And Warren Are A Couple"
+    }
+  },
+  {
+    "question": "What Happens To Max In The \"Flicker\" Timeline Where Arcadia Bay Was Not Destroyed?",
+    "answer": "D",
+    "choices": {
+      "A": "She And Warren Are A Couple",
+      "B": "She Encounters Chloe And Rachel On The Beach",
+      "C": "She Never Moved Back To Arcadia Bay",
+      "D": "All Of The Above"
+    }
+  }
+]

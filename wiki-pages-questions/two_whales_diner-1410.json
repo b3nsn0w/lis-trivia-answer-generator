@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Two Whales Diner Known For?",
+    "answer": "A",
+    "choices": {
+      "A": "Home Style Cooking",
+      "B": "Fast Food",
+      "C": "Gourmet Cuisine",
+      "D": "Fine Dining"
+    }
+  },
+  {
+    "question": "Who Works As A Waitress At The Two Whales Diner?",
+    "answer": "C",
+    "choices": {
+      "A": "Chloe Price",
+      "B": "Max Caulfield",
+      "C": "Joyce Price",
+      "D": "Frank Bowers"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Officer Who Can Be Encountered At The Two Whales Diner In Episode Three?",
+    "answer": "C",
+    "choices": {
+      "A": "Frank Bowers",
+      "B": "Nathan Prescott",
+      "C": "Anderson Berry",
+      "D": "Warren Graham"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Breakfast Cheeseburger On The Two Whales Diner Menu?",
+    "answer": "B",
+    "choices": {
+      "A": "Homestyle Eggs & Bacon",
+      "B": "Apple Sausage Omelette",
+      "C": "Bigfoot Bacon Omelette",
+      "D": "None of the above"
+    }
+  },
+  {
+    "question": "What Is The Price Of Fresh Orange Juice At The Two Whales Diner?",
+    "answer": "B",
+    "choices": {
+      "A": "$1.50",
+      "B": "$2.00",
+      "C": "$2.25",
+      "D": "$1.25"
+    }
+  }
+]

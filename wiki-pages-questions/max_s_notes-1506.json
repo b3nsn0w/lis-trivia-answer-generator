@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Max's Comment About The Piece Of Paper With Numbers In Nathan's Student File?",
+    "answer": "B",
+    "choices": {
+      "A": "\"This Is Useless\"",
+      "B": "\"There’s A Lot Of Numbers In Here\"",
+      "C": "\"I Don't Understand These Numbers\"",
+      "D": "\"This Is Just A List Of Names\""
+    }
+  },
+  {
+    "question": "What Is Max Trying To Find On Nathan's Phone?",
+    "answer": "C",
+    "choices": {
+      "A": "His Bank Account Details",
+      "B": "His Text Messages With Victoria",
+      "C": "The Code To Unlock It",
+      "D": "His Social Media Password"
+    }
+  },
+  {
+    "question": "What Is The Location Of The Vortex Club Party Where Nathan Drugged Kate?",
+    "answer": "A",
+    "choices": {
+      "A": "First Series Of Nathan's Clues",
+      "B": "Second Series Of Nathan's Clues",
+      "C": "Third Series Of Nathan's Clues",
+      "D": "Fourth Series Of Nathan's Clues"
+    }
+  },
+  {
+    "question": "What Is Max's Comment About Nathan's SIM Card?",
+    "answer": "D",
+    "choices": {
+      "A": "\"I Don't Think This Will Help\"",
+      "B": "\"I Should Return This To Nathan\"",
+      "C": "\"I Wonder What's On This\"",
+      "D": "\"Couldn't Hurt To Give This PIN Code A Whack\""
+    }
+  },
+  {
+    "question": "What Is The Location Of The SMS Chat Between Nathan And Frank About The Vortex Club Party?",
+    "answer": "A",
+    "choices": {
+      "A": "Second Series Of Nathan's Clues",
+      "B": "Third Series Of Nathan's Clues",
+      "C": "Fourth Series Of Nathan's Clues",
+      "D": "Fifth Series Of Nathan's Clues"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Did Chloe and Rachel Plan To Do In Los Angeles?",
+    "answer": "D",
+    "choices": {
+      "A": "Start A Band",
+      "B": "Attend A Film Festival",
+      "C": "Become Actresses",
+      "D": "Start A New Life"
+    }
+  },
+  {
+    "question": "How Did Chloe Plan To Fund Her Trip To Los Angeles?",
+    "answer": "C",
+    "choices": {
+      "A": "By Winning The Lottery",
+      "B": "By Selling Her Car",
+      "C": "By Borrowing Money From Frank Bowers",
+      "D": "By Selling Drugs"
+    }
+  },
+  {
+    "question": "According To Mark Jefferson, What Would Have Happened To Rachel In Los Angeles?",
+    "answer": "C",
+    "choices": {
+      "A": "She Would Have Become A Famous Actress",
+      "B": "She Would Have Started A New Life",
+      "C": "She Would Have Been Killed",
+      "D": "She Would Have Found Her Father"
+    }
+  },
+  {
+    "question": "What Was Frank Bowers' Plan Before The Storm Blew His RV Into The Side Of The Two Whales Diner?",
+    "answer": "A",
+    "choices": {
+      "A": "To Find Rachel In Los Angeles",
+      "B": "To Sell Drugs In Los Angeles",
+      "C": "To Attend A Film Festival In Los Angeles",
+      "D": "To Start A New Life In Los Angeles"
+    }
+  }
+]

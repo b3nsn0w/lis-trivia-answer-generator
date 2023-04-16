@@ -1,0 +1,10 @@
+#  Makoto Naruse 
+
+[File:Makoto Naruse.jpg](thumb.md)
+**Makoto Naruse** (**ナルセ　マコト**) / (**成瀬　誠**) is the Japanese voice actor of [Warren Graham](warren_graham.md) (**ウォーレン・グラハム**) for the [Japanese Release (Life is Strange)](japanese_localization.md) of *[Life is Strange](life_is_strange.md)*.
+
+ Makoto Naruse =
+
+[File:Makoto Naruse.jpg](thumb.md)
+**Makoto Naruse** (**ナルセ　マコト**) / (**成瀬　誠**) is the Japanese voice actor of [Warren Graham](warren_graham.md) (**ウォーレン・グラハム**) for the [Japanese Release (Life is Strange)](japanese_localization.md) of *[Life is Strange](life_is_strange.md)*.
+

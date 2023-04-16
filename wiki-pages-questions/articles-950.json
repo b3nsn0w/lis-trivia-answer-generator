@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is The Main Focus Of The Life Is Strange Comic Series?",
+    "answer": "B",
+    "choices": {
+      "A": "The Aftermath Of The Tornado",
+      "B": "The Consequences Of Max's Time Traveling",
+      "C": "The Relationship Between Max And Warren",
+      "D": "The Mystery Of Rachel Amber's Disappearance"
+    }
+  },
+  {
+    "question": "When Was The Life Is Strange Comic Series Announced?",
+    "answer": "A",
+    "choices": {
+      "A": "May 3, 2018",
+      "B": "July 21, 2018",
+      "C": "October 23, 2018",
+      "D": "January 30, 2019"
+    }
+  },
+  {
+    "question": "What Is The Main Theme Explored In The Life Is Strange: Dust Comic?",
+    "answer": "B",
+    "choices": {
+      "A": "Time Traveling",
+      "B": "Queer Romance",
+      "C": "Trauma",
+      "D": "Mystery"
+    }
+  },
+  {
+    "question": "What Is The Release Date Of The Life Is Strange: Dust Comic?",
+    "answer": "D",
+    "choices": {
+      "A": "May 3, 2018",
+      "B": "July 21, 2018",
+      "C": "October 23, 2018",
+      "D": "July 29, 2019"
+    }
+  }
+]

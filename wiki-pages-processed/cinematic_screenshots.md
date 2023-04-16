@@ -1,0 +1,375 @@
+#  Cinematic Screenshots 
+
+[File:Rachel_Camera.png](thumb.md)
+This article is a guide to and a collection of **cinematic screenshots** by the community.
+
+##  Guide 
+These guide allows you to move the camera freely with WASD and QE for changing the height, which is useful for taking screenshots and exploring areas usually inaccessible in "normal" gameplay.
+
+###  *[Life is Strange](life_is_strange.md)* 
+# ###  Instructions 
+Prerequisites:
+
+Add the following code to your "[My Documents]\My Games\Life Is Strange\LifeIsStrangeGame\Config\LifeIsStrangeInput.ini" file under the "[Engine.PlayerInput]" section (Only the "Talk" bind is required as it can be used to execute all other actions via commands):
+
+Bindings# (Name"P",Command# "playersonly",ControlFalse,Shift# False,AltFalse,bIgnoreCtrl# False,bIgnoreShiftFalse,bIgnoreAlt# False)
+Bindings(Name# "G",Command"Ghost",Control# False,ShiftFalse,Alt# False,bIgnoreCtrlFalse,bIgnoreShift# False,bIgnoreAltFalse)
+Bindings# (Name"O",Command# "Teleport",ControlFalse,Shift# False,AltFalse,bIgnoreCtrl# False,bIgnoreShiftFalse,bIgnoreAlt# False)
+Bindings(Name# "T",Command"Talk")
+More optional fine tuning hotkeys:
+
+Bindings# (Name"PageDown",Command# "CycleCamera 1",ControlFalse,Shift# False,AltFalse,bIgnoreCtrl# False,bIgnoreShiftFalse,bIgnoreAlt# False)
+Bindings(Name# "PageUp",Command"CycleCamera -1",Control# False,ShiftFalse,Alt# False,bIgnoreCtrlFalse,bIgnoreShift# False,bIgnoreAltFalse)
+Bindings# (Name"Home",Command# "CycleCamera 0",ControlFalse,Shift# False,AltFalse,bIgnoreCtrl# False,bIgnoreShiftFalse,bIgnoreAlt# False)
+Bindings(Name# "NumPadOne",Command"FOV 5",Control# False,ShiftFalse,Alt# False,bIgnoreCtrlFalse,bIgnoreShift# False,bIgnoreAltFalse)
+Bindings# (Name"NumPadOne",Command# "FOV 10",ControlFalse,Shift# False,AltTrue,bIgnoreCtrl# False,bIgnoreShiftFalse,bIgnoreAlt# False)
+Bindings(Name# "NumPadTwo",Command"FOV 15",Control# False,ShiftFalse,Alt# False,bIgnoreCtrlFalse,bIgnoreShift# False,bIgnoreAltFalse)
+Bindings# (Name"NumPadTwo",Command# "FOV 20",ControlFalse,Shift# False,AltTrue,bIgnoreCtrl# False,bIgnoreShiftFalse,bIgnoreAlt# False)
+Bindings(Name# "NumPadThree",Command"FOV 25",Control# False,ShiftFalse,Alt# False,bIgnoreCtrlFalse,bIgnoreShift# False,bIgnoreAltFalse)
+Bindings# (Name"NumPadThree",Command# "FOV 30",ControlFalse,Shift# False,AltTrue,bIgnoreCtrl# False,bIgnoreShiftFalse,bIgnoreAlt# False)
+Bindings(Name# "NumPadFour",Command"FOV 35",Control# False,ShiftFalse,Alt# False,bIgnoreCtrlFalse,bIgnoreShift# False,bIgnoreAltFalse)
+Bindings# (Name"NumPadFour",Command# "FOV 40",ControlFalse,Shift# False,AltTrue,bIgnoreCtrl# False,bIgnoreShiftFalse,bIgnoreAlt# False)
+Bindings(Name# "NumPadFive",Command"FOV 45",Control# False,ShiftFalse,Alt# False,bIgnoreCtrlFalse,bIgnoreShift# False,bIgnoreAltFalse)
+Bindings# (Name"NumPadFive",Command# "FOV 50",ControlFalse,Shift# False,AltTrue,bIgnoreCtrl# False,bIgnoreShiftFalse,bIgnoreAlt# False)
+Bindings(Name# "NumPadSix",Command"FOV 55",Control# False,ShiftFalse,Alt# False,bIgnoreCtrlFalse,bIgnoreShift# False,bIgnoreAltFalse)
+Bindings# (Name"NumPadSix",Command# "FOV 60",ControlFalse,Shift# False,AltTrue,bIgnoreCtrl# False,bIgnoreShiftFalse,bIgnoreAlt# False)
+Bindings(Name# "NumPadSeven",Command"FOV 70",Control# False,ShiftFalse,Alt# False,bIgnoreCtrlFalse,bIgnoreShift# False,bIgnoreAltFalse)
+Bindings# (Name"NumPadSeven",Command# "FOV 80",ControlFalse,Shift# False,AltTrue,bIgnoreCtrl# False,bIgnoreShiftFalse,bIgnoreAlt# False)
+Bindings(Name# "NumPadEight",Command"FOV 90",Control# False,ShiftFalse,Alt# False,bIgnoreCtrlFalse,bIgnoreShift# False,bIgnoreAltFalse)
+Bindings# (Name"NumPadEight",Command# "FOV 120",ControlFalse,Shift# False,AltTrue,bIgnoreCtrl# False,bIgnoreShiftFalse,bIgnoreAlt# False)
+Bindings(Name# "NumPadNine",Command"FOV 130",Control# False,ShiftFalse,Alt# False,bIgnoreCtrlFalse,bIgnoreShift# False,bIgnoreAltFalse)
+Bindings# (Name"NumPadNine",Command# "FOV 0",ControlFalse,Shift# False,AltTrue,bIgnoreCtrl# False,bIgnoreShiftFalse,bIgnoreAlt# False)
+Bindings(Name# "F6",Command"Slomo 0.001",Control# False,ShiftFalse,Alt# False,bIgnoreCtrlFalse,bIgnoreShift# False,bIgnoreAltFalse)
+Bindings# (Name"F7",Command# "Slomo 0.2",ControlFalse,Shift# False,AltFalse,bIgnoreCtrl# False,bIgnoreShiftFalse,bIgnoreAlt# False)
+Bindings(Name# "F8",Command"Slomo 0.6",Control# False,ShiftFalse,Alt# False,bIgnoreCtrlFalse,bIgnoreShift# False,bIgnoreAltFalse)
+Bindings# (Name"F9",Command# "Slomo 1",ControlFalse,Shift# False,AltFalse,bIgnoreCtrl# False,bIgnoreShiftFalse,bIgnoreAlt# False)
+Bindings(Name# "F10",Command"Slomo 2",Control# False,ShiftFalse,Alt# False,bIgnoreCtrlFalse,bIgnoreShift# False,bIgnoreAltFalse)
+Bindings# (Name"F11",Command# "Slomo 3",ControlFalse,Shift# False,AltFalse,bIgnoreCtrl# False,bIgnoreShiftFalse,bIgnoreAlt# False)
+
+Optionally modify the "[My Documents]\My Games\Life Is Strange\LifeIsStrangeGame\Config\LifeIsStrangeEngine.ini" to your liking.
+
+MaxProcBuildingLODColorTextureSize4096
+MaxProcBuildingLODLightingTextureSize# 4096
+ImageReflectionTextureSize4096
+TerrainMaterialMaxTextureCount# 32
+FilteredDistortionTrue
+AllowSubsurfaceScattering# true
+AllowImageReflectionstrue
+AllowImageReflectionShadowing# true
+MaxMultiSamples0
+bAllowD3D9MSAA# False
+MinShadowResolution128
+MinPreShadowResolution# 16
+MaxShadowResolution8192
+MaxWholeSceneDominantShadowResolution# 8192
+ShadowFadeResolution512
+bEnableVSMShadows# true
+bDNEAllowChromaticAberrationFalse
+ResX# 2560
+ResY1440
+
+Activating the freecam in-game with player controls:
+*Have [https://cheatengine.org/downloads.php Cheat Engine] opened (use the portable version which doesn't include an {{Wiki|adware}}-packed installer), select the process and load the linked [http://steamcommunity.com/sharedfiles/filedetails/?id# 656832219 Cheat Engine table].
+*Load the area you would like to explore in [Collectible Mode](collectible_mode.md).
+*Press **G** or execute "Ghost" to activate Ghost, **F2** to activate the Cheat Engine script, **PageDown** or execute "CycleCamera -1" to activate the freecam and **H** to hide Max.
+*Tweak all settings to your liking using the UE3 commands and cheat engine table.
+
+Controls:
+***WASD**: move the camera like the player.
+***Q and E**: change the camera height.
+***Mouse**: Aim
+
+[Control description below written by davidcsimon]
+***T** or "Talk": Opens up the console, remove the word "say" before entering a command.
+***P** or "PlayersOnly": Pause all characters and cutscene cameras except for Max. Environmetal animations will play as usual
+***G** or "Ghost": Ghost mode – Max can now fly and pass through objects and people. You can move around as normal, but she won’t fall, and you can go places that are normally unreachable. Cutscenes will not trigger in this mode. Max’s animation state will freeze. This state cannot be reset without reloading the last checkpoint.
+***O** or "Teleport": Teleport to the first collidable surface in sight. Imagine a crosshair in the center of your screen, this command will teleport Max to whatever is under that crosshair, including invisible walls and ceilings. Use with Ghost Mode to change the camera height.
+***PageUp** or "CycleCamera -1": Lock the camera in place. You can still move Max as normal (great for taking shots of Max, or moving her out of frame). Press again to cycle through preset cameras.
+***PageDown** or "CycleCamera 1": Cycles the camera back.
+***Home** or "CycleCamera 0": Unlock the camera, moving it back to the standard over-the-shoulder position
+***NumPad 1-9** or "FOV [5/10/15/20/25/30/50/55/60/70/80/90/120/130/0]": Adjust the Field of View. Combine with Alt to adjust by increments.
+***Alt + NumPad 9**: Reset to the default FoV
+***F6-F8** or "Slomo [0.001/0.2/0.6]": Slow motion. Max can still be controlled, albeit slowly.
+***F9** or "Slomo 1": Reset to normal speed.
+***F10-F11** or "Slomo [2/3]": Fast Forward (Useful for rushing through cutscenes)
+
+Additional mentionable commands ([https://docs.unrealengine.com/udk/Three/EditorConsoleCommands.html All UE3 commands]):
+***ShowDebug**: Prints debug text in the upper left corner of the screen. (run again to turn off)
+Location: X Y Z" is Max's location in the map and "CameraStyle" is the current camera mode (which you can toggle through with the PageUp and PageDown keys). Some modes are "Adrift_Walk" which allows you to rotate the camera relative to Max (the default mode) and "FreeCamera" which locks the camera in place, allowing you to move Max off-screen.
+***ToggleUI**: Toggle UI visibility (not recommended, use the CE table).
+***ChangeSize [0]**: Changes Max's character size.
+***BugItGo [0 0 0 0 0 0]**: Teleports the player to the given coordinates.
+
+[Instructions below written by Ness199X]
+Moving during cutscenes:
+During cutscenes the player object doesn't exist, so you cannot just switch into ghost to fly around. The following instructions will allow you to move around during cutscenes (be aware that this can cause you to crash if these commands are executed out of order)
+
+*Execute "PlayersOnly" or press **P**.
+*Execute "CycleCamera -1" and/or "CycleCamera 1" or press **PageUp** and/or **PageDown** until you can rotate the camera.
+*Execute the command "DebugCreatePlayer 0". Your screen should split in two, with a floating Max in the bottom screen.
+*Execute "SSSwapControllers 0"
+*Execute "DebugRemovePlayer 0". Your screen should return to a single frame, with the floating Max in it.
+*Execute "Ghost" or press **G**. You should now be able to move the new Max around freely. Note that your camera controls may be a bit broken, as the camera control is relative to the 'real' Max object in the cutscene. Experiment with BugItGo and **PageUp**/**PageDown** to get it under control.
+
+[Credits to [https://www.youtube.com/watch?vx7SRMmcH0ho denetii]]
+*Execute the following command before a branching dialog sequence to exit it: "KillAll WhatIfDialogActor"
+
+# ###  Tools/Mods 
+{{Main|Modifications}}
+* [http://steamcommunity.com/sharedfiles/filedetails/?id# 656832219 "Life is Strange: Photographer Mod" by IDK31]
+* [https://web.archive.org/web/20151026153249/http://davidcsimon.com:80/LiS/about/camera-modding-instructions/ Camera Modding using Unreal Engine commands by davidcsimon]
+** [https://forums.geforce.com/default/topic/808518/pc-games/life-is-strange-camera-mods-useful-for-screenshots/ Unreal Engine camera control commands by notN1P]
+* [https://steamcommunity.com/sharedfiles/filedetails/?id544446117 Activating the Dev Console / Advanced Screenshot Guide by Ness199X]
+* [https://www.reddit.com/r/lifeisstrange/comments/3quja0/ep3_spoilers_complete_guide_to_life_is_strange/ Reddit post by /u/Illyndrei]
+* [http://www.deadendthrills.com/forum/discussion/427/guide-life-is-strange/p1 Guide by One3rd]
+* [https://www.reddit.com/r/lifeisstrange/comments/3ril4x/supersized/cwp0vvz/ Reddit post by /u/Illyndrei]
+
+###  *[Life is Strange: Before the Storm](before_the_storm.md)* 
+# ###  Instructions 
+Prerequisites:
+*Replace the "Assembly-Csharp.dll" file in [SteamApps]\common\Life is Strange - Before the Storm\Life is Strange - Before the Storm_Data\Managed" with the modified one by Haoose and create a backup of the original one.
+
+Activating the freecam in-game with player controls:
+*Have [https://cheatengine.org/downloads.php Cheat Engine] (Use the portable version which doesn't include an {{Wiki|adware}}-packed installer) opened, select the process and load the linked [http://steamcommunity.com/sharedfiles/filedetails/?id# 656832219 Cheat Engine table].
+*Load the area you would like to explore in [Collectible Mode](collectible_mode.md).
+*Press **F9** to activate the freecam.
+*Activate Cheat Engine's mono features to use the DOF adjustments.
+*Hide the HUD with **H**.
+*Hide the outlines with **N**.
+*Tweak all settings to your liking using the debug mode and Cheat Engine table.
+
+Optionally pause the game time by hiding the UI and pressing escape. This will pause the whole game world and you will still be able to explore around because the pause UI is hidden. (Possibly requires an older version of the table)
+
+Controls [written down by /u/0mgzh4x]:
+***WASD**: Move
+***EQ**: Up, down
+***Mouse**: Aim
+***Left shift**: Faster
+***Left control**: Slower
+***Left shift + Mouse wheel down, up**: Zoom in, out
+***F12**: NOCLIP
+***F11**: 8K SCREENSHOT (saved to "..\StreamingAssets\ScreenShots")
+***F10**: Toggle Postprocessing (DOF, color grading)
+***R**: Revert (return to start location)
+
+XBOX controller:
+***Left stick**: Move
+***Right stick**: Aim
+***Right, left trigger**: Up, down
+***Right bumper**: Faster
+***Left bumper**: Slower
+***Pad up**: 8K screenshot
+***Pad down**: Revert
+***Xbox Y:** Toggle PP
+***Xbox B + Left stick**: Zoom in, out
+
+###  Tools/Mods # 
+{{Main|Modifications#Before the Storm}}
+* [https://www.reddit.com/r/lifeisstrange/comments/78bcgj/no_spoilers_enabling_freecam_in_debug_mode_in/ Enabling freecam in debug mode in Episode 2 for screenshots by /u/IgelRM]
+* [http://steamcommunity.com/sharedfiles/filedetails/?id682947327 Camera modding Cheat Engine table with a hide UI feature by IDK31]
+
+###  *[Life is Strange 2](life_is_strange_2.md)* & *[Captain Spirit](captain_spirit.md)* 
+# ###  Instructions 
+Activating the freecam in-game with player controls:
+*Have [https://cheatengine.org/downloads.php Cheat Engine] opened (use the portable version which doesn't include an {{Wiki|adware}}-packed installer), select the process and load the linked [http://steamcommunity.com/sharedfiles/filedetails/?id# 656832219 Cheat Engine table].
+*Load the area you would like to explore in [Collectible Mode](collectible_mode.md).
+*Toggle freecam with **PGDN**.
+*Move with the numpad keys (**8** (up), **5** (down), **4** (left), **6** (right)), **9** (up), & **7** (down)).
+*Rotate by holding down **enter** in combination with the numpad keys.
+*Aim and zoom by holding down **+** in combination with the numpad keys.
+* Adjust camera speed with **C** (slow), **F** (fast), and **T** (faster)
+* Adjust game speed with **F5**-**F10** (default speed is F9).
+*Adjust camera location, pitch, yaw, roll, & FOV in >> VALUES section.
+*Hide and show the HUD with **H** and **G**, respectively.
+
+###  Tools/Mods # 
+* [http://steamcommunity.com/sharedfiles/filedetails/?id682947327 Camera modding Cheat Engine tables by IDK31]
+
+##  Screenshots 
+***Note: These may contain spoilers for all the currently released episodes of the game.***
+
+* [https://www.flickr.com/search/?sort# interestingness-desc&safe_search1&text# lifeisstrange&view_all1 Flickr search for the lifeisstrange tag]
+* [https://www.reddit.com/r/lifeisstrange/search?q# flair%3AScreenshot&restrict_sron&sort# relevance&tall Life is Strange subreddit flair search for screenshots]
+* [https://www.tumblr.com/search/life+is+strange Tumblr search for Life is Strange]
+* [https://imgur.com/search?q# life%20is%20strange Imgur search for Life is Strange]
+* [https://www.deviantart.com/tag/lifeisstrange DeviantArt search for the #lifeisstrange tag]
+
+###  *Life is Strange* 
+* [http://deadendthrills.com/gallery/?gid130 deadendthrills.com]
+* [https://imgur.com/a/qoDt0 Cutscene roaming by /u/0mgzh4x]
+* [https://www.flickr.com/photos/141691687@N03/sets/72157667094721223 Flickr album by IDK31FC]
+* [http://imgur.com/a/IXBBp First person playthrough by u/UseYourIlusion]
+* [https://www.flickr.com/photos/141248683@N03/sets/72157688773450381/ Ultrawide screenshot Flickr album by /u/Lim3Fru1t]
+* [https://www.reddit.com/r/lifeisstrange/comments/3qa3k8/i_wanted_to_share_some_screenshots_i_took_using_a/ Ultrawide screenshots by /u/simme605]
+* [http://glassrunner.tumblr.com/post/162873098028/video-game-challenge-15-soundtracks-life-is Soundtrack moments]
+* [http://cindymoons.tumblr.com/post/163567836618 Everyday Heroes motif]
+* [http://bloodofelves.tumblr.com/post/160979964704 Chloe whispering her plan to Max in Episode 3 by bloodofelves]
+
+###  *Before the Storm* 
+* [https://www.reddit.com/r/lifeisstrange/comments/77vnl0/bts_e2_freecam_screenshots_in_ultrawide_resolution/ Freecam screenshots in ultrawide resolution, Episode 2, Reddit post by /u/Lim3Fru1t]
+* [https://www.reddit.com/r/lifeisstrange/comments/77zwwj/bts_e2_more_ultrawide_freecam_screenshots/ More Freecam screenshots in ultrawide resolution by /u/Lim3Fru1t]
+* [https://www.reddit.com/r/lifeisstrange/comments/7bopl7/bts_e1ep1_ultrawide_freecam_screenshots/ Ultrawide Freecam Screenshots, Episode 1, by /u/Lim3Fru1t]
+* [https://www.reddit.com/r/lifeisstrange/comments/7iqd2i/bts_e2_some_panoramas_taken_from_the_first_two/ Panoramas of Episode 1, 2 by /u/LawnReality]
+* [https://www.reddit.com/r/lifeisstrange/comments/6yivzg/bts_e1_life_is_panorama_360_album/ Life is Panorama (360° Album), Reddit post by /u/Fish013]
+* [https://www.reddit.com/r/lifeisstrange/comments/6xgd0g/bts_e1_innocence_lost/ "Innocence Lost", Reddit post by /u/Cinemaker321] ("If Max were here she'd probably take a black and white photograph and call it "Innocence Lost" or some shit.")
+* [https://www.flickr.com/photos/83236146@N02/sets/72157686372062714 Screenshots by FlashRemedy]
+* [https://www.reddit.com/r/lifeisstrange/comments/76qpvw/bts_e1_i_wanted_to_share_some_ultrawide/ Ultrawide screenshots by /u/simme605]
+* [https://www.reddit.com/r/lifeisstrange/comments/7lbrdq/bts_e3ep3_ultrawide_freecam_screenshots/ Ultrawide freecam screenshots, Episode 3 by /u/Lim3Fru1t]
+* [https://www.reddit.com/r/lifeisstrange/comments/7n3ivy/bts_e3_some_panoramas_taken_from_the_third/ Episode 3 Panoramas by /u/LawnReality]
+* [https://www.reddit.com/r/lifeisstrange/comments/791ax2/bts_e2_shots_in_freecam_the_title_screen_after/ Title screen freecam Reddit post by /u/Kalikabanos]
+
+###  *Life is Strange 2* 
+* [https://www.facebook.com/DONTNOD.Entertainment/posts/2459030534148195 Freecam screenshots by Robert Hoffmann] - shared by DONTNOD on July 11, 2019.
+
+-packed installer), select the process and load the linked [http://steamcommunity.com/sharedfiles/filedetails/?id# 656832219 Cheat Engine table].
+*Load the area you would like to explore in [Collectible Mode](collectible_mode.md).
+*Press **G** or execute "Ghost" to activate Ghost, **F2** to activate the Cheat Engine script, **PageDown** or execute "CycleCamera -1" to activate the freecam and **H** to hide Max.
+*Tweak all settings to your liking using the UE3 commands and cheat engine table.
+
+Controls:
+***WASD**: move the camera like the player.
+***Q and E**: change the camera height.
+***Mouse**: Aim
+
+[Control description below written by davidcsimon]
+***T** or "Talk": Opens up the console, remove the word "say" before entering a command.
+***P** or "PlayersOnly": Pause all characters and cutscene cameras except for Max. Environmetal animations will play as usual
+***G** or "Ghost": Ghost mode – Max can now fly and pass through objects and people. You can move around as normal, but she won’t fall, and you can go places that are normally unreachable. Cutscenes will not trigger in this mode. Max’s animation state will freeze. This state cannot be reset without reloading the last checkpoint.
+***O** or "Teleport": Teleport to the first collidable surface in sight. Imagine a crosshair in the center of your screen, this command will teleport Max to whatever is under that crosshair, including invisible walls and ceilings. Use with Ghost Mode to change the camera height.
+***PageUp** or "CycleCamera -1": Lock the camera in place. You can still move Max as normal (great for taking shots of Max, or moving her out of frame). Press again to cycle through preset cameras.
+***PageDown** or "CycleCamera 1": Cycles the camera back.
+***Home** or "CycleCamera 0": Unlock the camera, moving it back to the standard over-the-shoulder position
+***NumPad 1-9** or "FOV [5/10/15/20/25/30/50/55/60/70/80/90/120/130/0]": Adjust the Field of View. Combine with Alt to adjust by increments.
+***Alt + NumPad 9**: Reset to the default FoV
+***F6-F8** or "Slomo [0.001/0.2/0.6]": Slow motion. Max can still be controlled, albeit slowly.
+***F9** or "Slomo 1": Reset to normal speed.
+***F10-F11** or "Slomo [2/3]": Fast Forward (Useful for rushing through cutscenes)
+
+Additional mentionable commands ([https://docs.unrealengine.com/udk/Three/EditorConsoleCommands.html All UE3 commands]):
+***ShowDebug**: Prints debug text in the upper left corner of the screen. (run again to turn off)
+Location: X Y Z" is Max's location in the map and "CameraStyle" is the current camera mode (which you can toggle through with the PageUp and PageDown keys). Some modes are "Adrift_Walk" which allows you to rotate the camera relative to Max (the default mode) and "FreeCamera" which locks the camera in place, allowing you to move Max off-screen.
+***ToggleUI**: Toggle UI visibility (not recommended, use the CE table).
+***ChangeSize [0]**: Changes Max's character size.
+***BugItGo [0 0 0 0 0 0]**: Teleports the player to the given coordinates.
+
+[Instructions below written by Ness199X]
+Moving during cutscenes:
+During cutscenes the player object doesn't exist, so you cannot just switch into ghost to fly around. The following instructions will allow you to move around during cutscenes (be aware that this can cause you to crash if these commands are executed out of order)
+
+*Execute "PlayersOnly" or press **P**.
+*Execute "CycleCamera -1" and/or "CycleCamera 1" or press **PageUp** and/or **PageDown** until you can rotate the camera.
+*Execute the command "DebugCreatePlayer 0". Your screen should split in two, with a floating Max in the bottom screen.
+*Execute "SSSwapControllers 0"
+*Execute "DebugRemovePlayer 0". Your screen should return to a single frame, with the floating Max in it.
+*Execute "Ghost" or press **G**. You should now be able to move the new Max around freely. Note that your camera controls may be a bit broken, as the camera control is relative to the 'real' Max object in the cutscene. Experiment with BugItGo and **PageUp**/**PageDown** to get it under control.
+
+[Credits to [https://www.youtube.com/watch?vx7SRMmcH0ho denetii]]
+*Execute the following command before a branching dialog sequence to exit it: "KillAll WhatIfDialogActor"
+
+# ###  Tools/Mods 
+{{Main|Modifications}}
+* [http://steamcommunity.com/sharedfiles/filedetails/?id# 656832219 "Life is Strange: Photographer Mod" by IDK31]
+* [https://web.archive.org/web/20151026153249/http://davidcsimon.com:80/LiS/about/camera-modding-instructions/ Camera Modding using Unreal Engine commands by davidcsimon]
+** [https://forums.geforce.com/default/topic/808518/pc-games/life-is-strange-camera-mods-useful-for-screenshots/ Unreal Engine camera control commands by notN1P]
+* [https://steamcommunity.com/sharedfiles/filedetails/?id544446117 Activating the Dev Console / Advanced Screenshot Guide by Ness199X]
+* [https://www.reddit.com/r/lifeisstrange/comments/3quja0/ep3_spoilers_complete_guide_to_life_is_strange/ Reddit post by /u/Illyndrei]
+* [http://www.deadendthrills.com/forum/discussion/427/guide-life-is-strange/p1 Guide by One3rd]
+* [https://www.reddit.com/r/lifeisstrange/comments/3ril4x/supersized/cwp0vvz/ Reddit post by /u/Illyndrei]
+
+###  *[Life is Strange: Before the Storm](before_the_storm.md)* 
+# ###  Instructions 
+Prerequisites:
+*Replace the "Assembly-Csharp.dll" file in [SteamApps]\common\Life is Strange - Before the Storm\Life is Strange - Before the Storm_Data\Managed" with the modified one by Haoose and create a backup of the original one.
+
+Activating the freecam in-game with player controls:
+*Have [https://cheatengine.org/downloads.php Cheat Engine] (Use the portable version which doesn't include an {{Wiki|adware}}-packed installer) opened, select the process and load the linked [http://steamcommunity.com/sharedfiles/filedetails/?id# 656832219 Cheat Engine table].
+*Load the area you would like to explore in [Collectible Mode](collectible_mode.md).
+*Press **F9** to activate the freecam.
+*Activate Cheat Engine's mono features to use the DOF adjustments.
+*Hide the HUD with **H**.
+*Hide the outlines with **N**.
+*Tweak all settings to your liking using the debug mode and Cheat Engine table.
+
+Optionally pause the game time by hiding the UI and pressing escape. This will pause the whole game world and you will still be able to explore around because the pause UI is hidden. (Possibly requires an older version of the table)
+
+Controls [written down by /u/0mgzh4x]:
+***WASD**: Move
+***EQ**: Up, down
+***Mouse**: Aim
+***Left shift**: Faster
+***Left control**: Slower
+***Left shift + Mouse wheel down, up**: Zoom in, out
+***F12**: NOCLIP
+***F11**: 8K SCREENSHOT (saved to "..\StreamingAssets\ScreenShots")
+***F10**: Toggle Postprocessing (DOF, color grading)
+***R**: Revert (return to start location)
+
+XBOX controller:
+***Left stick**: Move
+***Right stick**: Aim
+***Right, left trigger**: Up, down
+***Right bumper**: Faster
+***Left bumper**: Slower
+***Pad up**: 8K screenshot
+***Pad down**: Revert
+***Xbox Y:** Toggle PP
+***Xbox B + Left stick**: Zoom in, out
+
+###  Tools/Mods # 
+{{Main|Modifications#Before the Storm}}
+* [https://www.reddit.com/r/lifeisstrange/comments/78bcgj/no_spoilers_enabling_freecam_in_debug_mode_in/ Enabling freecam in debug mode in Episode 2 for screenshots by /u/IgelRM]
+* [http://steamcommunity.com/sharedfiles/filedetails/?id682947327 Camera modding Cheat Engine table with a hide UI feature by IDK31]
+
+###  *[Life is Strange 2](life_is_strange_2.md)* & *[Captain Spirit](captain_spirit.md)* 
+# ###  Instructions 
+Activating the freecam in-game with player controls:
+*Have [https://cheatengine.org/downloads.php Cheat Engine] opened (use the portable version which doesn't include an {{Wiki|adware}}-packed installer), select the process and load the linked [http://steamcommunity.com/sharedfiles/filedetails/?id# 656832219 Cheat Engine table].
+*Load the area you would like to explore in [Collectible Mode](collectible_mode.md).
+*Toggle freecam with **PGDN**.
+*Move with the numpad keys (**8** (up), **5** (down), **4** (left), **6** (right)), **9** (up), & **7** (down)).
+*Rotate by holding down **enter** in combination with the numpad keys.
+*Aim and zoom by holding down **+** in combination with the numpad keys.
+* Adjust camera speed with **C** (slow), **F** (fast), and **T** (faster)
+* Adjust game speed with **F5**-**F10** (default speed is F9).
+*Adjust camera location, pitch, yaw, roll, & FOV in >> VALUES section.
+*Hide and show the HUD with **H** and **G**, respectively.
+
+###  Tools/Mods # 
+* [http://steamcommunity.com/sharedfiles/filedetails/?id682947327 Camera modding Cheat Engine tables by IDK31]
+
+##  Screenshots 
+***Note: These may contain spoilers for all the currently released episodes of the game.***
+
+* [https://www.flickr.com/search/?sort# interestingness-desc&safe_search1&text# lifeisstrange&view_all1 Flickr search for the lifeisstrange tag]
+* [https://www.reddit.com/r/lifeisstrange/search?q# flair%3AScreenshot&restrict_sron&sort# relevance&tall Life is Strange subreddit flair search for screenshots]
+* [https://www.tumblr.com/search/life+is+strange Tumblr search for Life is Strange]
+* [https://imgur.com/search?q# life%20is%20strange Imgur search for Life is Strange]
+* [https://www.deviantart.com/tag/lifeisstrange DeviantArt search for the #lifeisstrange tag]
+
+###  *Life is Strange* 
+* [http://deadendthrills.com/gallery/?gid130 deadendthrills.com]
+* [https://imgur.com/a/qoDt0 Cutscene roaming by /u/0mgzh4x]
+* [https://www.flickr.com/photos/141691687@N03/sets/72157667094721223 Flickr album by IDK31FC]
+* [http://imgur.com/a/IXBBp First person playthrough by u/UseYourIlusion]
+* [https://www.flickr.com/photos/141248683@N03/sets/72157688773450381/ Ultrawide screenshot Flickr album by /u/Lim3Fru1t]
+* [https://www.reddit.com/r/lifeisstrange/comments/3qa3k8/i_wanted_to_share_some_screenshots_i_took_using_a/ Ultrawide screenshots by /u/simme605]
+* [http://glassrunner.tumblr.com/post/162873098028/video-game-challenge-15-soundtracks-life-is Soundtrack moments]
+* [http://cindymoons.tumblr.com/post/163567836618 Everyday Heroes motif]
+* [http://bloodofelves.tumblr.com/post/160979964704 Chloe whispering her plan to Max in Episode 3 by bloodofelves]
+
+###  *Before the Storm* 
+* [https://www.reddit.com/r/lifeisstrange/comments/77vnl0/bts_e2_freecam_screenshots_in_ultrawide_resolution/ Freecam screenshots in ultrawide resolution, Episode 2, Reddit post by /u/Lim3Fru1t]
+* [https://www.reddit.com/r/lifeisstrange/comments/77zwwj/bts_e2_more_ultrawide_freecam_screenshots/ More Freecam screenshots in ultrawide resolution by /u/Lim3Fru1t]
+* [https://www.reddit.com/r/lifeisstrange/comments/7bopl7/bts_e1ep1_ultrawide_freecam_screenshots/ Ultrawide Freecam Screenshots, Episode 1, by /u/Lim3Fru1t]
+* [https://www.reddit.com/r/lifeisstrange/comments/7iqd2i/bts_e2_some_panoramas_taken_from_the_first_two/ Panoramas of Episode 1, 2 by /u/LawnReality]
+* [https://www.reddit.com/r/lifeisstrange/comments/6yivzg/bts_e1_life_is_panorama_360_album/ Life is Panorama (360° Album), Reddit post by /u/Fish013]
+* [https://www.reddit.com/r/lifeisstrange/comments/6xgd0g/bts_e1_innocence_lost/ "Innocence Lost", Reddit post by /u/Cinemaker321] ("If Max were here she'd probably take a black and white photograph and call it "Innocence Lost" or some shit.")
+* [https://www.flickr.com/photos/83236146@N02/sets/72157686372062714 Screenshots by FlashRemedy]
+* [https://www.reddit.com/r/lifeisstrange/comments/76qpvw/bts_e1_i_wanted_to_share_some_ultrawide/ Ultrawide screenshots by /u/simme605]
+* [https://www.reddit.com/r/lifeisstrange/comments/7lbrdq/bts_e3ep3_ultrawide_freecam_screenshots/ Ultrawide freecam screenshots, Episode 3 by /u/Lim3Fru1t]
+* [https://www.reddit.com/r/lifeisstrange/comments/7n3ivy/bts_e3_some_panoramas_taken_from_the_third/ Episode 3 Panoramas by /u/LawnReality]
+* [https://www.reddit.com/r/lifeisstrange/comments/791ax2/bts_e2_shots_in_freecam_the_title_screen_after/ Title screen freecam Reddit post by /u/Kalikabanos]
+
+###  *Life is Strange 2* 
+* [https://www.facebook.com/DONTNOD.Entertainment/posts/2459030534148195 Freecam screenshots by Robert Hoffmann] - shared by DONTNOD on July 11, 2019.
+

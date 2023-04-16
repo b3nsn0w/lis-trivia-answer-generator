@@ -1,0 +1,30 @@
+#  An-Marie Barenchi 
+
+[File:Katestudentfile.png](thumb.md)
+**An-Marie Barenchi** is [Blackwell Academy](blackwell_academy.md)'s school nurse.
+
+After the traumatizing events at a [Vortex Club](vortex_club.md) party prior to October the 7th, [Kate Marsh](kate_marsh.md) consulted the school nurse who, concerned about Kate's current mental state, contacted [Principal Wells](principal_wells.md) to keep an eye on her and informed him about her suspicions regarding possible bullying, but obviously those warnings have been ignored. The note is attached to Kate's student file. The text reads as follows:
+
+{{Bigquote
+|Principal Wells,
+
+as the school nurse, I should inform you that Kate Marsh appears to have experienced some recent emotional or physical trauma.
+I spoke to her briefly and she was upset but vague and refused to talk further with me.
+
+I think it's important that we keep our eyes on her and make sure she's not under duress from other classmates, as is my suspicion.
+
+Regards
+
+An-Marie Barenchi
+}}
+
+##  Trivia 
+* There is another staff member at Blackwell Academy with the same last name, [Michelle Barenchi](michelle_barenchi.md). She is the coach for the school swimming team [The Otters](otters.md) and it's possible that she's related to An-Marie Barenchi.
+
+{{Character Navbox}}
+
+##  Trivia 
+* There is another staff member at Blackwell Academy with the same last name, [Michelle Barenchi](michelle_barenchi.md). She is the coach for the school swimming team [The Otters](otters.md) and it's possible that she's related to An-Marie Barenchi.
+
+{{Character Navbox}}
+

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Does Chloe Say About Mark Jefferson When She Sees Him On Campus?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Hot for teacher\"",
+      "B": "\"Creepy old man\"",
+      "C": "\"Weirdo\"",
+      "D": "\"I don't like him\""
+    }
+  },
+  {
+    "question": "What Contest Does Victoria Win At The End of the World Party?",
+    "answer": "A",
+    "choices": {
+      "A": "Everyday Heroes Contest",
+      "B": "Best Dressed Contest",
+      "C": "Most Popular Contest",
+      "D": "Talent Show Contest"
+    }
+  },
+  {
+    "question": "What Happens To Chloe When Jefferson Appears At The Junkyard?",
+    "answer": "B",
+    "choices": {
+      "A": "She Escapes",
+      "B": "She Is Shot In The Forehead",
+      "C": "She Is Arrested",
+      "D": "She Is Rescued By Max"
+    }
+  },
+  {
+    "question": "What Does Jefferson Do To Max At The Junkyard?",
+    "answer": "B",
+    "choices": {
+      "A": "He Shoots Her In The Forehead",
+      "B": "He Injects Her With A Needle",
+      "C": "He Kidnaps Her",
+      "D": "He Leaves Her Alone"
+    }
+  },
+  {
+    "question": "What Is Jefferson's Connection To Nathan And The Prescott Family?",
+    "answer": "C",
+    "choices": {
+      "A": "He Is Their Lawyer",
+      "B": "He Is Their Neighbor",
+      "C": "He Is Their Teacher",
+      "D": "He Is Their Friend"
+    }
+  }
+]

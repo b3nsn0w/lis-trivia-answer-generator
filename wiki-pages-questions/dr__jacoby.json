@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who is Dr. Jacoby's patient?",
+    "answer": "A",
+    "choices": {
+      "A": "Nathan Prescott",
+      "B": "Sean Prescott",
+      "C": "Max Caulfield",
+      "D": "Chloe Price"
+    }
+  },
+  {
+    "question": "What does Dr. Jacoby ask for in his letter to Sean Prescott?",
+    "answer": "B",
+    "choices": {
+      "A": "A raise in his salary",
+      "B": "A consultation with Sean and his wife",
+      "C": "A vacation",
+      "D": "A promotion"
+    }
+  },
+  {
+    "question": "How long has Dr. Jacoby been Nathan Prescott's psychiatrist?",
+    "answer": "C",
+    "choices": {
+      "A": "1 year",
+      "B": "3 years",
+      "C": "5 years",
+      "D": "10 years"
+    }
+  },
+  {
+    "question": "What does Dr. Jacoby fear is happening to Nathan Prescott?",
+    "answer": "C",
+    "choices": {
+      "A": "He is becoming more connected to reality",
+      "B": "He is becoming more aggressive",
+      "C": "He is becoming more isolated",
+      "D": "He is becoming more social"
+    }
+  },
+  {
+    "question": "What is the possible nod in Dr. Jacoby's name?",
+    "answer": "C",
+    "choices": {
+      "A": "A nod to his favorite book",
+      "B": "A nod to his favorite movie",
+      "C": "A nod to his favorite TV show",
+      "D": "A nod to his favorite song"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Written On The Vortex Club Flyer Near Courtney Wagner?",
+    "answer": "A",
+    "choices": {
+      "A": "Join Us... Or Die!",
+      "B": "End Of The World Party",
+      "C": "The World Is Yours Today",
+      "D": "Invasion Of The Vortex Club"
+    }
+  },
+  {
+    "question": "What Is Written On The Bully-Free Posters?",
+    "answer": "A",
+    "choices": {
+      "A": "Stop Bullies Dead In Their Tracks",
+      "B": "Join The Chess Team",
+      "C": "The World Is Yours Today",
+      "D": "Invasion Of The Vortex Club"
+    }
+  },
+  {
+    "question": "What Is Written On The Gun-Free And No Tobacco Use Poster?",
+    "answer": "A",
+    "choices": {
+      "A": "Good Thing I Left My AK At Home",
+      "B": "Stop Bullies Dead In Their Tracks",
+      "C": "The World Is Yours Today",
+      "D": "Invasion Of The Vortex Club"
+    }
+  },
+  {
+    "question": "What Is Written On The Rachel Amber Missing Person Posters?",
+    "answer": "D",
+    "choices": {
+      "A": "Now Why Would Frank Bowers Have Your Bracelet?",
+      "B": "Maybe You Owed Money To Frank Too...",
+      "C": "I Wish You And Chloe Had Run Away Earlier.",
+      "D": "All Of The Above"
+    }
+  },
+  {
+    "question": "What Is Written On The Join The Chess Team Poster?",
+    "answer": "A",
+    "choices": {
+      "A": "Nerd Alert! This Poster Has Warren Written All Over It.",
+      "B": "Stop Bullies Dead In Their Tracks",
+      "C": "The World Is Yours Today",
+      "D": "Invasion Of The Vortex Club"
+    }
+  }
+]

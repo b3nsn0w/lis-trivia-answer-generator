@@ -1,0 +1,42 @@
+[
+  {
+    "question": "How Does Max Enter Nathan's Room?",
+    "answer": "B",
+    "choices": {
+      "A": "She Picks The Lock",
+      "B": "She Uses A Fire Extinguisher To Break The Lock",
+      "C": "She Finds The Key Under The Mat",
+      "D": "She Asks Nathan To Open The Door"
+    }
+  },
+  {
+    "question": "What Does Max Find Taped To The Side Of Nathan's Couch?",
+    "answer": "C",
+    "choices": {
+      "A": "A Gun",
+      "B": "A Knife",
+      "C": "A Phone",
+      "D": "A Flash Drive"
+    }
+  },
+  {
+    "question": "What Does Warren Do To Nathan During The Confrontation?",
+    "answer": "C",
+    "choices": {
+      "A": "Punches Him In The Face",
+      "B": "Kicks Him In The Stomach",
+      "C": "Headbutts Him",
+      "D": "Throws Him Against The Wall"
+    }
+  },
+  {
+    "question": "How Does Max Feel About Warren's Actions During The Confrontation?",
+    "answer": "B",
+    "choices": {
+      "A": "Proud",
+      "B": "Scared",
+      "C": "Angry",
+      "D": "Indifferent"
+    }
+  }
+]

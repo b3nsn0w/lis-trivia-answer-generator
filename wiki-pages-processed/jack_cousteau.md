@@ -1,0 +1,33 @@
+#  Jack Cousteau 
+
+```yaml
+Character
+
+image: Cousteau Main.png
+gender: Male
+appearance: '[Episode 2: Out of Time](episode_2__out_of_time.md) (mentioned)'
+hair: Grey
+```
+
+**{{PAGENAME}}** is a local fisherman and former television personality. In 2013, he is a resident of [Arcadia Bay](arcadia_bay.md) and operates a small boat chartering business, taking clients out into the Pacific Ocean and providing information on local sea life. A [Media:Cousteau Flyer.png](brochure.md) advertising his business can be found inside the [Two Whales Diner](two_whales_diner.md) in [Episode 2: Out of Time](episode_2.md). It reads as follows:
+
+{{Bigquote
+|JOIN THE COUSTEAUS ALL-DAY SEA ADVENTURE!
+
+Now charter the legendary seaman for your own ocean voyage! Jack Cousteau & His Undersea Worlds!
+
+You've seen him on TV! Read about him in the news!
+
+A local captain, fisherman and marine expert with 30 years experience will take your group on a three hour
+tour of Arcadia Bay's lush and exotic aquatic kingdom. Jack will not only explain the importance of our
+marine life to the eco-system, he will even help you catch and prepare your own fish from the sea!
+
+Daily & Weekly Excursions Rates: 75.00 - 125.00  For Further Details, Please visit Our Website:
+SEACOUSTEAUFISH.gu
+}}
+
+## Trivia
+* His name is a reference to {{Wiki|Jacques Cousteau}}, a French naval officer, explorer, conservationist, filmmaker, innovator, scientist, photographer, author and researcher who studied the sea and all forms of life in water.
+
+{{Character Navbox}}
+

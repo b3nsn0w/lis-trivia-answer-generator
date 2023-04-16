@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Message Does Victoria Leave On Kate's Social Media Page If Kate Dies?",
+    "answer": "B",
+    "choices": {
+      "A": "\"Sending love to you, Kate\"",
+      "B": "\"Requiescat In Pace\"",
+      "C": "\"Wherever you go, there I am\"",
+      "D": "\"Rest in peace, Kate\""
+    }
+  },
+  {
+    "question": "What Does Victoria Do If Kate Is Saved?",
+    "answer": "B",
+    "choices": {
+      "A": "She Leaves A Nasty Comment On Max's Social Media Page",
+      "B": "She Changes The Message On Her Slate",
+      "C": "She Sets Up A Social Media Page In Support Of Mark Jefferson",
+      "D": "She Sends Nathan An E-Mail"
+    }
+  },
+  {
+    "question": "What Does Victoria Write In Her E-Mail To Taylor?",
+    "answer": "D",
+    "choices": {
+      "A": "She Expresses Regret Over Her Actions Towards Kate",
+      "B": "She Asks Taylor Not To Say Anything About Her Sneaking Out",
+      "C": "She Confirms That She Is Still Planning To Attend The Party",
+      "D": "All Of The Above"
+    }
+  },
+  {
+    "question": "What Does Victoria Find In Victoria's Room If Max Searches It?",
+    "answer": "C",
+    "choices": {
+      "A": "A Photo Of An Intoxicated Kate",
+      "B": "A Photo Of Victoria And Nathan Taking Drugs",
+      "C": "Both A And B",
+      "D": "None Of The Above"
+    }
+  }
+]

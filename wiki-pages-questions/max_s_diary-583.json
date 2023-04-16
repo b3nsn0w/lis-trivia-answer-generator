@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Why Did Max Decide Not To Kick David In The Balls?",
+    "answer": "C",
+    "choices": {
+      "A": "She Was Scared Of Getting Caught",
+      "B": "She Thought It Would Be Morally Wrong",
+      "C": "She Didn't Want To Develop A Dangerous Habit",
+      "D": "She Felt Sorry For David"
+    }
+  },
+  {
+    "question": "Who Does Max Think Is Behind Kate's Suicide?",
+    "answer": "B",
+    "choices": {
+      "A": "The Principal",
+      "B": "David",
+      "C": "Rachel",
+      "D": "Chloe"
+    }
+  },
+  {
+    "question": "What Did Max And Warren Watch In The Sky At The End Of The Day?",
+    "answer": "A",
+    "choices": {
+      "A": "A Solar Eclipse",
+      "B": "A Meteor Shower",
+      "C": "A UFO",
+      "D": "A Rainbow"
+    }
+  },
+  {
+    "question": "What Does Max Think Is Happening To Arcadia Bay?",
+    "answer": "D",
+    "choices": {
+      "A": "A Solar Eclipse",
+      "B": "A Meteor Strike",
+      "C": "A Natural Disaster",
+      "D": "Something Ominous"
+    }
+  }
+]

@@ -1,0 +1,71 @@
+Here is a section of the wiki page for Mark Jefferson:
+
+#  Mark Jefferson 
+
+```yaml
+Character
+
+name: Mark Jefferson
+image: Jefferson.png
+alsoknown: |-
+  Jefferson
+  Mr. Jefferson
+age: '38'
+born: >-
+  April 11, 1975This information can be found on a website opened on Max's
+  computer in Episode 3 set up to protest against Mr. Jefferson's suspension if
+  he got suspended in the previous episode. Originally, Jefferson's date of
+  birth was April 11, 1967, but it was changed with a patch update on January
+  15, 2016.
+died: October 11, 2013 (pre-rewind, determinant)
+causeofdeath: Gunshot wound to the head
+gender: Male
+hair: Brown
+eyes: Brown
+loveinterest: '[Rachel Amber](rachel_amber.md) (presumed, deceased)'
+profession: |-
+  Art Teacher
+  Professional Photographer
+affiliation: '[Blackwell Academy](blackwell_academy.md)'
+appearance: |-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)
+  [Episode 2: Out of Time](episode_2__out_of_time.md)
+  [Episode 3: Chaos Theory](episode_3__chaos_theory.md)
+  [Episode 4: Dark Room](episode_4__dark_room.md)
+  [Episode 5: Polarized](episode_5__polarized.md)
+voice: |-
+  [Derek Phillips](derek_phillips.md) (ENG)
+  [Masahiro Yamanaka](masahiro_yamanaka.md) (JPN)
+```
+
+> Seriously, though, I could frame any one of you in a dark corner,
+ and capture you in a moment of desperation.
+
+**Mr. Jefferson in "[Episode 1: Chrysalis**, Chrysalis](episode_1__chrysalis____chrysalis.md)"
+
+**Mark Jefferson** (born April 11, 1975) is a photography teacher at [Blackwell Academy](blackwell_academy.md) and the main antagonist of *[Life is Strange](life_is_strange.md)*. As a famous photographer and a widely recognized artist across America, he gained popularity during the '90s. Introduced as the cool and nice teacher who is greatly admired by his students, including [Maxine Caulfield](max_caulfield.md), he is later revealed to be the true main antagonist in *Life is Strange,* being the serial killer terrorising [Arcadia Bay](arcadia_bay.md). Throughout the game, Jefferson was either directly or indirectly responsible for the (potential) deaths of a total of seven characters.
+
+: ''For the image gallery, click [Mark Jefferson/Gallery](here.md). To visit Jefferson's lair click [Dark Room (Location)](here.md)''.
+
+## Personality 
+Outwardly, Jefferson appears to be a charismatic and charming man, an active and passionate photographer and teacher. He seems to care about the work of his students, making sure all of his students enter the [Everyday Heroes Photo Contest](_everyday_heroes__contest.md) with a gentle reminder at the end of his photography class session in order to have a chance at progressing their artistic careers. However, his dismissive treatment of Kate's problems as she asks for help in "[Episode 2: Out of Time](out_of_time.md)", already portrays him as somewhat callous and insensitive at that point.
+
+Jefferson seems to be cautious around the flirtatious nature of his student [Victoria Chase](victoria_chase.md). Despite her efforts to flirt with him, he declines; especially as she becomes more explicit in "[Episode 3: Chaos Theory](chaos_theory.md)". This could be because of the value he places on innocence.
+
+In reality, Jefferson is a cold, methodical, sadistic, and nihilistic individual, with an obscure obsession to capture the frame of "innocence" in others. He is obsessed with the idea of "capturing that moment innocence evolves into corruption", and is prepared to kill anyone who he deems a liability to him or his plans, stopping at nothing to achieve his personal objectives. He is willing to manipulate others to his advantage while making sure that they remain silent. Jefferson seems to have situations planned out well in advance, this combined with his high intelligence and extreme cunning has allowed him to continue what he is doing without being caught.
+
+## Appearance 
+Mark Jefferson is a tall man of average build in his late 30s. He has brown hair and brown eyes. As an arts subject teacher, Mark has a laid-back modern look. His hair is a choppy messy style, and he has a light trendy beard. His attire is smart casual; he wears black loafers, blue jeans and a white button-up shirt with a black blazer over it. He also wears black and white trendy glasses.
+
+## Biography 
+The following is what [Maxine Caulfield](max.md) wrote about Mark in [Max's Journal](her_journal.md):[File:Pamphlet.jpg](thumb.md)
+
+''Not only is Mark Jefferson one of the best photographers in the world, he's also my teacher. And one of the reasons I wanted to come to Blackwell. How often do you get to be mentored by one of your inspirations? I've always loved his deco and goth style and he's so versatile with all of his incredible print and advertising work. Still, Jefferson can be a bit condescending. He's pretty hip for his age, but kinda aloof and sometimes pretentious. He has this smug smile when he thinks he's right...*
+
+*But I do think he's preparing us for how tough it is to be a full time "artist". He acts like he understands my own work and obsession with analog images.*
+
+*He really wants me to enter a photo in this "Everyday Hero" contest but I've done a good job of avoiding that. The winner gets to fly to San Francisco to represent Blackwell Academy and get national exposure. I'd like to think my work could be good enough to win and I'm honored Jefferson even bugs me about the contest.''
+
+
+
+Generate five trivia questions relevant to this section of the page.

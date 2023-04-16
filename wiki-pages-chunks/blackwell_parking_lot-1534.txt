@@ -1,0 +1,65 @@
+Here is a section of the wiki page for Blackwell Parking Lot:
+
+#  Blackwell Parking Lot 
+
+```yaml
+Location
+
+name: Blackwell Parking Lot
+image: Blackwell Parking Lot.jpg
+type: Parking Lot
+location: |-
+  [Blackwell Academy](blackwell_academy.md),
+  [Arcadia Bay](arcadia_bay.md)
+state: Oregon
+appears: >-
+  [Episode 1: Chrysalis](episode_1__chrysalis.md)[Episode 2: Out of
+  Time](episode_2__out_of_time.md) (cutscene)[Episode 3: Chaos
+  Theory](episode_3__chaos_theory.md) (cutscene)[Episode 4: Dark
+  Room](episode_4__dark_room.md) (cutscene)[Episode 5:
+  Polarized](episode_5__polarized.md) (cutscene)
+```
+
+The '''Blackwell Academy's Parking Lot'* is used by students and teachers alike to park their vehicles. [Maxine Caulfield](max_caulfield.md) has the opportunity to explore this location in the first episode *[Episode 1: Chrysalis](chrysalis.md)''.
+
+## Episode One - "[Episode 1: Chrysalis](chrysalis.md)" 
+Max goes to the parking lot to bring [Warren Graham](warren_graham.md) his [Warren's Flash Drive](flash_drive.md). Warren shows Max his car and the two talk about the films on the flash drive. They are interrupted by [Nathan Prescott](nathan_prescott.md), who accuses her of being in the bathroom and spying on his argument with [Chloe Price](chloe_price.md). Warren intervenes to protect Max, but Nathan headbutts him to the ground. Max tries to get Nathan away from Warren, but falls to the ground as well and breaks [Max's Camera](her_camera.md) in the process. Chloe shows up in [Chloe's Truck](her_truck.md) and drives away together with Max. [David Madsen](david_madsen.md) is then seen running up to Nathan and Warren.
+
+## Episode Two - "[Episode 2: Out of Time](out_of_time.md)" 
+The parking lot is shown in the ending cutscene. [Mark Jefferson](mark_jefferson.md) has a short argument with [Ray Wells](principal_wells.md) before driving away.
+
+## Episode Three - "[Episode 3: Chaos Theory](chaos_theory.md)" 
+Before arranging to meet up with Max, Chloe parks her truck in the school's parking lot. When the girls get spotted by the Blackwell security, they run to Chloe's truck and escape to [Madsen Household](her_house.md).
+
+## Episode Four - "[Episode 4: Dark Room](dark_room.md)" 
+Max and Chloe drive to [Blackwell Academy](blackwell.md) together to confront Nathan at the [End of the World Party](end_of_the_world_party.md). As they move from the parking lot to the [Blackwell Swimming Pool](swimming_pool.md), they run into Warren, who insists on taking a picture with Max. Max agrees and stops, but Chloe moves on, driven by revenge. Max follows her after taking the photo and warning Warren to stay away from Nathan.
+
+## Episode Five - "[Episode 5: Polarized](polarized.md)" 
+Having her diary burned by Jefferson, Max learns that the only way to save Chloe is to use the picture Warren took of them on the previous day. After she focuses on the photo, the scene from Episode 4 plays out again, but this time Max doesn't let Chloe enter the party. Instead of springing Jefferson's trap as they did before, Max and Chloe stay at Chloe's house until the [storm](storm.md) is about to strike.
+
+## Interactions 
+Before giving the flash drive to Warren, Max may walk around the parking lot and interact with several objects.
+:**PC users: **''Hover over the text to see Max's comments. [Interactions](see_here.md) for all interactions in the game.''
+
+*{{Interaction|She can look at a sign advertising the [Two Whales Diner](two_whales_diner.md).|"I better go there soon to see if Joyce is still there... and get a burger."}}
+*{{Interaction|She can look at a "Cars&#61;Death" graffiti.|"Good thing I don't have a car. Yet."}}
+*{{Interaction|She can look at a "ReTARDed" graffiti.|"I wonder how long before Samuel has to repaint that?"}}
+*{{Interaction|She can look at a bike covered with toilet paper.|"Who toilet papers a bike?"}}
+*{{Interaction|She can look at [Rachel Amber](rachel_amber.md) Missing Person posters.|"The whole town is turning into one giant 'Missing Persons' poster."
+"Too bad those posters will be trashed and ignored."
+"At least Rachel Amber has people who care about her..."}}
+*{{Interaction|She can look at Chloe's truck.|"Now this really pisses me off. So entitled. 'Sorry, handicapped folks, 
+my truck needs these two spots more than you do.' Bastard."}}
+*{{Interaction|She can look at a pile of Missing Person posters in the back of Chloe's truck.|"Damn, somebody is seriously devoted to putting up these posters."}}
+*{{Interaction|She can look at [Pompidou](pompidou.md).|"That dog looks peaceful asleep but if I get too close... Cujo!"}}
+*{{Interaction|She can look at, draw on and take an [Optional Photos](optional_photo.md) of [Frank's RV](frank_s_rv.md) window.|**Before: **"That layer of dust is begging for my finger."
+**After: **"There. Now it's officially a dirty window."
+**Photo: **"I could use this picture for a series on Arcadia Bay lots..."}}
+*{{Interaction|She can look at a "Car Theft Warning" flyer.|"A new surveillance system? That's how it starts..."}}
+*{{Interaction|She can look at Warren's car.|"Look at Warren and his Wayback Machine.[References (Life is Strange)](reference.md) to the {{Wiki|WABAC machine}} from "*{{Wiki|The Rocky and Bullwinkle Show}}*". He's a brave man."}}
+*{{Interaction|She can look at and speak to [Juliet Watson](juliet_watson.md).|"Juliet still looks upset about Zach and Victoria. I don't blame her."}}
+*{{Interaction|She can look at and speak to Warren **(required)**.|"And there's Warren... Did he actually buy a used car?"}}
+
+
+
+Generate five trivia questions relevant to this section of the page.

@@ -1,0 +1,124 @@
+Here is a section of the wiki page for Episode 4: Dark Room - Script:
+
+## **Optional Conversation with Taylor**
+(Taylor is friendly)# (Taylor is friendly)
+
+**Taylor:** Max! Look at you go, girl!
+
+**Max:** Taylor, have you seen Nathan yet?
+
+**Taylor:** No... that's fine by me. He's been getting like too buggy... and kind of scary. Victoria might know...
+
+{{#tag:tabber|Nathan.Nathan.
+
+**Max:** How has Nathan been scary?
+
+**Taylor:** I've always thought he was a creeper. Fun, but...you can tell he doesn't give a shit about anybody.
+
+{{!}}-{{!}}Victoria.# Victoria.
+
+**Max:** What does Victoria say about that?
+
+**Taylor:** She blows it off, but Vic is close with Nathan. They're more like brother-sister. Or something...She really cares about him.
+
+}}
+
+**Max:** Is this why you want to be in the Vortex Club?
+
+**Taylor:** No, Max. I'm like far from home at a great school. I want to learn things, make friends and party...but when Kate was on the roof, I knew I had gone too far...
+
+{{#tag:tabber|Kate was dosed.Kate was dosed.
+
+**Max:** Kate was dosed at the last Vortex Club party by Nathan, so you should avoid any drink here tonight.
+
+**Taylor:** Trust me, I won't even drink my own water when Nathan is around now. He's a pharmacy simulator.
+
+{{!}}-{{!}}Why come?# Why come?
+
+**Max:** Why did you come tonight? Membership dues?
+
+**Taylor:** Don't laugh, but I had a weird vibe this might actually be the last Vortex Club party...End Of The World, right?
+
+}}
+
+**Max:** I do have to go now. Look out for yourself, Taylor. And give my best to your mom.
+
+**Taylor:** Oh, thanks, Max. She's doing great after her surgery. I'm glad to know you're looking out for us too...
+
+|-|(Taylor is hostile)(Taylor is hostile)
+
+**Taylor:** Oh my God. Max. Seriously? What are you doing here?
+
+**Max:** Taylor, have you seen Nathan yet?
+
+**Taylor:** If I did, it's none of your business. This is a VIP area, so you should get back to the bleachers.
+
+{{#tag:tabber|Keep dancing.# Keep dancing.
+
+**Max:** Just keep on dancing for Victoria, Taylor. And stay away from Nathan.
+
+**Taylor:** Like, thanks for your concern.
+
+{{!}}-{{!}}Eat shit.Eat shit.
+
+**Max:** Eat shit, Taylor. Enjoy the end of the world.
+
+**Taylor:** Okay, like, maybe I will. Uh...
+
+}}
+
+# #
+
+## **Optional Conversation with Logan**
+
+**Max:** Logan, can I talk to you for a second?
+
+**Logan:** Max, all right! I'll talk after you shake that booty for me!
+
+**Max:** Uh, no. Have you seen Nathan?
+
+**Logan:** I can't even get Victoria or Taylor to twerk... and you want to hang with Nathan? Why?
+
+Business with Nathan.# Business with Nathan.
+
+**Max:** Business.
+
+**Logan:** You should talk to his dad then. Bro has got more money than God... and he spends it on the Vortex Club, not the losers over there in the cheap seats.
+
+|-|None of your business.None of your business.
+
+**Max:** None of your business.
+
+**Logan:** Whoa, Max is dropping serious attitude on the dance floor!
+
+**Max:** Logan, this is a swimming pool. In other words, you haven't seen Nathan.
+
+**Logan:** Ask Victoria, she always knows where he is. Why don't you ever want to see me, Max? You're so cute and we never really talk...
+
+You're a dick. (Determinant)# You're a dick. (Determinant)
+
+''Only available if Max saw Dana's pregnancy test in Episode 1.''
+
+**Max:** Logan, you're such a dick. You bailed on Dana when she was pregnant, right when she needed you most. Now you're trying to mack on me? Are you proud of yourself?
+
+**Logan:** Bro, you are giving me the full body tackle... I already feel like an ass for flaking on Dana. How can I be an un-dick now?
+
+**Max:** You could start by not trying to sex up every female in front of you. The rest is your choice... Use it well, bro.
+
+**Max:** Oh, and don't ever touch Daniel DaCosta again. You will regret it. Now excuse me.
+
+|-|Talk about what?Talk about what?
+
+**Max:** Talk about what?
+
+**Logan:** The next Bigfoots game. We could go out to the field, I could show you some moves... give you a touchdown...
+
+**Max:** Logan, don't make me hurt you.
+
+**Logan:** Damn, that was way more exciting than a dance... Catch ya later, Max!
+
+# #
+
+
+
+Generate five trivia questions relevant to this section of the page.

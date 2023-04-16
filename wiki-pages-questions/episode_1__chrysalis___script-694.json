@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Samuel Doing When Max Talks To Him?",
+    "answer": "A",
+    "choices": {
+      "A": "Sweeping",
+      "B": "Painting",
+      "C": "Reading",
+      "D": "Sleeping"
+    }
+  },
+  {
+    "question": "What Does Samuel Say About Rachel Amber?",
+    "answer": "B",
+    "choices": {
+      "A": "She Was Positive And Negative",
+      "B": "She Was A Prism",
+      "C": "She Was Popular",
+      "D": "She Was A Battery"
+    }
+  },
+  {
+    "question": "What Does Max Find On Her Desk In Her Room?",
+    "answer": "A",
+    "choices": {
+      "A": "A Sticky Note From Victoria",
+      "B": "A Flash Drive",
+      "C": "A Photo Of Rachel Amber",
+      "D": "A Letter From Her Mom"
+    }
+  },
+  {
+    "question": "Who Has Locked Dana Inside Her Room?",
+    "answer": "D",
+    "choices": {
+      "A": "Victoria",
+      "B": "Taylor",
+      "C": "Courtney",
+      "D": "Juliet"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Show Max Mentions In Her Thoughts?",
+    "answer": "B",
+    "choices": {
+      "A": "The Real Housewives of Blackwell",
+      "B": "The Real Drama Queens of Blackwell",
+      "C": "The Real Teens of Blackwell",
+      "D": "The Real Students of Blackwell"
+    }
+  }
+]

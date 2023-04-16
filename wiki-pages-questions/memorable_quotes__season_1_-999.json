@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Is Max's Favorite Exclamation Throughout The Game?",
+    "answer": "A",
+    "choices": {
+      "A": "Wowser",
+      "B": "Hella",
+      "C": "Amazeballs",
+      "D": "Awesomesauce"
+    }
+  },
+  {
+    "question": "What Is Chloe's Response To Max's SMS In \"Out Of Time\"?",
+    "answer": "C",
+    "choices": {
+      "A": "Hella",
+      "B": "Awesomesauce",
+      "C": "NO EMOJI!!!",
+      "D": "Amazeballs"
+    }
+  },
+  {
+    "question": "What Is Chloe's Graffiti In Her Room?",
+    "answer": "C",
+    "choices": {
+      "A": "Hella",
+      "B": "Awesomesauce",
+      "C": "Everybody Lies. No Exceptions.",
+      "D": "Amazeballs"
+    }
+  },
+  {
+    "question": "What Does Max Say When She Sees The Blue Butterfly In \"Chrysalis\"?",
+    "answer": "D",
+    "choices": {
+      "A": "Wowser",
+      "B": "Hella",
+      "C": "Amazeballs",
+      "D": "When A Door Closes, A Window Opens... Or, Something Like That."
+    }
+  }
+]

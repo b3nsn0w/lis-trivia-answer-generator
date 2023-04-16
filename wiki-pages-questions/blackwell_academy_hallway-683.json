@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is Written On The Blood Donation Poster In The Blackwell Academy Hallway?",
+    "answer": "C",
+    "choices": {
+      "A": "\"Donate Blood Today\"",
+      "B": "\"Give The Gift Of Life\"",
+      "C": "\"Save A Life, Donate Blood\"",
+      "D": "\"Blood Donors Needed\""
+    }
+  },
+  {
+    "question": "What Club Does Max Associate With The Poster That Has Warren Written All Over It?",
+    "answer": "C",
+    "choices": {
+      "A": "Science Club",
+      "B": "Photography Club",
+      "C": "Chess Club",
+      "D": "Debate Club"
+    }
+  },
+  {
+    "question": "What Is Max's Opinion Of The Vortex Club Poster In The Blackwell Academy Hallway?",
+    "answer": "B",
+    "choices": {
+      "A": "She Thinks It's Cool",
+      "B": "She Thinks It's Lame",
+      "C": "She Thinks It's Interesting",
+      "D": "She Thinks It's Inspiring"
+    }
+  },
+  {
+    "question": "What Is Written On The Notice Board In The Blackwell Academy Hallway?",
+    "answer": "D",
+    "choices": {
+      "A": "Poetry Jam Tryouts",
+      "B": "PC For Sale",
+      "C": "Backpack Stolen",
+      "D": "All Of The Above"
+    }
+  },
+  {
+    "question": "What Is The Mascot Of Blackwell Academy's Football Team?",
+    "answer": "B",
+    "choices": {
+      "A": "Otters",
+      "B": "Bigfoots",
+      "C": "Eagles",
+      "D": "Lions"
+    }
+  }
+]

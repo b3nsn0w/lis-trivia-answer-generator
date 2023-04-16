@@ -1,0 +1,121 @@
+= Max's Nightmare/Gallery =
+
+{{Free Tab
+|minwidth = 22%
+|maxwidth = 30%
+|borderradius = 4
+|height = 2
+|tab1=Nightmare |link1=Max's Nightmare
+|tab2=Journal |link2=Max's Nightmare Journal
+|tab3=Messages |link3=Max's Nightmare Messages
+|tab4=Image Gallery|link4=Max's Nightmare/Gallery
+}}
+{{Stub}}
+The following images are from '''Max's nightmare''' in ''[[Life is Strange]]''.
+
+== Jefferson's Class ==
+<gallery widths="200" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+NMCR5.jpg|Before the bell rings
+NMCR6.jpg|After the bell rings
+NMCR4.jpg
+NMCR2.jpg
+NMCR3.jpg
+NMCR1.jpg
+NMCR8.jpg
+NMCR7.jpg|Kate's seat
+NMCR9.jpg|Transition between classroom and dorm
+</gallery>
+
+== Dormitory Hall ==
+<gallery widths="200" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+HW1.jpg|Max's initial entry
+HW5.jpg|Dead whales outside dorm
+HW9.jpg|Giant squirrels outside dorm
+HW3.jpg|Kate confronting Max
+HW4.jpg|Kate exiting
+HW2.jpg|Kate mourning herself
+HW6.jpg|Re-entry 
+HW7.jpg|Second re-entry
+HW8.jpg|Third re-entry
+</gallery>
+
+== Blackwell Academy ==
+N/A
+
+== Maze ==
+<gallery widths="200" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+MZ11.jpg
+MZ10.jpg
+MZ9.jpg
+MZ8.jpg
+MZ7.jpg
+MZ6.jpg
+MZ5.jpg
+MZ4.jpg
+MZ3.jpg
+MZ2.jpg
+MZ1.jpg
+</gallery>
+
+== Chloe's House ==
+<gallery widths="200" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+MZ12.jpg
+CPH1.jpg
+CPH2.jpg
+</gallery>
+
+== Dark Room ==
+<gallery widths="200" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+DR1.jpg|First scene
+DR2.jpg
+DR3.jpg
+DR4.jpg
+DR5.jpg
+DR6.jpg
+DR7.jpg
+DR8.jpg
+</gallery>
+
+== Two Whales Diner ==
+<gallery widths="200" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+DNR1.jpg
+DNR2.jpg
+DNR3.jpg
+DNR4.jpg|Nightmare Max talking to player character
+</gallery>
+
+== Max and Chloe's Key Moments ==
+<gallery widths="200" position="center" captionalign="center" bordersize="none" bordercolor="transparent" hideaddbutton="true">
+DNR5.jpg|Initial scene change
+KeyMMT.jpg|Key moments zoom-out
+MMR18.jpg
+MMR17.jpg
+MMR16.jpg
+MMR15.jpg
+MMR14.jpg
+MMR13.jpg
+MMR12.jpg
+MMR11.jpg
+MMR10.jpg
+MMR9.jpg
+MMR8.jpg
+MMR7.jpg
+MMR6.jpg
+MMR5.jpg
+MMR4.jpg
+MMR2.jpg
+MMR3.jpg
+MMR1.jpg
+MMR20.jpg
+MMR19.jpg
+MMR21.jpg|Max gaining control of herself
+</gallery>
+
+
+[[ru:Кошмар Макс/Галерея]]
+[[Category:Gallery]]
+
+[[Category:Images of Maxine Caulfield]]
+
+[[Category:Max's Nightmare]]
+[[Category:Life is Strange]]

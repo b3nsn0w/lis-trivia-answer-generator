@@ -1,0 +1,52 @@
+[
+  {
+    "question": "According to one theory, what is the real purpose of Max's power?",
+    "answer": "C",
+    "choices": {
+      "A": "To save lives",
+      "B": "To change the course of the future",
+      "C": "To let Max enjoy her time with Chloe",
+      "D": "To cope with survivor's guilt"
+    }
+  },
+  {
+    "question": "What does the Ouroboros symbolize on Chloe's T-shirt in Episode 5?",
+    "answer": "B",
+    "choices": {
+      "A": "The destruction of Arcadia Bay",
+      "B": "The eternal return",
+      "C": "The end of the game",
+      "D": "The cycle of life and death"
+    }
+  },
+  {
+    "question": "What is the Utilitarian dilemma in the final decision of the game?",
+    "answer": "A",
+    "choices": {
+      "A": "Sacrificing Chloe or Arcadia Bay",
+      "B": "Saving Nathan Prescott or Jefferson",
+      "C": "Finding Rachel Amber or Victoria Chase",
+      "D": "Rescuing Warren or Kate"
+    }
+  },
+  {
+    "question": "According to one theory, what is the final lesson of the game for Max?",
+    "answer": "D",
+    "choices": {
+      "A": "To cope with survivor's guilt",
+      "B": "To make up for what you didn't do",
+      "C": "To treasure the people you love",
+      "D": "To learn to live with the consequences of your actions"
+    }
+  },
+  {
+    "question": "What is the significance of Max's nightmare in Episode 5?",
+    "answer": "A",
+    "choices": {
+      "A": "It represents her emotional reliving of all experiences in the last five days",
+      "B": "It symbolizes the destruction of Arcadia Bay",
+      "C": "It foreshadows the end of the game",
+      "D": "It represents Max's desire for a second chance"
+    }
+  }
+]

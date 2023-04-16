@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Where Was Rachel's Letter To Frank Found?",
+    "answer": "C",
+    "choices": {
+      "A": "Inside A Vent In Chloe's House",
+      "B": "On The Fridge In Chloe's House",
+      "C": "Inside A Vent In Frank's RV",
+      "D": "On The Wall Inside The Kitchen Of Chloe's House"
+    }
+  },
+  {
+    "question": "What Is The Name Of The Magazine Chloe Was Reading In 2008?",
+    "answer": "A",
+    "choices": {
+      "A": "Tween Life",
+      "B": "Manga Life",
+      "C": "Teen Vogue",
+      "D": "Cosmopolitan"
+    }
+  },
+  {
+    "question": "What Is Written On The Note From Joyce To William?",
+    "answer": "A",
+    "choices": {
+      "A": "\"I Love You\"",
+      "B": "\"Don't Forget To Pick Up Milk\"",
+      "C": "\"Happy Anniversary\"",
+      "D": "\"Miss You Already\""
+    }
+  },
+  {
+    "question": "Where Was The Notebook With Phone Numbers Found?",
+    "answer": "D",
+    "choices": {
+      "A": "Near The Telephone In Frank's RV",
+      "B": "On The Fridge In Chloe's House",
+      "C": "Inside A Vent In Frank's RV",
+      "D": "Near The Telephone In Chloe's House"
+    }
+  },
+  {
+    "question": "What Did Max Say About The Price Family Photo?",
+    "answer": "A",
+    "choices": {
+      "A": "\"My Family Never Took Fun, Goofy Photos Like This...\"",
+      "B": "\"I Wish I Could Have Been A Part Of That Family\"",
+      "C": "\"I Remember Taking That Photo\"",
+      "D": "\"I Don't Like Looking At Old Photos\""
+    }
+  }
+]

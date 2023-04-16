@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Is The Name Of The Diner Where Chloe's Mother Works?",
+    "answer": "A",
+    "choices": {
+      "A": "Two Whales Diner",
+      "B": "Blackwell Diner",
+      "C": "Rusty Spoon Diner",
+      "D": "Blue Moon Diner"
+    }
+  },
+  {
+    "question": "What Does Max Find In Chloe And Rachel's Hideaway?",
+    "answer": "C",
+    "choices": {
+      "A": "A Pack Of Cigarettes",
+      "B": "A Robot Panda Keychain",
+      "C": "A Bracelet",
+      "D": "86 Cents"
+    }
+  },
+  {
+    "question": "What Does Chloe Ask Max To Do At The Junkyard?",
+    "answer": "A",
+    "choices": {
+      "A": "Fetch More Beer Bottles",
+      "B": "Take Photos Of The Graffiti",
+      "C": "Help Her Fix A Car",
+      "D": "Find Her Lost Phone"
+    }
+  },
+  {
+    "question": "What Does Max Use To Save Chloe When Her Foot Gets Stuck In The Train Tracks?",
+    "answer": "B",
+    "choices": {
+      "A": "A Crowbar",
+      "B": "A Pair Of Wirecutters",
+      "C": "A Large Bollard",
+      "D": "A Hammer"
+    }
+  },
+  {
+    "question": "What Happens To Chloe During The Eclipse While She Is Texting Max?",
+    "answer": "D",
+    "choices": {
+      "A": "She Gets Lost",
+      "B": "She Gets Kidnapped",
+      "C": "She Gets Attacked",
+      "D": "She Gets Freaked Out"
+    }
+  }
+]

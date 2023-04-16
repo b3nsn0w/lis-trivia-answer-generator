@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Who Created The PDF Version Of Max's Diary?",
+    "answer": "A",
+    "choices": {
+      "A": "Reddit User /u/Nichotal",
+      "B": "Reddit User /u/MaxDiaryFan",
+      "C": "Reddit User /u/LifeIsStrangeFan",
+      "D": "Reddit User /u/MaxJournalPDF"
+    }
+  },
+  {
+    "question": "Which Episode Has The Most Optional Photos?",
+    "answer": "B",
+    "choices": {
+      "A": "Episode 1",
+      "B": "Episode 2",
+      "C": "Episode 3",
+      "D": "Episode 5"
+    }
+  },
+  {
+    "question": "What Is The Filename Of The Image That Shows An Overview Of The Optional Photos For All Episodes?",
+    "answer": "A",
+    "choices": {
+      "A": "Optional photos episode overview.jpg",
+      "B": "optionalphotos-empty-ep5.jpg",
+      "C": "LiS-OptionalPhotos-E2.jpg",
+      "D": "2015-11-29 00079.jpg"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who wrote and performed the song \"Hide and Seek\"?",
+    "answer": "A",
+    "choices": {
+      "A": "Eduard Frolov EFG",
+      "B": "Robyn Ardery",
+      "C": "Life is Strange",
+      "D": "The wiki page author"
+    }
+  },
+  {
+    "question": "When was \"Hide and Seek\" released?",
+    "answer": "B",
+    "choices": {
+      "A": "July 9, 2015",
+      "B": "July 9, 2016",
+      "C": "July 9, 2017",
+      "D": "July 9, 2018"
+    }
+  },
+  {
+    "question": "Who provided the vocals for \"Hide and Seek\"?",
+    "answer": "B",
+    "choices": {
+      "A": "Eduard Frolov EFG",
+      "B": "Robyn Ardery",
+      "C": "Life is Strange",
+      "D": "The wiki page author"
+    }
+  },
+  {
+    "question": "What is the name of the album that \"Hide and Seek\" is featured on?",
+    "answer": "A",
+    "choices": {
+      "A": "Endings",
+      "B": "Life is Strange",
+      "C": "Memories of You",
+      "D": "Hide and Seek"
+    }
+  }
+]

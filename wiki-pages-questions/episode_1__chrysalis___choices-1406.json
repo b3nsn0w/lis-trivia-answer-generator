@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What Happens If Max Breaks Chloe's Snow Globe?",
+    "answer": "A",
+    "choices": {
+      "A": "Chloe Gets Upset With Max",
+      "B": "Chloe Doesn't Get Upset With Max",
+      "C": "Max Can't Read Chloe's Report Card",
+      "D": "The Snow Globe Disappears From The Game"
+    }
+  },
+  {
+    "question": "What Is The Consequence Of Max Taking Optional Photo #9 At The Lighthouse?",
+    "answer": "A",
+    "choices": {
+      "A": "The Bird Appears In Chloe's House",
+      "B": "The Snow Globe Breaks",
+      "C": "David Brings Up His Files During His Confrontation With Chloe",
+      "D": "Joyce Brings Up The Incident Of Chloe's Weed"
+    }
+  },
+  {
+    "question": "What Happens If Max Blames Chloe For The Weed?",
+    "answer": "A",
+    "choices": {
+      "A": "Chloe Is Very Upset With Max",
+      "B": "Chloe Shows Max The Gun",
+      "C": "Max Cannot Be Suspended In The Principal's Office",
+      "D": "Joyce Brings Up The Incident As Evidence That Chloe Isn't Responsible"
+    }
+  },
+  {
+    "question": "What Is The Consequence Of Max Looking Through David's Files?",
+    "answer": "B",
+    "choices": {
+      "A": "Chloe Wishes Max Had Read David's Files",
+      "B": "Chloe Brings Up David's Files If Max Sides With Him During The Argument",
+      "C": "David Brings Up His Files During His Confrontation With Chloe",
+      "D": "Max Cannot Take Optional Photo #9 At The Lighthouse"
+    }
+  },
+  {
+    "question": "What Happens If Max Covers Up The Evidence In The Garage?",
+    "answer": "A",
+    "choices": {
+      "A": "David Doesn't Know If Anyone Went Through His Files",
+      "B": "David Brings Up His Files During His Confrontation With Chloe",
+      "C": "Chloe Brings Up Max Allowing David To Catch Her With The Weed",
+      "D": "Joyce Brings Up The Incident As Evidence That Chloe Isn't Responsible"
+    }
+  }
+]

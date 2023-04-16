@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Did 70% Of Players Choose Regarding Daniel?",
+    "answer": "B",
+    "choices": {
+      "A": "Let Him Draw Their Portrait",
+      "B": "Didn't Let Him Draw Their Portrait",
+      "C": "Helped Him",
+      "D": "Didn't Help Him"
+    }
+  },
+  {
+    "question": "What Did 24% Of Players Do Regarding Victoria's Photos?",
+    "answer": "A",
+    "choices": {
+      "A": "Reorganized Them",
+      "B": "Didn't Touch Them",
+      "C": "Deleted Them",
+      "D": "Shared Them Online"
+    }
+  },
+  {
+    "question": "What Did 36% Of Players Do Regarding The Bird?",
+    "answer": "A",
+    "choices": {
+      "A": "Saved It",
+      "B": "Let It Die",
+      "C": "Ignored It",
+      "D": "Scared It Away"
+    }
+  },
+  {
+    "question": "What Did 16% Of Players Do Regarding Chloe's Snow Globe?",
+    "answer": "A",
+    "choices": {
+      "A": "Broke It",
+      "B": "Didn't Break It",
+      "C": "Sold It",
+      "D": "Hid It"
+    }
+  }
+]

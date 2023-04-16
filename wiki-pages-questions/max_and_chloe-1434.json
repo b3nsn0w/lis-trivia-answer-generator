@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What Does Chloe Say About Max's Rewind Abilities At The Two Whales Diner?",
+    "answer": "A",
+    "choices": {
+      "A": "Max Can Make A Move On Her Without Her Knowing",
+      "B": "Max Can Rewind Time To Fix Mistakes",
+      "C": "Max Can Predict The Future",
+      "D": "Max Can Control Other People's Minds"
+    }
+  },
+  {
+    "question": "What Does Chloe Find In The Principal's Office That Excites Her?",
+    "answer": "B",
+    "choices": {
+      "A": "A Gun",
+      "B": "Money",
+      "C": "A Map",
+      "D": "A Diary"
+    }
+  },
+  {
+    "question": "What Happens If Max Refuses To Kiss Chloe When She Dares Her To?",
+    "answer": "D",
+    "choices": {
+      "A": "Chloe Gets Angry And Leaves",
+      "B": "Chloe Kisses Max Anyway",
+      "C": "Chloe Tells Max She Is Not Good Enough For Her",
+      "D": "Chloe Tells Max To Admit They Already Kissed Before"
+    }
+  },
+  {
+    "question": "What Do Max And Chloe Call Their Drinking Sessions?",
+    "answer": "A",
+    "choices": {
+      "A": "Wine Tasting Sessions",
+      "B": "Beer Pong Nights",
+      "C": "Cocktail Hours",
+      "D": "Whiskey Wednesdays"
+    }
+  }
+]

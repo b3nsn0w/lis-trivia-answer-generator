@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Where Is David's Padlock Located?",
+    "answer": "C",
+    "choices": {
+      "A": "Two Whales Diner",
+      "B": "David's Car",
+      "C": "David's Garage",
+      "D": "Frank's RV"
+    }
+  },
+  {
+    "question": "What Is Written On The Back Of The Two Whales Diner Receipt?",
+    "answer": "B",
+    "choices": {
+      "A": "A Password",
+      "B": "Let's Get Married",
+      "C": "A Phone Number",
+      "D": "A Shopping List"
+    }
+  },
+  {
+    "question": "Where Does Max Find The \"Go Ape\" Flyer?",
+    "answer": "D",
+    "choices": {
+      "A": "Inside The Diner",
+      "B": "On Frank's Bed",
+      "C": "In David's Garage",
+      "D": "Near The Entrance Of Two Whales"
+    }
+  },
+  {
+    "question": "What Does Max Say About Frank's Dog In The Photo Found In His RV?",
+    "answer": "A",
+    "choices": {
+      "A": "\"Oh Man, Rachel And Frank's Dog...\"",
+      "B": "\"I Wish I Had A Dog Like That\"",
+      "C": "\"That Dog Looks Scary\"",
+      "D": "\"I Don't Like Dogs\""
+    }
+  }
+]

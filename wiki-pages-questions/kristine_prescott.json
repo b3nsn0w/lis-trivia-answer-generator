@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is Kristine's profession?",
+    "answer": "A",
+    "choices": {
+      "A": "Social worker",
+      "B": "Artist",
+      "C": "Scientist",
+      "D": "Teacher"
+    }
+  },
+  {
+    "question": "Where is Kristine currently serving in the Peace Corps?",
+    "answer": "A",
+    "choices": {
+      "A": "Brazil",
+      "B": "India",
+      "C": "China",
+      "D": "South Africa"
+    }
+  },
+  {
+    "question": "What does Kristine think of her father?",
+    "answer": "D",
+    "choices": {
+      "A": "She loves him unconditionally",
+      "B": "She hates him",
+      "C": "She is indifferent towards him",
+      "D": "She has some contempt for him"
+    }
+  },
+  {
+    "question": "What does Kristine warn Nathan about in her email?",
+    "answer": "B",
+    "choices": {
+      "A": "To stay away from Max",
+      "B": "To ignore his father",
+      "C": "To drop out of school",
+      "D": "To join the Peace Corps"
+    }
+  }
+]

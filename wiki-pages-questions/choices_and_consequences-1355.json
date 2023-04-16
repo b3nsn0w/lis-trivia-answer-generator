@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the butterfly symbol that appears after Max makes a choice?",
+    "answer": "C",
+    "choices": {
+      "A": "A notification that the choice is irreversible",
+      "B": "A symbol of Max's time rewind power",
+      "C": "A sign that the choice will have consequences",
+      "D": "A hint that the choice is insignificant"
+    }
+  },
+  {
+    "question": "What happens if Max blames Nathan for Kate's suicide attempt?",
+    "answer": "A",
+    "choices": {
+      "A": "Nathan is suspended from Blackwell Academy",
+      "B": "Max is suspended from Blackwell Academy",
+      "C": "Nathan confronts Max at the parking lot",
+      "D": "Nathan leaves a threatening message in Max's room"
+    }
+  },
+  {
+    "question": "What happens if Max hides the truth about Nathan's gun?",
+    "answer": "A",
+    "choices": {
+      "A": "Nathan figures out that Max was in the bathroom and intimidates her",
+      "B": "Chloe is glad that Max didn't report Nathan",
+      "C": "Nathan will not vandalize or leave anything in Max's room",
+      "D": "Nathan will be snarky during his desk confrontation with Max"
+    }
+  },
+  {
+    "question": "What happens if Max talks to Principal Wells about her warning regarding Nathan?",
+    "answer": "B",
+    "choices": {
+      "A": "Principal Wells admits that he doesn't believe her accusation",
+      "B": "Principal Wells sends an email to Nathan to apologize for Max's accusation",
+      "C": "Max can tell Warren Graham about \"busting\" Nathan with a gun",
+      "D": "Max will tell David Madsen that she regrets not telling the principal that Nathan had a gun"
+    }
+  }
+]
