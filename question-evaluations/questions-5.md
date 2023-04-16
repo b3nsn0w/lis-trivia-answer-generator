@@ -12,7 +12,7 @@ D. Jefferson
 Answer: A
 related: [chloe_price-1375](../wiki-pages-chunks/chloe_price-1375.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -28,7 +28,7 @@ D. By Hiding From Mr. Jefferson
 Answer: C
 related: [chloe_price-1454](../wiki-pages-chunks/chloe_price-1454.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -44,7 +44,7 @@ D. She Gets Angry And Jealous
 Answer: B
 related: [chloe_price-1454](../wiki-pages-chunks/chloe_price-1454.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -60,7 +60,7 @@ D. He Kills Mr. Jefferson
 Answer: D
 related: [chloe_price-1454](../wiki-pages-chunks/chloe_price-1454.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -76,7 +76,7 @@ D. By Using A Selfie Photograph
 Answer: D
 related: [chloe_price-1454](../wiki-pages-chunks/chloe_price-1454.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -92,7 +92,7 @@ D. A Hoodie
 Answer: B
 related: [chloe_price-1454](../wiki-pages-chunks/chloe_price-1454.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -108,7 +108,7 @@ D. Rachel Amber
 Answer: A
 related: [chloe_price-1465](../wiki-pages-chunks/chloe_price-1465.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -124,7 +124,7 @@ D. Aaron Price
 Answer: A
 related: [chloe_price-1465](../wiki-pages-chunks/chloe_price-1465.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -140,7 +140,7 @@ D. Whiskers
 Answer: B
 related: [chloe_price-1465](../wiki-pages-chunks/chloe_price-1465.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -156,7 +156,7 @@ D. Justin Williams
 Answer: C
 related: [chloe_price-1465](../wiki-pages-chunks/chloe_price-1465.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -172,7 +172,7 @@ D. Sacredness, Life, Gratitude, Abundance, and Great Strength
 Answer: A
 related: [chloe_price-1482](../wiki-pages-chunks/chloe_price-1482.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -188,7 +188,7 @@ D. The End of the World
 Answer: A
 related: [chloe_price-1482](../wiki-pages-chunks/chloe_price-1482.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -204,7 +204,7 @@ D. The Soul of the World
 Answer: A
 related: [chloe_price-1482](../wiki-pages-chunks/chloe_price-1482.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -220,7 +220,7 @@ D. Renewal of Life or the Cycle of Life and Death
 Answer: A
 related: [chloe_price-1482](../wiki-pages-chunks/chloe_price-1482.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -236,7 +236,7 @@ D. A Sports Injury
 Answer: C
 related: [chloe_price-1483](../wiki-pages-chunks/chloe_price-1483.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -252,7 +252,7 @@ D. Signs of Neglect
 Answer: D
 related: [chloe_price-1483](../wiki-pages-chunks/chloe_price-1483.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -268,7 +268,7 @@ D. Tiki Totem
 Answer: A
 related: [chloe_price-1483](../wiki-pages-chunks/chloe_price-1483.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -284,7 +284,7 @@ D. A Secret Meeting Room
 Answer: B
 related: [chloe_price-1483](../wiki-pages-chunks/chloe_price-1483.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -300,7 +300,7 @@ D. Mr. Jefferson
 Answer: D
 related: [chloe_price-1483](../wiki-pages-chunks/chloe_price-1483.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -316,7 +316,7 @@ D. Serious and Responsible
 Answer: B
 related: [chloe_price-1490](../wiki-pages-chunks/chloe_price-1490.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -332,7 +332,7 @@ D. David Madsen
 Answer: D
 related: [chloe_price-1490](../wiki-pages-chunks/chloe_price-1490.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -348,7 +348,7 @@ D. Black Roses with Vines, White Butterflies, Black Ribbon and a White Skull
 Answer: B
 related: [chloe_price-1490](../wiki-pages-chunks/chloe_price-1490.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -364,7 +364,7 @@ D. The Word "Rock" with a Chick Beneath It
 Answer: D
 related: [chloe_price-1490](../wiki-pages-chunks/chloe_price-1490.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -380,7 +380,7 @@ D. Watch TV
 Answer: A
 related: [chloe_price-1510](../wiki-pages-chunks/chloe_price-1510.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -396,7 +396,7 @@ D. A Beaten Up Journal
 Answer: D
 related: [chloe_price-1510](../wiki-pages-chunks/chloe_price-1510.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -412,7 +412,7 @@ D. She Can Turn Invisible
 Answer: B
 related: [chloe_price-1510](../wiki-pages-chunks/chloe_price-1510.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -429,7 +429,7 @@ Answer: B
 related: [chloe_price-1510](../wiki-pages-chunks/chloe_price-1510.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-61a04bb7-0428
@@ -444,7 +444,7 @@ D. She Is Paralyzed And Needs A Tube To Breathe
 Answer: D
 related: [chloe_price-1510](../wiki-pages-chunks/chloe_price-1510.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -460,7 +460,7 @@ D. "Life Is Strange"
 Answer: B
 related: [chloe_price-1521](../wiki-pages-chunks/chloe_price-1521.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -476,7 +476,7 @@ D. Tween Life Magazine
 Answer: D
 related: [chloe_price-1521](../wiki-pages-chunks/chloe_price-1521.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -494,7 +494,7 @@ related: [chloe_price-1521](../wiki-pages-chunks/chloe_price-1521.txt)
 
 - [ ] Keep
 - [ ] Delete
-- [ ] Edit
+- [x] Edit
 
 ### wiki-e194f001-0432
 
@@ -508,7 +508,7 @@ D. They Are A Hoax
 Answer: A
 related: [chloe_price-1535](../wiki-pages-chunks/chloe_price-1535.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -524,7 +524,7 @@ D. A Map Of The Town
 Answer: C
 related: [chloe_price-1535](../wiki-pages-chunks/chloe_price-1535.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -540,7 +540,7 @@ D. A Gun
 Answer: C
 related: [chloe_price-1535](../wiki-pages-chunks/chloe_price-1535.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -556,7 +556,7 @@ D. They Go To A Party
 Answer: B
 related: [chloe_price-1535](../wiki-pages-chunks/chloe_price-1535.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -572,7 +572,7 @@ D. They Should Go To A Restaurant
 Answer: C
 related: [chloe_price-1535](../wiki-pages-chunks/chloe_price-1535.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -588,7 +588,7 @@ D. A TV Show
 Answer: D
 related: [chloe_price-1536](../wiki-pages-chunks/chloe_price-1536.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -604,7 +604,7 @@ D. The Walking Dead
 Answer: C
 related: [chloe_price-1536](../wiki-pages-chunks/chloe_price-1536.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -620,7 +620,7 @@ D. Patriotism
 Answer: C
 related: [chloe_price-1536](../wiki-pages-chunks/chloe_price-1536.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -636,7 +636,7 @@ D. The Powerpuff Girls
 Answer: B
 related: [chloe_price-1536](../wiki-pages-chunks/chloe_price-1536.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -652,7 +652,7 @@ D. Hella
 Answer: D
 related: [chloe_price-657](../wiki-pages-chunks/chloe_price-657.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -668,7 +668,7 @@ D. Turn It Into A Forest
 Answer: C
 related: [chloe_price-657](../wiki-pages-chunks/chloe_price-657.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -684,7 +684,7 @@ D. "I Pledge Allegiance To Max And The Power For Which She Stands"
 Answer: D
 related: [chloe_price-657](../wiki-pages-chunks/chloe_price-657.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -700,7 +700,7 @@ D. Chrysalis
 Answer: D
 related: [chloe_price-657](../wiki-pages-chunks/chloe_price-657.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -716,7 +716,7 @@ D. Step-dildo
 Answer: B
 related: [chloe_price-734](../wiki-pages-chunks/chloe_price-734.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -732,7 +732,7 @@ D. At A Bar
 Answer: D
 related: [chloe_price-734](../wiki-pages-chunks/chloe_price-734.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -748,7 +748,7 @@ D. Ignore Him
 Answer: B
 related: [chloe_price-734](../wiki-pages-chunks/chloe_price-734.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -764,7 +764,7 @@ D. Siblings
 Answer: A
 related: [chloe_price-734](../wiki-pages-chunks/chloe_price-734.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -780,7 +780,7 @@ D. She Is Angry
 Answer: D
 related: [chloe_price-734](../wiki-pages-chunks/chloe_price-734.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -796,7 +796,7 @@ D. He Got A New Job
 Answer: A
 related: [chloe_price-882](../wiki-pages-chunks/chloe_price-882.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -812,7 +812,7 @@ D. Blackwell Junkyard
 Answer: A
 related: [chloe_price-882](../wiki-pages-chunks/chloe_price-882.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -828,7 +828,7 @@ D. A Revolver
 Answer: D
 related: [chloe_price-919](../wiki-pages-chunks/chloe_price-919.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -846,7 +846,7 @@ related: [chloe_price-919](../wiki-pages-chunks/chloe_price-919.txt)
 
 - [ ] Keep
 - [ ] Delete
-- [ ] Edit
+- [x] Edit
 
 ### wiki-141965a0-0454
 
@@ -860,7 +860,7 @@ D. Jefferson Gallery
 Answer: A
 related: [chloe_price-919](../wiki-pages-chunks/chloe_price-919.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -876,7 +876,7 @@ D. Polarized
 Answer: C
 related: [chloe_price-919](../wiki-pages-chunks/chloe_price-919.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -892,7 +892,7 @@ D. Bongo
 Answer: A
 related: [chloe_price_gallery-1100](../wiki-pages-chunks/chloe_price_gallery-1100.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -910,7 +910,7 @@ related: [chloe_price_gallery-1100](../wiki-pages-chunks/chloe_price_gallery-110
 
 - [ ] Keep
 - [ ] Delete
-- [ ] Edit
+- [x] Edit
 
 ### wiki-872af485-0458
 
@@ -926,7 +926,7 @@ related: [chloe_price_gallery-1100](../wiki-pages-chunks/chloe_price_gallery-110
 
 - [ ] Keep
 - [ ] Delete
-- [ ] Edit
+- [x] Edit
 
 ### wiki-57f4ac54-0459
 
@@ -941,7 +941,7 @@ Answer: C
 related: [chloe_price_gallery-1100](../wiki-pages-chunks/chloe_price_gallery-1100.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-4a870d34-0460
@@ -957,7 +957,7 @@ Answer: B
 related: [chloe_price_gallery-1100](../wiki-pages-chunks/chloe_price_gallery-1100.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-3363d05b-0461
@@ -972,7 +972,7 @@ D. Episode Four
 Answer: C
 related: [chloe_price_gallery-1179](../wiki-pages-chunks/chloe_price_gallery-1179.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -988,7 +988,7 @@ D. Jump into the pool
 Answer: B
 related: [chloe_price_gallery-1179](../wiki-pages-chunks/chloe_price_gallery-1179.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1006,7 +1006,7 @@ related: [chloe_price_gallery-1179](../wiki-pages-chunks/chloe_price_gallery-117
 
 - [ ] Keep
 - [ ] Delete
-- [ ] Edit
+- [x] Edit
 
 ### wiki-822864ee-0464
 
@@ -1020,7 +1020,7 @@ D. The Terminator
 Answer: B
 related: [chloe_price_gallery-1179](../wiki-pages-chunks/chloe_price_gallery-1179.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1036,7 +1036,7 @@ D. Episode 5
 Answer: D
 related: [chloe_price_gallery-1306](../wiki-pages-chunks/chloe_price_gallery-1306.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1053,7 +1053,7 @@ Answer: A
 related: [chloe_price_gallery-1306](../wiki-pages-chunks/chloe_price_gallery-1306.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-edb213ca-0467
@@ -1069,7 +1069,7 @@ Answer: A
 related: [chloe_price_gallery-1306](../wiki-pages-chunks/chloe_price_gallery-1306.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-4253cbda-0468
@@ -1086,7 +1086,7 @@ related: [chloe_price_gallery-1306](../wiki-pages-chunks/chloe_price_gallery-130
 
 - [ ] Keep
 - [ ] Delete
-- [ ] Edit
+- [x] Edit
 
 ### wiki-a9bf9a0c-0469
 
@@ -1101,7 +1101,7 @@ Answer: B
 related: [chloe_price_gallery-1306](../wiki-pages-chunks/chloe_price_gallery-1306.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-a39e9490-0470
@@ -1116,7 +1116,7 @@ D. A Joint
 Answer: A
 related: [chloe_s_room-1191](../wiki-pages-chunks/chloe_s_room-1191.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1132,7 +1132,7 @@ D. A Wallet
 Answer: A
 related: [chloe_s_room-1191](../wiki-pages-chunks/chloe_s_room-1191.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1148,7 +1148,7 @@ D. Stuffed Animals
 Answer: A
 related: [chloe_s_room-1191](../wiki-pages-chunks/chloe_s_room-1191.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1164,7 +1164,7 @@ D. Sandals
 Answer: A
 related: [chloe_s_room-1191](../wiki-pages-chunks/chloe_s_room-1191.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1180,7 +1180,7 @@ D. "I Think Rachel's Style Is A Little More Subtle... Like Me."
 Answer: D
 related: [chloe_s_room-1191](../wiki-pages-chunks/chloe_s_room-1191.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1196,7 +1196,7 @@ D. Coca-Cola
 Answer: C
 related: [chloe_s_room-1210](../wiki-pages-chunks/chloe_s_room-1210.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1212,7 +1212,7 @@ D. It belonged to Max
 Answer: A
 related: [chloe_s_room-1210](../wiki-pages-chunks/chloe_s_room-1210.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1229,7 +1229,7 @@ Answer: B
 related: [chloe_s_room-1210](../wiki-pages-chunks/chloe_s_room-1210.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-e2f8cf2d-0478
@@ -1244,7 +1244,7 @@ D. Stickers
 Answer: D
 related: [chloe_s_room-1262](../wiki-pages-chunks/chloe_s_room-1262.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1260,7 +1260,7 @@ D. A Ruler
 Answer: B
 related: [chloe_s_room-1262](../wiki-pages-chunks/chloe_s_room-1262.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1278,7 +1278,7 @@ related: [chloe_s_room-1262](../wiki-pages-chunks/chloe_s_room-1262.txt)
 
 - [ ] Keep
 - [ ] Delete
-- [ ] Edit
+- [x] Edit
 
 ### wiki-56bbe870-0481
 
@@ -1292,7 +1292,7 @@ D. She Was Expelled For Fighting
 Answer: B
 related: [chloe_s_room-1262](../wiki-pages-chunks/chloe_s_room-1262.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1308,7 +1308,7 @@ D. Piano Fire
 Answer: C
 related: [chloe_s_room-1272](../wiki-pages-chunks/chloe_s_room-1272.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1325,7 +1325,7 @@ Answer: B
 related: [chloe_s_room-1272](../wiki-pages-chunks/chloe_s_room-1272.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-96bd2ff1-0484
@@ -1340,7 +1340,7 @@ D. The Eye of Providence
 Answer: A
 related: [chloe_s_room-1272](../wiki-pages-chunks/chloe_s_room-1272.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1356,7 +1356,7 @@ D. Millennium
 Answer: B
 related: [chloe_s_room-1272](../wiki-pages-chunks/chloe_s_room-1272.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1372,7 +1372,7 @@ D. The Daily Bugle
 Answer: C
 related: [chloe_s_room-1528](../wiki-pages-chunks/chloe_s_room-1528.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1388,7 +1388,7 @@ D. A Picture Of Rachel
 Answer: A
 related: [chloe_s_room-1528](../wiki-pages-chunks/chloe_s_room-1528.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1406,7 +1406,7 @@ related: [chloe_s_room-1528](../wiki-pages-chunks/chloe_s_room-1528.txt)
 
 - [ ] Keep
 - [ ] Delete
-- [ ] Edit
+- [x] Edit
 
 ### wiki-47f8fa08-0489
 
@@ -1420,7 +1420,7 @@ D. "David Should Have Done Way More Than Take Photos Of Kate."
 Answer: B
 related: [chloe_s_room-1528](../wiki-pages-chunks/chloe_s_room-1528.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1436,7 +1436,7 @@ D. A Five-Pointed Star
 Answer: D
 related: [chloe_s_truck-1316](../wiki-pages-chunks/chloe_s_truck-1316.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1452,7 +1452,7 @@ D. A Repair Shop Invoice
 Answer: D
 related: [chloe_s_truck-1316](../wiki-pages-chunks/chloe_s_truck-1316.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1468,7 +1468,7 @@ D. They Use Chloe's Truck
 Answer: D
 related: [chloe_s_truck-1316](../wiki-pages-chunks/chloe_s_truck-1316.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1484,7 +1484,7 @@ D. A Bobble Head Of Elvis Presley
 Answer: A
 related: [chloe_s_truck-1316](../wiki-pages-chunks/chloe_s_truck-1316.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1500,7 +1500,7 @@ D. Evidence about Frank
 Answer: B
 related: [chloe_s_truck-581](../wiki-pages-chunks/chloe_s_truck-581.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1516,7 +1516,7 @@ D. The Junkyard
 Answer: D
 related: [chloe_s_truck-581](../wiki-pages-chunks/chloe_s_truck-581.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1532,7 +1532,7 @@ D. A Green Minivan
 Answer: B
 related: [chloe_s_truck-581](../wiki-pages-chunks/chloe_s_truck-581.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1548,7 +1548,7 @@ D. Michel Koch
 Answer: A
 related: [chloe_s_truck_gallery-1392](../wiki-pages-chunks/chloe_s_truck_gallery-1392.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1565,7 +1565,7 @@ Answer: B
 related: [chloe_s_truck_gallery-1392](../wiki-pages-chunks/chloe_s_truck_gallery-1392.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-f106c2ed-0499
@@ -1580,7 +1580,7 @@ D. Episode 4: Dark Room
 Answer: D
 related: [chloe_s_truck_gallery-1392](../wiki-pages-chunks/chloe_s_truck_gallery-1392.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1597,5 +1597,5 @@ Answer: A
 related: [chloe_s_truck_gallery-1392](../wiki-pages-chunks/chloe_s_truck_gallery-1392.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit

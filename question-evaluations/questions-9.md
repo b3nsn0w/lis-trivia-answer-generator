@@ -12,7 +12,7 @@ D. A fisherman and resident of Arcadia Bay
 Answer: D
 related: [dick_weber](../wiki-pages-chunks/dick_weber.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -28,7 +28,7 @@ D. In the local newspaper
 Answer: A
 related: [dick_weber](../wiki-pages-chunks/dick_weber.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -44,7 +44,7 @@ D. A wall where fishermen display their catch
 Answer: D
 related: [dick_weber](../wiki-pages-chunks/dick_weber.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -60,7 +60,7 @@ D. Victoria Chase and Kate Marsh
 Answer: A
 related: [dick_weber](../wiki-pages-chunks/dick_weber.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -76,7 +76,7 @@ D. A fisherman from Arcadia Bay
 Answer: C
 related: [dick_weber](../wiki-pages-chunks/dick_weber.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -92,7 +92,7 @@ D. At the police station
 Answer: A
 related: [diner_cop](../wiki-pages-chunks/diner_cop.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -108,7 +108,7 @@ D. The American Rust Junkyard
 Answer: C
 related: [diner_cop](../wiki-pages-chunks/diner_cop.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -125,7 +125,7 @@ Answer: D
 related: [diner_cop](../wiki-pages-chunks/diner_cop.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-b4e31f94-0809
@@ -140,7 +140,7 @@ D. He is killed by Jefferson
 Answer: A
 related: [diner_cop](../wiki-pages-chunks/diner_cop.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -156,7 +156,7 @@ D. Blue Moon Diner
 Answer: C
 related: [diner_dude](../wiki-pages-chunks/diner_dude.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -172,7 +172,7 @@ D. "I'm busy, leave me alone."
 Answer: A
 related: [diner_dude](../wiki-pages-chunks/diner_dude.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -189,7 +189,7 @@ Answer: C
 related: [diner_dude](../wiki-pages-chunks/diner_dude.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-f04d968b-0813
@@ -205,7 +205,7 @@ Answer: C
 related: [diner_dude](../wiki-pages-chunks/diner_dude.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-63a5c228-0814
@@ -220,7 +220,7 @@ D. Episode 2 and Episode 5
 Answer: D
 related: [diner_fisherman](../wiki-pages-chunks/diner_fisherman.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -237,7 +237,7 @@ Answer: B
 related: [diner_fisherman](../wiki-pages-chunks/diner_fisherman.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-8d96586d-0816
@@ -252,7 +252,7 @@ D. He Survives The Storm
 Answer: B
 related: [diner_fisherman](../wiki-pages-chunks/diner_fisherman.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -268,7 +268,7 @@ D. DAILY NEWS
 Answer: A
 related: [diner_man](../wiki-pages-chunks/diner_man.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -284,7 +284,7 @@ D. He Thinks It Is Unusual
 Answer: A
 related: [diner_man](../wiki-pages-chunks/diner_man.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -300,7 +300,7 @@ D. He Thinks She Is Dead
 Answer: B
 related: [diner_man](../wiki-pages-chunks/diner_man.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -317,7 +317,7 @@ Answer: D
 related: [diner_man](../wiki-pages-chunks/diner_man.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-e51162a9-0821
@@ -333,7 +333,7 @@ Answer: B
 related: [diner_man](../wiki-pages-chunks/diner_man.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-f24456df-0822
@@ -349,7 +349,7 @@ Answer: A
 related: [diner_trucker](../wiki-pages-chunks/diner_trucker.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-5893069f-0823
@@ -364,7 +364,7 @@ D. Episode 2: Out of Time
 Answer: D
 related: [diner_trucker](../wiki-pages-chunks/diner_trucker.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -380,7 +380,7 @@ D. Deliver his breakfast
 Answer: A
 related: [diner_trucker](../wiki-pages-chunks/diner_trucker.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -397,7 +397,7 @@ Answer: C
 related: [diner_trucker](../wiki-pages-chunks/diner_trucker.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-b80ef2d0-0826
@@ -413,7 +413,7 @@ Answer: A
 related: [diner_trucker](../wiki-pages-chunks/diner_trucker.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-86c1dc69-0827
@@ -428,7 +428,7 @@ D. She is a millionaire
 Answer: C
 related: [diner_woman](../wiki-pages-chunks/diner_woman.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -444,7 +444,7 @@ D. She asks Max for money
 Answer: B
 related: [diner_woman](../wiki-pages-chunks/diner_woman.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -460,7 +460,7 @@ D. Episode 3: Chaos Theory
 Answer: B
 related: [dj_doom](../wiki-pages-chunks/dj_doom.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -476,7 +476,7 @@ D. Vortex Club Party
 Answer: B
 related: [dj_doom](../wiki-pages-chunks/dj_doom.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -492,7 +492,7 @@ D. It Represents The Storm
 Answer: B
 related: [dj_doom](../wiki-pages-chunks/dj_doom.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -508,7 +508,7 @@ D. DJ Doom Ignores Her
 Answer: C
 related: [dj_doom](../wiki-pages-chunks/dj_doom.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -525,7 +525,7 @@ Answer: C
 related: [doe-1334](../wiki-pages-chunks/doe-1334.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-cdeb4073-0834
@@ -540,7 +540,7 @@ D. In The Girls Bathroom
 Answer: C
 related: [doe-1334](../wiki-pages-chunks/doe-1334.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -556,7 +556,7 @@ D. It Attacks Her
 Answer: C
 related: [doe-1334](../wiki-pages-chunks/doe-1334.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -572,7 +572,7 @@ D. It Represents The Blue Butterfly
 Answer: A
 related: [doe-1334](../wiki-pages-chunks/doe-1334.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -588,7 +588,7 @@ D. It Is The Spirit Animal Of Max's Mother
 Answer: A
 related: [doe-1334](../wiki-pages-chunks/doe-1334.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -605,7 +605,7 @@ Answer: D
 related: [don_t_nod-1044](../wiki-pages-chunks/don_t_nod-1044.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-79b46304-0839
@@ -621,7 +621,7 @@ Answer: C
 related: [don_t_nod-1044](../wiki-pages-chunks/don_t_nod-1044.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-8cb3eadc-0840
@@ -636,7 +636,7 @@ D. Philip Bache
 Answer: D
 related: [don_t_nod-1044](../wiki-pages-chunks/don_t_nod-1044.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -653,7 +653,7 @@ Answer: C
 related: [don_t_nod-1044](../wiki-pages-chunks/don_t_nod-1044.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-9345f4a9-0842
@@ -668,7 +668,7 @@ D. It Is A Palindrome
 Answer: D
 related: [don_t_nod-1270](../wiki-pages-chunks/don_t_nod-1270.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -684,7 +684,7 @@ D. Co-Founder Alain Damasio
 Answer: C
 related: [don_t_nod-1270](../wiki-pages-chunks/don_t_nod-1270.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -700,7 +700,7 @@ D. Yearbook Committee
 Answer: C
 related: [don_t_nod-1270](../wiki-pages-chunks/don_t_nod-1270.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -716,7 +716,7 @@ D. Dontnod
 Answer: B
 related: [don_t_nod-1270](../wiki-pages-chunks/don_t_nod-1270.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -733,7 +733,7 @@ Answer: A
 related: [don_t_nod-1270](../wiki-pages-chunks/don_t_nod-1270.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-da79db46-0847
@@ -749,7 +749,7 @@ Answer: A
 related: [don_t_nod-1502](../wiki-pages-chunks/don_t_nod-1502.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-3c30abfa-0848
@@ -764,7 +764,7 @@ D. Chris Eriksen
 Answer: C
 related: [don_t_nod-1502](../wiki-pages-chunks/don_t_nod-1502.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -781,7 +781,7 @@ Answer: B
 related: [don_t_nod-1502](../wiki-pages-chunks/don_t_nod-1502.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-3414c225-0850
@@ -797,7 +797,7 @@ Answer: A
 related: [don_t_nod-1503](../wiki-pages-chunks/don_t_nod-1503.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-f6fb8db2-0851
@@ -812,7 +812,7 @@ D. June 10, 2018
 Answer: C
 related: [don_t_nod-1503](../wiki-pages-chunks/don_t_nod-1503.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -829,7 +829,7 @@ Answer: A
 related: [don_t_nod-1503](../wiki-pages-chunks/don_t_nod-1503.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-6288147a-0853
@@ -844,7 +844,7 @@ D. Paris, France
 Answer: C
 related: [don_t_nod-1503](../wiki-pages-chunks/don_t_nod-1503.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -860,7 +860,7 @@ D. Adrift
 Answer: A
 related: [don_t_nod-1526](../wiki-pages-chunks/don_t_nod-1526.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -877,7 +877,7 @@ Answer: D
 related: [don_t_nod-1526](../wiki-pages-chunks/don_t_nod-1526.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-458d7fd4-0856
@@ -892,7 +892,7 @@ D. Electronic Arts
 Answer: C
 related: [don_t_nod-1526](../wiki-pages-chunks/don_t_nod-1526.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -908,7 +908,7 @@ D. Chrysalis
 Answer: C
 related: [don_t_nod-1526](../wiki-pages-chunks/don_t_nod-1526.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -924,7 +924,7 @@ D. Due To Financial Reasons
 Answer: D
 related: [don_t_nod-1526](../wiki-pages-chunks/don_t_nod-1526.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -941,7 +941,7 @@ Answer: D
 related: [don_t_nod-1536](../wiki-pages-chunks/don_t_nod-1536.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-5259586f-0860
@@ -956,7 +956,7 @@ D. Alejandro Arque
 Answer: A
 related: [don_t_nod-1536](../wiki-pages-chunks/don_t_nod-1536.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -972,7 +972,7 @@ D. Vampyr
 Answer: D
 related: [don_t_nod-1536](../wiki-pages-chunks/don_t_nod-1536.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -989,7 +989,7 @@ Answer: B
 related: [don_t_nod-1536](../wiki-pages-chunks/don_t_nod-1536.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-d4fe3a0a-0863
@@ -1005,7 +1005,7 @@ Answer: C
 related: [don_t_nod-1536](../wiki-pages-chunks/don_t_nod-1536.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-a8c2a142-0864
@@ -1021,7 +1021,7 @@ Answer: D
 related: [don_t_nod-715](../wiki-pages-chunks/don_t_nod-715.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-6a92662c-0865
@@ -1037,7 +1037,7 @@ Answer: A
 related: [don_t_nod-715](../wiki-pages-chunks/don_t_nod-715.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-de687037-0866
@@ -1053,7 +1053,7 @@ Answer: C
 related: [don_t_nod-715](../wiki-pages-chunks/don_t_nod-715.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-f0668088-0867
@@ -1069,7 +1069,7 @@ Answer: A
 related: [don_t_nod-715](../wiki-pages-chunks/don_t_nod-715.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-feaccfa0-0868
@@ -1085,7 +1085,7 @@ Answer: C
 related: [don_t_nod-728](../wiki-pages-chunks/don_t_nod-728.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-ed18e9c6-0869
@@ -1100,7 +1100,7 @@ D. Best Narrative
 Answer: C
 related: [don_t_nod-728](../wiki-pages-chunks/don_t_nod-728.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1116,7 +1116,7 @@ D. DONTNOD 10 YEAR ANNIVERSARY
 Answer: C
 related: [don_t_nod-728](../wiki-pages-chunks/don_t_nod-728.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1133,7 +1133,7 @@ Answer: C
 related: [don_t_nod-728](../wiki-pages-chunks/don_t_nod-728.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-210b0ba0-0872
@@ -1148,7 +1148,7 @@ D. Vampyr
 Answer: D
 related: [don_t_nod-728](../wiki-pages-chunks/don_t_nod-728.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1164,7 +1164,7 @@ D. William's aunt
 Answer: A
 related: [dorothy](../wiki-pages-chunks/dorothy.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1180,7 +1180,7 @@ D. Her disappointment in Chloe's condition
 Answer: B
 related: [dorothy](../wiki-pages-chunks/dorothy.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1196,7 +1196,7 @@ D. In the closet
 Answer: B
 related: [dorothy](../wiki-pages-chunks/dorothy.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1212,7 +1212,7 @@ D. A character from Alice in Wonderland
 Answer: B
 related: [dorothy](../wiki-pages-chunks/dorothy.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1229,7 +1229,7 @@ Answer: B
 related: [dorothy](../wiki-pages-chunks/dorothy.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-68745709-0878
@@ -1244,7 +1244,7 @@ D. Episode 1: Chrysalis
 Answer: A
 related: [drive_in](../wiki-pages-chunks/drive_in.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1260,7 +1260,7 @@ D. 90's Rom-Coms
 Answer: C
 related: [drive_in](../wiki-pages-chunks/drive_in.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1277,7 +1277,7 @@ Answer: D
 related: [drive_in](../wiki-pages-chunks/drive_in.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-ef9d3a91-0881
@@ -1292,7 +1292,7 @@ D. Episode 1: Chrysalis
 Answer: D
 related: [dr__bill](../wiki-pages-chunks/dr__bill.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1308,7 +1308,7 @@ D. SUPERDAD - Be the family hero
 Answer: B
 related: [dr__bill](../wiki-pages-chunks/dr__bill.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1324,7 +1324,7 @@ D. Chloe Price
 Answer: C
 related: [dr__bill](../wiki-pages-chunks/dr__bill.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1340,7 +1340,7 @@ D. Dr. Oz
 Answer: B
 related: [dr__bill](../wiki-pages-chunks/dr__bill.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1356,7 +1356,7 @@ D. Dana Ward
 Answer: B
 related: [dr__bill](../wiki-pages-chunks/dr__bill.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1372,7 +1372,7 @@ D. Chemist
 Answer: C
 related: [dr__hedorah](../wiki-pages-chunks/dr__hedorah.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1388,7 +1388,7 @@ D. Global Warming
 Answer: B
 related: [dr__hedorah](../wiki-pages-chunks/dr__hedorah.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1404,7 +1404,7 @@ D. KABC News
 Answer: C
 related: [dr__hedorah](../wiki-pages-chunks/dr__hedorah.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1421,7 +1421,7 @@ Answer: B
 related: [dr__hedorah](../wiki-pages-chunks/dr__hedorah.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-820e9f9e-0890
@@ -1436,7 +1436,7 @@ D. They Are Caused By Pollution
 Answer: A
 related: [dr__hedorah](../wiki-pages-chunks/dr__hedorah.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1452,7 +1452,7 @@ D. Chloe Price
 Answer: B
 related: [dr__jacoby](../wiki-pages-chunks/dr__jacoby.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1468,7 +1468,7 @@ D. A vacation
 Answer: A
 related: [dr__jacoby](../wiki-pages-chunks/dr__jacoby.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1484,7 +1484,7 @@ D. 5 years
 Answer: D
 related: [dr__jacoby](../wiki-pages-chunks/dr__jacoby.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1500,7 +1500,7 @@ D. He is becoming more isolated
 Answer: D
 related: [dr__jacoby](../wiki-pages-chunks/dr__jacoby.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1516,7 +1516,7 @@ D. A nod to his favorite TV show
 Answer: D
 related: [dr__jacoby](../wiki-pages-chunks/dr__jacoby.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1532,7 +1532,7 @@ D. A movie director
 Answer: A
 related: [dr__nick_meyer](../wiki-pages-chunks/dr__nick_meyer.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1548,7 +1548,7 @@ D. Mystery
 Answer: B
 related: [dr__nick_meyer](../wiki-pages-chunks/dr__nick_meyer.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1564,7 +1564,7 @@ D. Warren Graham
 Answer: D
 related: [dr__nick_meyer](../wiki-pages-chunks/dr__nick_meyer.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1580,7 +1580,7 @@ D. A science fiction book
 Answer: B
 related: [dr__nick_meyer](../wiki-pages-chunks/dr__nick_meyer.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1597,5 +1597,5 @@ Answer: A
 related: [dr__nick_meyer](../wiki-pages-chunks/dr__nick_meyer.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit

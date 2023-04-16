@@ -12,7 +12,7 @@ D. Episode 4: Dark Room
 Answer: C
 related: [blue_jay](../wiki-pages-chunks/blue_jay.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -28,7 +28,7 @@ D. It dies
 Answer: D
 related: [blue_jay](../wiki-pages-chunks/blue_jay.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -44,7 +44,7 @@ D. Episode 2: Out of Time
 Answer: B
 related: [blue_jay](../wiki-pages-chunks/blue_jay.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -60,7 +60,7 @@ D. It perches on a bookshelf
 Answer: B
 related: [blue_jay](../wiki-pages-chunks/blue_jay.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -77,7 +77,7 @@ Answer: B
 related: [blue_jay](../wiki-pages-chunks/blue_jay.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-b1f5dca2-0306
@@ -92,7 +92,7 @@ D. Drowned
 Answer: C
 related: [bongo](../wiki-pages-chunks/bongo.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -108,7 +108,7 @@ D. Chloe and Max
 Answer: A
 related: [bongo](../wiki-pages-chunks/bongo.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -124,7 +124,7 @@ D. Episode 2: Out of Time
 Answer: C
 related: [bongo](../wiki-pages-chunks/bongo.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -140,7 +140,7 @@ D. Episode 1: Awake
 Answer: D
 related: [bongo](../wiki-pages-chunks/bongo.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -156,7 +156,7 @@ D. Heroic Kitten
 Answer: A
 related: [bongo](../wiki-pages-chunks/bongo.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -172,7 +172,7 @@ D. Sleeping
 Answer: B
 related: [brooke_scott-1014](../wiki-pages-chunks/brooke_scott-1014.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -188,7 +188,7 @@ D. Save Arcadia Bay
 Answer: D
 related: [brooke_scott-1014](../wiki-pages-chunks/brooke_scott-1014.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -204,7 +204,7 @@ D. Go To The Beach
 Answer: C
 related: [brooke_scott-1014](../wiki-pages-chunks/brooke_scott-1014.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -220,7 +220,7 @@ D. She Insults Them
 Answer: D
 related: [brooke_scott-1014](../wiki-pages-chunks/brooke_scott-1014.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -237,7 +237,7 @@ Answer: D
 related: [brooke_scott-1014](../wiki-pages-chunks/brooke_scott-1014.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-aa1f274f-0316
@@ -252,7 +252,7 @@ D. Science And Mathematics
 Answer: D
 related: [brooke_scott-1177](../wiki-pages-chunks/brooke_scott-1177.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -268,7 +268,7 @@ D. Gaming And Reading
 Answer: D
 related: [brooke_scott-1177](../wiki-pages-chunks/brooke_scott-1177.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -284,7 +284,7 @@ D. Chloe Price
 Answer: B
 related: [brooke_scott-1177](../wiki-pages-chunks/brooke_scott-1177.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -300,7 +300,7 @@ D. A Plane
 Answer: C
 related: [brooke_scott-1177](../wiki-pages-chunks/brooke_scott-1177.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -316,7 +316,7 @@ D. A Map Of The Campus
 Answer: B
 related: [brooke_scott-1177](../wiki-pages-chunks/brooke_scott-1177.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -332,7 +332,7 @@ D. She Is Surprised By Kate's Behavior
 Answer: D
 related: [brooke_scott-1361](../wiki-pages-chunks/brooke_scott-1361.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -348,7 +348,7 @@ D. It Was A Sign Of The Apocalypse
 Answer: A
 related: [brooke_scott-1361](../wiki-pages-chunks/brooke_scott-1361.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -364,7 +364,7 @@ D. He Needs An Inferior Mind To Help Him
 Answer: D
 related: [brooke_scott-1361](../wiki-pages-chunks/brooke_scott-1361.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -380,7 +380,7 @@ D. "THE AMERICAN DRIVE-IN THEATRE"
 Answer: B
 related: [brooke_scott-1361](../wiki-pages-chunks/brooke_scott-1361.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -396,7 +396,7 @@ D. "Watching You Walk Down With Kate Was The Greatest Thing I've Ever Seen In My
 Answer: D
 related: [brooke_scott-1361](../wiki-pages-chunks/brooke_scott-1361.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -412,7 +412,7 @@ D. Rachel Amber
 Answer: B
 related: [carlos_luna](../wiki-pages-chunks/carlos_luna.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -428,7 +428,7 @@ D. Writer
 Answer: A
 related: [carlos_luna](../wiki-pages-chunks/carlos_luna.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -445,7 +445,7 @@ Answer: B
 related: [carlos_luna](../wiki-pages-chunks/carlos_luna.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-4fb5b6c0-0329
@@ -460,7 +460,7 @@ D. Nik Shriner
 Answer: B
 related: [cast__life_is_strange_](../wiki-pages-chunks/cast__life_is_strange_.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -476,7 +476,7 @@ D. Dani Knights
 Answer: C
 related: [cast__life_is_strange_](../wiki-pages-chunks/cast__life_is_strange_.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -492,7 +492,7 @@ D. Nik Shriner
 Answer: C
 related: [cast__life_is_strange_](../wiki-pages-chunks/cast__life_is_strange_.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -508,7 +508,7 @@ D. Nik Shriner
 Answer: B
 related: [cast__life_is_strange_](../wiki-pages-chunks/cast__life_is_strange_.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -526,7 +526,7 @@ related: [cast__life_is_strange_](../wiki-pages-chunks/cast__life_is_strange_.tx
 
 - [ ] Keep
 - [ ] Delete
-- [ ] Edit
+- [x] Edit
 
 ### wiki-22252971-0334
 
@@ -541,7 +541,7 @@ Answer: A
 related: [characters](../wiki-pages-chunks/characters.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-57a872a2-0335
@@ -557,7 +557,7 @@ Answer: C
 related: [characters](../wiki-pages-chunks/characters.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-bd4b3190-0336
@@ -573,7 +573,7 @@ Answer: A
 related: [characters](../wiki-pages-chunks/characters.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-133cdff3-0337
@@ -589,7 +589,7 @@ Answer: C
 related: [characters](../wiki-pages-chunks/characters.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-dc1c4ce3-0338
@@ -604,7 +604,7 @@ D. David Madsen
 Answer: B
 related: [characters__life_is_strange_-1391](../wiki-pages-chunks/characters__life_is_strange_-1391.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -620,7 +620,7 @@ D. Joyce Price
 Answer: D
 related: [characters__life_is_strange_-1391](../wiki-pages-chunks/characters__life_is_strange_-1391.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -636,7 +636,7 @@ D. Sean Prescott
 Answer: A
 related: [characters__life_is_strange_-1391](../wiki-pages-chunks/characters__life_is_strange_-1391.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -652,7 +652,7 @@ D. Kate Marsh
 Answer: D
 related: [characters__life_is_strange_-1391](../wiki-pages-chunks/characters__life_is_strange_-1391.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -668,7 +668,7 @@ D. Michelle Grant
 Answer: B
 related: [characters__life_is_strange_-1391](../wiki-pages-chunks/characters__life_is_strange_-1391.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -686,7 +686,7 @@ related: [characters__life_is_strange_-1444](../wiki-pages-chunks/characters__li
 
 - [ ] Keep
 - [ ] Delete
-- [ ] Edit
+- [x] Edit
 
 ### wiki-c124f94a-0344
 
@@ -700,7 +700,7 @@ D. Sean Prescott
 Answer: D
 related: [characters__life_is_strange_-1444](../wiki-pages-chunks/characters__life_is_strange_-1444.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -717,7 +717,7 @@ Answer: B
 related: [characters__life_is_strange_-1444](../wiki-pages-chunks/characters__life_is_strange_-1444.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-358d7eb5-0346
@@ -732,7 +732,7 @@ D. Raymond Wells
 Answer: A
 related: [characters__life_is_strange_-1444](../wiki-pages-chunks/characters__life_is_strange_-1444.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -749,7 +749,7 @@ Answer: B
 related: [characters__life_is_strange_-1444](../wiki-pages-chunks/characters__life_is_strange_-1444.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-81de2ab1-0348
@@ -764,7 +764,7 @@ D. Jefferson High School
 Answer: A
 related: [characters__season_1_](../wiki-pages-chunks/characters__season_1_.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -781,7 +781,7 @@ Answer: C
 related: [characters__season_1_](../wiki-pages-chunks/characters__season_1_.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-44f98f2a-0350
@@ -796,7 +796,7 @@ D. End of the World Party
 Answer: D
 related: [characters__season_1_](../wiki-pages-chunks/characters__season_1_.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -813,7 +813,7 @@ Answer: A
 related: [character_gallery](../wiki-pages-chunks/character_gallery.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-17060201-0352
@@ -829,7 +829,7 @@ Answer: B
 related: [character_gallery](../wiki-pages-chunks/character_gallery.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-6825aa57-0353
@@ -845,7 +845,7 @@ Answer: B
 related: [character_gallery](../wiki-pages-chunks/character_gallery.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-328b9a9b-0354
@@ -861,7 +861,7 @@ Answer: D
 related: [character_gallery](../wiki-pages-chunks/character_gallery.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-e4ef197b-0355
@@ -877,7 +877,7 @@ Answer: C
 related: [chloe_and_david](../wiki-pages-chunks/chloe_and_david.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-72e57948-0356
@@ -892,7 +892,7 @@ D. Negative
 Answer: D
 related: [chloe_and_david](../wiki-pages-chunks/chloe_and_david.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -910,7 +910,7 @@ related: [chloe_and_david](../wiki-pages-chunks/chloe_and_david.txt)
 
 - [ ] Keep
 - [ ] Delete
-- [ ] Edit
+- [x] Edit
 
 ### wiki-cceafc1e-0358
 
@@ -925,7 +925,7 @@ Answer: A
 related: [chloe_and_david](../wiki-pages-chunks/chloe_and_david.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-76763616-0359
@@ -941,7 +941,7 @@ Answer: C
 related: [chloe_and_david](../wiki-pages-chunks/chloe_and_david.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-0b181762-0360
@@ -956,7 +956,7 @@ D. Pour It Out
 Answer: A
 related: [chloe_and_rachel-1032](../wiki-pages-chunks/chloe_and_rachel-1032.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -972,7 +972,7 @@ D. Because She Is Drunk
 Answer: D
 related: [chloe_and_rachel-1032](../wiki-pages-chunks/chloe_and_rachel-1032.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -988,7 +988,7 @@ D. She Cries And Refuses To See Her
 Answer: B
 related: [chloe_and_rachel-1032](../wiki-pages-chunks/chloe_and_rachel-1032.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1004,7 +1004,7 @@ D. James Amber
 Answer: A
 related: [chloe_and_rachel-1032](../wiki-pages-chunks/chloe_and_rachel-1032.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1020,7 +1020,7 @@ D. A Key To Her House
 Answer: B
 related: [chloe_and_rachel-1032](../wiki-pages-chunks/chloe_and_rachel-1032.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1036,7 +1036,7 @@ D. Chloe's Playlist
 Answer: B
 related: [chloe_and_rachel-1224](../wiki-pages-chunks/chloe_and_rachel-1224.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1052,7 +1052,7 @@ D. November 2013
 Answer: A
 related: [chloe_and_rachel-1224](../wiki-pages-chunks/chloe_and_rachel-1224.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1068,7 +1068,7 @@ D. Her Best Friend
 Answer: B
 related: [chloe_and_rachel-1224](../wiki-pages-chunks/chloe_and_rachel-1224.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1085,7 +1085,7 @@ Answer: C
 related: [chloe_and_rachel-1224](../wiki-pages-chunks/chloe_and_rachel-1224.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-d1af0507-0369
@@ -1100,7 +1100,7 @@ D. "You Would Have Too"
 Answer: D
 related: [chloe_and_rachel-1224](../wiki-pages-chunks/chloe_and_rachel-1224.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1117,7 +1117,7 @@ Answer: A
 related: [chloe_and_rachel-1290](../wiki-pages-chunks/chloe_and_rachel-1290.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-148302b0-0371
@@ -1133,7 +1133,7 @@ Answer: D
 related: [chloe_and_rachel-1290](../wiki-pages-chunks/chloe_and_rachel-1290.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-2e48d54e-0372
@@ -1148,7 +1148,7 @@ D. "We'll fly beyond this isle, the corners of the world our mere prologue."
 Answer: D
 related: [chloe_and_rachel-1290](../wiki-pages-chunks/chloe_and_rachel-1290.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1164,7 +1164,7 @@ D. "My magical Shakespeare fairy."
 Answer: D
 related: [chloe_and_rachel-1290](../wiki-pages-chunks/chloe_and_rachel-1290.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1180,7 +1180,7 @@ D. A Telescope
 Answer: C
 related: [chloe_and_rachel-1533](../wiki-pages-chunks/chloe_and_rachel-1533.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1198,7 +1198,7 @@ related: [chloe_and_rachel-1533](../wiki-pages-chunks/chloe_and_rachel-1533.txt)
 
 - [ ] Keep
 - [ ] Delete
-- [ ] Edit
+- [x] Edit
 
 ### wiki-d6f99c57-0376
 
@@ -1212,7 +1212,7 @@ D. She Cries
 Answer: C
 related: [chloe_and_rachel-1533](../wiki-pages-chunks/chloe_and_rachel-1533.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1230,7 +1230,7 @@ related: [chloe_and_rachel-1533](../wiki-pages-chunks/chloe_and_rachel-1533.txt)
 
 - [ ] Keep
 - [ ] Delete
-- [ ] Edit
+- [x] Edit
 
 ### wiki-a6a721e4-0378
 
@@ -1244,7 +1244,7 @@ D. To Be Careful Of Fire
 Answer: D
 related: [chloe_and_rachel-1533](../wiki-pages-chunks/chloe_and_rachel-1533.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1260,7 +1260,7 @@ D. At Blackwell Academy
 Answer: A
 related: [chloe_and_rachel-1536](../wiki-pages-chunks/chloe_and_rachel-1536.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1276,7 +1276,7 @@ D. Macbeth
 Answer: B
 related: [chloe_and_rachel-1536](../wiki-pages-chunks/chloe_and_rachel-1536.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1292,7 +1292,7 @@ D. Bring Her A Drink
 Answer: B
 related: [chloe_and_rachel-1536](../wiki-pages-chunks/chloe_and_rachel-1536.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1308,7 +1308,7 @@ D. Call of Duty
 Answer: C
 related: [chloe_and_rachel-1536](../wiki-pages-chunks/chloe_and_rachel-1536.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1324,7 +1324,7 @@ D. Truth or Dare
 Answer: A
 related: [chloe_and_rachel-1536](../wiki-pages-chunks/chloe_and_rachel-1536.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1340,7 +1340,7 @@ D. Blue Moon Diner
 Answer: A
 related: [chloe_price-1077](../wiki-pages-chunks/chloe_price-1077.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1356,7 +1356,7 @@ D. A Robot Panda Keychain
 Answer: A
 related: [chloe_price-1077](../wiki-pages-chunks/chloe_price-1077.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1372,7 +1372,7 @@ D. Take Photos Of The Graffiti
 Answer: B
 related: [chloe_price-1077](../wiki-pages-chunks/chloe_price-1077.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1390,7 +1390,7 @@ related: [chloe_price-1077](../wiki-pages-chunks/chloe_price-1077.txt)
 
 - [ ] Keep
 - [ ] Delete
-- [ ] Edit
+- [x] Edit
 
 ### wiki-c8590f97-0388
 
@@ -1404,7 +1404,7 @@ D. She Gets Kidnapped
 Answer: B
 related: [chloe_price-1077](../wiki-pages-chunks/chloe_price-1077.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1420,7 +1420,7 @@ D. She Became A Cheerleader
 Answer: B
 related: [chloe_price-1284](../wiki-pages-chunks/chloe_price-1284.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1436,7 +1436,7 @@ D. Rebellion And Anger
 Answer: B
 related: [chloe_price-1284](../wiki-pages-chunks/chloe_price-1284.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1452,7 +1452,7 @@ D. Megan Weaver
 Answer: D
 related: [chloe_price-1284](../wiki-pages-chunks/chloe_price-1284.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1468,7 +1468,7 @@ D. Science Nerds Club
 Answer: A
 related: [chloe_price-1284](../wiki-pages-chunks/chloe_price-1284.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1484,7 +1484,7 @@ D. She Was Bitten By A Venomous Snake
 Answer: C
 related: [chloe_price-1284](../wiki-pages-chunks/chloe_price-1284.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1501,7 +1501,7 @@ Answer: C
 related: [chloe_price-1309](../wiki-pages-chunks/chloe_price-1309.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-337a50d6-0395
@@ -1516,7 +1516,7 @@ D. Max's Father
 Answer: B
 related: [chloe_price-1309](../wiki-pages-chunks/chloe_price-1309.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1533,7 +1533,7 @@ Answer: A
 related: [chloe_price-1309](../wiki-pages-chunks/chloe_price-1309.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-0118c397-0397
@@ -1548,7 +1548,7 @@ D. Turn It Into A Tech Hub
 Answer: C
 related: [chloe_price-1309](../wiki-pages-chunks/chloe_price-1309.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1564,7 +1564,7 @@ D. Rachel Amber
 Answer: D
 related: [chloe_price-1328](../wiki-pages-chunks/chloe_price-1328.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1580,7 +1580,7 @@ D. Aaron Price
 Answer: C
 related: [chloe_price-1328](../wiki-pages-chunks/chloe_price-1328.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1597,5 +1597,5 @@ Answer: A
 related: [chloe_price-1328](../wiki-pages-chunks/chloe_price-1328.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit

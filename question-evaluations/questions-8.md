@@ -13,7 +13,7 @@ Answer: D
 related: [crew__life_is_strange_](../wiki-pages-chunks/crew__life_is_strange_.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-04b62aa7-0702
@@ -29,7 +29,7 @@ Answer: C
 related: [crew__life_is_strange_](../wiki-pages-chunks/crew__life_is_strange_.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-6ca19138-0703
@@ -44,7 +44,7 @@ D. Composer
 Answer: C
 related: [crew__life_is_strange_](../wiki-pages-chunks/crew__life_is_strange_.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -60,7 +60,7 @@ D. Raoul Barbet and Michel Koch
 Answer: D
 related: [crew__life_is_strange_](../wiki-pages-chunks/crew__life_is_strange_.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -76,7 +76,7 @@ D. Art Director
 Answer: B
 related: [crew__life_is_strange_](../wiki-pages-chunks/crew__life_is_strange_.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -92,7 +92,7 @@ D. Michel Koch
 Answer: D
 related: [crew__season_1_](../wiki-pages-chunks/crew__season_1_.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -108,7 +108,7 @@ D. Baptiste Moison
 Answer: D
 related: [crew__season_1_](../wiki-pages-chunks/crew__season_1_.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -124,7 +124,7 @@ D. Michel Koch
 Answer: C
 related: [crew__season_1_](../wiki-pages-chunks/crew__season_1_.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -140,7 +140,7 @@ D. Michel Koch
 Answer: B
 related: [crew__season_1_](../wiki-pages-chunks/crew__season_1_.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -156,7 +156,7 @@ D. Luc Baghadoust
 Answer: A
 related: [crew__season_1_](../wiki-pages-chunks/crew__season_1_.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -173,7 +173,7 @@ Answer: A
 related: [crosses](../wiki-pages-chunks/crosses.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-9018b740-0712
@@ -188,7 +188,7 @@ D. Syd Matters
 Answer: D
 related: [crosses](../wiki-pages-chunks/crosses.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -204,7 +204,7 @@ D. Veneer
 Answer: D
 related: [crosses](../wiki-pages-chunks/crosses.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -220,7 +220,7 @@ D. Arcadia Bay Diner
 Answer: C
 related: [crosses](../wiki-pages-chunks/crosses.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -236,7 +236,7 @@ D. Episode 3: Chaos Theory
 Answer: C
 related: [crosses](../wiki-pages-chunks/crosses.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -252,7 +252,7 @@ D. She Finds A Silky Scarf
 Answer: A
 related: [custodial_room](../wiki-pages-chunks/custodial_room.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -268,7 +268,7 @@ D. A Fashion Magazine
 Answer: A
 related: [custodial_room](../wiki-pages-chunks/custodial_room.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -284,7 +284,7 @@ D. The Janitor
 Answer: D
 related: [custodial_room](../wiki-pages-chunks/custodial_room.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -301,7 +301,7 @@ Answer: A
 related: [custodial_room](../wiki-pages-chunks/custodial_room.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-04780814-0720
@@ -318,7 +318,7 @@ related: [custodial_room](../wiki-pages-chunks/custodial_room.txt)
 
 - [ ] Keep
 - [ ] Delete
-- [ ] Edit
+- [x] Edit
 
 ### wiki-b1586951-0721
 
@@ -332,7 +332,7 @@ D. Juliet Watson
 Answer: D
 related: [dana_s_room-1472](../wiki-pages-chunks/dana_s_room-1472.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -348,7 +348,7 @@ D. A Maternity Book
 Answer: A
 related: [dana_s_room-1472](../wiki-pages-chunks/dana_s_room-1472.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -364,7 +364,7 @@ D. Warren Graham
 Answer: B
 related: [dana_s_room-1472](../wiki-pages-chunks/dana_s_room-1472.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -380,7 +380,7 @@ D. "I Love Trevor"
 Answer: A
 related: [dana_s_room-1472](../wiki-pages-chunks/dana_s_room-1472.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -396,7 +396,7 @@ D. If She Tried To Stop Kate
 Answer: A
 related: [dana_ward-1452](../wiki-pages-chunks/dana_ward-1452.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -412,7 +412,7 @@ D. He's Her Best Friend
 Answer: C
 related: [dana_ward-1452](../wiki-pages-chunks/dana_ward-1452.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -428,7 +428,7 @@ D. Save Kate
 Answer: A
 related: [dana_ward-1452](../wiki-pages-chunks/dana_ward-1452.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -444,7 +444,7 @@ D. Sacrifice Arcadia Bay
 Answer: D
 related: [dana_ward-1452](../wiki-pages-chunks/dana_ward-1452.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -460,7 +460,7 @@ D. Dating Logan
 Answer: D
 related: [dana_ward-1510](../wiki-pages-chunks/dana_ward-1510.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -476,7 +476,7 @@ D. His Jacket
 Answer: A
 related: [dana_ward-1510](../wiki-pages-chunks/dana_ward-1510.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -492,7 +492,7 @@ D. Zachary Riggins
 Answer: C
 related: [dana_ward-1510](../wiki-pages-chunks/dana_ward-1510.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -509,7 +509,7 @@ Answer: D
 related: [dana_ward-1510](../wiki-pages-chunks/dana_ward-1510.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-89f1e1de-0733
@@ -524,7 +524,7 @@ D. October 2nd
 Answer: D
 related: [dana_ward-1510](../wiki-pages-chunks/dana_ward-1510.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -540,7 +540,7 @@ D. Nathan Prescott
 Answer: B
 related: [daniel_bonjour](../wiki-pages-chunks/daniel_bonjour.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -557,7 +557,7 @@ Answer: A
 related: [daniel_bonjour](../wiki-pages-chunks/daniel_bonjour.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-51a81a45-0736
@@ -573,7 +573,7 @@ Answer: B
 related: [daniel_bonjour](../wiki-pages-chunks/daniel_bonjour.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-c779923a-0737
@@ -588,7 +588,7 @@ D. Writer
 Answer: A
 related: [daniel_dacosta-1250](../wiki-pages-chunks/daniel_dacosta-1250.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -604,7 +604,7 @@ D. Kate Marsh
 Answer: A
 related: [daniel_dacosta-1250](../wiki-pages-chunks/daniel_dacosta-1250.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -620,7 +620,7 @@ D. Episode 1: Chrysalis
 Answer: A
 related: [daniel_dacosta-1250](../wiki-pages-chunks/daniel_dacosta-1250.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -636,7 +636,7 @@ D. Journalist
 Answer: D
 related: [daniel_lee](../wiki-pages-chunks/daniel_lee.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -652,7 +652,7 @@ D. The Zeitgeist Gallery News
 Answer: B
 related: [daniel_lee](../wiki-pages-chunks/daniel_lee.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -668,7 +668,7 @@ D. A Signed Photograph
 Answer: B
 related: [daniel_lee](../wiki-pages-chunks/daniel_lee.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -685,7 +685,7 @@ Answer: A
 related: [daniel_lee](../wiki-pages-chunks/daniel_lee.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-abba39c9-0744
@@ -700,7 +700,7 @@ D. Victoria Chase, Dana Ward, Brooke Scott, and Dr. Hedorah
 Answer: D
 related: [dani_knights](../wiki-pages-chunks/dani_knights.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -717,7 +717,7 @@ Answer: D
 related: [dani_knights](../wiki-pages-chunks/dani_knights.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-e6a208e0-0746
@@ -732,7 +732,7 @@ D. Producer and Editor
 Answer: C
 related: [dani_knights](../wiki-pages-chunks/dani_knights.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -748,7 +748,7 @@ D. The Voice of Chloe Price
 Answer: B
 related: [dani_knights](../wiki-pages-chunks/dani_knights.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -764,7 +764,7 @@ D. Kelly Davis
 Answer: D
 related: [dark_room_victims-1287](../wiki-pages-chunks/dark_room_victims-1287.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -780,7 +780,7 @@ D. Episode 2: Out of Time
 Answer: C
 related: [dark_room_victims-1287](../wiki-pages-chunks/dark_room_victims-1287.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -796,7 +796,7 @@ D. Rachel Amber
 Answer: A
 related: [dark_room_victims-1287](../wiki-pages-chunks/dark_room_victims-1287.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -812,7 +812,7 @@ D. Episode 5: Polarized
 Answer: D
 related: [dark_room_victims-1287](../wiki-pages-chunks/dark_room_victims-1287.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -828,7 +828,7 @@ D. Janitor
 Answer: C
 related: [david_madsen-1047](../wiki-pages-chunks/david_madsen-1047.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -844,7 +844,7 @@ D. Kate Marsh
 Answer: A
 related: [david_madsen-1047](../wiki-pages-chunks/david_madsen-1047.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -860,7 +860,7 @@ D. He Is Her Teacher
 Answer: A
 related: [david_madsen-1047](../wiki-pages-chunks/david_madsen-1047.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -876,7 +876,7 @@ D. He Gets Divorced From Joyce
 Answer: D
 related: [david_madsen-1047](../wiki-pages-chunks/david_madsen-1047.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -892,7 +892,7 @@ D. Head of Security at Blackwell High School
 Answer: B
 related: [david_madsen-1276](../wiki-pages-chunks/david_madsen-1276.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -908,7 +908,7 @@ D. Grandfather
 Answer: B
 related: [david_madsen-1276](../wiki-pages-chunks/david_madsen-1276.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -924,7 +924,7 @@ D. Indifferent
 Answer: A
 related: [david_madsen-1276](../wiki-pages-chunks/david_madsen-1276.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -940,7 +940,7 @@ D. He Is A Racist
 Answer: A
 related: [david_madsen-1276](../wiki-pages-chunks/david_madsen-1276.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -956,7 +956,7 @@ D. Joyce Madsen
 Answer: D
 related: [david_madsen-1276](../wiki-pages-chunks/david_madsen-1276.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -972,7 +972,7 @@ D. O-Positive
 Answer: D
 related: [david_madsen-1493](../wiki-pages-chunks/david_madsen-1493.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -988,7 +988,7 @@ D. Painting
 Answer: A
 related: [david_madsen-1493](../wiki-pages-chunks/david_madsen-1493.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1004,7 +1004,7 @@ D. Break The Fire Alarm In The Girls' Bathroom
 Answer: C
 related: [david_madsen-1493](../wiki-pages-chunks/david_madsen-1493.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1020,7 +1020,7 @@ D. A Stolen Car
 Answer: A
 related: [david_madsen-1493](../wiki-pages-chunks/david_madsen-1493.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1036,7 +1036,7 @@ D. Grounding Her For A Month
 Answer: B
 related: [david_madsen-1493](../wiki-pages-chunks/david_madsen-1493.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1052,7 +1052,7 @@ D. They Were Set Up By Their Friends
 Answer: B
 related: [david_madsen-1502](../wiki-pages-chunks/david_madsen-1502.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1068,7 +1068,7 @@ D. Step-Father
 Answer: B
 related: [david_madsen-1502](../wiki-pages-chunks/david_madsen-1502.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1085,7 +1085,7 @@ Answer: C
 related: [david_madsen-1502](../wiki-pages-chunks/david_madsen-1502.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-3283d259-0769
@@ -1101,7 +1101,7 @@ Answer: B
 related: [david_madsen-1502](../wiki-pages-chunks/david_madsen-1502.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-1056e1c6-0770
@@ -1117,7 +1117,7 @@ Answer: D
 related: [david_madsen-1502](../wiki-pages-chunks/david_madsen-1502.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-550314ef-0771
@@ -1133,7 +1133,7 @@ Answer: D
 related: [david_madsen-1518](../wiki-pages-chunks/david_madsen-1518.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-652ebe40-0772
@@ -1148,7 +1148,7 @@ D. Madsen Hotel
 Answer: C
 related: [david_madsen-1518](../wiki-pages-chunks/david_madsen-1518.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1164,7 +1164,7 @@ D. The Danger Of Being Arrested By The Police
 Answer: A
 related: [david_madsen-1518](../wiki-pages-chunks/david_madsen-1518.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1180,7 +1180,7 @@ D. His Stepdaughter Chloe
 Answer: C
 related: [david_madsen-1518](../wiki-pages-chunks/david_madsen-1518.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1196,7 +1196,7 @@ D. Skipping class
 Answer: A
 related: [david_madsen-810](../wiki-pages-chunks/david_madsen-810.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1212,7 +1212,7 @@ D. Yelling at her in public
 Answer: C
 related: [david_madsen-810](../wiki-pages-chunks/david_madsen-810.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1229,7 +1229,7 @@ Answer: D
 related: [david_madsen-810](../wiki-pages-chunks/david_madsen-810.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-53691cb5-0778
@@ -1244,7 +1244,7 @@ D. He is her father
 Answer: C
 related: [david_madsen-810](../wiki-pages-chunks/david_madsen-810.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1260,7 +1260,7 @@ D. At the police station
 Answer: A
 related: [david_madsen-810](../wiki-pages-chunks/david_madsen-810.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1276,7 +1276,7 @@ D. Episode 1
 Answer: B
 related: [david_madsen_gallery](../wiki-pages-chunks/david_madsen_gallery.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1292,7 +1292,7 @@ D. Drinking beer
 Answer: B
 related: [david_madsen_gallery](../wiki-pages-chunks/david_madsen_gallery.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1308,7 +1308,7 @@ D. Episode 3
 Answer: C
 related: [david_madsen_gallery](../wiki-pages-chunks/david_madsen_gallery.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1324,7 +1324,7 @@ D. Security guard
 Answer: B
 related: [david_madsen_gallery](../wiki-pages-chunks/david_madsen_gallery.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1340,7 +1340,7 @@ D. Episode 2
 Answer: A
 related: [david_madsen_gallery](../wiki-pages-chunks/david_madsen_gallery.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1356,7 +1356,7 @@ D. Head Of Security
 Answer: D
 related: [david_s_garage-1439](../wiki-pages-chunks/david_s_garage-1439.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1374,7 +1374,7 @@ related: [david_s_garage-1439](../wiki-pages-chunks/david_s_garage-1439.txt)
 
 - [ ] Keep
 - [ ] Delete
-- [ ] Edit
+- [x] Edit
 
 ### wiki-1589fec2-0787
 
@@ -1389,7 +1389,7 @@ Answer: B
 related: [david_s_garage-1439](../wiki-pages-chunks/david_s_garage-1439.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-a719fd7b-0788
@@ -1404,7 +1404,7 @@ D. A Nameplate
 Answer: D
 related: [david_s_garage-1439](../wiki-pages-chunks/david_s_garage-1439.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1421,7 +1421,7 @@ Answer: D
 related: [david_s_garage-1439](../wiki-pages-chunks/david_s_garage-1439.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-f8d72971-0790
@@ -1436,7 +1436,7 @@ D. To Store Weapons
 Answer: A
 related: [david_s_garage-945](../wiki-pages-chunks/david_s_garage-945.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1452,7 +1452,7 @@ D. All Of The Above
 Answer: D
 related: [david_s_garage-945](../wiki-pages-chunks/david_s_garage-945.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1468,7 +1468,7 @@ D. By Finding A Receipt From The Two Whales Diner
 Answer: D
 related: [david_s_garage-945](../wiki-pages-chunks/david_s_garage-945.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1484,7 +1484,7 @@ D. A Crowbar
 Answer: B
 related: [david_s_garage-945](../wiki-pages-chunks/david_s_garage-945.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1500,7 +1500,7 @@ D. Victoria Chase, Dana Ward, and Taylor Christensen
 Answer: B
 related: [dayeanne_hutton-1110](../wiki-pages-chunks/dayeanne_hutton-1110.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1517,7 +1517,7 @@ Answer: B
 related: [dayeanne_hutton-1110](../wiki-pages-chunks/dayeanne_hutton-1110.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-a3953ca1-0796
@@ -1533,7 +1533,7 @@ Answer: D
 related: [dayeanne_hutton-1110](../wiki-pages-chunks/dayeanne_hutton-1110.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-18badecb-0797
@@ -1548,7 +1548,7 @@ D. Owning a dog, learning piano, and becoming a doctor.
 Answer: A
 related: [dayeanne_hutton-1110](../wiki-pages-chunks/dayeanne_hutton-1110.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1564,7 +1564,7 @@ D. A Twitch streamer who played Life is Strange
 Answer: C
 related: [dayeanne_hutton_s_live_streams-1524](../wiki-pages-chunks/dayeanne_hutton_s_live_streams-1524.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1580,7 +1580,7 @@ D. Hannah Telle and Tony Noto
 Answer: D
 related: [dayeanne_hutton_s_live_streams-1524](../wiki-pages-chunks/dayeanne_hutton_s_live_streams-1524.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1597,5 +1597,5 @@ Answer: A
 related: [dayeanne_hutton_s_live_streams-1524](../wiki-pages-chunks/dayeanne_hutton_s_live_streams-1524.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit

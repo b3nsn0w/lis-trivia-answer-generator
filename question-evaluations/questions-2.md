@@ -12,7 +12,7 @@ D. It is a vessel for evil spirits
 Answer: A
 related: [american_rust_junkyard-642](../wiki-pages-chunks/american_rust_junkyard-642.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -28,7 +28,7 @@ D. The doe
 Answer: B
 related: [american_rust_junkyard-642](../wiki-pages-chunks/american_rust_junkyard-642.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -44,7 +44,7 @@ D. Friends
 Answer: B
 related: [american_rust_junkyard-642](../wiki-pages-chunks/american_rust_junkyard-642.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -60,7 +60,7 @@ D. A Bar
 Answer: C
 related: [american_rust_junkyard-947](../wiki-pages-chunks/american_rust_junkyard-947.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -76,7 +76,7 @@ D. Play Hide And Seek
 Answer: C
 related: [american_rust_junkyard-947](../wiki-pages-chunks/american_rust_junkyard-947.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -92,7 +92,7 @@ D. A Place To Work
 Answer: B
 related: [american_rust_junkyard-947](../wiki-pages-chunks/american_rust_junkyard-947.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -108,7 +108,7 @@ D. David Madsen
 Answer: B
 related: [american_rust_junkyard-947](../wiki-pages-chunks/american_rust_junkyard-947.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -126,7 +126,7 @@ related: [american_rust_junkyard-947](../wiki-pages-chunks/american_rust_junkyar
 
 - [ ] Keep
 - [ ] Delete
-- [ ] Edit
+- [x] Edit
 
 ### wiki-03ecb428-0109
 
@@ -140,7 +140,7 @@ D. Lawyer
 Answer: B
 related: [anderson_berry-1327](../wiki-pages-chunks/anderson_berry-1327.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -156,7 +156,7 @@ D. David Madsen
 Answer: C
 related: [anderson_berry-1327](../wiki-pages-chunks/anderson_berry-1327.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -173,7 +173,7 @@ Answer: C
 related: [anderson_berry-1327](../wiki-pages-chunks/anderson_berry-1327.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-a22ce156-0112
@@ -188,7 +188,7 @@ D. She Was Arrested For Shoplifting
 Answer: A
 related: [anderson_berry-1327](../wiki-pages-chunks/anderson_berry-1327.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -204,7 +204,7 @@ D. Episode 1: Chrysalis
 Answer: A
 related: [anderson_berry-1327](../wiki-pages-chunks/anderson_berry-1327.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -220,7 +220,7 @@ D. A fisherman
 Answer: D
 related: [andy_berry](../wiki-pages-chunks/andy_berry.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -236,7 +236,7 @@ D. Dick Weber
 Answer: B
 related: [andy_berry](../wiki-pages-chunks/andy_berry.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -252,7 +252,7 @@ D. At the Arcadia Bay Fishing Club
 Answer: C
 related: [andy_berry](../wiki-pages-chunks/andy_berry.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -268,7 +268,7 @@ D. Two Whales Diner
 Answer: C
 related: [andy_berry](../wiki-pages-chunks/andy_berry.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -284,7 +284,7 @@ D. It Is A Symbol Of Her Rebirth
 Answer: B
 related: [animal_symbolism-1464](../wiki-pages-chunks/animal_symbolism-1464.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -300,7 +300,7 @@ D. It Is Her Spirit Animal
 Answer: D
 related: [animal_symbolism-1464](../wiki-pages-chunks/animal_symbolism-1464.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -316,7 +316,7 @@ D. It Represents His Time Travel Power
 Answer: C
 related: [animal_symbolism-1464](../wiki-pages-chunks/animal_symbolism-1464.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -332,7 +332,7 @@ D. Curiosity And Resourcefulness
 Answer: C
 related: [animal_symbolism-1464](../wiki-pages-chunks/animal_symbolism-1464.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -348,7 +348,7 @@ D. Gentleness And Intuition
 Answer: D
 related: [animal_symbolism-1464](../wiki-pages-chunks/animal_symbolism-1464.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -364,7 +364,7 @@ D. It Is Rachel Amber's Spirit Animal
 Answer: C
 related: [animal_symbolism-1536](../wiki-pages-chunks/animal_symbolism-1536.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -380,7 +380,7 @@ D. Intuition And Grace
 Answer: A
 related: [animal_symbolism-1536](../wiki-pages-chunks/animal_symbolism-1536.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -396,7 +396,7 @@ D. Curiosity And Resourcefulness
 Answer: B
 related: [animal_symbolism-1536](../wiki-pages-chunks/animal_symbolism-1536.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -413,7 +413,7 @@ Answer: A
 related: [animal_symbolism-1536](../wiki-pages-chunks/animal_symbolism-1536.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-05ba64d9-0127
@@ -429,7 +429,7 @@ Answer: A
 related: [animal_symbolism-900](../wiki-pages-chunks/animal_symbolism-900.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-1e9db05e-0128
@@ -445,7 +445,7 @@ Answer: D
 related: [animal_symbolism-900](../wiki-pages-chunks/animal_symbolism-900.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-a6fc097b-0129
@@ -460,7 +460,7 @@ D. The coach for the school swimming team
 Answer: A
 related: [an_marie_barenchi](../wiki-pages-chunks/an_marie_barenchi.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -476,7 +476,7 @@ D. Because Kate was causing trouble in school
 Answer: B
 related: [an_marie_barenchi](../wiki-pages-chunks/an_marie_barenchi.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -492,7 +492,7 @@ D. The Dolphins
 Answer: C
 related: [an_marie_barenchi](../wiki-pages-chunks/an_marie_barenchi.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -508,7 +508,7 @@ D. Fishing
 Answer: D
 related: [arcadia_bay-1027](../wiki-pages-chunks/arcadia_bay-1027.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -524,7 +524,7 @@ D. Max's Abilities Cause The Anomalies
 Answer: B
 related: [arcadia_bay-1027](../wiki-pages-chunks/arcadia_bay-1027.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -540,7 +540,7 @@ D. Episode 1: Chrysalis
 Answer: C
 related: [arcadia_bay-1027](../wiki-pages-chunks/arcadia_bay-1027.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -557,7 +557,7 @@ Answer: A
 related: [arcadia_bay-1027](../wiki-pages-chunks/arcadia_bay-1027.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-d71db79b-0136
@@ -573,7 +573,7 @@ Answer: A
 related: [arcadia_bay-1027](../wiki-pages-chunks/arcadia_bay-1027.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-5c185bca-0137
@@ -588,7 +588,7 @@ D. To Take Photographs
 Answer: A
 related: [arcadia_bay-1375](../wiki-pages-chunks/arcadia_bay-1375.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -604,7 +604,7 @@ D. Newport
 Answer: C
 related: [arcadia_bay-1375](../wiki-pages-chunks/arcadia_bay-1375.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -620,7 +620,7 @@ D. None Of The Above
 Answer: A
 related: [arcadia_bay-1375](../wiki-pages-chunks/arcadia_bay-1375.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -637,7 +637,7 @@ Answer: D
 related: [arcadia_bay-1375](../wiki-pages-chunks/arcadia_bay-1375.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-804bfaa9-0141
@@ -652,7 +652,7 @@ D. Mark Jefferson
 Answer: A
 related: [arcadia_bay-1525](../wiki-pages-chunks/arcadia_bay-1525.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -668,7 +668,7 @@ D. James Amber
 Answer: D
 related: [arcadia_bay-1525](../wiki-pages-chunks/arcadia_bay-1525.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -685,7 +685,7 @@ Answer: D
 related: [arcadia_bay-1525](../wiki-pages-chunks/arcadia_bay-1525.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-ab29af48-0144
@@ -700,7 +700,7 @@ D. It is a reference to a Greek and Latin utopia full of flowers, fruits, and fo
 Answer: D
 related: [arcadia_bay-1525](../wiki-pages-chunks/arcadia_bay-1525.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -716,7 +716,7 @@ D. Up All Nite Donuts
 Answer: C
 related: [arcadia_bay-604](../wiki-pages-chunks/arcadia_bay-604.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -732,7 +732,7 @@ D. Two Whales Diner
 Answer: C
 related: [arcadia_bay-604](../wiki-pages-chunks/arcadia_bay-604.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -748,7 +748,7 @@ D. Lighthouse
 Answer: A
 related: [arcadia_bay-604](../wiki-pages-chunks/arcadia_bay-604.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -764,7 +764,7 @@ D. Rue Altimore
 Answer: C
 related: [arcadia_bay-604](../wiki-pages-chunks/arcadia_bay-604.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -781,7 +781,7 @@ Answer: B
 related: [arcadia_bay-604](../wiki-pages-chunks/arcadia_bay-604.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-5d789359-0150
@@ -796,7 +796,7 @@ D. McFlinn
 Answer: B
 related: [arcadia_bay_ave-1333](../wiki-pages-chunks/arcadia_bay_ave-1333.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -812,7 +812,7 @@ D. Two Whales Diner
 Answer: D
 related: [arcadia_bay_ave-1333](../wiki-pages-chunks/arcadia_bay_ave-1333.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -828,7 +828,7 @@ D. It Is Turned Into A Shelter For Survivors
 Answer: B
 related: [arcadia_bay_ave-1333](../wiki-pages-chunks/arcadia_bay_ave-1333.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -844,7 +844,7 @@ D. The Oregon Coastline
 Answer: A
 related: [arcadia_bay_ave-1333](../wiki-pages-chunks/arcadia_bay_ave-1333.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -860,7 +860,7 @@ D. America's Most Wanted
 Answer: B
 related: [arcadia_bay_beacon](../wiki-pages-chunks/arcadia_bay_beacon.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -877,7 +877,7 @@ Answer: A
 related: [arcadia_bay_beacon](../wiki-pages-chunks/arcadia_bay_beacon.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-74b0d901-0156
@@ -893,7 +893,7 @@ Answer: A
 related: [arcadia_bay_beacon](../wiki-pages-chunks/arcadia_bay_beacon.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-389018d5-0157
@@ -909,7 +909,7 @@ Answer: C
 related: [arcadia_bay_cemetery](../wiki-pages-chunks/arcadia_bay_cemetery.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-8084a198-0158
@@ -925,7 +925,7 @@ Answer: D
 related: [arcadia_bay_cemetery](../wiki-pages-chunks/arcadia_bay_cemetery.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-0e915d6c-0159
@@ -941,7 +941,7 @@ Answer: A
 related: [arcadia_bay_cemetery](../wiki-pages-chunks/arcadia_bay_cemetery.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-2d56d146-0160
@@ -957,7 +957,7 @@ Answer: D
 related: [arcadia_bay_cemetery](../wiki-pages-chunks/arcadia_bay_cemetery.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-ece0a59d-0161
@@ -973,7 +973,7 @@ Answer: C
 related: [arcadia_gas](../wiki-pages-chunks/arcadia_gas.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-e80f9c52-0162
@@ -989,7 +989,7 @@ Answer: C
 related: [arcadia_gas](../wiki-pages-chunks/arcadia_gas.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-0e89d814-0163
@@ -1004,7 +1004,7 @@ D. A British airline
 Answer: A
 related: [arcadia_gas](../wiki-pages-chunks/arcadia_gas.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1021,7 +1021,7 @@ Answer: C
 related: [arcadia_gas](../wiki-pages-chunks/arcadia_gas.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-fa32dc1e-0165
@@ -1036,7 +1036,7 @@ D. Pretty Vicious
 Answer: B
 related: [are_you_ready_for_me](../wiki-pages-chunks/are_you_ready_for_me.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1052,7 +1052,7 @@ D. Episode 4: Farewell
 Answer: C
 related: [are_you_ready_for_me](../wiki-pages-chunks/are_you_ready_for_me.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1069,7 +1069,7 @@ Answer: A
 related: [articles-1193](../wiki-pages-chunks/articles-1193.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-2a8c35aa-0168
@@ -1084,7 +1084,7 @@ D. Jonathan Morali
 Answer: D
 related: [articles-1264](../wiki-pages-chunks/articles-1264.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1101,7 +1101,7 @@ Answer: D
 related: [articles-1264](../wiki-pages-chunks/articles-1264.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-bbdaff06-0170
@@ -1117,7 +1117,7 @@ Answer: C
 related: [articles-1264](../wiki-pages-chunks/articles-1264.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-3ce9392b-0171
@@ -1132,7 +1132,7 @@ D. Jonathan Morali
 Answer: B
 related: [articles-1264](../wiki-pages-chunks/articles-1264.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1149,7 +1149,7 @@ Answer: D
 related: [articles-1408](../wiki-pages-chunks/articles-1408.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-10e5cd44-0173
@@ -1165,7 +1165,7 @@ Answer: B
 related: [articles-1408](../wiki-pages-chunks/articles-1408.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-7fdc57c1-0174
@@ -1181,7 +1181,7 @@ Answer: C
 related: [articles-1408](../wiki-pages-chunks/articles-1408.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-5cdcde67-0175
@@ -1197,7 +1197,7 @@ Answer: A
 related: [articles-1460](../wiki-pages-chunks/articles-1460.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-c46b61ce-0176
@@ -1212,7 +1212,7 @@ D. Deck Nine Games
 Answer: A
 related: [articles-1471](../wiki-pages-chunks/articles-1471.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1228,7 +1228,7 @@ D. Awake
 Answer: D
 related: [articles-1471](../wiki-pages-chunks/articles-1471.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1245,7 +1245,7 @@ Answer: B
 related: [articles-1471](../wiki-pages-chunks/articles-1471.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-caca0907-0179
@@ -1260,7 +1260,7 @@ D. Hailey Hayes
 Answer: A
 related: [articles-1471](../wiki-pages-chunks/articles-1471.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1277,7 +1277,7 @@ Answer: B
 related: [articles-1536](../wiki-pages-chunks/articles-1536.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-208d8eeb-0181
@@ -1293,7 +1293,7 @@ Answer: C
 related: [articles-1536](../wiki-pages-chunks/articles-1536.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-0164d77c-0182
@@ -1309,7 +1309,7 @@ Answer: A
 related: [articles-1536](../wiki-pages-chunks/articles-1536.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-2fdc201c-0183
@@ -1325,7 +1325,7 @@ Answer: B
 related: [articles-680](../wiki-pages-chunks/articles-680.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-2ed93400-0184
@@ -1341,7 +1341,7 @@ Answer: B
 related: [articles-680](../wiki-pages-chunks/articles-680.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-cd0ad8b8-0185
@@ -1357,7 +1357,7 @@ Answer: D
 related: [articles-680](../wiki-pages-chunks/articles-680.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-162e72e3-0186
@@ -1372,7 +1372,7 @@ D. Facebook and Peabody's inaugural digital media prize
 Answer: D
 related: [articles-680](../wiki-pages-chunks/articles-680.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1389,7 +1389,7 @@ Answer: C
 related: [articles-680](../wiki-pages-chunks/articles-680.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-a28ed35e-0188
@@ -1405,7 +1405,7 @@ Answer: B
 related: [articles-742](../wiki-pages-chunks/articles-742.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-d7e28cdc-0189
@@ -1421,7 +1421,7 @@ Answer: C
 related: [articles-742](../wiki-pages-chunks/articles-742.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-12e8d0ce-0190
@@ -1436,7 +1436,7 @@ D. HoustonPress
 Answer: A
 related: [articles-742](../wiki-pages-chunks/articles-742.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1453,7 +1453,7 @@ Answer: D
 related: [articles-742](../wiki-pages-chunks/articles-742.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-68da9e4b-0192
@@ -1469,7 +1469,7 @@ Answer: D
 related: [articles-742](../wiki-pages-chunks/articles-742.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-9013614d-0193
@@ -1484,7 +1484,7 @@ D. The Aftermath Of The Tornado
 Answer: B
 related: [articles-950](../wiki-pages-chunks/articles-950.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1500,7 +1500,7 @@ D. July 21, 2018
 Answer: C
 related: [articles-950](../wiki-pages-chunks/articles-950.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1516,7 +1516,7 @@ D. Time Traveling
 Answer: A
 related: [articles-950](../wiki-pages-chunks/articles-950.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1532,7 +1532,7 @@ D. July 21, 2018
 Answer: A
 related: [articles-950](../wiki-pages-chunks/articles-950.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1548,7 +1548,7 @@ D. W. Eugene Smith
 Answer: B
 related: [artistic_references-1492](../wiki-pages-chunks/artistic_references-1492.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1564,7 +1564,7 @@ D. Man Ray
 Answer: D
 related: [artistic_references-1492](../wiki-pages-chunks/artistic_references-1492.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1580,7 +1580,7 @@ D. None of the above
 Answer: D
 related: [artistic_references-1492](../wiki-pages-chunks/artistic_references-1492.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1596,6 +1596,6 @@ D. W. Eugene Smith
 Answer: B
 related: [artistic_references-1512](../wiki-pages-chunks/artistic_references-1512.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit

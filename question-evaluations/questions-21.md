@@ -12,7 +12,7 @@ D. A Lighthouse
 Answer: A
 related: [harbor_inn](../wiki-pages-chunks/harbor_inn.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -29,7 +29,7 @@ Answer: C
 related: [harbor_inn](../wiki-pages-chunks/harbor_inn.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-e367ac9f-2003
@@ -44,7 +44,7 @@ D. Teacher
 Answer: A
 related: [harry_aaron_prescott](../wiki-pages-chunks/harry_aaron_prescott.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -61,7 +61,7 @@ Answer: A
 related: [harry_aaron_prescott](../wiki-pages-chunks/harry_aaron_prescott.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-b1889f4a-2005
@@ -76,7 +76,7 @@ D. Grandfather and Grandson
 Answer: D
 related: [harry_aaron_prescott](../wiki-pages-chunks/harry_aaron_prescott.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -92,7 +92,7 @@ D. A New Library
 Answer: D
 related: [harry_aaron_prescott](../wiki-pages-chunks/harry_aaron_prescott.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -108,7 +108,7 @@ D. Work Hard, Mayo Big
 Answer: C
 related: [hawt_dawg_man-1407](../wiki-pages-chunks/hawt_dawg_man-1407.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -125,7 +125,7 @@ Answer: C
 related: [hawt_dawg_man-1407](../wiki-pages-chunks/hawt_dawg_man-1407.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-9bcdb4a0-2009
@@ -141,7 +141,7 @@ Answer: C
 related: [hawt_dawg_man-1407](../wiki-pages-chunks/hawt_dawg_man-1407.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-8de5967f-2010
@@ -156,7 +156,7 @@ D. Edouard Capriccio
 Answer: C
 related: [hawt_dawg_man-1407](../wiki-pages-chunks/hawt_dawg_man-1407.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -173,7 +173,7 @@ Answer: A
 related: [hawt_dawg_man-1407](../wiki-pages-chunks/hawt_dawg_man-1407.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-75293fa4-2012
@@ -189,7 +189,7 @@ Answer: B
 related: [hawt_dawg_man-1470](../wiki-pages-chunks/hawt_dawg_man-1470.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-f174d35b-2013
@@ -205,7 +205,7 @@ Answer: A
 related: [hayden_jones-1461](../wiki-pages-chunks/hayden_jones-1461.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-186f3738-2014
@@ -220,7 +220,7 @@ D. She Was Nathan's Girlfriend
 Answer: B
 related: [hayden_jones-1461](../wiki-pages-chunks/hayden_jones-1461.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -236,7 +236,7 @@ D. Photographing Dana
 Answer: D
 related: [hayden_jones-1461](../wiki-pages-chunks/hayden_jones-1461.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -252,7 +252,7 @@ D. He Doesn't Leave A Comment
 Answer: A
 related: [hayden_jones-1461](../wiki-pages-chunks/hayden_jones-1461.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -268,7 +268,7 @@ D. He Dies In The Storm
 Answer: D
 related: [hayden_jones-1461](../wiki-pages-chunks/hayden_jones-1461.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -284,7 +284,7 @@ D. Brick and Slate
 Answer: D
 related: [hideout-1276](../wiki-pages-chunks/hideout-1276.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -300,7 +300,7 @@ D. Los Angeles Club
 Answer: A
 related: [hideout-1276](../wiki-pages-chunks/hideout-1276.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -316,7 +316,7 @@ D. I Want To Live
 Answer: C
 related: [hideout-1276](../wiki-pages-chunks/hideout-1276.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -332,7 +332,7 @@ D. You're All Gonna Die
 Answer: A
 related: [hideout-1276](../wiki-pages-chunks/hideout-1276.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -348,7 +348,7 @@ D. A Rug With An Image Of A Giraffe
 Answer: C
 related: [hideout-1276](../wiki-pages-chunks/hideout-1276.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -365,7 +365,7 @@ Answer: D
 related: [hold_on_hope](../wiki-pages-chunks/hold_on_hope.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-f2f105d8-2024
@@ -380,7 +380,7 @@ D. Episode 4: Dark Room
 Answer: C
 related: [hold_on_hope](../wiki-pages-chunks/hold_on_hope.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -397,7 +397,7 @@ Answer: A
 related: [hold_on_hope](../wiki-pages-chunks/hold_on_hope.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-2666000f-2026
@@ -413,7 +413,7 @@ Answer: C
 related: [hold_on_hope](../wiki-pages-chunks/hold_on_hope.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-56546b46-2027
@@ -428,7 +428,7 @@ D. She Is Joyce's Sister
 Answer: B
 related: [homeless_lady-1453](../wiki-pages-chunks/homeless_lady-1453.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -444,7 +444,7 @@ D. She Is Rescued By Max
 Answer: C
 related: [homeless_lady-1453](../wiki-pages-chunks/homeless_lady-1453.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -460,7 +460,7 @@ D. She Likes Her
 Answer: D
 related: [homeless_lady-1453](../wiki-pages-chunks/homeless_lady-1453.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -476,7 +476,7 @@ D. She Is A Ghost Haunting Arcadia Bay
 Answer: A
 related: [homeless_lady-1453](../wiki-pages-chunks/homeless_lady-1453.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -492,7 +492,7 @@ D. She Is Angry At Max
 Answer: B
 related: [homeless_lady-1453](../wiki-pages-chunks/homeless_lady-1453.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -509,7 +509,7 @@ Answer: A
 related: [hospital](../wiki-pages-chunks/hospital.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-1a887dec-2033
@@ -524,7 +524,7 @@ D. Kate's drawing of a happy rainbow flock
 Answer: C
 related: [hospital](../wiki-pages-chunks/hospital.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -540,7 +540,7 @@ D. To feature an alternate ending where Chloe ends up in a coma
 Answer: D
 related: [hospital](../wiki-pages-chunks/hospital.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -556,7 +556,7 @@ D. Gary Jamroz-Palma
 Answer: D
 related: [hospital](../wiki-pages-chunks/hospital.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -572,7 +572,7 @@ D. Chloe Dies
 Answer: C
 related: [hospital_ending](../wiki-pages-chunks/hospital_ending.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -588,7 +588,7 @@ D. It Reduced the Impact of the Player's Choice
 Answer: D
 related: [hospital_ending](../wiki-pages-chunks/hospital_ending.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -604,7 +604,7 @@ D. To Show Nathan Prescott's Arrest
 Answer: A
 related: [hospital_ending](../wiki-pages-chunks/hospital_ending.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -620,7 +620,7 @@ D. Both Max and Chloe Die
 Answer: B
 related: [hospital_ending](../wiki-pages-chunks/hospital_ending.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -636,7 +636,7 @@ D. Because the Players Liked Her So Much
 Answer: D
 related: [hospital_ending](../wiki-pages-chunks/hospital_ending.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -652,7 +652,7 @@ D. Max Caulfield
 Answer: D
 related: [images_from_life_is_strange](../wiki-pages-chunks/images_from_life_is_strange.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -668,7 +668,7 @@ D. Seattle
 Answer: C
 related: [images_from_life_is_strange](../wiki-pages-chunks/images_from_life_is_strange.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -684,7 +684,7 @@ D. Naughty Dog
 Answer: C
 related: [images_from_life_is_strange](../wiki-pages-chunks/images_from_life_is_strange.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -700,7 +700,7 @@ D. Before The Storm
 Answer: D
 related: [images_from_life_is_strange](../wiki-pages-chunks/images_from_life_is_strange.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -717,7 +717,7 @@ Answer: C
 related: [images_from_life_is_strange](../wiki-pages-chunks/images_from_life_is_strange.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-1be0d396-2046
@@ -732,7 +732,7 @@ D. Two Whales Diner
 Answer: A
 related: [images_of_locations__life_is_strange_](../wiki-pages-chunks/images_of_locations__life_is_strange_.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -749,7 +749,7 @@ Answer: A
 related: [images_of_locations__life_is_strange_](../wiki-pages-chunks/images_of_locations__life_is_strange_.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-15c5cd93-2048
@@ -765,7 +765,7 @@ Answer: D
 related: [images_of_locations__life_is_strange_](../wiki-pages-chunks/images_of_locations__life_is_strange_.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-5ac93710-2049
@@ -781,7 +781,7 @@ Answer: A
 related: [images_of_locations__life_is_strange_](../wiki-pages-chunks/images_of_locations__life_is_strange_.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-36511cf2-2050
@@ -796,7 +796,7 @@ D. The Blue Moon Diner
 Answer: A
 related: [images_of_locations__life_is_strange_](../wiki-pages-chunks/images_of_locations__life_is_strange_.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -812,7 +812,7 @@ D. Ubisoft
 Answer: A
 related: [interestingly_reused_assets__before_the_storm_-1403](../wiki-pages-chunks/interestingly_reused_assets__before_the_storm_-1403.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -828,7 +828,7 @@ D. In the drama lab
 Answer: A
 related: [interestingly_reused_assets__before_the_storm_-1403](../wiki-pages-chunks/interestingly_reused_assets__before_the_storm_-1403.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -845,7 +845,7 @@ Answer: A
 related: [interestingly_reused_assets__before_the_storm_-1403](../wiki-pages-chunks/interestingly_reused_assets__before_the_storm_-1403.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-d73a136e-2054
@@ -861,7 +861,7 @@ Answer: D
 related: [investigation_files-1230](../wiki-pages-chunks/investigation_files-1230.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-2e263c12-2055
@@ -876,7 +876,7 @@ D. Nathan's Secret Phone
 Answer: B
 related: [investigation_files-1230](../wiki-pages-chunks/investigation_files-1230.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -892,7 +892,7 @@ D. Two Whales Diner
 Answer: A
 related: [investigation_files-1230](../wiki-pages-chunks/investigation_files-1230.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -908,7 +908,7 @@ D. David Madsen
 Answer: D
 related: [investigation_files-1230](../wiki-pages-chunks/investigation_files-1230.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -925,7 +925,7 @@ Answer: D
 related: [investigation_files-1230](../wiki-pages-chunks/investigation_files-1230.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-fa8f7d97-2059
@@ -940,7 +940,7 @@ D. A Logbook With Drug Deliveries
 Answer: C
 related: [investigation_files-1265](../wiki-pages-chunks/investigation_files-1265.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -957,7 +957,7 @@ Answer: C
 related: [investigation_files-1265](../wiki-pages-chunks/investigation_files-1265.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-2d48a98b-2061
@@ -973,7 +973,7 @@ Answer: C
 related: [investigation_files-1265](../wiki-pages-chunks/investigation_files-1265.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-10cce25f-2062
@@ -989,7 +989,7 @@ Answer: D
 related: [investigation_files-1265](../wiki-pages-chunks/investigation_files-1265.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-d70439d4-2063
@@ -1005,7 +1005,7 @@ Answer: A
 related: [investigation_files-1265](../wiki-pages-chunks/investigation_files-1265.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-24ba0fc6-2064
@@ -1020,7 +1020,7 @@ D. Six Feet Under
 Answer: B
 related: [investigation_files-1315](../wiki-pages-chunks/investigation_files-1315.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1037,7 +1037,7 @@ Answer: C
 related: [investigation_files-1315](../wiki-pages-chunks/investigation_files-1315.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-da8b8406-2066
@@ -1052,7 +1052,7 @@ D. The X-Files
 Answer: D
 related: [investigation_files-1315](../wiki-pages-chunks/investigation_files-1315.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1068,7 +1068,7 @@ D. The Vortex Club Party
 Answer: B
 related: [investigation_files-1315](../wiki-pages-chunks/investigation_files-1315.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1084,7 +1084,7 @@ D. TPFTHLK
 Answer: B
 related: [investigation_files-1315](../wiki-pages-chunks/investigation_files-1315.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1100,7 +1100,7 @@ D. Episode 2: Out of Time
 Answer: A
 related: [in_my_mind](../wiki-pages-chunks/in_my_mind.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1117,7 +1117,7 @@ Answer: D
 related: [in_my_mind](../wiki-pages-chunks/in_my_mind.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-ff9a8a66-2071
@@ -1132,7 +1132,7 @@ D. Driving
 Answer: B
 related: [in_my_mind](../wiki-pages-chunks/in_my_mind.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1148,7 +1148,7 @@ D. A Fishing Tackle Shop
 Answer: B
 related: [jack_cousteau](../wiki-pages-chunks/jack_cousteau.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1164,7 +1164,7 @@ D. They Are Brothers
 Answer: A
 related: [jack_cousteau](../wiki-pages-chunks/jack_cousteau.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1180,7 +1180,7 @@ D. Catch And Prepare Fish
 Answer: D
 related: [jack_cousteau](../wiki-pages-chunks/jack_cousteau.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1196,7 +1196,7 @@ D. At The Arcadia Bay Marina
 Answer: B
 related: [jack_cousteau](../wiki-pages-chunks/jack_cousteau.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1212,7 +1212,7 @@ D. Blue, hope and vulnerability
 Answer: D
 related: [joyce_price-1201](../wiki-pages-chunks/joyce_price-1201.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1228,7 +1228,7 @@ D. Nathan and Victoria
 Answer: A
 related: [joyce_price-1201](../wiki-pages-chunks/joyce_price-1201.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1244,7 +1244,7 @@ D. Butterfly, transformation and change
 Answer: A
 related: [joyce_price-1201](../wiki-pages-chunks/joyce_price-1201.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1260,7 +1260,7 @@ D. William Price
 Answer: B
 related: [joyce_price-1495](../wiki-pages-chunks/joyce_price-1495.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1276,7 +1276,7 @@ D. Bongo
 Answer: D
 related: [joyce_price-1495](../wiki-pages-chunks/joyce_price-1495.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1292,7 +1292,7 @@ D. He Died Of Natural Causes
 Answer: B
 related: [joyce_price-1495](../wiki-pages-chunks/joyce_price-1495.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1308,7 +1308,7 @@ D. A Secret Diary
 Answer: A
 related: [joyce_price-1526](../wiki-pages-chunks/joyce_price-1526.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1324,7 +1324,7 @@ D. A Diner
 Answer: D
 related: [joyce_price-1526](../wiki-pages-chunks/joyce_price-1526.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1341,7 +1341,7 @@ Answer: D
 related: [joyce_price-1526](../wiki-pages-chunks/joyce_price-1526.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-444e5c01-2085
@@ -1356,7 +1356,7 @@ D. To Run Away From Home
 Answer: A
 related: [joyce_price-1526](../wiki-pages-chunks/joyce_price-1526.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1372,7 +1372,7 @@ D. She Apologizes To Max
 Answer: C
 related: [joyce_price-1526](../wiki-pages-chunks/joyce_price-1526.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1388,7 +1388,7 @@ D. Episode Two
 Answer: A
 related: [joyce_price_gallery](../wiki-pages-chunks/joyce_price_gallery.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1404,7 +1404,7 @@ D. Two Whales Diner
 Answer: D
 related: [joyce_price_gallery](../wiki-pages-chunks/joyce_price_gallery.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1420,7 +1420,7 @@ D. Episode Two
 Answer: A
 related: [joyce_price_gallery](../wiki-pages-chunks/joyce_price_gallery.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1436,7 +1436,7 @@ D. Victoria Chase
 Answer: B
 related: [justin_williams-1236](../wiki-pages-chunks/justin_williams-1236.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1452,7 +1452,7 @@ D. Football Teams
 Answer: B
 related: [justin_williams-1236](../wiki-pages-chunks/justin_williams-1236.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1468,7 +1468,7 @@ D. To Go To The Vortex Club Party
 Answer: B
 related: [justin_williams-1236](../wiki-pages-chunks/justin_williams-1236.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1484,7 +1484,7 @@ D. Sacrifice Arcadia Bay
 Answer: D
 related: [justin_williams-1236](../wiki-pages-chunks/justin_williams-1236.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1500,7 +1500,7 @@ D. Chase
 Answer: B
 related: [kate_marsh-1132](../wiki-pages-chunks/kate_marsh-1132.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1516,7 +1516,7 @@ D. She Jumped Off The Dormitory Roof
 Answer: D
 related: [kate_marsh-1132](../wiki-pages-chunks/kate_marsh-1132.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1532,7 +1532,7 @@ D. Moody And Impulsive
 Answer: A
 related: [kate_marsh-1132](../wiki-pages-chunks/kate_marsh-1132.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1550,7 +1550,7 @@ related: [kate_marsh-1132](../wiki-pages-chunks/kate_marsh-1132.txt)
 
 - [ ] Keep
 - [ ] Delete
-- [ ] Edit
+- [x] Edit
 
 ### wiki-c74eb111-2098
 
@@ -1564,7 +1564,7 @@ D. Victoria Chase
 Answer: B
 related: [kate_marsh-1132](../wiki-pages-chunks/kate_marsh-1132.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1580,7 +1580,7 @@ D. Victoria's
 Answer: C
 related: [kate_marsh-1220](../wiki-pages-chunks/kate_marsh-1220.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1596,6 +1596,6 @@ D. She Was His Enemy
 Answer: A
 related: [kate_marsh-1220](../wiki-pages-chunks/kate_marsh-1220.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit

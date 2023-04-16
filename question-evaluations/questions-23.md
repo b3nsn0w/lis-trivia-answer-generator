@@ -12,7 +12,7 @@ D. It Is Demolished By The City
 Answer: A
 related: [lighthouse-1233](../wiki-pages-chunks/lighthouse-1233.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -29,7 +29,7 @@ Answer: A
 related: [lighthouse-1233](../wiki-pages-chunks/lighthouse-1233.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-200d011c-2203
@@ -44,7 +44,7 @@ D. To Warn Visitors Of Dangerous Cliffs
 Answer: C
 related: [lighthouse-1233](../wiki-pages-chunks/lighthouse-1233.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -61,7 +61,7 @@ Answer: A
 related: [limited_edition__life_is_strange_-1167](../wiki-pages-chunks/limited_edition__life_is_strange_-1167.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-08fe3eac-2205
@@ -77,7 +77,7 @@ Answer: B
 related: [limited_edition__life_is_strange_-1167](../wiki-pages-chunks/limited_edition__life_is_strange_-1167.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-5722f441-2206
@@ -93,7 +93,7 @@ Answer: A
 related: [limited_edition__life_is_strange_-1167](../wiki-pages-chunks/limited_edition__life_is_strange_-1167.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-b0861fde-2207
@@ -109,7 +109,7 @@ Answer: D
 related: [limited_edition__life_is_strange_-1167](../wiki-pages-chunks/limited_edition__life_is_strange_-1167.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-2e2da192-2208
@@ -125,7 +125,7 @@ Answer: A
 related: [limited_edition__life_is_strange_-1167](../wiki-pages-chunks/limited_edition__life_is_strange_-1167.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-e9af02ed-2209
@@ -140,7 +140,7 @@ D. Syd Matters
 Answer: C
 related: [limited_edition__life_is_strange_-1201](../wiki-pages-chunks/limited_edition__life_is_strange_-1201.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -156,7 +156,7 @@ D. In Max's room in "Episode 1: Chrysalis"
 Answer: A
 related: [limited_edition__life_is_strange_-1201](../wiki-pages-chunks/limited_edition__life_is_strange_-1201.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -173,7 +173,7 @@ Answer: C
 related: [limited_edition__life_is_strange_-1533](../wiki-pages-chunks/limited_edition__life_is_strange_-1533.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-f07578e4-2212
@@ -189,7 +189,7 @@ Answer: B
 related: [limited_edition__life_is_strange_-1533](../wiki-pages-chunks/limited_edition__life_is_strange_-1533.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-70ee3ed8-2213
@@ -205,7 +205,7 @@ Answer: A
 related: [limited_edition__life_is_strange_-1533](../wiki-pages-chunks/limited_edition__life_is_strange_-1533.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-8cb9a017-2214
@@ -221,7 +221,7 @@ Answer: A
 related: [limited_edition__life_is_strange_-1533](../wiki-pages-chunks/limited_edition__life_is_strange_-1533.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-e0c08038-2215
@@ -237,7 +237,7 @@ Answer: C
 related: [limited_edition__life_is_strange_-1533](../wiki-pages-chunks/limited_edition__life_is_strange_-1533.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-85ea49d2-2216
@@ -253,7 +253,7 @@ Answer: B
 related: [limited_edition__life_is_strange_-1536](../wiki-pages-chunks/limited_edition__life_is_strange_-1536.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-151f9ae0-2217
@@ -268,7 +268,7 @@ D. A Hill
 Answer: D
 related: [limited_edition__life_is_strange_-1536](../wiki-pages-chunks/limited_edition__life_is_strange_-1536.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -284,7 +284,7 @@ D. "Hellau Sunshine"
 Answer: A
 related: [limited_edition__life_is_strange_-1536](../wiki-pages-chunks/limited_edition__life_is_strange_-1536.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -300,7 +300,7 @@ D. Gary Jamroz-Palma
 Answer: B
 related: [limited_edition__life_is_strange_-1536](../wiki-pages-chunks/limited_edition__life_is_strange_-1536.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -317,7 +317,7 @@ Answer: D
 related: [limited_edition__life_is_strange_-791](../wiki-pages-chunks/limited_edition__life_is_strange_-791.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-fe153829-2221
@@ -333,7 +333,7 @@ Answer: B
 related: [limited_edition__life_is_strange_-791](../wiki-pages-chunks/limited_edition__life_is_strange_-791.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-503038c7-2222
@@ -348,7 +348,7 @@ D. She Was Lying Down
 Answer: C
 related: [limited_edition__life_is_strange_-791](../wiki-pages-chunks/limited_edition__life_is_strange_-791.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -364,7 +364,7 @@ D. Glitter And Gems
 Answer: A
 related: [limited_edition__life_is_strange_-791](../wiki-pages-chunks/limited_edition__life_is_strange_-791.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -380,7 +380,7 @@ D. On Max's bed
 Answer: A
 related: [lisa_the_plant](../wiki-pages-chunks/lisa_the_plant.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -396,7 +396,7 @@ D. She drowns
 Answer: D
 related: [lisa_the_plant](../wiki-pages-chunks/lisa_the_plant.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -412,7 +412,7 @@ D. Watering Master
 Answer: B
 related: [lisa_the_plant](../wiki-pages-chunks/lisa_the_plant.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -428,7 +428,7 @@ D. Seattle
 Answer: A
 related: [locations__life_is_strange_](../wiki-pages-chunks/locations__life_is_strange_.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -444,7 +444,7 @@ D. Portland High School
 Answer: C
 related: [locations__life_is_strange_](../wiki-pages-chunks/locations__life_is_strange_.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -460,7 +460,7 @@ D. Starlight Diner
 Answer: B
 related: [locations__life_is_strange_](../wiki-pages-chunks/locations__life_is_strange_.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -477,7 +477,7 @@ Answer: A
 related: [locations__life_is_strange_](../wiki-pages-chunks/locations__life_is_strange_.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-b6ca6566-2231
@@ -493,7 +493,7 @@ Answer: C
 related: [locations__life_is_strange_](../wiki-pages-chunks/locations__life_is_strange_.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-233283c0-2232
@@ -509,7 +509,7 @@ Answer: B
 related: [lore__life_is_strange_](../wiki-pages-chunks/lore__life_is_strange_.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-e206f132-2233
@@ -525,7 +525,7 @@ Answer: D
 related: [lore__life_is_strange_](../wiki-pages-chunks/lore__life_is_strange_.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-134e5877-2234
@@ -541,7 +541,7 @@ Answer: C
 related: [lore__life_is_strange_](../wiki-pages-chunks/lore__life_is_strange_.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-9e884ede-2235
@@ -557,7 +557,7 @@ Answer: D
 related: [lore__life_is_strange_](../wiki-pages-chunks/lore__life_is_strange_.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-339f0f7c-2236
@@ -573,7 +573,7 @@ Answer: D
 related: [lore__life_is_strange_](../wiki-pages-chunks/lore__life_is_strange_.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-5637bff5-2237
@@ -588,7 +588,7 @@ D. Start A New Life
 Answer: D
 related: [los_angeles](../wiki-pages-chunks/los_angeles.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -604,7 +604,7 @@ D. By Borrowing Money From Frank Bowers
 Answer: D
 related: [los_angeles](../wiki-pages-chunks/los_angeles.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -620,7 +620,7 @@ D. She Would Have Become A Famous Actress
 Answer: C
 related: [los_angeles](../wiki-pages-chunks/los_angeles.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -636,7 +636,7 @@ D. To Find Rachel In Los Angeles
 Answer: D
 related: [los_angeles](../wiki-pages-chunks/los_angeles.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -652,7 +652,7 @@ D. Episode 1 and Episode 2
 Answer: C
 related: [lua](../wiki-pages-chunks/lua.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -668,7 +668,7 @@ D. Kate Marsh
 Answer: C
 related: [lua](../wiki-pages-chunks/lua.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -685,7 +685,7 @@ Answer: A
 related: [lua](../wiki-pages-chunks/lua.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-5d3e6fdc-2244
@@ -700,7 +700,7 @@ D. Friendly
 Answer: B
 related: [luke_parker](../wiki-pages-chunks/luke_parker.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -716,7 +716,7 @@ D. His Love Life
 Answer: A
 related: [luke_parker](../wiki-pages-chunks/luke_parker.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -732,7 +732,7 @@ D. She Saw Nathan With A Gun
 Answer: D
 related: [luke_parker](../wiki-pages-chunks/luke_parker.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -748,7 +748,7 @@ D. Zachary Riggins
 Answer: A
 related: [luke_parker](../wiki-pages-chunks/luke_parker.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -765,7 +765,7 @@ Answer: D
 related: [luke_parker](../wiki-pages-chunks/luke_parker.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-a377b1e4-2249
@@ -780,7 +780,7 @@ D. The director of Life is Strange: Before the Storm
 Answer: A
 related: [lynn](../wiki-pages-chunks/lynn.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -796,7 +796,7 @@ D. None of the above
 Answer: B
 related: [lynn](../wiki-pages-chunks/lynn.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -812,7 +812,7 @@ D. The French release
 Answer: B
 related: [lynn](../wiki-pages-chunks/lynn.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -828,7 +828,7 @@ D. Kate's Aunt
 Answer: B
 related: [lynn_marsh](../wiki-pages-chunks/lynn_marsh.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -844,7 +844,7 @@ D. Episode 1: Chrysalis
 Answer: A
 related: [lynn_marsh](../wiki-pages-chunks/lynn_marsh.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -860,7 +860,7 @@ D. Blackwell Academy
 Answer: D
 related: [lynn_marsh](../wiki-pages-chunks/lynn_marsh.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -876,7 +876,7 @@ D. A Castle
 Answer: A
 related: [madsen_household-1041](../wiki-pages-chunks/madsen_household-1041.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -893,7 +893,7 @@ Answer: D
 related: [madsen_household-1041](../wiki-pages-chunks/madsen_household-1041.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-507a6887-2257
@@ -909,7 +909,7 @@ Answer: D
 related: [madsen_household-1041](../wiki-pages-chunks/madsen_household-1041.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-7525e7e0-2258
@@ -924,7 +924,7 @@ D. Whiskers
 Answer: B
 related: [madsen_household-1041](../wiki-pages-chunks/madsen_household-1041.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -940,7 +940,7 @@ D. "These Books Are All Bestsellers."
 Answer: C
 related: [madsen_household-1041](../wiki-pages-chunks/madsen_household-1041.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -956,7 +956,7 @@ D. 44 Cedar Avenue, Arcadia Bay, Oregon
 Answer: D
 related: [madsen_household-1073](../wiki-pages-chunks/madsen_household-1073.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -988,7 +988,7 @@ D. The End is Now
 Answer: D
 related: [madsen_household-1433](../wiki-pages-chunks/madsen_household-1433.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1005,7 +1005,7 @@ Answer: C
 related: [madsen_household-1433](../wiki-pages-chunks/madsen_household-1433.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-cd0f4d0d-2264
@@ -1020,7 +1020,7 @@ D. A Crumpled-Up Photo Of Joyce And David's Wedding
 Answer: C
 related: [madsen_household-1433](../wiki-pages-chunks/madsen_household-1433.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1036,7 +1036,7 @@ D. A Crumpled-Up Photo Of Joyce And David's Wedding
 Answer: C
 related: [madsen_household-1433](../wiki-pages-chunks/madsen_household-1433.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1052,7 +1052,7 @@ D. Find Chloe's pirate towel
 Answer: A
 related: [madsen_household_bathroom](../wiki-pages-chunks/madsen_household_bathroom.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1069,7 +1069,7 @@ Answer: D
 related: [madsen_household_bedroom](../wiki-pages-chunks/madsen_household_bedroom.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-6dd11313-2268
@@ -1084,7 +1084,7 @@ D. Open The Nightstand Drawers
 Answer: A
 related: [madsen_household_bedroom](../wiki-pages-chunks/madsen_household_bedroom.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1101,7 +1101,7 @@ Answer: B
 related: [madsen_household_bedroom](../wiki-pages-chunks/madsen_household_bedroom.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-55e74dc6-2270
@@ -1116,7 +1116,7 @@ D. The Ultimate Survival Manual
 Answer: A
 related: [madsen_household_bedroom](../wiki-pages-chunks/madsen_household_bedroom.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1133,7 +1133,7 @@ Answer: C
 related: [madsen_household_bedroom](../wiki-pages-chunks/madsen_household_bedroom.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-76f82c9a-2272
@@ -1149,7 +1149,7 @@ Answer: A
 related: [makoto_naruse](../wiki-pages-chunks/makoto_naruse.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-39009c43-2273
@@ -1165,7 +1165,7 @@ Answer: D
 related: [makoto_naruse](../wiki-pages-chunks/makoto_naruse.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-60bf8e5e-2274
@@ -1181,7 +1181,7 @@ Answer: A
 related: [makoto_naruse](../wiki-pages-chunks/makoto_naruse.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-8ee397ae-2275
@@ -1196,7 +1196,7 @@ D. David Madsen
 Answer: C
 related: [mark_jefferson-1121](../wiki-pages-chunks/mark_jefferson-1121.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1212,7 +1212,7 @@ D. Being bullied after a party video went viral
 Answer: D
 related: [mark_jefferson-1121](../wiki-pages-chunks/mark_jefferson-1121.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1228,7 +1228,7 @@ D. Nathan Prescott
 Answer: B
 related: [mark_jefferson-1121](../wiki-pages-chunks/mark_jefferson-1121.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1244,7 +1244,7 @@ D. Father figure and mentor
 Answer: D
 related: [mark_jefferson-1121](../wiki-pages-chunks/mark_jefferson-1121.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1260,7 +1260,7 @@ D. Rachel Amber
 Answer: B
 related: [mark_jefferson-1121](../wiki-pages-chunks/mark_jefferson-1121.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1276,7 +1276,7 @@ D. Kate Marsh
 Answer: B
 related: [mark_jefferson-1253](../wiki-pages-chunks/mark_jefferson-1253.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1292,7 +1292,7 @@ D. Purple and orange
 Answer: C
 related: [mark_jefferson-1253](../wiki-pages-chunks/mark_jefferson-1253.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1308,7 +1308,7 @@ D. They are the most difficult to work with
 Answer: B
 related: [mark_jefferson-1253](../wiki-pages-chunks/mark_jefferson-1253.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1324,7 +1324,7 @@ D. The Black Room
 Answer: B
 related: [mark_jefferson-1293](../wiki-pages-chunks/mark_jefferson-1293.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1340,7 +1340,7 @@ D. They Were Strangers
 Answer: A
 related: [mark_jefferson-1293](../wiki-pages-chunks/mark_jefferson-1293.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1357,7 +1357,7 @@ Answer: C
 related: [mark_jefferson-1293](../wiki-pages-chunks/mark_jefferson-1293.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-1ea77a54-2286
@@ -1372,7 +1372,7 @@ D. He Had Time Control Powers
 Answer: B
 related: [mark_jefferson-1293](../wiki-pages-chunks/mark_jefferson-1293.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1388,7 +1388,7 @@ D. It Was Nathan Prescott
 Answer: A
 related: [mark_jefferson-1293](../wiki-pages-chunks/mark_jefferson-1293.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1404,7 +1404,7 @@ D. Black and White Portrait Photography
 Answer: D
 related: [mark_jefferson-1312](../wiki-pages-chunks/mark_jefferson-1312.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1420,7 +1420,7 @@ D. Parsons School of Design
 Answer: C
 related: [mark_jefferson-1312](../wiki-pages-chunks/mark_jefferson-1312.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1436,7 +1436,7 @@ D. The Black Room
 Answer: A
 related: [mark_jefferson-1312](../wiki-pages-chunks/mark_jefferson-1312.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1452,7 +1452,7 @@ D. Masterpiece Challenge
 Answer: B
 related: [mark_jefferson-1312](../wiki-pages-chunks/mark_jefferson-1312.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1468,7 +1468,7 @@ D. He Is A Drug Addict
 Answer: B
 related: [mark_jefferson-1312](../wiki-pages-chunks/mark_jefferson-1312.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1484,7 +1484,7 @@ D. Art Critic
 Answer: C
 related: [mark_jefferson-1362](../wiki-pages-chunks/mark_jefferson-1362.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1500,7 +1500,7 @@ D. He Ignores Her Completely
 Answer: A
 related: [mark_jefferson-1362](../wiki-pages-chunks/mark_jefferson-1362.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1516,7 +1516,7 @@ D. Their Wealth
 Answer: C
 related: [mark_jefferson-1362](../wiki-pages-chunks/mark_jefferson-1362.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1532,7 +1532,7 @@ D. He Has Brown Hair And Brown Eyes
 Answer: D
 related: [mark_jefferson-1362](../wiki-pages-chunks/mark_jefferson-1362.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1548,7 +1548,7 @@ D. Blackwell Academy Photography Contest
 Answer: C
 related: [mark_jefferson-1362](../wiki-pages-chunks/mark_jefferson-1362.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1564,7 +1564,7 @@ D. She Escapes From The Dark Room
 Answer: A
 related: [mark_jefferson-1409](../wiki-pages-chunks/mark_jefferson-1409.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1580,7 +1580,7 @@ D. Her Camera
 Answer: B
 related: [mark_jefferson-1409](../wiki-pages-chunks/mark_jefferson-1409.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1596,6 +1596,6 @@ D. Weird
 Answer: D
 related: [mark_jefferson-1409](../wiki-pages-chunks/mark_jefferson-1409.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit

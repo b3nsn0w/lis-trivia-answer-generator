@@ -12,7 +12,7 @@ D. The Dharma Bums
 Answer: C
 related: [artistic_references-1512](../wiki-pages-chunks/artistic_references-1512.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -28,7 +28,7 @@ D. Robert Doisneau
 Answer: A
 related: [artistic_references-1512](../wiki-pages-chunks/artistic_references-1512.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -44,7 +44,7 @@ D. Louis Daguerre
 Answer: D
 related: [artistic_references-1512](../wiki-pages-chunks/artistic_references-1512.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -60,7 +60,7 @@ D. Kate Marsh
 Answer: B
 related: [auntie_marsh](../wiki-pages-chunks/auntie_marsh.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -76,7 +76,7 @@ D. A video
 Answer: C
 related: [auntie_marsh](../wiki-pages-chunks/auntie_marsh.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -92,7 +92,7 @@ D. She was angry and shamed Kate
 Answer: D
 related: [auntie_marsh](../wiki-pages-chunks/auntie_marsh.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -108,7 +108,7 @@ D. For Kate's soul to be saved from Eternal Hellfire
 Answer: D
 related: [auntie_marsh](../wiki-pages-chunks/auntie_marsh.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -124,7 +124,7 @@ D. Episode 4: Dark Room
 Answer: C
 related: [auntie_marsh](../wiki-pages-chunks/auntie_marsh.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -140,7 +140,7 @@ D. A college in Arcadia Bay
 Answer: C
 related: [bay_city_college](../wiki-pages-chunks/bay_city_college.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -156,7 +156,7 @@ D. Max Caulfield
 Answer: B
 related: [bay_city_college](../wiki-pages-chunks/bay_city_college.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -172,7 +172,7 @@ D. In a text message received by Max
 Answer: D
 related: [bay_city_college](../wiki-pages-chunks/bay_city_college.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -188,7 +188,7 @@ D. Tillamook Bay Community College
 Answer: D
 related: [bay_city_college](../wiki-pages-chunks/bay_city_college.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -204,7 +204,7 @@ D. Episode 1: Chrysalis
 Answer: B
 related: [beach](../wiki-pages-chunks/beach.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -220,7 +220,7 @@ D. Blackwell Beach
 Answer: C
 related: [beach](../wiki-pages-chunks/beach.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -236,7 +236,7 @@ D. To watch the eclipse
 Answer: A
 related: [beach](../wiki-pages-chunks/beach.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -252,7 +252,7 @@ D. She falls asleep again
 Answer: C
 related: [beach](../wiki-pages-chunks/beach.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -268,7 +268,7 @@ D. All of the above
 Answer: D
 related: [beach](../wiki-pages-chunks/beach.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -284,7 +284,7 @@ D. Jefferson Designed The Cafe's Logo
 Answer: B
 related: [bean_hip_cafe](../wiki-pages-chunks/bean_hip_cafe.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -300,7 +300,7 @@ D. It Was Never Stated
 Answer: B
 related: [bean_hip_cafe](../wiki-pages-chunks/bean_hip_cafe.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -316,7 +316,7 @@ D. Arcadia Bay
 Answer: A
 related: [bean_hip_cafe](../wiki-pages-chunks/bean_hip_cafe.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -332,7 +332,7 @@ D. Victoria's Room
 Answer: B
 related: [bean_hip_cafe](../wiki-pages-chunks/bean_hip_cafe.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -348,7 +348,7 @@ D. English and Literature
 Answer: D
 related: [bernadette_hoida](../wiki-pages-chunks/bernadette_hoida.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -364,7 +364,7 @@ D. She Quit Her Job
 Answer: B
 related: [bernadette_hoida](../wiki-pages-chunks/bernadette_hoida.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -380,7 +380,7 @@ D. Max Caulfield
 Answer: C
 related: [bernadette_hoida](../wiki-pages-chunks/bernadette_hoida.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -396,7 +396,7 @@ D. Episode 3: Chaos Theory
 Answer: A
 related: [bernadette_hoida](../wiki-pages-chunks/bernadette_hoida.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -412,7 +412,7 @@ D. Grade 11 in 2011
 Answer: B
 related: [bernadette_hoida](../wiki-pages-chunks/bernadette_hoida.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -428,7 +428,7 @@ D. Jefferson High
 Answer: B
 related: [blackwell_academy-1398](../wiki-pages-chunks/blackwell_academy-1398.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -444,7 +444,7 @@ D. Schools In Texas Around 1940
 Answer: B
 related: [blackwell_academy-1398](../wiki-pages-chunks/blackwell_academy-1398.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -460,7 +460,7 @@ D. *@Blackwell.edu*
 Answer: A
 related: [blackwell_academy-1398](../wiki-pages-chunks/blackwell_academy-1398.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -476,7 +476,7 @@ D. Video Games
 Answer: B
 related: [blackwell_academy-1398](../wiki-pages-chunks/blackwell_academy-1398.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -492,7 +492,7 @@ D. B1OT21F2014
 Answer: A
 related: [blackwell_academy-1398](../wiki-pages-chunks/blackwell_academy-1398.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -508,7 +508,7 @@ D. Mark Jefferson
 Answer: A
 related: [blackwell_academy-1519](../wiki-pages-chunks/blackwell_academy-1519.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -524,7 +524,7 @@ D. Global Excellence in Arts and Science
 Answer: C
 related: [blackwell_academy-1519](../wiki-pages-chunks/blackwell_academy-1519.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -540,7 +540,7 @@ D. The Prescott Family
 Answer: D
 related: [blackwell_academy-1519](../wiki-pages-chunks/blackwell_academy-1519.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -556,7 +556,7 @@ D. Mark Jefferson
 Answer: D
 related: [blackwell_academy-1519](../wiki-pages-chunks/blackwell_academy-1519.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -572,7 +572,7 @@ D. In David's surveillance cupboard in the Madsen garage
 Answer: D
 related: [blackwell_academy-1521](../wiki-pages-chunks/blackwell_academy-1521.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -588,7 +588,7 @@ D. Raymond Wells
 Answer: C
 related: [blackwell_academy-1521](../wiki-pages-chunks/blackwell_academy-1521.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -604,7 +604,7 @@ D. Mark Jefferson
 Answer: A
 related: [blackwell_academy-1521](../wiki-pages-chunks/blackwell_academy-1521.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -620,7 +620,7 @@ D. Samuel Taylor
 Answer: B
 related: [blackwell_academy-1521](../wiki-pages-chunks/blackwell_academy-1521.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -636,7 +636,7 @@ D. Michelle Barenchi
 Answer: D
 related: [blackwell_academy-1521](../wiki-pages-chunks/blackwell_academy-1521.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -652,7 +652,7 @@ D. Geek Grrls Book Club
 Answer: D
 related: [blackwell_academy-731](../wiki-pages-chunks/blackwell_academy-731.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -668,7 +668,7 @@ D. Blackwell Times
 Answer: C
 related: [blackwell_academy-731](../wiki-pages-chunks/blackwell_academy-731.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -684,7 +684,7 @@ D. The Blackwell Bears
 Answer: A
 related: [blackwell_academy-731](../wiki-pages-chunks/blackwell_academy-731.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -700,7 +700,7 @@ D. S. Sorber
 Answer: D
 related: [blackwell_academy-731](../wiki-pages-chunks/blackwell_academy-731.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -716,7 +716,7 @@ D. End Of The World Party
 Answer: B
 related: [blackwell_academy_hallway-1501](../wiki-pages-chunks/blackwell_academy_hallway-1501.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -732,7 +732,7 @@ D. The World Is Yours Today
 Answer: C
 related: [blackwell_academy_hallway-1501](../wiki-pages-chunks/blackwell_academy_hallway-1501.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -750,7 +750,7 @@ related: [blackwell_academy_hallway-1501](../wiki-pages-chunks/blackwell_academy
 
 - [ ] Keep
 - [ ] Delete
-- [ ] Edit
+- [x] Edit
 
 ### wiki-665e089f-0248
 
@@ -766,7 +766,7 @@ related: [blackwell_academy_hallway-1501](../wiki-pages-chunks/blackwell_academy
 
 - [ ] Keep
 - [ ] Delete
-- [ ] Edit
+- [x] Edit
 
 ### wiki-058b624e-0249
 
@@ -782,7 +782,7 @@ related: [blackwell_academy_hallway-1501](../wiki-pages-chunks/blackwell_academy
 
 - [ ] Keep
 - [ ] Delete
-- [ ] Edit
+- [x] Edit
 
 ### wiki-92cc9682-0250
 
@@ -797,7 +797,7 @@ Answer: C
 related: [blackwell_academy_hallway-1528](../wiki-pages-chunks/blackwell_academy_hallway-1528.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-af71546f-0251
@@ -812,7 +812,7 @@ D. Alyssa Anderson
 Answer: A
 related: [blackwell_academy_hallway-1528](../wiki-pages-chunks/blackwell_academy_hallway-1528.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -828,7 +828,7 @@ D. Justin Williams
 Answer: D
 related: [blackwell_academy_hallway-1528](../wiki-pages-chunks/blackwell_academy_hallway-1528.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -845,7 +845,7 @@ Answer: C
 related: [blackwell_academy_hallway-1528](../wiki-pages-chunks/blackwell_academy_hallway-1528.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-7a4207f7-0254
@@ -861,7 +861,7 @@ Answer: C
 related: [blackwell_academy_hallway-1528](../wiki-pages-chunks/blackwell_academy_hallway-1528.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-a8f0a3c4-0255
@@ -876,7 +876,7 @@ D. California
 Answer: C
 related: [blackwell_academy_hallway-419](../wiki-pages-chunks/blackwell_academy_hallway-419.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -893,7 +893,7 @@ Answer: C
 related: [blackwell_academy_hallway-419](../wiki-pages-chunks/blackwell_academy_hallway-419.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-d857113c-0257
@@ -909,7 +909,7 @@ Answer: D
 related: [blackwell_academy_hallway-419](../wiki-pages-chunks/blackwell_academy_hallway-419.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-49df70fe-0258
@@ -925,7 +925,7 @@ Answer: C
 related: [blackwell_academy_hallway-419](../wiki-pages-chunks/blackwell_academy_hallway-419.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-21e32960-0259
@@ -940,7 +940,7 @@ D. To Advertise School Events
 Answer: C
 related: [blackwell_academy_hallway-419](../wiki-pages-chunks/blackwell_academy_hallway-419.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -956,7 +956,7 @@ D. "Donate Blood Today"
 Answer: C
 related: [blackwell_academy_hallway-683](../wiki-pages-chunks/blackwell_academy_hallway-683.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -972,7 +972,7 @@ D. Debate Club
 Answer: C
 related: [blackwell_academy_hallway-683](../wiki-pages-chunks/blackwell_academy_hallway-683.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -988,7 +988,7 @@ D. She Thinks It's Cool
 Answer: C
 related: [blackwell_academy_hallway-683](../wiki-pages-chunks/blackwell_academy_hallway-683.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1004,7 +1004,7 @@ D. All Of The Above
 Answer: D
 related: [blackwell_academy_hallway-683](../wiki-pages-chunks/blackwell_academy_hallway-683.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1020,7 +1020,7 @@ D. Otters
 Answer: C
 related: [blackwell_academy_hallway-683](../wiki-pages-chunks/blackwell_academy_hallway-683.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1036,7 +1036,7 @@ D. Jeremiah Blackwell
 Answer: D
 related: [blackwell_campus-923](../wiki-pages-chunks/blackwell_campus-923.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1052,7 +1052,7 @@ D. A statue of Max Caulfield
 Answer: B
 related: [blackwell_campus-923](../wiki-pages-chunks/blackwell_campus-923.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1068,7 +1068,7 @@ D. Episode 3: Chaos Theory
 Answer: B
 related: [blackwell_campus-923](../wiki-pages-chunks/blackwell_campus-923.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1084,7 +1084,7 @@ D. Episode 1: Chrysalis
 Answer: B
 related: [blackwell_campus-923](../wiki-pages-chunks/blackwell_campus-923.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1100,7 +1100,7 @@ D. Episode 3: Chaos Theory
 Answer: B
 related: [blackwell_parking_lot-1534](../wiki-pages-chunks/blackwell_parking_lot-1534.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1116,7 +1116,7 @@ D. Mark Jefferson
 Answer: C
 related: [blackwell_parking_lot-1534](../wiki-pages-chunks/blackwell_parking_lot-1534.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1132,7 +1132,7 @@ D. Blue Moon Diner
 Answer: B
 related: [blackwell_parking_lot-1534](../wiki-pages-chunks/blackwell_parking_lot-1534.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1148,7 +1148,7 @@ D. Episode 4: Dark Room
 Answer: B
 related: [blackwell_parking_lot-1534](../wiki-pages-chunks/blackwell_parking_lot-1534.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1164,7 +1164,7 @@ D. "MAX IS A FEMINAZI"
 Answer: B
 related: [blackwell_swimming_pool-1331](../wiki-pages-chunks/blackwell_swimming_pool-1331.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1181,7 +1181,7 @@ Answer: D
 related: [blackwell_swimming_pool-1331](../wiki-pages-chunks/blackwell_swimming_pool-1331.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-765557e9-0275
@@ -1197,7 +1197,7 @@ Answer: A
 related: [blackwell_swimming_pool-1331](../wiki-pages-chunks/blackwell_swimming_pool-1331.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-75c66527-0276
@@ -1213,7 +1213,7 @@ Answer: D
 related: [blackwell_swimming_pool-1331](../wiki-pages-chunks/blackwell_swimming_pool-1331.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-26889e4a-0277
@@ -1228,7 +1228,7 @@ D. Episode 2: Out of Time
 Answer: C
 related: [blackwell_swimming_pool-1490](../wiki-pages-chunks/blackwell_swimming_pool-1490.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1244,7 +1244,7 @@ D. The Sharks
 Answer: C
 related: [blackwell_swimming_pool-1490](../wiki-pages-chunks/blackwell_swimming_pool-1490.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1260,7 +1260,7 @@ D. Victoria Chase
 Answer: B
 related: [blackwell_swimming_pool-1490](../wiki-pages-chunks/blackwell_swimming_pool-1490.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1276,7 +1276,7 @@ D. The Winter Wonderland
 Answer: C
 related: [blackwell_swimming_pool-1490](../wiki-pages-chunks/blackwell_swimming_pool-1490.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1292,7 +1292,7 @@ D. A gun
 Answer: B
 related: [blackwell_swimming_pool-1490](../wiki-pages-chunks/blackwell_swimming_pool-1490.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1309,7 +1309,7 @@ Answer: D
 related: [blackwell_swimming_pool-1511](../wiki-pages-chunks/blackwell_swimming_pool-1511.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-95bf865f-0283
@@ -1324,7 +1324,7 @@ D. A photo of the wasted girl
 Answer: B
 related: [blackwell_swimming_pool-1511](../wiki-pages-chunks/blackwell_swimming_pool-1511.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1340,7 +1340,7 @@ D. Victoria Chase
 Answer: B
 related: [blackwell_swimming_pool-1511](../wiki-pages-chunks/blackwell_swimming_pool-1511.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1356,7 +1356,7 @@ D. "Chips and crackers... spare no expense, Vortex Club."
 Answer: C
 related: [blackwell_swimming_pool-1511](../wiki-pages-chunks/blackwell_swimming_pool-1511.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1373,7 +1373,7 @@ Answer: C
 related: [blackwell_swimming_pool-909](../wiki-pages-chunks/blackwell_swimming_pool-909.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-f393a440-0287
@@ -1388,7 +1388,7 @@ D. "I Wonder Who This Jacket Belongs To."
 Answer: B
 related: [blackwell_swimming_pool-909](../wiki-pages-chunks/blackwell_swimming_pool-909.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1404,7 +1404,7 @@ D. "I Wonder What The Big Plan Is."
 Answer: D
 related: [blackwell_swimming_pool-909](../wiki-pages-chunks/blackwell_swimming_pool-909.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1420,7 +1420,7 @@ D. Look At It, Add Names, And Remove Names
 Answer: D
 related: [blackwell_swimming_pool-909](../wiki-pages-chunks/blackwell_swimming_pool-909.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1436,7 +1436,7 @@ D. "This Coffee Smells Terrible."
 Answer: B
 related: [blackwell_swimming_pool-909](../wiki-pages-chunks/blackwell_swimming_pool-909.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1452,7 +1452,7 @@ D. Episode 4
 Answer: B
 related: [blue_butterfly-1039](../wiki-pages-chunks/blue_butterfly-1039.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1468,7 +1468,7 @@ D. She ignores it
 Answer: B
 related: [blue_butterfly-1039](../wiki-pages-chunks/blue_butterfly-1039.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1485,7 +1485,7 @@ Answer: B
 related: [blue_butterfly-1039](../wiki-pages-chunks/blue_butterfly-1039.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-99588619-0294
@@ -1501,7 +1501,7 @@ Answer: C
 related: [blue_butterfly-1039](../wiki-pages-chunks/blue_butterfly-1039.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-917d34e3-0295
@@ -1516,7 +1516,7 @@ D. China
 Answer: D
 related: [blue_butterfly-1039](../wiki-pages-chunks/blue_butterfly-1039.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1533,7 +1533,7 @@ Answer: D
 related: [blue_butterfly-1129](../wiki-pages-chunks/blue_butterfly-1129.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-72b75083-0297
@@ -1548,7 +1548,7 @@ D. War Room Stories
 Answer: A
 related: [blue_butterfly-1129](../wiki-pages-chunks/blue_butterfly-1129.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1566,7 +1566,7 @@ related: [blue_butterfly-1129](../wiki-pages-chunks/blue_butterfly-1129.txt)
 
 - [ ] Keep
 - [ ] Delete
-- [ ] Edit
+- [x] Edit
 
 ### wiki-f22e7b5e-0299
 
@@ -1580,7 +1580,7 @@ D. Max's Spirit
 Answer: B
 related: [blue_butterfly-1129](../wiki-pages-chunks/blue_butterfly-1129.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1596,6 +1596,6 @@ D. A Green Butterfly
 Answer: C
 related: [blue_butterfly-1129](../wiki-pages-chunks/blue_butterfly-1129.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit

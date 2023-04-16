@@ -12,7 +12,7 @@ D. University of California, Berkeley
 Answer: A
 related: [christian_divine-1136](../wiki-pages-chunks/christian_divine-1136.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -29,7 +29,7 @@ Answer: B
 related: [christian_divine-1136](../wiki-pages-chunks/christian_divine-1136.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-2ffbc153-0603
@@ -45,7 +45,7 @@ Answer: B
 related: [christian_divine-1136](../wiki-pages-chunks/christian_divine-1136.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-20e8616b-0604
@@ -60,7 +60,7 @@ D. To Be Interested In Fame
 Answer: C
 related: [christian_divine-1136](../wiki-pages-chunks/christian_divine-1136.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -76,7 +76,7 @@ D. Bigfoot Adventure
 Answer: C
 related: [chuck_pierce_jr_](../wiki-pages-chunks/chuck_pierce_jr_.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -92,7 +92,7 @@ D. Take A Photo With Bigfoot
 Answer: B
 related: [chuck_pierce_jr_](../wiki-pages-chunks/chuck_pierce_jr_.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -108,7 +108,7 @@ D. At The Sasquatch Museum
 Answer: B
 related: [chuck_pierce_jr_](../wiki-pages-chunks/chuck_pierce_jr_.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -124,7 +124,7 @@ D. Bigfoot: The Legend Lives On
 Answer: B
 related: [chuck_pierce_jr_](../wiki-pages-chunks/chuck_pierce_jr_.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -140,7 +140,7 @@ D. To Unlock Hidden Achievements
 Answer: A
 related: [cinematic_screenshots-108](../wiki-pages-chunks/cinematic_screenshots-108.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -157,7 +157,7 @@ Answer: C
 related: [cinematic_screenshots-108](../wiki-pages-chunks/cinematic_screenshots-108.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-3d3afd05-0611
@@ -172,7 +172,7 @@ D. The Community
 Answer: D
 related: [cinematic_screenshots-108](../wiki-pages-chunks/cinematic_screenshots-108.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -190,7 +190,7 @@ related: [cinematic_screenshots-108](../wiki-pages-chunks/cinematic_screenshots-
 
 - [ ] Keep
 - [ ] Delete
-- [ ] Edit
+- [x] Edit
 
 ### wiki-2c27ccfc-0613
 
@@ -205,7 +205,7 @@ Answer: B
 related: [cinematic_screenshots-108](../wiki-pages-chunks/cinematic_screenshots-108.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-8613b98a-0614
@@ -221,7 +221,7 @@ Answer: C
 related: [cinematic_screenshots-1208](../wiki-pages-chunks/cinematic_screenshots-1208.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-a40e481b-0615
@@ -237,7 +237,7 @@ Answer: D
 related: [cinematic_screenshots-1249](../wiki-pages-chunks/cinematic_screenshots-1249.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-a8ae0114-0616
@@ -253,7 +253,7 @@ Answer: D
 related: [cinematic_screenshots-1249](../wiki-pages-chunks/cinematic_screenshots-1249.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-3d6c5a63-0617
@@ -269,7 +269,7 @@ Answer: D
 related: [cinematic_screenshots-1249](../wiki-pages-chunks/cinematic_screenshots-1249.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-b041884a-0618
@@ -285,7 +285,7 @@ Answer: A
 related: [cinematic_screenshots-1249](../wiki-pages-chunks/cinematic_screenshots-1249.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-698f0dc8-0619
@@ -301,7 +301,7 @@ Answer: A
 related: [cinematic_screenshots-1393](../wiki-pages-chunks/cinematic_screenshots-1393.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-140a179b-0620
@@ -317,7 +317,7 @@ Answer: B
 related: [cinematic_screenshots-1393](../wiki-pages-chunks/cinematic_screenshots-1393.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-3afde48e-0621
@@ -333,7 +333,7 @@ Answer: B
 related: [cinematic_screenshots-1445](../wiki-pages-chunks/cinematic_screenshots-1445.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-2f1c7e03-0622
@@ -349,7 +349,7 @@ Answer: B
 related: [cinematic_screenshots-1533](../wiki-pages-chunks/cinematic_screenshots-1533.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-37ddd844-0623
@@ -365,7 +365,7 @@ Answer: C
 related: [cinematic_screenshots-1533](../wiki-pages-chunks/cinematic_screenshots-1533.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-f0a189cf-0624
@@ -381,7 +381,7 @@ Answer: D
 related: [cinematic_screenshots-1533](../wiki-pages-chunks/cinematic_screenshots-1533.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-640d6d46-0625
@@ -397,7 +397,7 @@ Answer: B
 related: [cinematic_screenshots-1533](../wiki-pages-chunks/cinematic_screenshots-1533.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-57b34985-0626
@@ -412,7 +412,7 @@ D. Chloe Price
 Answer: C
 related: [cissy_jones](../wiki-pages-chunks/cissy_jones.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -428,7 +428,7 @@ D. Fallout 4
 Answer: C
 related: [cissy_jones](../wiki-pages-chunks/cissy_jones.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -445,7 +445,7 @@ Answer: D
 related: [cissy_jones](../wiki-pages-chunks/cissy_jones.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-f5823f85-0629
@@ -461,7 +461,7 @@ Answer: B
 related: [cissy_jones](../wiki-pages-chunks/cissy_jones.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-523fe7fa-0630
@@ -476,7 +476,7 @@ D. To Unlock New Characters
 Answer: A
 related: [collectible_mode](../wiki-pages-chunks/collectible_mode.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -492,7 +492,7 @@ D. To Skip Unskippable Story Cutscenes And Dialog
 Answer: D
 related: [collectible_mode](../wiki-pages-chunks/collectible_mode.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -509,7 +509,7 @@ Answer: C
 related: [collectible_mode](../wiki-pages-chunks/collectible_mode.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-ae810f26-0633
@@ -525,7 +525,7 @@ Answer: D
 related: [collectible_mode](../wiki-pages-chunks/collectible_mode.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-fd6ec146-0634
@@ -541,7 +541,7 @@ Answer: D
 related: [commissioned_artwork](../wiki-pages-chunks/commissioned_artwork.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-9792b388-0635
@@ -557,7 +557,7 @@ Answer: D
 related: [commissioned_artwork](../wiki-pages-chunks/commissioned_artwork.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-01d2bed6-0636
@@ -573,7 +573,7 @@ Answer: B
 related: [commissioned_artwork](../wiki-pages-chunks/commissioned_artwork.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-2b70e37a-0637
@@ -589,7 +589,7 @@ Answer: B
 related: [commissioned_artwork](../wiki-pages-chunks/commissioned_artwork.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-bd69752e-0638
@@ -605,7 +605,7 @@ Answer: B
 related: [community](../wiki-pages-chunks/community.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-d9da369e-0639
@@ -621,7 +621,7 @@ Answer: A
 related: [community](../wiki-pages-chunks/community.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-019656ca-0640
@@ -637,7 +637,7 @@ Answer: D
 related: [community](../wiki-pages-chunks/community.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-86d1d6bc-0641
@@ -653,7 +653,7 @@ Answer: D
 related: [community](../wiki-pages-chunks/community.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-5f08f9b0-0642
@@ -669,7 +669,7 @@ Answer: D
 related: [community](../wiki-pages-chunks/community.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-24e4c1fa-0643
@@ -684,7 +684,7 @@ D. A Fan Fiction Writing Competition
 Answer: A
 related: [community_heroes](../wiki-pages-chunks/community_heroes.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -700,7 +700,7 @@ D. Life Is Strange Game Keys
 Answer: A
 related: [community_heroes](../wiki-pages-chunks/community_heroes.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -717,7 +717,7 @@ Answer: D
 related: [community_heroes](../wiki-pages-chunks/community_heroes.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-40a7ae89-0646
@@ -733,7 +733,7 @@ Answer: C
 related: [community_heroes](../wiki-pages-chunks/community_heroes.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-ef1ee713-0647
@@ -749,7 +749,7 @@ Answer: C
 related: [community_management-1264](../wiki-pages-chunks/community_management-1264.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-385b432f-0648
@@ -765,7 +765,7 @@ Answer: D
 related: [community_management-1264](../wiki-pages-chunks/community_management-1264.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-c3d5d228-0649
@@ -781,7 +781,7 @@ Answer: A
 related: [community_management-1264](../wiki-pages-chunks/community_management-1264.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-f8ed6a05-0650
@@ -797,7 +797,7 @@ Answer: A
 related: [community_management-1264](../wiki-pages-chunks/community_management-1264.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-4889b0e7-0651
@@ -813,7 +813,7 @@ Answer: A
 related: [community_management-1318](../wiki-pages-chunks/community_management-1318.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-2892d731-0652
@@ -829,7 +829,7 @@ Answer: C
 related: [community_management-1318](../wiki-pages-chunks/community_management-1318.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-96ddf9ec-0653
@@ -845,7 +845,7 @@ Answer: C
 related: [community_management-1318](../wiki-pages-chunks/community_management-1318.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-e43f42b3-0654
@@ -861,7 +861,7 @@ Answer: A
 related: [community_management-1318](../wiki-pages-chunks/community_management-1318.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-de407358-0655
@@ -877,7 +877,7 @@ Answer: D
 related: [community_management-1501](../wiki-pages-chunks/community_management-1501.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-d833d9c3-0656
@@ -893,7 +893,7 @@ Answer: A
 related: [community_management-1501](../wiki-pages-chunks/community_management-1501.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-2710f242-0657
@@ -909,7 +909,7 @@ Answer: B
 related: [community_management-1501](../wiki-pages-chunks/community_management-1501.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-6ac6232b-0658
@@ -925,7 +925,7 @@ Answer: C
 related: [community_management-1501](../wiki-pages-chunks/community_management-1501.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-d9567928-0659
@@ -941,7 +941,7 @@ Answer: D
 related: [community_management-1501](../wiki-pages-chunks/community_management-1501.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-8ea3ca79-0660
@@ -957,7 +957,7 @@ Answer: A
 related: [community_management-336](../wiki-pages-chunks/community_management-336.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-6e8a4472-0661
@@ -973,7 +973,7 @@ Answer: A
 related: [community_management-336](../wiki-pages-chunks/community_management-336.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-e3512206-0662
@@ -989,7 +989,7 @@ Answer: A
 related: [community_management-336](../wiki-pages-chunks/community_management-336.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-a8b6ec4a-0663
@@ -1005,7 +1005,7 @@ Answer: D
 related: [community_video_series-1187](../wiki-pages-chunks/community_video_series-1187.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-8eab838a-0664
@@ -1021,7 +1021,7 @@ Answer: B
 related: [community_video_series-1187](../wiki-pages-chunks/community_video_series-1187.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-b899533c-0665
@@ -1037,7 +1037,7 @@ Answer: A
 related: [community_video_series-1187](../wiki-pages-chunks/community_video_series-1187.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-3872061c-0666
@@ -1052,7 +1052,7 @@ D. An Artbook
 Answer: D
 related: [concept_art__life_is_strange_-1187](../wiki-pages-chunks/concept_art__life_is_strange_-1187.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1068,7 +1068,7 @@ D. Florent Auguy
 Answer: B
 related: [concept_art__life_is_strange_-1187](../wiki-pages-chunks/concept_art__life_is_strange_-1187.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1084,7 +1084,7 @@ D. Blackwell Academy
 Answer: D
 related: [concept_art__life_is_strange_-1187](../wiki-pages-chunks/concept_art__life_is_strange_-1187.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1101,7 +1101,7 @@ Answer: D
 related: [concept_art__life_is_strange_-1187](../wiki-pages-chunks/concept_art__life_is_strange_-1187.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-d0c039a1-0670
@@ -1117,7 +1117,7 @@ Answer: D
 related: [control_scheme__season_1_-1069](../wiki-pages-chunks/control_scheme__season_1_-1069.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-b9603554-0671
@@ -1133,7 +1133,7 @@ Answer: C
 related: [control_scheme__season_1_-1069](../wiki-pages-chunks/control_scheme__season_1_-1069.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-e32b9f14-0672
@@ -1149,7 +1149,7 @@ Answer: C
 related: [control_scheme__season_1_-1069](../wiki-pages-chunks/control_scheme__season_1_-1069.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-99f76b86-0673
@@ -1165,7 +1165,7 @@ Answer: D
 related: [control_scheme__season_1_-1069](../wiki-pages-chunks/control_scheme__season_1_-1069.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-823599f1-0674
@@ -1181,7 +1181,7 @@ Answer: D
 related: [control_scheme__season_1_-1069](../wiki-pages-chunks/control_scheme__season_1_-1069.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-cce81dad-0675
@@ -1197,7 +1197,7 @@ Answer: A
 related: [control_scheme__season_1_-1332](../wiki-pages-chunks/control_scheme__season_1_-1332.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-41c6521d-0676
@@ -1213,7 +1213,7 @@ Answer: C
 related: [control_scheme__season_1_-1332](../wiki-pages-chunks/control_scheme__season_1_-1332.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-57085db3-0677
@@ -1229,7 +1229,7 @@ Answer: C
 related: [control_scheme__season_1_-1426](../wiki-pages-chunks/control_scheme__season_1_-1426.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-79311cdf-0678
@@ -1245,7 +1245,7 @@ Answer: D
 related: [control_scheme__season_1_-1426](../wiki-pages-chunks/control_scheme__season_1_-1426.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-bfde6323-0679
@@ -1261,7 +1261,7 @@ Answer: B
 related: [control_scheme__season_1_-1426](../wiki-pages-chunks/control_scheme__season_1_-1426.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-892a549f-0680
@@ -1277,7 +1277,7 @@ Answer: C
 related: [control_scheme__season_1_-1426](../wiki-pages-chunks/control_scheme__season_1_-1426.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-36af6200-0681
@@ -1293,7 +1293,7 @@ Answer: C
 related: [control_scheme__season_1_-1426](../wiki-pages-chunks/control_scheme__season_1_-1426.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-5c46d7c7-0682
@@ -1309,7 +1309,7 @@ Answer: A
 related: [control_scheme__season_1_-1480](../wiki-pages-chunks/control_scheme__season_1_-1480.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-e1644316-0683
@@ -1325,7 +1325,7 @@ Answer: C
 related: [control_scheme__season_1_-985](../wiki-pages-chunks/control_scheme__season_1_-985.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-16b62157-0684
@@ -1341,7 +1341,7 @@ Answer: A
 related: [control_scheme__season_1_-985](../wiki-pages-chunks/control_scheme__season_1_-985.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-e8319e3e-0685
@@ -1357,7 +1357,7 @@ Answer: D
 related: [control_scheme__season_1_-985](../wiki-pages-chunks/control_scheme__season_1_-985.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-6b429b2b-0686
@@ -1373,7 +1373,7 @@ Answer: B
 related: [cosplay-1475](../wiki-pages-chunks/cosplay-1475.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-d952e6b3-0687
@@ -1389,7 +1389,7 @@ Answer: B
 related: [cosplay-1475](../wiki-pages-chunks/cosplay-1475.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-248ae92d-0688
@@ -1405,7 +1405,7 @@ Answer: C
 related: [cosplay-1475](../wiki-pages-chunks/cosplay-1475.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-9b455ccc-0689
@@ -1421,7 +1421,7 @@ Answer: D
 related: [cosplay-1475](../wiki-pages-chunks/cosplay-1475.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-580f69cf-0690
@@ -1437,7 +1437,7 @@ Answer: A
 related: [cosplay-1475](../wiki-pages-chunks/cosplay-1475.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-1adefbb3-0691
@@ -1453,7 +1453,7 @@ Answer: A
 related: [cosplay-1521](../wiki-pages-chunks/cosplay-1521.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-5e454438-0692
@@ -1469,7 +1469,7 @@ Answer: A
 related: [cosplay-1521](../wiki-pages-chunks/cosplay-1521.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-f06d9968-0693
@@ -1484,7 +1484,7 @@ D. Secretary
 Answer: C
 related: [courtney_wagner-1454](../wiki-pages-chunks/courtney_wagner-1454.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1500,7 +1500,7 @@ D. Episode 4: Dark Room
 Answer: A
 related: [courtney_wagner-1454](../wiki-pages-chunks/courtney_wagner-1454.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1516,7 +1516,7 @@ D. Compliment her sense of fashion
 Answer: D
 related: [courtney_wagner-1454](../wiki-pages-chunks/courtney_wagner-1454.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1532,7 +1532,7 @@ D. Episode 2: Out of Time
 Answer: A
 related: [courtney_wagner-1454](../wiki-pages-chunks/courtney_wagner-1454.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1548,7 +1548,7 @@ D. It is not mentioned
 Answer: C
 related: [courtney_wagner-1454](../wiki-pages-chunks/courtney_wagner-1454.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1564,7 +1564,7 @@ D. Episode 3: Hell Is Empty
 Answer: A
 related: [crazy_suzie](../wiki-pages-chunks/crazy_suzie.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1581,7 +1581,7 @@ Answer: D
 related: [crazy_suzie](../wiki-pages-chunks/crazy_suzie.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-a37b5ffe-0700
@@ -1597,5 +1597,5 @@ Answer: D
 related: [crazy_suzie](../wiki-pages-chunks/crazy_suzie.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit

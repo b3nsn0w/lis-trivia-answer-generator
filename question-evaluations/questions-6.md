@@ -13,7 +13,7 @@ Answer: A
 related: [chloe_s_truck_gallery-1392](../wiki-pages-chunks/chloe_s_truck_gallery-1392.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-58f4c4b5-0502
@@ -28,7 +28,7 @@ D. The link will be erased by other people
 Answer: D
 related: [choices_and_consequences-1151](../wiki-pages-chunks/choices_and_consequences-1151.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -44,7 +44,7 @@ D. Max will be given two options to say to Kate during the conversation on the r
 Answer: B
 related: [choices_and_consequences-1151](../wiki-pages-chunks/choices_and_consequences-1151.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -60,7 +60,7 @@ D. The Nightmare-Max sitting at the same place as Max in Episode 5 will also be 
 Answer: D
 related: [choices_and_consequences-1151](../wiki-pages-chunks/choices_and_consequences-1151.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -77,7 +77,7 @@ Answer: B
 related: [choices_and_consequences-1153](../wiki-pages-chunks/choices_and_consequences-1153.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-5ee3b8fa-0506
@@ -92,7 +92,7 @@ D. Kate Will Refuse To Talk Any Further
 Answer: B
 related: [choices_and_consequences-1153](../wiki-pages-chunks/choices_and_consequences-1153.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -108,7 +108,7 @@ D. The Nightmare-Max Sitting At The Same Place As Max In Episode 5 Will Also Be 
 Answer: B
 related: [choices_and_consequences-1153](../wiki-pages-chunks/choices_and_consequences-1153.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -125,7 +125,7 @@ Answer: C
 related: [choices_and_consequences-1153](../wiki-pages-chunks/choices_and_consequences-1153.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-bbeca60d-0509
@@ -140,7 +140,7 @@ D. She is arrested by the police
 Answer: B
 related: [choices_and_consequences-1178](../wiki-pages-chunks/choices_and_consequences-1178.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -156,7 +156,7 @@ D. He will have the scar until Max time jumps with Warren's photo
 Answer: D
 related: [choices_and_consequences-1178](../wiki-pages-chunks/choices_and_consequences-1178.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -172,7 +172,7 @@ D. She will not save Max from a falling billboard
 Answer: D
 related: [choices_and_consequences-1178](../wiki-pages-chunks/choices_and_consequences-1178.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -188,7 +188,7 @@ D. Frank will blame himself if Max tells him that Rachel died from an overdose
 Answer: C
 related: [choices_and_consequences-1178](../wiki-pages-chunks/choices_and_consequences-1178.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -204,7 +204,7 @@ D. The fisherman will be killed by Mr. Jefferson
 Answer: A
 related: [choices_and_consequences-1178](../wiki-pages-chunks/choices_and_consequences-1178.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -220,7 +220,7 @@ D. Max acts more hostile towards Victoria in the past
 Answer: C
 related: [choices_and_consequences-1179](../wiki-pages-chunks/choices_and_consequences-1179.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -236,7 +236,7 @@ D. Max acts more kindly towards Victoria in the past
 Answer: A
 related: [choices_and_consequences-1179](../wiki-pages-chunks/choices_and_consequences-1179.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -252,7 +252,7 @@ D. Max acts more hostile towards Victoria in the past
 Answer: A
 related: [choices_and_consequences-1179](../wiki-pages-chunks/choices_and_consequences-1179.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -268,7 +268,7 @@ D. Frank says he just hopes that Rachel is fine elsewhere
 Answer: A
 related: [choices_and_consequences-1179](../wiki-pages-chunks/choices_and_consequences-1179.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -285,7 +285,7 @@ Answer: A
 related: [choices_and_consequences-1179](../wiki-pages-chunks/choices_and_consequences-1179.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-5869c1a3-0519
@@ -300,7 +300,7 @@ D. Nathan Will Be Expelled
 Answer: A
 related: [choices_and_consequences-1289](../wiki-pages-chunks/choices_and_consequences-1289.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -316,7 +316,7 @@ D. He Steals Max's Selfie
 Answer: C
 related: [choices_and_consequences-1289](../wiki-pages-chunks/choices_and_consequences-1289.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -332,7 +332,7 @@ D. Daniel Will Paint Max From Memory
 Answer: B
 related: [choices_and_consequences-1289](../wiki-pages-chunks/choices_and_consequences-1289.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -348,7 +348,7 @@ D. He Refuses To Attend The End Of The World Party
 Answer: A
 related: [choices_and_consequences-1289](../wiki-pages-chunks/choices_and_consequences-1289.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -365,7 +365,7 @@ Answer: D
 related: [choices_and_consequences-1289](../wiki-pages-chunks/choices_and_consequences-1289.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-4ed8933e-0524
@@ -380,7 +380,7 @@ D. A symbol of Max's time rewind power
 Answer: B
 related: [choices_and_consequences-1355](../wiki-pages-chunks/choices_and_consequences-1355.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -397,7 +397,7 @@ Answer: D
 related: [choices_and_consequences-1355](../wiki-pages-chunks/choices_and_consequences-1355.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-b201f172-0526
@@ -412,7 +412,7 @@ D. Nathan figures out that Max was in the bathroom and intimidates her
 Answer: D
 related: [choices_and_consequences-1355](../wiki-pages-chunks/choices_and_consequences-1355.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -428,7 +428,7 @@ D. Principal Wells sends an email to Nathan to apologize for Max's accusation
 Answer: D
 related: [choices_and_consequences-1355](../wiki-pages-chunks/choices_and_consequences-1355.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -446,7 +446,7 @@ related: [choices_and_consequences-1369](../wiki-pages-chunks/choices_and_conseq
 
 - [ ] Keep
 - [ ] Delete
-- [ ] Edit
+- [x] Edit
 
 ### wiki-1c407ab2-0529
 
@@ -461,7 +461,7 @@ Answer: C
 related: [choices_and_consequences-1369](../wiki-pages-chunks/choices_and_consequences-1369.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-13fc8cc0-0530
@@ -477,7 +477,7 @@ Answer: B
 related: [choices_and_consequences-1369](../wiki-pages-chunks/choices_and_consequences-1369.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-1bb8fa27-0531
@@ -492,7 +492,7 @@ D. Kate Will Allow Max To Come Closer On The Rooftop
 Answer: B
 related: [choices_and_consequences-1369](../wiki-pages-chunks/choices_and_consequences-1369.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -508,7 +508,7 @@ D. Alyssa will call Max her guardian angel
 Answer: D
 related: [choices_and_consequences-1375](../wiki-pages-chunks/choices_and_consequences-1375.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -525,7 +525,7 @@ Answer: A
 related: [choices_and_consequences-1375](../wiki-pages-chunks/choices_and_consequences-1375.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-127ba49e-0534
@@ -540,7 +540,7 @@ D. Dana will talk to Max about Trevor
 Answer: B
 related: [choices_and_consequences-1375](../wiki-pages-chunks/choices_and_consequences-1375.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -557,7 +557,7 @@ Answer: D
 related: [choices_and_consequences-1375](../wiki-pages-chunks/choices_and_consequences-1375.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-3b16e46d-0536
@@ -572,7 +572,7 @@ D. Max cannot call Logan out for abandoning Dana
 Answer: D
 related: [choices_and_consequences-1375](../wiki-pages-chunks/choices_and_consequences-1375.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -588,7 +588,7 @@ D. Max Will Lament Trapping The Bird In The House
 Answer: A
 related: [choices_and_consequences-1400](../wiki-pages-chunks/choices_and_consequences-1400.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -604,7 +604,7 @@ D. Warren Will Text Max, Thanking Her And Saying He'll Never Erase The Message
 Answer: C
 related: [choices_and_consequences-1400](../wiki-pages-chunks/choices_and_consequences-1400.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -622,7 +622,7 @@ related: [choices_and_consequences-1400](../wiki-pages-chunks/choices_and_conseq
 
 - [ ] Keep
 - [ ] Delete
-- [ ] Edit
+- [x] Edit
 
 ### wiki-734d9667-0540
 
@@ -637,7 +637,7 @@ Answer: C
 related: [choices_and_consequences-1403](../wiki-pages-chunks/choices_and_consequences-1403.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-8046dd49-0541
@@ -654,7 +654,7 @@ related: [choices_and_consequences-1403](../wiki-pages-chunks/choices_and_conseq
 
 - [ ] Keep
 - [ ] Delete
-- [ ] Edit
+- [x] Edit
 
 ### wiki-2d7a87bc-0542
 
@@ -669,7 +669,7 @@ Answer: D
 related: [choices_and_consequences-1403](../wiki-pages-chunks/choices_and_consequences-1403.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-3290413f-0543
@@ -684,7 +684,7 @@ D. Daniel Will Bring Up The Portrait In Jefferson's Classroom
 Answer: C
 related: [choices_and_consequences-1403](../wiki-pages-chunks/choices_and_consequences-1403.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -700,7 +700,7 @@ D. Max Will Receive A Text From Chloe
 Answer: C
 related: [choices_and_consequences-1404](../wiki-pages-chunks/choices_and_consequences-1404.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -716,7 +716,7 @@ D. Joyce Will Text Max A Picture Of The Destroyed Nest
 Answer: D
 related: [choices_and_consequences-1404](../wiki-pages-chunks/choices_and_consequences-1404.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -732,7 +732,7 @@ D. Max Will Receive A Text From Alyssa
 Answer: B
 related: [choices_and_consequences-1404](../wiki-pages-chunks/choices_and_consequences-1404.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -748,7 +748,7 @@ D. Chloe Will Be Glad That Things Worked Out With Frank
 Answer: A
 related: [choices_and_consequences-1404](../wiki-pages-chunks/choices_and_consequences-1404.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -766,7 +766,7 @@ related: [choices_and_consequences-1405](../wiki-pages-chunks/choices_and_conseq
 
 - [ ] Keep
 - [ ] Delete
-- [ ] Edit
+- [x] Edit
 
 ### wiki-6ffdf817-0549
 
@@ -780,7 +780,7 @@ D. She Talks About Warren And Max's Favorite Movie
 Answer: C
 related: [choices_and_consequences-1405](../wiki-pages-chunks/choices_and_consequences-1405.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -796,7 +796,7 @@ D. The Missing Persons Posters
 Answer: A
 related: [choices_and_consequences-1405](../wiki-pages-chunks/choices_and_consequences-1405.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -812,7 +812,7 @@ D. Max cannot take an optional photo of Warren
 Answer: D
 related: [choices_and_consequences-1410](../wiki-pages-chunks/choices_and_consequences-1410.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -828,7 +828,7 @@ D. Kate will accuse Max of making sure that she would never be alone again
 Answer: A
 related: [choices_and_consequences-1410](../wiki-pages-chunks/choices_and_consequences-1410.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -844,7 +844,7 @@ D. A memorial for Kate will be shown in the ending scene
 Answer: D
 related: [choices_and_consequences-1410](../wiki-pages-chunks/choices_and_consequences-1410.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -861,7 +861,7 @@ Answer: D
 related: [choices_and_consequences-1410](../wiki-pages-chunks/choices_and_consequences-1410.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-1d72e1b1-0555
@@ -876,7 +876,7 @@ D. Warren gets a grade of A-
 Answer: B
 related: [choices_and_consequences-1411](../wiki-pages-chunks/choices_and_consequences-1411.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -893,7 +893,7 @@ Answer: B
 related: [choices_and_consequences-1411](../wiki-pages-chunks/choices_and_consequences-1411.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-cbf6029a-0557
@@ -909,7 +909,7 @@ Answer: A
 related: [choices_and_consequences-1418](../wiki-pages-chunks/choices_and_consequences-1418.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-7819bc51-0558
@@ -924,7 +924,7 @@ D. He Thanks Her
 Answer: C
 related: [choices_and_consequences-1418](../wiki-pages-chunks/choices_and_consequences-1418.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -940,7 +940,7 @@ D. Max Gets Rewarded
 Answer: C
 related: [choices_and_consequences-1418](../wiki-pages-chunks/choices_and_consequences-1418.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -956,7 +956,7 @@ D. She Forgets About It
 Answer: C
 related: [choices_and_consequences-1418](../wiki-pages-chunks/choices_and_consequences-1418.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -972,7 +972,7 @@ D. Chloe Gets Expelled
 Answer: C
 related: [choices_and_consequences-1418](../wiki-pages-chunks/choices_and_consequences-1418.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -988,7 +988,7 @@ D. They are found in Victoria's room.
 Answer: B
 related: [choices_and_consequences-1446](../wiki-pages-chunks/choices_and_consequences-1446.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1004,7 +1004,7 @@ D. The Homeless Lady Will Thank Max For The Warning
 Answer: B
 related: [choices_and_consequences-1459](../wiki-pages-chunks/choices_and_consequences-1459.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1020,7 +1020,7 @@ D. Max Will Be Able To Time Travel To The Present Timeline
 Answer: B
 related: [choices_and_consequences-1459](../wiki-pages-chunks/choices_and_consequences-1459.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1036,7 +1036,7 @@ D. Chloe Will Text Warren That He "Doesn't Stand A Chance"
 Answer: C
 related: [choices_and_consequences-1459](../wiki-pages-chunks/choices_and_consequences-1459.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1052,7 +1052,7 @@ D. All Of The Above
 Answer: D
 related: [choices_and_consequences-1459](../wiki-pages-chunks/choices_and_consequences-1459.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1068,7 +1068,7 @@ D. Max Will Get Soaked Instead
 Answer: C
 related: [choices_and_consequences-1459](../wiki-pages-chunks/choices_and_consequences-1459.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1084,7 +1084,7 @@ D. It Changes To A Picture Of Kate
 Answer: A
 related: [choices_and_consequences-1526](../wiki-pages-chunks/choices_and_consequences-1526.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1101,7 +1101,7 @@ Answer: A
 related: [choices_and_consequences-1526](../wiki-pages-chunks/choices_and_consequences-1526.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-56643580-0570
@@ -1116,7 +1116,7 @@ D. He Leaves Town
 Answer: B
 related: [choices_and_consequences-1526](../wiki-pages-chunks/choices_and_consequences-1526.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1132,7 +1132,7 @@ D. She Has To Enter The VIP Section Secretly
 Answer: A
 related: [choices_and_consequences-1526](../wiki-pages-chunks/choices_and_consequences-1526.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1148,7 +1148,7 @@ D. Mark Will Ignore Max
 Answer: A
 related: [choices_and_consequences-1526](../wiki-pages-chunks/choices_and_consequences-1526.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1165,7 +1165,7 @@ Answer: B
 related: [choices_and_consequences-1528](../wiki-pages-chunks/choices_and_consequences-1528.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-abdcb053-0574
@@ -1181,7 +1181,7 @@ Answer: D
 related: [choices_and_consequences-1528](../wiki-pages-chunks/choices_and_consequences-1528.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-f7d5a9ac-0575
@@ -1197,7 +1197,7 @@ Answer: D
 related: [choices_and_consequences-1528](../wiki-pages-chunks/choices_and_consequences-1528.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-0f3bb0a6-0576
@@ -1213,7 +1213,7 @@ Answer: B
 related: [choices_and_consequences-1528](../wiki-pages-chunks/choices_and_consequences-1528.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-ba061085-0577
@@ -1228,7 +1228,7 @@ D. Max And Chloe Share A Passionate Kiss
 Answer: A
 related: [choices_and_consequences-1528](../wiki-pages-chunks/choices_and_consequences-1528.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1244,7 +1244,7 @@ D. Max Cannot Read Chloe's Report Card
 Answer: B
 related: [choices_and_consequences-637](../wiki-pages-chunks/choices_and_consequences-637.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1260,7 +1260,7 @@ D. Keep It As A Pet
 Answer: B
 related: [choices_and_consequences-637](../wiki-pages-chunks/choices_and_consequences-637.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1276,7 +1276,7 @@ D. Max Gets Rewarded By David
 Answer: B
 related: [choices_and_consequences-637](../wiki-pages-chunks/choices_and_consequences-637.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1292,7 +1292,7 @@ D. Chloe Is Happy With Max
 Answer: D
 related: [choices_and_consequences-637](../wiki-pages-chunks/choices_and_consequences-637.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1308,7 +1308,7 @@ D. It Becomes A Symbol Of Hope
 Answer: C
 related: [choices_and_consequences-637](../wiki-pages-chunks/choices_and_consequences-637.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1324,7 +1324,7 @@ D. Collecting Items
 Answer: B
 related: [choices_and_consequences-729](../wiki-pages-chunks/choices_and_consequences-729.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1340,7 +1340,7 @@ D. A Skull
 Answer: A
 related: [choices_and_consequences-729](../wiki-pages-chunks/choices_and_consequences-729.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1356,7 +1356,7 @@ D. She Continues The Story
 Answer: C
 related: [choices_and_consequences-729](../wiki-pages-chunks/choices_and_consequences-729.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1372,7 +1372,7 @@ D. At The Beginning Of Each Episode
 Answer: A
 related: [choices_and_consequences-729](../wiki-pages-chunks/choices_and_consequences-729.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1388,7 +1388,7 @@ D. She Saves The Game
 Answer: D
 related: [choices_and_consequences-729](../wiki-pages-chunks/choices_and_consequences-729.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1404,7 +1404,7 @@ D. Frank's RV Disappears
 Answer: A
 related: [choices_and_consequences-776](../wiki-pages-chunks/choices_and_consequences-776.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1420,7 +1420,7 @@ D. Max Can Read Chloe's Report Card
 Answer: B
 related: [choices_and_consequences-776](../wiki-pages-chunks/choices_and_consequences-776.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1436,7 +1436,7 @@ D. The Bird Will Die
 Answer: C
 related: [choices_and_consequences-776](../wiki-pages-chunks/choices_and_consequences-776.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1452,7 +1452,7 @@ D. David Will Not Confront Chloe About His Files Being Looked Through
 Answer: B
 related: [choices_and_consequences-776](../wiki-pages-chunks/choices_and_consequences-776.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1468,7 +1468,7 @@ D. David Will Bring This Up During His Confrontation With Chloe
 Answer: D
 related: [choices_and_consequences-776](../wiki-pages-chunks/choices_and_consequences-776.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1484,7 +1484,7 @@ D. A webpage to support Mark Jefferson will appear in Max's computer.
 Answer: A
 related: [choices_and_consequences-898](../wiki-pages-chunks/choices_and_consequences-898.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1500,7 +1500,7 @@ D. Max will comment on being distracted.
 Answer: D
 related: [choices_and_consequences-898](../wiki-pages-chunks/choices_and_consequences-898.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1516,7 +1516,7 @@ D. No Relevant Webpage
 Answer: C
 related: [choices_and_consequences-900](../wiki-pages-chunks/choices_and_consequences-900.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1532,7 +1532,7 @@ D. Mark Jefferson's Role Or Involvement In Kate's Suicide Attempt
 Answer: C
 related: [choices_and_consequences-900](../wiki-pages-chunks/choices_and_consequences-900.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1549,7 +1549,7 @@ Answer: C
 related: [choices_and_consequences-900](../wiki-pages-chunks/choices_and_consequences-900.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-ffd8dfb6-0598
@@ -1564,7 +1564,7 @@ D. An E-Mail From Nathan About The Vortex Club Party
 Answer: A
 related: [choices_and_consequences-900](../wiki-pages-chunks/choices_and_consequences-900.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1580,7 +1580,7 @@ D. Victoria Has Sent Angry SMS Messages
 Answer: A
 related: [choices_and_consequences-900](../wiki-pages-chunks/choices_and_consequences-900.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1596,6 +1596,6 @@ D. Lead Writer, Co-Director, and Artistic Supervisor
 Answer: D
 related: [christian_divine-1136](../wiki-pages-chunks/christian_divine-1136.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit

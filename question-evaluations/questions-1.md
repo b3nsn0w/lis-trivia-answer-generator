@@ -12,7 +12,7 @@ D. Her cousin
 Answer: A
 related: [aaron_price](../wiki-pages-chunks/aaron_price.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -28,7 +28,7 @@ D. The Original Timeline
 Answer: A
 related: [aaron_price](../wiki-pages-chunks/aaron_price.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -44,7 +44,7 @@ D. A bicycle
 Answer: C
 related: [aaron_price](../wiki-pages-chunks/aaron_price.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -60,7 +60,7 @@ D. A cold beer
 Answer: D
 related: [aaron_price](../wiki-pages-chunks/aaron_price.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -76,7 +76,7 @@ D. Aurora Creek Fried Chicken
 Answer: D
 related: [acfc_drive_thru](../wiki-pages-chunks/acfc_drive_thru.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -92,7 +92,7 @@ D. Nathan's Liquor Store
 Answer: B
 related: [acfc_drive_thru](../wiki-pages-chunks/acfc_drive_thru.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -108,7 +108,7 @@ D. Episode 5: Polarized
 Answer: B
 related: [acfc_drive_thru](../wiki-pages-chunks/acfc_drive_thru.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -124,7 +124,7 @@ D. Christian Divine
 Answer: B
 related: [acfc_drive_thru](../wiki-pages-chunks/acfc_drive_thru.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -142,7 +142,7 @@ related: [acfc_drive_thru](../wiki-pages-chunks/acfc_drive_thru.txt)
 
 - [ ] Keep
 - [ ] Delete
-- [ ] Edit
+- [x] Edit
 
 ### wiki-96957c8d-0010
 
@@ -157,7 +157,7 @@ Answer: A
 related: [achievements__life_is_strange_-1014](../wiki-pages-chunks/achievements__life_is_strange_-1014.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-807a5121-0011
@@ -172,7 +172,7 @@ D. Selfie Awareness
 Answer: D
 related: [achievements__life_is_strange_-1014](../wiki-pages-chunks/achievements__life_is_strange_-1014.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -188,7 +188,7 @@ D. Maximum Aperture
 Answer: B
 related: [achievements__life_is_strange_-1194](../wiki-pages-chunks/achievements__life_is_strange_-1194.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -205,7 +205,7 @@ Answer: C
 related: [achievements__life_is_strange_-896](../wiki-pages-chunks/achievements__life_is_strange_-896.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-fb779531-0014
@@ -220,7 +220,7 @@ D. Manually Exposed
 Answer: C
 related: [achievements__life_is_strange_-896](../wiki-pages-chunks/achievements__life_is_strange_-896.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -237,7 +237,7 @@ Answer: C
 related: [achievements__life_is_strange_-896](../wiki-pages-chunks/achievements__life_is_strange_-896.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-abd403a5-0016
@@ -253,7 +253,7 @@ Answer: A
 related: [achievements__life_is_strange_-901](../wiki-pages-chunks/achievements__life_is_strange_-901.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-7493c2b9-0017
@@ -268,7 +268,7 @@ D. Maximum Aperture
 Answer: C
 related: [achievements__life_is_strange_-901](../wiki-pages-chunks/achievements__life_is_strange_-901.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -285,7 +285,7 @@ Answer: D
 related: [achievements__life_is_strange_-925](../wiki-pages-chunks/achievements__life_is_strange_-925.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-4fef0e9f-0019
@@ -300,7 +300,7 @@ D. Resolution Revolution
 Answer: B
 related: [achievements__life_is_strange_-925](../wiki-pages-chunks/achievements__life_is_strange_-925.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -316,7 +316,7 @@ D. Lab Master
 Answer: A
 related: [achievements__life_is_strange_-925](../wiki-pages-chunks/achievements__life_is_strange_-925.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -332,7 +332,7 @@ D. Episode 2
 Answer: B
 related: [aftermath](../wiki-pages-chunks/aftermath.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -348,7 +348,7 @@ D. The remixed version
 Answer: D
 related: [aftermath](../wiki-pages-chunks/aftermath.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -364,7 +364,7 @@ D. A Japanese voice actress
 Answer: D
 related: [akari_higuchi](../wiki-pages-chunks/akari_higuchi.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -380,7 +380,7 @@ D. Rachel and Kate
 Answer: A
 related: [akari_higuchi](../wiki-pages-chunks/akari_higuchi.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -397,7 +397,7 @@ Answer: D
 related: [akari_higuchi](../wiki-pages-chunks/akari_higuchi.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-7e02210a-0026
@@ -412,7 +412,7 @@ D. The Japanese release
 Answer: D
 related: [akari_higuchi](../wiki-pages-chunks/akari_higuchi.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -429,7 +429,7 @@ Answer: D
 related: [akari_higuchi](../wiki-pages-chunks/akari_higuchi.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-f57c6654-0028
@@ -444,7 +444,7 @@ D. Writer
 Answer: A
 related: [alejandro_arque-1127](../wiki-pages-chunks/alejandro_arque-1127.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -461,7 +461,7 @@ Answer: A
 related: [alejandro_arque-1127](../wiki-pages-chunks/alejandro_arque-1127.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-750a696a-0030
@@ -477,7 +477,7 @@ Answer: D
 related: [alejandro_arque-1127](../wiki-pages-chunks/alejandro_arque-1127.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-f51c2969-0031
@@ -493,7 +493,7 @@ Answer: B
 related: [alejandro_arque-1127](../wiki-pages-chunks/alejandro_arque-1127.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-573847ae-0032
@@ -509,7 +509,7 @@ Answer: B
 related: [alejandro_arque-1127](../wiki-pages-chunks/alejandro_arque-1127.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-ec9f589c-0033
@@ -524,7 +524,7 @@ D. Sound Designer
 Answer: C
 related: [alexis_bauzet](../wiki-pages-chunks/alexis_bauzet.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -541,7 +541,7 @@ Answer: C
 related: [alexis_bauzet](../wiki-pages-chunks/alexis_bauzet.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-01c0cb48-0035
@@ -556,7 +556,7 @@ D. The dialogue options
 Answer: D
 related: [alexis_bauzet](../wiki-pages-chunks/alexis_bauzet.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -572,7 +572,7 @@ D. Carrot
 Answer: B
 related: [alice_the_rabbit](../wiki-pages-chunks/alice_the_rabbit.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -588,7 +588,7 @@ D. Max's Room
 Answer: D
 related: [alice_the_rabbit](../wiki-pages-chunks/alice_the_rabbit.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -604,7 +604,7 @@ D. Feed her carrots
 Answer: D
 related: [alice_the_rabbit](../wiki-pages-chunks/alice_the_rabbit.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -620,7 +620,7 @@ D. It is a reference to a character in Peter Rabbit
 Answer: B
 related: [alice_the_rabbit](../wiki-pages-chunks/alice_the_rabbit.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -636,7 +636,7 @@ D. Give her a bath
 Answer: C
 related: [alice_the_rabbit](../wiki-pages-chunks/alice_the_rabbit.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -652,7 +652,7 @@ D. William Davies, Edward Nutbrown, and Charles Nutbrown
 Answer: D
 related: [all_eyes_on_me](../wiki-pages-chunks/all_eyes_on_me.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -668,7 +668,7 @@ D. Episode 4 and Episode 5
 Answer: A
 related: [all_eyes_on_me](../wiki-pages-chunks/all_eyes_on_me.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -684,7 +684,7 @@ D. In the Principal's Office
 Answer: C
 related: [all_eyes_on_me](../wiki-pages-chunks/all_eyes_on_me.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -701,7 +701,7 @@ Answer: A
 related: [all_eyes_on_me](../wiki-pages-chunks/all_eyes_on_me.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-99a638a3-0045
@@ -717,7 +717,7 @@ Answer: D
 related: [all_eyes_on_me](../wiki-pages-chunks/all_eyes_on_me.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-7d32a296-0046
@@ -733,7 +733,7 @@ Answer: D
 related: [alone_with_a_heart](../wiki-pages-chunks/alone_with_a_heart.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-75d31d22-0047
@@ -748,7 +748,7 @@ D. Episode 2: Out of Time
 Answer: B
 related: [alone_with_a_heart](../wiki-pages-chunks/alone_with_a_heart.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -764,7 +764,7 @@ D. In the Vortex Club party
 Answer: A
 related: [alone_with_a_heart](../wiki-pages-chunks/alone_with_a_heart.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -780,7 +780,7 @@ D. It speaks of anger and revenge
 Answer: A
 related: [alone_with_a_heart](../wiki-pages-chunks/alone_with_a_heart.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -797,7 +797,7 @@ Answer: C
 related: [alone_with_a_heart](../wiki-pages-chunks/alone_with_a_heart.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-3b424ee5-0051
@@ -812,7 +812,7 @@ D. Episode 5: Polarized
 Answer: C
 related: [alternative_beach](../wiki-pages-chunks/alternative_beach.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -828,7 +828,7 @@ D. Polarized Timeline
 Answer: A
 related: [alternative_beach](../wiki-pages-chunks/alternative_beach.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -844,7 +844,7 @@ D. The End Of Joyce's Hope For Her Daughter
 Answer: C
 related: [alternative_beach](../wiki-pages-chunks/alternative_beach.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -860,7 +860,7 @@ D. The Twilight Hour
 Answer: B
 related: [alternative_beach](../wiki-pages-chunks/alternative_beach.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -876,7 +876,7 @@ D. Because She Moved Away
 Answer: C
 related: [alternative_beach](../wiki-pages-chunks/alternative_beach.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -892,7 +892,7 @@ D. A Storage Room For The Price Family
 Answer: B
 related: [alternative_price_garage-774](../wiki-pages-chunks/alternative_price_garage-774.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -908,7 +908,7 @@ D. The Matrix
 Answer: C
 related: [alternative_price_garage-774](../wiki-pages-chunks/alternative_price_garage-774.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -925,7 +925,7 @@ Answer: B
 related: [alternative_price_garage-774](../wiki-pages-chunks/alternative_price_garage-774.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-6452c03c-0059
@@ -940,7 +940,7 @@ D. Bring Her More Morphine
 Answer: A
 related: [alternative_price_garage-774](../wiki-pages-chunks/alternative_price_garage-774.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -956,7 +956,7 @@ D. The Absence Of Chloe's Truck In The Driveway
 Answer: A
 related: [alternative_price_household-1374](../wiki-pages-chunks/alternative_price_household-1374.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -972,7 +972,7 @@ D. A Photograph Of The Eiffel Tower
 Answer: D
 related: [alternative_price_household-1374](../wiki-pages-chunks/alternative_price_household-1374.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -988,7 +988,7 @@ D. To Fund Chloe's Dream Of Becoming A Rockstar
 Answer: B
 related: [alternative_price_household-1374](../wiki-pages-chunks/alternative_price_household-1374.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1004,7 +1004,7 @@ D. Treasurer
 Answer: A
 related: [alternative_timeline__season_1_-1370](../wiki-pages-chunks/alternative_timeline__season_1_-1370.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1020,7 +1020,7 @@ D. Deafness
 Answer: A
 related: [alternative_timeline__season_1_-1370](../wiki-pages-chunks/alternative_timeline__season_1_-1370.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1036,7 +1036,7 @@ D. The family's vacation to Paris
 Answer: A
 related: [alternative_timeline__season_1_-1370](../wiki-pages-chunks/alternative_timeline__season_1_-1370.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1052,7 +1052,7 @@ D. Take her to the beach
 Answer: C
 related: [alternative_timeline__season_1_-1370](../wiki-pages-chunks/alternative_timeline__season_1_-1370.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1068,7 +1068,7 @@ D. They beach themselves
 Answer: D
 related: [alternative_timeline__season_1_-1370](../wiki-pages-chunks/alternative_timeline__season_1_-1370.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1085,7 +1085,7 @@ Answer: B
 related: [alternative_timeline__season_1_-1383](../wiki-pages-chunks/alternative_timeline__season_1_-1383.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-1a4d26b9-0069
@@ -1100,7 +1100,7 @@ D. Blindness
 Answer: C
 related: [alternative_timeline__season_1_-1383](../wiki-pages-chunks/alternative_timeline__season_1_-1383.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1116,7 +1116,7 @@ D. Take Her To The Beach
 Answer: A
 related: [alternative_timeline__season_1_-1383](../wiki-pages-chunks/alternative_timeline__season_1_-1383.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1132,7 +1132,7 @@ D. By Focusing On A Selfie
 Answer: D
 related: [alternative_timeline__season_1_-1383](../wiki-pages-chunks/alternative_timeline__season_1_-1383.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1148,7 +1148,7 @@ D. She Is Rescued By Max
 Answer: B
 related: [alternative_timeline__season_1_-1383](../wiki-pages-chunks/alternative_timeline__season_1_-1383.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1164,7 +1164,7 @@ D. Cancer
 Answer: A
 related: [alternative_timeline__season_1_-1444](../wiki-pages-chunks/alternative_timeline__season_1_-1444.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1180,7 +1180,7 @@ D. Moana
 Answer: C
 related: [alternative_timeline__season_1_-1444](../wiki-pages-chunks/alternative_timeline__season_1_-1444.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1196,7 +1196,7 @@ D. Seattle Children's Hospital
 Answer: A
 related: [alternative_timeline__season_1_-1444](../wiki-pages-chunks/alternative_timeline__season_1_-1444.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1212,7 +1212,7 @@ D. Vangelis
 Answer: D
 related: [alternative_timeline__season_1_-1444](../wiki-pages-chunks/alternative_timeline__season_1_-1444.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1228,7 +1228,7 @@ D. By Entering A Portal
 Answer: B
 related: [alternative_timeline__season_1_-920](../wiki-pages-chunks/alternative_timeline__season_1_-920.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1245,7 +1245,7 @@ Answer: B
 related: [alternative_timeline__season_1_-920](../wiki-pages-chunks/alternative_timeline__season_1_-920.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-ac18a68e-0079
@@ -1260,7 +1260,7 @@ D. The Timeline Where Max Died At The Age Of 13
 Answer: A
 related: [alternative_timeline__season_1_-920](../wiki-pages-chunks/alternative_timeline__season_1_-920.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1277,7 +1277,7 @@ Answer: A
 related: [alternative_timeline__season_1_-920](../wiki-pages-chunks/alternative_timeline__season_1_-920.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-aa30d344-0081
@@ -1292,7 +1292,7 @@ D. Romance
 Answer: A
 related: [alyssa_anderson-1373](../wiki-pages-chunks/alyssa_anderson-1373.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1308,7 +1308,7 @@ D. To Kill a Mockingbird
 Answer: A
 related: [alyssa_anderson-1373](../wiki-pages-chunks/alyssa_anderson-1373.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1324,7 +1324,7 @@ D. Warren Graham
 Answer: A
 related: [alyssa_anderson-1373](../wiki-pages-chunks/alyssa_anderson-1373.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1340,7 +1340,7 @@ D. Artistic Vision Photo Contest
 Answer: B
 related: [alyssa_anderson-1373](../wiki-pages-chunks/alyssa_anderson-1373.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1356,7 +1356,7 @@ D. She Cries
 Answer: C
 related: [alyssa_anderson-1373](../wiki-pages-chunks/alyssa_anderson-1373.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1372,7 +1372,7 @@ D. "You will be missed"
 Answer: C
 related: [alyssa_anderson-1378](../wiki-pages-chunks/alyssa_anderson-1378.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1389,7 +1389,7 @@ Answer: D
 related: [alyssa_anderson-1378](../wiki-pages-chunks/alyssa_anderson-1378.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-66c9d2d8-0088
@@ -1405,7 +1405,7 @@ Answer: D
 related: [alyssa_anderson-1378](../wiki-pages-chunks/alyssa_anderson-1378.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-0f7fe40b-0089
@@ -1420,7 +1420,7 @@ D. Her favorite sci-fi film
 Answer: D
 related: [alyssa_anderson-1378](../wiki-pages-chunks/alyssa_anderson-1378.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1438,7 +1438,7 @@ related: [alyssa_anderson-1431](../wiki-pages-chunks/alyssa_anderson-1431.txt)
 
 - [ ] Keep
 - [ ] Delete
-- [ ] Edit
+- [x] Edit
 
 ### wiki-20eae549-0091
 
@@ -1452,7 +1452,7 @@ D. The Road Not Taken
 Answer: D
 related: [alyssa_anderson-1431](../wiki-pages-chunks/alyssa_anderson-1431.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1468,7 +1468,7 @@ D. They Should Go To The Two Whales Diner Together
 Answer: B
 related: [alyssa_anderson-1431](../wiki-pages-chunks/alyssa_anderson-1431.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1484,7 +1484,7 @@ D. "You're Quick"
 Answer: D
 related: [alyssa_anderson-1464](../wiki-pages-chunks/alyssa_anderson-1464.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1500,7 +1500,7 @@ D. "It Would Be So Much Lamer"
 Answer: C
 related: [alyssa_anderson-1464](../wiki-pages-chunks/alyssa_anderson-1464.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1516,7 +1516,7 @@ D. Pacific Steve's Junkyard
 Answer: A
 related: [american_rust_junkyard-1412](../wiki-pages-chunks/american_rust_junkyard-1412.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1532,7 +1532,7 @@ D. I Want To Leave
 Answer: A
 related: [american_rust_junkyard-1412](../wiki-pages-chunks/american_rust_junkyard-1412.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1548,7 +1548,7 @@ D. Los Angeles Club
 Answer: B
 related: [american_rust_junkyard-1412](../wiki-pages-chunks/american_rust_junkyard-1412.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1564,7 +1564,7 @@ D. A Message To Chloe
 Answer: B
 related: [american_rust_junkyard-1412](../wiki-pages-chunks/american_rust_junkyard-1412.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1580,7 +1580,7 @@ D. Episode 4
 Answer: D
 related: [american_rust_junkyard-642](../wiki-pages-chunks/american_rust_junkyard-642.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1596,6 +1596,6 @@ D. She is hit on the head
 Answer: B
 related: [american_rust_junkyard-642](../wiki-pages-chunks/american_rust_junkyard-642.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit

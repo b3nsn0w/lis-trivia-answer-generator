@@ -12,7 +12,7 @@ D. Blade Runner
 Answer: C
 related: [easter_eggs__life_is_strange_-1237](../wiki-pages-chunks/easter_eggs__life_is_strange_-1237.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -28,7 +28,7 @@ D. "You Should Have Listened to Max"
 Answer: A
 related: [easter_eggs__life_is_strange_-1237](../wiki-pages-chunks/easter_eggs__life_is_strange_-1237.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -44,7 +44,7 @@ D. Max Caulfield
 Answer: A
 related: [easter_eggs__life_is_strange_-1237](../wiki-pages-chunks/easter_eggs__life_is_strange_-1237.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -60,7 +60,7 @@ D. A Picture of Max
 Answer: D
 related: [easter_eggs__life_is_strange_-1237](../wiki-pages-chunks/easter_eggs__life_is_strange_-1237.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -76,7 +76,7 @@ D. Life Is Strange
 Answer: A
 related: [easter_eggs__life_is_strange_-1263](../wiki-pages-chunks/easter_eggs__life_is_strange_-1263.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -92,7 +92,7 @@ D. Mark Jefferson
 Answer: B
 related: [easter_eggs__life_is_strange_-1263](../wiki-pages-chunks/easter_eggs__life_is_strange_-1263.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -108,7 +108,7 @@ D. "This Is So Cool"
 Answer: A
 related: [easter_eggs__life_is_strange_-1263](../wiki-pages-chunks/easter_eggs__life_is_strange_-1263.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -124,7 +124,7 @@ D. Music From The Game's Soundtrack
 Answer: A
 related: [easter_eggs__life_is_strange_-1263](../wiki-pages-chunks/easter_eggs__life_is_strange_-1263.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -140,7 +140,7 @@ D. It's the train's model number
 Answer: C
 related: [easter_eggs__life_is_strange_-1272](../wiki-pages-chunks/easter_eggs__life_is_strange_-1272.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -156,7 +156,7 @@ D. The Twilight Zone
 Answer: B
 related: [easter_eggs__life_is_strange_-1272](../wiki-pages-chunks/easter_eggs__life_is_strange_-1272.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -172,7 +172,7 @@ D. Groundhog Day
 Answer: B
 related: [easter_eggs__life_is_strange_-1272](../wiki-pages-chunks/easter_eggs__life_is_strange_-1272.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -190,7 +190,7 @@ related: [easter_eggs__life_is_strange_-1272](../wiki-pages-chunks/easter_eggs__
 
 - [ ] Keep
 - [ ] Delete
-- [ ] Edit
+- [x] Edit
 
 ### wiki-de951a25-0913
 
@@ -206,7 +206,7 @@ related: [easter_eggs__life_is_strange_-1272](../wiki-pages-chunks/easter_eggs__
 
 - [ ] Keep
 - [ ] Delete
-- [ ] Edit
+- [x] Edit
 
 ### wiki-41ca2a54-0914
 
@@ -220,7 +220,7 @@ D. To indicate that they are fictitious numbers
 Answer: D
 related: [easter_eggs__life_is_strange_-1320](../wiki-pages-chunks/easter_eggs__life_is_strange_-1320.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -236,7 +236,7 @@ D. Lisa Avena
 Answer: A
 related: [easter_eggs__life_is_strange_-1320](../wiki-pages-chunks/easter_eggs__life_is_strange_-1320.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -252,7 +252,7 @@ D. Coca-Cola
 Answer: A
 related: [easter_eggs__life_is_strange_-1320](../wiki-pages-chunks/easter_eggs__life_is_strange_-1320.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -268,7 +268,7 @@ D. Chloe Price
 Answer: A
 related: [easter_eggs__life_is_strange_-1320](../wiki-pages-chunks/easter_eggs__life_is_strange_-1320.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -284,7 +284,7 @@ D. Amaury Balandier
 Answer: D
 related: [easter_eggs__life_is_strange_-1326](../wiki-pages-chunks/easter_eggs__life_is_strange_-1326.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -300,7 +300,7 @@ D. Sasquatches
 Answer: C
 related: [easter_eggs__life_is_strange_-1326](../wiki-pages-chunks/easter_eggs__life_is_strange_-1326.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -316,7 +316,7 @@ D. Episode 4
 Answer: B
 related: [easter_eggs__life_is_strange_-1326](../wiki-pages-chunks/easter_eggs__life_is_strange_-1326.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -332,7 +332,7 @@ D. "I can't believe I did that again."
 Answer: C
 related: [easter_eggs__life_is_strange_-1326](../wiki-pages-chunks/easter_eggs__life_is_strange_-1326.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -348,7 +348,7 @@ D. The Bigfoots
 Answer: D
 related: [easter_eggs__life_is_strange_-1393](../wiki-pages-chunks/easter_eggs__life_is_strange_-1393.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -364,7 +364,7 @@ D. Episode 5
 Answer: C
 related: [easter_eggs__life_is_strange_-1393](../wiki-pages-chunks/easter_eggs__life_is_strange_-1393.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -380,7 +380,7 @@ D. "I can't believe I did that."
 Answer: A
 related: [easter_eggs__life_is_strange_-1393](../wiki-pages-chunks/easter_eggs__life_is_strange_-1393.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -396,7 +396,7 @@ D. The TARDIS from Doctor Who
 Answer: D
 related: [easter_eggs__life_is_strange_-1419](../wiki-pages-chunks/easter_eggs__life_is_strange_-1419.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -412,7 +412,7 @@ D. River S.
 Answer: B
 related: [easter_eggs__life_is_strange_-1419](../wiki-pages-chunks/easter_eggs__life_is_strange_-1419.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -428,7 +428,7 @@ D. A bird
 Answer: A
 related: [easter_eggs__life_is_strange_-1419](../wiki-pages-chunks/easter_eggs__life_is_strange_-1419.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -444,7 +444,7 @@ D. Thanks for enjoying
 Answer: C
 related: [easter_eggs__life_is_strange_-1419](../wiki-pages-chunks/easter_eggs__life_is_strange_-1419.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -460,7 +460,7 @@ D. Strange Time Travelers
 Answer: A
 related: [easter_eggs__life_is_strange_-1449](../wiki-pages-chunks/easter_eggs__life_is_strange_-1449.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -476,7 +476,7 @@ D. LOOPDAY
 Answer: B
 related: [easter_eggs__life_is_strange_-1449](../wiki-pages-chunks/easter_eggs__life_is_strange_-1449.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -492,7 +492,7 @@ D. 555-388-6020
 Answer: B
 related: [easter_eggs__life_is_strange_-1449](../wiki-pages-chunks/easter_eggs__life_is_strange_-1449.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -508,7 +508,7 @@ D. Rachel Amber
 Answer: B
 related: [easter_eggs__life_is_strange_-1449](../wiki-pages-chunks/easter_eggs__life_is_strange_-1449.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -525,7 +525,7 @@ Answer: A
 related: [easter_eggs__life_is_strange_-1476](../wiki-pages-chunks/easter_eggs__life_is_strange_-1476.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-3503249c-0934
@@ -540,7 +540,7 @@ D. Michel Koch
 Answer: D
 related: [easter_eggs__life_is_strange_-1476](../wiki-pages-chunks/easter_eggs__life_is_strange_-1476.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -556,7 +556,7 @@ D. "Life Is Strange"
 Answer: B
 related: [easter_eggs__life_is_strange_-1476](../wiki-pages-chunks/easter_eggs__life_is_strange_-1476.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -572,7 +572,7 @@ D. Nathan Prescott's Voice
 Answer: B
 related: [easter_eggs__life_is_strange_-1476](../wiki-pages-chunks/easter_eggs__life_is_strange_-1476.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -588,7 +588,7 @@ D. Mark Jefferson's
 Answer: C
 related: [easter_eggs__life_is_strange_-1476](../wiki-pages-chunks/easter_eggs__life_is_strange_-1476.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -604,7 +604,7 @@ D. Episode 3
 Answer: A
 related: [easter_eggs__life_is_strange_-1483](../wiki-pages-chunks/easter_eggs__life_is_strange_-1483.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -621,7 +621,7 @@ Answer: C
 related: [easter_eggs__life_is_strange_-1483](../wiki-pages-chunks/easter_eggs__life_is_strange_-1483.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-76c36e8c-0940
@@ -636,7 +636,7 @@ D. Life Is... So Not Fair
 Answer: D
 related: [easter_eggs__life_is_strange_-1483](../wiki-pages-chunks/easter_eggs__life_is_strange_-1483.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -652,7 +652,7 @@ D. A Hidden Concept Art
 Answer: C
 related: [easter_eggs__life_is_strange_-1484](../wiki-pages-chunks/easter_eggs__life_is_strange_-1484.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -668,7 +668,7 @@ D. Episode 3
 Answer: B
 related: [easter_eggs__life_is_strange_-1484](../wiki-pages-chunks/easter_eggs__life_is_strange_-1484.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -684,7 +684,7 @@ D. Final Fantasy: Spirits Within
 Answer: D
 related: [easter_eggs__life_is_strange_-1484](../wiki-pages-chunks/easter_eggs__life_is_strange_-1484.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -700,7 +700,7 @@ D. Hot Dog Guy
 Answer: C
 related: [easter_eggs__life_is_strange_-1484](../wiki-pages-chunks/easter_eggs__life_is_strange_-1484.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -716,7 +716,7 @@ D. A friend of Max
 Answer: A
 related: [ed](../wiki-pages-chunks/ed.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -732,7 +732,7 @@ D. Personal
 Answer: B
 related: [ed](../wiki-pages-chunks/ed.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -748,7 +748,7 @@ D. "Thank you for your interest..."
 Answer: B
 related: [ed](../wiki-pages-chunks/ed.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -764,7 +764,7 @@ D. Thursday, October 10th, 2013
 Answer: D
 related: [end_of_the_world_party-1009](../wiki-pages-chunks/end_of_the_world_party-1009.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -780,7 +780,7 @@ D. To Meet Mark Jefferson
 Answer: B
 related: [end_of_the_world_party-1009](../wiki-pages-chunks/end_of_the_world_party-1009.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -796,7 +796,7 @@ D. Mr. Graham
 Answer: C
 related: [end_of_the_world_party-1009](../wiki-pages-chunks/end_of_the_world_party-1009.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -812,7 +812,7 @@ D. Victoria Chase
 Answer: D
 related: [end_of_the_world_party-1009](../wiki-pages-chunks/end_of_the_world_party-1009.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -828,7 +828,7 @@ D. Warren Graham
 Answer: C
 related: [end_of_the_world_party-1009](../wiki-pages-chunks/end_of_the_world_party-1009.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -844,7 +844,7 @@ D. Dark Room
 Answer: A
 related: [episodes__life_is_strange_](../wiki-pages-chunks/episodes__life_is_strange_.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -860,7 +860,7 @@ D. Episode 3: Chaos Theory
 Answer: D
 related: [episodes__life_is_strange_](../wiki-pages-chunks/episodes__life_is_strange_.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -876,7 +876,7 @@ D. Out of Time
 Answer: A
 related: [episodes__life_is_strange_](../wiki-pages-chunks/episodes__life_is_strange_.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -892,7 +892,7 @@ D. Episode 1: Chrysalis
 Answer: A
 related: [episodes__life_is_strange_](../wiki-pages-chunks/episodes__life_is_strange_.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -908,7 +908,7 @@ D. Arcadia Bay High School
 Answer: A
 related: [episode_1__chrysalis-1481](../wiki-pages-chunks/episode_1__chrysalis-1481.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -924,7 +924,7 @@ D. Rachel Amber
 Answer: B
 related: [episode_1__chrysalis-1481](../wiki-pages-chunks/episode_1__chrysalis-1481.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -940,7 +940,7 @@ D. Arcadia Bay Dormitory
 Answer: C
 related: [episode_1__chrysalis-1481](../wiki-pages-chunks/episode_1__chrysalis-1481.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -956,7 +956,7 @@ D. Alyssa Anderson
 Answer: A
 related: [episode_1__chrysalis-1481](../wiki-pages-chunks/episode_1__chrysalis-1481.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -972,7 +972,7 @@ D. Michelle Grant
 Answer: A
 related: [episode_1__chrysalis-1481](../wiki-pages-chunks/episode_1__chrysalis-1481.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -988,7 +988,7 @@ D. Crosses
 Answer: A
 related: [episode_1__chrysalis-936](../wiki-pages-chunks/episode_1__chrysalis-936.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1004,7 +1004,7 @@ D. 90/100
 Answer: C
 related: [episode_1__chrysalis-936](../wiki-pages-chunks/episode_1__chrysalis-936.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1020,7 +1020,7 @@ D. Visionary
 Answer: D
 related: [episode_1__chrysalis-936](../wiki-pages-chunks/episode_1__chrysalis-936.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1036,7 +1036,7 @@ D. Moved the plant
 Answer: C
 related: [episode_1__chrysalis___choices-1253](../wiki-pages-chunks/episode_1__chrysalis___choices-1253.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1052,7 +1052,7 @@ D. Ignored the situation
 Answer: A
 related: [episode_1__chrysalis___choices-1253](../wiki-pages-chunks/episode_1__chrysalis___choices-1253.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1069,7 +1069,7 @@ Answer: C
 related: [episode_1__chrysalis___choices-1253](../wiki-pages-chunks/episode_1__chrysalis___choices-1253.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-a7fc41a5-0968
@@ -1084,7 +1084,7 @@ D. Let the bird die
 Answer: D
 related: [episode_1__chrysalis___choices-1253](../wiki-pages-chunks/episode_1__chrysalis___choices-1253.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1100,7 +1100,7 @@ D. Chloe Gets Upset With Max
 Answer: D
 related: [episode_1__chrysalis___choices-1406](../wiki-pages-chunks/episode_1__chrysalis___choices-1406.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1117,7 +1117,7 @@ Answer: D
 related: [episode_1__chrysalis___choices-1406](../wiki-pages-chunks/episode_1__chrysalis___choices-1406.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-fceb0c27-0971
@@ -1132,7 +1132,7 @@ D. Max Cannot Be Suspended In The Principal's Office
 Answer: B
 related: [episode_1__chrysalis___choices-1406](../wiki-pages-chunks/episode_1__chrysalis___choices-1406.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1148,7 +1148,7 @@ D. David Brings Up His Files During His Confrontation With Chloe
 Answer: B
 related: [episode_1__chrysalis___choices-1406](../wiki-pages-chunks/episode_1__chrysalis___choices-1406.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1164,7 +1164,7 @@ D. Joyce Brings Up The Incident As Evidence That Chloe Isn't Responsible
 Answer: B
 related: [episode_1__chrysalis___choices-1406](../wiki-pages-chunks/episode_1__chrysalis___choices-1406.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1180,7 +1180,7 @@ D. They Ignored The Situation
 Answer: B
 related: [episode_1__chrysalis___choices-1410](../wiki-pages-chunks/episode_1__chrysalis___choices-1410.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1197,7 +1197,7 @@ Answer: A
 related: [episode_1__chrysalis___choices-1410](../wiki-pages-chunks/episode_1__chrysalis___choices-1410.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-79c4e292-0976
@@ -1212,7 +1212,7 @@ D. They Stole Something From The RV
 Answer: A
 related: [episode_1__chrysalis___choices-1410](../wiki-pages-chunks/episode_1__chrysalis___choices-1410.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1228,7 +1228,7 @@ D. They Gave The Snow Globe To Victoria
 Answer: B
 related: [episode_1__chrysalis___choices-1410](../wiki-pages-chunks/episode_1__chrysalis___choices-1410.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1244,7 +1244,7 @@ D. She Looks Healthy
 Answer: B
 related: [episode_1__chrysalis___choices-1432](../wiki-pages-chunks/episode_1__chrysalis___choices-1432.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1261,7 +1261,7 @@ Answer: A
 related: [episode_1__chrysalis___choices-1432](../wiki-pages-chunks/episode_1__chrysalis___choices-1432.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-8429ae62-0980
@@ -1276,7 +1276,7 @@ D. It Retains The Original Vandalism
 Answer: D
 related: [episode_1__chrysalis___choices-1432](../wiki-pages-chunks/episode_1__chrysalis___choices-1432.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1293,7 +1293,7 @@ Answer: B
 related: [episode_1__chrysalis___choices-1432](../wiki-pages-chunks/episode_1__chrysalis___choices-1432.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-a0d990c8-0982
@@ -1308,7 +1308,7 @@ D. Chloe Will Declare The Photo To Be Evidence Against David
 Answer: A
 related: [episode_1__chrysalis___choices-1432](../wiki-pages-chunks/episode_1__chrysalis___choices-1432.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1324,7 +1324,7 @@ D. Ms. Grant
 Answer: D
 related: [episode_1__chrysalis___choices-1529](../wiki-pages-chunks/episode_1__chrysalis___choices-1529.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1341,7 +1341,7 @@ Answer: C
 related: [episode_1__chrysalis___choices-1529](../wiki-pages-chunks/episode_1__chrysalis___choices-1529.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-9efe0b56-0985
@@ -1356,7 +1356,7 @@ D. Max Is Suspended
 Answer: B
 related: [episode_1__chrysalis___choices-1529](../wiki-pages-chunks/episode_1__chrysalis___choices-1529.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1374,7 +1374,7 @@ related: [episode_1__chrysalis___choices-1529](../wiki-pages-chunks/episode_1__c
 
 - [ ] Keep
 - [ ] Delete
-- [ ] Edit
+- [x] Edit
 
 ### wiki-195d3e7e-0987
 
@@ -1388,7 +1388,7 @@ D. "Lua" By Bright Eyes
 Answer: C
 related: [episode_1__chrysalis___image_gallery-0](../wiki-pages-chunks/episode_1__chrysalis___image_gallery-0.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1404,7 +1404,7 @@ D. Butterfly
 Answer: A
 related: [episode_1__chrysalis___image_gallery-1369](../wiki-pages-chunks/episode_1__chrysalis___image_gallery-1369.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1420,7 +1420,7 @@ D. Max and Chloe
 Answer: D
 related: [episode_1__chrysalis___image_gallery-1369](../wiki-pages-chunks/episode_1__chrysalis___image_gallery-1369.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1437,7 +1437,7 @@ Answer: C
 related: [episode_1__chrysalis___image_gallery-1369](../wiki-pages-chunks/episode_1__chrysalis___image_gallery-1369.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-5382df3a-0991
@@ -1453,7 +1453,7 @@ Answer: A
 related: [episode_1__chrysalis___image_gallery-1369](../wiki-pages-chunks/episode_1__chrysalis___image_gallery-1369.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-21a3c03e-0992
@@ -1468,7 +1468,7 @@ D. Episode 1: Chrysalis
 Answer: D
 related: [episode_1__chrysalis___image_gallery-1536](../wiki-pages-chunks/episode_1__chrysalis___image_gallery-1536.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1485,7 +1485,7 @@ Answer: C
 related: [episode_1__chrysalis___image_gallery-1536](../wiki-pages-chunks/episode_1__chrysalis___image_gallery-1536.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-b5fe726b-0994
@@ -1501,7 +1501,7 @@ Answer: D
 related: [episode_1__chrysalis___image_gallery-1536](../wiki-pages-chunks/episode_1__chrysalis___image_gallery-1536.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-d73a3380-0995
@@ -1517,7 +1517,7 @@ Answer: B
 related: [episode_1__chrysalis___image_gallery-1536](../wiki-pages-chunks/episode_1__chrysalis___image_gallery-1536.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-9592a1ee-0996
@@ -1532,7 +1532,7 @@ D. Claude Monet
 Answer: A
 related: [episode_1__chrysalis___script-1011](../wiki-pages-chunks/episode_1__chrysalis___script-1011.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1548,7 +1548,7 @@ D. San Francisco Photography Contest
 Answer: C
 related: [episode_1__chrysalis___script-1011](../wiki-pages-chunks/episode_1__chrysalis___script-1011.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1564,7 +1564,7 @@ D. A Trip To Paris
 Answer: C
 related: [episode_1__chrysalis___script-1011](../wiki-pages-chunks/episode_1__chrysalis___script-1011.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1580,7 +1580,7 @@ D. The Art World
 Answer: C
 related: [episode_1__chrysalis___script-1011](../wiki-pages-chunks/episode_1__chrysalis___script-1011.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1596,6 +1596,6 @@ D. Chess Club
 Answer: C
 related: [episode_1__chrysalis___script-1015](../wiki-pages-chunks/episode_1__chrysalis___script-1015.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit

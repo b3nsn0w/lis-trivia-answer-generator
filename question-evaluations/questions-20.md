@@ -13,7 +13,7 @@ Answer: D
 related: [fan_lonely_melody](../wiki-pages-chunks/fan_lonely_melody.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-28e5b9c1-1902
@@ -28,7 +28,7 @@ D. Price-Less Time
 Answer: D
 related: [fan_lonely_melody](../wiki-pages-chunks/fan_lonely_melody.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -45,7 +45,7 @@ Answer: B
 related: [fan_lonely_melody](../wiki-pages-chunks/fan_lonely_melody.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-9970c630-1904
@@ -60,7 +60,7 @@ D. Life Is Strange Fans
 Answer: A
 related: [fan_mt__washington___local_natives_cover](../wiki-pages-chunks/fan_mt__washington___local_natives_cover.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -77,7 +77,7 @@ Answer: D
 related: [fan_mt__washington___local_natives_cover](../wiki-pages-chunks/fan_mt__washington___local_natives_cover.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-b89c8ef2-1906
@@ -92,7 +92,7 @@ D. Riley Hawke
 Answer: A
 related: [fan_mt__washington___local_natives_cover](../wiki-pages-chunks/fan_mt__washington___local_natives_cover.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -109,7 +109,7 @@ Answer: A
 related: [fan_mt__washington___local_natives_cover](../wiki-pages-chunks/fan_mt__washington___local_natives_cover.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-60725c6b-1908
@@ -124,7 +124,7 @@ D. Life Is Strange Fans
 Answer: D
 related: [fan_mt__washington___local_natives_cover](../wiki-pages-chunks/fan_mt__washington___local_natives_cover.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -140,7 +140,7 @@ D. Fan:Fan Music#Campusanis
 Answer: A
 related: [fan_to_all_of_you__campusanis_cover_](../wiki-pages-chunks/fan_to_all_of_you__campusanis_cover_.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -157,7 +157,7 @@ Answer: D
 related: [fan_to_all_of_you__campusanis_cover_](../wiki-pages-chunks/fan_to_all_of_you__campusanis_cover_.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-72073432-1911
@@ -173,7 +173,7 @@ Answer: B
 related: [fan_to_all_of_you__campusanis_cover_](../wiki-pages-chunks/fan_to_all_of_you__campusanis_cover_.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-e3148b8d-1912
@@ -189,7 +189,7 @@ Answer: D
 related: [fan_to_all_of_you__campusanis_cover_](../wiki-pages-chunks/fan_to_all_of_you__campusanis_cover_.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-61cd65ba-1913
@@ -205,7 +205,7 @@ Answer: B
 related: [fan_to_all_of_you__campusanis_cover_](../wiki-pages-chunks/fan_to_all_of_you__campusanis_cover_.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-317cc9da-1914
@@ -220,7 +220,7 @@ D. It Is Completely Burnt Down
 Answer: B
 related: [farmhouse](../wiki-pages-chunks/farmhouse.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -236,7 +236,7 @@ D. The Caulfield Family
 Answer: B
 related: [farmhouse](../wiki-pages-chunks/farmhouse.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -253,7 +253,7 @@ Answer: D
 related: [farmhouse](../wiki-pages-chunks/farmhouse.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-ea65fe06-1917
@@ -269,7 +269,7 @@ Answer: A
 related: [farmhouse](../wiki-pages-chunks/farmhouse.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-ccf392cd-1918
@@ -285,7 +285,7 @@ Answer: D
 related: [feral_interactive](../wiki-pages-chunks/feral_interactive.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-fc5a81b4-1919
@@ -301,7 +301,7 @@ Answer: A
 related: [feral_interactive](../wiki-pages-chunks/feral_interactive.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-fc913197-1920
@@ -317,7 +317,7 @@ Answer: D
 related: [feral_interactive](../wiki-pages-chunks/feral_interactive.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-86260f0d-1921
@@ -333,7 +333,7 @@ Answer: A
 related: [feral_interactive](../wiki-pages-chunks/feral_interactive.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-71637c17-1922
@@ -348,7 +348,7 @@ D. Max's Friend
 Answer: D
 related: [fernando](../wiki-pages-chunks/fernando.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -364,7 +364,7 @@ D. To The Mall
 Answer: C
 related: [fernando](../wiki-pages-chunks/fernando.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -380,7 +380,7 @@ D. Episode 4: Dark Room
 Answer: C
 related: [fernando](../wiki-pages-chunks/fernando.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -397,7 +397,7 @@ Answer: A
 related: [fernando](../wiki-pages-chunks/fernando.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-0b82dd32-1926
@@ -412,7 +412,7 @@ D. "I Want To Be Forgiven"
 Answer: A
 related: [frank_bowers-1317](../wiki-pages-chunks/frank_bowers-1317.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -428,7 +428,7 @@ D. Chloe Price
 Answer: B
 related: [frank_bowers-1317](../wiki-pages-chunks/frank_bowers-1317.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -445,7 +445,7 @@ Answer: C
 related: [frank_bowers-1317](../wiki-pages-chunks/frank_bowers-1317.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-82f9fdd6-1929
@@ -460,7 +460,7 @@ D. A Dog
 Answer: D
 related: [frank_bowers-1317](../wiki-pages-chunks/frank_bowers-1317.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -476,7 +476,7 @@ D. Frank And Pompidou Die
 Answer: D
 related: [frank_bowers-1450](../wiki-pages-chunks/frank_bowers-1450.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -492,7 +492,7 @@ D. Episode 2: Out of Time
 Answer: B
 related: [frank_bowers-1450](../wiki-pages-chunks/frank_bowers-1450.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -508,7 +508,7 @@ D. They All Believe Rachel Is Alive
 Answer: D
 related: [frank_bowers-1450](../wiki-pages-chunks/frank_bowers-1450.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -524,7 +524,7 @@ D. Student
 Answer: A
 related: [frank_bowers-1520](../wiki-pages-chunks/frank_bowers-1520.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -540,7 +540,7 @@ D. Best Friends
 Answer: C
 related: [frank_bowers-1520](../wiki-pages-chunks/frank_bowers-1520.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -556,7 +556,7 @@ D. He Calls The Police
 Answer: A
 related: [frank_bowers-1520](../wiki-pages-chunks/frank_bowers-1520.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -572,7 +572,7 @@ D. He Is A Satanist
 Answer: C
 related: [frank_bowers-1520](../wiki-pages-chunks/frank_bowers-1520.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -588,7 +588,7 @@ D. Pompidou
 Answer: D
 related: [frank_bowers-910](../wiki-pages-chunks/frank_bowers-910.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -604,7 +604,7 @@ D. He Thinks Frank Is A Student At Blackwell
 Answer: C
 related: [frank_bowers-910](../wiki-pages-chunks/frank_bowers-910.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -620,7 +620,7 @@ D. Bigger Dreams
 Answer: C
 related: [frank_bowers-910](../wiki-pages-chunks/frank_bowers-910.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -636,7 +636,7 @@ D. Frank Becomes Very Aggressive
 Answer: D
 related: [frank_bowers-910](../wiki-pages-chunks/frank_bowers-910.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -652,7 +652,7 @@ D. A Gun
 Answer: A
 related: [frank_bowers-910](../wiki-pages-chunks/frank_bowers-910.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -668,7 +668,7 @@ D. To Buy Drugs From Him
 Answer: B
 related: [frank_bowers-953](../wiki-pages-chunks/frank_bowers-953.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -685,7 +685,7 @@ Answer: D
 related: [frank_bowers-953](../wiki-pages-chunks/frank_bowers-953.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-eb7d06d7-1944
@@ -700,7 +700,7 @@ D. He Invites Her Inside
 Answer: B
 related: [frank_bowers-953](../wiki-pages-chunks/frank_bowers-953.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -716,7 +716,7 @@ D. Chloe Is Arrested
 Answer: B
 related: [frank_bowers-953](../wiki-pages-chunks/frank_bowers-953.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -732,7 +732,7 @@ D. Pompidou
 Answer: D
 related: [frank_s_rv-1425](../wiki-pages-chunks/frank_s_rv-1425.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -748,7 +748,7 @@ D. Episode 1: Chrysalis
 Answer: B
 related: [frank_s_rv-1425](../wiki-pages-chunks/frank_s_rv-1425.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -764,7 +764,7 @@ D. A Bone
 Answer: D
 related: [frank_s_rv-1425](../wiki-pages-chunks/frank_s_rv-1425.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -780,7 +780,7 @@ D. A Photo Of Rachel And Frank
 Answer: D
 related: [frank_s_rv-1425](../wiki-pages-chunks/frank_s_rv-1425.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -798,7 +798,7 @@ related: [frank_s_rv-1425](../wiki-pages-chunks/frank_s_rv-1425.txt)
 
 - [ ] Keep
 - [ ] Delete
-- [ ] Edit
+- [x] Edit
 
 ### wiki-2191c3d5-1951
 
@@ -812,7 +812,7 @@ D. Brooke Scott
 Answer: B
 related: [fred_augis](../wiki-pages-chunks/fred_augis.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -828,7 +828,7 @@ D. Sound Design
 Answer: A
 related: [fred_augis](../wiki-pages-chunks/fred_augis.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -844,7 +844,7 @@ D. Horror
 Answer: B
 related: [fred_augis](../wiki-pages-chunks/fred_augis.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -861,7 +861,7 @@ Answer: A
 related: [fred_augis](../wiki-pages-chunks/fred_augis.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-65874c98-1955
@@ -876,7 +876,7 @@ D. Stealth
 Answer: A
 related: [gameplay__life_is_strange_](../wiki-pages-chunks/gameplay__life_is_strange_.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -893,7 +893,7 @@ Answer: C
 related: [gameplay__life_is_strange_](../wiki-pages-chunks/gameplay__life_is_strange_.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-5a5d1cac-1957
@@ -908,7 +908,7 @@ D. Arcadia High School
 Answer: B
 related: [gameplay__life_is_strange_](../wiki-pages-chunks/gameplay__life_is_strange_.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -924,7 +924,7 @@ D. Prescott Bay
 Answer: C
 related: [gameplay__life_is_strange_](../wiki-pages-chunks/gameplay__life_is_strange_.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -940,7 +940,7 @@ D. Nathan Prescott
 Answer: C
 related: [gameplay__life_is_strange_](../wiki-pages-chunks/gameplay__life_is_strange_.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -956,7 +956,7 @@ D. To make fun of Victoria or comfort her
 Answer: B
 related: [game_statistics_playstation-1175](../wiki-pages-chunks/game_statistics_playstation-1175.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -972,7 +972,7 @@ D. He gets a scar during a fight
 Answer: C
 related: [game_statistics_playstation-1175](../wiki-pages-chunks/game_statistics_playstation-1175.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -988,7 +988,7 @@ D. David
 Answer: A
 related: [game_statistics_playstation-1301](../wiki-pages-chunks/game_statistics_playstation-1301.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1004,7 +1004,7 @@ D. Burn them
 Answer: B
 related: [game_statistics_playstation-1305](../wiki-pages-chunks/game_statistics_playstation-1305.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1021,7 +1021,7 @@ Answer: A
 related: [game_statistics_playstation-1305](../wiki-pages-chunks/game_statistics_playstation-1305.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-eee163be-1965
@@ -1036,7 +1036,7 @@ D. Burn them
 Answer: C
 related: [game_statistics_playstation-1305](../wiki-pages-chunks/game_statistics_playstation-1305.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1052,7 +1052,7 @@ D. Let it die
 Answer: D
 related: [game_statistics_playstation-1305](../wiki-pages-chunks/game_statistics_playstation-1305.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1069,7 +1069,7 @@ Answer: C
 related: [game_statistics_playstation-1338](../wiki-pages-chunks/game_statistics_playstation-1338.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-0dc43b8a-1968
@@ -1085,7 +1085,7 @@ Answer: A
 related: [game_statistics_playstation-1338](../wiki-pages-chunks/game_statistics_playstation-1338.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-3b05edc7-1969
@@ -1101,7 +1101,7 @@ Answer: D
 related: [game_statistics_playstation-1338](../wiki-pages-chunks/game_statistics_playstation-1338.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-ed14dfb6-1970
@@ -1117,7 +1117,7 @@ Answer: C
 related: [game_statistics_xbox-1205](../wiki-pages-chunks/game_statistics_xbox-1205.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-897ad0be-1971
@@ -1132,7 +1132,7 @@ D. Took A Photo Of David Harassing Kate
 Answer: B
 related: [game_statistics_xbox-1205](../wiki-pages-chunks/game_statistics_xbox-1205.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1148,7 +1148,7 @@ D. Helped Him
 Answer: A
 related: [game_statistics_xbox-1329](../wiki-pages-chunks/game_statistics_xbox-1329.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1164,7 +1164,7 @@ D. Shared Them Online
 Answer: C
 related: [game_statistics_xbox-1329](../wiki-pages-chunks/game_statistics_xbox-1329.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1180,7 +1180,7 @@ D. Ignored It
 Answer: C
 related: [game_statistics_xbox-1329](../wiki-pages-chunks/game_statistics_xbox-1329.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1196,7 +1196,7 @@ D. Hid It
 Answer: B
 related: [game_statistics_xbox-1329](../wiki-pages-chunks/game_statistics_xbox-1329.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1213,7 +1213,7 @@ Answer: D
 related: [game_statistics_xbox-1401](../wiki-pages-chunks/game_statistics_xbox-1401.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-3d9b49bd-1977
@@ -1229,7 +1229,7 @@ Answer: D
 related: [game_statistics__life_is_strange_-1130](../wiki-pages-chunks/game_statistics__life_is_strange_-1130.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-28b21374-1978
@@ -1245,7 +1245,7 @@ Answer: B
 related: [game_statistics__life_is_strange_-1130](../wiki-pages-chunks/game_statistics__life_is_strange_-1130.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-a1779968-1979
@@ -1260,7 +1260,7 @@ D. Programmer
 Answer: B
 related: [gary_jamroz_palma](../wiki-pages-chunks/gary_jamroz_palma.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1276,7 +1276,7 @@ D. All of the above
 Answer: D
 related: [gary_jamroz_palma](../wiki-pages-chunks/gary_jamroz_palma.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1292,7 +1292,7 @@ D. Prescott Barn
 Answer: C
 related: [gary_jamroz_palma](../wiki-pages-chunks/gary_jamroz_palma.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1309,7 +1309,7 @@ Answer: D
 related: [gary_jamroz_palma](../wiki-pages-chunks/gary_jamroz_palma.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-19b3242f-1983
@@ -1325,7 +1325,7 @@ Answer: C
 related: [gary_jamroz_palma](../wiki-pages-chunks/gary_jamroz_palma.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-e452beef-1984
@@ -1341,7 +1341,7 @@ Answer: B
 related: [gdc_talk_august_2016](../wiki-pages-chunks/gdc_talk_august_2016.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-c57b5470-1985
@@ -1357,7 +1357,7 @@ Answer: A
 related: [gdc_talk_august_2016](../wiki-pages-chunks/gdc_talk_august_2016.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-7591caa8-1986
@@ -1373,7 +1373,7 @@ Answer: A
 related: [gdc_talk_august_2016](../wiki-pages-chunks/gdc_talk_august_2016.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-3081d300-1987
@@ -1389,7 +1389,7 @@ Answer: A
 related: [gdc_talk_august_2016](../wiki-pages-chunks/gdc_talk_august_2016.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-ce39af15-1988
@@ -1405,7 +1405,7 @@ Answer: C
 related: [glass_walls](../wiki-pages-chunks/glass_walls.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-57aca951-1989
@@ -1421,7 +1421,7 @@ Answer: A
 related: [glass_walls](../wiki-pages-chunks/glass_walls.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-2fdb076c-1990
@@ -1436,7 +1436,7 @@ D. Symbols Of The Eye Of Providence
 Answer: C
 related: [glyphs](../wiki-pages-chunks/glyphs.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1452,7 +1452,7 @@ D. La Horde du Contrevent
 Answer: D
 related: [glyphs](../wiki-pages-chunks/glyphs.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1469,7 +1469,7 @@ Answer: B
 related: [glyphs](../wiki-pages-chunks/glyphs.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-a222e854-1993
@@ -1484,7 +1484,7 @@ D. In Max's Journal
 Answer: B
 related: [glyphs](../wiki-pages-chunks/glyphs.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1500,7 +1500,7 @@ D. To Symbolize Wind
 Answer: D
 related: [glyphs](../wiki-pages-chunks/glyphs.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1517,7 +1517,7 @@ Answer: D
 related: [got_well_soon](../wiki-pages-chunks/got_well_soon.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-bac401c5-1996
@@ -1532,7 +1532,7 @@ D. Episode 1: Chrysalis
 Answer: C
 related: [got_well_soon](../wiki-pages-chunks/got_well_soon.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1549,7 +1549,7 @@ Answer: A
 related: [got_well_soon](../wiki-pages-chunks/got_well_soon.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-73224e11-1998
@@ -1565,7 +1565,7 @@ Answer: C
 related: [got_well_soon](../wiki-pages-chunks/got_well_soon.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-4e1fa9f7-1999
@@ -1581,7 +1581,7 @@ Answer: C
 related: [got_well_soon](../wiki-pages-chunks/got_well_soon.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-f9df1988-2000
@@ -1597,5 +1597,5 @@ Answer: A
 related: [harbor_inn](../wiki-pages-chunks/harbor_inn.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit

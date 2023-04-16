@@ -13,7 +13,7 @@ Answer: A
 related: [kate_marsh-1220](../wiki-pages-chunks/kate_marsh-1220.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-defb56df-2102
@@ -28,7 +28,7 @@ D. The Hospital Is A Solid Brick Building
 Answer: D
 related: [kate_marsh-1220](../wiki-pages-chunks/kate_marsh-1220.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -44,7 +44,7 @@ D. Piano
 Answer: B
 related: [kate_marsh-1235](../wiki-pages-chunks/kate_marsh-1235.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -60,7 +60,7 @@ D. He Drugged Her
 Answer: D
 related: [kate_marsh-1235](../wiki-pages-chunks/kate_marsh-1235.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -76,7 +76,7 @@ D. Taylor Christensen
 Answer: D
 related: [kate_marsh-1235](../wiki-pages-chunks/kate_marsh-1235.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -92,7 +92,7 @@ D. Talking To Max
 Answer: B
 related: [kate_marsh-1310](../wiki-pages-chunks/kate_marsh-1310.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -108,7 +108,7 @@ D. A New Video Game
 Answer: C
 related: [kate_marsh-1310](../wiki-pages-chunks/kate_marsh-1310.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -124,7 +124,7 @@ D. Mr. Jefferson
 Answer: A
 related: [kate_marsh-1310](../wiki-pages-chunks/kate_marsh-1310.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -140,7 +140,7 @@ D. Her Car
 Answer: A
 related: [kate_marsh-1310](../wiki-pages-chunks/kate_marsh-1310.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -157,7 +157,7 @@ Answer: C
 related: [kate_marsh-1310](../wiki-pages-chunks/kate_marsh-1310.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-e8c6e4b4-2111
@@ -172,7 +172,7 @@ D. Romans 8:28
 Answer: C
 related: [kate_marsh-1410](../wiki-pages-chunks/kate_marsh-1410.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -189,7 +189,7 @@ Answer: B
 related: [kate_marsh-1410](../wiki-pages-chunks/kate_marsh-1410.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-17500efa-2113
@@ -204,7 +204,7 @@ D. She Throws Herself Off The Roof
 Answer: A
 related: [kate_marsh-1410](../wiki-pages-chunks/kate_marsh-1410.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -220,7 +220,7 @@ D. It Is Cleaned Out And Repurposed
 Answer: C
 related: [kate_marsh-1410](../wiki-pages-chunks/kate_marsh-1410.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -236,7 +236,7 @@ D. Saving Kate's Life
 Answer: D
 related: [kate_marsh-1410](../wiki-pages-chunks/kate_marsh-1410.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -252,7 +252,7 @@ D. Victoria Chase
 Answer: B
 related: [kate_marsh-1418](../wiki-pages-chunks/kate_marsh-1418.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -268,7 +268,7 @@ D. Mrs. Marsh
 Answer: A
 related: [kate_marsh-1418](../wiki-pages-chunks/kate_marsh-1418.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -284,7 +284,7 @@ D. Episode 5: Polarized
 Answer: A
 related: [kate_marsh_gallery-1202](../wiki-pages-chunks/kate_marsh_gallery-1202.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -300,7 +300,7 @@ D. Alyssa Anderson
 Answer: D
 related: [kate_marsh_gallery-1202](../wiki-pages-chunks/kate_marsh_gallery-1202.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -317,7 +317,7 @@ Answer: D
 related: [kate_marsh_gallery-1202](../wiki-pages-chunks/kate_marsh_gallery-1202.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-4fbe3576-2121
@@ -332,7 +332,7 @@ D. The Great Gatsby
 Answer: A
 related: [kate_s_room](../wiki-pages-chunks/kate_s_room.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -348,7 +348,7 @@ D. She Didn't Want To See Herself
 Answer: D
 related: [kate_s_room](../wiki-pages-chunks/kate_s_room.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -364,7 +364,7 @@ D. She Was Kidnapped
 Answer: B
 related: [kate_s_room](../wiki-pages-chunks/kate_s_room.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -380,7 +380,7 @@ D. It Was Too Colorful And Fun
 Answer: A
 related: [kate_s_room](../wiki-pages-chunks/kate_s_room.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -396,7 +396,7 @@ D. Episode 1: Chrysalis
 Answer: A
 related: [kids_will_be_skeletons](../wiki-pages-chunks/kids_will_be_skeletons.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -412,7 +412,7 @@ D. Chloe Price
 Answer: C
 related: [kids_will_be_skeletons](../wiki-pages-chunks/kids_will_be_skeletons.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -429,7 +429,7 @@ Answer: D
 related: [kids_will_be_skeletons](../wiki-pages-chunks/kids_will_be_skeletons.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-f3cf2593-2128
@@ -444,7 +444,7 @@ D. At the end of Episode 3
 Answer: D
 related: [kids_will_be_skeletons](../wiki-pages-chunks/kids_will_be_skeletons.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -460,7 +460,7 @@ D. Max's teacher
 Answer: B
 related: [kristen](../wiki-pages-chunks/kristen.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -476,7 +476,7 @@ D. To the Fremont Troll
 Answer: D
 related: [kristen](../wiki-pages-chunks/kristen.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -492,7 +492,7 @@ D. Episode 4: Dark Room
 Answer: A
 related: [kristen](../wiki-pages-chunks/kristen.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -509,7 +509,7 @@ Answer: C
 related: [kristen](../wiki-pages-chunks/kristen.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-be8e41b3-2133
@@ -525,7 +525,7 @@ Answer: A
 related: [kristine_prescott](../wiki-pages-chunks/kristine_prescott.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-bf5ab215-2134
@@ -540,7 +540,7 @@ D. India
 Answer: C
 related: [kristine_prescott](../wiki-pages-chunks/kristine_prescott.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -556,7 +556,7 @@ D. She is indifferent towards him
 Answer: A
 related: [kristine_prescott](../wiki-pages-chunks/kristine_prescott.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -572,7 +572,7 @@ D. To drop out of school
 Answer: B
 related: [kristine_prescott](../wiki-pages-chunks/kristine_prescott.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -588,7 +588,7 @@ D. Eugene, OR
 Answer: D
 related: [kroft_gallery](../wiki-pages-chunks/kroft_gallery.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -604,7 +604,7 @@ D. Victoria Chase
 Answer: D
 related: [kroft_gallery](../wiki-pages-chunks/kroft_gallery.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -620,7 +620,7 @@ D. It is not compatible with the gallery's mission statement
 Answer: D
 related: [kroft_gallery](../wiki-pages-chunks/kroft_gallery.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -636,7 +636,7 @@ D. It's amazing and should have been accepted
 Answer: C
 related: [kroft_gallery](../wiki-pages-chunks/kroft_gallery.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -652,7 +652,7 @@ D. A photographer whose work is displayed at the gallery
 Answer: B
 related: [kroft_gallery](../wiki-pages-chunks/kroft_gallery.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -668,7 +668,7 @@ D. A character in Life is Strange
 Answer: A
 related: [kumi_tanaka](../wiki-pages-chunks/kumi_tanaka.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -684,7 +684,7 @@ D. Max Caulfield
 Answer: D
 related: [kumi_tanaka](../wiki-pages-chunks/kumi_tanaka.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -700,7 +700,7 @@ D. Life is Strange: True Colors
 Answer: C
 related: [kumi_tanaka](../wiki-pages-chunks/kumi_tanaka.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -716,7 +716,7 @@ D. Life is Strange: The Adventures of Max and Chloe
 Answer: C
 related: [kumi_tanaka](../wiki-pages-chunks/kumi_tanaka.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -733,7 +733,7 @@ Answer: D
 related: [kumi_tanaka](../wiki-pages-chunks/kumi_tanaka.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-cec64f07-2147
@@ -748,7 +748,7 @@ D. Featuring Female Protagonists And Portrayal Of Gay Romance
 Answer: A
 related: [life_is_strange-1020](../wiki-pages-chunks/life_is_strange-1020.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -764,7 +764,7 @@ D. 2 Million
 Answer: A
 related: [life_is_strange-1020](../wiki-pages-chunks/life_is_strange-1020.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -780,7 +780,7 @@ D. 8.9/10
 Answer: B
 related: [life_is_strange-1020](../wiki-pages-chunks/life_is_strange-1020.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -796,7 +796,7 @@ D. A Scandinavian Country
 Answer: B
 related: [life_is_strange-1212](../wiki-pages-chunks/life_is_strange-1212.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -812,7 +812,7 @@ D. Seattle
 Answer: C
 related: [life_is_strange-1212](../wiki-pages-chunks/life_is_strange-1212.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -828,7 +828,7 @@ D. Alberto Mielgo
 Answer: A
 related: [life_is_strange-1212](../wiki-pages-chunks/life_is_strange-1212.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -844,7 +844,7 @@ D. To Convey Emotions More Powerfully
 Answer: B
 related: [life_is_strange-1212](../wiki-pages-chunks/life_is_strange-1212.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -861,7 +861,7 @@ Answer: B
 related: [life_is_strange-1212](../wiki-pages-chunks/life_is_strange-1212.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-d6e33741-2155
@@ -876,7 +876,7 @@ D. Life is Strange
 Answer: C
 related: [life_is_strange-1286](../wiki-pages-chunks/life_is_strange-1286.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -892,7 +892,7 @@ D. It Featured Too Many Action Sequences
 Answer: B
 related: [life_is_strange-1286](../wiki-pages-chunks/life_is_strange-1286.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -908,7 +908,7 @@ D. Superpowers
 Answer: A
 related: [life_is_strange-1305](../wiki-pages-chunks/life_is_strange-1305.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -924,7 +924,7 @@ D. A Tool
 Answer: A
 related: [life_is_strange-1305](../wiki-pages-chunks/life_is_strange-1305.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -941,7 +941,7 @@ Answer: C
 related: [life_is_strange-1305](../wiki-pages-chunks/life_is_strange-1305.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-c95463ed-2160
@@ -956,7 +956,7 @@ D. To Tell A Story About Growing Up
 Answer: D
 related: [life_is_strange-1305](../wiki-pages-chunks/life_is_strange-1305.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -972,7 +972,7 @@ D. The Rewind Mechanism
 Answer: A
 related: [life_is_strange-1305](../wiki-pages-chunks/life_is_strange-1305.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -988,7 +988,7 @@ D. Remember Me
 Answer: C
 related: [life_is_strange-1400](../wiki-pages-chunks/life_is_strange-1400.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1004,7 +1004,7 @@ D. To Save Money On Development Costs
 Answer: C
 related: [life_is_strange-1400](../wiki-pages-chunks/life_is_strange-1400.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1020,7 +1020,7 @@ D. To Showcase The Game's Unique Style And Mood
 Answer: C
 related: [life_is_strange-1400](../wiki-pages-chunks/life_is_strange-1400.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1036,7 +1036,7 @@ D. By Releasing The Episodes Over The Span Of A Year
 Answer: C
 related: [life_is_strange-1400](../wiki-pages-chunks/life_is_strange-1400.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1053,7 +1053,7 @@ Answer: A
 related: [life_is_strange-1502](../wiki-pages-chunks/life_is_strange-1502.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-46a51e2f-2167
@@ -1068,7 +1068,7 @@ D. Kylie Brown
 Answer: B
 related: [life_is_strange-1502](../wiki-pages-chunks/life_is_strange-1502.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1084,7 +1084,7 @@ D. €10 Million
 Answer: B
 related: [life_is_strange-1502](../wiki-pages-chunks/life_is_strange-1502.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1100,7 +1100,7 @@ D. Vampyr
 Answer: C
 related: [life_is_strange-1502](../wiki-pages-chunks/life_is_strange-1502.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1117,7 +1117,7 @@ Answer: C
 related: [life_is_strange-1502](../wiki-pages-chunks/life_is_strange-1502.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-c806289b-2171
@@ -1133,7 +1133,7 @@ Answer: D
 related: [life_is_strange-1530](../wiki-pages-chunks/life_is_strange-1530.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-6044dcbe-2172
@@ -1149,7 +1149,7 @@ Answer: B
 related: [life_is_strange-1530](../wiki-pages-chunks/life_is_strange-1530.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-f4876eb8-2173
@@ -1165,7 +1165,7 @@ Answer: C
 related: [life_is_strange-1536](../wiki-pages-chunks/life_is_strange-1536.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-c6d38aa3-2174
@@ -1180,7 +1180,7 @@ D. Game of the Year
 Answer: B
 related: [life_is_strange-1536](../wiki-pages-chunks/life_is_strange-1536.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1196,7 +1196,7 @@ D. Second
 Answer: C
 related: [life_is_strange-1536](../wiki-pages-chunks/life_is_strange-1536.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1212,7 +1212,7 @@ D. Windows 8
 Answer: C
 related: [life_is_strange-785](../wiki-pages-chunks/life_is_strange-785.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1229,7 +1229,7 @@ Answer: C
 related: [life_is_strange-785](../wiki-pages-chunks/life_is_strange-785.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-9e557d08-2178
@@ -1245,7 +1245,7 @@ Answer: A
 related: [life_is_strange-785](../wiki-pages-chunks/life_is_strange-785.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-09239389-2179
@@ -1261,7 +1261,7 @@ Answer: B
 related: [life_is_strange-785](../wiki-pages-chunks/life_is_strange-785.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-66bd8be3-2180
@@ -1277,7 +1277,7 @@ Answer: A
 related: [life_is_strange-785](../wiki-pages-chunks/life_is_strange-785.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-3fdb6ca0-2181
@@ -1292,7 +1292,7 @@ D. Dark Room
 Answer: B
 related: [life_is_strange-885](../wiki-pages-chunks/life_is_strange-885.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1308,7 +1308,7 @@ D. Out of Time
 Answer: D
 related: [life_is_strange-885](../wiki-pages-chunks/life_is_strange-885.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1324,7 +1324,7 @@ D. Blackwell Academy
 Answer: B
 related: [life_is_strange-885](../wiki-pages-chunks/life_is_strange-885.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1340,7 +1340,7 @@ D. Out of Time
 Answer: B
 related: [life_is_strange-885](../wiki-pages-chunks/life_is_strange-885.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1357,7 +1357,7 @@ Answer: A
 related: [life_is_strange-885](../wiki-pages-chunks/life_is_strange-885.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-dc129cc7-2186
@@ -1373,7 +1373,7 @@ Answer: C
 related: [life_is_strange__mobile_game_-1017](../wiki-pages-chunks/life_is_strange__mobile_game_-1017.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-bbbdef4c-2187
@@ -1389,7 +1389,7 @@ Answer: B
 related: [life_is_strange__mobile_game_-1017](../wiki-pages-chunks/life_is_strange__mobile_game_-1017.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-f6f76521-2188
@@ -1405,7 +1405,7 @@ Answer: D
 related: [life_is_strange__mobile_game_-1017](../wiki-pages-chunks/life_is_strange__mobile_game_-1017.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-3277bcfe-2189
@@ -1421,7 +1421,7 @@ Answer: D
 related: [life_is_strange__mobile_game_-1017](../wiki-pages-chunks/life_is_strange__mobile_game_-1017.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-6e391d55-2190
@@ -1437,7 +1437,7 @@ Answer: B
 related: [life_is_strange__mobile_game_-1017](../wiki-pages-chunks/life_is_strange__mobile_game_-1017.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-dcf3ff00-2191
@@ -1453,7 +1453,7 @@ Answer: C
 related: [life_is_strange__mobile_game_-1365](../wiki-pages-chunks/life_is_strange__mobile_game_-1365.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-2512d32f-2192
@@ -1469,7 +1469,7 @@ Answer: C
 related: [life_is_strange__mobile_game_-1365](../wiki-pages-chunks/life_is_strange__mobile_game_-1365.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-1be5e7c3-2193
@@ -1485,7 +1485,7 @@ Answer: D
 related: [life_is_strange__mobile_game_-1365](../wiki-pages-chunks/life_is_strange__mobile_game_-1365.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-ce076de1-2194
@@ -1501,7 +1501,7 @@ Answer: C
 related: [life_is_strange__mobile_game_-1365](../wiki-pages-chunks/life_is_strange__mobile_game_-1365.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-297485f9-2195
@@ -1516,7 +1516,7 @@ D. June 4, 2018
 Answer: C
 related: [life_is_strange__mobile_game_-1420](../wiki-pages-chunks/life_is_strange__mobile_game_-1420.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1532,7 +1532,7 @@ D. Android Controller Support
 Answer: A
 related: [life_is_strange__mobile_game_-1420](../wiki-pages-chunks/life_is_strange__mobile_game_-1420.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1548,7 +1548,7 @@ D. July 18, 2018
 Answer: D
 related: [life_is_strange__mobile_game_-1420](../wiki-pages-chunks/life_is_strange__mobile_game_-1420.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1564,7 +1564,7 @@ D. Life Is Strange Demo
 Answer: A
 related: [life_is_strange__mobile_game_-1420](../wiki-pages-chunks/life_is_strange__mobile_game_-1420.txt)
 
-- [ ] Keep
+- [x] Keep
 - [ ] Delete
 - [ ] Edit
 
@@ -1581,7 +1581,7 @@ Answer: B
 related: [life_is_strange__mobile_game_-1420](../wiki-pages-chunks/life_is_strange__mobile_game_-1420.txt)
 
 - [ ] Keep
-- [ ] Delete
+- [x] Delete
 - [ ] Edit
 
 ### wiki-2334e968-2200
@@ -1598,4 +1598,4 @@ related: [lighthouse-1233](../wiki-pages-chunks/lighthouse-1233.txt)
 
 - [ ] Keep
 - [ ] Delete
-- [ ] Edit
+- [x] Edit
